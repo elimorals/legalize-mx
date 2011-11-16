@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2008-11-24"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -238,21 +238,25 @@ XLI. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualid
 
 XLII. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
 
-XLIII. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-XLIV. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
+XLIII. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
 
-XLV. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+XLIV. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
 
-XLVI. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
+XLV. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
 
-XLVII. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
+XLVI. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
 
-XLVIII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
+XLVII. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
+
+XLVIII. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
+
+XLIX. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
 
 > <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2008)</small>
 
-XLIX. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
+L. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas forestales con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo.
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y ADMINISTRACION DEL SECTOR PUBLICO FORESTAL
 
@@ -982,9 +986,15 @@ VII. La información económica de la actividad forestal;
 
 VIII. Sobre investigaciones y desarrollo tecnológico;
 
-IX. Sobre organizaciones e instituciones de los sectores social y privado, así como de organismos públicos nacionales e internacionales relacionados con este sector, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-X. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sustentable.
+IX. Sobre organizaciones e instituciones de los sectores social y privado, así como de organismo (sic) públicos nacionales e internacionales relacionados con ese sector;
+
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+X. Sobre proyectos de aprovechamiento forestal que no se basen exclusivamente en la explotación de recursos maderables, y
+
+XI. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sustentable.
 
 Las autoridades federales, estatales y municipales deberán proporcionar al Sistema Nacional de Información Forestal, la información que recaben en el cumplimiento de sus atribuciones.
 
@@ -1006,9 +1016,11 @@ Toda persona tendrá derecho a que las autoridades en materia forestal pongan a 
 
 La Secretaría regulará los procedimientos y metodología a fin de que la Comisión integre el Inventario Nacional Forestal y de Suelos, el cual deberá relacionar de manera organizada y sistemática los datos estadísticos y contables de los bienes y servicios ambientales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 45.
 
-El Inventario Nacional Forestal y de Suelos deberá comprender la siguiente información:
+El Inventario Nacional Forestal y de Suelos será actualizado, por lo menos, cada cinco años y deberá comprender la siguiente información:
 
 I. La superficie y localización de terrenos forestales y preferentemente forestales con que cuenta el país, con el propósito de integrar su información estadística y elaborar su cartografía, en sus distintos niveles de ordenación y manejo;
 
@@ -1022,9 +1034,15 @@ V. La cuantificación de los recursos forestales, que incluya la valoración de 
 
 VI. Los criterios e indicadores de sustentabilidad y degradación de los ecosistemas forestales;
 
-VII. Los inventarios sobre la infraestructura forestal existente, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-VIII. Los demás datos que señale el Reglamento de esta Ley.
+VII. Los inventarios sobre la infraestructura forestal existente;
+
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+VIII. Las áreas forestales con mayor vulnerabilidad a los efectos del cambio climático, y
+
+IX. Los demás datos que señale el Reglamento de esta Ley.
 
 ###### ARTICULO 46.
 
@@ -1034,9 +1052,17 @@ I. La formulación, ejecución, control y seguimiento de programas y acciones en
 
 II. El cálculo del volumen de madera o biomasa forestal en pie, su incremento y el volumen de corta o aprovechamiento potencial;
 
-III. La integración de la zonificación forestal, la ordenación forestal y el ordenamiento ecológico del territorio, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
-IV. La evaluación y seguimiento de los planes a largo, mediano y corto plazo.
+III. La integración de la zonificación forestal, la ordenación forestal y el ordenamiento ecológico del territorio;
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+IV. La evaluación y seguimiento de los planes a largo, mediano y corto plazo, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+V. La elaboración de programas y estrategias de adaptación y mitigación del cambio climático.
 
 En el Reglamento de la presente Ley se determinarán los criterios, metodología y procedimientos para la integración, organización, actualización y monitoreo de los datos que deberá contener el Inventario Nacional Forestal y de Suelos.
 
@@ -1350,7 +1376,9 @@ III. Tratándose de ejidos y comunidades, deberán presentar acta de asamblea de
 
 IV. Plano georeferenciado indicando ubicación, superficie y colindancias del predio;
 
-V. El programa de manejo forestal, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+V. El programa de manejo forestal con una proyección que corresponda a un turno, y
 
 VI. Una manifestación, bajo protesta de decir verdad, de la situación legal del predio o predios y, en su caso, sobre conflictos agrarios.
 
@@ -2365,3 +2393,15 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 D.O.F. 24 DE NOVIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL PARRAFO PRIMERO Y SE ADICIONA UNA FRACCION VIII, RECORRIENDOSE LA SUBSECUENTE EN SU ORDEN, AL ARTICULO 45, Y SE ADICIONA UNA FRACCION V AL ARTICULO 46 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 74, FRACCION V; Y SE ADICIONAN LOS ARTICULOS 7, CON UNA FRACCION XLIII, RECORRIENDOSE LAS SUBSECUENTES EN SU ORDEN, Y 40, CON UNA FRACCION X, RECORRIENDOSE LAS SUBSECUENTES EN SU ORDEN, DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario oficial de la Federación.
