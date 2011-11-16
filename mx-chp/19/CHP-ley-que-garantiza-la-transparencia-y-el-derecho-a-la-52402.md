@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2010-11-17"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS
 
-LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE CHIAPAS
+LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -53,7 +53,9 @@ La presente Ley es de orden público e interés social y tiene por objeto garant
 
 Toda la información a que se refiere esta Ley es pública y solo está sujeta a las reservas temporales que por razones de interés público establece la misma. Los solicitantes tendrán acceso a dicha información en los términos y condiciones que la propia Ley establece.
 
-La información que se refiera a la vida privada de las personas y a sus datos personales, siempre será considerada como confidencial, por lo que no podrá desclasificarse y sin excepción alguna será considerada de acceso restringido, en los términos y condiciones que también fija esta Ley.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+La información de carácter personal es irrenunciable, intransferible e indelegable, y siempre será considerada como confidencial y sin excepción alguna será considerada de acceso restringido, por lo que ninguna autoridad podrá desclasificarla, proporcionarla o hacerla pública, salvo que medie consentimiento expreso del titular.
 
 Solo los servidores públicos de los sujetos obligados, serán responsables de la publicación de la información reservada o confidencial.
 
@@ -73,17 +75,17 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Ley: Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-II. Derecho de Acceso a la Información Pública: La prerrogativa que tiene toda persona, física o moral, para acceder a la información pública de manera gratuita, salvo en lo que se refiere a los costos generados por la reproducción y/o gastos de envío del material que contenga la información solicitada, sin necesidad de identificarse plenamente, acreditar interés alguno o justificar su utilización, así como sin más limitaciones que las expresamente previstas en la Ley;
+II. Derecho de acceso a la información pública: La prerrogativa que tiene toda persona, física o moral, para acceder de manera gratuita a la información generada, administrada o en poder de los Entes Públicos, en los términos previstos en la presente Ley.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-III. Información Pública: La contenida en los documentos, que haya sido generada, recabada, obtenida, adquirida, transformada, conservada y/o administrada por los sujetos obligados, en el ejercicio de sus actividades, funciones, atribuciones o facultades, y que se encuentre bajo su conservación, custodia, resguardo, posesión o control, en los archivos de trámite, concentración, muerto o inactivo e histórico correspondientes;
+III. Información pública: La contenida en los documentos, que haya sido generada, recabada, obtenida, adquirida o transformada que se encuentre en poder de los sujetos obligados y que no haya sido previamente clasificada como de acceso restringido.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-IV. Datos Personales: La información sobre una persona física identificada o identificable mediante números, signos, uno o varios elementos específicos característicos de su identidad física, moral, emocional, fisiológica, psíquica, económica, cultural, étnica, racial, social o relacionada con su vida afectiva y familiar, estado civil, domicilio, número telefónico, patrimonio, ideología y opiniones o convicciones políticas, creencias religiosas o filosóficas, preferencias u orientación sexual, así como cualquier otra análoga que afecte su privacidad e intimidad;
+IV. Datos Personales: La información sobre una persona física identificada o identificable mediante números, signos, uno o varios elementos específicos característicos de su identidad física, moral, emocional, fisiológica, psíquica, económica, cultural, étnica, racial, social o relacionada con su vida afectiva y familiar, estado civil, domicilio, número telefónico, correo electrónico de uso particular, patrimonio, ideología y opiniones o convicciones políticas, creencias religiosas o filosóficas, preferencias u orientación sexual, así como cualquier otra análoga que afecte su privacidad e intimidad.
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -127,13 +129,13 @@ XV. Unidades de Acceso a la Información Pública: Las unidades administrativas 
 
 XVI. Unidades de Enlace: A las oficinas, departamentos y órganos administrativos al interior de los sujetos obligados, responsable de dar trámite a las solicitudes de Acceso a la Información, siendo el responsable de entregar la información a través de los servidores públicos de la Unidad de Acceso a la Información Pública;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-XVII. Portal de Transparencia o Portal: El portal o página de Internet en la que los sujetos obligados divulgarán o publicitarán la información pública de oficio u obligatoria que les corresponda, así como todas las solicitudes de acceso a la información que les presenten y las respuestas correspondientes a cada una de ellas, siendo este medio una vía o forma adecuada de notificación. El Instituto también contará con un portal para dar a conocer sus resoluciones e información general;
+XVII. Portal de Transparencia o Portal: El portal o página de Internet en la que los sujetos obligados divulgarán o publicitarán la información pública de oficio u obligatoria que les corresponda, así como todas las solicitudes de acceso a la información que les presenten y las respuestas correspondientes a cada una de ellas, siendo este medio una vía o forma adecuada de notificación.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-XVIII. Medios Electrónicos: Los sistemas informáticos o computacionales a través de los cuales se podrán presentar las solicitudes de acceso a la información pública, de acceso, rectificación y/o protección de datos personales y el recurso de revisión, si fuera el caso. Los medios electrónicos se encontrarán en las Unidades de Acceso a la Información Pública, serán administrados por ella y cualquier persona podrá tener acceso a ellos en calidad de usuario, a través del Portal de Transparencia;
+XVIII. Medios electrónicos: Los sistemas informáticos o computacionales a través de los cuales se podrán presentar las solicitudes de acceso a la información pública, de acceso, rectificación, protección de datos personales y el recurso de revisión, si fuera el caso.
 
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -183,65 +185,41 @@ XXIX. Servidor Público: La persona física que desempeñe algún empleo, cargo 
 
 XXX. Órgano Autónomo: La Procuraduría General de Justicia del Estado, Comisión de Fiscalización Electoral, Instituto de Elecciones y Participación Ciudadana, la Comisión de los Derechos Humanos del Estado y demás instituciones que la Ley otorgue autonomía y cualquier otro establecido en la Constitución Política del Estado de Chiapas.
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XXXI. Prueba de daño: actuación de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla.
+
 ### Capítulo II. Principios del Acceso a la Información Pública
 
-###### Artículo 4º.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-El derecho a la información pública tendrá los siguientes principios rectores:
+###### Artículo 4°.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+El derecho a la información pública, además de las bases establecidas en el segundo párrafo del artículo 6, de la Constitución Política de los Estados Unidos Mexicanos, tendrá los siguientes principios:
 
-I. La información que haya sido generada, recabada, obtenida, adquirida, transformada y/o administrada por los sujetos obligados, en el ejercicio de sus actividades, funciones, atribuciones o facultades, y que se encuentre bajo su conservación, custodia, resguardo, posesión o control, está sujeta a la máxima publicidad, salvo en los casos que por razones de reserva y confidencialidad establece esta Ley.
+I. El Estado, está obligado a informar sobre el derecho de los ciudadanos al acceso a la información pública y a promover en su interior, el respeto de ese derecho proveyendo lo necesario para su ejercicio.
 
-II. Los sujetos obligados tienen la obligación de publicar la información relacionada con sus actividades y a respetar el derecho de acceso a la información.
+II. El derecho de acceso a la información de los ciudadanos, sólo estará limitado por las excepciones de reserva de información y confidencialidad de datos personales que se fundamente en las disposiciones de esta ley.
 
-III. El Estado, está obligado a informar sobre el derecho de los ciudadanos al acceso a la información pública y a promover en su interior, el respeto de ese derecho proveyendo lo necesario para su ejercicio.
+III. Toda solicitud de información debe atenderse por los servidores públicos de manera expedita y con rapidez.
 
-IV. El derecho de acceso a la información de los ciudadanos, sólo estará limitado por las excepciones de reserva de información y confidencialidad de datos personales que se fundamente en las disposiciones de esta ley.
+IV. El acceso a la información es gratuito, sin embargo, el costo de la reproducción de la información correrá a cargo del solicitante, en los términos de la legislación correspondiente.
 
-V. Toda solicitud de información debe atenderse por los servidores públicos de manera expedita y con rapidez.
+V. El Estado, promoverá la participación de los ciudadanos en los procesos de toma de decisiones públicas.
 
-VI. El acceso a la información es gratuito, sin embargo, el costo de la reproducción de la información correrá a cargo del solicitante, en los términos de la legislación correspondiente.
+VI. La legislación estatal en conjunto, deberá interpretarse armónicamente con la legislación sobre el derecho a la información pública, debiendo prevalecer el principio de máxima publicidad. En caso de conflicto prevalecerá la segunda.
 
-VII. El Estado, promoverá la participación de los ciudadanos en los procesos de toma de decisiones públicas.
+VII. Los ciudadanos que revelen información sobre prácticas ilegales y de corrupción de servidores públicos, serán protegidos de cualquier abuso o represalia que se pretenda cometer en su contra.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+Para la interpretación de esta ley, el derecho de acceso a la información pública se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de los Derechos Civiles y Políticos, la Convención Americana Sobre los Derechos Humanos y demás instrumentos internacionales suscritos y ratificados por el Estado mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales respectivos.
 
-VIII. La legislación estatal en conjunto, deberá interpretarse armónicamente con la legislación sobre el derecho a la información pública, debiendo prevalecer el principio de máxima publicidad. En caso de conflicto prevalecerá la segunda.
+En el caso de que cualquier disposición de la Ley o de los Tratados Internacionales aplicables en la materia pudiera tener varias interpretaciones deberá prevalecer a juicio del Instituto, aquella que proteja con mejor eficacia el derecho de acceso a la información pública.
 
-IX. Los ciudadanos que revelen información sobre prácticas ilegales y de corrupción de servidores públicos, serán protegidos de cualquier abuso o represalia que se pretenda cometer en su contra.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-###### Artículo 5º.
+###### Artículo 5°.
 
-Para ejercer el derecho de acceso a la información pública, no es necesario acreditar derechos subjetivos, interés legítimo o las razones que motiven el pedimento.
-
-###### ARTICULO 4°.
-
-En todo lo no previsto por la presente Ley se aplicarán supletoriamente, los códigos, Civil, y de Procedimientos Civiles para el Estado de San Luis Potosí.
-
-###### ARTICULO 5°.
-
-Para los efectos de la presente Ley, se entenderá por:
-
-I. Autorizado: el notario público a quien el Registro otorga autorización a través de una clave, para realizar trámites vía internet y tener acceso al sistema informático, de conformidad con lo establecido en esta Ley;
-
-II. Código: el Código Civil para el Estado de San Luis Potosí;
-
-III. Código de Procedimientos: el Código de Procedimientos Civiles para el Estado de San Luis Potosí;
-
-IV. Dirección General: la Dirección General del Registro Público de la Propiedad del Estado;
-
-V. Folio registral: el expediente con toda la información referida a un mismo inmueble, mueble o persona moral, considerando a cada uno como una unidad registral con historial jurídico propio, cuya información deberá ser procesada en forma electrónica o en forma manual;
-
-VI. Forma precodificada: el documento que contiene los datos esenciales sobre un acto jurídico susceptible de registro, necesarios para su calificación y, en su caso, inscripción;
-
-VII. Firma electrónica: los datos en forma electrónica que pueden ser usados para identificar al signatario del documento, e indicar que el signatario aprueba la información contenida en éste; y que produce los mismos efectos jurídicos que la firma autógrafa;
-
-VIII. Registro: el Registro Público de la Propiedad;
-
-IX. Reglamento: el Reglamento de la Ley del Registro Público de la Propiedad del Estado, y
-
-X. Secretaría: la Secretaría General de Gobierno.
+Para ejercer el derecho de acceso a la información pública, no es necesario acreditar derechos subjetivos, interés legítimo o las razones que motiven el pedimento, salvo en el caso del derecho a la Protección de Datos Personales y las disposiciones contenidas en la presente ley.
 
 ###### Artículo 6º.
 
@@ -249,23 +227,13 @@ El uso que se haga de la información pública a la que se acceda por los proced
 
 Los interesados deberán abstenerse de causar cualquier daño, a los documentos públicos que le sean mostrados o puestos a su consideración, o de hacer cualquier uso indebido de la información que se les proporcione o utilizarlos para dañar derechos de terceros.
 
-###### Artículo 7º.
+###### Artículo 7°.
 
-La información pública, se proporcionará en el estado en que se encuentre en los archivos de los sujetos obligados en el momento de efectuarse la solicitud.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
-Sólo pueden certificarse copias de documentos, cuando puedan cotejarse directamente con los originales o con copia debidamente certificada del mismo, en cuyo caso deberá expresarse la razón de la certificación.
+###### Artículo 8°.
 
-###### Artículo 8º.
-
-Los sujetos respectivos, no estarán obligados a procesar la información, ni a editarla en formatos especiales o distintos a aquél en que se encuentre la información en su poder, únicamente a hacerlo de acuerdo con sus posibilidades materiales de reproducción. Asimismo, no estarán obligados a realizar evaluaciones, análisis o dictámenes sobre la información que se les solicite en los términos de esta Ley.
-
-###### ARTICULO 7°.
-
-El Registro operará con un programa informático o cualquier otro medio previsto por la Ley, y una base de datos estatal; ésta última integrada por la información respecto de cada inscripción o anotación, a efecto de garantizar la prestación eficiente y segura del mismo.
-
-###### ARTICULO 8°.
-
-El Registro, la Dirección de Catastro de la Secretaría de Finanzas, y los municipios, a través de la dependencia encargada del catastro, establecerán los lineamientos generales para la existencia de una coordinación entre estas entidades, a fin de obtener la certeza en la inscripción y localización de los bienes inscritos, así como en cualquier otra información relativa a los mismos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 9º.
 
@@ -299,17 +267,11 @@ Tanto el Instituto, como las Unidades de Acceso a la Información Pública de to
 
 ### Capítulo I. Del Acceso a la Información
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 14.
 
-Toda persona, tiene derecho a solicitar y recibir información de cualquiera de los sujetos obligados.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
-
-La solicitud podrá hacerse por escrito o a través de medios electrónicos, a menos que las condiciones del solicitante se lo impidan, en cuyo caso será verbal y el sujeto obligado, registrará en un formato los requisitos de la solicitud y procederá a entregar una copia del mismo al interesado.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
-
-Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente; y cuando se realice a través de medios electrónicos, la solicitud se deberá hacer a través del Portal de los sujetos obligados.
+Las Unidades de Acceso a la Información Pública contarán con la infraestructura y los medios tecnológicos necesarios para garantizar el efectivo acceso a la información de las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -343,11 +305,17 @@ VI. Cualquier otro dato que propicie la localización de la información con el 
 
 VII. Modalidad en que prefiere se otorgue la información, en términos del artículo 17, de esta Ley.
 
-Si la solicitud no es precisa o no contiene todos los datos requeridos, las Unidades de Acceso a la Información Pública, a través del Portal, requerirán al solicitante, para que dentro del plazo no mayor de cinco días hábiles siguientes a la presentación de la solicitud, para que en un término igual, complemente o aclare su petición, apercibiéndolo que en caso de no hacerlo, se tendrá por no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 20.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-En todos los casos, se orientará al solicitante respeto del sujeto obligado a quien pueda dirigir su solicitud.
+En todos los casos, se orientará al solicitante respecto del sujeto obligado a quien pueda dirigir su solicitud. Los encargados de proporcionar la información auxiliarán a los solicitantes en la elaboración de las peticiones de acceso a la información, en los casos en que el solicitante no sepa leer ni escribir.
 
-Los encargados de proporcionar la información auxiliarán a los solicitantes en la elaboración de las peticiones de acceso a la información, en los casos en que el solicitante no sepa leer ni escribir.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+Si la solicitud no es precisa o no contiene todos los datos requeridos, las Unidades de Acceso a la Información Pública, a través del Portal, prevendrán al solicitante en un plazo no mayor de diez días hábiles, para que en un término igual y de la misma forma en que se haya presentado la solicitud, complemente o aclare su posición, apercibiéndolo que en caso de no hacerlo, se tendrá por no presentada.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+En caso de que el solicitante no señale el medio en que desee oír y recibir notificaciones, la prevención se notificará por estrados en el portal de transparencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -383,15 +351,11 @@ Si la información solicitada ya está disponible al público en medios impresos
 
 Queda expresamente prohibido para el sujeto obligado o servidor público a cargo, aplicar en el procedimiento de acceso a la información, fórmulas que propicien recabar datos personalísimos del solicitante o que den lugar a indagatorias, sobre las motivaciones del pedido de información y su uso posterior.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 20.
 
-Toda solicitud de información pública, deberá ser resuelta en un plazo no mayor de veinte días hábiles, contados a partir al día siguiente de su presentación; de mediar circunstancias que hagan difícil reunir la información solicitada, el plazo se podrá prorrogar mediante acuerdo, hasta por diez días hábiles más.
-
-Las resoluciones que se dicten en el procedimiento de acceso a la información pública se notificarán por estrados, en el Portal y por medio de correo electrónico si el solicitante lo proporcionó; en caso de no haberlo otorgado, la notificación correspondiente se hará a través del Portal.
-
-Las resoluciones que emita el Instituto se notificarán a través de su estrado, de su Portal y por correo electrónico, en su caso.
+Toda solicitud de información pública, deberá ser resuelta en un plazo no mayor de veinte días hábiles, contados a partir al día siguiente de su presentación; de mediar circunstancias que hagan difícil reunir la información solicitada, excepcionalmente este plazo podrá prorrogarse hasta por un periodo igual.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -449,7 +413,7 @@ Las Unidades de Acceso a la Información Pública, tendrán las siguientes funci
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
-I. Recabar y difundir la información a que se refiere el artículo 37, además se propiciar que las Unidades de Enlace la actualicen periódicamente;
+I. Recabar y difundir la información a que se refiere el artículo 37, además de propiciar que las Unidades de Enlace la actualicen periódicamente;
 
 II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
@@ -467,9 +431,7 @@ VI. Habilitar a los servidores públicos que tengan adscritos para recibir y dar
 
 VII. Llevar un registro de las solicitudes de acceso a la información; y,
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
-
-VIII. Las demás necesarias para garantizar y agilizar la información entre la Unidad de Enlace de los sujetos obligados y los solicitantes.
+VIII. (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2011)
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -527,9 +489,17 @@ IV. Establecer y supervisar la aplicación de los criterios específicos para la
 
 ### Capítulo II. De la Reserva de la Información Pública
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 27.
 
 El ejercicio del derecho de acceso a la información pública, solo será limitado en los términos dispuestos por esta Ley, mediante las figuras de reserva o confidencialidad.
+
+No podrá divulgarse la información clasificada en reserva, salvo en los siguientes supuestos:
+
+I. Cuando antes del cumplimiento del periodo de reserva, dejaren de existir los motivos que justificaban su clasificación.
+
+II. Cuando la información sea necesaria para la defensa de los derechos del solicitante ante los tribunales.
 
 ###### Artículo 28.
 
@@ -539,7 +509,9 @@ I. Cuando se trate de información, cuya divulgación ponga en riesgo la segurid
 
 II. La que comprometa la seguridad, la vida o la salud de cualquier persona;
 
-III. Cuando su divulgación pueda causar perjuicio a las actividades de prevención o persecución de los delitos, la impartición de justicia, la recaudación de las contribuciones;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+III. Cuando su divulgación pueda causar perjuicio a las actividades de prevención o persecución de los delitos, el desarrollo de investigaciones privadas, la impartición de justicia, la recaudación de las contribuciones.
 
 IV. La generada por la realización de un trámite administrativo, que por el estado que guarda, se requiera mantener en reserva hasta la finalización del mismo;
 
@@ -559,17 +531,19 @@ X. La de particulares, recibida por los sujetos obligados con el carácter de re
 
 XI. La que se refiere a los datos individuales de las personas, arrestadas como presuntos responsables de la comisión de algún delito, hasta antes de que sea resuelta la sanción administrativa o la sentencia respectiva.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-XII. Las averiguaciones previas.
+XII. Los expedientes, archivos y documentos que se obtengan producto de las actividades relativas a la prevención, que llevan a cabo las autoridades en materia de seguridad pública y procuración de justicia en el Estado y las averiguaciones previas.
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 XIII. La que se encuentra clasificada por disposición expresa de otra ley, como de acceso prohibido o restringido.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 29.
 
-El acuerdo que clasifique información como reservada deberá estar debidamente fundado y motivado.
+El acuerdo que clasifique información como reservada deberá estar debidamente fundado y motivado, en la que se establecerán los elementos objetivos que permitan identificar un daño presente, probable y específico, al interés público protegido.
 
 ###### Artículo 30.
 
@@ -593,9 +567,19 @@ Solo los servidores públicos serán responsables de la publicación de la infor
 
 ### Capítulo III. De la Información Confidencial
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 33.
 
-Para los efectos de esta Ley, se considera información confidencial los datos personales, en los términos previstos en el artículo 3º, fracciones IV y XII, de esta Ley, los que solo podrán darse a conocer con el consentimiento expreso de la persona.
+Para los efectos de esta Ley, se considera información confidencial:
+
+I. Aquella que se refiera a datos personales y que requieran el consentimiento expreso de las personas para su publicación, distribución o comercialización y cuya divulgación no se encuentre prevista en una Ley.
+
+II. La que refiera al patrimonio de personas morales de derecho privado.
+
+III. La relacionada con el derecho a la vida privada, honor y la propia imagen.
+
+IV. La información que se encuentre protegida por la legislación en materia de derechos de autor o propiedad intelectual.
 
 ###### Artículo 34.
 
@@ -607,9 +591,15 @@ En el caso de que exista una solicitud de acceso que incluya información confid
 
 No se considerará confidencial la información que se halle en los registros públicos o en fuentes de acceso público.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 36.
 
-En la información de carácter confidencial que sea parte de los procesos judiciales, las autoridades competentes, tomarán las previsiones debidas para que dicha información se mantenga restringida y que solo tengan acceso a la misma, las partes involucradas en el proceso judicial respectivo.
+En la información de carácter confidencial que sea parte de los procesos judiciales, las autoridades competentes, se encargarán de adoptar las precauciones necesarias para que dicha información se mantenga bajo reserva; únicamente tendrán acceso a ella, las partes involucradas en el proceso judicial de que se trate.
+
+Para efectos del párrafo anterior, las autoridades que tramiten procesos y procedimientos jurisdiccionales, en el primer acuerdo que dicten dentro del expediente correspondiente, requerirán a las partes su consentimiento para restringir el acceso público a la información confidencial.
+
+La omisión a desahogar el requerimiento efectuado por la autoridad competente, constituirá su negativa para que dicha información sea pública.
 
 ## Título Tercero
 
@@ -637,9 +627,9 @@ V. La estructura orgánica, los servicios públicos que presta, las atribuciones
 
 VI. Los resultados de las auditorias públicas concluidas que no contengan observaciones por solventar o que ya hayan causado estado;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-VII. El nombre, domicilio oficial y correo electrónico institucional de los servidores públicos responsables de las Unidades de Acceso a la Información Pública y de las unidades de enlace;
+VII. El nombre, domicilio oficial y correo electrónico institucional, de los servidores públicos, responsables de las Unidades de Acceso a la Información Pública y de las Unidades de Enlace; así como de los servidores públicos que integran el Comité de cada sujeto obligado.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2008)</small>
 
@@ -659,9 +649,9 @@ e) Las unidades administrativas y contratistas responsables de su ejecución, as
 
 f) Los mecanismos de vigilancia y/o supervisión de la sociedad civil durante el proceso de licitación;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-IX. Las leyes, decretos, reglamentos y demás disposiciones de observancia general, contenidas en el Periódico Oficial del Estado;
+IX. Las leyes, decretos, reglamentos y demás disposiciones de observancia general, contenidas en el Periódico Oficial.
 
 X. Las cuentas públicas del Estado y de los municipios;
 
@@ -697,9 +687,13 @@ Los sujetos obligados deberán preservar sus documentos en archivos administrati
 
 Para tal efecto, expedirán las normas de operación y los lineamientos pertinentes, con el propósito de establecer formatos sencillos, entendibles y claros para la consulta expedita de la información difundida.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 39.
 
-Los sujetos obligados deberán sistematizar la información para facilitar su acceso, procurando su publicación a través de medios electrónicos.
+Los sujetos obligados deberán sistematizar la información para facilitar su acceso, procurando su publicación a través de medios electrónicos, de tal manera que en la información publicada sea comprensible para los usuarios y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
+
+Asimismo deberán señalar en sus portales, los rubros a que se refiere el artículo 37 de la presente Ley y que no les son aplicables.
 
 ###### Artículo 40.
 
@@ -711,21 +705,31 @@ Los sujetos obligados elaborarán anualmente un informe de las actividades reali
 
 ### Capítulo II. Protección de los Datos Personales
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 42.
+
+Los sujetos obligados son responsables de los datos personales que tengan en su poder; con el objeto de evitar su alteración, transmisión, pérdida o acceso no autorizado, deberán adoptar los mecanismos necesarios para su protección y tratamiento, que garanticen la seguridad de los mismos.
 
 Los datos personales en poder de los sujetos obligados, deberán sistematizarse en archivos actualizados de manera permanente y utilizarse exclusivamente para los fines legales para los que fueron creados.
 
-La finalidad del archivo y su utilización deberá especificarse y justificarse. Su creación, deberá ser objeto de una medida de publicidad que permita el conocimiento de la persona interesada, a fin de que ésta, ulteriormente, pueda asegurarse de que:
+Los datos que hayan sido recabados, sistematizados o archivados por parte de los sujetos obligados, podrán ser consultados por la persona interesada, con la finalidad de asegurarse de que:
 
-I. Todos los datos personales reunidos y registrados siguen siendo pertinentes a la finalidad perseguida;
+I. Todos los datos personales reunidos y registrados, siguen siendo pertinentes a la finalidad perseguida.
 
-II. Ninguno de esos datos personales es utilizado o revelado sin su consentimiento, con un propósito incompatible con el que se haya especificado; y,
+II. Ninguno de esos datos personales es utilizado o revelado sin su consentimiento, con un propósito incompatible con el que se haya especificado.
 
-III. El período de conservación de los datos personales no excede del necesario para alcanzar la finalidad con que se han registrado.
+III. El periodo de conservación de los datos personales no exceda del necesario para alcanzar la finalidad con que se han registrado.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 43.
 
-Toda persona que demuestre su identidad tiene derecho a saber si se está procesando información que le concierne, ante los sujetos obligados, a conseguir una comunicación comprensible, a obtener las rectificaciones o supresiones que correspondan cuando los registros sean injustificados o inexactos y a conocer a los destinatarios cuando esta información sea transmitida, permitiéndole saber las razones que motivaron su pedimento.
+Toda persona, previa acreditación de su identidad, tiene derecho a saber si se está procesando información que le concierne ante los sujetos obligados, a conseguir una comunicación comprensible, a obtener las rectificaciones o supresiones que correspondan cuando los registros sean injustificados o inexactos y a conocer a los destinatarios cuando esta información sea transmitida, permitiéndole saber las razones que motivaron su pedimento.
+
+Para efecto de lo anterior, el solicitante al momento de presentar la solicitud respectiva, deberá acreditar su personalidad con el documento oficial respectivo; en caso de no cumplir con dicho requisito o bien la solicitud no sea clara o resulte imprecisa, el interesado tendrá diez días hábiles contados a partir del día siguiente en que realice la solicitud correspondiente, para apersonarse ante la Unidad de Acceso a la Información Pública del sujeto obligado de que se trate, presente el documento que demuestre el interés sobre la información solicitada, o bien aclare su solicitud, según sea el caso, apercibiéndolo que de no hacerlo en dicho plazo, la solicitud se tendrá por no presentada.
+
+El procedimiento para el acceso o corrección de datos personales, se establecerá en el reglamento de la ley, que para tal efecto expida cada sujeto obligado.
 
 ###### Artículo 44.
 
@@ -743,111 +747,41 @@ II. Cuando se transmitan entre los sujetos obligados, siempre y cuando los datos
 
 III. Cuando exista una orden judicial.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo III. Del Recurso de Revisión
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
-
 ###### Artículo 46.
 
-Los solicitantes que se consideren afectados por los actos y resoluciones del Comité o las Unidades de Enlace, por negar, limitar u omitir el acceso a la información pública, podrán promover el recurso ante la Unidad de Acceso a la Información Pública o a través de los medios electrónicos que pongan a disposición los sujetos obligados, dentro de los diez días hábiles siguientes a la fecha de notificación, observando para tal efecto las formalidades previstas en esta Ley.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 47.
 
-El recurso procederá contra lo siguiente:
-
-I. Negativa de información.
-
-II. Información incompleta o inexacta.
-
-III. Entrega en formatos incomprensibles.
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
-
-IV. La omisión o el retraso en la entrega.
-
-V. La negativa a efectuar modificaciones o correcciones a los datos personales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 48.
 
-El recurso podrá presentarse por escrito ante la Unidad de Acceso a la Información Pública de los sujetos obligados o a través de los medios electrónicos, cumpliendo con los siguientes requisitos:
-
-I. Estará dirigido a la autoridad a la que se solicitó la información;
-
-II. El nombre del recurrente y, en su caso, el de su representante legal que acredite su personalidad;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
-
-III. Señalar el medio a través del cual el solicitante pueda recibir notificaciones, mismos que podrán ser:
-
-a) Por correo electrónico; y/o,
-
-b) Por estrados del Instituto.
-
-IV. Precisar el acto u omisión, o la resolución impugnada, la autoridad responsable del mismo y los conceptos de impugnación;
-
-V. Mencionar de manera expresa y clara los hechos en que se funde la impugnación;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
-
-VI. Adjuntar como anexo copia de la resolución o acto que se impugna y de la notificación correspondiente; cuando se trate de actos que no se resolvieron en tiempo, acompañar la solicitud con que se dio inicio al trámite, señalando la fecha que corresponda.
-
-VII. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 49.
 
-El Instituto en la resolución que dé al recurso, deberá:
-
-I. Sobreseer;
-
-II. Confirmar el acto impugnado; o,
-
-III. Revocar total o parcialmente el acto impugnado, debiendo precisar la forma y los términos en que la resolución deba cumplirse.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 50.
 
-Son causas de sobreseimiento del recurso, las siguientes:
-
-I. El desistimiento expreso del recurrente;
-
-II. La modificación o revocación del acto impugnado que deje sin materia el recurso;
-
-III. El fallecimiento del recurrente, o tratándose de personas morales, su disolución;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
-
-IV. Cuando admitido el recurso, aparezca alguna causal de improcedencia en los términos de la presente Ley;
-
-V. Cuando la materia de la impugnación no sea facultad de conocimiento de la autoridad emisora del acto impugnado.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 51.
 
-El recurso será desechado por improcedente cuando:
-
-I. El acto recurrido no corresponda a la materia de acceso a la información o protección de datos personales;
-
-II. Se haya consentido el acto. Se considera el consentimiento del solicitante cuando transcurrido el plazo señalado en el artículo 46, de esta Ley no haya sido impugnado;
-
-III. Se recurra una resolución que no haya sido emitida por el sujeto obligado correspondiente; o,
-
-IV. El acto o la resolución impugnados hubiesen sido consentidos expresamente.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 52.
 
-La resolución que ponga fin al recurso deberá constar por escrito debidamente fundado y motivado.
-
-Cuando la solicitud se haya realizado por medios electrónicos, el recurrente tendrá un plazo de tres días naturales para acusar recibo de la resolución; transcurrido el plazo, se le tendrá como legalmente notificado.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 53.
 
-La persona agraviada, tendrá en todo tiempo el derecho a acudir a los órganos jurisdiccionales para hacer valer lo que a su derecho corresponda. En la resolución del recurso el Instituto deberá señalar los medios por los que pueda impugnarse.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ## Título Cuarto. De las Responsabilidades y Sanciones
 
@@ -879,15 +813,21 @@ En todo momento, si los servidores públicos adscritos a los sujetos obligados a
 
 ## Título Quinto
 
-### Capítulo Único. Del Instituto de Acceso a la Información Pública de la Administración Pública Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+### Capítulo Único. Del Instituto de Acceso a la Información Pública del Estado de Chiapas
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 60.
 
-El Instituto de Acceso a la Información Pública de la Administración Pública Estatal, es un organismo público descentralizado no sectorizable de la referida administración pública estatal, con personalidad jurídica y patrimonio propios, autonomía de gestión, así como, facultades de operación, decisión, resolución, administración, fomento, promoción y sanción en lo concerniente al derecho de acceso a la información pública, a que se encuentran obligados los sujetos previstos en el artículo 2º, de esta ley.
+El Instituto de Acceso a la Información Pública del Estado de Chiapas, es un organismo público descentralizado no sectorizable de la referida administración pública estatal, con personalidad jurídica y patrimonio propios, autonomía de gestión, así como, facultades de operación, decisión, resolución, administración, fomento, promoción y sanción en lo concerniente al derecho de acceso a la información pública, a que se encuentran obligados los sujetos previstos en el artículo 2° de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 61.
 
-El Instituto, estará integrado por tres consejeros, uno de los cuales tendrá el carácter de Consejero General, quién llevará la representación legal del Instituto.
+El Instituto, estará integrado por cinco consejeros, uno de los cuales tendrá el carácter de Consejero General, quien llevará la representación legal del instituto.
 
 Los consejeros, durarán en el ejercicio de su cargo siete años y elegirán por orden alfabético a quien ocupará el cargo de Consejero General para un período de dos años. Los consejeros serán nombrados por el Titular del Poder Ejecutivo del Estado, quienes deberán ser ratificados por el Congreso del Estado, o en su caso por la Comisión Permanente, por mayoría calificada de votos de los diputados presentes. La ratificación o rechazo de la propuesta, se deberá realizar dentro de un plazo de quince días naturales, si el Congreso o la Comisión Permanente, no resuelven dentro de dicho plazo, la propuesta se tendrá por aprobada, si la propuesta formulada fuera rechazada, el ejecutivo deberá realizar una nueva propuesta.
 
@@ -895,21 +835,21 @@ Los consejeros sólo podrán ser removidos de sus funciones cuando transgredan e
 
 El Instituto, para efectos de sus resoluciones, no estará subordinado a autoridad alguna, adoptará sus decisiones con plena independencia y contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 62.
 
 Para ser Consejero se requiere:
 
-I. Ser ciudadano chiapaneco en pleno uso de sus derechos;
+I. Ser ciudadano chiapaneco en pleno uso de sus derechos.
 
-II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación.
 
-III. Contar con título y cédula profesional, preferentemente con estudios de postgrado;
+III. Gozar de reconocido prestigio moral y profesional.
 
-IV. Gozar de reconocido prestigio moral y profesional;
+IV. No ser ni haber sido dirigente de ningún partido o asociación política, ministro de ningún culto religioso, ni titular de alguna dependencia o entidad de los órganos autónomos estatales, cuando menos tres años antes al momento de su designación.
 
-V. No ser ni haber sido dirigente de ningún partido o asociación política, ministro de ningún culto religioso, ni titular de alguna dependencia o entidad de los órganos autónomos estatales, cuando menos tres años antes al momento de su designación; y,
-
-VI. No haber sido condenado por delito doloso.
+V. No haber sido condenado por delito doloso.
 
 ###### Artículo 63.
 
@@ -941,15 +881,17 @@ VII. Supervisar el cumplimiento de las obligaciones de transparencia de los suje
 
 VIII. Verificar la instalación y funcionamiento conforme a esta ley, de las unidades y de los Comités y emitir las observaciones pertinentes;
 
-IX. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+IX. La interpretación de la presente Ley.
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
 X. Promover que los sujetos obligados protejan los datos personales;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-XI. Sustanciar y resolver el recurso;
+XI. Sustanciar y resolver el recurso de revisión.
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1037,15 +979,15 @@ El informe anual será publicado y difundido con amplitud en el portal de cada s
 
 ### Capítulo I. Del Procedimiento de Acceso a la Información Pública
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 70.
 
-Las solicitudes de acceso a la información pública podrán presentarse por escrito ante la Unidad de Acceso a la Información Pública de los sujetos obligados, personalmente o a través de un representante legal.
+Toda persona tiene derecho a solicitar y recibir información de cualquiera de los sujetos obligados.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2008)</small>
+La solicitud podrá presentarse personalmente o a través de un representante legal, por escrito o a través de los medios electrónicos que los sujetos obligados establezcan para tal fin; en todo caso, el sistema generará un acuse de recibo, que será el documento que ampare la recepción de la solicitud, en el cual conste de manera fehaciente la fecha de presentación respectiva. A menos que las condiciones del solicitante se lo impidan, en cuyo caso será verbal y el sujeto obligado registrará en un formato, los requisitos de la solicitud y procederá a entregar una copia del mismo al interesado.
 
-De igual forma, el solicitante podrá presentar su petición de acceso a la información pública por medios electrónicos, a través del sistema que los sujetos obligados establezcan para tal fin. En todo caso el sistema generará un acuse de recibo, que será el documento que ampare la recepción de la solicitud, en el cual conste de manera fehaciente la fecha de presentación respectiva.
+Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente; y cuando se realice a través de medios electrónicos, la solicitud deberá efectuarse, a través del Portal de los sujetos obligados.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1053,7 +995,7 @@ De igual forma, el solicitante podrá presentar su petición de acceso a la info
 
 Una vez que la Unidad de Acceso a la Información Pública de los sujetos obligados, reciba solicitud por parte del solicitante, deberá enviarlo a la unidad de enlace correspondiente que tenga la información y éste deberá realizar lo siguiente:
 
-l. Determinar, si cuenta con la información;
+I. Determinar, si cuenta con la información;
 
 II. Revisar la forma en que se encuentra clasificada la información, o en su caso, proponer la clasificación de la información solicitada;
 
@@ -1069,17 +1011,21 @@ V. Hacer de conocimiento a la Unidad de Acceso a la Información Pública del su
 
 Cuando la solicitud se refiera a la información pública obligatoria que se encuentra permanentemente publicada en el Portal, la Unidad de Enlace, al dar respuesta a la misma, integrará en el formato solicitado siempre que se tenga disponible la información requerida, haciendo del conocimiento del solicitante, para futuras consultas la ubicación de la misma en el Portal del sujeto obligado.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 73.
 
-De ser procedente la solicitud, la Unidad de Enlace proporcionará la información, tal como se encuentra en sus archivos, en consecuencia no estarán obligados a procesarla, resumirla, efectuar cálculos, ni practicar investigaciones, sin que ello implique el incumplimiento alguno a las disposiciones de esta Ley.
+De ser procedente la solicitud, la Unidad de Enlace proporcionará la información pública en el estado en que se encuentre en sus archivos, al momento de efectuarse la solicitud.
+
+Los sujetos respectivos, no estarán obligados a procesar la información, ni a editarla en formatos especiales distintos a aquél en que se encuentre en su poder, únicamente a hacerlo de acuerdo con sus posibilidades materiales de reproducción; asimismo, no estarán obligados a realizar evaluaciones, análisis, resúmenes, dictámenes, ni a practicar investigaciones sobre la información que se les solicite, sin que ello implique el incumplimiento alguno a las disposiciones de esta ley.
+
+Sólo pueden certificarse copias de documentos, cuando puedan cotejarse directamente con los originales o con copia debidamente certificada del mismo, en cuyo caso deberá expresarse la razón de la certificación.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 74.
 
-La Unidad de Enlace correspondiente, deberá remitir el acuerdo de resolución a la Unidad de Acceso a la Información Pública del sujeto obligado, en un plazo no mayor a quince días hábiles, posteriores a la recepción de la solicitud, de no ser así, la Unidad de Acceso a la Información Pública, requerirá al responsable de la Unidad de Enlace, para que a más tardar al día siguiente del requerimiento, remita dicha resolución y de esta manera la Unidad de Acceso a la Información Pública del sujeto obligado, puede cumplir con la notificación, y en su caso, realice la entrega de la información dentro del plazo previsto en el artículo 20, de esta Ley.
+La Unidad de Enlace correspondiente, deberá remitir el acuerdo de resolución a la Unidad de Acceso a la Información Pública del sujeto obligado, en un plazo no mayor a quince días hábiles, posteriores a la recepción de la solicitud, de no ser así, la Unidad de Acceso a la Información Pública, requerirá al responsable de la Unidad de Enlace, para que a más tardar al día siguiente del requerimiento, remita dicha resolución y de esta manera la Unidad de Acceso a la Información Pública del sujeto obligado, pueda cumplir con la notificación, y en su caso, realice la entrega de la información dentro del plazo previsto en el artículo 20, de esta Ley.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1121,115 +1067,75 @@ En caso de que la Unidad de Enlace niegue la información, la entregue incomplet
 
 La Unidad de Acceso a la Información Pública deberá entregar la información al solicitante inmediatamente en la forma que éste la requirió, observando en todos los casos lo dispuesto en el Título Séptimo, Capítulo Único, de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo II. Del Procedimiento del Recurso de Revisión
+### Capítulo II. Del Recurso ante el Instituto
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 81.
 
-El Recurso podrá presentarse por el solicitante de la información que se considere afectado por las resoluciones del Comité o de la Unidad de Enlace, por escrito ante la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente o a través de medio electrónico.
+Los solicitantes que se consideren afectados por los actos y resoluciones del Comité o las Unidades de Enlace, por negar, limitar u omitir el acceso a la información pública, podrán promover el recurso de revisión ante la Unidad de Acceso a la Información Pública por escrito o a través de los medios electrónicos que pongan a disposición los sujetos obligados.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+Para llevar a cabo la substanciación del recurso a que se refiere el presente capítulo, el Instituto deberá observar lo establecido en el Libro Primero, Título Séptimo, de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 ###### Artículo 82.
 
-Cuando el Recurso se interponga por escrito, deberá reunir los requisitos que establece el artículo 48, de esta Ley.
-
-En caso de que el Recurso sea presentado por medio electrónico, a través del sistema que al efecto se establezcan por los sujetos obligados, el recurrente deberá reunir los requisitos que señala el artículo 48, de esta Ley.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 83.
 
-La Unidad de Acceso a la Información Pública del sujeto obligado correspondiente remitirá por medio de oficio o a través de los medios electrónicos, la interposición del recurso y copia del expediente al Instituto, dentro del término de cinco días hábiles contados a partir del día siguiente al de la recepción del recurso. Al mismo tiempo rendirá el informe que la Unidad de Enlace o el Comité respectivo le remita para justificar el acto o resolución que se impugna, precisando la forma en que el Recurso fue presentado.
-
-Para tal efecto, la Unidad de Acceso a la información Pública correspondiente, tan pronto tenga conocimiento de la interposición del recurso, deberá requerir a las Unidades de Enlace o Comités de los sujetos obligados, el informe a que se refiere el párrafo anterior, así como, la documentación que soporte el acto impugnado,
-
-Al emitir copias certificadas del expediente, la Unidad de Acceso a la Información Pública de los sujetos obligados deberá conservar el original para su resguardo.
-
-Cuando por alguna circunstancia el recurso se presente indebidamente ante el Instituto u otra instancia que no sea competente, el personal de éstos deberá orientar al recurrente para que lo presente ante la Unidad de Acceso a la Información Pública del sujeto obligado que corresponda. Lo anterior no interrumpirá el término a que se refiere el artículo 46, de esta Ley.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 84.
 
-El Instituto examinará, ante todo, el escrito de interposición del Recurso; y si encuentra alguno o varios de los motivos de improcedencia que establece el artículo 51, de esta Ley, deberá desecharlo de plano y sin substanciación alguna, comunicando su resolución a la Unidad de Acceso a la Información Pública del sujeto obligado correspondiente y al recurrente.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 85.
 
-Si hubiere irregularidad en el escrito del recurso por no haber satisfecho los requisitos que establece el artículo 48, de la Ley, el Instituto señalará al recurrente un término que no excederá de tres días hábiles, siguientes a la notificación, para que subsane las omisiones o corrija los defectos en que hubiere incurrido, los que se precisarán en el acuerdo relativo.
-
-Si el recurrente no diere cumplimiento a lo dispuesto en el párrafo anterior, se tendrá por no interpuesto el Recurso y se comunicará la resolución a las partes.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 86.
 
-Si el Instituto no encuentra motivo alguno de improcedencia o defecto en el escrito del Recurso, o si fueron subsanadas las deficiencias a que se refiere el artículo anterior, admitirá la impugnación y mandará notificar a las partes el acuerdo relativo.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 87.
 
-Una vez que el Instituto, haya admitido el Recurso respectivo, se seguirá el siguiente procedimiento:
-
-I. El Consejero General mandará turnar en el mismo acuerdo de admisión, el expediente, dentro del término de cinco días hábiles al Consejero ponente que corresponda a efecto de que formule por escrito su proyecto de resolución del recurso.
-
-II. El Consejero ponente tendrá un plazo de diez días hábiles, para elaborar el proyecto de resolución fundada, motivada y relatada como si fuera una sentencia.
-
-III. Una vez concluido lo anterior se pasará copia de dicho proyecto, dentro de los cinco días hábiles, a los demás Consejeros, quedando el expediente a su disposición, para su estudio.
-
-IV. Formulado el proyecto de resolución, se señalará día y hora dentro de los cinco días hábiles siguientes para su discusión y resolución en Pleno.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 88.
 
-Para la resolución del Recurso, el Instituto observará las siguientes reglas:
-
-l. El auto por virtud del cual se turne el expediente del Recurso al Consejero ponente, tendrá efectos de citación a las partes para oír resolución, que se pronunciará dentro del término establecido en las fracciones I, II, III y IV, del artículo anterior, por unanimidad o mayoría de votos.
-
-II. El sentido de la resolución del Recurso deberá ser en los términos establecidos en el artículo 49, de la Ley.
-
-III. Toda resolución del Recurso deberá señalar al recurrente los medios e instancias con que cuenta para impugnarla.
-
-IV. Los asuntos se resolverán en el orden en que se listen.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 89.
 
-Toda resolución que pronuncie el Instituto deberá ser firmada por los tres Consejeros que lo integran, con la intervención del titular de su área jurídica, al momento de que se hubiese aprobado la resolución.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 90.
 
-Una vez emitida la resolución, el Instituto, deberá notificarla a la Unidad de Acceso a la Información Pública y al recurrente en un plazo que no deberá exceder de tres días hábiles.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 91.
 
-El sujeto obligado deberá dar cumplimiento a las resoluciones del Recurso que emita el Instituto, en el entendido que de no hacerlo, éste podrá ejercer la atribución señalada en la fracción XIII del artículo 64, de la Ley.
+El sujeto obligado deberá dar cumplimiento a las resoluciones que emita el Instituto en un término de 10 días hábiles, contados a partir de la notificación de las mismas, en el entendido que de no hacerlo, éste podrá ejercer la atribución señalada en la fracción XIII del artículo 64 de la presente Ley.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2007)</small>
+En caso de mediar circunstancias que dificulten el cumplimiento de la resolución, o bien, la comunicación de su cumplimiento por parte del sujeto obligado, el Instituto podrá conceder una prórroga para el cumplimiento, hasta por un plazo igual al que se refiere el párrafo anterior.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 92.
 
-El derecho de Acceso a la Información Pública es gratuito. Cuando los solicitantes requieran que se entregue la información de acuerdo a lo que establece el artículo 17, de esta Ley, deberán acreditar previamente el pago por concepto de derechos establecidos en las Leyes de Ingresos respectivas.
+Las resoluciones del Instituto serán definitivas. Los interesados afectados podrán promover contra la resolución que le cause agravio, el recurso previsto en el Libro Segundo, Título I, Capítulo I, de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ## Título Séptimo
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo Único. De los Costos de Reproducción y Gastos de Envío
+### Capítulo Único. De los costos de reproducción y gastos de envío
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -1239,11 +1145,15 @@ La reproducción de copias simples o elementos técnicos, debe tener un costo di
 
 Los costos por obtener la información no podrán ser superiores al costo de los materiales utilizados en la reproducción de la misma y al costo del envío.
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 94.
 
-Se entregará o se enviará la información pública una vez cubierto el costo correspondiente, cuando éste proceda. Si se solicitara en un medio electrónico, el solicitante podrá proveer a la Unidad de Acceso a la Información Pública a la que se le solicitó la información, los discos cintas que para el caso se requieran.
+Se entregará o se enviará la información pública una vez cubierto el costo correspondiente cuando este proceda. Si se solicitara en un medio electrónico, el solicitante podrá proveer a la Unidad de Acceso a la Información Pública a la que le solicitó la información los discos, cintas que para el caso requieran.
+
+En caso de que se solicite la expedición de copias simples o certificadas de la información, una vez notificado el costo de la reproducción, el solicitante contará con el plazo de diez días hábiles, para que exhiba el comprobante de pago respectivo. El sujeto obligado tendrá el plazo de cinco días hábiles para hacer entrega de las copias solicitadas a partir de la exhibición a que se refiere el presente artículo.
+
+En caso de que el solicitante no atienda al requerimiento en el plazo establecido, la solicitud se tendrá por no presentada.
 
 ## Transitorios
 
@@ -1263,7 +1173,7 @@ Durante los meses de noviembre y diciembre de 2006, los consejeros realizarán l
 
 Del mismo modo, en el mes de enero de 2007, brindarán dicha capacitación a los integrantes de los comités de información pública.
 
-En el mes de febrero de 2007, los consejeros brindarán a los servidores públicos adscritos a las unidades de Información Pública ya los integrantes de los comités de información pública de las dependencias y entidades, la capacitación necesaria en materia de Acceso a la Información Pública, para que lleven a cabo sus funciones conforme a lo dispuesto en las disposiciones, criterios y principios que les dieron origen.
+En el mes de febrero de 2007, los consejeros brindarán a los servidores públicos adscritos a las unidades de Información Pública y a los integrantes de los comités de información pública de las dependencias y entidades, la capacitación necesaria en materia de Acceso a la Información Pública, para que lleven a cabo sus funciones conforme a lo dispuesto en las disposiciones, criterios y principios que les dieron origen.
 
 Durante los meses de marzo, abril y mayo de 2007, se llevará a cabo la instalación de las unidades de Acceso a la Información y de los comités de información, lo cual deberá ser supervisado por los consejeros, quienes vigilarán que queden debidamente consolidados.
 
@@ -1334,3 +1244,11 @@ P.O. 17 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Por única ocasión, una vez designados los dos Consejeros que sumarán los cinco a que se refiere el artículo 61, que por este Decreto se reforma, sesionarán entre ellos para designar al nuevo Consejero General o, en su caso, para que se ratifique en ese cargo a quien actualmente realiza esas funciones.
+
+Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
