@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2011-06-07"
+last_updated: "2011-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -755,6 +755,10 @@ La Secretaría suscribirá convenios y acuerdos de concertación y coordinación
 Ningún ejemplar de mamífero marino, cualquiera que sea la especie podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, con excepción de la captura que tenga por objeto la investigación científica y la educación superior de instituciones acreditadas.
 
 El promovente de una autorización para la captura de mamíferos marinos a los que se refiere este artículo, deberá entregar a la autoridad correspondiente un protocolo completo que sustente su solicitud. El resto del trámite quedará sujeto a las disposiciones de la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+Para el caso de varamientos de mamíferos marinos se procederá siempre a lo determinado en el “Protocolo de atención para varamiento de mamíferos marinos”.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
 
@@ -1573,3 +1577,11 @@ D.O.F. 7 DE JUNIO DE 2011.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El titular del Poder Ejecutivo Federal en un plazo no mayor de 120 días hábiles, posteriores a la entrada en vigor del presente Decreto, deberá publicar las reformas necesarias al Reglamento de la Ley General de Vida Silvestre.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Titular del Poder Ejecutivo Federal en un plazo no mayor de 180 días posteriores a la entrada en vigor del presente Decreto, deberá publicar las reformas necesarias al Reglamento de la Ley General de Vida Silvestre y el Protocolo de atención para varamiento de mamíferos marinos.
+
+TERCERO. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
