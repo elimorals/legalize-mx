@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2011-10-05"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -463,17 +463,7 @@ VIII.- Llevar a cabo cursos de capacitación al personal de la Administración P
 
 IX.- Participar y opinar en los procesos de adquisición de nuevos equipos y programas de cómputo, vigilando que el equipo a adquirir sea compatible con el existente y que cumpla con los estándares de calidad en el servicio.
 
-E) De Servicios Generales
-
-I.- Planear, coordinar y controlar la administración del servicio y asignación del personal de limpieza y chóferes, a las distintas Dependencias del Gobierno Municipal;
-
-II.- Coordinar y supervisar los servicios de mantenimiento preventivo y correctivo respecto al parque vehicular con que cuenta el Gobierno Municipal;
-
-III.- Mantener relaciones con las distintas Dependencias a fin de detectar deficiencias y áreas de oportunidad en la prestación del servicio, con el objeto de optimizar los recursos económicos y mejorar la calidad del mismo:
-
-IV.- Coordinar y supervisar los servicios privados de vigilancia, que se requieran en las diferentes Áreas o Dependencias Municipales; y
-
-V.- Efectuar el análisis y revisión detallada de la facturación de los servicios de teléfono, agua, gas y energía eléctrica, correspondientes a las distintas Dependencias del Gobierno Municipal.
+E) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2011)
 
 F) De las Áreas Administrativas
 
@@ -491,9 +481,25 @@ VI.- Apoyar las tareas de planeación del Municipio; y
 
 VII.- Proponer programas específicos y proyectos estratégicos que tiendan a la modernización de la Administración Municipal, bajo el esquema de mejora continua y calidad total.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-Para el despacho de los asuntos competencia de la Secretaría de Administración, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Recursos Humanos, Dirección del Servicio Médico y Salud, Dirección de Sistemas, Dirección de Servicios Generales, Dirección de Áreas Administrativas y demás unidades administrativas que resulten necesarias.
+VIII.- Planear, coordinar y controlar la Administración de los servicios internos, además de la asignación del personal de choferes para mensajería interna a las distintas dependencias del Gobierno Municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+IX.- Coordinar y supervisar los servicios privados de vigilancia que se requieren en las diferentes áreas o dependencias del Gobierno Municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+X.- Coordinar y mantener la administración de las oficinas que se encuentran en el cuarto piso del edificio conocido como del estacionamiento, así como del personal de limpieza; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+XI.- Administrar el servicio de telefonía móvil y copiadoras digitales, así como los pagos correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+
+Para el despacho de los asuntos de competencia de la Secretaría de Administración, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Recursos Humanos, Dirección del Servicio Médico y Salud, Dirección de Sistemas, Dirección de Áreas Administrativas y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 28.
 
@@ -1559,9 +1565,9 @@ Para lo no previsto en el presente Reglamento, se atenderá a lo dispuesto por l
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
-Artículo Primero. Las presentes reformas por adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+Artículo Primero. Las presentes reformas por modificación, adición y derogación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo. Se Aprueba el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente escrito.
 
@@ -1575,11 +1581,11 @@ Artículo Sexto. En tanto no sea reformado el capitulo QUINTO, Artículos 9 del 
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-Artículo Séptimo. Hasta en tanto no sea reformado el Reglamento para la Protección del Medio Ambiente y Desarrollo Sustentable para el municipio de San Pedro Garza García, Nuevo León, la Secretaría de Medio Ambiente y Desarrollo Sustentable, será la autoridad competente para aplicar dicho reglamento con las atribuciones conferidas a la Secretaría de Desarrollo Urbano y Ecología, hoy Secretaría de Control Urbano.
+Artículo Séptimo.- Hasta en tanto no sea reformado el Reglamento para la Protección del Medio Ambiente y Desarrollo Sustentable para el municipio de San Pedro Garza García, Nuevo León, la Secretaría de Medio Ambiente y Desarrollo Sustentable, será la autoridad competente para aplicar dicho reglamento con las atribuciones conferidas a la Secretaría de Desarrollo Urbano y Ecología, hoy Secretaría de Control Urbano.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-Artículo Octavo. Hasta en tanto no sea reformado el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el municipio de San Pedro Garza García, Nuevo León, las referencias que en este citado Reglamento se hagan a la Secretaría de Servicios Administrativos, deberán entenderse hechas a la Secretaría del Republicano Ayuntamiento.
+Artículo Octavo.- Hasta en tanto no sea reformado el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el municipio de San Pedro Garza García, Nuevo León, las referencias que en este citado Reglamento se hagan a la Secretaría de Servicios Administrativos, deberán entenderse hechas a la Secretaría del Republicano Ayuntamiento.
 
 De acuerdo a lo anterior, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a consideración de este Órgano Colegiado, la INICIATIVA DE REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA NUEVO LEON en los términos antes indicados, bajo el siguiente:
 
@@ -1631,7 +1637,7 @@ P.O. 12 DE NOVIEMBRE DE 2010.
 
 Artículo Primero.- Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-.
+...
 
 P.O. 27 DE JULIO DE 2011.
 
@@ -1644,3 +1650,9 @@ P.O. 5 DE OCTUBRE DE 2011.
 Artículo Primero.- Las presentes reformas por adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ...
+
+P.O. 16 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- Las presentes reformas por modificación, adición y derogación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+.
