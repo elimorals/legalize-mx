@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2011-10-28"
+last_updated: "2011-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE NOVIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 16 DE NOVIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL ACUERDO G/40/2011 PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 28 DE OCTUBRE DE 2011.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -559,7 +559,11 @@ XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Surest
 
 XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
-XVII. Región Metropolitana: Doce Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana”, “Décimo Primera Sala Regional Metropolitana” y “Décimo Segunda Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+
+XVII. Región Metropolitana: Once Salas que se denominarán, “Primera Sala Regional Metropolitana”, “Segunda Sala Regional Metropolitana”, “Tercera Sala Regional Metropolitana”, “Cuarta Sala Regional Metropolitana”, “Quinta Sala Regional Metropolitana”, “Sexta Sala Regional Metropolitana”, “Séptima Sala Regional Metropolitana”, “Octava Sala Regional Metropolitana”, “Novena Sala Regional Metropolitana”, “Décima Sala Regional Metropolitana” y “Décimo Primera Sala Regional Metropolitana”, todas con sede en la Ciudad de México, Distrito Federal;
 
 XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
 
@@ -2432,3 +2436,9 @@ QUINTO.- Los expedientes recibidos por la Sala Especializada en Resoluciones de 
 SEXTO.- Quedan sin efecto las disposiciones legales emitidas por la Junta de Gobierno y Administración o por el Pleno Jurisdiccional de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
 
 SEPTIMO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Se ordena la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día 1 de diciembre de 2011.
