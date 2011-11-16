@@ -4,7 +4,7 @@ identifier: "LFSV"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-01-05"
-last_updated: "2007-07-26"
+last_updated: "2011-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSV"
 
 LEY FEDERAL DE SANIDAD VEGETAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1994.
 
@@ -1310,11 +1310,11 @@ II. Al que permita o autorice por cualquier medio, el ingreso o movilización de
 
 Al que sin tener la autorización o certificación de la autoridad competente, ordene o ejecute cualquier actividad en materia fitosanitaria, se le impondrá la pena de dos a siete años de prisión y multa de hasta mil días multa (sic).
 
-> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 77.
 
-Al que ostente que un vegetal, sus productos o subproductos o actividad relacionada con sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuenta con la certificación de la autoridad competente, sin comprobarlo, se le impondrá una pena de dos a siete años de prisión y multa de mil quinientos días multa (sic).
+Al que ostente que un vegetal, sus productos o subproductos o actividad relacionada con sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuenta con la certificación de la autoridad competente, sin comprobarlo, se le impondrá una pena de dos a siete años de prisión y multa de hasta mil quinientos días multa.
 
 ## TRANSITORIOS
 
@@ -1343,3 +1343,7 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se reconoce plena validez a los registros, permisos, autorizaciones, certificados y guías expedidos con anterioridad a la fecha de entrada en vigor de este decreto, siempre que se ajusten a las disposiciones que quedan sin efecto.
 
 Artículo Tercero. En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan al presente decreto, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor del presente ordenamiento.
+
+D.O.F. 16 DE NOVIEMBRE DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
