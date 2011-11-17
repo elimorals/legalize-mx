@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2011-04-14"
+last_updated: "2011-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -209,7 +209,7 @@ Las sanciones correspondientes se aplicarán en un período no mayor de tres mes
 
 La denuncia deberá ser presentada ante la Oficialía Mayor del Congreso del Estado, y ésta a su vez la turnará a la brevedad posible a la Secretaría del Congreso, quien citará al denunciante para el efecto de que la ratifique en un término de tres días, contados desde la fecha en que se da por recibida la citación; si el interesado no se presentase a ratificar, la denuncia será archivada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 16.
 
@@ -307,7 +307,7 @@ En el supuesto de que la denuncia o querella se enderece en contra del Procurado
 
 Concluida la averiguación previa y satisfechos los requisitos para el ejercicio de la acción penal, la autoridad investigadora la remitirá al Congreso, y con base en la misma solicitará la declaración de procedencia en contra del servidor público denunciado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 30.
 
@@ -329,7 +329,7 @@ La Comisión Jurisdiccional determinará si subsiste el fuero constitucional cuy
 
 Para los efectos del artículo anterior, la Comisión deberá rendir su dictamen en un plazo de treinta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma. En este caso podrá solicitar al Presidente del Congreso se amplíe el plazo por el término de ocho días hábiles para perfeccionar el dictamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 34.
 
@@ -801,37 +801,37 @@ La contravención a lo dispuesto por el párrafo anterior será causa de respons
 
 Los órganos de control de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos, en el ámbito de sus respectivas competencias y de acuerdo con sus registros, expedirán constancias que acrediten la inexistencia de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
-> <small>(DEROGADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO CUARTO. DE LA REPARACION DE LOS DAÑOS Y PERJUICIOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 95.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 96.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 97.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 98.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 99.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)
 
 ###### ARTICULO 100.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 23 DE DICIEMBRE DE 2004)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, P.O. 23 DE DICIEMBRE DE 2004 Y POR DECRETO 763, P.O. 17 DE NOVIEMBRE DE 2011)
 
 ## TITULO QUINTO. DEL REGISTRO Y EVALUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
@@ -975,7 +975,7 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE DICIEMBRE DE 2004.
 
@@ -1080,3 +1080,9 @@ P.O. 14 DE ABRIL DE 2011.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
