@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-11-10"
+last_updated: "2011-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -305,7 +305,7 @@ V. La condena o absolución que proceda, así como los demás puntos resolutivos
 
 ### CAPITULO III. INTERPRETES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 39.
 
@@ -743,7 +743,7 @@ El cuerpo del delito de los delitos de robo, fraude, abuso de confianza, abigeat
 
 Cuando tratándose de delito de ataques a las vías de comunicación, no fuere posible practicar inspección porque para evitar perjuicios al servicio público haya sido necesario repararlas inmediatamente, el cuerpo del delito se podrá comprobar con las demás pruebas practicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 116.
 
@@ -1001,7 +1001,7 @@ En ambos casos se iniciará la investigación, si el delito denunciado fuere de 
 
 Si el delito es de los que solamente pueden perseguirse por querella de parte, se admitirá la intervención del apoderado jurídico sólo en el caso de que el poder contenga cláusula especial o compruebe que su mandante le dio instrucciones concretas para formular la querella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 153.
 
@@ -1349,7 +1349,7 @@ El tribunal que reciba la consignación del inculpado que haya sido detenido en 
 
 En el caso de que se aboque al conocimiento, le hará saber al detenido que se encuentra a su disposición, que en audiencia pública y dentro del término de cuarenta y ocho horas en presencia de su defensor, se le tomará su declaración preparatoria; para ello fijará día y hora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 181.
 
@@ -1365,7 +1365,7 @@ El juez invariablemente deberá pronunciarse sobre el pedimento del Ministerio P
 
 Si el juez negara la aprehensión, reaprehensión o comparecencia, en su caso, el Ministerio Público adscrito reiterará la petición cuantas veces sea necesario, para lo cual, dentro del plazo de seis meses contados a partir del día siguiente de aquél en que cause estado la resolución, deberá rendir nuevas pruebas y el juez entrará nuevamente al estudio de la causa y se pronunciará sobre el mandamiento solicitado por el Ministerio Público investigador; una vez ofrecidas las pruebas, en su caso, se decretará su recepción con citación del inculpado. Transcurrido el plazo de la última negativa de la autoridad judicial sin que se hubieren ofrecido pruebas, se decretará de oficio el sobreseimiento de la causa.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ANTE LOS TRIBUNALES
 
@@ -2713,49 +2713,111 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; parricidio; aborto; ataque peligroso; secuestro; secuestro express; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; robo calificado; robo equiparado que señala el artículo 195 BIS del Código Penal del Estado; abigeato; extorsión, previsto en los artículos, 212 en sus párrafos segundo y tercero, y 212 BIS del Código Penal del Estado; rebelión; motín, terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el párrafo primero del artículo 293 Bis del Código Penal del Estado; y narcomenudeo, previsto en los artículos 325 y 326 del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves en el Código Penal:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+I. Homicidio por culpa, a que se refiere el artículo 64;
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+II. Homicidio simple intencional, previsto por el artículo 107;
 
-En el caso de robo calificado en la modalidad prevista en la fracción II del artículo 200 del Código Penal para el Estado, sólo se considerará como grave cuando se cometa en casa habitación y el valor de lo robado exceda de cien veces el salario mínimo vigente.
+III. Feminicidio, previsto en el artículo 114 Bis;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+IV. Homicidio calificado, a que se refiere el artículo 123;
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
+V. Parricidio, previsto por el artículo 127;
 
-No se considerará como grave el robo calificado a que se refiere la fracción XII del artículo 200 del Código Penal para el Estado.
+VI. Aborto, a que se refiere el artículo 128;
 
-Tratándose de delitos cometidos con motivo del tránsito de vehículos no se concederá este beneficio al inculpado que hubiese incurrido en delito de abandono de personas si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que producta (sic) efectos similares. Cuando el delito merezca pena alternativa o no privativa de la libertad se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
+VII. Ataque peligroso, previsto por el artículo 131;
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+VIII. Privación ilegal de la libertad, a que se refiere el artículo 134;
 
-Tampoco se concederá libertad provisional bajo caución cuando se trate de los delitos graves cometidos en grado de tentativa. Así como cuando haya oposición del Ministerio público, siempre que éste acredite que el inculpado fue condenado con anterioridad por la comisión de algún delito considerado grave por la ley; haya cometido tres o más delitos dolosos, no graves; o acredite que la libertad del encausado represente un riesgo para el ofendido o para la sociedad, por su conducta precedente.
+IX. Secuestro, previsto por los artículos, 135, 135 Bis, 135 Ter y 136;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+X. Robo de infante, previsto por el artículo 137;
 
-Se concederá al inculpado la libertad sin caución alguna por el juez, cuando el término medio aritmético de la pena de prisión no exceda de tres años, siempre que:
+XI. Tráfico de menores, a que se refiere el artículo 140;
 
-I. No exista riesgo fundado de que pueda sustraerse a la acción de la justicia;
+XII. Asalto, previsto por el artículo 144;
 
-II. Tenga domicilio fijo con antelación no menor de un año, dentro de la jurisdicción de la autoridad que conozca del caso;
+XIII. Exposición al peligro, que señala el artículo 147 Bis;
 
-III. Tenga un trabajo lícito, y
+XIV. Uso ilícito de equipos de radiocomunicación, previsto en el articulo 147 Ter;
 
-IV. Que el inculpado no haya sido condenado por el delito intencional.
+XV. Abuso sexual calificado, a que se refiere el artículo 148;
 
-La presente disposición no será aplicable cuando se trate de los delitos graves señalados en este Código.
+XVI. Violación, a que se refieren los artículos, 150, 152, 153 y 154;
+
+XVII. Corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo, previstos en los artículos, 179 Bis, 180 y 180 Bis;
+
+XVIII. Pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo, a que se refieren los artículos, 182 y 182 Bis;
+
+XIX. Turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo, previsto en el artículo 183;
+
+XX. Lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo, a que se refieren los artículos 184 y 184 Bis;
+
+XXI. Trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo, previsto en los artículos, 187 y 188;
+
+XXII. Lenocinio y trata de personas, previstos en los artículos, 188 Bis, 188 Ter y 188 Quáter;
+
+XXIII. Robo equiparado, a que se refiere el artículo 195 Bis;
+
+XXIV. Robo calificado, que señala el artículo 200, excepto en los casos de las fracciones, II (cuando se cometa en casa habitación y el valor de lo robado exceda de cien veces el salario mínimo vigente) y XII;
+
+XXV. Extorsión, previsto en los artículos, 212 y 212 Bis;
+
+XXVI. Abigeato, a que se refieren los artículos, 216, 219 y 221;
+
+XXVII. Rebelión, que señalan los artículos, 240, 242 y 243;
+
+XXVIII. Motín, previsto en los artículos, 249 y 250;
+
+XXIX. Terrorismo, que señala el artículo 251;
+
+XXX. Asociación delictuosa, previsto en los artículos, 265 y 266;
+
+XXXI. Evasión, a que se refieren los artículos, 268 y 270;
+
+XXXII. Tortura, previsto en el artículo 282;
+
+XXXIII. Deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el artículo 293 Bis;
+
+XXXIV. Ataque a las vías de comunicación y medios de transporte, a que se refieren los artículos, 298 y 299, y
+
+XXXV. Narcomenudeo, previsto en los artículos, 325 y 326.
+
+Tratándose de delitos cometidos con motivo del tránsito de vehículos, no se concederá la libertad bajo caución al inculpado que hubiese incurrido en delito de abandono de personas, si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares.
+
+No se concederá libertad provisional bajo caución cuando se trate de los delitos graves cometidos en grado de tentativa. Ni cuando haya oposición del Ministerio Público, siempre que éste acredite que el inculpado fue condenado con anterioridad por la comisión de algún delito considerado grave por la ley; o que la libertad del encausado represente un riesgo para la víctima u ofendido o para la sociedad, por su conducta precedente.
+
+Tampoco se otorgará libertad caucional al inculpado cuando éste se encuentre sujeto a otro proceso penal anterior, por el delito de robo en el que se le haya dictado auto de formal prisión.
+
+Cuando el delito merezca pena alternativa o no privativa de la libertad, se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 407 BIS. Se concederá al inculpado la libertad sin caución alguna, por el Ministerio Público o por el juez, cuando el término medio aritmético de la pena de prisión no exceda de tres años, siempre que:
+
+I. No se trate de los delitos graves señalados en el artículo anterior;
+
+II. No exista riesgo fundado de que pueda sustraerse a la acción de la justicia;
+
+III. Tenga domicilio fijo con antelación no menor de un año, dentro de la jurisdicción de la autoridad que conozca del caso;
+
+IV. Tenga un trabajo lícito, y
+
+V. No haya sido condenado por delito intencional.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 408.
 
-Cuando en los términos de esta Ley sea procedente, inmediatamente que se solicite la libertad provisional, ésta se decretará en la misma pieza de autos.
+Cuando en los términos de este Código sea procedente, inmediatamente que se solicite la libertad provisional, ésta se decretará en la misma pieza de autos.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
-
-La libertad caucional procesal señalada en el sexto párrafo del artículo anterior, se substanciará de manera incidental, dándose vista al Ministerio Público por el término de veinticuatro horas para que manifieste lo que a su representación interese. Transcurrido ese término el tribunal resolverá lo conducente dentro de las veinticuatro horas siguientes.
+La libertad caucional procesal señalada en el artículo 407, se substanciará de manera incidental, dándose vista al Ministerio Público por el término de veinticuatro horas para que manifieste lo que a su representación interese. Transcurrido ese término, el Tribunal resolverá lo conducente dentro de las veinticuatro horas siguientes.
 
 ###### ARTICULO 409.
 
@@ -3165,7 +3227,7 @@ El incidente sobre separación de autos se substanciará por separado, en la mis
 
 Cuando varios jueces conocieren de procesos cuya separación no hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 459 de este Código.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2002)</small>
 
 ### CAPITULO V. REPARACION DE DAÑO
 
@@ -3229,7 +3291,7 @@ La resolución que se dicte será apelable en efecto devolutivo.
 
 Cuando en el curso del proceso, el inculpado manifieste, conforme a dictámenes periciales, demencia o cualquier otro trastorno mental que requiera tratamiento, se suspenderá el procedimiento en los términos del artículo 450 fracción III, de este Código remitiéndose al procesado a un establecimiento adecuado para su tratamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ## TITULO OCTAVO. EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -3291,7 +3353,7 @@ La práctica de las diligencias que deriven de la función del juzgado de ejecuc
 
 El juez de ejecución podrá proponer a las partes la mediación y la conciliación, como medio para restaurar las relaciones humanas y sociales afectadas por el delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO II. SUSPENSION CONDICIONAL Y SUSTITUCION DE PENAS
 
@@ -3409,7 +3471,7 @@ El juez de ejecución cuidará el debido cumplimiento de las penas de: suspensi�
 
 Cuando en la sentencia se decrete el decomiso de los instrumentos, objetos, dinero y valores relacionados con la comisión del delito, el juez de ejecución cuidará que sean destinados para los fines que se señala en el Código Penal del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO V. EJECUCION DE LAS MEDIDAS DE SEGURIDAD
 
@@ -3441,7 +3503,7 @@ El juez de ejecución amonestará al sentenciado en los términos previstos en e
 
 El juez de ejecución establecerá las modalidades para la ejecución del tratamiento en libertad, trabajo a favor de la comunidad, y vigilancia de la autoridad, en concordancia con las disposiciones del Código Penal del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO VI. DEL TRATAMIENTO PRELIBERACIONAL
 
@@ -3525,7 +3587,7 @@ IV. Cuando el liberado viole las condiciones establecidas en este Ordenamiento, 
 
 El liberado a quien se haya suspendido el tratamiento preliberacional, reingresará al centro de reinserción y deberá cumplir la totalidad de su sentencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO VII. DE LA LIBERTAD PREPARATORIA
 
@@ -3573,7 +3635,7 @@ III. Cuando esté demostrado que el liberado realiza conductas no acordes al tra
 
 IV. Cuando el liberado viole las condiciones establecidas en este Ordenamiento, salvo que la autoridad judicial determine dar una nueva oportunidad, apercibiendo al sentenciado de que en caso de un nuevo incumplimiento se hará efectiva en su totalidad la pena por compurgar.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO VIII. DEL MONITOREO ELECTRONICO A DISTANCIA
 
@@ -3593,7 +3655,7 @@ IV. Si el preliberado deteriora el dispositivo de vigilancia responderá penalme
 
 V. El preliberado deberá informar acerca de la inoperancia o cualquier desperfecto involuntario que llegara a presentar el dispositivo, de lo contrario se podrá dejar sin efecto el beneficio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO IX. DE LA REMISION PARCIAL DE LA PENA
 
@@ -3629,7 +3691,7 @@ III. Cuando esté demostrado que el liberado realiza conductas no acordes al tra
 
 IV. Cuando el liberado viole las condiciones establecidas en este Ordenamiento, salvo que la autoridad judicial determine dar una nueva oportunidad, apercibiendo al sentenciado de que en caso de un nuevo incumplimiento se hará efectiva en su totalidad la pena por compurgar.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO X. REGLAS COMUNES DE LOS BENEFICIOS
 
@@ -3651,7 +3713,7 @@ En caso de revocación de alguno de los beneficios contemplados en el presente T
 
 La autoridad que resuelva la amnistía, el indulto, o el reconocimiento de la inocencia del sentenciado, comunicará su resolución al juez de ejecución, quien realizará las actuaciones necesarias para su cumplimiento y otorgando, en su caso, la libertad al sentenciado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO XI. DEL PROCEDIMIENTO
 
@@ -3675,7 +3737,7 @@ Una vez recibidos los documentos señalados en el artículo anterior, el juez de
 
 La resolución será notificada el día de su emisión a las partes, así como a la Dirección de Prevención y Reinserción Social.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO XII. DE LOS MEDIOS DE IMPUGNACION
 
@@ -3697,7 +3759,7 @@ La apelación podrá interponerse en el acto de la notificación, o por escrito 
 
 Tienen derecho a apelar, el Agente del Ministerio Público, el sentenciado o su defensor. El ofendido o sus legítimos representantes, únicamente podrán hacerlo sobre actos para efecto de la reparación del daño.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
 
 ### CAPITULO XIII. DEL RECURSO DE REVISION
 
@@ -3793,7 +3855,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE JUNIO DE 2002.
 
@@ -3859,7 +3921,7 @@ PRIMERO. Este Decreto en vigor al día siguiente de su publicación en el Perió
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
-DECRETO 705 POR EL QUE SE REFORMA EL ARTICULO 407 EN SU PARRAFO PRIMERO, DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 705 POR EL QUE SE REFORMA EL ARTÍCULO 407 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 30 DE JULIO DE 2011.
 
@@ -3867,7 +3929,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-DECRETO 708 POR EL QUE SE REFORMA EL ARTICULO 247 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 708 POR EL QUE SE REFORMA EL ARTÍCULO 247 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 30 DE JULIO DE 2011.
 
@@ -3894,3 +3956,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
