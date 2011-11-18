@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2010-11-12"
+last_updated: "2011-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1327,6 +1327,10 @@ II. Las comparecencias serán coordinadas y conducidas por la comisión o comisi
 
 III. A su llegada al recinto, el servidor público será recibido por la comisión ante la cual comparece. Si se compareciere ante el Pleno, la Directiva dispondrá el protocolo a seguir;
 
+> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+
+III Bis. El presidente de la comisión, antes de la exposición del compareciente, hará saber a éste que, en términos de los artículos 49, fracción XXI, de la Constitución y 40 de la Ley, se encuentra obligado a decir verdad en la información que rinda; acto seguido, le interrogará de la forma siguiente: "¿Protesta usted decir verdad en cuanto a la información que proporcione y a las respuestas que emita a partir de los cuestionamientos que le formulen los integrantes de este Congreso?", a lo que el compareciente responderá: "Sí, protesto".
+
 IV. El compareciente hará uso de la voz en el momento en que lo indique el presidente de la comisión y expondrá su informe con apoyo de todos los medios que considere pertinentes, a fin de que éste sea lo más completo posible y basado en datos objetivos, el cual no excederá de treinta minutos. Cuando se esté en el caso previsto por la fracción II del artículo 153 de este Reglamento, el compareciente hará llegar al presidente de la comisión respectiva, cuando menos con cuarenta y ocho horas de anticipación, el texto de su exposición. El presidente de la comisión, lo distribuirá a todos los diputados, por lo menos treinta y seis horas antes de la comparecencia;
 
 V. Concluida la exposición, se abrirá el registro de participantes ante la comisión, para lo que se dispondrá de hasta diez minutos. Concluido el registro se abrirá el debate;
@@ -1604,3 +1608,9 @@ G.O. 12 DE NOVIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2011.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
