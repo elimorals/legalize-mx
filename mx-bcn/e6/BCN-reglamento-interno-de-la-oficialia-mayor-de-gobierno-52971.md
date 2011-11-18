@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficialia-mayor-de-gobierno-52971"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-08"
-last_updated: "2008-04-04"
+last_updated: "2011-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICIALIA MAYOR DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO, DEL REGLAMENTO INTERNO DE LA OFICIALIA MAYOR DE GOBIERNO, PUBLICADO EN EL P.O. 18 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de diciembre de 2006.
 
@@ -1282,3 +1284,11 @@ JOSÉ MARÍA VALDEZ MORALES
 P.O. 4 DE ABRIL DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Oficialía Mayor de Gobierno, publicado en el Periódico Oficial del Estado, en fecha 08 de diciembre de 2006.
+
+TERCERO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente ordenamiento, serán resueltos por la unidad administrativa que corresponda, conforme a las atribuciones que este reglamento le confiere.
