@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2010-12-29"
+last_updated: "2011-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1468,9 +1468,9 @@ XI. Procurar la conservación de la salubridad e higiene públicas.
 
 XII. Proveer el buen estado y seguridad de los caminos.
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
-XIII.- Exigir mensualmente a la Tesorería General del Estado, la cuenta de ingresos y egresos, y remitirla al Congreso o a la Diputación Permanente.
+XIII. Exigir mensualmente a la Secretaría de Finanzas del Estado, la cuenta de ingresos y egresos, y remitirla al Congreso o a la Diputación Permanente.
 
 XIV. Cuidar de los fondos públicos que en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a las leyes.
 
@@ -1626,17 +1626,17 @@ La Ley de Ingresos, que a iniciativa del Ejecutivo deberá expedir anualmente el
 
 Las contribuciones al gasto público serán determinadas anualmente por el Congreso del Estado, en forma proporcional y equitativa.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 99.
 
-Para la guarda y distribución de los caudales públicos, habrá una dependencia que se denominará Tesorería General del Estado, a cargo de un Tesorero, que será nombrado y removido libremente por el Gobernador del Estado. Esta dependencia será auxiliada por un organismo administrativo descentralizado y por las administraciones recaudadoras que dependan de éste con arreglo a las leyes del Estado.
+Para la guarda, recaudación y distribución de los caudales públicos, habrá una dependencia que se denominará Secretaría de Finanzas del Estado, cuyo titular será designado por el Gobernador del Estado y deberá ser ratificado por el Congreso o en los recesos por la Diputación Permanente, en ambos casos bastará con la mayoría relativa y podrá ser removido libremente por el Titular del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 100.
 
-Son obligaciones del Tesorero General del Estado:
+Son obligaciones del Secretario de Finanzas del Estado:
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1646,9 +1646,9 @@ I. Glosar las cuentas presentadas por los Recaudadores de Rentas, dando cuenta a
 
 II. Presentar al Congreso del Estado, dentro del término que disponga la Ley, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública, para efectos de su revisión, discusión y aprobación, en su caso.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
-III. Recaudar los ingresos públicos del Estado, con arreglo a las leyes del mismo directamente y/o a través del organismo que se cree para tal efecto.
+III. Recaudar los ingresos públicos del Estado, con arreglo a las leyes del mismo.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1674,23 +1674,23 @@ No se hará ningún gasto que no esté comprendido en el Presupuesto o haya sido
 
 La disponibilidad presupuestal en materia de acceso a la información pública, se regirá por la eficiencia, racionalidad, optimización de recursos e interés social.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 103.
 
-El Tesorero General del Estado deberá exigir a todo servidor público que maneje los caudales del Estado, que constituya caución suficiente a su satisfacción, antes de tomar posesión de su cargo.
+El Secretario de Finanzas del Estado deberá exigir a todo servidor público que maneje caudales del Estado, que constituya caución suficiente a su satisfacción, antes de tomar posesión de su cargo.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 104.
 
-El Ejecutivo sólo podrá expedir órdenes de recaudación por conducto de la Tesorería General del Estado, o en su caso, a través del organismo que se cree para tal efecto.
+El Ejecutivo sólo podrá expedir órdenes de recaudación por conducto de la Secretaría de Finanzas del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 105.
 
-El Gobernador deberá presentar al Congreso, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre del año anterior al del Ejercicio Fiscal que correspondan, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos del Artículo 77 de esta Constitución. El Tesorero General del Estado, deberá comparecer a dar cuenta de los mismos.
+El Gobernador deberá presentar al Congreso, la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre del año anterior al del Ejercicio Fiscal que correspondan, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos del Artículo 77 de esta Constitución. El Secretario de Finanzas del Estado, deberá comparecer a dar cuenta de los mismos.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -4529,3 +4529,15 @@ CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opon
 P.O. 29 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Tesorería General del Estado, se entenderán hechas a la Secretaría de Finanzas del Estado, y las que se hagan al Tesorero General del Estado se entenderán al Secretario de Finanzas del Estado.
+
+TERCERO.- En un plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, se presentarán ante el Congreso Local, las reformas a los ordenamientos aplicables, a efecto de hacer efectiva la aplicación de lo dispuesto en este Decreto.
+
+Hasta en tanto entren en vigor las disposiciones legales a que se refiere el párrafo que antecede, el Servicio de Administración Tributaria del Estado continuará aplicando las disposiciones de la Ley que en este momento lo rige.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
