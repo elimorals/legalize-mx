@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2011-06-21"
+last_updated: "2011-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -395,9 +395,9 @@ XL. Cambiar su sede, provisionalmente, si para ello existe el acuerdo de las dos
 
 XLI. Sesionar por lo menos una vez cada año en la cabecera de algún municipio del norte, centro o sur del Estado, notificando su determinación a los otros dos Poderes;
 
-> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
-XLII. Recibir el informe escrito sobre el estado que guarda la administración pública estatal, que presente el titular del Poder Ejecutivo, así como la comparecencia de éste al finalizar la glosa de dicho informe, en los términos que prevé el artículo 18 bis de esta Ley;
+XLII. Recibir el informe escrito que sobre el estado que guarda la administración pública presente el Ejecutivo, realizar su análisis y, en su caso, conforme a lo dispuesto por esta Ley, solicitar al Gobernador ampliar la información mediante preguntas por escrito, y citar a los Secretarios del Despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad;
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -417,21 +417,19 @@ XLVII. Organizar anualmente, a través de la Comisión Permanente de Equidad, G�
 
 XLVIII. Las demás que le confieran la Constitución Federal, la Constitución local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 18 Bis.
 
-Durante el mes de diciembre de cada año, al finalizar la glosa del informe escrito sobre el estado que guarda la administración estatal, el titular del Poder Ejecutivo comparecerá ante el Congreso, en sesión ordinaria de éste, bajo el procedimiento siguiente:
+Conforme a lo establecido en los artículos 49, fracción XXI, de la Constitución Política del Estado y 18, fracción XLII, de esta Ley, el Congreso podrá solicitar al Gobernador, mediante preguntas por escrito, que amplíe la información relativa al estado que guarda la administración pública.
 
-I. Inicialmente, un diputado por cada partido político con representación en el Congreso, en orden ascendente por el número de legisladores, intervendrá en la tribuna hasta por diez minutos, a efecto de fijar la posición de su organización política y emitir su consideración preliminar en tomo al estado que guarda la administración pública estatal;
+En su caso, la Junta de Coordinación Política determinará el número total de preguntas que formulará el Congreso y el que corresponda a cada Grupo Legislativo, con base en su representatividad respecto del total de diputados.
 
-II. Concluidos los posicionamientos, el Gobernador del Estado hará uso de la tribuna para dar respuesta conjunta a los mismos, en una intervención que no excederá de treinta minutos;
+En un plazo no mayor de quince días hábiles posteriores a la conclusión de la glosa del informe del Ejecutivo, los Grupos Legislativos harán llegar sus preguntas a la Junta de Coordinación Política, la que las integrará y presentará en la sesión inmediata al Pleno mediante un proyecto de punto de acuerdo; si éste fuere aprobado, el Presidente de la Mesa Directiva remitirá las preguntas al Gobernador del Estado.
 
-III. A continuación, los legisladores, en el orden referido por la fracción I, formularán al Ejecutivo preguntas o comentarios sobre el informe hasta por cinco minutos cada uno;
+Las respuestas del Gobernador del Estado se turnarán a los Grupos Legislativos y a las Comisiones Permanentes, para su análisis y conclusiones.
 
-IV. El Gobernador responderá las preguntas o los comentarios de los diputados, en una última intervención de hasta veinte minutos.
-
-En el año en que concluya su período constitucional el Gobernador del Estado, la comparecencia a que se refiere este artículo se celebrará en el mes de noviembre.
+Las preguntas por escrito que, en su caso, formule el Congreso y las respuestas que les recaigan, se publicarán en la Gaceta Legislativa y en la página electrónica del Poder Legislativo.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA
 
@@ -803,13 +801,15 @@ XXIX. Turismo; y
 
 XXX. Vigilancia.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 40.
 
-Los titulares de las dependencias de la administración pública comparecerán ante las Comisiones Permanentes que correspondan, para la glosa del informe anual del Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso, mismo que se comunicará al Gobernador.
+Los Secretarios de Despacho o equivalentes del Gobierno del Estado comparecerán ante las Comisiones Permanentes que correspondan, en caso de ser citados por el Congreso, a efecto de ampliar o precisar lo conducente respecto del informe escrito presentado por el Ejecutivo sobre el estado que guarda la administración pública. En su caso, a propuesta de la Junta de Coordinación Política, el Pleno emitirá el acuerdo en el que se señalen las dependencias cuyos titulares deban comparecer y el calendario correspondiente, mismo que se comunicará al Gobernador.
 
-Igual obligación de comparecer ante Comisiones Permanentes tendrán los titulares de las dependencias y entidades, para dar cuenta del estado que guardan éstas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades. Para ello, el Congreso convocará, por conducto del Gobernador, a propuesta de la Junta de Coordinación Política.
+Igual obligación de comparecer tendrán los titulares de las dependencias y entidades de la Administración Pública, para dar cuenta del estado que guardan éstas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, si fueren convocados por el Congreso, por conducto del Gobernador, a propuesta de la Junta de Coordinación Política.
+
+En los supuestos previstos en los párrafos anteriores, los servidores públicos que comparezcan rendirán sus informes bajo protesta de decir verdad.
 
 ### CAPÍTULO VII. DE LA DIPUTACIÓN PERMANENTE
 
@@ -847,7 +847,7 @@ VIII. Autorizar, con el voto de las dos terceras partes de los Diputados present
 
 IX. Convocar a elecciones extraordinarias, si faltaren a la vez un Diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta ocurra antes de un año para que las elecciones ordinarias se efectúen;
 
-X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
+X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al (sic) cabo tras concluir el receso;
 
 > <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -1352,3 +1352,9 @@ G.O. 21 DE JUNIO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2011.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
