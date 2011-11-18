@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4603
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-23"
-last_updated: "2009-01-23"
+last_updated: "2011-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 23 de agosto de 2005.
 
@@ -33,7 +33,7 @@ CONSIDERANDO.
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
@@ -119,43 +119,43 @@ XVI. Resolver las dudas que se susciten con motivo de la interpretación o aplic
 
 XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Dirección se auxiliará de las unidades administrativas básicas siguientes:
+Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Subdirección Académica.
 
-II. Subdirección de Planeación y Administración.
-
-> <small>(REFORMADA, G.G. 23 DE ENERO DE 2009)</small>
+II. Subdirección de Planeación y Vinculación.
 
 III. División de Ingeniería en Industrias Alimentarias.
 
 IV. División de Licenciatura en Administración.
 
-> <small>(REFORMADA, G.G. 23 DE ENERO DE 2009)</small>
+V. División de Ingeniería en Sistemas Computacionales e Ingeniería Electrónica.
 
-V. División de Ingeniería en Sistemas Computacionales.
+VI. División de Licenciatura en Arquitectura.
 
-> <small>(REFORMADA, G.G. 23 DE ENERO DE 2009)</small>
+VII. Subdirección de Administración y Finanzas.
 
-VI. Departamento de Vinculación.
+El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
 
-> <small>(ADICIONADA, G.G. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADA EN SU DENOMINACIÓN, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
-VII. Departamento de Actividades Culturales y Deportivas.
+### CAPITULO IV. DE LOS SUBDIRECTORES Y JEFES DE DIVISION
 
-El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
-
-### CAPITULO IV. DE LOS SUBDIRECTORES, JEFES DE DIVISION Y DE DEPARTAMENTO
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-Al frente de cada Subdirección, División y Departamento habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
+Al frente de cada Subdirección y División, habrá un Subdirector y un Jefe de División, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 12.
 
-Corresponde a los subdirectores, jefes de división y jefes de departamento:
+Corresponde a los subdirectores y jefes de división:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -185,13 +185,15 @@ XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 XIV. Las demás que les confieren otras disposiciones aplicables y aquellas que les encomiende el Director.
 
-### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y DEPARTAMENTOS
+> <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, G.G. 23 DE ENERO DE 2009)</small>
+### CAPITULO V. DE LAS SUBDIRECCIONES Y DIVISIONES
+
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería en industrias alimentarias, administración e ingeniería en sistemas computacionales, así como coordinar las actividades de control escolar del Tecnológico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras que imparte el Tecnológico, así como coordinar las funciones de control escolar y desarrollo académico.
 
 Quedan adscritas a la Subdirección Académica:
 
@@ -199,7 +201,9 @@ I. División de Ingeniería en Industrias Alimentarias.
 
 II. División de Licenciatura en Administración.
 
-III. División de Ingeniería en Sistemas Computacionales.
+III. División de Ingeniería en Sistemas Computacionales e Ingeniería Electrónica.
+
+IV. División de Licenciatura en Arquitectura.
 
 ###### Artículo 14.
 
@@ -217,51 +221,87 @@ V. Integrar y, en su caso, presidir los órganos colegiados académicos previsto
 
 VI. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Director.
 
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 15.
 
-A la Subdirección de Planeación y Administración le corresponde promover, coordinar, dirigir y controlar las actividades relacionadas con la planeación y evaluación de las funciones del Tecnológico, así como las relativas a los servicios administrativos del Organismo.
+A la Subdirección de Planeación y Vinculación le corresponde promover, coordinar, dirigir y controlar las funciones relacionadas con la planeación, evaluación y vinculación institucional.
+
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
-Corresponde a la Subdirección de Planeación y Administración:
+Corresponde a la Subdirección de Planeación y Vinculación:
 
-I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales del Tecnológico.
+I. Integrar el programa anual de actividades del Tecnológico.
 
-II. Cumplir y hacer cumplir las normas, políticas y procedimientos en materia de administración de recursos humanos, materiales y financieros.
+II. Proyectar la planeación del Tecnológico a corto, mediano y largo plazos (sic), con la participación que corresponda a los titulares de las unidades administrativas del Organismo.
 
-III. Formular conjuntamente con las unidades administrativas del Tecnológico, los programas anuales de adquisiciones, arrendamientos y servicios del Organismo, de acuerdo con las disposiciones legales aplicables.
+III. Proponer criterios y lineamientos para la planeación, presupuestación, organización, control y evaluación de las actividades del Tecnológico.
 
-IV. Proyectar el desarrollo del Tecnológico a corto, mediano y largo plazos, con la participación de las demás unidades administrativas del Organismo.
+IV. Participar, en el ámbito de su competencia, en la evaluación del desempeño del personal docente del Tecnológico.
 
-V. Establecer lineamientos y mecanismos para el seguimiento, control y evaluación de los programas de trabajo del Tecnológico.
+V. Impulsar la vinculación del Tecnológico con los sectores público, social y privado para el cumplimiento de los programas académicos y el beneficio comunitario.
 
-VI. Integrar las propuestas de modificación a la estructura orgánica del Tecnológico, y someterlas a la consideración del Director.
+VI. Integrar, ejecutar y evaluar los programas de vinculación del Tecnológico.
 
-VII. Elaborar los manuales administrativos del Tecnológico con la participación que corresponda a las demás unidades administrativas.
+VII. Proponer modificaciones a los programas de estudio del Tecnológico, a fin de atender las necesidades básicas de formación y capacitación de estudiantes que requiere el sector productivo.
 
-VIII. Coordinar las evaluaciones programático-presupuestales del Tecnológico.
+VIII. Organizar, en coordinación con la Subdirección Académica, conferencias, seminarios, exposiciones, cursos y otras actividades que contribuyan a la formación profesional de los estudiantes del Tecnológico.
 
-IX. Administrar y custodiar los fondos y valores del Tecnológico, en términos de la normatividad aplicable.
+IX. Colaborar con el Patronato del Tecnológico en la gestoría para hacer llegar recursos al Organismo.
 
-X. Elaborar y someter a la consideración del Director el anteproyecto de presupuesto anual de ingresos y de egresos del Tecnológico.
+X. Integrar, operar y mantener actualizado el sistema de información del Tecnológico.
 
-XI. Llevar el inventario de los bienes muebles e inmuebles del Tecnológico, así como vigilar su conservación y mantenimiento.
+XI. Promover y organizar, previa autorización del Director, actividades culturales y deportivas que contribuyan a la formación y desarrollo de la comunidad estudiantil del Tecnológico.
 
-XII. Promover la congruencia de los planes y programas del Tecnológico con las estrategias, objetivos y prioridades del desarrollo estatal.
+XII. Evaluar los programas y actividades del Tecnológico, informando lo conducente al Director.
 
-XIII. Ejecutar los procedimientos y mecanismos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión, y verificar su aplicación.
+XIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
 
-XIV. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto del Tecnológico e informar al Director sobre el comportamiento del mismo.
+> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
 
-XV. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias del personal del Tecnológico.
+###### Artículo 16 Bis.
 
-XVI. Presidir el Comité de Adquisiciones y Servicios del Tecnológico, de acuerdo con la normatividad aplicable.
+Corresponde a la Subdirección de Administración y Finanzas:
 
-XVII. Suscribir contratos derivados de los procesos adquisitivos que lleve a cabo el Tecnológico.
+I. Planear, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales y financieros, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas del Tecnológico, en términos de la normatividad en la materia.
 
-XVIII. Proveer los bienes, materiales y servicios para el desarrollo de las actividades académicas, de investigación y administrativas del Tecnológico.
+II. Cumplir y hacer cumplir las normas, políticas y procedimientos en materia de recursos humanos, materiales, financieros y técnicos del Organismo, vigilando su correcta aplicación.
 
-XIX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Director.
+III. Integrar los anteproyectos de presupuesto de ingresos y de egresos del Tecnológico y someterlos a la consideración del Director, así como realizar la calendarización de los recursos del presupuesto autorizado y tramitar las modificaciones y ampliaciones presupuestales.
+
+IV. Formular conjuntamente con las unidades administrativas del Tecnológico, los programas anuales de adquisiciones, mantenimiento, arrendamiento y servicios generales de los bienes muebles e inmuebles del Tecnológico, en términos de la legislación aplicable.
+
+V. Salvaguardar el patrimonio del Tecnológico, proponiendo medidas para su conservación y mantenimiento.
+
+VI. Coordinar, consolidar y controlar la información sobre el ejercicio del gasto del Tecnológico e informar al Director sobre el comportamiento del mismo.
+
+VII. Tramitar los movimientos de altas, bajas, cambios, permisos, licencias y demás movimientos del personal del Tecnológico, en términos de las disposiciones legales.
+
+VIII. Presidir los Comités de Adquisiciones y Servicios y de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones del Tecnológico, de acuerdo con la normatividad aplicable.
+
+IX. Coordinar y, en su caso, ejecutar los procedimientos de adquisición y arrendamiento de bienes, contratación de servicios, obra pública y servicios relacionados con la misma que requiera el Tecnológico, de acuerdo con la normatividad aplicable.
+
+X. Suscribir los contratos y convenios derivados de los procesos adquisitivos de bienes, arrendamientos, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo con el Director.
+
+XI. Realizar el registro, control, mantenimiento y conservación de los bienes muebles e inmuebles asignados al Tecnológico.
+
+XII. Realizar los registros presupuestales y contables del Tecnológico, de conformidad con las disposiciones aplicables.
+
+XIII. Elaborar los estados financieros del Tecnológico y presentarlos al Director.
+
+XIV. Proveer oportunamente de los bienes y servicios que requiere el funcionamiento del Tecnológico.
+
+XV. Rescindir administrativamente los contratos de adquisición de bienes y de prestación de servicios que haya celebrado el Tecnológico e imponer las sanciones que prevé la legislación en la materia a los proveedores que incurran en el incumplimiento de dichos contratos.
+
+XVI. Promover la capacitación y desarrollo del personal administrativo del Tecnológico.
+
+XVII. Coordinar las acciones de protección civil del Tecnológico, con base en las normas y políticas aplicables.
+
+XVIII. Integrar y someter a la consideración del Director los proyectos de manuales de organización y de procedimientos del Tecnológico.
+
+XIX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
 
 ###### Artículo 17.
 
@@ -307,47 +347,11 @@ XIX. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 ###### Artículo 18.
 
-Corresponde al Departamento de Vinculación:
-
-I. Integrar, ejecutar y evaluar los programas y acciones de vinculación del Tecnológico.
-
-II. Proponer mecanismos de vinculación entre el Tecnológico y los sectores público, social y privado para el cumplimiento de los programas académicos y el beneficio comunitario.
-
-III. Promover la vinculación de los programas académicos del Tecnológico con las necesidades básicas de capacitación del sector productivo.
-
-IV. Promover, en coordinación con la Subdirección Académica, la colocación de egresados del Tecnológico en el mercado laboral.
-
-V. Promover y coordinar la realización de eventos, conferencias, seminarios, exposiciones, concursos y demás actividades que contribuyan a la formación profesional de los estudiantes del Tecnológico.
-
-VI. Difundir los programas académicos, así como los servicios que ofrece el Tecnológico.
-
-VII. Asesorar a los alumnos del Tecnológico en la realización de prácticas profesionales y estadías, así como de las oportunidades para su colocación en el mercado laboral.
-
-VIII. Formar en los educandos una conciencia de responsabilidad y compromiso con la sociedad y de identidad con el Tecnológico.
-
-IX. Fomentar la integración del alumnado en brigadas multidisciplinarias, a fin de involucrarlo en tareas de interés institucional y social.
-
-X. Colaborar con el Patronato del Tecnológico en la gestoría para obtener recursos financieros.
-
-XI. Promover, en coordinación con los sectores público, social y privado, la realización de prácticas profesionales y estadías de los alumnos del Tecnológico.
-
-XII. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Director.
+(DEROGADO, G.G. 18 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 19.
 
-Corresponde al Departamento de Actividades Culturales y Deportivas:
-
-I. Proponer y coordinar la ejecución de las actividades culturales y deportivas que se realicen en el Tecnológico.
-
-II. Promover la celebración de convenios de intercambio cultural y deportivo con los sectores público, social y privado.
-
-III. Impulsar la participación de alumnos en las actividades deportivas y culturales que lleve a cabo el Tecnológico o en aquellas que promuevan otras instituciones educativas y organismos promotores de estas actividades.
-
-IV. Someter a la consideración del Director la realización de actividades culturales y deportivas que complementen los programas de estudio del Tecnológico.
-
-V. Fomentar entre los alumnos del Tecnológico, valores culturales que apoyen su ejercicio profesional.
-
-VI. Las demás que le confieren las disposiciones aplicables y aquellas que le encomiende el Director.
+(DEROGADO, G.G. 18 DE NOVIEMBRE DE 2011)
 
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
@@ -399,9 +403,11 @@ El Consejo Consultivo Académico celebrara sesiones ordinarias, de acuerdo con e
 
 El Director será suplido en sus ausencias temporales hasta por 15 días, por el Subdirector que aquél designe. En las mayores de 15 días, por quien designe el Presidente de la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 25.
 
-Los subdirectores, jefes de división y de departamento serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director.
+Los subdirectores y jefes de división serán suplidos en sus ausencias temporales hasta por 15 días naturales, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días naturales, por el servidor público que designe el Director.
 
 T R A N S I T O R I O S
 
@@ -432,3 +438,11 @@ G.G. 23 DE ENERO DE 2009.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 18 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
