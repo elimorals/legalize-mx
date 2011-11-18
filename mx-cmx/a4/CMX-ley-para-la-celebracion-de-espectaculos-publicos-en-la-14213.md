@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2009-04-13"
+last_updated: "2011-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACION DE ESPECTACULOS PUBLICOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -176,7 +176,9 @@ II. Autorizar los horarios y sus cambios, para la celebración de Espectáculos 
 
 III. Registrar los Avisos a que se refiere esta Ley y la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, en la parte conducente;
 
-IV. Instruir a los verificadores responsables de vigilar el cumplimiento de esta Ley para que lleven a cabo las visitas y verificaciones a que haya lugar, de conformidad con la Ley, la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento;
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+
+IV. Instruir a los verificadores facultados de vigilar el cumplimiento de esta Ley, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal, la Ley del Instituto de Verificación Administrativa del Distrito Federal, y sus Reglamentos.
 
 V. Aplicar las medidas de seguridad a que se refiere esta Ley;
 
@@ -438,9 +440,11 @@ XIV. Autorización de la asociación o sociedad de autores o compositores que co
 
 XV. La manifestación bajo protesta de decir verdad, en el sentido de que cumplen además de lo ordenado por el presente ordenamiento, con lo dispuesto por la Ley de Salud para el Distrito Federal, la Ley de Protección Civil del Distrito Federal, y su Reglamento, la Ley para las Personas con Discapacidad del Distrito Federal, el Reglamento de Construcciones para el Distrito Federal, la normatividad en materia de protección al ambiente y conservación ecológica, de derechos de autor y de intérprete, en su caso, y los demás ordenamientos que resulten aplicables con motivo de la celebración del Espectáculo público.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-Recibida la solicitud, acompañada de todos los datos y documentos y cumplidos los requisitos a que se refiere el artículo anterior, la Delegación en un plazo máximo de cinco días hábiles y, previo pago de los derechos que establezca el Código Financiero del Distrito Federal, deberá expedir el permiso correspondiente, o negarlo si resulta improcedente.
+Recibida la solicitud, acompañada de todos los datos y documentos y cumplidos los requisitos a que se refiere el artículo anterior, la Delegación en un plazo máximo de cinco días hábiles y, previo pago de los derechos que establezca el Código Fiscal del Distrito Federal, deberá expedir el permiso correspondiente, o negarlo si resulta improcedente.
 
 La Delegación podrá dentro del plazo señalado, realizar visitas de verificación administrativa o cotejos documentales para verificar que las manifestaciones y documentos requeridos son verídicos, de conformidad con lo que establezca la Ley de Procedimiento Administrativo del Distrito Federal y sus disposiciones reglamentarias.
 
@@ -776,7 +780,9 @@ VI.- Deberán acreditar que cumplen con lo dispuesto en las fracciones II, III, 
 
 VII.- El recibo por el cual se acredita la contratación del servicio de energía eléctrica y/o acreditar que cuentan con una planta generadora de energía eléctrica, así como el escrito por el cual responsabiliza por las averías que se provoquen en las instalaciones y equipos eléctricos tanto públicos como privados, bajo pena de revocación del permiso en caso de incumplimiento, además del respectivo pago de daños y perjuicios.
 
-Una vez que la Delegación reciba todas las solicitudes, y hasta 5 días hábiles antes a la realización de la feria, la Delegación notificará a los interesados por medio de listas que se colocarán en la sede delegacional, cuáles son las solicitudes aceptadas y la cantidad que se tendrá que pagar por concepto de derechos conforme al Código Financiero del Distrito Federal. Una vez hecho lo anterior, se entregará el permiso correspondiente en el que se indicará cuales son las obligaciones que se tendrán que cumplir. En todo caso en el permiso se precisará lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
+
+Una vez que la Delegación reciba todas las solicitudes, y hasta 5 días hábiles antes a la realización de la feria, la Delegación notificará a los interesados por medio de listas que se colocarán en la sede delegacional, cuáles son las solicitudes aceptadas y la cantidad que se tendrá que pagar por concepto de derechos conforme al Código Fiscal del Distrito Federal. Una vez hecho lo anterior, se entregará el permiso correspondiente en el que se indicará cuales son las obligaciones que se tendrán que cumplir. En todo caso en el permiso se precisará lo siguiente:
 
 a) Horario de funcionamiento de juegos mecánicos y electromecánicos, pirotecnia, servicios de entretenimiento, servicios de venta de alimentos preparados, artesanías u otros;
 
@@ -1303,3 +1309,9 @@ G.O. 13 DE ABRIL DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
+
+G.O. 18 DE NOVIEMBRE DE 2011.
+
+Primero.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
