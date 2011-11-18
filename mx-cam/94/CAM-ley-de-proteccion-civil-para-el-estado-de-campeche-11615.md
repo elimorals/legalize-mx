@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-civil-para-el-estado-de-campeche-11615"
 country: "mx"
 rank: "ley"
 publication_date: "1996-07-16"
-last_updated: "2002-06-26"
+last_updated: "2011-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE CAMPECHE
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE CAMPECHE
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 18 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 16 de julio de 1996.
 
@@ -37,7 +39,7 @@ La LV Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de 
 
 NUMERO 172
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE CAMPECHE
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE CAMPECHE
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2002)</small>
 
@@ -707,7 +709,7 @@ Para la determinación y ejecución de las medidas de seguridad en caso de emerg
 
 ## Titulo Sexto. De las Obligaciones en Materia de Protección Civil
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
 ### Capítulo Único. Generalidades
 
@@ -775,7 +777,7 @@ Cuando los efectos de las emergencias o desastres rebasen la capacidad de respue
 
 En las acciones de protección civil, los medios de comunicación social deberán colaborar con las autoridades competentes y con los habitantes respecto a la divulgación de información veraz dirigida a la población.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
 ## Título Séptimo. De las Infracciones y Sanciones
 
@@ -853,7 +855,7 @@ Las sanciones de carácter pecuniario se liquidarán por el infractor en la Secr
 
 Además de las sanciones que se impongan al infractor la autoridad de protección civil correspondiente, en su caso, hará del conocimiento del Ministerio Público los hechos que pudieran constituir un delito.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
 ## Título Octavo. De las Notificaciones
 
@@ -885,7 +887,7 @@ Si habiendo dejado citatorio el interesado no se encuentra presente en la fecha 
 
 Las notificaciones se harán en días y horas hábiles, en términos de lo señalado en el Código de Procedimientos Civiles del Estado de Campeche, al que se recurrirá en forma supletoria, en los casos que corresponda, en materia de notificaciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
 ## Título Noveno. De los Recursos Administrativos
 
@@ -981,61 +983,13 @@ El secretario ejecutivo del Consejo Estatal resolverá el recurso de revisión y
 
 Si transcurrido un plazo de sesenta días hábiles, contados a partir del día siguiente de la presentación del recurso de revisión, no se ha notificado la resolución que corresponda, se entenderá que el recurso ha sido resuelto ratificando la resolución emitida por la autoridad que resolvió la reconsideración impugnada.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
 ## Título Décimo. De los Donativos
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
-Título Decimoprimero
-
-De la Queja Civil
-
-TRANSITORIOS:
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, estatales y municipales, en lo que se opongan al presente decreto.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1999)</small>
-
-Tercero.- Queda facultado el Gobernador del Estado para expedir el Reglamento de esta Ley.
-
-Cuarto.- Los H.H. Ayuntamientos de los Municipios del Estado, en un plazo no mayor de noventa días, deberán expedir la reglamentación necesaria para el establecimiento de sus respectivos Sistemas Municipales de Protección Civil, e instalación de las estructuras que los integren, en términos congruentes a los que para las del Sistema Estatal previene esta ley.
-
-Quinto.- La contravención a las disposiciones de esta ley y de las normas reglamentarias y administrativas que de ella deriven se sancionará en los términos que prevengan las diversas leyes que en su caso sean aplicables.
-
-Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 15 de Julio de 1996.- Dip. Alvaro Arceo Piña, Presidente de la Directiva en turno del H. Congreso del Estado.- Dip. Vicente Castellot Castro, Secretario.- Dip. Aracely Escalante Jasso, Secretaria.- Rúbricas.
-
-En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
-
-Dado en el Palacio de Gobierno del Estado, en Campeche, a los quince días del mes de Julio de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 23 DE ABRIL DE 1997.
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, estatales y municipales, en lo que se opongan al presente decreto.
-
-P.O. 28 DE ABRIL DE 1999.
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
-
-Segundo.- Se derogan todas las resoluciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
-
-P.O. 26 DE JUNIO DE 2002.
-
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
-
-Tercero.- El Gobernador del Estado, dentro de los sesenta días naturales a la fecha señalada en el artículo Primero que antecede, procederá a expedir y publicar las modificaciones que amerite el Reglamento de la Ley de Protección Civil para el Estado de Campeche, con el propósito de adecuarlo a los términos de este decreto.
-
-Cuarto.- El Consejo Estatal de Protección Civil procederá a expedir y publicar el reglamento interior del Centro Estatal de Emergencias en un plazo similar al indicado en el artículo anterior.
-
-### Capítulo Único. Generalidades
+### Capítulo Único. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2002)</small>
 
@@ -1069,7 +1023,13 @@ El Centro Estatal de Emergencias, por conducto de su director, vigilará y sanci
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
 
-### Capítulo Único. Disposiciones Generales
+Título Decimoprimero
+
+De la Queja Civil
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+
+### Capítulo Único. Generalidades
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2002)</small>
 
@@ -1119,4 +1079,62 @@ De la queja y de todo el procedimiento referido en este capítulo, se levantará
 
 Los funcionarios del Sistema Estatal de Protección Civil que no cumplan con lo establecido en el artículo anterior, incurrirán en responsabilidad, debiendo ser sancionados conforme a lo que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2002)</small>
+TRANSITORIOS:
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, estatales y municipales, en lo que se opongan al presente decreto.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1999)</small>
+
+Tercero.- Queda facultado el Gobernador del Estado para expedir el Reglamento de esta Ley.
+
+Cuarto.- Los H.H. Ayuntamientos de los Municipios del Estado, en un plazo no mayor de noventa días, deberán expedir la reglamentación necesaria para el establecimiento de sus respectivos Sistemas Municipales de Protección Civil, e instalación de las estructuras que los integren, en términos congruentes a los que para las del Sistema Estatal previene esta ley.
+
+Quinto.- La contravención a las disposiciones de esta ley y de las normas reglamentarias y administrativas que de ella deriven se sancionará en los términos que prevengan las diversas leyes que en su caso sean aplicables.
+
+Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 15 de Julio de 1996.- Dip. Alvaro Arceo Piña, Presidente de la Directiva en turno del H. Congreso del Estado.- Dip. Vicente Castellot Castro, Secretario.- Dip. Aracely Escalante Jasso, Secretaria.- Rúbricas.
+
+En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
+
+Dado en el Palacio de Gobierno del Estado, en Campeche, a los quince días del mes de Julio de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE ABRIL DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, estatales y municipales, en lo que se opongan al presente decreto.
+
+P.O. 28 DE ABRIL DE 1999.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
+
+Segundo.- Se derogan todas las resoluciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE JUNIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+Tercero.- El Gobernador del Estado, dentro de los sesenta días naturales a la fecha señalada en el artículo Primero que antecede, procederá a expedir y publicar las modificaciones que amerite el Reglamento de la Ley de Protección Civil para el Estado de Campeche, con el propósito de adecuarlo a los términos de este decreto.
+
+Cuarto.- El Consejo Estatal de Protección Civil procederá a expedir y publicar el reglamento interior del Centro Estatal de Emergencias en un plazo similar al indicado en el artículo anterior.
+
+P.O. 18 DE NOVIEMBRE DE 2011.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Protección Civil para el Estado de Campeche publicada mediante decreto número 172 en el Periódico Oficial del Estado de fecha 16 de julio de 1996, así como las reformas y adiciones que en su oportunidad se hicieron en el decreto número 149, publicado en el Periódico Oficial del Estado de fecha 26 de junio del 2002.
+
+TERCERO. Se derogan todas las disposiciones del marco jurídico estatal que se opongan a la presente Ley.
+
+CUARTO. Los HH. Ayuntamientos deberán establecer sus Sistemas Municipales de Protección Civil en un plazo no mayor a treinta días naturales, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+QUINTO. Todos los propietarios o poseedores de inmuebles, empresas, industria, comercios, grupos voluntarios, instructores independientes, organizaciones y asociaciones civiles, y todas las demás personas físicas o morales señaladas en la presente ley, tendrán un plazo de ciento veinte días naturales, contados a partir de la fecha de entrada en vigor de la presente Ley, para cumplir con las obligaciones contenidas en la misma.
+
+SEXTO. Los HH. Ayuntamientos en un término no mayor de sesenta días hábiles contados a partir de la entrada en vigor de la presente Ley deberán adecuar sus respectivos Reglamentos en materia de Protección Civil.
+
+SÉPTIMO. El Poder Ejecutivo del Estado en un término no mayor de sesenta días hábiles contados a partir de la entrada en vigor de este decreto deberá emitir el Reglamento de la presente Ley.
