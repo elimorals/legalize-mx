@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-sesiones-del-consejo-general-del-instituto-64306"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-25"
-last_updated: "2008-10-25"
+last_updated: "2011-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2008.
 
@@ -269,9 +269,31 @@ Contenido de la convocatoria y del proyecto de orden del día.
 
 2. Los anexos se entregarán preferentemente en medios ópticos, electrónicos o magnéticos, conforme a los acuerdos específicos que emita el Consejo, o bien, en forma impresa cuando previamente así le haya sido solicitado al Secretario mediante escrito.
 
-3. El Secretario en listará los puntos del orden del día ordenando los que guarden relación entre sí.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-4. Las áreas y órganos del Instituto remitirán al Secretario por lo menos con veinticuatro horas de anticipación a la expedición de la convocatoria, los documentos y anexos necesarios para el análisis de los puntos a tratar.
+3. El sistema para convocar a sesiones del Consejo por medios electrónicos, debe cumplir los requerimientos siguientes:
+
+a) Contener medidas de seguridad para la protección de datos de carácter personal, así como de los archivos anexados a la convocatoria;
+
+b) Generar constancia del envío y recepción de la convocatoria, sus fechas, contenido íntegro enviado e identificar al remitente y al destinatario; y
+
+c) Emitir reporte de la fecha y hora a partir de la cual, la convocatoria está a disposición del destinatario.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+4. Los integrantes del Consejo deben proporcionar al Presidente una dirección electrónica para recibir convocatorias.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+5. Las notificaciones realizadas en la dirección electrónica que proporcionen los Consejeros, surten efectos al momento en que el sistema registra la recepción del mensaje.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+6. El Secretario enlistará los puntos del orden del día ordenando los que guarden relación entre sí.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+7. Las áreas y órganos del Instituto remitirán al Secretario por lo menos con veinticuatro horas de anticipación a la expedición de la convocatoria, los documentos y anexos necesarios para el análisis de los puntos a tratar.
 
 ###### Artículo 17.
 
@@ -582,3 +604,9 @@ Guadalajara, Jalisco a 23 veintitrés de Octubre de 2008 dos mil ocho.
 Lic. Carlos Oscar Trejo Herrera.
 
 Encargado del Despacho de la Secretaría Ejecutiva.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2011.
+
+Único. El presente acuerdo entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
