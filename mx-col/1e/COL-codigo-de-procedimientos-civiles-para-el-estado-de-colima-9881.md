@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-08-13"
+last_updated: "2011-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -1299,11 +1299,9 @@ Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las par
 
 ### CAPITULO II. De la recusación
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
 ART. 171.- Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede su recusación.
-
-Las partes, por una sola vez cada una, podrán recusar sin causa al juez o Magistrado que conozca del negocio, la que se admitirá si se hace con corrección y dejando a salvo la honorabilidad del funcionario recusado, ordenándose enviar los autos al Juzgado que corresponda. El ejercicio de este derecho sólo podrá hacerse hasta antes de citación para sentencia.
 
 ART. 172.- En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión, se reintegra al principal.
 
@@ -1405,9 +1403,13 @@ ART. 199.- Si el tenedor del documento firmado en forma autógrafa o con la firm
 
 ART. 183.- Los tribunales desecharán de plano la recusación:
 
-I.- Cuando no estuviera hecha en tiempo.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-II.- Cuando, no tratándose de recusación sin causa, no se funde en alguna de las causas a que se refiere el Artículo 169.
+I.- Cuando no estuviera hecha en tiempo; o
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 169.
 
 ART. 184.- Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
 
@@ -2649,9 +2651,9 @@ ART. 368.- Los testigos están obligados a dar la razón de su dicho y el juez d
 
 ART. 369.- La declaración una vez firmada no puede variarse ni en la substancia ni en la redacción.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-ART. 370.- En el acto del examen de un testigo o dentro de los tres días siguientes pueden las partes atacar el dicho de que aquél por cualquier circunstancia que, en concepto suyo, afecte su credibilidad cuando esa circunstancia no haya sido ya expresada en su declaración. La petición de tachas se substanciará incidentalmente por cuaderno separado y su resolución se reservará para la definitiva.
+ART. 370.- En el acto del examen de un testigo o dentro de los tres días siguientes pueden las partes atacar el dicho de aquél por cualquier circunstancia que, en concepto suyo, afecte su credibilidad cuando esa circunstancia no haya sido ya expresada en su declaración. La petición de tachas se substanciará en la misma pieza de autos sin suspensión de procedimiento y su resolución se reservará para la definitiva.
 
 ART. 371.- No es admisible la prueba testimonial para tachar a los testigos que hayan declarado en el incidente de tachas.
 
@@ -3129,9 +3131,11 @@ II.- Cuando se haya declarado, judicialmente, que la enajenación por la que adq
 
 ART. 452.- Hecho el embargo se emplazará al deudor en persona conforme al artículo 116, o si se ignorare su paradero conforme al artículo 122, para que en un término no mayor de cinco días ocurra a hacer el pago o a oponer las excepciones y defensas que tuviere, siguiéndose el juicio por todos sus trámites.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
 ART. 453.- Los juicios ejecutivos contendrán siempre dos secciones: la del principal conteniendo la demanda, la contestación, el juicio y su sentencia.
 
-La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaría y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes, todo lo cual debe formar un cuaderno que, aunque sea accesorio del principal, debe tramitarse por cuerda separada.
+La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaria y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes, lo cual aún cuando sean dos secciones, todo debe formar un mismo cuaderno.
 
 ART. 454.- De la sección de ejecución se encargará el juez, quien podrá delegar sus facultades en el ejecutor, con excepción de las siguientes:
 
@@ -3345,7 +3349,9 @@ III.- Cuando no se embarguen bienes suficientes por no tenerlos el deudor y desp
 
 IV.- En los casos de tercería, conforme a lo dispuesto en el título décimo.
 
-ART. 541.- La ampliación del embargo se seguirá por cuerda separada sin suspensión de la sección de ejecución, a la que se unirá después de realizada.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+ART. 541.- La ampliación del embargo, se seguirá en la misma pieza de autos sin suspensión de la sección de ejecución.
 
 ART. 542.- De todo secuestro se tendrá como depositario a la persona que nombre el acreedor, bajo su responsabilidad, mediante formal inventario.
 
@@ -3447,7 +3453,9 @@ ART. 555.- Si en el cumplimiento de los deberes que el artículo anterior impone
 
 ART. 556.- Los que tengan administración o intervención, presentarán al juzgado, cada mes, una cuenta de los esquilmos y demás frutos de la finca y de los gastos erogados.
 
-ART. 557.- El juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+ART. 557.- El juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán en la misma pieza de autos sin suspensión de procedimientos.
 
 ART. 558.- Será removido de plano el depositario en los siguientes casos: 1o.- Si dejare de rendir cuenta mensual o la presentada no fuere aprobada; 2o.- Cuando no haya manifestado su domicilio o el cambio de éste; 3o.- Cuando tratándose de bienes muebles no pusiere en conocimiento del juzgado, dentro de las cuarenta y ocho horas que sigan a la entrega, el lugar donde queda constituído el depósito.
 
@@ -4099,9 +4107,9 @@ ART. 646.- Si compareciere después del término de prueba en primera instancia 
 
 ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-ART. 648.- Siempre que se trate de acreditar el impedimento insuperable se tramitará en forma incidental por cuerda separada, sin más recurso que el de responsabilidad.
+ART. 648.- Siempre que se trate de acreditar el impedimento insuperable se tramitará en forma incidental en la misma pieza de autos, sin más recursos que el de responsabilidad.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -6211,4 +6219,8 @@ P.O. 21 DE MAYO DE 2011.
 
 P.O. 13 DE AGOSTO DE 2011.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
