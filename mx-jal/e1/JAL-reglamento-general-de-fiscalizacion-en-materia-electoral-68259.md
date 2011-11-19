@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-general-de-fiscalizacion-en-materia-electoral-68259"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-09"
-last_updated: "2009-07-07"
+last_updated: "2011-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO GENERAL DE FISCALIZACION EN MATERIA ELECTORAL DEL ESTADO DE JALISCO
 
-REGLAMENTO GENERAL DE FISCALIZACION EN MATERIA ELECTORAL DEL ESTADO DE JALISCO
+REGLAMENTO GENERAL DE FISCALIZACIÓN EN MATERIA ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 9 de abril de 2009.
 
@@ -2433,9 +2433,13 @@ IV. En su caso, la mención de los errores o irregularidades encontradas en los 
 
 5. La Unidad de Fiscalización presentará ante el Consejo, junto con el dictamen consolidado, un proyecto de resolución en el que proponga las sanciones que a su juicio procedan en contra de la agrupación política que haya incurrido en irregularidades en el manejo de sus recursos o haya incumplido con su obligación de informar sobre el origen y la aplicación de los mismos. Al respecto, se estará a lo dispuesto por el artículo 458, párrafo 1, fracción VI del Código.
 
-6. En caso de que la Unidad de Fiscalización haya detectado, con motivo de la revisión de los informes, hechos que hagan presumir o pudieran hacer presumir violaciones a disposiciones legales cuyo conocimiento compete a una autoridad distinta de la electoral, lo incluirá en el dictamen consolidado correspondiente y lo informará por oficio a la Secretaría Ejecutiva para que proceda a dar parte a la autoridad competente.
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-7. Hasta que el Consejo determine la procedencia del dictamen correspondiente, resultará aplicable lo establecido por el párrafo 2 del artículo 126 del Código, respecto de la información presentada por las agrupaciones políticas en sus informes y como sustento de éstos.
+6. Si en ejercicio de sus facultades, la Unidad de Fiscalización advierte presuntas irregularidades que pueden constituir causales de pérdida de registro señaladas en el Código, rendirá al Consejo General un informe acompañado de las constancias respectivas, para que éste proceda conforme a la normatividad aplicable.
+
+7. En caso de que la Unidad de Fiscalización haya detectado, con motivo de la revisión de los informes, hechos que hagan presumir o pudieran hacer presumir violaciones a disposiciones legales cuyo conocimiento compete a una autoridad distinta de la electoral, lo incluirá en el dictamen consolidado correspondiente y lo informará por oficio a la Secretaría Ejecutiva para que proceda a dar parte a la autoridad competente.
+
+8. Hasta que el Consejo determine la procedencia del dictamen correspondiente, resultará aplicable lo establecido por el párrafo 2 del artículo 126 del Código, respecto de la información presentada por las agrupaciones políticas en sus informes y como sustento de éstos.
 
 ###### ARTÍCULO 91.
 
@@ -2622,3 +2626,7 @@ PRIMERO. Se aprueban las modificaciones al Reglamento General de Fiscalización 
 SEGUNDO. Notifíquese con copia simple del presente acuerdo y su ANEXO a los partidos políticos acreditados ante este instituto electoral.
 
 TERCERO. Publíquese el presente acuerdo y su ANEXO en el Periódico Oficial "El Estado de Jalisco", así como en el portal de internet oficial de este organismo electoral.
+
+P.O. 19 DE NOVIEMBRE DE 2011.
+
+Único. El presente acuerdo entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
