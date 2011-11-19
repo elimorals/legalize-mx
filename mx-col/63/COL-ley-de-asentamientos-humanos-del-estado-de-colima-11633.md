@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "2009-08-29"
+last_updated: "2011-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -4139,6 +4139,10 @@ A las personas que realicen alguna obra de reparación o modificación en bienes
 
 No se aplicará lo dispuesto en el artículo 395, a quienes el Ayuntamiento respectivo hubiere autorizado a ejecutar las obras de urbanización por etapas. En la autorización correspondiente, se determinarán las bases bajo las cuales dichas personas podrán enajenar los lotes producto de la urbanización, así como enajenar los departamentos, viviendas, casas, locales o áreas de que se componga.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+ARTICULO 397 BIS.- Se impondrán las sanciones administrativas señaladas en el artículo 392 del presente ordenamiento que correspondan, a quien dolosamente y sin el consentimiento de la autoridad correspondiente, haga un uso distinto al permitido del suelo u, obtenga un beneficio económico derivado de estas conductas, en las zonas comprendidas en los programas de ordenamiento territorial de los asentamientos humanos o en los programas de desarrollo urbano.
+
 ###### ARTICULO 398.
 
 Comete el delito de fraude especial, y se le impondrá prisión de seis meses a ocho años y multa equivalente de uno a diez mil días de salario mínimo vigente en el Estado, además de la reparación del daño consistente en la devolución de las cantidades que hubiere recibido de los adquirentes de lotes, departamentos, viviendas, casas, locales o áreas, al que:
@@ -4356,5 +4360,9 @@ SEGUNDO.- Los Ayuntamientos deberán reformar sus reglamentos de construcciones 
 TERCERO.- Quedan derogadas todas las disposiciones que se opongan a éste artículo.
 
 P.O. 29 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE NOVIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
