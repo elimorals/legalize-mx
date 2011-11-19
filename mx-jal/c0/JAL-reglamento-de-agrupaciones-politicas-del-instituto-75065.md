@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-agrupaciones-politicas-del-instituto-75065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2010-08-31"
+last_updated: "2011-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO DE AGRUPACIONES POLITICAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO DE AGRUPACIONES POLITICAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+REGLAMENTO DE AGRUPACIONES POLÍTICAS DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -117,9 +117,17 @@ V. Ciudadanos solicitantes: Ciudadanos que formulan solicitud para registrar una
 
 VI. Asambleístas: Personas que forman parte de una asamblea convocada para constituir o modificar una agrupación política;
 
-VII. Miembros: Individuos que forman parte de la agrupación que se pretende registrar; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-VIII. Representante Común: Persona con intereses afines o comunes a quienes lo designan para que los represente ante la autoridad competente en el procedimiento de registro.
+VII. Miembros: Individuos que forman parte de la agrupación que se pretende registrar;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+VIII. Comisión: Comisión de Participación Ciudadana del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+IX. Representante Común: Persona con intereses afines o comunes a quienes lo designan para que los represente ante la autoridad competente en el procedimiento de registro.
 
 ###### Artículo 3.
 
@@ -135,11 +143,21 @@ En todo lo no previsto por el presente Reglamento, se estará a lo dispuesto por
 
 I. Comunicar mediante escrito al Consejo General, a través de un representante común o representante legal en el caso de estar previamente constituidos como asociación civil, su intención de obtener el registro como Agrupación Política Estatal, así como la fecha de celebración de su asamblea estatal constitutiva, cuando menos quince días de anticipación a la celebración de la misma, a fin de que un representante del Instituto Electoral esté presente en ella, y acompañar a dicho escrito, los siguientes documentos:
 
-a) Lista de asociados por escrito y en medio magnético, conforme al formato establecido para tal efecto, ordenada alfabéticamente y, en su caso, agrupadas por municipio, la que deberá constar con quinientos asociados, por lo menos. El formato de lista se agrega al presente reglamento como anexo I; y,
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-b) Proyecto de los documentos básicos.
+a) Lista firmada por lo menos por el número de ciudadanos que represente el 0.1 % del padrón electoral de la entidad, actualizado al año en que se pretenda realizar el registro, conforme al formato aprobado por el Instituto;
 
-II. Celebrar la asamblea estatal ante la presencia de un fedatario público o quien haga sus veces, y de un representante del Instituto Electoral, quienes procederán a verificar lo siguiente:
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+b) Lista ordenada alfabéticamente y agrupada por municipio en medio magnético conforme al formato aprobado por el Instituto; y
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+c) Proyecto de los documentos básicos.
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+II. Celebrar la asamblea estatal ante la presencia de un fedatario público y de un representante del Instituto Electoral, quienes procederán a verificar lo siguiente:
 
 a) Que en dicho acto se encuentren presentes el mínimo de asambleístas que establece el Código para obtener el registro como Agrupación Política Estatal. Para constatar tal circunstancia, se utilizará la lista de asociados presentada por la organización al Instituto y comprobará que el nombre del asociado concuerde con el que se consigna en la credencial para votar con fotografía presentada por el mismo;
 
@@ -149,11 +167,15 @@ c) Que se elijan integrantes propietarios y suplentes de cada uno de sus órgano
 
 III. Una vez realizado lo anterior, la organización interesada presentará durante el mes de enero del año anterior al de la elección, ante la Oficialía de Partes del Instituto Electoral, para su posterior remisión al Consejo General, una solicitud de registro como agrupación política, anexando a la misma la siguiente documentación para su revisión y aprobación:
 
-a) El acta de la asamblea estatal referida en la fracción II, párrafo 1, del presente artículo, debidamente firmada por los integrantes de la mesa directiva electa en la asamblea, en la que se señale la estructura del órgano directivo estatal, la estructura en su caso de las delegaciones municipales, los integrantes propietarios y suplentes de cada uno de los órganos mencionados y la aprobación de los documentos básicos de la agrupación, en los términos antes señalados. Asimismo, la organización deberá de señalar en el testimonio del acta el domicilio oficial de su órgano directivo estatal, el de las delegaciones con que cuente en el Estado, así como los nombres y domicilios de los delegados.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+a) El acta de la asamblea estatal referida en la fracción II, párrafo 1, del presente artículo, debidamente firmada por los integrantes de la mesa directiva que haya presidido la asamblea, en la que se señale la estructura del órgano directivo estatal, la estructura en su caso de las delegaciones municipales, los integrantes propietarios y suplentes de cada uno de los órganos mencionados y la aprobación de los documentos básicos de la agrupación, en los términos antes señalados. Asimismo, la organización deberá de señalar en el testimonio del acta el domicilio oficial de su órgano directivo estatal, el de las delegaciones con que cuente en el Estado, así como los nombres y domicilios de los delegados.
 
 b) Los documentos básicos aprobados en la asamblea estatal.
 
-c) Manifestación de voluntad de cada miembro de la organización para que la misma sea registrada como agrupación política, conforme al formato establecido para tal efecto y que se agrega al presente reglamento como anexo II.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+c) Manifestación de voluntad de cada miembro de la organización para que la misma sea registrada como agrupación política, conforme al formato aprobado por el Instituto.
 
 d) Copia por ambos lados de la credencial para votar con fotografía de cada uno de los asociados, con domicilio en el Estado de Jalisco.
 
@@ -173,7 +195,9 @@ IV. Firma autógrafa del representante común.
 
 ###### Artículo 6.
 
-1. La lista de mínimo quinientos asociados se deberá presentar conforme al formato que se agrega al presente reglamento como Anexo I y deberá estar ordenada alfabéticamente, agrupada por municipios y contar con los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+1. La lista a que se refiere el artículo 4, párrafo 1, fracción l, inciso a) de este Reglamento, debe contar con los datos siguientes:
 
 I. Apellido paterno, apellido materno y nombre(s);
 
@@ -241,13 +265,17 @@ t) No podrá existir ningún tipo de discriminación.
 
 ###### Artículo 8.
 
-1. Las manifestaciones de voluntad de cada asociado se deberán presentar conforme al formato que se agrega al presente reglamento como Anexo Il, donde constarán:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+1. Las manifestaciones de voluntad de cada asociado se deberán presentar conforme al formato aprobado por el Instituto, donde constarán:
 
 I. El nombre(s) y apellido(s);
 
 II. Domicilio particular en el Estado de Jalisco;
 
-III. La manifestación de voluntad formal de asociación;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+III. La manifestación de voluntad para que la asociación sea registrada como agrupación política estatal;
 
 IV. La mención de que el acto de adherirse a la agrupación de que se trate es libre y voluntario;
 
@@ -261,13 +289,19 @@ VII. Firma autógrafa o huella digital; para el caso de que el asociado no pueda
 
 1. Para verificar el cumplimiento de los requisitos solicitados para obtener el registro de las agrupaciones políticas estatales interesadas se procederá conforme a lo siguiente:
 
-I. Los escritos y documentos concernientes, recibidos en la Oficialía de Partes del Instituto Electoral, serán remitidos al Secretario Ejecutivo de Instituto Electoral, quien dentro de los cinco días naturales siguientes a la recepción de la solicitud, en caso de que hiciera falta algún documento básico, podrá requerir al solicitante para que lo exhiba dentro del plazo de tres días naturales, y trascurrido este último, se remitirá el expediente a la Comisión de Participación Ciudadana del Instituto;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+I. Los escritos y documentos concernientes, recibidos en la Oficialía de Partes del Instituto Electoral, serán remitidos al Secretario Ejecutivo del Instituto Electoral, quien dentro de los cinco días hábiles siguientes a la recepción de la solicitud, en caso de que hiciera falta algún documento de los previstos en los artículos 4, párrafo 1, fracción III, 5 y 7 de este Reglamento, podrá requerir al solicitante para que lo exhiba dentro del plazo de tres días hábiles, y trascurrido éste, se remitirá el expediente a la Comisión;
 
 II. El Secretario Ejecutivo, dará cuenta al Consejo General de la presentación de la solicitud en la próxima sesión que celebre;
 
-IIl. La Comisión revisará los documentos que se acompañen para corroborar la autenticidad de su contenido. Si de la revisión de los documentos se desprende que los mismos no cumplen con los requisitos que establece el Código y que se regulan en el presente reglamento, se requerid a la agrupación peticionaria para que proceda a subsanar lo conducente dentro de un término no mayor de diez días naturales;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-IV. En un plazo máximo de treinta días naturales a partir de que le fue turnado el expediente de solicitud de registro de la agrupación política, la Comisión formulará el proyecto de dictamen relativo, mismo que será sometido a la consideración del Consejo General para su aprobación;
+III. La Comisión revisará los documentos que se acompañen para corroborar que su contenido se ajuste a lo previsto en el Código y el Reglamento. Sí de la revisión de los documentos se desprende que los mismos no cumplen con dichos requisitos, se requerirá a la agrupación peticionaria para que proceda a subsanar lo conducente dentro de un término no mayor a quince días hábiles, apercibiéndole que en caso de incumplimiento, la solicitud será desechada;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+IV. En un plazo máximo de treinta días hábiles a partir de que le fue turnado el expediente de solicitud de registro de la agrupación política, la Comisión formulará el proyecto de dictamen relativo, mismo que será sometido a la consideración del Consejo General para su aprobación;
 
 V. El· Consejo General dentro del plazo máximo de sesenta días naturales contados a partir de la fecha en que conozca de la solicitud de registro como agrupación política resolverá lo conducente; y
 
@@ -311,9 +345,13 @@ d) Sus documentos básicos, actualizados y certificados por la autoridad federal
 
 ###### Artículo 12.
 
-1. Si el Instituto Electoral advierte que una agrupación política estatal o nacional incurre en alguna de las causales de pérdida de registro o acreditación que se señalan en el Código, según sea el caso, el Consejo General lo turnará a la Comisión de Participación Ciudadana para su estudio.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-2. La Comisión recavará la documentación procedente para corroborar la o las causales de pérdida de registro o acreditación, así mismo la agrupación política deberá facilitar a dicha comisión la documentación solicitada para esos fines.
+1. Si el Instituto Electoral advierte que una agrupación política estatal o nacional incurre en presuntas irregularidades que puedan constituir causales de pérdida de registro o acreditación que señala el Código, según sea el caso, el Consejo General lo turnará a la Comisión.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+2. La Comisión recabará la documentación procedente para corroborar la o las causales de pérdida de registro o acreditación.
 
 3. La Comisión elaborará un anteproyecto de dictamen, mismo que notificará a la agrupación política afectada para que conteste por escrito lo que a su derecho corresponda y aporte las pruebas que a su interés convenga, en un plazo no mayor a diez días naturales a partir de su notificación.
 
@@ -368,5 +406,13 @@ ANEXO II
 P.O. 31 DE AGOSTO DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 19 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente acuerdo entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los formatos a que se refiere el presente reglamento se agregan como Anexos y forman parte del mismo.
+
+TERCERO. Los procedimientos de registro iniciados antes de la entrada en vigor del presente Acuerdo se tramitarán conforme a las disposiciones que se aprueban en éste.
 
 ### CAPÍTULO QUINTO. ACUERDOS DE PARTICIPACIÓN CON PARTIDOS POLÍTICOS O COALICIÓN
