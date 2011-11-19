@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-electoral-y-de-75068"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-06"
-last_updated: "2010-08-03"
+last_updated: "2011-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 6 de mayo de 2010.
 
@@ -325,7 +325,7 @@ De la Presidencia.
 
 I. Un órgano superior de dirección denominado Consejo General;
 
-Il. Órganos Ejecutivos, que son:
+II. Órganos Ejecutivos, que son:
 
 A. La Presidencia;
 
@@ -339,7 +339,7 @@ b) Departamento del Servicio Profesional Electoral;
 
 C. La Dirección General Ejecutiva;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2010)</small>
 
 D. Las Direcciones Administrativas siguientes:
 
@@ -539,9 +539,9 @@ XII. Las demás que les confiera el Código y otras disposiciones aplicables.
 
 I. Preparar el orden del día de las sesiones de la Comisión;
 
-Il. Convocar a las sesiones de la Comisión;
+II. Convocar a las sesiones de la Comisión;
 
-IIl. Conducir las sesiones de la Comisión;
+III. Conducir las sesiones de la Comisión;
 
 IV. Designar, en caso de ausencia temporal, al Consejero que deba suplirlo en las sesiones de Comisión;
 
@@ -609,7 +609,7 @@ VII. La organización administrativa de los recursos materiales, humanos y finan
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-VlII. Proponer al Consejo General para su aprobación, las transferencias de partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
+VIII. Proponer al Consejo General para su aprobación, las transferencias de partidas, ampliaciones y modificaciones al presupuesto del Instituto que resulten necesarias para el cumplimiento de sus funciones;
 
 IX. Dictar los acuerdos administrativos necesarios para el funcionamiento del Instituto y el cumplimiento de sus atribuciones;
 
@@ -633,7 +633,7 @@ I. Supervisar la ejecución de las políticas, programas generales y específico
 
 II. Dar trámite a la correspondencia del Instituto, salvo en los casos que el Código determine expresamente la competencia del Consejo General o del Presidente;
 
-IIl. Informar al Congreso las faltas absolutas del Consejero Presidente y convocar al Consejo General a sesión extraordinaria para la designación de encargado provisional del despacho de la Presidencia;
+III. Informar al Congreso las faltas absolutas del Consejero Presidente y convocar al Consejo General a sesión extraordinaria para la designación de encargado provisional del despacho de la Presidencia;
 
 IV. Llevar el registro de solicitudes de plebiscito, referéndum e iniciativa popular;
 
@@ -679,9 +679,9 @@ III. Los que determine el Consejo General.
 
 I. Recibir y relacionar la documentación que se presente ante dicho departamento, asentando la fecha y hora de presentación, anexos y asignándole un número de folio consecutivo;
 
-Il. Llevar registro en cuadrante y en archivo electrónico, de la recepción de documentos, clasificándola conforme a su manual de organización y métodos, para facilitar su consulta;
+II. Llevar registro en cuadrante y en archivo electrónico, de la recepción de documentos, clasificándola conforme a su manual de organización y métodos, para facilitar su consulta;
 
-IIl. Implementar las acciones necesarias para que los documentos sean turnados a la brevedad a su destino;
+III. Implementar las acciones necesarias para que los documentos sean turnados a la brevedad a su destino;
 
 IV. Será responsable de tramitar la salida de oficios, documentación y correspondencia que se genere en la Secretaría Ejecutiva, debiendo proporcionar el número de oficio respectivo y llevar un registro de ellos en orden cronológico a su emisión, anotando un extracto de su contenido y en su caso, acusar recibo en el libro o cuadrante;
 
@@ -707,7 +707,7 @@ XII. Las demás que le confieran el Código, así como aquéllas que en uso de s
 
 1. El Departamento de Servicio Profesional Electoral estará integrado en la forma que autorice el presupuesto de egresos del Instituto para el año que corresponda y tendrá las atribuciones que se señalen en el Reglamento del Servicio Profesional Electoral.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2010)</small>
 
 ## TÍTULO QUINTO
 
@@ -801,9 +801,9 @@ XVII. Las demás que les sean conferidas por el Código, el Consejo General, el 
 
 I. Dirección de Administración y Finanzas;
 
-Il. Dirección de Capacitación Electoral y Educación Cívica;
+II. Dirección de Capacitación Electoral y Educación Cívica;
 
-IIl. Dirección de Informática;
+III. Dirección de Informática;
 
 IV. Dirección Jurídica;
 
@@ -825,9 +825,9 @@ De las Comisiones y Comités.
 
 I. Coadyuvar en la elaboración del proyecto de políticas y normas generales para el ejercicio y control del presupuesto;
 
-Il. Coadyuvar en la elaboración y aplicación de las políticas generales, criterios técnicos y lineamientos a que se sujetarán los programas de administración de personal; recursos materiales y servicios generales del Instituto;
+II. Coadyuvar en la elaboración y aplicación de las políticas generales, criterios técnicos y lineamientos a que se sujetarán los programas de administración de personal; recursos materiales y servicios generales del Instituto;
 
-Ill. Proveer lo necesario para el adecuado funcionamiento del personal del Instituto;
+III. Proveer lo necesario para el adecuado funcionamiento del personal del Instituto;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
@@ -1053,9 +1053,9 @@ VII. Las demás que determine el Consejo General a propuesta del Consejero Presi
 
 I. Proponer la estrategia de comunicación social necesaria, para difundir las actividades y funciones que desarrolla el Instituto;
 
-Il. Coadyuvar con las demás instancias institucionales en la difusión de los asuntos de sus respectivas competencias;
+II. Coadyuvar con las demás instancias institucionales en la difusión de los asuntos de sus respectivas competencias;
 
-IIl. Establecer la estrategia informativa del Instituto y vigilar su cumplimiento;
+III. Establecer la estrategia informativa del Instituto y vigilar su cumplimiento;
 
 IV. Mantener enterado al personal directivo del Instituto sobre la información que generan los diferentes medios de comunicación, impresos y electrónicos relativa a las actividades y funciones que desarrolla el Instituto;
 
@@ -1099,7 +1099,7 @@ II. Coadyuvar con la Comisión de Participación Ciudadana en la realización de
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-IIl. Coadyuvar con el Secretario Ejecutivo, el Director General y la Dirección Jurídica en la elaboración del calendario de los procesos de referéndum y plebiscito que se declaren procedentes por el Consejo General;
+III. Coadyuvar con el Secretario Ejecutivo, el Director General y la Dirección Jurídica en la elaboración del calendario de los procesos de referéndum y plebiscito que se declaren procedentes por el Consejo General;
 
 IV. Coadyuvar con el Secretario Ejecutivo y la Dirección de Organización, Geografía y Estadística Electoral, en el diseño, elaboración y contenido de la documentación y material electoral a utilizarse en la jornada de votación del tema materia de proceso de participación ciudadana a desarrollarse;
 
@@ -1119,9 +1119,9 @@ Electorales tendrá las atribuciones siguientes:
 
 I. Coadyuvar y auxiliar en el desahogo de las sesiones que celebren las Comisiones permanentes o temporales y los Comités;
 
-Il. Acordar con los Consejeros Electorales que presidan las Comisiones y Comités la programación y preparación de las sesiones y reuniones de trabajo;
+II. Acordar con los Consejeros Electorales que presidan las Comisiones y Comités la programación y preparación de las sesiones y reuniones de trabajo;
 
-IIl. Auxiliar a los Presidentes de Comisiones o Comités en la preparación y elaboración del orden del día a desahogarse en las sesiones;
+III. Auxiliar a los Presidentes de Comisiones o Comités en la preparación y elaboración del orden del día a desahogarse en las sesiones;
 
 IV. Coadyuvar en la elaboración y notificación de las convocatorias a las sesiones de Comisiones y Comités, conforme a las disposiciones que para al acto prevé el reglamento aplicable;
 
@@ -1231,7 +1231,9 @@ Artículo 33 Tetra.
 
 1. La Dirección de Prerrogativas a Partidos Políticos tendrán las atribuciones siguientes:
 
-I. Coadyuvar en la recepción de solicitudes de registro de organizaciones de ciudadanos que pretendan constituirse como partido político o agrupación política estatal, así como en la integración del expediente respectivo;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
+I. Apoyar a la Secretaría Ejecutiva del Instituto en la recepción de solicitudes de registro de organizaciones de ciudadanos que pretendan constituirse como partido político o agrupación política estatal, así como en la integración del expediente respectivo;
 
 II. Coadyuvar en la elaboración del dictamen sobre el monto del financiamiento público y privado que corresponde a los partidos políticos para cada año;
 
@@ -1259,7 +1261,7 @@ I. Elaborar los proyectos de Reglamento de Fiscalización y Registros Contables 
 
 II. Emitir las reglas simplificadas y procedimientos expeditos para la presentación de informes de ingresos y egresos de precampañas;
 
-Ill. Elaborar el proyecto de reglamento interior de la Unidad de Fiscalización y las propuestas de reforma;
+III. Elaborar el proyecto de reglamento interior de la Unidad de Fiscalización y las propuestas de reforma;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
@@ -1279,9 +1281,9 @@ V. Las demás establecidas en el Código, el Reglamento Interior de la Unidad de
 
 I. Elaborar y ejecutar su programa anual de trabajo;
 
-Il. Rendir un informe anual al Congreso del Estado de Jalisco;
+II. Rendir un informe anual al Congreso del Estado de Jalisco;
 
-IIl. Ejercer los recursos que le sean asignados por el Consejo General;
+III. Ejercer los recursos que le sean asignados por el Consejo General;
 
 IV. Vigilar que las erogaciones y adquisiciones del Instituto se ajusten a las partidas y montos autorizados; y,
 
@@ -1343,7 +1345,7 @@ I. El Consejero Electoral que la presida convocará a las sesiones a los integra
 
 II. Para que exista quórum, se requiere la presencia de la mayoría de los miembros con derecho de voto, entre los cuales obligadamente deberán encontrarse presente el Consejero Electoral que presida la comisión o comité o quien lo sustituya, así como el secretario técnico o quien haga sus veces. No se requerirá la presencia de los representantes de los partidos políticos para que los acuerdos que se tomen sean válidos;
 
-IIl. Al inicio de cada sesión o reunión, el Secretario Técnico deberá dar cuenta con los acuses de recibo de las convocatorias, en los cuales debe existir constancia de que los integrantes fueron convocados con la anticipación debida y que recibieron el orden del día, así como los expedientes debidamente integrados de los casos a tratar; y,
+III. Al inicio de cada sesión o reunión, el Secretario Técnico deberá dar cuenta con los acuses de recibo de las convocatorias, en los cuales debe existir constancia de que los integrantes fueron convocados con la anticipación debida y que recibieron el orden del día, así como los expedientes debidamente integrados de los casos a tratar; y,
 
 IV. Los consejeros representantes de los partidos políticos podrán designar a persona que asista con fines informativos y reciba documentos de trabajo.
 
@@ -1391,9 +1393,9 @@ VIII. Las demás que determine el Consejo General.
 
 I. Determinar la procedencia de la adquisición de bienes o servicios requeridos por las áreas del Instituto, mediante los procedimientos de licitación pública, invitación o adjudicación directa en los términos que corresponda;
 
-Il. Aprobar la desincorporación o baja administrativa de bienes muebles cuando, previo dictamen, se determine que ya no sean apropiados para los fines del Instituto o que resulten de alto costo de mantenimiento;
+II. Aprobar la desincorporación o baja administrativa de bienes muebles cuando, previo dictamen, se determine que ya no sean apropiados para los fines del Instituto o que resulten de alto costo de mantenimiento;
 
-IIl. Dar trámite a las solicitudes de alta, integrar y conservar actualizado el padrón de proveedores del Instituto;
+III. Dar trámite a las solicitudes de alta, integrar y conservar actualizado el padrón de proveedores del Instituto;
 
 IV. Seleccionar a los proveedores de los bienes o servicios tomando en cuenta las mejores condiciones de calidad, seguridad, servicio, precio, pago, tiempo de entrega y la infraestructura de los participantes, de tal forma que se garantice el cumplimiento del contrato que corresponda, de conformidad con lo previsto en las bases de la convocatoria;
 
@@ -1407,9 +1409,9 @@ VI. Las demás que le confiera este reglamento, el Reglamento de Adquisiciones y
 
 I. Supervisar la estrategia de Capacitación Electoral durante los procesos electorales y de participación ciudadana, así como evaluar su cumplimiento;
 
-Il. Supervisar y evaluar el cumplimiento del Programa de Educación Cívica del Instituto;
+II. Supervisar y evaluar el cumplimiento del Programa de Educación Cívica del Instituto;
 
-IlI. Supervisar las actividades relacionadas con la promoción del voto y difusión de la cultura democrática;
+III. Supervisar las actividades relacionadas con la promoción del voto y difusión de la cultura democrática;
 
 IV. Opinar respecto del contenido de materiales de educación cívica, elaborados por la Dirección de Capacitación Electoral y Educación Cívica;
 
@@ -1523,7 +1525,7 @@ I. Proponer al Consejo General en su caso, los lineamientos del procedimiento pa
 
 II. Conocer de las causas de improcedencia respecto de las solicitudes de referéndum, plebiscito o iniciativa popular y emitir dictamen en lo conducente; y,
 
-IIl. Las demás que le confiera este reglamento, el Código y demás normatividad aplicable.
+III. Las demás que le confiera este reglamento, el Código y demás normatividad aplicable.
 
 ###### Artículo 55.
 
@@ -1531,9 +1533,9 @@ IIl. Las demás que le confiera este reglamento, el Código y demás normativida
 
 I. Vigilar el cumplimiento de los programas de prerrogativas a partidos políticos, que efectúe la Dirección de Prerrogativas a Partidos Políticos;
 
-Il. Establecer las políticas generales, criterios técnicos y lineamientos a que se sujetará el programa de prerrogativas a partidos políticos;
+II. Establecer las políticas generales, criterios técnicos y lineamientos a que se sujetará el programa de prerrogativas a partidos políticos;
 
-IlI. Vigilar que en lo relativo a las prerrogativas de los partidos políticos se actúe con apego al Código, así como a lo dispuesto en los reglamentos que al efecto expida el Consejo General; y,
+III. Vigilar que en lo relativo a las prerrogativas de los partidos políticos se actúe con apego al Código, así como a lo dispuesto en los reglamentos que al efecto expida el Consejo General; y,
 
 IV. Las demás que le confiera este Reglamento, el Código y demás normatividad aplicable.
 
@@ -1551,7 +1553,7 @@ II. Clasificación de Información Pública;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
-IIl. Radio y Televisión;
+III. Radio y Televisión;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
 
@@ -1787,7 +1789,7 @@ C. Presentar al Secretario Ejecutivo, a través del Director General, o al Secre
 
 D. Las demás que le confiera el Código, el Consejo General y el Consejo Distrital
 
-Il. A los Consejeros Municipales:
+II. A los Consejeros Municipales:
 
 A. Cumplir con los acuerdos, lineamientos, procedimientos, programas y demás normatividad emitida por el Consejo General o los Consejos Distritales;
 
@@ -1805,7 +1807,7 @@ G. Participar en los simulacros de capacitación para los integrantes de las mes
 
 H. Las demás que les confiera el Código, así como aquellas que les encomienden el Consejo General, o el Presidente del Consejo Distrital.
 
-IIl. Al Secretario del Consejo Municipal:
+III. Al Secretario del Consejo Municipal:
 
 A. Elaborar las actas de las sesiones, , (sic) y autorizarlas con su firma junto con la del Consejero Presidente;
 
@@ -1883,10 +1885,14 @@ PRIMERO. Se abrogan todas las disposiciones reglamentarias contrarias al present
 
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 3 DE AGOSTO DE 2010.
 
 PRIMERO. Se abrogan todas las disposiciones reglamentarias contrarias al presente Reglamento.
 
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE NOVIEMBRE DE 2011.
+
+Único. El presente acuerdo entra en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
