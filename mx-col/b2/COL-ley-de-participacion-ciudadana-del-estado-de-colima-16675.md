@@ -4,7 +4,7 @@ identifier: "COL-ley-de-participacion-ciudadana-del-estado-de-colima-16675"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-22"
-last_updated: "2000-01-22"
+last_updated: "2011-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el suplemento No. 1 del Periódico Oficial "El Estado de Colima", el sábado 22 de enero de 2000.
 
@@ -97,9 +97,11 @@ El Instituto estará exento del pago de los derechos por publicación en todos l
 
 ### CAPITULO I. DE LA INICIATIVA POPULAR CON RESPECTO A LEYES Y DECRETOS
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-Los ciudadanos tienen la facultad de presentar iniciativas populares, de conformidad con lo previsto por los artículos 13 y 37, fracción V, de la Constitución.
+###### Artículo 6°.
+
+Los ciudadanos colimenses tienen la facultad de presentar iniciativas populares, de conformidad con lo previsto por los artículos 13 y 37, fracción V, de la Constitución.
 
 ###### Artículo 7º.
 
@@ -121,9 +123,11 @@ III.- Los artículos transitorios; y
 
 IV.- Un documento anexo, individual de cada uno de los ciudadanos que suscriban la iniciativa, en donde expresamente ratifiquen en sus términos a aquélla. Dicho documento contendrá, además, el nombre completo y domicilio del ciudadano, clave de elector y folio de su credencial para votar con fotografía y firma autógrafa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-La iniciativa será procedente cuando sea suscrita por el 4%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del Estado.
+La iniciativa será procedente cuando sea suscrita por el 2%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del Estado.
 
 Para los efectos de este artículo, el Oficial Mayor solicitará mensualmente, por escrito, al Presidente del Instituto Electoral del Estado, la información actualizada del padrón electoral.
 
@@ -151,9 +155,11 @@ Desechada una iniciativa, sólo podrá volverse a presentar transcurrido un año
 
 ### CAPITULO II. DE LA INICIATIVA POPULAR CON RESPECTO A REGLAMENTOS Y BANDOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-Los ciudadanos tienen la facultad de presentar iniciativas populares sobre reglamentos municipales, de conformidad con lo previsto por los artículos 13 y 94 de la Constitución.
+Los ciudadanos de los municipios del Estado, tienen la facultad de presentar iniciativas populares sobre reglamentos municipales, de conformidad con lo previsto por los artículos 13 y 96 de la Constitución.
 
 ###### Artículo 17.
 
@@ -175,9 +181,11 @@ III.- Los artículos transitorios; y
 
 IV.-. Un documento anexo, individual de cada uno de los ciudadanos que suscriban la iniciativa, en donde expresamente ratifiquen en sus términos a aquélla. Dicho documento contendrá, además, el nombre completo y domicilio del ciudadano, clave de elector y folio de su credencial para votar con fotografía y firma autógrafa.
 
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-La iniciativa será procedente cuando sea suscrita por el 5%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del municipio respectivo.
+La iniciativa será procedente cuando sea suscrita por el 3%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del municipio respectivo.
 
 Para los efectos de este artículo, el Secretario solicitará mensualmente, por escrito, al Presidente del Instituto Electoral del Estado, la información actualizada del padrón electoral.
 
@@ -532,3 +540,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los dieciocho días del mes de enero del año dos mil.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.
+
+N DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 19 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
