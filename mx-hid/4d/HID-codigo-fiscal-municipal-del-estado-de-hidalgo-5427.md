@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "2008-03-10"
+last_updated: "2011-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE HIDALGO
 
-CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
+CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, PUBLICADO EN EL ALCANCE DEL P.O. DE FECHA 21 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -3116,3 +3118,13 @@ P.O. 10 DE MARZO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2012, previa Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Al entrar en vigor el Código Fiscal Municipal que se contiene en el presente Decreto, queda abrogado el Código Fiscal Municipal para el Estado de Hidalgo, Publicado el 1 de enero de 1983.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO.- En los 180 días siguientes a la Publicación, se deberá expedir el Reglamento de este Código.
