@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-contaduria-mayor-de-hacienda-del-estado-1217
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-06-21"
-last_updated: "1999-02-14"
+last_updated: "2011-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN LA PRIMERA SECCION DEL P.O. DE FECHA 21 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento 2 al Número 25 del Periódico Oficial del Estado de Aguascalientes, el 21 de junio de 1981.
 
@@ -532,3 +534,33 @@ P.O. 14 DE FEBRERO DE 1999.
 PRIMERO.- La presente reforma entrará en vigor al día de su expedición.
 
 SEGUNDO.- La Comisión de Vigilancia deberá proponer al Pleno del Congreso el Reglamento Interior de la Contaduría Mayor de Hacienda del Congreso del Estado, dentro de un plazo no mayor de 30 días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 21 de junio de 1981, y se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan a la presente Ley de Fiscalización Superior del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las facultades, atribuciones y referencias que se hagan al Auditor Superior del Estado, se entenderán atribuidas y referidas al encargado de despacho o bien, al Diputado Presidente de la Comisión de Vigilancia, hasta en tanto el Congreso designe al Auditor Superior, conforme al procedimiento previsto en el presente Decreto y que cumplirá el plazo establecido en el Artículo 27 B de la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los plazos y términos aplicables para la presentación de las Cuentas Públicas, Informes de Avances de Gestión Financiera, Informes de Resultados y para su revisión contenidas en la Ley de Fiscalización Superior del Estado de Aguascalientes, entrarán en vigencia a partir de las Cuentas Públicas e Informe de Resultado correspondientes al ejercicio fiscal 2011.
+
+###### ARTÍCULO QUINTO.
+
+Las normas sobre procedimiento y atribuciones del Órgano Superior de Fiscalización contenidas en la presente Ley, serán aplicables a las Cuentas Públicas correspondientes al ejercicio fiscal 2011 y subsecuentes.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias hechas a la Contaduría Mayor de Hacienda, en los ordenamientos jurídicos o administrativos, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de la Ley materia del presente Decreto, se entenderán referidos al Órgano Superior de Fiscalización; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante los sesenta días siguientes a la entrada en vigor de la presente Ley deberá integrarse la Unidad de Evaluación y Control de la Comisión de Vigilancia y expedirse su Reglamentos Interior.
