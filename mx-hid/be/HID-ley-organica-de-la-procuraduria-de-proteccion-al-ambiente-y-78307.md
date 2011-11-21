@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-procuraduria-de-proteccion-al-ambiente-y-783
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGANICA DE LA PROCURADURIA DE PROTECCION AL AMBIENTE Y DEL ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL ALCANCE AL P.O. DE 21 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -350,3 +352,25 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Hidalgo, Publicada en el Periódico Oficial del Estado el 13 de junio de 1994.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto. Se abroga la Ley Orgánica de la Procuraduría Estatal de Protección al Ambiente y de Ordenamiento Territorial.
+
+En tanto no se decrete la creación del órgano desconcentrado, la Secretaría de Medio Ambiente y Recursos Naturales podrá substanciar y resolver, en cuanto al incumplimiento de la normatividad ambiental.
+
+CUARTO.- En tanto se expidan los nuevos ordenamientos que regulan los aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en todo lo que no se oponga a este Decreto, tanto las disposiciones legales como reglamentarias que regulaban los actos previstos en la Ley que se propone.
+
+QUINTO.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los preceptos derogados otorgaban a otras dependencias u órganos, deberá hacerse en consecuencia, el traspaso y readscripción de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+SEXTO.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+SÉPTIMO.- La readscripción de personal, en ninguna forma afectaran los derechos laborales que hubieren adquirido con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a las Secretarías de Gobierno, de Finanzas y Administración y a la organización sindical correspondiente, para su atención.
+
+OCTAVO.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
