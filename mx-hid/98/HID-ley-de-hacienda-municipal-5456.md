@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "2006-12-29"
+last_updated: "2011-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 21 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -1988,3 +1990,25 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
 CUARTO.- En tanto la presente adición entre en vigor, las disposiciones legales Municipales que deberán adecuarse por virtud de este mandato, continuarán aplicándose en todo lo que no se oponga a esta reforma.
 
 QUINTO.- Los Municipios que no cuenten con la capacidad técnica, económica y administrativa, para atender las funciones relacionadas con la administración de las contribuciones establecidas en el presente Decreto podrán celebrar Convenios con el Estado, para que éste se haga cargo de las mismas.
+
+P.O. 21 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO 1o.
+
+La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO 2o.
+
+La presente Ley tendrá aplicación hasta en tanto se aprueben las reformas a las Leyes de Ingresos de los Municipios continuando en su aplicación la Ley de Hacienda Municipal que se abroga.
+
+###### ARTÍCULO 3o.
+
+Se abroga la Ley de Hacienda Municipal para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de fecha 31 de diciembre de 1982, contenida en el Decreto número 89 de fecha 29 de diciembre de 1982, en términos del Artículo que precede.
+
+###### ARTÍCULO 4o.
+
+Los Municipios que no cuenten con la capacidad técnica, económica y administrativa, para atender las funciones relacionadas con la administración de las contribuciones establecidas en el presente decreto, podrán celebrar convenios con el Estado para que éste se haga cargo de las mismas, en los que se determinará la participación que de dichas contribuciones corresponda al Estado.
+
+###### ARTÍCULO 5o.
+
+Para el mes de enero del Ejercicio Fiscal 2012, el pago del impuesto predial o de la anualidad anticipada se realizará a partir del 16 de enero de ese Ejercicio Fiscal.
