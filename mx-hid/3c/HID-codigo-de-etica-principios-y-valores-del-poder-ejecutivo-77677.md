@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-etica-principios-y-valores-del-poder-ejecutivo-77677"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-08"
-last_updated: "2010-12-08"
+last_updated: "2011-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE ETICA, PRINCIPIOS Y VALORES DEL PODER EJECUTIVO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el miércoles 8 de diciembre de 2010.
 
@@ -127,6 +127,10 @@ II. Retardar ó dejar de hacer tareas relativas a sus funciones; y
 
 III. Hacer valer su influencia ante otro servidor público, a fin de que éste agilice, retarde ó deje de hacer tareas relativas a sus funciones.
 
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2011)</small>
+
+IV. Los servidores públicos se excusarán de aceptar que se dé su nombre a plazas públicas, vialidades, mercados, escuelas o auditorios.
+
 ###### Artículo 6.
 
 El servidor público tiene prohibido obtener cualquier tipo de beneficio si proviene de:
@@ -170,3 +174,11 @@ Dado en la residencia oficial del Poder Ejecutivo del Estado de Hidalgo en la Cu
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
 
 LICENCIADO MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deja sin efecto el Acuerdo que establece las bases generales a las que se sujetarán los servidores públicos del Poder Ejecutivo del Gobierno de (sic) Estado para el ejercicio austero, honesto, eficiente y con sentido social de los recursos públicos asignados por el presupuesto del estado así como de los determinados a través del Convenio del Desarrollo Social celebrado con la Federación el 31 de mayo de 1993, Publicado en el Periódico Oficial del Estado, el 14 de junio del mismo año.
