@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2010-12-21"
+last_updated: "2011-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-LEY NUMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -725,17 +725,29 @@ XI.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 XII.- Procuraduría General de Justicia;
 
-XIII.- El Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XIV.- La Comisión de Defensa de los Derechos Humanos;
+XIII.- El Congreso del Estado, por conducto de la Comisión Ordinaria de Equidad y Género;
 
-XV.- El Consejo Estatal para Prevenir la Discriminación;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+XIV.- El Tribunal Superior de Justicia;
 
-XVI.- Las instancias de atención a las mujeres en los Municipios; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XVII.- Las organizaciones civiles especializadas en derechos humanos de las mujeres.
+XV.- La Comisión de Defensa de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVI. - El Consejo Estatal para Prevenir la Discriminación;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVII.- Las instancias de atención a las mujeres en los Municipios; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Las organizaciones civiles especializadas en derechos humanos de las mujeres.
 
 ###### ARTÍCULO 41.
 
@@ -1135,9 +1147,27 @@ I.- Contar con asesores legales que puedan representar a las mujeres, ya sea en 
 
 II.- Proporcionar atención psicoterapéutica, no sólo de intervención en crisis, sino tendiente a disminuir el impacto psicoemocional del delito en la víctima u ofendido, incorporando aspectos clínicos, somáticos y psicoemocionales, como la exteriorización de la culpa y la extensión del síndrome con motivo de la respuesta familiar y social al evento.
 
-#### SECCIÓN DÉCIMA TERCERA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+#### SECCIÓN DÉCIMA TERCERA. DEL CONGRESO DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+ARTÍCULO 55 BIS.- Corresponde al Congreso del Estado, por conducto de la Comisión Ordinaria de Equidad y Género:
+
+l. Legislar en materia de prevención, sanción y erradicación de la violencia hacia las mujeres en el sistema jurídico estatal;
+
+II. Realizar acciones legislativas tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentran en situación de desventaja social;
+
+III. Asegurar que en el Presupuesto de Egresos del Estado se asigne una partida presupuestal a las dependencias que integran el Sistema para el cabal cumplimiento de sus objetivos y del Programa previsto en la presente ley;
+
+IV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+V. Tomar medidas y realizar las acciones necesarias en coordinación con las demás autoridades para alcanzar los objetivos de la presente ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN DÉCIMA CUARTA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 ###### ARTÍCULO 56.
 
@@ -1149,7 +1179,9 @@ II. Coadyuvar en la difusión del procedimiento Judicial en materia de Violencia
 
 III. Tomar medidas y realizar las acciones necesarias en coordinación con las demás autoridades para alcanzar los objetivos de la presente ley.
 
-#### SECCIÓN DÉCIMA QUINTA. DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN DÉCIMA QUINTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA
 
 ###### ARTÍCULO 57.
 
@@ -1179,7 +1211,9 @@ XI. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XII. Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN DÉCIMA SEXTA. DE LOS MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN DÉCIMA SEXTA. DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 58.
 
@@ -1197,7 +1231,9 @@ V. Tomar medidas y realizar acciones necesarias, en coordinación con las demás
 
 VI. Solicitar al Ejecutivo del Estado, la declaratoria de Alerta de Violencia de Género, cuando la persistencia de delitos en contra de mujeres así lo demande.
 
-#### SECCIÓN DÉCIMA SÉPTIMA. DE LAS ORGANIZACIONES CIVILES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN DÉCIMA SÉPTIMA. DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 59.
 
@@ -1238,6 +1274,10 @@ XIII. Solicitar al Ejecutivo del Estado, la declaratoria de Alerta de Violencia 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XIV. Instalar el Sistema Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, contando con la participación de representantes del Ayuntamiento, de la administración pública municipal y de las organizaciones de mujeres en el municipio.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+#### SECCIÓN DÉCIMA OCTAVA. DE LAS ORGANIZACIONES CIVILES
 
 ###### ARTÍCULO 60.
 
@@ -1414,3 +1454,13 @@ Rúbrica.
 P.O. 21 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo para los efectos legales procedentes.
