@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2011-07-30"
+last_updated: "2011-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -213,7 +213,7 @@ La Comisión estará atenta a los procesos de formación de nuevas identidades y
 
 ###### ARTICULO 17.
 
-En aplicación del Principio de Inmediatez, la Comisión obligatoriamente establecerá procedimientos expeditos, breves y sencillos para el trámite de las quejas y denuncias. Específicamente:
+En aplicación del Principio de Inmediatez, la Comisión obligatoriamente establecerá procedimientos expeditos, breves y sencillos para el trámite de las quejas y denuncias, Específicamente:
 
 I. Evitará la dilación de las comunicaciones escritas, utilizando todos los mecanismos tecnológicos a su disposición para comunicarse con la autoridad señalada como responsable, buscando que la violación de Derechos Humanos denunciada cese y sea reparada lo antes posible;
 
@@ -881,9 +881,15 @@ X. Las demás que se les señalen por la presente Ley, por lineamientos generale
 
 Las personas titulares de las Visitadurías Generales establecidas en regiones con población indígena deberán:
 
-I. Recorrer sistemáticamente el territorio de su jurisdicción, manteniendo contacto con las autoridades de los pueblos en cada una de las comunidades, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-II. Contar con personal que domine las lenguas de los pueblos en su jurisdicción, o tener acceso expedito a personal de estas características, mediante acuerdos con instituciones públicas o privadas.
+I. Recorrer sistemáticamente el territorio de su jurisdicción, manteniendo contacto con las autoridades de los pueblos en cada una de las comunidades;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+II. Realizar visitas periódicas a los pueblos, albergues o zonas de concentración indígena, con la finalidad de verificar el irrestricto respecto (sic) a los derechos humanos y sociales que les reconoce la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado, las leyes y reglamentos que de ambas emanan; así como los instrumentos internacionales que México haya ratificado sobre derechos de los pueblos indígenas, y
+
+III. Contar con personal que domine las lenguas de los pueblos en su jurisdicción, o tener acceso expedito a personal de estas características, mediante acuerdos con instituciones públicas o privadas.
 
 ###### ARTICULO 65.
 
@@ -1005,9 +1011,11 @@ La Contraloría Interna es el órgano de la Comisión que tiene encomendada la f
 
 En el ejercicio de sus atribuciones, la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 79.
 
-La persona titular de la Contraloría Interna será designada, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes. Durará en su encargo cuatro años podrá ser reelecta por una sola vez y no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
+La persona titular de la Contraloría Interna será designada, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
 En la designación la persona titular de la Contraloría Interna, el Congreso del Estado se sujetará a lo siguiente:
 
@@ -1017,7 +1025,9 @@ II. La comisión especial emitirá una convocatoria pública, en la que se estab
 
 III. La comisión integrará una lista no menor de tres aspirantes, que presentará a la consideración del Pleno del Congreso del Estado;
 
-IV. El Congreso en Pleno, de la lista presentada por la comisión especial elegirá, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes, a quien deberá fungir como titular de la Contraloría Interna de la Comisión, y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como persona titular de la Contraloría Interna de la Comisión, y
 
 V. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley, ante el Pleno del Congreso.
 
@@ -1556,3 +1566,19 @@ P.O. 30 DE JULIO DE 2011.
 PRIMERO. Este Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+DECRETO 767 POR EL QUE SE REFORMA EL ARTICULO 64 EN SU FRACCIÓN I; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 64, ÉSTA COMO II, POR LO QUE ACTUAL II PASA A SER FRACCIÓN III, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+P.O. 22 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+DECRETO 768 POR EL QUE SE REFORMA EL ARTICULO 79 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN IV, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ.
+
+P.O. 22 DE NOVIEMBRE DE 2011
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
