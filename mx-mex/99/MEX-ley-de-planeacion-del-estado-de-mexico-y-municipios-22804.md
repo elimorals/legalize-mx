@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2010-11-17"
+last_updated: "2011-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -65,11 +65,11 @@ Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación par
 
 El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
 
-> <small>(REFORMADO, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-La planeación democrática para el desarrollo se sustenta en los principios de igualdad, no discriminación, simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos, tomando en cuenta la perspectiva de género.
+La planeación democrática para el desarrollo se sustenta en los principios de igualdad, no discriminación, simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso, destino de los recursos y el cuidado del medio ambiente, tomando en cuenta la perspectiva de género.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -764,3 +764,9 @@ G.G. 17 DE NOVIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 22 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
