@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-finanzas-de-la-73289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-04"
-last_updated: "2010-02-04"
+last_updated: "2011-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL ACUERDO PUBLICADO EN EL P.O. 22 DE NOVIEMBRE DE 2011, TODAS LAS REFERENCIAS HECHAS A LA "COORDINACIÓN ADMINISTRATIVA DE LA SECRETARÍA DE FINANZAS", SE ENTENDERÁN HECHAS A LA "DIRECCIÓN DE SERVICIOS ADMINISTRATIVOS".</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 4 de febrero del 2010.
 
@@ -40,6 +42,8 @@ La Secretaría de Finanzas, como dependencia de la Administración Pública Cent
 ###### ARTÍCULO 2.
 
 La Secretaría de Finanzas, en lo sucesivo la Secretaría, conducirá sus actividades de coordinación, ejecución, evaluación y control con base en los objetivos, políticas, estrategias, prioridades y restricciones, que establezcan el Plan Estatal de Desarrollo y el Gobernador de la Entidad en ejercicio de sus facultades.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 3.
 
@@ -69,19 +73,25 @@ XI. Dirección de Programación;
 
 XII. Dirección de Presupuesto;
 
-XIII. Dirección de Informática;
+XIII. Dirección de Política Financiera;
 
-XIV. Coordinación Administrativa; y
+XIV. Dirección Jurídica
 
-XV. Secretaría Técnica.
+XV. Dirección de Informática;
+
+XVI. Dirección de Servicios Administrativos; y
+
+XVII. Secretaría Técnica.
 
 La Secretaría y todas sus unidades administrativas tendrán su sede en la Ciudad de San Francisco de Campeche, del Municipio de Campeche, pertenecientes al Estado de Campeche y ejercerán sus facultades dentro de la circunscripción territorial del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 4.
 
 Las unidades administrativas de la Secretaría quedan adscritas de la siguiente forma:
 
-I. A la Oficina del Titular de la Secretaría:
+I.- A la Oficina del Titular de la Secretaría:
 
 1. La Subsecretaría de Ingresos;
 
@@ -91,41 +101,51 @@ I. A la Oficina del Titular de la Secretaría:
 
 4. La Procuraduría Fiscal;
 
-5. La Dirección General de Auditoría Fiscal;
+5. La Dirección General de Auditoria Fiscal;
 
-6. La Dirección de Informática;
+6. La Dirección de Política Financiera;
 
-7. La Coordinación Administrativa; y
+7. La Dirección de Informática;
 
-8. La Secretaría Técnica.
+8. La Dirección de Servicios Administrativos; y
 
-II. A la Subsecretaría de Ingresos:
+9. La Secretaria Técnica.
 
-9. La Dirección de Ingresos; y
+II.- A la Subsecretaría de Ingresos:
 
-10. La Dirección de Atención y Servicios al Contribuyente.
+10. La Dirección de Ingresos; y
 
-III. A la Subsecretaría de Egresos:
+11. La Dirección de Atención y Servicios al Contribuyente.
 
-11. La Dirección de Egresos; y
+III.- A la Subsecretaría de Egresos:
 
-12. La Dirección de Contabilidad Gubernamental; y
+12. La Dirección de Egresos; y
 
-IV. A la Subsecretaría de Programación y Presupuesto:
+13. La Dirección de Contabilidad Gubernamental; y
 
-13. La Dirección de Programación; y
+IV.- A la Subsecretaría de Programación y Presupuesto:
 
-14. La Dirección de Presupuesto.
+14. La Dirección de Programación; y
+
+15. La Dirección de Presupuesto.
+
+V.- A la Procuraduría Fiscal:
+
+16. La Dirección Jurídica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 5.
 
-Las Subsecretarías, Direcciones, Coordinación, Secretaría Técnica y demás unidades administrativas de la Secretaría ejercerán sus atribuciones de conformidad con las disposiciones legales y reglamentarias aplicables y de acuerdo con los lineamientos, normas y políticas que fije el titular de la misma.
+Las Subsecretarías, Direcciones, Secretaría Técnica y demás unidades administrativas de la Secretaría ejercerán sus atribuciones de conformidad con las disposiciones legales y reglamentarias aplicables y de acuerdo con los lineamientos, normas y políticas que fije el titular de la misma.
 
 La Procuraduría Fiscal y la Dirección General de Auditoría Fiscal tendrán administrativamente el rango de subsecretarías, para todos los efectos de este Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 6.
 
-Al frente de las Subsecretarías, Direcciones, Coordinación y Secretaría Técnica habrá un titular que asumirá la responsabilidad de su funcionamiento y será auxiliado en sus funciones por los Subdirectores, Asesores, Coordinadores, Jefes de Departamento, Jefes de Unidad, Analistas Especializados, Analistas, Cajeros, Recaudadores, Supervisores, Auditores, Ayudantes de Auditor, Inspectores, Visitadores, Ejecutores, Notificadores, Verificadores y demás servidores públicos que señale este Reglamento o el Tabulador de Puestos cualquiera que fuere la denominación del cargo, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+Al frente de las Subsecretarías, Direcciones, y Secretaría Técnica habrá un titular que asumirá la responsabilidad de su funcionamiento y será auxiliado en sus funciones por los Subdirectores, Asesores, Coordinadores, Jefes de Departamento, Jefes de Unidad, Analistas Especializados, Analistas, Cajeros, Recaudadores, Supervisores, Auditores, Ayudantes de Auditor, Inspectores, Visitadores, Ejecutores, Notificadores, Verificadores y demás servidores públicos que señale este Reglamento o el Tabulador de Puestos cualquiera que fuere la denominación del cargo, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPITULO II. De la Suplencia de los Titulares
 
@@ -211,7 +231,9 @@ XXIX. Prestar a los Municipios, cuando así se lo soliciten, la asesoría y el a
 
 XXX. Las demás que le señalen otras disposiciones legales o reglamentarias y el Titular del Poder Ejecutivo Estatal.
 
-### CAPITULO IV. De las Facultades Generales de los Subsecretarios, Directores, Coordinador y Secretario Técnico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+### CAPITULO IV. De las Facultades Generales de los Subsecretarios, Directores y Secretario Técnico
 
 ###### ARTÍCULO 10.
 
@@ -241,9 +263,11 @@ XI. Proponer al Secretario la designación del personal de las unidades administ
 
 XII. Las demás que les señalen otras disposiciones legales o reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde a los Directores, Coordinador y Secretario Técnico las siguientes facultades de carácter general:
+Corresponde a los Directores y Secretario Técnico las siguientes facultades de carácter general:
 
 I. Acordar con el superior jerárquico inmediato los asuntos de su competencia;
 
@@ -265,7 +289,9 @@ IX. Levantar el acta administrativa al personal de la unidad administrativa a su
 
 X. Las demás que les señalen otras disposiciones legales o reglamentarias.
 
-### CAPITULO V. De las Facultades Específicas de las Subsecretarías, Direcciones, Coordinación y Secretaría Técnica
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+### CAPITULO V. De las Facultades Específicas de las Subsecretarías, Direcciones y Secretaría Técnica
 
 ###### ARTÍCULO 12.
 
@@ -383,61 +409,35 @@ IX. Las demás que le señalen otras disposiciones legales o reglamentarias.
 
 Todas las facultades que en este Reglamento competen a las Direcciones que se encuentran adscritas a la Subsecretaría de Programación y Presupuesto se entenderán conferidas también al Subsecretario de Programación y Presupuesto, quien podrá ejercerlas directamente en cualquier tiempo.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 15.
 
 Compete a la Procuraduría Fiscal:
 
-I. Asesorar y asistir jurídicamente en las materias de su competencia a todas las unidades administrativas y a los servidores públicos adscritos a la Secretaría en los asuntos que deriven del ejercicio de sus atribuciones, a fin de que en los procedimientos administrativos que lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan, cuando así se lo soliciten;
+I. Asesorar y asistir jurídicamente al Secretario de Finanzas;
 
 II. Establecer la organización interna de la Procuraduría e instruir a los servidores públicos de su adscripción para que, de acuerdo con las necesidades del servicio, proporcionen la orientación y asesoría jurídica que se requiera, independientemente de sus áreas de adscripción;
 
-III. Fungir como órgano de consulta brindando la asesoría y apoyo técnico a solicitud de las autoridades federales, estatales o municipales en materia hacendaria respecto a casos concretos; resolver las consultas que le formulen los interesados individualmente en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y, orientar a los contribuyentes en el cumplimiento de las obligaciones fiscales tanto estatales como federales convenidos, en materia de su competencia;
+III. Formular los anteproyectos de leyes, decretos, reglamentos, acuerdos y órdenes que el Secretario proponga, en su caso, al Gobernador del Estado y demás disposiciones de observancia general en las materias de competencia de la Secretaría;
 
-IV. Solicitar de las dependencias de la Administración Pública Estatal y a las unidades administrativas de la Secretaría las propuestas de modificación a las disposiciones legales y reglamentarias en materia hacendaria de sus respectivas competencias;
+IV. Ser enlace en asuntos jurídicos con las áreas correspondientes de las dependencias de la Administración Pública Estatal;
 
-V. Realizar estudios comparados de los sistemas hacendarios, administrativos y de justicia fiscal, contenciosa y administrativa de la Federación y otras Entidades Federativas, para apoyar la modernización hacendaria del Estado;
+V. Administrar los ingresos federales y ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Municipios;
 
-VI. Formular los anteproyectos de leyes, decretos, reglamentos, acuerdos y órdenes que el Secretario proponga, en su caso, al Gobernador del Estado y demás disposiciones de observancia general en las materias de competencia de la Secretaría;
+VI. Representar el interés fiscal del Estado en controversias fiscales del fuero federal, estatal o municipal y a la Secretaría y sus unidades administrativas en toda clase de juicios, recursos, investigaciones o procedimientos administrativos ante los Tribunales de la Federación, del Estado y autoridades diversas, siempre que dicha representación no corresponda al Ministerio Público; asimismo, ejercitar las acciones, excepciones y defensas que correspondan, actuando en todas las instancias del juicio, procedimiento o recurso de que se trate hasta su total conclusión y, en su caso, interponer los medios de impugnación que establezcan las leyes de la materia. En el caso de los juicios de amparo, podrá suplir a las autoridades responsables de cualesquiera de las unidades administrativas de la Secretaría cuando éstas sean emplazadas con el carácter de autoridades responsables ordenadoras o ejecutoras del acto o actos que se reclamen, para lo cual podrá rendir en su representación, por la vía de suplencia, los informes previos y justificados que se les soliciten, así como interponer los recursos que correspondan durante la tramitación de tales juicios, actuando en todas sus instancias, incluso pedir los sobreseimientos y manifestar las causales de improcedencia que se adviertan; para ese efecto, las autoridades responsables deberán proporcionarle las pruebas documentales en copias certificadas que sean necesarias para acreditar la constitucionalidad de sus actos, así como proponer los términos de los informes previos y justificados que deban rendirse;
 
-VII. Ser enlace en asuntos jurídicos con las áreas correspondientes de las dependencias de la Administración Pública Estatal;
+VII. Intervenir, conforme a lo establecido en materia de juicios por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación y sus Anexos, representando a la Secretaría, como parte en los que se susciten con motivo del ejercicio de las facultades delegadas a ésta. De igual manera asumir la responsabilidad en la defensa de los mismos, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público, debiendo informar periódicamente a dicha Secretaría Federal, de acuerdo con los lineamientos que al efecto señale ésta, la situación en que se encuentren los juicios en que haya intervenido y de las resoluciones que recaigan sobre los mismos; así como interponer con la representación del Secretario y de las autoridades demandadas el recurso de revisión contra las sentencias y resoluciones que pongan fin al juicio dictadas por las Salas del Tribunal Federal de Justicia Fiscal y Administrativa respecto de los juicios de su competencia;
 
-VIII. Intervenir en materia de su competencia en los aspectos jurídicos de los Acuerdos y Convenios de Coordinación Fiscal con los Municipios del Estado, así como asesorar a los Municipios en los estudios que soliciten a la Secretaría para la elaboración de sus ordenamientos tributarios y para el establecimiento de los sistemas administrativos correspondientes y, en su caso, participar en la formulación de los convenios y acuerdos de coordinación o colaboración con la Secretaría de Hacienda y Crédito Público;
+VIII. Resolver los recursos administrativos que se interpongan ante la Secretaría contra actos o resoluciones de la misma, tanto en materia estatal como federal, emitidos, en este último caso, en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación y, en su caso, en los Anexos del mismo;
 
-IX. Administrar los ingresos federales y ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Municipios;
+IX. Coordinarse con las autoridades fiscales de la Federación o de los demás Estados, en las materias de su competencia, para eficientar el ejercicio de sus facultades;
 
-X. Proponer, elaborar y aplicar para la aprobación superior las políticas, programas, sistemas, procedimientos, métodos de trabajo, disposiciones administrativas de carácter general para aplicar la legislación fiscal en materia estatal, con la participación de la Dirección General de Auditoría Fiscal y Dirección de Ingresos y, en su caso, proponer las correspondientes a la materia federal relacionadas con lo estipulado en el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Estado y la Federación y, en su caso, en sus Anexos;
+X. Expedir las constancias de identificación del personal a su cargo, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades;
 
-XI. Representar el interés fiscal del Estado en controversias fiscales del fuero federal, estatal o municipal y a la Secretaría y sus unidades administrativas en toda clase de juicios, recursos, investigaciones o procedimientos administrativos ante los Tribunales de la Federación, del Estado y autoridades diversas, siempre que dicha representación no corresponda al Ministerio Público; asimismo, ejercitar las acciones, excepciones y defensas que correspondan, actuando en todas las instancias del juicio, procedimiento o recurso de que se trate hasta su total conclusión y, en su caso, interponer los medios de impugnación que establezcan las leyes de la materia. En el caso de los juicios de amparo, podrá suplir a las autoridades responsables de cualesquiera de las unidades administrativas de la Secretaría cuando éstas sean emplazadas con el carácter de autoridades responsables ordenadoras o ejecutoras del acto o actos que se reclamen, para lo cual podrá rendir en su representación, por la vía de suplencia, los informes previos y justificados que se les soliciten, así como interponer los recursos que correspondan durante la tramitación de tales juicios, actuando en todas sus instancias, incluso pedir los sobreseimientos y manifestar las causales de improcedencia que se adviertan; para ese efecto, las autoridades responsables deberán proporcionarle las pruebas documentales en copias certificadas que sean necesarias para acreditar la constitucionalidad de sus actos, así como proponer los términos de los informes previos y justificados que deban rendirse;
+XI. Las demás que le señalen las leyes, reglamentos, convenios y sus anexos celebrados en la materia en los que el Estado sea parte.
 
-XII. Intervenir, conforme a lo establecido en materia de juicios por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación y sus Anexos, representando a la Secretaría, como parte en los que se susciten con motivo del ejercicio de las facultades delegadas a ésta. De igual manera asumir la responsabilidad en la defensa de los mismos, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público, debiendo informar periódicamente a dicha Secretaría Federal, de acuerdo con los lineamientos que al efecto señale ésta, la situación en que se encuentren los juicios en que haya intervenido y de las resoluciones que recaigan sobre los mismos; así como interponer con la representación del Secretario y de las autoridades demandadas el recurso de revisión contra las sentencias y resoluciones que pongan fin al juicio dictadas por las Salas del Tribunal Federal de Justicia Fiscal y Administrativa respecto de los juicios de su competencia;
-
-XIII. Previa anuencia del titular de la Secretaría, allanarse y transigir en los juicios fiscales, contenciosos o administrativos competencia de la dependencia; así como abstenerse de interponer recursos en dichos juicios en que se haya transigido o allanado, incluyendo el de revisión contra sentencias o resoluciones dictadas por los tribunales correspondientes;
-
-XIV. Informar a las autoridades competentes de la comisión o presunta comisión de delitos fiscales de que conozca con motivo de sus actuaciones, o delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, inclusive a los que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación por conducto de la Secretaría de Hacienda y Crédito Público y sus Anexos; y, cuando así corresponda, previa autorización del Titular de la Secretaría, formular las denuncias y querellas ante el Ministerio Público competente en delitos fiscales, tratándose de hechos delictuosos en que la Secretaría resulte ofendida o de aquéllos de que tenga conocimiento o interés;
-
-XV. Resolver los recursos administrativos que se interpongan ante la Secretaría contra actos o resoluciones de la misma, tanto en materia estatal como federal, emitidos, en este último caso, en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación y, en su caso, en los Anexos del mismo;
-
-XVI. Coordinarse con las autoridades fiscales de la Federación o de los demás Estados, en las materias de su competencia, para eficientar el ejercicio de sus facultades;
-
-XVII. Expedir las constancias de identificación del personal a su cargo, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades;
-
-XVIII. Requerir y notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores y fedatarios públicos los informes y datos que tengan con motivo de sus funciones, para el objeto antes citado, tanto en materia estatal como federal, este último conforme a lo establecido por el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Estado y la Federación y sus Anexos;
-
-XIX. Emitir opinión a efecto de que la autoridad competente esté en posibilidad de declarar la prescripción de créditos fiscales y tramitar el procedimiento de dación de bienes en pago;
-
-XX. Declarar la extinción de facultades de la autoridad para comprobar el cumplimiento de las disposiciones fiscales para determinar las contribuciones omitidas, sus aprovechamientos o, en su caso, sus accesorios, y para imponer multas en relación con los impuestos y derechos de carácter tanto estatal como federal;
-
-XXI. Imponer multas por infracción a las disposiciones que rigen la materia de su competencia; condonar multas determinadas e impuestas por ella misma y por las unidades administrativas de la Secretaría, así como los recargos;
-
-XXII. Promover con las entidades públicas y privadas investigaciones y estudios, celebración de campañas, conferencias y demás asuntos relacionados con las cuestiones fiscales del Estado, señalando los medios de comunicación que deberán emplearse y precisar los diversos aspectos técnicos de su utilización;
-
-XXIII. Vigilar que los manuales de procedimientos fiscales, formatos y guías en materia fiscal estatal correspondientes a las unidades administrativas de la Secretaría se apeguen a la legislación, reglamentación y demás normatividad vigente y ordenar, cuando se le solicite, su corrección o ajuste;
-
-XXIV. Compilar, ordenar y actualizar el acervo legal, reglamentario y procedimental vigente de la Secretaría;
-
-XXV. Participar en la Comisión de Estudios Jurídicos del Gobierno del Estado que preside la Consejería Jurídica del Gobernador;
-
-XXVI. Las demás que le señalen las leyes, reglamentos, convenios y sus anexos celebrados en la materia en los que el Estado sea parte.
+Todas las facultades que en este Reglamento competen a la Dirección Jurídica que se encuentra adscrita a la Procuraduría Fiscal, se entenderán conferidas también al Procurador Fiscal, quien podrán (sic) ejercerlas directamente en cualquier tiempo.
 
 ###### ARTÍCULO 16.
 
@@ -477,9 +477,13 @@ XVI. Requerir a los contribuyentes, responsables solidarios o terceros con ellos
 
 XVII. Recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, a fin de comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y accesorios tanto de carácter estatal como federal convenidos;
 
-XVIII. Revisar que los dictámenes formulados por contador público registrado sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones, o cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales, reúnan los requisitos establecidos en las disposiciones fiscales; comprobar el cumplimiento de las disposiciones fiscales relativas a contribuciones y accesorios de carácter federal;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XIX. Determinar y notificar a los contadores públicos registrados las irregularidades de su actuación profesional de que tenga conocimiento la autoridad con motivo de la revisión de los dictámenes que formulen para efectos fiscales;
+XVIII. Revisar que los dictámenes formulados por contador público registrado sobre los estados financieros relacionados con las declaraciones fiscales de impuestos federales de los contribuyentes o respecto de operaciones de enajenación de acciones, o cualquier otro tipo de dictamen o declaratoria que tenga repercusión para efectos fiscales federales, así como los impuestos estatales, reúnan los requisitos establecidos en las disposiciones fiscales federales y estatales y cumplan las relativas a contribuciones y accesorios de carácter federal y estatal; autorizar prórrogas para la presentación del dictamen de impuestos estatales y demás documentos que los deban acompañar; comunicar a los contribuyentes que surte efectos o no el aviso para presentar dictamen fiscal de impuestos estatales y el propio dictamen;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIX. Determinar y notificar a los contadores públicos registrados las irregularidades de su actuación profesional de que tenga conocimiento la autoridad con motivo de la revisión de los dictámenes que formulen para efectos fiscales de impuestos federales o estatales, así como suspender o cancelar el registro estatal correspondiente y exhortar o amonestar a dichos contadores públicos respecto a su actuación relacionada con dictámenes que formulen para efectos fiscales de impuestos estatales.
 
 XX. Ordenar y practicar el embargo precautorio o el aseguramiento de los bienes o la negociación en los casos en que las leyes estatales y federales lo señalen, así como levantarlo cuando proceda;
 
@@ -499,9 +503,19 @@ XXVII. Continuar con la práctica de los actos de fiscalización que hayan inici
 
 XXVIII. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XXIX. Rendir los informes que solicite el Secretario; y
+XXIX. Rendir los informes que solicite el Secretario; y (sic)
 
-XXX. Las demás que le señalen otras disposiciones legales y reglamentarias, o las contenidas en los convenios y anexos en materia fiscal en que el Estado sea parte.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXX. Otorgar registro a los contadores públicos para formular dictámenes sobre el cumplimiento de las obligaciones fiscales estatales, así como otorgar el registro a despachos de contadores públicos, cuyos socios o integrantes sean contadores públicos que hayan obtenido registro en el Estado para formular dictámenes para efectos fiscales;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXI. Recibir los dictámenes formulados por contador público registrado;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXII. Las demás que le señalen otras disposiciones legales y reglamentarias, o las contenidas en los convenios y anexos en materia fiscal en que el Estado sea parte.
 
 ###### ARTÍCULO 17.
 
@@ -535,6 +549,10 @@ XIII. Revisar las declaraciones de los contribuyentes, para verificar el correct
 
 XIV. Determinar en cantidad líquida los impuestos y accesorios correspondientes a cargo de los contribuyentes, responsables solidarios y demás obligados, tanto en materia estatal como federal convenida;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIV-BIS.- Expedir constancias en las que se señalen las declaraciones presentadas por los contribuyentes en materia de cumplimiento de obligaciones y cartera de créditos;
+
 XV. Imponer las multas por infracciones previstas en las disposiciones fiscales estatales, así como federales, relacionadas con el incumplimiento de disposiciones fiscales, como también las señaladas en otras disposiciones legales, en el ámbito de su competencia;
 
 XVI. Mantener actualizado el Registro Estatal de Contribuyentes y, en su caso, el Registro Federal de Contribuyentes cuando así lo establezca el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos; practicar visitas tendentes a localizar contribuyentes no registrados y efectuar la inscripción de los mismos en los citados registros; así como negar la inscripción cuando legalmente ésta sea improcedente;
@@ -542,6 +560,10 @@ XVI. Mantener actualizado el Registro Estatal de Contribuyentes y, en su caso, e
 XVII. Tramitar y resolver las solicitudes presentadas por los contribuyentes relacionadas con devoluciones de cantidades pagadas indebidamente al fisco, o proceder de oficio al trámite y resolución de la referida devolución cuando legalmente así proceda; y orientar a los contribuyentes sobre la forma de solicitarlas, así como verificar, determinar en cantidad líquida y cobrar las diferencias por devoluciones improcedentes, requerir la documentación comprobatoria necesaria para su trámite y rechazar la solicitud cuando no se satisfagan los requisitos solicitados e imponer las multas que corresponda;
 
 XVIII. Verificar aritméticamente el saldo a favor a compensar, determinar y cobrar las cantidades compensadas indebidamente y, en su caso, imponer las multas correspondientes; así como efectuar la compensación de oficio de cantidades a favor de los contribuyentes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVIII-BIS.- Resolver las consultas que formulen los interesados individualmente en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y, orientar a los contribuyentes en el cumplimiento de las obligaciones fiscales en materia de su competencia;
 
 XIX. Emitir y notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos, así mismo notificar las resoluciones emitidas por la Procuraduría Fiscal y la Dirección General de Auditoría Fiscal;
 
@@ -562,6 +584,10 @@ XXVI. Llevar a cabo el procedimiento administrativo de ejecución para hacer efe
 XXVII. Ordenar y practicar el embargo precautorio o el aseguramiento de bienes de acuerdo con lo establecido por la legislación federal o estatal aplicable, según sea el caso;
 
 XXVIII. Vigilar y exigir que los depositarios de bienes embargados o asegurados cumplan con las obligaciones a su cargo, fincar las responsabilidades correspondientes y revocar o sustituir a los depositarios cuando exista riesgo de que éstos desaparezcan, aprovechen para sí, permitan el uso indebido o enajenen los bienes confiados a su depósito;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXVIII-BIS.- Ordenar y practicar visitas de inspección y/o verificación a los bancos de materiales objeto del Impuesto Sobre Extracción de Materiales del Suelo y Subsuelo; así como ordenar y practicar la clausura del mismo, cuando así lo dispongan las disposiciones legales y reglamentarias aplicables;
 
 XXIX. Determinar la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante la aplicación del procedimiento administrativo de ejecución;
 
@@ -717,6 +743,10 @@ XII. Recibir, custodiar y llevar el registro clasificado y control de los valore
 
 XIII. Diseñar y aplicar el sistema de control de disponibilidades del Estado, y evaluar sus resultados, formular políticas respecto al manejo de disponibilidades de los fideicomisos constituidos por el Estado y vigilar la aplicación de los fondos provenientes de las operaciones de deuda pública;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIII BIS. Llevar la administración, control, operación, registro, inscripción y demás actos que correspondan al Registro Único Estatal de Deuda Pública y al Registro de Entidades Paraestatales;
+
 XIV. Llevar el registro de las cuentas corrientes de depósito de dinero a otro tipo de operaciones financieras del Estado, así como llevar el control de la deuda pública del Estado y el de las entidades paraestatales sólo cuando ése sea aval de las mismas;
 
 XV. Diseñar y aplicar el sistema de transferencia a favor de las autoridades federales y municipales de aquellos recursos financieros que les correspondan, de conformidad con las disposiciones legales aplicables;
@@ -841,6 +871,82 @@ XIII. Rendir los informes que solicite el Secretario; y
 
 XIV. Las demás que le sean conferidas por las leyes y reglamentos vigentes.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+ARTÍCULO 23 BIS.- Compete a la Dirección de Política Financiera:
+
+I. Coadyuvar y apoyar la gestión de proyectos estratégicos de la Secretaría;
+
+II. Recopilar estadísticas económicas y financieras para apoyar la toma de decisiones del Secretario;
+
+III. Analizar la información financiera que se desprenda de las comparecencias del Secretario ante el Congreso del Estado;
+
+IV. Coadyuvar en la integración de informes que le sean requeridos al titular de la Secretaría;
+
+V. Participar en la elaboración de oficios, circulares y demás disposiciones que en materia financiera emita el Secretario;
+
+VI. Analizar programas que por su relevancia requieran un seguimiento específico e informar el resultado al Secretario;
+
+VII. Emitir opinión sobre el impacto presupuestal de los proyectos de iniciativas de leyes o Decretos que formulen las Dependencias, Unidades Administrativas, órganos Desconcentrados, y Entidades, cuando éstos incidan en materia financiera;
+
+VIII. Participar en las reuniones que se celebren con Dependencias de la Administración Pública Estatal, Federal y Municipales e informar al titular de la Secretaría;
+
+IX. Fungir como representante del Secretario en las entidades paraestatales de las que éste forme parte; y
+
+X. Las demás que le fijen expresamente las Leyes y Reglamentos, así como las que les sean conferidas por el Secretario.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+ARTÍCULO 23 TER.- Compete a la Dirección Jurídica:
+
+I. Asesorar y asistir jurídicamente en las materias de su competencia a todas las unidades administrativas y a los servidores públicos adscritos a la Secretaría en los asuntos que deriven del ejercicio de sus atribuciones, a fin de que en los procedimientos administrativos que lleven a cabo se cumplan las formalidades previstas en las disposiciones que los regulan, cuando así se lo soliciten;
+
+II. Establecer la organización interna de la Dirección Jurídica e instruir a los servidores públicos de su adscripción para que, de acuerdo con las necesidades del servicio, proporcionen la orientación y asesoría jurídica que se requiera, independientemente de sus áreas de adscripción;
+
+III. Fungir como órgano de consulta brindando la asesoría y apoyo técnico a solicitud de las autoridades federales, estatales o municipales en materia hacendaria respecto a casos concretos; resolver las consultas que le formulen los interesados individualmente en situaciones reales y concretas sobre la aplicación de las disposiciones fiscales y, orientar a los contribuyentes en el cumplimiento de las obligaciones fiscales tanto estatales como federales convenidos, en materia de su competencia;
+
+IV. Solicitar de las dependencias de la Administración Pública Estatal y a las unidades administrativas de la Secretaría las propuestas de modificación a las disposiciones legales y reglamentarias en materia hacendaria de sus respectivas competencias;
+
+V. Realizar estudios comparados de los sistemas hacendarios, administrativos y de justicia fiscal, contenciosa y administrativa de la Federación y otras Entidades Federativas, para apoyar la modernización hacendaria del Estado;
+
+VI. Formular los anteproyectos de leyes, decretos, reglamentos, acuerdos, órdenes y demás disposiciones de observancia general en las materias de competencia de la Secretaría y someterlas a consideración del Procurador Fiscal;
+
+VII. Ser enlace en asuntos jurídicos con las áreas correspondientes de las dependencias de la Administración Pública Estatal;
+
+VIII. Intervenir en materia de su competencia en los aspectos jurídicos de los Acuerdos y Convenios de Coordinación Fiscal con los Municipios del Estado, así como asesorar a los Municipios en los estudios que soliciten a la Secretaría para la elaboración de sus ordenamientos tributarios y para el establecimiento de los sistemas administrativos correspondientes y, en su caso, participar en la formulación de los convenios y acuerdos de coordinación o colaboración con la Secretaría de Hacienda y Crédito Público;
+
+IX. Administrar los ingresos federales y ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o que celebre el Estado con la Secretaría de Hacienda y Crédito Público y, en su caso, con los Municipios;
+
+X. Proponer, elaborar y aplicar para la aprobación superior las políticas, programas, sistemas, procedimientos, métodos de trabajo, disposiciones administrativas de carácter general para aplicar la legislación fiscal en materia estatal, con la participación de la Dirección General de Auditoría Fiscal y Dirección de Ingresos y, en su caso, proponer las correspondientes a la materia federal relacionadas con lo estipulado en el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Estado y la Federación y, en su caso, en sus Anexos;
+
+XI. Representar el interés fiscal del Estado en controversias fiscales del fuero federal, estatal o municipal y a la Secretaría y sus unidades administrativas en toda clase de juicios, recursos, investigaciones o procedimientos administrativos ante los Tribunales de la Federación, del Estado y autoridades diversas, siempre que dicha representación no corresponda al Ministerio Público; asimismo, ejercitar las acciones, excepciones y defensas que correspondan, actuando en todas las instancias del juicio, procedimiento o recurso de que se trate hasta su total conclusión y, en su caso, interponer los medios de impugnación que establezcan las leyes de la materia. En el caso de los juicios de amparo, podrá suplir a las autoridades responsables de cualesquiera de las unidades administrativas de la Secretaría cuando éstas sean emplazadas con el carácter de autoridades responsables ordenadoras o ejecutoras del acto o actos que se reclamen, para lo cual podrá rendir en su representación, por la vía de suplencia, los informes previos y justificados que se les soliciten, así como interponer los recursos que correspondan durante la tramitación de tales juicios, actuando en todas sus instancias, incluso pedir los sobreseimientos y manifestar las causales de improcedencia que se adviertan; para ese efecto, las autoridades responsables deberán proporcionarle las pruebas documentales en copias certificadas que sean necesarias para acreditar la constitucionalidad de sus actos, así como proponer los términos de los informes previos y justificados que deban rendirse;
+
+XII. Intervenir, conforme a lo establecido en materia de juicios por el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación y sus Anexos, representando a la Secretaría, como parte en los que se susciten con motivo del ejercicio de las facultades delegadas a ésta. De igual manera asumir la responsabilidad en la defensa de los mismos, sin perjuicio de la intervención que corresponda a la Secretaría de Hacienda y Crédito Público, debiendo informar periódicamente a dicha Secretaría Federal, de acuerdo con los lineamientos que al efecto señale ésta, la situación en que se encuentren los juicios en que haya intervenido y de las resoluciones que recaigan sobre los mismos; así como interponer con la representación del Secretario y de las autoridades demandadas el recurso de revisión contra las sentencias y resoluciones que pongan fin al juicio dictadas por las Salas del Tribunal Federal de Justicia Fiscal y Administrativa respecto de los juicios de su competencia;
+
+XIII. Previa anuencia del titular de la Secretaría, allanarse y transigir en los juicios fiscales, contenciosos o administrativos competencia de la dependencia; así como abstenerse de interponer recursos en dichos juicios en que se haya transigido o allanado, incluyendo el de revisión contra sentencias o resoluciones dictadas por los tribunales correspondientes;
+
+XIV. Informar a las autoridades competentes de la comisión o presunta comisión de delitos fiscales de que conozca con motivo de sus actuaciones; o delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, inclusive a los que se refiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación por conducto de la Secretaría de Hacienda y Crédito Público y sus Anexos; y, cuando así corresponda, previa autorización del Titular de la Secretaría, formular las denuncias y querellas ante el Ministerio Público competente en delitos fiscales, tratándose de hechos delictuosos en que la Secretaría resulte ofendida o de aquéllos de que tenga conocimiento o interés;
+
+XV. Resolver los recursos administrativos que se interpongan ante la Secretaría contra actos o resoluciones de la misma, tanto en materia estatal como federal, emitidos, en este último caso, en ejercicio de las facultades que le confiere el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Estado y la Federación y, en su caso, en los Anexos del mismo;
+
+XVI. Expedir las constancias de identificación del personal a su cargo, a fin de habilitarlos para la práctica de actos relacionados con el desempeño de sus facultades;
+
+XVII. Requerir y notificar a los contribuyentes, responsables solidarios o terceros con ellos relacionados, la documentación, datos e informes que sean necesarios para el ejercicio de sus facultades, así como recabar de los servidores y fedatarios públicos los informes y datos que tengan con motivo de sus funciones, para el objeto antes citado, tanto en materia estatal como federal, este último conforme a lo establecido por el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre el Estado y la Federación y sus Anexos;
+
+XVIII. Emitir opinión a efecto de que la autoridad competente esté en posibilidad de declarar la prescripción de créditos fiscales y tramitar el procedimiento de dación de bienes en pago;
+
+XIX. Declarar la extinción de facultades de la autoridad para comprobar el cumplimiento de las disposiciones fiscales para determinar las contribuciones omitidas, sus aprovechamientos o, en su caso, sus accesorios, y para imponer multas en relación con los impuestos y derechos de carácter tanto estatal como federal;
+
+XX. Condonar multas determinadas e impuestas por las unidades administrativas de la Secretaría, en materia estatal;
+
+XXI. Vigilar que los manuales de procedimientos fiscales, formatos y guías en materia fiscal estatal correspondientes a las unidades administrativas de la Secretaría se apeguen a la legislación, reglamentación y demás normatividad vigente y ordenar, cuando se le solicite, su corrección o ajuste;
+
+XXII. Compilar, ordenar y actualizar el acervo legal, reglamentario y procedimental vigente de la Secretaría;
+
+XXIII. Participar en la Comisión de Estudios Jurídicos del Gobierno del Estado que preside la Consejería Jurídica del Gobernador;
+
+XXIV. Las demás que le señalen las leyes, reglamentos, convenios y sus anexos celebrados en la materia en los que el Estado sea parte, así como aquellas que le confieran el Secretario o el Procurador Fiscal.
+
 ###### ARTÍCULO 24.
 
 Compete a la Dirección de Informática:
@@ -877,19 +983,21 @@ XV. Diseñar los sistemas de información para el uso de la firma electrónica a
 
 XVI. Las demás que le confieran las disposiciones legales o reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 25.
 
-Compete a la Coordinación Administrativa:
+Compete a la Dirección de Servicios Administrativos:
 
 I. Llevar a cabo todos los trámites relacionados con viáticos, gastos de alimentación, transportación terrestre, marítima o aérea de personas, pasajes y demás servicios de proveeduría que requieran las unidades administrativas adscritas a la Secretaría para el desempeño de sus encomiendas;
 
-II. Acordar, tramitar y gestionar ante la Secretaría de Administración e Innovación Gubernamental todos los movimientos del personal de la Secretaría, incluyendo la propuesta y expedición de nombramientos, de acuerdo con el marco jurídico aplicable;
+II. Acordar, tramitar y gestionar ante la Secretaría de Administración e Innovación Gubernamental todos los movimientos e incidencias del personal de la Secretaría, incluyendo la propuesta y expedición de nombramientos, de acuerdo con el marco jurídico aplicable;
 
 III. Controlar los activos inventariables asignados a la Secretaría y vigilar de manera permanente la actualización constante de los resguardos;
 
-IV. Integrar y validar los anteproyectos presupuestales de las unidades administrativas de la Secretaría y someterlos a la consideración del Subsecretario de Egresos;
+IV. Integrar y validar los anteproyectos presupuestales de las unidades administrativas de la Secretaría y someterlos a la consideración del Secretario de Finanzas;
 
-V. Administrar el fondo revolvente asignado a la Secretaría, así como el correspondiente a los pasajes aéreos de las unidades administrativas de la Secretaría;
+V. Administrar el fondo revolvente asignado a la Secretaría de las unidades administrativas;
 
 VI. Controlar el ejercicio del presupuesto que tengan asignado las unidades administrativas de la Secretaría;
 
@@ -897,7 +1005,7 @@ VII. Controlar y elaborar conciliaciones bancarias correspondientes a las cuenta
 
 VIII. Gestionar y controlar el gasto por comprobar de las unidades administrativas de la Secretaría; y
 
-IX. Las demás que le confieran las disposiciones legales o reglamentarias aplicables.
+IX. Las demás que le confieran el Secretario, así como las disposiciones legales o reglamentarias aplicables.
 
 ###### ARTÍCULO 26.
 
@@ -926,3 +1034,15 @@ Segundo.- Se abrogan el Reglamento Interior de la Secretaría de Finanzas y Admi
 Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, Estados Unidos Mexicanos, siendo los dieciséis días del mes de diciembre del año dos mil nueve.
 
 LIC. FERNANDO EUTIMIO ORTEGA BERNES.- Gobernador Constitucional del Estado.- C.P. TIRSO AGUSTIN RODRÍGUEZ DE LA GALA GÓMEZ, Secretario de Finanzas.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2011.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- En aplicación del segundo párrafo del artículo 7 de este Reglamento, en el caso de suplencias de Subsecretarios que no tengan Directores en su adscripción, podrán ser suplidos por el Subdirector o inferior jerárquico que ellos mismos o el Secretario designen, según corresponda al tipo de ausencia.
+
+Tercero.- Todas las referencias que se hacen en las Leyes, Reglamentos y Acuerdos del Ejecutivo vigentes en el Estado a la Coordinación Administrativa de la Secretaría de Finanzas, se entenderán hechas a la Dirección de Servicios Administrativos, que en este Acuerdo se crea.
+
+Cuarto.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido de este Acuerdo.
