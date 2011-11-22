@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-13-2010-del-pleno-de-la-suprema-76802"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-10-05"
-last_updated: "2010-10-05"
+last_updated: "2011-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-09-23"
 
 ACUERDO GENERAL NUMERO 13/2010, DE VEINTE DE SEPTIEMBRE DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO EL ENVIO DIRECTO A ESTA SUPREMA CORTE DE JUSTICIA DE LA NACION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 947 DE LA LEY FEDERAL DEL TRABAJO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ABRIL DE MIL NOVECIENTOS SETENTA, ADICIONADO MEDIANTE DECRETO PUBLICADO EN EL MISMO MEDIO DE PUBLICACION OFICIAL EL CUATRO DE ENERO DE MIL NOVECIENTOS OCHENTA; ASI COMO EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS MISMOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 16/2011, DE CATORCE DE NOVIEMBRE DE DOS MIL ONCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO DISPUESTO EN EL ACUERDO GENERAL PLENARIO 13/2010, DE 20 DE SEPTIEMBRE DE 2010, DEL DICTADO DE LA SENTENCIA EN LOS ASUNTOS DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SE IMPUGNA EL ARTICULO 947 DE LA LEY FEDERAL DEL TRABAJO, PUBLICADA EN EL D.O.F. DEL 1 DE ABRIL DE 1970, ADICIONADO MEDIANTE DECRETO PUBLICADO EN EL MISMO MEDIO OFICIAL EL 4 DE ENERO DE 1980.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de octubre de 2010.
 
@@ -72,3 +74,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: ESTE ACUERDO GENERAL NUMERO 13/2010, DE VEINTE DE SEPTIEMBRE DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO EL ENVIO DIRECTO A ESTA SUPREMA CORTE DE JUSTICIA DE LA NACION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 947 DE LA LEY FEDERAL DEL TRABAJO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ABRIL DE MIL NOVECIENTOS SETENTA, ADICIONADO MEDIANTE DECRETO PUBLICADO EN EL MISMO MEDIO DE PUBLICACION OFICIAL EL CUATRO DE ENERO DE MIL NOVECIENTOS OCHENTA; ASI COMO EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS MISMOS, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a veinte de septiembre de dos mil diez.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de nueve fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 13/2010, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a veintitrés de septiembre de dos mil diez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
