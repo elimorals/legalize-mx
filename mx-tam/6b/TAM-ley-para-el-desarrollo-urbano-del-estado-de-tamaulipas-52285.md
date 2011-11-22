@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2010-10-05"
+last_updated: "2011-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -61,7 +61,9 @@ II. Ordenar y regular la planeación, fundación, conservación, mejoramiento, c
 
 III. Definir las bases conforme a las cuales el Estado y los Municipios ejercerán sus atribuciones para determinar las reservas, usos y destinos de áreas o predios;
 
-IV. Fijar las normas para ordenar y regular el fraccionamiento, división, subdivisión y relotificación de terrenos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IV. Fijar las normas para ordenar y regular el fraccionamiento, división, fusión, subdivisión y relotificación de terrenos;
 
 V. Establecer las infracciones, medidas de seguridad y sanciones, así como el recurso de reconsideración y los procedimientos administrativos que permitan la aplicación de la ley; y
 
@@ -71,9 +73,13 @@ VI. Establecer las normas y la forma de consulta a la sociedad en el proceso de 
 
 1. Se declara de interés público:
 
-I. La planeación del desarrollo urbano y la ordenación de los asentamientos humanos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-II. La ejecución y aplicación de los planes previstos en esta ley;
+I. La planeación del desarrollo urbano y la regularización de los asentamientos humanos, que encuadran para tal proceso, de acuerdo a esta ley;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+II. La ejecución y aplicación de los planes y programas previstos en esta ley;
 
 III. La determinación de las reservas, usos y destinos de áreas o predios;
 
@@ -83,11 +89,9 @@ V. La fundación, conservación, mejoramiento y crecimiento de los asentamientos
 
 VI. La constitución de reservas territoriales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-VII. La protección del patrimonio cultural de los centros de población; y
+VII. La protección del patrimonio cultural edificado de los centros de población, y el mejoramiento de la imagen urbana; y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -167,6 +171,10 @@ II. ÁREA DE CESIÓN: Es la superficie de terreno que los fraccionadores deben d
 
 III. ÁREA LOTIFICABLE: Es la que resulta de restar a la superficie total del predio los derechos de vialidades, cauces naturales, y de cualquier otra infraestructura que demande un derecho de vía;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III Bis. ÁREA DE RESTRICCIÓN: Es la superficie de terreno sujeta a las afectaciones por derechos de vía federales o estatales, establecidos por las normas aplicables en esta materia;
+
 IV. ÁREA URBANA: Es la superficie determinada para los planes aplicables de terreno que cuenta, entre otros, con traza urbana conformada por vías públicas o privadas y dos o más de los servicios de agua potable, drenaje sanitario y electricidad conectados a redes públicas;
 
 V. ÁREA VENDIBLE: Es la que podrá ser enajenada a terceros, una vez que se haya cumplido con los requisitos de ley;
@@ -179,9 +187,19 @@ VI. ASENTAMIENTO HUMANO: Es el conjunto de personas que forman un conglomerado e
 
 VII. ASENTAMIENTO HUMANO IRREGULAR: Es el conglomerado de personas, elementos naturales y obras materiales, establecidas en un área físicamente localizable, que al constituirse no cumplieron con lo ordenado por las leyes y normas aplicables en su tiempo;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+VII Bis. ATLAS DE RIESGO: Documento en donde se establecen y clasifican las zonas de riesgo;
+
 VIII. CEMENTERIO: Es el lugar destinado a recibir y alojar cadáveres, restos humanos áridos o cremados;
 
-IX. COMITÉ MUNICIPAL: Es el Comité Municipal para el Desarrollo de las Ciudades, organismo cívico auxiliar de la autoridad;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IX. COMITÉ MUNICIPAL: Es el Comité Municipal de Planeación del Desarrollo Urbano, organismo cívico auxiliar de la autoridad;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IX Bis. CONSEJO ESTATAL: Es el Consejo Estatal de Planeación del Desarrollo Urbano, organismo cívico auxiliar de la autoridad;
 
 X. CENTRO URBANO: Es el territorio que de acuerdo a sus características de ubicación, hace posible el establecimiento de usos y destinos previstos en los planes municipales;
 
@@ -205,6 +223,14 @@ XIII. CENTRO DE POBLACION: Es el área constituida por la zona urbanizada, y la 
 
 XIII Bis. CONSERVACION AMBIENTAL: Es la permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del desarrollo, a fin de asegurar para las generaciones presentes y futuras, un ambiente propicio y los recursos naturales que permitan satisfacer sus necesidades;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIII Ter. COEFICIENTE DE OCUPACIÓN DEL SUELO: Es el máximo porcentaje construible de desplante en o sobre la rasante natural de la propiedad;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIII Quater. COEFICIENTE DE UTILIZACIÓN DEL SUELO: Es la máxima superficie total de construcción con relación a la superficie total de un predio o propiedad. Se refiere a la construcción techada, cerrada, abierta incluyendo terrazas y pasillos, o bien al volumen total de construcción, medidas en metros cúbicos;
+
 XIV. CONURBACIÓN: Es el área en la cual, el Congreso del Estado reconoce legalmente la continuidad física y demográfica que forman dos o más Municipios, con objeto de establecer la coordinación entre el Estado y esos Municipios en la toma de decisiones en materia de ordenamiento del territorio, considerándose como una sola unidad urbano funcional a todo el conjunto;
 
 XV. CRECIMIENTO URBANO: Es la expansión física y demográfica de un área que implique la ocupación o transformación de suelo rústico o suburbano en urbano, o un aumento en la densidad de población de los asentamientos ya establecidos;
@@ -215,11 +241,23 @@ XVII. DESARROLLO URBANO: Es el proceso de planeación y ejecución de acciones d
 
 XVIII. DESTINOS: Son los fines públicos específicos a que se dedican obligatoriamente, o está previsto dedicar, determinadas áreas y edificaciones;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVIII Bis. DICTAMEN DE CONGRUENCIA: Es el documento mediante el cual la Secretaría evalúa y sanciona el contenido de un programa de desarrollo urbano independientemente de su escala, respecto de las disposiciones de la presente ley y las políticas establecidas en el Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVIII Ter. DICTAMEN DE IMPACTO URBANO: Es el documento mediante el cual la Secretaría evalúa y sanciona un proyecto de fraccionamiento público o privado, previo a la autorización que expida el Ayuntamiento respectivo;
+
 XIX. DISTRITO URBANO: Es la delimitación territorial, que en función del uso del suelo predominante se considera homogénea;
 
 XX. DIVIDIR: Es la modificación de la superficie de un predio que no requiere del trazo de una o más vialidades públicas o privadas, para dar acceso a uno o más de los lotes resultantes;
 
 XXI. EQUIPAMIENTO URBANO: Es el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado o previsto para prestar a la población servicios educativos, de salud, asistenciales, culturales, recreativos, de comunicaciones y transportes, entre otros, formado por las áreas reservadas para ello;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXI Bis. ESTUDIO DE IMPACTO VIAL: Es un estudio especializado en vialidad y transporte que proyecta las condiciones futuras de la movilidad de los bienes y personas y recomienda métodos para compensar el impacto vial originado por nuevos desarrollos;
 
 XXII. FRACCIONAR: Es la acción de dividir un predio mayor a diez mil metros cuadrados, o que siendo igual o menor, requiera de la apertura de una o más vías para dar acceso a los lotes resultantes, con objeto de enajenarlos en porciones de terreno individuales como acción de crecimiento urbano;
 
@@ -255,9 +293,21 @@ XXX. FRACCIONAMIENTO POPULAR: Es la porción de superficie territorial destinada
 
 XXXI. FRACCIONAMIENTO IRREGULAR: Es la porción de superficie territorial, fraccionada sin contar con las autorizaciones que prevén las leyes correspondientes;
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXI Bis. IMAGEN URBANA: Es el marco visual que se conforma por el conjunto de elementos naturales y artificiales, las edificaciones, instalaciones y todas las actividades sociales y culturales manifiestos en el territorio de las ciudades o asentamientos y su entorno;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXI Ter. IMPACTO URBANO: Es la influencia o alteración causada por alguna obra o proyecto público o privado, que en su proceso constructivo, funcionamiento o magnitud, modifique o altere el funcionamiento integral y eficaz de la vialidad, la infraestructura, los servicios públicos, los usos de suelo y el equipamiento urbano en un centro de población en relación con su entorno;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXI Quater. IMPACTO VIAL: Es el conjunto de afectaciones que sufre la infraestructura vial y las condiciones del tránsito actuales, a consecuencia de la instalación o construcción de uno o más desarrollos en un punto dado;
+
 XXXII. IMPLAN: Es el Instituto de Planeación, que podrá tener diversas denominaciones en función de su ámbito de influencia y su instrumento legal de creación. Podrán ser organismos públicos descentralizados de los municipios o del Estado, según proceda y su ámbito de influencia podrá ser municipal, regional, o de zonas conurbadas. El objetivo principal será constituirse como instrumento técnico de ayuda para la adopción de decisiones públicas y el desarrollo de la comunidad, procurándose el orden en el uso del territorio y la incorporación de políticas ambientales que contribuyan al logro de un desarrollo urbano sustentable, a partir de la orientación de un Consejo Ciudadano que vincule a la sociedad y el gobierno en los procesos de planeación;
 
-XXXIII. INSTITUTO: El Instituto Tamaulipeco de Vivienda y Urbanismo;
+XXXIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2011)
 
 XXXIV. INFRAESTRUCTURA:
 
@@ -277,7 +327,13 @@ XXXIX. PATRIMONIO CULTURAL: Es la manifestación del quehacer humano que tenga, 
 
 XL. PATRIMONIO NATURAL: Es el espacio que por sus características forma parte de un ecosistema;
 
-XLI. PROGRAMA ESTATAL: Es el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, que se constituye por el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas a la ordenación y regulación de los asentamientos humanos, con el fin de lograr el desarrollo sustentable de las ciudades;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XLI. PROGRAMA ESTATAL: Es el Programa Estatal para el Desarrollo Urbano Sustentable, que tiene como finalidad definir los criterios y diseñar estrategias y acciones para detallar los planteamientos y orientaciones generales en el ordenamiento del territorio y el desarrollo urbano integral; y establecer las limitaciones o reglas para objetivos y metas en las escalas territoriales subordinadas;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XLI Bis. PROGRAMA METROPOLITANO: Es el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas, a la ordenación y regulación de los asentamientos humanos en el ámbito de dos o más municipios, que tiendan a constituir una unidad de planeación urbano territorial; conforme lo establezca el programa estatal;
 
 XLII. PROGRAMA MUNICIPAL: Es el Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano, instrumento normativo que define las políticas urbanas de uso de suelo, crecimiento, conservación, mejoramiento y ordenamiento en el territorio municipal;
 
@@ -285,11 +341,7 @@ XLIII. PROGRAMA PARCIAL: Es el Programa que tiene por objeto la ordenación terr
 
 XLIV. PROGRAMAS REGIONALES: Son el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas, relativas a la ordenación y regulación de los asentamientos humanos en el ámbito de las diversas regiones que establezca el Programa Estatal de Desarrollo Urbano vigente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XLV.- PROGRAMA ESTATAL: Es el Programa Estratégico para el Desarrollo Urbano Sustentable de Tamaulipas, instrumento rector del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, que tiene como finalidad definir los criterios y diseñar estrategias y acciones para detallar los planteamientos y orientaciones generales en el ordenamiento del territorio y el desarrollo urbano integral; y establecer los objetivos y metas en los centros de población para mejorar la calidad de vida de sus habitantes;
+XLV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2011)
 
 XLVI. REGISTRO ESTATAL DEL PATRIMONIO HISTÓRICO Y ARTÍSTICO EDIFICADO DE TAMAULIPAS: Es el ámbito administrativo donde se relacionan, catalogan y ordenan los documentos relativos a la situación jurídica de bienes inmuebles, de valor histórico artístico, como edificios, obras de infraestructura, monumentos cívico conmemorativos, murales artísticos u otras obras análogas a las anteriores;
 
@@ -303,9 +355,15 @@ XLIX. SERVICIOS URBANOS: Son las actividades de carácter público para satisfac
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-L.- REGULARIZACION DE LA TENENCIA DE LA TIERRA: Es el conjunto de acciones con un fin social justificado realizadas por los organismos públicos federales, estatales o municipales competentes, encaminadas a brindar seguridad jurídica en la tenencia de la tierra;
+L. REGULARIZACION DE LA TENENCIA DE LA TIERRA: Es el conjunto de acciones con un fin social justificado realizadas por los organismos públicos federales, estatales o municipales competentes, encaminadas a brindar seguridad jurídica en la tenencia de la tierra;
 
-LI. SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, sectorial, regional, municipal y parcial aprobados, y la información geográfica correspondiente;
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+L Bis. SECRETARÍA: La Secretaría de Desarrollo Urbano y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+LI. SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, regional, de zonas conurbadas o metropolitanas, municipal, de centros de población, parciales y vigentes, y la información geográfica correspondiente; constituyéndose además con el conjunto de autorizaciones de fraccionamientos, con el objeto de mantener actualizada la base cartográfica de la entidad federativa y asegurar el cumplimiento de esta ley;
 
 LII. SUBDIVIDIR: Es la acción mediante la cual un predio que ya ha sido dividido, es otra vez objeto de partición;
 
@@ -315,13 +373,23 @@ LIII. USOS: Son los fines a los que se sujetarán las zonas o predios particular
 
 LIV. URBANIZACIÓN SECUENCIAL: Es aplicable exclusivamente en fraccionamientos populares, y se define como el proceso de urbanizar parcialmente un fraccionamiento popular, de forma tal que pueda comercializarse por la autoridad competente sin que cuente con la urbanización total;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+LV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-LV.- SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, regional, de zonas conurbadas o metropolitanas, municipal, de centros de población, parciales y vigentes, y la información geográfica correspondiente; así como por el conjunto de autorizaciones de fraccionamientos, con el objeto de mantener actualizada la base cartográfica de la entidad federativa y asegurar el cumplimiento de esta ley;
+LV Bis. ZONA O DISTRITO: Son las superficies de suelo en que se divide un centro de población o un municipio, en las que está previsto un uso del suelo predominante, de la superficie total de cada zona;
 
-LVI. ZONIFICACIÓN: Es la determinación de las áreas en que se divide el territorio para fines del ordenamiento territorial y del desarrollo urbano;
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+LV Ter. ZONA DE RIESGO: Son las superficies de suelo de un municipio, identificadas como tales por los Atlas de Riesgos, que por su ubicación representan peligro, debido a factores antropogénicos o naturales, que pueden causar perjuicios a las personas o a sus bienes;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+LVI. ZONIFICACIÓN: Es la determinación de las áreas en que se divide el territorio para fines del ordenamiento territorial y del desarrollo urbano, que pueden ser:
+
+a).- Primaria: La que determina los aprovechamientos, usos, destinos y reservas genéricos, o utilización general del suelo en las distintas zonas del área objeto de ordenamiento y regulación; y
+
+b).- Secundaria: La que determina los aprovechamientos específicos, o utilización particular del suelo, el Coeficiente de Ocupación del Suelo, Coeficiente de Utilización del Suelo, volumetría y restricciones de colindancia, en las distintas zonas del área objeto de ordenamiento y regulación, acompañadas de sus respectivas normas de control de la densidad de construcción.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -371,25 +439,35 @@ I. El Gobernador del Estado;
 
 II. La Secretaría;
 
-III. El Instituto; y
+III. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2011)
 
 IV. Los Ayuntamientos.
 
-2. Corresponde al Instituto realizar la interpretación del ordenamiento en la esfera administrativa.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+2.- Corresponde a la Secretaría realizar la interpretación del presente ordenamiento en la esfera administrativa.
 
 ###### ARTÍCULO 9.
 
 Competen al Gobernador del Estado las siguientes atribuciones:
 
-I. Revisar, aprobar, publicar y ejecutar el Programa Estatal, así como los programas regionales y sectoriales que formen parte del Sistema Estatal;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+I. Revisar, aprobar, publicar y ejecutar el Programa Estatal, así como los programas regionales, metropolitanos y sectoriales que formen parte del Sistema Estatal;
 
 II. Presidir directamente, o a través del titular de la Secretaría, el Consejo Estatal;
 
-III. Participar en la planeación y regulación de las conurbaciones y, en su caso, promover ante el Congreso del Estado el reconocimiento de zonas conurbadas en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-IV. Publicar en el Periódico Oficial del Estado y ordenar la inscripción en el Registro Público de la Propiedad y del Comercio y el Programa Estatal, y los programas sectoriales y regionales que se requieran, observando la congruencia de estos con los planes y programas nacionales de desarrollo urbano, vivienda, ordenamiento territorial, medio ambiente, asentamientos humanos, comercio, industria, turismo, infraestructura u otros relacionados con la materia;
+III. Participar en la planeación y regulación de las conurbaciones, metropolitanos y, en su caso, promover ante el Congreso del Estado el reconocimiento de zonas conurbadas en el Estado;
 
-V. Ordenar la inscripción de los documentos que obran en el Registro Estatal del Patrimonio Histórico y Artístico Edificado de Tamaulipas, en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IV. Publicar en el Periódico Oficial del Estado y ordenar la inscripción en el Instituto Registral y Catastral de Tamaulipas, del Programa Estatal, y de los programas sectoriales, metropolitanos y regionales que se requieran, observando la congruencia de éstos con los planes y programas nacionales de desarrollo urbano, vivienda, ordenamiento territorial, medio ambiente, asentamientos humanos, comercio, industria, turismo, infraestructura u otros relacionados con la materia;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+V. Ordenar la inscripción de los documentos que obran en el Registro Estatal del Patrimonio Histórico y Artístico Edificado de Tamaulipas, en el Instituto Registral y Catastral de Tamaulipas;
 
 VI. Promover conjuntamente con la Federación, los municipios involucrados y los particulares, la ejecución de obras y acciones de desarrollo urbano que contribuyan a elevar la calidad de vida de los habitantes de la zona;
 
@@ -407,99 +485,151 @@ XII. Las demás que señalen esta ley y otras disposiciones jurídicas aplicable
 
 ###### ARTÍCULO 10.
 
-Corresponden a la Secretaría las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-I. Participar con la Federación, los Estados o los municipios respectivos, en la elaboración, administración, ejecución, control y evaluación de los planes de zonas conurbadas estatales o interestatales;
+1. Corresponden a la Secretaría las siguientes atribuciones:
 
-II. Participar de manera coordinada con los Ayuntamientos, los gobiernos de las entidades federativas y la Federación, en la planeación y ordenación de los centros urbanos situados en el territorio de la entidad y de otras entidades vecinas, que constituyan o tiendan a constituir una conurbación interestatal;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-III. Dictar, en coordinación con los Ayuntamientos y la Federación, en su caso, las medidas necesarias a que deben sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación y mejoramiento, sean éstas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, áreas naturales protegidas, o de preservación del patrimonio cultural;
+I.- Participar con la Federación, los Estados o los municipios respectivos, en la elaboración, administración, ejecución, control y evaluación de los planes y programas de zonas conurbadas estatales o metropolitanas de carácter estatal o interestatal;
 
-IV. Promover, gestionar y realizar las acciones e inversiones necesarias para conservar los recursos naturales y mejorar el medio ambiente, en coordinación con los Ayuntamientos y la Federación y de acuerdo a la legislación en la materia;
+II.- Participar de manera coordinada con los Ayuntamientos, los gobiernos de las entidades federativas y la Federación, en la planeación y ordenación de los centros urbanos situados en el territorio de la entidad y de otras entidades vecinas, que constituyan o tiendan a constituir una conurbación interestatal;
 
-V. Celebrar los convenios y contratos necesarios para la ejecución de los programas del Sistema Estatal; y
+III.- Dictar, en coordinación con los Ayuntamientos y la Federación, en su caso, las medidas necesarias a que deben sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación y mejoramiento, sean éstas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, áreas naturales protegidas, o de preservación del patrimonio cultural;
 
-VI. Realizar los trámites necesarios para la adquisición de inmuebles, la ejecución de obras públicas y determinar conjuntamente con el Ayuntamiento respectivo, las afectaciones necesarias que se requieran para la vialidad, conforme a los planes aplicables.
+IV.- Promover, gestionar y realizar las acciones e inversiones necesarias para conservar los recursos naturales y mejorar el medio ambiente, en coordinación con los Ayuntamientos y la Federación y de acuerdo a la legislación en la materia;
+
+V.- Celebrar los convenios y contratos necesarios para la ejecución de los programas del Sistema Estatal; y (sic)
+
+VI.- Realizar los trámites necesarios para la adquisición de inmuebles, la ejecución de obras públicas y determinar conjuntamente con el Ayuntamiento respectivo, las afectaciones necesarias que se requieran para la vialidad, conforme a los planes aplicables.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+VII.- Coordinar la elaboración, administración, ejecución, control, modificación, actualización y evaluación del programa estatal y los programas sectoriales, regionales y metropolitanos, así como vigilar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+VIII.- Asesorar a los Ayuntamientos y, en su caso, apoyarlos cuando así lo soliciten en la elaboración, ejecución, control, actualización y evaluación en sus programas municipales y parciales;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IX.- Formular conjunta y coordinadamente con los Ayuntamientos respectivos, los planes y programas en las zonas conurbadas o metropolitanas, así como gestionar y evaluar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+X.- Adquirir por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, con base en los programas, las reservas territoriales por parte del Gobierno del Estado para fomentar el crecimiento ordenado de las ciudades y centros de población, a fin de contar con espacios territoriales para la construcción de infraestructura o equipamiento;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XI.- Desempeñar las funciones técnicas y administrativas que le competen a los Ayuntamientos en la materia objeto de esta ley, cuando éstos así lo hayan convenido expresamente con el Gobernador del Estado, ya sea por carecer de los órganos administrativos correspondientes, porque la complejidad de los asuntos así lo requieran o por las razones que se estimen convenientes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XII.- Gestionar la inscripción de los acuerdos, resoluciones, planes y programas, que expidan las autoridades competentes, en el Instituto Registral y Catastral;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIII.- Coadyuvar con los Ayuntamientos al desarrollo de las diversas regiones y de las poblaciones del Estado, mediante una adecuada planificación y zonificación de los mismos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIV.- Proponer o, en su caso, emitir opinión respecto de los programas de inversión pública en materia de infraestructura y equipamiento para el desarrollo urbano y demás centros de población del Estado, garantizando la congruencia con el Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XV.- Diseñar, implantar y operar los sistemas y registros que se requieran para controlar y evaluar el avance de los planes y programas en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano del Gobierno del Estado, así como los convenidos con la Federación, los municipios y los sectores social y privado de la Entidad;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVI.- Evaluar el cumplimiento de las disposiciones legales en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, emitiendo en su caso opinión ante las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVII.- Denunciar por sí o por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, ante la autoridad que corresponda, las posibles faltas administrativas o delitos relativos a la creación de asentamientos humanos no autorizados. En los casos que se considere procedente;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Promover la incorporación al desarrollo urbano de asentamientos humanos irregulares, en caso de ser procedente;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XIX.- Fomentar la ejecución de fraccionamientos habitacionales populares o de interés social y de condominios, de conformidad con los programas de desarrollo urbano vigentes;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XX.- Promover la participación de los sectores social y privado del Estado, en la formulación, ejecución, evaluación, actualización y modificación de los programas de ordenamiento territorial y desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXI.- Verificar que las autorizaciones emitidas por los Ayuntamientos se sujeten y sean congruentes con el Sistema Estatal y esta ley;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXII.- Emitir previo a la autorización municipal, dictamen de impacto urbano, para el desarrollo de fraccionamientos de cualquier tipo;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXIII.- Promover políticas que incentiven las inversiones públicas y privadas con objeto de incrementar la calidad del desarrollo urbano de las ciudades;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXIV.- Promover o gestionar las acciones judiciales o administrativas que procedan en contra de quienes contravengan las disposiciones que establece esta ley en el ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXV.- Dictar las disposiciones necesarias para la protección del entorno urbano en general y, en particular, de los edificios, calles, plazas, jardines y elementos de ornato y servicio público, que se encuentren en el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXVI.- Identificar, catalogar, promover o ejecutar las obras necesarias para la conservación, rescate, restauración, mejoramiento y aseo del entorno urbano de los centros urbanos del Estado, así como de las zonas protegidas, bienes inmuebles y monumentos públicos;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXVII.- Identificar el acervo histórico y cultural del Estado, manteniéndose actualizado el Registro Estatal del Patrimonio Histórico Artístico Edificado;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXVIII.- Vigilar y, en su caso, dictaminar previamente la intervención o demolición de inmuebles que puedan tener valor arquitectónico, histórico, artístico y cultural en los municipios, y que se encuentren catalogados en el Registro Estatal del Patrimonio Histórico Artístico Edificado;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXIX.- Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece esta ley y que sean de su competencia;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXX.- Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados y que deriven de la aplicación de esta ley;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXI.- Ordenar las anotaciones marginales de los usos y destinos establecidos en el Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXII.- Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios de origen ejidal;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXIII.- Emitir dictamen de congruencia de los programas municipales, parciales, sectoriales, o de centro de población respecto del programa estatal o del programa metropolitano o de zona conurbada en su caso; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXXIV.- Las demás que le confiera este ordenamiento y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+2.- Las atribuciones a que se refiere este artículo serán ejercidas por el titular de la Secretaría y sus unidades administrativas.
 
 ###### ARTÍCULO 11.
 
-1. Corresponden al Instituto las siguientes atribuciones:
-
-I. Coordinar la elaboración, administración, ejecución, control, modificación, actualización y evaluación del Programa Estatal y los programas sectoriales y regionales, así como vigilar su cumplimiento;
-
-II. Asesorar a los Ayuntamientos y, en su caso, apoyarlos cuando así lo soliciten en la elaboración, ejecución, control, actualización y evaluación de la planeación urbana municipal;
-
-III. Formular conjunta y coordinadamente con los Ayuntamientos respectivos, los planes en las zonas conurbadas, así como gestionar y evaluar su cumplimiento;
-
-IV. Adquirir con base en los programas, las reservas territoriales por parte del Gobierno del Estado para fomentar el crecimiento ordenado de las ciudades y centros de población, coadyuvando además con la Secretaría para adquirir espacios territoriales para la construcción de infraestructura o equipamiento;
-
-V. Desempeñar las funciones técnicas y administrativas que le competen a los Ayuntamientos en la materia objeto de esta ley, cuando éstos así lo hayan convenido expresamente con el Gobernador del Estado, ya sea por carecer de los órganos administrativos correspondientes, porque la complejidad de los asuntos así lo requieran o por las razones que se estimen convenientes;
-
-VI. Gestionar la inscripción de los acuerdos, resoluciones, planes y programas, que expidan las autoridades competentes, en el Registro Público de la Propiedad y del Comercio;
-
-VII. Coadyuvar con los Ayuntamientos al desarrollo de las diversas regiones y de las poblaciones del Estado, mediante una adecuada planificación y zonificación de los mismos;
-
-VIII. Proponer o, en su caso, emitir opinión respecto de los programas de inversión pública en materia de infraestructura y equipamiento para el desarrollo de las ciudades y demás centros de población del Estado, garantizando la congruencia con el Sistema Estatal;
-
-IX. Diseñar, implantar y operar los sistemas y registros que se requieran para controlar y evaluar el avance de los planes y programas en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano del Gobierno del Estado, así como los convenidos con la Federación, los municipios y los sectores social y privado de la Entidad;
-
-X. Evaluar el cumplimiento de las disposiciones legales en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, emitiendo en su caso opinión ante las autoridades competentes;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XI. Denunciar ante la autoridad que corresponda, las posibles faltas administrativas o delitos relativos a la creación de asentamientos humanos no autorizados. En los casos que se considere procedente, promover la incorporación al desarrollo urbano de asentamientos humanos irregulares;
-
-XII. Fomentar la ejecución de fraccionamientos habitacionales populares o de interés social y de condominios;
-
-XIII. Promover la participación de los sectores social y privado del Estado, en la formulación, ejecución, evaluación, actualización y modificación de los programas de ordenamiento territorial y desarrollo urbano;
-
-XIV. Verificar que las autorizaciones emitidas por los Ayuntamientos sean congruentes con el Sistema Estatal y esta ley y, en su caso, emitir opinión ante la autoridad competente;
-
-XV. Promover políticas que incentiven las inversiones públicas y privadas con objeto de incrementar la calidad del desarrollo urbano de las ciudades;
-
-XVI. Promover o gestionar las acciones judiciales o administrativas que procedan en contra de quienes contravengan las disposiciones que establece esta ley en el ámbito de sus respectivas competencias;
-
-XVII. Dictar las disposiciones necesarias para la protección del entorno urbano en general y, en particular, de los edificios, calles, plazas, jardines y elementos de ornato y servicio público, que se encuentren en el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
-
-XVIII. Identificar, catalogar, promover o ejecutar las obras necesarias para la conservación, rescate, restauración, mejoramiento y aseo del entorno urbano de las poblaciones del Estado, así como de las zonas protegidas, bienes inmuebles y monumentos públicos;
-
-XIX. Identificar el acervo histórico y cultural del Estado, manteniéndose actualizado el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
-
-XX. Vigilar y, en su caso, dictaminar previamente la intervención o demolición de inmuebles que puedan tener valor arquitectónico, histórico, artístico y cultural en los municipios, y que se encuentren catalogados en el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
-
-XXI. Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece esta ley y que sean de su competencia;
-
-XXII. Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados y que deriven de la aplicación de esta ley;
-
-XXIII. Ordenar las anotaciones marginales de los usos y destinos establecidos en el Sistema Estatal;
-
-XXIV. Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios ejidales; y (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXV. Emitir dictamen de congruencia de los programas municipales respecto del Programa Estatal o del programa de ordenación de zona conurbada en su caso. Dicho dictamen será requisito para su aprobación por el ayuntamiento correspondiente; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXVI. Las demás que le confiera este ordenamiento y otras disposiciones legales.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 5 DE JUNIO DE 2008)</small>
-
-2. Las atribuciones a que se refiere este artículo serán ejercidas por el titular del Instituto y sus unidades administrativas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2011)
 
 ###### ARTÍCULO 12.
 
 1. Corresponden a los Ayuntamientos las siguientes atribuciones:
 
-I. Formular, aprobar y administrar la zonificación y programas de ordenamiento territorial y desarrollo urbano municipales, así como los reglamentos de la materia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+I. Formular, aprobar y administrar la zonificación, planes y programas de ordenamiento territorial y desarrollo urbano municipales, así como los reglamentos de la materia;
 
 II. Integrar el Comité Municipal para el Desarrollo urbano;
 
@@ -517,7 +647,9 @@ VIII. Celebrar convenios con el Estado, la Federación o con organizaciones de c
 
 IX. Establecer relaciones de coordinación o asociación con otros municipios del Estado para el cumplimiento de los programas de las zonas conurbadas de las que forme parte;
 
-X. Autorizar o negar, con base en las disposiciones legales aplicables y el programa municipal, las autorizaciones para ejecutar obras de urbanización, usos y cambios de usos del suelo y edificaciones, así como construcciones en el territorio del Municipio;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+X. Autorizar o negar, con base en las disposiciones legales aplicables y el programa vigente, las autorizaciones para ejecutar obras de urbanización, usos y cambios de usos del suelo y edificaciones, previo dictamen de impacto urbano expedido por la Secretaría, para los desarrollos de fraccionamientos de cualquier tipo, así como construcciones en el territorio del Municipio;
 
 XI. Autorizar o negar, con base en las disposiciones legales aplicables, y el programa municipal, las autorizaciones de fusiones, divisiones, subdivisiones o relotificaciones de inmuebles;
 
@@ -527,13 +659,13 @@ XIII. Aprobar, supervisar y acordar la recepción de obras de urbanización;
 
 XIV. Autorizar o negar, con base en las disposiciones legales aplicables y el programa municipal, el certificado de uso del suelo y lineamientos urbanísticos, proyecto ejecutivo, permisos de venta, prórrogas, terminación de obras y liberación de garantía, de todo tipo de fraccionamientos;
 
-XV. Participar con el Instituto, en su caso, en la formulación del proyecto de reconocimiento de zona conurbada de la cual formen parte;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV. Participar con la Secretaría, en su caso, en la formulación del proyecto de reconocimiento de zona conurbada de la cual formen parte;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XVI. Convenir con el Gobernador del Estado la coordinación de acciones en materia de desarrollo urbano, para que a través del Instituto, desempeñe total o parcialmente, las funciones técnicas o administrativas que le corresponden al Ayuntamiento en el cumplimiento de esta ley;
+XVI. Convenir con el Gobernador del Estado la coordinación de acciones en materia de desarrollo urbano, para que a través de la Secretaría, desempeñe total o parcialmente, las funciones técnicas o administrativas que le corresponden al Ayuntamiento en el cumplimiento de esta ley;
 
 XVII. Participar en el seno del Consejo Estatal;
 
@@ -545,9 +677,13 @@ XX. Ordenar, imponer y ejecutar en el ámbito de su competencia las medidas de s
 
 XXI. Tramitar y resolver, en el ámbito de su competencia, el recurso administrativo previsto en esta ley;
 
-XXII. Dictar en coordinación con el Instituto las medidas necesarias a que deban sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación o mejoramiento;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-XXIII. Autorizar los programas parciales que incorporan a la zona urbana o urbanizada nuevos desarrollos cuyo impacto sea regional, previo dictamen técnico favorable expedido por el Instituto;
+XXII. Dictar en coordinación con la Secretaría las medidas necesarias a que deban sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación o mejoramiento;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+XXIII. Autorizar los programas parciales que incorporan a la zona urbana o urbanizada nuevos desarrollos cuyo impacto sea regional, previo dictamen técnico favorable expedido por la Secretaría;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -579,27 +715,45 @@ Las atribuciones concurrentes que en materia de desarrollo urbano contempla esta
 
 Son órganos consultivos auxiliares de las autoridades encargadas de aplicar esta ley:
 
-I. El Consejo Estatal para el Desarrollo de las Ciudades;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-II. Los Comités Regionales para el Desarrollo de las Ciudades; y
+I.- El Consejo Estatal de Planeación del Desarrollo Urbano;
 
-III. Los Comités Municipales para el Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+II.- Los Comités Metropolitanos de Planeación del Desarrollo Urbano; y
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III.- Los Comités Municipales de Planeación del Desarrollo Urbano.
 
 ###### ARTÍCULO 15.
 
-1. El Consejo Estatal para el Desarrollo de las Ciudades es un organismo auxiliar del Poder Ejecutivo del Estado, que conocerá de los asuntos sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales puestos a su consideración por el propio Gobernador del Estado, la Secretaría, el Instituto, o los Ayuntamientos, de los que emitirá su opinión.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-2. El Consejo Estatal para el Desarrollo de las Ciudades estará integrado por:
+1. El Consejo Estatal de Planeación del Desarrollo Urbano es un organismo auxiliar del Poder Ejecutivo del Estado, que conocerá de los asuntos sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales puestos a su consideración por el propio Gobernador del Estado, la Secretaría o los Ayuntamientos, de los que emitirá su opinión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+2. Este Consejo Estatal estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá en forma directa o a través del titular de la Secretaría;
 
-II. El Secretario de Obras Públicas, Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-III. El Director General del Instituto Tamaulipeco de Vivienda y Urbanismo, quien fungirá como Secretario Técnico;
+II. El Secretario de Obras Públicas;
 
-IV. El Director para el Desarrollo de las Ciudades del Instituto, quien fungirá como Secretario de Actas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-V. El Director General de Medio Ambiente de la Secretaría, quien fungirá como Vocal;
+III. El Secretario de Desarrollo Urbano y Medio Ambiente quién fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IV. El Subsecretario de Ordenamiento Territorial y Desarrollo Urbano, quien fungirá como Secretario de Actas;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+V. Los Subsecretarios de Medio Ambiente, del Transporte Público, el Director General de la Comisión Estatal del Agua y el Director General del Instituto Tamaulipeco de Vivienda y Urbanismo, quienes fungirán como Vocales;
 
 VI. Los Ayuntamientos estarán representados en el Consejo por el Presidente Municipal o por el Titular del área competente en la materia que en forma expresa sean designados para ello;
 
@@ -619,9 +773,13 @@ III. Las demás que le encomiende el Gobernador del Estado.
 
 ###### ARTÍCULO 16.
 
-1. El Comité Municipal para el Desarrollo Urbano es un organismo auxiliar sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales. Dicho ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales que tengan su sede dentro de la jurisdicción territorial del Municipio y que sean puestos a su consideración por el propio Ayuntamiento, a fin de emitir su opinión.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-2. El Comité Municipal para el Desarrollo Urbano se integra por:
+1. El Comité Municipal de Planeación del Desarrollo Urbano es un organismo auxiliar que conocerá sobre los asuntos de: ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+2. Este Comité Municipal se integra por:
 
 I. El Presidente Municipal, quien lo presidirá en forma directa o a través del servidor público que designe;
 
@@ -649,9 +807,13 @@ III. Las demás que se estimen necesarias.
 
 ARTICULO 16 bis.
 
-1. El Comité Regional para el Desarrollo de las Ciudades es un organismo auxiliar sobre ordenamiento Territorial, desarrollo urbano, medio ambiente y recursos naturales regionales. Dicho Comité Regional, tendrá su sede dentro de su jurisdicción territorial, en uno de los Municipios que lo integran, propuesto y designado por el propio Comité.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-2. El Comité Regional para el Desarrollo de las Ciudades se integra por:
+1.- El Comité Metropolitano de Planeación del Desarrollo Urbano es un organismo auxiliar que conocerá sobre los asuntos de: ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales regionales. Dicho Comité Metropolitano, tendrá su sede dentro de la jurisdicción territorial, en uno de los Municipios que lo integran, propuesto y designado por el propio Comité.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+2.- Este Comité Metropolitano de Planeación del Desarrollo Urbano se integra por:
 
 I. Los Presidentes Municipales de la región que corresponda, quienes designarán por mayoría de votos quien preside el Comité;
 
@@ -659,11 +821,17 @@ II. Los miembros de los Cabildos que formen parte de la Comisión de Asentamient
 
 III. Los titulares de la dependencia municipal a cargo de las funciones del ordenamiento territorial, desarrollo urbano y medio ambiente; y
 
-IV. De los municipios que integren el Comité, los representantes de las organizaciones no gubernamentales, y de instituciones de educación superior, siempre que estén constituidas legalmente en asociaciones civiles y que de entre sus fines se encuentre dedicarse a asuntos concernientes al ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales de la región. Dichos organismos no gubernamentales podrán solicitar su inclusión a los Comités Regionales para el desarrollo de las ciudades cuando, no siendo miembros, hayan cumplido cuando menos un año de haberse formado.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-3. Una vez integrado el Comité Regional, éste acordará sus reglas de operación. En todo caso, sesionará cuando menos dos veces por año de manera ordinaria y de manera extraordinaria las veces que sean necesarias.
+IV. De los municipios que integren el Comité, los representantes de las organizaciones no gubernamentales, y de instituciones de educación superior, siempre que estén constituidas legalmente en asociaciones civiles y que de entre sus fines se encuentre dedicarse a asuntos concernientes al ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales de la región. Dichos organismos no gubernamentales podrán solicitar su inclusión a los Comités Metropolitanos para el Desarrollo Urbano cuando, no siendo miembros, hayan cumplido cuando menos un año de haberse formado.
 
-4. El Comité Regional tiene las siguientes funciones:
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+3.- Una vez integrado el Comité Metropolitano, éste acordará sus reglas de operación. En todo caso, sesionará cuando menos dos veces por año de manera ordinaria y de manera extraordinaria las veces que sean necesarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+4.- El Comité Metropolitano, tiene las siguientes funciones:
 
 I. Promover la participación de los grupos sociales de los municipios en la elaboración o revisión de los programas de desarrollo urbano, asentamientos humanos, ordenamiento territorial, protección del ambiente regional y desarrollo sustentable;
 
@@ -671,7 +839,9 @@ II. Realizar consultas sobre situaciones especificas en materia de desarrollo ur
 
 III. Las demás que se estimen necesarias.
 
-5. En los municipios donde existan Comités Regionales, éstos serán parte del Consejo Consultivo del Instituto Municipal de Planeación.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+5.- En los municipios donde existan Comités Metropolitanos, éstos serán parte del Consejo Consultivo del Instituto Municipal de Planeación.
 
 ## TÍTULO III. DEL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
@@ -731,29 +901,41 @@ IX. Los demás aspectos que orienten, regulen y promuevan el desarrollo urbano s
 
 2. El Ejecutivo del Estado remitirá el Programa al Poder Legislativo con objeto de que el mismo se conozca y considere en el ejercicio de las atribuciones de la Legislatura.
 
-3. El Programa Estatal se publicará en el Periódico Oficial del Estado, se le dará difusión en los diarios de mayor circulación de la Entidad y se inscribirá en el Sistema Estatal y en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-4. La evaluación y seguimiento corresponde al Instituto.
+3. El Programa Estatal se publicará en el Periódico Oficial del Estado, se le dará difusión en los diarios de mayor circulación de la Entidad y se inscribirá en el Sistema Estatal y en el Instituto Registral y Catastral del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+4. La evaluación y seguimiento corresponde a la Secretaría.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
-1. Los Programas Regionales contendrán los objetivos, metas, políticas y estrategias de ordenamiento territorial y desarrollo urbano; y deberán de regular los asentamientos humanos y propiciar las condiciones para el desarrollo sustentable de una zona o región, cuyas características geográficas, económicas y sociales las conviertan en una unidad territorial de planeación.
+1.- Los Planes y Programas Regionales contendrán los objetivos, metas, políticas y estrategias de ordenamiento territorial y desarrollo urbano; y deberán de regular los asentamientos humanos y propiciar las condiciones para el desarrollo sustentable de una zona o región, cuyas características geográficas, económicas y sociales las conviertan en una unidad territorial de planeación.
 
-2. Los Programas Regionales serán elaborados, ejecutados y evaluados por el Instituto y los Ayuntamientos correspondientes. Su aprobación corresponde al Ejecutivo del Estado.
+2.- Los Programas Regionales serán elaborados, ejecutados y evaluados por la Secretaría y los Ayuntamientos correspondientes. Su aprobación corresponde al Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
-Los programas que definan acciones en campos específicos relacionados con el ordenamiento territorial en cualquier área urbana, serán elaborados por el Instituto durante los primeros doce meses de la gestión administrativa estatal y se actualizarán en caso necesario.
+Los planes y programas, que definan acciones en campos específicos relacionados con el ordenamiento territorial en cualquier área urbana, serán elaborados por la Secretaría durante los primeros doce meses de la gestión administrativa estatal y se actualizarán en caso necesario.
 
 ###### ARTÍCULO 21.
 
-1. Los programas municipales deberán comprender la totalidad del territorio municipal, con base en la vocación natural del mismo y su clasificación correspondiente, enfatizándose las acciones de desarrollo urbano y medio ambiente necesarias para lograr el desarrollo sustentable.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. Los planes y programas municipales, deberán comprender la totalidad del territorio municipal, con base en la vocación natural del mismo y su clasificación correspondiente, enfatizándose las acciones de desarrollo urbano y medio ambiente necesarias para lograr el desarrollo sustentable.
 
 2. Estos programas deberán ser revisados durante el segundo semestre del segundo año de la administración municipal. El Ayuntamiento emitirá el acta correspondiente en donde se asiente el dictamen técnico y las acciones procedentes.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 22.
 
-Los programas municipales señalarán las acciones específicas para la ordenación, conservación, mejoramiento y crecimiento del territorio situado en sus respectivas jurisdicciones, al tiempo de establecer la zonificación correspondiente.
+Los planes y programas municipales, señalarán las acciones específicas para la ordenación, conservación, mejoramiento y crecimiento del territorio situado en sus respectivas jurisdicciones, al tiempo de establecer la zonificación correspondiente.
 
 ###### ARTÍCULO 23.
 
@@ -777,9 +959,11 @@ VI. El fomento de la regularización de la tenencia de la tierra y de las constr
 
 VII. Las demás que se consideren necesarias para la eficacia de las acciones de ordenación, conservación, mejoramiento y crecimiento.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 25.
 
-Los programas municipales para una zona conurbada serán elaborados conjunta y coordinadamente por el Instituto y los Ayuntamientos correspondientes.
+Los programas municipales para una zona conurbada, serán elaborados conjunta y coordinadamente por la Secretaría y los Ayuntamientos correspondientes.
 
 ###### ARTÍCULO 26.
 
@@ -799,17 +983,19 @@ Los programas municipales para una zona conurbada serán elaborados conjunta y c
 
 ###### ARTÍCULO 28.
 
-1. Una vez formulados los programas establecidos por esta ley, serán remitidos al Consejo Estatal o al Comité Municipal o Regional, de acuerdo a su ámbito territorial, para que emitan su opinión.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-2. Los organismos auxiliares, de carácter consultivo previstos en esta Ley contarán con treinta días hábiles para emitir sus comentarios, con posterioridad a que reciban el programa correspondiente.
+1. Una vez formulados los programas establecidos por esta ley, serán remitidos al Consejo Estatal o, al Comité Municipal o Metropolitano, de acuerdo a su ámbito territorial para que emitan su opinión.
 
-De no formularlos en dicho término, se entenderá su opinión en sentido favorable.
+2. Los organismos auxiliares, de carácter consultivo previstos en esta Ley contarán con treinta días hábiles para emitir sus comentarios, con posterioridad a que reciban el programa correspondiente. De no formularlos en dicho término, se entenderá su opinión en sentido favorable.
 
 3. En el caso de que el Consejo Estatal o Comité Municipal respectivo emitan observaciones al proyecto de programa, podrá solicitar a la autoridad que lo elaboró, que revise, en su caso, las observaciones hechas al proyecto y realice las adecuaciones consecuentes. Si el órgano responsable de emitir el programa lo estima pertinente, contestará a las observaciones en un término de quince días hábiles posteriores a su notificación y, en caso de no responder en el término previsto, se entenderá que está conforme con dichas observaciones y deberá incorporarlas al documento respectivo.
 
 ###### ARTÍCULO 29.
 
-1. Una vez aprobados los programas, dentro de los treinta días naturales siguientes, se deberán publicar en el Periódico Oficial del Estado, se les dará difusión en los diarios de mayor circulación en la Entidad o Municipio, y se inscribirán en el Sistema Estatal y en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. Una vez aprobados los programas, dentro de los treinta días naturales siguientes, se deberán publicar en el Periódico Oficial del Estado, se les dará difusión en los diarios de mayor circulación en la Entidad o Municipio, y se inscribirán en el Sistema Estatal y en el Instituto Registral y Catastral de Tamaulipas.
 
 2. A partir de la vigencia jurídica de un programa de desarrollo urbano, las autoridades que correspondan, sólo podrán expedir certificados, constancias, licencias, permisos, autorizaciones o convenios de su competencia en congruencia con lo establecido en el documento aplicable.
 
@@ -835,7 +1021,7 @@ I. El Ejecutivo del Estado;
 
 II. La Secretaría;
 
-III. El Instituto;
+III. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2011)
 
 IV. Los Ayuntamientos;
 
@@ -895,19 +1081,23 @@ II.- Destinos: Estructura vial, redes maestras de servicios, equipamientos (educ
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 37.
 
-El Gobierno del Estado, por conducto del Instituto, y los Ayuntamientos, deberán incorporar en sus procesos de planeación las previsiones que favorezcan la formulación de programas, la realización de acciones y el desarrollo de mecanismos financieros para adquisición de inmuebles que les permitan constituir reservas territoriales para el crecimiento urbano.
+El Gobierno del Estado, por conducto de la Secretaría, y los Ayuntamientos, deberán incorporar en sus procesos de planeación las previsiones que favorezcan la formulación de programas, la realización de acciones y el desarrollo de mecanismos financieros para adquisición de inmuebles que les permitan constituir reservas territoriales para el crecimiento urbano.
+
+> <small>(REFORMADO P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 38.
 
-Cuando para satisfacer las necesidades en materia de desarrollo urbano, asentamientos humanos u ordenamiento territorial, se requiera de terrenos nacionales, ejidales o comunales, el Estado por conducto del Instituto y los Ayuntamientos, en su caso, harán las gestiones correspondientes con objeto de adquirir las reservas para el crecimiento urbano.
+Cuando para satisfacer las necesidades en materia de desarrollo urbano, asentamientos humanos u ordenamiento territorial, se requiera de terrenos nacionales, ejidales ó comunales, el Estado por conducto de la Secretaría y los Ayuntamientos, en su caso, harán las gestiones correspondientes con objeto de adquirir las reservas para el crecimiento urbano.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 39.
 
-Cuando se trate de predios de origen ejidal y se pretenda hacer la primera venta, es obligatorio agotar el derecho de preferencia que corresponde al Gobierno del Estado, tutelado en la Ley General de Asentamientos Humanos y previsto en la Ley Agraria. Para tal efecto, se deberá recabar la opinión del Instituto, y del Ayuntamiento que corresponda de acuerdo a la ubicación del predio objeto de la operación pretendida, debiendo éstos emitir en forma escrita e indubitable su interés en adquirir dicho predio en un término no mayor de 30 días naturales contados a partir del día siguiente en que se efectúe la notificación correspondiente; en caso de no producirse la respuesta, se entenderá que no se tiene interés en adquirir dicho predio.
+Cuando se trate de predios de origen ejidal y se pretenda hacer la primera venta, es obligatorio agotar el derecho de preferencia que corresponde al Gobierno del Estado, tutelado en la Ley General de Asentamientos Humanos y previsto en la Ley Agraria. Para tal efecto, se deberá recabar la opinión de la Secretaría, y del Ayuntamiento que corresponda de acuerdo a la ubicación del predio objeto de la operación pretendida, debiendo éstos emitir en forma escrita e indubitable su interés en adquirir dicho predio en un término no mayor de 30 días naturales contados a partir del día siguiente en que se efectúe la notificación correspondiente; en caso de no producirse la respuesta, se entenderá que no se tiene interés en adquirir dicho predio.
 
 ###### ARTÍCULO 40.
 
@@ -937,9 +1127,11 @@ Corresponde al Estado y a los Ayuntamientos realizar programas y acciones que fa
 
 2. Al efecto, actuarán con base en criterios de programación de las solicitudes. Estas contendrán los lugares y superficies de bienes inmuebles necesarios para la realización de sus programas, beneficiarios, tipo de acciones, costos y medios de financiamiento.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 44.
 
-El Estado podrá transmitir al Instituto y a los Municipios, áreas y predios para la fundación, conservación, mejoramiento y crecimiento de las áreas urbanas, en los términos de ley.
+El Estado podrá transmitir a la Secretaría y a los Municipios, áreas y predios para la fundación, conservación, mejoramiento y crecimiento de las áreas urbanas, en los términos de ley.
 
 ###### ARTÍCULO 45.
 
@@ -1051,11 +1243,9 @@ a) De doble sentido de circulación: Tendrá un derecho de vía de treinta metro
 
 b) De un sentido de circulación: Estará formada por dos vialidades que entre sus ejes no tengan más de trescientos metros, con sentidos contrarios de circulación. Tendrá un derecho de vía de veinte metros con dos banquetas de tres metros cada una y una calzada principal de catorce metros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IV. VIALIDAD TERCIARIA: Es la vía de menor jerarquía en la estructura vial para la circulación vehicular; integra barrios y colonias, su principal función es brindar acceso a los predios, por lo que opera con volúmenes de tránsito y velocidad bajos. Cuentan con un derecho de vía de trece metros con banquetas de dos metros cada una, y una calzada de 9 metros para el tránsito de los vehículos, preferentemente de un solo sentido de circulación.
+IV. VIALIDAD TERCIARIA: Es la vía de menor jerarquía en la estructura vial para la circulación vehicular; integra barrios y colonias, su principal función es brindar acceso a los predios, por lo que opera con volúmenes de tránsito y velocidad bajos. Cuentan con un derecho de vía de trece metros con banquetas de dos metros cada una, y una calzada de 9 metros para el tránsito de los vehículos, preferentemente de un solo sentido de circulación. Deberá preverse una vialidad terciaria cada 150 metros, como máximo, medidos entre sus ejes;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1131,9 +1321,23 @@ f) No se permitirán más de cincuenta viviendas por cada desarrollo; y
 
 g) Siempre deberán respetar la traza urbana de conformidad al artículo 48 de esta misma ley.
 
-II. HABITACIONAL POPULAR: Es aquel predominantemente habitacional que se localiza en zonas previstas en los programas para densidad alta, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y sólo serán enajenados por organismos federales, estatales o municipales. Las autoridades estatales o municipales podrán suscribir convenios con los particulares, para que estos últimos desarrollen este tipo de fraccionamientos, reservándose en todo momento las autoridades que suscriban los convenios la comercialización de los lotes resultantes.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-En los casos de los fraccionamientos habitacional y habitacional popular, los frentes tendrán un frente de cuando menos seis metros.
+II. HABITACIONAL POPULAR: Es aquel predominantemente habitacional, que se localiza en zonas previstas en los programas para densidad alta, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y sólo serán enajenados por organismos federales, estatales o municipales. Las autoridades estatales o municipales podrán suscribir convenios con los particulares, para que estos últimos desarrollen este tipo de fraccionamientos, reservándose en todo momento las autoridades que suscriban los convenios la comercialización de los lotes resultantes. Para que las autoridades antes señaladas se encuentren en posibilidad de ofertar lotes de terreno en estas condiciones, se deberá cumplir con los requisitos mínimos siguientes:
+
+a).- El frente mínimo de los lotes deberá ser de 6 metros lineales;
+
+b).- La superficie mínima de los lotes deberá ser de 96.00 metros cuadrados;
+
+c).- Que los lotes de terreno cuenten con drenaje sanitario, red de agua potable, con toma domiciliaria en cada lote, red eléctrica, con la acometida en cada lote y red de alumbrado público. Los proyectos ejecutivos deberán ser debidamente sancionados por los organismos y autoridades responsables de prestar estos servicios. El desarrollo de que se trate deberá tener guarniciones de concreto hidráulico, en toda su estructura vial;
+
+d).- El fraccionamiento deberá de contar con un acceso principal pavimentado que conecte a éste con la red vial pavimentada más cercana de la ciudad.
+
+Las vialidades deberán construirse a nivel de rasante según proyecto autorizado por el Ayuntamiento, sin importar que estas sean de terracería;
+
+e).- Los lotes de terreno deberán ofertarse a los jefes de familia que no cuenten con una propiedad y, en esta misma circunstancia se deberá de encontrar su cónyuge o pareja, así como los hijos menores de 18 años, debiendo presentar un Certificado de No Propiedad, expedido por el Instituto Registral y Catastral del Estado. El ingreso mensual familiar no deberá ser superior a los seis salarios mínimos. La entidad que oferte los lotes de terreno en fraccionamientos populares, deberá realizar estudio socioeconómico para verificar que califica al programa; y
+
+f).- Podrá ofertarse lotes a los desarrolladores de vivienda, quienes al adquirir quedarán obligados a concluir la urbanización en su totalidad, de acuerdo a lo dispuesto en los artículos 51 y 52 Bis de esta ley.
 
 III. CAMPESTRE: Es aquel que se desarrolla fuera del área urbana. Deberá observar lo siguiente:
 
@@ -1195,13 +1399,17 @@ Cuando se trate de fraccionamientos, condominios de cualquier tipo, divisiones, 
 
 El procedimiento para desarrollar el fraccionamiento de un predio es el siguiente:
 
-I. ETAPA 1.- USO DEL SUELO Y LlNEAMIENTOS URBANÍSTICOS: El. fraccionador deberá obtener el certificado de uso de suelo y los lineamientos urbanísticos aplicables conforme a lo previsto por el Programa Municipal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+I. ETAPA 1 USO DEL SUELO Y LINEAMIENTOS URBANÍSTICOS: El fraccionador deberá obtener la licencia de uso de suelo y los lineamientos urbanísticos aplicables conforme a lo previsto por el Programa Municipal.
 
 Al efecto, el fraccionador presentará ante la autoridad municipal la siguiente documentación:
 
 a) Solicitud de certificado de uso del suelo;
 
-b) Copia certificada del título que acredite la propiedad del predio, inscrito en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+b). Copia certificada del título que acredite la propiedad del predio, inscrito en el Instituto Registral y Catastral;
 
 c) Certificado de libertad de gravamen con no más de treinta días desde su expedición;
 
@@ -1237,7 +1445,9 @@ g) Frente mínimo de lotes por usos; y
 
 h) Criterios para plantar árboles en las áreas públicas;
 
-II. ETAPA 2.- LOTIFICACIÓN: Con base en los lineamientos urbanísticos, el fraccionador presentará el proyecto del fraccionamiento con las vialidades y los sentidos de circulación, rasantes, Iotificación, área vendible, áreas de cesión y afectaciones, en su caso, tanto por condiciones naturales, como por destinos previstos en los programas vigentes de desarrollo urbano. La dependencia u oficina municipal competente, emitirá dictamen para someterlo a la aprobación del Ayuntamiento. Esta autorización quedará sin efecto en caso de que al término de un año, el fraccionador no concluya el trámite señalado en la misma.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+II. ETAPA 2 LOTIFICACIÓN: Con base en los lineamientos urbanísticos, el fraccionador presentará el proyecto del fraccionamiento con las vialidades y los sentidos de circulación, rasantes, Iotificación, área vendible, áreas de cesión y afectaciones, en su caso, tanto por condiciones naturales, como por destinos previstos en los programas vigentes de desarrollo urbano, así como los estudios de impacto vial, hidrológico, y el resolutivo de impacto ambiental, según sea el caso. La dependencia u oficina municipal competente, emitirá dictamen para someterlo a la aprobación del Ayuntamiento. Esta autorización quedará sin efecto en caso de que al término de un año, el fraccionador no concluya el trámite señalado en la misma.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -1285,6 +1495,34 @@ El fraccionador deberá conservar en buen estado las obras de urbanización hast
 
 En las urbanizaciones por etapas, el fraccionador podrá solicitar la recepción de cada etapa concluida.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 51 Bis.
+
+1.- Previo a la aprobación del proyecto de lotificación, que en su caso emitan los Cabildos Municipales, el fraccionador deberá contar y presentar ante el órgano colegiado municipal, un dictamen de impacto urbano para el desarrollo de fraccionamientos de cualquier tipo, incluyendo los del régimen de propiedad en condominio, este dictamen será emitido por la Secretaría. El dictamen establecerá las condiciones y requisitos que tienen que cumplirse para que el Cabildo autorice el proyecto de lotificación.
+
+2.- Para la obtención del dictamen, el fraccionador deberá acompañar la siguiente documentación:
+
+a).- Solicitud;
+
+b).- Constancia de uso del suelo, expedida por la autoridad municipal correspondiente;
+
+c).- Factibilidad para la introducción de servicios de agua potable, drenaje sanitario y energía eléctrica, emitida por el organismo operador de estos servicios;
+
+d) Dictamen de Protección Civil en el que se establezca que no existe riesgo en el uso de suelo destinado para habitación;
+
+e).- Deberá agregar un presupuesto de todos los derechos que por la autorización del fraccionamiento deba cubrir;
+
+f).- Plano de lotificación propuesta, incluyendo dosificación de lotes por manzanas;
+
+g).- Plano de rasantes; y
+
+h).- Los estudios necesarios para el desarrollo del fraccionamiento, como son: impacto vial, impacto ambiental, estudio hidrológico y los demás que le señale la autoridad competente.
+
+3.- La Secretaría tendrá un máximo de treinta días hábiles para emitir el dictamen, no obstante, en caso de que formule observaciones al proyecto, el fraccionador tendrá un plazo similar para subsanar las observaciones y presentarlas de nueva cuenta ante la Secretaría, quien tendrá treinta días hábiles para emitir su resolución.
+
+4.- El fraccionador debe contar con el dictamen de impacto urbano, previo a la aprobación del proyecto de lotificación por parte del Cabildo Municipal.
+
 ###### ARTÍCULO 52.
 
 Son obligaciones del fraccionador las siguientes:
@@ -1329,9 +1567,43 @@ c) Deberá cumplir con los lineamientos urbanísticos en materia de vialidades y
 
 d) En caso de que el área de cesión se proponga en más de un polígono, ninguno deberá tener menos de siete mil quinientos metros cuadrados, con excepción de la superficie de camellones a que se refiere la fracción II de este mismo artículo.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 52 Bis.
+
+Quienes lleven a cabo alguno de los fraccionamientos señalados por esta ley, estarán obligados a realizar las siguientes obras de urbanización:
+
+I.- La red de distribución de agua potable y sus tomas domiciliarias, la cual deberá sujetar en su diseño, construcción y operación a las normas, especificaciones y lineamientos que le señale el organismo operador de los servicios de agua potable y alcantarillado en la autorización respectiva;
+
+II.- La red de drenaje sanitario, descargas domiciliarias, subcolectores y conectores, la cual se sujetará en su diseño y construcción a las normas, especificaciones y lineamientos que le señale el organismo operador de los servicios de agua potable y alcantarillado en la autorización respectivamente;
+
+III.- La red u obras para el manejo integral de aguas pluviales;
+
+IV.- La red de distribución de energía eléctrica y obras complementarias;
+
+V.- El alumbrado público, conforme a las especificaciones municipales;
+
+VI.- La nomenclatura, señalización vial y mobiliario urbano;
+
+VII.- Las guarniciones y banquetas de concreto conforme a las especificaciones que señale el municipio;
+
+VIII.- La habilitación de las vías públicas conforme a las especificaciones que la autoridad competente establezca;
+
+IX.- Las obras de infraestructura troncal o de servicios básicos que se requieran para su incorporación al área urbana;
+
+X.- Las obras y previsiones necesarias para facilitar el acceso, circulación y uso de espacios e instalaciones para personas con capacidades diferentes;
+
+XI.- La habilitación, equipamiento y arbolado de áreas verdes, camellones y banquetas de concreto, conforme los lineamientos que señale la autoridad municipal correspondiente;
+
+XII.- Las redes generales para telefonía y televisión por cable, las cuales deberán ser preferentemente subterráneas; y
+
+XIII.- Las obras de urbanización mencionadas anteriormente, deberán ejecutarse conforme al proyecto y calendario de obra que se acuerde con la autoridad municipal, y no podrá exceder de dos años a partir de la fecha de autorización, pudiéndose solicitar prórroga para su cumplimiento.
+
 ###### ARTÍCULO 53.
 
-1. El Ayuntamiento supervisará el proceso de ejecución de las obras de urbanización establecidas en la autorización de un fraccionamiento.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. El Ayuntamiento y la Secretaría en el ámbito de su competencia, supervisarán el proceso de ejecución de las obras de urbanización, establecidas en la autorización de un fraccionamiento.
 
 2. La constancia de terminación total o parcial de obras se extenderá al concluir la urbanización y la habilitación del área verde.
 
@@ -1373,9 +1645,13 @@ Para obtener la constancia de terminación de obras y liberación de garantías,
 
 I. Solicitud de la constancia;
 
-II. Copia del acuerdo de autorización de ventas inscrito en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-III. Garantía suficiente por dos años que respalde la calidad de pavimentos, guarniciones, banquetas, redes de agua potable, sistema de alumbrado público y redes de alcantarillado y drenaje pluvial en su caso;
+II. Copia del acuerdo de autorización de ventas inscrito en el Instituto Registral y Catastral;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III. Garantía equivalente al 20% del monto total de las obras de urbanización, con vigencia de dos años por vicios ocultos, que respalde la calidad de pavimentos, guarniciones, banquetas, redes de agua potable, sistema de alumbrado público, redes de alcantarillado y drenaje pluvial en su caso;
 
 IV. Copias de los recibos del pago de las contribuciones correspondientes;
 
@@ -1419,7 +1695,9 @@ I. Solicitud por escrito de cancelación del acuerdo de Cabildo que autorizó la
 
 II. Cancelación de la asignación de claves catastrales;
 
-III. Cancelación de la inscripción en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III. Cancelación de la inscripción en el Instituto Registral y Catastral;
 
 IV. Cumplimiento con las disposiciones que marca esta ley de la propuesta para rediseñar el fraccionamiento;
 
@@ -1429,17 +1707,19 @@ VI. No alteración del área donada al municipio en el proyecto original, de for
 
 VII. Aportación adicional a la superficie objeto de la donación al Ayuntamiento si en el rediseño propuesto resulta una mayor área vendible que en el proyecto original, en proporción al nuevo beneficio esperado, y
 
-VIII. Acreditamiento de la conformidad de los eventuales afectados, cuando con motivo del nuevo proyecto se afecten intereses o derechos de terceros. En caso de omisión por parte del fraccionador, éste asumirá la responsabilidad de todas las consecuencias legales que haya lugar.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-### CAPÍTULO II
+VIII. Acreditar la conformidad de los eventuales afectados, cuando con motivo del nuevo proyecto se afecten intereses o derechos de terceros. En caso de omisión por parte del fraccionador, éste asumirá la responsabilidad de todas las consecuencias legales que haya lugar.
 
-DE LAS AUTORIZACIONES DE DIVISIONES, SUBDIVISIONES, FUSIONES, Y RELOTIFICACIONES.
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. DE LAS LICENCIAS DE DIVISIONES, SUBDIVISIONES, FUSIONES, Y RELOTIFICACIONES
 
 ###### ARTÍCULO 64.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-1. La autorización de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados que no requieren del trazo de una o más vías públicas para dar acceso a los lotes resultantes, será otorgada por la autoridad municipal y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes.
+1.- Las licencias de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados, que no requieren del trazo de una o más vías públicas para dar acceso a los lotes resultantes, será otorgada por la autoridad municipal y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -1451,7 +1731,9 @@ DE LAS AUTORIZACIONES DE DIVISIONES, SUBDIVISIONES, FUSIONES, Y RELOTIFICACIONES
 
 ###### ARTÍCULO 65.
 
-1. La división y subdivisión de terrenos rústicos corresponde:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. La división y subdivisión de terrenos rústicos fuera del área urbana y urbanizable corresponde:
 
 I. Los terrenos determinados en el programa correspondiente como áreas de aprovechamiento, caso en el cual podrán autorizarse lotes resultantes no menores de cinco hectáreas; y
 
@@ -1463,11 +1745,15 @@ II. Los terrenos determinados como áreas de conservación, caso en el cual podr
 
 1. La división y subdivisión de terrenos urbanos se podrá realizar en los supuestos siguientes:
 
-I. La autorización de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados que no requiera del trazo de una o más vías públicas o privadas, para dar acceso a cualquiera de los lotes resultantes, será otorgada por la autoridad municipal de acuerdo a la densidad prevista en los programas correspondientes y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes. Para enajenarlos el propietario deberá urbanizarlos totalmente;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+I. La licencia de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados, que no requiera del trazo de una o más vías públicas o privadas, para dar acceso a cualquiera de los lotes resultantes, será otorgada por la autoridad municipal de acuerdo a la densidad prevista en los programas correspondientes y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes. Para enajenarlos el propietario deberá urbanizarlos totalmente;
 
 II. Un predio previamente fraccionado o dividido, podrá ser subdividido, siempre que la superficie o superficies resultantes, o la cantidad de predios resultantes, no generen una densidad mayor de lotes o viviendas por hectárea, de acuerdo a lo establecido en los programas vigentes de desarrollo urbano;
 
-III. Cuando el predio dividido no provenga de un fraccionamiento autorizado, la inscripción del traslado de dominio en el Registro Público de la Propiedad y del Comercio podrá hacerse con la sola presentación de la constancia de urbanización expedida por la autoridad municipal;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III. Cuando el predio dividido no provenga de un fraccionamiento autorizado, la inscripción del traslado de dominio en el Instituto Registral y Catastral podrá hacerse con la sola presentación de la constancia de urbanización expedida por la autoridad municipal;
 
 IV. Las fusiones de terrenos urbanos se podrán realizar sin limitación alguna; y
 
@@ -1479,11 +1765,15 @@ V. Las relotificaciones de terrenos urbanos procederán cuando la cantidad de lo
 
 1. La subdivisión familiar tendrá lugar cuando se requiera la partición de un predio por acciones hereditarias entre parientes en línea recta o colateral hasta el segundo grado, conforme a la determinación que concluya el procedimiento sucesorio.
 
-2. La autoridad municipal autorizará la subdivisión familiar siempre que se acredite la adjudicación legal del inmueble a favor de los peticionarios y las fracciones resultantes de la subdivisión propuesta no sean superiores al número de herederos o legatarios. En todo caso, la superficie de las porciones resultantes deberá sujetarse a lo previsto en los programas que integran el Sistema Estatal.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+2. La autoridad municipal autorizará la subdivisión familiar, siempre que se acredite la adjudicación legal del inmueble a favor de los peticionarios y, las fracciones resultantes de la subdivisión propuesta no sean superiores al número de herederos o legatarios. La superficie de las porciones resultantes deberá sujetarse a lo previsto en los planes y programas que integran el Sistema Estatal.
 
 3. La subdivisión de copropiedad derivada de una adjudicación sucesoria deberá atender a los lineamientos de uso de suelo determinados para el área de ubicación del predio de que se trate.
 
-4. En el caso de que exista un programa de ordenamiento territorial y desarrollo urbano aplicable o una normatividad específica debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+4. En el caso de que exista un plan o programa de ordenamiento territorial y desarrollo urbano aplicable o una normatividad específica debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1497,7 +1787,9 @@ I. Solicitud correspondiente por escrito;
 
 II. El plano a escala del proyecto pretendido, anexándose copia del plano que muestre el estado actual del predio con la precisión de su ubicación;
 
-III. El título que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad Inmueble y del Comercio;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III. El título que acredite la propiedad del predio, debidamente inscrito en el Instituto Registral y Catastral;
 
 IV. El certificado de libertad de gravamen con un máximo de treinta días de ser expedido;
 
@@ -1521,7 +1813,27 @@ VIII. La acreditación del cumplimiento de los requisitos establecidos en las de
 
 ###### ARTÍCULO 69.
 
-1. Las autorizaciones para dividir, subdividir, fusionar, relotificar o fraccionar uno o varios predios, deberán inscribirse en el Registro Público de la Propiedad Inmueble y del Comercio. Para el caso de los fraccionamientos, es requisito indispensable contar previamente con la inscripción en el Sistema Estatal de Planeación e Información Geográfica.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. Las licencias para dividir, subdividir, fusionar, relotificar o fraccionar uno o varios predios, deberán inscribirse en el Instituto Registral y Catastral. Para el caso de los fraccionamientos bajo cualquier régimen de propiedad, es requisito indispensable contar previamente con la inscripción en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano. Para la obtención de la inscripción en el Sistema Estatal, el solicitante debe acompañar:
+
+I.- Solicitud firmada por el propietario o representante legal;
+
+II.- Copia certificada del Título que acredite la propiedad, debidamente inscrita en el Instituto Registral y Catastral;
+
+III.- Juego de cuatro planos de lotificación, debidamente autorizados por el Cabildo Municipal, que contengan cuadro de áreas, coordenadas georeferenciadas, porcentaje de usos y destinos del suelo;
+
+IV.- Plano de rasantes aprobado;
+
+V.- Archivo electrónico con proyecto de lotificación georeferenciado y curvas de nivel;
+
+VI.- Copia certificada de Acuerdo de Cabildo de aprobación del fraccionamiento, en congruencia con lo establecido en el Código Municipal para el Estado de Tamaulipas;
+
+VII.- Los estudios de impacto vial, hidrológico así como el resolutivo de impacto ambiental, según sea el caso;
+
+VIII.- Oficios de derechos federales o estatales de vías de Petróleos Mexicanos, Comisión Federal de Electricidad, Comisión Nacional del Agua, estableciendo las afectaciones al desarrollo cuando se trate del caso, y las demás que indique la autoridad; y
+
+IX.- Pago de los derechos correspondientes.
 
 2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
@@ -1533,7 +1845,9 @@ VIII. La acreditación del cumplimiento de los requisitos establecidos en las de
 
 ###### ARTÍCULO 70.
 
-1. El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo y la autorización de ventas, en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo y la autorización de ventas, en el Instituto Registral y Catastral.
 
 2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
 
@@ -1541,13 +1855,17 @@ VIII. La acreditación del cumplimiento de los requisitos establecidos en las de
 
 Todos los actos, acuerdos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento, o cualquier otra forma jurídica de tenencia de inmuebles, deberán ajustarse a lo establecido en los programas de ordenamiento territorial y desarrollo urbano aplicables, de conformidad con lo previsto en ésta ley; y en congruencia con lo establecido en la Ley General de Asentamientos Humanos.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 72.
 
-Los notarios públicos, al autorizar actos o contratos relativos a lotes pertenecientes a un fraccionamiento, deberán hacer mención del permiso de ventas a que se refiere esta ley; y del uso del suelo autorizado, así como de su inscripción en el Sistema Estatal y en el Registro Público de la Propiedad y del Comercio.
+Los notarios públicos, al autorizar actos o contratos relativos a lotes pertenecientes a un fraccionamiento, deberán hacer mención del permiso de ventas a que se refiere esta ley; y del uso del suelo autorizado, así como de su inscripción en el Sistema Estatal y en el Instituto Registral y Catastral.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 73.
 
-El Registro Público de la Propiedad y del Comercio sólo podrá inscribir aquellas operaciones que se acompañen de las autorizaciones a que se refiere esta ley.
+El Instituto Registral y Catastral solo podrá inscribir aquellas operaciones que se acompañen de las autorizaciones a que se refiere esta ley.
 
 ###### ARTÍCULO 74.
 
@@ -1559,7 +1877,9 @@ No producirán efecto jurídico alguno los actos, convenios o contratos relativo
 
 ###### ARTÍCULO 75.
 
-1. La licencia de uso de suelo será expedida por la autoridad municipal, de conformidad con esta ley y lo establecido en el Programa de Ordenamiento Territorial y Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. La licencia de uso de suelo será expedida mediante acuerdo fundado y motivado por la autoridad municipal, de conformidad con esta ley y lo establecido en el Código Municipal para el Estado de Tamaulipas, en lo aplicable y, en el Plan o Programa de Ordenamiento Territorial y Desarrollo Urbano.
 
 2. La licencia de uso de suelo tiene por objeto:
 
@@ -1571,7 +1891,9 @@ III. Determinar los estudios aplicables que deberá elaborar y presentar el inte
 
 ###### ARTÍCULO 76.
 
-1. La autorización de uso de la edificación será expedida por la autoridad municipal, de conformidad con esta ley.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. La licencia de uso de la edificación será expedida mediante acuerdo fundado y motivado, por la autoridad municipal, de conformidad con esta ley, y el Código Municipal para el Estado de Tamaulipas.
 
 2. La autorización de uso de la edificación tiene por objeto:
 
@@ -1605,31 +1927,11 @@ IV. Así como acreditar el pago del impuesto predial; y
 
 V. Realizar el pago de derechos correspondientes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+2. (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2011)
 
-2. Por cuanto hace al otorgamiento de licencias de uso de suelo para las estaciones de servicio denominadas gasolineras, se sujetará a las siguientes condiciones:
+3. (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2011)
 
-I. Los predios para el establecimiento de gasolineras o estaciones de servicio deberán estar localizados sobre accesos a cerretas, carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme al uso de suelo del Plan de Desarrollo Urbano del municipio respectivo;
-
-II. Las estaciones de servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental de seguridad y demás legislación aplicable, y se ubicarán a una distancia de 10,000 metros en forma radial una de otra, dentro de zona urbana, y de 20,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
-
-III. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
-
-IV. El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
-
-V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
-
-VI. Las bombas expendedoras de gasolina y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 15 metros de un área residencial; y
-
-VII. Además, deberá obtenerse dictamen favorable de la autoridad competente en materia de protección civil.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
-
-3. Cuando el predio en el que se pretenda instalar una gasolinera o estación de servicio, se ubique enfrente de dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por el frente a la vialidad de mayor jerarquía.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
-
-4. No podrán ubicarse gasolineras o estaciones de servicio dentro de las áreas consideradas como de Reserva Ecológica.
+4. (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2011)
 
 ###### ARTÍCULO 79.
 
@@ -1693,6 +1995,32 @@ V. Realizar el pago de los derechos correspondientes.
 
 4. Si el dictamen rechaza el proyecto de construcción, se notificará al solicitante para los efectos que establezca esta ley y demás disposiciones de carácter general expedidas por el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 83 Bis.
+
+La Secretaría deberá mantener actualizado el Registro Estatal del Patrimonio Histórico Artístico Edificado, incorporando los bienes inmuebles que revistan valor estético relevante, por su representatividad, inserción en determinada corriente estilística, grado de innovación de materiales, técnicas utilizadas y análogas, y su significación en el contexto urbano al patrimonio estatal.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 83. Ter.
+
+Toda edificación que se encuentre inscrita en el Registro Estatal del Patrimonio Histórico Artístico Edificado, requiere de un dictamen expedido por la Secretaría, previo a la autorización municipal, para el caso de demolición, modificación, restauración, consolidación o intervención parcial o total.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 83. Quater.
+
+La Secretaría, tendrá en todo tiempo la facultad de supervisar y verificar, el proceso y seguimiento de intervención de los inmuebles inscritos en el Registro Estatal de Patrimonio Histórico Artístico Edificado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 83.
+
+Quintus.
+
+La Secretaría aplicará las medidas de seguridad y las sanciones que establece la presente ley a quien no haya recabado el dictamen que se establece en los artículos anteriores, y aquel que aun contando con el mismo, no acate los lineamientos y recomendaciones de carácter técnico, en la intervención del inmueble.
+
 ###### ARTÍCULO 84.
 
 1. Las autoridades municipales tomarán las medidas que estén a su alcance, a fin de simplificar los trámites administrativos para expedir las licencias que correspondan a construcciones dedicadas a vivienda.
@@ -1707,7 +2035,9 @@ V. Realizar el pago de los derechos correspondientes.
 
 ###### ARTÍCULO 86.
 
-1. La utilización que se dé a las construcciones, edificaciones e instalaciones, deberá ser aquélla que haya sido autorizada por la autoridad municipal.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. La utilización que se dé a las construcciones, edificaciones e instalaciones, deberá ser aquella que haya sido aprobada por la autoridad municipal.
 
 2. Para darles un aprovechamiento distinto al originalmente aprobado, se deberá tramitar y obtener una nueva autorización.
 
@@ -1851,7 +2181,9 @@ I. Contravenir las disposiciones contenidas en los convenios que celebren las au
 
 II. Incurrir el propietario o poseedor del predio objeto de división, subdivisión, relotificación, fraccionamiento o desarrollo sujetos al régimen de propiedad en condominio, en alguna de las siguientes hipótesis:
 
-a) El proyecto de lotificación no cuente con la aprobación en los términos de esta ley, o carezca de licencia de obra;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+a). El proyecto de lotificación no cuente con la aprobación en los términos de esta ley, o carezca de la licencia correspondiente;
 
 b) La construcción sea distinto (sic) al tipo de fraccionamiento o desarrollo aprobado por la autoridad competente;
 
@@ -1863,7 +2195,9 @@ d) La omisión en la entrega de copia de autorizaciones al Sistema Estatal, de a
 
 III. Realizar alguna construcción, instalación, demolición o excavación, sin contar con la debida autorización;
 
-IV. Ejecutar obras de excavación, cimentación, modificación, alteración, instalación, construcción o demolición, de un bien inmueble inscrito en el Registro Estatal del Patrimonio Histórico y Artístico Edificado, sin contar con el dictamen previo del Instituto;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+IV. Ejecutar obras de excavación, cimentación, modificación, alteración, instalación, construcción o demolición, de un bien inmueble inscrito en el Registro Estatal del Patrimonio Histórico y Artístico Edificado, sin contar con el dictamen previo de la Secretaría;
 
 V. Realizar, sin permiso o autorización, en la vía pública, terreno de dominio público o afecto a un destino común, construcciones, instalaciones, excavaciones, depósito de materiales o escombros, o cualquier otra obra o acto que afecte sus funciones;
 
@@ -1883,13 +2217,19 @@ IX. Continuar ejerciendo los derechos derivados de un permiso o autorización al
 
 I. A quien se encuentre en el supuesto establecido en la fracción I, se le aplicará una sanción consistente en la rescisión del convenio, y multa de 350 a 500 veces el salario mínimo prevaleciente en la zona económica de que se trate;
 
-II. A quien se encuentre en el supuesto contemplado en la fracción II, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
-III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, IV, V y VI, la suspensión o demolición de construcciones e instalaciones, y multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+II. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 100, de esta ley, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 100, de esta ley, la suspensión o demolición de construcciones e instalaciones, y multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
 
 IV. A quien se encuentre en el supuesto contemplado en la fracción VII, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
 
-V. A quien se encuentre en el supuesto que establece la fracción VIII, se le impondrá multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+V. A quien se encuentre en el supuesto que establece la fracción VIII, del artículo 100, de esta ley, se le impondrá multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
 
 VI. A quien se encuentre en el supuesto que establece la fracción IX, se le impondrá multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate.
 
@@ -2041,7 +2381,9 @@ Los organismos regularizadores de la tenencia de la tierra someterán a la aprob
 
 ###### ARTÍCULO 115.
 
-1. Es obligación del organismo promovente del proceso de regularización el inscribir el plano de lotificación y el acuerdo en el que se autoriza dicho proceso en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano y posteriormente en el Registro Público de la Propiedad Inmueble y del Comercio.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+1. Es obligación del organismo promovente del proceso de regularización el inscribir el plano de lotificación y el acuerdo en el que se autoriza dicho proceso en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano y posteriormente en el Instituto Registral y Catastral.
 
 2. En virtud del fin social y beneficio que representa la regularización de la tenencia de la tierra y por ser de interés público, los trámites que contempla este Capítulo estarán exentos de pago de derechos.
 
@@ -2108,3 +2450,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 La autoridad municipal podrá alentar la implementación de programas de apoyo a los comerciantes o empresarios que deseen regularizar su funcionamiento con base en las nuevas disposiciones, siempre que exista la viabilidad presupuestal.
+
+P.O. 22 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El otorgamiento de licencias de uso de suelo de estaciones de servicio denominadas gasolineras, deberá sujetarse a las disposiciones aplicables en materia de protección civil, ambiental, de comunicaciones y demás administrativas pertinentes.
