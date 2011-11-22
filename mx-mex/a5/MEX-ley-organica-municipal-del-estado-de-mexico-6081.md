@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-09-06"
+last_updated: "2011-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -37,7 +37,7 @@ LA H. "LI" LEGISLATURA DEL ESTADO DE MEXICO
 
 D E C R E T A :
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
 ## TITULO I. Del Municipio
 
@@ -1119,9 +1119,11 @@ Los síndicos municipales tendrán a su cargo la procuración y defensa de los d
 
 Los síndicos tendrán las siguientes atribuciones:
 
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2011)</small>
 
-I. Procurar, defender y promover los derechos e intereses municipales; representar legal y jurídicamente a los ayuntamientos en los litigios en los que éstos fueran parte; así como la gestión de los negocios de la hacienda municipal, facultándolos para otorgar y revocar poderes generales y especiales a terceros o mediante carta poder u oficio para la debida representación legal y jurídica de los Ayuntamientos; pudiendo convenir en los mismos;
+I. Procurar, defender y promover los derechos e intereses municipales; representar jurídicamente a los ayuntamientos, a los integrantes de los mismos y a las dependencias de la Administración Pública Municipal en los litigios en los que éstos fueren parte; así como la gestión de los negocios de la hacienda municipal, facultándolos para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente, pudiendo convenir en los mismos.
+
+La representación legal de los miembros de los ayuntamientos, sólo se dará en asuntos oficiales;
 
 II. Revisar y firmar los cortes de caja de la tesorería municipal;
 
@@ -3065,7 +3067,7 @@ QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciad
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-P.O. 31 DE AGOSTO DE 2010.
+G.G. 31 DE AGOSTO DE 2010.
 
 PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3324,3 +3326,11 @@ G.G. 6 DE SEPTIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
