@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-sustanciacion-y-resolucion-de-80860"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2011-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80860&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO PARA EL TRAMITE, SUSTANCIACION Y RESOLUCION DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 15 de abril de 2011.
 
@@ -360,7 +360,9 @@ IV. Cuando las autoridades del Distrito Federal no proporcionen en tiempo y form
 
 Serán medidas cautelares, los actos que determine la Comisión de Asociaciones o la Comisión de Fiscalización a fin de lograr la cesación de los actos o hechos que constituyan la presunta infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en el Código, hasta en tanto se emite la resolución definitiva que ponga fin al procedimiento.
 
-El proveído por el que se dicten las medidas cautelares deberá estar fundado y motivado conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE NOVIEMBRE DE 2011)</small>
+
+El otorgamiento o rechazo de las medidas cautelares deberá acordarse por la Comisión, en un plazo máximo de 72 horas, posteriores a su solicitud, y se dictarán tomando en cuenta los hechos denunciados y el material probatorio aportados por las partes, lo anterior sin perjuicio de que durante la sustanciación éstas puedan ser modificadas o levantadas, debiendo en todos los casos fundarse y motivarse conforme a lo siguiente:
 
 I. La probable existencia de un derecho, del cual se pide la tutela en el proceso;
 
@@ -829,3 +831,9 @@ SEGUNDO. Se abroga el Reglamento para la Sustanciación de Quejas Administrativa
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 22 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- Publíquese en la Gaceta Oficial del Distrito Federal.
