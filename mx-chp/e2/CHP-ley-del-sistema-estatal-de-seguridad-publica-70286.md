@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-sistema-estatal-de-seguridad-publica-70286"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2009-08-26"
+last_updated: "2011-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -197,7 +197,9 @@ VI. El Secretario de Infraestructura;
 
 VII. El Secretario de Seguridad y Protección Ciudadana;
 
-VIII. El Secretario Ejecutivo del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+VIII. El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad;
 
 IX. El Secretario de Transportes;
 
@@ -210,6 +212,10 @@ Sus integrantes tendrán derecho a voz y voto; a cada sesión, se invitará cuan
 A convocatoria del Presidente del Consejo Estatal, podrán participar además los servidores públicos que por razón de sus atribuciones estén vinculados con los fines de la Seguridad Pública, así como los auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto.
 
 El Presidente de la Comisión de los Derechos Humanos del Estado de Chiapas será invitado permanente del Consejo Estatal con derecho a voz.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+El Presidente Consejero del Consejo Estatal de los Derechos Humanos será invitado permanente del Consejo Estatal con derecho a voz.
 
 Las actas que se levanten con motivo de las Sesiones del Consejo Estatal, serán válidas con la sola firma de los funcionarios mencionados en las fracciones I, II, III, V, VII, VIII y X, siendo formalmente válidos los acuerdos para todos los miembros del mismo.
 
@@ -855,19 +861,349 @@ VII. Las demás que establezcan otras disposiciones legales.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 42.
 
-El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, al Ministerio Público y a los peritos.
+El Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, comprenderá lo relativo a las Policías Preventivas, Fiscal del Ministerio Público, Policía Especializada y a los Peritos.
 
 ###### Artículo 43.
 
 El Consejo Estatal, promoverá la implementación del Servicio de Carrera en sus diferentes niveles, comprendiendo los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, evaluación, ascenso, dignificación y separación del servicio, a través de las instancias administrativas de formación a la carrera policial y ministerial.
 
-La Policía Ministerial y los Miembros del Buró Ministerial de Investigación de la Procuraduría General de Justicia del Estado, se sujetarán a lo dispuesto en la Ley Orgánica que la rige, en materia de carrera policial.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+La policía especializada integrada por el Buró Ministerial y por la Policía de Apoyo Ministerial, de la Procuraduría General de Justicia del Estado, se sujetarán a lo dispuesto por esta Ley y en la Ley Orgánica que la rige, en materia de carrera policial.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Bis.
+
+El Servicio de Carrera Ministerial, Policial y Pericial de la Procuraduría General de Justicia del Estado, estará constituida por el ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento en el desempeño de sus funciones, derechos, obligaciones, prestaciones, responsabilidades y sanciones.
+
+Para los efectos del párrafo anterior la permanencia se refiere a los requisitos del personal de la Procuraduría General de Justicia del Estado, de capacitarse, certificarse, presentar los exámenes y cursos a que se refiere esta Ley y su Ley Orgánica, para estar en aptitud de continuar prestando sus servicios en esa institución.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Ter.
+
+Para ingresar como Fiscal del Ministerio Público, Policía Especializado y Perito a la Procuraduría General de Justicia del Estado, independientemente de la aprobación de los exámenes y cursos que exija el puesto, los titulares de las unidades administrativas responsables de esa institución, deberán consultar previamente el Registro Nacional de Seguridad Pública, de Seguridad Pública del Estado, de la Secretaría de la Función Pública del Estado, y de la Procuraduría General de la República; así como solicitar, en su caso, la información respectiva a las instituciones afines, con el objetivo de verificar que el aspirante no cuente con algún impedimento para ocupar el puesto de que se trate.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Quáter.
+
+El Servicio de Carrera Ministerial, Policial y Pericial de la Procuraduría General de Justicia del Estado, comprende lo relativo a Fiscales del Ministerio Público, Elementos de la Policía Especializada, Peritos, y se sujetará a las bases siguientes:
+
+I. Se compondrá de las etapas de ingreso, desarrollo y terminación del servicio, así como la reincorporación al mismo, en los términos de las disposiciones aplicables.
+
+II. Tiene el carácter obligatorio, permanente y abarcará los programas, cursos, exámenes, y concursos correspondientes a las diversas etapas de la rama ministerial, policial y pericial, los cuales se realizarán por las unidades que determinen las disposiciones aplicables, sin perjuicio de que se establezcan mecanismos de coadyuvancia con instituciones públicas o privadas.
+
+III. Se rige por los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, lealtad, disciplina e imparcialidad y de respeto a los derechos humanos, y tendrá como objetivo la preparación, competencia, capacidad y superación constante del personal en el desempeño de sus funciones, así como fomentar la vocación del servicio y el sentido de permanencia.
+
+El contenido teórico y práctico de los programas de capacitación, actualización y especialización fomentará que los Fiscales del Ministerio Público, y los auxiliares directos logren la profesionalización y ejerzan sus atribuciones con base en los referidos principios, promoverán el efectivo aprendizaje, el pleno desarrollo de los conocimientos y habilidades necesarios para el desempeño del servicio.
+
+IV. Contará con un sistema de rotación de Fiscales del Ministerio Público, elementos de la Policía Especializada y Peritos, dentro de la Procuraduría General de Justicia del Estado.
+
+V. Determinará los perfiles, categorías y funciones de los Fiscales del Ministerio Público, elementos de la Policía Especializada y Peritos.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Quinquies.
+
+Los resultados de los procesos de evaluación de control de confianza y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales, y se mantendrán en reserva en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Sexies.
+
+Para ingresar y permanecer como Fiscal del Ministerio Público de carrera, se requiere:
+
+I. Para ingresar:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
+
+b) Contar con título de licenciado en derecho expedido y registrado legalmente, y con la correspondiente cédula profesional.
+
+c) Tener acreditado, en su caso, el Servicio Militar Nacional.
+
+d) Aprobar el proceso de evaluación de control de confianza y de competencias profesionales.
+
+e) Sustentar y acreditar el concurso de oposición, en los términos que señalen las disposiciones aplicables.
+
+f) Aprobar los cursos de formación inicial, así como los exámenes de evaluación médica, toxicológica, poligráfico, psicométrico y demás que ordenen las disposiciones aplicables.
+
+g) No estar sujeto a proceso penal.
+
+h) No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables.
+
+i) Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave.
+
+j) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes y otras que produzcan efectos similares, ni padecer alcoholismo.
+
+k) Los demás requisitos que establezcan otras disposiciones aplicables.
+
+II. Para permanecer:
+
+a) Seguir los programas de actualización, profesionalización y de evaluación de competencias para el ejercicio de la función que establezcan las disposiciones aplicables.
+
+b) Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño, permanente, periódica y obligatoria que establezca esta Ley, y demás disposiciones aplicables.
+
+c) No ausentarse del servicio sin causa justificada por tres días consecutivos, o cinco discontinuos, dentro de un período de treinta días naturales.
+
+d) Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables.
+
+e) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio.
+
+f) Mantener vigente la certificación a que se refiere el artículo 43 Quindecies de esta Ley.
+
+g) Cumplir las órdenes de comisión, rotación y cambio de adscripción.
+
+h) Cumplir con las obligaciones que le imponga, esta ley y demás disposiciones aplicables.
+
+i) No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio.
+
+j) Los demás requisitos que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Septies.
+
+Para ingresar y permanecer como Policía Especializado de Carrera se requiere:
+
+I. Para ingresar al Buró Ministerial de Investigación:
+
+a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad.
+
+b) Acreditar que se han concluido, por lo menos los estudios correspondientes a la educación superior o equivalente.
+
+c) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal.
+
+d) Tener acreditado en su caso, el Servicio Militar Nacional.
+
+e) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
+
+f) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, poligráfico, de entorno social y de control de confianza.
+
+g) Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+h) Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+i) No padecer alcoholismo.
+
+j) No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+k) Aprobar los cursos de formación, capacitación y profesionalización que se impartan.
+
+l) Sustentar y acreditar el concurso de ingreso.
+
+m) Aprobar y obtener la certificación respectiva de Control de Confianza.
+
+II. Para ingresar a la Policía de Apoyo Ministerial:
+
+a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad.
+
+b) Acreditar que se han concluido, por lo menos los estudios correspondientes a la educación media superior.
+
+c) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal.
+
+d) Tener acreditado en su caso, el Servicio Militar Nacional.
+
+e) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
+
+f) Aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos, poligráfico, de entorno social y de control de confianza.
+
+g) Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+h) Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+i) No padecer alcoholismo.
+
+j) No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+k) Aprobar los cursos de formación, capacitación y profesionalización que se impartan.
+
+l) Sustentar y acreditar el concurso de ingreso.
+
+m) Aprobar y obtener la certificación respectiva de Control de Confianza.
+
+III. Para permanecer en ambas corporaciones:
+
+a) Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso.
+
+b) Mantener actualizado su Certificado Único Policial.
+
+c) No superar la edad máxima de retiro que establezcan las disposiciones aplicables.
+
+d) Acreditar que ha concluido, al menos, los estudios siguientes:
+
+1. En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato.
+
+2. En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
+e) Aprobar los cursos de formación, capacitación y profesionalización.
+
+f) Aprobar los procesos de evaluación de control de confianza.
+
+g) Aprobar las evaluaciones del desempeño.
+
+h) Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables.
+
+i) Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+j) No padecer alcoholismo.
+
+k) Someterse a exámenes para comprobar la ausencia de alcoholismo.
+
+l) Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+m) No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+n) No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio.
+
+o) Cumplir con las órdenes de comisión, rotación y cambio de adscripción.
+
+p) No ausentarse del servicio sin causa justificada, por un período de tres días consecutivos o de cinco días dentro de un término de treinta días.
+
+q) Cumplir con los requisitos de ingreso previstos en este artículo durante el servicio.
+
+r) Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Octies.
+
+Para ingresar y permanecer como perito de carrera, se requiere:
+
+I. Para ingresar:
+
+a) Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos.
+
+b) Tener título legalmente expedido y registrado por autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o comprobar que ha concluido por lo menos con los estudios de nivel medio superior y acreditar plenamente los conocimientos técnicos, científicos o artísticos correspondientes a la disciplina sobre la que deba dictaminar cuando de acuerdo con las normas aplicables, no necesite título o cédula profesional para su ejercicio.
+
+c) Tener acreditado, en su caso, el Servicio Militar Nacional.
+
+d) Aprobar el proceso de evaluación de control de confianza y de competencias profesionales.
+
+e) Sustentar y acreditar el concurso de oposición en los términos que señalen las disposiciones aplicables.
+
+f) Aprobar los cursos de formación inicial, así como los exámenes de evaluación médica, toxicológica, poligráfico, psicométrico y demás que ordene (sic) las disposiciones aplicables.
+
+g) No estar sujeto a proceso penal.
+
+h) No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o estatal, en los términos de las normas aplicables.
+
+i) Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso o culposo calificado como grave.
+
+j) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
+
+k) Los demás requisitos que establezcan otras disposiciones aplicables.
+
+II. Para permanecer:
+
+a) Seguir los programas de actualización, profesionalización y de evaluación de competencias para el ejercicio de la función que establezcan las disposiciones aplicables.
+
+b) Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño, permanente, periódico y obligatorios que establezca esta Ley, y demás disposiciones aplicables.
+
+c) No ausentarse del servicio sin causa justificada por tres días consecutivos, o cinco discontinuos en un período de treinta días naturales.
+
+d) Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables.
+
+e) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio.
+
+f) Mantener vigente la certificación a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+g) Cumplir las órdenes de comisión, rotación y cambio de adscripción.
+
+h) Cumplir con las obligaciones que les impongan las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Nonies.
+
+Los servidores públicos de la Procuraduría General de Justicia del Estado, deberán someterse y aprobar los procesos de evaluación de control de confianza, del desempeño y de competencias profesionales, de conformidad con lo dispuesto en esta Ley, y demás disposiciones aplicables.
+
+El proceso de evaluación de control de confianza, constará de los exámenes siguientes:
+
+I. Patrimonial y de entorno social.
+
+II. Médico.
+
+III. Psicométrico y psicológico.
+
+IV. Poligráfico.
+
+V. Toxicológico.
+
+VI. Los demás que establezcan las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Decies.
+
+El proceso de evaluación del desempeño comprenderá el comportamiento, el cumplimiento en el ejercicio de las funciones y los demás aspectos que establezcan las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Undecies.- Los procesos de evaluación a que se refieren los dos artículos anteriores tendrán por objeto que los servidores públicos de la Procuraduría den debido cumplimiento a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, eficacia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Duodecies.- El proceso de evaluación de competencias profesionales tiene por objeto determinar que los servidores públicos cuentan con los conocimientos, las habilidades, destrezas y aptitudes necesarias para desempeñar su función de forma eficiente, de conformidad con los estándares establecidos para ello.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Terdecies.- Los exámenes del proceso de evaluación de control de confianza se valorarán en conjunto, salvo el examen toxicológico que se presentará y calificará por separado.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Quaterdecies.- Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Quindecies.- El Centro Estatal de Control de Confianza Certificado, emitirá los certificados correspondientes a quienes acrediten los requisitos de ingreso que establece esta Ley y el ordenamiento legal aplicable a la institución de que se trate.
+
+El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en la Procuraduría General Justicia del Estado, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+
+Los aspirantes que ingresen a la Procuraduría General de Justicia del Estado, deberán contar con el certificado y registro correspondientes, de conformidad con lo establecido por esta Ley. Ninguna persona podrá ingresar o permanecer en (sic) Procuraduría General de Justicia del Estado sin contar con el certificado y registro vigentes.
+
+A quienes aprueben las evaluaciones de control de confianza, del desempeño y de competencias profesionales se les expedirá la certificación a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+La certificación a que se refiere el párrafo anterior, deberá expedirse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de su registro. La certificación y el registro respectivo tendrán una vigencia de tres años.
+
+Para efectos de revalidación de la certificación y el registro, seis meses antes de la expiración de su vigencia los servidores públicos de la Procuraduría General de Justicia del Estado, deberán someterse a los procesos de evaluación respectivos. Será responsabilidad del titular del área de adscripción solicitar con oportunidad al órgano encargado del control de confianza, la programación de las evaluaciones correspondientes.
+
+La revalidación del certificado será requisito indispensable para su permanencia en las Instituciones de Procuración de Justicia y deberá registrarse para los efectos a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Sexdecies.- La certificación que otorgue el Centro Estatal de Control de Confianza Certificado deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Septdecies.- La cancelación del certificado de los Servidores Públicos de la Procuraduría General de Justicia del Estado procederá:
+
+I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
+
+II. Al ser removidos de su encargo;
+
+III. Por no obtener la revalidación de su Certificado, y,
+
+IV. Por las demás causas que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Octodecies.- Para permanecer en el servicio de la Procuraduría General de Justicia del Estado, como Fiscal del Ministerio Público, elementos de la Policía, Peritos y Secretarios de Acuerdos Ministeriales, dentro del servicio de carrera ministerial, los interesados deberán participar en los programas que con ese fin determine la institución y en los concursos de promoción a que se convoque.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 43 Novodecies.- Quienes formen parte del servicio de carrera en la Procuraduría General de Justicia del Estado, serán ascendidos previa evaluación que se realice al efecto, de conformidad con lo que establece esta Ley, y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 44.
 
-Las legislaciones correspondientes establecerán los términos que regirán en el Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia.
+Las legislaciones correspondientes podrán establecer de igual forma los términos que regirán en el Servicio de Carrera en las Instituciones de Seguridad Pública y de Procuración de Justicia, siempre y cuando no contradigan lo establecido por la presente y la Ley General del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 45.
 
@@ -929,15 +1265,263 @@ IV. Escala Básica.
 
 En las policías ministeriales se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
 
-### Capítulo Único. De la Acreditación y Control de Confianza
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+### Capítulo II Bis. De la Carrera Policial y de la Profesionalización
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Bis.
+
+La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Ter.
+
+Los fines de la Carrera Policial son:
+
+I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Instituciones Policiales;
+
+II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+
+III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
+
+IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los Integrantes de las Instituciones Policiales para asegurar la lealtad institucional en la prestación de los servicios; y,
+
+V. Los demás que establezcan las disposiciones que deriven de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Quáter.
+
+La Carrera Policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas mínimas siguientes:
+
+I. Las Instituciones Policiales deberán consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a las mismas;
+
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Control de Confianza Certificado;
+
+III. Ninguna persona podrá ingresar a las Instituciones Policiales si no ha sido debidamente certificado y registrado en el Sistema;
+
+IV. Sólo ingresarán y permanecerán en las Instituciones Policiales, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
+
+V. La permanencia de los integrantes en las Instituciones Policiales está condicionada al cumplimiento de los requisitos que determine esta Ley, la Ley General del Sistema Nacional de Seguridad Publica y demás disposiciones aplicables;
+
+VI. Los méritos de los integrantes de las Instituciones Policiales serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
+
+VII. Para la promoción de los integrantes de las Instituciones Policiales se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+
+VIII. Se determinará un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes de las Instituciones Policiales;
+
+IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio;
+
+X. El cambio de un integrante de un área operativa a otra de distinta especialidad, sólo podrá ser autorizado por la instancia que señale la ley de la materia; y,
+
+XI. Las instancias establecerán los procedimientos relativos a cada una de las etapas de la Carrera Policial.
+
+La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en las Instituciones Policiales. En ningún caso habrá inamovilidad en los cargos administrativos y de dirección.
+
+En términos de las disposiciones aplicables, los titulares de las Instituciones Policiales podrán designar a los integrantes en cargos administrativos o de dirección de la estructura orgánica de las instituciones a su cargo; asimismo, podrán relevarlos libremente, respetando su grado policial y derecho inherente a la Carrera Policial.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Quinquies.
+
+La selección es el proceso que consiste en elegir, de entre los aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las Instituciones Policiales.
+
+Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en la ley sobre los aspirantes aceptados.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Sexies.
+
+El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en las Academias o Institutos de Capacitación Policial, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Septies.
+
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las Instituciones Policiales. Son requisitos de ingreso y permanencia en las Instituciones Policiales, los siguientes:
+
+De Ingreso:
+
+I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad.
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal.
+
+III. Tener acreditado el Servicio Militar Nacional.
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente.
+
+b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente.
+
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
+V. Aprobar el concurso de ingreso y los cursos de formación.
+
+VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
+
+VII. Aprobar los procesos de evaluación de control de confianza.
+
+VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+IX. No padecer alcoholismo.
+
+X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+XII. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de la misma.
+
+XIII. Los demás que establezcan otras disposiciones legales aplicables.
+
+De Permanencia:
+
+I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso.
+
+II. Mantener actualizado su Certificado Único Policial.
+
+III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables.
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato.
+
+b) Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente.
+
+c) En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
+V. Aprobar los cursos de formación, capacitación y profesionalización.
+
+VI. Aprobar los procesos de certificación y evaluación que aplique el Centro Estatal de Control de Confianza Certificado o las Instituciones Policiales.
+
+VII. Aprobar las evaluaciones del desempeño.
+
+VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables.
+
+IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+X. No padecer alcoholismo.
+
+XI. Someterse a exámenes para comprobar la ausencia de alcoholismo.
+
+XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares.
+
+XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días.
+
+XV. No acumular más de 500 puntos de demerito y ser sujeto a procedimiento ante el Consejo de Honor y Justicia respectivo.
+
+XVI. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Octies.
+
+El régimen de estímulos es el mecanismo por el cual las Instituciones Policiales otorgan el reconocimiento público a sus integrantes por actos de servicio meritorios o por su trayectoria ejemplar, para fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y desarrollo de los integrantes, así como fortalecer su identidad institucional.
+
+Todo estímulo otorgado por las instituciones será acompañado de una constancia que acredite el otorgamiento del mismo, la cual deberá ser integrada al expediente del elemento y en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Nonies.
+
+La promoción es el acto mediante el cual se otorga a los integrantes de las Instituciones Policiales, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
+
+Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
+
+Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+
+Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 52 Decies.
+
+Se considera escala de rangos policiales a la relación que contiene a todos los integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 52 Undecies.- La antigüedad se clasificará y computará para cada uno de los integrantes de las Instituciones Policiales, de la siguiente forma:
+
+I. Antigüedad en el servicio, a partir de la fecha de su ingreso a las Instituciones Policiales; y,
+
+II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
+
+La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 52 Duodecies.- La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
+
+I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+
+a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+
+b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables; y,
+
+c) Que del expediente del integrante no se desprendan méritos suficientes a juicio de las Comisiones para conservar su permanencia.
+
+II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario; o,
+
+III. Baja, por:
+
+a) Renuncia;
+
+b) Muerte o incapacidad permanente; o,
+
+c) Jubilación o Retiro.
+
+Al concluir el servicio el integrante deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 52 Terdecies.- Los integrantes de las Instituciones Policiales que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 52 Quaterdecies.- La certificación es el proceso mediante el cual los integrantes de las Instituciones Policiales se someten a las evaluaciones periódicas establecidas por el Centro Estatal de Control de Confianza Certificado o las Instituciones Policiales, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+
+Las Instituciones Policiales contratarán únicamente al personal que cuente con el requisito de certificación expedido por el Centro Estatal de Control de Confianza Certificado.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 52 Quindecies.- La certificación tiene por objeto:
+
+A. Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional de Seguridad Pública;
+
+B. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos de los integrantes de las Instituciones Policiales:
+
+I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
+II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+
+III. Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+IV. Ausencia de vínculos con organizaciones delictivas;
+
+V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público; y,
+
+VI. Cumplimiento de los deberes establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 52 Sexdecies.- La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales.
+
+Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que se establezca; de conformidad con la normatividad vigente especializada en esta materia.
 
 ## Título Quinto. De Acreditación y Control de Confianza de los Integrantes de las Instituciones de Seguridad Pública
 
-### Capítulo Único. De la Información Estatal
+### Capítulo Único. De la Acreditación y Control de Confianza
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 53.
 
-El Centro Estatal de Control de Confianza, es un órgano Administrativo Desconcentrado, jerárquicamente subordinado al Consejo Estatal de seguridad Pública, con plena autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, para lo cual contará con las atribuciones previstas en su Decreto de Creación y demás disposiciones aplicables.
+El Centro Estatal de Control de Confianza Certificado del Estado de chiapas, es un Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Seguridad y Protección Ciudadana, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, de operación y de ejecución, para lo cual contará con las atribuciones previstas en su Decreto de Creación y demás disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -953,7 +1537,9 @@ Cuando en los procesos de certificación a cargo del Centro Estatal de Control d
 
 El Centro Estatal de Control de Confianza Certificado aplicará las evaluaciones a que se refiere esta Ley, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los Integrantes de las Instituciones de Seguridad Pública; así como en términos de las disposiciones, registros, acuerdos, resoluciones, mecanismos de coordinación que emita el Consejo Nacional; para tal efecto, tendrá las siguientes facultades:
 
-I. Evaluar y certificar a los policías y cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+I. Evaluar y certificar a los policías y cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad y Protección Ciudadana, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
 
 II. Evaluar y certificar a los policías y cuerpos de seguridad de los Municipios del Estado que por acuerdo y solicitud así lo requieran, en acciones relacionadas con su ingreso, permanencia y para el desempeño de sus actividades.
 
@@ -963,11 +1549,15 @@ IV. Suscribir con los diversos órganos de seguridad, de control de confianza y 
 
 V. Suscribir con los Municipios del Estado y demás personas los acuerdos necesarios para llevar a cabo las acciones a que se refiere el presente instrumento.
 
-VI. Crear, ejecutar y dar seguimiento a un sistema o programa de base de datos que garantice el registro de situación patrimonial de los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado y del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, así como de sus familiares, desde el registro, modificación y conclusión.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+VI. Crear, ejecutar y dar seguimiento a un sistema o programa de base de datos que garantice el registro de situación patrimonial de los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad y Protección Ciudadana, así como de sus familiares, desde el registro, modificación y conclusión.
 
 VII. Participar en representación del Ejecutivo del Estado, en las reuniones que convoque el Centro de Investigación y Seguridad Nacional y, en general con cualquier otra autoridad o persona que tenga funciones relacionadas con el objeto de creación del Centro, debiendo informar permanentemente al Ejecutivo de las acciones y los resultados derivados de las mismas.
 
-VIII. Establecer los mecanismos, instrumentos y procedimientos de evaluación sistemático y periódico a los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad, para garantizar su actuación, mediante certificación de que su conducta se apega a la ética y a la normatividad institucional, buscando en ello la inhibición de los actos de corrupción, impunidad y penetración del crimen organizado, y en general, cualquier otra acción que le permita el cumplimiento del objeto de su creación.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+VIII. Establecer los mecanismos, instrumentos y procedimientos de evaluación sistemático y periódico a los policías, cuerpos de seguridad, de custodia, de tránsito y de caminos del Estado, además del personal de la Procuraduría de Justicia y la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, de la Secretaría de Seguridad y Protección Ciudadana, para garantizar su actuación, mediante certificación de que su conducta se apega a la ética y a la normatividad institucional, buscando en ello la inhibición de los actos de corrupción, impunidad y penetración del crimen organizado, y en general, cualquier otra acción que le permita el cumplimiento del objeto de su creación.
 
 IX. Comunicar e informar a las autoridades competentes las conductas o el incumplimiento de las normas administrativas de aquellos servidores públicos que detecte el Centro en el ejercicio de sus funciones, para que aquellas inicien los procedimientos y determinen las sanciones que resulten procedentes.
 
@@ -977,7 +1567,7 @@ XI. Las demás que sean necesarias para el cumplimiento de su objeto, así como 
 
 ## Título Sexto. De la Información Sobre Seguridad Pública
 
-### Capítulo I. Del Registro Administrativo de Detenciones
+### Capítulo Único. De la Información Estatal
 
 ###### Artículo 57.
 
@@ -1009,7 +1599,7 @@ El servicio de llamadas de emergencia y el servicio de denuncia anónima operar�
 
 ## Título Séptimo. De los Registros de Detención, Información de Personal y de Armamento
 
-### Capítulo II. Del Sistema Único de Información Criminal
+### Capítulo I. Del Registro Administrativo de Detenciones
 
 ###### Artículo 60.
 
@@ -1065,7 +1655,7 @@ Al servidor público que quebrante la reserva del Registro o proporcione informa
 
 Las Instituciones de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
 
-### Capítulo III. Del Registro del Personal de Seguridad Pública
+### Capítulo II. Del Sistema Único de Información Criminal
 
 ###### Artículo 65.
 
@@ -1089,7 +1679,7 @@ El Sistema Estatal de Información Penitenciaria es la base de datos que, dentro
 
 La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de procesos penales y demás información necesaria para la integración de dicho sistema.
 
-### Capítulo IV. Del Registro de Armamento y Equipo
+### Capítulo III. Del Registro del Personal de Seguridad Pública
 
 ###### Artículo 70.
 
@@ -1111,7 +1701,7 @@ Para efectos de esta Ley, se consideran miembros de las Instituciones de Segurid
 
 La infracción a esta disposición se sancionará en términos de la presente Ley.
 
-### Capítulo I. De los Servicios de Atención a la Población
+### Capítulo IV. Del Registro de Armamento y Equipo
 
 ###### Artículo 72.
 
@@ -1147,7 +1737,7 @@ El incumplimiento a las disposiciones de este capítulo, dará lugar a que la po
 
 ## Título Octavo. De los Servicios de Atención a la Población y De la Participación Ciudadana
 
-### Capítulo II. De la Participación Ciudadana
+### Capítulo I. De los Servicios de Atención a la Población
 
 ###### Artículo 79.
 
@@ -1217,7 +1807,7 @@ III. Medidas de protección a la víctima; y,
 
 IV. Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo II. De la Participación Ciudadana
 
 ###### Artículo 86.
 
@@ -1253,7 +1843,7 @@ Para proceder a la integración de estos comités, el Consejo Estatal, los Conse
 
 ## Título Noveno. De las Responsabilidades de los Servidores Públicos
 
-### Capítulo II. De los Delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 88.
 
@@ -1265,7 +1855,7 @@ Serán consideradas violaciones graves a la Constitución y a las leyes que de e
 
 La Auditoría Superior de la Federación, fiscalizará los recursos federales que ejerzan el Estado y los municipios en materia de Seguridad Pública, en términos de las disposiciones aplicables sin perjuicio de la fiscalización que, por convenio o conforme a su competencia, deba realizar el Órgano de Fiscalización Superior del H. Congreso del Estado.
 
-### Capítulo I. Disposiciones Preliminares
+### Capítulo II. De los Delitos contra el funcionamiento del Sistema Estatal de Seguridad Pública
 
 ###### Artículo 90.
 
@@ -1297,7 +1887,7 @@ Las sanciones previstas en este capítulo se impondrán sin perjuicio de las pen
 
 ## Título Décimo. De los Fondos de Ayuda Para la Seguridad Pública
 
-### Capítulo II. De la Cancelación y Suspensión de Ministración de los Recursos
+### Capítulo I. Disposiciones Preliminares
 
 ###### Artículo 94.
 
@@ -1325,7 +1915,7 @@ III. Las demás acciones que resulten necesarias para la consecución de lo disp
 
 De manera supletoria a lo previsto en este artículo se aplicará la Ley de Procedimientos Administrativos para el Estado de Chiapas y el Código Civil.
 
-### Capítulo Único. De la Prestación del Servicio
+### Capítulo II. De la Cancelación y Suspensión de Ministración de los Recursos
 
 ###### Artículo 96.
 
@@ -1373,6 +1963,8 @@ El Consejo Estatal resolverá sobre la existencia de incumplimiento y determinar
 
 ## Título Décimo Primero. De los Servicios de Seguridad Privada
 
+### Capítulo Único. De la Prestación del Servicio
+
 ###### Artículo 98.
 
 Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría; en este caso, los particulares autorizados, deberán cumplir la regulación local.
@@ -1412,3 +2004,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los quince días del mes de julio del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
