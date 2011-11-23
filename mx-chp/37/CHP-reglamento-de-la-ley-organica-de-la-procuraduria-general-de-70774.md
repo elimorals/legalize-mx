@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2011-03-16"
+last_updated: "2011-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -2089,9 +2089,51 @@ VI. Coordinar la acción institucional de prevención, investigación de las con
 
 VII. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo XIII. De la Unidad de Comunicación Social
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo XIV. De la Unidad de Control y Seguimiento Documental
+### Capítulo XII Bis. De la Dirección General del Centro de Justicia para las Mujeres
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 121 Bis.
+
+El Titular de la Dirección General del Centro de Justicia para las Mujeres, tendrá las atribuciones siguientes:
+
+I. Coordinar los servicios y acciones que lleve a cabo en su conjunto el personal comisionado al Centro de Justicia para las Mujeres.
+
+II. Velar por que se hagan efectivos los derechos de las mujeres y su acceso a la justicia.
+
+III. Implementar acciones tendientes a mejorar la impartición, procuración y acceso a la justicia en delitos en los que las mujeres y niñas son las principales víctimas.
+
+IV. Garantizar la investigación y elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia.
+
+V. Representar a la Procuraduría en el Comité de Trabajo ante la Secretaría de Gobernación.
+
+VI. Realizar trimestralmente un informe de actividades al Procurador.
+
+VII. Procurar en todo momento la defensa y el respeto a los Derechos Humanos de las Mujeres, así como impulsar y fomentar su conocimiento.
+
+VIII. Coordinar a las Instituciones y los trabajos que se realicen dentro del Centro de Justicia para las Mujeres.
+
+IX. Gestionar con los superiores del personal comisionado al Centro de Justicia para las Mujeres, lo necesario para el debido cumplimento de sus atribuciones.
+
+X. Gestionar la participación de Asociaciones Civiles.
+
+XI. Brindar servicios especializados y gratuitos para la atención y protección de las víctimas.
+
+XII. Realizar los programas necesarios para la promoción y publicidad del Centro de Justicia para las Mujeres.
+
+XIII. Promover la cultura de la denuncia de la violencia en contra de las mujeres, en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad.
+
+XIV. Diseñar programas de capacitación del personal adscrito al Centro de Justicia para las Mujeres.
+
+XV. Denunciar ante la instancia correspondiente el incumplimiento, desatención o faltas del personal comisionado al Centro de Justicia para las Mujeres.
+
+XVI. Ejecutar medidas específicas que sirvan de herramientas de acción para la prevención, atención y erradicación de la violencia contra las mujeres en todos los ámbitos, en un marco de integridad y promoción de sus derechos.
+
+XVII. Las demás que le confieran otras disposiciones o el Procurador.
+
+### Capítulo XIII. De la Unidad de Comunicación Social
 
 ###### Artículo 122.
 
@@ -2117,7 +2159,7 @@ IX. Asistir en materia de manejo de medios, imagen e información a los diferent
 
 X. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo XV. Del Instituto de Investigación y Profesionalización
+### Capítulo XIV. De la Unidad de Control y Seguimiento Documental
 
 ###### Artículo 123.
 
@@ -2137,7 +2179,7 @@ VI. Mantener un registro y seguimiento cuantitativo y cualitativo de los asuntos
 
 VII. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo XVI. De la Unidad de Inteligencia y Seguimiento Criminal
+### Capítulo XV. Del Instituto de Investigación y Profesionalización
 
 ###### Artículo 124.
 
@@ -2195,7 +2237,7 @@ XI. Realizar el seguimiento individual de los servidores públicos en los cuales
 
 XII. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo I. De la Fiscalía Especializada de Visitaduría
+### Capítulo XVI. De la Unidad de Inteligencia y Seguimiento Criminal
 
 ###### Artículo 126.
 
@@ -2227,9 +2269,7 @@ XII. Las demás que le confieran otras disposiciones o el Procurador.
 
 ## Título Quinto. De los Órganos Sustantivos de Control Interno
 
-### Capítulo II. De la Contraloría General
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+### Capítulo I. De la Fiscalía Especializada de Visitaduría
 
 ###### Artículo 127.
 
@@ -2311,9 +2351,9 @@ XV. Participar en la elaboración de manuales de actuación ministerial, policia
 
 XVI. Las demás que le confieran otras disposiciones o el Procurador.
 
-### Capítulo I. Del Recurso de Revisión
+### Capítulo II. De la Contraloría General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 131.
 
@@ -2395,7 +2435,9 @@ Una vez transcurrido el término establecido en el párrafo anterior, para la pr
 
 ## Título Sexto. De los Recursos
 
-### Capítulo II. Del Recurso de Reconsideración
+### Capítulo I. Del Recurso de Revisión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 137.
 
@@ -2448,6 +2490,8 @@ En caso de que el Fiscal del Ministerio Público, Policía, Secretario de Acuerd
 ###### Artículo 143.
 
 En todos los casos y cualquiera que sea la resolución que recaiga al recurso de revisión, se agregarán al expediente personal del interesado tanto dicho escrito como la resolución respectiva.
+
+### Capítulo II. Del Recurso de Reconsideración
 
 ###### Artículo 144.
 
@@ -2686,6 +2730,14 @@ El Consejo de Procuración de Justicia, deberá expedir a la brevedad posible, e
 Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
 
 P.O. 16 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 23 DE NOVIEMBRE DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
