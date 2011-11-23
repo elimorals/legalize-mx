@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2010-04-17"
+last_updated: "2011-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACION DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -47,9 +47,11 @@ Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Prote
 
 Esta Ley tiene por objeto establecer las bases que rijan la actuación de la Secretaría de Seguridad y Protección Ciudadana, a efectos de regular su operación en los asuntos en materia de Seguridad Pública y Reinserción Social de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Orgánica de la Administración Pública del Estado de Chiapas, este ordenamiento y demás disposiciones aplicables.
 
-###### Artículo 2.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-La Secretaría de Seguridad y Protección Ciudadana es una Dependencia del Poder Ejecutivo del Estado, como una institución de carácter civil, disciplinada y profesional, su actuación se regirá por las leyes de la materia y sus reglamentos, además, por los principios de legalidad, lealtad, objetividad, eficiencia, honradez, y respeto a los derechos humanos y garantías constitucionales; tomando en cuenta la diversidad cultural de las distintas etnias en el Estado así como sus usos y costumbres, reconocidos por la Constitución Política de los Estados Unidos Mexicanos; por lo que deberá fomentar la participación ciudadana como herramienta del combate a la delincuencia y rendir cuentas en términos de ley.
+###### Artículo 2°.
+
+La Secretaría de Seguridad y Protección Ciudadana es una Dependencia del Poder Ejecutivo del Estado, como una institución de carácter civil, disciplinada y profesional, su actuación se regirá por las leyes de la materia y sus reglamentos, además, por los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos y garantías constitucionales; tomando en cuenta la diversidad cultural de las distintas etnias en el Estado así como sus usos y costumbres, reconocidos por la Constitución Política de los Estados Unidos Mexicanos; por lo que, deberá fomentar la participación ciudadana como herramienta del combate a la delincuencia y rendir cuentas en términos de ley.
 
 ###### Artículo 3.
 
@@ -70,6 +72,10 @@ VI. Carrera Policial: Al Servicio Profesional de Carrera Policial.
 VII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, o de centros de arraigos; y en general, todas las Dependencias encargadas de la seguridad pública a nivel Federal, Local y Municipal, que realicen funciones similares.
 
 VIII. Servicio: Actividad física o intelectual que desempeña un miembro integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+IX. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría.
 
 ### Capítulo II. De la Organización y Atribuciones de la Secretaría
 
@@ -135,7 +141,9 @@ III. Unidades de apoyo a la Secretaría.
 
 IV. Comisión de Honor y Justicia: la cual se integra por un cuerpo colegiado denominado Consejo de Honor y Justicia y se rige por un Reglamento propio.
 
-V. Comisión de Ascensos: la cual se integra por un cuerpo colegiado denominado Consejo de Ascensos y Recompensas y se rige por un Reglamento propio.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+V. Comisión del Servicio de Carrera: la cual se integra por un cuerpo colegiado denominado Comisión del Servicio Profesional de Carrera Policial y se rige por un Reglamento propio.
 
 ### Capítulo II. De las Unidades de Apoyo al Secretario
 
@@ -205,25 +213,37 @@ Para la formación y operación de las Unidades de Apoyo a la Secretaría se ate
 
 La Comisión de Honor y Justicia de la Secretaría, será la encargada de conocer, mediante los procedimientos señalados en la Ley y en su propio Reglamento, de las conductas en que incurran los elementos que integran a la Secretaría.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-La Comisión de Ascensos y Recompensas, será la encargada de reconocer mediante los procedimientos señalados en su propio Reglamento, de las promociones y premios que deban otorgarse a los elementos que integran a la Secretaría.
+La Comisión del Servicio Profesional de Carrera Policial, será la encargada de conocer sobre los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los elementos de la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo Único. De las obligaciones y características especiales
 
-## Título Tercero. De las Policías Preventivas del Estado
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-### Capítulo I. De la Relación Laboral
+## Título Tercero. De los Integrantes de la Secretaría
+
+### Capítulo I. El Servicio
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 21.
 
-Las Policías Preventivas del Estado son todas aquellas corporaciones policiacas que están adscritas a la Secretaría, al frente de las cuales se encuentra un Director con jerarquía policial de Comisario;
+Se entiende por integrante a todo aquel personal que desempeña una función en cualquiera de las áreas de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 22.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Policías Preventivas del Estado se sujetarán a las siguientes obligaciones:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de la Secretaría se sujetarán a las siguientes obligaciones:
 
-I. Rendir el informe policial homologado (IPH), ajustándose a lo establecido en el reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+I. Rendir el informe policial homologado (IPH), ajustándose a lo establecido en la normatividad vigente.
 
 II. Conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a las Garantías Individuales y Derechos Humanos reconocidos en la Constitución.
 
@@ -281,9 +301,11 @@ XXVIII. No permitir que personas ajenas a sus instituciones realicen actos inher
 
 XXIX. Los demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-Además de lo señalado en el artículo anterior, los integrantes de las Policías Preventivas del Estado, tendrán específicamente las obligaciones siguientes:
+Además de lo señalado en el artículo anterior, los integrantes de la Secretaría tendrán específicamente las obligaciones siguientes:
 
 I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice.
 
@@ -309,11 +331,19 @@ XI. Las demás que establezcan las disposiciones legales aplicables.
 
 ## Titulo Cuarto. Del Régimen Interno
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ### Capítulo II. Del Sistema de Sanciones, Reconocimientos y Ascensos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 24.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como, garantizar el cumplimiento de los principios constitucionales. Todos los Servidores Públicos que no pertenezcan a la carrera policial serán considerados como trabajadores de confianza.
+Se entiende por servicio lo plasmando (sic) en el artículo 3° fracción VIII de la presente ley y deberá ser desempeñado bajo los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las jornadas de servicio serán de acuerdo a las necesidades de cada Órgano Administrativo de la Secretaría, con las modalidades que para cada una de las diferentes áreas, se establezca en el ordenamiento jurídico correspondiente.
+
+Durante el desempeño del servicio y por necesidades de este, se justifica disponer en cualquier momento de los integrantes de la Secretaría, sin distinción del área o actividades que realice, con la finalidad de hacer frente de manera oportuna, contundente, eficaz y eficiente a los objetivos de la Secretaría.
 
 ###### Artículo 25.
 
@@ -399,7 +429,7 @@ XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resoluci�
 
 XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días.
 
-XV. No acumular más de 500 puntos de demérito y ser sujeto a procedimiento ante el Consejo de Honor y Justicia de la Secretaría.
+XV. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2011)
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -443,17 +473,21 @@ La Seguridad Social para los miembros de la Secretaría deberá garantizar, al m
 
 ###### Artículo 31.
 
-El Sistema de sanciones, reconocimientos, ascensos y recompensas de la Secretaría estará conformado por las Comisión de Honor y Justicia y de Ascensos y Recompensas.
+El Sistema de sanciones, reconocimientos, promociones y recompensas de la Secretaría estará conformado por las Comisiones de Honor y Justicia y del Servicio Profesional de Carrera Policial.
 
 La Comisión de Honor y Justicia conocerá y resolverá respecto de los procedimientos disciplinarios a que se haga acreedor cualquier elemento de la Secretaría en el ejercicio de sus funciones, aplicando para tal efecto los reglamentos que correspondan.
 
-La Comisión de Ascensos y Recompensas es la responsable de estructurar el sistema de promoción, ascensos y recompensas del personal aspirante al grado inmediato superior dentro de la escala jerárquica comprendida en la presente ley, así como del buen desempeño del mismo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+La Comisión del Servicio Profesional de Carrera Policial es la responsable de estructurar las instancias y procedimientos inherentes a la carrera policial.
 
 Los procedimientos y las demás reglas de aplicación de cada comisión serán establecidos en los reglamentos y manuales de operación respectivos.
 
-###### Articulo 32.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-La disciplina se fundamenta en los principios de legalidad, lealtad, objetividad, eficiencia, honradez y respeto a los derechos humanos y garantías constitucionales, en la capacidad de mandar y obedecer y tiene como objetivo fundamental el cumplimiento de las ordenes y misiones que las fuerzas públicas del Estado tienen encomendadas; anteponiendo en todo momento el interés colectivo del pueblo chiapaneco a cualquier interés personal.
+###### Artículo 32.
+
+La disciplina se fundamenta en los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y garantías constitucionales, en la capacidad de mandar y obedecer y tiene como objetivo fundamental el cumplimiento de las ordenes y misiones que las fuerzas públicas del Estado tienen encomendadas; anteponiendo en todo momento el interés colectivo del pueblo chiapaneco a cualquier interés personal.
 
 En toda instalación de la Secretaría deberá imperar el orden jurídico y la disciplina a la que se ajustaran todos y cada uno de los elementos que opten por la vida policial.
 
@@ -469,35 +503,39 @@ Se entiende por correctivo disciplinario a la sanción que se impone a un integr
 
 El correctivo disciplinario deberá contener el motivo y fundamento de la falta, así como la fecha y hora, el grado y número de orden y nombre del infractor y del superior que le impone el correctivo, así como los demás requisitos señalados en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 36.
 
-El sistema disciplinario de la Secretaría contempla las sanciones siguientes:
+El sistema disciplinario de la Secretaría contempla para faltas disciplinarias graves y muy graves, las sanciones siguientes:
 
-I. Por faltas muy graves:
+a) Amonestación:
 
-a) Separación del servicio.
+Es el acto por el cual se advierte al Integrante sobre la acción u omisión indebida que cometió en el desempeño de sus funciones. Mediante ella se informa al Integrante las consecuencias de su infracción y se le exhorta a que enmiende su conducta para no incurrir en una nueva infracción, apercibido de que, en caso contrario, se hará acreedor a una sanción mayor. La aplicación de esta sanción se hará, en público o en privado. Dependerá de la naturaleza de la falta aplicar la forma de amonestación, pero, en todo caso, procederá la amonestación pública cuando el infractor se niegue a recibir la notificación de la resolución. La amonestación pública se hará frente a Integrantes de la Secretaría, quienes deberán ostentar el mismo o mayor grado, cargo o comisión que el sancionado. Nunca se amonestará a un infractor en presencia de subordinados en categoría jerárquica, cargo o comisión.
 
-b) Suspensión de funciones con pérdida dé remuneraciones de uno a tres años.
+b) Suspensión:
 
-Cuando se actualice una causal que por resolución firme declare la separación del servicio de un elemento, se inscribirá en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+Es la interrupción temporal de la relación administrativa existente entre el infractor y la Secretaría, la cual podrá ser de quince días hasta seis meses.
 
-II. Por faltas graves:
+El infractor no deberá prestar sus servicios y, en consecuencia, la Secretaría no le cubrirá sus percepciones, en virtud de lo cual el infractor deberá entregar su identificación, municiones, armamento, equipo, documentación y demás bienes de la Institución que se le hubieren ministrado bajo su resguardo para el cumplimiento de sus funciones.
 
-a) Suspensión de funciones con pérdida de remuneraciones de uno a tres años.
+Concluida la suspensión el Integrante se presentará en el Órgano Administrativo en donde desempeñe su servicio, informando por escrito su reincorporación al mismo.
 
-b) Traslado con cambio de residencia.
+c) Pago o Reposición:
 
-c) Inmovilización en el escalafón por un periodo de uno a cinco años.
+Es la sanción a la que el integrante de la Secretaría puede hacerse acreedor en caso de haber ocasionado un daño o pérdida de algún bien patrimonial de la Secretaría, como pueden ser vehículos, armamento, municiones, vestuario, equipo en general, entre otros; y,
 
-d) Pérdida de cinco a cien días de remuneración y suspensión de funciones por igual periodo.
+d) Remoción:
 
-III. Por faltas leves:
+Es la terminación de la relación administrativa entre la Secretaría y el infractor, sin responsabilidad para aquélla, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario.
 
-a) Pérdida de uno a quince días de remuneración y suspensión de funciones por igual período, que no supondrá la pérdida de antigüedad ni implicará la inmovilización en el escalafón.
+Las anteriores sanciones serán impuestas mediante resolución formal del Consejo de Honor y Justicia, por infracciones o faltas a la disciplina, a las obligaciones y los deberes establecidos en las Leyes, Reglamentos y demás disposiciones vigentes, de manera proporcional a la gravedad de la falta cometida; asimismo por lo que respecta a la competencia de la Comisión del Servicio Profesional de Carrera Policial.
 
-b) Apercibimiento.
+En todo caso, la sanción deberá registrarse en las bases de datos y de personal de la Secretaría, así como en el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
 ### Capítulo I. Del Desarrollo Policial
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -549,11 +587,13 @@ c) Policía Tercero.
 
 d) Policía.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 39.
 
-La forma de ascender dentro del escalafón jerárquico será únicamente por los modelos de promoción que establezca la Secretaría; la promoción es el acto mediante el cual se otorga a los integrantes de las Policías Preventivas del Estado, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en esta Ley, en tal caso, dicha promoción sólo podrá conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado; al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de patente de grado el cual estará firmado por el titular de la Secretaría y portara sello oficial a fin de que haga la constancia respectiva.
+La forma de ascender dentro del escalafón jerárquico será únicamente por los modelos de promoción que establezca la Secretaría; la promoción es el acto mediante el cual se otorga a los integrantes, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en esta Ley, en tal caso, dicha promoción sólo podrá conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado; al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de patente de grado el cual estará firmado por el Titular de la Secretaría y portara sello oficial a fin de que haga la constancia respectiva.
 
-Para ocupar un grado dentro de las Policías Preventivas del Estado, se deberán reunir los requisitos establecidos por la normatividad vigente especializada en la materia.
+Para ocupar un grado dentro de la Secretaría, se deberán reunir los requisitos establecidos por la normatividad vigente especializada en la materia.
 
 ###### Artículo 40.
 
@@ -595,19 +635,25 @@ VIII. Al mérito social.
 
 ### Capítulo II. De la Carrera Policial
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 42.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Policías Preventivas del Estado y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales y los consagrados en esta Ley.
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales y los consagrados en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 43.
 
-Las relaciones jurídicas entre las Policías Preventivas del Estado y sus integrantes se rigen por el apartado B, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y demás disposiciones legales aplicables.
+Las relaciones jurídicas entre la Secretaría y sus integrantes se rigen por el apartado B, del artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y demás disposiciones legales aplicables.
 
 Todos los servidores públicos adscritos a la Secretaría que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 44.
 
-Los integrantes de las Policías Preventivas del Estado podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes o por procedimiento disciplinario ante el consejo de honor y justicia que en el momento de la separación señalen para permanecer en las Instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación, y en su caso, sólo procederá la indemnización así como el registro correspondiente ante el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
+Los integrantes de la Secretaría podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, mediante procedimiento ante la Comisión del Servicio Profesional de Carrera Policial o por procedimiento disciplinario ante el Consejo de Honor y Justicia por las situaciones previstas en sus respectivos reglamentos, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación, y en su caso, sólo procederá la indemnización así como el registro correspondiente ante el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
 ###### Artículo 45.
 
@@ -621,21 +667,29 @@ III. Reacción: a efectos de garantizar, mantener y restablecer el orden y la pa
 
 ### Capítulo III. De la Profesionalización del Personal de la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 46.
 
-La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Policías Preventivas del Estado.
+La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de la Secretaría.
 
 ###### Artículo 47.
 
 Los fines de la Carrera Policial son:
 
-I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Policías Preventivas del Estado.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de Secretaría.
 
 II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones.
 
-III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Policías Preventivas del Estado.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los Integrantes de las Policías Preventivas del Estado para asegurar la lealtad institucional en la prestación de los servicios.
+III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de la Secretaría.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+IV. Instrumentar e impulsar la capacitación y profesionalización permanente de los Integrantes de la Secretaría para asegurar la lealtad institucional en la prestación de los servicios.
 
 V. Los demás que establezcan las disposiciones que deriven de esta Ley.
 
@@ -649,17 +703,29 @@ II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certifica
 
 III. Ninguna persona podrá ingresar a las Policías Preventivas del Estado si no ha sido debidamente certificado y registrado en el Sistema.
 
-IV. Sólo ingresarán y permanecerán en las Policías Preventivas del Estado, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización correspondientes.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-V. La permanencia de los integrantes en las Policías Preventivas del Estado, está condicionada al cumplimiento de los requisitos que determine la Ley.
+IV. Sólo ingresarán y permanecerán en la Secretaría, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización correspondientes.
 
-VI. Los méritos de los integrantes de las Policías Preventivas del Estado, serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-VII. Para la promoción de los integrantes de las Policías Preventivas del Estado se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo.
+V. La permanencia de los integrantes en la Secretaría, está condicionada al cumplimiento de los requisitos que determine la Ley.
 
-VIII. Se determinará un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes de las Policías Preventivas del Estado.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-IX. Los integrantes de las Policías Preventivas del Estado podrán ser cambiados de adscripción, con base en las necesidades del servicio.
+VI. Los méritos de los integrantes de la Secretaría, serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+VII. Para la promoción de los integrantes se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+VIII. Se determinará un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes de la Secretaría.
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+IX. Los integrantes podrán ser cambiados de ubicación, con base en las necesidades del servicio.
 
 X. El cambio de un integrante de un área operativa a otra de distinta especialidad, sólo podrá ser autorizado por el Secretario.
 
@@ -667,15 +733,21 @@ XI. Las instancias establecerán los procedimientos relativos a cada una de las 
 
 XII. La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en la Secretaría. En ningún caso habrá inamovilidad en los cargos administrativos y de Dirección.
 
-XIII. En términos de las disposiciones aplicables, el Secretario podrá designará los integrantes de las Policías Preventivas del Estado, en cargos administrativos o de Dirección de la estructura orgánica de la Secretaría; asimismo, podrá relevarlos libremente, respetando su grado policial y derecho inherente a la Carrera Policial.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+XIII. En términos de las disposiciones aplicables, el Secretario podrá designar a los integrantes en cargos administrativos o de Dirección de la estructura orgánica de la Secretaría; asimismo, podrá relevarlos libremente, respetando su grado policial y derecho inherente a la Carrera Policial.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 49.
 
-Las instancias responsables del Servicio de Carrera Policial fomentarán la vocación de servicio mediante la promoción y permanencia en las Policías Preventivas del Estado para satisfacer las expectativas de desarrollo profesional de sus integrantes.
+Las instancias responsables del Servicio de Carrera Policial fomentarán la vocación de servicio, mediante la promoción y permanencia en la Secretaría para satisfacer las expectativas de desarrollo profesional de sus integrantes.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 50.
 
-La promoción es el acto mediante el cual se otorga a los integrantes de las Policías Preventivas del Estado, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
+La promoción es el acto mediante el cual se otorga a los integrantes, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
 
 ###### Artículo 51.
 
@@ -685,19 +757,25 @@ Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable,
 
 Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 53.
 
-Para ocupar un grado dentro de las Policías Preventivas del Estado, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+Para ocupar un grado dentro de la Secretaría, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 54.
 
-Se considera escala de rangos policiales a la relación que contiene a todos los integrantes de las Policías Preventivas del Estado y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
+Se considera escala de rangos policiales a la relación que contiene a todos los integrantes y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
 
 ###### Artículo 55.
 
 La antigüedad se clasificará y computará para cada uno de los integrantes de las Policías Preventivas del Estado, de la siguiente forma:
 
-I. Antigüedad en el servicio, a partir de la fecha de su ingreso a las Policías Preventivas del Estado.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+I. Antigüedad en el servicio, a partir de la fecha de su ingreso a la Dependencia.
 
 II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
 
@@ -707,9 +785,11 @@ La antigüedad contará hasta el momento en que esta calidad deba determinarse p
 
 La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las causas señaladas en ésta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 57.
 
-Los integrantes de las Policías Preventivas del Estado que hayan alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+Los integrantes que hayan alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
 
 ###### Artículo 58.
 
@@ -721,7 +801,9 @@ Artículo·59.- La certificación tiene por objeto:
 
 I.- Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional.
 
-II.- Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos de los integrantes de las Policías Preventivas del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+II. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos de los integrantes de la Secretaría:
 
 a) Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables.
 
@@ -739,7 +821,7 @@ f) Cumplimiento de los deberes establecidos en esta Ley.
 
 ###### Artículo 60.
 
-La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Policías Preventivas del Estado.
+La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes.
 
 Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que se establezca; de conformidad con la normatividad vigente especializada en esta materia.
 
@@ -787,7 +869,9 @@ Queda prohibido mezclar las prendas de los diferentes uniformes entre sí o con 
 
 Es obligatorio la portación del uniforme, divisas y equipo reglamentario en todos los actos y situaciones del servicio, salvo instrucciones en contrario del mando.
 
-Los uniformes, insignias y divisas, los colores y los complementos, son de uso exclusivo de las Policías Preventivas que integran esta Secretaría, por lo que debe apegarse a lo establecido por el reglamento respectivo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Los uniformes, insignias y divisas, los colores y los complementos, son de uso exclusivo de los integrantes de la Secretaría, por lo que debe apegarse a lo establecido por el reglamento respectivo.
 
 ## Título Séptimo. De la Innovación Tecnológica aplicada a la Secretaría
 
@@ -882,3 +966,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciséis días del mes de abril del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
