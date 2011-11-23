@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-11-09"
+last_updated: "2011-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -496,6 +496,10 @@ La renovación del Congreso del Estado se realizará a través de elecciones aut
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
 
 El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en cuatro circunscripciones plurinominales, conforme lo determine la Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Para la representación de los chiapanecos migrantes en el extranjero, se elegirá a un diputado, en una circunscripción plurinominal especial, en términos de la ley de la materia.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1063,15 +1067,23 @@ Las quince regiones socioeconómicas son las siguientes:
 
 Región I. Metropolitana: Conformada por los municipios de Tuxtla Gutiérrez, que será la cabecera, Berriozábal, Chiapa de Corzo y Suchiapa.
 
-Región II. Valles Zoque: Conformada por los municipios de Cintalapa, que será la cabecera, Jiquipilas y Ocozocoautla de Espinosa.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-Región III. Mezcalapa: Conformada por los municipios de Copainalá, que será la cabecera, Chicoasén, Coapilla, Francisco León, Ocotepec, Osumacinta, San Fernando y Tecpatán.
+Región II. Valles Zoque: Conformada por los municipios de Cintalapa, que será la cabecera, Jiquipilas, Ocozocoautla de Espinosa, Belisario Domínguez.
 
-Región IV. De los Llanos: Conformada por los municipios de Venustiano Carranza, que será la cabecera, Acala, Chiapilla, Nicolás Ruíz, San Lucas, Socoltenango y Totolapa.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Región III. Mezcalapa: Conformada por los municipios de Copainalá, que será la cabecera, Chicoasén, Coapilla, Francisco León, Ocotepec, Osumacinta, San Fernando, Tecpatán y Mezcalapa.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Región IV. De los Llanos: Conformada por los municipios de Venustiano Carranza, que será la cabecera, Acala, Chiapilla, Nicolás Ruíz, San Lucas, Socoltenango, Totolapa y Emiliano Zapata.
 
 Región V. Altos Tsotsil-Tseltal: Conformada por los municipios de San Cristóbal de las Casas, que será la cabecera, Aldama, Amatenango del Valle, Chalchihuitán, Chamula, Chanal, Chenalhó, Huixtán, Mitontic, Larráinzar, Oxchuc, Pantelhó, San Juan Cancuc, Santiago El Pinar, Tenejapa, Teopisca y Zinacantán.
 
-Región VI. Frailesca: Conformada por los municipios de Villaflores, que será la cabecera, Ángel Albino Corzo, La Concordia, Montecristo de Guerrero y Villa Corzo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Región VI. Frailesca: Conformada por los municipios de Villaflores, que será la cabecera, Ángel Albino Corzo, La Concordia, Montecristo de Guerrero, Villa Corzo y El Parral.
 
 Región VII. De Los Bosques: Conformada por los municipios de Bochil, que será la cabecera, El Bosque, Huitiupán, Ixtapa, Jitotol, Pantepec, Pueblo Nuevo Solistahuacán, Rayón, San Andrés Duraznal, Simojovel, Soyaló, Tapalapa y Tapilula.
 
@@ -2179,7 +2191,7 @@ Quedan derogadas la Constitución de quince de noviembre de mil ochocientos nove
 
 El Ejecutivo dispondrá se imprima, publique y circule.
 
-DDado en el Salón de Sesiones del H. Congreso del Estado. Tuxtla Gutiérrez, enero veintiocho de mil novecientos veintiuno.- A. Zorrilla, Presidente, Diputado por el VI Distrito.- Sóstenes Ruiz C., Vice-Presidente, Diputado por el X Distrito.- Benigno Cal y Mayor, Secretario, Diputado por el VII Distrito.- S. Orantes Z., Secretario, Diputado por el III Distrito.- J. Ortega, Pro-Secretario, Diputado por el XII Distrito.- Antonino Martínez, Diputado por el I Distrito.- Arsenio Narváez G., Diputado por el II Distrito.- Filadelfo Grajales, Diputado por el VIII Distrito.- Lisandro Villafuerte, Diputado por el IX Distrito.- Herminio M. Solís, Diputado por el XI Distrito.- Nicolás Macías R., Diputado por el XII Distrito.- Juan C. Corzo, Diputado por el XIV Distrito.- R. Ortega, Diputado por el XVI Distrito.- Joaquín Armendáriz, Diputado por el XV Distrito.- Rúbricas.
+Dado en el Salón de Sesiones del H. Congreso del Estado. Tuxtla Gutiérrez, enero veintiocho de mil novecientos veintiuno.- A. Zorrilla, Presidente, Diputado por el VI Distrito.- Sóstenes Ruiz C., Vice-Presidente, Diputado por el X Distrito.- Benigno Cal y Mayor, Secretario, Diputado por el VII Distrito.- S. Orantes Z., Secretario, Diputado por el III Distrito.- J. Ortega, Pro-Secretario, Diputado por el XII Distrito.- Antonino Martínez, Diputado por el I Distrito.- Arsenio Narváez G., Diputado por el II Distrito.- Filadelfo Grajales, Diputado por el VIII Distrito.- Lisandro Villafuerte, Diputado por el IX Distrito.- Herminio M. Solís, Diputado por el XI Distrito.- Nicolás Macías R., Diputado por el XII Distrito.- Juan C. Corzo, Diputado por el XIV Distrito.- R. Ortega, Diputado por el XVI Distrito.- Joaquín Armendáriz, Diputado por el XV Distrito.- Rúbricas.
 
 Por tanto, mando se imprima, publique circule y se le dé el debido cumplimiento.
 
@@ -2233,219 +2245,237 @@ El Territorio del Estado de Chiapas es el que posee desde que forma parte de la 
 
 11. Bejucal de Ocampo.
 
-12. Bella Vista.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-13. Benemérito de las Américas.
+12. Belisario Domínguez.
 
-14. Berriozábal.
+13. Bella Vista.
 
-15. Bochil.
+14. Benemérito de las Américas.
 
-16. Cacahoatán.
+15. Berriozábal.
 
-17. Catazajá.
+16. Bochil.
 
-18. Chalchihuitán.
+17. Cacahoatán.
 
-19. Chamula.
+18. Catazajá.
 
-20. Chanal.
+19. Chalchihuitán.
 
-21. Chapultenango.
+20. Chamula.
 
-22. Chenalhó.
+21. Chanal.
 
-23. Chiapa de Corzo.
+22. Chapultenango.
 
-24. Chiapilla.
+23. Chenalhó.
 
-25. Chicoasén.
+24. Chiapa de Corzo.
 
-26. Chicomuselo.
+25. Chiapilla.
 
-27. Chilón.
+26. Chicoasén.
 
-28. Cintalapa.
+27. Chicomuselo.
 
-29. Coapilla.
+28. Chilón.
 
-30. Comitán de Domínguez.
+29. Cintalapa.
 
-31. Copainalá.
+30. Coapilla.
 
-32. El Bosque.
+31. Comitán de Domínguez.
 
-33. El Porvenir.
+32. Copainalá.
 
-34. Escuintla.
+33. El Bosque.
 
-35. Francisco León.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-36. Frontera Comalapa.
+34. El Parral.
 
-37. Frontera Hidalgo.
+35. El Porvenir.
 
-38. Huehuetán.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-39. Huitiupán.
+36. Emiliano Zapata.
 
-40. Huixtán.
+37. Escuintla.
 
-41. Huixtla.
+38. Francisco León.
 
-42. Ixhuatán.
+39. Frontera Comalapa.
 
-43. Ixtacomitán.
+40. Frontera Hidalgo.
 
-44. Ixtapa.
+41. Huehuetán.
 
-45. Ixtapangajoya.
+42. Huitiupán.
 
-46. Jiquipilas.
+43. Huixtán.
 
-47. Jitotol.
+44. Huixtla.
 
-48. Juárez.
+45. Ixhuatán.
 
-49. La Concordia.
+46. Ixtacomitán.
 
-50. La Grandeza.
+47. Ixtapa.
 
-51. La Independencia.
+48. Ixtapangajoya.
 
-52. La Libertad.
+49. Jiquipilas.
 
-53. La Trinitaria.
+50. Jitotol.
 
-54. Larrainzar.
+51. Juárez.
 
-55. Las Margaritas.
+52. La Concordia.
 
-56. Las Rosas.
+53. La Grandeza.
 
-57. Mapastepec.
+54. La Independencia.
 
-58. Maravilla Tenejapa.
+55. La Libertad.
 
-59. Marqués de Comillas.
+56. La Trinitaria.
 
-60. Mazapa de Madero.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-61. Mazatán.
+57. Larráinzar.
 
-62. Metapa.
+58. Las Margaritas.
 
-63. Mitontic.
+59. Las Rosas.
 
-64. Montecristo de Guerrero.
+60. Mapastepec.
 
-65. Motozintla.
+61. Maravilla Tenejapa.
 
-66. Nicolás Ruiz.
+62. Marqués de Comillas.
 
-67. Ocosingo.
+63. Mazapa de Madero.
 
-68. Ocotepec.
+64. Mazatán.
 
-69. Ocozocoautla de Espinosa.
+65. Metapa.
 
-70. Ostuacán.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-71. Osumacinta.
+66. Mezcalapa.
 
-72. Oxchuc.
+67. Mitontic.
 
-73. Palenque.
+68. Montecristo de Guerrero.
 
-74. Pantelhó.
+69. Motozintla.
 
-75. Pantepec.
+70. Nicolás Ruiz.
 
-76. Pichucalco.
+71. Ocosingo.
 
-77. Pijijiapan.
+72. Ocotepec.
 
-78. Pueblo Nuevo Solistahuacán.
+73. Ocozocoautla de Espinosa.
 
-79. Rayón.
+74. Ostuacán.
 
-80. Reforma.
+75. Osumacinta.
 
-81. Sabanilla.
+76. Oxchuc.
 
-82. Salto de Agua.
+77. Palenque.
 
-83. San Andrés Duraznal.
+78. Pantelhó.
 
-84. San Cristóbal de Las Casas.
+79. Pantepec.
 
-85. San Fernando.
+80. Pichucalco.
 
-86. San Juan Cancuc.
+81. Pijijiapan.
 
-87. San Lucas.
+82. Pueblo Nuevo Solistahuacán.
 
-88. Santiago El Pinar.
+83. Rayón.
 
-89. Siltepec.
+84. Reforma.
 
-90. Simojovel.
+85. Sabanilla.
 
-91. Sitalá.
+86. Salto de Agua.
 
-92. Socoltenango.
+87. San Andrés Duraznal.
 
-93. Solosuchiapa.
+88. San Cristóbal de Las Casas.
 
-94. Soyaló.
+89. San Fernando.
 
-95. Suchiapa.
+90. San Juan Cancuc.
 
-96. Suchiate.
+91. San Lucas.
 
-97. Sunuapa.
+92. Santiago El Pinar.
 
-98. Tapachula.
+93. Siltepec.
 
-99. Tapalapa.
+94. Simojovel.
 
-100. Tapilula.
+95. Sitalá.
 
-101. Tecpatán.
+96. Socoltenango.
 
-102. Tenejapa.
+97. Solosuchiapa.
 
-103. Teopisca.
+98. Soyaló.
 
-104. Tila.
+99. Suchiapa.
 
-105. Tonalá.
+100. Suchiate.
 
-106. Totolapa.
+101. Sunuapa.
 
-107. Tumbalá.
+102. Tapachula.
 
-108. Tuxtla Chico.
+103. Tapalapa.
 
-109. Tuxtla Gutiérrez.
+104. Tapilula.
 
-110. Tuzantán.
+105. Tecpatán.
 
-111. Tzimol.
+106. Tenejapa.
 
-112. Unión Juárez.
+107. Teopisca.
 
-113. Venustiano Carranza.
+108. Tila.
 
-114. Villa Comaltitlán.
+109. Tonalá.
 
-115. Villa Corzo.
+110. Totolapa.
 
-116. Villaflores.
+111. Tumbalá.
 
-117. Yajalón.
+112. Tuxtla Chico.
 
-118. Zinacantán.
+113. Tuxtla Gutiérrez.
+
+114. Tuzantán.
+
+115. Tzimol.
+
+116. Unión Juárez.
+
+117. Venustiano Carranza.
+
+118. Villa Comaltitlán.
+
+119. Villa Corzo.
+
+120. Villaflores.
+
+121. Yajalón.
+
+122. Zinacantán.
 
 Los asuntos inherentes a los límites territoriales del Estado y sus municipios se resolverán por Acuerdo del Ejecutivo del Estado, aprobado por el Congreso del Estado y de cuando menos, la mitad de los Ayuntamientos.
 
@@ -2947,9 +2977,9 @@ Quedan derogadas todas las leyes, decretos, circulares, reglamentos o cualesquie
 
 ###### ARTICULO QUINTO.
 
-El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento.
+El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento. cumplimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO SEXTO.
 
@@ -3802,3 +3832,35 @@ P.O. 9 DE NOVIEMBRE DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2011.
+
+DECRETO NÚMERO 007, POR EL QUE SE ADICIONA EL PÁRRAFO QUINTO DEL ARTÍCULO 19.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- En observancia a lo dispuesto en el párrafo quinto, del artículo 19 de la Constitución Política del Estado de Chiapas, que por este Decreto se adiciona, y a efecto de garantizar su debido cumplimiento, deberá reformarse la legislación electoral de la Entidad, en un plazo no mayor a noventa días contados a partir de la entrada en vigor de este Decreto, estableciendo las disposiciones para garantizar el derecho al ejercicio del voto de los ciudadanos chiapanecos en el exterior, en las elecciones para Gobernador del Estado y diputados del Congreso del Estado.
+
+Artículo Tercero.- Para la elección del diputado 41 que integrará la circunscripción especial a que se refiere el párrafo quinto, del artículo 19 de la Constitución Política del Estado de Chiapas, que por este Decreto se adiciona, se deberá legislar las siguientes reglas:
+
+a) Se establecerán casillas para recepción de votación plurinominal donde exista mayor población de chiapanecos en el extranjero.
+
+b) La integración de la lista de la circunscripción plurinominal especial.
+
+Artículo Cuarto.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2011.
+
+DECRETO NÚMERO. 008, POR EL QUE SE REFORMAN LOS NUMERALES DEL PÁRRAFO SEGUNDO DEL ARTICULO 2° Y EL PÁRRAFO TERCERO DEL ARTICULO 46, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las superficies territoriales, coordenadas geográficas y colindancias de los nuevos municipios que por el presente Decreto se crean, estarán determinados en el anexo técnico que forma parte de este instrumento.
+
+Artículo Tercero.- El presente Decreto deberá remitirse a los Ayuntamientos del Estado, para efectos de lo dispuesto en la fracción I del artículo 72, de la Constitución Política del Estado de Chiapas.
+
+Artículo Cuarto.- De conformidad con lo previsto en el párrafo tercero, del artículo 69 de la Constitución Política del Estado de Chiapas, el Congreso del Estado procederá a la designación de los Concejos Municipales que realizarán las funciones de cuerpo edilicio en los nuevos municipios que por el presente Decreto se crean, hasta la conclusión del periodo Municipal que inició el primero de enero de dos mil once.
+
+Los primeros ayuntamientos de los nuevos municipios, cuyo ejercicio iniciará el primero de octubre de dos mil doce, serán electos a través de los comicios ordinarios que para ese periodo se celebren, conforme a lo dispuesto en la Constitución Política del Estado de Chiapas y el Código de Elecciones y Participación Ciudadana.
+
+Artículo Quinto.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
