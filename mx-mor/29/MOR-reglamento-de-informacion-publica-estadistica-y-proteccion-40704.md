@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-informacion-publica-estadistica-y-proteccion-4070
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2011-10-19"
+last_updated: "2011-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,13 @@ state: "MOR"
 ---
 # REGLAMENTO DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO Y TERCERO TRANSITORIO DEL REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 24 DE NOVIEMBRE DE 2004 Y 19 DE OCTUBRE DE 2011 RESPECTIVAMENTE, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2011, QUEDAN VIGENTES DEL ARTÍCULO 82 AL 106 (SIC) DEL REGLAMENTO ABROGADO, HASTA EN TANTO SE EXPIDA Y ENTRE EN VIGOR EL REGLAMENTO INTERIOR DEL INSTITUTO MORELENSE DE INFORMACIÓN PÚBLICA Y ESTADÍSTICA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 24 DE NOVIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE NOVIEMBRE DE 2011.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 27 de agosto de 2004.
 
@@ -1097,15 +1095,15 @@ Artículo Cuarto.- La integración administrativa del Instituto se llevará a ca
 
 Artículo Quinto.- Se abroga el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" el día 27 de agosto del año 2004.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 19 DE OCTUBRE DE 2011.
 
 Artículo Primero.- Se aprueba el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos
 
 Artículo Segundo.- El presente reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
-Artículo Tercero.- Se abroga el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" el día 27 de agosto del año 2004.
+> <small>(F. DE E., P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo Tercero.- Se abroga el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" el día 24 de noviembre del año 2004.
 
 Artículo Cuarto.- Quedan vigentes del artículo 82 al 106 del Reglamento abrogado, hasta en tanto se expida y entre en vigor el Reglamento Interior del Instituto Morelense de Información Pública y Estadística.
 
