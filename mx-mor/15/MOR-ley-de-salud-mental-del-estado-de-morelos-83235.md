@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2011-10-12"
+last_updated: "2011-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
+LEY DE SALUD MENTAL DEL ESTADO DE MORELOS.
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE NOVIEMBRE DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -779,11 +779,11 @@ SÉPTIMO.- Publíquese en el Periódico Oficial Tierra y Libertad del Gobierno d
 
 OCTAVO.- Los módulos de Atención en Salud Mental y el Sistema de Información, Vigilancia y Evaluación en Salud Mental, comenzarán a operar el 1º de enero de 2013; la línea telefónica de salud mental y la página electrónica para brindar orientación y canalización a los servicios de atención mental comenzarán a operar a partir del 1º de mayo de 2012.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO NOVENO.
 
-Las Unidades de Atención Ambulatoria Inmediata y las Unidades de Hospitalización de Corta Estancia deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal e incidencia médica, destinándose recursos en el presupuesto de egresos para el ejercicio 2012 a efecto de que entre en operación por lo menos una a parti (sic)
+Las Unidades de Atención Ambulatoria Inmediata y las Unidades de Hospitalización de Corta Estancia deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal e incidencia médica, destinándose recursos en el presupuesto de egresos para el ejercicio 2012 a efecto de que entre en operación por lo menos una a partir del 15 de julio de 2012.
 
 Recinto Legislativo a los veintiocho días del mes de septiembre de dos mil once.
 
