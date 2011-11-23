@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-informacion-publica-estadistica-y-proteccion-8334
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-19"
-last_updated: "2011-10-19"
+last_updated: "2011-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE NOVIEMBRE DE 2011.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -940,15 +940,15 @@ Una vez que se haya cumplido la resolución dictada en un recurso de inconformid
 
 En el ejercicio del derecho de acceso a la información mediante solicitudes de información pública y a través del procedimiento de substanciación de recursos de inconformidad, se deberá priorizar lo que más favorezca a la transparencia gubernamental.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 Artículo Primero.- Se aprueba el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos
 
 Artículo Segundo.- El presente reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
-Artículo Tercero.- Se abroga el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" el día 27 de agosto del año 2004.
+> <small>(F. DE E., P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+Artículo Tercero.- Se abroga el Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" el día 24 de noviembre del año 2004.
 
 Artículo Cuarto.- Quedan vigentes del artículo 82 al 106 del Reglamento abrogado, hasta en tanto se expida y entre en vigor el Reglamento Interior del Instituto Morelense de Información Pública y Estadística.
 
