@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2010-11-17"
+last_updated: "2011-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -377,11 +377,21 @@ b) Órganos Sustantivos Técnicos:
 
 11. Una Dirección de las Unidades de Combate al Narcomenudeo.
 
-12. Una Unidad de Comunicación Social.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
-13. Una Unidad de Control y Seguimiento Documental.
+12. Una Dirección General del Centro de Justicia para las Mujeres.
 
-14. Un Instituto de Investigación y Profesionalización.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+13. Una Unidad de Comunicación Social.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+14. Una Unidad de Control y Seguimiento Documental.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+15. Un Instituto de Investigación y Profesionalización.
 
 III. Órganos Sustantivos de Control Interno:
 
@@ -391,7 +401,7 @@ b) Una Contraloría General.
 
 Las demás áreas que establezca el Reglamento de esta Ley, y otras disposiciones aplicables, las cuales al ser integrantes de la Procuraduría, tendrán el carácter de órganos sustantivos, en razón de la naturaleza indivisible del Ministerio Público, ya que la indivisibilidad como unidad colectiva del mismo, es independiente de los servidores públicos que practican las diligencias.
 
-> <small>(DEROGADO ULTIMO PARRAFO, 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -1122,6 +1132,14 @@ La Dirección de Unidades de Combate al Narcomenudeo, tiene como función la rea
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Las atribuciones específicas de la Dirección de Unidades de Combate al Narcomenudeo, se establecen en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 59 Bis.
+
+La Dirección General del Centro de Justicia para las Mujeres, tiene como función, coordinar con base en sus competencias y atribuciones, los servicios multi-agenciales de instancias gubernamentales y asociaciones de la sociedad civil, para la prevención, atención, sanción y erradicación de la violencia en contra de las mujeres y sus hijos, a través de la implementación de estrategias, acciones, proyectos y servicios de atención integral para las víctimas de violencia que se realicen en el Centro de Justicia para las Mujeres del Estado de Chiapas.
+
+Las atribuciones específicas de la Dirección General del Centro de Justicia para las Mujeres, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 60.
 
@@ -2054,3 +2072,11 @@ Artículo Segundo.- Los recursos humanos, materiales y financieros, que actualme
 Artículo Tercero.- Las investigaciones, procedimientos y en general todos los asuntos que se encuentren en trámite ante la Fiscalía Especializada de Coordinación General, iniciados con anterioridad a la entrada en vigor del presente decreto, seguirán su trámite y serán atendidos, desahogados y resueltos por la Subprocuraduría General de Justicia del Estado, previa razón que se asiente en cada uno de los expedientes.
 
 Artículo Cuarto.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto y se opongan al mismo.
+
+Artículo Tercero.- Se instruye al órgano administrativo de la Procuraduría General de Justicia del Estado, para que lleve a cabo de inmediato las acciones que sean necesarias ante las instituciones federales y estatales, así como ante los organismos nacionales e internacionales, para la asignación de los recursos humanos, materiales y financieros que requiera la Dirección General del Centro de Justicia para las Mujeres, mismos que pasarán a formar parte del presupuesto de la Procuraduría General de Justicia del Estado.
