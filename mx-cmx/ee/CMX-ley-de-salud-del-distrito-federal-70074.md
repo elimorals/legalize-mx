@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-08-08"
+last_updated: "2011-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE AGOSTO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -872,9 +872,9 @@ I. El desarrollo de actividades educativas, socioculturales y recreativas que co
 
 II. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 24 DE NOVIEMBRE DE 2011)</small>
 
-III. La creación de programas de atención médica a la salud mental, incluyendo, entre otros, programas especializados de apoyo psicológico para víctimas de violencia intrafamiliar y abuso infantil, de prevención de los problemas de salud pública relacionados con la violencia e intimidación en el ámbito escolar que incorpore la atención correspondiente a la víctima, agresor y observadores, y
+III. La creación de programas de atención médica a la salud mental, incluyendo, entre otros, programas especializados de apoyo psicológico para víctimas de violencia intrafamiliar y abuso infantil, de prevención de los problemas de salud pública relacionados con el acoso laboral y la violencia e intimidación en el ámbito escolar que incorpore la atención correspondiente a la víctima, agresor y observadores, y
 
 IV. Las demás acciones que contribuyan al fomento de la salud mental de la población.
 
@@ -2541,3 +2541,9 @@ Previo a la publicación de los lineamientos a los que se refiere el presente ar
 Las Delegaciones, en coordinación con la Secretaría, a más tardar en dos años contados a partir de la entrada en vigor del presente Decreto, deberán instrumentar las acciones necesarias para llevar a cabo la transición de los Centros de Atención Canina y cualquier análogo a Clínicas Veterinarias Delegacionales.
 
 La Secretaría, en los lineamientos que emita, propondrá un cronograma para dar cumplimiento a esa disposición, así como las condiciones mínimas indispensables para su óptimo funcionamiento y de esa manera garantizar el cumplimiento del presente Decreto.
+
+G.O. 24 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
