@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2011-05-03"
+last_updated: "2011-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -1358,7 +1358,7 @@ VII. Medidas contempladas para la prevención o mitigación de impactos ambienta
 
 VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1396,7 +1396,7 @@ Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las
 
 El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58 Ter.
 
@@ -1461,6 +1461,10 @@ La persona que construya una obra nueva, amplíe una existente, o explote recurs
 ###### ARTÍCULO 61.
 
 Las autorizaciones que se otorguen en materia de impacto ambiental estarán referidas a la obra o actividad de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
+
+Las autoridades competentes deberán acudir al lugar especificado en el informe de impacto ambiental para inspeccionar, verificar y, llegado el caso, sancionar las irregularidades que existieran de acuerdo a lo previsto en el Título VII, Capítulo II de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -2693,6 +2697,14 @@ II. Cuando exista riesgo real y presente para el patrimonio urbanístico o arqui
 III. Cuando sean necesarias para el saneamiento del árbol; y
 
 IV. Cuando deban ejecutarse para evitar afectaciones significativas en la infraestructura del lugar donde se encuentren.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
+
+Cuando el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares se realice en contravención a lo establecido en las fracciones anteriores, se estará a lo dispuesto en los artículos 345bis, 349, 349bis y 349ter del Código Penal para el Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
+
+Cuando en el derribo, tala, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, se estará a lo dispuesto en el artículo 350 del Código Penal para el Distrito Federal.
 
 La autorización a que se refiere el presente artículo deberá estar sustentada mediante un dictamen técnico emitido por la delegación correspondiente que avale la factibilidad del derribo, poda o trasplante de árboles.
 
@@ -4157,3 +4169,9 @@ DECRETO QUE ADICIONA UN QUINCUAGESIMO OCTAVO PARRAFO AL ARTICULO 5, Y SE ADICION
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+G.O. 24 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
