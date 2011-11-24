@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-11-22"
+last_updated: "2011-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -799,9 +801,13 @@ XLV. Colaborar con las autoridades estatales y federales en el ámbito de su com
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 32.
 
-Para ocupar los cargos de secretario, tesorero, titulares de las unidades administrativas y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+Para ocupar los cargos de secretario, tesorero, director de obras públicas o equivalente, titulares de las unidades administrativas y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
@@ -809,11 +815,13 @@ I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
 II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
-III. No haber sido condenado en proceso penal, por delito intencional.
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, G.G. 4 DE OCTUBRE DE 2010)</small>
+III. No haber sido condenado en proceso penal, por delito internacional que amerite pena privativa de libertad;
 
-IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; de preferencia ser profesional en el área en la que sea asignado.
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+
+IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; contar con título profesional o experiencia mínima de un año en la materia, para el desempeño de los cargos que así lo requieran y en los otros casos, de preferencia ser profesional en el área en la que sea asignado.
 
 ### CAPITULO CUARTO. Actos administrativos que Requieren
 
@@ -1687,7 +1695,9 @@ XXI. Las que le señalen las demás disposiciones legales y el ayuntamiento.
 
 Para ser tesorero municipal se requiere, además de los requisitos del artículos (sic) 32 de esta Ley:
 
-I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento; de preferencia ser profesionista de las áreas económicas o contable-administrativas, con experiencia mínima de un año;
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+
+I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento; contar con título profesional en las áreas económicas o contable-administrativas, con experiencia mínima de un año y con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, con anterioridad a la fecha de su designación;
 
 II. Caucionar el manejo de los fondos en términos de ley;
 
@@ -1752,6 +1762,12 @@ XXIV. Integrar y autorizar con su firma, la documentación que en materia de obr
 XXV. Formular las bases y expedir la convocatoria a los concursos para la realización de las obras públicas municipales, de acuerdo con los requisitos que para dichos actos señale la legislación y normatividad respectiva, vigilando su correcta ejecución; y
 
 XXVI. Las demás que les señalen las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 96. Ter.
+
+El Director de Obras Públicas o el Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento, contar con título en ingeniería, arquitectura o alguna área afín o con una experiencia mínima de un año.
 
 ### CAPITULO CUARTO. De la Contraloría Municipal
 
@@ -3334,3 +3350,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
