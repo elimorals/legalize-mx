@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2010-12-24"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN LA SEGUNDA SECCIÓN DEL P.O. DE 25 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -3896,5 +3898,25 @@ P.O. 24 DE DICIEMBRE DE 2010.
 El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir del primero de enero del año 2011
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2012.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Hacienda para el Estado de Coahuila de Zaragoza contenida en el Decreto No. 453, publicada en el Periódico Oficial del Estado No. 102 de fecha 22 de diciembre de 1995.
+
+###### ARTICULO TERCERO.
+
+Con el propósito de sufragar los gastos que origina al Estado el mejoramiento y modernización de las áreas que tengan a su cargo la prestación de los servicios relacionados con el Registro Público, se causará un impuesto adicional del 10% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad establecidos en esta ley.
+
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
+
+###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
