@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-6055
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-07"
-last_updated: "2010-12-29"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, PUBLICADA EN LA PRIMERA SECCION DEL P.O. DE 25 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 7 de marzo de 2008.
 
@@ -2876,3 +2878,15 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- De conformidad a lo dispuesto por el artículo 45 de la Constitución Política del Estado de Coahuila de Zaragoza el presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, publicada en el Periódico Oficial el día 7 de marzo de 2008.
+
+TERCERO.- Lo relativo a la integración numérica de los integrantes de la Quincuagésima Novena Legislatura y a sus Comisiones Permanentes y Comités, entrará en vigor el día primero de enero de dos mil doce.
+
+CUARTO.- Las disposiciones de la ley anterior, relativas a la integración y funcionamiento de las Comisiones y Comités de la Quincuagésima Octava Legislatura, seguirán observándose hasta el 31 de diciembre de 2011.
+
+QUINTO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
