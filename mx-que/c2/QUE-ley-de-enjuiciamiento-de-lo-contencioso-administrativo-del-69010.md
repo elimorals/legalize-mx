@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-enjuiciamiento-de-lo-contencioso-administrativo-del-6901
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2009-06-17"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -293,9 +293,11 @@ En el momento de la notificación se entregará al notificado o a la persona con
 
 El actuario asentará razón de todas y cada una de las circunstancias observadas en dicha diligencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 28.
 
-Las diligencias que deban practicarse en el Estado, en un distrito judicial distinto al en que se haya iniciado el juicio, se llevarán a cabo mediante exhorto remitido al juez de lo contencioso administrativo del distrito que corresponda; éste, a su vez, podrá solicitar, mediante nuevo exhorto, el auxilio de los jueces de primera instancia y municipales del Tribunal Superior de Justicia del Estado, de la circunscripción que corresponda.
+Las diligencias que deban practicarse en el Estado, en un distrito judicial distinto al en que se haya iniciado el juicio, se llevarán a cabo mediante exhorto remitido al juez de lo contencioso administrativo del distrito que corresponda; éste, a su vez, podrá solicitar, mediante nuevo exhorto, el auxilio de los jueces de primera instancia y menores del Tribunal Superior de Justicia del Estado, de la circunscripción que corresponda.
 
 La Sala Unitaria y los juzgados de lo Contencioso Administrativo podrán solicitar el auxilio, mediante exhorto, de los tribunales de lo contencioso administrativo de otras entidades federativas, para la práctica de las diligencias de notificación que deban efectuarse en sus respectivas jurisdicciones.
 
@@ -1356,3 +1358,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
