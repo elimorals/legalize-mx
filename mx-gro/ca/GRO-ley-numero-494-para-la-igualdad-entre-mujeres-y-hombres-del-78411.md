@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-para-la-igualdad-entre-mujeres-y-hombres-del-784
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2010-12-28"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 28 de diciembre de 2010.
 
@@ -457,27 +457,55 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que dichos
 
 ### CAPÍTULO IV. Del Programa Estatal y de los Programas Municipales para la Igualdad entre Mujeres y Hombres
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 40.
 
-El Programa Estatal será elaborado por la Secretaría y aprobado por el Sistema Estatal y tomará en cuenta las necesidades del Estado y sus Municipios, así como las particularidades específicas de la desigualdad en el medio rural y las zonas urbanas. Este Programa deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en la Ley número 994 de Planeación del Estado Libre y Soberano de Guerrero.
+El Programa Estatal es el documento rector de la política para la igualdad sustantiva entre las mujeres y hombres de Guerrero. Será elaborado por la Secretaría y aprobado por el Sistema Estatal, tomando en cuenta los principios establecidos en la presente Ley.
 
-El Programa Estatal establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley.
+Con el objetivo de lograr la transversalidad, y congruente con los principios y objeto de la planeación para el desarrollo, establecidos en la Ley número 994 de Planeación del Estado Libre y Soberano de Guerrero, el Programa Estatal establecerá los objetivos, estrategias y líneas de acción generales y prioritarias que deberán tomar en cuenta los Programas Regionales, Sectoriales, Institucionales, Especiales y Municipales, en el ámbito de su competencia.
 
-Con el objetivo de lograr la transversalidad, propiciará que los programas municipales, sectoriales, regionales y especiales, tomen en cuenta los criterios e instrumentos de esta Ley.
+Para el cumplimiento de lo establecido en el párrafo anterior, la Secretaría, al interior del Sistema Estatal, analizará y emitirá opinión sobre la congruencia que guarden los planes y programas estatales y municipales con el Programa Estatal, haciendo llegar al Comité de Planeación para el Desarrollo del Estado de Guerrero las observaciones que fueran pertinentes para que, de considerarse conveniente, se proceda a su modificación.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 41.
 
-Los Programas Municipales para la Igualdad entre Mujeres y Hombres, serán propuestos por las Instancias de la Mujer a los Ayuntamientos, siguiendo los lineamientos que establece la Ley número 994 de Planeación del Estado Libre y Soberano de Guerrero.
+Los Programas Municipales para la Igualdad entre Mujeres y Hombres, serán propuestos por las Instancias de la Mujer a los Ayuntamientos, tomando en cuenta los objetivos, estrategias y líneas de acción del Programa Estatal, y conforme a los lineamientos que establece la Ley número 994 de Planeación del Estado Libre y Soberano de Guerrero.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 41 Bis.
+
+En la integración del Programa Estatal, se considerarán mínimamente los siguientes apartados:
+
+I. El Diagnóstico de la situación que guarda la entidad en materia de desigualdad entre mujeres y hombres; el contexto económico, político, social y territorial a nivel nacional, estatal y regional; la proyección de tendencias y los escenarios previsibles; así como los lineamientos establecidos en el Plan Estatal de Desarrollo y el Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+II. La imagen objetivo, con una prospectiva a largo plazo;
+
+III. Las estrategias de atención a mediano y largo plazo;
+
+IV. Las líneas de acción generales que permitan la vinculación e integralidad en la construcción de los programas estatales de mediano plazo y los planes municipales en la materia; y
+
+V. Las bases de coordinación del estado con la federación y los municipios.
 
 ###### Artículo 42.
 
-La Secretaría deberá revisar y evaluar anualmente el Programa Estatal.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2011)
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 43.
 
-El informe anual que, en términos de la Constitución Política del Estado Libre y Soberano de Guerrero, tiene que rendir la/el Titular del Ejecutivo Estatal, deberá contener el estado que guarda la ejecución del Programa Estatal, así como las demás acciones afirmativas y a favor, relativas al cumplimiento de lo mandatado en la presente Ley.
+El informe anual que, en términos de la Constitución Política del Estado Libre y Soberano de Guerrero, tiene que rendir la/el Titular del Ejecutivo Estatal al Congreso del Estado, deberá contener el estado que guarda la ejecución del Programa Estatal en cuanto al cumplimiento de sus objetivos y metas, y en relación al avance de los indicadores establecidos por el Sistema de Evaluación, control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres.
 
-En los informes anuales que rindan las Presidencias Municipales, tendrán que informar sobre los programas y acciones afirmativas emprendidas en materia de igualdad entre mujeres y hombres.
+De la misma manera, en los informes anuales que rindan las Presidencias Municipales, éstas tendrán que informar sobre el estado que guarda la ejecución de sus respectivos Programas Municipales para la Igualdad entre Mujeres y Hombres, haciendo referencia al cumplimiento de los objetivos y metas propuestos y el avance de los indicadores establecidos por el Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 43 Bis.
+
+Sin menoscabo de las disposiciones vigentes en la Ley de Presupuesto y Disciplina Fiscal del Estado de Guerrero, el Sistema a través de la Secretaría y con el apoyo del Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres, propondrá a las entidades de la administración pública estatal y municipal, los criterios y lineamientos para la integración de los presupuestos de egresos con perspectiva de género, a fin de garantizar la disposición de recursos para el desarrollo de acciones a favor de la igualdad sustantiva entre mujeres y hombres, de no discriminación y exclusión social y de acceso a una vida libre de violencia de las mujeres.
 
 ## TÍTULO CUARTO. De los objetivos y acciones de la política en materia de igualdad entre mujeres y hombres
 
@@ -709,43 +737,109 @@ Toda persona tendrá derecho a que las autoridades y entes públicos del Estado,
 
 Las autoridades y entes públicos del Estado promoverán la participación de la ciudadanía en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de las políticas públicas de igualdad estatales.
 
-## TÍTULO QUINTO. De la vigilancia en materia de igualdad entre mujeres y hombres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones generales
+## TÍTULO QUINTO. Del Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres
 
-###### Artículo 64.
-
-La Secretaría, de conformidad con lo dispuesto en la presente Ley, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Estado.
-
-###### Artículo 65.
-
-La Secretaría contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres y el efecto de las políticas públicas aplicadas en el Estado, en esta materia, (sic)
-
-###### Artículo 66.
-
-La vigilancia en materia de igualdad entre mujeres y hombres consistirá en:
-
-l. Recibir información sobre medidas y actividades que se pongan en marcha en el Estado, en materia de igualdad entre mujeres y hombres;
-
-II. Evaluar el impacto en la sociedad, de las políticas y medidas que afecten a las mujeres y a los hombres en materia de igualdad;
-
-III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
-
-IV. Difundir información sobre los diversos aspectos relacionados con la igualdad entre mujeres y hombres; y
-
-V. Las que sean necesarias para cumplir los objetivos de esta Ley.
+> <small>(REFORMADO P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 64.
+
+La Secretaría, de conformidad con lo dispuesto en la presente Ley, coordinará el proceso de evaluación, control y seguimiento del impacto de las políticas públicas y los resultados de la ejecución de los Planes y Programas, para la igualdad sustantiva entre mujeres y hombres en el Estado.
+
+Para el logro de lo dispuesto en el párrafo anterior, la Secretaría se apoyará en el Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres.
+
+###### Artículo 65.
+
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2011)
+
+###### Artículo 66.
+
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2011)
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis.
+
+La Secretaría, en el marco de sus atribuciones y en representación del Ejecutivo Estatal, establecerá con las dependencias del gobierno federal y municipal, los convenios que fueren necesarios para acordar los mecanismos que permitan la vigilancia, control y evaluación en la aplicación de los planes y programas en materia de igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. Del Sistema de Evaluación
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis 1.
+
+Para el efecto de lo señalado en los artículos 18, fracción I; y 36, fracción III de la presente Ley, se crea el Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de Igualdad entre Mujeres y Hombres, como un órgano permanente de carácter técnico, adscrito directamente al Sistema Estatal, dirigido y coordinado por la Secretaría, con la finalidad de informar a la ciudadanía acerca del desempeño de las políticas públicas de igualdad y apoyar al Sistema en la toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis 2.
+
+El Sistema de Evaluación se regirá conforme a los principios de objetividad, transparencia, accesibilidad y estricto rigor técnico en la consecución de sus objetivos, funciones y el desempeño de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis 3.
+
+El Sistema de Evaluación tiene por objeto:
+
+I. Evaluar el impacto social, económico, político y cultural de las políticas públicas implementadas en torno a la igualdad sustantiva entre mujeres y hombres, de no discriminación y exclusión social y de acceso a una vida libre de violencia de las mujeres, entre otras;
+
+II. Evaluar la ejecución de los Planes y Programas, así como sus Presupuestos, señalados en el presente ordenamiento, a través de indicadores de resultados, gestión y eficiencia, en torno al cumplimiento de los principios y objetivos establecidos en el Título Cuarto de la presente Ley; y
+
+III. Evaluar la aplicación y el grado de armonización del marco legislativo vigente en la entidad, en materia de igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis 4.
+
+Las funciones y atribuciones del Sistema de Evaluación serán las siguientes:
+
+I. Integrar la base de datos de información estadística y geográfica del desarrollo de las mujeres en la entidad, así como la información necesaria respecto a la ejecución de los planes y programas de igualdad sustantiva, no exclusión y de acceso a una vida libre de violencia de las mujeres;
+
+II. Establecer los criterios y lineamientos metodológicos para el registro, organización, actualización y difusión de la información estadística y geográfica del desarrollo de las mujeres y, para la evaluación de las políticas públicas y ejecución de planes y programas señalados en la presente Ley;
+
+III. Integrar y proponer al Sistema para su aprobación, el modelo de indicadores que habrá de aplicarse en las evaluaciones;
+
+IV. Sin perjuicio de las disposiciones de la presente Ley, se coordinará con los Subsistemas de Información y Evaluación para el Desarrollo a cargo del Copladeg, a fin de homologar criterios, metodologías e instrumentos para el desempeño de sus funciones;
+
+V. Coordinarse con los responsables de la ejecución de los planes y programas, tanto de la Administración Pública Estatal como Municipal, a fin de que realicen sus evaluaciones internas con eficiencia, claridad y objetividad; así como también para acceder a la información acerca de la ejecución y resultados de sus programas;
+
+VI. Hacer pública la información estadística y geográfica a su cargo, así como el informe del resultado de sus evaluaciones, haciendo uso de medios electrónicos y de difusión más adecuados;
+
+VII. Integrar el informe del resultado de las evaluaciones, el cual será entregado al Pleno del Sistema, al Congreso y a la Secretaría, para su conocimiento y efectos legales procedentes; y
+
+VIII. Realizar los estudios e investigaciones necesarias para el logro de sus objetivos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis 5.
+
+Para el cabal cumplimiento de sus funciones, el Sistema de Evaluación estará integrado por profesionales en la materia, debiendo la Secretaría emitir convocatoria abierta a las instituciones académicas de nivel superior y a los organismos de profesionales expertos en la materia, para designar a sus integrantes.
+
+Los lineamientos y procedimientos para la designación, así como el número y criterios de selección de los integrantes, deberán ser públicos y aprobados por el Sistema.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis 6.
+
+La Secretaría emitirá el Reglamento Interno del Sistema de Evaluación, a fin de normar su estructura y funcionamiento, en apego a los criterios y lineamientos establecidos en el presente capítulo.
+
 ## TÍTULO SEXTO. De las responsabilidades y sanciones
 
-### CAPÍTULO II. De la denuncia popular
+### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 67.
 
 La trasgresión a los principios y programas que la presente Ley prevé, será sancionada de acuerdo a lo dispuesto por la Ley número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero y, en su caso, por las leyes aplicables en el Estado, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de Guerrero.
 
-### CAPÍTULO III. De las responsabilidades y sanciones
+### CAPÍTULO II. De la denuncia popular
 
 ###### Artículo 68.
 
@@ -776,6 +870,8 @@ Los procedimientos se regirán conforme a los principios de: inmediatez y rapide
 Si la queja o denuncia presentada fuera competencia de otra autoridad, la autoridad ante la cual se presente acusará de recibo a la persona denunciante, pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho a la persona denunciante, mediante acuerdo fundado y motivado.
 
 La autoridad que turne la denuncia, estará obligada a informar a la Secretaría del hecho, para su registro en el Sistema Estatal, igual deberá dar seguimiento y coadyuvar para su tramitación ágil y eficaz.
+
+### CAPÍTULO III. De las responsabilidades y sanciones
 
 ###### Artículo 73.
 
@@ -838,3 +934,23 @@ LA SECRETARIA DE LA MUJER.
 PROFRA. ROSA MARÍA GÓMEZ SAAVEDRA
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a treinta días a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para la Igualdad entre Mujeres y Hombres emitirá los criterios y lineamientos para la integración de los presupuestos de egresos con perspectiva de género, a los que se alude en el artículo 43 bis, señalado en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor de noventa días, contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para la Igualdad entre Mujeres y Hombres instalará el Sistema de Evaluación, Control y Seguimiento de la Aplicación de la Política de igualdad entre Mujeres y Hombres, así como su Reglamento Interno, descritos en el Capítulo II "Del Sistema de Evaluación" y señalado en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente Decreto al Titula del Poder Ejecutivo para los efectos legales conducentes.
