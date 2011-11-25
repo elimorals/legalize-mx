@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2010-10-28"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE EDUCACION DEL ESTADO DE CAMPECHE
 
-LEY DE EDUCACION DEL ESTADO DE CAMPECHE
+LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -113,7 +113,7 @@ III.- Fomentar el aprecio a la dignidad humana y a la integridad de la familia, 
 
 IV.- Alcanzar, mediante la enseñanza de la lengua nacional, un idioma común para todos los mexicanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -155,25 +155,25 @@ XXI.- Enaltecer los derechos individuales y sociales y postular la paz universal
 
 XXII.- Promover en el educando el conocimiento integral de su medio físico inmediato, la región donde se desarrolla y el territorio del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXIII.- Fomentar actitudes de aprecio al estudio, al trabajo y a la vida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXIV.- Fomentar la educación para una sexualidad responsable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXV.- Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -291,37 +291,43 @@ XIX.- Elaborar el presupuesto general del ramo, y (sic)
 
 XX.- Promover y establecer la creación de instituciones y organismos de educación superior que se requieran en la Entidad, a fin de elevar y fortalecer el nivel académico de los maestros; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXI.- Coordinarse con la Secretaría de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en los planteles de educación básica que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos y, que a su vez, promuevan al interior de dichos centros educativos la proliferación de alimentos con un alto valor nutricional; además de integrar a los planes de estudio de educación básica, contenidos de prevención contra el consumo de drogas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXII.- Difundir los derechos de la niñez y la adolescencia, así como los mecanismos y canales de prevención y denuncia de abusos a su integridad física y mental, entre el alumnado de las escuelas de educación básica en el Estado, en colaboración con los demás organismos competentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XXII-Bis.- Promover en todo el sistema educativo estatal mecanismos de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones. Siempre que los educadores o las autoridades escolares tengan conocimiento de estos hechos o de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad competente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXIII.- Implementar medidas dirigidas a fomentar la prevención de riesgos y la seguridad en el uso de los medios tecnológicos de información a favor de los educandos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXIV.- Implementar campañas para promover la práctica del ejercicio y los deportes con la finalidad de combatir la obesidad y el sobrepeso entre la población de edad escolar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXV.- Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad infantil y juvenil en el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -365,7 +371,7 @@ El docente es el promotor y agente directo del proceso educativo. Para que este 
 
 Las autoridades educativas y los educadores, deberán vincularse de manera estrecha con la comunidad que les rodea con el fin de poderse orientar en los objetivos educativos que persiguen y en la resolución de problemas que los mismos planteen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 17.
 
@@ -415,13 +421,13 @@ Las instituciones públicas de educación superior y las particulares cuyos estu
 
 Los organismos descentralizados del Estado que impartan educación superior en la entidad y que por Ley Constitutiva y/u Orgánica gocen del régimen de autonomía, se sujetarán a lo dispuesto por esta Ley, su propia legislación interior, los preceptos constitucionales federales conducentes, las normas reglamentarias de dichos preceptos y las que regulen la coordinación de universidades e instituciones públicas de educación superior del país.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V BIS. DEL FORTALECIMIENTO DEL SISTEMA EDUCATIVO ESTATAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -431,7 +437,7 @@ Los organismos descentralizados del Estado que impartan educación superior en l
 
 Se atenderá de manera prioritaria a las comunidades con rezago educativo y marginación económica y social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -451,7 +457,7 @@ V.- Campañas permanente (sic) de alfabetización.
 
 VI.- Todos aquellos que para tal fin se formulen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -469,7 +475,7 @@ IV.- Establecimiento de centros de desarrollo social y ocupacional, acorde a las
 
 V.- Establecimiento de centros culturales y recreativos, en las comunidades que así lo requieran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -501,19 +507,19 @@ XI.- Promover la educación para padres de los alumnos del nivel básico.
 
 XII.- Simplificar los procedimientos administrativos en la prestación del servicio educativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XIII.- Desarrollar y fomentar en los educandos los valores cívicos y éticos por los que debe regirse todo ser humano, buscando promover la cultura de la legalidad, la paz, el amor a la patria, el respeto y la solidaridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XIV.- Los demás que para tal fin se formulen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -521,7 +527,7 @@ XIV.- Los demás que para tal fin se formulen.
 
 5.- El financiamiento de la educación pública estará a cargo del Gobierno estatal, en concurrencia con el Gobierno Federal, quienes destinarán del gasto público, recursos crecientes en términos reales para la prestación del servicio educativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -529,7 +535,7 @@ XIV.- Los demás que para tal fin se formulen.
 
 6.- Los recursos económicos destinados a educación serán intransferibles y se entregarán oportunamente para la ejecución de los programas, proyectos y acciones del Sistema Educativo Estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -537,7 +543,7 @@ XIV.- Los demás que para tal fin se formulen.
 
 7.- La verificación de la aplicación de los recursos económicos destinados a educación, estará a cargo de las autoridades en su respectivo ámbito de competencia. Los responsables de la administración están obligados a proporcionar la información que se les solicite.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -579,7 +585,7 @@ El Gobierno del Estado a través de la Secretaría de Educación, Cultura y Depo
 
 ### CAPITULO VII. DE LA INCORPORACION DE LAS ESCUELAS PARTICULARES AL SISTEMA ESTATAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ### CAPITULO VIII. DE LA EDUCACION AUDIOVISUAL
 
@@ -749,7 +755,7 @@ Como parte del Sistema Educativo Estatal, se integrará un Sistema Estatal de Fo
 
 El Gobierno del Estado, por conducto de la Secretaría de Educación, Cultura y Deporte, implementará mecanismos que aseguren un control, verificación y seguimiento eficaces para el diagnóstico y valoración del desarrollo del Sistema Educativo Estatal, estableciendo las normas que posibiliten la integración del Sistema Estatal de Evaluación y los procedimientos que permitan a los directivos, supervisores e inspectores mejorar el desempeño de sus funciones, de conformidad con los lineamientos y criterios que determine la Secretaría de Educación Pública del Gobierno Federal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 49.
 
@@ -775,7 +781,7 @@ II.- Colaborar con las instituciones educativas, salvo los casos de excepción q
 
 III.- Participar de acuerdo con los educadores, en el tratamiento de los problemas de conducta o aprendizaje que confronten sus hijos o pupilos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 51.
 
@@ -785,7 +791,17 @@ I.- Colaborar con las autoridades educativas en el mejoramiento de los edificio 
 
 II.- Administrar las cooperaciones en numerario que obtengan o aporten sus miembros, y
 
-III.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+III.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Proponer que los alimentos que se vendan al interior de los centros educativos cuenten con el adecuado valor nutricional.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -808,6 +824,12 @@ II.- Será responsabilidad de la autoridad de cada escuela pública, de educaci�
 La autoridad escolar hará lo conducente para que en cada escuela pública, de educación básica, opere un Consejo Escolar de Participación Social, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, ex-alumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 Este Consejo conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización; tomará nota de los resultados de las evaluaciones que realicen las autorizaciones educativas; propiciará la colaboración de maestros y padres de familia; podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela; estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos; llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar; alentará el interés familiar y comunitario por el desempeño del educando; podrá opinar en asuntos pedagógicos; contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares; respaldará las labores cotidianas de la escuela y, en general, podrá realizar actividades en beneficio de la propia escuela.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+Los consejos de participación social podrán coadyuvar con las autoridades escolares en el fomento de las buenas prácticas nutricionales, en el diseño de programas y planes de alimentación saludables en el Estado, a través de las Secretarías de Salud y Educación.
 
 Consejos análogos podrán operar en las escuelas particulares de educación básica.
 
@@ -839,7 +861,7 @@ Los Consejos de Participación Social, a que se refieren los artículos anterior
 
 Las Sociedades de Padres de Familia, funcionarán de acuerdo con el Reglamento respectivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 54.
 
@@ -889,7 +911,7 @@ II.- Revocación de la autorización o retiro del reconocimiento de validez ofic
 
 Las demás contravenciones a la presente ley o a sus reglamentos, cometidas por un particular que no constituyan un delito o que no tengan sanción expresa en este ordenamiento, se sancionarán con multa hasta por el equivalente de quinientos días de salario mínimo general diario vigente en la Entidad en la fecha en que se cometa la infracción. En el presente caso, por igual podrá duplicarse la multa impuesta en caso de reincidirse en la misma infracción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 57.
 
@@ -963,7 +985,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintiocho días del mes de mayo de mil novecientos noventa y tres.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE SEPTIEMBRE DE 1994.
 
@@ -980,5 +1002,11 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 28 DE OCTUBRE DE 2010.
 
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Este decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
