@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-direccion-del-registro-publico-de-1470
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-18"
-last_updated: "1999-06-18"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-REGLAMENTO INTERNO DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+REGLAMENTO INTERNO DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de junio de 1999.
 
 ALEJANDRO GONZALEZ ALCOCER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LA FACULTAD QUE AL EJECUTIVO A MI CARGO CONFIERE EL ARTÍCULO 49 FRACCIÓN XVI DE LA CONSTITUCIÓN POLÍTICA DE ESTA ENTIDAD FEDERATIVA y CON FUNDAMENTO EN EL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO; HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-REGLAMENTO INTERNO DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+REGLAMENTO INTERNO DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ### CAPITULO I. DEL OBJETO Y ORGANIZACION
 
@@ -454,3 +456,13 @@ JORGE RAMOS.
 EL DIRECTOR DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 MARIA DEL ROSARIO RAMIREZ HERNANDEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 25 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Dirección del Registro Público de la Propiedad y del Comercio publicado en el Periódico Oficial del Estado en fecha 18 de junio de 1999.
+
+TERCERO.- En tanto no se expidan los manuales referidos en el presente instrumento, el Director quedará facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
