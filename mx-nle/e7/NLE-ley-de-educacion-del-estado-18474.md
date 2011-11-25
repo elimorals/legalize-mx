@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2011-08-05"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE EDUCACION DEL ESTADO
 
-LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
+LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -177,13 +177,21 @@ XVII.- Preparar para la vida acorde a las necesidades actuales y futuras, impuls
 
 XVIII.- Promover además del conocimiento acerca de la Entidad y el País, la adquisición de una visión global del mundo;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas; e
+XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos para el nivel de Educación Básica.
+XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos para el nivel de Educación Básica;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XXI.- Promover en forma permanente el hábito a la lectura y del libro; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas.
 
 ###### Artículo 8.
 
@@ -193,7 +201,9 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto a que -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, a la conservación y aprovechamiento racional de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y la continuidad y acrecentamiento de nuestra cultura; y
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, asimismo promoverá las estrategias necesarias para la eliminación de toda práctica, conducta y expresión de discriminación de género -masculino y femenino- y la subordinación de la mujer respecto al hombre.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad y la cultura de la paz, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los seres humanos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, asimismo promoverá las estrategias necesarias para la eliminación de toda práctica, conducta y expresión de discriminación de género -masculino y femenino- y la subordinación de la mujer respecto al hombre.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -307,6 +317,12 @@ I.- Salvaguardar la integridad física de los educandos en las escuelas, especia
 
 II.- Que en el interior o en los alrededores de los planteles educativos no se distribuyen o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+###### Artículo 20 Bis 1.
+
+Las autoridades educativas, deberán implementar programas permanentes de prevención y detección de conductas que impliquen violencia física o psicológica entre el alumnado.
+
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EDUCATIVA
 
 ###### Artículo 21.
@@ -343,11 +359,17 @@ IX.- Establecer y mantener actualizado un registro estatal de los educandos y ma
 
 X.- Ofrecer, en coordinación con la Secretaría Estatal de Salud, orientación y capacitación a los alumnos, padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objeto de promover la cultura de una alimentación sana y nutritiva;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-XI.- Reglamentar la venta o consumo de alimentos en los establecimientos de consumo escolar o en lugares donde ésta se realice, dentro de los planteles de educación básica, eliminando los alimentos con bajo o nulo valor nutricional, así como realizar la inspección y vigilancia, para dar cumplimiento a esta medida; y
+XI.- Reglamentar la venta o consumo de alimentos en los establecimientos de consumo escolar o en lugares donde ésta se realice, dentro de los planteles de educación básica, eliminando los alimentos con bajo o nulo valor nutricional, así como realizar la inspección y vigilancia, para dar cumplimiento a esta medida;
 
-XII.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XII.- Las necesarias para garantizar el carácter nacional de la educación básica, la norma (sic) y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables, y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XIII.- Reglamentar las diversas conductas que constituyen una falta a la sana convivencia escolar, su gravedad y las sanciones correspondientes.
 
 ###### Artículo 22.
 
@@ -375,7 +397,9 @@ IX.- Ofrecer orientación y apoyo a los padres y madres de familia, tutores o qu
 
 X.- Fomentar las relaciones internacionales en materia de intercambio, investigación, cooperación educativa, científica, tecnológica, artística, cultural, educación física y deportiva;
 
-XI.- (DEROGADA, P.O. 14 DE ENERO DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XI.- Promover mecanismos de prevención, detección y atención de casos de violencia y abuso escolar en cualquiera de sus manifestaciones;
 
 XII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
 
@@ -397,7 +421,9 @@ II.- Proporcionar preferentemente áreas para la construcción de centros educat
 
 III.- Promover las estrategias necesarias para evitar la deserción e inasistencia del educando en edad escolar de las instituciones educativas y orientar a los padres, madres de familia o tutores para que cumplan los preceptos legales que hacen obligatoria la educación preescolar, primaria y secundaria;
 
-IV.- Coordinar y promover con las autoridades competentes la realización de programas y acciones de educación para la salud y mejoramiento del ambiente, así como campañas para velar por la seguridad del educando en los planteles educativos; para prevenir, combatir y erradicar la drogadicción, el alcoholismo, el tabaquismo y otras enfermedades de impacto sociocultural;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Coordinar y promover con las autoridades competentes la realización de programas y acciones de educación para la salud y mejoramiento del ambiente, así como campañas para velar por la seguridad del educando en los planteles educativos; para prevenir, combatir, y erradicar la drogadicción, el alcoholismo, el tabaquismo y otras enfermedades de impacto sociocultural; así como la violencia o abuso escolar;
 
 V.- Crear y apoyar programas de servicio social que tiendan a beneficiar a la comunidad en general;
 
@@ -579,7 +605,7 @@ Los programas de Salud integral que se mencionan en el párrafo que antecede, de
 
 I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
 
-II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
+II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud Integral de alta calidad y cobertura estatal.
 
 III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
 
@@ -735,9 +761,11 @@ La autoridad educativa estatal prestará los servicios de actualización, capaci
 
 ### CAPÍTULO IV. DEL PROCESO EDUCATIVO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 67.
 
-El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres, madres de familia e instituciones públicas y privadas.
+El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren relaciones armónicas, de respeto e igualdad entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres, madres de familia e instituciones públicas y privadas.
 
 #### SECCIÓN 1. DEL ALUMNADO
 
@@ -749,7 +777,11 @@ En consecuencia tienen derecho a:
 
 I.- Recibir una educación de calidad;
 
-II.- La protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y que la aplicación de la disciplina escolar sea compatible con su edad;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+II.- Estudiar en un ambiente de tolerancia, armonía y de respeto mutuo, con la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y que la aplicación de la disciplina escolar sea compatible con su edad.
+
+En caso de que las y los educandos; así como las autoridades educativas, tengan conocimiento de casos de violencia, de abuso en cualquiera de sus manifestaciones, o de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad competente;
 
 III.- Desarrollar su autoestima y a ser tratado con respeto y tolerancia a sus diferencias individuales;
 
@@ -1396,3 +1428,7 @@ P.O. 5 DE AGOSTO DE 2011.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- La Secretaría de Educación en coordinación con la Secretaría de Salud del Estado de Nuevo León, y de ser necesario con el sector privado, desarrollarán un Programa Estatal de Salud Integral en las Escuelas para cumplimentar lo establecido en el presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
