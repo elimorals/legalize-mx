@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-82309"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-22"
-last_updated: "2011-11-04"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de julio de 2011.
 
@@ -777,7 +777,9 @@ VI. Dos vocales representantes de los Organismos Operadores de Agua, invitados p
 
 El cargo de integrante del consejo directivo será honorífico.
 
-La organización y funcionamiento de la Comisión se regirá por la Ley que crea el Organismo Público Descentralizado denominado Comisión del Agua del Estado de México y por su Reglamento Interior.
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2011)</small>
+
+La organización y funcionamiento de la Comisión se regirá por su Reglamento Interior.
 
 ###### Artículo 28.
 
@@ -2505,13 +2507,19 @@ Se abroga la Ley del Agua del Estado de México, publicada en la "Gaceta del Gob
 
 Se abroga la Ley que crea el Organismo Público Descentralizado denominado Comisión del Agua del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" de fecha dieciocho de enero de mil novecientos noventa y nueve.
 
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO QUINTO.
 
-A partir de la vigencia del presente Decreto, se dispondrá de noventa días naturales, para emitir el Reglamento de esta Ley. En tanto se expida el nuevo Reglamento seguirá siendo aplicable en lo que no se oponga a las disposiciones de esta Ley a que se refiere el artículo tercero transitorio, el Reglamento de la Ley que se abroga.
+Para emitir el Reglamento de esta Ley, se dispondrá de 180 días hábiles, contados a partir del inicio de la vigencia de la Ley del Agua para el Estado de México y Municipios.
+
+En tanto la Comisión del Agua del Estado de México expide su Reglamento Interior, se aplicará en lo que no se oponga, el Reglamento Interior vigente.
+
+> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO SEXTO.
 
-Se dispondrá de hasta noventa días naturales contados a partir de la vigencia de este Decreto para que se constituya la Comisión Reguladora del Agua del Estado de México.
+Se dispondrá de hasta 180 días hábiles, contados a partir del inicio de la vigencia del Reglamento de la Ley del Agua para el Estado de México y Municipios, para que se constituya la Comisión Reguladora del Agua del Estado de México.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -2558,3 +2566,9 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
