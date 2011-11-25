@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-la-pequena-propiedad-de-predios-76784"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2010-09-24"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA REGULARIZAR LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERETARO
 
-LEY PARA REGULARIZAR LA PEQUEÑA PROPIEDAD DE PREDIOS RUSTICOS EN EL ESTADO DE QUERÉTARO
+LEY PARA REGULARIZAR LA PEQUEÑA PROPIEDAD DE PREDIOS RÚSTICOS EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de septiembre de 2010.
 
@@ -67,9 +67,11 @@ Quien posea un predio rústico, por el tiempo y con las condiciones para prescri
 
 Si posee dos o más predios sin título, sólo podrá tramitar la titulación de uno de ellos.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-Quienes se encuentren en el supuesto señalado en el artículo anterior, exclusivamente por conducto de programas que establezca el Gobernador del Estado, a través de la Secretaría de Gobierno y por conducto de la Dirección Jurídica y Consultiva, podrán acudir ante el juez de primera instancia civil, juez mixto de primera instancia o juez municipal, según corresponda, para demostrar que cumplen con las condiciones exigidas para la prescripción adquisitiva de bienes inmuebles.
+Quienes se encuentren en el supuesto señalado en el artículo anterior, exclusivamente por conducto de programas que establezca el Gobernador del Estado, a través de la Secretaría de Gobierno y por conducto de la Dirección Jurídica y Consultiva, podrán acudir ante el juez de primera instancia civil, juez mixto de primera instancia o juez menor, según corresponda, para demostrar que cumplen con las condiciones exigidas para la prescripción adquisitiva de bienes inmuebles.
 
 ###### Artículo 7.
 
@@ -222,3 +224,11 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
