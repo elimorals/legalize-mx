@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2011-07-22"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -385,9 +385,11 @@ El acuerdo será reservado.
 
 Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, sin perjuicio de que cuando lo estimen necesario puedan facultar para tal efecto a los secretarios auxiliares, haciéndolo constar en autos, bajo la responsabilidad del juez o magistrado, según el caso.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 63.
 
-Los jueces y magistrados tienen el deber de mantener el buen orden en los tribunales y de exigir que se les guarden el respeto y consideración debidos, así como de observar que las partes se conduzcan con probidad y buena fe dentro del procedimiento, sin conductas o actuaciones tendientes a entorpecer y dilatar el procedimiento, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los juzgados municipales, de veinte veces el salario mínimo general diario vigente en la zona; en los de primera instancia, de cuarenta veces el salario mínimo general diario vigente en la zona y de sesenta días en el Tribunal Superior de Justicia o en sus salas. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá penalmente contra los que los cometieren, con arreglo a lo dispuesto en el Código Penal del Estado de Querétaro, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+Los jueces y magistrados tienen el deber de mantener el buen orden en los tribunales y de exigir que se les guarden el respeto y consideración debidos, así como de observar que las partes se conduzcan con probidad y buena fe dentro del procedimiento, sin conductas o actuaciones tendientes a entorpecer y dilatar el procedimiento, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los juzgados menores, de veinte veces el salario mínimo general diario vigente en la zona; en los de primera instancia, de cuarenta veces el salario mínimo general diario vigente en la zona y de sesenta días en el Tribunal Superior de Justicia o en sus Salas. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá penalmente contra los que los cometieren, con arreglo a lo dispuesto en el Código Penal para el Estado de Querétaro, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
 
 ###### Artículo 64.
 
@@ -1317,15 +1319,17 @@ En el incidente de recusación son admisibles todos los medios de prueba estable
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para sólo este efecto.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 184.
 
-Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de cinco a diez veces el salario mínimo general diario vigente en la zona, si se trata de un juez municipal; de diez a treinta veces, si fuere un juez de primera instancia y de treinta a cincuenta veces, si fuere magistrado.
+Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de cinco a diez veces el salario mínimo general diario vigente en la zona, si se trata de un juez menor; de diez a treinta veces, si fuere un juez de primera instancia y de treinta a cincuenta veces, si fuere magistrado. No se dará trámite a ninguna recusación si no exhibe el recusante al interponerla, el billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante, si lo hubiere, por vía de indemnización y, en caso contrario, al fisco.
 
-No se dará trámite a ninguna recusación si no exhibe el recusante al interponerla, el billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante, si lo hubiere, por vía de indemnización y, en caso contrario, al fisco.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 185.
 
-De la recusación de los magistrados integrantes de una Sala, conocerá aquella a la que corresponda y para tal efecto se integrará de acuerdo a la ley aplicable; de la recusación de un juez, conocerá, de manera unitaria o colegiada, el o los magistrados de la Sala respectiva. La recusación de los secretarios del Tribunal Superior de Justicia y de los juzgados de primera instancia y municipales, se sustanciará ante las salas o jueces con quienes actúen. Las resoluciones de los jueces de primera instancia serán apelables en el efecto devolutivo.
+De la recusación de los magistrados integrantes de una Sala, conocerá aquella a la que corresponda y para tal efecto se integrará de acuerdo a la ley aplicable; de la recusación de un juez, conocerá, de manera unitaria o colegiada, el o los magistrados de la Sala respectiva. La recusación de los secretarios del Tribunal Superior de Justicia y de los juzgados de primera instancia y menores, se sustanciará ante las salas o jueces con quienes actúen. Las resoluciones de los jueces de primera instancia serán apelables en el efecto devolutivo.
 
 ###### Artículo 186.
 
@@ -4737,9 +4741,11 @@ La interposición de una tercería excluyente autoriza al demandante a pedir que
 
 Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor, con los bienes no comprendidos en la misma tercería.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 710.
 
-Si la tercería, cualquiera que sea, se interpone ante un Juez Municipal y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de éste, remitirá lo actuado en el negocio principal y tercería, el juez que sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
+Si la tercería, cualquiera que sea, se interpone ante un Juez Menor y el interés de ella excede del que la ley respectivamente somete a la jurisdicción de éste, remitirá lo actuado en el negocio principal y tercería, el juez que sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda entablada y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
 
 Título Decimosegundo
 
@@ -6525,13 +6531,17 @@ El Juez ordenará la comparecencia del titular de la Procuraduría de la Defensa
 
 En comparecencia, el juez instruirá a quienes deseen entregar al menor en adopción sobre sus efectos. Ratificada que sea ante el juez la voluntad para entregar al menor en adopción, se hará constar que el consentimiento es otorgado libremente, sin remuneración, presión o coacción alguna y se declarará de oficio la terminación de la patria potestad, quedando la tutela del menor a cargo de la Procuraduría de la Defensa del Menor y la Familia del Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 Título Especial
 
-De los juicios ante los jueces municipales
+De los juicios ante los jueces menores
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 988.
 
-Se tramitarán y fallarán ante los jueces municipales todos los negocios civiles cuya cuantía no exceda o sea igual al importe que determine mediante Acuerdo el Pleno del Tribunal Superior de Justicia y publique en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+Se tramitarán y fallarán ante los jueces menores todos los negocios civiles cuya cuantía no exceda o sea igual al importe que determine mediante Acuerdo el Pleno del Tribunal Superior de Justicia y publique en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 ###### Artículo 989.
 
@@ -6601,13 +6611,17 @@ En cualquier estado del juicio, hasta antes del fallo, el juez exhortará a las 
 
 Recibidas las pruebas, el juez fallará desde luego, en forma clara y sencilla.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 1004.
 
-Los jueces municipales sentenciarán en conciencia, a verdad sabida y buena fe guardada, sin necesidad de que se sujeten para ello a las reglas sobre la estimación de las pruebas que establece este Código.
+Los jueces menores sentenciarán en conciencia, a verdad sabida y buena fe guardada, sin necesidad de que se sujeten para ello a las reglas sobre la estimación de las pruebas que establece este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 1005.
 
-Los jueces municipales, una vez dictada la sentencia, tienen obligación de proveer a la eficaz e inmediata ejecución de la misma; a este efecto, dictarán todas las medidas necesarias en la forma y términos que, a su juicio, fueren procedentes, procurando no contrariar las reglas siguientes:
+Los jueces menores, una vez dictada la sentencia, tienen obligación de proveer a la eficaz e inmediata ejecución de la misma; a este efecto, dictarán todas las medidas necesarias en la forma y términos que, a su juicio, fueren procedentes, procurando no contrariar las reglas siguientes:
 
 I. Si al dictarse la sentencia, estuvieren presentes las partes, el juez procurará que lleguen a un avenimiento sobre la forma como se llevará a cabo la ejecución, interrogándolas acerca de las proposiciones que puedan hacer, para tal fin; y
 
@@ -6657,21 +6671,27 @@ Si alguna persona se presenta reclamando los bienes embargados, como de su propi
 
 El juez, bajo su responsabilidad, proveerá lo que fuere necesario, dentro de las reglas ya establecidas en los artículos anteriores, para que, dentro de treinta días naturales, contados desde la presentación de la demanda hasta la ejecución cabal de la sentencia, concluya el negocio.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 1016.
 
-Contra las sentencias de los jueces municipales no habrá más recurso que el de responsabilidad.
+Contra las sentencias de los jueces menores no habrá más recurso que el de responsabilidad.
 
 ###### Artículo 1017.
 
 Contra cualesquiera otra resolución del juez, sólo procederá la revocación que podrá concederse, bajo la responsabilidad del propio juez, si la estima prudente y justa. La revocación se hará valer dentro de los tres días siguientes a la notificación.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 1018.
 
-Ante los jueces municipales no es necesaria la intervención de abogados, ni se exigirá ritualidad, ni forma determinada en las promociones, peticiones o alegaciones de las partes.
+Ante los jueces menores no es necesaria la intervención de abogados, ni se exigirá ritualidad, ni forma determinada en las promociones, peticiones o alegaciones de las partes.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 1019.
 
-Respecto a las actuaciones de los jueces municipales, no hay horas ni días inhábiles, pero los jueces procurarán que su actuación sea en las horas del día y no de la noche, salvo en los casos excepcionales en que el mismo juez, bajo su responsabilidad, así lo crea necesario.
+Respecto a las actuaciones de los jueces menores, no hay horas ni días inhábiles, pero los jueces procurarán que su actuación sea en las horas del día y no de la noche, salvo en los casos excepcionales en que el mismo juez, bajo su responsabilidad, así lo crea necesario.
 
 ###### Artículo 1020.
 
@@ -6683,13 +6703,19 @@ Las actas a que se refiere el artículo anterior se reunirán formando un solo c
 
 Cada cuaderno o legajo, llevará un número progresivo, mismo que se pondrá al margen izquierdo de la sentencia o convenio que se asiente en el libro de que se habla en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 1022.
 
-En los negocios de la competencia de los juzgados municipales, únicamente se aplicarán las disposiciones de este Código y las de la Ley Orgánica del Poder Judicial del Estado de Querétaro, en lo que fuere indispensable para complementar las disposiciones de este Título y que no se opongan directa o indirectamente a éstas.
+En los negocios de la competencia de los juzgados menores, únicamente se aplicarán las disposiciones de este Código y las de la Ley Orgánica del Poder Judicial del Estado de Querétaro, en lo que fuere indispensable para complementar las disposiciones de este Título y que no se opongan directa o indirectamente a éstas.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 1023.
 
-Los jueces municipales no son recusables, pero deben excusarse cuando estén impedidos y, en tal caso, el negocio pasará a otro juzgado de la misma categoría, si lo hubiere en el lugar; en caso contrario, se remitirá al mejor comunicado, aunque no sea el más próximo, dentro del mismo municipio. Si los jueces impedidos no se excusaren, a queja de parte, el Tribunal Superior de Justicia impondrá una corrección disciplinaria y mandará hacer la anotación en el expediente del funcionario.
+Los jueces menores no son recusables, pero deben excusarse cuando estén impedidos y, en tal caso, el negocio pasará a otro juzgado de la misma categoría, si lo hubiere en el lugar; en caso contrario, se remitirá al mejor comunicado, aunque no sea el más próximo, dentro del mismo municipio. Si los jueces impedidos no se excusaren, a queja de parte, el Tribunal Superior de Justicia impondrá una corrección disciplinaria y mandará hacer la anotación en el expediente del funcionario.
+
+Los juzgados de primera instancia, menores, agencias del ministerio público y las notarías públicas, permanecerán abiertos durante el día de la elección.
 
 ###### Artículo 1024.
 
@@ -6776,3 +6802,9 @@ Artículo Primero. La presente Ley entrará en vigor a los treinta días siguien
 Artículo Segundo. El Poder Judicial del Estado de Querétaro deberá contar con el Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro, a partir de la entrada en vigor de la presente Ley.
 
 Artículo Tercero. Los asuntos que se encuentren en los Juzgados o en Oficialía de Partes del Poder Judicial del Estado de Querétaro, que no hayan sido notificados a la fecha de entrada en vigor de la presente Ley, deberán atender al contenido de este ordenamiento legal.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
