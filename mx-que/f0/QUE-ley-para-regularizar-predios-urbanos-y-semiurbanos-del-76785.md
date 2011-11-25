@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-regularizar-predios-urbanos-y-semiurbanos-del-76785"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2010-09-24"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA REGULARIZAR PREDIOS URBANOS Y SEMIURBANOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de septiembre de 2010.
 
@@ -83,9 +83,11 @@ Quien posea un predio urbano o semiurbano, por el tiempo y con las condiciones p
 
 Cuando el predio se haya adquirido de instituciones gubernamentales promotoras de vivienda o a través de ellas, el promovente deberá acreditar haber liquidado los adeudos existentes con la institución que corresponda, sin perjuicio de que dichas instituciones sean notificadas en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-Quienes se encuentren en el supuesto señalado en el artículo anterior, exclusivamente por conducto del programa que emita el Gobernador del Estado, podrán acudir ante el juez de primera instancia civil, juez mixto de primera instancia o juez municipal, según corresponda, para demostrar que cumplen con las condiciones exigidas para la prescripción adquisitiva de bienes inmuebles.
+Quienes se encuentren en el supuesto señalado en el artículo anterior, exclusivamente por conducto del programa que emita el Gobernador del Estado, podrán acudir ante el juez de primera instancia civil, juez mixto de primera instancia o juez menor, según corresponda, para demostrar que cumplen con las condiciones exigidas para la prescripción adquisitiva de bienes inmuebles.
 
 ###### Artículo 8.
 
@@ -284,3 +286,11 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
