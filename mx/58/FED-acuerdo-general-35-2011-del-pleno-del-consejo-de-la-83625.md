@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-35-2011-del-pleno-del-consejo-de-la-83625"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-11-15"
-last_updated: "2011-11-15"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83625&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2011-11-07"
 ---
 # ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [INICIO DE FUNCIONAMIENTO DEL JUZGADO SEPTIMO DE DISTRITO EN CIUDAD VALLES, SAN LUIS POTOSI, ASI COMO TURNO Y DISTRIBUCION DE ASUNTOS ENTRE JUZGADOS DE DISTRITO DE LA ENTIDAD INDICADA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE NOVIEMBRE DE 2011 Y 4 DE ABRIL DE 2012 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
 
-ACUERDO GENERAL 35/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO SÉPTIMO DE DISTRITO EN EL ESTADO DE SAN LUIS POTOSÍ, CON SEDE EN CIUDAD VALLES; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD Y SEDE INDICADAS
+ACUERDO GENERAL 35/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO SÉPTIMO DE DISTRITO EN EL ESTADO DE SAN LUIS POTOSÍ, CON SEDE EN CIUDAD VALLES; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD Y SEDE INDICADAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 25 DE NOVIEMBRE DE 2011.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de noviembre de 2011.
 
@@ -49,11 +51,11 @@ ACUERDO
 
 PRIMERO. El nuevo órgano jurisdiccional se denominará Juzgado Séptimo de Distrito en el Estado de San Luis Potosí, con residencia en Ciudad Valles, y tendrá igual competencia y jurisdicción territorial que el juzgado de Distrito que actualmente funciona en la misma ciudad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE NOVIEMBRE DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 SEGUNDO. El Juzgado Séptimo de Distrito en el Estado de San Luis Potosí, con residencia en Ciudad Valles, iniciará funciones el dieciséis de noviembre de dos mil once, con la plantilla autorizada a ese órgano jurisdiccional.
 
-Su domicilio será el ubicado en Mariano Abasolo número 44, con acceso por la calle Venustiano Carranza número 314, Zona Centro, código postal 07900, en Ciudad Valles, San Luis Potosí.
+> <small>(F. DE E., D.O.F. 25 DE NOVIEMBRE DE 2011)</small>
+
+Su domicilio será el ubicado en Mariano Abasolo número 414, con acceso por la calle Venustiano Carranza número 314, Zona Centro, código postal 79000, en Ciudad Valles, San Luis Potosí.
 
 TERCERO. Los juzgados de Distrito en el Estado San Luis Potosí conservarán la denominación, competencia, sede y jurisdicción territorial que tienen asignadas actualmente.
 
