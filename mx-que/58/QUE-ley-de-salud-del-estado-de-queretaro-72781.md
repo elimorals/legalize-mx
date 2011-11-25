@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2011-07-22"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -163,7 +163,9 @@ V. Matanza de ganado y aves;
 
 VI. Captación, tratamiento, conducción y distribución de agua;
 
-VII. Sexo servicio;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+VII. Trabajo sexual;
 
 VIII. Explotaciones pecuarias;
 
@@ -1475,7 +1477,9 @@ Los edificios, locales, construcciones o terrenos urbanos podrán ser verificado
 
 Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y la norma oficial mexicana correspondiente.
 
-### Capítulo Quinto. Del sexo servicio
+### Capítulo Quinto. Del trabajo sexual
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 149.
 
@@ -1485,21 +1489,27 @@ Los proyectos de abastecimiento de agua potable deberán ser sometidos a la cons
 
 La autoridad sanitaria estatal y municipal, en su caso, realizará análisis periódicos de la potabilidad de las aguas, conforme con esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ### Capítulo Sexto. De los centros penitenciarios
 
 ###### Artículo 151.
 
-Para los efectos de esta Ley, se entiende por sexo servicio la actividad que realice cualquier persona, utilizando cualquier parte de su cuerpo para establecer comercio a cambio de una remuneración económica o en especie.
+Para los efectos de esta Ley, se entiende por trabajo sexual la actividad erótico sexual que realice cualquier persona, utilizando cualquier parte de su cuerpo, a cambio de una remuneración económica o en especie.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 152.
 
-Toda persona que ejerza el sexo servicio, se sujetará a las medidas y formas de control que señale la Secretaría, conforme a las prevenciones de esta Ley y demás disposiciones aplicables.
+Toda persona que ejerza el trabajo sexual, se sujetará a las medidas y formas de control que señale la Secretaría, conforme a las prevenciones de esta Ley y demás disposiciones aplicables.
 
-Toda persona que ejerza el sexo servicio, deberá portar en todo momento la tarjeta de control sanitario que establece la presente Ley; las personas que realicen el sexo servicio sin contar con la mencionada tarjeta, serán sancionadas de conformidad con la Ley o reglamento en la materia.
+Toda persona que ejerza el trabajo sexual, deberá portar en todo momento la tarjeta de control sanitario que establece la presente Ley; quienes realicen dicha actividad sin contar con la mencionada tarjeta, serán sancionadas de conformidad con la Ley o reglamento en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 153.
 
-Solo podrán ejercer el sexo servicio dentro del Estado de Querétaro, las personas que reúnan los siguientes requisitos:
+Sólo podrán ejercer el trabajo sexual dentro del Estado de Querétaro, las personas que reúnan los siguientes requisitos:
 
 I. Ser mayor de 18 años;
 
@@ -1511,9 +1521,11 @@ IV. Contar con la tarjeta de control sanitario que para tal efecto otorgue la au
 
 V. Estar inscrito en el padrón que para tal efecto elabore la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 154.
 
-No podrán ejercer el sexo servicio, quienes:
+No podrán ejercer el trabajo sexual, quienes:
 
 I. Padezcan alguna enfermedad infectocontagiosa o de transmisión sexual;
 
@@ -1523,13 +1535,19 @@ III. No cuenten con la tarjeta de control sanitario vigente; y
 
 IV. Cuando su tarjeta de control sanitario presente vencimiento, carezca de sello y firma vigente o les sea retirada.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 155.
 
-Queda prohibido el acceso de menores de edad al interior de establecimientos comerciales donde se ejerza el sexo servicio.
+Queda prohibido el acceso de menores de edad al interior de establecimientos comerciales donde se ejerza el trabajo sexual.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 156.
 
-Corresponde a las autoridades municipales definir y autorizar los establecimientos en los que se realice ésta actividad. Las autoridades sanitarias en coordinación estrecha con las autoridades municipales, tomarán las medidas necesarias para controlar el ejercicio del sexo servicio.
+Corresponde a las autoridades municipales definir y autorizar las zonas en las que se realice esta actividad. Las autoridades sanitarias en coordinación estrecha con las autoridades municipales, tomarán las medidas necesarias para controlar el ejercicio del trabajo sexual.
+
+Esta actividad no podrá ejercerse cerca de áreas habitacionales, escuelas, oficinas públicas, centros culturales, religiosos y deportivos.
 
 ### Capítulo Primero. De las tarjetas sanitarias
 
@@ -1830,6 +1848,12 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
