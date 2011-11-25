@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-justicia-constitucional-del-estado-de-queretaro-67962"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2009-03-27"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE JUSTICIA CONSTITUCIONAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -187,7 +187,9 @@ V. Declarada la nulidad, se impondrá multa de uno a diez veces salario mínimo 
 
 Las promociones deberán ser presentadas por las partes en la Oficialía de Partes del Tribunal Superior de Justicia.
 
-En el caso de la demanda, si se trata del último día para su presentación y la parte actora no tiene su domicilio en la ciudad de Santiago de Querétaro, podrá presentarla ante el juez de primera instancia o, en caso de que no exista, el juez municipal de su residencia.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+En el caso de la demanda, si se trata del último día para su presentación y la parte actora no tiene su domicilio en la ciudad de Santiago de Querétaro, podrá presentarla ante el juez de primera instancia o, en caso de que no exista, ante el juez menor de su residencia.
 
 El juez ante el que se presente la demanda no podrá negarse a recibirla bajo ningún concepto; extenderá la constancia respectiva y remitirá, mediante la mensajería interna, la demanda al Presidente del Tribunal Superior de Justicia.
 
@@ -781,9 +783,11 @@ IV. Evitar los formalismos innecesarios que puedan estorbar la defensa de los de
 
 V. Apreciar los hechos y abstenciones, tal como se desprendan del estudio integral del expediente, supliendo en todo caso las deficiencias en la demanda, argumentación e interpretación a favor del particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 105.
 
-La demanda podrá presentarse por escrito, mediante correo certificado, telégrafo, fax, correo electrónico, comparecencia ante el Secretario de la Sala Constitucional o ante el juez municipal o de primera instancia del lugar, ya sea por escrito o en comparecencia personal.
+La demanda podrá presentarse por escrito, mediante correo certificado, telégrafo, fax, correo electrónico, comparecencia ante el Secretario de la Sala Constitucional o ante el juez menor o de primera instancia del lugar, ya sea por escrito o en comparecencia personal.
 
 Cuando la demanda se presente por correo, telégrafo, fax o correo electrónico, el juzgador procederá desde luego a admitirla, en caso de ser procedente, a suspender el acto reclamado en términos del artículo anterior y a ordenar la ratificación de la misma, proveyendo lo que resulte necesario para conseguirlo.
 
@@ -795,7 +799,9 @@ Si de la concesión de la suspensión se desprende una posible afectación a der
 
 La suspensión se otorgará o negará en el auto admisorio, procediendo, en caso de ser necesario, a notificarse por la vía más rápida posible a la autoridad o particular demandado. Podrá revocarse la decisión sobre la suspensión en cualquier momento, atendiendo a las constancias en autos.
 
-Cuando la demanda se presente por escrito o en comparecencia personal ante el juez municipal o de primera instancia del lugar, éste procederá de forma inmediata a decidir sobre la suspensión del acto reclamado, ordenará las medidas necesarias para notificar de la misma a la autoridad o particular demandado y remitirá, en un plazo no mayor de veinticuatro horas, los autos a la Sala Constitucional, salvo que se presente un día inhábil, supuesto en el cual el plazo se aumentará a cuarenta y ocho horas.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+Cuando la demanda se presente por escrito o en comparecencia personal ante el juez menor o de primera instancia del lugar, éste procederá de forma inmediata a decidir sobre la suspensión del acto reclamado, ordenará las medidas necesarias para notificar de la misma a la autoridad o particular demandado y remitirá, en un plazo no mayor de veinticuatro horas, los autos a la Sala Constitucional, salvo que se presente un día inhábil, supuesto en el cual el plazo se aumentará a cuarenta y ocho horas.
 
 ###### Artículo 107.
 
@@ -912,3 +918,11 @@ Rúbrica
 Lic. Francisco Garrido Patrón, Gobernador Constitucional del Estado de Querétaro, en ejercicio de lo dispuesto por el artículo 22, fracción I de la Constitución Política del Estado de Querétaro; expido y promulgo la presente Ley de Justicia Constitucional del Estado de Querétaro.
 
 Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la Ciudad de Santiago de Querétaro, Qro., el día veintiséis del mes de marzo del año dos mil nueve, para su debida publicación y observancia.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
