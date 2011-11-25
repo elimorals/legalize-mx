@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "1997-07-02"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
+LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
-Ley Publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
+Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
 JORGE SALOMON AZAR GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -419,11 +419,11 @@ XII.- El control y la prevención de la contaminación ambiental, el adecuado ap
 
 XIII.- Las actividades que se lleven a cabo dentro del territorio del Estado no afectarán el equilibro ecológico de otros Estados o zonas de jurisdicción federal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 1997)</small>
 
 ### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA AMBIENTAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 1997)</small>
 
 #### Sección I. De la Planeación Ambiental
 
@@ -527,7 +527,7 @@ IV.- Los Programas de Ordenamiento Ecológico Municipales y de los Centros de Po
 
 V.- Las Declaratorias de Ordenamiento Ecológico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 22.
 
@@ -815,9 +815,11 @@ El Gobierno del Estado y los de los Municipios fomentarán investigaciones cient
 
 El Ejecutivo Estatal y los Ayuntamientos, mantendrán un sistema permanente de información y vigilancia sobre los ecosistemas y su equilibrio en el ámbito de sus territorios, pudiendo coordinar sus acciones con la Federación, estableciendo sistemas de evaluación de las propias acciones que hubieren emprendido.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 52.
 
-La Secretaría de Educación, Cultura y Deporte y la Secretaría Estatal, promoverán que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica desarrollen programas en la formación de profesionales e investigadores que estudien las causas de los fenómenos ambientales y su solución.
+La Secretaría de Educación y la Secretaría Estatal, promoverán que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica desarrollen programas de formación de profesionales e investigadores que estudien las causas de los fenómenos ambientales y su solución, así como la implementación, en sus respectivos ámbitos de competencia, de campañas permanentes y talleres de información y concientización del desarrollo sustentable y sus alcances humanos, naturales y medioambientales dentro del Estado, como medida de protección al ambiente.
 
 ###### ARTICULO 53.
 
@@ -1475,17 +1477,17 @@ Corresponderá a la Secretaría Estatal, proponer al titular del Ejecutivo Estat
 
 En las licencias o permisos que se expidan para la utilización del suelo, se aplicarán los criterios necesarios para prevenir y controlar la contaminación, respetando, según sea el caso, lo ordenado en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la presente Ley, y las disposiciones que de las mismas emanen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 1997)</small>
 
 ## TITULO QUINTO. DEL APROVECHAMIENTO SUSTENTABLE
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 1997)</small>
 
 ### CAPITULO UNICO. Del Aprovechamiento Sustentable del Suelo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 1997)</small>
 
-###### ARTICULO 145.
+###### ARTÍCULO 145.
 
 Para la preservación y aprovechamiento sustentable del suelo en el Estado se considerarán los siguientes criterios:
 
@@ -1507,9 +1509,9 @@ V.- En las zonas afectadas por fenómenos de degradación o desertificación, de
 
 VI.- La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deben incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su vocación natural.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 1997)</small>
 
-###### ARTICULO 146.
+###### ARTÍCULO 146.
 
 Los criterios ecológicos para la preservación y aprovechamiento sustentable del suelo se considerarán en:
 
@@ -1961,7 +1963,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veintiún días del mes de junio de mil novecientos noventa y cuatro.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 1996.
 
@@ -1974,3 +1976,9 @@ P.O. 2 DE JULIO DE 1997.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
