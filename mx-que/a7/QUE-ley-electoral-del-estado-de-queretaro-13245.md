@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-13245"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-05"
-last_updated: "2008-12-20"
+last_updated: "2011-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 5 de diciembre de 1996.
 
@@ -1729,7 +1729,9 @@ V. No tener más de sesenta años al día de la elección;
 
 VI. No ocupar cargos de elección popular, ni ser candidatos a los mismos;
 
-VII. No ser servidor público de confianza, titular de las Dependencias, Subsecretario, Procurador de Justicia, Sub-procurador, Magistrado de la Junta Local de Conciliación y Arbitraje, Procurador de la Defensa del Trabajo y Procurador de la Defensa del Menor, en la estructura de la Administración Pública Centralizada; Director y Subdirector de los organismos y empresas de la Administración Pública Descentralizada; titular de una dependencia del Poder Legislativo; Auditor Superior de Fiscalización del Estado; Magistrado del Tribunal Superior de Justicia, Oficial Mayor y Juez, en la estructura del Poder Judicial; Secretario, Oficial Mayor y Juez Municipal, en la estructura de los municipios; Consejero Electoral, Director General, ni cualquier otro cargo, empleo o comisión en el Instituto Electoral de Querétaro; Comisionado Estatal de los Derechos Humanos o de Información Gubernamental; Magistrado del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje, ambos del Estado. Los servidores públicos que desempeñen cargos homólogos en la Federación, así como sus Delegados, Administradores y Directores en la Entidad, quedan comprendidos en la presente fracción; así como cualquier otro que tenga mando en las fuerzas armadas o de seguridad pública de la Federación, Estado o Municipios;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+VII. No ser servidor público de confianza, titular de las Dependencias, Subsecretario, Procurador de Justicia, Sub-procurador, Magistrado de la Junta Local de Conciliación y Arbitraje, Procurador de la Defensa del Trabajo y Procurador de la Defensa del Menor, en la estructura de la Administración Pública Centralizada; Director y Subdirector de los organismos y empresas de la Administración Pública Descentralizada; titular de una dependencia del Poder Legislativo; Auditor Superior de Fiscalización del Estado; Magistrado del Tribunal Superior de Justicia, Oficial Mayor y Juez, en la estructura del Poder Judicial; Secretario y Oficial Mayor en la estructura de los municipios; Consejero Electoral, Director General, ni cualquier otro cargo, empleo o comisión en el Instituto Electoral de Querétaro; Comisionado Estatal de los Derechos Humanos o de Información Gubernamental; Magistrado del Tribunal de lo Contencioso Administrativo o del Tribunal de Conciliación y Arbitraje, ambos del Estado. Los servidores públicos que desempeñen cargos homólogos en la Federación, así como sus Delegados, Administradores y Directores en la Entidad, quedan comprendidos en la presente fracción; así como cualquier otro que tenga mando en las fuerzas armadas o de seguridad pública de la Federación, Estado o Municipios;
 
 VIII. No ser notario público o corredor público;
 
@@ -2691,7 +2693,9 @@ Los cuerpos de seguridad pública del Estado y de los municipios, deben prestar 
 
 Para estos efectos, el Instituto Electoral de Querétaro celebrará un convenio con los cuerpos de seguridad pública del Estado y municipios, donde se establecerán los mecanismos apropiados para hacer efectivo el apoyo de la fuerza pública.
 
-Los juzgados de primera instancia, municipales, agencias del ministerio público y las notarías públicas, permanecerán abiertos durante el día de la elección.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+Los juzgados de primera instancia, menores, agencias del ministerio público y las notarías públicas, permanecerán abiertos durante el día de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -5334,3 +5338,9 @@ Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicaci�
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 Artículo Tercero. Los asuntos que se encuentren en trámite o pendientes de resolución, surgidos con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán y resolverán hasta su total conclusión, conforme a las normas del ordenamiento vigente al momento de su inicio.
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
