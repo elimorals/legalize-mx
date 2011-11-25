@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2011-07-22"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -141,9 +141,15 @@ III. Realizar encuestas de opinión, foros y consultas populares sobre los asunt
 
 IV. Solicitar licencia a la Legislatura;
 
-V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan; y
+V. Rendir a la sociedad, una vez al año, un informe de las actividades que realizan; y (sic)
 
-VI. Solicitar por sí o mediante las Comisiones a que pertenezcan, la información que para el ejercicio de sus facultades de investigación y representación requieran de las dependencias, organismos y entidades del Poder Ejecutivo y Judicial, de los organismos autónomos y de las autoridades municipales del Estado.
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+VI. Dar a conocer ante el Pleno el contenido de sus iniciativas y el alcance de las mismas, así como proponer la Comisión Ordinaria o Especial a la que deba ser turnada para su correspondiente estudio y dictamen; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+VII. Solicitar por sí o mediante las Comisiones a que pertenezcan, la información que para el ejercicio de sus facultades de investigación y representación requieran de las dependencias, organismos y entidades de los Poderes Ejecutivo, Judicial y Legislativo, de los organismos constitucionales autónomos y de las autoridades municipales del Estado.
 
 #### Sección Segunda. Obligaciones
 
@@ -421,6 +427,10 @@ Cuando la iniciativa proponga la creación de organismos, dependencias o la ampl
 
 Las iniciativas turnadas se harán del conocimiento de los integrantes del Pleno.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+Previo a dar conocimiento del turno referido en el párrafo anterior, a petición de los autores de las iniciativas, éstos podrán dar a conocer personalmente y de manera verbal el contenido de las mismas, en sesión del Pleno.
+
 ###### Artículo 45.
 
 (Desistimiento de la iniciativa) Antes de su turno a Comisión, podrá el autor de una iniciativa, solicitud o proposición, retirarla.
@@ -651,7 +661,9 @@ c) Calificada: La que representa las dos terceras partes de los integrantes de l
 
 (Abstenciones) Los diputados podrán abstenerse de votar un asunto, manifestando “me abstengo” o dejando en blanco la cédula de votación, en su caso. En caso de abstención, el diputado deberá de manifestar el motivo de la misma.
 
-Las abstenciones de los diputados, en cualquier clase de votación, se sumarán a la mayoría.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+Las abstenciones no se computarán dentro de la votación, solo se declararán por separado.
 
 ### Capítulo Séptimo. De las observaciones del Poder Ejecutivo del Estado
 
@@ -747,9 +759,11 @@ d) Para imponer a quienes se hagan acreedores, las medallas y reconocimientos de
 
 e) Las demás que sean convocadas con ese carácter por el Presidente de la Legislatura.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 90.
 
-(Frecuencia de las sesiones) La Legislatura sesionará cuantas veces sea necesario, a fin de desahogar los asuntos de su competencia.
+(Frecuencia de las sesiones) La Legislatura sesionará por lo menos dos veces al mes, así como cuantas veces sea necesario, a fin de desahogar los asuntos de su competencia.
 
 ###### Artículo 91.
 
@@ -1075,7 +1089,9 @@ IX. Ordenar la discusión durante las sesiones, tomando en cuenta las propuestas
 
 X. Solicitar a sus autores, la aclaración que estime pertinente de la documentación que se presente para trámite legislativo en la Oficialía de Partes del Poder Legislativo, o bien, solicitar la documentación complementaria que resulte indispensable para abocarse a su estudio;
 
-XI. Vigilar, con apoyo de los integrantes de la Mesa Directiva, que los acuerdos, iniciativas, dictámenes, proyectos, informes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su contenido y trámite;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+XI. Vigilar, con apoyo de los integrantes de la Mesa Directiva, que los acuerdos, iniciativas, dictámenes, proyectos, informes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su contenido y trámite; así como instar a las Comisiones para que emitan sus dictámenes en los términos de la presente Ley;
 
 XII. Turnar a los órganos y dependencias que correspondan, los asuntos de su competencia. Para ejercer esta facultad, el Presidente podrá consultar la opinión de los integrantes de la Junta de Concertación Política;
 
@@ -1197,9 +1213,11 @@ Para su funcionamiento tendrá un Presidente y un Secretario.
 
 (Asignación presupuestal) Para cumplir con sus atribuciones, contará con el presupuesto que le asigne la Legislatura, mismo que será ejercido por su Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 137.
 
-(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de Presidente y Secretario de la Junta de Concertación Política, se ocuparán rotativamente entre los coordinadores de cada uno de los Grupos y Fracciones Legislativas, en los términos, condiciones y procedimientos que acuerde la mayoría de la Legislatura, con una periodicidad proporcional a la representación de cada Grupo o Fracción en la Legislatura. Posteriormente, los coordinadores podrán ceder o intercambiar el periodo de la Presidencia y Secretaría, de conformidad con los acuerdos suscritos entre los interesados, sin perjuicio de los que no intervengan.
+(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de Presidente y Secretario de la Junta de Concertación Política, se ocuparán rotativamente entre los coordinadores de cada uno de los Grupos y Fracciones Legislativas, en los términos, condiciones y procedimientos que acuerde la mayoría de la Junta de Concertación Política. Posteriormente, los coordinadores podrán ceder o intercambiar el periodo de la Presidencia y Secretaría, de conformidad con los acuerdos suscritos entre los interesados, sin perjuicio de los que no intervengan.
 
 El presidente y secretario que deban funcionar en el primer período de la Junta, serán electos por el Pleno, dentro de las primeras tres sesiones del ejercicio constitucional de la Legislatura.
 
@@ -1245,9 +1263,11 @@ Cada presidente de la Junta de Concertación Política rendirá, al abandonar su
 
 En las sesiones de la Junta en las que se desahoguen asuntos de trámite legislativo, se convocará al Presidente de la Mesa Directiva y al Director de Asuntos Legislativos y Jurídicos.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 142.
 
-(Acuerdos) Los asuntos que sean del conocimiento de la Junta de Concertación Política y que requieran de la emisión de un acuerdo o propuesta por parte de ésta, serán consensuados por unanimidad de sus integrantes. En caso de no cumplirse este supuesto, resolverá en definitiva el Pleno de la Legislatura.
+(Acuerdos) Los asuntos que sean del conocimiento de la Junta de Concertación Política y que requieran de la emisión de un acuerdo o propuesta por parte de ésta, serán consensuados por la mayoría de sus integrantes. En caso de no cumplirse este supuesto, resolverá en definitiva el Pleno de la Legislatura.
 
 #### Sección Cuarta. Comisiones
 
@@ -1491,9 +1511,11 @@ V. La Dirección de Investigación y Estadística Legislativa; y
 
 VI. La Coordinación de Comunicación Social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 163.
 
-(Designación de titulares) Dentro de las tres primeras sesiones del Pleno que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias, con el voto de la mayoría de sus integrantes, mediante propuesta que realice la Junta de Concertación Política o, en su caso, por parte de cualquier diputado y sólo podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
+(Designación de titulares) Dentro de las cuatro primeras sesiones del Pleno que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias, con el voto de la mayoría de sus integrantes, mediante propuesta que realice la Junta de Concertación Política o, en su caso, por parte de cualquier diputado y sólo podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
 
 Los titulares en funciones continuarán desarrollando sus actividades de acuerdo a las facultades que les otorga la ley, hasta en tanto el Pleno de la Legislatura los ratifique o designe a otra persona.
 
@@ -1523,9 +1545,11 @@ Para este efecto, cada titular propondrá a la Junta de Concertación Política,
 
 Para la función legislativa, se contará con el apoyo institucional del personal de las dependencias del Poder Legislativo, quienes no podrán ser instruidos por los diputados para realizar actividades ajenas al trabajo legislativo.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 168.
 
-(Estructura) Las dependencias tendrán la estructura que determine su titular, asegurando su óptimo desempeño, de acuerdo a la disponibilidad presupuestal.
+(Estructura) Las dependencias tendrán la estructura que determine la Junta de Concertación Política, asegurando su óptimo desempeño, de acuerdo a la disponibilidad presupuestal.
 
 ###### Artículo 169.
 
@@ -1729,7 +1753,9 @@ Se distribuirá a los diputados mediante correo electrónico, el día anterior a
 
 I. Editar el Diario de Debates de la Legislatura, el cual contendrá la versión estenográfica de las sesiones del Pleno;
 
-II. Llevar la estadística de asistencia de los diputados a sesiones del Pleno y de los órganos; la estadística por Grupo o Fracción Legislativa de la presentación de iniciativas y de las intervenciones en tribuna; para este efecto, sólo se considerarán las participaciones en la discusión de los dictámenes, información que deberá ser publicada en el sitio oficial de la Legislatura en internet; del estado que guardan los asuntos sometidos al procedimiento legislativo y de las actividades de la Legislatura en el ámbito legislativo;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+II. Llevar la estadística de asistencia de los diputados a sesiones del Pleno y de los órganos; la estadística del sentido del voto de cada diputado por dictamen; la estadística por Grupo o Fracción Legislativa de la presentación de iniciativas y de las intervenciones en tribuna; para este efecto, sólo se considerarán las participaciones en la discusión de los dictámenes; del estado que guardan los asuntos sometidos al procedimiento legislativo y de las actividades de la Legislatura en el ámbito legislativo. La información deberá ser publicada en el sitio oficial de la Legislatura en internet;
 
 Cuando más de una iniciativa presentada por un integrante del mismo Grupo o Fracción Legislativa se relacione con el mismo ordenamiento legal, se computará para la estadística, como una sola;
 
@@ -1962,3 +1988,9 @@ Artículo Primero. Esta Ley entrará en vigor el día de su aprobación por el P
 Artículo Segundo. Se derogan todas las disposiciones, de igual o menor jerarquía, que se opongan a la presente Ley.
 
 Artículo Tercero. Procédase a su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Quincuagésima Sexta Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
