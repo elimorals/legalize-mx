@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-civil-de-carrera-del-poder-72241"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2011-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el lunes 28 de diciembre del 2009.
 
 Juan Manuel Oliva Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77, fracciones II, III y XXIV y 79 de la Constitución Política para el Estado de Guanajuato, y en observancia de lo dispuesto por los artículos 2o., 3º., 9º., 24 y 95 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, he tenido a bien expedir el siguiente:
 
@@ -43,7 +45,7 @@ REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANA
 
 Objetivo
 
-###### Articulo 1.
+###### Artículo 1.
 
 El presente Reglamento es de orden público y tiene por objeto regular el Servicio Civil de Carrera en las dependencias, entidades y unidades de apoyo del Poder Ejecutivo del Estado de Guanajuato.
 
@@ -63,7 +65,9 @@ I. Áreas de recursos humanos: Los encargados de las funciones de administrar lo
 
 II. Comisión: La Comisión Intersecretarial del Servicio Civil de Carrera;
 
-III. Comités de ingreso: El órgano colegiado encargado de administrar las fases que constituyen el proceso de ingreso al Servicio Civil de Carrera;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+III. Comités de ingreso: Los órganos colegiados encargados de administrar la fase que constituye la entrevista de selección del personal;
 
 IV. Dependencias: Las Secretarías de Estado y la Procuraduría General de Justicia del Estado;
 
@@ -437,9 +441,11 @@ Se entiende por reclutamiento el proceso mediante el cual los Sujetos Obligados 
 
 Integración de los Comités de Ingreso
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 31.
 
-Las fases que constituyen la selección del personal serán administradas por los Comités de ingreso, cuyos integrantes tendrán derecho a voz y voto y se integrarán por:
+La entrevista que se realiza en la fase de selección del personal será administrada por los Comités de ingreso, cuyos integrantes tendrán derecho a voz y voto y se integrarán por:
 
 I. El responsable del área de recursos humanos, quien fungirá como secretario;
 
@@ -545,9 +551,11 @@ Manifestada por alguno de los servidores públicos señalados en el párrafo ant
 
 Ejecución de los concursos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 39.
 
-Corresponde a la Dirección la coordinación, aplicación y evaluación de las pruebas de cada concurso de oposición que se realice; lo anterior, allegándose de la información necesaria que para tal efecto proporcione el área solicitante o la institución externa aprobada por la Comisión.
+Corresponde a la Dirección la elaboración, coordinación, aplicación y evaluación de las pruebas de cada concurso de oposición que se realice; lo anterior, allegándose de la información necesaria que para tal efecto proporcione el área solicitante o la institución externa aprobada por la Comisión.
 
 El fallo del concurso corresponde a los Comités de Ingreso, conforme al mayor puntaje obtenido en el concurso, el cual no deberá ser menor a lo establecido en los Lineamientos Generales para la Administración de los Recursos Humanos adscritos a las dependencias y entidades de la administración pública estatal y será definitivo.
 
@@ -607,9 +615,11 @@ La integración del servidor público de carrera de nuevo ingreso se entenderá 
 
 Autorización de puestos de libre designación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 45.
 
-Los Sujetos Obligados podrán someter a la Comisión la autorización para realizar la libre designación de un puesto cuando, de conformidad con el perfil registrado ante la Dirección General, dicho puesto realice alguna de las siguientes funciones:
+Los Sujetos Obligados exclusivamente a través de sus titulares, podrán solicitar a la Comisión la autorización para realizar la libre designación de un puesto cuando conforme con el perfil registrado ante la Dirección General, dicho puesto realice alguna de las siguientes funciones:
 
 I. Vinculación o asesoría de los titulares de los Sujetos Obligados;
 
@@ -621,11 +631,11 @@ Los servidores públicos que ocupen algún puesto de libre designación sólo es
 
 Nombramientos temporales
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 46.
 
-El Secretario Técnico de la Comisión podrá autorizar a los titulares de los Sujetos Obligados, en casos excepcionales y debidamente justificados, el nombramiento temporal hasta por dos meses y hasta por tres ocasiones para ocupar una plaza de nueva creación o vacante, sin someterse procedimiento (sic) de selección a que se refiere el Reglamento.
-
-Durante este periodo la vacante deberá ser sometida al procedimiento de ingreso correspondiente.
+El Secretario Técnico de la Comisión podrá autorizar a los titulares de los Sujetos Obligados, en casos excepcionales y debidamente justificados, un nombramiento temporal hasta por dos meses para ocupar una plaza de nueva creación o vacante, sin someterse al procedimiento de selección a que se refiere el Reglamento.
 
 #### Sección Tercera. Proceso de capacitación
 
@@ -661,7 +671,7 @@ La organización y promoción de las acciones de profesionalización estará a c
 
 Obligación de capacitarse
 
-###### Articulo 51.
+###### Artículo 51.
 
 Los servidores públicos de carrera deberán cumplir con los eventos de capacitación acordados por la Dirección y las áreas de recursos humanos de conformidad con la obligación establecida en la fracción II del artículo 10 del Reglamento, tanto los que les son asignados para el desempeño de su empleo, cargo o comisión, como aquellos a los que tenga acceso por su función y tengan la obligación de asistir puntualmente y presentar los exámenes y evaluaciones correspondientes para acreditarlo en las fechas programadas al efecto.
 
@@ -763,11 +773,13 @@ Los resultados de las evaluaciones se considerarán confidenciales y únicamente
 
 Periodo para cubrir la capacitación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 66.
 
-El servidor público tendrá como máximo un año para cubrir su programa de capacitación a partir de la fecha de su alta en la Administración Pública Estatal, dicho término dependerá de la programación de los eventos de capacitación por las áreas de recursos humanos.
+El servidor público deberá cubrir su programa de capacitación en los plazos que le sean asignados por la Dirección.
 
-Si el servidor público fuera de nuevo ingreso en los niveles correspondientes al Servicio, cantará con el tiempo señalado en el párrafo anterior para cubrir su programa de formación institucional a excepción del curso de inducción, ya que éste será de acuerdo a la fecha en que sea dado de alta.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 La capacidad de visión de gobierno será vigente según corresponda a la filosofía de la administración y las restantes serán vigentes según corresponda a la actualización que exista en el área de conocimiento a cubrir y se dará un tiempo para su reajuste, de lo contrario no se emitirán las constancias que lo acreditan.
 
@@ -783,7 +795,9 @@ I. Actividades y metas;
 
 II. Comportamientos que evalúen las capacidades profesionales generales y de visión de gobierno; y
 
-III. Avance dentro del esquema de capacitación.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+
+III. Cumplimiento del esquema de capacitación;
 
 Lo anterior en relación al nivel que ocupe el servidor público de carrera.
 
@@ -825,7 +839,7 @@ Para apoyar la operación y el funcionamiento de los procesos del Servicio se co
 
 Confidencialidad
 
-###### Articulo 73.
+###### Artículo 73.
 
 Los datos de los servidores públicos serán considerados confidenciales en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato.
 
@@ -839,7 +853,7 @@ Abrogación del reglamento vigente.
 
 Artículo Segundo. Se abroga el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, contenido en el Decreto Gubernativo 238, publicado el 27 de septiembre de 2005, en el Periódico Oficial del Gobierno del Estado número 154, Segunda Parte.
 
-Ultractivídad de disposiciones administrativas
+Ultractividad de disposiciones administrativas
 
 Artículo Tercero. En tanto se expiden las disposiciones administrativas señaladas en el presente Reglamento, se continuarán aplicando las emitidas con anterioridad en lo que no se opongan o contravengan al mismo.
 
@@ -858,3 +872,15 @@ GUSTAVO ADOLFO GONZÁLEZ ESTRADA
 EL SECRETARIO DE LA GESTIÓN PÚBLICA
 
 MIGUEL MÁRQUEZ MÁRQUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE NOVIEMBRE DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 187, MEDIANTE EL CUAL, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los nombramientos temporales que se encuentren vigentes a la entrada en vigor del presente Decreto, se regularán de conformidad con las normas que fueron autorizados.
+
+Artículo Tercero. Los servidores públicos que estén cubriendo su esquema de capacitación a la entrada en vigor del presente Decreto, se regularán conforme a las disposiciones normativas que estuvieron vigentes con anterioridad.
