@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-secretaria-de-finanzas-18283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-16"
-last_updated: "2005-08-27"
+last_updated: "2011-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE SECRETARIA DE FINANZAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, PUBLICADO EN EL P.O. 26 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 16 de septiembre de 2000.
 
@@ -1208,3 +1210,13 @@ P.O. 27 DE AGOSTO DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al siguiente día al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas, publicado en el Periódico Oficial "El Estado de Colima" el 16 de septiembre del año 2000.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Administración, publicado en el Periódico Oficial "El Estado de Colima" el 28 de enero del año 2006.
+
+CUARTO.- Las referencias que se hagan y las atribuciones que se otorgan en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas, a las Unidades Administrativas de la Secretaría de Finanzas y de la Secretaría de Administración que cambian de denominación por virtud de este Reglamento, se entenderán hechas o conferidas a las Unidades Administrativas que correspondan conforme al presente Reglamento.
