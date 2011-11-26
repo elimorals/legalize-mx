@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-administracion-48845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-28"
-last_updated: "2006-01-28"
+last_updated: "2011-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE COLIMA, PUBLICADO EN EL SUPLEMENTO No. 11 DEL P.O. 26 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de enero de 2006.
 
@@ -1162,3 +1164,15 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en la residencia del Poder Ejecutivo Estatal, en la Ciudad de Colima, a los doce días del mes de diciembre del año dos mil cinco.
 
 ATENTAMENTE. ''SUFRAGIO EFECTIVO. NO REELECCION''. LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, GOBERNADOR CONSTITUCIONAL DEL ESTADO. Rúbrica. LIC. JUAN JOSÉ SEVILLA SOLORZANO, SECRETARIO GENERAL DE GOBIERNO. Rúbrica. C.P. LUIS MARIO LEON LÓPEZ, SECRETARIO DE ADMINISTRACIÓN. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas, publicado en el Periódico Oficial "El Estado de Colima" el 16 de septiembre del año 2000.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Administración, publicado en el Periódico Oficial "El Estado de Colima" el 28 de enero del año 2006.
+
+CUARTO.- Las referencias que se hagan y las atribuciones que se otorgan en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas, a las Unidades Administrativas de la Secretaría de Finanzas y de la Secretaría de Administración que cambian de denominación por virtud de este Reglamento, se entenderán hechas o conferidas a las Unidades Administrativas que correspondan conforme al presente Reglamento.
