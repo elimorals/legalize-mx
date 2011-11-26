@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2011-04-01"
+last_updated: "2011-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -67,17 +69,23 @@ Es base del impuesto, el monto total de ingresos percibidos, por la realización
 
 Este impuesto se causará y pagará aplicando a la base que señala el Artículo anterior, la tasa del 2%.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuarán pagos definitivos del impuesto a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará considerando la totalidad de ingresos percibidos en el bimestre.
+El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuaran pagos definitivos del impuesto a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará considerando la totalidad de ingresos percibidos en el bimestre.
 
 ###### Artículo 6.
 
 Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
 
 II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
 
@@ -85,13 +93,21 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto que les sean solicitados dentro del plazo que para ello se fije.
 
-V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaria de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas y Administración, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
 
 VI.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+La Secretaría de Finanzas y Administración podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones, no lleven libros o registros o no expidan la documentación comprobatoria a que están obligados y
 
@@ -99,9 +115,13 @@ II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepci
 
 Para practicar las estimaciones a que hace referencia este Artículo, las autoridades fiscales podrán tomar en cuenta la información reportada a las autoridades educativas del Estado, las cuotas por mensualidades e inscripciones cobradas por establecimientos similares, el número de alumnos activos, la renta del local que ocupa, en su caso, sueldos y honorarios pagados, gastos fijos y otros datos que puedan obtenerse y sean utilizables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 8.
 
-Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, presentarán declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción y en las formas oficiales que para el efecto sean aprobadas por la Secretaria de Finanzas, acompañando a la misma una copia de la declaración anual que debió haberse presentado ante las autoridades federales, de conformidad con las disposiciones fiscales correspondientes.
+Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, presentarán declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción y en las formas oficiales que para el efecto sean aprobadas por la Secretaría de Finanzas y Administración, acompañando a la misma una copia de la declaración anual que debió haberse presentado ante las autoridades federales, de conformidad con las disposiciones fiscales correspondientes.
 
 ###### Artículo 9.
 
@@ -177,11 +197,13 @@ VIII.- Que tratándose de contratos de arrendamiento financiero sólo se conside
 
 IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 días de salario mínimo general de la zona económica correspondiente al Estado de Colima, si se erogan en el extranjero o de 80 días de salario mínimo si se erogan en territorio nacional.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuarán pagos definitivos del impuesto a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará aplicando la tasa del 3%, a la diferencia que resulte de restar a los ingresos percibidos en el bimestre, las deducciones autorizadas en el Artículo 13 de esta Ley.
+El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuarán pagos definitivos del impuesto a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará aplicando la tasa del 3%, a la diferencia que resulte de restar a los ingresos percibidos en el bimestre, las deducciones autorizadas en el Artículo 13 de esta Ley.
 
 ###### Artículo 16.
 
@@ -195,7 +217,11 @@ II.- Las personas físicas, morales o unidades económicas, que recibiendo los s
 
 Los sujetos que obtengan ingresos de los comprendidos en este capítulo, tendrán además las siguientes obligaciones:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas oficiales aprobadas para el efecto, anexando a la solicitud copias del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas oficiales aprobadas para el efecto, anexando a la solicitud copias del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
 
 II.- Pagar los impuestos en la forma y términos establecidos en este capítulo.
 
@@ -203,7 +229,11 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las Autoridades Fiscales, los datos e informes que le sean solicitados dentro del plazo que para ello se les fije.
 
-V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las Autoridades Fiscales de la Secretaria de Finanzas, todos los informes y documentos que le soliciten para el desempeño de sus funciones; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+V.- Recibir las ordenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las Autoridades Fiscales de la Secretaría de Finanzas y Administración, todos los informes y documentos que le soliciten para el desempeño de sus funciones; y
 
 VI.- Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, de conformidad con las disposiciones fiscales federales correspondientes.
 
@@ -211,9 +241,13 @@ VI.- Llevar los libros o registros y expedir la documentación comprobatoria, ta
 
 Los retenedores del impuesto y, en general, quiénes hagan pagos a los contribuyentes del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las Autoridades Fiscales del Estado y recibir las visitas de inspección o permitir la practica de auditorías para verificar el pago correcto de este gravamen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-La Secretaria de Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+La Secretaría de Finanzas y Administración podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones, no lleven los libros o registros, no expidan la documentación comprobatoria a que están obligados; y
 
@@ -221,9 +255,13 @@ II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepci
 
 Para practicar las estimaciones a que se refiere este Artículo se tendrán en cuenta las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, están obligados a presentar declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción y en las formas oficiales que para el efecto sean aprobados por la Secretaría de Finanzas, acompañando a la misma una copia de la declaración anual que por estos ingresos tenga obligación de presentar, de conformidad con las disposiciones fiscales federales correspondientes.
+Los sujetos que obtengan ingresos de los mencionados en el presente capítulo en el año calendario, están obligados a presentar declaración anual durante el mes de mayo del año siguiente, en la Receptoría de Rentas de su jurisdicción en las formas oficiales que para el efecto sean aprobados por la Secretaría de Finanzas y Administración, acompañando a la misma una copia de la declaración anual que por estos ingresos tenga obligación de presentar, de conformidad con las disposiciones fiscales federales correspondientes.
 
 No están obligados a presentar declaración anual, los contribuyentes eventuales, y los pagos provisionales efectuados por estos se consideraran como definitivos.
 
@@ -295,9 +333,11 @@ Para la recaudación de este impuesto, se observaran las siguientes reglas:
 
 I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28, de esta Ley.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- La Receptoría de Rentas respectiva de la Secretaría de Finanzas expedirá el formulario para que el contribuyente efectúe el pago en la propia Receptoría, en las instituciones de crédito o en los establecimientos autorizados.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+II.- La Receptoría de Rentas respectiva de la Secretaría de Finanzas y Administración expedirá el formulario para que el contribuyente efectúe el pago en la propia Receptoría, en las instituciones de crédito o en los establecimientos autorizados.
 
 III.- Las autoridades correspondientes no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos respecto de los cuales no se hubiera cubierto previamente el impuesto a que se refiere este capítulo. Si al solicitar cualquiera de los tramites a que se refiere el párrafo anterior, se llegare a descubrir que la fecha posible de la transmisión de la propiedad del vehículo, difiere aquella en que fue literalmente inscrita la leyenda de cesión, se tomará en cuenta para liquidar los impuestos, determinar y cobrar los recargos e imponer las sanciones que procedan; y
 
@@ -393,45 +433,71 @@ Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de u
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa que corresponda de acuerdo con la clasificación siguiente:
 
-Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se reciban las contraprestaciones.
+I.- Por el servicio de hospedaje en hoteles, paraderos de casas rodantes, servicios de campamento, bungalows, hostales, villas, casas amuebladas y departamentos amueblados, la tasa del 3%; y
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+II.- Por el servicio de hospedaje en moteles, la tasa del 5%.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se reciban las contraprestaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar en los comprobantes que expidan, el monto que corresponda a hospedaje y sobre dicha cantidad calcularán el impuesto.
+
+De no efectuar el desglose del monto correspondiente a hospedaje, los contribuyentes podrán estimar el importe relativo al servicio de hospedaje, sin que en ningún caso pueda ser inferior al 40% del monto total de los servicios comprendidos bajo la modalidad referida en el párrafo anterior, excluyendo las propinas y los impuestos que se trasladen al consumidor.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 E BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto por la Prestación del Servicio de Hospedaje regulado en este capítulo, mediante cuota fija determinada en base a los ingresos gravables estimados por la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 E BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto por la Prestación del Servicio de Hospedaje regulado en este capítulo, mediante cuota fija determinada en base a los ingresos gravables estimados por la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, en los mismos plazos que se autorice pagar la cuota estimada del Impuesto Sobre la Renta.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando los ingresos del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra la modificación.
 
-También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en los ingresos estimados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas y Administración, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en los ingresos estimados.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 Artículo 41 F.- Los contribuyentes de este impuesto tendrán además de las señaladas en otros artículos, las siguientes obligaciones:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
 
 II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
 
@@ -439,17 +505,31 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto, que les sean solicitados dentro del plazo que para ello se fije.
 
-V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas y Administración, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
 
 VI.- Llevar los libros o registros y expedir documentación comprobatoria de las operaciones gravadas, de conformidad con las disposiciones fiscales federales correspondientes.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 G.- La Secretaría de Finanzas podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 G.- La Secretaría de Finanzas y Administración podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 I.- Cuando los contribuyentes no registren en la contabilidad cada una de las percepciones gravadas;
 
-II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Finanzas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Finanzas y Administración; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 III.- Cuando se imposibilite por cualquier medio el conocimiento de las operaciones realizadas por servicios objeto de este impuesto.
 
@@ -457,31 +537,107 @@ III.- Cuando se imposibilite por cualquier medio el conocimiento de las operacio
 
 Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
+### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos Permitidos
 
-Artículo 41 H.- Es objeto de este impuesto la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando los mismos hubieran sido cobrados en el territorio del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Tratándose de premios obtenidos por la participación en loterías, rifas, sorteos y concursos realizados por personas o instituciones que tengan su domicilio principal en la entidad, distintos a los organismos descentralizados del gobierno federal, el impuesto se causará en el Estado de Colima independientemente del lugar donde se realice la entrega física de los premios.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+Artículo 41 H.- Es objeto de este impuesto:
 
-Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas sin personalidad jurídica, que perciban ingresos o premios a que se refiere el artículo anterior. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto, deberán retener el impuesto que se cause en el momento en que efectúen la entrega de los premios.
+I.- La obtención de premios por la participación en loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, cuando los mismos hubieran sido cobrados en el territorio del Estado; y
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+II.- Los ingresos que se perciban por la celebración de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos.
 
-Artículo 41 J.- Es base de este impuesto, el valor del premio o premios obtenidos con motivo de la participación en loterías, rifas, sorteos y concursos de toda clase. Cuando los premios se reciban en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+El pago de este impuesto no libera de la obligación de obtener previamente los permisos o autorizaciones correspondientes.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el artículo anterior, la tasa del 6%, sin deducción alguna.
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+Artículo 41 H BIS.- Para los efectos de este impuesto se entiende por:
 
-Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
+I.- Concurso, todo evento en el que para participar sean necesarias habilidades o aptitudes físicas, literarias, musicales, artísticas, académicas, deportivas o de cualquier otra índole que resulten indispensables y acordes al objetivo del mismo, cuya participación tenga como fin la obtención de un premio;
+
+II.- Rifa, lotería o sorteo, todo evento o actividad en el cual se participe mediante un boleto, billete, contraseña o cualquier otro comprobante y en el que el premio se obtenga por azar; y
+
+III.- Juegos con cruce de apuestas legalmente permitidas, todos los permitidos y autorizados de conformidad con la Ley Federal de Juegos y Sorteos u ordenamiento legal que los regule y las disposiciones que de ellos emanen.
+
+No se considerará como premio el reintegro correspondiente al billete que permitió participar en loterías.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 H BIS 1.- Este impuesto se causará:
+
+I.- Para el caso de lo previsto en la fracción I del Artículo 41 H, en el momento en que se efectúe el pago o entrega del premio por parte de quien celebre el evento de que se trate; y
+
+II.- Para el caso de lo previsto en la fracción II del Artículo 41 H, en el momento en que se celebre el evento de lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitido (sic).
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 I.- Son sujetos de este impuesto las personas físicas, las personas morales y las unidades económicas sin personalidad jurídica que habitual u ocasionalmente:
+
+I.- Celebren loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, aún cuando el evento se realice fuera del Estado;
+
+II.- Reciban o registren apuestas dentro del Estado, independientemente de que el organizador del evento esté fuera del Estado y/o el desarrollo sea fuera del territorio del mismo;
+
+III.- Reciban premios derivados de su participación en juegos con apuesta legalmente permitidos, incluidas las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las apuestas a que se refiere la fracción inmediata anterior; y
+
+IV.- Reciban premios derivados de su participación en loterías, rifas, sorteos y concursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 I BIS.- Se exceptúan de lo señalado en las fracciones I y II del Artículo 41 I de esta Ley, en relación a lo dispuesto en el Artículo 41 H, fracción II, de este ordenamiento, los organismos descentralizados de la Administración Pública Federal, Estatal y Municipal, cuya finalidad sea la obtención de recursos para destinarlos a la asistencia pública, así como las instituciones de beneficencia pública y de asistencia privada, legalmente reconocidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 I BIS 1.- En el caso de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, cuyos premios sean entregados en efectivo, las personas físicas, las personas morales o las unidades económicas sin personalidad jurídica señaladas en las fracciones I y II del Artículo 41 I de esta Ley, están obligados a retener el impuesto que causen los sujetos mencionados en las fracciones III y IV de ese mismo artículo, al momento de la entrega del premio en efectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 J.- La base de este impuesto será:
+
+I.- Para lo señalado en la fracción I del artículo 41 H de esta Ley, el valor del premio o premios obtenidos; y
+
+II.- En el caso de la fracción II del artículo 41 H de esta Ley, el valor total de los boletos, billetes, contraseñas o de cualesquiera otros instrumentos que permitan la participación en loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, que hayan sido distribuidos o enajenados para el evento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el Artículo 41 J de esta Ley, la tasa del 6.0%, sin deducción alguna.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo. 41 L.- El impuesto causado y/o retenido conforme a lo dispuesto por los Artículos 41 H BIS 1 y 41 I BIS I, deberá ser pagado por las personas físicas, las personas morales y las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 I, fracciones I y II, mediante declaración definitiva que presentarán en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquel en que se causó y/o retuvo el impuesto, en los formatos aprobados para el efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 L BIS.- Quienes celebren loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, tendrán además de las obligaciones señaladas en el Código Fiscal del Estado y en los artículos que anteceden del presente Capítulo, las siguientes:
+
+I.- Proporcionar al interesado constancia de retención del impuesto cuando así lo solicite la persona que obtenga el premio;
+
+II.- Acumular la información de todos los establecimientos que operen en el territorio estatal, en la declaración que corresponda a su domicilio fiscal en el Estado de Colima; y
+
+III.- Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -523,23 +679,37 @@ Artículo 41 P.- Es base de este impuesto el monto total de las erogaciones efec
 
 Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 2%.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 Los contribuyentes deberán presentar declaraciones aun cuando no exista impuesto a pagar, mientras no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 R BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto Sobre Nóminas regulado en este capítulo, mediante cuota fija determinada por la Receptoría de Rentas correspondiente de la Secretaría de Finanzas, en base a las erogaciones manifestadas por el contribuyente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 R BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto Sobre Nóminas regulado en este capítulo, mediante cuota fija determinada por la Receptoría de Rentas correspondiente de la Secretaría de Finanzas y Administración, en base a las erogaciones manifestadas por el contribuyente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, en los mismos plazos que se autorice pagar la cuota estimada del Impuesto Sobre la Renta.
 
-La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando las erogaciones del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas, en el bimestre siguiente a aquel en que ocurra la modificación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en las erogaciones estimadas.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando las erogaciones del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas y Administración, en el bimestre siguiente a aquél en que ocurra la modificación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas y Administración, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en las erogaciones estimadas.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -921,11 +1091,11 @@ Tratándose de motocicletas de más de diez años modelo (sic) anteriores al de 
 
 Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 Y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Finanzas publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
+Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Finanzas y Administración publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1109,9 +1279,11 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 #### SECCION QUINTA. Del pago
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circular sin placas o alta del vehículo. El pago se realizará en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circular sin placas o alta del vehículo. El pago se realizará en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1143,11 +1315,11 @@ VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotr
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
+Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1155,11 +1327,11 @@ Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refi
 
 #### SECCION SEPTIMA. Otras obligaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Finanzas a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
+Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Finanzas y Administración a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -1171,11 +1343,13 @@ Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autoriza
 
 Los derechos por la prestación de servicios públicos, se causaran en el momento en que el particular reciba el servicio, salvo que la disposición que fije el derecho señale cosa distinta.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 43.
 
-El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1197,13 +1371,19 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
+### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas y Administración
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
 
 Por los servicios prestados en la Dirección General de Gobierno se pagarán los derechos siguientes:
 
-Numero de días de salarios mínimos
+Numero de días
+
+de salario mínimo
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -1295,73 +1475,9 @@ XVII.- Complementación de actas del Registro Civil 1,000
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIX.- Por la prestación de servicios relacionados con la autorización para la operación y vigilancia de empresas de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
-
-a).- Por el estudio y trámite de la solicitud para la autorización 97.625
-
-b).- Por el otorgamiento de la autorización para prestar los servicios de vigilancia en inmuebles 97.625
-
-c).- Por el otorgamiento de la autorización para prestar los servicios de traslado y custodia de bienes y valores 125.520
-
-d).- Por el otorgamiento de la autorización para prestar los servicios de traslado y protección de personas 97.625
-
-e).- Por el otorgamiento de la autorización para prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.785
-
-f).- Por el otorgamiento de la autorización para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad 83.680
-
-g).- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.520
-
-h).- Por el otorgamiento de la revalidación o renovación anual para el servicio de vigilancia en inmuebles:
-
-1.- Prestadoras con nómina de 1 a 25 elementos 125.520
-
-2.- Prestadoras con nómina de 26 a 50 elementos 167.360
-
-3.- Prestadoras con nómina de 51 a 100 elementos 251.045
-
-4.- Prestadoras con nómina de 101 a 200 elementos 348.675
-
-5.- Prestadoras con nómina de 201 en adelante 418.410
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-i).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y custodia de bienes o valores 150.675
-
-j).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y protección de personas 139.470
-
-k).- Por el otorgamiento de la revalidación o renovación anual para el servicio de localización en información sobre personas físicas o morales y bienes 111.575
-
-l).- Por el otorgamiento de la revalidación o renovación anual para el servicio de establecimiento y operación de sistemas y equipos de seguridad 125.520
-
-m).- Por el otorgamiento de la revalidación o renovación anual de cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.520
-
-n).- Por la inscripción del personal en el registro de la Secretaría General de Gobierno, por cada elemento que se inscriba 0.835
-
-ñ).- Por la consulta de antecedentes laborales de cada elemento 0.418
-
-o).- Por la expedición de la credencial única de personal o por su resello anual 0.555
-
-p).- Por cambio de representante legal de la prestadora 55.785
-
-q).- Por cada cambio en la titularidad de las acciones o partes sociales de la prestadora 55.785
-
-r).- Por la ampliación o cambio de la modalidad del servicio:
-
-1.- Por prestar los servicios de vigilancia en inmuebles 97.625
-
-2.- Por prestar los servicios de traslado y custodia de bienes y valores 125.520
-
-3.- Por prestar los servicios de traslado y protección de personas 97.625
-
-4.- Por prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.785
-
-5.- Por prestar los serv. de establecimiento y operación de sistemas y equipos de seguridad 83.680
-
-6.- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.520
-
-s).- Por cada curso de capacitación básico, por cada elemento del personal operativo 6.970
+XIX.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2011)
 
 XX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
@@ -1397,59 +1513,11 @@ XXIX.- Aclaración y complementación de actas del Registro Civil. 7.000
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 49.
 
-Por los servicios prestados en la Dirección de Seguridad Pública.
-
-Numero de días de
-
-salario mínimo
-
-I.- Almacenaje de vehículos en los depósitos de la Dirección, por día:
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
-
-a).- Camiones con capacidad de carga de 3,000 Kg. en adelante y autobuses 0.550
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
-
-b).- Camiones con capacidad de carga menor a 3,000 Kg. 0.350
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
-
-c).- Automóviles 0.250
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
-
-d).- Motocicletas 0.100
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
-
-e).- Bicicletas 0.050
-
-II.- Por servicios de grúa:
-
-a).- Dentro y fuera de la ciudad 4.500
-
-Más:
-
-1.- Por kilómetro recorrido en camino asfaltado 0.225
-
-2.- Por kilómetro recorrido en camino de terracería o brecha 0.270
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997) (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2000)
-
-3.- Por cada hora de maniobras 2.250
-
-III.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
-
-IV.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
-
-V.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
-
-VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 50.
 
@@ -1459,17 +1527,21 @@ Numero de días de salario
 
 mínimo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Expedición y reposición de licencia para manejar vehículos de motor con vigencia de cuatro años e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+I.- Expedición y reposición de licencias para conducir vehículos con motor con vigencia de cuatro años e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 a).- Automovilista 9.000
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b).- Chofer clase I y II 7.830
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+b).- Chofer clase I, II y conductor de servicio 7.830
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1491,29 +1563,35 @@ Los adultos en plenitud acreditarán ser de escasos recursos económicos, median
 
 II.- Por la expedición de concesión a vehículos de servicio público, conforme a la siguiente clasificación:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento puro 440.000
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+a).- De ruta y taxi 440.000
 
-b).- Materialistas y carga en general 142.550
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+b).- Materialista 142.550
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 c).- Escuelas de manejo 89.100
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d).- Servicio exclusivo funerario 106.880
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 26,120
+d).- Servicio funerario 106.880
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-f).- De transporte de agua 60.000
+e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 26.120
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+f).- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1527,45 +1605,85 @@ Los derechos que establece esta fracción deberán cubrirse dentro de los 30 dí
 
 En el caso de cesión o traspaso de la concesión, si ésta se realiza entre cónyuges y ascendientes o descendientes en línea recta en primer grado, se pagará el 20% de la cuota que corresponda a los incisos anteriores.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Por la revalidación de concesión de vehículos de sitio, ruta, y aquellos cuya prestación este sujeta a contrato de arrendamiento o que requieran de autorización especial, anualmente:
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+II BIS.- Por expedición de permisos a vehículos de servicio privado, mercantil y de transporte de personal, conforme a la siguiente clasificación:
 
-a).- Por cada vehículo de sitio y escuelas de manejo 18.000
+a).- Servicio sujeto a arrendamiento con o sin chofer 52.000
+
+b).- Servicio de transporte de personal 88.000
+
+c).- Servicio de transporte mercantil de mensajería y paquetería 20.000
+
+d).- Servicio de transporte de valores o de seguridad privada 88.000
+
+e).- Servicio privado de transporte de pasajeros y sus pertenencias 88.000
+
+f).- Servicio mercantil ambulancia (sic) 88.000
+
+g).- Servicio de transporte de agua en pipa 30.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+III.- Por la revalidación anual de concesión o permiso:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+a).- Por cada taxi y vehículo para escuela de manejo 18.000
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 b).- Por cada vehículo de ruta 18.000
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c).- Por cada vehículo cuya prestación este sujeta a contrato de arrendamiento puro 38.000
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+c).- Por cada vehículo sujeto a arrendamiento con o sin chofer 38.000
 
-d) Por cada vehículo que preste servicio de carga y materialista 18.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-e).- Por cada vehículo exclusivo funerario 18.000
+d) Por cada vehículo que preste servicio de materialista 18.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+e).- Por cada vehículo de servicio funerario 18.000
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 4.000
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-g).- Por cada vehículo de transporte de agua 12.000
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+g).- Por cada vehículo de transporte de agua en pipa 12.000
 
-h).- Por cada vehículo de servicio mixto 18.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+h).- Por cada vehículo de servicio mixto de carga y pasaje 18.000
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 i).- Por cada unidad de plataforma y pluma de grúa 18.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+j).- Por cada vehículo de servicio turístico 18.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1623,45 +1741,37 @@ Los adultos en plenitud acreditarán ser de escasos recursos económicos, median
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 VI.- Por la expedición de permisos provisionales:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+a).- Para manejar automóviles:
 
-a).- Para manejar automóviles, por el primer permiso por 6 meses 6.000
+1.- Por el primer permiso, por 6 meses 6.000
 
-1.- Por el segundo permiso, por 6 meses 6.000
+2.- Por el segundo permiso, hasta por seis meses 7.000
 
-2.- Por el tercer permiso, hasta por un año 6.000
+3.- Por el tercer permiso, hasta por un año 8.000
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+b).- Para circular sin placas:
 
-b).- Para circular sin placas, por el primer permiso de 30 días 6.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-1.- Por el segundo permiso, por 30 días 12.000
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+1.- Por primer permiso, por 30 días 6.000
 
 2.- Permisos de traslado, hasta por 5 días 6.000
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+3.- Permiso de traslado, por día adicional 2.000
 
-3.- Permisos de traslado, por día adicional 2.000
+4.- Permiso de demostración vehicular 11.000
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+c).- Para manejar motocicletas, trimotos, cuatrimotos, y otros vehículos similares:
 
-c).- Para manejar motocicletas y otros vehículos similares, como trimotos, cuatrimotos, etc., por el primer permiso de 6 meses 3.000
+1.- Por el primer permiso, por 6 meses 6.000
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+2.- Por el segundo permiso, por 6 meses 7.000
 
-1.- Por el segundo permiso, por 6 meses 3.000
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-2.- Por el tercer permiso, hasta por un año 3.000
+3.- Por el tercer permiso, hasta por un año 8.000
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1717,17 +1827,11 @@ De requerirse la utilización de reactivos y apoyo de laboratorio, si se confirm
 
 XIV.- Por la colocación temporal de dispositivo físico de monitoreo a vehículos que transportan productos o sustancias peligrosas, por evento 100.000
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 51.
 
-Por los servicios prestados en la Dirección General de Prevención y Readaptación Social.
-
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2001)</small>
-
-I.- Por la expedición de certificado de no antecedentes penales:
-
-a).- En las oficinas de la Dirección 1.000
-
-b).- En los Kioscos de Servicios e Información 0.830
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -1791,9 +1895,11 @@ ni el máximo superior a 2,162.00
 
 No será exigible la presentación del avalúo comercial o bancario, si no son requeridos en la operación que se registra.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, sobre el monto total de las rentas pactadas durante el período de vigencia del contrato, se pagará la tasa del 0.3%, sin que el mínimo sea inferior a 6.000
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, así como la servidumbre de paso sobre el monto total de las rentas pactadas y/o de la prestación recibida durante el período de vigencia del contrato, se pagará la tasa del 0.3%, sin que el mínimo sea inferior a 6.000
 
 ni el máximo superior a 136.000
 
@@ -1813,11 +1919,13 @@ Se excluyen de pago los convenios modificatorios de gravámenes ya inscritos, si
 
 Si con motivo de la celebración de convenios modificatorios se cambia la garantía original otorgada, se causarán los derechos por inscripción de gravámenes a que se refiere esta fracción.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se causará la tasa del 0.3%, sin que el mínimo sea inferior a 6.000
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-ni el máximo superior a 541.000
+V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se causará la tasa del 0.3%, sin que el mínimo sea inferior a 6.000
+
+ni el máximo superior a 7.000
 
 En caso de sociedades anónimas constituidas en la modalidad de capital variable, solo se causarán, los derechos mencionados cuando dichas modificaciones se refieran al capital social fijo.
 
@@ -1825,11 +1933,13 @@ Cuando se presente para su inscripción una escritura o protocolización de acta
 
 Lo dispuesto en el párrafo anterior, es aplicable también para la fracción siguiente.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se cobrará el 0.2 %, sin que el mínimo sea inferior a 9.000
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-ni el máximo superior a 139.000
+VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se cobrará la tasa del 0.3 %, sin que el mínimo sea inferior a 9.000
+
+ni el máximo superior a 7.000
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -2111,7 +2221,11 @@ a1).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
 2.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-b).- Expedición de certificados de existencia o inexistencia de gravámenes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+b).- Expedición de certificados de existencia o inexistencia de gravámenes 3.500
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2121,33 +2235,43 @@ b).- Expedición de certificados de existencia o inexistencia de gravámenes:
 
 2.- De once a más años anteriores 4.202
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 1.310
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 1.000
 
-Sin que exceda el cobro de un monto máximo de 5.105
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Sin que el máximo sea superior a 5.105
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 b1).- Expedición de certificados de existencia o inexistencia de gravámenes en los Kioscos de Servicios e Información:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-1.- Si el predio no tiene gravámenes 4.070
+(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+1.- Si el predio no tiene gravámenes 3.500
 
-2.- Si el predio tiene gravámenes 6.110
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-c).- Expedición de certificados de no inscripción de propiedad 4.620
+2.- Si el predio tiene gravámenes 5.110
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d).- Expedición de constancias de registro, independientemente de la búsqueda 4.620
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+c).- Expedición de certificados de no inscripción de propiedad solicitados vía internet o en ventanilla 4.620
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+d).- Expedición de constancias de registro independientemente de la búsqueda, solicitadas vía internet o en ventanilla 4.620
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2157,9 +2281,11 @@ e).- Expedición mecanografiada de constancias de registro, por cada hoja escrit
 
 f).- Expedición de constancias en copia fotostática certificadas 8.500
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-g).- Expedición de copias fotostáticas simples de constancias de registro 5.500
+(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
+
+g).- Expedición de copias fotostáticas simples de constancias de registro 4.500
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -2171,33 +2297,19 @@ XXX.- Tratándose de escritura pública de inscripción y cancelación, otorgado
 
 XXXI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 52 BIS.- Por los servicios prestados en el Centro Estatal de Evaluación y Confianza por concepto de evaluaciones especiales o extraordinarias al personal de seguridad privada, según tipo:
+Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-Número de
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-días de salario
-
-mínimo
-
-a).- Poligráfica. 22.970
-
-b).- Psicológica. 8.840
-
-c).- Médica. 5.300
-
-d).- Antidoping. 3.530
-
-e).- Investigación socioeconómica. 8.840
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
 
 ###### Artículo 53.
 
-Por los servicios prestados en la Dirección de Ingresos:
+Por los servicios prestados en la Dirección General de Ingresos:
 
 Numero de días de salario mínimo
 
@@ -2227,253 +2339,11 @@ Los adultos en plenitud acreditarán ser de escasos recursos económicos, median
 
 V. - (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 54.
 
-Por los servicios prestados en la Dirección de Catastro:
-
-Numero de días de
-
-salarios mínimos
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-I.- Copias fotostáticas:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Copia fotostática certificada de planos generales de:
-
-1.- COLIMA-VILLA DE ALVAREZ 4.050
-
-2.- COLIMA-VILLA DE ALVAREZ REDUCCION 2.700
-
-3.- MANZANILLO 5.850
-
-4.- MANZANILLO REDUCCION 3.600
-
-5.- OTRAS POBLACIONES 2.250
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-b).- Copia fotostática certificada de un predio con Acotaciones 3.600
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-c).- Copia fotostática certificada de plano manzanero 3.600
-
-d).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2004)
-
-1.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2004)
-
-2.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2004)
-
-e).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2004)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-f).- Plano manzanero 1:500, graficado y certificado 5.000
-
-g).- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2005)
-
-h).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-i).- Por copia fotostática de cada fotografía de contacto en formato 23x23cm. escala 1:4500 1.000
-
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
-
-j).- Copia fotostática de planos de predios rústicos:
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-1.- Hasta 1-00-00 hectárea 5.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-2.- De 1-00-01 a 3-00-00 hectáreas 7.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-3.- De 3-00-01 a 5-00-00 hectáreas 10.000
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-4.- Más de 5-00-00 hectáreas 13.000
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-k).- Por cada copia de tarjetas de registro a solicitud del interesado 2.500
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-l).- Por cada copia de traslado de dominio a solicitud del interesado 2.500
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-m).- Por expedición de copias de avalúos catastrales 3.000
-
-n).- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2005)
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-ñ).- Por cada copia fotostática de planos de fraccionamiento 4.600
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-o). Copia fotostática simple por mancha ejidal y por hoja. 2.300
-
-II.- Certificaciones:
-
-a).- Certificaciones de documentos catastrales a solicitud del interesado 1.800
-
-b).- Certificación catastral de un predio para tramitar
-
-juicio a favor del poseedor 9.000
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2001)</small>
-
-c).- Constancia certificada de inscripción o no en los registros catastrales:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-1.- En las oficinas de la Dirección 0.600
-
-2.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-III.- Avalúos y mediciones:
-
-a).- Por avalúo o rectificación de avalúo de predio urbano a solicitud del interesado:
-
-1.- Hasta un valor catastral equivalente a 3.814 días de salario mínimo 2.000
-
-2.- Cuando el valor catastral esté entre 3.815 y 4.964 días de salario mínimo 2.500
-
-3.- Cuando el valor catastral esté entre 4.965 y 6.616 días de salario mínimo 3.500
-
-4.- Más de un valor catastral equivalente a 6.616 días de salario mínimo, se pagará sobre dicho valor, el 0.1%
-
-b).- Por avalúo o rectificación de avalúo de predio rústico que se practique sobre plano levantado y firmado por el perito responsable incluyendo clasificación de suelo; a solicitud del interesado:
-
-1.- Hasta un valor catastral equivalente a 3.814 días de salario mínimo 2.000
-
-2.- Cuando el valor catastral este entre 3.815 y 4964 días de salario mínimo 2.500
-
-3.- Cuando el valor catastral esté entre los 4.965 y 6.116 días de salario mínimo 3.500
-
-4.- Más de un valor catastral equivalente a 6.116 días de salario mínimo, se pagará sobre dicho valor, el 0.1%
-
-c).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-d).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-e).- Cuando por motivo de una solicitud de rectificación o asignación de coordenadas geodésicas, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
-
-1.- En la ciudad de las oficinas catastrales 1.800
-
-2.- Fuera de la ciudad de oficinas centrales 1.800
-
-Más, por cada kilometro recorrido 0.090
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-f).- Por cada asignación o punto de coordenadas geodésicas para la orientación de fraccionamientos 10.000
-
-g).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
-
-IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 1993)</small>
-
-V.- Por derechos de registro y expedición de
-
-credencial de perito valuador 15.00
-
-a).- Refrendo anual 10.00
-
-VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-VII.- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas urbanas:
-
-a).- Archivos DXF (manzanas, predios y nomenclaturas de calles) 75.000
-
-b).- Por cada capa adicional 20.000
-
-VIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-IX.- Por la impresión de archivos digitales.
-
-a).- Plano general a diferentes escalas: 8.000
-
-1.- Graficado y certificado incluyendo manzanas, predios y calles 8.000
-
-2.- Por cada impresión de hasta 1.10 X 0.84 Mts 8.000
-
-3.- Por cada capa adicional al plano general 2.500
-
-4.- Por cada impresión de hasta 1.10 X 0.84 Mts 2.500
-
-b).- Por la expedición de planos de predios urbanos con medidas, superficie y nombre de calles:
-
-1.- Sin nombre de colindantes 3.600
-
-2.- Con nombres de colindantes 4.600
-
-c).- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
-
-1.- Manzanas, predios y nombre de calles 5.000
-
-2.- Predios rústicos, vías de comunicación, hidrografía 5.000
-
-3.- Por cada nombre de colindante o propietario 0.700
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
-
-X.- Por cartografía en formato digital por cada mancha urbana que incluya:
-
-a).- Archivo en formato "Shape", manzanas y predios 100.000
-
-b).- Por cada capa adicional 50.000
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-XI.- Por cartografía a escala 1:1,000 en formato digital de los distintos polígonos ejidales parcelarios o solares, así como de predios de pequeña propiedad por municipio:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Archivos en formaros DXF (predios) 75.000
-
-b).- Por cada capa adicional 20.000
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-XII.- Por cartografía en formato digital por cada mancha ejidal parcelaria o solar, así como de predios de pequeña propiedad por municipio:
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-a).- Archivos en formaros SHAPE (predios) 100.000
-
-b).- Por cada capa adicional 50.000
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
-
-XIII.- Por búsqueda en los archivos históricos catastrales 1.000
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3093,7 +2963,7 @@ más, por cada unidad que integre el condominio 25.000
 
 Artículo 55 A.- Por los servicios prestados en la Dirección de Ecología.
 
-NUMERO DE DIAS DE SALARIO MINIMO
+Número de días de salario mínimo
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -3241,7 +3111,19 @@ XV.- Por la recepción y evaluación de la solicitud y otorgamiento del dictamen
 
 XVI.- Por la recepción, evaluación y otorgamiento de la cédula de operación anual a las fuentes fijas de jurisdicción estatal 10.000
 
-No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII del este (sic) artículo cuando los servicios de que se trate estén destinados a la realización de obras públicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVII.- Por la recepción, evaluación y otorgamiento de la resolución de la determinación del plan de manejo de residuos especiales 15.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Por la revalidación de la resolución del plan de manejo de residuos especiales 5.000
+
+No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII del (sic) este artículo, cuando los servicios de que se trate estén destinados a la realización de obras públicas.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3269,7 +3151,113 @@ IV.- Expedición de credencial de identificación con vigencia por Tres años 1.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO VII BIS. Secretaría de Seguridad Pública
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Artículo 62 BIS.- Por los servicios prestados en la Secretaría de Seguridad Pública, se pagarán los derechos siguientes:
+
+Número de días
+
+de salario mínimo
+
+I.- Almacenaje de vehículos, por día:
+
+a).- Camiones con capacidad de carga de 3,000 Kg. en adelante y autobuses 0.550
+
+b).- Camiones con capacidad de carga menor a 3,000 Kg 0.350
+
+c).- Automóviles 0.250
+
+d).- Motocicletas 0.100
+
+e).- Bicicletas 0.050
+
+II.- Por servicios de grúa:
+
+a).- Dentro y fuera de la ciudad 4.500
+
+Más:
+
+1.- Por kilómetro recorrido en camino asfaltado 0.225
+
+2.- Por kilómetro recorrido en camino de terracería o brecha 0.270
+
+3.- Por cada hora de maniobras 2.250
+
+III.- Por la expedición de certificado de no antecedentes penales:
+
+a).- En las oficinas de la dependencia 1.000
+
+b).- En los Kioscos de Servicios e información 0.830
+
+IV.- Por la prestación de servicios relacionados con la autorización para la operación y vigilancia de empresas de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
+
+a).- Por el estudio y tramite de la solicitud para la autorización 97.625
+
+b).- Por el otorgamiento de la autorización para prestar los servicios de vigilancia en inmuebles 97.625
+
+c).- Por el otorgamiento de la autorización para prestar los servicios de traslado y custodia de bienes y valores 125.052
+
+d).- Por el otorgamiento de la autorización para prestar los servicios de traslado y protección de personas 97.625
+
+e).- Por el otorgamiento de la autorización para prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.785
+
+f).- Por el otorgamiento de la autorización para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad 83.680
+
+g).- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.052
+
+h).- Por el otorgamiento de la revalidación o renovación anual para el servicio de vigilancia en inmuebles:
+
+1.- Prestadoras con nómina de 1 a 25 elementos 125.052
+
+2.- Prestadoras con nómina de 26 a 50 elementos 167.360
+
+3.- Prestadoras con nómina de 51 a 100 elementos 251.040
+
+4.- Prestadoras con nómina de 101 a 200 elementos 348.670
+
+5.- Prestadoras con nómina de 201 en adelante 418.410
+
+i).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y custodia de bienes o valores 150.675
+
+j).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y protección de personas 138.470
+
+k).- Por el otorgamiento de la revalidación o renovación anual para el servicio de localización en información sobre personas físicas o morales y bienes 111.570
+
+l).- Por el otorgamiento de la revalidación o renovación anual para el servicio de establecimiento y operación de sistemas y equipos de seguridad 125.052
+
+m).- Por el otorgamiento de la revalidación o renovación anual de cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 125.052
+
+n).- Por la inscripción del personal en el registro de la Secretaría General de Gobierno, por cada elemento que se inscriba 0.830
+
+ñ).- Por la consulta de antecedentes laborales de cada elemento 0.410
+
+o).- Por la expedición de la credencial única de personal o por su resello anual 0.550
+
+p).- Por cambio de representante legal de la prestadora 55.780
+
+q).- Por cada cambio en la titularidad de las acciones o partes sociales de la prestadora 55.780
+
+r).- Por la ampliación o cambio de la modalidad del servicio:
+
+1.- Por prestar los servicios de vigilancia en inmuebles 97.620
+
+2.- Por prestar los servicios de traslado y custodia de bienes y valores 125.052
+
+3.- Por prestar los servicios de traslado y protección de personas 97.620
+
+4.- Por prestar los servicios de localización e información sobre personas físicas o morales y bienes 55.780
+
+5.- Por prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad 83.680
+
+6.- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada 251.040
+
+s).- Por cada curso de capacitación básico, por cada elemento del personal operativo 6.970
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ###### Artículo 57.
 
@@ -3541,11 +3529,11 @@ b).- Licenciatura:
 
 c).- Posgrado, única oportunidad 6.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+(ACTUALIZADA EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-IV.- Por expedición de duplicados de certificados de estudios 2.500
+IV.- Por expedición de duplicados de certificados de estudios 3.250
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3573,13 +3561,17 @@ VIII.- Por la inscripción semestral o ciclo equivalente a estudios de postgrado
 
 a).- Especialidad 160.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-b).- Maestría 172.000
+b).- Maestría 189.000
 
-c).- Doctorado 180.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
+
+c).- Doctorado 198.000
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -3745,9 +3737,7 @@ Los ingresos que se obtengan de los diversos conceptos establecidos en el presen
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO IX. Otros Derechos
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 61.
 
@@ -3757,57 +3747,155 @@ Número de días
 
 de salario mínimo
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
 I.- Opinión técnica para el funcionamiento de
 
-establecimientos con venta de alimentos. 4.000
+establecimientos:
 
-II.- Opinión técnica para el funcionamiento
+a).- Con venta de alimentos 4.000
 
-de establecimientos con venta de alimentos
+b).- Con venta de alimentos y bebidas alcohólicas 8.000
 
-y bebidas alcohólicas. 6.000
+c).- Con venta de bebidas alcohólicas 12.000
 
-III.- Opinión técnica para el funcionamiento de
+d).- De insumos para la salud 4.000
 
-establecimientos con venta de bebidas alcohólicas. 10.000
+e).- De servicios de salud 6.000
 
-IV.- Constancia del curso de capacitación de
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-manejo higiénico de alimentos. 2.000
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+II.- Capacitación de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, por persona 16.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+III.- Expedición de constancia por persona del curso de manejo y dispensación de medicamentos a propietarios y/o empleados de farmacias, droguerías y boticas con venta de medicamentos en general, impartida por instructor autorizado que cuente con clave alfanumérica 8.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Constancia del curso de capacitación de buenas prácticas de higiene y/o manejo higiénico de alimentos 2.000
 
 V.- Solicitud de cursos de capacitación del
 
-interesado por persona. 30.000
+interesado por persona 30.000
 
 VI.- Constancia de destrucción de productos
 
-que puedan ser nocivos para la salud pública. 10.000
+que puedan ser nocivos para la salud pública 10.000
 
-VII.- Solicitud de visita de verificación. 10.000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+VII.- Solicitud de visita de verificación:
+
+a).- Sin toma de muestra 10.000
+
+b).- Con toma de muestra 13.000
 
 VIII.- Por reposición de aviso de apertura
 
-o establecimiento. 2.000
+o establecimiento 2.000
 
 IX.- Por autorización de libros de bancos de
 
-sangre y transfusión sanguínea. 10.000
+sangre y transfusión sanguínea 10.000
 
 X.- Por autorización de libros de control de
 
-estupefacientes y psicotrópicos. 6.000
+estupefacientes y psicotrópicos 6.000
 
-XI.- Por reposición de licencia sanitaria. 6.000
+XI.- Por reposición de licencia sanitaria 6.000
 
-XII.- Permiso sanitario para exhumación o
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-traslado de cadáveres. 4.000
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XII.- Por autorización de cremación de cadáveres, de seres humanos, sus partes y restos áridos 4.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XIII.- Autorización para traslado de cadáveres:
+
+a).- De un municipio a otro municipio del estado 2.000
+
+b).- A otra entidad federativa 4.000
+
+c).- A otro país 10.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XIV.- Autorización para exhumación de cadáveres y restos áridos para ser reinhumados:
+
+a).- En el mismo panteón 4.000
+
+b).- En otros municipios del estado 7.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XV.- Por la revisión y autorización de planos de construcción:
+
+a).- Casa habitación, edificios para viviendas y escuelas, por metro cuadrado 0.030
+
+b).- Establecimientos comerciales, industriales, de servicio y similares, por metro cuadrado 0.200
+
+c).- Fraccionamientos, por metro cuadrado 0.100
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVI.- Asesoría para la elaboración de la etiqueta de productos de uso y consumo humano 4.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVII.- Autorización de clave para la impartición del curso de manejo y dispensación de medicamentos por instructor autorizado 25.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XVIII.- Solicitud para emisión de código de barras para prescribir estupefacientes 15.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XIX.- Consulta en materia de sanidad internacional 4.000
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
 
 ###### Artículo 62.
 
 (DEROGADO, P.O. 27 DE JULIO DE 1996)
 
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+### CAPITULO IX. Otros Derechos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
 
@@ -3833,23 +3921,31 @@ Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará 
 
 Artículo 64 D.- Las personas físicas y las morales que realicen las actividades señaladas en el artículo 64 A, tendrán las siguientes obligaciones:
 
-1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Finanzas autorice.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Finanzas y Administración autorice.
 
 3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
 
 4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
 
-5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas y Administración, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
 
 6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
@@ -3893,11 +3989,13 @@ IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 64.
 
 Por otros Servicios prestados en las dependencias del Gobierno del Estado:
 
-número de días
+Número de días
 
 de salario Mínimo
 
@@ -3925,13 +4023,193 @@ b).- Por cada hoja más o fracción 0.270
 
 II.- Servicios de vigilancia e inspección de Obra Pública:
 
-a).- Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia del Gobierno del Estado, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos a los contratistas, las cuales deberán enterar los importes retenidos a la Receptoría de Rentas correspondiente, dentro de los primero cinco días hábiles del mes siguiente a aquel en que se efectúe la retención.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+a).- Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia u organismo público del Gobierno del Estado, pagarán un derecho equivalente al 1.5 por ciento sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias u organismos públicos que efectúen los pagos a los contratistas, los cuales deberán enterar los importes retenidos a la Secretaría de Finanzas y Administración, a través de las oficinas o instituciones autorizadas para recibir el pago de contribuciones, dentro de los primeros cinco días hábiles del mes siguiente a aquel en que se efectúe la retención.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+Los recursos que se recauden por la celebración de contratos de obra pública o de servicios relacionados con la misma, con organismos públicos descentralizados, serán destinados a los propios organismos para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere esta fracción.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 III.- Información diversa no certificada expedida en los Kioscos de servicios e información de gobierno, por cada hoja.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+IV.- Certificados digitales 25.450
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+
+V.- Servicios catastrales.
+
+a).- Copias fotostáticas:
+
+1.- Copia fotostática certificada de planos generales de:
+
+1.1.- Colima-Villa de Alvarez 4.050
+
+1.2.- Colima-Villa de Alvarez, en reducción 2.700
+
+1.3.- Manzanillo 5.850
+
+1.4.- Manzanillo, en reducción 3.600
+
+1.5.- Otras poblaciones 2.250
+
+2.- Copia fotostática certificada de un predio con acotaciones 3.600
+
+3.- Copia fotostática certificada de plano manzanero 3.600
+
+4.- Plano manzanero 1:500 graficado y certificado 5.000
+
+5.- Por copia fotostática de cada fotografía de contacto en formato 23x23 cm. escala 1:4500 1.000
+
+6.- Copia fotostática de planos de predios rústicos:
+
+6.1.- Hasta 1-00-00 hectárea 5.000
+
+6.2.- De 1-00-01 a 3-00-00 hectáreas 7.000
+
+6.3.- De 3-00-01 a 5-00-00 hectáreas 10.000
+
+6.4.- Más de 5-00-00 hectáreas 13.000
+
+7.- Por cada copia de tarjetas de registro a solicitud del interesado 2.500
+
+8.- Por cada copia de traslado de dominio a solicitud del interesado 2.500
+
+9.- Por expedición de copias de avalúos catastrales 3.000
+
+10.- Por cada copia fotostática de planos de fraccionamientos 4.600
+
+11.- Copia fotostática simple por mancha ejidal y por hoja 2.300
+
+b).- Certificaciones:
+
+1.- Certificaciones de documentos catastrales a solicitud del interesado 1.800
+
+2.- Certificación catastral de un predio para tramitar juicio a favor del poseedor 6.000
+
+3.- Constancia certificada de inscripción o no en los registros catastrales 0.600
+
+c).- Avalúos y mediciones:
+
+1.- Por avalúo o rectificación de avalúo de predio urbano a solicitud del interesado:
+
+1.1.- Hasta un valor catastral equivalente a 3,814 días de salario mínimo 2.000
+
+1.2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario mínimo 2.500
+
+1.3.- Cuando el valor catastral esté entre 4,965 y 6,616 días de salario mínimo 3.500
+
+1.4.- Más de un valor catastral equivalente a 6,616 días de salario mínimo, se pagará sobre dicho valor, el 0.1 %
+
+2.- Por avalúo o rectificación de avalúo de predio rústico que se practique sobre plano levantado y firmado por el perito responsable incluyendo clasificación de suelo; a solicitud del interesado:
+
+2.1.- Hasta un valor catastral equivalente a 3,814 días de salario mínimo 2.000
+
+2.2.- Cuando el valor catastral esté entre 3,815 y 4,964 días de salario mínimo 2.500
+
+2.3.- Cuando el valor catastral esté entre los 4,965 y 6,116 días de salario mínimo
+
+2.4.- Más de un valor catastral equivalente a 6,116 días de salario mínimo, se pagará sobre dicho valor, el 0.1 %
+
+3.- Cuando por motivo de una solicitud de rectificación o asignación de coordenadas geodésicas, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
+
+3.1.- En la ciudad de las oficinas catastrales 1.800
+
+3.2.- Fuera de la ciudad de oficinas centrales 1.800
+
+- Más, por cada kilómetro recorrido 0.090
+
+4.- Por cada asignación o punto de coordenadas geodésicas 10.000
+
+d).- Informes catastrales relacionados con los predios registrados, a solicitud de los interesados:
+
+1.- Certificado 1.800
+
+2.- Sin Certificar 0.500
+
+e).- Registro de peritos valuadores:
+
+1.- Por derechos de registro y expedición de credencial de perito valuador 15.000
+
+2.- Refrendo anual 10.000
+
+f).- Por cartografía a escala 1:1,000 en forma digital de las distintas manchas urbanas:
+
+1.- Archivos DXF (manzanas, predios y nomenclaturas de calles) 75.000
+
+2.- Por cada capa adicional 20.000
+
+g).- Por la impresión de archivos digitales:
+
+1.- Plano general a diferentes escalas:
+
+1.1.- Graficado y certificado incluyendo manzanas, predios y calles 8.000
+
+1.2.- Por cada impresión de hasta 1.10 X 0.84 mts 8.000
+
+1.3.- Por cada capa adicional al plano general 2.500
+
+1.4.- Por cada impresión de hasta 1.10 X 0.84 mts 2.500
+
+2.- Por la expedición de planos de predios urbanos con medidas, superficies y nombre de calles:
+
+2.1.- Sin nombre de colindantes 3.600
+
+2.2.- Con nombres de colindantes 4.600
+
+3.- Por cada impresión simple de planos en tamaño carta u oficio que incluya:
+
+3.1.- Manzanas, predios y nombre de calles 5.000
+
+3.2.- Predios rústicos, vías de comunicación, hidrografía 5.000
+
+3.3.- Por cada nombre de colindante o propietario 0.700
+
+h).- Por cartografía en formato digital por cada mancha urbana que incluya:
+
+1.- Archivo en formato "Shape", manzanas y predios 100.000
+
+2.- Por cada capa adicional 50.000
+
+i).- Por cartografía a escala 1:1,000 en formato digital de los distintos polígonos ejidales parcelarios o solares, así como de los predios de pequeña propiedad por municipio:
+
+1.-Archivos en formatos DXF (predios) 75.000
+
+2.- Por cada capa adicional 20.000
+
+j).- Por cartografía en formato digital por cada polígono ejidal parcelario o solar, así como de predios de pequeña propiedad por municipio:
+
+1.-Archivos en formatos SHAPE (predios) 100.000
+
+2.- Por cada capa adicional 50.000
+
+k).- Por búsqueda en los archivos históricos catastrales 1.000
+
+I).- Por cartografía en formato digital en archivo de formato PDF:
+
+1.- Por mancha urbana (manzanas, predios y nomenclaturas de calles) 37.500
+
+2.- Por cada capa adicional en mancha urbana 10.000
+
+3.- Por cada Polígono ejidal parcelario o solar, así como de predios de pequeña propiedad por municipio 37.500
+
+4.- Por cada capa adicional de polígonos parcelarios, solares o predios de la pequeña propiedad 10.000
+
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -3947,13 +4225,17 @@ Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Fede
 
 Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
 
-### CAPITULO UNICO
-
 ## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
+
+### CAPITULO UNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -4061,7 +4343,7 @@ V.- Aportaciones extraordinarias de los entes públicos.
 
 ###### Artículo 72.
 
-Las resoluciones que en relación con esta Ley dicte la Secretaría de Finanzas, sólo podrán ser recurridas en la forma y términos que señala el Código Fiscal del Estado.
+Las resoluciones que en relación con esta Ley dicte la Secretaría de Finanzas y Administración, sólo podrán ser recurridas en la forma y términos que señala el Código Fiscal del Estado.
 
 ###### Artículo 73.
 
@@ -4075,11 +4357,13 @@ El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado l
 
 Para los efectos del Título Segundo, se entenderá por ``día de salario mínimo'', el salario mínimo general diario vigente en el Estado, en la fecha de pago del derecho de que se trate.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 76.
 
-Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se distribuirá entre el personal de la Secretaría de Finanzas que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamento respectivo.
+Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se distribuirá entre el personal de la Secretaría de Finanzas y Administración que directa o indirectamente haya intervenido en el cobro, notificación de las obligaciones o ejecución de los créditos fiscales, de conformidad con lo que determine el Reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -4466,3 +4750,23 @@ SEGUNDO.- Los contribuyentes que se ubiquen en los supuestos del descuento en el
 P.O. 1 DE ABRIL DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Durante el ejercicio fiscal 2012, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2012, siempre que se cumpla con los requisitos siguientes:
+
+I.- Que el contribuyente no tenga adeudos del ejercicio 2011 y anteriores por cualquiera de los conceptos siguientes:
+
+a).- Impuestos, derechos y aprovechamientos estatales;
+
+b).- Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos;
+
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2012 que resulte procedente se efectúe de enero a marzo de dicho año, si el vehículo fue inscrito en el Registro Público Vehicular del Estado antes de 2012 o durante el periodo aquí señalado.
+
+Respecto de los vehículos nuevos o importados que se inscriban en el Registro Público Vehicular del Estado entre el 01 de abril y el 31 de diciembre de 2012, se tendrá derecho al subsidio otorgado en los términos del presente transitorio, siempre que sus tenedores o usuarios cumplan con los requisitos señalados en las fracciones I, incisos a) y b) y III.
+
+TERCERO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2012 el monto se ajustará a la decena de pesos inferior más próxima.
