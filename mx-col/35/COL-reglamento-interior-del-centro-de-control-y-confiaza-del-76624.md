@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-centro-de-control-y-confiaza-del-76624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-11"
-last_updated: "2010-09-11"
+last_updated: "2011-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO INTERIOR DEL "CENTRO DE CONTROL Y CONFIANZA" DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL "CENTRO DE CONTROL Y CONFIANZA" DEL ESTADO DE COLIMA, PUBLICADO EN EL SUPLEMENTO NO. 13 DEL P.O. DE 26 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 11 de septiembre del 2010.
 
@@ -624,3 +626,19 @@ Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno a los doce dí
 A t e n t a m e n t e. "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO
 
 GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+La Autoridad competente expedirá en un lapso de treinta días, contados a partir de la publicación de este Reglamento, los procedimientos a que se refiere el presente instrumento.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior del "Centro de Control y Confianza" del Estado de Colima, publicado el 11 de septiembre del año 2010, mediante el Tomo XCV, número 37, del periódico oficial del Gobierno Constitucional del Estado "El Estado de Colima"; así como, las demás disposiciones que se opongan al presente ordenamiento.
