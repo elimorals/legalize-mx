@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-tribunal-electoral-del-estado-de-47111"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-19"
-last_updated: "2005-11-19"
+last_updated: "2011-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE COLIMA, PUBLICADO EN EL SUPLEMENTO No. 2 DEL P.O. EL 26 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de Noviembre de 2005.
 
@@ -762,3 +764,11 @@ SEGUNDO.- Se abrogan el Reglamento Interior del Tribunal Electoral del Estado de
 Dado en el Recinto del Tribunal Electoral del Estado, en la Sesión Extraordinaria el (sic) Pleno celebrada el 10 de noviembre del año 2005.
 
 LIC. RENÉ RODRÍGUEZ ALCARAZ, MAGISTRADO PRESIDENTE. Rúbrica. LIC. RIGOBERTO SUÁREZ BRAVO, MAGISTRADO NUMERARIO. Rúbrica. LIC. ÁNGEL DURÁN PÉREZ, MAGISTRADO NUMERARIO. Rúbrica. LIC. GUILLERMO DE JESÚS NAVARRETE ZAMORA, Doy fe.- SECRETARIO GENERAL DE ACUERDOS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal Electoral del Estado de Colima, aprobado el 10 de noviembre de 2005 por el Pleno del Tribunal Electoral del Estado y publicado en el Suplemento No. 1 del Periódico Oficial "El Estado de Colima", correspondiente al No. 71 del sábado 19 de noviembre del año 2005, así como las demás disposiciones reglamentarias que se opongan al presente ordenamiento.
