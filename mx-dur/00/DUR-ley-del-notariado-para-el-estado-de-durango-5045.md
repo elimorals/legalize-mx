@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "2007-07-12"
+last_updated: "2011-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -693,7 +693,9 @@ La oficina de los notarios se denominará "NOTARIA PUBLICA NUMERO ...."; estará
 
 Las demarcaciones notariales corresponderán a las de los Distritos Judiciales.
 
-El Ejecutivo del Estado, con la facultad que le concede esta Ley, delega la función pública del ejercicio del Notariado en el Estado, como sigue: para el Distrito Judicial de la Capital a 24 Notarios; al Distrito Judicial de Gómez Palacio a 11 Notarios; al Distrito Judicial de Ciudad Lerdo a 3 Notarios; al Distrito Judicial de Santiago Papasquiero (sic) a 2 Notarios; y para cada uno de los restantes Distritos Judiciales de la Entidad a 1 Notario.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2011)</small>
+
+El Ejecutivo del Estado, con la facultad que le concede esta Ley, delega la función pública del ejercicio del notariado en el Estado, como sigue: Para el Distrito Judicial de la Capital a 25 Notarios; al Distrito Judicial de Gómez Palacio a 11 Notarios; al Distrito Judicial de Ciudad Lerdo, a 3 Notarios; al Distrito Judicial de Santiago Papasquiaro a 2 Notarios; y para cada uno de los restantes Distritos Judiciales de la Entidad, a 1 Notario.
 
 ###### ARTICULO 68.
 
@@ -933,7 +935,9 @@ Inmediatamente después de que el Notario comience a ejercer sus funciones, dar�
 
 Cuando estuviere vacante o fuera creada una notaría la Dirección General de Notarías publicará un anuncio por tres veces consecutivas en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en el Distrito Judicial de que se trate, convocando a los aspirantes al ejercicio del notariado que pretendan obtener por oposición el nombramiento de notario.
 
-En el plazo de treinta días hábiles siguientes a la fecha de la última publicación, los pretendientes acudirán a la Dirección General de Notarías, solicitando ser admitidos a la oposición; y la oficina respectiva anotará en cada solicitud, la fecha y la hora en que fue presentada y lo hará saber al Consejo del Colegio de Notarios.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2011)</small>
+
+En el plazo de treinta días hábiles siguientes a la fecha de la última publicación, los pretendientes acudirán a la Dirección General de Notarías, solicitando ser admitidos a la oposición; y la oficina respectiva anotará en cada solicitud, la fecha y la hora en que fue presentada y lo hará saber al Consejo del Colegio de Notarios; tratándose de notarios en ejercicio de sus funciones, será facultad del Ejecutivo del Estado designar al titular de la notaria que haya sido creada o hubiere quedado vacante.
 
 ###### ARTICULO 93.
 
@@ -1354,3 +1358,9 @@ P.O. 12 DE JULIO DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere la presente iniciativa de reforma y adición, se podrá recibir el informe de aviso de testamento impreso en papel hasta por un período de doce meses contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan al presente decreto.
