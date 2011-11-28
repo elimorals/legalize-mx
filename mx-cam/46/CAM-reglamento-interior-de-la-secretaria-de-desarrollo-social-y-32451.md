@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-desarrollo-social-y-324
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-08"
-last_updated: "2009-09-14"
+last_updated: "2011-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. 14 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y REGIONAL DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
@@ -400,3 +400,11 @@ Lo anterior se observará también con relación a los derechos y obligaciones q
 Séptimo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de su resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán y serán despachados por las dependencias a las que corresponda, ahora el conocimiento de las materias sobre los cuales aquellos versen.
 
 Octavo.- El Gobernador del Estado realizará las adecuaciones correspondientes a la Ley de Presupuesto de Egresos para el ejercicio fiscal 2009, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2011.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social de la Administración Pública Estatal publicado en el Periódico Oficial del Estado el 8 de julio de 2003.
+
+Tercero.- Se derogan todas las disposiciones del marco jurídico estatal que tengan similar o menor jerarquía que el presente reglamento y se opongan al mismo.
