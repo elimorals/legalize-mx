@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-sistema-para-el-desarrollo-integral-351
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-24"
-last_updated: "2010-04-19"
+last_updated: "2011-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de noviembre de 2003.
 
@@ -2044,3 +2046,13 @@ P.O. 5 DE OCTUBRE DE 2009.
 P.O. 19 DE ABRIL DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 28 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado, el veinticuatro de noviembre del año dos mil tres, así como la reimpresión publicada el día cuatro de agosto del año dos mil ocho, y sus reformas posteriores.
+
+TERCERO.- Hasta en tanto el Consejo Directivo no expida las Reglas de Operación del Consejo Técnico para la Beneficencia Privada y del Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, se seguirán aplicando las disposiciones contenidas en el Reglamento que se abroga.
+
+CUARTO.- El Consejo Directivo expedirá las Reglas de Operación del Consejo Técnico para la Beneficencia Privada y del Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, dentro de los 60 días siguientes a la entrada en vigencia del presente Reglamento.
