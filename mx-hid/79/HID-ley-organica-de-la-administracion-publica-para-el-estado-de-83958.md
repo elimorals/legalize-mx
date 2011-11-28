@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2011-11-21"
+last_updated: "2011-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE NOVIEMBRE DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -185,11 +185,11 @@ III.- No ser ministro de cualquier culto religioso ni haber sido sentenciado por
 
 IV.- No desempeñar ningún otro puesto, empleo, cargo o comisión, incompatible al encargo por cuestión de función o materia, a excepción de los relacionados con la docencia, beneficencia y los que sean expresamente autorizados por el Gobernador del Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE NOVIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+(F. DE., P.O. 28 DE NOVIEMBRE DE 2011)
 
 ###### Artículo 21.
 
-Corresponde a los titulares de las dependencias del Poder Ejecutivo, el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en las Secretarías a que se refiere el Artículo 13 y en los servidores públicos a ellas adscritos, cualesquiera de sus facultades, excepto aquellas que por disposición de la Ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares.
+Corresponde a los titulares de las dependencias del Poder Ejecutivo, el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en las unidades a que se refiere el Artículo 19 y en los servidores públicos a ellas adscritos, cualesquiera de sus facultades, excepto aquellas que por disposición de la Ley o del Reglamento Interior respectivo, deban ser ejercidas precisamente por dichos titulares.
 
 ###### Artículo 22.
 
@@ -535,7 +535,7 @@ XX.- Coordinar con los ayuntamientos la fundación de centros de población o de
 
 XXI.- Elaborar y proponer al Titular del Poder Ejecutivo los Programas de Desarrollo Urbano y Ordenamiento Territorial de competencia Estatal;
 
-XXII.- Dirigir, en coordinación con las autoridades competentes y conforme a las Leyes aplicables, el ordenamiento territorial y la regularización de la tenencia de la tierra. independientemente de su régimen y de los asentamientos humanos existentes;
+XXII.- Dirigir, en coordinación con las autoridades competentes y conforme a las Leyes aplicables, el ordenamiento territorial y la regularización de la tenencia de la tierra independientemente de su régimen y de los asentamientos humanos existentes;
 
 XXIII.- Proporcionar a los Ayuntamientos asesoría y, en su caso, convenir la elaboración de los programas de desarrollo urbano en la modalidad correspondiente, formalizando su publicación y registro ante las instancias competentes;
 
@@ -549,7 +549,7 @@ XXVII.- Formular, conducir, aplicar, vigilar y supervisar el cumplimiento de las
 
 XXVIII.- Coadyuvar con los Municipios de conformidad con las Leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios que se expidan en el Estado, así como en la autorización de lotificaciones, relotificaciones, fusiones, subdivisiones y fraccionamientos de áreas o predios en el Territorio del Estado;
 
-XXIX.- Verificar que las dependencias de la Administración pública federal, estatal y municipal. así como las personas físicas y morales del sector privado, cumplan debidamente lo dispuesto por los programas de Desarrollo Urbano y Ordenamiento Territorial vigentes. a efecto de garantizar un desarrollo equilibrado y ordenado en la entidad;
+XXIX.- Verificar que las dependencias de la Administración pública federal, estatal y municipal, así como las personas físicas y morales del sector privado, cumplan debidamente lo dispuesto por los programas de Desarrollo Urbano y Ordenamiento Territorial vigentes, a efecto de garantizar un desarrollo equilibrado y ordenado en la entidad;
 
 XXX.- Sancionar los incumplimientos a las resoluciones y lineamientos relativos a los asentamientos humanos y desarrollo urbano de la entidad de conformidad a la legislación y reglamentación aplicable;
 
@@ -577,7 +577,7 @@ III.- Realizar el estudio y planeación del desarrollo económico estatal;
 
 IV.- Difundir y promover nacional e internacionalmente la infraestructura, programas de apoyo, vocaciones productivas y las ventajas que ello representa para la actividad económica en la entidad;
 
-V.- Diseñar, establecer e instrumentar proyectos, programas y acciones que procuren el desarrollo, la modernización, competitividad y crecimiento de los sectores productivos del Estado, brindando especial atención a las micro, pequeñas y medianas empresas que propicien su articulación productiva y la canalización oportuna de los apoyos. estímulos e incentivos que prevé la legislación aplicable en la materia;
+V.- Diseñar, establecer e instrumentar proyectos, programas y acciones que procuren el desarrollo, la modernización, competitividad y crecimiento de los sectores productivos del Estado, brindando especial atención a las micro, pequeñas y medianas empresas que propicien su articulación productiva y la canalización oportuna de los apoyos, estímulos e incentivos que prevé la legislación aplicable en la materia;
 
 VI.- Promover que los agentes económicos realicen su actividad productiva en apego a la normatividad aplicable;
 
@@ -829,7 +829,7 @@ V.- Determinar los criterios y evaluar el nivel de competencias y desempeño pro
 
 VI.- Coadyuvar e intervenir coordinadamente en la formulación y aprobación, en su caso, de los proyectos de normas de información financiera, contabilidad y de control en materia de programación, presupuestación y administración de recursos, que elaboren las dependencias correspondientes, así como en materia de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas y Administración;
 
-VII.- Vigilar y evaluar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública, sobre las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento. inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Ejecutivo del Estado;
+VII.- Vigilar y evaluar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública, sobre las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Ejecutivo del Estado;
 
 VIII.- Inspeccionar y vigilar, directamente o a través de los Órganos Internos de Control de las dependencias y entidades de la administración pública, que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, registro de proveedores y contratistas, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Central y Paraestatal;
 
@@ -895,7 +895,7 @@ XXXVII.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
 A la Secretaría de Educación Pública corresponde el despacho de los siguientes asuntos:
 
-I.- Garantizar y vigilar que el Sistema Educativo Estatal, dé cumplimiento a las disposiciones que señala en materia de educación, la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, la Constitución Política del Estado. la Ley de Educación para el Estado y demás disposiciones legales aplicables en la materia;
+I.- Garantizar y vigilar que el Sistema Educativo Estatal, dé cumplimiento a las disposiciones que señala en materia de educación, la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, la Constitución Política del Estado, la Ley de Educación para el Estado y demás disposiciones legales aplicables en la materia;
 
 II.- Planear, dirigir, coordinar, vigilar y evaluar la política educativa así como los servicios educativos a cargo del Estado, municipios, organismos descentralizados y desconcentrados de la Administración Pública Estatal y de los particulares con autorización o reconocimiento de validez oficial de estudios en todos los tipos, niveles y modalidades;
 
