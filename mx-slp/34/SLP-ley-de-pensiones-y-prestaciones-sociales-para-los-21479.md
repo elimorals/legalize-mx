@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2011-10-13"
+last_updated: "2011-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -37,7 +37,7 @@ LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
 
 ...
 
-LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1371,13 +1371,17 @@ a) Elegir solicitar su pensión por edad avanzada en virtud de que tiene quince 
 
 b) Elegir acogerse a las disposiciones del Título Octavo de esta Ley, relativas a pensiones por edad avanzada de acuerdo al artículo Cuarto Transitorio de este Decreto;
 
-V. Aviso de que en caso de no presentar dentro de los seis meses siguientes la solicitud de la pensión por edad avanzada, se estará a lo dispuesto por el artículo Cuarto Transitorio de este Decreto, es decir, se entenderá que desea acogerse a las nuevas disposiciones;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2011)</small>
+
+V. Aviso de que en caso de no presentar dentro de los seis meses siguientes la solicitud de la pensión por edad avanzada, se estará a lo dispuesto por el artículo Quinto Transitorio de este Decreto, es decir, se entenderá que desea acogerse a las nuevas disposiciones;
 
 VI. Las leyendas:
 
 a) Reconozco como válido y correcto el tiempo de cotización ante la Dirección de Pensiones informado en este Documento de Elección, y manifiesto mi decisión de solicitar mi pensión por edad avanzada, en virtud de que tengo quince años o más de cotización y ciencuenta (sic) y cinco años o más de edad.
 
-b) Reconozco como válido y correcto el tiempo de cotización ante la Dirección de Pensiones informando en este Documento de Elección, y manifiesto mi decisión de acogerme a lo dispuesto por el artículo Sexto Transitorio del Decreto que modifica la Ley de Pensiones y Prestaciones Sociales para los Trabajadores del Estado de San Luis Potosí;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2011)</small>
+
+b) Reconozco como válido y correcto el tiempo de cotización ante la Dirección de Pensiones informado en este Documento de Elección, y manifiesto mi decisión de acogerme a lo dispuesto por el artículo Séptimo Transitorio del Decreto que reforma la Ley de Pensiones y Prestaciones Sociales para los Trabajadores al Servicio del Estado de San Luis Potosí;
 
 VII. Espacio para firma autógrafa y/o huella digital del trabajador;
 
@@ -1691,7 +1695,9 @@ Todas estas pensiones serán incrementadas anualmente de acuerdo al porcentaje e
 
 El pago de estas pensiones y todo lo relacionado con las mismas, se regirá por lo dispuesto en el presente Decreto, en lo que no se oponga a lo establecido en este artículo Transitorio.
 
-NOVENO. Se establece un bono a la permanencia que consiste en veinte días de sueldo cotizado, que se les entregará anualmente a los trabajadores que hayan ingresado a laborar antes de la publicación del presente Decreto, no sean pensionados de la Dirección de Pensiones, y hayan cumplido un período de treinta y un a treinta y cinco años de cotización para los hombres, y de veintinueve a treinta y tres años de cotización para las mujeres, por excepción a lo que dispone el artículo 34 de la Ley de Pensiones y Prestaciones Sociales para los Trabajadores del Estado de San Luis Potosí; por única vez, los recursos para la aplicación de este bono provendrán del fondo del mismo grupo cotizador.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2011)</small>
+
+NOVENO. Se establece un bono a la permanencia que consiste en veinte días de sueldo cotizado, que se les entregará anualmente a los trabajadores que hayan ingresado a laborar antes de la publicación del presente Decreto, no sean pensionados de la Dirección de Pensiones, y hayan cumplido un periodo de 31 a 35 años de cotización para los hombres, y de 29 a 33 años de cotización para las mujeres, por excepción a lo que dispone el artículo 34 de la Ley de Pensiones y Prestaciones Sociales para los Trabajadores al Servicio del Estado de San Luis Potosí; por única vez, los recursos para la aplicación de este bono provendrán del fondo del mismo grupo cotizador.
 
 Una vez cumplidos los treinta y cinco años de cotización los hombres; y treinta y tres años de cotización las mujeres, se extinguirá esta prestación.
 
@@ -1746,3 +1752,9 @@ Estas aportaciones se llevarán en cuentas separadas, y sus montos y condiciones
 Dichas aportaciones no generarán derecho a pensión alguna.
 
 DECIMO TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
