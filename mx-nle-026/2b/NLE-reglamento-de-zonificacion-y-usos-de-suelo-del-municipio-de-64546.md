@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2010-05-28"
+last_updated: "2011-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE ZONIFICACION Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
+REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de noviembre de 2008.
 
@@ -313,7 +313,7 @@ Los Fraccionamientos y la Urbanización del Suelo deben cumplir con lo dispuesto
 
 Se debe cumplir con lo dispuesto en el Plan vigente de Desarrollo Urbano de Guadalupe, Nuevo León.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 24.
 
@@ -369,9 +369,15 @@ Los Usos de Suelo y la Zonificación establecen lo siguiente:
 
 ### CAPITULO SEGUNDO. De los Usos y Destinos del Suelo
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 27.
 
-Los Usos del Suelo, se refiere a los fines particulares a los que podrán dedicarse los predios dentro de los límites jurídico-administrativos del Municipio de Guadalupe; mismos que se establecen en la Matriz de Compatibilidad de Usos de Suelo del Plan y se clasifican como permitidos, condicionados, compatibles, complementarios y prohibidos de acuerdo a lo establecido en la Legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León.
+Los Usos de Suelo, se refieren a los fines particulares a los que podrán dedicarse los predios dentro de los límites jurídicos - administrativos del municipio de Guadalupe, mismos que se establecen en la Matriz de Compatibilidad de Usos de Suelo del Plan y se clasifican como permitidos, condicionados, compatibles y prohibidos de acuerdo a la legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León
+
+Quedan prohibidos dentro de los límites jurídicos - administrativos del municipio de Guadalupe los usos del suelo y uso de edificación para, centro de apuestas, salas de sorteos, casa de juego, casinos y similares.
+
+La prohibición de usos de suelo y uso de edificación para dichos establecimientos que se contempla en el Plan de Desarrollo Urbano de Guadalupe N. L., 2005 2025, y en el presente reglamento no podrá ser modificada sino en los estrictos términos establecidos por ley.
 
 ###### ARTICULO 28.
 
@@ -523,9 +529,9 @@ En cuanto a la disposición final de los desechos por la actividad complementari
 
 No podrán fabricarse sustancias o productos peligrosos, así como su conservación o comercialización.
 
-###### ARTÍCULO 46.
+###### ARTICULO 46.
 
-No deberán producir ruidos superiores a los 68 descibeles permitidos al exterior de las 6:00 a las 22:00 horas y de las 22:01 a las 5:59 65 descibeles señalados por la Norma Oficial Mexicana.
+No deberán producir ruidos superiores a los 68 descibeles (sic) permitidos al exterior de las 6:00 a las 22:00 horas y de las 22:01 a las 5:59 65 descibeles (sic) señalados por la Norma Oficial Mexicana.
 
 ### CAPITULO CUARTO. Actividades Industriales
 
@@ -1157,7 +1163,7 @@ LIC. ALFONSO RODRÍGUEZ OCHOA
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
@@ -1178,3 +1184,9 @@ P.O. 28 DE MAYO DE 2010.
 PRIMERO.- Las presentes reformas por adición y modificación al REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas.
+
+P.O. 30 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Las presentes reformas por adición de los párrafos primero y segundo al artículo 27 del REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se derogan así mismo todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma.
