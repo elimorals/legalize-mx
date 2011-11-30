@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2010-05-28"
+last_updated: "2011-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DE CIUDAD GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -109,13 +109,19 @@ DISPOSICIONES GENERALES.
 
 El presente Reglamento, es de interés público y observancia general para toda persona que habite o transite en este Municipio. Se expide con fundamento en el Artículo 115 Fracción II de la Constitución Política de los Estados Unidos Mexicanos; en el Artículo 131 de la Constitución Política del Estado de Nuevo León; y en los Artículos 160, 161, 162, 163, 166, 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
+> <small>(REFORMADO P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 2.
 
-Este Reglamento tiene por objeto el preservar, mantener y conservar el orden público, la seguridad y tranquilidad de las personas, la protección de la propiedad, la salud pública y en general, el exacto cumplimiento de las disposiciones normativas contenidas en los Reglamentos Municipales.
+Este Reglamento tiene por objeto el preservar, mantener y conservar el orden público y la seguridad y tranquilidad de las personas, la protección de la propiedad, la salud pública y en general, el exacto cumplimiento de las disposiciones contenidas en los Reglamentos Municipales,
+
+La Secretaría de Seguridad, a través de la Dirección de Policía y de Transito coadyuvará y apoyará a las diversas dependencias del (sic) la administración municipal en la supervisión del exacto cumplimiento de los reglamentos Municipales, remitiendo y poniendo a los presuntos infractores, a disposición de la Coordinación de Jueces Calificadores y alcaides, para los efectos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 3.
 
-Las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
+Todas las infracciones a las (sic) normatividad establecida en el municipio constituyen faltas administrativas; las sanciones a las infracciones administrativas cometidas a este Reglamento, serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
 
@@ -221,9 +227,9 @@ I. Prevenir las conductas delictivas e infracciones administrativas;
 
 II. Proteger la integridad física de las personas, sus propiedades, derechos y libertades;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
-III. La Vigilancia del cumplimiento estricto de las Leyes, el Reglamento de Policía y Buen Gobierno; y demás disposiciones jurídicas aplicables en la materia.
+III. La vigilancia del cumplimiento estricto de las Leyes, el presente reglamento y Reglamentos municipales; y demás disposiciones jurídicas aplicables en la materia.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
@@ -301,9 +307,13 @@ XXI. Prevenir que los menores de edad no ingresen a los bares, cantinas y demás
 
 XXII. Tomar todas aquellas medidas que tengan por objeto el mantener el orden, la paz, la tranquilidad y la seguridad de los ciudadanos; y
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
-XXIII. Las demás conferidas por las leyes y los Reglamentos vigentes.
+XXIII. El ejercicio de las facultades y/o competencias establecidas y asignadas a la Secretaría de Seguridad en los Reglamentos Municipales.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
+XXIV. Las demás conferidas por las leyes y los Reglamentos vigentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, 29 DE DICIEMBRE DE 2009)</small>
 
@@ -561,6 +571,8 @@ Así mismo se considerará como infractores a quienes realicen llamadas de broma
 
 DE LAS INFRACCIONES SANITARIAS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
 ###### ARTICULO 16.
 
 Son consideradas como Infracciones a la Moral y a las Buenas Costumbres las siguientes:
@@ -601,13 +613,15 @@ DE LAS INFRACCIONES AL EJERCICIO DEL COMERCIO Y DEL TRABAJO.
 
 ###### ARTICULO 17.
 
-Son consideradas como infracciones Sanitarias las siguientes:
+Son consideradas como Infracciones Sanitarias las siguientes:
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2010)</small>
 
 I.- Orinar ó defecar en los parques, plazas, ó en cualquier tipo de lugares públicos; obras en construcción ó en los lotes baldíos. Permitir ó azuzar para que los animales domésticos, causen o puedan causar daños a terceros; ya sea en sus personas, sus bienes o sus pertenencias. Vender o distribuir tóxicos o solventes de cualquier tipo a los menores de edad y a quienes mostrasen señales evidentes de intoxicación. Vender y utilizar los tronadores, palomas y demás cohetes o artículos detonadores semejantes, en las calles, plazas, establecimientos mercantiles y demás sitios públicos, sin el permiso de la Autoridad correspondiente.
 
-II.- Permitir azuzar, para que los animales domésticos, causen o puedan causar daños a terceros; ya sea en sus personas, sus bienes o sus pertenencias.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
+II.- Todas las acciones realizadas en contravención a lo establecido en el Reglamento de Limpia del Municipio.
 
 III.- Vender o distribuir tóxicos o solventes de cualquier tipo a los menores de edad y a quienes mostrasen señales evidentes de intoxicación.
 
@@ -624,6 +638,10 @@ Son consideradas como Infracciones al Ejercicio del Comercio y del Trabajo las s
 I.- Trabajar como Prestados de Servicios, cuando para desempeñar su actividad se requiera del permiso o licencia de la Autoridad Municipal y no se cuente con ello; o bien, cuando no se sujete a las condiciones requeridas para la prestación de dichos servicios.
 
 II.- Ejercer Actos de Comercio dentro del área de cementerios, iglesias, monumentos, edificios públicos o en aquellos lugares que por su tradición, naturaleza y costumbre, merezcan respeto a menos que cuenten con la autorización correspondiente para tal efecto.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
+III.- Todas las acciones realizadas en contravención a lo establecido en los Reglamentos de Comercio y de Mercados de (sic) Municipio.
 
 ### CAPITULO 12
 
@@ -1084,3 +1102,9 @@ P.O. 28 DE MAYO DE 2010.
 PRIMERO.- Las presentes reformas por adición y modificación al REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por adición y modificación.
+
+P.O. 30 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- La presente reforma por adición y modificación del texto a diversos artículos al Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se derogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma.
