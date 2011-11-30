@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2010-05-08"
+last_updated: "2011-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -443,9 +443,13 @@ I. De conocimiento y dictamen, y
 
 II. Especiales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
 ###### Artículo 50.
 
-Las comisiones legislativas se integrarán, por regla general, por tres diputados, uno con el carácter de Presidente y dos Secretarios.
+Las comisiones legislativas se integrarán, por regla general, mínimo por tres diputados, máximo por cinco, uno con el carácter de Presidente y los demás Secretarios.
 
 Las Comisiones de Puntos Constitucionales y la de Vigilancia, se integrarán por cinco diputados.
 
@@ -1557,7 +1561,7 @@ Dicho informe por escrito será recibido por el Presidente y los integrantes de 
 
 El acto de recepción del informe se efectuará en las oficinas o instalaciones que disponga el Presidente de la Mesa Directiva, quien extenderá la constancia de recepción correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### Artículo 186.
 
@@ -1979,7 +1983,7 @@ VIII. Sugerir el establecimiento de nuevos servicios a los usuarios y la mejorí
 
 IX. Participar en la aplicación de sanciones y en el levantamiento de actas administrativas del personal a su cargo, conforme a la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2010)</small>
 
 ###### Artículo 230.
 
@@ -2322,3 +2326,7 @@ P.O. 8 DE MAYO DE 2010.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor el día 07 de septiembre de 2013 y se publicará en el Periódico Oficial, Órgano de Gobierno del Estado.
