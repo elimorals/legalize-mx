@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2010-12-03"
+last_updated: "2011-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1561,9 +1561,15 @@ XIX. Realizar acciones coordinadas con los Comités de Participación Comunitari
 
 XX. Fomentar entre la comunidad el respeto irrestricto a los Derechos Humanos;
 
-XXI. Promover una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
-XXII. Las demás que señale esta Ley.
+XXI. Promover una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
+XXII. Brindar el apoyo de la fuerza pública cuando sea formalmente requerida por las autoridades federales, estatales o municipales en materia de protección civil para que estas lleven a cabo sus funciones vigilancia (sic), verificación e inspección, particularmente cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares; y
+
+XXIII. Las demás que señale esta Ley.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -1619,11 +1625,15 @@ XV. Coordinar acciones con los Comités de Participación Comunitaria de los Mun
 
 XVI. Solicitar a las autoridades de seguridad pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
-XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar; y
+XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar;
 
-XVIII. Las demás que señale esta Ley.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2011)</small>
+
+XVIII. Participar, en coordinación con la Agencia Estatal de Policía, cuando sea formalmente requerida con el apoyo de la fuerza pública necesaria para que las autoridades federales, estatales o municipales en materia de protección civil lleven a cabo sus funciones de vigilancia, verificación e inspección, en particular cuando se trate de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares; y
+
+XIX. Las demás que señale esta Ley.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3404,3 +3414,7 @@ P.O. 29 DE OCTUBRE DE 2010.
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
