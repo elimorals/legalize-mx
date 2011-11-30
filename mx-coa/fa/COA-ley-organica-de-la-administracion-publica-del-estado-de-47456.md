@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2010-10-22"
+last_updated: "2011-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 30 DE NOVIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -1654,3 +1656,11 @@ SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Secretaría de Fi
 TERCERO.- A partir de la entrada en vigor de este Decreto, las atribuciones relacionadas con la planeación financiera del Gobierno del Estado y coordinación correspondiente a las entidades paraestatales; el conocimiento e integración de las propuestas de gasto e inversión que formulen las Dependencias y Entidades de la administración pública estatal; la presentación al Ejecutivo del Estado para su aprobación de los programas de inversión pública y autorización de los proyectos derivados de los mismos; la autorización de los montos globales de inversión pública del estado; la programación y operación de recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales; el establecimiento y operación del sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación; y la representación del Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado, serán ejercidas por el Servicio de Administración Tributaria del Estado de Coahuila.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2011.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, expedida por el Congreso del Estado el 06 de diciembre de 2005 y publicada en el Periódico Oficial del Gobierno del Estado el 07 de diciembre de 2005.
+
+TERCERO. Las disposiciones contenidas en las fracciones IV y XVII del apartado A del artículo 9, referentes a la atribución del gobernador de asistir el 30 de noviembre al Congreso a informar sobre el estado que guarda la administración pública y de solicitar al Congreso el voto de confianza sobre programas, planes y acciones que considere de importancia estratégica para el desarrollo de la entidad; en el tercer párrafo del artículo 7, que habilita a los servidores públicos que sean abogados para ejercer en el estado en causa propia, de su cónyuge, concubina, concubinario, o compañero civil, o en la de sus parientes consanguíneos o por afinidad hasta el tercer grado en cualquier línea, así como en la fracción I del artículo 16, relativa a el requisito de ciudadanía y residencia para ser titular de las secretarías del ramo.
