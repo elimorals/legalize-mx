@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-proteccion-civil-del-estado-de-68254"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-21"
-last_updated: "2009-04-21"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO EN MATERIA DE SEGURIDAD Y PREVENCIÓN DE RIESGOS EN ESTABLECIMIENTOS DE VENTA, ALMACENAMIENTO Y AUTOCONSUMO DE GASOLINAS Y DIESEL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 21 de abril de 2009.
 
@@ -61,7 +61,9 @@ La Unidad Estatal de Protección Civil y Bomberos, con apego a las disposiciones
 
 Las estaciones de servicio que se encuentren asentadas o pretendan establecerse en el territorio del Estado de Jalisco, deberán cumplir con lo dispuesto en la Ley y en este Reglamento.
 
-No podrán dar inicio las operaciones de las estaciones de servicio, sin que hayan obtenido previamente la autorización en materia de protección civil prevista en el presente Reglamento.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2011)</small>
+
+No podrán dar inicio las operaciones de las estaciones de servicio, sin que hayan obtenido previamente el dictamen de procedencia del estudio de riesgo, oficio de autorización para inicio de operaciones y el registro de almacenamiento y transporte de material peligroso. En el supuesto de que no se cuente con transporte de abasto de material peligroso, se deberá acreditar el registro del prestador de servicios, así como las autorizaciones en materia de protección civil emitidas por la Unidad Estatal y municipal.
 
 ###### Artículo 4°.
 
@@ -166,6 +168,12 @@ II. En estaciones de servicio con tanques de almacenamiento subterráneo o super
 III. Los tanques de almacenamiento se ubicarán a una distancia mínima de resguardo de treinta metros de líneas eléctricas de alta tensión, de ductos que transporten hidrocarburos y de vías férreas; y
 
 IV. El predio debe estar a una distancia de resguardo mínima de cien metros, respecto a plantas de almacenamiento y distribución de gas licuado o de petróleo, y demás predios en donde se realicen actividades clasificadas como de alto riesgo.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 8º Bis.
+
+El predio que se destine para el establecimiento de una estación de servicios, deberá encontrarse a una distancia no menor de mil quinientos metros del límite de predio de una estación de servicios ya establecida o en etapa de proyecto autorizado.
 
 ###### Artículo 9°.
 
@@ -311,7 +319,9 @@ c) Hidrología: Determinar los procesos hidráulicos en materia de escorrentías
 
 d) Mecánica de suelos, elaborado por persona física o moral especialista en la materia debidamente constituida y acreditada, conteniendo croquis del sitio del proyecto, donde se manifieste los puntos de muestreo y el sustento técnico para la determinación de los mismos, siendo mínimo tres muestreos a una profundidad mínima de 10.00 metros, determinando la presencia o ausencia de niveles freáticos a una profundidad de hasta 15.00 (quince) metros; y
 
-e) Resultado del análisis realizado a profundidad de 10 metros que refleje la existencia o ausencia de contaminación del suelo por hidrocarburos, mediante análisis efectuado por laboratorio acreditado ante la Unidad Estatal, anexando la cadena de custodia de la muestra a analizar en el reporte del resultado de la misma;
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2011)</small>
+
+e) Resultado del análisis realizado a profundidad de 10 metros que refleje la existencia o ausencia de contaminación del suelo por hidrocarburos, mediante análisis efectuado por laboratorio acreditado ante institución u organismo de reconocimiento nacional, anexando la cadena de custodia de la muestra a analizar en el reporte del resultado de la misma;
 
 V. Descripción del sitio o área seleccionada en un radio de 500 metros que describa lo relativo a:
 
@@ -772,3 +782,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
