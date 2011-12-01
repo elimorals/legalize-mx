@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-a-la-cultura-y-las-artes-del-estado-de-sonora-16
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-10"
-last_updated: "2010-12-16"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE FOMENTO A LA CULTURA Y LAS ARTES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. 1 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el lunes 10 de enero del 2000.
 
@@ -149,7 +151,7 @@ VII.- Las demás que le otorgue esta Ley.
 
 ### CAPITULO III. DEL CONSEJO ESTATAL DE CULTURA Y LAS ARTES, DE SUS FACULTADES Y OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 7o.
 
@@ -341,7 +343,7 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 30 de Septiemb
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veintinueve de octubre de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 16 DE DICIEMBRE DE 2010.
 
@@ -356,3 +358,17 @@ Dentro de los treinta días hábiles siguientes a la entrada en vigor del presen
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 1 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento a la Cultura y las Artes para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, Número 3, Sección l, del día 10 de enero de 2000, así como todas aquellas disposiciones que se contrapongan a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la presente ley deberá expedirse dentro de un plazo no mayor a 90 días hábiles siguientes a la fecha en que ésta entre en vigor.
