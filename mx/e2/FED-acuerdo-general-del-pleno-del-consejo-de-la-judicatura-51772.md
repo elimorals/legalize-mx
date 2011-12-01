@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2011-05-12"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -3109,37 +3109,37 @@ El Archivo General de Consejo estará a cargo de un Jefe de Unidad que será des
 
 Las unidades administrativas y órganos auxiliares del Consejo, brindarán el apoyo que sea requerido por el Archivo General del Consejo, para el cumplimiento de las atribuciones que le sean conferidas.
 
-> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE TRANSFORMA LA COORDINACION GENERAL DE ASESORES DE LA PRESIDENCIA, EN LA UNIDAD DE IMPLEMENTACION DE LAS REFORMAS PENAL, DE JUICIO DE AMPARO Y DERECHOS HUMANOS EN EL PODER JUDICIAL DE LA FEDERACION, D.O.F. 1 DE DICIEMBRE DE 2011)</small>
 
-### Capítulo VIII. De la Coordinación General de Asesores de la Presidencia
+### Capítulo VIII. De la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE TRANSFORMA LA COORDINACION GENERAL DE ASESORES DE LA PRESIDENCIA, EN LA UNIDAD DE IMPLEMENTACION DE LAS REFORMAS PENAL, DE JUICIO DE AMPARO Y DERECHOS HUMANOS EN EL PODER JUDICIAL DE LA FEDERACION, D.O.F. 1 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 143 Bis.
 
-La Coordinación General de Asesores de la Presidencia será la responsable de proporcionar al Presidente del Consejo de la Judicatura Federal el asesoramiento técnico a través de informes o dictámenes que deberá expedir en apego a las disposiciones legales y a los Acuerdos Generales del Pleno del propio Consejo, para la toma de decisiones respecto de los asuntos de dicho Organo de Gobierno.
+La Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, es el área administrativa dependiente de la Presidencia del Consejo de la Judicatura Federal, encargada del estudio, análisis y propuesta del diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para la implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación; así como de la coordinación de los diversos órganos auxiliares y áreas administrativas del propio Consejo de la Judicatura involucradas en estos procesos de cambio; la relación interinstitucional con las instancias de coordinación de los Poderes Ejecutivo y Legislativo Federal, y con las entidades federativas y el Distrito Federal.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 14 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE TRANSFORMA LA COORDINACION GENERAL DE ASESORES DE LA PRESIDENCIA, EN LA UNIDAD DE IMPLEMENTACION DE LAS REFORMAS PENAL, DE JUICIO DE AMPARO Y DERECHOS HUMANOS EN EL PODER JUDICIAL DE LA FEDERACION, D.O.F. 1 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 143 Ter.
 
-El titular de la Coordinación General de Asesores de la Presidencia tendrá las siguientes atribuciones:
+El titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, tendrá las siguientes atribuciones:
 
-I. Brindar apoyo y asesoría técnica que requiera el Ministro Presidente para el ejercicio de sus funciones.
+I. Brindar el apoyo y asesoría técnica que requiera el Pleno del Consejo de la Judicatura Federal, el Ministro Presidente y los Consejeros, con motivo de la implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación;
 
-II. Dar seguimiento a los programas, proyectos, planes y tareas que el Ministro Presidente le encomiende.
+II. Coordinar, elaborar y presentar de manera conjunta, con los órganos auxiliares y áreas administrativas responsables, los estudios, análisis y propuestas de diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para la implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación;
 
-III. Solicitar información a los órganos y áreas a cargo del Consejo de la Judicatura Federal, para cumplir con las indicaciones del Ministro Presidente.
+III. Coadyuvar y apoyar a los órganos auxiliares y áreas administrativas del Consejo de la Judicatura Federal, para el debido cumplimiento de los planes, programas y acciones necesarias para la implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación;
 
-IV. Analizar la información que se genera en los órganos y áreas a cargo del Consejo de la Judicatura Federal, para evaluar estratégicamente los datos relacionados con las líneas de acción, los objetivos y el cumplimiento de las metas, e informar oportunamente al Ministro Presidente, sometiendo a su consideración estrategias de acción y alternativas de actuación.
+IV. Evaluar y dar seguimiento a los planes, programas y acciones necesarias para la implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación;
 
-V. Generar un ámbito amplio de información y enfoques que sirva a la toma de decisiones del Ministro Presidente.
+V. Solicitar a los órganos auxiliares y diversas áreas administrativas del Consejo de la Judicatura Federal, la información institucional que requiera con motivo de la implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación;
 
-VI. Coordinar, elaborar y presentar los estudios, análisis, proyectos, opiniones e informes que le sean solicitados por el Ministro Presidente.
+VI. Coordinar acciones en materia de implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, con la Suprema Corte de Justicia de la Nación;
 
-VII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Ministro Presidente.
+VII. Coordinar acciones en materia de implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal, y con las entidades federativas y el Distrito Federal; y
 
-VIII. Las áreas administrativas del Consejo, brindarán el apoyo que sea requerido por la Coordinación General de Asesores de la Presidencia, para el cumplimiento de las atribuciones que le sean conferidas.
+VIII. Las demás que le confieran el Pleno, el Ministro Presidente y los Consejeros.
 
 > <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 14 DE ABRIL DE 2011)</small>
 
@@ -3708,3 +3708,13 @@ PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 1 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Acuerdo General entrará en vigor al momento de su aprobación.
+
+La Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, iniciará funciones el uno de diciembre de dos mil once.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
