@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-becas-creditos-y-estimulos-educativos-17431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-16"
-last_updated: "2000-05-16"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DE BECAS, CREDITOS Y ESTIMULOS EDUCATIVOS
 
-REGLAMENTO DE BECAS, CREDITOS Y ESTIMULOS EDUCATIVOS
+REGLAMENTO DE BECAS, CRÉDITOS Y ESTÍMULOS EDUCATIVOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA ESTATAL DE BECAS, CRÉDITOS Y ESTÍMULOS EDUCATIVOS DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 16 de mayo de 2000.
 
@@ -364,3 +366,15 @@ ATENTAMENTE
 "SUFRAGIO EFECTIVO. NO REELECCION"
 
 El Gobernador Constitucional del Estado.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- La Secretaria General de Gobierno.- LAURA ALICIA GARZA GALINDO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de Becas, Créditos y Estímulos Educativos, publicado en el Periódico Oficial del Estado No. 42 de fecha 16 de mayo del 2000.
+
+TERCERO. Las normas, lineamientos y criterios que se deriven del presente Reglamento serán expedidos dentro del término de 90 días contados a partir de la entrada en vigor del mismo; por lo que durante este período seguirán operando las disposiciones aplicables en tanto no se opongan al presente.
+
+CUARTO. Todos los asuntos que se encuentren en trámite al entrar en vigor el presente Reglamento, se desahogarán en los términos previstos por el Reglamento vigente al momento de su inicio.
