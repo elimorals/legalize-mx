@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2011-07-18"
+last_updated: "2011-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-LEY DE EDUCACION PARA EL ESTADO DE SONORA
+LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -657,9 +657,31 @@ Las instituciones públicas de educación media superior y las particulares con 
 
 El Ejecutivo del Estado celebrará acuerdos con la Secretaria de Educación Pública, a fin de coordinar los apoyos financieros, académicos o de desarrollo institucional, para la mejor prestación del servicio público de educación media superior.
 
+> <small>(REFORMADO, B.O. 1 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 59.
 
-El Estado, dentro de sus posibilidades presupuestales y atendiendo a las solicitudes de las instituciones públicas estatales de educación media superior, asignará los recursos necesarios para la consecución de sus fines. Las instituciones deberán realizar acciones para incrementar sus recursos propios y ampliar sus fuentes de financiamiento.
+El Estado, para la consecución de los fines de las instituciones públicas estatales de educación medía superior, destinará en el proyecto de presupuesto de egresos del Gobierno del Estado que presente al Congreso del Estado, anualmente, una previsión de recursos para la constitución y operación de un fondo para las instituciones públicas de nivel medio superior pertenecientes al sistema educativo del Estado. Los recursos del fondo a los que se hace mención en este párrafo no deberán ser menores al equivalente a, cuando menos, el 0.5% del presupuesto de egresos que anualmente apruebe el Congreso del Estado para el Poder Ejecutivo.
+
+No obstante lo anterior, las instituciones deberán realizar acciones para incrementar sus recursos propios y ampliar sus fuentes de financiamiento.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 59 BIS.- La Secretaría de Educación y Cultura realizará la entrega de los recursos del fondo a que se refiere el párrafo primero del artículo 59, para su ejercicio directo en las instituciones públicas del nivel medio superior pertenecientes al sistema educativo del Estado, atendiendo a lo siguiente:
+
+I.- Los recursos del fondo serán depositados a las respectivas cuentas bancarias que para tales efectos cuenten cada una de las instituciones beneficiadas o en cheque nominativo.
+
+II.- El total de los recursos del fondo que le corresponden a cada institución, éstos deberán entregarse a cada una de ellas a más tardar en el mes de marzo de cada año.
+
+III.- En la distribución de los recursos se dará una mayor asignación al subsistema que muestre los mejores indicadores anuales en cobertura, eficiencia terminal, deserción y niveles de aprobación de sus estudiantes.
+
+El Director de cada institución educativa deberá tener un registro actualizado de los recursos recibidos y ejercidos. En los meses de junio y diciembre deberá elaborar y presentar a la Secretaría, un informe sobre el estado que guarda la aplicación de los recursos del fondo a que se refiere el párrafo primero del artículo 59 de esta ley.
+
+> <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 59 BIS A.- Los recursos provenientes del fondo a que se refiere el párrafo primero del artículo 59 de esta ley, deberán destinarse para la atención de necesidades de gasto inherentes al proceso educativo en el ramo de infraestructura o para apoyo de estudiantes con el objeto de disminuir la deserción escolar, debiendo informar a la Secretaría de las acciones realizadas; asimismo, podrán ser aplicados en proyectos de inversión conjunta con autoridades municipales, estatales o federales.
+
+Todas las operaciones que se realicen deberán estar soportadas con la documentación comprobatoria correspondiente. Dicha documentación quedará bajo guarda y custodia de los respectivos planteles educativos y estará a disposición de la Secretaría y de los Órganos de Control correspondientes.
 
 ###### ARTICULO 60.
 
@@ -1098,3 +1120,13 @@ B.O. 18 DE JULIO DE 2011.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 1 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá contemplar, dentro de la iniciativa de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal del año 2012, los recursos necesarios para que puedan materializarse las disposiciones del presente Decreto, en caso de no incluirse, el Congreso del Estado deberá realizar las reasignaciones que resulten necesarias.
