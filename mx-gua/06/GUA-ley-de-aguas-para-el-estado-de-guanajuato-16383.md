@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-aguas-para-el-estado-de-guanajuato-16383"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2000-05-26"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE AGUAS PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de mayo de 2000.
 
@@ -59,21 +59,39 @@ Son aguas de jurisdicción estatal aquéllas que no reúnan las características
 
 Para efectos de esta Ley, se entenderá por:
 
-I.- Cuerpo Receptor. La corriente o depósito natural de agua de jurisdicción estatal, presas, cauces, embalses creados por el hombre, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales;
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-II.- Gestión del Agua. El conjunto de principios, acciones, recursos e instrumentos previstos en esta Ley, para la explotación, uso, aprovechamiento y control de las aguas de jurisdicción estatal;
+I.- Comité Consultivo de la Cultura del Agua. Estructura social encargada de proponer políticas y acciones, que tengan como fin coadyuvar para el logro de los objetivos que conforman el Sistema Estatal de la Cultura del Agua, en coordinación con las autoridades competentes;
 
-III.- La Comisión. El organismo público descentralizado de la administración pública estatal denominado Comisión Estatal del Agua de Guanajuato;
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-IV.- Organismo Operador del Servicio. La dependencia o entidad pública municipal o privada responsable de la prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+II.- Cuerpo Receptor. La corriente o depósito natural de agua de jurisdicción estatal, presas, cauces, embalses creados por el hombre, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales;
 
-V.- Uso doméstico. La utilización de agua para el suministro de centros de población a través de la red municipal, así como otras redes que presten servicio colectivo de agua en beneficio de personas físicas o morales, y la destinada al uso particular de las personas y a su hogar;
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-VI.- Uso comercial y de servicios. La utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes y servicios;
+III.- Cultura del Agua. Conjunto de comportamientos y valores de la sociedad en torno a una administración, uso y gestión participativa, corresponsable e integral del agua;
 
-VII.- Uso industrial. La utilización de agua en fábricas, empresas o parques industriales, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación; y
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Usuarios. Las personas físicas o morales que soliciten y reciban el servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
+IV.- Gestión del Agua. El conjunto de principios, acciones, recursos e instrumentos previstos en esta Ley, para la explotación, uso, aprovechamiento y control de las aguas de jurisdicción estatal;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+V.- Comisión. El organismo público descentralizado de la administración pública estatal denominado Comisión Estatal del Agua de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+VI.- Sistema Estatal de la Cultura del Agua. Conjunto de información y procesos que tiene como propósito promover cambios de conocimientos, valores y actitudes, reflejados en comportamientos sociales en torno a una gestión integral del agua para impulsar su sustentabilidad, con la participación de los distintos sectores sociales y contribuir al desarrollo social y económico sostenibles en el Estado;
+
+VII.- Organismo Operador del Servicio. La dependencia o entidad pública municipal o privada responsable de la prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+VIII.- Uso doméstico. La utilización de agua para el suministro de centros de población a través de la red municipal, así como otras redes que presten servicio colectivo de agua en beneficio de personas físicas o morales, y la destinada al uso particular de las personas y a su hogar;
+
+IX.- Uso comercial y de servicios. La utilización del agua en establecimientos y oficinas, dedicadas a la compra y venta de bienes y servicios;
+
+X.- Uso industrial. La utilización de agua en fábricas, empresas o parques industriales, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía o para cualquier otro uso o aprovechamiento de transformación; y
+
+XI.- Usuarios. Las personas físicas o morales que soliciten y reciban el servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
 
 Tratándose de definiciones de conceptos en materia de agua, será supletoria la Ley de Aguas Nacionales y su reglamento.
 
@@ -393,7 +411,15 @@ IV.- La descripción, análisis, diagnóstico de la problemática y estrategias 
 
 V.- El planteamiento de bases y principios para la elaboración del Programa Hidráulico de la Administración, así como la cuantificación de los recursos y controles en su instrumentación; y
 
-VI.- El fomento de la investigación y capacitación en materia de agua, la orientación social sobre la problemática del agua y sus soluciones; y la creación de una nueva cultura del agua acorde con la realidad estatal.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+VI.- El fomento de la investigación y capacitación en materia de agua, la orientación social sobre la problemática del agua y sus soluciones; y la creación de una Cultura del Agua acorde con la realidad social del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 26 Bis.
+
+La Secretaría de Educación participará en la elaboración de los lineamientos generales en materia de Cultura del Agua contenido en el Programa Estatal Hidráulico.
 
 ###### Artículo 27.
 
@@ -699,19 +725,155 @@ Las autoridades en materia de agua promoverán una cultura para el uso eficiente
 
 I.- Concientizar a la población que el elemento agua es un recurso vital y escaso que debe aprovecharse con racionalidad y eficiencia;
 
-II.- Promover la utilización de aparatos ahorradores;
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-III.- Propiciar la prevención y control de la contaminación;
+II.- Realizar diagnósticos periódicos a fin de identificar las condiciones de consumo del agua y el uso racional de la misma en el Estado;
 
-IV.- Promover su saneamiento; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-V.- Procurar un entorno educativo que difunda los beneficios del uso eficiente y cuidado del agua, así como el respeto al medio ambiente.
+III.- Promover la utilización de aparatos y dispositivos ahorradores;
 
-### CAPÍTULO SEGUNDO. DEL CONTROL DE AVENIDAS Y PROTECCIÓN CONTRA INUNDACIONES, SEQUÍAS Y OTROS FENÓMENOS EXTREMOS
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO ÚNICO. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LAS AGUAS
+IV.- Coordinar el desarrollo de sus actividades con organismos públicos y privados, para la implementación de campañas de asistencia técnica, capacitación, promoción y difusión, concientización y demás que garanticen el cuidado óptimo del agua y el fomento de la Cultura del Agua;
 
-### CAPÍTULO PRIMERO. DE LA INSPECCIÓN Y VERIFICACIÓN DE LAS AGUAS DE JURISDICCIÓN ESTATAL
+V.- Propiciar la prevención y control de la contaminación;
+
+VI.- Promover su saneamiento;
+
+VII.- Procurar un entorno educativo que difunda los beneficios del uso eficiente y cuidado del agua, así como el respeto al medio ambiente;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Informar a la población sobre la escasez del agua, los costos de proveerla y su valor económico, social y ambiental y fortalecer la cultura del pago por el servicio de agua su tratamiento y el de alcantarillado;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+IX.- Otorgar reconocimientos a los organismos públicos o privados que fomenten y difundan la Cultura del Agua; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+X.- Coordinarse con las autoridades educativas para promover en todos los tipos y niveles educativos los conceptos de la Cultura del Agua, en particular, sobre la disponibilidad del recurso; su valor económico, social y ambiental; uso eficiente; tratamiento y reúso de las aguas residuales; la conservación del agua y su entorno.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Bis.
+
+El Titular del Poder Ejecutivo podrá otorgar estímulos fiscales a las entidades públicas, organismos no gubernamentales y demás instituciones, que se destaquen por sus acciones y esfuerzos en materia de cuidado y uso racional del agua, previa opinión de la Comisión, en los términos que establece el Código Fiscal para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Ter.
+
+La Comisión establecerá los lineamientos para la implementación de políticas para reducir el consumo de agua potable, así como para fomentar su uso racional con la finalidad de hacer eficiente y eficaz su consumo en los organismos públicos.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Quater.
+
+Las personas y los organismos públicos o privados que se destaquen en su labor en la promoción de la Cultura del Agua, por el cuidado y uso eficiente de la misma, podrán ser consideradas por el Congreso del Estado para el otorgamiento de los reconocimientos establecidos en el artículo 21 de la Ley de Premios y Estímulos al Mérito Ciudadano para el Estado de Guanajuato.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LA PROMOCIÓN DEL USO EFICIENTE Y CUIDADO DEL AGUA
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Quinquies.
+
+Con la finalidad de promover el cuidado y uso eficiente del agua, las autoridades en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones:
+
+I.- Fomentar y difundir mediante programas y acciones, los beneficios sociales, económicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua subterránea y superficial;
+
+II.- Promover la realización de estudios de investigación, desarrollo y utilización de tecnología para la protección del recurso y la asignación de manera eficiente y equitativa entre los distintos usuarios, tomando en consideración los estudios y análisis del Instituto Mexicano de Tecnología del Agua y otros Centros de Investigación;
+
+III.- Propiciar el uso de infraestructura que permita cuidar y usar de manera razonable el agua, en el desarrollo inmobiliario y demás obras en el estado;
+
+IV.- Promover planes y programas coordinados con los organismos públicos y privados vinculados a la cultura, cuidado y uso razonable del agua;
+
+V.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la Cultura del Agua;
+
+VI.- Implementar programas permanentes para detectar fugas y promover la sustitución de redes públicas; y
+
+VII.- Elaborar los proyectos ejecutivos que permitan cumplir los propósitos de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO TERCERO. DEL COMITÉ CONSULTIVO DE LA CULTURA DEL AGUA
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Sexies.
+
+La Comisión tendrá las atribuciones para promover, coordinar, implementar y desarrollar de manera permanente planes integrales y programas de la Cultura del Agua en los que se refleje un uso racional y cuidado del agua en coordinación con los organismos operadores del agua en el estado y el Comité Consultivo de la Cultura del Agua.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Septies.
+
+El Comité Consultivo de la Cultura del Agua estará integrado por representantes de:
+
+I.- La Comisión;
+
+II.- La Secretaría de Educación;
+
+III.- El Consejo Estatal Hidráulico;
+
+IV.- Instituciones de investigación y educación superior;
+
+V.- Colegios de profesionistas;
+
+VI.- Organizaciones sociales;
+
+VII.- Organizaciones empresariales; y
+
+VIII.- Asociaciones de habitantes y de usuarios.
+
+El representante de la Comisión fungirá como secretario técnico del Comité Consultivo de la Cultura del Agua.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Octies.
+
+La elección de los integrantes del Comité Consultivo de la Cultura del Agua, su funcionamiento y organización se regularán conforme a lo dispuesto por el reglamento respectivo, atendiendo los siguientes criterios generales:
+
+I.- En su integración deberá de prevalecer el carácter ciudadano, de tal suerte los integrantes provenientes de la sociedad civil tendrán que superar siempre en número a los funcionarios públicos;
+
+II.- La presidencia de este comité deberá recaer, preferentemente, en uno de sus integrantes provenientes de la sociedad civil;
+
+III.- El comité Consultivo de la cultura del agua deberá reunirse para sesionar al menos una vez cada cuatro meses; y
+
+IV.- Sus acuerdos se tomarán por mayoría de votos de los presentes y el presidente tendrá voto dirimente en caso de empate.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66 Nonies.
+
+El Comité Consultivo de la Cultura del Agua, como órgano de asesoría y consulta, tendrá las siguientes funciones:
+
+I.- Participar en la elaboración, ejecución y difusión del Programa Estatal de la Cultura del Agua;
+
+II.- Coadyuvar con la Comisión en la generación de las políticas de la materia;
+
+III.- Participar en la elaboración de los diagnósticos sociales en materia de Cultura del Agua y difundir sus resultados;
+
+IV.- Promover e implementar programas de vinculación homologados entre las autoridades del agua y las organizaciones de la sociedad civil en materia de la Cultura del Agua;
+
+V.- Proponer y aprobar los productos y materiales que promuevan la Cultura del Agua;
+
+VI.- Evaluar los impactos del Programa Estatal de la Cultura del Agua;
+
+VII.- Propiciar la creación y fortalecimiento de espacios de capacitación, consulta y difusión en materia de la Cultura del Agua;
+
+VIII.- Promover y participar en eventos relacionados con la Cultura del Agua;
+
+IX.- Proponer mecanismos alternativos de financiamiento para el Programa de la Cultura del Agua, y
+
+X.- En general todas aquellas que sean necesarias para cumplir con sus facultades.
+
+(REUBICADO ANTES CAPÍTULO SEGUNDO, P.O. 2 DE DICIEMBRE DE 2011)
+
+### CAPÍTULO CUARTO. DEL CONTROL DE AVENIDAS Y PROTECCIÓN CONTRA INUNDACIONES, SEQUÍAS Y OTROS FENÓMENOS EXTREMOS
 
 ###### Artículo 67.
 
@@ -723,7 +885,7 @@ La Comisión coadyuvará con la federación, estados y municipios en las medidas
 
 ## TÍTULO SÉPTIMO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LAS AGUAS
 
-### CAPÍTULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO ÚNICO. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LAS AGUAS
 
 ###### Artículo 69.
 
@@ -781,7 +943,7 @@ Cuando se decrete la revocación, la Comisión previa audiencia con el interesad
 
 ## TÍTULO OCTAVO. INSPECCIÓN, VERIFICACIÓN, INFRACCIONES, SANCIONES Y RECURSO
 
-### CAPÍTULO TERCERO. DEL RECURSO DE REVOCACIÓN
+### CAPÍTULO PRIMERO. DE LA INSPECCIÓN Y VERIFICACIÓN DE LAS AGUAS DE JURISDICCIÓN ESTATAL
 
 ###### Artículo 77.
 
@@ -802,6 +964,8 @@ El proceso de inspección y verificación de aguas de jurisdicción estatal, se 
 ###### Artículo 80.
 
 Los resultados de la inspección y verificación de las descargas de aguas residuales, producirán todos los efectos legales y podrán servir de base para que la Comisión y las demás dependencias y entidades estatales competentes, apliquen las sanciones previstas en esta Ley. El proceso que se instaure para la supervisión, vigilancia y fiscalización de las disposiciones contenidas en este Capítulo, se realizará en los términos que prevean los reglamentos de esta Ley.
+
+### CAPÍTULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 81.
 
@@ -933,6 +1097,8 @@ XIII.- Las demás que resulten de esta Ley y de los reglamentos correspondientes
 
 Los ayuntamientos deberán expedir los reglamentos que establezcan las sanciones por las infracciones cometidas, las cuales se aplicarán por los organismos operadores del servicio; a falta de disposiciones reglamentarias se considerarán, en lo conducente, las previstas en este Capítulo.
 
+### CAPÍTULO TERCERO. DEL RECURSO DE REVOCACIÓN
+
 ###### Artículo 92.
 
 Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los afectados, mediante el recurso de revocación, dentro de los quince días hábiles siguientes a la fecha de su notificación.
@@ -943,9 +1109,11 @@ Cuando la resolución impugnada haya sido emitida por las autoridades municipale
 
 El recurso de revocación se interpondrá directamente ante la autoridad que emitió la resolución impugnada. Los afectados podrán optar entre agotar el recurso de revocación o acudir directamente ante el Tribunal de lo Contencioso Administrativo.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 94.
 
-En la substanciación del recurso de revocación serán aplicables las disposiciones de la Ley de Justicia Administrativa del Estado de Guanajuato.
+En la substanciación del recurso de revocación serán aplicables las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado de Guanajuato.
 
 ## TRANSITORIOS
 
@@ -978,3 +1146,17 @@ LIC. RAMÓN MARTÍN HUERTA.
 EL SECRETARIO DE GOBIERNO
 
 LIC. ANTONIO OBREGÓN PADILLA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente decreto entrará en vigencia al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo adecuará el reglamento de esta Ley dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
+
+Artículo Tercero.- El Titular del Poder Ejecutivo expedirá el reglamento del Comité Consultivo de la Cultura del Agua dentro de los ciento ochenta días siguientes a la entrada en vigencia del presente decreto.
+
+Artículo Cuarto.- Los Ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Artículo Quinto.- El Comité Consultivo de la Cultura del Agua deberá ser constituido dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
