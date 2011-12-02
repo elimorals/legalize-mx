@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-10-07"
+last_updated: "2011-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1472,6 +1472,14 @@ Si del abandono se pone en situación de peligro la integridad física y moral d
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 Artículo 158 BIS.- Al que exponga a una persona incapaz de valerse por si misma, teniendo la obligación de cuidarla, se le impondrá una pena de uno a cuatro años de prisión y hasta cien días de multa. Si el responsable es ascendiente o tutor, además, perderá los derechos que tenga sobre la persona y bienes del menor.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+No se impondrá pena alguna a quien ejerciendo la patria potestad de un menor lo entregue en las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, ya sea, por ignorancia, extrema pobreza o cuando sea producto de una violación debidamente denunciada o inseminación artificial practicada en contra de la voluntad de la embarazada o cuando por el padecimiento de una enfermedad o edad avanzada, no esté en posibilidad de brindarle lo necesario para su subsistencia y siempre que el menor entregado no supere los seis meses de edad y además que no muestre signos de maltrato, violencia o estado de salud precario que pudiera representar la comisión de un delito en contra del menor.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Respecto al párrafo anterior, cuando se trata de ignorancia o pobreza extrema y sea mayor de edad el padre o la madre que entregue al menor, será necesario el consentimiento de ambos al momento de la entrega del menor de seis meses; y en el caso de que los padres o uno solo sean menores de edad, en cualquier de las hipótesis de excluyente de delito señaladas, deberá contar con la aprobación de quien ejerza la patria potestad, con excepción del supuesto que derive de una violación debidamente denunciada o inseminación artificial practicada en contra de la voluntad de la embarazada.
 
 ###### Artículo 159.
 
@@ -4726,3 +4734,7 @@ P.O. 15 DE JULIO DE 2011.
 P.O. 7 DE OCTUBRE DE 2011.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
