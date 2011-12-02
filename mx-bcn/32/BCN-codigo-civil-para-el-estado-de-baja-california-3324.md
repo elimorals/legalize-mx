@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2011-01-03"
+last_updated: "2011-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -368,6 +368,10 @@ La Institución de Salud entregará el certificado a la madre, para la correspon
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2009)</small>
 
 Recibido el certificado de nacimiento, el Oficial del Registro Civil tomará las medidas que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 55 BIS.- En los términos del presente Capítulo se llevará a cabo el registro de niños o niñas entregados en las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, designados por las autoridades competentes, siempre que se acredite que el menor no se encuentra registrado y que no se haya solicitado la devolución del menor por los padres biológicos, conjunta o separadamente en los términos previstos por el presente código.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -3085,7 +3089,7 @@ Los tutores y curadores no pueden ser removidos de su cargo sin que previamente 
 
 ###### ARTICULO 461.
 
-La persona menor de dieciocho años de edad, que fuere persona que no tenga capacidad para comprender el significado del hecho, no solo por razón de la edad sino por las demás causas previstas en el artículo 447 de esta Ley, estará sujeto a la tutela, mientras no cumple dieciocho años de edad, si al cumplirse ésta continuare alguna de las hipótesis por las que la persona no tenga capacidad para comprender el significado del hecho se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+La persona menor de dieciocho años de edad, que fuere persona que no tenga capacidad para comprender el significado del hecho, no solo por razón de la edad sino por las demas causas previstas en el artículo 447 de esta Ley, estará sujeto a la tutela, mientras no cumple dieciocho años de edad, si al cumplirse ésta continuare alguna de las hipótesis por las que la persona no tenga capacidad para comprender el significado del hecho se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -3279,11 +3283,13 @@ La tutela pública es la ejercida temporalmente por el Sistema Estatal para el D
 
 No será necesario el discernimiento del cargo para el ejercicio de la tutela pública.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 491.
 
-Los directores de las inclusas, hospicios y demás casas de asistencia social tendrán el carácter de custodios temporales de los expósitos, abandonados o personas que no tengan la capacidad para comprender el significado del hecho, que reciban en los establecimientos a su cargo; lugares en los que estos permanecerán bajo la tutela de la procuraduría para la Defensa de los Menores y la Familia del Estado, hasta que esta resuelva sobre su reincorporación al seno familiar, autorice la iniciación para el trámite de adopción, asigne hogar sustituto o con base en otra causa legítima, disponga interrumpir o poner término a la estancia de estos en tales establecimientos.
+Los directores de las inclusas, instituciones públicas de salud, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social tendrán el carácter de custodios temporales de expósitos, abandonados o personas que no tengan capacidad para comprender el significado del hecho que reciben los establecimientos a su cargo; lugares en donde éstos permanecerán bajo la tutela de la Procuraduría para la Defensa de los Menores y la Familia en el Estado, hasta que esta resuelva su reincorporación al seno familiar, autorice la iniciación de trámites para la adopción, asigne hogar sustituto o con base en cualquiera otra causa legítima (sic) disponga interrumpir o poner término a la estancia de éstos en tales establecimientos.
+
+En términos del Artículo 158 BIS del Código Penal del Estado de Baja California, son los Hospitales de la Secretaría de Salud del Estado, así como los Albergues del Sistema Estatal para el Desarrollo Integral de la Familia que en tal función se harán cargo de recibir de manera segura, profesional y digna a menores expósitos de hasta seis meses de edad entregados por sus padres, a fin de brindarles la custodia, protección y cuidados correspondientes de manera temporal, en tanto son enviados a las casas de asistencia ya sean públicas o privadas, o en espera de ser adoptados.
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
@@ -16012,3 +16018,11 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 P.O. 3 DE ENERO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El Ejecutivo Estatal por conducto de la Secretaría de Salud deberá emitir las disposiciones reglamentarias para el cumplimiento con el objetivo de la reforma.
+
+SEGUNDO.- El Ejecutivo deberá hacer las adecuaciones presupuestales necesarias para el ejercicio fiscal siguiente, para dar cumplimiento con el objetivo de la reforma.
+
+TERCERO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
