@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2011-10-28"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NÚMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -677,19 +677,21 @@ En estos supuestos el Ministerio Público, bajo su responsabilidad, ordenará su
 
 Para la detención de una persona en cumplimiento a una orden de aprehensión, reaprehensión o presentación, la policía ministerial o la autoridad que ejecute dicha orden, deberá identificar plena y fehacientemente a la persona, debiendo observar los requisitos establecidos en el quinto párrafo del artículo 54 de este Código y de ser factible acompañar una fotografía, los cuales deberán estar consignados en el parte policial elaborado al proceso penal, bajo responsabilidad en caso de incumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 70.
 
-Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Artículo 112; Secuestro, señalado en el Artículo 129; Asalto contra un poblado, a que se refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II y III, todos del Código Penal vigente.
+Se califican como delitos graves para todos los efectos legales, los siguientes: Homicidio, previsto en los Artículos 103, 104 y 108; Homicidio y Lesiones Culposos previsto en el Tercer Párrafo del Artículo 112; Secuestro, señalado en el Artículo 129 y 129 Bis 4; Asalto contra un poblado, a que refiere el Artículo 136; Violación, señalado por los Artículos 139 al 142; Robo, contenido en el Artículo 163 Fracción III, en relación con el 164; Abigeato contemplado en el Artículo 167 Primer Párrafo; Extorsión, previsto por el Artículo 174; Ataque a los Medios de Transporte, previsto en el Artículo 206; Rebelión, previsto en los Artículos del 229 al 232, con la parte final del Artículo 230; Terrorismo, previsto en el Artículo 234 en su Primer Párrafo, y Sabotaje, previsto en el Artículo 235 Fracciones I, II, y III, todos del Código Penal vigente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
 También se califican como delitos graves para todos los efectos legales, los siguientes: Despojo, previsto en el artículo 177, segundo párrafo; los artículos 216, 216 Bis 2 y 217 relativos a delitos contra la formación de las personas menores de edad y la protección integral de personas que no tienen la capacidad para comprender el significado del hecho y a la pornografía con utilización de imágenes y/o voz de personas menores de edad o de personas que no tienen la capacidad para comprender el significado del hecho, respectivamente; Contra la administración de justicia cometidos por servidores públicos, previsto en la fracción XXIX del artículo 269 y Evasión de presos contenido en el artículo 273, todos del Código Penal en vigor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
@@ -1822,6 +1824,26 @@ P.O. 28 DE OCTUBRE DE 2011.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+DECRETO No. 840, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 70 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NÚMERO 357.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+DECRETO No. 841, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 70 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ###### ARTÍCULO SEGUNDO.
 
