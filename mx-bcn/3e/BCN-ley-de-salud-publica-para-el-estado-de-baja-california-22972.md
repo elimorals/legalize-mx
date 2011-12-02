@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2011-07-01"
+last_updated: "2011-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -473,15 +473,45 @@ III.- La detección temprana de la sordera y su tratamiento, en todos sus grados
 
 IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-V.- La promoción de la integración y del bienestar familiar; y
+V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionara atención pre-hospitalaria o de urgencia según sea el caso.
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
 VI.- La atención del preescolar y escolar en los centros educativos.
 
-#### SECCION IV. DE LA PLANIFICACION FAMILIAR
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION III-BIS. DE LA ENTREGA DE MENORES DE HASTA SEIS MESES DE EDAD, POR PARTE DEL PADRE O MADRE
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 22 BIS.- Las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, se harán cargo de recibir en forma segura a los menores de hasta seis meses de edad, en los términos del Artículo 158 BIS del Código Penal para el Estado de Baja California. Su instrumentación se llevará a cabo por conducto del Ejecutivo del Estado a través de la Secretaría de Salud del Estado y serán considerados como tales únicamente los instalados y ubicados en las instituciones públicas de salud del Estado de Baja California. Las diversas autoridades sanitarias incluyendo las instituciones de seguridad pública y demás entidades relacionadas con la recepción de menores únicamente serán consideradas como puertos de transferencia de los menores por lo que cualquier institución excluida de las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, deberán de entregar en forma inmediata a cualquier menor recibido a las instituciones públicas de salud del estado debidamente instrumentadas y autorizadas para tal efecto.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 22 TER.- La atención médica a los menores de hasta seis meses de edad entregados en las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, constituye un derecho prioritario para procurar el bienestar y sano desarrollo de los menores, asimismo tiene la obligación el Ejecutivo Estatal a través de la Secretaría, de brindar servicios especializados en pediatría y nutrición, y en materia de medicina preventiva establecer las características adecuadas con el fin de proteger la integridad física del menor.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 22 QUATER.- El Ejecutivo Estatal en coordinación con las autoridades competentes y las instituciones públicas, fomentará y apoyará a los menores en lo relativo a realizar campañas de difusión e información del servicio con el objeto de brindar una alternativa de vida digna y segura al menor.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 22 QUINQUIES.- Las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, deberán de alertar inmediatamente al personal médico, al recibir a un menor de hasta seis meses, a fin de atenderlo oportunamente.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 22 SEXIES.- Las Instituciones Públicas de Salud del Estado, Albergues del Sistema Estatal para el Desarrollo Integral de la Familia y demás casas de asistencia social, deberán llevar un registro de los menores entregados, mismo que deberá incluir:
+
+a.- Fecha y hora de la entrega;
+
+b.- Peso y talla del menor;
+
+c.- Huellas digitales del menor, y
+
+d.- El número aproximado de semanas de edad del menor.
 
 ###### ARTÍCULO 23.
 
@@ -521,7 +551,7 @@ Corresponde a la Secretaría de Salud del Estado, emitir los lineamientos y reco
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre la Secretaría de Salud del Estado y las Autoridades Educativas competentes.
 
-#### SECCION V. DE LA SALUD MENTAL
+#### SECCION IV. DE LA PLANIFICACION FAMILIAR
 
 ###### ARTÍCULO 26.
 
@@ -549,7 +579,7 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 La Secretaría de Salud del Estado coadyuvará con la federación para instrumentar y operar las acciones del programa nacional de planificación familiar que se formule conforme a la Ley General de Población.
 
-#### SECCION VI. DE LA ASISTENCIA SOCIAL
+#### SECCION V. DE LA SALUD MENTAL
 
 ###### ARTÍCULO 29.
 
@@ -593,7 +623,7 @@ II.- Enfermos mentales que sean internados para su recuperación, a solicitud de
 
 III.- Enfermos mentales que representen un peligro para la sociedad o su familia.
 
-#### SECCION VII. DE LOS PRESTADORES DE SERVICIOS DE SALUD
+#### SECCION VI. DE LA ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 35.
 
@@ -609,7 +639,7 @@ Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisi
 
 En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, personas con capacidades diferentes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes.
 
-#### SECCION VIII. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y LA PARTICIPACION CIUDADANA
+#### SECCION VII. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
 ###### ARTÍCULO 37.
 
@@ -639,49 +669,7 @@ Estos servicios comprenderán la atención médica, la atención materno infanti
 
 Son servicios privados, los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales civiles y mercantiles, sin perjuicio de los requisitos y obligaciones que establezcan otras disposiciones aplicables.
 
-#### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES, AUDITIVAS Y VISUALES
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
-
-ARTÍCULO 50 BIS.- El Ejecutivo del Estado a través de la Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias Federales elaborarán programas y campañas temporales o permanentes para la prevención y control de las enfermedades bucodentales, auditivas y visuales.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
-
-ARTÍCULO 50 BIS 1.- El Ejercicio de la acción de prevención y control de las enfermedades bucodentales, auditivas y visuales, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
-
-I.- La detección oportuna de las enfermedades bucodentales, auditivas y visuales y la evaluación del riesgo de adquirirlas;
-
-II.- La divulgación de medidas higiénicas y de prevención para el control de los padecimientos bucodentales y audiovisuales;
-
-III.- La prevención específica en cada caso y la vigilancia de su cumplimiento, y
-
-IV.- Las demás que sean necesarias para la prevención, tratamiento y control de las enfermedades bucodentales, auditivas y visuales que se presenten en la población.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
-
-ARTÍCULO 50 BIS 2.- La detección y prevención de las enfermedades bucodentales, auditivas, y visuales en la población preescolar tiene carácter prioritario, los programas que la Secretaría de Salud del Estado elabore para atender este sector serán permanentes. Además de las medidas señaladas en el artículo anterior realizará:
-
-I.- Acciones para el fomento y educación de la salud bucodental, auditiva y visual de los preescolares;
-
-II.- Actividades que promuevan la participación activa de los padres en la detección y prevención de las enfermedades bucodentales auditivas y visuales del preescolar;
-
-III.- Acuerdos de coordinación con las instituciones de los sectores público, social y privado, con el objeto de alcanzar una amplia cobertura en la atención de los servicios de salud bucodental, auditiva y visual del preescolar, y
-
-IV.- Acciones que permitan el acceso de la salud bucodental, auditiva y visual a la comunidad preescolar de los centros educativos ubicados en zonas rurales de la Entidad.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
-
-ARTÍCULO 50 BIS 3.- Se establece la Cartilla Estatal de Salud Bucal, como el documento oficial de carácter gratuito que de forma individual, permita llevar un registro y control de la atención bucodental del educando; la Secretaría de Salud del Estado y las Autoridades Educativas Estatales determinarán su contenido, tomando en cuenta los objetivos de los programas estatal y nacional para la prevención y control de las enfermedades bucodentales.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
-
-ARTÍCULO 50 BIS 4.- La prevención y control de la salud bucal de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, los sectores de salud y educativo del Estado.
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
-
-ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
+#### SECCION VIII. DE LOS USUARIOS DE LOS SERVICIOS DE SALUD Y LA PARTICIPACION CIUDADANA
 
 ###### ARTÍCULO 41.
 
@@ -738,6 +726,50 @@ Para los efectos del artículo anterior, las Autoridades Sanitarias del Estado p
 Se concede acción popular para denunciar ante las Autoridades Sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2005)</small>
+
+#### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES, AUDITIVAS Y VISUALES
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 50 BIS.- El Ejecutivo del Estado a través de la Secretaría de Salud del Estado, en coordinación con las autoridades sanitarias Federales elaborarán programas y campañas temporales o permanentes para la prevención y control de las enfermedades bucodentales, auditivas y visuales.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 50 BIS 1.- El Ejercicio de la acción de prevención y control de las enfermedades bucodentales, auditivas y visuales, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+
+I.- La detección oportuna de las enfermedades bucodentales, auditivas y visuales y la evaluación del riesgo de adquirirlas;
+
+II.- La divulgación de medidas higiénicas y de prevención para el control de los padecimientos bucodentales y audiovisuales;
+
+III.- La prevención específica en cada caso y la vigilancia de su cumplimiento, y
+
+IV.- Las demás que sean necesarias para la prevención, tratamiento y control de las enfermedades bucodentales, auditivas y visuales que se presenten en la población.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+
+ARTÍCULO 50 BIS 2.- La detección y prevención de las enfermedades bucodentales, auditivas, y visuales en la población preescolar tiene carácter prioritario, los programas que la Secretaría de Salud del Estado elabore para atender este sector serán permanentes. Además de las medidas señaladas en el artículo anterior realizará:
+
+I.- Acciones para el fomento y educación de la salud bucodental, auditiva y visual de los preescolares;
+
+II.- Actividades que promuevan la participación activa de los padres en la detección y prevención de las enfermedades bucodentales auditivas y visuales del preescolar;
+
+III.- Acuerdos de coordinación con las instituciones de los sectores público, social y privado, con el objeto de alcanzar una amplia cobertura en la atención de los servicios de salud bucodental, auditiva y visual del preescolar, y
+
+IV.- Acciones que permitan el acceso de la salud bucodental, auditiva y visual a la comunidad preescolar de los centros educativos ubicados en zonas rurales de la Entidad.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 3.- Se establece la Cartilla Estatal de Salud Bucal, como el documento oficial de carácter gratuito que de forma individual, permita llevar un registro y control de la atención bucodental del educando; la Secretaría de Salud del Estado y las Autoridades Educativas Estatales determinarán su contenido, tomando en cuenta los objetivos de los programas estatal y nacional para la prevención y control de las enfermedades bucodentales.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 4.- La prevención y control de la salud bucal de los menores es una responsabilidad que comparten los padres, los tutores o quienes ejerzan la patria potestad sobre ellos, los sectores de salud y educativo del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 #### SECCION X. DONACION Y TRASPLANTES
 
@@ -799,11 +831,9 @@ ARTÍCULO 50 TER 5.- Las ausencias de los demás servidores públicos, serán cu
 
 #### SECCION II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
-#### SECCION III. DE LOS ACCIDENTES
-
 ### CAPITULO QUINTO. DE LOS RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+#### SECCION III. DE LOS ACCIDENTES
 
 ###### ARTÍCULO 51.
 
@@ -839,7 +869,7 @@ El número de registro deberá consignarse en los documentos y papelería utiliz
 
 La Secretaría de Salud del Estado coadyuvará con el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social, en la vigilancia del ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
 
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
+#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTÍCULO 57.
 
@@ -863,11 +893,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 62.
 
@@ -957,25 +983,11 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 ### CAPITULO SEPTIMO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
-
-I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
-
-II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
-
-ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
-
-I.- La detección y tratamiento de la ludopatía; y
-
-II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
-
-De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 73.
 
@@ -1097,9 +1109,25 @@ El Gobierno del Estado, a través de la Secretaría de Salud del Estado y las Au
 
 Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de orientar a la población, en la necesidad de vacunar y mantener bajo control los animales domésticos. Igualmente orientarán a la población sobre los diferentes sistemas para esterilizar a los animales domésticos, en forma voluntaria o en su caso obligatoria.
 
-#### SECCION I. DISPOSICIONES COMUNES
+#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
+
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
+
+I.- La detección y tratamiento de la ludopatía; y
+
+II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
+
+De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
 
 ###### ARTÍCULO 89.
 
@@ -1123,7 +1151,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+#### SECCION I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 92.
 
@@ -1147,6 +1177,8 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 ### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
 
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+
 #### SECCION III. DE LAS FUNERARIAS Y PANTEONES
 
 #### SECCION IV. DE LA LIMPIEZA PUBLICA
@@ -1154,8 +1186,6 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 #### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 #### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
-
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ### CAPITULO NOVENO. DE LAS ADICCIONES
 
@@ -1197,7 +1227,7 @@ Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar estab
 
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 99.
 
@@ -1225,7 +1255,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 102.
 
@@ -1257,7 +1287,7 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
 
 ###### ARTÍCULO 105.
 
@@ -1285,21 +1315,19 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
+
 #### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
 
 (NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
+### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
+
 #### SECCION I. DE LAS AUTORIZACIONES
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
-
-### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
-
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 107.
 
@@ -1321,7 +1349,9 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1340,6 +1370,8 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 ###### ARTÍCULO 113.
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 114.
 
@@ -2240,3 +2272,11 @@ P.O. 1 DE JULIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría de Salud del Estado, contará hasta con 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar su reglamento interno.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El Ejecutivo Estatal por conducto de la Secretaría de Salud deberá emitir las disposiciones reglamentarias para el cumplimiento con el objetivo de la reforma.
+
+SEGUNDO.- El Ejecutivo deberá hacer las adecuaciones presupuestales necesarias para el ejercicio fiscal siguiente, para dar cumplimiento con el objetivo de la reforma.
+
+TERCERO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
