@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-39683
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-25"
-last_updated: "2010-06-11"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de mayo de 2004.
 
@@ -63,53 +63,117 @@ IV.- Entidades paraestatales y paramunicipales.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Contratante.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos por Ley y los Ayuntamientos, facultados para contratar sobre la materia, en los términos de esta Ley y otras disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+I. Adjudicación directa.- El procedimiento mediante el cual un ente público asigna directamente a una persona física o moral inscrita en el padrón, la ejecución de una obra pública o servicio relacionado con la misma, de acuerdo a lo dispuesto por esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+II. Contratante.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos por Ley y los Ayuntamientos, facultados para contratar sobre la materia, en los términos de esta Ley y otras disposiciones aplicables;
 
 Para los efectos de esta Ley, se considera contratante a las entidades paraestatales y paramunicipales, siempre y cuando reúnan las características señaladas en el artículo 3;
 
-II.- Contratista o Consultor.- La persona física o moral debidamente registrada que participa en cualesquiera de los procedimientos o modalidades de contratación de obra pública o de servicios relacionados con la misma, según sea el caso, conforme a las disposiciones de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Convocante.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos por Ley y los Ayuntamientos que realizan procedimientos de adjudicación de contratos de obra pública, mediante las modalidades de licitación pública o licitación simplificada;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-IV.- Dependencia.- Unidad administrativa de los entes públicos a que se refiere esta Ley;
+III. Contratista.- La persona que celebra contratos de obra pública o de servicios relacionados con la misma conforme a las disposiciones de esta Ley;
 
-V.- Dirección Municipal.- La Dirección de Obras Públicas Municipales o quien ejecute las acciones en materia de obra pública;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Ente Público.- Los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos y Organismos Autónomos por Ley;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-VII.- Especialidad de los trabajos.- Actividad o actividades exclusivas y acreditadas por el contratista en el padrón;
+IV. Convocante.- Los entes públicos que realizan procedimientos de adjudicación de contratos de obra pública, mediante la modalidad de licitación pública;
 
-VIII.- Expediente Técnico.- Instrumento documental que reúne los elementos básicos necesarios que permiten describir el alcance, contenido y costo de una obra conforme a la normatividad que establezcan las autoridades competentes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Ley.- La Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-X.- Licitador.- Persona física o moral que participe en cualquier procedimiento de adjudicación mediante las modalidades de licitación pública o de licitación simplificada;
+V. Dependencia.- La unidad administrativa de los entes públicos a que se refiere esta Ley;
 
-XI.- Obras por Cooperación.- Las realizadas de conformidad con lo dispuesto en el Título Sexto, Capítulo Primero de la Ley de Hacienda para los Municipios del Estado de Guanajuato;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII.- Órganos de Control Interno.- La Secretaría de la Gestión Pública y los Órganos de Control Interno de los Poderes Legislativo y Judicial, así como de los Ayuntamientos y Organismos Autónomos por Ley;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-XIII.- Padrón.- El registro de las personas físicas o morales en el Estado o en los Municipios, para intervenir en algún procedimiento de adjudicación de obra pública y servicios relacionados con la misma, en los términos de esta Ley y su Reglamento;
+VI. Dirección Municipal.- La Dirección de Obras Públicas Municipales o quien ejecute las acciones en materia de obra pública;
 
-XIV.- Proyecto Ejecutivo.- Plan prospectivo encaminado a materializar un proyecto de obra pública, indicando los medios necesarios para su realización y la adecuación de esos medios a los resultados que se persiguen;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV.- Reglamento.- El Reglamento de la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato que en el ámbito de su competencia expidan el Ejecutivo del Estado y los Ayuntamientos;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-XVI.- Responsable Técnico.- Profesionista responsable que acredite su especialidad, en la ejecución de la obra pública y de los servicios relacionados con la misma y garantice a la contratante la capacidad técnica para su ejecución;
+VII. Ente Público.- Los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos, Organismos Autónomos por Ley y las entidades paraestatales y paramunicipales;
 
-XVII.- Secretaría.- La Secretaría de Obra Pública del Gobierno del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVIII.- Términos de Referencia.- Descripción de los alcances, metas y objetivos de un estudio o proyecto relacionado con el contrato;
+> <small>(REFORMADA [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+VIII. Especialidad de los trabajos.- Actividad o actividades exclusivas y acreditadas por el contratista en el padrón;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+IX. Expediente Técnico.- Instrumento documental que reúne los elementos básicos que permiten describir el alcance, contenido y costo de una obra conforme a la normatividad que establezcan las autoridades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+X. Ley.- La Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XI. Licitador.- La persona física o moral, o asociación de éstas, que participe en cualquier procedimiento de adjudicación mediante la modalidad de licitación pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XII. Obras por Cooperación.- Las realizadas de conformidad con lo dispuesto en el Título Sexto, Sección Primera de la Ley de Hacienda para los Municipios del Estado de Guanajuato;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XIII. Órganos de Control Interno.- La Secretaría de la Gestión Pública y los Órganos de Control Interno de los Poderes Legislativo y Judicial, así como de los Ayuntamientos, Organismos Autónomos por Ley y entidades paraestatales y paramunicipales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XIV. Padrón.- El Padrón Único de Contratistas para el Estado y los Municipios, consistente en el registro de personas físicas o morales para intervenir en algún procedimiento de adjudicación de obra pública y servicios relacionados con la misma, en los términos de esta Ley y su Reglamento;
+
+XV. Proyecto ejecutivo.- Plan prospectivo encaminado a materializar un proyecto de obra pública, indicando los medios necesarios para su realización y la adecuación de esos medios a los resultados que se persiguen;
+
+XVI. Reglamento.- El Reglamento de la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato que en el ámbito de su competencia expidan el Ejecutivo del Estado y los Ayuntamientos;
+
+XVII. Responsable Técnico.- Profesionista responsable que acredite su especialidad, en la ejecución de la obra pública y de los servicios relacionados con la misma y garantice a la contratante la capacidad técnica para su ejecución;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Secretaría.- La Secretaría de Obra Pública del Gobierno del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XIX. Términos de referencia.- El documento que describe los alcances, metas y objetivos de un estudio o proyecto relacionado con el contrato;
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
-XIX. Titular del área responsable.- El Secretario de Obra Pública, los responsables de la ejecución de la obra pública en las entidades paraestatales, en los Poderes Legislativo y Judicial y en los Organismos Autónomos por Ley, así como los Directores de Obras Públicas Municipales o quien ejecute las acciones en materia de obra pública en los Municipios o en las entidades paramunicipales, y
+XX. Titular del área responsable.- El Secretario de Obra Pública, los responsables de la ejecución de la obra pública en las entidades paraestatales, en los Poderes Legislativo y Judicial y en los Organismos Autónomos por Ley, así como los Directores de Obras Públicas Municipales o quien ejecute las acciones en materia de obra pública en los Municipios o en las entidades paramunicipales; y
 
-XX.- Tratados.- Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
+XXI. Tratados.- Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 3.
 
@@ -135,7 +199,7 @@ El Ejecutivo del Estado aprobará su programa de obra pública y servicios relac
 
 Igualmente los Poderes Legislativo y Judicial, así como los Organismos Autónomos por Ley y los Ayuntamientos, deberán aprobar sus respectivos programas de obra pública y lo integrarán en su presupuesto de egresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -175,7 +239,7 @@ VI.- Todas aquellas acciones de naturaleza análoga, así como las que realicen 
 
 Estará sujeta a las disposiciones de esta Ley, la inversión pública del Gobierno del Estado que destine para la creación de la infraestructura necesaria para la prestación de un servicio público que tenga concesionado, cuando la inversión sea mixta, de conformidad con lo que al efecto señale la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Guanajuato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -227,21 +291,37 @@ Cuando por las condiciones especiales de la obra pública y servicios relacionad
 
 Los actos jurídicos, contratos y convenios que con arreglo a esta Ley celebren los entes públicos, se considerarán de derecho público y observarán las disposiciones que en materia de construcción, rijan en el ámbito federal, estatal y municipal, según sea el caso.
 
-Los actos, contratos y convenios celebrados en contravención a lo dispuesto por esta Ley, serán nulos. Para efecto de decretar su nulidad, serán competentes el Tribunal de lo Contencioso Administrativo y los Juzgados Administrativos Municipales, en términos de lo dispuesto por la Ley de Justicia Administrativa y la Ley Orgánica Municipal para el Estado de Guanajuato, respectivamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Los actos, contratos y convenios celebrados en contravención a lo dispuesto por esta Ley, estarán afectados de nulidad. Para efecto de decretar su nulidad, serán competentes el Tribunal de lo Contencioso Administrativo y los Juzgados Administrativos Municipales, en términos de lo dispuesto por el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato y la Ley Orgánica Municipal para el Estado de Guanajuato, respectivamente.
 
 A falta de disposición expresa de esta Ley serán aplicables de manera supletoria y en su orden, el Código Civil para el Estado de Guanajuato, el Código de Procedimientos Civiles para el Estado de Guanajuato y la Legislación Federal de la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-Tratándose de la ejecución de obras por administración directa, las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, o los que suministren los entes públicos, deberán realizarse conforme a lo establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios Relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato y para el caso de los Ayuntamientos, de conformidad con lo establecido en el Título Octavo, Capítulo Quinto de la Ley Orgánica Municipal para el Estado de Guanajuato.
+Tratándose de la ejecución de obras por administración directa, las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, o los que suministren los entes públicos, deberán realizarse conforme a lo establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato y para el caso de los Ayuntamientos, de conformidad con lo establecido en el Título Octavo, Capítulo Quinto de la Ley Orgánica Municipal para el Estado de Guanajuato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-Los servidores públicos que tengan intervención en los procedimientos de licitación o de adjudicación directa o en cualquier acto relacionado con esta Ley, se abstendrán de celebrar actos jurídicos y administrativos que contravengan este ordenamiento, así como de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
+Los servidores públicos que tengan intervención en los procedimientos de contratación o en cualquier acto relacionado con esta Ley, se abstendrán de celebrar actos jurídicos y administrativos que contravengan este ordenamiento, así como de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
 
 I.- Aquellas con las que el servidor público que decida la adjudicación del contrato tenga un interés personal, familiar o de negocios, incluyendo aquéllas de cuya relación pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civil;
 
-II.- Las que desempeñen un empleo, cargo o comisión en la administración pública federal, estatal o municipal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+II.- Las que desempeñen un empleo, cargo o comisión en la administración pública federal, estatal o municipal, o bien las personas morales de las que dichas personas formen parte;
 
 III.- Aquellas que se encuentren inhabilitadas por resolución judicial o administrativa;
 
@@ -259,9 +339,23 @@ IX.- Las que hubieren proporcionado información falsa, en este u otro procedimi
 
 X.- Aquellas a las que se les dicte sentencia de concurso mercantil;
 
-XI.- Los licitadores que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XI.- Los licitadores que participen en un mismo procedimiento de contratación, que se encuentren vinculados entre sí por algún socio o asociado común; o bien, aquéllos que pertenezcan a cualquiera de los órganos de gobierno de la otra persona moral.
+
+Se entenderá que es socio o asociado común, aquella persona física o moral que en el mismo procedimiento de contratación es reconocida como tal en las actas constitutivas, estatutos o en sus reformas o modificaciones de dos o más empresas licitadoras, por tener una participación accionaria en el capital social, que le otorgue el derecho de intervenir en la toma de decisiones o en la administración de dichas personas morales; y
 
 XII.- Las demás que por cualquier causa análoga se encuentren impedidas por lo establecido en esta Ley y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 14 Bis.
+
+El proyectista de una obra pública no podrá ejecutar la misma ni supervisarla. Al igual que el contratista con el que éste tenga parentesco directo.
 
 ## TÍTULO SEGUNDO. PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -353,6 +447,14 @@ Asimismo, se preverán los costos para la adquisición del inmueble en el que se
 
 En los programas de inversión de la obra pública, se indicarán las fechas previstas de inicio y término, considerando todas sus etapas, las acciones o trabajos previos a su iniciación y las características ambientales, climáticas y geográficas de la región donde ha de realizarse, incluyendo las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con los trabajos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 20 Bis.
+
+Cuando se ejecuten obras o servicios relacionados con la misma al amparo de convenios entre los sujetos de esta Ley, deberá preverse que para llevar a cabo el finiquito de los contratos se cuente ya con la disponibilidad presupuestal para su liquidación. El cierre de dichos convenios queda sujeto a que previamente se haya culminado administrativamente la relación contractual de manera satisfactoria sin adeudos por liquidar entre contratante y contratista.
+
 ###### Artículo 21.
 
 Los Ayuntamientos autorizarán la aplicación de recursos financieros para los programas de obra pública y servicios relacionados con la misma, a ejecutar durante el ejercicio presupuestal, de conformidad con la planeación y programación previamente desarrollada.
@@ -377,41 +479,67 @@ Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal, podrá
 
 El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente.
 
-## TÍTULO TERCERO. PADRÓN DE CONTRATISTAS ESTATAL Y MUNICIPAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO PRIMERO. DEL PADRÓN ESTATAL DE CONTRATISTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO TERCERO. PADRÓN ÚNICO DE CONTRATISTAS PARA EL ESTADO Y LOS MUNICIPIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO PRIMERO. DEL PADRÓN ÚNICO DE CONTRATISTAS PARA EL ESTADO Y LOS MUNICIPIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-Toda persona física o moral, para poder intervenir en cualquiera de los procedimientos de contratación contemplados en esta Ley, deberá encontrarse inscrita en el padrón estatal de contratistas de obra pública y servicios relacionados con la misma, con las excepciones que para el caso establece el artículo 33 de esta Ley.
+Toda persona física o moral, para poder intervenir en cualquiera de los procedimientos de contratación contemplados en esta Ley, deberá encontrarse inscrita y su registro debidamente actualizado en el padrón, con las excepciones que para el caso establece el artículo 33 de esta Ley.
 
-La Secretaría integrará, normará y administrará el padrón estatal de contratistas de obra pública y servicios relacionados con la misma, clasificando por especialidad y capacidad a las personas inscritas en él, conforme a lo dispuesto por el Reglamento de esta Ley.
+La Secretaría integrará, normará y administrará el padrón, clasificando por especialidad y capacidad técnica y financiera a las personas inscritas en él, conforme a lo dispuesto por el Reglamento de esta Ley.
+
+Dicha clasificación no causará impedimento alguno para que una persona física o moral pueda clasificarse dentro de más de una especialidad.
+
+La clasificación tendrá por objeto que en los procedimientos de contratación se consideren criterios de evaluación de las propuestas que justifiquen la elección.
+
+La información del padrón referida en la fracción I del artículo 26 de esta Ley y el objeto social tratándose de personas morales, así como la resolución definitiva sobre la cancelación o suspensión temporal de las personas físicas o morales en el padrón, será información pública de oficio en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 25 Bis.
+
+La Secretaría implementará un sistema informático para el padrón, al cual deberán tener acceso permanente los entes públicos, las direcciones municipales y los órganos de control interno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 26.
 
-Las personas físicas o morales interesadas en inscribirse en el padrón estatal, deberán solicitarlo ante la Secretaría debiendo cumplir con los requisitos y condiciones siguientes:
+Las personas físicas o morales interesadas en inscribirse en el padrón deberán solicitarlo ante la Secretaría, en forma directa en la dependencia o a través del sistema informático creado para tal efecto, en donde se asentará la siguiente información y, en su caso, se resguardarán los archivos digitalizados de:
 
-I.- Solicitud por escrito en la que se indicarán los datos generales del solicitante;
+I.- Datos generales del solicitante;
 
-II.- Copia certificada por notario público del acta constitutiva y modificaciones en su caso;
+II.- Acta constitutiva tratándose de personas morales y en el caso de personas físicas su registro ante la Secretaría de Hacienda y Crédito Público y en ambos casos las modificaciones de que hayan sido objeto;
 
-III.- Copia de la Cédula del Registro Federal de Contribuyentes;
+III.- Cédula del Registro Federal de Contribuyentes y registro patronal ante el Instituto Mexicano del Seguro Social;
 
-IV.- Copia del Registro vigente que acredite que forma parte del Sistema de Información Empresarial Mexicano;
+IV.- Relación de maquinaria y equipo de construcción de su propiedad, junto con las facturas que así lo acrediten;
 
-V.- Copia del Registro Patronal ante el Instituto Mexicano del Seguro Social;
+V.- Copia de la última declaración anual del Impuesto Sobre la Renta, última declaración mensual según el caso y estados financieros dictaminados de conformidad con el artículo 32-A del Código Fiscal de la Federación, originales que incluyan balance, estado de resultados y cuentas analíticas de balance, con antigüedad máxima de tres meses a la fecha de la solicitud, elaborados y firmados por contador público titulado, preferentemente colegiado y que esté al corriente de sus obligaciones fiscales, así como copia de los últimos pagos realizados en cumplimiento de sus obligaciones en materia de seguridad social;
 
-VI.- Relación actualizada de maquinaria y equipo de construcción de su propiedad adjuntando copia de las facturas;
+VI.- Experiencia y especialidad actualizada del solicitante, anexando relación de contratos y actas de entrega recepción y/o constancias de construcción de obras realizadas;
 
-VII.- Copia de la última declaración anual del Impuesto Sobre la Renta, última declaración mensual según el caso y estados financieros dictaminados de conformidad con el artículo 32-A del Código Fiscal de la Federación, originales que incluyan balance, estado de resultados y cuentas analíticas de balance, con antigüedad máxima de tres meses a la fecha de la solicitud, elaborados y firmados por contador público titulado, que acredite su calidad de miembro activo de un Colegio de Contadores Públicos, con constancia expedida dentro de los dos meses anteriores, así como copia de los últimos pagos realizados en cumplimiento de sus obligaciones en materia de seguridad social;
+VII.- En su caso, las constancias de cursos de capacitación, certificaciones y reconocimientos, así como de certificación de sistemas de calidad acreditadas o en proceso;
 
-VIII.- Experiencia y especialidad actualizada del solicitante, anexando relación de contratos y fechas de actas de entrega recepción y/o constancias de construcción de obras realizadas; además, en su caso, constancias de cursos de capacitación, certificaciones y reconocimientos;
+VIII.- Experiencia y especialidad actualizada del responsable técnico relacionado con el sector de la construcción, anexando relación de contratos y actas de entrega recepción y/o constancias de construcción de obras realizadas; además, en su caso, constancias de cursos de capacitación, certificaciones y reconocimientos, así como copia del título profesional y cédula profesional; y
 
-IX.- Experiencia y especialidad actualizada del responsable técnico relacionado con el sector de la construcción, anexando relación de contratos y fechas de actas de entrega recepción y/o constancias de construcción de obras realizadas; además, en su caso, constancias de cursos de capacitación, certificaciones, reconocimientos y copia del título profesional;
-
-X.- Manifestación bajo protesta de decir verdad de que no se encuentra en los supuestos previstos por el artículo 14 de esta Ley; y
-
-XI.- En su caso, copia de la certificación de sistemas de calidad, o de estar en proceso de certificación en sistemas de calidad, que se encuentren acreditados.
+IX.- En su caso, copia de la certificación de sistemas de calidad, o de estar en proceso de certificación en sistemas de calidad, que se encuentren acreditados; así como aquella documentación que acredite prácticas de responsabilidad social empresarial.
 
 ###### Artículo 27.
 
@@ -421,9 +549,15 @@ La Secretaría verificará en cualquier tiempo, la información que hayan entreg
 
 De no existir pronunciamiento dentro de este término, se entenderá que el registro se encuentra en trámite para efectos de poder participar en algún procedimiento de adjudicación, debiéndosele entregar su registro antes de que concluya dicho procedimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 28.
 
-El registro en el padrón estatal tendrá una vigencia indefinida. La Secretaría expedirá en el mes de abril la convocatoria para que se realice el refrendo anual del registro en el padrón.
+El registro en el padrón tendrá una vigencia indefinida. Los contratistas tendrán la obligación de actualizar la información a que hace referencia el artículo 26 de esta Ley.
+
+La Secretaría expedirá en el mes de mayo la convocatoria para que se realice el refrendo anual del registro en el padrón.
 
 ###### Artículo 29.
 
@@ -437,13 +571,21 @@ III.- No cumplan anualmente con la actualización del registro, en este caso la 
 
 IV.- Exista solicitud expresa del contratista en la que señale el plazo de suspensión; o
 
-V.- Hayan incurrido y subsista el incumplimiento de sus obligaciones contractuales con la Administración Pública Estatal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+V.- Hayan incurrido y subsista el incumplimiento de sus obligaciones contractuales con la administración pública estatal y municipal.
 
 En el supuesto de la fracción I, la suspensión será hasta que el contratista acredite haber resuelto la causa de la suspensión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-Cuando desaparezca la causa que originó la suspensión o fenezca el término de la misma, el interesado podrá iniciar los trámites para la actualización de su registro y una vez actualizado se remitirá copia a los Municipios del Estado.
+Cuando desaparezca la causa que originó la suspensión o fenezca el término de la misma, el interesado podrá iniciar los trámites para la actualización de su registro.
 
 ###### Artículo 31.
 
@@ -467,9 +609,33 @@ VIII.- Exista solicitud expresa de la persona física o moral; o
 
 IX.- Se le declare inhabilitado por cualquier autoridad competente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 31 Bis.
+
+Previo a decretar la suspensión temporal o la cancelación del registro en el padrón, se notificará al contratista la causa que la motive para que exprese lo que a su interés convenga en un plazo de diez días hábiles y ofrezca en su caso pruebas, debiéndose desahogar las admitidas dentro de los siguientes diez días hábiles. La resolución se dictará dentro de los diez días hábiles siguientes.
+
+La Secretaría podrá abrir un periodo extraordinario para el desahogo de las pruebas admitidas, cuando por su naturaleza resulte indispensable, debiendo motivar y fundar su acuerdo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 31 Ter.
+
+El contratante u órgano de control interno que tenga conocimiento de la existencia de una causal de suspensión temporal o cancelación en contra de un contratista, deberá dar a conocer dicha circunstancia a la Secretaría, acompañando las constancias con que cuente sobre el particular, a fin de que se lleve a cabo el procedimiento respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 32.
 
-La resolución fundada y motivada que determine la suspensión o cancelación del registro en el padrón de contratistas, se notificará personalmente o por correo certificado con acuse de recibo, en el último domicilio que el interesado haya señalado ante la Secretaría, con copia a los municipios del Estado y a la Secretaría de la Gestión Pública.
+La resolución fundada y motivada que determine la suspensión o cancelación del registro en el padrón, se notificará personalmente o por correo certificado con acuse de recibo, en el último domicilio que el interesado haya señalado ante la Secretaría.
+
+Asimismo, una vez que sea firme la suspensión o cancelación del registro se dejará constancia de la resolución respectiva en el sistema informático mediante el cual la Secretaría administre el padrón.
 
 ###### Artículo 33.
 
@@ -481,23 +647,29 @@ II.- Que se trate de trabajos que requieran fundamentalmente, de mano de obra ca
 
 ### CAPÍTULO SEGUNDO. DEL PADRÓN MUNICIPAL DE CONTRATISTAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 34.
 
-La Dirección Municipal integrará, normará y administrará el padrón municipal de contratistas de la obra pública y servicios relacionados con la misma.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2011)
 
-La Dirección Municipal en caso de no contar con su propio padrón o éste sea insuficiente, podrá aplicar el padrón estatal de contratistas de la Secretaría para los efectos de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 35.
 
-No será requisito indispensable contar con el registro estatal para obtener el registro en cualquier Municipio, las autoridades municipales podrán solicitar en cualquier momento a la Secretaría, la información que se requiera sobre los contratistas registrados en su padrón.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 36.
 
-El Ayuntamiento por conducto de la Dirección Municipal y el órgano de Control Municipal, podrán verificar en cualquier tiempo la información que se haya requerido a los solicitantes para conformar el padrón municipal, debiendo notificar a la Secretaría la suspensión, cancelación y desaparición de las causas que dieron origen al supuesto de suspensión o cancelación del registro de contratistas inscritos en dicho padrón, para los efectos a que haya lugar.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 37.
 
-Serán aplicables a este Capítulo en lo conducente, las reglas relativas al padrón estatal de contratistas.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2011)
 
 ## TÍTULO CUARTO. PROCEDIMIENTOS PARA LA CONTRATACIÓN DE LA OBRA PÚBLICA
 
@@ -514,6 +686,12 @@ II.- Administración directa.
 ###### Artículo 39.
 
 Los contratos de obra pública y los de servicios relacionados con la misma, se adjudicarán a través de licitaciones públicas, mediante convocatoria pública, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+En los procedimientos de contratación los entes públicos optarán, en igualdad de condiciones, por el empleo de los recursos humanos del estado de Guanajuato y por la utilización de bienes o servicios de procedencia estatal y los propios de la región.
 
 En el caso de las proposiciones presentadas por medios electrónicos el sobre será generado mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca el órgano de control.
 
@@ -537,7 +715,11 @@ II.- En los supuestos contemplados en las fracciones I y II del artículo 73 de 
 
 III.- Que se cuente con los estudios y proyectos, normas y especificaciones de diseño y construcción vigentes, así como las contempladas en el reglamento respectivo, en el presupuesto y el programa de ejecución de obra y en su caso, el programa de suministro, o bien con un avance en su desarrollo que permita a los licitadores preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión;
 
-IV.- Que cuando se trate de una etapa de ejecución de obras que rebasen más de un ejercicio presupuestal, la etapa a contratar cumpla con los requisitos señalados en las fracciones I y III de este artículo; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+IV.- Que cuando se trate de una etapa de ejecución de obras que rebasen más de un ejercicio presupuestal, la etapa a contratar cumpla con los requisitos señalados en las fracciones I y III de este artículo, y que en las etapas subsecuentes se considere la actualización del presupuesto por ejecutar; y
 
 V.- Que los entes públicos cuenten con los recursos humanos que garanticen el control y seguimiento adecuado de las mismas, en caso de no tenerlos deberán contratar los servicios para garantizar la correcta ejecución y seguimiento de los trabajos.
 
@@ -557,7 +739,11 @@ I.- Sobre la base de precios unitarios, en cuyo caso el importe de la remuneraci
 
 II.- Sobre la base de precio alzado, en cuyo caso, el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por los trabajos totalmente terminados y ejecutados en el plazo establecido.
 
-Este contrato por su naturaleza, no estará sujeto a ajustes de costos y sólo podrán ser modificados en el monto o en el plazo, cuando ocurran circunstancias derivadas de caso fortuito, fuerza mayor, cambio de paridad en la moneda y variación en los precios nacionales e internacionales, que justifiquen su modificación; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+El contrato donde se pacte esta forma de pago, no estará sujeto a ajustes de costos y sólo podrá ser modificado en el monto o en el plazo, cuando ocurran circunstancias derivadas de caso fortuito, fuerza mayor, cambio de paridad en la moneda y variación en los precios nacionales e internacionales, que justifiquen su modificación; y
 
 III.- Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado.
 
@@ -573,9 +759,13 @@ I.- Nacionales; y
 
 II.- Internacionales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 44.
 
-Tratándose de licitaciones públicas, las convocatorias señalarán el carácter nacional o internacional de las mismas y se referirán a una o más obras o servicios y se publicarán cuando menos una vez en el periódico de mayor circulación en el Estado.
+Tratándose de licitaciones públicas, las convocatorias señalarán el carácter nacional o internacional de las mismas y se referirán a una o más obras o servicios y se publicarán cuando menos una vez en un periódico de circulación estatal.
 
 ###### Artículo 45.
 
@@ -593,7 +783,11 @@ La convocatoria pública deberá contener los siguientes requisitos:
 
 I.- El nombre o denominación de la convocante;
 
-II.- La indicación de si la licitación es nacional o internacional, la moneda de curso legal y la indicación de que se presente en idioma español;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+II.- La indicación de si la licitación es nacional o internacional, la moneda de curso legal y la indicación de que la propuesta se presente en idioma español;
 
 III.- La forma en que los participantes deberán acreditar su personalidad jurídica, capacidad financiera y técnica de acuerdo con las características, complejidad y magnitud de los trabajos;
 
@@ -603,7 +797,11 @@ IV.- La solicitud de registro en el padrón de contratistas;
 
 V.- El capital contable requerido, el cual no podrá ser mayor al 30% del importe estimado de la obra por ejecutar;
 
-VI.- El tipo de contrato;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+VI.- El tipo de contrato y las condiciones de pago que se pactarán en el contrato;
 
 VII.- El origen de los recursos para la realización de los trabajos y el importe autorizado para el primer o subsecuente ejercicio en el caso de obras que rebasen un ejercicio presupuestal, oficio de autorización y en su caso, acuerdo del Ayuntamiento para la ejecución de los trabajos. Cuando se trate de obras cuya ejecución rebase un ejercicio presupuestal, el importe autorizado para el primer y subsecuentes ejercicios;
 
@@ -629,7 +827,11 @@ XVI.- Las garantías que se deberán otorgar en los términos del artículo 48 f
 
 Para el caso de las garantías de cumplimiento contractual, de anticipos y de vicios ocultos, deberán preverse al menos dos modalidades de las señaladas en el artículo 73 Bis de la presente Ley, con la finalidad de que el participante pueda optar por la más conveniente;
 
-XVII.- Los criterios conforme a los cuales se decidirá la adjudicación; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XVII.- Los criterios claros y detallados conforme a los cuales se decidirá la adjudicación; y
 
 XVIII.- Los demás requisitos generales que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
 
@@ -637,11 +839,13 @@ Para la participación, contratación o adjudicación de obra pública y servici
 
 ### CAPÍTULO TERCERO. DE LAS BASES DE LA LICITACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
 
-Las bases para las licitaciones que emita la convocante, se pondrán a disposición de los interesados para su conocimiento, consulta y adquisición en el domicilio de la convocante, a partir del día siguiente de la fecha de publicación de la convocatoria y hasta el cierre de la inscripción y contendrán lo siguiente:
+Las bases para las licitaciones que emita la convocante, se pondrán a disposición de los interesados para su conocimiento, consulta y adquisición en el domicilio de la convocante, a partir de la publicación de la convocatoria y hasta el cierre de la inscripción y contendrán lo siguiente:
 
 I.- El nombre o denominación de la convocante;
 
@@ -649,7 +853,11 @@ II.- La forma de acreditación de la personalidad jurídica del participante;
 
 III.- La solicitud de registro en el padrón de contratistas;
 
-IV.- El lugar, fecha y hora de la visita al sitio en donde se ejecutará la obra y de la junta de aclaraciones y la de definición de alcances; fecha, hora y lugar de celebración de las dos etapas del acto de la presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+IV.- El lugar, fecha y hora de la visita al sitio en donde se ejecutará la obra y de las juntas de aclaraciones y la de definición de alcances; fecha, hora y lugar de celebración de la presentación y apertura de proposiciones; comunicación del fallo y firma del contrato;
 
 V.- Las formas de garantías de seriedad de la propuesta, de cumplimiento contractual, de anticipos y vicios ocultos;
 
@@ -663,11 +871,23 @@ IX.- Tratándose de servicios relacionados con las obras públicas, los término
 
 X.- La relación de materiales y equipo de instalación permanente que en su caso proporcione la convocante;
 
-XI.- La experiencia y capacidad técnica necesarias de acuerdo con las características, complejidad y magnitud de los trabajos, así como capacidad financiera y solvencia económica. Estos dos últimos deberán acreditarse mediante la documentación necesaria emitida por un contador público certificado con constancia expedida dentro de los seis meses anteriores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII.- El catálogo de conceptos de obra;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-XIII.- La forma y términos de pago de los trabajos objeto del contrato;
+XI.- La experiencia y capacidad técnica necesarias de acuerdo con las características, complejidad y magnitud de los trabajos, así como capacidad financiera y solvencia económica. Estos dos últimos deberán acreditarse mediante la documentación necesaria emitida por un contador público con constancia vigente de encontrarse certificado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XII.- El catálogo de conceptos dividido en las partidas y subpartidas que se requieran para la realización de los trabajos de acuerdo a sus características, complejidad y magnitud; tratándose de contratos a precio alzado, se deberán indicar las actividades y, en su caso, las subactividades en que se dividirán los mismos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XIII.- La forma, condiciones y términos de pago de los trabajos objeto del contrato;
 
 XIV.- El procedimiento de ajuste de costos;
 
@@ -687,9 +907,13 @@ Cualquier modificación a las bases de la licitación, derivada del resultado de
 
 Las modificaciones en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos, que modifiquen las metas programadas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 49.
 
-La convocante entregará el proyecto ejecutivo y sus especificaciones, para que cada participante determine su costo para la integración de su propuesta.
+La convocante entregará el proyecto ejecutivo y sus especificaciones, y en su caso, los términos de referencia, para que cada participante determine su costo para la integración de su propuesta.
 
 Las propuestas que presenten los participantes para la celebración de los contratos, tanto en sus aspectos técnicos como económicos deberán ser desglosadas por actividades principales o partidas.
 
@@ -703,13 +927,25 @@ Los concursantes elaborarán en caso de requerirse, el análisis y desarrollo de
 
 El procedimiento de las licitaciones nacionales se llevará a cabo conforme a los siguientes términos:
 
-I.- Tres días hábiles para la inscripción, computándose éstos a partir del día siguiente a la fecha de la publicación de la convocatoria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+I.- Tres días hábiles para la inscripción, computándose éstos a partir del día siguiente de la publicación de la convocatoria.
 
 La convocante estará obligada a entregar en el momento de la inscripción la totalidad de los documentos necesarios para la formulación de la propuesta, previo cumplimiento de los requisitos solicitados para la inscripción;
 
-II.- La visita al sitio en donde se ejecutará la obra, se realizará en un plazo de un día hábil después del cierre de la inscripción, debiendo entregar la convocante al término de la visita, el documento que acredite haber participado en ella;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- La junta de aclaraciones, se realizará en un término que no exceda de un día hábil posterior al de la visita al sitio, pudiendo celebrarse la junta el mismo día de la visita.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+II.- La visita al sitio en donde se ejecutarán los trabajos se realizará al siguiente día hábil al del cierre de la inscripción, debiendo entregar la convocante al término de la visita, el documento que acredite haber participado en ella;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+III.- La junta de aclaraciones se realizará al día hábil siguiente al de la visita al sitio, pudiendo celebrarse la junta el mismo día de la visita.
 
 Dentro del procedimiento, el cierre del acta de la junta de aclaraciones será el último momento para realizar modificaciones a los términos y condiciones de la convocatoria y de las bases de la licitación; y
 
@@ -717,15 +953,21 @@ IV.- Cinco días hábiles para la preparación, presentación, recepción y aper
 
 Atendiendo a las circunstancias especiales de cada obra, la convocante previa justificación de las mismas podrá modificar los plazos a que se refiere este artículo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 52.
 
 Todo interesado que satisfaga los requisitos y lineamientos de inscripción contenidos en la convocatoria y en las bases de licitación, tendrá derecho a presentar propuestas.
 
-Las propuestas deberán contener la firma de quien la suscribe, debiendo el interesado firmar el contenido de toda su propuesta.
-
-La propuesta deberá contener la firma de quien la suscribe en la carta compromiso.
+Las propuestas deberán contener la firma de quien suscribe la carta compromiso, pudiendo el interesado firmar el contenido de toda su propuesta.
 
 La omisión de la firma en fojas que no afecten la propuesta no será motivo de descalificación.
+
+Dos o más personas podrán presentar conjuntamente proposiciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezca con precisión y a satisfacción de la dependencia o entidad, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigirá el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
+
+Cuando dos o más personas presenten conjuntamente proposiciones, cada una de ellas deberá entregar su solicitud de registro en el padrón de contratistas.
 
 ###### Artículo 53.
 
@@ -811,7 +1053,11 @@ II.- El catálogo de conceptos, unidades de medición, cantidades de trabajo, pr
 
 III.- El análisis de los precios unitarios de los conceptos solicitados, estructurados por costos directos, costos indirectos, costos de financiamiento y cargo por utilidad.
 
-El costo de indirectos deberá de ser presentado por un solo porcentaje para la propuesta económica, siendo motivo de descalificación el presentar diferentes porcentajes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Dentro de la estructura de los precios unitarios, el presentar los porcentajes de los costos indirectos, costos de financiamiento y cargo por utilidad, diferentes a los obtenidos en sus respectivos análisis, será motivo de descalificación;
 
 IV.- Las especificaciones y demás documentación que se establezcan en las bases de licitación y se relacionen directamente con la obra objeto de licitación; y
 
@@ -833,37 +1079,79 @@ III.- Financiamiento.- Un porcentaje de la suma de los costos directos e indirec
 
 IV.- El cargo por utilidad.- El cual será fijado por el participante, mediante la aplicación de un porcentaje sobre la suma de costos directos, indirectos y de financiamiento debiéndose considerar dentro de este cargo, el cumplimiento de las obligaciones laborales y fiscales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+No se podrán solicitar cargos adicionales ni diferentes a los aquí señalados y a los contemplados en las bases.
+
 ### CAPÍTULO SÉPTIMO. DE LA EVALUACIÓN DE LAS PROPUESTAS
 
 ###### Artículo 60.
 
 La convocante emitirá un dictamen que servirá como fundamento para el fallo, en el que se harán constar los resultados de la evaluación de las propuestas y las razones que hubo para admitirlas o desecharlas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 61.
 
-La convocante en la evaluación de las propuestas deberá considerar los siguientes criterios:
+La convocante en la evaluación de las propuestas deberá verificar:
 
-I.- La congruencia de la propuesta económica presentada por el licitador, con las características técnicas y económicas de los trabajos a realizar, conforme al análisis de costos que la convocante efectúe;
+I.- Tratándose de propuestas referidas a la ejecución de obra pública:
 
-II.- Costos congruentes de acuerdo con las condiciones de la obra y/o servicio relacionado con la misma y de la empresa;
+a).- Se cumplan las condiciones legales exigidas al licitador;
 
-III.- La experiencia en obras y montos similares, así como su desempeño y cumplimiento;
+b).- Las proposiciones incluyan la información, documentos y requisitos solicitados en las bases de la licitación;
 
-IV.- La capacidad técnica instalada, el equipo propio y adecuado para la ejecución de la obra y/o servicio relacionado con la misma; el personal técnico calificado así como el porcentaje de obra que se propone subcontratar;
+c).- Que el escrito de proposición señale plazo y costo de la obra y el programa de ejecución sea factible de realizar, dentro del plazo solicitado, con los recursos considerados por el ente público;
 
-V.- El cumplimiento de las obligaciones contractuales, fiscales y de previsión social;
+d).- Las características, especificaciones y calidad de los materiales sean los requeridos por el ente público; y
 
-VI.- La permanencia y actividad en el mercado del sector construcción; y
+e).- Que en la propuesta económica presentada por el licitador, el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecute la obra o servicio y que dicho análisis se apegue a las características técnicas de los trabajos a realizar de conformidad a la descripción de los conceptos del catálogo correspondiente, de tal forma que resulte congruente con el análisis de costos que la convocante efectúe y de acuerdo con las condiciones de la empresa;
 
-VII.- La aplicación de sistemas de seguridad y adicionalmente se podrá valorar la certificación en sistemas de calidad.
+II.- Tratándose de propuestas referidas a los servicios relacionados con la obra pública:
+
+a).- El cumplimiento de las condiciones legales exigidas al participante;
+
+b).- La congruencia de la propuesta económica con las características técnicas y económicas de los trabajos a realizar;
+
+c).- Que el personal propuesto por el participante cuente con la experiencia, capacidad y recursos necesarios para la realización de los trabajos solicitados por la convocante en los respectivos términos de referencia; y
+
+d).- Que los tabuladores de sueldos, la integración de las plantillas y el tiempo de ejecución correspondan al servicio ofertado; y
+
+III.- En ambos casos la convocante deberá evaluar:
+
+a).- La experiencia en obras y montos similares, así como su desempeño y cumplimiento;
+
+b).- La capacidad técnica instalada, el equipo propio y adecuado para la ejecución de la obra o servicio relacionado con la misma; el personal técnico calificado, así como el porcentaje de obra que se propone subcontratar;
+
+c).- El cumplimiento de las obligaciones contractuales, fiscales y de previsión social;
+
+d).- La permanencia y actividad en el mercado del sector construcción; y
+
+e).- La aplicación de sistemas de seguridad y adicionalmente se podrá valorar la certificación en sistemas de calidad.
+
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitadores, a aquél cuya propuesta resulte conveniente porque reúne conforme a los criterios de adjudicación establecidos en la convocatoria y en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantiza satisfactoriamente el cumplimiento de las obligaciones respectivas.
+
+Atendiendo a las características de cada obra o servicio, se podrá determinar la conveniencia de utilizar el mecanismo de puntos y porcentajes para evaluar las proposiciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 62.
 
-Cumplidos los criterios señalados en el artículo anterior, la convocante dará preferencia a la propuesta económica más baja.
+Si dos o más proposiciones satisfacen la totalidad de los requerimientos solicitados por la convocante en los términos del artículo anterior, y por lo tanto se consideran convenientes, el contrato se adjudicará a quien presente la propuesta económica más baja.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 63.
 
-En caso de que dos o más propuestas cumplan con los criterios a que se refiere el artículo 61 y las propuestas económicas no presenten diferencias significativas, se dará preferencia a los contratistas del Estado.
+En caso de que dos o más propuestas cumplan con los criterios a que se refiere el artículo 61 y presenten condiciones económicas iguales, se dará preferencia a los contratistas del Estado.
 
 En el supuesto de que las propuestas a que se refiere este artículo, sean de participantes del Estado, se eligirá (sic) a la que presente mejores condiciones.
 
@@ -887,15 +1175,25 @@ Además se deberá notificar por escrito a los licitadores que no les fue favora
 
 La convocante deberá declarar desierto el procedimiento de licitación en los siguientes supuestos:
 
-I.- En el acto de la presentación y apertura de propuestas cuando:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a).- En la licitación no se presentare propuesta alguna; y
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-b).- Ninguna propuesta presentada cumpla con los requisitos señalados en las bases de la licitación y lo establecido en la presente Ley;
+I.- En el acto de la visita al sitio donde habrán de ejecutarse los trabajos o en el de la junta de aclaraciones, cuando ninguno de los participantes inscritos en la licitación se presente a uno o a otro evento;
 
-II.- En la revisión, análisis y evaluación de las propuestas admitidas cuando:
+II.- En el acto de la presentación y apertura de propuestas cuando:
 
-a).- Se detecte o determine que todas las propuestas admitidas no se ajustaron a las condiciones técnicas contenidas en las bases de licitación; y
+a).- En la licitación no se presentare propuesta alguna, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+b).- Ninguna propuesta presentada cumpla con los requisitos señalados en las bases de la licitación y lo establecido en la presente Ley; y
+
+III.- En la revisión, análisis y evaluación de las propuestas admitidas cuando:
+
+a).- Se detecte o determine que todas las propuestas admitidas no se ajustaron a las condiciones técnicas contenidas en las bases de licitación, y
 
 b).- Se determine que todas las propuestas no representan la realidad de los costos de insumos prevalecientes en el mercado, o los precios y condiciones económicas no fueren aceptables.
 
@@ -919,7 +1217,11 @@ En los supuestos de las fracciones II y IV se reembolsarán a los participantes 
 
 La notificación de la adjudicación del contrato obligará a la convocante y al participante en quien hubiere recaído la adjudicación, a la firma del mismo dentro de los cinco días hábiles siguientes a la notificación del fallo.
 
-Si transcurrido dicho plazo, no se firma el contrato respectivo, por causas imputables al contratista, la convocante sin necesidad de un nuevo procedimiento, previa notificación al participante ganador, podrá contratar al licitador que haya presentado la siguiente propuesta solvente, que deberá estar registrada en el dictamen comparativo de postores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Si transcurrido dicho plazo, no se firma el contrato respectivo, por causas imputables al contratista, la convocante sin necesidad de un nuevo procedimiento, previa notificación al participante ganador, podrá contratar al licitador que haya presentado la siguiente propuesta conveniente, que deberá estar registrada en el dictamen comparativo de postores.
 
 De no existir la posibilidad de contratar a cualquiera de los participantes, la convocante deberá realizar un nuevo procedimiento de licitación.
 
@@ -960,6 +1262,14 @@ En la etapa de apertura de propuestas, es indispensable contar con un mínimo de
 El fallo deberá dictarse en junta pública y se notificará por escrito al contratista ganador y a los participantes que no les fuere favorable el fallo, se les harán saber las causas por las cuales su propuesta no resultó electa.
 
 Será aplicable para el procedimiento de licitación simplificada en lo conducente, lo relativo al procedimiento de licitación pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO. P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 71 Bis.
+
+Cuando en el procedimiento de licitación simplificada, no asistan a cualquiera de sus etapas un mínimo de tres participantes, se declarará desierto el procedimiento.
 
 ### CAPÍTULO SEGUNDO. DE LA ADJUDICACIÓN DIRECTA
 
@@ -1053,17 +1363,31 @@ En el caso de que por causas imputables al contratista, éste no exhiba las gara
 
 La sanción deberá fundarse y motivarse, y
 
-IV.- Concluida la obra y como parte del finiquito de la misma, el contratista deberá sustituir la garantía de cumplimiento por otra equivalente al 10% del monto total de los trabajos realmente ejecutados, incluyendo los conceptos pagados por ajuste de costos, misma que servirá para prever la probable existencia de vicios ocultos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-Esta garantía deberá tener una vigencia de doce meses contados a partir del acto de entrega-recepción.
+IV.- Concluida la obra, y de acuerdo a los resultados obtenidos en el finiquito de la misma, el contratista deberá sustituir la garantía de cumplimiento por otra equivalente al 10% del monto total de los trabajos realmente ejecutados, incluyendo los conceptos pagados por ajuste de costos, misma que servirá para prever la probable existencia de vicios ocultos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Esta garantía será requisito previo para la firma del acta administrativa de entrega-recepción y deberá tener una vigencia de doce meses contados a partir del acto de entrega-recepción física de la obra.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+A la entrega de esta garantía deberán de quedar automáticamente canceladas las otorgadas en los términos de las fracciones II y III de éste artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 76.
 
-El otorgamiento de los anticipos será como mínimo del 20% para compra de materiales y del 10% para cubrir los gastos correspondientes al inicio de la obra.
+El otorgamiento de los anticipos será como mínimo del 30% para compra de materiales y para cubrir los gastos correspondientes al inicio de la obra.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1091,7 +1415,7 @@ En ejercicios subsecuentes, la entrega del anticipo deberá hacerse dentro de lo
 
 Tratándose de servicios relacionados con la obra pública, el porcentaje a otorgarse como anticipo será determinado por la contratante atendiendo a las características, complejidad y magnitud del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 79.
 
@@ -1099,15 +1423,17 @@ En el caso de rescisión o terminación anticipada del contrato, la amortizació
 
 El contratista que no reintegre dicho saldo en el plazo señalado, cubrirá los recargos correspondientes conforme a una tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Guanajuato, para el caso de prórroga del pago de créditos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 80.
 
 La contratante podrá eximir al contratista del otorgamiento de la garantía de cumplimiento, cuando se den los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Cuando se trate de contratos o convenios adicionales cuyo importe no rebase el monto de 2,500 veces el salario mínimo diario vigente en el Estado de Guanajuato, en estos casos no se otorgará porcentaje alguno de anticipo;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+I.- Cuando se trate de contratos o bien de convenios modificatorios cuyo importe no rebase el monto de 2,500 veces el salario mínimo diario vigente en el Estado de Guanajuato, en estos casos no se otorgará porcentaje alguno de anticipo;
 
 II.- Tratándose de Organismos Públicos Autónomos por Ley; y
 
@@ -1121,7 +1447,7 @@ En los supuestos anteriores, la contratante de ser necesario, implementará otro
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 81.
 
@@ -1135,11 +1461,15 @@ III.- Los servicios de fletes y acarreos complementarios que se requieran; y
 
 IV.- Los servicios de un director responsable de obra, que se encuentre inscrito en un padrón municipal.
 
-En la ejecución de la obra pública bajo esta modalidad, se deberá considerar que cada acción individualmente, no exceda del rango o límite máximo establecido por el Congreso del Estado para la adjudicación directa, ni el costo final resulte mas alto al equivalente a su ejecución por contrato.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+En la ejecución de la obra pública bajo esta modalidad, se deberá considerar que cada acción individualmente, no exceda del doble de la cantidad del rango o límite máximo establecido por el Congreso del Estado para la adjudicación directa, ni el costo final resulte más alto al equivalente a su ejecución por contrato.
 
 En esta modalidad por ejecución de obra, queda prohibida la intervención de terceros como contratistas, independientemente de la denominación que adopten, asimismo queda prohibida la utilización de personal, equipo o maquinaria propiedad del ente público en apoyo o beneficio de un contratista.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 82.
 
@@ -1153,9 +1483,13 @@ Formará parte integrante del acuerdo, la descripción pormenorizada de la obra 
 
 ### CAPÍTULO PRIMERO. DE LA CONTRATACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 83.
 
-Los contratos de obra pública se regularán por las disposiciones contenidas en esta Ley y deberán contener, en lo conducente lo siguiente:
+Los contratos de obra pública y de servicios relacionados con la misma se regularán por las disposiciones contenidas en esta Ley y deberán contener, en lo conducente lo siguiente:
 
 I.- Autorización de la inversión para cubrir el compromiso y el fundamento con el que suscribe el contrato;
 
@@ -1185,11 +1519,19 @@ XIII.- Forma en que el contratista reintegrará las cantidades que en cualquier 
 
 XIV.- Costos de financiamiento conforme a lo previsto por esta Ley;
 
-XV.- Descripción pormenorizada de la obra, debiendo acompañar como parte de la misma: proyectos, planos, especificaciones, programas y presupuesto y demás documentos que forman parte del contrato;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XV.- Descripción pormenorizada de la obra o servicio, debiendo acompañar como parte de la misma: proyectos, planos, especificaciones o términos de referencia, programas y presupuesto y demás documentos que forman parte del contrato;
 
 XVI.- Causales de rescisión, suspensión y terminación del contrato;
 
-XVII.- Estipulaciones sobre el plazo para la recepción de obra;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XVII.- Estipulaciones sobre el plazo para la recepción de obra o servicio;
 
 XVIII.- En su caso, los procedimientos mediante los cuales las partes entre sí, resolverán controversias futuras y previsibles que pudieren versar sobre problemas específicos de carácter técnico, legal y administrativo; y
 
@@ -1217,9 +1559,13 @@ Para la evaluación de las propuestas de asesorías y consultorías, atendiendo 
 
 Para los efectos de esta Ley, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones, regulando y dando seguimiento a la encomienda de la ejecución de los trabajos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 86.
 
-La ejecución de la obra contratada deberá iniciarse en la fecha señalada en el contrato y para este efecto, la contratante pondrá a disposición del contratista la documentación técnica inherente al contrato, el o los inmuebles en que deba iniciarse la obra, así como los anticipos que correspondan. El retraso en la entrega del anticipo o de cualquiera otra de las obligaciones señaladas, prorrogará en igual plazo el programa original, en los términos pactados al inicio de la obra, de conformidad con lo dispuesto en el artículo 76.
+La ejecución de la obra contratada deberá iniciarse en la fecha señalada en el contrato y para este efecto, la contratante pondrá a disposición del contratista la documentación técnica inherente al contrato, el o los inmuebles en que deba iniciarse la obra, así como los anticipos que correspondan. El retraso en la entrega del anticipo o de cualquiera otra de las obligaciones señaladas, diferirá en igual plazo el programa original, en los términos pactados al inicio de la obra, de conformidad con lo dispuesto en el artículo 76.
 
 ###### Artículo 87.
 
@@ -1229,7 +1575,17 @@ Las responsabilidades, daños y perjuicios que resultaren por su inobservancia, 
 
 Las deficiencias que sean imputables a la contratante, ya sea como resultado de un proyecto ejecutivo inadecuado, o por falta de definiciones que alteren el proceso o ejecución de los trabajos, serán responsabilidad de la convocante.
 
-La contratante podrá repetir contra el consultor que haya realizado el proyecto ejecutivo deficiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+La contratante podrá repetir contra el contratista que haya realizado el proyecto ejecutivo deficiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+El contratista será el único responsable del cumplimiento de sus obligaciones laborales, fiscales y en materia de seguridad social.
 
 ###### Artículo 88.
 
@@ -1238,6 +1594,18 @@ La contratante podrá suspender temporalmente, en todo o en parte, la obra contr
 I.- Por falta de suficiencia presupuestal, provocada por causas imprevisibles; y
 
 II.- Por caso fortuito o fuerza mayor debidamente acreditado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Cuando se determine la suspensión de la obra o de los servicios por causas imputables a la contratante, ésta pagará al contratista los trabajos ejecutados conforme al finiquito correspondiente; así como los gastos no recuperables que sean razonables y comprobables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Cuando por causas de fuerza mayor o caso fortuito debidamente justificadas se imposibilite la continuación de la obra o de los servicios, la contratante o el contratista podrán solicitar la suspensión de la obra o la terminación anticipada del contrato. La contratante deberá resolver lo conducente en un plazo que no exceda de veinte días naturales.
 
 Una vez transcurridas y solucionadas las causas que originaron la suspensión de la obra, se notificará la reanudación en forma inmediata.
 
@@ -1257,51 +1625,57 @@ II.- Por terminación anticipada del contrato; y
 
 III.- Por rescisión del contrato.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 91.
 
-Procederá la terminación anticipada cuando no sea posible determinar la temporalidad de la suspensión de los trabajos, o cuando de las constancias que obren en el expediente respectivo, se desprenda que existe causa justificada que haga imposible la vigencia del contrato, la continuación, realización o ejecución de la obra o del servicio; por mutuo consentimiento; caso fortuito o fuerza mayor. Asimismo, la contratante por así convenir al interés público, podrá dar por terminado anticipadamente el contrato, demostrando que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al ente público, finiquitando la obra o el servicio al contratista o consultor.
+Procederá la terminación anticipada cuando no sea posible determinar la temporalidad de la suspensión de los trabajos, o cuando de las constancias que obren en el expediente respectivo, se desprenda que existe causa justificada que haga imposible la vigencia del contrato, la continuación, realización o ejecución de la obra o del servicio; por mutuo consentimiento; caso fortuito o fuerza mayor. Asimismo, la contratante por así convenir al interés público, podrá dar por terminado anticipadamente el contrato, demostrando que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al ente público, finiquitando la obra o el servicio al contratista. En este supuesto, la contratante pagará al contratista los gastos no recuperables una vez que éstos hayan sido comprobados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 92.
 
-La contratante podrá rescindir administrativamente el contrato por incumplimiento del contratista o consultor de las obligaciones pactadas en el mismo, sin perjuicio de aplicar las cláusulas penales estipuladas y las sanciones a que se refiere este ordenamiento.
+La contratante podrá rescindir administrativamente el contrato por incumplimiento del contratista de las obligaciones pactadas en el mismo, sin perjuicio de aplicar las cláusulas penales estipuladas y las sanciones a que se refiere este ordenamiento.
 
-Independientemente de las causales de rescisión que se señalen en el contrato, cuando el incumplimiento implique un desfasamiento en tiempo en la ejecución de los trabajos de conformidad al calendario vigente superior al 15% y sea imputable al contratista o consultor, será causal de rescisión.
+Independientemente de las causales de rescisión que se señalen en el contrato, cuando el incumplimiento implique un desfasamiento en tiempo en la ejecución de los trabajos de conformidad al calendario vigente superior al 15% y sea imputable al contratista, ello será causal de rescisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 93.
 
-En la suspensión de las obras o servicios, o en la rescisión administrativa de los contratos la contratante, deberá observar lo establecido en esta Ley, en su Reglamento, en el contrato y en los siguientes supuestos:
+En la rescisión administrativa de los contratos por causas imputables al contratista, la contratante deberá observar lo establecido en esta Ley, en su reglamento, en el contrato y en los siguientes supuestos:
 
-I.- Cuando se determine la suspensión de la obra o de los servicios por causas imputables a la contratante, ésta pagará al contratista o consultor los trabajos ejecutados conforme al finiquito correspondiente; así como los gastos no recuperables que sean razonables y comprobables;
+I.- Notificará el inicio del procedimiento de rescisión del contrato al contratista por el incumplimiento en que haya incurrido, otorgándole un plazo improrrogable de diez días hábiles, contados a partir de la fecha de la notificación, para que exponga lo que a su interés convenga y aporte las pruebas que estime pertinentes.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+Desde el inicio del procedimiento la contratante, precautoriamente, se abstendrá de cubrir los importes de los trabajos ejecutados no liquidados, hasta que se otorgue el finiquito que proceda y deberá ordenar la suspensión de toda actividad en obra. Si el contratista hace caso omiso de la suspensión, carecerá de legitimación para reclamar el pago de los trabajos ejecutados con posterioridad a dicha orden.
 
-II. En el caso de rescisión por causas imputables al contratista o consultor, la contratante procederá de la siguiente manera:
+Comunicado el inicio del procedimiento de rescisión, la contratante procederá, en su caso, a tomar inmediata posesión de los trabajos ejecutados levantando con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentren.
 
-a). Notificará el inicio del procedimiento de rescisión del contrato al contratista o consultor por el incumplimiento en que haya incurrido, otorgándole un plazo improrrogable de diez días hábiles, contados a partir de la fecha de la notificación, para que exponga lo que a su interés convenga y aporte las pruebas que estime pertinentes.
+La contratante podrá suspender el trámite del procedimiento de rescisión, cuando se hubiere iniciado una conciliación respecto del contrato materia de la rescisión;
 
-Desde el inicio del procedimiento la contratante, precautoriamente, se abstendrá de cubrir los importes de los trabajos ejecutados no liquidados, hasta que se otorgue el finiquito que proceda y ordenará la suspensión de toda actividad en obra. Si el contratista o consultor hace caso omiso de la suspensión, carecerá de legitimación para reclamar el pago de los trabajos ejecutados con posterioridad a dicha orden.
+II.- Transcurrido el término referido en la fracción anterior, si el contratista no comparece al procedimiento o no ofrece pruebas, la contratante emitirá la resolución procedente, dentro de los diez días hábiles siguientes;
 
-Comunicado el inicio del procedimiento de rescisión, la contratante procederá a tomar inmediata posesión de los trabajos ejecutados levantando con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentren;
+III.- Si el contratista ofrece pruebas, la contratante procederá a admitirlas y desahogarlas según la naturaleza de las mismas.
 
-b). Transcurrido el término referido en el inciso anterior, si el contratista o consultor no comparece al procedimiento o no ofrece pruebas, la contratante emitirá la resolución procedente, dentro de los diez días hábiles siguientes.
+Concluido el desahogo de las pruebas, la contratante, dentro de los diez días hábiles siguientes, emitirá la resolución fundada y motivada que proceda, y la notificará al contratista.
 
-c). Si el contratista o consultor ofrece pruebas, la contratante procederá a admitirlas y desahogarlas según la naturaleza de las mismas.
+En el supuesto de que en la resolución se determine la rescisión administrativa del contrato, en la misma se convocará al contratista a realizar el finiquito de la obra de manera conjunta con la contratante dentro de los treinta días naturales siguientes a la fecha de la notificación aludida; asimismo, se le requerirá para que dentro de los diez días naturales siguientes a la notificación de la misma, entregue a la contratante todos los documentos facilitados para la ejecución de la obra;
 
-Concluido el desahogo de las pruebas, la contratante, dentro de los diez días hábiles siguientes, emitirá la resolución fundada y motivada que proceda, notificándosela al contratista o consultor.
-
-En el supuesto de que en la resolución se determine la rescisión administrativa del contrato, en la misma se convocará al contratista o consultor a realizar el finiquito de la obra de manera conjunta con la contratante dentro de los treinta días naturales siguientes a la fecha de la notificación aludida; asimismo, se le requerirá para que dentro de los diez días naturales siguientes a la notificación de la misma, entregue a la contratante todos los documentos facilitados para la ejecución de la obra;
-
-d). En el finiquito se deberá prever el monto de las sanciones y cantidades a reintegrar, además del sobre-costo de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados.
+IV.- En el finiquito se deberá prever el monto de las sanciones y cantidades a reintegrar, además del sobre-costo de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados.
 
 La contratante podrá reconocer en el finiquito respectivo, el suministro de materiales y equipos no instalados o colocados en obra, siempre y cuando éstos se ajusten a las especificaciones contratadas y sean de utilidad.
 
-Si el contratista o consultor no comparece a finiquitar la obra, la contratante procederá a ello de manera unilateral, respetando los resultados a favor del contratista, y
+Si el contratista no comparece a finiquitar la obra, la contratante procederá a ello de manera unilateral, respetando los resultados a favor del contratista; y
 
-e). De resultar procedente, la contratante realizará los trámites conducentes para hacer efectivas las garantías otorgadas en el contrato.
+V.- De resultar procedente, la contratante realizará los trámites conducentes para hacer efectivas las garantías otorgadas en el contrato.
 
-En lo conducente, lo previsto en este artículo, será aplicable a la terminación anticipada de (sic) contrato, y
-
-III.- Cuando por causas de fuerza mayor o caso fortuito debidamente justificadas, además de las señaladas en esta Ley, se imposibilite la continuación de la obra o de los servicios, la contratante o el contratista o consultor, notificarán por escrito a la parte correspondiente la suspensión temporal del contrato, la que se deberá resolver, una vez valoradas las causas, en un plazo que no exceda de veinte días naturales, contados a partir de la fecha de recepción de la notificación; en caso de negativa, la parte interesada podrá recurrir a la autoridad administrativa o judicial, para demandar la declaratoria correspondiente.
+De considerarlo conveniente, la contratante podrá conservar al o los subcontratistas que en el momento de la rescisión del contrato, estuvieren trabajando en la obra, a fin de no entorpecer el avance de los trabajos.
 
 ### CAPÍTULO TERCERO. DE LA EJECUCIÓN
 
@@ -1309,25 +1683,33 @@ III.- Cuando por causas de fuerza mayor o caso fortuito debidamente justificadas
 
 La ejecución de los trabajos deberá iniciarse y concluirse, en la fecha señalada en el contrato y programa autorizado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 95.
 
-Los titulares de los entes públicos que ejecuten obra, designarán por escrito con anterioridad a la iniciación de los trabajos, al supervisor que tendrá la representatividad de la contratante con facultades de supervisión, vigilancia, control y revisión de los trabajos, incluyendo la validación de las estimaciones de obra ejecutada, conceptos fuera de catálogo y volúmenes excedentes presentadas por los contratistas o consultores, y que se encargará de llevar la bitácora de obra, entre otras. Asimismo, cumplirá las demás responsabilidades que señala esta Ley y su Reglamento.
+Los titulares de los entes públicos que ejecuten obra, designarán por escrito con anterioridad a la iniciación de los trabajos, al supervisor que tendrá la representatividad de la contratante con facultades de supervisión, vigilancia, control y revisión de los trabajos, incluyendo la validación de las estimaciones de obra ejecutada, conceptos fuera de catálogo y volúmenes excedentes presentadas por los contratistas, y que se encargará de llevar la bitácora de obra, entre otras. Asimismo, cumplirá las demás responsabilidades que señala esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La forma de pago se realizará a través de estimaciones de trabajos ejecutados, facturas o recibos de honorarios en los casos de servicios relacionados con la obra, formulados bajo la responsabilidad del contratista o consultor, acompañados de la documentación que acredite la procedencia de su pago, con una periodicidad no mayor a treinta días naturales y le serán entregadas a la supervisión de la contratante para su revisión y autorización definitiva, procedimiento que no excederá de quince días naturales siguientes a la fecha de entrega.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+La forma de pago se realizará a través de estimaciones de trabajos ejecutados, facturas o recibos de honorarios en los casos de servicios relacionados con la obra, formulados bajo la responsabilidad del contratista, acompañados de la documentación que acredite la procedencia de su pago, con una periodicidad no mayor a treinta días naturales y le serán entregadas a la supervisión de la contratante para su revisión y autorización definitiva, procedimiento que no excederá de quince días naturales siguientes a la fecha de entrega.
 
 En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser resueltas y autorizadas dentro de dicho plazo, éstas se incorporarán en la siguiente estimación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 96.
 
-Cuando la supervisión sea realizada por contrato, tendrá las mismas facultades y responsabilidades descritas en el artículo anterior y la validación de las estimaciones del contratista o consultor, facturas o recibos de honorarios, para efectos de pago, deberán ser autorizadas por el residente de la supervisión externa, en un plazo no mayor de quince días naturales posteriores a su presentación.
+Cuando la supervisión sea realizada por contrato, tendrá las mismas facultades y responsabilidades descritas en el artículo anterior y la validación de las estimaciones del contratista, facturas o recibos de honorarios, para efectos de pago, deberán ser autorizadas por el residente de la supervisión externa, en un plazo no mayor de quince días naturales posteriores a su presentación.
 
 Los Ayuntamientos podrán facultar a la Dirección Municipal para los efectos señalados en el párrafo anterior, con los lineamientos, justificaciones y fundamentos que al efecto le establezca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 97.
 
@@ -1339,21 +1721,35 @@ Las estimaciones por trabajos ejecutados son independientes entre sí y, por lo 
 
 Se prohíbe la cesión total o parcial de los derechos y obligaciones que se deriven de los contratos de obra pública a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, facturas o recibos de honorarios, que se podrán ceder a favor de instituciones financieras en cuyo caso se deberá contar con el consentimiento de la contratante y de la Secretaría de Finanzas y Administración o de la Tesorería Municipal, según corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 98.
 
-La contratante que no liquide las estimaciones por trabajos ejecutados dentro del plazo señalado en el artículo anterior, deberá cubrir al contratista o consultor, el costo de financiamiento conforme a una tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Guanajuato, para el caso de prórroga en el pago de créditos fiscales, que se computarán por días calendario desde que se venció el plazo, hasta la fecha en que se pague efectivamente al contratista.
+La contratante que no liquide las estimaciones por trabajos ejecutados dentro del plazo señalado en el artículo anterior, deberá cubrir al contratista el costo de financiamiento conforme a una tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Guanajuato, para el caso de prórroga en el pago de créditos fiscales, que se computarán por días calendario desde que se venció el plazo, hasta la fecha en que se pague efectivamente al contratista.
 
 Lo anterior sin perjuicio de la responsabilidad administrativa en que incurra el servidor público encargado de tal obligación.
 
-El costo de financiamiento que deberá cubrir en su caso la contratante, se pagará al finiquito de la obra, debiendo quedar consignados de manera específica en el acta de entrega-recepción de los trabajos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+El costo de financiamiento que deberá cubrir en su caso la contratante, se pagará al finiquito de la obra, debiendo quedar consignados de manera específica en el acta administrativa de entrega-recepción de los trabajos.
 
 Las estimaciones que no sean presentadas en tiempo oportuno por la contratista, no serán sujetas a financiamiento alguno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 99.
 
-Tratándose de pagos en exceso que haya recibido el contratista o consultor, éste deberá reintegrar las cantidades pagadas en tal carácter, más los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Guanajuato para el caso de mora en el pago de créditos fiscales, los intereses se calcularán sobre las cantidades pagadas en exceso y se computarán por días calendario, a partir del día siguiente en que se venza el plazo de requerimiento de pago, hasta aquel en que se pongan efectivamente las cantidades a disposición de la contratante.
+Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en tal carácter, más los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos para el Estado de Guanajuato para el caso de mora en el pago de créditos fiscales, los intereses se calcularán sobre las cantidades pagadas en exceso y se computarán por días calendario, a partir del día siguiente en que se venza el plazo de requerimiento de pago, hasta aquel en que se pongan efectivamente las cantidades a disposición de la contratante.
 
-No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista o consultor, sean compensadas en la estimación siguiente.
+Los pagos en exceso que haya recibido el contratista y los intereses que generen se considerarán créditos fiscales, sin perjuicio de la vigencia de las garantías correspondientes, observándose en lo conducente el contenido del artículo 79 de esta Ley.
+
+No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista, sean compensadas en la estimación siguiente.
 
 ###### Artículo 100.
 
@@ -1369,13 +1765,25 @@ I.- En el caso de la validación de conceptos fuera de catálogo y volúmenes ex
 
 Tratándose de volúmenes de obra excedentes, éstos se pagarán a los precios pactados originalmente; tratándose de conceptos fuera de catálogo, los precios deberán ser autorizados previamente a su ejecución, previa solicitud del contratista, conforme al costo de insumos vigente en el mercado o en el tabulador de la contratante; en el entendido de que para la fijación de estos precios, los consumos y rendimientos deberán aplicar el mismo criterio que hubieren seguido para determinar los precios del contrato, en la inteligencia de que no serán susceptibles de ajuste de costos;
 
-II.- Las modificaciones no deberán en modo alguno, afectar las condiciones que se refieren a la naturaleza, características esenciales del proyecto, metas y objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+II.- Las modificaciones no deberán en modo alguno, afectar las condiciones que se refieren a la naturaleza, características esenciales del proyecto y objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley;
 
 III.- Previamente a que se agote el monto o el plazo pactados en el contrato original, deberá elaborarse un prefiniquito del avance de la obra;
 
 IV.- La celebración del convenio deberá llevarse a cabo, precisando los volúmenes de obra por ejecutar, el costo de los mismos y el periodo de ejecución;
 
-V.- La celebración del convenio modificatorio, no deberá llevarse a cabo para cambiar los alcances de las metas integrales del proyecto ejecutivo del contrato original;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+V.- La celebración del convenio modificatorio, no deberá llevarse a cabo para cambiar los alcances integrales del proyecto ejecutivo del contrato original.
+
+La culminación física de los trabajos no será impedimento para modificar el monto del contrato en el supuesto de que hubiesen quedado trabajos por liquidar al contratista.
+
+Concluida la obra, si del finiquito se desprende adeudo a favor del contratista, la contratante podrá celebrar convenios de liquidación, verificando en forma previa a su celebración, que la necesidad del convenio se encuentre justificada, que se cuente con disponibilidad de recursos y que el monto respectivo haya sido autorizado tanto técnica como económicamente;
 
 VI.- Para la procedencia del convenio modificatorio, el responsable del área técnica encargada de la ejecución de los trabajos, deberá contar con elementos objetivos y documentales que lo justifiquen, consistentes en las notas de bitácora, la identificación precisa de los conceptos fuera de catálogo, los volúmenes excedentes ejecutados, la justificación de las modificaciones del proyecto, los periodos justificados de suspensión o incremento en tiempo de trabajos, el pago por ajuste de costos, entre otros; y
 
@@ -1387,7 +1795,7 @@ Las modificaciones al plazo serán independientes a las modificaciones al monto,
 
 ###### Artículo 102.
 
-Los contratos a precio alzado o la parte de mixtos de esta naturaleza, no podrán ser modificados en tiempo o en costo, ni estarán sujetos a ajustes de costos, salvo que se trate de caso fortuito o fuerza mayor debidamente justificados2
+Los contratos a precio alzado o la parte de mixtos de esta naturaleza, no podrán ser modificados en tiempo o en costo, ni estarán sujetos a ajustes de costos, salvo que se trate de caso fortuito o fuerza mayor debidamente justificados.
 
 ### CAPÍTULO QUINTO. DEL AJUSTE DE COSTOS
 
@@ -1433,13 +1841,33 @@ El factor de salario real permanecerá fijo, hasta la terminación de los trabaj
 
 ### CAPÍTULO SEXTO. DE LA ENTREGA-RECEPCIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 105.
 
-El contratista o consultor asentará en la bitácora y comunicará por escrito a la contratante la terminación de los trabajos que le fueron encomendados, dentro de los cinco días naturales siguientes a la fecha en que esto ocurra y ésta, verificará que los mismos estén debidamente concluidos dentro de los cinco días naturales siguientes.
+El contratista asentará en la bitácora y comunicará por escrito a la contratante la terminación de la obra que le fue encomendada, dentro de los cinco días naturales siguientes a la fecha en que esto ocurra y ésta verificará que los mismos estén debidamente concluidos dentro de los cinco días naturales siguientes.
+
+En el caso de servicios relacionados con la obra pública, el contratista asentará en la bitácora y notificará la terminación de los trabajos a la contratante dentro de los cinco días contados a partir de la terminación de los mismos y ésta dispondrá de treinta días naturales para la verificación correspondiente, término dentro del cual validará dichos trabajos o solicitará las adecuaciones o correcciones pertinentes.
+
+La contratante podrá efectuar recepciones físicas parciales de los trabajos cuando sin estar concluida la obra, existan trabajos terminados, identificables y susceptibles de utilizarse y conservarse; debiendo para el efecto levantar un acta administrativa de entrega-recepción parcial y resolver el cierre administrativo de la obra hasta su conclusión total.
 
 ###### Artículo 106.
 
 Recibidos físicamente los trabajos, las partes deberán elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor y en contra que resulten para cada una de ellas, describiendo el concepto general que les dio origen y el saldo resultante, debiendo formar parte de dicho finiquito, la comprobación a cargo del contratista del respectivo cumplimiento de sus obligaciones fiscales y obrero-patronales relacionadas con el contrato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+El término para la elaboración del finiquito no deberá rebasar los veinte días hábiles posteriores a la fecha de la recepción física de los trabajos, siempre y cuando no existan conceptos fuera de catálogo, ajuste de costos o volúmenes excedentes por cubrir o bien alguna otra causa que impida finiquitar la obra o servicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+No obstante lo anterior, el contrato podrá finiquitarse y cerrarse administrativamente, dejando a salvo los derechos del contratista en el acta respectiva, para el efecto de que una vez que se cuente con la disponibilidad presupuestal, se celebre el convenio de liquidación.
 
 ###### Artículo 107.
 
@@ -1447,43 +1875,83 @@ De no existir acuerdo entre las partes en relación con el finiquito, o bien, si
 
 Una vez notificado el finiquito, el contratista tendrá un plazo de diez días hábiles para alegar lo que a su derecho corresponda, si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 108.
 
-Determinado el saldo total, la contratante en su caso, pondrá a disposición del contratista o consultor el pago correspondiente mediante depósito en su cuenta; o bien, exigirá el reintegro de los importes resultantes debiendo simultáneamente, levantar el acta administrativa que de por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
+Determinado el saldo total, la contratante en su caso, pondrá a disposición del contratista el pago correspondiente mediante depósito en su cuenta; o bien, exigirá el reintegro de los importes resultantes debiendo en su caso, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+En el supuesto de que el contratista no reintegre los importes resultantes en su contra en un plazo de cinco días hábiles, contados a partir del siguiente a su notificación, los mismos se considerarán créditos fiscales y la contratante procederá a la ejecución de la o las garantías respectivas y suspenderá su registro en el padrón, por el periodo que establezca esta Ley; será aplicable en lo conducente, lo dispuesto en el artículo 79 de esta Ley.
 
-En el supuesto de que el contratista o consultor no reintegre los importes resultantes en su contra en un plazo de cinco días hábiles, contados a partir del siguiente a su notificación, la contratante procederá a la ejecución de la o las garantías respectivas y suspenderá su registro en el padrón de contratistas, por el periodo que establezca esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 109.
 
-La recepción de los trabajos se hará constar en acta dentro de los cinco días hábiles siguientes a la fecha en que se haya llevado a cabo el finiquito de los trabajos.
+La recepción final de los trabajos se hará constar a través de acta administrativa, elaborada dentro de los cinco días hábiles siguientes a la fecha en que se haya llevado a cabo el finiquito de los trabajos. Durante la formalización de tal acta, el contratista deberá exhibir la garantía de vicios ocultos.
 
-Cuando exista oposición del contratista o consultor o controversia entre las partes, en la elaboración del finiquito, se llevará a cabo la recepción de la obra, de manera unilateral.
+Cuando exista oposición del contratista o controversia entre las partes, en la elaboración del finiquito, se llevará a cabo la recepción de la obra o servicio, de manera unilateral.
+
+La negativa u omisión en la entrega de la garantía de vicios ocultos en el cierre unilateral de los contratos o convenios no exime al contratista de la responsabilidad que pudiera resultarle por vicios o defectos ocultos en los trabajos, con independencia de las sanciones a que se haga acreedor de conformidad con su contrato y lo que establezca esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 110.
 
-La contratante comunicará al Órgano de control correspondiente con cinco días hábiles de anticipación la fecha señalada para la entrega-recepción de la obra o servicio a fin de que designen representantes que asistan al acto.
+La contratante comunicará al órgano de control interno correspondiente con cinco días hábiles de anticipación la fecha señalada tanto para la recepción física de los trabajos, como para la elaboración del acta de entrega-recepción final de la obra o servicio, a fin de que designen representantes que asistan al acto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 110 Bis.
+
+El proceso de entrega recepción que se señala en este Capítulo es la culminación de la relación contractual y resulta independiente de los procesos administrativos que los entes contratantes deban seguir posteriormente para finiquitar, en su caso, los trámites ante las entidades gubernamentales que provean los recursos para el financiamiento en coparticipación de las obras y los servicios relacionados con las mismas, así como también resultan independientes de actos inaugurales o de entrega a beneficiarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 111.
 
-Concluida la obra o servicio, no obstante su recepción formal, el contratista o consultor quedará obligado a responder de los defectos y vicios ocultos, así como de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo y en esta Ley.
+Concluida la obra o servicio, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos y vicios ocultos, así como de cualquier otra responsabilidad en que hubiere incurrido en los términos señalados en el contrato respectivo y en esta Ley.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
 Para garantizar durante doce meses el cumplimiento de las obligaciones a que se refiere el párrafo anterior, se estará a lo establecido en la fracción IV del artículo 75 de esta Ley, si al término de la vigencia de la garantía no hay inconformidad de la contratante, ésta se liberará.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Para tal efecto la contratante deberá efectuar una nueva revisión de dichos trabajos, dentro de los cinco días hábiles posteriores a la solicitud de liberación de la fianza, para percatarse de que no aparecieron vicios ocultos, asentando los resultados de manera formal y en su caso, procederá la liberación de la garantía, de lo contrario procederá a solicitar su reparación, de ser posible, o aplicará la garantía, y de ser necesario iniciará un proceso de naturaleza civil en contra de éste para la obtención de la reparación total de daño.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 112.
 
-Para efecto del padrón inmobiliario de los bienes propiedad del Estado, los entes públicos deberán enviar a la Secretaría de Finanzas y Administración, copia de los títulos de propiedad y los datos sobre la localización de la obra pública ejecutada, a efecto de que se incluyan en el mismo.
+Para efecto del padrón inmobiliario de los bienes propiedad del Estado, los entes públicos deberán enviar a la Secretaría de Finanzas y Administración, en su caso, copia de los títulos de propiedad y los datos sobre la localización de la obra pública ejecutada o bien, el expediente de la obra respectiva, con los elementos necesarios para su titulación, a efecto de que se incluyan en el mismo.
 
-Tratándose de los Municipios, la información señalada en el párrafo anterior se deberá remitir a la Tesorería Municipal para su inscripción en el padrón municipal.
+Tratándose de los Municipios, la información señalada en el párrafo anterior se deberá remitir a la Tesorería Municipal o a la unidad administrativa correspondiente para su inscripción o actualización en el padrón inmobiliario municipal.
 
 ###### Artículo 113.
 
 Los entes públicos bajo cuya responsabilidad quede una obra pública concluida, estarán obligados por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento. Los órganos de control internos correspondientes vigilarán que su uso, operación y mantenimiento se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
 
 Para tal efecto, una vez concluida la obra o parte utilizada de la misma, los entes públicos vigilarán que la unidad que deba operarla, reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos actualizados, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+La operación de la obra pública genera la responsabilidad de los entes que la tienen a su cargo, de asignar presupuesto anual para su operación y constante mantenimiento, de conformidad a lo señalado en el párrafo anterior.
 
 ## TÍTULO DÉCIMO. INFORMACIÓN Y VERIFICACIÓN
 
@@ -1493,9 +1961,13 @@ Para tal efecto, una vez concluida la obra o parte utilizada de la misma, los en
 
 Los entes públicos conservarán en forma ordenada y sistemática toda la documentación comprobatoria de los actos y contratos materia de este ordenamiento, cuando menos por un lapso de cinco años contados a partir de la fecha de su recepción; excepto la documentación contable, en cuyo caso se estará a lo previsto en las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 115.
 
-Los órganos de control interno correspondientes en el ámbito de su competencia, podrán verificar la ejecución de la obra pública en cualquier momento, así como realizar las visitas que estimen pertinentes a los entes públicos que realicen obra pública y servicios relacionados con la misma, e igualmente podrán solicitar a los servidores públicos y a los contratistas que participen en ello, todos los datos e informes necesarios.
+Los órganos de control interno correspondientes en el ámbito de su competencia, podrán verificar la ejecución de la obra pública en cualquier momento, así como realizar las visitas que estimen pertinentes a los entes públicos que realicen obra pública y servicios relacionados con la misma, e igualmente podrán solicitar formalmente a los servidores públicos y a los contratistas que participen en ello, haciéndolo del conocimiento de la contraparte, todos los datos e informes necesarios, emitiendo oportunamente los resultados derivados de su intervención.
 
 ###### Artículo 116.
 
@@ -1511,11 +1983,13 @@ En caso de que el resultado del dictamen arroje irregularidades, el órgano de c
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 118.
 
-Los contratistas o consultores y quienes infrinjan las disposiciones de esta Ley o las obligaciones contempladas en los contratos derivados de la misma, serán sancionados por el Ente Público respectivo, con multa equivalente a la cantidad de ocho a quinientas veces el salario mínimo general diario vigente en el Estado, elevado al mes en la fecha de la infracción. La sanción que se imponga, deberá ser proporcional al costo de la obra contratada.
+Los contratistas y quienes infrinjan las disposiciones de esta Ley o las obligaciones contempladas en los contratos derivados de la misma, serán sancionados por el Ente Público respectivo, con multa equivalente a la cantidad de ocho a quinientas veces el salario mínimo general diario vigente en el Estado, elevado al mes en la fecha de la infracción. La sanción que se imponga deberá ser proporcional al costo de la obra contratada.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1523,7 +1997,7 @@ Los contratistas o consultores y quienes infrinjan las disposiciones de esta Ley
 
 Los servidores públicos que infrinjan las disposiciones de esta Ley serán sancionados de conformidad con lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 120.
 
@@ -1550,6 +2024,12 @@ II.- Tratándose de reincidencia se duplicará la multa inmediata anterior que s
 Las sanciones se comunicarán al infractor por escrito, describiendo los hechos constitutivos de la misma, otorgándole un término de diez días hábiles a partir de la notificación, para que exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes.
 
 Transcurrido el término a que se refiere el párrafo anterior, se resolverá lo procedente considerando los argumentos y pruebas que se hubieran hecho valer y se notificará fundada y motivada la resolución al infractor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+Impuesta una multa a un contratista, éste contará con un plazo de diez días hábiles contados a partir del día siguiente al de su notificación para efectuar su pago, en su defecto se considerará crédito fiscal.
 
 ###### Artículo 123.
 
@@ -1579,11 +2059,19 @@ VI.- Cuando se trate de resoluciones administrativas que impliquen responsabilid
 
 La notificación del acto administrativo se realizará de la siguiente manera:
 
-I.- Personalmente, por mensajería o correo certificado con acuse de recibo en el último domicilio que la persona a quien se deba notificar haya señalado ante la autoridad cuando se trate de citatorios, requerimientos y actos administrativos que puedan ser recurridos. Asimismo por fax o correo electrónico, cuando el contratista o consultor manifieste su conformidad con que se le notifique por estos medios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+I.- Personalmente, por mensajería o correo certificado con acuse de recibo en el último domicilio que la persona a quien se deba notificar haya señalado ante la autoridad cuando se trate de citatorios, requerimientos y actos administrativos que puedan ser recurridos. Asimismo por fax o correo electrónico, cuando el contratista manifieste su conformidad con que se le notifique por estos medios.
 
 Estas notificaciones surtirán efectos al día hábil siguiente al que se practiquen o reciban, o bien, en el momento en que la persona a quien va dirigida, tenga conocimiento del acto o se haya ostentado sabedor del mismo; y
 
-II.- Por estrados, cuando se trate de actos distintos a los señalados en la fracción anterior, en estos casos, se realizarán fijándolas por el término de cinco días hábiles consecutivos en un sitio con acceso al público en la oficina que las haya ordenado. En el expediente respectivo se dejará constancia de la notificación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+II.- Por estrados, cuando se trate de actos distintos a los señalados en la fracción anterior, en estos casos, se realizarán fijándolas por el término de cinco días hábiles consecutivos en un sitio con acceso al público en la oficina que las haya ordenado y surtirán efectos al día hábil siguiente a aquel en que se fije. En el expediente respectivo se dejará constancia de la notificación.
 
 ###### Artículo 126.
 
@@ -1599,9 +2087,13 @@ Las notificaciones surtirán sus efectos, el día hábil siguiente al que fueron
 
 ### CAPÍTULO PRIMERO. DEL RECURSO DE REVOCACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 128.
 
-Contra la resolución del fallo procederá el recurso de revocación que se interponga por el o los participantes en los términos de esta Ley, con independencia de los medios de defensa que se contemplan en la Ley de Justicia Administrativa y en la Ley Orgánica Municipal para el Estado de Guanajuato.
+Contra la resolución del fallo procederá el recurso de revocación que se interponga por el o los participantes en los términos de esta Ley, con independencia de los medios de defensa que se contemplan en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 129.
 
@@ -1695,7 +2187,7 @@ EL SECRETARIO DE GOBIERNO
 
 GERARDO LUIS RODRÍGUEZ OROZCO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 2005.
 
@@ -1714,3 +2206,17 @@ P.O. 11 DE JUNIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Decreto entrará en vigor ciento veinte días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado. La Secretaría de Obra Pública dispondrá del mismo término para implementar el sistema informático a que se refiere el artículo 25 Bis del presente Decreto.
+
+Artículo Segundo. Iniciada la vigencia del presente Decreto, los interesados dispondrán de un plazo de sesenta días para realizar su inscripción en el Padrón Único de Contratistas para el Estado y los Municipios; durante dicho periodo podrán participar en procesos de adjudicación de obra pública con base en el registro que tengan en el padrón estatal o municipal, según corresponda, vigentes antes del presente decreto, o en el Padrón Único de Contratistas, indistintamente.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado actualizará las disposiciones del Reglamento de la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado y los Municipios de Guanajuato, a fin de ajustarla a lo establecido en el presente Decreto, dentro de los 180 días posteriores a la entrada en vigencia de éste.
+
+Artículo Cuarto. Los procesos de contratación que se hayan iniciado bajo los términos de las normas que se derogan, continuarán bajo las mismas hasta su total conclusión.
+
+Artículo Quinto. La Secretaría de Obra Pública emitirá las disposiciones administrativas complementarias a la Ley y al Reglamento para facilitar la integración inicial del padrón.
+
+Artículo Sexto. La Secretaría de Finanzas y Administración proporcionará la asesoría y los recursos necesarios para la implementación del sistema informático referido en el artículo 25 Bis.
