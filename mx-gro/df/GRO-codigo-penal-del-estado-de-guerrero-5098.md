@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2011-10-28"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # CODIGO PENAL DEL ESTADO DE GUERRERO
 
-CODIGO PENAL DEL ESTADO DE GUERRERO
+CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -75,11 +75,11 @@ Se aplicará igualmente por los delitos que se cometan en otra entidad federativ
 
 10.- Las disposiciones generales de este Código se aplicarán por los delitos previstos en leyes especiales, en lo no establecido por éstas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## TITULO II. EL DELITO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO I. REGLAS GENERALES SOBRE EL DELITO Y LA CULPABILIDAD
 
@@ -121,11 +121,11 @@ Existe tentativa inidónea cuando no se pudiere realizar el delito, por inidonei
 
 Para establecer la sanción de la tentativa, el juzgador tomará en cuenta lo previsto en el artículo 56 de este ordenamiento, el delito de que se trate, las formas, medios y momentos en que se ejecutó.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO III. PERSONAS RESPONSABLES DE LOS DELITOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 17.- Son responsables penalmente, los que intervengan en la comisión del delito en carácter de autor o de partícipe y pueden tener ese carácter los siguientes:
 
@@ -171,11 +171,11 @@ Existe concurso real cuando con pluralidad de conductas se cometen varios delito
 
 No hay concurso cuando la conducta constituye un delito continuado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO V. CAUSAS DE EXCLUSION DEL DELITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 22.- El delito se excluye cuando:
 
@@ -227,7 +227,7 @@ Las causas de exclusión del delito, se investigarán y resolverán de oficio o 
 
 23.- Hay reincidencia cuando quien ha sido condenado por sentencia ejecutoria, dictada por cualquier Tribunal de la República o del Extranjero, cometa un nuevo delito, si no ha transcurrido desde el cumplimiento de la condena, el indulto o el sobreseimiento, un término igual al de la prescripción de la potestad de ejecutar la pena, salvo a las excepciones fijadas por la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## TITULO III. DE LAS PENAS
 
@@ -315,7 +315,7 @@ La vigilancia consistirá en ejercer sobre aquél, observación y orientación d
 
 Esta sanción podrá imponerse adicionalmente por cualquier delito y el término para hacerse efectiva contará desde la extinción de la pena de prisión o de la potestad de ejecutarla o al sustituirse o suspenderse condicionalmente la ejecución de la misma.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO IX. SANCION PECUNIARIA
 
@@ -341,7 +341,7 @@ En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de é
 
 Tratándose de mujeres con hijos menores de edad; jóvenes menores de 23 años que acrediten que están realizando estudios en instituciones legalmente autorizadas, y que demuestren fehacientemente que se dedican a una actividad lícita; indígenas monolingües; trabajadores o jornaleros, asalariados que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona, y que comprueben tener modo honesto de vivir; por cada jornada de trabajo saldará dos días de multa; la libertad bajo vigilancia no excederá de la mitad de los días de multa substituídos, y la multa substitutiva de la pena privativa de libertad, equivaldrá a un día de multa por dos de prisión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO X. REPARACION DE DAÑOS
 
@@ -425,7 +425,7 @@ La reparación de daños se hará efectiva por el Juez del proceso, conforme a l
 
 Si no alcanza a cubrir la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el reo liberado, seguirá sujeto a la obligación de pagar la parte que falta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 44.- Son terceros obligados a la reparación del daño:
 
@@ -451,7 +451,7 @@ VI.- El Estado y los Municipios por los delitos que cometan sus servidores públ
 
 ### CAPITULO XI. DECOMISO DE INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 47.- Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán cuando el delito sea doloso, y si pertenecen a un tercero, se decomisarán siempre que su utilización para la realización del delito haya sido con conocimiento del dueño.
 
@@ -509,11 +509,11 @@ V.- Las que establecen los capítulos IX a XII de este Título.
 
 Toda sentencia de condena que imponga alguna sanción de las previstas en las fracciones I a IV de este artículo, al causar ejecutoria, se inscribirá en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO XVI. DE LOS ANTECEDENTES PENALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
@@ -521,7 +521,7 @@ Toda sentencia de condena que imponga alguna sanción de las previstas en las fr
 
 La autoridad judicial, en la misma sentencia condenatoria ordenará la inscripción de los antecedentes penales del sentenciado para lo cual remitirán copia certificada de la misma a la Procuraduría General de Justicia del Estado, dentro del término de quince días hábiles contados a partir de la fecha en que haya quedado firme.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
@@ -531,17 +531,17 @@ La Procuraduría General de Justicia planeará, organizará y controlará el reg
 
 La Procuraduría General de Justicia del Estado, deberá de tener un registro de los indiciados a través de la elaboración de fichas dactiloscópicas y llevar el registro de las órdenes de aprehensión que le sean giradas para su cumplimiento, lo cual sólo constituirá un registro de control de procesos penales y no serán antecedentes penales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2011)</small>
 
 55-C.- Los antecedentes penales se cancelarán en los términos y condiciones que establezca el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## TITULO IV. APLICACION DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO I. INDIVIDUALIZACION DE LA PENA
 
@@ -589,11 +589,11 @@ III.- Que se obligue al sentenciado a residir en determinado lugar y a desempeñ
 
 Tratándose de delito permanente, se atenderá al salario que hubiese estado en vigor al cesar la consumación; en caso de delito continuado, se tomará en cuenta el salario vigente al momento de consumarse la última conducta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO II. DELITOS IMPRUDENCIALES Y DOLOSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 60.- Los delitos imprudenciales se penarán con prisión de uno a ocho años, sin exceder de la mitad de la señalada para el delito si éste hubiese sido doloso.
 
@@ -677,7 +677,7 @@ III.- Para los efectos de la sustitución, se requerirá que el reo satisfaga, a
 
 Tratándose de mujeres con hijos menores de edad; jóvenes menores de 23 años que acrediten que están realizando estudios en instituciones legalmente autorizadas, y que demuestren fehacientemente que se dedican a una actividad lícita; indígenas monolingües; trabajadores o jornaleros, asalariados o no, que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona, y que comprueben un modo honesto de vivir; por cada jornada de trabajo saldará dos días de multa; la libertad bajo vigilancia no excederá de la mitad de los días de multa substituídos, y la multa substitutiva de la pena privativa de libertad, equivaldrá a un día de multa por dos de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
 72.- La ejecución de la pena privativa de la libertad podrá ser suspendida condicionalmente, cuando se paguen o garanticen por cualquier medio, a satisfacción del juzgador, la multa y la reparación de los daños y perjuicios causados, si no excede de dos años, pero tratándose de mujeres con hijos menores de edad; jóvenes menores de 23 años que acrediten que están realizando estudios en instituciones legalmente autorizadas, y que demuestren fehacientemente que se dedican a una actividad lícita; indígenas monolingües; trabajadores o jornaleros, asalariados o no, que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona, y que comprueben tener un modo honesto de vivir, será hasta de cuatro años, si se reúnen los siguientes requisitos:
 
@@ -785,7 +785,7 @@ El Ejecutivo, asimismo podrá conceder indulto por otros delitos cuando la condu
 
 89.- Cuando el inimputable sujeto a una medida de tratamiento se encontrare prófugo y posteriormente fuese detenido, la medida impuesta se considerará extinguida si se acredita que las condiciones personales del sujeto no corresponden ya a las que hubieran dado origen a su imposición.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO X. REPARACION DE DAÑOS
 
@@ -805,13 +805,13 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 93.- El derecho para formular querella prescribirá en un año contado a partir del momento en que el ofendido o legitimado para formular aquélla tenga conocimiento del delito y del delincuente y en tres años independientemente de esa circunstancia, a partir de la consumación del delito.
 
 Si el requisito inicial de la querella se hubiese ya satisfecho y deducido la acción ante los Tribunales, se observará lo previsto por la ley para los delitos perseguibles de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 94.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate.
 
@@ -921,7 +921,7 @@ Si se tratare de un menor y éste, al sufrir el daño, se comprueba mediante dic
 
 ### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
 108.- Al autor de un homicidio calificado se le impondrá de treinta a cincuenta años de prisión, siempre y cuando se demuestre la premeditación, ventaja, alevosía o traición.
 
@@ -991,11 +991,19 @@ VI.- La víctima se haya encontrado en estado de indefensión.
 
 109.- Cuando las lesiones se cometan en algunas de las formas señaladas en el artículo 108, las penas se aumentarán hasta en dos terceras partes más de las correspondientes por la lesión de que se trate.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-109-A.- Las lesiones sufridas, cualquiera que sea su gravedad, cuando el inculpado sea el cónyuge, concubina, amasio o quien tenga relación de afecto y posea fuerza, destreza o capacidad intelectual notoriamente superior, podrá aumentarse hasta una tercera parte más de la sanción que tenga señalada.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+109 A.- Cuando las lesiones sufridas sean de las consideradas en las fracciones I, II y III del artículo 105 de este Código, sean dolosas y hayan sido en agravio de cualquiera de los sujetos contemplados por el artículo 194-A, podrá aumentarse hasta una tercera parte de la sanción que tenga señalada.
 
 109 B.- (DEROGADO, P.O. 20 DE ABRIL DE 1999)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+109 C.- Cuando las lesiones sufridas sean de las consideradas en las fracciones IV, V, VI, VII y VIII del artículo 105 de este Código, sean dolosas y hayan sido en agravio de cualquiera de los sujetos contemplados por el artículo 194-A, podrá aumentarse hasta en una mitad de la sanción que se tenga señalada.
 
 110.- La riña es la contienda de obra o la agresión física de una parte y la disposición material para contender de la otra, cualquiera que sea el número de contendientes, cuando actúen con el propósito de dañarse recíprocamente.
 
@@ -1093,13 +1101,13 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 
 No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobreza o cuando aquel haya sido producto de una violación o inseminación artificial indebida.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## TITULO III. EXPOSICION DE INCAPACES
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 126.- Al que ilegítimamente y sin orden de autoridad competente prive a otro de su libertad personal, se le aplicará prisión de dos a seis años y multa hasta por ciento veinte salarios mínimos.
 
@@ -1119,7 +1127,7 @@ III.- Que la privación de la libertad, fuera de las causas previstas por la ley
 
 127 BIS.- A los administradores de hoteles, servicios turísticos, hospitalarios, comerciales o profesionales, que ejerzan violencia sobre los usuarios pretextando algún adeudo los priven de su libertad ilegalmente, se les aplicará de seis meses a cinco años de prisión y de veinte a cien días multa, independientemente de la sanción que les corresponda por cualquier otro delito cometido.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## TITULO IV. DELITOS DE PRIVACION ILEGAL DE LA LIBERTAD
 
@@ -1127,7 +1135,7 @@ III.- Que la privación de la libertad, fuera de las causas previstas por la ley
 
 128.- (DEROGADO, P.O. 17 DE ABRIL DE 2007)
 
-(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)
 
 ### CAPITULO III. SECUESTRO
 
@@ -1181,11 +1189,21 @@ XII. Que la secuestrada se encuentre en estado de gravidez.
 
 129 BIS 2.- Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado el propósito previsto en el artículo 129, se le impondrán de diez a quince años de prisión y de cuatrocientos a quinientos cuarenta días multa. El juzgador valorará la conveniencia de la aplicación de la atenuante, cuando exista alguna de las circunstancias relativas al tipo agravado.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-129 BIS 3.- A quien cometa el delito de secuestro comprendido en los artículos 129, 129 Bis, 129 Bis 1 y 129 Bis 2 no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+129 BIS 3.- A quien cometa el delito de secuestro comprendido en los artículos 129, 129 Bis, 129 Bis 1, 129 Bis 2 y 129 Bis 4 no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+129 BIS 4.- Comete el delito de secuestro express, el que prive de la libertad a otro por un tiempo máximo de treinta y seis horas, con el propósito de cometer el delito de robo o extorsión u obtener algún beneficio económico.
+
+Al que cometa dicho ilícito se le impondrá de veinte a cuarenta años de prisión y de quinientos a dos mil días multa.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
@@ -1197,19 +1215,19 @@ XII. Que la secuestrada se encuentre en estado de gravidez.
 
 133.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTI DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTI DE 2011)</small>
 
 ### CAPÍTULO V. TRATA DE PERSONAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 133 BIS.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 133 BIS 1.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 133 BIS 2.- (DEROGADO, P.O. 19 DE AGOSTO DE 2011)
 
@@ -1225,7 +1243,7 @@ El delito previsto en este artículo se perseguirá a petición de la parte ofen
 
 ## TITULO V. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO II. ASALTO
 
@@ -1267,7 +1285,7 @@ Este delito se perseguirá por querella.
 
 138.- Al que sin consentimiento de quien tenga derecho a otorgarlo y en perjuicio de alguien, revele un secreto que por cualquier forma haya conocido o se le haya confiado, o lo emplee en provecho propio o ajeno, se le impondrá prisión de tres meses a un año, hasta cincuenta días multa y suspensión en sus funciones en su caso, de tres meses a un año. Este delito se perseguirá por querella.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## TITULO VII. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
 
@@ -1297,7 +1315,7 @@ I.- Con persona menor de doce años de edad; o
 
 II.- Con persona que independientemente de su edad se encuentre incapacitada para comprender el significado del hecho o sin posibilidad de resistir la conducta delictuosa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
 141. Se aplicará de dieciocho a veintidós años de prisión y de ciento veinte a quinientos días multa:
 
@@ -1333,7 +1351,7 @@ La misma pena se aplicará cuando la violación se ejecute con motivo de un asal
 
 142 BIS.- El que cometa el delito de violación en cualquiera de las modalidades previstas en este Capítulo, no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO VIII. DELITOS CONTRA LA LIBERTAD SEXUAL
 
@@ -1369,21 +1387,21 @@ Tratándose de ministro de culto religioso, Además de la sanción prevista, se 
 
 ### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 145.- Al que tenga cópula con persona mayor de doce y menor de dieciocho años de edad, logrando su consentimiento por medio de seducción o engaño, se le impondrá prisión de uno a seis años y de sesenta a trescientos días multa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 Este delito sólo será perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante; para efecto del perdón se deberá tomar en forma prioritaria la decisión del ofendido y reparar los daños sufridos por la comisión de este ilícito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO IV. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 145 BIS.- Al que con fines o móviles lascivos asedie reiteradamente a personas de cualquier sexo, valiéndose de su posición jerárquica o poder, derivada de sus relaciones laborales, docentes, religiosas, domésticas, o cualquier otra, que implique subordinación, se le impondrá de seis meses a tres años de prisión.
 
@@ -1395,7 +1413,7 @@ Si el hostigador fuese servidor público y utilizare los medios o circunstancias
 
 Este delito, se perseguirá a petición de parte ofendida o de su legítimo representante.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO V. APROVECHAMIENTO SEXUAL
 
@@ -1415,7 +1433,7 @@ ARTÍCULO 147 B.- Comete el delito de esterilidad provocada, quien sin el consen
 
 Se sancionará con una pena de cuatro a siete años de prisión y multa de cuarenta a ciento veinte días de salario mínimo, además de la reparación del daño.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VI. FECUNDACION A TRAVES DE MEDIOS CLINICOS Y ESTERILIDAD PROVOCADA
 
@@ -1479,7 +1497,7 @@ III.- Se lleve a cabo por dos o más personas.
 
 162.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P. O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO I. ROBO
 
@@ -1501,7 +1519,7 @@ III.- De cinco a once años de prisión y de trescientos a quinientos días mult
 
 163 BIS.- Para la aplicación de la sanción, se dará por consumado el robo, desde el momento en que el ladrón tiene en su poder la cosa robada; aún cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 164.- Se aplicará de ocho a veinte años de prisión y multa hasta de quinientos días si el robo se realiza:
 
@@ -1585,7 +1603,7 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodere una
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
 167.- Al que se apodere de una o más cabezas de ganado mayor o menor, cualquiera que sea su especie sin consentimiento de quien legalmente pueda disponer de ella, independientemente del lugar donde se encuentre y de que formen o no asociación delictuosa, se le impondrá de ocho a dieciocho años de prisión y de ochocientos a mil doscientos ochenta días multa.
 
@@ -1601,7 +1619,7 @@ III.- Al que transporte ganado, carne, pieles u otros derivados obtenidos del ab
 
 IV.- Al que con perjuicio de otro, disponga para si o para un tercero de una o más cabezas de ganado, de las cuales se le haya transmitido la tenencia y no el dominio o bien se le haya entregado para su custodia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2005)</small>
 
 168.- Se impondrá de once a dieciocho años de prisión al que:
 
@@ -1665,7 +1683,7 @@ Al que cometa el delito de exacción fraudulenta se le impondrá de 2 a 7 años 
 
 El servidor público que participe o intervenga en la comisión de esas conductas, independientemente de que se le apliquen las penas a que se haga acreedor, será destituído de su cargo, inhabilitado hasta por diez años, y será publicada la sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 172.- Se impondrán de dos a ocho años de prisión y de trescientos a quinientos días multa:
 
@@ -1759,11 +1777,11 @@ Igual sanción se impondrá al que realice un préstamo de dinero u otra cosa mu
 
 Se duplicarán las sanciones a que se refiere el párrafo segundo de este artículo, cuando se acredite que el importe de los intereses pactados convencionalmente hayan sido capitalizados en contravención a las disposiciones legales aplicables; esto, sin perjuicio de la acción civil que el deudor pueda deducir al respecto.
 
-> <small>(REFORMADA SU DENOMINACION, P. O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO VIII. DESPOJO DE BIENES INMUEBLES O DE AGUAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
 176.- Se aplicará de cinco a nueve años de prisión y de doscientos a seiscientos días multa, al que sin consentimiento de quien tenga derecho a otorgarlo, engañándolo o contra su voluntad, empleando violencia, furtividad o amenazas:
 
@@ -1803,7 +1821,7 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, al que da
 
 ### CAPITULO X. ENCUBRIMIENTO POR RECEPTACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 181.- Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél a sabiendas de estas circunstancias, o al que ayude a otro para los mismos fines se le aplicará prisión de dos a seis años y de cien a trescientos días multa.
 
@@ -1883,7 +1901,7 @@ Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien sala
 
 189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -1945,7 +1963,7 @@ Este delito se perseguirá de oficio.
 
 194 B.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 194 C.- Al que cometa el delito de violencia familiar, además de la sanción prevista se le restringirá o suspenderán sus derechos de familia; si de la comisión de la violencia familiar resultaren otras conductas constitutivas de delitos como lesiones, homicidio o contra la libertad sexual, se aplicarán las reglas del concurso.
 
@@ -1957,13 +1975,13 @@ En todos los casos el Ministerio Público al momento de recibir la denuncia, aco
 
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
 195.- Al que por incendio, explosión, inundación o por cualquier otro medio, cree un peligro común para los bienes o para las personas, se le impondrá prisión de uno a cinco años.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
 #### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
 
@@ -1989,7 +2007,7 @@ Si el infractor fuere médico o se dedicase al expendio y venta de medicamentos 
 
 ### CAPITULO II. ARMAS PROHIBIDAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 196.- A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que solo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas, se le impondrá prisión de 3 meses a 1 año o multa de 180 a 360 días de salario y decomiso.
 
@@ -2017,9 +2035,9 @@ Se aplicará la misma regla descrita en el segundo párrafo del artículo anteri
 
 198.- Al que públicamente provoque a otro a cometer un delito o haga defensa o alabanza de éste; se le impondrá prisión de uno a tres años y de ochenta a doscientos días multa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE ESTA DENOMINACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE ESTA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO I. ATAQUES A LAS VIAS Y MEDIOS DE COMUNICACION ASI COMO A LOS MEDIOS DE TRANSPORTE PUBLICO
 
@@ -2079,9 +2097,9 @@ Si en el vehículo de que se trata no se hallare persona alguna, se aplicará pr
 
 ## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS Y MEDIOS DE COMUNICACION ASI COMO MEDIOS DE TRANSPORTE PUBLICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE ESTA DENOMINACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE ESTA DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULOS
 
@@ -2119,7 +2137,7 @@ Al que use indebidamente cualquiera de los objetos arriba señalados, se le apli
 
 ### CAPITULO II. FALSIFICACION Y USO INDEBIDO DE DOCUMENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 211.- Se impondrá prisión de 3 meses a 3 años o de 180 a 360 días de multa, al que para obtener un beneficio o para causar un daño:
 
@@ -2161,7 +2179,7 @@ IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o t
 
 Las mismas penas se aplicarán al que sin tener título o autorización o permiso de la autoridad competente para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
-> <small>(REFORMADA SU DENOMINACION, P. O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 17 DE ABRIL DE 2007)</small>
 
 ### CAPITULO I
 
@@ -2195,11 +2213,11 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 216 BIS 2.- A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o acto sexuales o eróticos, se le impondrá una pena de ocho a catorce años de prisión y de mil a dos mil días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2007)</small>
 
 ## TITULO IV. DELITOS CONTRA LA EVOLUCION O DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2007)</small>
 
 ### CAPITULO II. PORNOGRAFIA CON UTILIZACION DE IMAGENES Y/O VOZ DE PERSONAS MENORES DE EDAD O DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
@@ -2221,7 +2239,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 217 BIS.- (DEROGADO, P.O. 17 DE ABRIL DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2007)</small>
 
 ### CAPITULO III. LENOCINIO Y PORNOGRAFIA
 
@@ -2245,7 +2263,7 @@ Las anteriores sanciones se impondrán sin perjuicio de las penas que correspond
 
 219 BIS.- (DEROGADO Y REUBICADO, P.O. 17 DE ABRIL DE 2007)
 
-> <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACION], P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACIÓN], P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO V. DISPOSICIONES COMUNES
 
@@ -2271,7 +2289,7 @@ IV. Hasta en una mitad cuando sean cometidos por dos o más personas.
 
 ### CAPITULO UNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 220.- Se aplicará prisión de 3 meses a 3 años o multa de 30 a 90 días de salario al que ilegítimamente:
 
@@ -2307,7 +2325,7 @@ VI.- Abandone sin causa justificada a la persona de cuya asistencia esté encarg
 
 VII.- Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de cumplir una obligación que la ley le impone para adquirir algún derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 224.- Se impondrá prisión de 3 meses a 2 años o multa hasta de 100 días de salario a los directores, encargados o administradores de Hospitales, Sanatorios, Clínicas, Dispensarios o cualquier otro centro de salud, cuando:
 
@@ -2437,7 +2455,7 @@ Al responsable de los delitos previstos en las fracciones IV y V se le impondrá
 
 ### CAPITULO III. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 243.- Se impondrá de dos a cuatro años de prisión y de cincuenta a trescientos días multa, al servidor público que indebidamente:
 
@@ -2515,7 +2533,7 @@ Si el valor de los objetos excede de mil veces al salario, se le aplicará prisi
 
 ### CAPITULO VIII. COHECHO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 248.- Se impondrán de dos a seis años de prisión y de cincuenta a cuatrocientos días multa, al servidor público que por si o por interpósita persona solicite o reciba indebidamente para si o para otros, dinero o cualquiera otra dádiva o acepte una promesa, para hacer o dejar de hacer algo justo relacionado con sus funciones.
 
@@ -2539,7 +2557,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces e
 
 ### CAPITULO X. ENRIQUECIMIENTO ILICITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 250.- Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrá de dos a ocho años de prisión y de cien a quinientos días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de seis a dieciocho años de prisión y de quinientos a ochocientos días multa.
 
@@ -2549,7 +2567,7 @@ Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados 
 
 ### CAPITULO XI. NEGOCIACIONES ILICITAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
 251.- Se impondrán de uno a cinco años de prisión y de cincuenta a trescientos días multa al servidor público que:
 
@@ -2589,13 +2607,13 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ### CAPITULO IV. FALSEDAD ANTE AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 257.- Al que teniendo la obligación legal de conducirse con verdad en un acto ante la autoridad lo haga falsamente u ocultando la verdad, se le impondrán de 3 meses a 2 años de prisión o multa de 60 a 270 días de salario.
 
 Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución, la pena de prisión no excederá de seis meses.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 258.- Al que presente testigos falsos conociendo estas circunstancias o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrá prisión de 6 meses a 3 años o multa de 30 a 180 días de salario.
 
@@ -2717,7 +2735,7 @@ XXXI.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente u
 
 XXXXII.- Ejercer presión de cualquier índole a una persona o sus representantes para otorgar el perdón en los delitos que se persigan por querella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
 270.- Al que cometa alguno de los delitos a que se refiere el Artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos en las fracciones IV, VIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI que se sancionarán con prisión de dos a siete años y de sesenta a trescientos sesenta días multa; y el contenido en la fracción XXIX que se sancionará con prisión de cuatro a doce años y de noventa a setecientos veinte días multa.
 
@@ -2797,7 +2815,7 @@ La excusa no favorecerá a quien obre por motivos reprobables o emplee medios de
 
 ### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 287.- Al que empleare violencia para hacer efectivo un derecho o pretendido derecho que deba ejercitar se le aplicará prisión de tres meses a un año o multa de 30 a 90 días de salario.
 
@@ -2805,7 +2823,7 @@ Este delito sólo podrá perseguirse por querella de la parte ofendida.
 
 ### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 288.- Se impondrá prisión de 3 meses a 3 años o multa de 180 a 360 días de salario, suspensión hasta por 3 años para ejercer la abogacía, en su caso, y hasta por el doble si reincidiere, a quien:
 
@@ -2825,7 +2843,7 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 289.- Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
 
 ### CAPITULO UNICO
 
@@ -2865,7 +2883,7 @@ VII.- Observador Electoral a quien acredita tal carácter, en los términos de l
 
 291.- En el caso de las Fracciones I y III del artículo 290, se podrá imponer además de la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2007)</small>
 
 292.- Se impondrá multa de diez a cien días de salario mínimo general vigente en el estado y prisión de seis meses a tres años.
 
@@ -2949,7 +2967,7 @@ XIX.- Se ostente como funcionario electoral o como representante de un partido p
 
 293.- Se impondrá multa de cien a quinientos días de salario mínimo diario general vigente en el Estado o prisión de dos a cinco años o ambas sanciones a los ministros de cultos religiosos que por cualquier medio, en el desarrollo de actos propios de su ministerio, induzcan al electorado a votar a favor o en contra de un candidato o partido político o coalición, o a la abstención del ejercicio del derecho del voto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2007)</small>
 
 294.- Se impondrá multa de ciento cincuenta a doscientos cincuenta días de salario mínimo general vigente en el Estado y prisión de dos a seis años, y será inhabilitado para ocupar cargos dentro de los órganos electorales, al funcionario electoral que:
 
@@ -3047,7 +3065,7 @@ VIII.- Realice, reciba o haga uso de aportaciones de dinero o en especie a favor
 
 IX.- Durante la campaña electoral, en los tres días previos a la jornada electoral o durante ésta, solicite votos por paga, dádiva o promesa de dinero u otra recompensa, o bien, quien mediante amenaza o violencia física o moral, obligue o condicione a otros a votar a favor de un determinado candidato, partido o coalición o para que se abstengan de hacerlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2007)</small>
 
 296.- Se impondrá multa de trescientos a quinientos días de salario mínimo general vigente en el Estado, prisión de cuatro a seis años y será inhabilitado para ocupar cargos dentro de la administración gubernamental hasta por cinco años, al servidor público que:
 
@@ -3099,7 +3117,7 @@ VIII.- Suplante, posea, compre, se allegue bajo cualquier medio o haga uso de bo
 
 I.- Impida sin causa justificada, de cualquier forma, la distribución o entrega de la documentación oficial electoral a la autoridad electoral correspondiente antes de la jornada o al término de ésta;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2008)</small>
 
 II.- En cualquier momento, retenga, sustraiga, se apodere o falsifique la documentación a que aluden las fracciones IV y V del artículo 290 de este Código y,
 
@@ -3115,7 +3133,7 @@ III.- Siendo servidor público, durante el proceso electoral haga proselitismo o
 
 Igual pena se aplicará a quien sin mediar resolución de autoridad competente, impida por cualquier medio, que la persona electa popularmente inicie el desempeño de su cargo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO. DELITOS AMBIENTALES
 
@@ -3209,11 +3227,11 @@ III.- Destruya en predio ajeno los nidos, huevos y crías de aves de cualquier e
 
 ## TITULO V. DELITOS ELECTORALES
 
-> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 FEBRERO DE 2004)</small>
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, P.O. 13 FEBRERO DE 2004)</small>
 
 #### SECCION QUINTA. DELITOS CONTRA EL AMBIENTE, LOS RECURSOS NATURALES, LA GESTION AMBIENTAL Y LA PROTECCION A LA FAUNA
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3261,7 +3279,7 @@ LIC. ANGEL H. AGUIRRE RIVERO
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 10 DE ENERO DE 1989.
 
@@ -3407,9 +3425,9 @@ P.O. 16 DE AGOSTO DE 2011.
 
 DECRETO No. 777
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-SE ADICIONA AL TITULO III UN CAPITULO XVI CON LOS ARTICULOS 55-A, 55-B Y 55-C, AL CODIGO PENAL DEL ESTADO DE GUERRERO.
+SE ADICIONA AL TÍTULO III UN CAPÍTULO XVI CON LOS ARTÍCULOS 55-A, 55-B Y 55-C, AL CÓDIGO PENAL DEL ESTADO DE GUERRERO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3423,9 +3441,9 @@ P.O. 16 DE AGOSTO DE 2011.
 
 DECRETO No. 778
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
-SE REFORMA EL ARTICULO 214 DEL CODIGO PENAL DEL ESTADO DE GUERRERO.
+SE REFORMA EL ARTÍCULO 214 DEL CÓDIGO PENAL DEL ESTADO DE GUERRERO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3450,6 +3468,26 @@ P.O. 28 DE OCTUBRE DE 2011.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 839 POR EL QUE SE REFORMA EL ARTÍCULO 109-A Y SE ADICIONA EL ARTÍCULO 109-C DEL CÓDIGO PENAL DEL ESTADO DE GUERRERO
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 841 POR EL QUE SE REFORMA EL ARTÍCULO 129 BIS 3 Y SE ADICIONA EL ARTÍCULO 129 BIS 4 DEL CÓDIGO PENAL DEL ESTADO DE GUERRERO
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos mese siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ###### ARTÍCULO SEGUNDO.
 
