@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-de-ejecucion-de-penas-y-medidas-de-41701"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-12"
-last_updated: "2010-12-10"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DEL SISTEMA DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE GUERRERO NUMERO 367
 
-LEY DEL SISTEMA DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE GUERRERO NUMERO 367
+LEY DEL SISTEMA DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE GUERRERO NÚMERO 367
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY NÚMERO 847 DE EJECUCIÓN PENAL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 2 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 12 de noviembre de 2004.
 
@@ -1536,3 +1538,23 @@ P.O. 10 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+PRIMERO. La presente Ley entrará en vigor el 1 de enero de 2012.
+
+SEGUNDO. Al entrar en vigencia esta ley, quedará abrogada la Ley del Sistema de Ejecución de Penas y Medidas de Seguridad del Estado de Guerrero Número 367 y sus reglamentos.
+
+TERCERO. Los procedimientos, recursos e incidentes de ejecución de penas y medidas de seguridad iniciados con la ley anterior se seguirán rigiendo con la ley que les dio origen hasta su conclusión.
+
+CUARTO. Dentro del término de sesenta días siguientes a la entrada en vigor de la presente Ley, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO. Los poderes públicos del estado deberán adoptar las medidas necesarias en materia presupuestaria para la debida aplicación de esta ley a partir de su vigencia.
+
+SEXTO. En tanto no se implemente el sistema penal acusatorio en Guerrero, las atribuciones conferidas por esta ley en materia de ejecución penal a los Jueces de Control, Jueces o Tribunal de Juicio Oral, serán ejercidas, en lo conducente, por el órgano jurisdiccional competente del Sistema Procesal Penal vigente.
+
+SÉPTIMO. En un término de un año, contado a partir de la vigencia de la presente ley, el Poder Ejecutivo del Estado creará la institución abierta a que se refiere la fracción IV del artículo 68 de esta Ley.
+
+OCTAVO. El Patronato de Ayuda para la Reinserción Social deberá instalarse dentro de los noventa días siguientes al inicio de la vigencia de la presente Ley.
+
+NOVENO. El Consejo Técnico Interdisciplinario deberá instalarse a más tardar dentro de los sesenta días siguientes al inicio de la vigencia de esta Ley.
