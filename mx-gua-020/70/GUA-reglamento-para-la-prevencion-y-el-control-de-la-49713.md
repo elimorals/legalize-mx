@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prevencion-y-el-control-de-la-49713"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2009-12-21"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO PARA LA PREVENCION Y EL CONTROL DE LA CONTAMINACION A LA ATMOSFERA GENERADA POR VEHICULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-REGLAMENTO PARA LA PREVENCION Y EL CONTROL DE LA CONTAMINACION A LA ATMOSFERA GENERADA POR VEHICULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEON, GUANAJUATO
+REGLAMENTO PARA LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN A LA ATMÓSFERA GENERADA POR VEHÍCULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -45,11 +45,11 @@ El presente Reglamento es de observancia general, sus disposiciones son de orden
 
 Para los efectos del presente Reglamento, serán aplicables las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, así como sus respectivos reglamentos, normas y demás disposiciones de observancia general, en materia de prevención y control de la contaminación a la atmósfera.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 3.
 
-La aplicación y vigilancia del presente Reglamento corresponde al Ayuntamiento de León, Guanajuato, a la Dirección General de Medio Ambiente Sustentable, y a la Dirección General de Tránsito Municipal, en los términos de sus respectivas competencias, conforme al presente Reglamento, y las demás disposiciones aplicables.
+La aplicación y vigilancia del presente Reglamento corresponde al Ayuntamiento de León, Guanajuato, a la Dirección General de Medio Ambiente Sustentable, a la Dirección General de Tránsito Municipal y a los agentes de tránsito municipal en los términos de sus respectivas competencias, conforme al presente Reglamento, y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 4.
 
@@ -69,11 +69,11 @@ V.- Aprobar la celebración de los convenios de colaboración, coordinación o a
 
 VI.- Promover el mejoramiento de los sistemas de tránsito y transporte e implementar toda clase de medidas para disminuir las emisiones contaminantes, las que, en su caso, podrán incluir la suspensión de la circulación de vehículos, en los términos de las disposiciones jurídicas aplicables;
 
-Vll.- Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación a la atmósfera generada por vehículos automotores, en los términos de las disposiciones jurídicas aplicables; y,
+VII.- Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación a la atmósfera generada por vehículos automotores, en los términos de las disposiciones jurídicas aplicables; y,
 
 VIII.- Las demás que se deriven de las disposiciones jurídicas aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 5.
 
@@ -99,7 +99,7 @@ IX.- Proponer al Ayuntamiento la formulación de observaciones, adecuaciones y c
 
 X.- Las demás que se deriven de las disposiciones jurídicas aplicables en la materia, o que el Ayuntamiento le delegue.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
@@ -112,6 +112,20 @@ II.- Imponer las sanciones y las medidas por infracciones a este Reglamento o a 
 III.- Ejercer las funciones que asuma el Municipio con motivo de la celebración de los convenios de colaboración, coordinación o asociación, para la prevención y control de la contaminación a la atmósfera, con las autoridades competentes de la Federación, del Estado de Guanajuato, o de otros Municipios; y,
 
 IV.- Las demás que se deriven de las disposiciones jurídicas aplicables en la materia, o que el Ayuntamiento le delegue.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 6
+
+BIS.- Corresponde a los agentes de tránsito municipal:
+
+I. Vigilar el cumplimiento de las disposiciones del presente Reglamento;
+
+II. Señalar las faltas administrativas, establecidas en este Reglamento, las cuales se harán constar en las actas de infracción seriadas autorizadas por la Secretaría de Seguridad Pública Municipal;
+
+III. Retener la placa o tarjeta de circulación, la licencia de conducir o el vehículo, a fin de garantizar la sanción administrativa correspondiente; y,
+
+IV. Las demás que se deriven de las disposiciones jurídicas aplicables en la materia, o que el Ayuntamiento le delegue.
 
 ### CAPÍTULO SEGUNDO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMOSFERA GENERADA POR VEHÍCULOS AUTOMOTORES
 
@@ -243,7 +257,7 @@ FELIPE DE JESÚS LÓPEZ GÓMEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE SEPTIEMBRE DE 2008.
 
@@ -256,3 +270,9 @@ P.O. 21 DE DICIEMBRE DE 2009.
 PRIMERO.- Las presentes reformas entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes reformas.
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones normativas que se opongan a las presentes reformas y adiciones.
