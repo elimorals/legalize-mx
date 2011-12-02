@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-juventud-14770"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-09-01"
-last_updated: "1999-12-08"
+last_updated: "2011-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-08-11"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1999.
+ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2011.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 1 de septiembre de 1999.
 
@@ -663,19 +665,27 @@ El Instituto contará con un órgano de vigilancia integrado por un Comisario P�
 
 Los Comisarios Públicos vigilarán y evaluarán la operación del Instituto y tendrán a su cargo las atribuciones que le confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
 
-### CAPITULO DECIMO. DEL CONSEJO DE SEGUIMIENTO DE PROYECTOS Y PROGRAMAS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO DECIMO:. DEL CONSEJO CIUDADANO DE SEGUIMIENTO DE POLITICAS PUBLICAS EN MATERIA DE JUVENTUD
+
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 32.
 
-El Instituto contará con un Consejo de Seguimiento de Proyectos y Programas, que tendrá por objeto recabar las sugerencias y propuestas de los jóvenes del país para la elaboración de los proyectos de desarrollo de la juventud; dar seguimiento a las acciones de los programas que se ejecuten en el Instituto y formular las propuestas correspondientes.
+El Instituto contará con un Consejo Ciudadano de Seguimiento de Políticas Públicas en Materia de Juventud, que tendrá por objeto conocer el cumplimento dado a los programas dirigidos a los jóvenes tanto del Instituto como de las demás Secretarías y Entidades, opinar sobre los mismos, recabar la opinión de los ciudadanos interesados en políticas públicas en materia de juventud y presentar sus resultados y opiniones al Director General del Instituto, formulando, en su caso las propuestas correspondientes.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 33.
 
-El Consejo se integrará con diez jóvenes mexicanos, que deberán cumplir los siguientes requisitos:
+El Consejo se integrará con veinte jóvenes mexicanos de manera equitativa en cuanto a su género, que deberán cumplir los siguientes requisitos:
 
 I.- Ser ciudadanos mexicanos;
 
-II.- Tener de 18 a 29 años de edad, al día de la designación y residir en el país;
+II.- Ser mayor de edad, al día de la designación y residir en el país;
 
 III.- No estar sujetos a proceso penal o haber sido sentenciados por delito intencional grave;
 
@@ -687,11 +697,11 @@ Los cargos de Consejero son honoríficos y se desempeñarán por un periodo de d
 
 Los integrantes de dicho Consejo serán seleccionados por la Junta Directiva, según el siguiente procedimiento:
 
-1o.- El Director General, con la autorización expresa del órgano de gobierno, emitirá una convocatoria pública para la selección de los diez jóvenes que integrarán dicho Consejo, dirigida a las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social y los sectores público y privado.
+1o.- El Director General, con la autorización expresa del órgano de gobierno, emitirá una convocatoria pública para la selección de los veinte jóvenes que integrarán dicho Consejo, dirigida a las instituciones de educación superior, las organizaciones juveniles vinculadas con el trabajo comunitario, político o social y los sectores público y privado y los pueblos y comunidades indígenas.
 
 La convocatoria deberá publicarse cuando menos noventa días naturales antes de que concluya el periodo de trabajo del Consejo inmediato anterior. La convocatoria estará abierta por un periodo de sesenta días naturales. Al cierre de la misma, la Junta Directiva tendrá un plazo máximo de quince días naturales para hacer las designaciones correspondientes.
 
-2o.- Al cierre de la convocatoria y recepción de las candidaturas, la Junta Directiva habrá de conocer el curriculum de cada uno de los aspirantes y determinará conforme a aptitudes, reconocimientos y trayectoria, a los 10 miembros ciudadanos propietarios y 10 suplentes que integrarán el Consejo de Seguimiento de Proyectos y Programas, debiendo observar principios de pluralidad, diversidad social y cultural y de participación nacional a través de personas provenientes de diferentes entidades federativas. De los diez miembros propietarios del Consejo, cinco deberán ser del sexo femenino y los cinco restantes del sexo masculino, misma proporción que deberá darse en el caso de los suplentes.
+2o.- Al cierre de la convocatoria y recepción de las candidaturas, la Junta Directiva habrá de conocer el currículum de cada uno de los aspirantes y determinará conforme a aptitudes, reconocimientos y trayectoria, a los 20 miembros ciudadanos propietarios y 20 suplentes que integrarán el Consejo Ciudadano de Seguimiento de Políticas Públicas en Materia de Juventud, debiendo observar principios de pluralidad, diversidad social y cultural y de participación nacional a través de personas provenientes de diferentes entidades federativas. De los veinte miembros propietarios del Consejo, diez deberán ser del sexo femenino y los diez restantes del sexo masculino, misma proporción que deberá darse en el caso de los suplentes.
 
 3o.- Los resultados serán difundidos en tiempo y forma a través de diversos medios de comunicación. El fallo de la Junta Directiva será irrevocable e inapelable.
 
@@ -778,3 +788,7 @@ Aprobado por la Junta Directiva del Instituto Mexicano de la Juventud, en su ses
 D.O.F. 8 DE DICIEMBRE DE 1999.
 
 UNICO.- Estas modificaciones entrarán en vigor el día de su aprobación por la Junta Directiva.
+
+D.O.F. 2 DE DICIEMBRE DE 2011.
+
+UNICO.- Estas modificaciones entrarán en vigor el día de su aprobación por la Junta Directiva, debiendo publicarse en el Diario Oficial de la Federación, las presentes reformas.
