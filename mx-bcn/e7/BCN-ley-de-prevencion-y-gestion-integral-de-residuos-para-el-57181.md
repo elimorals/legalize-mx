@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2010-10-22"
+last_updated: "2011-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -233,11 +233,17 @@ XI. Realizar las actividades de inspección y vigilancia para verificar el cumpl
 
 XII. Identificar, dentro de los residuos de su competencia, aquéllos que deben estar sometidos a un plan de manejo y publicar dicha relación en el Periódico Oficial del Estado y en cualquier diario de circulación local, así como integrar su propio registro de planes de manejo de residuos sólidos urbanos;
 
-XIII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2010)
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+XIII. Elaborar el inventario de sitios contaminados con residuos sólidos urbanos,
 
-XIV. Elaborar el inventario de sitios contaminados con residuos sólidos urbanos.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XIV. Realizar la recolección de las llantas o neumáticos de desecho que se encuentren en la vía pública, en terrenos baldíos y/o en construcciones deshabitadas, en canales en uso o desuso así como en drenes en uso o desuso con el fin de transportarlas a los centros de acopio, manejo, tratamiento, reciclaje y confinamiento de residuos previamente establecidos o a los organismos no gubernamentales con los cuales la Secretaría hubiese firmado convenio para tal efecto, y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+
+XV. Aplicar conforme a la normatividad municipal correspondiente las sanciones a las personas que sean sorprendidas tirando llantas o neumáticos en la vía pública, en terrenos baldíos y/o en construcciones deshabitadas, en canales en uso o desuso y en drenes en uso o desuso, de acuerdo a las disposiciones que para tal efecto se establezcan en el Reglamento para la Preservación del Aseo Público vigente en cada uno de los Municipios.
 
 ## TÍTULO SEGUNDO. INSTRUMENTOS DE LA POLÍTICA DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS
 
@@ -1190,3 +1196,9 @@ SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán expedir y, en su cas
 TERCERO.- Los procedimientos administrativos, recursos administrativos y asuntos relacionados que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley vigente con anterioridad al mismo.
 
 CUARTO.- Los responsables de elaborar los planes de manejo contarán con un plazo de tres meses, a partir de la entrada en vigor del presente Decreto, para presentarlos a las autoridades competentes de su autorización" (sic).
+
+P.O. 2 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+SEGUNDO.- Los Municipios del Estado de Baja California, deberán adoptar o adecuar en un plazo no mayor de 90 días, el Reglamento para la Preservación del Aseo Público vigente, para la aplicación de la Operatividad que se le está atribuyendo en la fracción XV del artículo 6 de la Ley de Prevención y Gestión Integral de Residuos para el Estado de Baja California.
