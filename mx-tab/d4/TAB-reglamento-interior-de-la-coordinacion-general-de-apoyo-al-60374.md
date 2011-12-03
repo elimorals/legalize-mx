@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-general-de-apoyo-al-6037
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-23"
-last_updated: "2008-02-23"
+last_updated: "2011-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE APOYO AL DESARROLLO MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE APOYO AL DESARROLLO MUNICIPAL, PUBLICADO EN EL P.O. DE FECHA 3 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de febrero de 2008.
 
@@ -492,3 +494,17 @@ SECRETARIO DE GOBIERNO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Coordinación General de Apoyo al Desarrollo Municipal, publicado en el Suplemento "L" al Periódico Oficial del Estado número 6831, de fecha 23 de febrero de 2008; así como las demás disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos pendientes al entrar en vigor el presente Reglamento que conforme al mismo deban pasar de un área a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas áreas a las que se le haya atribuido la competencia en este ordenamiento.
+
+CUARTO. Para su mejor desempeño, las Unidades Administrativas deberán elaborar sus respectivos Manuales de Organización y de Procedimientos, debiendo ser turnados a la Unidad de Asuntos Jurídicos del CADEM y ésta a su vez, deberá turnarlos a la Dirección General de Administración de la Secretaría de Gobierno, previa validación de la Dirección General de Modernización e Innovación Gubernamental.
+
+QUINTO. El presente Reglamento no afectará la integración del Consejo Consultivo Municipal ni las funciones que hasta la presente fecha se encuentra desempeñando.
