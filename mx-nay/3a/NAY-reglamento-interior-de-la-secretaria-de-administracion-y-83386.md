@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-administracion-y-83386"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-21"
-last_updated: "2011-10-19"
+last_updated: "2011-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE DICIEMBRE DE 2011.</small>
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el miércoles 21 de septiembre de 2011.
 
@@ -165,8 +165,6 @@ Las Unidades Administrativas de la Secretaría, ejercerán las atribuciones que 
 
 La representación de la Secretaría, así como la planeación, estudio, trámite y resolución de los asuntos que le competan, corresponden al Secretario, quien para la mejor distribución y desarrollo de las actividades de la misma, podrá delegar facultades en los servidores públicos subalternos, sin perder por ello la potestad de su ejercicio directo, salvo que por disposición legal deban ser ejercidas por el mismo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 6°.
@@ -187,119 +185,123 @@ VI. Administrar, comprobar, determinar y cobrar los ingresos provenientes de las
 
 VII. Verificar y comprobar, el debido cumplimiento de las obligaciones fiscales mediante los mecanismos contenidos en las disposiciones legales de la materia, ya sean estatales o federales por convenios de coordinación fiscal. Así mismo imponer las sanciones previstas en las disposiciones estatales y federales cuya aplicación le compete;
 
-VIII. Suscribir las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, para el desarrollo de las acciones del procedimiento administrativo de ejecución; para las visitas domiciliarias, auditorias, inspecciones o verificaciones correspondientes, en los términos de la legislación aplicable y los convenios de coordinación y de colaboración celebrados o que se celebren con la Federación o los Municipios Ayuntamientos; (se delega también a subsecretaria y directores genéricas (sic))
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+VII (SIC). Suscribir las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, para el desarrollo de las acciones del procedimiento administrativo de ejecución; para las visitas domiciliarias, auditorias, inspecciones o verificaciones correspondientes, en los términos de la legislación aplicable y los convenios de coordinación y de colaboración celebrados o que se celebren con la Federación o los Municipios Ayuntamientos;
 
 IX. Dictar las normas, criterios y lineamientos para recibir bienes en pago de créditos fiscales, cancelación de éstos por incosteabilidad en el cobro o por insolvencia del deudor; condonar o subsidiar total o parcialmente derechos, productos o aprovechamientos, de conformidad con las disposiciones legales aplicables;
 
 X. Intervenir en los procedimientos judiciales o administrativos en que la Secretaria sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos vigentes, los convenios y sus anexos celebrados por el Estado con la Federación y los Ayuntamientos de la Entidad;
 
-XI. Suscribir las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, para el desarrollo de las acciones del procedimiento administrativo de ejecución; para las visitas domiciliarias, auditorias, inspecciones o verificaciones correspondientes, en los términos de la legislación aplicable y los convenios de coordinación y de colaboración celebrados o que se celebren con la Federación o los Ayuntamientos;
+> <small>N. DE E. MEDIANTE ERRATA DE FECHA 3 DE DICIEMBRE DE 2011 SE RECORRIÓ LA NUMERACIÓN DE LAS FRACCIONES XII A LA LXIV, PARA QUEDAR DE LA XI A LA XLIII.</small>
 
-XII. Ordenar la notificación y ejercer la facultad económico coactiva, tendientes a hacer efectivos los créditos fiscales, así como las acciones de fiscalización necesarias para combatir la evasión y elusión de las obligaciones fiscales a través de los procedimientos correspondientes;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2011)</small>
 
-XIII. Otorgar en los términos de la ley correspondiente, el perdón en los procedimientos penales, cuando se trate de delitos perseguidos por querella;
+XI. Ordenar la notificación y ejercer la facultad económico coactiva, tendientes a hacer efectivos los créditos fiscales, así como las acciones de fiscalización necesarias para combatir la evasión y elusión de las obligaciones fiscales a través de los procedimientos correspondientes;
 
-XIV. Ordenar la elaboración y actualización de los padrones fiscales, a que se encuentre obligada la Secretaria en términos de las disposiciones legales aplicables;
+XII. Otorgar en los términos de la ley correspondiente, el perdón en los procedimientos penales, cuando se trate de delitos perseguidos por querella;
 
-XV. Ordenar el trámite y vigilancia para su cumplimiento, de las concesiones, franquicias, aplicación de los subsidios y estímulos fiscales aprobados en términos de la legislación aplicable;
+XIII. Ordenar la elaboración y actualización de los padrones fiscales, a que se encuentre obligada la Secretaria en términos de las disposiciones legales aplicables;
 
-XVI. Autorizar a las instituciones de crédito y organismos a recibir las declaraciones y, en su caso, el pago de contribuciones estatales, municipales y federales, en términos de las leyes y convenios respectivos;
+XIV. Ordenar el trámite y vigilancia para su cumplimiento, de las concesiones, franquicias, aplicación de los subsidios y estímulos fiscales aprobados en términos de la legislación aplicable;
 
-XVII. Reclamar ante las instancias correspondientes aquellos bienes que tenga derecho a percibir la Hacienda Pública del Estado.
+XV. Autorizar a las instituciones de crédito y organismos a recibir las declaraciones y, en su caso, el pago de contribuciones estatales, municipales y federales, en términos de las leyes y convenios respectivos;
 
-XVIII. Llevar a cabo la contratación de los créditos que le sean solicitados y previamente aprobados en términos de las disposiciones legales correspondientes;
+XVI. Reclamar ante las instancias correspondientes aquellos bienes que tenga derecho a percibir la Hacienda Pública del Estado.
 
-XIX. Firmar como aval, previa autorización en términos de las disposiciones legales aplicables y en su caso, previo convenio, ordenar la retención de las participaciones y subsidios que correspondan a los Municipios y Organismos Descentralizados, en caso de incumplimiento, cuando el Ejecutivo figure como aval;
+XVII. Llevar a cabo la contratación de los créditos que le sean solicitados y previamente aprobados en términos de las disposiciones legales correspondientes;
 
-XX. Administrar y llevar el registro de la deuda pública directa del Gobierno del Estado y de la deuda indirecta de las entidades paraestatales y de los municipios conforme las disposiciones legales aplicables;
+XVIII. Firmar como aval, previa autorización en términos de las disposiciones legales aplicables y en su caso, previo convenio, ordenar la retención de las participaciones y subsidios que correspondan a los Municipios y Organismos Descentralizados, en caso de incumplimiento, cuando el Ejecutivo figure como aval;
 
-XXI. Actuar como fideicomitente único del gobierno del Estado, en todos los fideicomisos que al efecto se constituyan;
+XIX. Administrar y llevar el registro de la deuda pública directa del Gobierno del Estado y de la deuda indirecta de las entidades paraestatales y de los municipios conforme las disposiciones legales aplicables;
 
-XXII. Refrendar en términos del artículo 75 de la Constitución del Estado, los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador, que correspondan a su ramo y proponer sus modificaciones.
+XX. Actuar como fideicomitente único del gobierno del Estado, en todos los fideicomisos que al efecto se constituyan;
 
-XXIII. Proporcionar a la dependencia responsable, la información sobre las actividades desarrolladas por la secretaría y el sector paraestatal que le corresponde coordinar, para la formulación del informe anual de gobierno;
+XXI. Refrendar en términos del artículo 75 de la Constitución del Estado, los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador, que correspondan a su ramo y proponer sus modificaciones.
 
-XXIV. Acudir al Congreso Estatal, cuando sea citado para ello, a dar cuenta del estado que guarde su ramo y el sector paraestatal que le corresponda coordinar, así como cuando se discuta una ley o se estudie un negocio concerniente a su responsabilidad;
+XXII. Proporcionar a la dependencia responsable, la información sobre las actividades desarrolladas por la secretaría y el sector paraestatal que le corresponde coordinar, para la formulación del informe anual de gobierno;
 
-XXV. Elaborar conjuntamente con la Secretaría de la Contraloría General, la normatividad para regular el ejercicio del ingreso del estado y su control; simplificación administrativa, administración de recursos humanos y materiales, económicos y patrimoniales del Estado;
+XXIII. Acudir al Congreso Estatal, cuando sea citado para ello, a dar cuenta del estado que guarde su ramo y el sector paraestatal que le corresponda coordinar, así como cuando se discuta una ley o se estudie un negocio concerniente a su responsabilidad;
 
-XXVI. Establecer la normatividad a fin de que los servidores públicos que manejan fondos o valores del Estado, caucionen su manejo en términos de ley;
+XXIV. Elaborar conjuntamente con la Secretaría de la Contraloría General, la normatividad para regular el ejercicio del ingreso del estado y su control; simplificación administrativa, administración de recursos humanos y materiales, económicos y patrimoniales del Estado;
 
-XXVII. Fijar las políticas, criterios y lineamientos generales en materia de información e investigación catastral en el estado;
+XXV. Establecer la normatividad a fin de que los servidores públicos que manejan fondos o valores del Estado, caucionen su manejo en términos de ley;
 
-XXVIII. Dictar las políticas, normas y procedimientos para el control del patrimonio estatal;
+XXVI. Fijar las políticas, criterios y lineamientos generales en materia de información e investigación catastral en el estado;
 
-XXIX. Aprobar la organización interna de la Secretaría y de los Organismos Paraestatales, Fondos y Fideicomisos que le sean asignados sectorialmente, así como los manuales administrativos necesarios para el buen funcionamiento de dichas entidades;
+XXVII. Dictar las políticas, normas y procedimientos para el control del patrimonio estatal;
 
-XXX. Autorizar la expedición de permisos a establecimientos que produzcan, almacenen, distribuyan y enajenen bebidas alcohólicas, en términos de la ley respectiva; así como los relativos a las casas de empeño;
+XXVIII. Aprobar la organización interna de la Secretaría y de los Organismos Paraestatales, Fondos y Fideicomisos que le sean asignados sectorialmente, así como los manuales administrativos necesarios para el buen funcionamiento de dichas entidades;
 
-XXXI. Suscribir las garantías que deba otorgar el gobierno del estado, en términos de la legislación respectiva;
+XXIX. Autorizar la expedición de permisos a establecimientos que produzcan, almacenen, distribuyan y enajenen bebidas alcohólicas, en términos de la ley respectiva; así como los relativos a las casas de empeño;
 
-XXXII. Formar parte y, en su caso, designar a los representantes de la Secretaría ante los órganos de dirección y gobierno de las entidades que reciban recursos federales;
+XXX. Suscribir las garantías que deba otorgar el gobierno del estado, en términos de la legislación respectiva;
 
-XXXIII. Dictar las políticas y lineamientos que deben seguir las unidades administrativas adscritas a la Secretaría;
+XXXI. Formar parte y, en su caso, designar a los representantes de la Secretaría ante los órganos de dirección y gobierno de las entidades que reciban recursos federales;
 
-XXXIV. Previo acuerdo del Gobernador, crear los Organismos Desconcentrados de la Secretaría y determinar su competencia por materia y territorio;
+XXXII. Dictar las políticas y lineamientos que deben seguir las unidades administrativas adscritas a la Secretaría;
 
-XXXV. Expedir el manual de organización de la Secretaría y ordenar su publicación en el Periódico Oficial Órgano del Gobierno del Estado;
+XXXIII. Previo acuerdo del Gobernador, crear los Organismos Desconcentrados de la Secretaría y determinar su competencia por materia y territorio;
 
-XXXVI. Planear, programar, presupuestar, adquirir y suministrar los bienes, servicios y materiales de trabajo necesarios para el desarrollo de las funciones de las dependencias, efectuando los pagos de acuerdo a los programas y recursos asignados en el presupuesto correspondiente;
+XXXIV. Expedir el manual de organización de la Secretaría y ordenar su publicación en el Periódico Oficial Órgano del Gobierno del Estado;
 
-XXXVII. Celebrar contratos respecto de los bienes propiedad del Gobierno del Estado, solicitando previamente la autorización del Congreso del Estado en los casos que así se requiera;
+XXXV. Planear, programar, presupuestar, adquirir y suministrar los bienes, servicios y materiales de trabajo necesarios para el desarrollo de las funciones de las dependencias, efectuando los pagos de acuerdo a los programas y recursos asignados en el presupuesto correspondiente;
 
-XXXVIII. Ejercer las facultades de control, administración, cobro y demás establecidas en los ordenamientos aplicables, con relación a los seguros que contrate respecto a los bienes del Gobierno del Estado y los que conforme a la ley deba otorgar el mismo;
+XXXVI. Celebrar contratos respecto de los bienes propiedad del Gobierno del Estado, solicitando previamente la autorización del Congreso del Estado en los casos que así se requiera;
 
-XXXIX. Vigilar que las personas físicas y morales que celebren contratos con el Gobierno del Estado, garanticen debidamente el cumplimiento de las obligaciones a su cargo;
+XXXVII. Ejercer las facultades de control, administración, cobro y demás establecidas en los ordenamientos aplicables, con relación a los seguros que contrate respecto a los bienes del Gobierno del Estado y los que conforme a la ley deba otorgar el mismo;
 
-XL. Representar legalmente al Gobierno del Estado, en lo relativo a las relaciones laborales;
+XXXVIII. Vigilar que las personas físicas y morales que celebren contratos con el Gobierno del Estado, garanticen debidamente el cumplimiento de las obligaciones a su cargo;
 
-XLI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este reglamento, así como proporcionar asesoría en materia de interpretación y aplicación de las leyes materia de su competencia que le sea solicitada;
+XXXIX. Representar legalmente al Gobierno del Estado, en lo relativo a las relaciones laborales;
 
-XLII. Regularizar la situación jurídica de los bienes propiedad del Gobierno del Estado;
+XL. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este reglamento, así como proporcionar asesoría en materia de interpretación y aplicación de las leyes materia de su competencia que le sea solicitada;
 
-XLIII. Administrar y promover la venta, fusión, extinción, transferencia, liquidación, cesión o renta de bienes de las entidades de la administración pública paraestatal en los términos que disponga la ley;
+XLI. Regularizar la situación jurídica de los bienes propiedad del Gobierno del Estado;
 
-XLIV. Validar los convenios, contratos, concesiones y todo tipo de obligaciones que comprometan recursos de ejercicios presupuestales futuros del erario estatal mediante la firma del Secretario, sin cuyo requisito se considerarán nulos;
+XLII. Administrar y promover la venta, fusión, extinción, transferencia, liquidación, cesión o renta de bienes de las entidades de la administración pública paraestatal en los términos que disponga la ley;
 
-XLV. Celebrar convenios de carácter laboral para terminar o liquidar las relaciones de trabajo de carácter individual de las unidades administrativas de la Secretaria, así como celebrar convenios conciliatorios dentro o fuera de juicio en los que sean parte aquellas;
+XLIII. Validar los convenios, contratos, concesiones y todo tipo de obligaciones que comprometan recursos de ejercicios presupuestales futuros del erario estatal mediante la firma del Secretario, sin cuyo requisito se considerarán nulos;
 
-XLVI. Emitir y aplicar la normatividad referente a la selección, contratación, capacitación y control de los servidores públicos que laboren en la Administración Pública Centralizada, así como suscribir contratos para la prestación de servicios profesionales;
+XLIV. Celebrar convenios de carácter laboral para terminar o liquidar las relaciones de trabajo de carácter individual de las unidades administrativas de la Secretaria, así como celebrar convenios conciliatorios dentro o fuera de juicio en los que sean parte aquellas;
 
-XLVII. Tramitar los nombramientos, remociones, renuncias, las bajas, ceses, terminación de los efectos del nombramiento, licencias y jubilaciones de los servidores públicos de la Administración Pública Centralizada, de conformidad con las disposiciones legales aplicables;
+XLV. Emitir y aplicar la normatividad referente a la selección, contratación, capacitación y control de los servidores públicos que laboren en la Administración Pública Centralizada, así como suscribir contratos para la prestación de servicios profesionales;
 
-XLVIII. Elaborar y mantener actualizado el escalafón de los servidores públicos de base de las dependencias, así como su respectivo expediente;
+XLVI. Tramitar los nombramientos, remociones, renuncias, las bajas, ceses, terminación de los efectos del nombramiento, licencias y jubilaciones de los servidores públicos de la Administración Pública Centralizada, de conformidad con las disposiciones legales aplicables;
 
-XLIX. Recibir, conservar y, en su caso, hacer efectiva las garantías que las personas físicas y morales otorguen bajo cualquier título a favor del Gobierno del Estado, salvo que dicha atribución sea competencia exclusiva de otras dependencias o autoridades;
+XLVII. Elaborar y mantener actualizado el escalafón de los servidores públicos de base de las dependencias, así como su respectivo expediente;
 
-L. Llevar el registro, control y actualización de los inventarios de bienes propiedad o al cuidado del Poder Ejecutivo del Estado;
+XLVIII. Recibir, conservar y, en su caso, hacer efectiva las garantías que las personas físicas y morales otorguen bajo cualquier título a favor del Gobierno del Estado, salvo que dicha atribución sea competencia exclusiva de otras dependencias o autoridades;
 
-LI. Supervisar la administración de los almacenes del Estado;
+XLIX. Llevar el registro, control y actualización de los inventarios de bienes propiedad o al cuidado del Poder Ejecutivo del Estado;
 
-LII. Coordinar el funcionamiento del Comité de Adquisiciones de la Administración Pública Centralizada en los términos de la Ley;
+L. Supervisar la administración de los almacenes del Estado;
 
-LIII. Implementar y controlar el padrón de proveedores de las dependencias y Entidades del Ejecutivo del Estado;
+LI. Coordinar el funcionamiento del Comité de Adquisiciones de la Administración Pública Centralizada en los términos de la Ley;
 
-LIV. Administrar, asegurar la conservación y autorizar la transferencia, uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Centralizada;
+LII. Implementar y controlar el padrón de proveedores de las dependencias y Entidades del Ejecutivo del Estado;
 
-LV. Establecer en coordinación con la Secretaría de la Contraloría General las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la administración pública estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios;
+LIII. Administrar, asegurar la conservación y autorizar la transferencia, uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Centralizada;
 
-LVI. Otorgar becas en los términos de las disposiciones vigentes;
+LIV. Establecer en coordinación con la Secretaría de la Contraloría General las normas, lineamientos y controles para la entrega y recepción de las dependencias y entidades de la administración pública estatal, los cuales deberán considerar invariablemente el levantamiento de inventarios;
 
-LVII. Implementar el sistema de contabilidad gubernamental de la Administración Pública Centralizada, de conformidad con las leyes de la materia y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
+LV. Otorgar becas en los términos de las disposiciones vigentes;
 
-LVIII. Hacer glosa preventiva de los ingresos y egresos del Gobierno del Estado;
+LVI. Implementar el sistema de contabilidad gubernamental de la Administración Pública Centralizada, de conformidad con las leyes de la materia y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
 
-LIX. Coordinar y, en su caso, solventar por acuerdo del Gobernador del Estado, conjuntamente con la Secretaría de la Contraloría General y demás Dependencias, según corresponda, las observaciones que determine el Congreso del Estado a través del Órgano de Fiscalización Superior del Estado;
+LVII. Hacer glosa preventiva de los ingresos y egresos del Gobierno del Estado;
 
-LX. Proponer al Gobernador del Estado las modificaciones a las normas y criterios con los cuales podrán realizar transferencias dentro del presupuesto de las dependencias y entidades de la administración pública estatal y en su caso, definir y aplicar con autorización del Gobernador del Estado las fuentes alternas de financiamiento que permitan lograr el equilibrio financiero entre los ingresos y egresos;
+LVIII. Coordinar y, en su caso, solventar por acuerdo del Gobernador del Estado, conjuntamente con la Secretaría de la Contraloría General y demás Dependencias, según corresponda, las observaciones que determine el Congreso del Estado a través del Órgano de Fiscalización Superior del Estado;
 
-LXI. Elaborar y presentar al Gobernador del Estado, la cuenta pública de conformidad con los plazos establecidos en la Ley respectiva;
+LIX. Proponer al Gobernador del Estado las modificaciones a las normas y criterios con los cuales podrán realizar transferencias dentro del presupuesto de las dependencias y entidades de la administración pública estatal y en su caso, definir y aplicar con autorización del Gobernador del Estado las fuentes alternas de financiamiento que permitan lograr el equilibrio financiero entre los ingresos y egresos;
 
-LXII. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Gobernador del Estado, un informe pormenorizado del ejercicio fiscal anterior;
+LX. Elaborar y presentar al Gobernador del Estado, la cuenta pública de conformidad con los plazos establecidos en la Ley respectiva;
 
-LXIII. Emitir el clasificador por objeto del gasto presupuestal para la aplicación y control del gasto público en las dependencias y entidades de la administración pública estatal;
+LXI. Formular mensualmente los estados financieros de la hacienda pública, presentando anualmente al Gobernador del Estado, un informe pormenorizado del ejercicio fiscal anterior;
 
-LXIV. Las demás que le confieran las disposiciones legales aplicables y el Titular del Poder Ejecutivo Estatal, dentro de la esfera de sus atribuciones.
+LXII. Emitir el clasificador por objeto del gasto presupuestal para la aplicación y control del gasto público en las dependencias y entidades de la administración pública estatal;
+
+LXIII. Las demás que le confieran las disposiciones legales aplicables y el Titular del Poder Ejecutivo Estatal, dentro de la esfera de sus atribuciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2011)</small>
 
@@ -357,8 +359,6 @@ Los Subsecretarios, Directores Generales y Directores de área ejercerán las at
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL JURÍDICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 9°.
@@ -407,7 +407,9 @@ XX. Notificar las multas impuestas por las autoridades administrativas federales
 
 XXI. Participar en el ámbito de su competencia, en los órganos del Sistema Nacional y Estatal de Coordinación Fiscal;
 
-XXII. Resolver, en el ámbito de su competencia, sobre la procedencia y suficiencia de las garantías del interés fiscal que ofrezcan los particulares y sobre la dispensa del otorgamiento de la misma;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+XXII. Admitir, tramitar y resolver los recursos administrativos, competencia de la Secretaría conforme a la legislación respectiva y los que deriven de los convenios de coordinación y de colaboración en materia fiscal, celebrados con la Federación y los Ayuntamientos.
 
 XXIII. Hacer del conocimiento de la Secretaría de la Contraloría General los actos de los servidores públicos de la Secretaría, que impliquen responsabilidad administrativa para los efectos legales que procedan;
 
@@ -477,8 +479,6 @@ Para el desempeño de las atribuciones que le son conferidas a la Dirección Gen
 
 La organización, integración, funciones y atribuciones de estas unidades se regirán por los ordenamientos legales que le sean aplicables en el ámbito de su competencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 10.
@@ -493,7 +493,9 @@ III. Elaborar los formatos que las unidades administrativas a ella adscritas, ut
 
 IV. Ejecutar, programas de trabajo que tiendan a la recuperación de adeudos a favor del fisco estatal y, en general, a la obtención de recursos económicos a favor del Estado;
 
-V. Ordenar y aplicar el procedimiento administrativo de ejecución en todas sus etapas, para hacer efectivos los créditos fiscales exigibles, en los términos de las disposiciones fiscales aplicables y los convenios de coordinación y colaboración administrativa suscritos con la Federación o los Ayuntamientos;
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+V. Ordenar y aplicar el procedimiento administrativo de ejecución en todas sus etapas, para hacer efectivos los créditos fiscales exigibles, en los términos de las disposiciones fiscales aplicables y los convenios de coordinación y colaboración administrativa suscritos con la Federación o los Ayuntamientos, así como Resolver, en el ámbito de su competencia, sobre la procedencia y suficiencia de las garantías del interés fiscal que ofrezcan los particulares y sobre la dispensa del otorgamiento de la misma;
 
 VI. Notificar a los contribuyentes, responsables solidarios y demás obligados los actos y resoluciones administrativas en el ámbito de su competencia;
 
@@ -611,8 +613,6 @@ XV. Las demás que le señale el Secretario o le confieran otras disposiciones n
 
 ### CAPITULO VI. DE LA DIRECCIÓN GENERAL DE SISTEMAS Y TECNOLOGÍA INFORMATICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 13.
@@ -621,7 +621,9 @@ La Dirección General de Sistemas y Tecnología Informática, contará con un ti
 
 I. Desarrollar, implementar, mejorar y modernizar los sistemas informáticos de la Secretaría utilizando herramientas informáticas y administrativas;
 
-II. (DEROGADA, P.O. 19 DE OCTUBRE DE 2011)
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+II. Participar en la implementación de procedimientos de modernización, reestructuración o simplificación administrativa que las dependencias del poder ejecutivo que lo soliciten;
 
 III. Participar en la implementación de procedimientos de modernización, reestructuración o simplificación administrativa que las dependencias del poder ejecutivo que lo soliciten;
 
@@ -1027,9 +1029,7 @@ VIII. Realizar los trabajos técnicos y administrativos que permitan conocer per
 
 IX. Las demás que le encomiende el Director General de Catastro.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
-> <small>(DEROGADO CAPÍTULO X [N. DE E. CAPÍTULO XI] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2011)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2011) (F. DE E., P.O. 3 DE DICIEMBRE DE 2011)
 
 ### CAPITULO XI
 
