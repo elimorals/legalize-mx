@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2011-07-09"
+last_updated: "2011-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2011.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -775,7 +775,9 @@ No gozarán de esta beneficio quienes, a criterio del juez, puedan sustraerse de
 
 ARTICULO 71 D.- Cuando el responsable de un delito doloso sea o haya sido miembro de alguna corporación policial pública o privada en los últimos cinco años contados a partir de la comisión del ilícito, la sanción prevista en el delito que corresponda aumentará hasta en una mitad; además de imponérsele la destitución e inhabilitación para ejercer empleo, cargo o comisión de la misma naturaleza de manera permanente, cuando así proceda.
 
-Lo dispuesto en el párrafo anterior será aplicable a los siguientes delitos previstos en este ordenamiento: delitos contra el orden constitucional del Estado y su integridad territorial previsto en los artículos 127 y 128; conspiración relacionado con el artículo 129, rebelión contemplado en los artículos 130, 131,132 y 135; sedición y otros desórdenes públicos con relación a los numerales 140 y 143; terrorismo de conformidad con el artículo 145; evasión de presos referido en los artículos 146, 148 y 152; armas prohibidas concerniente a lo dispuesto en el numeral 157; asociaciones delictuosas relativo a los numerales 158, 159 y 160; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito referente al numeral 163; ultraje a insignias públicas respecto a los artículos 188 y 189; corrupción y prostitución de menores e incapaces con relación a los artículos 200, 201 y 202 Bis; lenocinio previsto en el artículo 206; revelación de secretos relativo a los numerales 208 y 209: ejercicio indebido de funciones tocante al artículo 211; abuso de autoridad, intimidación y tortura con relación a los artículos 212, 213 y 214; coalición de servidores públicos respecto en el artículo 215; tráfico de influencia consignado en el artículo 216, cohecho contemplado en el artículo 217; peculado señalado en el numeral 218; concusión previsto en el artículo 221; delitos cometidos en la custodia de documentos relativo al artículo 224; enriquecimiento ilícito de conformidad con lo que dispone el artículo 225; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 246; usurpación de funciones públicas o de profesión referido en el artículo 249; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 250; atentados al pudor tocante a los artículos 255 y 256; estupro citado en el artículo 258; violación mencionado en el articulo 260; hostigamiento o acoso sexual previsto en el numeral 260 Bis; sustracción y trafico de infantes concerniente al artículo 265; amenazas relacionado con los artículos 276, 277, 278; chantaje previsto en el artículo 279; allanamiento de morada contemplado en el artículo 280; asalto en referencia a los artículos 281 y 282; privación ilegal de la libertad y otros derechos de conformidad con el artículo 283; secuestro o plagio previsto en el artículo 284; desaparición forzada de personas mencionado en el articulo 291 A; trata de personas aludido en los numerales 291 B, 291 C, 291 D y 291 E; calumnia tocante al artículo 297; lesiones relacionado con los artículos 308, 309 Y 310; homicidio de conformidad con el numeral 321; robo relacionado con los artículos 343 y 347; abigeato referente a los artículos 357, 358, 359, 360 y 363; abuso de confianza citado en el artículo 364 y encubrimiento señalado en el artículo 381.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+Lo dispuesto en el párrafo anterior será aplicable a los siguientes delitos previstos en este ordenamiento: delitos contra el orden constitucional del Estado, y su integridad territorial previsto en los artículos 127 y 128; conspiración relacionado con el artículo 129, rebelión contemplado en los artículos 130, 131, 132 y 135; sedición y otros desórdenes públicos con relación a los numerales 140 y 143; terrorismo de conformidad con el artículo 145; evasión de presos referido en los artículos 146, 148 y 152; armas prohibidas concerniente a lo dispuesto en el numeral 157; asociaciones delictuosas relativo a los numerales 158, 159, 160 y 160 bis; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito referente al numeral 163; el previsto en el artículo 186 bis; ultraje a insignias públicas respecto a los artículos 188 y 189; corrupción y prostitución de menores e incapaces con relación a los artículos 200; 201 y 202 Bis; lenocinio previsto en el artículo 206; revelación de secretos relativo a los numerales 208 y 209; ejercicio indebido de funciones tocante al artículo 211; abuso de autoridad, intimidación y tortura con relación a los artículos 212, 213 y 214; coalición de servidores públicos respecto en el artículo 215; tráfico de influencia consignado en el artículo 216; cohecho contemplado en el artículo 217; peculado señalado en el numeral 218; concusión previsto en el artículo 221; delitos cometidos en la custodia de documentos relativo al artículo 224; enriquecimiento ilícito de conformidad con lo que dispone el artículo 225; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 246; usurpación de funciones públicas o de profesión referido en el artículo 249; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 250; atentados al pudor tocante a los artículos 255 y 256; estupro citado en el artículo 258; violación mencionado en el artículo 260; hostigamiento o acoso sexual previsto en el numeral 260 Bis; sustracción y tráfico de infantes concerniente al artículo 265; amenazas relacionado con los artículos 276, 277, 278; chantaje previsto en el artículo 279; allanamiento de morada contemplado en el artículo 280; asalto en referencia a los artículos 281 y 282; privación ilegal de la libertad y otros derechos de conformidad con el artículo 283; secuestro o plagio previsto en el artículo 284; desaparición forzada de personas mencionado en el artículo 291 A; trata de personas aludido en los numerales 291 B, 291 C, 291 D y 291 E; calumnia tocante al artículo 297; lesiones relacionado con los artículos 308, 309 y 310; homicidio de conformidad con el numeral 321; robo relacionado con los artículos 343 y 347; abigeato referente a los artículos 357, 358, 359, 360 y 363; abuso de confianza citado en el artículo 364 y encubrimiento señalado en el artículo 381.
 
 ### CAPITULO II. APLICACION DE SANCIONES A LOS DELITOS CULPOSOS
 
@@ -1451,6 +1453,20 @@ Se entiende por pandilla la reunión habitual, ocasional o transitoria de tres o
 
 Cuando se ejecuten uno o más delitos por pandilla, se aplicarán a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 160 BIS.- Comete el delito de atentado contra la seguridad de la comunidad y se le aplicará una sanción de uno a seis años de prisión y multa de doscientos a cuatrocientos días de salario, a quien sin causa justificada posea o porte cualquiera de los siguientes objetos:
+
+I.- Uno o más equipos de comunicación que permitan la intervención, escucha o transmisión de datos con respecto a canales de comunicación oficiales, cuando tenga relación con el artículo 186 bis y siempre que dichos aparatos estén en funcionamiento;
+
+II.- Una o más identificaciones oficiales alteradas o falsas, independientemente de la sanción que pudiera corresponderle como autor del delito de falsificación de documentos;
+
+III.- Uno o más uniformes, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales o militares de cualquier índole o que simulen la apariencia de los utilizados por éstas, sin estar facultado para ello, y
+
+IV.- Uno o más accesorios u objetos que se utilizan en los vehículos oficiales de instituciones policiales, de tránsito, militares de cualquier índole o a quien utilice en aquéllos las particularidades que de cualquier forma igualen la apariencia de los vehículos oficiales.
+
+Las penas a las que se refiere el presente artículo, se aumentarán hasta en una mitad de la que corresponda por el delito cometido, cuando para su perpetración se utilicen uno o más menores de edad.
+
 ### CAPITULO V. DELITOS DE TRANSITO EJECUTADOS POR CONDUCTORES DE VEHICULOS O AUTORIDADES DE TRANSITO
 
 ###### ARTICULO 161.
@@ -1588,6 +1604,14 @@ Cuando de común acuerdo violaren las partes interesadas en un negocio civil los
 ###### ARTICULO 186.
 
 Al que cometa un delito en contra de un servidor público en el acto de ejercer sus funciones o con motivo de ellas, se le aplicará de tres días a tres años de prisión, además de las sanciones que le corresponda por el delito o los delitos cometidos.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 186 BIS.- Se impondrá una pena de dos a diez años de prisión y multa de doscientos a cuatrocientos días de salario, a quien aceche, vigile o realice actos tendientes a obtener o transmitir información sobre la ubicación, actividades, operativos o en general las labores de seguridad pública y de persecución del delito.
+
+Además de las sanciones previstas en el párrafo anterior, se impondrá hasta una mitad más de la pena de prisión que le corresponda, al que realice la conducta descrita en este artículo utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
+
+Sin perjuicio de lo anterior, las penas señaladas en este artículo, se aumentarán hasta en una mitad de la que corresponda por el delito cometido, cuando para su perpetración se utilicen uno o más menores de edad.
 
 ###### ARTICULO 187.
 
@@ -3003,7 +3027,7 @@ Al responsable de Homicidio calificado se impondrá de veinte a cincuenta años 
 
 La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMAR PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 325.
 
@@ -3032,6 +3056,10 @@ VI. Cuando se dé tormento al ofendido, o se obre con ensañamiento o crueldad.
 > <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2011)</small>
 
 VII. Cuando se generen por motivos de odio, por la condición de género, preferencia sexual u origen racial.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Cuando dolosamente se prive de la vida o se cause un menoscabo a la salud o la integridad física de los miembros de corporaciones policiales, fuerzas armadas o de cualquier otro tipo de instituciones de seguridad pública, así como de los servidores públicos encargados de las labores de administración, impartición o procuración de justicia, siempre que se ejecuten a consecuencia del desempeño legítimo de sus funciones.
 
 ###### ARTICULO 326.
 
@@ -4112,3 +4140,7 @@ Artículo Segundo.- En virtud del cambio de denominación del Capítulo VI, cont
 Artículo Tercero.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Artículo Cuarto.- Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal para el Estado de Nayarit, hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante la vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+P.O. 3 DE DICIEMBRE DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
