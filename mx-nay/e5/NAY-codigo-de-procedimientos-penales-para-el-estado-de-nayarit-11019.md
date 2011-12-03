@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2011-07-09"
+last_updated: "2011-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -53,7 +53,7 @@ III.- El de instrucción, comprende las diligencias practicadas por los tribunal
 
 IV.- El de juicio, durante el cual el Ministerio Público, precisa ante los tribunales su acusación, y el acusado su defensa, y el juez apreciando las pruebas aportadas pronuncia sentencia definitiva; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -131,15 +131,15 @@ Dentro de estos periodos, el Ministerio Público cuidará de que los tribunales 
 
 Dentro del procedimiento judicial de primera y segunda instancia, hasta antes de que cause ejecutoria la sentencia, los jueces o magistrados deberán propiciar la conciliación entre las partes, en aquellos delitos que se persigan por querella de parte y que no se trate de delitos graves.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 En los delitos a que se refiere el párrafo anterior, el Ministerio Público o el juez, según corresponda, de oficio, harán del conocimiento del inculpado, la víctima y el ofendido, de los beneficios que brindan los procedimientos alternativos de solución de controversias, al presentarse la querella o al emitirse el auto de radicación, en su caso, indicando el domicilio del Centro Estatal de Justicia Alternativa o del Centro Regional que corresponda y notificará a las partes para que si es su voluntad se sometan al mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 4o.
 
@@ -199,7 +199,7 @@ Cuando los detenidos o los inculpados sean reclamados por dos o más Juzgados de
 
 Las actuaciones podrán practicarse a toda hora y aún en los días inhábiles sin necesidad de previa habilitación, y en cada una de ellas se expresará el día, mes y año en que se lleven a cabo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 13.
 
@@ -309,7 +309,7 @@ Las fianzas que deban otorgarse ante los tribunales se sujetarán a las disposic
 
 En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituido de su empleo, sin perjuicio de su consignación al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 32.
 
@@ -373,7 +373,7 @@ III.- Arresto hasta de treinta y seis horas.
 
 ### CAPITULO VI. REQUISITORIAS Y EXHORTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 40.
 
@@ -727,7 +727,7 @@ Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, ex
 
 ### CAPITULO I. INICIACION DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO SEGUNDO. AVERIGUACION PREVIA
 
@@ -811,11 +811,11 @@ En los casos del artículo anterior se requerirá a quien haya exhibido el docum
 
 Este artículo se aplicará también en lo conducente, cuando se tache de falso a un testigo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ### CAPITULO III. CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 112.
 
@@ -893,7 +893,7 @@ V.- En todo caso se mantendrán separados a los hombres y a las mujeres en los l
 
 Cuando se determine la internación de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter de su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que solo ingresa para su curación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 119.
 
@@ -957,7 +957,7 @@ En caso de que la detención de una persona exceda los plazos señalados en el A
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el Artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del tipo penal como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 124.
 
@@ -1139,7 +1139,7 @@ Para la comprobación del cuerpo del delito, los funcionarios de Policía Estata
 
 En los casos de manejo de vehículos en que el conductor se encuentre en estado de ebriedad o bajo la influencia de enervantes, el cuerpo del delito se comprobará con el examen médico que se practicará inmediatamente para determinar si el conductor se halla en alguno de los estados citados, señalando el grado de embriaguez o intoxicación, según el caso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2008)</small>
 
 ### CAPITULO III. ATENCION MEDICA A LOS LESIONADOS
 
@@ -1293,7 +1293,7 @@ Si a pesar de haberse tomado las providencias que señala este artículo, no se 
 
 Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 148.
 
@@ -1371,9 +1371,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción y prostitución de menores o incapaces previstos en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el articulo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el articulo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículo (sic) 393 y394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en los artículos 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -1821,7 +1821,7 @@ Cuando el testigo sea ciego, el juez nombrará una persona para que lo acompañe
 
 Antes de que los testigos comiencen a declarar, se les impondrá de las penas en que incurren los que se producen con falsedad o se niega a protestar o a declarar.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 233.
 
@@ -2031,7 +2031,7 @@ Los tribunales apreciarán los dictámenes periciales, aún los de los peritos c
 
 A excepción de los elementos de convicción que hacen prueba al tenor de las disposiciones conducentes de este Capítulo, todos los demás medios de prueba que se previenen, constituyen meros indicios.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 272.
 
@@ -2071,7 +2071,7 @@ VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2004)
 
 VII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -2141,7 +2141,7 @@ Si las conclusiones fueran contrarias o incongruentes a las constancias procesal
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 287.
 
@@ -2171,7 +2171,7 @@ El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en
 
 En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el juez, el Ministerio Público y la defensa. Se dará lectura a las constancias que las partes señalen y después del oír los alegatos de las mismas se declarará visto el proceso, con lo que terminará la diligencia.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE JULIO DE 2000)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JULIO DE 2000)</small>
 
 ### CAPITULO IV. ACLARACION DE SENTENCIA
 
@@ -2229,7 +2229,7 @@ I.- Las sentencias pronunciadas en primera instancia cuando se hayan consentido 
 
 II.- Las sentencias de segunda instancia y aquellas contra las cuales no dé la ley recurso alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -2459,7 +2459,7 @@ Podrán interponer el recurso, el denunciante, querellante o su s representantes
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 332.
 
@@ -3281,7 +3281,7 @@ Cuando los tribunales decreten el decomiso de instrumentos u objetos del delito,
 
 ### CAPITULO III. LIBERTAD CONDICIONAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -3303,7 +3303,7 @@ Cuando por alguna de las causas que señala el artículo 80 del Código Penal de
 
 ### CAPITULO IV
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 456.
 
@@ -3347,13 +3347,13 @@ Cuando el que goce de libertad condicional se encuentre en alguno de los casos q
 
 Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad, con el artículo 99 del Código Penal, debiendo recogerse e inutilizarse el salvoconducto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ### CAPITULO V. CONMUTACION, REDUCCION DE SANCIONES Y CESACION DE SUS EFECTOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -3361,19 +3361,19 @@ Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remiti
 
 (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 465.
 
 (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 466.
 
 (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 467.
 
@@ -3403,7 +3403,7 @@ Dentro de los tres días siguientes, se resolverá lo que corresponda.
 
 ### CAPITULO VII. REHABILITACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
@@ -3531,15 +3531,15 @@ El Secretario General de Gobierno,
 
 Lic. Martín Espinosa Soto.- Rúb.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 14 DE MAYO DE 1977
+P.O. 14 DE MAYO DE 1977.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 24 DE DICIEMBRE DE 1977
+P.O. 24 DE DICIEMBRE DE 1977.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
 
 ###### ARTICULO PRIMERO.
 
@@ -3664,3 +3664,7 @@ P.O. 9 DE JULIO DE 2011.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Los asuntos resueltos o en trámite, se seguirán rigiendo conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente decreto.
+
+P.O. 3 DE DICIEMBRE DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
