@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2005-10-18"
+last_updated: "2011-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -59,7 +59,9 @@ IV. Regular en el Estado la protección, restauración, aprovechamiento y conser
 
 V. Promover acciones con fines de conservación y restauración de suelos forestales;
 
-VI. Promover la cultura, educación, investigación y capacitación para el manejo sustentable de los recursos forestales;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+VI. Promover la cultura, educación, investigación y capacitación para el manejo sustentable de los recursos forestales, e impulsar la transferencia de tecnología;
 
 VII. Dotar de mecanismos de coordinación, concertación y cooperación a las instituciones estatales y municipales del sector forestal, así como a otras instancias afines;
 
@@ -203,9 +205,15 @@ V. Orientar y capacitar en los términos que establezca el Reglamento, a los pro
 
 VI. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros productores forestales, en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas y los sistemas producto del sector;
 
-VII. Participar de conformidad con los acuerdos y convenios que se celebren con la federación, en la inspección y vigilancia forestal en el Estado, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
 
-VIII. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
+VII. Participar de conformidad con los acuerdos y convenios que se celebren con la federación, en la inspección y vigilancia forestal en el Estado, así como en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+VIII. Implementar e impulsar programas y mecanismos que eviten el uso inadecuado del fuego en actividades agrícolas y forestales, y
+
+IX. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 12.
 
@@ -433,9 +441,15 @@ VI. La económica y de mercados de productos forestales;
 
 VII. Respecto de investigaciones y desarrollo tecnológico;
 
-VIII. Las organizaciones e instituciones de los sectores social y privado, así como de organismos públicos relacionados con este sector, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
 
-IX. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sustentable.
+VIII. Las organizaciones e instituciones de los sectores sociales y privado, así como de organismos públicos relacionados con este sector;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
+IX. El registro de daños y pérdidas de recursos forestales, por causas humanas y naturales, y
+
+X. Las demás que se consideren estratégicas para la planeación y evaluación del desarrollo forestal sustentable.
 
 ###### ARTICULO 32.
 
@@ -922,3 +936,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
