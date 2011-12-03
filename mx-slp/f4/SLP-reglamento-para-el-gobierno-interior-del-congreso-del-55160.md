@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2011-04-05"
+last_updated: "2011-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -761,9 +761,17 @@ Cuando una iniciativa de ley o decreto fuera desechada conforme a lo que dispone
 
 Para discutir y votar toda iniciativa de ley, decreto, acuerdo administrativo o económico, o punto de acuerdo, se requiere la presencia y el voto de la mitad más uno de los diputados presentes.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 81.
 
-Para adicionar o reformar la Constitución se requerirá de la aprobación de las dos terceras partes del número total de diputados, y el voto posterior de las tres cuartas partes de los ayuntamientos.
+Para adicionar o reformar la Constitución se requerirá de la aprobación por el voto de por lo menos las dos terceras partes del número total de los diputados; y el voto posterior de la mayoría de los ayuntamientos del Estado.
+
+Los ayuntamientos tendrán un plazo no mayor de tres meses para pronunciarse a favor o en contra de las adiciones o reformas que les sean enviadas por el Congreso; lapso que comenzará a partir de la recepción de las mismas. De no pronunciarse en el tiempo precisado, los cabildos serán sancionados de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+Cumplida cualquiera de las hipótesis señaladas en los párrafos anteriores, el Congreso del Estado, o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+Tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de los diputados, para que éstas formen parte de la misma.
 
 ### CAPITULO VII. DE LA APROBACION DE LAS INICIATIVAS
 
@@ -2002,5 +2010,11 @@ SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
 P.O. 5 DE ABRIL DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor a los sesenta días hábiles posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el mismo día que entre en vigor la reforma al artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
