@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-comision-de-derechos-humanos-del-estado-5434
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-07-20"
-last_updated: "2008-03-10"
+last_updated: "2011-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
+LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 5 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 1992.
 
@@ -874,3 +876,15 @@ P.O. 10 DE MARZO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto, entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- El Presidente y los integrantes del Consejo que están actualmente en funciones cumplirán su encargo durante todo el plazo para el que fueron nombrados, en los términos dispuestos por la anterior Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo.
+
+Artículo Tercero.- Se abroga la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo Publicada en el Periódico Oficial del Estado, del 20 de julio de 1992.
+
+Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a más tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
