@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2011-09-22"
+last_updated: "2011-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -123,6 +123,10 @@ Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la 
 
 Son derechos de los ciudadanos: votar y ser votados en las elecciones populares; participar en los procedimientos de referéndum, plebiscito e iniciativa popular, en los términos previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Tendrán derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, sino en los casos que denigren a las instituciones y a los propios partidos o que calumnien a las personas, se violente la autenticidad de los procesos electorales, además de los casos previstos en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley; asimismo, el derecho a la información deberá ser garantizado por el Estado.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 8°.
@@ -159,25 +163,71 @@ El Estado de Michoacán de Ocampo es libre, independiente y soberano en su régi
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 13.
+
+El Estado adopta para su régimen interior, la forma de gobierno republicano, democrático, representativo y popular, de conformidad con el Pacto Federal.
+
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-###### Artículo 13.
-
-El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como previene el Pacto Federal.
 
 Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
 
-Los partidos políticos tendrán derecho a participar en las elecciones estatales y municipales.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
 
-En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con los elementos necesarios para la consecución de sus fines.
+Los partidos políticos tienen derecho a participar en las elecciones estatales, distritales y municipales.
 
-La ley garantizará que, de acuerdo con las disponibilidades presupuestales, los partidos políticos reciban, en forma equitativa y proporcional, financiamiento público para su sostenimiento y que cuenten durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
 
-La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+Los partidos políticos deberán contar, de acuerdo con la disponibilidad presupuestal y en forma equitativa, con los elementos necesarios para la consecución de sus fines y desarrollar sus actividades permanentes. Las tendientes a la obtención del voto en los procesos electorales y conforme a la Ley, recibirán financiamiento para actividades específicas.
 
-Los partidos políticos tendrán derecho al uso en forma equitativa, proporcional y permanente, de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la ley.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus simpatizantes, las cuales no excederán el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador. La Ley establecerá los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Las campañas electorales no excederán de sesenta días para la elección de Gobernador, ni de cuarenta y cinco días para la elección de diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. La Ley fijará las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+La propaganda política o electoral, deberá abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión de toda propaganda gubernamental, tanto de los poderes estatales y municipales, así como cualquier otro ente público del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Las únicas excepciones a lo anterior, serán las campañas de información de las autoridades electorales, las relativas a servicios educativos, promoción turística y de salud, o las necesarias para la protección civil en casos de emergencia, en los términos que determine la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de las contiendas electorales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Sin menoscabo de los demás principios, el de equidad que rige a los procesos electorales, se extiende a la actuación de los órganos del Estado y a sus integrantes en todos sus niveles, por lo que deben ejercer sus funciones con la intensidad y calidad tanto de trabajo como de difusión de éste, y en la misma proporción que en períodos no electorales; por lo que no debe incrementarse la difusión dentro del proceso electoral. El Instituto Electoral de Michoacán velará por el cumplimiento de este principio y cualquier persona con elementos de prueba podrá denunciar los hechos que lo vulneren.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El derecho a la información en los procesos electorales constituye un elemento fundamental para la celebración democrática de elecciones periódicas, libres, justas, equitativas y basadas en el sufragio universal y secreto; esto tiene fundamento en el hecho de que toda persona tiene derecho a buscar, recibir y difundir información y opiniones, para lo cual deben contar con igualdad de oportunidades propiciadas por cualquier medio de comunicación sin discriminación alguna y por ningún motivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El voto es universal, libre, secreto, directo y personal. Quedan prohibidos los actos que atenten contra estas características y generen presión o coacción a los electores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Esta Constitución garantiza que los ciudadanos con discapacidad ejerzan plenamente su derecho al voto; en la Ley se preverán las condiciones y mecanismos que faciliten su ejercicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, se garantiza el derecho al voto de los michoacanos que radican en el extranjero, en los términos que establezca la Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1013,7 +1063,9 @@ III.- Distraer los caudales públicos del objeto a que estén destinados por la 
 
 IV.- Impedir a retardar las elecciones populares o la instalación de la Legislatura;
 
-V.- Intervenir en las elecciones para favorecer a personas determinadas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+V.- Intervenir por sí o a través de persona física o moral, o en cualquier forma, en las elecciones para favorecer a partido político o candidato alguno;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1543,17 +1595,31 @@ Los consejeros serán electos por un período de tres años con posibilidad de u
 
 #### SECCION IV. Del Instituto Electoral de Michoacán
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 98.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, legalidad, objetividad, imparcialidad, independencia, equidad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+La organización de las elecciones y de los procesos de participación ciudadana es una función estatal que se realiza a través de un organismo publico autónomo, dotado de personalidad jurídica y patrimonio propios denominado Instituto Electoral de Michoacán, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos, según lo disponga la Ley. La certeza, imparcialidad, independencia, legalidad, objetividad, equidad y profesionalismo serán principios rectores en el ejercicio y desarrollo de esta función estatal.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones, contará en su estructura con órganos de dirección, ejecutivos y desconcentrados. El órgano superior de dirección se integrará en la forma y términos que establezca la ley de la materia.
 
-El organismo público cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos; y se encargará de la organización y desarrollo de los procesos plebiscitarios y de referéndum, en los términos y con las formalidades establecidas en la ley de la materia. Las sesiones de los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
-Los consejeros electorales del órgano superior de dirección, deberán satisfacer los requisitos que señale la Ley y serán electos por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios del Congreso. La Ley señalará las reglas y el procedimiento correspondientes.
+Las autoridades estatales y municipales están obligadas a proporcionar información, previo requerimiento fundado, a los órganos electorales del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El organismo público cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas a la preparación y desarrollo de la jornada electoral, otorgamiento de constancias, capacitación electoral e impresión de materiales electorales, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Deberá tomar las medidas cautelares que considere convenientes para hacer prevalecer los principios que rigen el proceso electoral, en los términos señalados en la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Las sesiones de los órganos colegiados electorales deben ser públicas en los términos que disponga la Ley.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Los consejeros electorales y el Consejero Presidente del órgano superior de dirección, deben satisfacer los requisitos que señale la Ley y serán electos por un periodo improrrogable de seis años, por el voto de las dos terceras partes de los diputados del Congreso del Estado, mediante convocatoria publica y de manera sucesiva para su renovación escalonada. La Ley señalará las reglas y el procedimiento correspondientes.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -1565,13 +1631,27 @@ Artículo 98 A.- Se establecerá un sistema de medios de impugnación, en los t�
 
 En materia electoral, la interposición de los recursos, en ningún caso produce efectos suspensivos del acto o resolución impugnado.
 
-El Tribunal Electoral del Estado será órgano autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El Tribunal Electoral del Estado será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El Tribunal Electoral cubrirá en su desempeño, además de lo que determine la Ley, las actividades relativas al fomento de la cultura de la legalidad en materia de justicia electoral y participación ciudadana, consistentes en tareas de capacitación, investigación y difusión.
 
 El Tribunal Electoral del Estado tendrá competencia para resolver en única instancia y en forma definitiva, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral.
 
 El Pleno del Tribunal Electoral declarará la legalidad y validez de la elección de Gobernador del Estado, una vez resueltos, en su caso, los medios de impugnación que se hubieren interpuesto en contra de la misma.
 
 El Tribunal Electoral del Estado se organizará en los términos que señale la ley de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados, que serán electos por un periodo improrrogable de seis años, por el voto de las dos terceras partes de los diputados del Congreso del Estado, mediante convocatoria pública y de manera sucesiva para su renovación escalonada. La Ley señalara las reglas y el procedimiento correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Deberá sesionar por lo menos una vez al mes y todas sus determinaciones serán tomadas por mayoría. En el caso de las sesiones de resolución jurisdiccional serán siempre públicas, en los términos que establezca la Ley.
 
 El Tribunal Electoral del Estado funcionará en Pleno con cinco magistrados; sus sesiones de resolución serán públicas, en los términos que establezca la Ley.
 
@@ -1582,6 +1662,10 @@ El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras 
 Los magistrados tendrán un periodo constitucional de dos procesos electorales ordinarios sucesivos. Al término de su periodo cesarán en sus funciones y no podrán ser reelectos. La Ley señalará las reglas y el procedimiento correspondientes.
 
 El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las causas previstas en el artículo 77 de esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Los magistrados del tribunal no podrán ocupar, dentro de los dos años siguientes al término de su encargo, cargos en los poderes públicos en cuya elección hayan participado.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -2078,6 +2162,14 @@ El manejo de recursos económicos del Estado y Municipios, se sujetarán a las b
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1985)</small>
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+La propaganda gubernamental que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público, con independencia del origen de los recursos económicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+En los casos de infracción a lo dispuesto en el párrafo anterior, será competente en todo momento el Instituto Electoral de Michoacán, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
@@ -3300,3 +3392,25 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constituci
 ###### ARTÍCULO SEGUNDO.
 
 Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
+
+P.O. 5 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, así como su entrada en vigor al día siguiente.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento a lo establecido en el párrafo sexto del artículo 98 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los consejeros del Instituto Electoral de Michoacán, los nuevos consejeros serán nombrados a partir de la conclusión del proceso electoral del año 2011, por lo que los actuales consejeros electorales continuarán en sus funciones, sin que ello implique ratificación en el cargo. La elección de los nuevos consejeros se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
+
+###### ARTÍCULO CUARTO.
+
+En cumplimiento a lo establecido en el artículo 98-A de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, relativo a la renovación escalonada de los Magistrados del Tribunal Electoral del Estado de Michoacán, la elección de los nuevos magistrados se realizará de la siguiente manera: dos, para un proceso electoral y los tres restantes, para dos procesos electorales. Al concluir éstos su período, quienes los sustituyan, en todos los casos, serán electos por seis años.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan los decretos legislativos 174, 175, 176, 177 y 178, emitidos por la Septuagésima Legislatura del Estado de Michoacán en el año 2007 dos mil siete por el que se nombraron a los actuales consejeros del Instituto Electoral de Michoacán.
