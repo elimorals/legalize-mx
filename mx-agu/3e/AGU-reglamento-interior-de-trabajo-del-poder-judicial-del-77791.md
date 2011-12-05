@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-trabajo-del-poder-judicial-del-77791"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-20"
-last_updated: "2011-06-13"
+last_updated: "2011-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE TRABAJO DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de octubre de 2003.
 
@@ -404,11 +404,47 @@ III.- No se otorgará licencia mayor de noventa días al servidor público que e
 
 Se consideran licencias necesarias con goce de sueldo:
 
-I.- Por maternidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+I. Por maternidad o paternidad;
 
 II.- Por riesgos de trabajo, certificado por el IMSS e ISSSSPEA;
 
 III.- Por incapacidad temporal ocasionada por enfermedad o accidente que no constituyan un riesgo de trabajo; (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+Las licencias por maternidad o paternidad son irrenunciables, salvo las extensiones de las mismas que serán a solicitud del trabajador o trabajadora.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 44 BIS.- La licencia por maternidad podrá ampliarse hasta por un máximo de 30 días naturales, a consideración del Presidente del Tribunal, en los siguientes supuestos:
+
+I. En caso de parto prematuro, dependiendo de las semanas de gestación del menor;
+
+II. En caso de que el menor presente problemas de salud que pongan en peligro su vida, ameriten intervención quirúrgica o cuidados intensivos;
+
+III. Si el menor presenta alguna discapacidad al nacer; y
+
+IV. En caso de parto múltiple.
+
+La licencia por paternidad se otorgará por el nacimiento de hijos del servidor público, habidos con su cónyuge o concubina, o por haber adoptado con su cónyuge a un menor, y consistirá en diez días hábiles continuos contados a partir del nacimiento o del día en que legalmente se entregue al menor.
+
+La licencia por paternidad podrá ampliarse hasta por un máximo de 10 días hábiles continuos, a consideración del Presidente del Tribunal, en los siguientes supuestos:
+
+I. En caso de enfermedad grave o discapacidad del hijo o hija recién nacidos o adoptados;
+
+II. Por complicaciones graves de salud de la madre con motivo del nacimiento del hijo o hija, y
+
+III. En caso de parto múltiple.
+
+En caso de fallecimiento de la madre, el padre del hijo o hija recién nacidos, tendrá derecho a tomar licencia por el periodo que hubiere correspondido a aquella por licencia de maternidad.
 
 ###### ARTICULO 45.
 
@@ -452,7 +488,9 @@ II.- Por accidentes, enfermedades graves y/o intervenciones quirúrgicas a padre
 
 III.- Cuando el servidor público contraiga matrimonio;
 
-IV.- Por nacimiento de hijos del servidor público, habidos con su cónyuge o concubina;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IV.- (DEROGADA, P.O. 5 DE DICIEMBRE DE 2011)
 
 V.- Por traslado a población distinta a la del domicilio del servidor público, para asistencia médica de hijos, cónyuge o concubina; y
 
@@ -518,11 +556,21 @@ b).- Gozar forzosamente de doce semanas de descanso, debiendo percibir su salari
 
 c).- Los períodos de descanso a que se refiere la fracción anterior, se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto, en estos casos tendrán derecho al cincuenta por ciento de su salario por un período no mayor de 60 días.
 
-d).- En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+d) En el periodo de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos. Podrán optar por ejercer su derecho a una hora de lactancia diaria, ya sea iniciando sus labores una hora más tarde o suspendiéndolas una hora más temprano.
 
 e).- Regresar al puesto que desempeñaban siempre y cuando no haya transcurrido más de un año de la fecha del parto.
 
 f).- Las servidoras públicas que adopten un niño o una niña, gozarán de los mismos derechos a que se refiere la fracción b) de este Artículo, para lo cual el período de doce semanas comenzará a contar a partir del día en que sea legalmente entregado el niño o la niña a la madre servidora pública por la autoridad competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
+El servidor público soltero que adopte un niño o niña, gozará de los mismos derechos previstos en el párrafo anterior para las servidoras públicas.
 
 g).- Descansar el día diez de mayo de cada año.
 
@@ -1187,3 +1235,9 @@ P.O. 13 DE JUNIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigencia a partir de su registro en el Tribunal de Arbitraje para tos Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+
+P.O. 5 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigencia a partir de su registro en el Tribunal de Arbitraje para los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
