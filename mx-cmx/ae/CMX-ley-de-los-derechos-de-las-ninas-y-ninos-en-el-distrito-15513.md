@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2011-06-15"
+last_updated: "2011-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -222,11 +222,17 @@ I. A poseer, recibir o tener acceso a los satisfactores necesarios, considerando
 
 II. A tener acceso a los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de discapacidades y enfermedades, de acuerdo con las bases y modalidades que establecen las disposiciones jurídicas de la materia;
 
-III. A recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2011)</small>
+
+III. A recibir orientación y capacitación por parte de los progenitores, tutores, integrantes de la familia, profesoras y profesores que tengan a su cargo la educación, para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como aquello que favorezca su cuidado personal;
 
 IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción;
 
 V. A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación.
+
+> <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2011)</small>
+
+VI. A poseer, recibir o tener acceso a una alimentación nutritiva y saludable por parte de los progenitores, tutores, integrantes de la familia, profesoras y profesores, instructoras e instructores y en general cualquier persona que tenga a su cargo la educación o instrucción de cualquier índole.
 
 D) A la Educación, recreación, información y participación:
 
@@ -236,7 +242,9 @@ II. A ser tomados en cuenta para cualquier acto relacionado con su vida personal
 
 III. De asociarse y reunirse;
 
-IV. A recibir información adecuada a sus etapas de crecimiento, que promueva su bienestar social, así como su salud bio-psicosocial y sexual, enalteciendo los valores de paz, equidad, democracia, solidaridad, libertad, justicia, respeto y tolerancia;
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2011)</small>
+
+IV. A recibir información adecuada a sus etapas de crecimiento, que por parte de los progenitores, tutores, integrantes de familia y profesoras y profesores, que promueva su bienestar social, así como su salud física, psicológica, y sexual, enalteciendo los valores de paz, equidad, democracia, solidaridad, libertad, justicia, respeto y tolerancia;
 
 V. A recibir educación de calidad, conforme lo señala el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -324,9 +332,11 @@ I. La participación de hogares provisionales en su cuidado y protección cuando
 
 II. La adopción de conformidad con el Código Civil.
 
+> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-Las mismas obligaciones que se establecen en este capitulo las tendrán los tutores y personas responsables de los cuidados y atención de las niñas y niños, conforme a las facultades que para sus encargos prevean las leyes correspondientes.
+Las mismas obligaciones que se establecen en este capítulo las tendrán los tutores, profesoras y profesores, instructoras e instructores y en general cualquier persona que tenga a su cargo la educación o instrucción de cualquier índole, además de las personas responsables de los cuidados y atención de las niñas y niños, conforme a las facultades que para sus encargos prevean las leyes correspondientes.
 
 ## TITULO CUARTO. DE LAS AUTORIDADES
 
@@ -424,9 +434,17 @@ La Secretaría de Educación, instrumentará las acciones pertinentes dentro de 
 
 I.- Organizar campañas de orientación alimentaria y de educación para la salud de acuerdo con las condiciones físicas de las y los niños;
 
-II.- Publicar materiales de difusión e implementar campañas de orientación alimentaria y promoción de la actividad física en medios masivos de comunicación, y
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2011)</small>
 
-III.- Celebrar convenios específicos de coordinación con instituciones y organismos públicos, y convenios de colaboración con organismos sociales y privados que brinden orientación alimentaria a las y los niños.
+II.- Publicar materiales de difusión e implementar campañas de orientación alimentaria y promoción de la actividad física en medios masivos de comunicación;
+
+> <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2011)</small>
+
+III. Celebrar convenios específicos de coordinación con instituciones y organismos públicos, y convenios de colaboración con organismos sociales y privados que brinden orientación alimentaria a las y los niños; y
+
+> <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2011)</small>
+
+IV. Elaborar, implementar y mantener actualizados programas donde se vigile que las niñas y los niños consuman alimentos nutritivos y saludables durante el tiempo en que se encuentren bajo la tutela o instrucción de profesoras y profesores, instructoras e instructores y en general cualquier persona que tenga a su cargo la educación o instrucción de cualquier índole durante el desarrollo de sus respectivas actividades, ya sea en centros escolares, deportivos o culturales.
 
 ### CAPITULO III. DE LA SECRETARIA DE SALUD
 
@@ -1015,3 +1033,11 @@ G.O. 15 DE JUNIO DE 2011.
 Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 5 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para los efectos de su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
