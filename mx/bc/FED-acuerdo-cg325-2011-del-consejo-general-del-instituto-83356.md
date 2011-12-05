@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg325-2011-del-consejo-general-del-instituto-83356"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-10-25"
-last_updated: "2011-10-25"
+last_updated: "2011-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83356&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-10-07"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL CUAL SE DESIGNA A LOS CONSEJEROS ELECTORALES DE LOS CONSEJOS LOCALES QUE SE INSTALARÁN PARA LOS PROCESOS ELECTORALES FEDERALES 2011-2012 Y 2014-2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2011.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 25 de octubre de 2011.
 
@@ -403,33 +403,35 @@ Godínez Puebla Celia Margarita S5
 
 Suárez Tejeda María de Jesús S6
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO CG380/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE DICIEMBRE DE 2011)</small>
+
 DURANGO
 
 NOMBRE FORMULA
 
-Muñoz Carranza César P1
+Muñoz Carranza, César P1
 
-Carranza Martínez Alejandra P2
+Carranza Martínez, Alejandra P2
 
-Payán Díaz Hilda P3
+Payán Díaz, Hilda P3
 
-Cantú Bañuelos Carlos Augusto P4
+Cantú Bañuelos, Carlos Augusto P4
 
-Arreola Fallad Raquel Leila P5
+Arreola Fallad, Raquel Leila P5
 
-Quiñones Hernández Luis Carlos P6
+Quiñones Hernández, Luis Carlos P6
 
-Aranda Atiyeh Yunes Claudia Enedina S1
+Aranda Atiyeh Yunes, Claudia Enedina S1
 
-Pulido Corral Norma Beatriz S2
+Pulido Corral, Norma Beatriz S2
 
-Gamboa de la Peña María de Lourdes S3
+Gamboa de la Peña, María de Lourdes S3
 
-Martínez Carmona Rita Monserrat S4
+Martínez Carmona, Rita Monserrat S4
 
-Blancarte Gómez Andrés René S5
+Blancarte Gómez, Andrés René S5
 
-Borrego Rodríguez Carlos Antonio S6
+Borrego Rodríguez, Carlos Antonio S6
 
 GUANAJUATO
 
@@ -459,33 +461,35 @@ Rodríguez Escobedo Alicia Verónica S5
 
 Villagomez Cabrera Jorge S6
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO CG380/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE DICIEMBRE DE 2011)</small>
+
 GUERRERO
 
 NOMBRE FORMULA
 
-Garfias Marín María Luisa P1
+Garfias Marín, María Luisa P1
 
-Ortiz Montealegre Reina P2
+Ortiz Montealegre, Reina P2
 
-Steiner Hernández María Magdalena de la Luz P3
+Steiner Hernández, María Magdalena de la Luz P3
 
-Nicasio González Irma Maribel P4
+Nicasio González, Irma Maribel P4
 
-Pacheco León Silvestre P5
+Pacheco León, Silvestre P5
 
-Villa Corrales Marcos Eduardo P6
+Villa Corrales, Marcos Eduardo P6
 
-Chávez Romero Miguel Angel Adolfo S1
+García Leyva, Jaime S1
 
-Albavera Rivera Prisco Roberto S2
+Albavera Rivera, Prisco Roberto S2
 
-Montalván Tacuba Aleida S3
+Montalbán Tacuba, Aleida S3
 
-Juárez Ortiz Rodrigo S4
+Juárez Ortiz, Rodrigo S4
 
-Guerrero Flores Francisco S5
+Guerrero Flores, Francisco S5
 
-Moreno del Moral Elia S6
+Moreno del Moral, Elia S6
 
 HIDALGO
 
@@ -497,7 +501,9 @@ Sánchez Márquez Francisco Javier P2
 
 Fragoso Silva Francisco Javier P3
 
-Soto Alarcón Jozelin María P4
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO CG380/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE DICIEMBRE DE 2011)</small>
+
+Ocaña Mendoza Leticia P4
 
 Hernández Pérez Verónica P5
 
@@ -508,8 +514,6 @@ Pasquel Fuentes Víctor Oscar S1
 López Villegas Francisco Arturo S2
 
 Mendoza Gamiño José Luis S3
-
-Ocaña Mendoza Leticia S4
 
 Gómez Alamilla Miguel S5
 
@@ -711,33 +715,35 @@ Vázquez Trinidad Jorge Arturo S5
 
 Arellanes Dionisio Mario Luis S6
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO CG380/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE DICIEMBRE DE 2011)</small>
+
 PUEBLA
 
 NOMBRE FORMULA
 
-Cházaro Flores Sergio P1
+Cházaro Flores, Sergio P1
 
-Domínguez Buenfil Alfredo Guillermo P2
+Domínguez Buenfil, Alfredo Guillermo P2
 
-López Romero Gustavo Enrique P3
+López Romero, Gustavo Enrique P3
 
-Rincón Toledo Luz María P4
+Rincón Toledo, Luz María P4
 
-Villegas Olavarría Fernando P5
+Villegas Olavarría, Fernando P5
 
-Gutiérrez Jaramillo Luz Alejandra P6
+Gutiérrez Jaramillo, Luz Alejandra P6
 
-Olivares García Jordán S1
+Olivares García, Jordán S1
 
-Sánchez Yanes Gerardo S2
+Sánchez Yanes, Gerardo S2
 
-Jean Salvatori Ma del Carmen S3
+Jean Salvatori, María del Carmen S3
 
-Coutiño Osorio Patricia Fabiola S4
+Coutiño Osorio, Patricia Fabiola S4
 
-Escandón Báez Octaviano S5
+Escandón Báez, Octaviano S5
 
-González Ramírez Claudia Maribel S6
+González Ramírez, Claudia Maribel S6
 
 QUERETARO
 
@@ -963,6 +969,8 @@ Carmona Sánchez Noemí S5
 
 García Méndez Salazar Miguel S6
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO CG380/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE DICIEMBRE DE 2011)</small>
+
 VERACRUZ
 
 NOMBRE FORMULA
@@ -987,37 +995,39 @@ Rojas Pérez, Rosa Hilda S3
 
 Zaleta Cuervo, Yadira S4
 
-Alafita Méndez, Leopoldo Guadalupe S5
+Alafita Méndez, Leopoldo S5
 
 Bouchez Gómez, Rebeca Del Carmen S6
+
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO CG380/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 5 DE DICIEMBRE DE 2011)</small>
 
 YUCATAN
 
 NOMBRE FORMULA
 
-Trejo Pérez María del Mar P1
+Trejo Pérez, María del Mar P1
 
-Arauz Pérez Martha del Socorro P2
+Arauz Pérez, Martha del Socorro P2
 
-Valladares Sosa María Patricia Isabel P3
+Valladares Sosa, María Patricia Isabel P3
 
-Mc Carthy Caballero Patricia Jean P4
+McCarthy Caballero, Patricia Jean P4
 
-Monforte Méndez Gustavo Adolfo P5
+Monforte Méndez, Gustavo Adolfo P5
 
-Arjona Ordaz Alberto P6
+Arjona Ordaz, Alberto P6
 
-Berlín Villafaña Irving Gamaliel S1
+Berlín Villafaña, Irving Gamaliel S1
 
-Jacobo Villalobos Marysol S2
+Jacobo Villalobos, Marysol S2
 
-Salas Salazar Adelaida S3
+Salas Salazar, Adelaida S3
 
-Poot Capetillo Efraín Eric S4
+Poot Capetillo, Efraín Eric S4
 
-Cerón Gamboa María Eugenia S5
+Cerón Gamboa, María Eugenia S5
 
-Carrillo Lara José Eduardo S6
+Carrillo Lara, José Eduardo S6
 
 ZACATECAS
 
@@ -1046,3 +1056,9 @@ Tejada Ortega Ivone Patricia S4
 López Mendiola Cuauhtémoc S5
 
 Beltrán Vázquez Ma. Magdalena S6
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2011.
+
+Unico. El presente Acuerdo entrará en vigor a partir del momento de su aprobación por el Consejo General de este Instituto.
