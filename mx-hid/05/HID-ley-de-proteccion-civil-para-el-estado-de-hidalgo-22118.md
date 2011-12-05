@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-22118"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-17"
-last_updated: "2001-09-17"
+last_updated: "2011-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, PUBLICADA EN EL ALCANCE DEL P.O. 5 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 17 de septiembre de 2001.
 
@@ -984,3 +986,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO.
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2011.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Subsecretaria de Protección Civil y Gestión de Riesgos emitirá el reglamento correspondiente a esta Ley, dentro de los 180 días posteriores a la entrada en vigor de esta Ley.
+
+Tercero.- La presente Ley abroga a la Ley de Protección Civil para el Estado de Hidalgo, Publicada en el Periódico Oficial el lunes 17 de septiembre de 2001.
+
+Cuarto.- Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
+
+Quinto.- Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de esta Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
