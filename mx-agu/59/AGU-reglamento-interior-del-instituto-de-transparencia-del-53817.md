@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-transparencia-del-53817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-29"
-last_updated: "2011-08-15"
+last_updated: "2011-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALlENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de enero de 2007.
 
@@ -377,9 +377,11 @@ IV. En general, cuando incumpla con las disposiciones de la Ley;
 
 V. Las demás referidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, así como en la Ley de la materia, este Reglamento y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 37.
 
-El periodo de duración en el cargo de Comisionado Presidente será, como lo establece la Ley, de dos años. En ese sentido, dicha investidura no podrá volver a ocuparse sino hasta después de un periodo transcurrido a partir de su terminación.
+El periodo de duración en el cargo de Comisionado Presidente será como lo establece la Ley, de seis años.
 
 ### CAPITULO CUARTO. De los Comisionados Ciudadanos
 
@@ -778,3 +780,7 @@ Artículo Único. La presente adición al Reglamento Interior, entrará en vigor
 P.O. 15 DE AGOSTO DE 2011.
 
 ÚNICO. Las presentes adecuaciones fueron aprobadas por UNANIMIDAD de votos de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, en sesión ordinaria de fecha tres de agosto del año dos mil once y entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE DICIEMBRE DE 2011.
+
+ÚNICO. La presente reforma fue aprobada por UNANIMIDAD de votos de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, en sesión ordinaria de fecha treinta de noviembre del año dos mil once y entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
