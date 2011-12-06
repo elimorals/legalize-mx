@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2011-11-14"
+last_updated: "2011-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE DICIEMBRE DE 2011.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -721,11 +721,13 @@ II. A los diputados;
 
 III. Al Tribunal Superior de Justicia en todo lo relacionado con la organización y funcionamiento de la administración de justicia;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2011)</small>
 
-IV. A los ayuntamientos en los asuntos que incumben a los municipios, y en general, tratándose de la administración pública y gobierno municipales en cualquier materia referente a sus facultades y a las concurrentes con los demás ámbitos de gobierno;
+IV. A los ayuntamientos;
 
-V. A los ciudadanos del Estado, en todo los ramos de la administración;
+> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2011)</small>
+
+V. A los ciudadanos del Estado;
 
 > <small>(ADICIONADA, G.G. 25 DE JULIO DE 2008)</small>
 
@@ -3494,3 +3496,19 @@ G.G. 14 DE NOVIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE DICIEMBRE DE 2011.
+
+DECRETO NUMERO 386, POR EL QUE SE REFORMA LA FRACCION IV DEL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE DICIEMBRE DE 2011.
+
+DECRETO NUMERO 387, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
