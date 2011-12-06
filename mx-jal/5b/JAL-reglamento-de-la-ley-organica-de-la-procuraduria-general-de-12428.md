@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-124
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2009-11-14"
+last_updated: "2011-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -1241,7 +1241,15 @@ V. Establecer el enlace y coordinación con las autoridades de la Policía Judic
 
 VI. Vigilar y levar a cabo los principios de actuación que establece la Ley de Seguridad Pública del Estado y las demás disposiciones aplicables, en el desarrollo de las investigaciones.
 
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 VII. Coordinar y desarrollar el servicio de seguridad a las personas en términos de las instrucciones que al efecto emita el Procurador.
+
+La policía investigadora deberá prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Seguridad Pública, Prevención y Readaptación Social, Procurador General de Justicia, Subprocurador del Ministerio Público Especializado A, Subprocurador de Atención a Delitos Patrimoniales no Violentos B y Subprocurador de Concertación Social C, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo, salvo lo mencionado en el párrafo siguiente.
+
+En el caso de los Subprocuradores a los que se hace mención en el párrafo anterior, éstos recibirán el servicio de escolta y custodia con al menos un elemento de seguridad, a quien se le efectuará de manera regular y oportuna el pago de su sueldo y compensación respectiva; y se le proveerá del vehículo, equipo de comunicación, armamento, alimentos y demás recursos materiales que resulten necesarios para el cumplimiento de su encomienda.
+
+En caso de que, al término del periodo mencionado en el segundo párrafo de esta fracción, sigan existiendo condiciones objetivas de riesgo para los ex servidores públicos, el servicio de escolta y custodia podrá prorrogarse por el tiempo que se considere necesario; y (sic)
 
 VIII. Atender de inmediato las llamadas de auxilio de la comunidad; y
 
@@ -1358,3 +1366,7 @@ SEGUNDO.- Las Secretarías de Finanzas y de Administración deberán realizar la
 P.O. 14 DE NOVIEMBRE DE 2009.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 6 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
