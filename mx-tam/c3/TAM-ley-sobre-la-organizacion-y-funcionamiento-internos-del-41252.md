@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-11-15"
+last_updated: "2011-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -335,7 +335,7 @@ i) Las demás que les atribuyan la Constitución Política del Estado, esta ley 
 
 2. La Mesa Directiva acordará el orden de actuación y desempeño de los secretarios en las sesiones del Pleno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2011)</small>
 
 ### CAPITULO TERCERO. DE LAS FORMAS DE AGRUPACION POR AFILIACION PARTIDISTA
 
@@ -439,7 +439,7 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 ###### ARTICULO 32.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2011)</small>
 
 1. Son atribuciones de la Junta de Coordinación Política:
 
@@ -501,7 +501,7 @@ f) Las demás que deriven de esta ley y de los ordenamientos de la actividad par
 
 1. Las Comisiones son órganos constituidos por el Pleno para instruir y substanciar las iniciativas y propuestas que se presenten al mismo, mediante la elaboración de dictámenes, informes, opiniones o proyectos de resolución, con objeto de contribuir a que el Congreso cumpla con sus atribuciones constitucionales y legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2006)</small>
 
 2. Las Comisiones Ordinarias a cargo de las tareas de dictamen legislativo y de información y control de la gestión pública, en términos de lo dispuesto por el artículo 93 de la Constitución Política del Estado, son las siguientes:
 
@@ -1045,7 +1045,7 @@ j) Solicitar licencia para separarse de su encargo representativo.
 
 ###### ARTICULO 68.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2007)</small>
 
 1. Los Diputados al Congreso del Estado tendrán los siguientes deberes:
 
@@ -1235,7 +1235,7 @@ c) Los demás que la ley, la Junta de Coordinación Política o el presidente de
 
 ###### ARTICULO 82.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2006)</small>
 
 1. Tendrán el carácter de sesión solemne aquellas en las cuales:
 
@@ -1695,7 +1695,9 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 ###### ARTICULO 120.
 
-1. El Ejecutivo del Estado podrá formular observaciones sobre las leyes o decretos aprobados por el Congreso, dentro de los primeros diez días hábiles siguientes a su recepción.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+1. El Ejecutivo del Estado podrá formular observaciones sobre las leyes o decretos aprobados por el Congreso, dentro de los primeros 30 días naturales siguientes a su recepción.
 
 2. Las observaciones podrán formularse en forma general sobre la ley o decreto aprobado, o en particular sobre algunas de sus disposiciones. En todo caso deberán formularse por escrito y con el señalamiento de las razones que motivan su formulación.
 
@@ -1703,21 +1705,43 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 1. Al presentarse observaciones del Ejecutivo con respecto a la aprobación de una ley o decreto, las mismas se turnarán al estudio y dictamen de la comisión o comisiones que formularon el dictamen sustento de las disposiciones aprobadas.
 
-2. Dicha comisión o comisiones contarán con un plazo de 30 días naturales para producir un nuevo dictamen. Este plazo podrá ampliarse a solicitud de la o las comisiones correspondientes y mediante acuerdo del presidente de la Mesa Directiva, procurándose que no exceda de otros 30 días naturales.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+2. Dicha comisión o comisiones contarán con un plazo de 30 días naturales para producir un nuevo dictamen. Este plazo podrá ampliarse a solicitud de la o las comisiones correspondientes y mediante acuerdo del presidente de la Mesa Directiva, procurándose que no exceda de otros 15 días naturales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+3. Los plazos establecidos en el párrafo que antecede no se interrumpirán si el Congreso cierra o suspende sesiones, en cuyo caso la Diputación Permanente continuará con el proceso de dictaminación correspondiente.
 
 ###### ARTICULO 122.
 
 1. Una vez formulado el proyecto de dictamen y con una anticipación de por lo menos 72 horas, el presidente de la Mesa Directiva programará su inclusión en el orden del día de la sesión más próxima, comunicándose la fecha de la misma al Ejecutivo del Estado, con objeto de que determine si hará el nombramiento de un representante para que asista con voz a la discusión de dicho dictamen.
 
-2. Si el dictamen de la comisión o comisiones competentes atiende las observaciones formuladas por el Ejecutivo del Estado, la aprobación del mismo solo requerirá la mayoría absoluta de los diputados que se encuentren presentes.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-3. Si el dictamen rechaza las observaciones y propone sostener, en sus términos, la ley o decreto aprobados originalmente, se requerirá el voto de las dos terceras partes de los diputados presentes para su renovada aprobación y su remisión al Ejecutivo del Estado, a fin de que sancione la ley o decreto observado y lo mande publicar en el periódico oficial del Estado.
+2. Si el dictamen fuere emitido por la Diputación Permanente durante el periodo de receso, el mismo se reservará para ser resuelto en definitiva por el Pleno Legislativo en su oportunidad.
 
-4. Si el dictamen de las comisiones competentes no asume en sus términos las observaciones del Ejecutivo, pero modifica lo aprobado originalmente por el Pleno, la ley o decreto resultará aprobado con la mayoría absoluta de los diputados presentes, pudiendo el Ejecutivo del Estado formular las observaciones que estime pertinentes con relación a los nuevos textos.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+3. El dictamen podrá atender en sus términos las observaciones formuladas por el Ejecutivo del Estado, rechazarlas plenamente y sostener la ley o decreto aprobados originalmente, o considerarlas procedentes en forma parcial con algunas modificaciones en su caso
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+4. El dictamen requerirá para su aprobación el voto de las dos terceras partes de los diputados presentes, y la ley o decreto que se expida se remitirá al Ejecutivo para su promulgación y publicación inmediata.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+5. Si la votación entraña el rechazo al dictamen formulado, éste se devolverá a la comisión o comisiones que lo elaboraron, o a la Diputación Permanente en caso de encontrarse en receso el Congreso, para que se realicen las modificaciones procedentes, para lo cual se requerirá la autorización de la mayoría absoluta del Pleno en votación económica.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+6. La Comisión a la que el Pleno devuelva el dictamen para la elaboración de uno nuevo, dispondrá de 15 días naturales para presentarlo nuevamente a fin de resolverlo en definitiva. En la aprobación del dictamen se aplicarán en lo conducente las normas del procedimiento legislativo ordinario.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 123.
 
-Cuando se formulen observaciones particulares a las disposiciones aprobadas por el Congreso para una ley o decreto, si no es factible dictaminar y desahogar sobre dichas observaciones dentro del periodo ordinario en el que se formulen, a instancias del presidente de la Mesa Directiva podrá el Congreso plantear al Ejecutivo del Estado la expedición de las normas de la ley o decreto de que se trate sobre las que no hubieren formulado observaciones, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
+Cuando se formulen observaciones particulares a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se dictaminan en los términos establecidos, a instancia del Presidente de la Mesa Directiva o de la Diputación Permanente podrá el Congreso plantear al Ejecutivo del Estado la promulgación y publicación de las normas de la ley o decreto de que se trate sobre las que no hubieren formulado observaciones, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
 
 #### SECCION OCTAVA. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
@@ -2337,7 +2361,7 @@ En todo caso se otorgará prioridad a la creación y funcionamiento del Institut
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Victoria, Tam., a 6 de julio de 2004.-DIPUTADO PRESIDENTE.-PEDRO ALONSO PEREZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.- DIPUTADA SECRETARIA.- MARIA LETICIA TERAN RODRÍGUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE OCTUBRE DE 2005.
 
@@ -2470,3 +2494,9 @@ P.O. 15 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2011.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
