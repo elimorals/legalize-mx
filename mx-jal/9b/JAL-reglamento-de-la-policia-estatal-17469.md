@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-policia-estatal-17469"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-06-24"
-last_updated: "2009-06-04"
+last_updated: "2011-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA POLICÍA ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
 
 Reglamento Publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 24 de junio de 2000.
 
@@ -52,6 +52,14 @@ El presente Reglamento es de orden público e interés social y tiene por objeto
 ###### Artículo 2°.
 
 La Dirección General de Seguridad Pública, es la dependencia responsable de conducir en el Estado las normas, políticas y programas, con el fin de lograr la conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado y mantener, en coordinación con los municipios, la seguridad y el orden público, prevenir la comisión de delitos, proteger a los habitantes en su persona, propiedades y derechos, así como coadyuvar con las autoridades federales, estatales y municipales, en la prestación del servicio de seguridad pública y las demás funciones establecidas en el artículo 10 del Reglamento Interior de la Secretaría de Seguridad Pública, Prevención y Readaptación Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+La policía estatal deberá prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Seguridad Pública, Prevención y Readaptación Social, Procurador General de Justicia, Comisario General de Seguridad Pública y Comisario General de Prevención y Reinserción Social, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo; así como a aquellas personas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+En caso de que, al término del periodo antes mencionado, sigan existiendo condiciones objetivas de riesgo para los ex servidores públicos, el servicio de escolta y custodia podrá prorrogarse por el tiempo que se considere necesario.
 
 ###### Artículo 3°.
 
@@ -301,7 +309,9 @@ XI. Usar y conservar con el debido cuidado y prudencia, el equipo y vehículo pu
 
 XII. Evitar el uso de la violencia, procurando el uso de la persuasión, antes de emplear la fuerza y las armas;
 
-XIII. Velar por la preservación de la vida, la integridad física y los bienes de las personas detenidas o que se encuentren bajo su custodia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+XIII. Velar por la preservación de la vida, la integridad física y los bienes de las personas detenidas, de las que se encuentren bajo su custodia, o de las que prevé el artículo 2 del presente Reglamento, así como de aquellas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia;
 
 XIV. Observar un trato digno y decoroso hacia los Policías que se encuentren bajo su mando, con estricto apego a los derechos humanos y las normas disciplinarias aplicables;
 
@@ -1210,5 +1220,9 @@ C. DANIEL G. ITUARTE REYNAUD
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2009.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
