@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-servicio-de-defensoria-de-oficio-9253"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-05"
-last_updated: "2010-12-10"
+last_updated: "2011-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE SERVICIO DE DEFENSORIA DE OFICIO
 
-LEY DE SERVICIO DE DEFENSORIA DE OFICIO
+LEY DE SERVICIO DE DEFENSORÍA DE OFICIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO, DE LA LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. 6 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA..
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de agosto de 1988.
 
@@ -378,3 +380,25 @@ P.O. 10 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2011.
+
+Primero. El presente ordenamiento legal entrará en vigor el 1o. de marzo de 2012.
+
+Segundo. Los asuntos que se encuentren en trámite antes de la entrada en vigor de esta ley, deberán ser concluidos en los términos de la ley vigente en la fecha de su inicio.
+
+Tercero. Una vez que el presente ordenamiento entre en vigor, se abroga la Ley de Servicio de Defensoría de Oficio publicada en el Periódico Oficial del Estado de Guerrero No. 63, el 5 de agosto de 1988 y los demás reglamentos expedidos con base en la misma.
+
+Cuarto. El Titular del Poder Ejecutivo deberá expedir el nombramiento del Director General del Instituto antes de la entrada en vigor de la presente ley, el cual surtirá sus efectos a partir de la vigencia de este ordenamiento legal, y expedirá la convocatoria para la designación de los miembros del Consejo Consultivo y una vez instalado éste, deberá notificar a los miembros de la Junta de Gobierno sobre su participación en el organismo.
+
+Quinto. Los recursos humanos, materiales y financieros con los que actualmente cuenta la Dirección General del Servicio de la Defensoría de Oficio, se adscribirán e incorporarán al patrimonio del Instituto, previo balance general y dictamen que guarden los estados financieros que emita la Contraloría General del Estado, con la participación de las Secretarías General de Gobierno y de Finanzas y Administración.
+
+Sexto. La Secretaría de Finanzas del Gobierno del Estado realizará las acciones presupuestarias necesarias para la adecuada operación del Instituto.
+
+Séptimo. El Consejo Consultivo deberá instalarse al día siguiente de la entrada en vigor de esta ley. En la sesión de instalación, el Consejo deberá designar a sus representantes ante la Junta de Gobierno que marca la presente Ley.
+
+Octavo. La Junta de Gobierno del Instituto deberá quedar instalada en un plazo no mayor de quince días hábiles, contados a partir de la designación de los representantes a que se refiere el artículo anterior.
+
+Noveno. La Junta de Gobierno aprobará los reglamentos que se deriven de esta ley en un plazo no mayor de treinta días hábiles, contados a partir de la fecha (sic) la entrada en vigor de la presente ley. Para efecto de lo anterior, el Director General deberá formular la propuesta correspondiente a fin de que la Junta de Gobierno se encuentre en posibilidad de revisarla, modificarla y aprobarla en su caso.
+
+Décimo. El personal que actualmente se encuentra laborando en el servicio de defensoría de oficio será incorporado al Instituto, conservando los derechos y prestaciones que conforme a la ley les correspondan, con excepción del Director General.
