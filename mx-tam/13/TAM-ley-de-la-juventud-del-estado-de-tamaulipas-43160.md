@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-juventud-del-estado-de-tamaulipas-43160"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2011-03-16"
+last_updated: "2011-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -39,7 +39,7 @@ D E C R E T O No. LVIII-1145
 
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO PRIMERO. DEL OBJETO Y AMBITO DE APLICACIÓN DE LA PRESENTE LEY
 
@@ -53,9 +53,9 @@ LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS.
 
 La presente ley es de orden público, interés social y observancia general en el Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-Tiene por objeto establecer los derechos de la juventud tamaulipeca y los principios rectores de las políticas públicas que contribuyan a su desarrollo integral mediante su inclusión social plena al proceso de desarrollo económico, educativo y cultural, así como regular el funcionamiento del Instituto Tamaulipeco de la Juventud. Esta ley se sustenta en un equilibrio en las relaciones entre los jóvenes y tiene una perspectiva juvenil, en tanto se concibe al joven como sujeto y actor social pleno.
+Tiene por objeto establecer los derechos de la juventud tamaulipeca y los principios rectores de las políticas públicas que contribuyan a su desarrollo integral mediante su inclusión social plena al proceso de desarrollo económico, educativo y cultural, así como regular el funcionamiento del Instituto de la Juventud de Tamaulipas. Esta ley se sustenta en un equilibrio en las relaciones entre los jóvenes y tiene una perspectiva juvenil, en tanto se concibe al joven como sujeto y actor social pleno.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -75,7 +75,9 @@ III.- Fideicomisos.- A los Fideicomisos para Proyectos Juveniles;
 
 IV.- Gobernador.- Al Gobernador Constitucional del Estado de Tamaulipas;
 
-V.- Instituto.- Al Instituto Tamaulipeco de la Juventud;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+V.- Instituto.- Al Instituto de la Juventud de Tamaulipas;
 
 VI.- Jóvenes.- Población Objetivo de los programas de atención a la juventud que comprende a los jóvenes entre los 12 y 29 años de edad, identificados como un sector estratégico para el desarrollo del Estado;
 
@@ -87,7 +89,7 @@ IX.- Programa.- Al Programa Estatal de la Juventud; y
 
 X.- Reglamento.- Al Reglamento de la Ley de la Juventud del Estado de Tamaulipas.
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO SEGUNDO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SEGUNDO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS JOVENES
 
@@ -383,11 +385,11 @@ Los jóvenes tienen derecho a contar con un espacio físico en donde puedan dar 
 
 En la aplicación y operación de programas y servicios de atención a la juventud, se buscará en todo momento la cooperación y coordinación entre las dependencias de los tres órdenes de gobierno que los tengan a su cargo.
 
-(REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 35.
 
-El Instituto Tamaulipeco de la Juventud fungirá como gestor, facilitador y difusor de los programas y servicios para los jóvenes en coordinación con las dependencias de los tres órdenes de gobierno.
+El Instituto de la Juventud de Tamaulipas fungirá como gestor, facilitador y difusor de los programas y servicios para los jóvenes en coordinación con las dependencias de los tres órdenes de gobierno.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -527,35 +529,35 @@ El Ejecutivo garantizará los derechos de los jóvenes contenidos en esta ley.
 
 Los jóvenes tendrán la obligación de observar en todo momento las disposiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas y las leyes, acuerdos o reglamentos que deriven de éstas.
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO TERCERO], P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-## TITULO TERCERO. DEL INSTITUTO TAMAULIPECO DE LA JUVENTUD
+## TITULO TERCERO. DEL INSTITUTO DE LA JUVENTUD DE TAMAULIPAS
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO I. DEL INSTITUTO
 
-(REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 52.
 
-La organización, objetivos, funciones y metas del Organismo Público Descentralizado denominado Instituto Tamaulipeco de la Juventud, se encuentran definidas en el Decreto de creación expedido por el Congreso del Estado.
+La organización, objetivos, funciones y metas del Organismo Público Descentralizado denominado Instituto de la Juventud de Tamaulipas, se encuentran definidas en el Decreto de creación expedido por el Congreso del Estado.
 
-(REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 53.
 
-La juventud del Estado de Tamaulipas tiene el derecho de participar en los planes y programas que desarrolle el Instituto Tamaulipeco de la Juventud.
+La juventud del Estado de Tamaulipas tiene el derecho de participar en los planes y programas que desarrolle el Instituto de la Juventud de Tamaulipas.
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO CUARTO], P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO II. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
-(REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 54.
 
-El Instituto Tamaulipeco de la Juventud será responsable de la elaboración del Programa, con la más amplia participación de la juventud, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones juveniles, civiles, instituciones de asistencia privada, representantes populares y demás sectores sociales que tienen que ver con la temática juvenil.
+El Instituto de la Juventud de Tamaulipas será responsable de la elaboración del Programa, con la más amplia participación de la juventud, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones juveniles, civiles, instituciones de asistencia privada, representantes populares y demás sectores sociales que tienen que ver con la temática juvenil.
 
 (REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
 
@@ -635,7 +637,7 @@ El Ejecutivo proveerá recursos, medios y lineamientos que permitan el cumplimie
 
 El Programa, dentro de sus lineamientos, deberá contemplar mecanismos para el acceso de los jóvenes a los derechos enunciados en el presente ordenamiento jurídico.
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO CUARTO. DE LOS FIDEICOMISOS PARA PROYECTOS JUVENILES
 
@@ -685,7 +687,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE DICIEMBRE DE 2005.
 
@@ -696,3 +698,7 @@ P.O. 16 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su expedición.
+
+P.O. 6 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
