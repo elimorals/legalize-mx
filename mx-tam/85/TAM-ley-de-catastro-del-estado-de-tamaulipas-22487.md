@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2006-09-06"
+last_updated: "2011-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -153,13 +153,17 @@ A falta de disposición expresa, se consideran como normas supletorias, en lo co
 
 Son autoridades competentes en materia de catastro:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+I.- El Gobernador del Estado, a través de la Secretaría General de Gobierno;
 
 II.- El Secretario de Finanzas;
 
 III.- El Subsecretario de Ingresos de la Secretaría de Finanzas;
 
-IV.- El Director de Catastro de la Secretaría de Finanzas; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+IV.- El Director de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas; y
 
 V.- Los Ayuntamientos del Estado, así como el Presidente Municipal, el Tesorero y el titular del área municipal encargada de realizar la actividad catastral.
 
@@ -199,11 +203,15 @@ VI.- En los términos de las disposiciones aplicables, suscribir los contratos c
 
 VII.- Las que expresamente determine esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 13.
 
-Corresponde al Director de Catastro de la Secretaría de Finanzas:
+Corresponde al Director de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas:
 
-I.- Planificar, controlar y dirigir la ejecución de las actividades del catastro en el Estado, de conformidad con lo previsto en ésta ley, y las políticas y lineamientos que al respecto dicte el Gobernador del Estado y el Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+I.- Planificar, controlar y dirigir la ejecución de las actividades del catastro en el Estado, de conformidad con lo previsto en ésta ley, y las políticas y lineamientos que al respecto dicte la Secretaría General de Gobierno y el Instituto Registral y Catastral de Tamaulipas;
 
 II.- Formular y homologar los procedimientos técnicos y administrativos aplicables a la identificación, registro, valuación y deslinde de los bienes inmuebles ubicados en el Estado;
 
@@ -257,9 +265,11 @@ XXVI.- Elaborar y someter a la consideración del Secretario de Finanzas, los pr
 
 XXVII.- Las demás que le encomiende el Secretario de Finanzas, el Subsecretario de Ingresos y las que se deriven de otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 14.
 
-El Director de Catastro de la Secretaría de Finanzas tendrá además, las obligaciones, atribuciones y funciones que le sean conferidas en ésta ley y demás disposiciones legales, técnicas y administrativas, relativas a los Municipios y las que se consignen en los respectivos convenios de colaboración.
+El Director de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas tendrá además, las obligaciones, atribuciones y funciones que le sean conferidas en ésta ley y demás disposiciones legales, técnicas y administrativas, relativas a los Municipios y las que se consignen en los respectivos convenios de colaboración.
 
 ###### ARTICULO 15.
 
@@ -281,7 +291,9 @@ VI.- Vigilar en el ámbito de su competencia y jurisdicción territorial la obse
 
 VII.- Promover la consulta y participación ciudadana respecto a la formulación, evaluación, revisión y difusión de las tablas de valores unitarios de suelo y construcción;
 
-VIII.- Elaborar las propuestas de las tablas de valores, así como los coeficientes de demérito o incremento, de conformidad con la normatividad que al efecto expida la Dirección de Catastro de la Secretaría de Finanzas y de considerarlo conveniente someterlas a la opinión de los organismos auxiliares de colaboración, que a su juicio tengan más interés y con mayor conocimiento sobre la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Elaborar las propuestas de las tablas de valores, así como los coeficientes de demérito o incremento, de conformidad con la normatividad que al efecto expida la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas y de considerarlo conveniente someterlas a la opinión de los organismos auxiliares de colaboración, que a su juicio tengan más interés y con mayor conocimiento sobre la materia;
 
 IX.- Proponer al Congreso del Estado, en los términos que establece ésta ley, las tablas de valores;
 
@@ -329,9 +341,13 @@ XXX.- Intervenir en la delimitación de los centros de población, sus perímetr
 
 XXXI.- Apoyar y auxiliar a las dependencias, organismos e instituciones de la administración pública estatal, cuyas funciones en materia de obras públicas, planeación y, en general, otras vinculadas al desarrollo urbano y rural, que requieran de información contenida en el catastro;
 
-XXXII.- Remitir mensualmente dentro de los cinco días hábiles del mes siguiente a la Dirección de Catastro de la Secretaría de Finanzas, todos los datos, documentos o informes necesarios para integrar, conservar y mantener actualizada la información catastral del Estado, así como las modificaciones que experimenten dichos datos y la información que sea requerida para la consolidación y desarrollo del catastro;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-XXXIII.- En los términos de las disposiciones aplicables, contratar con empresas especializadas en la materia, los trabajos que estime convenientes; para tal efecto, buscará que dichos trabajos sean compatibles con los procedimientos que establezca la Dirección de Catastro de la Secretaría de Finanzas;
+XXXII.- Remitir mensualmente dentro de los cinco días hábiles del mes siguiente a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas, todos los datos, documentos o informes necesarios para integrar, conservar y mantener actualizada la información catastral del Estado, así como las modificaciones que experimenten dichos datos y la información que sea requerida para la consolidación y desarrollo del catastro;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+XXXIII.- En los términos de las disposiciones aplicables, contratar con empresas especializadas en la materia, los trabajos que estime convenientes; para tal efecto, buscará que dichos trabajos sean compatibles con los procedimientos que establezca la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas;
 
 XXXIV.- Expedir los acuerdos delegatorios de facultades correspondientes; y
 
@@ -475,9 +491,11 @@ Las autoridades catastrales proporcionarán a los propietarios, copropietarios, 
 
 Asimismo, podrán expedir constancias del valor catastral referidos a una época anterior de un bien inmueble, con base en las tablas de valores vigentes en aquella fecha.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 35.
 
-Las autoridades catastrales municipales informarán mensualmente, a la Dirección de Catastro de la Secretaría de Finanzas, sobre los registros contenidos en los padrones catastrales, remitiendo los cambios que se produzcan en los mismos. A fin de mantener actualizado el Sistema de Información Territorial del Estado, enviarán todos los nuevos documentos que se generen con relación a la propiedad inmobiliaria, así como la información cartográfica que dichas autoridades elaboren, con el objeto de mantener actualizado el archivo cartográfico del Estado.
+Las autoridades catastrales municipales informarán mensualmente, a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas, sobre los registros contenidos en los padrones catastrales, remitiendo los cambios que se produzcan en los mismos. A fin de mantener actualizado el Sistema de Información Territorial del Estado, enviarán todos los nuevos documentos que se generen con relación a la propiedad inmobiliaria, así como la información cartográfica que dichas autoridades elaboren, con el objeto de mantener actualizado el archivo cartográfico del Estado.
 
 ###### ARTICULO 36.
 
@@ -487,9 +505,11 @@ Las autoridades catastrales, los servidores públicos subordinados a ellas y los
 
 Las autoridades municipales y los servidores públicos subordinados a ellas, deberán salvaguardar la información catastral bajo su custodia, y garantizar su entrega a la siguiente administración municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 38.
 
-Los notarios públicos, jueces y las autoridades investidas de fé pública, previamente a cualquier traslación de dominio en que intervengan, deberán solicitar a los particulares los documentos siguientes, relativos a la identificación y condiciones administrativas de los predios:
+Los notarios públicos, jueces y las autoridades investidas de fe pública, previamente a cualquier traslación de dominio en que intervengan, deberán solicitar a los particulares los documentos siguientes, relativos a la identificación y condiciones administrativas de los predios:
 
 I.- Presentación del manifiesto;
 
@@ -497,7 +517,9 @@ II.- Avaluó pericial con clave catastral, elaborada por la autoridad catastral.
 
 III.- Comprobante, expedido por la Tesorería Municipal, en donde se acredite que no existe adeudo por concepto de las contribuciones sobre la propiedad inmobiliaria, en la fecha en que se autoricen las escrituras, actos o contratos. La Tesorería Municipal presentará en un solo documento la constancia de no adeudo;
 
-IV.- Plano autorizado por la Dirección de Catastro de la Secretaría de Finanzas o de los Municipios, y en caso de que no existan planos catastrales oficiales, bastará un croquis de la ubicación del terreno dentro de la manzana, con sus medidas de linderos y colindancias, con la distancia del predio a la esquina más próxima de la manzana. En el caso de predios rústicos, un plano con la poligonal envolvente y su cuadro de construcción; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+IV.- Plano autorizado por la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas o de los Municipios, y en caso de que no existan planos catastrales oficiales, bastará un croquis de la ubicación del terreno dentro de la manzana, con sus medidas de linderos y colindancias, con la distancia del predio a la esquina más próxima de la manzana. En el caso de predios rústicos, un plano con la poligonal envolvente y su cuadro de construcción; y
 
 V.- Dictamen de opinión de uso del suelo expedido por la autoridad municipal encargada del desarrollo urbano, en los Municipios en donde existan planes de ordenamiento territorial y desarrollo urbano municipales, de centros de población, acciones en material de desarrollo urbano, planes parciales y declaratorias de usos de suelo, reservas y destinos.
 
@@ -513,9 +535,11 @@ Las autoridades judiciales deberán proporcionar a las autoridades catastrales l
 
 El Registro Público de la Propiedad y del Comercio no hará inscripción alguna en sus libros, de contratos que tengan por objeto transmitir o modificar la propiedad de un bien inmueble, cuando no se acompañe la copia de los manifiestos y documentos correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 41.
 
-El Registro Público de la Propiedad y del Comercio deberá remitir, dentro de los primeros diez días de cada mes a la Dirección de Catastro de la Secretaría de Finanzas, la copia de los manifiestos, anotando en ellos los nuevos datos de inscripción correspondiente a cada inmueble.
+El Registro Público de la Propiedad y del Comercio deberá remitir, dentro de los primeros diez días de cada mes a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas, la copia de los manifiestos, anotando en ellos los nuevos datos de inscripción correspondiente a cada inmueble.
 
 ###### ARTICULO 42.
 
@@ -543,9 +567,11 @@ Con base en los elementos físicos del predio y los datos que se mencionan en el
 
 Los registros catastrales estarán integrados de tal manera que permitan su aprovechamiento múltiple y se puedan generar agrupamientos, ya sean numéricos, alfabéticos, gráficos, estadísticos, índices de referencia y de imágenes.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 47.
 
-La cartografía catastral es el conjunto de planos y bases de datos geográficos que contienen información relativa a la propiedad inmobiliaria y su entorno. Para su elaboración, clasificación, conservación, archivo y difusión, deberán observarse las normas técnicas que emita la Dirección de Catastro de la Secretaría Finanzas.
+La cartografía catastral es el conjunto de planos y bases de datos geográficos que contienen información relativa a la propiedad inmobiliaria y su entorno. Para su elaboración, clasificación, conservación, archivo y difusión, deberán observarse las normas técnicas que emita la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas.
 
 ###### ARTICULO 48.
 
@@ -559,9 +585,11 @@ Los trabajos topográficos y de deslinde deberán practicarse de acuerdo al manu
 
 La autoridad catastral municipal practicará las operaciones de deslinde catastral en atención a la solicitud de los interesados, o por interés propio, con objeto de verificar o rectificar la situación de los linderos de un predio.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 51.
 
-Si del resultado de un deslinde o rectificación surgieran diferencias en medidas, colindancias y superficie del predio a lo inscrito en el Registro Público de la Propiedad y del Comercio y la que físicamente tenga el predio, dará origen a una rectificación de los datos del mismo y será autorizada por la autoridad municipal competente para ser inscrita en los registros catastrales, de acuerdo a los datos reales del predio de que se trate, notificando lo anterior a la Dirección de Catastro de la Secretaría de Finanzas y al Registro Público de la Propiedad y del Comercio.
+Si del resultado de un deslinde o rectificación surgieran diferencias en medidas, colindancias y superficie del predio a lo inscrito en el Registro Público de la Propiedad y del Comercio y la que físicamente tenga el predio, dará origen a una rectificación de los datos del mismo y será autorizada por la autoridad municipal competente para ser inscrita en los registros catastrales, de acuerdo a los datos reales del predio de que se trate, notificando lo anterior a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas y al Registro Público de la Propiedad y del Comercio.
 
 ###### ARTICULO 52.
 
@@ -573,9 +601,11 @@ El resultado de las operaciones catastrales y las observaciones de los interesad
 
 En caso de no obtenerse la conformidad de los propietarios o poseedores de los bienes inmuebles colindantes, se hará constar en el acta y quedarán a salvo los derechos de los interesados para que los ejerciten en la vía y forma que determinan las leyes.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 53.
 
-La Dirección de Catastro de la Secretaría de Finanzas sólo podrá expedir copias certificadas de los planos y demás documentos e informes que obren en el archivo del catastro, relacionados con los predios, a solicitud expresa de los propietarios, poseedores legalmente reconocidos, representantes legalmente autorizados, autoridades administrativas o judiciales mediante solicitud oficial, notarios públicos, peritos valuadores y corredores públicos que con ese carácter intervengan en actos o contratos relacionados con dichos predios.
+La Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas sólo podrá expedir copias certificadas de los planos y demás documentos e informes que obren en el archivo del catastro, relacionados con los predios, a solicitud expresa de los propietarios, poseedores legalmente reconocidos, representantes legalmente autorizados, autoridades administrativas o judiciales mediante solicitud oficial, notarios públicos, peritos valuadores y corredores públicos que con ese carácter intervengan en actos o contratos relacionados con dichos predios.
 
 ###### ARTICULO 54.
 
@@ -771,15 +801,19 @@ Los valores unitarios, para predios rústicos, se especificarán por hectárea; 
 
 Para la determinación de los valores unitarios de los diferentes tipos de construcción, se clasificarán los mismos tomando en cuenta su edad, vida útil, su estructura y estado de conservación, materiales empleados en la edificación, calidad en la mano de obra y acabados. Con base en lo anterior, se procederá a fijar un valor unitario para cada tipo de clasificación de construcción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 79.
 
-Los factores y coeficientes de demérito o incremento que propongan los Ayuntamientos estarán dentro de las normas expedidas por la Dirección de Catastro de la Secretaría de Finanzas.
+Los factores y coeficientes de demérito o incremento que propongan los Ayuntamientos estarán dentro de las normas expedidas por la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas.
 
 Los deméritos aplicables a los terrenos urbanos y suburbanos estarán en función de las medidas de sus linderos y superficie o área, con respecto a las del lote tipo o base de las regiones, zonas o áreas homogéneas en donde se encuentran ubicados, así como de la posición dentro de la manzana, irregularidad, topografía y cualquier otro elemento que se considere apropiado. Los terrenos pueden estar sujetos a incremento en función de su posición dentro de la manzana. Los terrenos rústicos pueden ser demeritados por su ubicación respecto a las vías de comunicación, accesibilidad, capacidad productiva y topografía, entre otros; asimismo, pueden estar sujetos a incrementos por su cercanía a vías importantes de comunicación y otros elementos que puedan influir favorablemente en su valor catastral.
 
 Los valores unitarios de construcción se demeritan principalmente por la antigüedad, estado de conservación de la misma, estado de terminación, calidad del proyecto, funcionalidad y desuso, entre otros; asimismo, pueden incrementarse por el número de pisos o niveles y la existencia de instalaciones especiales, elementos accesorios y obras complementarias.
 
-Los factores y coeficientes de demérito o incremento deben incluirse en las propuestas de las tablas de valores, elaborarse en los términos expedidos por la Dirección de Catastro de la Secretaría de Finanzas y aprobarse de conformidad con lo dispuesto en el presente ordenamiento.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+Los factores y coeficientes de demérito o incremento deben incluirse en las propuestas de las tablas de valores, elaborarse en los términos expedidos por la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas y aprobarse de conformidad con lo dispuesto en el presente ordenamiento.
 
 ###### ARTICULO 80.
 
@@ -811,9 +845,11 @@ Una vez en poder de la autoridad catastral los planos respectivos, ésta procede
 
 El propietario de fraccionamiento y el propietario de condominio o sus representantes legales, darán aviso a la autoridad catastral municipal de la terminación de las obras de que se trate, dentro de los diez días siguientes a los de su conclusión y, además, deberán manifestar a la autoridad, en un plazo de diez días contados a partir del acto jurídico, la celebración de contrato de compraventa, de promesa de venta, venta con reserva de dominio, o cualquier otro contrato preparatorio o preliminar que implique la traslación del uso del dominio de los lotes que formen parte del fraccionamiento o condominio.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 87.
 
-Las autoridades municipales procederán a informar a la Dirección de Catastro de la Secretaría de Finanzas, el registro de cada fraccionamiento o condominio, dentro de los primeros diez días de cada mes, anexando copia del plano del fraccionamiento o condominio autorizado, copia de los manifiestos gestionados para cada lote en particular, plano catastral donde se indique la ubicación del fraccionamiento georeferenciado a las coordenadas geográficas del Instituto Nacional de Estadística, Geografía e Informática y/o a la Red Geodésica Estatal, así como la ubicación de cada una de las manzanas y lotes, con su respectiva clave catastral; si se dispone de cartografía digitalizada, un respaldo en medios magnéticos de dicha información geográfica.
+Las autoridades municipales procederán a informar a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas, el registro de cada fraccionamiento o condominio, dentro de los primeros diez días de cada mes, anexando copia del plano del fraccionamiento o condominio autorizado, copia de los manifiestos gestionados para cada lote en particular, plano catastral donde se indique la ubicación del fraccionamiento georeferenciado a las coordenadas geográficas del Instituto Nacional de Estadística, Geografía e Informática y/o a la Red Geodésica Estatal, así como la ubicación de cada una de las manzanas y lotes, con su respectiva clave catastral; si se dispone de cartografía digitalizada, un respaldo en medios magnéticos de dicha información geográfica.
 
 ###### ARTICULO 88.
 
@@ -1027,9 +1063,13 @@ IV.- Abstenerse de proporcionar a las autoridades catastrales municipales el inf
 
 V.- Omitir la entrega de datos estadísticos, informes o archivos dentro de los términos y plazos que establece esta ley;
 
-VI.- Negar la información catastral que deba ser administrada por la Dirección de Catastro de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-VII.- Dejar de informar a la Dirección de Catastro de la Secretaría de Finanzas o hacerlo de manera dolosa o incompleta;
+VI.- Negar la información catastral que deba ser administrada por la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+VII.- Dejar de informar a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas o hacerlo de manera dolosa o incompleta;
 
 VIII.- Entorpecer deliberadamente la generación de información;
 
@@ -1106,5 +1146,11 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
