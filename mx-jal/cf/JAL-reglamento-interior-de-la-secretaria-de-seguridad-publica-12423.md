@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-seguridad-publica-12423
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2011-02-12"
+last_updated: "2011-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y REINSERCION SOCIAL - ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL -
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA, PREVENCIÓN Y READAPTACIÓN SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -251,11 +251,11 @@ XIII.- Elaborar y proponer los instrumentos administrativos de regulación y con
 
 XIV.- Las demás que señalen otras disposiciones legales o les confieran el Titular de la Secretaria, así como las que competan a las unidades que se les adscriban.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO V. De la Comisaría General de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 10.
 
@@ -305,13 +305,19 @@ XX.- Mantener comunicación con los Ayuntamientos, para la definición e implant
 
 XXI.- Participar en los comités municipales de seguridad pública, para atender los problemas específicos de cada región, así como evaluar los resultados obtenidos;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-XXII.- Certificar copias de los documentos y constancias existentes en los archivos de la Comisaría General de Seguridad Pública, siempre que obren en original o copia certificada; y
+XXII. Certificar copias de los documentos y constancias existentes en los archivos de la Comisaría General de Seguridad Pública, siempre que obren en original o copia certificada;
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
-XXIII.- Las demás que le confieran las leyes y otras disposiciones normativas, así como las que le asigne el Titular de la Secretaría.
+XXIII. Prestar el servicio de escolta y custodia a los ex servidores públicos que hayan fungido en los cargos de Gobernador del Estado, Secretario General de Gobierno, Secretario de Seguridad Pública, Prevención y Readaptación Social, Procurador General de Justicia del Estado, Comisario General de Seguridad Pública y Comisario General de Prevención y Reinserción Social, por un periodo de al menos el equivalente al que hayan fungido en dichos cargos y en los mismos términos y condiciones en que recibieron dichos servicios como servidores públicos en activo; así como a aquellas personas que, por acuerdo del titular del Poder Ejecutivo, requieran el servicio de escolta y custodia.
+
+En caso de que, al término del periodo antes mencionado, sigan existiendo condiciones objetivas de riesgo para los ex servidores públicos, el servicio de escolta y custodia podrá prorrogarse por el tiempo que se considere necesario; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+
+XXIV. Las demás que le confieran las disposiciones aplicables y las que le delegue el Titular del Ramo.
 
 ### CAPÍTULO VI. De la Dirección General de Estadística y Política Criminal
 
@@ -365,11 +371,11 @@ XXI.- Las demás que señalen otras disposiciones legales o le confiera el Titul
 
 Artículo 11 bis.- El titular de la Dirección General de Estadística y Política Criminal, formará parte del Comité de Clasificación de Información Pública de la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO VII. De la Comisaría General de Prevención y Reinserción Social
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 12.
 
@@ -541,7 +547,7 @@ XVIII.- Las demás que señalen otras disposiciones legales o les confieran el T
 
 ### CAPÍTULO XI. De la Dirección General Administrativa
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -633,7 +639,7 @@ XI.- Otorgar asesoría jurídica en forma gratuita a los miembros de los cuerpos
 
 XII.- Coordinar, en todas las unidades administrativas de la Secretaría, las áreas jurídicas asignadas a las mismas;
 
-> <small>N. DE E. ANTES FRACCION XII (SIC), P.O. 12 DE FEBRERO DE 2011.</small>
+> <small>N. DE E. ANTES FRACCIÓN XII (SIC), P.O. 12 DE FEBRERO DE 2011.</small>
 
 XIII.- Efectuar estudios comparados sobre legislaciones estatales y federales, en materia de seguridad pública, reglamentos y bandos de policía;
 
@@ -831,7 +837,7 @@ LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 
 C. DANIEL GUILLERMO ITUARTE REYNAUD
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2005.
 
@@ -850,3 +856,7 @@ P.O. 7 DE JULIO DE 2007.
 P.O. 12 DE FEBRERO DE 2011.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
