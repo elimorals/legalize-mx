@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-11-24"
+last_updated: "2011-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -641,7 +641,9 @@ II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatal
 
 II Bis. Autorizar la exención del pago de trámites a cargo de las Oficialías del Registro Civil, para los habitantes de escasos recursos económicos en los municipios. Para tales efectos, deberán llevar a cabo por lo menos una campaña de regularización al año, en coordinación con las autoridades estatales competentes;
 
-III. Proponer ante la Legislatura local iniciativas de leyes o decretos en materia municipal, en su caso, por conducto del Ejecutivo del Estado;
+> <small>(REFORMADA, G.G. 7 DE DICIEMBRE DE 2011)</small>
+
+III. Presentar ante la Legislatura iniciativas de leyes o decretos;
 
 IV. Proponer, en su caso, a la Legislatura local, por conducto del Ejecutivo, la creación de organismos municipales descentralizados para la prestación y operación, cuando proceda de los servicios públicos;
 
@@ -3356,3 +3358,9 @@ G.G. 24 DE NOVIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 7 DE DICIEMBRE DE 2011.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
