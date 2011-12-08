@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2011-12-01"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -77,7 +77,11 @@ Todo individuo tiene derecho a recibir educación y, por lo tanto, todos los hab
 
 La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura, es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
 
-En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refieren los artículos (sic) tercero de la Constitución y el séptimo de la Ley General.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+En el proceso educativo deberá asegurarse la participación activa del educando, garantizando su sano desarrollo a fin de evitar trastornos en su salud mental por considerar ésta un aspecto fundamental del bienestar de las personas, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refieren el artículo tercero de la Constitución y el séptimo de la Ley General.
 
 ###### ARTICULO 5o.
 
@@ -92,6 +96,14 @@ Es obligación de los sonorenses, al igual que del resto de los mexicanos, hacer
 ###### ARTICULO 7o.
 
 La educación impartida por el Estado, sus organismos descentralizados, y los Ayuntamientos será laica y, por lo tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 7o Bis.
+
+Las escuelas de educación básica deberán contar con aulas equipadas con aire acondicionado que los protejan de las altas y bajas temperaturas que se presentan en la Entidad. Es obligación del Gobierno del Estado proveer lo conducente para cumplir con la obligación señalada en este artículo, tanto para la compra e instalación del equipamiento necesario, incluyendo la infraestructura eléctrica requerida para su operación, así como el pago del consumo de energía eléctrica que se genere.
+
+La Secretaría evaluará, anualmente, las condiciones de los equipos instalados y operará un programa permanente de sustitución de las unidades que hayan cumplido su ciclo de vida útil para garantizar la permanencia de las condiciones climáticas ideales para el proceso de enseñanza-aprendizaje en las aulas de las escuelas de la entidad.
 
 > <small>(REFORMADO, B.O. 5 DE JULIO DE 2007)</small>
 
@@ -195,9 +207,23 @@ IX BIS.- Promover hábitos alimentarios adecuados, tendientes a fortalecer la nu
 
 X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
 
-XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente a través del conocimiento por el alumno del medio físico inmediato, de la región donde se desarrolla y del territorio del Estado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XII.- Fomentar actitudes solidarias y positivas hacia el trabajo productivo, el ahorro y el bienestar general.
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+XI. Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente a través del conocimiento por el alumno del medio físico inmediato, de la región donde se desarrolla y del territorio del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+XII. Fomentar actitudes solidarias y positivas hacia el trabajo productivo, el ahorro y el bienestar general; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+XIII. Propiciar la salud mental y la prevención de alteraciones o problemas del desarrollo psicosocial, implementando programas de educación mental, tendientes a conocer los factores de riesgo, estimulando aquellos factores protectores que conducen a un desarrollo positivo.
 
 ###### ARTICULO 14.
 
@@ -205,9 +231,17 @@ El criterio que orientará a la educación que el Estado, sus organismos descent
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia y soberanía política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura; y
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+II.- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia y soberanía política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
+
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; y
+
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+IV.- Propiciará en el educando un desarrollo psicosocial que influya en un sano desarrollo y crecimiento de su pensar y actuar, buscando en todo momento incidir en aquellos factores que ponen en riesgo el desarrollo mental positivo, para lo cual los programas protectores deberán ser aplicados a nivel familiar, grupal, comunitario y territorial.
 
 ###### ARTICULO 15.
 
@@ -217,11 +251,13 @@ Además de impartir la educación preescolar, la primaria y la secundaria, el Es
 
 La educación que se imparta en las escuelas deberá vincularse activa y constantemente con la comunidad, y ofrecer, a quienes en ella participan, la oportunidad de aplicar y utilizar el conocimiento según lo requiera la sociedad.
 
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-El fin primordial del proceso educativo es la formación del educando. Para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de la salud y de su cuerpo mediante una alimentación sana, el cuidado de su entorno, la práctica del deporte en cualquiera de sus expresiones y su espíritu creativo a través de actividades recreativas, artísticas y culturales.
+El fin primordial del proceso educativo es la formación del educando. Para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de la salud y de su cuerpo mediante una alimentación sana, el cuidado de su entorno, la práctica del deporte en cualquiera de sus expresiones y su espíritu creativo a través de actividades recreativas, artísticas y culturales; además deberá motivar su capacidad para interactuar entre sí y con el medio ambiente, proponiendo el desarrollo y uso óptimo de las potencialidades psicológicas, cognitivas, afectivas para el logro de metas individuales y colectivas.
 
 ### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DEL ESTADO EN MATERIA EDUCATIVA
 
@@ -235,7 +271,11 @@ Compete al Poder Ejecutivo del Estado por conducto de la Secretaría:
 
 I.- Prestar los servicios de educación inicial, básica -incluyendo la indígena-, especial, la normal y demás para la formación de maestros de educación básica; así como promover y prestar servicios educativos distintos a los expresados en las fracciones I y IV del artículo 13 de la Ley General, de acuerdo con las necesidades nacionales, regionales y estatales;
 
-II.- Proponer a la Secretaria de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, así como formular y determinar planes y programas de estudio para servicios educativos distintos a los expresados con antelación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+II.- Proponer a la Secretaría de Educación Pública los contenidos regionales, así como de salud mental, que hayan de incluirse en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, así como formular y determinar planes y programas de estudio para servicios educativos distintos a los expresados con antelación.
 
 Lo anterior considerando la opinión de los diversos sectores involucrados en la educación, en correlación con la fracción I del artículo 12 y artículos 48 y 72 de la Ley General;
 
@@ -245,9 +285,11 @@ II Bis.- Coordinarse con la Secretaría de Salud para implementar programas que 
 
 Para dar cabal cumplimiento a lo dispuesto en el párrafo anterior, la Secretaría realizará las adecuaciones que sean necesarias para que en los planteles escolares de educación básica se cuente con espacios higiénicos adecuados para la preparación y el manejo de alimentos con alto valor nutricional, de acuerdo con los parámetros que emita la Secretaría de Salud para tal efecto, por lo que quedan exentas de esta prohibición aquellas instituciones de educación básica que no cuenten con dichas adecuaciones. Adicionalmente, en el caso de las escuelas públicas de educación preescolar y primaria, deberá coordinarse con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia en el Estado de Sonora, para implementar un programa de desayunos escolares calientes con alto valor nutricional a cargo de la Secretaría;
 
-> <small>(ADICIONADA, B.O. 12 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y salud del Estado, con los Municipios y las Sociedades de Padres de Familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación básica, información veraz sobre los efectos nocivos de las drogas y la violencia, para que al conocer dicha información y sustentados en su propia inteligencia y voluntad, decidan mantenerse al margen de éstas, buscando con ello reducir y combatir el uso de alcohol, tabaco y otras drogas, así como los comportamientos violentos que pudieran derivarse de ellos;
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y salud del Estado, con los Municipios y las Sociedades de Padres de Familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación básica, información veraz sobre los efectos nocivos de las drogas y la violencia, para que al conocer dicha información y sustentados en su propia inteligencia y voluntad, decidan mantenerse al margen de éstas, buscando con ello reducir y combatir el uso de alcohol, tabaco y otras drogas, así como los comportamientos violentos que pudieran derivarse de ellos; debiendo implementar para ello programas de salud mental tanto para educandos como para padres de familia;
 
 > <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2010)</small>
 
@@ -259,9 +301,11 @@ IV.- Prestar los servicios de formación, actualización, capacitación y supera
 
 V.- Revalidar y otorgar equivalencias de estudios, de educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, así como de los demás tipos educativos que se impartan en la Entidad, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
 
-> <small>(ADICIONADA, B.O. 19 DE JULIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V Bis.- Emitir las disposiciones relativas a la operación y funcionamiento de Sistema Estatal de Evaluación Educativa, en congruencia con lo establecido en la Ley General, esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+V Bis.- Emitir las disposiciones relativas a la operación y funcionamiento de (sic) Sistema Estatal de Evaluación Educativa, en congruencia con lo establecido en la Ley General, esta Ley y demás disposiciones aplicables; asimismo, deberá emitir las disposiciones relativas a la Dirección General de Salud Mental;
 
 VI.- Otorgar, negar y revocar autorización a los particulares para impartir educación primaria, secundaria, normal y demás para la formación de maestros de educación básica; así como otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los expresados con antelación, de acuerdo con el procedimiento estipulado en el capítulo correspondiente de esta ley;
 
@@ -273,7 +317,11 @@ IX.- Promover permanentemente la investigación que sirva como base a la innovac
 
 X.- Impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica y tecnológica;
 
-XI.- Fomentar y difundir las actividades artísticas; culturales y físico-deportivas en todas sus manifestaciones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+XI.- Fomentar y difundir las actividades artísticas, culturales, físico deportivas y de salud mental en todas sus manifestaciones;
 
 XII.- Implantar un sistema de estímulos y recompensas, para los maestros que realicen obras trascendentes, en el ámbito educativo, o en beneficio de la comunidad;
 
@@ -355,6 +403,10 @@ Las autoridades educativas, en sus respectivas competencias, revisarán permanen
 
 En las actividades de supervisión las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
 
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 26 BIS.- Será obligatorio que las escuelas públicas de educación básica establecidas dentro del territorio estatal, cuenten con los servicios públicos de agua, energía eléctrica, drenaje, alumbrado público y pavimentación, dentro de un perímetro que comprenda los alrededores de dichos planteles escolares; para tales efectos, el Estado, a través de la Secretaría, implantará programas de coordinación con los municipios, a efecto de establecer las acciones, mecanismos y previsiones presupuestales que resulten necesarias para dar cumplimiento a lo anterior.
+
 ### CAPITULO IV. DEL SISTEMA EDUCATIVO ESTATAL
 
 ### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
@@ -374,6 +426,12 @@ IV.- Las instituciones educativas del Estado, de sus organismos descentralizados
 V.- Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios.
 
 VI.- Las instituciones de educación superior a las que la ley otorga autonomía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+VII.- La Dirección General de Salud Mental.
 
 #### SECCION I. TIPOS Y MODALIDADES
 
@@ -395,9 +453,13 @@ El tipo superior es el que se imparte después del bachillerato o sus equivalent
 
 La educación básica en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los grupos indígenas de la Entidad, así como de la población rural dispersa y grupos migratorios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 31.
 
-La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad, incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
+La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad, incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos, incluyendo la salud mental.
 
 ###### ARTICULO 32.
 
@@ -433,9 +495,13 @@ El Estado promoverá servicios educativos específicos, a fin de que los docente
 
 Los contenidos de la educación serán definidos en planes y programas de estudio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 38.
 
-Siendo facultad exclusiva de la Federación, el establecimiento de planes y programas de estudio para la educación primaria, secundaria y normal, corresponde a la Secretaría, proponer para su consideración y, en su caso, autorización de la Secretaría de Educación Pública, contenidos regionales que, sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, geografía, las costumbres, las tradiciones y demás aspectos propios de nuestra Entidad y sus municipios.
+Siendo facultad exclusiva de la Federación, el establecimiento de planes y programas de estudio para la educación primaria, secundaria y normal, corresponde a la Secretaría, proponer para su consideración y, en su caso, autorización de la Secretaría de Educación Pública, contenidos regionales y de salud mental que, sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, geografía, las costumbres, las tradiciones y demás aspectos propios de nuestra Entidad y sus municipios.
 
 Los planes y programas que determine la Secretaria de Educación Pública, así como los que correspondan al Ejecutivo del Estado, por conducto de la Secretaría, deberán publicarse en el Boletín oficial del Gobierno del Estado.
 
@@ -543,7 +609,7 @@ La Secretaría publicará en el Boletín oficial del Gobierno del Estado, una re
 
 Los particulares que impartan estudios con autorización o con reconocimiento, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 47.
 
@@ -1023,7 +1089,7 @@ Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES D
 
 POR TANTO MANDO (sic), mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosilo (sic), Sonora, a veintinueve de diciembre de mil novecientos noventa y cuatro.- SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MANLIO FABIO BELTRONES RIVERA. RUBRICA.- EL SECRETARIO DE GOBIERNO. LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 19 DE JULIO DE 2004.
 
@@ -1089,7 +1155,7 @@ Dentro de un plazo de 90 días contados a partir de la entrada en vigor del pres
 
 B.O. 20 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 77, POR EL QUE SE ADICIONAN UN PARRAFO TERCERO AL ARTICULO 8°, Y LOS ARTICULOS 8° BIS, 8° BIS A Y 8° BIS B, A LA LEY DE EDUCACION.
+DECRETO NÚMERO 77, POR EL QUE SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 8°, Y LOS ARTÍCULOS 8° BIS, 8° BIS A Y 8° BIS B, A LA LEY DE EDUCACIÓN.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1101,7 +1167,7 @@ En virtud de que a la fecha de aprobación del presente Decreto, el Ejecutivo de
 
 B.O. 20 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 78, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 10 Y UN ARTICULO 10 BIS A LA LEY DE EDUCACION.
+DECRETO NÚMERO 78, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 10 Y UN ARTÍCULO 10 BIS A LA LEY DE EDUCACIÓN.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1130,3 +1196,45 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá contemplar, dentro de la iniciativa de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal del año 2012, los recursos necesarios para que puedan materializarse las disposiciones del presente Decreto, en caso de no incluirse, el Congreso del Estado deberá realizar las reasignaciones que resulten necesarias.
+
+B.O. 8 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 148, POR EL QUE SE ADICIONA EL ARTÍCULO 7º BIS A LA LEY DE EDUCACIÓN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular de la Secretaría de Educación y Cultura deberá contar, a más tardar el día 15 de febrero de 2012, con un estudio en el que determine las localidades del Estado cuyas escuelas requieren del equipamiento con aires acondicionado, debiendo cuantificar el monto de recursos estimados para cumplir con la obligación contenida en el artículo 7o Bis. Dentro de los 15 días naturales siguientes a la terminación del estudio, deberá remitirse copia de dicho estudio a la Comisión de Educación y Cultura del Congreso del Estado.
+
+Con el objeto de que el Ejecutivo Estatal pueda cumplir, en forma gradual, con la obligación señalada en el artículo 7o Bis del presente Decreto y con base en el estudio señalado en el párrafo anterior, el ejecutivo estatal y el Congreso del Estado realizarán las reasignaciones de recursos necesarias en el Decreto del presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal del año 2012 y el Ejecutivo Estatal deberá presentar, en el proyecto de presupuesto de egresos del gobierno del Estado para el ejercicio fiscal del año 2013, una previsión de recursos necesarios para que a más tardar en abril de 2013, todas las escuelas que así lo requieran deban contar con los equipos de aire acondicionado que les permita a maestros y alumnos, cumplir con el proceso de enseñanza aprendizaje- en condiciones climáticas idóneas.
+
+A falta de previsión de recursos en el proyecto de presupuesto enviado por el Ejecutivo, el Congreso del Estado deberá realizar la reasignación correspondiente, reduciendo, preferentemente, el gasto en materia de propaganda gubernamental.
+
+Será causa de responsabilidad para el Ejecutivo del Estado y para los diputados del Congreso el no asignar los recursos señalados en el presente artículo transitorio.
+
+B.O. 8 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 149, POR EL QUE SE ADICIONA EL ARTÍCULO 26 BIS A LA LEY DE EDUCACIÓN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 8 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 151, POR EL QUE SE REFORMAN LOS ARTÍCULOS 4o, PÁRRAFO TERCERO, 13, FRACCIONES XI Y XII, 14, FRACCIONES II Y III, 17, 19, FRACCIONES II, II BIS A, V BIS Y XI, 31 Y 38, PÁRRAFO PRIMERO Y SE ADICIONAN UNA FRACCIÓN XIII AL ARTÍCULO 13, UNA FRACCIÓN IV AL ARTICULO 14 Y UNA FRACCIÓN VII AL ARTÍCULO 27, TODOS DE LA LEY DE EDUCACIÓN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al inicio del periodo escolar según el calendario escolar del año 2012-2013, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
