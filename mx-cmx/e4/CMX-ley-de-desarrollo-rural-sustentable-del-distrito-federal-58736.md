@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-rural-sustentable-del-distrito-federal-58736"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-31"
-last_updated: "2008-01-31"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58736&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2007-02-25"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 8 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de enero de 2008.
 
@@ -1497,3 +1499,17 @@ OCTAVO.- Publíquese en la Gaceta Oficial del Distrito Federal y por ser de inte
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintinueve días del mes de noviembre del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. RAÚL ALEJANDRO RAMÍREZ RODRÍGUEZ, PRESIDENTE.- DIP. SERGIO MIGUEL CEDILLO FERNÁNDEZ, SECRETARIO.- DIP. MIGUEL ÁNGEL ERRASTI ARANGO, SECRETARIO.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinticinco días del mes de diciembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, LIC. MARTHA DELGADO PERALTA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA,. (SIC) FIRMA.
+
+G.O. 8 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la Ley de Desarrollo Rural Sustentable del Distrito Federal del 31 de enero de 2008.
+
+TERCERO.- Cualquier trámite que se esté realizando antes de la entrada en vigor de la presente Ley, se seguirá tramitando y se resolverá de conformidad con los ordenamientos vigentes en la materia, al momento de su presentación.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal, expedirá dentro de dos meses siguiente a la entrada en vigor de esta Ley, el Reglamento que previene este ordenamiento y las demás disposiciones administrativas necesarias que no estén expresamente encomendadas a otros órganos o dependencias en esta Ley y en consecuencia se constituirá el Consejo Rural al que esta Ley se refiere.
+
+Asimismo establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
