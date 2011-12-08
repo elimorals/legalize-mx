@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2011-05-12"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -189,13 +189,17 @@ II. Violencia Física: Cualquier acto u omisión no accidental que cause daño a
 
 III. Violencia patrimonial: Toda conducta de acción u omisión del agresor que afecta la independencia patrimonial de la víctima, que se manifiesta mediante la destrucción, sustracción, retención o distracción de bienes comunes o propios de la víctima, así como de valores, derechos patrimoniales, objetos o documentos personales;
 
-IV. Violencia Psicológica: Cualquier acto u omisión del agresor que cause a la víctima intimidación, daño, sufrimiento o cualquier tipo de alteración psicológica, que produzca como consecuencia menoscabo en su autoestima, depresión o atente contra su dignidad e integridad física; y
+IV. Violencia Psicológica: Cualquier acto u omisión del agresor que cause a la víctima intimidación, daño, sufrimiento o cualquier tipo de alteración psicológica, que produzca como consecuencia menoscabo en su autoestima, depresión o atente contra su dignidad e integridad física; y (sic)
 
 V. Violencia sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-VI. La Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, tales como omitir atención oportuna y eficaz de las urgencias obstétricas, obstaculizar el apego precoz del niño con la madre sin causa médica justificada, alterar el proceso natural de parto de bajo riesgo mediante el uso de técnicas de aceleración, y practicar el parto vía cesárea existiendo condiciones para el parto natural, estas dos últimas, sin obtener el consentimiento informado de la mujer
+VI. La Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, tales como omitir atención oportuna y eficaz de las urgencias obstétricas, obstaculizar el apego precoz del niño con la madre sin causa médica justificada, alterar el proceso natural de parto de bajo riesgo mediante el uso de técnicas de aceleración, y practicar el parto vía cesárea existiendo condiciones para el parto natural, estas dos últimas, sin obtener el consentimiento informado de la mujer; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+VII. Acoso moral en el trabajo: Es un conjunto sistemático y prolongado en el tiempo de conductas ofensivas, intimidatorias, vejatorias, humillantes y degradantes que tiene por finalidad o produce como resultado el menoscabo de la moral de la mujer trabajadora, de su estima personal y/o profesional. El propósito del acoso moral es obtener el sometimiento total de la acosada o su salida definitiva de la organización.
 
 Cualquier otra acción, conducta u omisión que provoque violencia de género.
 
@@ -281,17 +285,23 @@ IV. La Secretaría de Salud;
 
 V. La Secretaría de Educación;
 
-VI. La Procuraduría General de Justicia;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-VII. El Tribunal Superior de Justicia del Estado;
+VI. La Secretaría de Trabajo y Previsión Social;
 
-VIII. La Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-IX. El Instituto de la Mujer Duranguense;
+VII. La Fiscalía General del Estado;
 
-X. El DIF Estatal; y
+VIII. El Tribunal Superior de Justicia del Estado;
 
-XI. Los Presidentes Municipales, así como los titulares de las dependencias u organismos municipales, dedicados a la protección de los derechos de las mujeres, por cada uno de los municipios.
+IX. La Comisión Estatal de Derechos Humanos;
+
+X. El Instituto de la Mujer Duranguense;
+
+XI. El DIF Estatal; y
+
+XII. Los Presidentes Municipales, así como los titulares de las dependencias u organismos municipales, dedicados a la protección de los derechos de las mujeres, por cada uno de los municipios.
 
 ###### ARTÍCULO 18.
 
@@ -527,17 +537,21 @@ II. Formular y conducir la política estatal integral desde la perspectiva de g�
 
 III. Crear el Fondo Estatal, para la Atención de las Víctimas de Violencia de Género, sus hijos y el agresor, conforme a las disposiciones presupuestales aplicables;
 
-IV. Incluir las partidas presupuestales en el Presupuesto de Egresos del Estado;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-V. Incluir en su informe anual ante la Legislatura del Estado, los avances del Programa Estatal;
+IV. Establecer programas de apoyo económico temporal, dirigido a víctimas de violencia familiar, que hayan denunciado ante la autoridad competente ese delito y, que no cuenten con recursos económicos ni sociales que le permitan condiciones mínimas de independencia. Para tener derecho a este apoyo equivalente a un salario mínimo vigente diario, la víctima deberá participar en un tratamiento psicológico especializado y gratuito, que favorezca su empoderamiento y repare el daño causado por dicha violencia. Así mismo, la permanencia de la víctima en el tratamiento psicológico no podrá ser mayor a noventa días naturales, a menos que persista su inestabilidad psicológica o su situación de riesgo;
 
-VI. Difundir por todos los medios de comunicación el contenido de esta Ley;
+V. Incluir las partidas presupuestales en el Presupuesto de Egresos del Estado;
 
-VII. Coadyuvar en la adopción y consolidación del Sistema Nacional y del Estatal;
+VI. Incluir en su informe anual ante la Legislatura del Estado, los avances del Programa Estatal;
 
-VIII. Participar en la elaboración del Programa Nacional, y
+VII. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
-IX. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
+VIII. Coadyuvar en la adopción y consolidación del Sistema Nacional y del Estatal;
+
+IX. Participar en la elaboración del Programa Nacional, y
+
+X. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 ###### ARTÍCULO 31.
 
@@ -995,9 +1009,21 @@ II. Promover la atención a víctimas por parte de las diversas instituciones de
 
 III. Proporcionar a las víctimas la atención especializada médica, psicológica y jurídica, de manera integral, gratuita y expedita;
 
-IV. Proporcionar un refugio seguro a las víctimas y sus hijos, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-V. Informar a la autoridad competente de los casos de violencia de género que ocurran en las instituciones educativas, de salud o cualquier otra donde se brinden atención o servicios a las mujeres, ya sean del sector público o privado.
+IV. Proporcionar un refugio seguro a las víctimas y sus hijos;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+V. Informar a la autoridad competente de los casos de violencia de género que ocurran en las instituciones educativas, de salud o cualquier otra donde se brinden atención o servicios a las mujeres, ya sean del sector público o privado;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+VI. Otorgar apoyo económico temporal cuando la víctima no cuente con recursos económicos ni sociales que le permitan condiciones mínimas de independencia; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+VII. Garantizar la seguridad e integridad física de las víctimas que denuncian a través de las instituciones de procuración de justicia y de seguridad pública, y ordenar se les brinde protección en los casos en que exista un riesgo objetivo para su vida o integridad corporal.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2011)</small>
 
@@ -1039,9 +1065,15 @@ II. Velar por la seguridad de las mujeres que se encuentren en ellos;
 
 III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
-IV. Contar con el personal debidamente capacitado y especializado en la materia, y
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-V. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+IV. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad; así como brindarles información respecto al derecho que tiene la víctima de violencia familiar que denuncia, a recibir un apoyo económico temporal cuando no cuente con recursos económicos ni sociales que le permitan condiciones mínimas de independencia;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+V. Contar con el personal debidamente capacitado y especializado en la materia. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia; y
+
+VI. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
 ###### ARTÍCULO 52.
 
@@ -1132,3 +1164,9 @@ P.O. 12 DE MAYO DE 2011.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
