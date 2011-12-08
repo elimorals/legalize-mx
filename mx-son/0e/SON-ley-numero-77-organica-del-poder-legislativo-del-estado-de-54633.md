@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2011-05-16"
+last_updated: "2011-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
+LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -756,6 +756,10 @@ XIX.- De Asuntos de Equidad y Género;
 XX.- De Asuntos Indígenas;
 
 XXI.- De Atención a Grupos Vulnerables de la Sociedad;
+
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+XXl BIS.- De Ciencia y Tecnología;
 
 XXII.- De Examen Previo y Procedencia Legislativa; y
 
@@ -1756,3 +1760,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 La Oficialía Mayor de este Poder Legislativo, a partir de que entre en vigor el presente Decreto, contará con un plazo de ciento veinte días naturales para implementar el sistema a que se refiere la fracción XXIII BIS del artículo 191 e instalar los equipos señalados en el artículo 156, último párrafo, de la Ley Orgánica del Poder Legislativo del Estado de Sonora.
+
+B.O. 8 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Régimen Interno y Concertación Política, dentro de un plazo de diez días hábiles, contado a partir de la entrada en vigor del presente Decreto, deberá presentar al Pleno del Congreso del Estado para su aprobación, la conformación de la Comisión de Ciencia y Tecnología.
