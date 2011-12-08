@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2011-01-19"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -71,15 +71,23 @@ No obstante lo anterior, las entidades podrán contratar deuda directa de corto 
 
 I. Que su vencimiento y liquidación se realicen dentro del ejercicio fiscal para el que se contrató, o que los mismos no excedan el periodo constitucional de la administración que contrató dicha deuda.
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-II. Que en todo momento, el saldo insoluto total del monto principal de la deuda, contratada durante el Ejercicio Fiscal no exceda del 5% de los ingresos ordinarios de la entidad de que se trate. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales, aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la Entidad que corresponda, sin considerar los recursos derivados de financiamiento; y,
+II. Que en todo momento, el saldo insoluto total del monto principal de dicha deuda no exceda del 4% de los ingresos ordinarios de la Entidad de que se trate durante el ejercicio fiscal correspondiente. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales y aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la Entidad que corresponda, sin considerar los recursos derivados de financiamiento; y,
 
 III. Que no se afecten en garantía o en pago el derecho a recibir participaciones o aportaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
 
-La deuda contratada conforme al párrafo anterior, quedará sujeta a los requisitos de información y registro previstos en esta Ley.
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
-La deuda a que se refiere el párrafo quinto de este artículo no podrá ser refinanciada o reestructurada, salvo previa autorización del Congreso.
+Las entidades no estarán sujetas ni a los plazos límite y ni a los requisitos establecidos en el párrafo anterior, cuando se encuentren en riesgo la estabilidad económica y social del Estado, y cuando se haya presentado una disminución significativa de los ingresos de origen federal o estatal, en relación a los contemplados en la Ley de Ingresos del Estado, para el ejercicio fiscal correspondiente y de acuerdo con la calendarización programada de los mismos por las autoridades Federales o Estatales correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+La deuda contratada conforme al párrafo quinto del presente artículo, quedará sujeta a los requisitos de información y registro previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2011)</small>
+
+La deuda a que se refiere el párrafo quinto de este artículo no podrá ser refinanciada o reestructurada, excepto cuando se hayan presentado las circunstancias contempladas en el párrafo sexto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -235,11 +243,11 @@ XII. Autorizar a las entidades paramunicipales para gestionar y contratar deuda,
 
 XIII. Inscribir en el Registro la deuda contraída por los municipios y las entidades paramunicipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 7°.
 
-Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el quinto párrafo del artículo 2° de esta propia Ley.
+Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el sexto y séptimo párrafos del artículo 2° de esta propia Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -566,3 +574,13 @@ Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado; al Titular de la Auditoría Superior del Estado de Michoacán de Ocampo, para los efectos legales a que haya lugar.
