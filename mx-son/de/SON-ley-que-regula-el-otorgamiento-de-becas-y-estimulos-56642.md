@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-otorgamiento-de-becas-y-estimulos-56642"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-14"
-last_updated: "2007-08-14"
+last_updated: "2011-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTIMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
-LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTIMULOS EDUCATIVOS DEL ESTADO DE SONORA
+LEY QUE REGULA EL OTORGAMIENTO DE BECAS Y ESTÍMULOS EDUCATIVOS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Especial No. 5 al Boletín Oficial del Estado de Sonora, el martes 14 de agosto de 2007.
 
@@ -85,9 +85,21 @@ VI.- Instituto: El Instituto de Becas y Estímulos Educativos del Estado de Sono
 
 VII.- Ley: La Ley que Regula el Otorgamiento de Becas y Estímulos Educativos del Estado de Sonora;
 
-VIII.- Secretaría: La Secretaría de Educación y Cultura; y
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
-IX.- Promedio escolar: La certificación obtenida por rendimiento académico del estudiante, según la escala de 0 a 10, donde esta última es la máxima calificación obtenible. En los centros educativos que operen la escala de 0 a 100, donde 100 es la máxima calificación obtenible, se realizará la conversión correspondiente considerando hasta centésimas. En el cálculo de promedios no se aceptarán aproximaciones.
+VIII.- Secretaría: La Secretaría de Educación y Cultura;
+
+> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+IX.- Promedio escolar: La certificación obtenida por rendimiento académico del estudiante, según la escala de 0 a 10, donde esta última es la máxima calificación obtenible. En los centros educativos que operen la escala de 0 a 100, donde 100 es la máxima calificación obtenible, se realizará la conversión correspondiente considerando hasta centésimas. En el cálculo de promedios no se aceptarán aproximaciones;
+
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+X.- Becas de posgrado: El apoyo económico otorgado por el Gobierno del Estado para gastos de inscripción, colegiatura o manutención de alumnos que cursen estudios de Especialidad, Maestría y Doctorado en México o en el extranjero; y
+
+> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+XI.- Fondo: El Fondo de Becas de Posgrado para Jóvenes Sonorenses.
 
 ###### ARTÍCULO 4.
 
@@ -569,6 +581,162 @@ Cuando se admitan pruebas que requieran desahogo especial, el Instituto dispondr
 
 Una vez desahogadas las pruebas o concluido el plazo señalado en el párrafo anterior, se deberá dictar la resolución correspondiente dentro de los tres días hábiles siguientes.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+## TITULO IV. DEL FONDO DE BECAS DE POSGRADO PARA JÓVENES SONORENSES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO. DEL FONDO DE BECAS DE POSGRADO PARA JÓVENES SONORENSES
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 40.
+
+El Gobierno del Estado de Sonora contará con un Fondo de Becas de Posgrado para Jóvenes Sonorenses, el cual tendrá como objetivo impulsar el desarrollo y la formación académica de jóvenes sonorenses mediante el otorgamiento de becas de posgrado que faciliten su acceso a programas de calidad de dicho nivel educativo en el país o en el extranjero, buscando potencializar sus habilidades, bajo el compromiso del becario de aplicar, una vez terminado (sic) sus estudios, sus conocimientos en beneficio social, tecnológico, científico, económico, político, académico o cultural del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 41.
+
+Los objetivos específicos del Fondo son:
+
+I.- Otorgar oportunidades de acceso a estudios de posgrado a los jóvenes destacados sonorenses que por razones económicas no pueden sufragar su costo, mediante apoyos económicos a fondo perdido a manera de becas.
+
+II.- Impulsar el desarrollo del Estado mediante la generación de jóvenes profesionistas altamente capacitados y especializados, científicos, tecnólogos, artistas y otros, que coadyuven a elevar su competitividad.
+
+III.- Fomentar la transferencia de avances académicos, tecnológicos y científicos a nuestro Estado, mediante la aplicación en el mismo de los conocimientos adquiridos por los jóvenes estudiantes en el país o extranjero.
+
+IV.- Contribuir a la formación de capital humano altamente calificado en el Estado, aumentando el índice de jóvenes sonorenses que estudian un posgrado en el país o en el extranjero.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 42.
+
+Con independencia de los requisitos específicos que para el efecto establezcan las reglas de operación del Fondo o su convocatoria respectiva, para ser beneficiario del programa se deberá acreditar como mínimo los siguientes requisitos generales:
+
+I.- Ser ciudadano sonorense, en los términos de la Constitución Política del Estado Libre y Soberano de Sonora;
+
+Il.- Ser joven acorde a los parámetros establecidos por el Instituto Sonorense de la Juventud, o encontrarse dentro del rango de edad determinado en las reglas de operación o convocatoria respectiva;
+
+III.- Contar con título y cédula profesional, expedido por una institución pública o privada acreditada ante la Secretaría de Educación Pública;
+
+IV.- Acreditar un promedio general obtenido en el nivel escolar inmediato anterior igual o superior al que establezca para el efecto las reglas de operación o convocatoria respectiva;
+
+V.- Documento que acredite haber resultado negativo en prueba antidoping, en los términos de las reglas de operación o convocatoria respectiva;
+
+VI.- Documento que acredite haber sido aceptado en un programa de posgrado en institución educativa nacional o extranjera, o en su defecto documento que acredite estarlo cursando;
+
+VII.- Acreditar dominio del lenguaje en el cual se impartirá el posgrado, en caso de universidades o instituciones educativas extranjeras;
+
+VIII.- La legítima necesidad económica de ser apoyado en sus estudios de posgrado, acorde a los estudios socioeconómicos que soliciten o procedimientos que establezcan para el efecto las reglas de operación del Fondo o convocatoria respectiva;
+
+IX.- Carta compromiso para realizar el servicio social correspondiente y firma de documentos respectivos establecidos en las reglas de operación o convocatoria que garanticen el cumplimiento de las obligaciones derivadas del otorgamiento de la beca; y
+
+X.- Los requisitos específicos que para el efecto establezcan las reglas de operación del Fondo o en su caso la convocatoria respectiva.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 43.
+
+El Presupuesto de Egresos del Gobierno del Estado de Sonora del ejercicio que corresponda contemplará cada año la cantidad de recursos a destinar al Fondo, considerando primordialmente garantizar los compromisos del mismo derivados del otorgamiento de becas de años anteriores que continúen su curso en el presente, así como tomando en consideración la población objetivo, las metas de becas a otorgar proyectadas para cada año y costo de operación.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 44.
+
+El Fondo podrá ser sujeto de donaciones económicas o en especie, de parte de instituciones y organismos públicos o privados con la finalidad de aumentar su alcance en beneficio de la población objetivo. Las donaciones se harán a través del-Instituto de Becas y Estímulos Educativos del Estado de Sonora como organismo público descentralizado y, para el caso de donaciones económicas, se depositarán en una cuenta bancaria especialmente destinada para el efecto.
+
+De igual manera, formaran parte de los recursos del Fondo, los recursos que sean restituidos por las sanciones, cancelaciones, cambios, declinación o suspensiones que se susciten en relación con las becas otorgadas, en los términos de las reglas de operación del Fondo, así como aquellos derivados de intereses generados por manejo bancario de su presupuesto.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 45.
+
+La operación del Fondo corresponderá al Instituto de Becas y Estímulos Educativos del Estado de Sonora, quien deberá difundir públicamente la existencia del mismo. Para regular su funcionamiento en los términos de la presente ley, el Instituto en mención elaborará, publicará y pondrá a disposición de la ciudadanía, las reglas de operación del Fondo, en las cuales se deberá establecer, al menos, la población objetivo, tipos, montos y límites de los apoyos, requisitos específicos, criterios de elegibilidad, derechos y obligaciones de los beneficiarios, así como sanciones.
+
+Las reglas de operación en mención, deberán establecer mecanismos y criterios claros de selección en el otorgamiento de las becas que garanticen la transparencia, imparcialidad, proporcionalidad e igualdad de oportunidades de los solicitantes, en términos de sus características académicas y profesionales, cualidades, necesidades, motivación, trayectoria y estado socioeconómico, entre otros, así como el nivel del programa educativo a desarrollar. Para tal efecto, se podrán definir áreas académicas prioritarias de apoyo, en términos de las prioridades de especialización y desarrollo para el estado. No obstante lo anterior, el Fondo deberá destinar un porcentaje mínimo de al menos un treinta por ciento de recursos con libre acceso para solicitantes de todas las áreas académicas.
+
+Las becas otorgadas podrán ser parciales o totales, dependiendo de las necesidades y estado socioeconómico de los solicitantes, becas adicionales con las que cuenten, límites máximos de apoyo establecidos, presupuesto del Fondo, y demás criterios que establezcan las reglas de operación. Asimismo, podrán ser destinadas al pago del costo de los estudios o a la manutención y gastos derivados del mismo.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 46.
+
+El Instituto de Becas y Estímulos Educativos del Estado de Sonora podrá celebrar convenios de alianza con empresas, organismos públicos o privados, dependencias o instituciones educativas que tengan por objeto becar de manera conjunta a jóvenes sonorenses en programas de posgrado en el país o extranjero. Lo anterior siempre y cuando los jóvenes cumplan, en adición a la reglamentación que se establezca para cada caso en el convenio respectivo, los requisitos que establece la presente ley para acceder al Fondo, así como los que para el efecto señalen las reglas de operación o convocatoria respectiva. De igual forma, atendiendo la normatividad establecida en la presente ley, se podrán celebrar convenios de coordinación para coadyuvar en la operación del Fondo y sus convocatorias.
+
+En ningún caso se podrá omitir la publicación de la convocatoria respectiva abierta a la ciudadanía en general para el otorgamiento de las becas respectivas ni obligar a los jóvenes sonorenses a escoger determinada institución educativa o universidad, aún como fruto de un convenio celebrado en los términos del presente artículo. No obstante lo anterior, con el objeto de sumar esfuerzos en incrementar las posibilidades de estudio de posgrados para los jóvenes sonorenses, el Comité Dictaminador podrá resolver incluir como un criterio de selección en el otorgamiento de las becas, el dar prioridad a los jóvenes solicitantes en esta modalidad hasta por un 40% del total de recursos anuales del Fondo. Asimismo, podrá autorizar el destino de recursos dentro del mismo porcentaje máximo del Fondo para programas específicos de capacitación a nivel local mediante becas a investigadores, académicos, científicos y/o especialistas, extranjeros o nacionales, que vengan a Sonora a transferir sus conocimientos en áreas específicas consideradas prioritarias.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 47.
+
+La Junta Directiva del Consejo Estatal de Ciencia y Tecnología fungirá como Comité Dictaminador del Fondo y será su órgano máximo de decisión. En todas las sesiones que se aborden asuntos relativos al Fondo deberán ser invitados los Directores Generales del Instituto de Becas y Estímulos Educativos del Estado de Sonora, Instituto Sonorense de la Juventud e Instituto del Crédito Educativo del Estado de Sonora, quienes contaran con voz en las sesiones.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 48.
+
+El Comité Dictaminador deberá sesionar por lo menos dos veces al año de manera ordinaria y cuantas veces sea necesario en forma extraordinaria, siendo requisitos de validez de toda sesión, la asistencia de cuando menos la mitad más uno de sus integrantes. Las decisiones se tomarán por mayoría y en caso de empate el Presidente tendrá voto de calidad.
+
+El Comité Dictaminador sesionará por solicitud o convocatoria formal del Director General del Instituto de Becas y Estímulos Educativos del Estado de Sonora, pudiendo éste invitar a las sesiones del Comité Dictaminador a quien considere necesario, con derecho de voz más no de voto, para procurar el éxito de los objetivos del programa de becas de posgrado. Para la convocatoria respectiva el Director General del Instituto en mención se coordinará con la Dirección General del Consejo Estatal de Ciencia y Tecnología, a efectos de respetar su normatividad en la materia.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 49.
+
+El Comité Dictaminador tendrá las siguientes atribuciones:
+
+I.- Aprobar y modificar las convocatorias del Fondo;
+
+Il.- Aprobar la asignación y establecer los montos específicos de las becas de posgrado;
+
+III.- Aprobar las sanciones correspondientes, suspensión temporal o cancelación definitiva de becas de posgrado;
+
+IV.- Aprobar los proyectos de servicio social de los becarios;
+
+V.- Determinar las áreas académicas prioritarias de apoyo para el otorgamiento de becas de posgrado;
+
+VI.- Determinar los criterios de elegibilidad para el otorgamiento de becas de posgrado del Fondo;
+
+VII.- Determinar, en base a un estudio que se desarrolle de los costos de los posgrados en las principales universidades del país y extranjero, los montos máximos de apoyo de las becas de posgrado;
+
+VIII.- Resolver sobre la inclusión del criterio de selección de prioridad, hasta por un 40% del total de los recursos anuales del Fondo, a los jóvenes solicitantes de becas derivadas de convenios de alianza con empresas, organismos públicos o privados, dependencias o instituciones educativas referido en el artículo 46 de la presente ley.
+
+IX.- Evaluar y aprobar los casos de modificación a los términos del contrato de beca de posgrado;
+
+X.- Promover la vinculación productiva de los becarios al momento de su retorno al estado;
+
+XI.- Autorizar el destino de un porcentaje de recursos del Fondo para programas específicos de capacitación a nivel local mediante becas a investigadores, académicos, científicos y/o especialistas foráneos que vengan a Sonora a transferir sus conocimientos; y
+
+XII.- Las demás que les confiera la presente ley.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 50.
+
+El Instituto de Becas y Estímulos Educativos del Estado de Sonora deberá proponer y, en su caso, publicar las convocatorias aprobadas por el Comité Dictaminador. Dichas convocatorias deberán ser difundidas a través de los medios de comunicación en todo el estado, incluyendo medios oficiales de comunicación interna de cada universidad, y publicadas en uno de los diarios de mayor circulación estatal, así como la página de internet del Instituto y del Gobierno del Estado.
+
+Las convocatorias a las que se hace referencia deberán incluir, como mínimo, las fechas de inicio y cierre de las mismas, montos y modalidades de las becas de posgrado, requisitos, criterios de elegibilidad y compromisos del becario.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 51.
+
+Los becarios deberán comprometerse con el Gobierno del Estado de Sonora, mediante convenio establecido para el efecto, a realizar de manera obligatoria y gratuita servicio social en beneficio tecnológico, científico, económico, político, social, académico o cultural del Estado de Sonora o sus ciudadanos. Las reglas de operación del Fondo determinarán los procedimientos y características que deberán cumplir los proyectos de servicio social de los becarios para ser autorizados, así como el plazo máximo para llevarlos a cabo, una vez terminados sus estudios.
+
+El incumplimiento del presente artículo derivará en el reintegro parcial o total del monto del apoyo, en los términos que determinen las reglas de operación del Fondo y apruebe, en base en ellos, el Comité Dictaminador para cada caso.
+
+Por su parte, el Instituto de Becas y Estímulos Educativos del Estado de Sonora, en coordinación con el Consejo Estatal de Ciencia y Tecnología, en su calidad de Comité Dictaminador, promoverá la vinculación e inserción del becario, a su retorno, con el sector productivo, gubernamental o académico, según corresponda, a efecto de que el estado de Sonora se vea beneficiado con la transferencia de conocimientos adquiridos y el becario cuente con oportunidades de desarrollo profesional en nuestra entidad.
+
+> <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 52.
+
+El Instituto de Becas y Estímulos Educativos del Estado de Sonora será la entidad autorizada para la interpretación normativa relacionada con el Fondo, para efectos administrativos.
+
+Cualquier queja contra los actos u omisiones derivados de la aplicación de la presente ley, en materia del Fondo, serán atendidos por el Instituto de Becas y Estímulos Educativos del Estado de Sonora, atendiendo a los procedimientos y términos establecidos en los artículos 38 y 39 de la presente ley.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -620,3 +788,23 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los catorce días del mes de agosto del año dos mil siete.
 
 SUFRAGIO EFECTIVO, NO REELECCION. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUBAL ASTIZARAN, RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 8 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días siguientes a la fecha de entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir las reglas de operación del fondo de becas de posgrado para jóvenes sonorenses, a que se hace referencia en el mismo, modificar toda aquella disposición reglamentaria que sea necesario para atender las reformas señaladas, así como realizar las transferencias presupuestales que correspondan.
+
+###### ARTÍCULO TERCERO.
+
+Para el próximo ejercicio fiscal, el Congreso del Estado de Sonora tomará las previsiones necesarias a efecto de dotar de presupuesto suficiente al Gobierno del Estado para el ofrecimiento y otorgamiento de las becas de posgrado contempladas dentro del Fondo.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
