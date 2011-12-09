@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2011-12-02"
+last_updated: "2011-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -473,9 +473,9 @@ III.- La detección temprana de la sordera y su tratamiento, en todos sus grados
 
 IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
-V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionara atención pre-hospitalaria o de urgencia según sea el caso.
+V.- La promoción de la integración y del bienestar familiar; y
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -678,6 +678,12 @@ Para los efectos de esta Ley, se consideran usuarios de servicios de salud a las
 ###### ARTÍCULO 42.
 
 Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de calidad idónea, y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 42 BIS.- Queda prohibido ofrecer o recibir como premio o gratificación, algún beneficio económico o en especie, a cambio de canalizar o enviar a los usuarios en forma directa, a través de sus familiares o de un tercero, a un servicio médico, de laboratorio, clínicos u otros auxiliares de diagnóstico y/o tratamiento.
+
+Cuando alguna de las conductas señaladas en el párrafo anterior, sea realizada por un servidor público del sector salud será considerada como una falta grave.
 
 ###### ARTÍCULO 43.
 
@@ -2280,3 +2286,9 @@ PRIMERO.- El Ejecutivo Estatal por conducto de la Secretaría de Salud deberá e
 SEGUNDO.- El Ejecutivo deberá hacer las adecuaciones presupuestales necesarias para el ejercicio fiscal siguiente, para dar cumplimiento con el objetivo de la reforma.
 
 TERCERO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Titular del Poder Ejecutivo comunicará al sector Salud, y difundirá a través de los medios de comunicación a la comunidad en general, el objeto de la presente reforma.
