@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-profesiones-para-el-estado-de-51507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-22"
-last_updated: "2006-08-22"
+last_updated: "2011-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -51,13 +51,27 @@ Para los efectos del presente reglamento, además de las definiciones contenidas
 
 I.- Secretario: El Secretario de Educación del Gobierno del Estado;
 
-II.- Dirección: La unidad administrativa a la que sean encomendadas en el reglamento interior de la Secretaría, las facultades relativas al ejercicio profesional; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
-III.- Ley: La Ley de Profesiones para el Estado de Guanajuato.
+II.- Dirección: La Dirección de Profesiones de la Secretaría;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+III.- Ley: La Ley de Profesiones para el Estado de Guanajuato; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+IV.- Dirección General: La Dirección General de Profesiones, Servicios Escolares e Incorporaciones de la Secretaría.
 
 ###### Artículo 3.
 
 Corresponde a la Secretaría, a través de la Dirección, verificar la aplicación y cumplimiento de la Ley, el presente reglamento y de las demás disposiciones derivadas de éstos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 3 Bis.
+
+En todo lo no previsto en este reglamento respecto de actos y procedimientos que en éste se refieran, se aplicará supletoriamente lo dispuesto por el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ###### Artículo 4.
 
@@ -113,67 +127,105 @@ VII.- Autenticación del título profesional y certificados de estudio, tratánd
 
 Los títulos profesionales que emitan las instituciones educativas oficiales y particulares, con autorización o reconocimiento de validez oficial de estudios por parte de la Secretaría, que presten sus servicios en el Estado de los tipos de educación media superior y superior, deberán cumplir con las condiciones de seguridad y características que exija dicha dependencia, a través de la unidad administrativa correspondiente.
 
-### CAPÍTULO III. DE LA DIRECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. DE LAS AUTORIDADES
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-La Dirección podrá establecer, para el cumplimiento de sus atribuciones, comisiones de carácter técnico que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. En estas comisiones, podrán participar representantes de la Secretaría, de instituciones educativas y de los colegios de profesionistas.
+Corresponden a la Dirección General las siguientes atribuciones:
+
+I.- Proponer al Secretario la suscripción de convenios con los municipios, autoridades estatales y particulares para el cumplimiento de la Ley, su reglamento y demás disposiciones jurídicas;
+
+II.- Otorgar la representatividad a los colegios municipales de profesionistas, en los términos del artículo 24 de la Ley y de lo dispuesto por el presente reglamento;
+
+III.- Proponer al Secretario la celebración de convenios con la Secretaría de Educación Pública y entidades federativas, para que la certificación otorgada por la Secretaría sea reconocida y tenga validez a nivel nacional;
+
+IV.- Fungir como Secretario Técnico del Consejo de Profesionistas del Estado de Guanajuato;
+
+V.- Someter para aprobación del Secretario los contenidos y costos de la certificación profesional y sus correspondientes refrendos, considerando para ello las propuestas y contenidos que presenten los colegios estatales por profesión;
+
+VI.- Coordinar el Plan Estatal de Servicio Profesional de índole Social de cada colegio municipal; y
+
+VII.- Revisar y en su caso, aprobar las disposiciones que proponga el Consejo de Profesionistas del Estado de Guanajuato en materia de vigilancia al ejercicio profesional y respecto a la solución de conflictos a que se refiere el artículo 47 de la Ley.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-La Dirección realizará acciones de promoción tendientes a la creación y registro de los colegios de profesionistas en los términos previstos por la Ley. Emitirá las convocatorias respectivas para la conformación y registro de los colegios estatales y municipales de profesionistas a constituirse.
+Corresponden a la Dirección las siguientes atribuciones:
+
+I.- Proponer el listado de las profesiones y ramas profesionales que requieran de título y cédula profesional para su ejercicio, según lo establecido en la Ley;
+
+II.- Establecer comisiones de carácter técnico encargadas de estudiar y dictaminar sobre los asuntos de su competencia;
+
+III.- Proporcionar y difundir la información en materia de ejercicio profesional;
+
+IV.- Promover la creación y registro de colegios de profesionistas;
+
+V.- Validar y verificar la autenticidad de los documentos que se presenten con la finalidad de obtener el registro de colegios de profesionistas;
+
+VI.- Emitir resolución en los términos de la Ley y del presente reglamento a fin de autorizar o negar el registro de colegios de profesionistas;
+
+VII.- Promover y difundir ante los usuarios de los servicios profesionales las ventajas de la contratación de profesionistas colegiados y certificados;
+
+VIII.- Registrar el certificado con reconocimiento oficial a los profesionistas que hayan aprobado el proceso de certificación en el padrón correspondiente;
+
+IX.- Realizar la difusión del padrón de profesionistas del Estado de Guanajuato: colegiados y certificados o recertificados por el colegio estatal;
+
+X.- Conocer y resolver conjuntamente con el Consejo de Profesionistas del Estado de Guanajuato a través de la comisión correspondiente, las inconformidades que presenten los profesionistas por los resultados del dictamen técnico en materia de certificación profesional;
+
+XI.- Promover el mejoramiento continuo de los profesionistas;
+
+XII.- Instaurar los procedimientos administrativos que se deriven de las infracciones previstas por la Ley y demás normatividad que regula el ejercicio profesional;
+
+XIII.- Ordenar y practicar visitas de verificación en oficinas, despachos, consultorios o cualquier otro lugar en los que se realicen actos propios de alguna profesión en los términos de la Ley;
+
+XIV.- Establecer los mecanismos de apoyo y coordinación con autoridades y organismos no gubernamentales que permitan el mejor cumplimiento de las acciones de verificación del ejercicio profesional;
+
+XV.- Solicitar informes, así como recabar la información y documentación que se considere necesaria de los profesionistas, autoridades y particulares, para el cumplimiento de sus atribuciones;
+
+XVI.- Publicar en los periódicos de circulación en el Estado y en los medios electrónicos de la Secretaría las resoluciones definitivas de cancelación de los registros en materia de profesiones; y
+
+XVII.- Establecer acciones de coordinación con las instituciones educativas de los tipos medio superior y superior que formen parte del Sistema Educativo Estatal, para la agilización del registro de los títulos profesionales.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-La Dirección podrá publicar, en los periódicos de mayor circulación Estatal y en los medios electrónicos de información de la Secretaría, las resoluciones definitivas de cancelación de los registros en materia de profesiones.
+En las comisiones de carácter técnico a las que se refiere la fracción II del artículo anterior, podrán participar representantes de la Secretaría, de Instituciones Educativas de Nivel Medio Superior y Superior; de los colegios de profesionistas, así como personas especialistas en la materia de análisis.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
-La Dirección establecerá las acciones de coordinación necesarias con las instituciones educativas de los tipos medio superior y superior, oficiales y particulares legalmente establecidas y que operen en el Estado, para la agilización del registro de los títulos profesionales.
+La Dirección de Servicios Escolares verificará que las instituciones educativas con autorización, aprobación o reconocimiento de validez oficial de estudios de la Secretaría, expidan los títulos profesionales de conformidad con los procedimientos, características y requisitos de seguridad que ésta establezca.
 
-### CAPÍTULO IV. DEL REGISTRO PROFESIONAL ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. DEL REGISTRO PROFESIONAL
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
-Para obtener el registro de un título profesional, el interesado deberá presentar solicitud, en los formatos emitidos por la Dirección, a la que deberá acompañar en original y copia, los siguientes documentos:
-
-I.- Certificado de estudios de nivel inmediato anterior al título profesional materia del registro;
-
-II.- Certificado de estudios del nivel a registrar;
-
-III.- Acta de examen profesional, constancia de celebración del acto recepcional o constancia de no exigibilidad;
-
-IV.- Título profesional;
-
-V.- Constancia de liberación de servicio social educativo;
-
-VI.- Acta de nacimiento; y
-
-VII.- Clave Única de Registro de Población.
+Para obtener el registro de un título profesional, el interesado deberá presentar solicitud, en los formatos emitidos por la Dirección a la que deberá acompañar, en original y copia, los documentos referidos en los formatos que para tal efecto emita ésta.
 
 ###### Artículo 18.
 
-Tratándose de estudios realizados en el extranjero, deberá presentarse, además, la resolución de revalidación de estudios expedida por la autoridad educativa competente que acredite los estudios con algunos pertenecientes al Sistema Educativo Nacional.
-
-Si el solicitante del registro es de nacionalidad extranjera, deberá presentar original y copia de documento migratorio respectivo.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2011)
 
 ###### Artículo 19.
 
-Con el cumplimiento de los requisitos establecidos en los artículos precedentes, la Secretaría otorgará al interesado la cédula profesional correspondiente a los documentos que amparan los estudios materia del registro.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 20.
 
-Deberán registrarse en la Dirección:
-
-I.- Los títulos profesionales;
-
-II.- Los colegios municipales de profesionistas;
-
-III.- Los colegios estatales por profesión constituidos conforme las disposiciones de la Ley;
-
-IV.- Las actas de asamblea de sesión de los colegios estatales por profesión; y
-
-V.- Los convenios que celebre el Gobernador del Estado, relativos al ejercicio profesional.
+Deberán registrarse en la Dirección los convenios que celebre el Gobernador del Estado, relativos al ejercicio profesional.
 
 ###### Artículo 21.
 
@@ -221,9 +273,11 @@ Los profesionistas podrán asociarse para ejercer, ajustándose a las prescripci
 
 Las autorizaciones provisionales para el ejercicio profesional se otorgarán por seis meses y serán renovadas por períodos iguales, mientras el solicitante se encuentre en cualquiera de los supuestos previstos por el artículo 14 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-Para obtener la autorización provisional para el ejercicio profesional por encontrarse en trámite el título profesional, el interesado deberá presentar ante la Dirección, solicitud por escrito, acompañando en original y copia simple:
+Para obtener la autorización provisional para el ejercicio profesional por encontrarse en trámite el título profesional, grado académico o diploma de especialidad, el interesado deberá presentar ante la Dirección, solicitud por escrito, acompañando en original y copia simple:
 
 I.- Acta de nacimiento;
 
@@ -239,17 +293,23 @@ VI.- Documento en el que conste el acto recepcional o constancia de no exigibili
 
 VII.- Constancia de liberación de servicio social, cuando se trate de requisito previo para titulación; y
 
-VIII.- Comprobante de que la expedición del título profesional se encuentra en trámite.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Constancia emitida por la institución educativa en la que manifieste que la expedición del título profesional, grado académico o diploma de especialidad se encuentra en trámite. Esta constancia tendrá una vigencia de cuarenta y cinco días naturales contados a partir de la fecha de su expedición, salvo los casos en que señale el término en que le será entregado el título profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 27.
 
-Para obtener la autorización provisional para el ejercicio profesional por encontrarse en trámite de registro para obtener la cédula profesional, el interesado deberá presentar ante la Dirección, solicitud por escrito, acompañando en original y copia simple, lo siguiente:
+Para obtener la autorización provisional para el ejercicio profesional por encontrarse en trámite la cédula profesional, el interesado deberá presentar ante la Dirección, solicitud por escrito acompañando en original y copia simple, lo siguiente:
 
 I.- Fotografía;
 
 II.- Clave Única de Registro de Población; y
 
-III.- Comprobante de que el registro para obtener la cédula profesional se encuentra en trámite.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+III.- Constancia de que el registro para obtener la cédula profesional se encuentra en trámite. Esta constancia tendrá una vigencia de cuarenta y cinco días naturales a partir de la fecha de su expedición, salvo los casos en que señale el término en que le será entregado el título profesional.
 
 ### CAPÍTULO VI. COLEGIOS MUNICIPALES DE PROFESIONISTAS
 
@@ -275,21 +335,23 @@ No podrán registrarse aquellos colegios que se hayan constituido con nombres de
 
 La Secretaría podrá, previo al otorgamiento del registro, verificar la autenticidad de los documentos presentados para ello.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 31.
 
-Una vez cubiertos los requisitos establecidos por la Ley y entregada la documentación completa que marca el presente reglamento, la Secretaría deberá, en un término no mayor a diez días hábiles, emitir la resolución respectiva y notificarla personalmente al representante legal.
+Una vez cubiertos los requisitos establecidos por la Ley y entregada la documentación completa que marca el presente Reglamento, la Secretaría, dentro de los diez días hábiles siguientes, deberá emitir la resolución respectiva y notificarla personalmente al representante legal. En caso de que no haya resolución en el término establecido se entenderá que se cumplió con los requisitos señalados en la Ley.
+
+En caso de que la información sea incompleta, la Dirección requerirá al representante legal de la organización para que dentro del término de treinta días hábiles subsane las omisiones de su solicitud, en caso contrario, se negará el registro, emitiendo la resolución correspondiente dentro de los diez días hábiles siguientes, la que se notificará de manera personal al representante legal.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 32.
 
-La Secretaría podrá negar el registro de un colegio municipal de profesionistas cuando:
+La Dirección podrá negar el registro de un colegio municipal de profesionistas cuando:
 
-I.- De sus estatutos se desprenda que no cumplen con lo dispuesto por la Ley y el presente reglamento;
+I.- Incumplan con alguno de los requisitos a que se refiere el artículo 28 del presente Reglamento y no haya sido subsanado dentro del término previsto por el artículo anterior; y
 
-II.- No cuente con el número mínimo de integrantes que establece la Ley; y
-
-III.- No cuenten con el número mínimo de integrantes con título debidamente registrado.
-
-La Dirección podrá requerir al representante legal de la organización para que dentro del término de treinta días subsane las omisiones de su solicitud, en caso de que no sea así, se le negará el registro.
+II.- Contravenga lo dispuesto por la Ley o el presente Reglamento.
 
 ###### Artículo 33.
 
@@ -351,71 +413,33 @@ Queda prohibido a los colegios municipales de profesionistas en sus nombres hace
 
 La Secretaría otorgará, mediante resolución emitida por la Dirección, la representatividad a que alude el artículo 24 de la Ley, tomando en consideración los rubros que detalla este dispositivo.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 41.
 
-Para efectos de otorgar la representatividad se considerará que un colegio municipal cumple con el requisito de la fracción I del artículo 24 de la Ley cuando:
+Para efectos de otorgar la representatividad, se considerará que un colegio municipal de profesionistas cumple con el requisito de la fracción I del artículo 24 de la Ley, cuando cuente con el número de integrantes a que se refiere la fracción II del artículo 26 de la Ley.
 
-I.- Si sólo existe un colegio municipal registrado en los términos de la Ley, que cuente con el número de integrantes a que se refiere la fracción II del artículo 26 de la Ley;
-
-II.- En el supuesto de que existieran más de un colegio registrado de la misma profesión para un municipio, se considerará que es viable para solicitar la representatividad, el que su número actual de integrantes alcanza respecto del total de profesionistas integrantes de esos colegios, los siguientes porcentajes:
-
-a) De 10 a 50 profesionistas colegiados: 40% de profesionistas colegiados en el colegio municipal solicitante.
-
-b) De 51 a 100 profesionistas colegiados: 30% de profesionistas colegiados en el colegio municipal solicitante.
-
-c) De 101 a 200 profesionistas colegiados: 20% de profesionistas colegiados en el colegio municipal solicitante.
-
-d) De 201 a 400 profesionistas colegiados: 15% de profesionistas colegiados en el colegio municipal solicitante.
-
-e) De 401 a 1000 profesionistas colegiados: 10% de profesionistas colegiados en el colegio municipal solicitante.
-
-f) De 1001 en adelante de profesionistas colegiados existentes en el municipio: 5% de profesionistas colegiados en el colegio municipal solicitante.
-
-III.- Que durante los últimos cinco años, contados a partir de la fecha de la solicitud de la representatividad, haya incrementado su afiliación histórica conforme los registros existentes en la Dirección en el porcentaje que le corresponda respecto del total de profesionistas colegiados de todos los colegios del municipio, conforme a lo siguiente:
-
-a) De 10 a 50 profesionistas colegiados existentes en el municipio: 30% de profesionistas colegiados en el colegio municipal solicitante.
-
-b) De 51 a 100 profesionistas colegiados existentes en el municipio: 25% de profesionistas colegiados en el colegio municipal solicitante.
-
-c) De 101 a 200 profesionistas colegiados existentes en el municipio: 20% de profesionistas colegiados en el colegio municipal solicitante.
-
-d) De 201 a 400 profesionistas colegiados existentes en el municipio: 15% de profesionistas colegiados en el colegio municipal solicitante.
-
-e) De 401 a 1000 profesionistas colegiados existentes en el municipio: 10% de profesionistas colegiados en el colegio municipal solicitante.
-
-f) De 1001 en adelante de profesionistas colegiados existentes en el municipio: 5% de profesionistas colegiados en el colegio municipal solicitante.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 42.
 
-Se considerará por cumplida la fracción II del artículo 24 de la Ley cuando:
+Se considera por cumplida la fracción II del artículo 24 de la Ley, cuando el colegio municipal de profesionistas haya registrado ante la Dirección, el programa de mejoramiento continuo anual y de servicio profesional de índole social anual, así como carta compromiso de participar en los procesos de certificación profesional a desahogar por el colegio estatal de la profesión que corresponda.
 
-I.- Los integrantes del colegio municipal de profesionistas se encuentren certificados conforme a la Ley atendiendo a lo siguiente:
-
-a) De 10 a 50 integrantes, el 30% se encuentren certificados.
-
-b) De 51 a 100 integrantes, el 25% se encuentren certificados.
-
-c) De 101 a 200 integrantes, el 20% se encuentren certificados.
-
-d) De 201 a 400 integrantes, el 15% se encuentren certificados.
-
-e) De 401 a 1000 integrantes, el 10% se encuentren certificados.
-
-f) De 1001 integrantes en adelante, el 5% se encuentren certificados.
-
-II.- Se haya cumplido con el programa de mejoramiento continuo y de servicio profesional de índole social profesiones (sic) en los últimos tres años, en los términos de la Ley y el presente reglamento.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 43.
 
-Para efectos de la fracción III del artículo 24 de la Ley, se considerará que el colegio municipal de profesionistas cumple con esta disposición, cuando presente las actas de asamblea general celebradas durante los último cuatro años, contados a partir de la publicación de la convocatoria a que se refiere el artículo 45 de este reglamento, siempre y cuando se hayan celebrado como mínimo dos asambleas por año.
+Se considera por cumplida la fracción III del artículo 24 de la Ley, cuando el colegio municipal de profesionistas considere dentro de sus estatutos la realización de mínimo tres asambleas generales por año como lo señala el artículo 33 del presente Reglamento.
 
 ###### Artículo 44.
 
 Estarán impedidos para solicitar la representatividad para los efectos de la fracción IV del artículo 24 de la Ley, aquellos colegios municipales que hayan sido sujetos de cualquiera de las sanciones a que se refiere el artículo 72 de la Ley, en los últimos tres años, o cuando, en el mismo periodo, el 10% de sus integrantes haya sido sujeto de cualquiera de las sanciones previstas en el artículo 71 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 45.
 
-Cada cinco años se publicará la convocatoria para que los colegios municipales de profesionistas soliciten la representatividad a que alude el artículo 24 de la Ley o su correspondiente renovación, la cual deberá contener lo siguiente:
+Los colegios municipales de profesionistas podrán solicitar a la Dirección General la representatividad a fin de participar en los procesos de certificación profesional, mejoramiento continuo y de conformación de los colegios estatales por profesión, sin demérito de la convocatoria que para tal efecto emita la Dirección y que deberá contener lo siguiente:
 
 I.- Lugar y fecha de emisión;
 
@@ -429,9 +453,21 @@ V.- Período de emisión de respuestas; y
 
 VI.- Los demás necesarios para el cumplimiento de las disposiciones de la Ley y el presente reglamento.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+Para el caso de representatividad por primera ocasión, solo podrán obtenerla aquellos colegios que cumplan con lo dispuesto por el artículo 24 de la Ley en relación con el Capítulo VI, Sección Segunda de este Reglamento o se trate de colegios en los cuales en el municipio de su circunscripción, sea el único de su profesión registrado conforme a las disposiciones de la Ley.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 46.
 
-Los colegios que ya cuenten con representatividad en los términos de la Ley, podrán solicitar la renovación de ésta, para lo cual deberán cumplir con la totalidad de requisitos que marca el artículo 24 de la Ley y las disposiciones relativas del presente reglamento.
+Los colegios que ya cuenten con representatividad en los términos de la Ley, podrán solicitar la renovación de vigencia ésta, debiendo cumplir con la totalidad de requisitos que marca el artículo 24 de la Ley, además de los siguientes:
+
+I.- Acreditar el cumplimiento de los programas y procesos de certificación profesional, mejoramiento continuo y servicio profesional de índole social de los últimos cinco años;
+
+II.- Presentar las actas de asamblea general celebradas durante los últimos cinco años en cumplimiento a lo dispuesto por el artículo 33 del presente Reglamento; y
+
+III.- No haber sido sancionado en forma definitiva por la comisión de una infracción a la Ley.
 
 ###### Artículo 47.
 
@@ -495,7 +531,9 @@ I.- La asamblea general sesionará ordinariamente de manera trimestral y en form
 
 II.- Cada integrante de la asamblea general podrá designar a su suplente que tendrá las mismas facultades de un integrante titular. Dicha designación deberá notificarse al consejo directivo;
 
-III.- El presidente del consejo directivo del colegio estatal por profesión con diez días hábiles de anticipación, remitirá la convocatoria para la celebración de las sesiones de la asamblea general, en la que se establecerá lugar, fecha y hora de celebración, así como la orden del día;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+III.- El presidente del consejo directivo del colegio estatal por profesión, por conducto del secretario, remitirá la convocatoria con diez días hábiles de anticipación, para la celebración de las sesiones de la asamblea general, en la que se establecerá lugar, fecha y hora de celebración, así como la orden del día. Cuando el presidente del consejo directivo lo juzgue necesario, dicha convocatoria podrá hacerla directamente;
 
 IV.- Podrán convocar a sesión de la asamblea general y establecer la orden del día para ésta, una tercera parte de los integrantes de la misma, cuando el presidente del consejo directivo se niegue a ello;
 
@@ -561,13 +599,23 @@ IV.- Cuatro vocales.
 
 El presidente, secretario, tesorero y los cuatro vocales del consejo directivo del colegio estatal por profesión se designarán por la asamblea general y durarán en su cargo dos años.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 56 Bis.
+
+En el supuesto de que el número de colegios municipales de profesionistas que integren al estatal no sea suficiente para la conformación del consejo directivo como lo marca el artículo 33 de la Ley, se podrá nombrar provisionalmente a otros miembros de los mismos colegios municipales en igual número a cada colegio, para que asuman los referidos cargos y participen en los procesos y proyectos a que se refiere la Ley y el presente Reglamento.
+
+Lo anterior, en tanto se integran otros colegios municipales mismos que asumirán cargos directivos hasta el siguiente periodo de que se trate.
+
 ###### Artículo 57.
 
 Son atribuciones del presidente del consejo directivo del colegio estatal por profesión:
 
 I.- Representar jurídicamente al colegio estatal por profesión; contando en el ejercicio de sus funciones, con poderes generales para pleitos y cobranzas, actos de administración y actos de riguroso dominio, los cuales podrá ejercer por sí mismo o delegarlos en una o varias personas; sin embargo, cuando se trate de actos de riguroso dominio, deberá contar con la autorización expresa de la asamblea general y ejercer dicho poder en forma mancomunada con el tesorero;
 
-II.- Convocar oportunamente, por conducto del secretario del consejo directivo, a las sesiones del consejo directivo y de la asamblea general;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+II.- Convocar oportunamente, por conducto del secretario del consejo directivo, a las sesiones del consejo directivo y de la asamblea general. Cuando el presidente del consejo directivo lo juzgue necesario, dicha convocatoria podrá hacerla directamente.
 
 III.- Presidir y moderar las sesiones (sic) consejo directivo y de la asamblea general;
 
@@ -663,9 +711,11 @@ A los miembros del consejo directivo del colegio estatal por profesión les podr
 
 #### SECCIÓN TERCERA. DEL FUNCIONAMIENTO DEL CONSEJO DIRECTIVO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 63.
 
-El consejo directivo sesionará de manera ordinaria en forma bimestral y de forma extraordinaria cuando el presidente lo convoque o lo solicite una tercera parte de sus integrantes cuando se requiera desahogar un asunto que por su naturaleza o importancia no pueda esperar a la celebración de la sesión ordinaria.
+El consejo directivo sesionará de manera ordinaria y extraordinaria. De manera ordinaria sesionará en forma trimestral y de forma extraordinaria cuando el presidente lo convoque o lo solicite una tercera parte de sus integrantes por un asunto cuya naturaleza o importancia no pueda esperar a la celebración de la sesión ordinaria.
 
 ###### Artículo 64.
 
@@ -711,9 +761,11 @@ Los miembros del consejo directivo podrán invitar a participar en las sesiones 
 
 #### SECCIÓN CUARTA. DE LOS CONSEJOS TÉCNICOS DEL COLEGIO ESTATAL POR PROFESIÓN
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 70.
 
-El consejo directivo, para el cumplimiento de sus funciones, podrá aprobar la creación de consejos técnicos.
+El colegio estatal, para el cumplimiento de sus funciones aprobará en asamblea general la creación de consejos técnicos y los coordinará.
 
 ###### Artículo 71.
 
@@ -731,9 +783,11 @@ Los cargos de los integrantes del consejo técnico serán honoríficos por lo qu
 
 Los consejos técnicos podrán invitar a expertos externos con la anuencia de la mayoría de sus miembros.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 75.
 
-Los consejos técnicos podrán solicitar apoyo del consejo directivo del colegio estatal por profesión, a través del vocal de éste que les coordine.
+Los consejos técnicos podrán solicitar apoyo del consejo directivo del colegio estatal por profesión.
 
 ###### Artículo 76.
 
@@ -743,9 +797,11 @@ Los consejos técnicos se reunirán con la periodicidad que estos determinen sie
 
 La vigencia de funcionamiento de los consejos técnicos estará sujeta al cumplimiento de su objeto.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 78.
 
-El consejo directivo podrá crear otros órganos diversos a los consejos técnicos, mismos que desempeñarán sus funciones de conformidad con las directrices aprobadas por dicho consejo. En lo conducente, les será aplicable lo previsto en el presente reglamento para los consejos técnicos.
+La asamblea general del colegio estatal, a propuesta del consejo directivo o de sus integrantes, podrán crear otros órganos diversos a los consejos técnicos, mismos que desempeñarán sus funciones de conformidad con las directrices aprobadas por dicha asamblea y ante la falta de directrices les aplicará lo previsto en este reglamento para los consejos técnicos.
 
 ###### Artículo 79.
 
@@ -865,9 +921,11 @@ El Consejo de Profesionistas para su mejor funcionamiento se auxiliará de los c
 
 Los consejos técnicos tendrán por objeto la realización de actividades de análisis, investigación, consulta, opinión y propuesta sobre los temas específicos que le sean encomendados por el Consejo de Profesionistas.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 92.
 
-Los consejos técnicos estarán conformados por integrantes del Consejo de Profesionistas, por representantes de las instituciones educativas que previa invitación decidan participar y por aquellos que a criterio del mismo y de acuerdo a la naturaleza del tema a tratar, sea pertinente su participación.
+Los consejos técnicos estarán conformados por quienes refiere el artículo 44 de la Ley, sin demérito de invitados especiales que de acuerdo a la naturaleza del tema a tratar, sea pertinente su participación.
 
 ###### Artículo 93.
 
@@ -891,7 +949,7 @@ La vigencia de funcionamiento de los consejos técnicos estará sujeta al cumpli
 
 ###### Artículo 98.
 
-El Consejo de Profesionistas se auxiliará de los consejos técnicos para proponer una solución a las controversias previstas en el artículo 47 de la Ley.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2011)
 
 ###### Artículo 99.
 
@@ -1031,11 +1089,13 @@ I.- Carta compromiso de reportar al colegio estatal por profesión el resultado 
 
 II.- Descripción detallada del procedimiento para llevar a cabo la evaluación.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 115.
 
-El colegio estatal por profesión podrá reconocer como propia la certificación que realicen los órganos evaluadores reconocidos por la Secretaría de Educación Pública, siempre y cuando cumplan con los requisitos de la Ley y el presente reglamento, obtengan la aprobación del Consejo de Profesionistas del Estado de Guanajuato y la autorización de la Secretaría.
+El colegio estatal por profesión podrá reconocer como propia la certificación que realicen los órganos certificadores e instancias evaluadoras reconocidas por la Secretaría de Educación Pública, siempre y cuando cumplan con los requisitos de la Ley y el presente Reglamento, obtengan la aprobación del Consejo de Profesionistas del Estado de Guanajuato y la autorización de la Secretaría.
 
-Para este efecto el colegio estatal por profesión deberá celebrar convenios con los órganos evaluadores señalados.
+Para este efecto el colegio estatal por profesión deberá celebrar convenios con los órganos certificadores e instancias evaluadoras señalados.
 
 ###### Artículo 116.
 
@@ -1221,9 +1281,11 @@ La Dirección, una vez recibido el Programa Anual de Mejoramiento Continuo y ana
 
 Para dicho análisis la Dirección se podrá auxiliar de las instancias técnicas de evaluación de planes y programas de estudio con que cuenta la Secretaría, o bien, de aquellas relacionadas con la estructura y operación de programas de capacitación profesional.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 149.
 
-En caso de que la Dirección determine no realizar recomendaciones o sugerir adecuaciones al Programa Anual de Servicio Profesional de Índole Social, o que se haya cumplido con éstas de acuerdo a lo previsto en el artículo inmediato anterior, se registrará el mismo.
+En caso de que la Dirección determine no realizar recomendaciones o sugerir adecuaciones al Programa Anual de Mejoramiento Continuo, o que haya cumplido con éstas de acuerdo a lo previsto en el artículo inmediato anterior, se registrará el mismo.
 
 ###### Artículo 150.
 
@@ -1232,6 +1294,60 @@ Los colegios municipales de profesionistas deberán informar a la Dirección en 
 ###### Artículo 151.
 
 Los colegios municipales de profesionistas deberán entregar, a más tardar la segunda semana de diciembre, el reporte final, con documentación y resultados de la operación del Programa Anual de Mejoramiento Continuo, detallando los nombres de los miembros que lo cumplieron satisfactoriamente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO XII. DEL REQUISITO DE TÍTULO PROFESIONAL PARA El EJERCICIO DE LAS PROFESIONES
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 152.
+
+Además de las señaladas en el artículo 4 de la Ley, es obligatorio tener título para el ejercicio de las siguientes profesiones:
+
+- Administración de la calidad y la productividad;
+
+- Artes plásticas;
+
+- Biotecnología;
+
+- Ciencia de los alimentos;
+
+- Diseño de interiores;
+
+- Filosofía;
+
+- Gastronomía;
+
+- Ingeniería en alimentos;
+
+- Ingeniería en mecatrónica;
+
+- Ingeniería robótica;
+
+- Innovación agrícola sustentable;
+
+- Laboratorista en todas sus especialidades;
+
+- Letras;
+
+- Máquinas de combustión interna;
+
+- Mecatrónica;
+
+- Médico homeópata;
+
+- Música;
+
+- Negocios internacionales;
+
+- Nutrición;
+
+- Programador;
+
+- Puericultura; y
+
+- Relaciones internacionales.
 
 ## TRANSITORIOS
 
@@ -1270,3 +1386,13 @@ SAMUEL ALCOCER FLORES
 EL SECRETARIO DE EDUCACIÓN
 
 VÍCTOR MANUEL RAMÍREZ VALENZUELA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los colegios de profesionistas registrados con posterioridad a la entrada en vigencia de la Ley y hasta antes de la entrada en vigencia de las presentes reformas, contarán con la representatividad prevista por la referida Ley.
+
+Artículo Tercero. La referencia que el artículo 4 de la Ley de Profesiones para el Estado de Guanajuato hace para la profesión de Homeopatía, se entenderá hecha a la profesión de Médico homeópata, de conformidad con lo previsto en el presente Reglamento.
