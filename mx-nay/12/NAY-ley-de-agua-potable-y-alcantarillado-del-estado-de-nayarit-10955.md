@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-agua-potable-y-alcantarillado-del-estado-de-nayarit-1095
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-04"
-last_updated: "2009-09-16"
+last_updated: "2011-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 4 de octubre de 1995.
 
@@ -405,7 +405,9 @@ I. ESTABLECER EN EL AMBITO DE SU COMPETENCIA, LOS LINEAMIENTOS DE POLITICA EN LA
 
 II. RESOLVER SOBRE LOS ASUNTOS QUE EN MATERIA DE AGUA POTABLE, ALCANTARILLADO, CALIDAD DEL AGUA Y OTRAS ACTIVIDADES CONEXAS LE SOMETA A SU CONSIDERACION EL DIRECTOR GENERAL;
 
-III. AUTORIZAR LAS TARIFAS O CUOTAS QUE SE APLICARAN PARA LOS COBROS DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO, Y SANEAMIENTO, EN LAS LOCALIDADES ATENDIDAS POR EL ORGANISMO;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+III. AUTORIZAR, A PROPUESTA DEL DIRECTOR, LAS TARIFAS O CUOTAS QUE SE APLICARAN PARA LOS COBROS DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO, Y SANEAMIENTO, EN LAS LOCALIDADES ATENDIDAS POR EL ORGANISMO, A EFECTO DE QUE SEAN INCORPORADAS EN LA INICIATIVA DE LEY DE INGRESOS QUE PRESENTE EL AYUNTAMIENTO AL CONGRESO DEL ESTADO;
 
 IV. ADMINISTRAR EL PATRIMONIO DEL ORGANISMO Y CUIDAR DE SU ADECUADO MANEJO;
 
@@ -507,9 +509,17 @@ XVI. APLICAR LAS SANCIONES QUE ESTABLECE ESTA LEY POR LAS INFRACCIONES QUE SE CO
 
 XVII. CELEBRAR LOS ACTOS JURIDICOS DE DOMINIO, ADMINISTRACION Y PLEITOS Y COBRANZAS, QUE SEAN NECESARIOS PARA EL FUNCIONAMIENTO DEL ORGANISMO;
 
-XVIII. PROPORCIONAR A LA COMISION ESTATAL DE AGUA POTABLE Y ALCANTARILLADO CUANDO LO SOLICITE, LA INFORMACION TECNICA, OPERATIVA, FINANCIERA, PROGRAMATICA Y LEGAL QUE SE REQUIERA; Y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
-XIX. LAS DEMAS QUE LE SEÑALE EL CONSEJO DIRECTIVO, ESTA LEY, EL INSTRUMENTO DE CREACION DEL ORGANISMO O SU REGLAMENTO INTERIOR.
+XVIII. PROPORCIONAR A LA COMISION ESTATAL DE AGUA POTABLE Y ALCANTARILLADO CUANDO LO SOLICITE, LA INFORMACION TECNICA, OPERATIVA, FINANCIERA, PROGRAMATICA Y LEGAL QUE SE REQUIERA;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+XIX. LIQUIDAR, RECAUDAR Y COBRAR, LOS MONTOS QUE POR CONCEPTO DE LA PRESTACION DEL SERVICIO DE AGUA POTABLE, DRENAJE, ALCANTARILLADO Y DISPOSICION DE AGUAS RESIDUALES, LE CORRESPONDA RECIBIR AL ORGANISMO, Y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+XX. LAS DEMAS QUE LE SEÑALE EL CONSEJO DIRECTIVO, ESTA LEY, EL INSTRUMENTO DE CREACION DEL ORGANISMO O SU REGLAMENTO INTERIOR.
 
 ###### ARTICULO 32.
 
@@ -1488,3 +1498,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 16 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 10 DE DICIEMBRE DE 2011.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, derogando las disposiciones que se opongan a su contenido.
+
+Artículo segundo.- Para efectos de la determinación de los montos a cubrir por concepto de derechos por la prestación del servicio de agua potable, drenaje y saneamiento de aguas residuales, las disposiciones del presente decreto sólo serán aplicables para los cobros que se efectúen a partir del ejercicio fiscal 2012, en tanto, se seguirán aplicando las disposiciones vigentes con anterioridad a su publicación.
+
+Artículo tercero.- Los Ayuntamientos y los organismos operadores del agua potable y alcantarillado del Estado, procederán a realizar los ajustes a sus disposiciones reglamentarias de conformidad a las disposiciones que establece en el presente decreto, en un plazo no mayor a 30 días posteriores a su entrada en vigor.
