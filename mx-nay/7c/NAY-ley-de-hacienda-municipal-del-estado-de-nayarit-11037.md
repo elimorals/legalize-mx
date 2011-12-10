@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "2007-12-15"
+last_updated: "2011-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -97,21 +97,17 @@ C. Son productos las contraprestaciones por los servicios que preste el municipi
 
 D. Son créditos fiscales los que tenga derecho a percibir el municipio o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el municipio tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el municipio tenga derecho a percibir por cuenta ajena.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 6o.
 
-La administración y recaudación de los ingresos municipales señalados en el artículo anterior serán de la competencia de la Tesorería Municipal que podrá ser auxiliada en la administración y recaudación por otras dependencias oficiales, conforme a las disposiciones de las leyes fiscales vigentes.
+La administración y recaudación de los ingresos municipales señalados en el artículo anterior serán de la competencia de la Tesorería Municipal que podrá ser auxiliada en la administración y recaudación por otras dependencias oficiales, conforme a las disposiciones de las leyes fiscales vigentes, así como de las direcciones de los organismos públicos descentralizados de carácter municipal encargados de la prestación de servicios públicos de competencia exclusiva del municipio.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
-
-###### ARTICULO 7.
-
-Las declaraciones o avisos que haya obligación de presentar conforme a las disposiciones fiscales se harán en las formas aprobadas por la tesorería municipal. Para hacer efectivo el cobro de las contribuciones municipales, las tesorerías podrán ejercer la facultad económica-coactiva rigiéndose para el efecto por las disposiciones que establece la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 7o.
 
-Las declaraciones o avisos que haya obligación de presentar conforme a las disposiciones fiscales se harán en las formas aprobadas por la Tesorería Municipal.
-
-Para hacer efectivo el cobro de las contribuciones Municipales, las Tesorerías podrán ejercer la facultad económica-coactiva rigiéndose para el efecto por las disposiciones que establece el Código fiscal del estado.
+Las declaraciones o avisos que haya obligación de presentar conforme a las disposiciones fiscales se harán en las formas aprobadas por la tesorería municipal o por las unidades administrativas de los organismos descentralizados. Para hacer efectivo el cobro de las contribuciones municipales, las tesorerías y las direcciones de los organismos públicos descentralizados de carácter municipal podrán ejercer la facultad económica-coactiva rigiéndose para el efecto por las disposiciones que establece la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTICULO 8o.
 
@@ -139,21 +135,27 @@ Los Reglamentos, Circulares, Acuerdos y demás disposiciones administrativos, en
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES FISCALES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 13.
 
 Son Autoridades Fiscales en los Municipios del Estado, las siguientes:
 
-I. El Ayuntamiento
+I. El Ayuntamiento;
 
-II. El Presidente Municipal
+II. El Presidente Municipal;
 
-El Tesorero Municipal
+III. El Tesorero Municipal, y
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+IV. Los directores de los organismos públicos descentralizados de carácter municipal encargados de la prestación de servicios públicos de competencia exclusiva municipal.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 14.
 
-La determinación, liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes municipales con sujeción a la Constitución Política del Estado, a las disposiciones de esta ley, las leyes de Ingresos Municipales, la Ley Municipal del Estado y la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+La liquidación, recaudación y cobro de los ingresos municipales, estarán a cargo de los ayuntamientos, quienes los efectuarán por conducto de sus respectivas tesorerías, bajo la vigilancia de los presidentes municipales con sujeción a la Constitución Política del Estado, a las disposiciones de esta ley, las leyes de Ingresos Municipales, la Ley Municipal para el Estado y la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+
+En el caso de los ingresos por concepto de derechos relativos a los servicios de agua potable, drenaje, alcantarillado y disposición de aguas residuales, su liquidación, recaudación y cobro, estará a cargo de los ayuntamientos o de sus organismos públicos descentralizados, quienes los efectuarán por conducto de sus respectivos directores, bajo la vigilancia de sus juntas de gobierno, con sujeción, además de las disposiciones legales referidas en el párrafo anterior, a la Ley de Agua Potable y Alcantarillado del Estado de Nayarit.
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -641,7 +643,9 @@ Los impuestos adicionales se causarán y harán efectivos en el momento en que s
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 58.
 
@@ -659,7 +663,185 @@ El Funcionario o empleado público que contravenga lo dispuesto anteriormente, s
 
 Los derechos se pagarán de conformidad con las tasas y cuotas que establezcan las Leyes de Ingreso Municipales y a falta de disposición expresa, la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Municipio tenga la prestación del servicio.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 A.- Están obligados al pago de los derechos previstos en este capítulo, las personas físicas o morales que reciban cualquiera de los siguientes servicios:
+
+I. Suministro de agua potable;
+
+II. Suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas a conjuntos urbanos y lotificaciones para condominio;
+
+III. Drenaje y alcantarillado;
+
+IV. Autorización de derivaciones;
+
+V. Por el control para el establecimiento de los sistemas de agua potable y de alcantarillado en conjuntos urbanos y lotificaciones para condominio;
+
+VI. Conexión de la toma para el suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas;
+
+VII. Recepción de los caudales de aguas residuales para su tratamiento o manejo ecológico;
+
+VIII. Instalación y/o reparación de aparatos medidores de consumo de agua;
+
+IX. Dictamen de factibilidad de servicios para conjuntos urbanos, subdivisiones y lotificaciones para condominios;
+
+X. Reconexión o restablecimiento a los sistemas de agua potable;
+
+XI. Conexión de agua y drenaje, y
+
+XII. Otros conceptos que expresamente se consideren procedentes en la Ley de Ingresos del Municipio a propuesta del Ayuntamiento.
+
+La junta de gobierno del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en este capítulo, podrá acordar la realización de programas de estímulos por pagos anticipados y de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, previo acuerdo de cabildo, que será publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Los usuarios del servicio de agua potable, alcantarillado y saneamiento están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 B.- Los derechos por el suministro de agua potable, se pagarán mensual o bimestralmente dentro de los primeros quince días siguientes al periodo que corresponda, o de manera anticipada a través de los dispositivos y modalidades que para tal fin establezcan los Ayuntamientos por sí o por conducto de los organismos operadores de agua de que se trate o con cargo a tarjeta de crédito otorgada por instituciones bancarias, conforme a las tarifas y en el periodo de pago que se establezca en las leyes de ingresos de cada municipio:
+
+I. Para uso doméstico:
+
+A). Con medidor, por metro cúbico.
+
+En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumo de los tres últimos periodos inmediatos anteriores en que estuvo funcionando el aparato.
+
+Se considerarán como consumo de tipo mixto, aquellos casos en donde en un mismo inmueble con una sola toma de agua con y sin servicio medido, a la vez se abastezcan o suministren departamentos, despachos, oficinas y locales comerciales.
+
+El pago del consumo por servicio medido, se hará por cada uno de los usuarios conforme al uso del servicio y la tarifa aplicable, promediando el consumo total entre el número de usuarios beneficiados.
+
+Para consumo de agua en edificios de departamentos y vecindades que tengan para su servicio una sola toma de agua y medidor, la lectura del consumo del periodo que corresponda se promediará en cada caso entre el número de departamentos o viviendas registradas para cuantificar el consumo de cada una, aplicando el precio por metro cúbico de acuerdo a la tarifa vigente.
+
+La cuota mínima a pagar en el periodo que corresponda no será menor a un consumo de 15 metros cúbicos.
+
+B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros quince días siguientes al periodo que corresponda, conforme a las tarifas que se establezcan en las leyes de ingresos de cada municipio.
+
+Para consumo de agua en edificios de departamentos, vecindades y en cualquier tipo de conjunto urbano que tenga para su servicio una sola toma de agua sin medidor o que teniéndolo éste se encuentre en desuso y que cuenten con instalaciones hidráulicas para el servicio de agua potable para cada casa habitación, departamento o viviendas existentes, se pagará por cada una de ellas la tarifa por el periodo correspondiente, sin que en ningún caso el importe a pagar sea inferior a la cuota mínima que corresponda.
+
+En los edificios con consumo mixto, con una sola toma de agua sin medidor, el pago del consumo será por cuota fija de conformidad al uso del servicio y la tarifa aplicable.
+
+II. Para uso no doméstico:
+
+A). Con medidor, por metro cúbico.
+
+En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumos de los tres últimos periodos inmediatos anteriores en que estuvo funcionando el aparato.
+
+La cuota mínima a pagar en el periodo que corresponda no será menor a un consumo de 15 metros cúbicos.
+
+B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros quince días siguientes al periodo que corresponda de acuerdo con las tarifas que se establezcan en las leyes de ingresos de cada municipio, considerando el diámetro de la toma.
+
+Para los efectos de estos derechos, se aplicará el 50 por ciento de la tarifa correspondiente, cuando se trate de núcleos de población de zonas rurales, que cuenten con sistemas locales de agua y que reporten una población menor a mil habitantes.
+
+Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autorice el Ayuntamiento o el organismo descentralizado, deberán pagar el 50 por ciento de la cuota mensual o bimestral correspondiente al diámetro de la derivación, si la toma no tiene medidor.
+
+III. Por la reparación del aparato medidor del consumo de agua, se pagarán los siguientes derechos:
+
+A). Para uso doméstico: 2.5 días de salario mínimo general vigente en el Estado, y
+
+B). Para uso no doméstico: 5 días de salario mínimo general vigente en el Estado.
+
+No se pagarán los derechos previstos en esta fracción, durante el primer año, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 100 por ciento del costo de la reparación del aparato.
+
+En los casos en que el pago de los derechos a que se refiere este artículo se realice en base a consumos cuantificados a través del aparato medidor, mismo que será instalado por la autoridad municipal competente a costa del usuario, éste está obligado a reportar mediante los formatos oficiales al prestador de servicios que corresponda, los consumos de agua y efectuar su pago dentro de los primeros quince días siguientes al periodo que se esté reportando.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 C.- Por el servicio de drenaje y alcantarillado se pagará cuando menos el 8 por ciento del monto determinado por el servicio de agua potable, de manera mensual o bimestral, según se determine en las leyes de ingresos municipales.
+
+Para los usuarios que se abastezcan de agua de fuente propia o distinta de la red municipal y que se hayan conectado a la red de drenaje municipal, pagarán la tarifa establecida en el párrafo anterior, respecto del importe de los derechos causados y declarados por el servicio de agua.
+
+Los usuarios que se abastezcan de agua mediante carros tanque, pagarán la tarifa prevista en el primer párrafo, respecto del importe pagado y declarado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 D.- Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a conjuntos urbanos y lotificaciones para condominio en el periodo comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán mensual o bimestralmente los derechos desde el momento en que reciba el servicio y que quede debidamente establecido en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a las tarifas que se establezcan en las leyes de ingresos de cada municipio.
+
+Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor electrónico de consumo a costa del desarrollador para determinar el volumen del suministro de agua en bloque y éste estará obligado a reportar mediante los formatos oficiales los consumos y a efectuar su pago dentro de los primeros quince días siguientes al periodo que se esté reportando, o bien realizarlo de conformidad con las modalidades señaladas en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 E.- Los propietarios o poseedores de predios con o sin construcción que puedan acceder a la red general de agua potable y no estén conectados a la misma, pagarán mensual o bimestralmente una cuota de un día de salario mínimo general vigente en el Estado, por conceptos de operación, mantenimiento y reposición de la red. Tratándose de conjuntos urbanos esta obligación iniciará al momento de la comercialización de los terrenos o viviendas. No se pagarán estos derechos por los terrenos de uso agropecuario.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 F.- La autoridad municipal o el organismo descentralizado tendrán la facultad de instalar los medidores correspondientes, a costa de los usuarios. Igualmente, podrán notificar al usuario el importe del consumo mensual o bimestral, a falta de notificación, el usuario deberá solicitar la liquidación correspondiente. Respecto de las tomas que no cuenten con aparato medidor, el contribuyente deberá solicitar su instalación, verificar su funcionamiento y reportar anomalías.
+
+En caso de que la autoridad municipal determine la instalación del aparato medidor, deberá notificar previamente al contribuyente cuando menos con quince días hábiles de anticipación.
+
+Por lo que se refiere a la instalación del aparato medidor, se pagará por concepto de derechos doce días de salario mínimo general vigente en el Estado, teniendo el usuario la opción de adquirir el aparato medidor de agua en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el Ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
+
+El usuario tendrá un plazo de diez días a partir de la notificación de la instalación del aparato medidor para hacer el pago correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 G.- Proceden las derivaciones de toma de agua para uso doméstico y no doméstico:
+
+I. Para que surtan predios ubicados en calles que carezcan del servicio público de agua potable;
+
+II. Para los establecimientos que independientemente forman parte de un edificio, se surtan de la toma de éste, y
+
+III. Para viviendas que se ubiquen en el mismo predio del de la toma principal y no cuente con división de suelo.
+
+Por la derivación se deberá efectuar un pago único de 7.5 días de salario mínimo general vigente en el Estado, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 H.- Por la prestación de los servicios de conexión de agua y drenaje, consistentes en las instalaciones y realización física de las obras para la toma y descarga de agua potable y residual en su caso, se pagarán derechos conforme a las tarifas que se establezcan en las leyes de ingresos de cada municipio y al tipo de uso, doméstico o no doméstico.
+
+El pago de estos derechos comprende la totalidad del costo de los materiales utilizados y el trabajo que se realice para su conexión, desde la red hasta la terminación del cuadro medidor, tratándose de agua potable y en el caso de drenaje, hasta el punto de descarga domiciliaria, que correrán a cuenta de los desarrolladores de vivienda, sean privados u organismos descentralizados del gobierno federal, estatal o municipal.
+
+En el supuesto de que el costo por la prestación de los servicios a que se refiere el presente artículo, sea mayor al importe de las cuotas que se puedan fijar en las leyes de ingresos, la autoridad fiscal podrá convenir con los usuarios el pago correspondiente.
+
+En el caso de unidades multifamiliares, los derechos de conexión se aplicarán para cada vivienda.
+
+Tratándose de obras que se realicen con mano de obra de la comunidad, así como con materiales de la región, la autoridad fiscal municipal podrá convenir con los propietarios o poseedores de los predios el pago de los derechos, previa cuantificación de los trabajos ejecutados así como del material aportado.
+
+En el caso de constructores o desarrolladores, éstos pagarán los derechos que correspondan a partir del momento de la autorización de construcción del conjunto urbano.
+
+Tratándose de la reconexión o restablecimiento del servicio de agua potable, cuando haya sido suspendido a petición del usuario o restringido por falta de pago, el costo de los materiales y mano de obra utilizados, será por cuenta del interesado, previo presupuesto que formule el Ayuntamiento o el organismo descentralizado.
+
+Los usuarios que se abastezcan de agua de fuente propia o distinta a la red municipal, y hagan uso del drenaje, están obligados al pago de derechos por descarga de agua residual.
+
+Cuando no exista planta de tratamiento el usuario pagará el 50 por ciento de la tarifa establecida en las leyes de ingresos municipales.
+
+Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 I.- Por la recepción de los caudales de aguas residuales, de uso doméstico y no doméstico para su tratamiento, los ayuntamientos o sus organismos prestadores de servicios, cobrarán los siguientes derechos:
+
+I. Una cantidad equivalente al 51 por ciento del monto de los derechos por el suministro de agua potable, cuando el ayuntamiento o los organismos prestadores de los servicios proporcionen dicho servicio, y
+
+II. Cuando los usuarios sujetos al pago de este derecho se abastezcan de agua potable mediante fuentes distintas a la red municipal, pagarán mensual o bimestralmente los derechos conforme a las tarifas que se establezcan en las leyes de ingresos de cada municipio.
+
+El usuario sujeto al pago de este derecho deberá presentar la declaración o recibo oficial del pago de los consumos de agua potable a conformidad del ayuntamiento u organismo prestador del servicio. En el documento que se presente deberá consignarse la cantidad de metros cúbicos consumidos y el importe pagado por éstos.
+
+Los derechos previstos en este artículo se pagarán en el momento en que se paguen los derechos por el suministro de agua potable dentro de los plazos que prevé esta ley.
+
+Las aguas residuales originadas o derivadas de predios dedicados a actividades industriales, descargadas en los sistemas municipales, deberán cumplir con las normas oficiales mexicanas y demás disposiciones aplicables y serán sujetos al pago de este derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 J.- Por la expedición del dictamen de factibilidad de servicios con vigencia hasta de doce meses para nuevos conjuntos urbanos, subdivisión o lotificaciones para edificaciones en condominio se pagarán dieciocho días de salario mínimo general vigente en el Estado.
+
+En cuanto al tipo de desarrollo se estará a las definiciones establecidas en las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 K.- Por el control para el establecimiento del sistema de agua potable y alcantarillado de conjuntos urbanos y lotificaciones para condominio, se pagarán derechos conforme a las tarifas que se establezcan en las leyes de ingresos de cada municipio.
+
+I. Agua potable, por metro cuadrado de área a desarrollar, y
+
+II. Alcantarillado por metro cuadrado de área a desarrollar.
+
+En cuanto a las lotificaciones para condominios de tipo vertical, horizontal y mixto, será aplicable la tipología prevista para los conjuntos urbanos establecida en las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 61 L.- Por la conexión de la toma para suministro de agua en bloque a conjuntos urbanos y lotificaciones para condominio, proporcionado por las autoridades municipales o sus descentralizadas, se pagarán los derechos, por una sola vez, de acuerdo con el caudal que se registre en forma definitiva en el proyecto aprobado de red de distribución de agua potable, conforme a las tarifas que se establezcan en las leyes de ingresos de cada municipio.
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
@@ -705,8 +887,6 @@ Son participaciones las cantidades sobre determinados impuestos u otros ingresos
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
-
 ###### ARTICULO 66.
 
 Se consideran ingresos extraordinarios:
@@ -720,6 +900,10 @@ III. Aportaciones del Gobierno Federal o Estatal.
 ## TITULO OCTAVO
 
 DE LAS INFRACCIONES Y SANCIONES.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 67.
 
@@ -842,3 +1026,9 @@ P.O. 15 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2011.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, derogando las disposiciones que se opongan a su contenido.
+
+Artículo segundo.- Para efectos de la determinación de los montos a cubrir por concepto de derechos por la prestación del servicio de agua potable, drenaje, y saneamiento de aguas residuales, las disposiciones del presente decreto sólo serán aplicables para los cobros que se efectúen a partir del ejercicio fiscal 2012, en tanto, se seguirán aplicando las disposiciones vigentes con anterioridad a su publicación.
