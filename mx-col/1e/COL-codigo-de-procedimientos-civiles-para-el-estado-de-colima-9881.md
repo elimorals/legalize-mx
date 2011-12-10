@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-11-19"
+last_updated: "2011-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -1509,9 +1509,11 @@ ART. 210.- En el mismo acto de la diligencia y una vez realizado el apremio a qu
 
 ART. 211.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
-ART. 212.- Si hubiere hijos menores de edad, serán puestos al cuidado de la persona que de común acuerdo los cónyuges hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de 7 años.
+ART. 212.- Si hubiere hijos menores de edad, serán puestos al cuidado de la persona que de común acuerdo los cónyuges hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de 12 años.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
 Cualquier reclamación sobre el cuidado de los hijos, se substanciará en los términos del Título Décimo Sexto, Capítulo Único, de este Código.
 
@@ -6222,5 +6224,9 @@ P.O. 13 DE AGOSTO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 19 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
