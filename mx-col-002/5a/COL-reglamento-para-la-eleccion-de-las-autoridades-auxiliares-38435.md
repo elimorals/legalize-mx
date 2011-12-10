@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-la-eleccion-de-las-autoridades-auxiliares-38435
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-31"
-last_updated: "2008-04-12"
+last_updated: "2011-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COL"
 ---
 # REGLAMENTO PARA LA ELECCION DE LAS AUTORIDADES AUXILIARES DEL MUNICIPIO DE COLIMA
 
-REGLAMENTO PARA LA ELECCION DE LAS AUTORIDADES AUXILIARES DEL MUNICIPIO DE COLIMA
+REGLAMENTO PARA LA ELECCIÓN DE LAS AUTORIDADES AUXILIARES DEL MUNICIPIO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA, PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA, PUBLICADOS EN EL P.O. DE 12 DE ABRIL DE 2008 Y P.O. DE 10 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 31 de enero de 2004.
 
@@ -342,3 +342,33 @@ Con motivo de la restructuración de los órganos y dependencias de la administr
 ###### ARTÍCULO SEXTO.
 
 En tanto el Ayuntamiento no asuma la función de la seguridad pública en el Municipio y, por tanto, no ejerza el mando de la policía preventiva municipal, continuarán vigentes la estructura orgánica administrativa y las funciones que desempeña a la fecha la Dirección General de Tránsito y Vialidad.
+
+P.O. 10 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento General del Municipio de Colima aprobado en Sesión Extraordinaria de Cabildo celebrada el 15 de marzo de 2002 y publicado en el Periódico Oficial "El Estado de Colima" del 6 de abril de 2002, así como las demás normas reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento para la Elección de las Autoridades Auxiliares del Municipio de Colima aprobado en Sesión de Cabildo celebrada el 21 de enero de 2004 y publicado en el Periódico Oficial "El Estado de Colima" el 31 de enero de 2004, así como las demás normas reglamentarias que se opongan al mismo.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto no entre en vigor la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, publicada en el Periódico Oficial "El Estado de Colima" el 09 de febrero de 2008, queda subsistente el Capítulo de los Recursos contenido en la Ley Orgánica del Municipio Libre del Estado de Colima, expedida por el Congreso del Estado, mediante decreto No. 58, el 12 de enero de 1995 y publicado en el mismo medio de difusión el 14 del mismo mes y año, lo anterior con la finalidad de que los particulares estén en posibilidad de combatir los actos que se deriven de la aplicación del presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Con la aprobación del presente Reglamento se autoriza las transferencias de las partidas presupuestales correspondientes de una dependencia a otra según sea el caso, mismas que fueron aprobadas en el presupuesto de egresos para el ejercicio fiscal 2008.
+
+Con motivo de la reestructuración de los órganos y dependencias de la administración pública municipal centralizada, se acuerda que al no existir las condiciones económicas financieras durante el presente ejercicio fiscal no habrá ningún incremento que afecte las finanzas municipales.
+
+###### ARTÍCULO SEXTO.
+
+En tanto el Ayuntamiento no asuma la función de la seguridad pública en el Municipio y, por tanto; no ejerza el mando de la policía preventiva municipal, continuarán vigentes la estructura orgánica administrativa y las funciones que desempeña a la fecha la Dirección General de Tránsito y Vialidad
+
+SÉPTIMO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento., de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno Municipal de Colima.
