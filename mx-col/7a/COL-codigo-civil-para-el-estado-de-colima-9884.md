@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-10-29"
+last_updated: "2011-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -631,7 +631,7 @@ ART. 10.- Contra la observancia de la ley no puede alegarse desuso, costumbre o 
 
 ART. 11.- Las leyes que establecen excepción a las reglas generales, no son aplicables a caso alguno que no este expresamente especificado en las mismas leyes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] , P.O. 16 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE ABRIL DE 2011)</small>
 
 ART. 12.- Las leyes del Estado de Colima, incluyendo las que se refieran al estado y capacidad de las personas, se aplicarán a todos los habitantes del mismo, sean domiciliados o transeúntes; pero tratándose de extranjeros, se tendrá presente lo que dispongan las leyes federales sobre la materia, salvo cuando éstas prevean la aplicación de un derecho extranjero y salvo, además, lo previsto en los tratados y convenciones de que México sea parte.
 
@@ -747,7 +747,7 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 ART. 34.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 34 BIS.- El Registro Civil es la Institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificaciones del estado civil de las personas, en archivos físicos y electrónicos, autorizados con firma autógrafa o con la firma electrónica certificada, utilizando los medios electrónicos autorizados al efecto y las formas únicas aprobadas por el Registro Nacional de Población o en papel simple, pero conservando el formato autorizado.
 
@@ -759,7 +759,7 @@ El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerá
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
@@ -787,7 +787,7 @@ ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros 
 
 Toda acta deberá asentarse en los dos ejemplares del Registro; además será almacenada la información en archivo electrónico, en su base de datos la cual estará intercomunicada con la base de datos de la Dirección del Registro Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 38.- Si se perdiere o destruyere alguno de los libros o archivos electrónicos del Registro, se sacará inmediatamente copia del otro ejemplar, y en su caso de la copia de seguridad y respaldo que se tenga en la base de datos o en otro medio electrónico, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la Autoridad Administrativa a quien se hubieren remitido los duplicados o por daño de la base de datos.
 
@@ -835,7 +835,7 @@ ART. 48.- Toda persona puede pedir de forma física o electrónica testimonio de
 
 ART. 49.- Los actos y actas del estado civil relativos al oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial, pero se asentarán en los propios libros físicos y electrónicos y se autorizarán por el Director General del Registro Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 50.- Las actas del Registro Civil extendidas física o electrónicamente conforme las disposiciones que preceden, hacen prueba plena en todo lo que el oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta puede ser redargüida de falsa.
 
@@ -847,7 +847,7 @@ ART. 51.- Para establecer el estado civil, adquirido por los mexicanos fuera de 
 
 ART. 52.- Las faltas de los oficiales del Registro Civil, por ausencia o impedimento, serán suplidas por los servidores públicos que determine el Director General, en términos del Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 53.- El Ministerio Público cuidará de que los libros del Registro Civil, tanto físicos como electrónicos, se lleven debidamente, pudiendo inspeccionarlos en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros físicos o electrónicos del año anterior remitidos al Archivo General del Estado, para el efecto de hacer la consignación correspondiente de los oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
 
@@ -953,7 +953,7 @@ ART. 76.- Cuando se trate de un parto múltiple, se levantará un acta por cada 
 
 ART. 77.- Si el padre o la madre de un hijo, sin estar unidos en matrimonio, o ambos, lo reconocieran al presentarlo dentro del término de la Ley para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores, el nombre o nombres del progenitor o progenitores que lo reconozcan, así como el nombre de los abuelos respecto del padre o la madre que concurran al acto. Esta acta surtirá los efectos del reconocimiento legal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
 ART. 78.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que además de los requisitos a que se refiere el Artículo que precede, se observarán los siguientes, en sus respectivos casos:
 
@@ -1237,11 +1237,11 @@ ART. 132.- El oficial del Registro levantará el acta correspondiente, en la que
 
 ART. 133.- Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2008)</small>
 
 ### CAPITULO X (SIC). De la rectificación, nulidad, aclaración, complementación y Rectificación administrativa de las actas del Estado Civil
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 134.- La rectificación o modificación de las actas que se encuentran en los archivos físicos o electrónicos del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervienen en el acta, o algún otro acto esencial y solamente podrá ser ordenada por la autoridad judicial o resolución administrativa emitida por la Dirección General del Registro Civil, salvo el reconocimiento que voluntariamente haga un padre respecto de su hijo. El cual se sujetará a las prescripciones de este Código.
 
@@ -1813,7 +1813,7 @@ ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, estos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, y haya transcurrido un año o más de la celebración del matrimonio, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
@@ -1825,7 +1825,7 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 1975)</small>
 
 ART. 273.- Los cónyuges que se encuentren en el caso del último párrafo del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
 
@@ -1867,7 +1867,7 @@ ART. 280.- La reconciliación de los cónyuges pone término al juicio de divorc
 
 ART. 281.- El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 1975)</small>
 
 ART. 282.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
 
@@ -1887,15 +1887,15 @@ IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar 
 
 V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deban quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo, resolverá lo conveniente;
+VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieran designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el juez resolverá lo conducente, tomando en cuenta las circunstancias especificas, posibilidades y capacidades del padre, la madre o de la persona que conforme al interés superior de los hijos sea más conveniente para éstos, con la obligación del que tiene la custodia de permitir la convivencia con el otro progenitor o progenitores, si es el caso. Salvo que exista peligro para el normal desarrollo de los hijos, los menores de doce años deberán quedar provisionalmente al cuidado de la madre.
 
 > <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
 
 VII.- Imponer la prohibición de ir a un domicilio o lugar para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia intrafamiliar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2003)</small>
 
 ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte interesada, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir conductas de violencia intrafamiliar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los hijos mayores de 14 años. Salvo que exista peligro para el menor, el juez hará respetar el derecho de convivencia con los padres. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
 
@@ -2095,7 +2095,7 @@ ART. 318.- El tutor interino dará garantía por el importe anual de los aliment
 
 ART. 319.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 320.- Se suspende o cesa la obligación de dar alimentos:
 
@@ -2345,7 +2345,7 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 585, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE CAPITULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 585, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE CAPÍTULO.</small>
 
 > <small>(REFORMADO, P.O. DE 18 DE JULIO DE 2009)</small>
 
@@ -2575,7 +2575,7 @@ ART. 401.- El Juez que apruebe la adopción remitirá copia de las diligencias r
 
 ART. 401 A.- Cuando el Juez resuelva no autorizar la adopción de la persona que se pretenda adoptar, y ésta se encuentre viviendo con el solicitante, decretará la separación y ordenará el depósito, del sujeto de la adopción, en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2011)</small>
 
 #### SECCION SEGUNDA. De la adopción simple
 
@@ -2609,7 +2609,7 @@ ART. 409 D.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
-#### SECCION TERCERA. De la adopción plena
+#### SECCIÓN TERCERA. De la adopción plena
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -2729,7 +2729,7 @@ Los antecedentes serán guardados en el secreto del archivo físico y en la base
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
-#### SECCION CUARTA. De la adopción internacional
+#### SECCIÓN CUARTA. De la adopción internacional
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -2745,7 +2745,7 @@ III Autorización de la Secretaría de Gobernación para internarse y permanecer
 
 IV La documentación que los solicitantes presenten en idioma distinto al español deberá acompañarse de la traducción oficial y deberá estar apostillada o legalizada por el respectivo Cónsul mexicano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 410 R.- La adopción de una persona a favor de extranjeros sólo se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle en forma documental o por los medios electrónicos autorizados una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
 
@@ -2869,7 +2869,7 @@ II.- Con la emancipación, derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2000)</small>
 
 ART. 444.- La patria potestad se pierde por resolución judicial:
 
@@ -3821,7 +3821,7 @@ ART. 729.- Cada familia sólo puede constituir un patrimonio. Los que se constit
 
 ART. 730.- El valor de los bienes afectados al patrimonio de la familia será hasta de 37,000 unidades de salario mínimo en el Estado de Colima.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
 ART. 731.- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Registrador Público de la Propiedad de su domicilio, designando con toda precisión y de manera que puedan ser inscritos los bienes que van a quedar afectados.
 
@@ -5859,7 +5859,7 @@ ART. 1444.- El testamento cerrado quedará sin efecto siempre que se encuentre r
 
 ART. 1445.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1,404 y 1,405, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 1994)</small>
 
 ### CAPITULO III BIS. Testamento Público Simplificado
 
@@ -6113,7 +6113,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ### CAPITULO VI. De la sucesión de la concubina
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 1526.- La mujer o el hombre con quien el autor de la herencia vivió como si fuera su esposa o esposo en calidad de concubinos durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
 
@@ -6645,7 +6645,7 @@ ART. 1702.- La propuesta y aceptación hechas por telégrafo producen efectos si
 
 Tratándose de la propuesta y aceptación hechas a través de medios electrónicos, ópticos, magnéticos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzca efectos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 Contratación por Medios Electrónicos y Firma Electrónica
 
@@ -8699,7 +8699,7 @@ VIII.- Por evicción de la cosa dada en arrendamiento.
 
 ART. 2374.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2,368 y 2,369.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2009)</small>
 
 ART. 2375.- Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. La prorroga deberá de pedirse antes de que termine contrato de arrendamiento. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate, han sufrido un alza después de que se celebró el contrato de arrendamiento.
 
@@ -9805,7 +9805,7 @@ De la prenda
 
 ART. 2745.- La prenda es un derecho real constituido sobre un bien mueble enajenable para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2746.- También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro Público, en el archivo físico y electrónico, a que corresponda la finca respectiva.
 
@@ -10005,7 +10005,7 @@ ART. 2811.- Si la obligación asegurada estuviese sujeta a condición resolutori
 
 ART. 2812.- Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una nota al margen de la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituída.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2813.- Para hacer constar en el archivo físico y en la base de datos del Registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público firmando en forma autógrafa o con la firma electrónica certificada que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
 
@@ -10367,7 +10367,7 @@ ART. 2893.- Las sentencias firmes que resulten en aplicación del artículo ante
 
 ### CAPITULO II. Disposiciones Comunes de los Documentos Registrables
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2894.- Solo se registrarán física y electrónicamente:
 
@@ -10425,7 +10425,7 @@ En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio cont
 
 ART. 2900.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar física y electrónicamente en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en las leyes especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2901.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables física y electrónicamente, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
 
@@ -10455,7 +10455,7 @@ Si el documento físico o electrónico en que conste alguna de las operaciones q
 
 ART. 2906.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
 
 De quienes pueden solicitar el registro y de la calificación registral
 
@@ -10469,13 +10469,13 @@ Hecho el registro, serán devueltos los documentos al que los presentó, con not
 
 ART. 2908.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito o anotado física y electrónicamente el derecho de la persona que otorgó aquel o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2909.- Inscrito o anotado un título de forma física y electrónica, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
 
 Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2910.- Los registradores calificarán bajo su responsabilidad los documentos físicos o electrónicos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
 
@@ -10609,11 +10609,11 @@ ART. 2929.- Podrán cancelarse parcialmente las inscripciones hipotecarias de qu
 
 ART. 2930.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
 
-REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
 
 ## TITULO SEGUNDO. Del Registro Público
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
 
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
@@ -10681,7 +10681,7 @@ III.- Mediante resolución judicial que la ordene y que se haya dictado como con
 
 IV.- Mediante la inscripción física y electrónica del decreto publicado en el Periódico Oficial del Estado y en la página de internet del Gobierno del Estado que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2936.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1152, por no estar inscrita en forma física y electrónica en el Registro de la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado firmado en forma autógrafa o con la firma electrónica certificada, del Registro Publico que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el Catastro y en los Padrones de la Tesorería General del Estado.
 
@@ -10741,11 +10741,11 @@ V.- Que transcurra un plazo de treinta días a partir de la última publicación
 
 Si hubiere oposición se suspenderá el procedimiento; ésta se substanciará conforme al Código de Procedimientos Civiles.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
 
 Del sistema registral
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2942.- El reglamento establecerá el sistema tanto físico como electrónico conforme al cual deban llevarse los folios del Registro Público y practicarse los asientos.
 
@@ -10779,7 +10779,7 @@ VI.- La naturaleza del hecho o negocio jurídico;
 
 VII.- La fecha del título, número si lo tuviere y el funcionario que lo haya autorizado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2945.- Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior en cuanto resulten de los documentos físicos o electrónicos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
 
@@ -10809,7 +10809,7 @@ ART. 2948.- Los requisitos que según los artículos anteriores deban contener l
 
 ART. 2949.- Todos los asientos físicos o electrónicos, de la clase que fueren, deberán ir firmados en forma autógrafa o con la firma electrónica certificada por el registrador y expresar la fecha en que se practiquen, así como el día y la hora del asiento de presentación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2950.- Los asientos físicos o electrónicos del Registro no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
 
@@ -10821,7 +10821,7 @@ ART. 2951.- La nulidad de los asientos de que se trata en el artículo anterior 
 
 ### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2952.- Se inscribirán en los folios físicos o electrónicos de operaciones sobre bienes muebles:
 
@@ -10837,7 +10837,7 @@ II.- Los contratos de compra-venta de bienes muebles por los cuales el vendedor 
 
 III.- Los contratos de prenda que menciona el artículo 2748.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2953.- Toda inscripción que se haga en los folios físicos y electrónicos de bienes muebles deberá expresar los datos siguientes:
 
@@ -10859,7 +10859,7 @@ IV.- La fecha en que se practique y la firma del registrador.
 
 ### CAPITULO V. Del registro de personas morales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 2954.- En los folios físicos y electrónicos de las personas morales se inscribirán:
 
@@ -11111,19 +11111,19 @@ P.O. 22 DE ENERO DE 2011.
 
 P.O. 16 DE ABRIL DE 2011.
 
-DECRETO NUMERO 300, POR EL QUE SE REFORMA EL ARTICULO 1819 DEL NUEVO CODIGO CIVIL DEL ESTADO DE COLIMA.
+DECRETO NÚMERO 300, POR EL QUE SE REFORMA EL ARTÍCULO 1819 DEL NUEVO CÓDIGO CIVIL DEL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 16 DE ABRIL DE 2011.
 
-DECRETO NUMERO 301, POR EL QUE SE ADICIONA EL ARTICULO 12 Y SE REFORMAN LOS ARTICULOS 13, 14 Y 15 DEL NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA.
+DECRETO NÚMERO 301, POR EL QUE SE ADICIONA EL ARTÍCULO 12 Y SE REFORMAN LOS ARTÍCULOS 13, 14 Y 15 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 16 DE ABRIL DE 2011.
 
-DECRETO NUMERO 302, POR EL QUE SE REFORMA EL PRIMER PARRAFO Y SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 196 DEL NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA.
+DECRETO NÚMERO 302, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 196 DEL NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -11132,5 +11132,9 @@ P.O. 21 DE MAYO DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 29 DE OCTUBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
