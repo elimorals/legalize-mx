@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2011-05-22"
+last_updated: "2011-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1089,7 +1089,7 @@ En caso de delito continuado, se aumentarán en una mitad las penas que la ley p
 
 ### CAPÍTULO VI. ERROR VENCIBLE EN LAS CAUSAS DE LICITUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -1565,6 +1565,14 @@ Al que prive de la vida a otro en riña se le impondrá la mitad o cinco sextos 
 
 A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientos días de salario.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
+Cuando el homicidio tenga características propias de feminicidio se impondrá de veinte a sesenta años de prisión y de mil quinientos días a cuatro mil días multa.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
+En el caso de feminicidio, si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
+
 ###### Artículo 138.
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá prisión de veinticinco a cincuenta años y multa de mil ochocientos a tres mil seiscientos días de salario. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
@@ -1623,29 +1631,29 @@ Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras p
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 147.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria o brutal ferocidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria o brutal ferocidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia. De igual manera, se considerará que son calificados el homicidio o lesiones, cuando en su ejecución existan algunas de las causas previstas por el artículo 147 Bis de este Código.
 
-I. Existe premeditación: Cuando se comete el delito después de haber reflexionado sobre su ejecución;
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2011)</small>
 
-II. Existe ventaja: Cuando el sujeto activo de la conducta no corra riesgo alguno de resultar muerto o lesionado y tenga plena conciencia sobre su superioridad;
+###### Artículo 147 Bis.
 
-III. Existe traición: Cuando el sujeto activo realiza el hecho quebrantando la fe o seguridad que expresamente se le había prometido a la víctima o las mismas que en forma tácita debía éste esperar de aquél por las relaciones de confianza real y actual que existen entre ambos;
+Se entiende que hay feminicidio cuando se presentan algunas de las circunstancias siguientes:
 
-IV. Existe alevosía: Cuando el sujeto activo realiza el hecho sorprendiendo intencionalmente a alguien de improviso o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiera hacer;
+I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
 
-V. Existe retribución: Cuando el sujeto activo lo cometa por pago o prestación prometida o dada;
+II. A la víctima se le hayan inferido lesiones infamantes, degradantes o mutilaciones, antes o después de haberla privado de la vida;
 
-VI. Por el medio empleado: Cuando se causen por inundación, incendio, minas, bombas o explosivos o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
+III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
 
-VII. Existe saña: Cuando el sujeto activo actúe con crueldad o con fines depravados;
+IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
 
-VIII. Existe estado de alteración voluntaria: Cuando el sujeto activo lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y sin que para ello medie prescripción médica;
+V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
 
-IX. Existe brutal ferocidad: Cuando el sujeto activo lo comete sin ningún motivo o que teniendo dominada la situación, sigue agrediendo a la víctima; y,
-
-X. Cuando dolosamente se cometa en contra de servidores públicos de las instituciones policiales, de procuración y administración de justicia, si se encuentran en el ejercicio de sus funciones o con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley.
+No comete feminicidio quien, en ejercicio de sus funciones como autoridad de la fuerza pública del Estado, prive de la vida a una mujer que se encuentra cometiendo delito en flagrancia.
 
 ### CAPÍTULO IV. ABORTO
 
@@ -1821,7 +1829,7 @@ A quien bajo los mismos supuestos del párrafo anterior los sustraiga de su cust
 
 Si la retención o sustracción se realiza en contra de una persona menor de doce años de edad, se le aplicará de diez a cincuenta años de prisión y multa de setecientos veinte a tres mil seiscientos días de salario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2035,7 +2043,7 @@ Se impondrá de cuatro a siete años de prisión y multa de doscientos ochenta y
 
 Si del delito resulta un embarazo, la pena aplicable será de cinco a catorce años de prisión y multa de trescientos sesenta a mil ocho días de salario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2733,7 +2741,7 @@ DELITOS CONTRA LA SEGURIDAD DE LA COMUNIDAD
 
 Comete el delito contra la seguridad de la comunidad, a quién sin causa justificada:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4373,7 +4381,7 @@ Aplicación de este código.
 
 El presente código, se aplicará en las fechas y ámbitos espaciales y temporales de validez, que determinen las declaratorias a que alude el artículo primero transitorio del presente Decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4401,23 +4409,23 @@ DIP. MA. DE LOURDES BAYONA CALDERÓN
 
 SECRETARIA.
 
-POR TANTO MANDO, SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA.
+POR TANTO MANDO, SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNÍQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA.
 
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS 12 DIAS DEL MES DE JUNIO DE 2009.
 
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-C.P. ISMAEL ALFREDO HERNANDEZ DERAS
+C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
-LIC. OLIVERIO REZA CUELLAR
+LIC. OLIVERIO REZA CUÉLLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO NUMERO 415, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS AL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
+DECRETO NÚMERO 415, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
 Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -4427,7 +4435,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO NUMERO 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DECRETO NÚMERO 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -4435,9 +4443,9 @@ SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorab
 
 TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
-Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
 
 Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
 
@@ -4498,3 +4506,13 @@ P.O. 22 DE MAYO DE 2011.
 PRIMERO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
