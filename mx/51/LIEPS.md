@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2010-11-19"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LIEPS"
 ---
 # LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
+LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -191,6 +191,8 @@ f) El precio de referencia para cada uno de los combustibles a que se refiere el
 6. Diesel para uso en vehículos marinos de la Costa del Pacífico: el promedio del precio spot "fuel oil" número 2 LS, 0.05% de azufre, vigente en Los Ángeles, California, de los Estados Unidos de América.
 
 La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, dará a conocer los elementos para determinar los precios de referencia, los ajustes por calidad, los costos netos de transporte, el margen comercial y el costo de manejo a los expendios autorizados a que se refiere esta fracción. La citada dependencia realizará mensualmente las operaciones aritméticas para calcular las tasas aplicables para cada combustible y en cada agencia de ventas de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación.
+
+> <small>N. DE E. CONFORME A LO PREVISTO EN LA DISPOSICIÓN TRANSITORIA, ARTÍCULO SEXTO, FRACCIÓN III, DEL DECRETO DEL D.O.F. 12 DE DICIEMBRE DE 2011, A PARTIR DEL 1 DE ENERO DE 2015, LAS CUOTAS PREVISTAS EN ESTE ARTÍCULO DISMINUIRÁN EN UNA PROPORCIÓN DE 9/11 PARA QUEDAR EN 2/11.</small>
 
 II. Sin perjuicio de lo previsto en la fracción anterior, se aplicarán las cuotas siguientes a la venta final al público en general en territorio nacional de gasolinas y diesel:
 
@@ -2464,7 +2466,9 @@ I. En el mes calendario en que entre en vigor el artículo 2o.-A, fracción II d
 
 II. Las cuotas mencionadas en la fracción anterior, se incrementarán mensualmente en 2 centavos, 2.44 centavos y 1.66 centavos, por cada litro de Gasolina Magna, Gasolina Premium UBA y Diesel, respectivamente, hasta llegar a las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-III. A partir del 1o. de enero de 2012, las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en una proporción de 9/11 para quedar en 2/11 de las cuotas contenidas en dicho artículo.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. A partir del 1 de enero de 2015, las cuotas previstas en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en una proporción de 9/11 para quedar en 2/11 de las cuotas contenidas en dicho artículo.
 
 ## TRANSITORIO
 
@@ -2537,6 +2541,10 @@ Segundo. Se deroga el artículo cuarto transitorio del Decreto por el que se ref
 Tercero. Tratándose de las enajenaciones de los bienes a que se refiere el artículo 2o. fracción I, inciso C), segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro. No obstante lo anterior, los contribuyentes podrán calcular el impuesto correspondiente, aplicando la cuota que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que dichos productos se hayan entregado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los primeros diez días naturales de 2011.
 
 Se exceptúa del tratamiento establecido en la segunda parte del párrafo anterior respecto del cálculo del impuesto correspondiente a las operaciones que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo dispuesto por el artículo 215 de la Ley del Impuesto sobre la Renta, sean o no residentes en México.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación
 
 ###### ARTICULO QUINTO.
 
