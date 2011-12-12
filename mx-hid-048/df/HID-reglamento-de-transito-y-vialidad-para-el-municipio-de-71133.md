@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-transito-y-vialidad-para-el-municipio-de-71133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-07"
-last_updated: "2010-10-25"
+last_updated: "2011-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD PARA EL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -83,11 +83,11 @@ III.- Para vigilar:
 
 a).- Los Síndicos Procuradores del Ayuntamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO II. FACULTADES Y OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -197,13 +197,17 @@ IV.- Obedecer los señalamientos de tránsito así como las indicaciones de los 
 
 V.- Circular única y exclusivamente en el sentido que indique la vialidad.
 
-VI.- Respetar los limites de velocidad establecidos por la Secretaría a través de los señalamientos respectivos. A falta de señalamiento la velocidad será:
+VI.- Respetar los límites de velocidad establecidos por la Secretaría a través de los señalamientos respectivos. A falta de señalamiento la velocidad será:
 
 a).- De 80 kilómetros por hora si se trata de vías primarias, tales como vías rápidas, boulevares o avenidas con camellón.
 
 b).- De 40 kilómetros en vías secundarias, tales como: calles o avenidas sin camellón.
 
 c).- De 20 kilómetros en zonas escolares, peatonales, hospitales, asilos, albergues, casas hogar y en general cualquiera que por sus características una velocidad mayor resulte ser un riesgo para peatones o vehículos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+d).- De 30 Kilómetros por hora en Calles y Avenidas del Centro Histórico.
 
 VII.- Colocarse el cinturón de seguridad y verificar que los demás pasajeros lo utilicen.
 
@@ -357,7 +361,7 @@ Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la En
 
 ### CAPÍTULO IV. PERSONAS VULNERABLES O CON DISCAPACIDAD Y PEATONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 10.
 
@@ -695,7 +699,7 @@ XVI.- Dispositivos para remolques.- Los remolques deberán tener además del dis
 
 Las fracciones III, V, VI, VII, XIII, XIV y XVI se sancionarán de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas; respecto a la fracción XI ésta será sancionada con una multa de 11 once a 20 veinte salarios mínimos en el Estado de Hidalgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 27.
 
@@ -979,7 +983,7 @@ XII.- Choque de ocupante de vehículo.- Ocurre cuando alguna parte de una person
 
 XIII.- Choques diversos.- Cualquiera no especificado en las fracciones anteriores que dañe el patrimonio del Municipio o de terceros.
 
-> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 52.
 
@@ -1241,7 +1245,7 @@ II.- Trabajo a favor de la comunidad.
 
 III.- Arresto hasta por 36 horas.
 
-> <small>(ADICIONADO [N. DE E. ANTES FRACCION IV], P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. ANTES FRACCIÓN IV], P.O. 25 DE OCTUBRE DE 2010)</small>
 
 Acudir a por lo menos cinco sesiones para la concientización respecto del tratamiento de desintoxicación y rehabilitación en materia de adicciones a los infractores según corresponda.
 
@@ -1283,9 +1287,11 @@ En caso de que el infractor sea reincidente se impondrá un 50% cincuenta por ci
 
 ###### Artículo 77.
 
-Se impondrá el doble de la sanción inicial, así como 36 horas de trabajo en favor de la comunidad, a quien reincida en la comisión de infracciones.
+(DEROGADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2011)
 
-Se considerará reincidente al que haya cometido la misma falta en dos ocasiones dentro del lapso de un año. Para esto, la autoridad responsable vigilará que se mantengan actualizados los libros de registro que se deban llevar, conforme al reglamento respectivo.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+Se considerará reincidente al que haya cometido la misma falta en dos ocasiones dentro del lapso de un año. Para esto, la autoridad responsable vigilará que se mantengan actualizados los libros de registro que se deban llevar, conforme al Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1345,9 +1351,11 @@ Cuando una infracción se realice con la intervención de dos o más personas y 
 
 Cuando el infractor cometa varias faltas se le acumularán las sanciones económicas correspondientes a cada una de ellas.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 83.
 
-Cuando la conducta descrita en las faltas que prevé este Reglamento se contemple de manera similar en otro Reglamento Municipal, imperará el que establezca la sanción mayor.
+Cuando la conducta descrita en las faltas que prevé este Reglamento se contemple de manera similar en otro Reglamento Municipal, imperará el que establezca la sanción menor.
 
 ###### Artículo 84.
 
@@ -1527,10 +1535,34 @@ LIC. MIRNA ESMERALDA HERNANDEZ MORALES
 
 SECRETARIA GENERAL MUNICIPAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE OCTUBRE DE 2010.
 
 PRIMERO.- Se DEROGAN los Artículos 12, 16, fracción V del Artículo 29, 30, 31, fracción II y VII del Artículo 37, 74, 75 y 76 del Reglamento de Tránsito y Vialidad para el Municipio de Pachuca de Soto, Hidalgo.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en· el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+DECRETO MUNICIPAL NÚMERO VEINTICUATRO POR EL QUE SE DEROGA EL PRIMER PÁRRAFO DEL ARTÍCULO 77 Y REFORMA EL ARTÍCULO 83, DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD PARA EL MUNICIPIO DE PACHUCA DE SOTO, HIDALGO.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL DECRETO QUE SE RELACIONA CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+TERCERO: Aprobado que sea el presente dictamen, ordénese la emisión del Decreto correspondiente a fin de que el mismo entre en vigor al día siguiente de su publicación.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+DECRETO MUNICIPAL NÚMERO VEINTICINCO POR EL QUE SE SOMETE A LA CONSIDERACIÓN DEL AYUNTAMIENTO LA SIGUIENTE INICIATIVA PROPIA DE COMISIÓN, CON PROYECTO DE DECRETO QUE REFORMA DISPOSICIONES AL REGLAMENTO DE TRÁNSITO Y VIALIDAD PARA EL MUNICIPIO DE PACHUCA DE SOTO, HIDALGO, EL CUAL ORDENA QUE SE HOMOLOGUE EL ARTÍCULO 83 DEL REGLAMENTO EN MENCIÓN, CON EL ARTÍCULO 59 DEL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE PACHUCA DE SOTO, HIDALGO.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+DECRETO MUNICIPAL NÚMERO TREINTA Y UNO POR EL QUE SE DECLARA PROCEDENTE LA PROPUESTA DE ADICIÓN DEL INCISO D) A LA FRACCIÓN VI DEL ARTICULO 6 DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD VIGENTE PARA EL MUNICIPIO DE PACHUCA DE SOTO, HIDALGO.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+SEGUNDO: Se declara no procedente la propuesta de adición a la fracción XXIX del Artículo 8 del Reglamento de Tránsito y Vialidad del Municipio de Pachuca de Soto, Hidalgo.
+
+TERCERO: Aprobado que sea el presente dictamen, ordénese la emisión del Decreto correspondiente a fin de que el mismo entre en vigor al día siguiente de su Publicación.
