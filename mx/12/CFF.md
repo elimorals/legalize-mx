@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2011-05-10"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "CFF"
 ---
 # CODIGO FISCAL DE LA FEDERACION
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA ACTUALIZACIÓN POR MISCELANEA FISCAL: 31 DE DICIEMBRE DE 2010.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -330,9 +332,11 @@ VIII. La transmisión de derechos de crédito relacionados a proveeduría de bie
 
 IX. La que se realice mediante fusión o escisión de sociedades, excepto en los supuestos a que se refiere el artículo 14-B de este Código.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses. No se consideran operaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A de este Código.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 35% del precio para después del sexto mes y el plazo pactado exceda de doce meses. Se consideran operaciones efectuadas con el público en general cuando por las mismas se expidan los comprobantes fiscales simplificados a que se refiere este Código.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -492,7 +496,11 @@ I. La Bolsa Mexicana de Valores y el Mercado Mexicano de Derivados.
 
 II. Las bolsas de valores y los sistemas equivalentes de cotización de títulos, contratos o bienes, que cuenten al menos con cinco años de operación y de haber sido autorizados para funcionar con tal carácter de conformidad con las leyes del país en que se encuentren, donde los precios que se determinen sean del conocimiento público y no puedan ser manipulados por las partes contratantes de la operación financiera derivada.
 
-III. En el caso de índices de precios, éstos deberán ser publicados por el banco central o por la autoridad monetaria equivalente, para que se considere al subyacente como determinado en un mercado reconocido. Tratándose de operaciones financieras derivadas referidas a tasas de interés, al tipo de cambio de una moneda o a otro indicador, se entenderá que los instrumentos subyacentes se negocian o determinan en un mercado reconocido cuando la información respecto de dichos indicadores sea del conocimiento público y publicada en un medio impreso, cuya fuente sea una institución reconocida en el mercado de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. En el caso de índices de precios, éstos deberán ser publicados por el Instituto Nacional de Estadística y Geografía, por la autoridad monetaria equivalente o por la institución competente para calcularlos, para que se considere al subyacente como determinado en un mercado reconocido. Tratándose de operaciones financieras derivadas referidas a tasas de interés, al tipo de cambio de una moneda o a otro indicador, se entenderá que los instrumentos subyacentes se negocian o determinan en un mercado reconocido cuando la información respecto de dichos indicadores sea del conocimiento público y publicada en un medio impreso, cuya fuente sea una institución reconocida en el mercado de que se trate.
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -512,9 +520,11 @@ En los casos en los que se pague la contraprestación mediante transferencia ele
 
 El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco federal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco federal, no se actualizarán por fracciones de mes.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -604,7 +614,11 @@ La comparecencia previa a que se refiere este artículo también deberá realiza
 
 Los datos de identidad que el Servicio de Administración Tributaria obtenga con motivo de la comparecencia, formarán parte del sistema integrado de registro de población, de conformidad con lo previsto en la Ley General de Población y su Reglamento, por lo tanto dichos datos no quedarán comprendidos dentro de lo dispuesto por los artículos 69 de este Código y 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-Para los efectos fiscales, los certificados tendrán una vigencia máxima de dos años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el período de vigencia de un certificado, su titular podrá solicitar uno nuevo. En el supuesto mencionado el Servicio de Administración Tributaria podrá, mediante reglas de carácter general, relevar a los titulares del certificado de la comparecencia personal ante dicho órgano para acreditar su identidad y, en el caso de las personas morales, la representación legal correspondiente, cuando los contribuyentes cumplan con los requisitos que se establezcan en las propias reglas. Si dicho órgano no emite las reglas de carácter general, se estará a lo dispuesto en los párrafos sexto y séptimo de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Para los efectos fiscales, los certificados tendrán una vigencia máxima de cuatro años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el periodo de vigencia de un certificado, su titular podrá solicitar uno nuevo. En el supuesto mencionado el Servicio de Administración Tributaria podrá, mediante reglas de carácter general, relevar a los titulares del certificado de la comparecencia personal ante dicho órgano para acreditar su identidad y, en el caso de las personas morales, la representación legal correspondiente, cuando los contribuyentes cumplan con los requisitos que se establezcan en las propias reglas. Si dicho órgano no emite las reglas de carácter general, se estará a lo dispuesto en los párrafos sexto y séptimo de este artículo.
 
 Para los efectos de este Capítulo, el Servicio de Administración Tributaria aceptará los certificados de firma electrónica avanzada que emita la Secretaría de la Función Pública, de conformidad con las facultades que le confieran las leyes para los servidores públicos, así como los emitidos por los prestadores de servicios de certificación que estén autorizados para ello en los términos del derecho federal común, siempre que en ambos casos, las personas físicas titulares de los certificados mencionados hayan cumplido con lo previsto en los párrafos sexto y séptimo de este artículo.
 
@@ -854,9 +868,11 @@ Se presumirá sin que se admita prueba en contrario, que los documentos digitale
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional. Los pagos que deban efectuarse en el extranjero se podrán realizar en la moneda del país de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-En los casos en que las leyes fiscales así lo establezcan a fin de determinar las contribuciones y sus accesorios, se aplicará el índice nacional de precios al consumidor, el cual será calculado por el Banco de México y se publicará en el Diario Oficial de la Federación dentro de los primeros diez días del mes siguiente al que corresponda.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+En los casos en que las leyes fiscales así lo establezcan, a fin de determinar las contribuciones y sus accesorios se aplicará el Índice Nacional de Precios al Consumidor, el cual será calculado por el Instituto Nacional de Estadística y Geografía y se publicará en el Diario Oficial de la Federación dentro de los primeros diez días del mes siguiente al que corresponda.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -902,31 +918,53 @@ Para determinar las contribuciones se considerarán, inclusive, las fracciones d
 
 Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Hacienda y Crédito Público podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Los medios de pago señalados en el séptimo párrafo de este artículo, también serán aplicables a los productos y aprovechamientos.
+
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
 El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá autorizar otros medios de pago.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 20
 
-BIS.- El Indice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20, que calcula el Banco de México, se sujeta a lo siguiente:
+Bis.- El Índice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20 de este Código, que calcula el Instituto Nacional de Estadística y Geografía, se sujeta a lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 I. Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II. Deberán cotizarse los precios correspondientes a cuando menos 1000 productos y servicios específicos agrupados en 250 conceptos de consumo, los cuales abarcarán al menos 35 ramas de los sectores agrícola, ganadero, industrial y de servicios, conforme al catálogo de actividades económicas elaborado por el Instituto Nacional de Estadística, Geografía e Informática.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+II. Deberán cotizarse los precios correspondientes a cuando menos 1000 productos y servicios específicos agrupados en 250 conceptos de consumo, los cuales abarcarán al menos 35 ramas de los sectores agrícola, ganadero, industrial y de servicios, conforme al catálogo de actividades económicas elaborado por el Instituto Nacional de Estadística y Geografía.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 III. Tratándose de alimentos las cotizaciones de precios se harán como mínimo tres veces durante cada mes. El resto de las cotizaciones se obtendrán una o más veces mensuales.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
 IV. Las cotizaciones de precios con las que se calcule el Indice Nacional de Precios al Consumidor de cada mes, deberán corresponder al período de que se trate.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 V. El Indice Nacional de Precios al Consumidor de cada mes se calculará utilizando la fórmula de Laspeyres. Se aplicarán ponderadores para cada rubro del consumo familiar considerando los conceptos siguientes:
 
 Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, aparatos y enseres domésticos; salud y cuidado personal; transporte; educación y esparcimiento; otros servicios.
 
-El Banco de México publicará en el Diario Oficial de la Federación los estados, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas a que se refieren las fracciones I y II así como las cotizaciones utilizadas para calcular el Indice.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+El Instituto Nacional de Estadística y Geografía publicará en el Diario Oficial de la Federación las entidades federativas, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas a que se refieren las fracciones I y II de este artículo, así como las cotizaciones utilizadas para calcular el Índice Nacional de Precios al Consumidor.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -966,11 +1004,21 @@ INPCq = Índice Nacional de Precios al Consumidor de la primera quincena del mes
 
 INPCq-1 = Índice Nacional de Precios al Consumidor de la segunda quincena del mes antepasado al mes m.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE DICIEMBRE DE 2011 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 21.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco federal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión.
+Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos por concepto de indemnización al fisco federal por la falta de pago oportuno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Dichos recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el periodo a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión, para tal efecto, la tasa se considerará hasta la centésima y, en su caso, se ajustará a la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1110,35 +1158,13 @@ En ningún caso los intereses a cargo del fisco federal excederán de los que se
 
 La devolución se aplicará primero a intereses y, posteriormente, a las cantidades pagadas indebidamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 22-B.
 
-Las autoridades fiscales efectuarán la devolución mediante depósito en la cuenta del contribuyente, para lo cual, éste deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta en los términos señalados en el párrafo sexto del artículo 22 de este Código. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse dicho depósito. También se suspenderá el plazo cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser dicha cuenta inexistente, contenga errores el número de la cuenta o ésta se haya cancelado, hasta en tanto el contribuyente proporcione el número de la cuenta correcta.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
-
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
-
-Las personas físicas que hubiesen obtenido en el ejercicio inmediato anterior ingresos inferiores a $170,370.00, podrán optar por que la devolución se les realice mediante cheque nominativo. En estos casos, se considerará que la devolución está a disposición del contribuyente al día hábil siguiente en que surta efectos la notificación de la autorización de la devolución respectiva.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
-
-La devolución también podrá realizarse mediante certificados especiales expedidos a nombre de los contribuyentes o a nombre de terceros, cuando así se solicite, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. En este caso, se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad le notifique que el certificado especial está a su disposición.
-
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
-
-Se podrán expedir certificados especiales, previa autorización de la Tesorería de la Federación, a nombre de terceros en los siguientes supuestos:
-
-I. Cuando quien solicita la devolución sea una persona moral que determine su resultado fiscal consolidado para los efectos del impuesto sobre la renta y el tercero a favor de quien se solicita se expida el certificado especial sea una persona moral del mismo grupo incorporada en el régimen de consolidación.
-
-II. Cuando una persona moral del Régimen Simplificado a que se refiere el artículo 79 de la Ley del Impuesto Sobre la Renta solicite que el certificado especial sea expedido a nombre de alguno de sus integrantes.
-
-III. Cuando los contribuyentes soliciten que el certificado especial sea expedido a nombre de la Administración Pública Federal Centralizada o Paraestatal. Igualmente podrán expedirse a favor del Distrito Federal, de los Estados o Municipios, así como de sus organismos descentralizados, siempre que en este caso se obtenga autorización previa de las autoridades fiscales.
-
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
-
-IV. Se trate de contribuyentes que dictaminen u opten por dictaminarse para efectos fiscales de conformidad con el artículo 32-A de este Código.
+Las autoridades fiscales efectuarán la devolución mediante depósito en la cuenta del contribuyente que la solicita, para lo cual, éste deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta en los términos señalados en el párrafo sexto del artículo 22 de este Código. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos en los que el día que venza el plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables a la institución financiera designada por el contribuyente, dicho plazo se suspenderá hasta en tanto pueda efectuarse el depósito. También se suspenderá el plazo mencionado cuando no sea posible efectuar el depósito en la cuenta proporcionada por el contribuyente por ser ésta inexistente o haberse cancelado o cuando el número de la cuenta proporcionado por el contribuyente sea erróneo, hasta en tanto el contribuyente proporcione un número de cuenta válido.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
 
@@ -1290,11 +1316,13 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 Los contribuyentes obligados al pago del impuesto sobre la renta en los términos del Título IV, Capítulo II, Secciones I, II y III de la Ley del Impuesto sobre la Renta, serán responsables por las contribuciones que se hubieran causado en relación con sus actividades empresariales hasta por un monto que no exceda del valor de los activos afectos a dicha actividad, y siempre que cumplan con todas las obligaciones a que se refieren los artículos 133, 134 o 139, según sea el caso, del ordenamiento antes citado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 27.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes por las actividades que realicen, deberán solicitar su inscripción en el registro federal de contribuyentes del Servicio de Administración Tributaria y su certificado de firma electrónica avanzada, así como proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se establecen en el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al registro federal de contribuyentes su domicilio fiscal; en el caso de cambio de domicilio fiscal, deberán presentar el aviso correspondiente, dentro del mes siguiente al día en el que tenga lugar dicho cambio salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes fiscales por los actos o actividades que realicen o por los ingresos que perciban, deberán solicitar su inscripción en el registro federal de contribuyentes y su certificado de firma electrónica avanzada, así como proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal mediante los avisos que se establecen en el Reglamento de este Código. Asimismo, las personas a que se refiere este párrafo estarán obligadas a manifestar al registro federal de contribuyentes su domicilio fiscal, en caso de cambio de domicilio fiscal deberán presentar el aviso correspondiente dentro del mes siguiente al día en el que tenga lugar dicho cambio, salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación. La autoridad fiscal podrá considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1376,37 +1404,43 @@ Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación 
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, por las máquinas registradoras de comprobación fiscal y sus registros, cuando se esté obligado a llevar dichas máquinas, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+En los casos en que las disposiciones fiscales hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, así como por los comprobantes fiscales o documentación comprobatoria de ingresos y deducciones y, en su caso, las máquinas registradoras de comprobación fiscal, los equipos o sistemas electrónicos de registro fiscal y sus respectivos registros, además de la documentación comprobatoria de los asientos respectivos.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Cuando en la contabilidad se plasmen datos en idioma distinto al español o los valores se consignen en moneda extranjera, las autoridades fiscales podrán solicitar su traducción y que se proporcione el tipo de cambio utilizado, según sea el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 29.
 
-Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por las actividades que se realicen, los contribuyentes deberán emitirlos mediante documentos digitales a través de la página de Internet del Servicio de Administración Tributaria. Los comprobantes fiscales digitales deberán contener el sello digital del contribuyente que lo expida, el cual deberá estar amparado por un certificado expedido por el referido órgano desconcentrado, cuyo titular sea la persona física o moral que expida los comprobantes. Las personas que adquieran bienes, disfruten de su uso o goce, o usen servicios deberán solicitar el comprobante fiscal digital respectivo.
+Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por los actos o actividades que realicen o por los ingresos que se perciban, los contribuyentes deberán emitirlos mediante documentos digitales a través de la página de Internet del Servicio de Administración Tributaria. Las personas que adquieran bienes, disfruten de su uso o goce temporal o reciban servicios deberán solicitar el comprobante fiscal digital respectivo.
 
-Los contribuyentes a que se refiere el párrafo anterior, deberán cumplir además con las obligaciones siguientes:
+Los contribuyentes a que se refiere el párrafo anterior deberán cumplir con las obligaciones siguientes:
 
 I. Contar con un certificado de firma electrónica avanzada vigente.
 
 II. Tramitar ante el Servicio de Administración Tributaria el certificado para el uso de los sellos digitales.
 
-Los contribuyentes podrán optar por el uso de uno o más certificados de sellos digitales que se utilizarán exclusivamente para la emisión de los comprobantes mediante documentos digitales. El sello digital permitirá acreditar la autoría de los comprobantes fiscales digitales que emitan las personas físicas y morales. Los sellos digitales quedan sujetos a la misma regulación aplicable al uso de una firma electrónica avanzada.
+Los contribuyentes podrán optar por el uso de uno o más certificados de sellos digitales que se utilizarán exclusivamente para la expedición de los comprobantes fiscales mediante documentos digitales. El sello digital permitirá acreditar la autoría de los comprobantes fiscales digitales que expidan las personas físicas y morales, el cual queda sujeto a la regulación aplicable al uso de la firma electrónica avanzada.
 
 Los contribuyentes podrán tramitar la obtención de un certificado de sello digital para ser utilizado por todos sus establecimientos o locales, o bien, tramitar la obtención de un certificado de sello digital por cada uno de sus establecimientos. El Servicio de Administración Tributaria establecerá mediante reglas de carácter general los requisitos de control e identificación a que se sujetará el uso del sello digital de los contribuyentes.
 
-La tramitación de un certificado de sello digital sólo podrá efectuarse mediante formato electrónico, que cuente con la firma electrónica avanzada de la persona solicitante.
+La tramitación de un certificado de sello digital sólo podrá efectuarse mediante formato electrónico que cuente con la firma electrónica avanzada de la persona solicitante.
 
-III. Cubrir, para los comprobantes que emita, los requisitos establecidos en el artículo 29-A de este Código, con excepción del previsto en la fracción VIII del citado precepto.
+III. Cumplir los requisitos establecidos en el artículo 29-A de este Código.
 
-Tratándose de operaciones que se realicen con el público en general, los comprobantes fiscales digitales deberán contener el valor de la operación sin que se haga la separación expresa entre el valor de la contraprestación pactada y el monto de los impuestos que se trasladen y reunir los requisitos a que se refieren las fracciones I y III del artículo 29-A de este Código, así como los requisitos previstos en las demás fracciones contenidas en este artículo.
+IV. Remitir al Servicio de Administración Tributaria, antes de su expedición, el comprobante fiscal digital respectivo a través de los mecanismos digitales que para tal efecto determine dicho órgano desconcentrado mediante reglas de carácter general, con el objeto de que éste proceda a:
 
-IV. Remitir al Servicio de Administración Tributaria, el comprobante respectivo a través de los mecanismos digitales que para tal efecto el Servicio de Administración Tributaria determine mediante reglas de carácter general y antes de su expedición, para que ese órgano desconcentrado proceda a:
-
-a) Validar el cumplimiento de los requisitos establecidos en la fracción III de este artículo.
+a) Validar el cumplimiento de los requisitos establecidos en el artículo 29-A de este Código.
 
 b) Asignar el folio del comprobante fiscal digital.
 
@@ -1414,197 +1448,163 @@ c) Incorporar el sello digital del Servicio de Administración Tributaria.
 
 El Servicio de Administración Tributaria podrá autorizar a proveedores de certificación de comprobantes fiscales digitales para que efectúen la validación, asignación de folio e incorporación del sello a que se refiere esta fracción.
 
-Los proveedores de certificación de comprobantes fiscales digitales a que se refiere el párrafo anterior, deberán estar previamente autorizados por el Servicio de Administración Tributaria, cumpliendo con los requisitos que al efecto se establezcan en las reglas de carácter general por dicho órgano desconcentrado.
+Los proveedores de certificación de comprobantes fiscales digitales a que se refiere el párrafo anterior deberán estar previamente autorizados por el Servicio de Administración Tributaria y cumplir con los requisitos que al efecto establezca dicho órgano desconcentrado mediante reglas de carácter general.
 
-El Servicio de Administración Tributaria podrá revocar las autorizaciones emitidas a los proveedores a que se refiere esta fracción en cualquier momento, cuando incumplan con alguna de las obligaciones establecidas en este artículo o en las disposiciones de carácter general que les sean aplicables.
+El Servicio de Administración Tributaria podrá revocar las autorizaciones emitidas a los proveedores a que se refiere esta fracción, cuando incumplan con alguna de las obligaciones establecidas en este artículo o en las reglas de carácter general que les sean aplicables.
 
 Para los efectos del segundo párrafo de esta fracción, el Servicio de Administración Tributaria podrá proporcionar la información necesaria a los proveedores autorizados de certificación de comprobantes fiscales digitales.
 
-V. Proporcionar a sus clientes, la impresión del comprobante fiscal digital cuando así les sea solicitado. El Servicio de Administración Tributaria determinará mediante reglas de carácter general, las especificaciones que deberá reunir la impresión de los citados comprobantes.
+V. Entregar o enviar a sus clientes el comprobante fiscal digital a más tardar dentro de los tres días siguientes a aquél en que se realice la operación y, en su caso, proporcionarles una representación impresa del comprobante fiscal digital cuando les sea solicitado. El Servicio de Administración Tributaria determinará, mediante reglas de carácter general, las especificaciones que deberá reunir la representación impresa de los comprobantes fiscales digitales.
 
-Los contribuyentes deberán conservar y registrar en su contabilidad los comprobantes fiscales digitales que expidan.
+VI. Cumplir con las especificaciones que en materia de informática determine el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-Los comprobantes fiscales digitales deberán archivarse y registrarse en los términos que establezca el Servicio de Administración Tributaria.
+Los contribuyentes que deduzcan o acrediten fiscalmente con base en los comprobantes fiscales digitales, incluso cuando éstos consten en representación impresa, podrán comprobar su autenticidad consultando en la página de Internet del Servicio de Administración Tributaria si el número de folio que ampara el comprobante fiscal digital fue autorizado al emisor y si al momento de la emisión del comprobante fiscal digital el certificado que ampare el sello digital se encontraba vigente y registrado en dicho órgano desconcentrado.
 
-Los comprobantes fiscales digitales, así como los archivos y registros electrónicos de los mismos se consideran parte de la contabilidad del contribuyente, quedando sujetos a lo dispuesto por el artículo 28 de este Código.
+El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer facilidades administrativas para que los contribuyentes emitan sus comprobantes fiscales digitales por medios propios o a través de proveedores de servicios.
 
-VI. Cumplir con los requisitos que las leyes fiscales establezcan para el control de los pagos, ya sea en una sola exhibición o en parcialidades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-VII. Cumplir con las especificaciones que en materia de informática, determine el Servicio de Administración Tributaria mediante reglas de carácter general.
-
-Los contribuyentes que deduzcan o acrediten fiscalmente con base en los comprobantes fiscales digitales, incluso cuando dichos comprobantes consten en documento impreso, para comprobar su autenticidad, deberán consultar en la página de Internet del Servicio de Administración Tributaria si el número de folio que ampara el comprobante fiscal digital fue autorizado al emisor y si el certificado que ampare el sello digital se encuentra registrado en dicho órgano desconcentrado y no ha sido cancelado.
-
-Los contribuyentes que mediante reglas de carácter general determine el Servicio de Administración Tributaria podrán emitir sus comprobantes fiscales digitales por medios propios o a través de proveedores de servicios, cumpliendo con los requisitos que al efecto establezca ese órgano desconcentrado.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
-
-Tratándose de operaciones cuyo monto no exceda de $2,000.00, los contribuyentes podrán emitir sus comprobantes fiscales en forma impresa por medios propios o a través de terceros, siempre y cuando reúnan los requisitos que se precisan en el artículo 29-A de este Código, con excepción del previsto en las fracciones II y IX del citado precepto.
-
-Para emitir los comprobantes fiscales a que se refiere el párrafo anterior, los contribuyentes deberán solicitar la asignación de folios al Servicio de Administración Tributaria a través de su página de Internet, y cumplir con los requisitos que al efecto se establezcan mediante reglas de carácter general.
-
-Los contribuyentes deberán proporcionar trimestralmente al Servicio de Administración Tributaria a través de medios electrónicos, la información correspondiente a los comprobantes fiscales que hayan expedido con los folios asignados conforme al párrafo anterior. El Servicio de Administración Tributaria mediante reglas de carácter general establecerá las especificaciones para cumplir con lo previsto en este párrafo. De no proporcionar la información señalada en este párrafo, no se autorizarán nuevos folios.
-
-Para poder deducir o acreditar fiscalmente con base en los comprobantes a que se refiere el quinto párrafo de este artículo, quien los utilice deberá cerciorarse de que el nombre, denominación o razón social y clave de inscripción en el Registro Federal de Contribuyentes de quien aparece en los mismos son los correctos, así como comprobar la autenticidad del dispositivo de seguridad y la correspondencia con los datos del emisor del comprobante, en la página de Internet del Servicio de Administración Tributaria.
-
-Los proveedores de los dispositivos de seguridad a que se refiere la fracción VIII del artículo 29-A de este Código deberán proporcionar al Servicio de Administración Tributaria la información relativa a las operaciones con sus clientes en los términos que fije dicho órgano desconcentrado mediante reglas de carácter general.
-
-Los contribuyentes con local fijo están obligados a registrar el valor de los actos o actividades que realicen con el público en general, así como a expedir los comprobantes respectivos conforme a lo dispuesto en este Código, su Reglamento y en las reglas de carácter general que para esos efectos emita el Servicio de Administración Tributaria. Cuando el adquirente de los bienes o el usuario del servicio solicite comprobante que reúna los requisitos para efectuar deducciones o acreditamientos de contribuciones, deberán expedir dichos comprobantes además de los señalados en este párrafo.
-
-Los comprobantes que se expidan conforme a este artículo deberán señalar en forma expresa si el pago de la contraprestación que ampara se hace en una sola exhibición o en parcialidades. Cuando la contraprestación se pague en una sola exhibición, en el comprobante que al efecto se expida se deberá indicar el importe total de la operación y, cuando así proceda en términos de las disposiciones fiscales, el monto de los impuestos que se trasladan, desglosados por tasas de impuesto. Si la contraprestación se paga en parcialidades, en el comprobante se deberá indicar, además del importe total de la operación, que el pago se realizará en parcialidades y, en su caso, el monto de la parcialidad que se cubre en ese momento y el monto que por concepto de impuestos se trasladan en dicha parcialidad, desglosados por tasas de impuesto.
-
-Cuando el pago de la contraprestación se haga en parcialidades, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá contener los requisitos previstos en las fracciones I, II, III, IV y, en su caso, VIII tratándose de comprobantes impresos o IX en el caso de comprobantes fiscales digitales, del artículo 29-A de este Código, anotando el importe y número de la parcialidad que ampara, la forma como se realizó el pago, el monto de los impuestos trasladados, desglosados por tasas de impuesto cuando así proceda y, en su caso, el número y fecha del comprobante que se hubiese expedido por el valor total de la operación de que se trate.
-
-Cuando los comprobantes no reúnan algún requisito de los establecidos en este artículo o en el artículo 29-A de este Código no podrán deducirse o acreditarse fiscalmente.
-
-Para los efectos de este artículo, se entiende por pago el acto por virtud del cual el deudor cumple o extingue bajo cualquier título alguna obligación.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 29-A.
 
-Los comprobantes a que se refiere el artículo 29 de este Código, además de los requisitos que el mismo establece, deberán reunir lo siguiente:
+Los comprobantes fiscales digitales a que se refiere el artículo 29 de este Código, deberán contener los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+I. La clave del registro federal de contribuyentes de quien los expida y el régimen fiscal en que tributen conforme a la Ley del Impuesto sobre la Renta. Tratándose de contribuyentes que tengan más de un local o establecimiento, se deberá señalar el domicilio del local o establecimiento en el que se expidan los comprobantes fiscales.
 
-I. Contener impreso el nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien los expida. Tratándose de contribuyentes que tengan más de un local o establecimiento, deberán señalar en los mismos el domicilio del local o establecimiento en el que se expidan los comprobantes.
+II. El número de folio y el sello digital del Servicio de Administración Tributaria, referidos en la fracción IV, incisos b) y c) del artículo 29 de este Código, así como el sello digital del contribuyente que lo expide.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+III. El lugar y fecha de expedición.
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+IV. La clave del registro federal de contribuyentes de la persona a favor de quien se expida.
 
-II. Contener el número de folio asignado por el Servicio de Administración Tributaria o por el proveedor de certificación de comprobantes fiscales digitales y el sello digital a que se refiere la fracción IV, incisos b) y c) del artículo 29 de este Código.
+Cuando no se cuente con la clave del registro federal de contribuyentes a que se refiere esta fracción, se señalará la clave genérica que establezca el Servicio de Administración Tributaria mediante reglas de carácter general, los comprobantes fiscales que se expidan en estos términos serán considerados como comprobantes fiscales simplificados por lo que las operaciones que amparen se entenderán realizadas con el público en general y no podrán acreditarse o deducirse las cantidades que en ellos se registren. Tratándose de comprobantes fiscales que se utilicen para solicitar la devolución del impuesto al valor agregado a turistas extranjeros o que amparen ventas efectuadas a pasajeros internacionales que salgan del país vía aérea, terrestre o marítima, así como ventas en establecimientos autorizados para la exposición y ventas de mercancías extranjeras o nacionales a pasajeros que arriben al país en puertos aéreos internacionales, conjuntamente con la clave genérica a que se refiere el párrafo anterior deberán contener los datos de identificación del turista o pasajero, del medio de transporte en que éste salga o arribe al país, según sea el caso, además de cumplir con los requisitos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+V. La cantidad, unidad de medida y clase de los bienes o mercancías o descripción del servicio o del uso o goce que amparen.
 
-III. Lugar y fecha de expedición.
+Los comprobantes que se expidan en los supuestos que a continuación se indican, deberán cumplir adicionalmente con lo que en cada caso se especifica:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+a) Los que expidan las personas físicas que cumplan sus obligaciones fiscales por conducto del coordinado, las cuales hayan optado por pagar el impuesto individualmente de conformidad con lo establecido por el artículo 83, séptimo párrafo de la Ley del Impuesto sobre la Renta, deberán identificar el vehículo que les corresponda.
 
-IV. Clave del registro federal de contribuyentes de la persona a favor de quien se expida.
+b) Los que amparen donativos deducibles en términos de la Ley del Impuesto sobre la Renta, deberán señalar expresamente tal situación y contener el número y fecha del oficio constancia de la autorización para recibir dichos donativos o, en su caso, del oficio de renovación correspondiente. Cuando amparen bienes que hayan sido deducidos previamente, para los efectos del impuesto sobre la renta, se indicará que el donativo no es deducible.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+c) Los que se expidan por la obtención de ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, deberán contener el número de cuenta predial del inmueble de que se trate o, en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable.
 
-V. Cantidad y clase de mercancías o descripción del servicio que amparen.
+d) Los que expidan los contribuyentes sujetos al impuesto especial sobre producción y servicios que enajenen tabacos labrados de conformidad con lo establecido por el artículo 19, fracción II, último párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, deberán especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+e) Los que expidan los fabricantes, ensambladores o distribuidores autorizados de automóviles nuevos, así como aquéllos que importen automóviles para permanecer en forma definitiva en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, deberán contener la clave vehicular que corresponda a la versión enajenada, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 
-VI. Valor unitario consignado en número e importe total consignado en número o letra, así como el monto de los impuestos que en los términos de las disposiciones fiscales deban trasladarse, desglosado por tasa de impuesto, en su caso.
+Cuando los bienes o las mercancías no puedan ser identificados individualmente, se hará el señalamiento expreso de tal situación.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+VI. El valor unitario consignado en número.
 
-VII. Número y fecha del documento aduanero, así como la aduana por la cual se realizó la importación, tratándose de ventas de primera mano de mercancías de importación.
+Los comprobantes que se expidan en los supuestos que a continuación se indican, deberán cumplir adicionalmente con lo que en cada caso se especifica:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+a) Los que expidan los contribuyentes que enajenen lentes ópticos graduados, deberán separar el monto que corresponda por dicho concepto.
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+b) Los que expidan los contribuyentes que presten el servicio de transportación escolar, deberán separar el monto que corresponda por dicho concepto.
 
-VIII. Tener adherido un dispositivo de seguridad en los casos que se ejerza la opción prevista en el quinto párrafo del artículo 29 de este Código que cumpla con los requisitos y características que al efecto establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
+c) Los relacionados con las operaciones que dieron lugar a la emisión de los documentos pendientes de cobro de conformidad con lo establecido por el artículo 1o.-C, fracción III de la Ley del Impuesto al Valor Agregado, deberán consignar la cantidad efectivamente pagada por el deudor cuando los adquirentes hayan otorgado descuentos, rebajas o bonificaciones.
 
-Los dispositivos de seguridad a que se refiere el párrafo anterior deberán ser adquiridos con los proveedores que autorice el Servicio de Administración Tributaria.
+VII. El importe total consignado en número o letra, conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+a) Cuando la contraprestación se pague en una sola exhibición, en el comprobante fiscal se señalará expresamente dicha situación, además se indicará el importe total de la operación y, cuando así proceda, el monto de los impuestos trasladados desglosados con cada una de las tasas del impuesto correspondiente y, en su caso, el monto de los impuestos retenidos.
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+Los contribuyentes que realicen las operaciones a que se refieren los artículos 2o.-A de la Ley del Impuesto al Valor Agregado; 19, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, y 11, tercer párrafo de la Ley Federal del Impuesto sobre Automóviles Nuevos, no trasladarán el impuesto en forma expresa y por separado, salvo tratándose de la enajenación de los bienes a que se refiere el artículo 2o., fracción I, incisos A) y F), de la Ley del Impuesto Especial sobre Producción y Servicios, cuando el adquirente sea, a su vez, contribuyente de este impuesto por dichos bienes y así lo solicite.
 
-IX. El certificado de sello digital del contribuyente que lo expide.
+Tratándose de contribuyentes que presten servicios personales, cada pago que perciban por la prestación de servicios se considerará como una sola exhibición y no como una parcialidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+b) Cuando la contraprestación se pague en parcialidades, se emitirá un comprobante fiscal por el valor total de la operación de que se trate en el que se indicará expresamente tal situación y se expedirá un comprobante fiscal por cada parcialidad. Estos últimos comprobantes deberán contener los requisitos previstos en las fracciones I, II, III y IV de este artículo, además de señalar el número y fecha del comprobante fiscal que se hubiese expedido por el valor total de la operación, el importe total de la operación, el monto de la parcialidad que ampara y el monto de los impuestos retenidos, así como de los impuestos trasladados, desglosando cada una de las tasas del impuesto correspondiente, con las excepciones precisadas en el inciso anterior.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+c) Señalar la forma en que se realizó el pago, ya sea en efectivo, transferencias electrónicas de fondos, cheques nominativos o tarjetas de débito, de crédito, de servicio o las denominadas monederos electrónicos que autorice el Servicio de Administración Tributaria, indicando al menos los últimos cuatro dígitos del número de cuenta o de la tarjeta correspondiente.
 
-Los dispositivos de seguridad referidos en la fracción VIII de este artículo que no hubieran sido utilizados por el contribuyente en un plazo de dos años contados a partir de la fecha en que se hubieran adquirido, deberán destruirse y los contribuyentes deberán dar aviso de ello al Servicio de Administración Tributaria, en los términos que éste establezca mediante reglas de carácter general.
+VIII. El número y fecha del documento aduanero, tratándose de ventas de primera mano de mercancías de importación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Las cantidades que estén amparadas en los comprobantes fiscales que no reúnan algún requisito de los establecidos en esta disposición o en los artículos 29 ó 29-B de este Código, según sea el caso, o cuando los datos contenidos en los mismos se plasmen en forma distinta a lo señalado por las disposiciones fiscales, no podrán deducirse o acreditarse fiscalmente.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Los contribuyentes que realicen operaciones con el público en general, respecto de dichas operaciones deberán expedir comprobantes simplificados en los términos que señale el Servicio de Administración Tributaria en reglas de carácter general que para estos efectos emita. Dichos contribuyentes quedarán liberados de esta obligación cuando las operaciones con el público en general se realicen con un monedero electrónico que reúna los requisitos de control que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 29-B.
 
-En el transporte de mercancías por el territorio nacional, sus propietarios o poseedores, deberán acompañarlas, según sea el caso, con el pedimento de importación; la nota de remisión; de envío; de embarque o despacho, además de la carta de porte. Dicha documentación deberá contener los requisitos a que se refiere el artículo 29-A.
+Los contribuyentes, en lugar de aplicar lo señalado en los artículos 29 y 29-A de este Código, podrán optar por las siguientes formas de comprobación fiscal:
 
-Los propietarios de las mercancías deberán proporcionar, a quienes las transporten, la documentación con que deberán acompañarlas conforme a lo dispuesto en el párrafo anterior.
+I. Comprobantes fiscales en forma impresa por medios propios o a través de terceros, tratándose de contribuyentes cuyos ingresos para efectos del impuesto sobre la renta, declarados en el ejercicio inmediato anterior, no excedan de la cantidad que establezca el Servicio de Administración Tributaria mediante reglas de carácter general. Dichos comprobantes deberán expedirse y entregarse al realizar los actos o actividades o al percibir los ingresos, y cumplir con los requisitos siguientes:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+a) Los establecidos en el artículo 29-A de este Código, con excepción del previsto en la fracción II del citado artículo.
 
-No se tendrá tal obligación en los casos de mercancías o bienes para uso personal o menaje de casa, así como tratándose de productos perecederos, dinero o títulos valor y mercancías transportadas en vehículos pertenecientes a la Federación, los Estados o los municipios, siempre que dichos vehículos ostenten el logotipo que los identifique como tales.
+b) Contar con un dispositivo de seguridad, mismo que será proporcionado por el Servicio de Administración Tributaria, el cual deberá cumplir con los requisitos y características que al efecto establezca el citado órgano desconcentrado mediante reglas de carácter general.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Los dispositivos de seguridad a que se refiere este inciso deberán ser utilizados dentro de los dos años siguientes a que sean proporcionados por el Servicio de Administración Tributaria, en el comprobante respectivo se deberá señalar dicha vigencia.
 
-No será necesario que las mercancías en transporte se acompañen con la documentación a que se refiere este artículo, cuando dichas mercancías se transporten para su entrega al adquirente y se acompañen con la documentación fiscal comprobatoria de la enajenación, la cual no deberá haber sido expedida con anterioridad mayor de 15 días a la fecha de su transportación.
+c) Contar con un número de folio que será proporcionado por el Servicio de Administración Tributaria, a través del procedimiento que para tal efecto establezca el citado órgano desconcentrado mediante reglas de carácter general.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 2004)</small>
+Los contribuyentes deberán presentar trimestralmente al Servicio de Administración Tributaria declaración informativa con la información correspondiente a los comprobantes fiscales que hayan expedido con los folios asignados. En caso de que no se proporcione dicha información no se autorizarán nuevos folios.
 
-Cuando el transporte de las mercancías no esté amparado con la documentación a que se refiere este artículo, o cuando dicha documentación sea insuficiente para acreditar la legal importación o tenencia de las mismas, quienes transporten las mercancías estarán obligados a efectuar el traslado de las mismas y de sus medios de transporte al recinto fiscal que la autoridad les indique, a fin de que se lleve a cabo la verificación física de las mercancías y, en su caso, de la documentación que las ampare.
+Para poder deducir o acreditar fiscalmente con base en los comprobantes fiscales a que se refiere esta fracción, quien los utilice deberá cerciorarse que la clave del registro federal de contribuyentes de quien los expide es correcta y podrán verificar la autenticidad del dispositivo de seguridad a través de la página de Internet del Servicio de Administración Tributaria.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+II. Los estados de cuenta impresos o electrónicos que expidan las entidades financieras, las sociedades financieras comunitarias y los organismos de integración financiera rural a que se refiere la Ley de Ahorro y Crédito Popular, o las personas morales que emitan tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria, siempre que en el estado de cuenta se consignen los impuestos que se trasladan desglosados por tasa aplicable, contenga la clave de inscripción en el registro federal de contribuyentes tanto de quien enajene los bienes, otorgue su uso o goce o preste el servicio, como de quien los adquiera, disfrute su uso o goce o reciba el servicio, y estos últimos registren en su contabilidad las operaciones amparadas en el estado de cuenta.
 
-La verificación del cumplimiento de las obligaciones a que se refiere este artículo, sólo podrá efectuarse por las autoridades competentes, de conformidad con las leyes fiscales federales.
+Los estados de cuenta a que se refiere el párrafo anterior que se expidan sin que contengan los impuestos que se trasladan desglosados por tasa aplicable, también podrán utilizarse como medio de comprobación para los efectos de las deducciones o acreditamientos autorizados en las leyes fiscales, siempre que se trate de actividades gravadas con las tasas y por los montos máximos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+III. Los comprobantes fiscales emitidos conforme a las facilidades administrativas que mediante reglas de carácter general determine el Servicio de Administración Tributaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 29-C.
 
-En las transacciones de adquisiciones de bienes, del uso o goce temporal de bienes, o de la prestación de servicios en que se realice el pago mediante cheque nominativo para abono en cuenta del beneficiario, mediante traspasos de cuenta en entidades financieras o sociedades cooperativas de ahorro y préstamo, tarjeta de crédito, de débito o de servicio o mediante monedero electrónico, podrá utilizar como medio de comprobación para los efectos de las deducciones o acreditamientos autorizados en las leyes fiscales, el original del estado de cuenta de quien realice el pago citado, siempre que se cumpla lo siguiente:
+Los contribuyentes que realicen operaciones con el público en general y los que se encuentren obligados por las leyes fiscales, deberán expedir comprobantes fiscales simplificados en los términos siguientes:
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
+I. Cuando utilicen o estén obligados a utilizar máquinas registradoras de comprobación fiscal o equipos o sistemas electrónicos de registro fiscal, los comprobantes fiscales que emitan dichas máquinas, equipos o sistemas, deberán cumplir con los requisitos siguientes:
 
-I. Consignen en el cheque la clave del Registro Federal de Contribuyentes de la persona a favor de quien se libre el cheque. Se presume, salvo prueba en contrario, que se cumplió con este requisito, cuando en el estado de cuenta que al efecto expida la institución de crédito o casa de bolsa se señale dicha clave del beneficiario del cheque.
+a) Los establecidos en el artículo 29-A, fracciones I y III de este Código.
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+b) El número de folio.
 
-II. Cuenten con el documento expedido que contenga la clave del registro federal de contribuyentes del enajenante, el prestador del servicio o el otorgante del uso o goce temporal de los bienes; el bien o servicio de que se trate; el precio o contraprestación; la fecha de emisión y, en forma expresa y por separado los impuestos que se trasladan desglosados por tasa aplicable.
+c) El valor total de los actos o actividades realizados.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
+d) La cantidad, unidad de medida y clase de los bienes o mercancías o descripción del servicio o del uso o goce que amparen.
 
-III. Registren en la contabilidad, de conformidad con el Reglamento de este Código, la operación que ampare el cheque librado o el traspaso de cuenta.
+e) El número de registro de la máquina, equipo o sistema y, en su caso, el logotipo fiscal.
 
-> <small>(REFORMADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+II. Comprobantes fiscales impresos por medios propios, por medios electrónicos o a través de terceros, los cuales deberán contener los requisitos siguientes:
 
-IV. Vinculen la operación registrada en el estado de cuenta directamente con el documento a que se refiere la fracción II del presente artículo, con la adquisición del bien, con el uso o goce, o con la prestación del servicio de que se trate y con la operación registrada en la contabilidad, en los términos del Reglamento de este Código.
+a) Los establecidos en el artículo 29-A, fracciones I y III de este Código.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
+b) El número de folio.
 
-V. Conserven el original del estado de cuenta respectivo, durante el plazo que establece el artículo 30 de este Código.
+c) El valor total de los actos o actividades realizados, sin que se haga la separación expresa entre el valor de la contraprestación pactada y el monto de los impuestos que se trasladen. Cuando el comprobante fiscal simplificado sea expedido por algún contribuyente obligado al pago de impuestos que se trasladen, dicho impuesto se incluirá en el precio de los bienes, mercancías o servicios que ampare el comprobante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+d) La cantidad, unidad de medida y clase de los bienes o mercancías o descripción del servicio o del uso o goce que amparen.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+Los contribuyentes que realicen operaciones con el público en general, salvo los que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, deberán expedir comprobantes fiscales cuando el adquirente de los bienes o mercancías o el usuario del servicio los solicite para efectuar deducciones o acreditamientos de contribuciones.
 
-El original del estado de cuenta que se expida en términos del primer párrafo de este artículo deberá contener la clave de inscripción en el Registro Federal de Contribuyentes de quien enajene los bienes, otorgue su uso o goce, o preste el servicio. En caso de que el estado de cuenta señale los datos a que se refiere la fracción II de este artículo, no será necesario contar con el documento a que se refiere la citada fracción.
+Los contribuyentes que realicen operaciones con el público en general quedarán liberados de la obligación de expedir comprobantes fiscales simplificados cuando las operaciones se realicen con transferencias electrónicas mediante teléfonos móviles o con tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria. Asimismo, dicho órgano desconcentrado podrá establecer mediante reglas de carácter general facilidades para la emisión de los comprobantes fiscales simplificados a que se refiere este artículo o liberar de su emisión cuando se trate de operaciones menores a la contraprestación que se determine en las citadas reglas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Las cantidades que estén amparadas en los comprobantes fiscales simplificados no podrán deducirse o acreditarse fiscalmente.
 
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Se presumirá que el estado de cuenta es original cuando el mismo sea exhibido de forma impresa, o bien de manera electrónica.
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
+###### Artículo 29-D.
 
-Los contribuyentes que opten por aplicar lo dispuesto en este artículo, además de los requisitos establecidos en el mismo, deberán cumplir con los requisitos que en materia de documentación, cheques, monederos electrónicos y estados de cuenta, establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+En el transporte de mercancías sus propietarios o poseedores deberán acompañarlas con la documentación siguiente:
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+I. Tratándose del transporte de mercancías de procedencia extranjera por el territorio nacional, con la documentación comprobatoria a que se refiere la Ley Aduanera.
 
-Quienes opten por aplicar lo dispuesto en este artículo, deberán permitir a los visitadores, en el ejercicio de sus facultades de comprobación, consultar a través de medios electrónicos la información relativa a los estados de cuenta de que se trate, directamente en las instituciones de crédito o casas de bolsa, que hubiesen emitido dichos estados de cuenta.
+II. Tratándose del transporte de mercancías nacionales, con el comprobante fiscal que cumpla con los requisitos establecidos en este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Los propietarios de las mercancías deberán proporcionar a quienes las transporten la documentación con que deberán acompañarlas.
 
-> <small>(DEROGADO ANTERIOR QUINTO PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+No se tendrá la obligación de amparar el transporte de mercancías o bienes cuando éstos sean para uso personal o menaje de casa, así como tratándose de productos perecederos, dinero o títulos valor y mercancías transportadas en vehículos pertenecientes a la Federación, las entidades federativas o los municipios, siempre que dichos vehículos ostenten el logotipo que los identifique como tales.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+Cuando el transporte de las mercancías no esté amparado con la documentación a que se refiere la Ley Aduanera y este artículo, o cuando dicha documentación sea insuficiente para acreditar la legal importación o tenencia de las mismas, quienes transporten las mercancías estarán obligados a efectuar el traslado de las mismas y de sus medios de transporte al recinto fiscal que la autoridad les indique, a fin de que dicha autoridad proceda conforme a lo dispuesto en las disposiciones aplicables.
 
-Lo dispuesto en este artículo se aplicará sin perjuicio de las demás obligaciones que en materia de contabilidad deban cumplir los contribuyentes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
-Ante el incumplimiento de cualquiera de los requisitos establecidos en este artículo, o bien, en el caso de que los datos contenidos en los estados de cuenta no correspondan con la información de los estados de cuenta proporcionados por las entidades financieras, las sociedades cooperativas de ahorro y préstamo o las personas morales autorizadas para emitir tarjetas de crédito, de débito o de servicio o monederos electrónicos que emitan los citados estados de cuenta, los mismos no serán considerados como comprobantes fiscales para los efectos de las deducciones o acreditamientos autorizados en las leyes fiscales.
+La verificación del cumplimiento de las obligaciones a que se refiere este artículo sólo podrá efectuarse por las autoridades competentes, de conformidad con las leyes fiscales federales y cuando se trate de mercancías de procedencia extranjera, resultará aplicable la regulación que para tal efecto establezca la Ley Aduanera.
 
 ###### Artículo 30.
 
@@ -1914,11 +1914,11 @@ V. Verificar el nombre, denominación o razón social, domicilio y clave del reg
 
 VI. Informar a la Secretaría de Hacienda y Crédito Público las declaraciones y pagos recibidos en los términos que se establezcan en las reglas de carácter general y en los convenios a que se refiere la fracción III de este artículo. Cuando no se proporcionen los servicios a que se refiere la fracción citada o la información no se presente de conformidad con lo establecido en las reglas y convenios mencionados, no se pagarán los gastos de recaudación previstos en dicha fracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-VII. Expedir los estados de cuenta cumpliendo con lo previsto en el artículo 29-C de este Código y en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+VII. Expedir los estados de cuenta cumpliendo con lo previsto en el artículo 29-B, fracción II de este Código.
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1990,15 +1990,23 @@ Las entidades y dependencias que tengan a su cargo la aplicación de subsidios o
 
 Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III y IV, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 32-E.
+
+Las personas morales que emitan tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria deberán expedir los estados de cuenta en términos de las disposiciones aplicables y de acuerdo con lo previsto en el artículo 29-B fracción II de este Código.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-###### Artículo 32-E.
-
-Las personas morales autorizadas para emitir tarjetas de crédito, de débito o de servicio o monederos electrónicos, deberán expedir los estados de cuenta, en términos de las disposiciones aplicables, y de acuerdo con lo previsto en el artículo 29-C de este Código, y en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
-
 En aquellos casos en los que las autoridades fiscales hayan iniciado el ejercicio de sus facultades de comprobación respecto de un contribuyente, éstas podrán optar por solicitar directamente a las entidades financieras, las sociedades cooperativas de ahorro y préstamo y las personas morales que emitan tarjetas de crédito, de débito o de servicio o monederos electrónicos, la información contenida en el estado de cuenta, siempre que dichas autoridades cuenten con la denominación de la institución o persona moral y especifique el número de cuenta y el nombre del cuentahabiente o usuario, para el efecto de verificar la información contenida en los mismos, de conformidad con las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 El envío de la información señalada en el párrafo anterior será a través de los medios que establezca el Servicio de Administración Tributaria mediante disposiciones de carácter general.
 
@@ -2338,11 +2346,11 @@ III. Practicar visitas a los contribuyentes, los responsables solidarios o terce
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y sobre las operaciones de enajenación de acciones que realicen, así como la declaratoria por solicitudes de devolución de saldos a favor de impuesto al valor agregado y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por contador público y su relación con el cumplimiento de disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la expedición de comprobantes fiscales y de la presentación de solicitudes o avisos en materia del Registro Federal de Contribuyentes; el cumplimiento de obligaciones en materia aduanera derivadas de autorizaciones o concesiones o de cualquier padrón o registro establecidos en las disposiciones relativas a dicha materia; verificar que la operación de los sistemas y registros electrónicos, que estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones fiscales; así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia, tenencia o importación de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
+V. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de expedición de comprobantes fiscales y de presentación de solicitudes o avisos en materia del registro federal de contribuyentes; el cumplimiento de obligaciones en materia aduanera derivadas de autorizaciones o concesiones o de cualquier padrón o registro establecidos en las disposiciones relativas a dicha materia; verificar que la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones fiscales; así como para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, posesión, estancia, tenencia o importación de las mercancías, y verificar que los envases o recipientes que contengan bebidas alcohólicas cuenten con el marbete o precinto correspondiente o, en su caso, que los envases que contenían dichas bebidas hayan sido destruidos, de conformidad con el procedimiento previsto en el artículo 49 de este Código.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -2576,11 +2584,13 @@ Si durante el plazo para concluir la visita domiciliaria o la revisión de la co
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 47.
 
-Las autoridades fiscales deberán concluir anticipadamente las visitas en los domicilios fiscales que hayan ordenado, cuando el visitado se encuentre obligado a dictaminar sus estados financieros por contador público autorizado o cuando el contribuyente haya ejercido la opción a que se refiere el párrafo quinto del artículo 32-A de este Código. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 52-A de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no presente dentro de los plazos que establece el artículo 53-A, la información o documentación solicitada, ni cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades, que tengan implicaciones fiscales.
+Las autoridades fiscales deberán concluir anticipadamente las visitas en los domicilios fiscales que hayan ordenado, cuando el visitado se encuentre obligado a dictaminar sus estados financieros por contador público autorizado o cuando el contribuyente haya ejercido la opción a que se refiere el párrafo quinto del artículo 32-A de este Código. Lo dispuesto en este párrafo no será aplicable cuando a juicio de las autoridades fiscales la información proporcionada en los términos del artículo 52-A de este Código por el contador público que haya dictaminado, no sea suficiente para conocer la situación fiscal del contribuyente, cuando no presente dentro de los plazos que establece el artículo 53-A, la información o documentación solicitada, cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades, que tengan implicaciones fiscales, ni cuando el dictamen se presente fuera de los plazos previstos en este Código.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2756,9 +2766,19 @@ IV. Que el dictamen se presente a través de los medios electrónicos de conform
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Cuando el contador público no dé cumplimiento a las disposiciones referidas en este artículo, o no aplique las normas y procedimientos de auditoría, la autoridad fiscal, previa audiencia, exhortará o amonestará al contador público registrado, o suspenderá hasta por dos años los efectos de su registro, conforme al Reglamento de este Código. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal, o no exhiba a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los estados financieros del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. En estos casos se dará inmediatamente aviso por escrito al colegio profesional y, en su caso, a la Federación de Colegios Profesionales a que pertenezca el contador público en cuestión.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Cuando el contador público registrado no dé cumplimiento a las disposiciones referidas en este artículo, en el Reglamento de este Código o en reglas de carácter general que emita el Servicio de Administración Tributaria o no aplique las normas o procedimientos de auditoría, la autoridad fiscal, previa audiencia, exhortará o amonestará al contador público registrado o suspenderá hasta por dos años los efectos de su registro, conforme a lo establecido en este Código y su Reglamento. Si hubiera reincidencia o el contador hubiere participado en la comisión de un delito de carácter fiscal o no exhiba, a requerimiento de autoridad, los papeles de trabajo que elaboró con motivo de la auditoría practicada a los estados financieros del contribuyente para efectos fiscales, se procederá a la cancelación definitiva de dicho registro. En estos casos se dará inmediatamente aviso por escrito al colegio profesional y, en su caso, a la Federación de Colegios Profesionales a que pertenezca el contador público en cuestión; para llevar a cabo las facultades a que se refiere este párrafo, el Servicio de Administración Tributaria deberá observar el siguiente procedimiento:
+
+a) Determinada la irregularidad, ésta será notificada al contador público registrado en un plazo que no excederá de seis meses contados a partir de la terminación de la revisión del dictamen, a efecto de que en un plazo de quince días siguientes a que surta efectos dicha notificación manifieste por escrito lo que a su derecho convenga, y ofrezca y exhiba las pruebas que considere pertinentes.
+
+La autoridad fiscal admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. Las pruebas se valorarán en los términos del artículo 130 de este Código.
+
+b) Agotado el periodo probatorio a que se refiere la fracción anterior, con vista en los elementos que obren en el expediente, la autoridad fiscal emitirá la resolución que proceda.
+
+c) La resolución del procedimiento se notificará en un plazo que no excederá de doce meses, contado a partir del día siguiente a aquél en que se agote el plazo señalado en la fracción I que antecede.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3072,11 +3092,11 @@ Las copias, impresiones o reproducciones que deriven del microfilm, disco óptic
 
 También podrán servir para motivar las resoluciones de la Secretaría de Hacienda y Crédito Público y cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones federales, las actuaciones levantadas a petición de las autoridades fiscales, por las oficinas consulares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-Las autoridades fiscales presumirán como cierta la información contenida en los comprobantes fiscales digitales, en los comprobantes fiscales en forma impresa con dispositivo de seguridad y en las bases de datos que lleven, o tengan en su poder o a las que tengan acceso.
+Las autoridades fiscales presumirán como cierta la información contenida en los comprobantes fiscales y en las bases de datos que lleven o tengan en su poder o a las que tengan acceso.
 
 ###### Artículo 64.
 
@@ -3224,13 +3244,13 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 69.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 134 de este Código, ni la que se proporcione a un contribuyente para verificar la información contenida en los comprobantes fiscales que pretendan deducir o acreditar, expedidos a su nombre en términos del artículo 29 de este ordenamiento.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 134 de este Código, ni la que se proporcione a un contribuyente para verificar la información contenida en los comprobantes fiscales que se pretenda deducir o acreditar, expedidos a su nombre en los términos de este ordenamiento.
 
 > <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2011)</small>
 
@@ -3278,9 +3298,11 @@ La aplicación de las multas, por infracciones a las disposiciones fiscales, se 
 
 Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 17-A de este Código.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el antepenúltimo párrafo del artículo 20 de este Código.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el décimo párrafo del artículo 20 de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3291,6 +3313,12 @@ Las multas que este Capítulo establece en por cientos o en cantidades determina
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+El monto de las multas y cantidades en moneda nacional establecidas en la Ley Aduanera se actualizarán conforme a las disposiciones establecidas en el artículo 17-A de este Código, relativas a la actualización de cantidades en moneda nacional que se establecen en este ordenamiento.
 
 ###### Artículo 70
 
@@ -3618,9 +3646,11 @@ VII. No presentar la información manifestando las razones por las cuales no se 
 
 VIII. No presentar la información a que se refieren los artículos 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII, IX y XII, de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-IX. No proporcionar la información a que se refiere el artículo 20, penúltimo párrafo de este Código, en los plazos que establecen las disposiciones fiscales.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+IX. No proporcionar la información a que se refiere el artículo 20, décimo primer párrafo de este Código, en los plazos que establecen las disposiciones fiscales.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3712,17 +3742,15 @@ XXX. No proporcionar o proporcionar de forma extemporánea la documentación com
 
 XXXI. No proporcionar la información a que se refieren los artículos 86, fracción XIX, 97, fracción VI, 133 fracción VII, 145, fracción V y 154-TER de la Ley del Impuesto sobre la Renta, o presentarla en forma extemporánea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-XXXII. No proporcionar la información a que se refiere el séptimo párrafo del artículo 29 de este Código.
+XXXII. No proporcionar la información a que se refiere el artículo 29-B, fracción I, inciso c), segundo párrafo de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
-XXXIII. No proporcionar la información a que se refiere el noveno párrafo del artículo 29 de este Código.
+XXXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3730,11 +3758,11 @@ XXXIII. No proporcionar la información a que se refiere el noveno párrafo del 
 
 XXXIV. No proporcionar los datos, informes o documentos solicitados por las autoridades fiscales conforme a lo previsto en el primer párrafo del artículo 42-A de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-XXXV. La omisión de destruir los dispositivos de seguridad no utilizados en términos del artículo 29-A de este Código; así como no presentar el aviso correspondiente al Servicio de Administración Tributaria una vez destruidos en términos de las disposiciones correspondientes.
+XXXV. Utilizar dispositivos de seguridad que no se encuentren vigentes en términos del artículo 29-B, fracción I, inciso b), segundo párrafo de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3974,13 +4002,9 @@ CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACI
 
 XXXII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
-
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
-XXXIII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXIII.
+XXXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
@@ -3988,13 +4012,11 @@ XXXIII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXIII.
 
 XXXIV. De $15,000.00 a $25,000.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
-XXXV. De $8,000.00 a $15,000.00 por cada dispositivo de seguridad que no se hubiere destruido o respecto de cuya destrucción no se hubiera presentado el aviso al Servicio de Administración Tributaria, para la establecida en la fracción XXXV.
+XXXV. De $8,000.00 a $15,000.00 por cada dispositivo de seguridad que se utilice sin que se encuentre vigente, para la establecida en la fracción XXXV.
 
 ###### Artículo 83.
 
@@ -4014,25 +4036,31 @@ V. (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 VI. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-VII. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+VII. No expedir, no entregar o no enviar los comprobantes fiscales de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin que cumplan los requisitos señalados en este Código, su Reglamento o en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 VIII. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-IX. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+IX. Expedir comprobantes fiscales asentando la clave del registro federal de contribuyentes de persona distinta a la que adquiere el bien o el servicio, o a la que contrate el uso o goce temporal de bienes.
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 X. No dictaminar sus estados financieros en los casos y de conformidad con lo previsto en el artículo 32-A de este Código, o no presentar dicho dictamen dentro del término previsto por las leyes fiscales.
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-XI. No cumplir con los requisitos señalados por los artículos 31, fracción I y 176, fracción III de la Ley del Impuesto sobre la Renta y expedir los comprobantes correspondientes, tratándose de personas autorizadas para recibir donativos deducibles.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XI. Expedir comprobantes fiscales que señalen corresponder a donativos deducibles sin contar con la autorización para recibir donativos deducibles a que se refieren los artículos 95, 96, 97, 98 y 99 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según sea el caso.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -4042,9 +4070,9 @@ XII. No expedir o acompañar la documentación que ampare mercancías en transpo
 
 XIII. No tener en operación o no registrar el valor de los actos o actividades con el público en general en las máquinas registradoras de comprobación fiscal, o en los equipos y sistemas electrónicos de registro fiscal autorizados por las autoridades fiscales, cuando se esté obligado a ello en los términos de las disposiciones fiscales.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-XIV. No incluir en el documento que ampare la enajenación de un vehículo, la clave vehicular que corresponda a la versión enajenada, a que se refiere el artículo 13 de la Ley Federal del Impuesto sobre Automóviles Nuevos.
+XIV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -4078,11 +4106,17 @@ II. De $230.00 a $5,330.00 a las establecidas en las fracciones II y III.
 
 III. De $230.00 a $4,270.00 a la señalada en la fracción IV.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-IV. De $12,070.00 a $69,000.00, a la señalada en la fracción VII. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III, de la Ley del Impuesto sobre la Renta, la multa será de $1,210.00 a $2,410.00. En el caso de reincidencia, las autoridades fiscales podrán, además, clausurar preventivamente el establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
+
+a) De $12,070.00 a $69,000.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
+
+b) De $1,210.00 a $2,410.00 tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta. En caso de reincidencia, adicionalmente las autoridades fiscales podrán aplicar la clausura preventiva a que se refiere el inciso anterior.
+
+c) De $12,070.00 a $69,000.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 95, 96, 97, 98 y 99 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
@@ -4114,11 +4148,11 @@ VIII. De $4,900.00 a $24,480.00, a la comprendida en la fracción XIII.
 
 IX. De $9,790.00 a $97,930.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-X. De $700.00 a $11,600.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal que ampare el donativo, a la comprendida en la fracción XI.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
@@ -4126,11 +4160,9 @@ X. De $700.00 a $11,600.00 y la cancelación de la autorización para recibir do
 
 XI. De $470.00 a $9,290.00, a la comprendida en la fracción XII.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XII. De $1,220.00 a $3,680.00, a la comprendida en la fracción XIV, por cada documento en el que se omita incluir la clave vehicular referida.
+XII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
@@ -4240,11 +4272,11 @@ V. De $4,650.00 a $69,650.00 a la establecida en la fracción V.
 
 VI. De $17,700.00 a $53,120.00 a la establecida en la fracción VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-VII. De $70.00 a $140.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $10,000.00 a $15,000.00 por no proporcionar la información, a las señaladas en la fracción VII.
+VII. De $70.00 a $140.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $279,507.00 a $559,014.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
@@ -4310,23 +4342,21 @@ Se considera infracción en la que pueden incurrir las casas de bolsa, el no pro
 
 A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de $3,700.00 a $7,410.00 por cada informe no proporcionado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 84-I.
 
-Se considera infracción en la que pueden incurrir las personas morales autorizadas para emitir tarjetas de crédito, de débito o de servicio o monederos electrónicos, en relación con las obligaciones a que se refiere el artículo 32-E de este Código, el no expedir los estados de cuenta cumpliendo con lo previsto en el artículo 29-C de este Código y en las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
+Se considera infracción en la que pueden incurrir las personas que emitan tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria, en relación con las obligaciones a que se refiere el artículo 32-E de este Código, el no expedir los estados de cuenta cumpliendo con lo previsto en el artículo 29-B, fracción II de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO DÉCIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 84-J.
 
-A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de $70.00 a $140.00 por cada operación que no cumpla con los requisitos a que se refiere el artículo 32-E de este Código, asentada en un estado de cuenta.
+A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de $70.00 a $140.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -4336,15 +4366,13 @@ A las personas morales que cometan la infracción a que se refiere el artículo 
 
 Se considera infracción en la que pueden incurrir las personas morales a que se refiere el artículo 84-I de este Código, el no proporcionar al Servicio de Administración Tributaria la información contenida en los estados de cuenta, a que se refiere el artículo 32-E de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO DÉCIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 84-L.
 
-A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de $50,000.00 a $60,000.00, por no proporcionar la información del estado de cuenta que se haya requerido.
+A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de $279,507.00 a $559,014.00, por no proporcionar la información del estado de cuenta que se haya requerido.
 
 ###### Artículo 85.
 
@@ -4664,11 +4692,17 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO OCTAVO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 100.
 
-La acción penal en los delitos fiscales perseguibles por querella, por declaratoria y por declaratoria de perjuicio de la Secretaría de Hacienda y Crédito Público, prescribirá en tres años contados a partir del día en que dicha Secretaría tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal aplicable en materia federal.
+El derecho a formular la querella, la declaratoria y la declaratoria de perjuicio de la Secretaría de Hacienda y Crédito Público precluye y, por lo tanto, se extingue la acción penal, en cinco años, que se computarán a partir de la comisión del delito. Este plazo será continuo y en ningún caso se interrumpirá.
+
+La acción penal en los delitos fiscales prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala este Código para el delito de que se trate, pero en ningún caso será menor de cinco años.
+
+Con excepción de lo dispuesto por los artículos 105 y 107, primer párrafo, del Código Penal Federal, la acción penal en los delitos fiscales prescribirá conforme a las reglas aplicables previstas por dicho Código.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5018,21 +5052,21 @@ III. Se beneficie sin derecho de un subsidio o estímulo fiscal.
 
 IV. Simule uno o más actos o contratos obteniendo un beneficio indebido con perjuicio del fisco federal.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-V. Sea responsable por omitir presentar, por más de doce meses, la declaración de un ejercicio que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+V. Sea responsable por omitir presentar por más de doce meses las declaraciones que tengan carácter de definitivas, así como las de un ejercicio fiscal que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
 
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-VI. Comercialice los dispositivos de seguridad a que se refiere la fracción VIII del artículo 29-A de este Código. Se entiende que se comercializan los citados dispositivos cuando la autoridad encuentre dispositivos que contengan datos de identificación que no correspondan al contribuyente para el que fueron autorizados.
+VI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-VII. Darle efectos fiscales a los comprobantes cuyos dispositivos de seguridad no reúnan los requisitos de los artículos 29 y 29-A de este Código.
+VII. Dé efectos fiscales a los comprobantes en forma impresa cuando no reúnan los requisitos del artículo 29-B, fracción I de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -5128,11 +5162,9 @@ I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocado
 
 II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
-III. Fabrique, falsifique, reproduzca, enajene gratuita u onerosamente, distribuya, comercialice, transfiera, transmita, obtenga, guarde, conserve, reciba en depósito, introduzca a territorio nacional, sustraiga, use, oculte, destruya, modifique, altere, manipule o posea dispositivos de seguridad, sin haberlos adquirido en términos del artículo 29-A, fracción VIII de este Código.
+III. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6452,9 +6484,11 @@ Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las ob
 
 Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor deberá enterar mediante transferencia electrónica de fondos efectuada conforme a las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 29-A de este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue los comprobantes fiscales de la enajenación, los cuales deberán expedirse cumpliendo, en lo conducente, con los requisitos a que se refiere este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -8493,3 +8527,43 @@ La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2012.
+
+SEGUNDO.- La reforma al décimo párrafo del artículo 17-D del Código Fiscal de la Federación será aplicable a los certificados de firma electrónica avanzada que se expidan a partir de la entrada en vigor del presente Decreto.
+
+Lo dispuesto en el párrafo anterior se aplicará sin perjuicio de que los certificados a que dicho párrafo se refiere queden sin efectos de conformidad con los supuestos establecidos en el artículo 17-H del Código Fiscal de la Federación.
+
+TERCERO.- A partir del 1 de enero de 2012, las disposiciones que establece el Código Fiscal de la Federación en materia de comprobantes fiscales prevalecerán sobre aquéllas que en materia de comprobantes fiscales se establecen en las leyes fiscales federales, sin que los aspectos diversos a los requisitos de los comprobantes fiscales se alteren por las disposiciones del presente Decreto.
+
+Adicionalmente se estará a lo siguiente:
+
+I.- Las referencias que en la Ley del Impuesto sobre la Renta se hacen a los términos comprobante, comprobantes, comprobante de pago, documentación, documentación comprobatoria, documentación que reúna los requisitos de las disposiciones fiscales, recibos o recibos por honorarios, contenidas en los artículos 18, fracciones I, inciso a) y II; 20, fracción IX; 31, fracciones III, primer párrafo, VI, VII, primer párrafo, IX, segundo párrafo, XIX, primer y segundo párrafos y XXIII inciso b), numeral 4, segundo párrafo; 32, fracciones V, segundo, tercero y quinto párrafos y XXVII, segundo párrafo; 36, quinto párrafo; 81, sexto párrafo; 82, fracción III; 83, séptimo párrafo; 84, fracciones I y II, y su segundo y tercer párrafos; 86, fracción II; 101, fracciones II y V; 102, primer párrafo; 106, sexto párrafo; 109, fracciones XIII y XXVIII, primer párrafo; 121, fracción IV; 125, fracciones I, segundo párrafo y VIII; 133, fracción III; 139, fracciones III y IV, segundo párrafo; 140, tercer párrafo; 145, fracción III, y su segundo párrafo; 172, fracciones IV, primer párrafo, IX, X, segundo párrafo y XV; 176, tercer párrafo; 183, cuarto párrafo, y 186, cuarto párrafo, se entenderán hechas al comprobante fiscal regulado en el Código Fiscal de la Federación, excepto cuando se trate de erogaciones por viáticos o gastos de viaje en el extranjero, en cuyo caso subsistirá la referencia a documentación comprobatoria. Las referencias a la nota de venta se entenderán hechas al comprobante fiscal simplificado previsto en el artículo 29-C del Código Fiscal de la Federación.
+
+II.- Para los efectos del artículo 139, fracción IV, tercer párrafo de la Ley del Impuesto sobre la Renta, los contribuyentes que reciban pagos con transferencias electrónicas mediante teléfonos móviles o tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria, no dejarán de tributar en el Régimen de Pequeños Contribuyentes.
+
+III.- Cuando la Ley del Impuesto sobre la Renta haga referencia a traspasos de cuentas en instituciones de crédito o casas de bolsa, incluso del propio contribuyente, se entenderán comprendidas las transferencias electrónicas de fondos desde cuentas abiertas a nombre del contribuyente en instituciones que componen el sistema financiero y las entidades que para tal efecto autorice el Banco de México.
+
+La relación de operaciones que entregue la integradora a sus integradas en los términos del artículo 84, fracción II y su segundo y tercer párrafos, de la Ley del Impuesto sobre la Renta, deberá reunir los requisitos del comprobante fiscal a que se refiere el artículo 29-B, fracción I, inciso a) del Código Fiscal de la Federación.
+
+IV.- La referencia al término comprobantes que se hace en los artículos 6, fracción IV, primer párrafo y 18, fracción II de la Ley del Impuesto Empresarial a Tasa Única se entenderá hecha al comprobante fiscal previsto en el Código Fiscal de la Federación. La referencia al comprobante que reúna requisitos fiscales que se hace en el artículo 17, séptimo párrafo de la Ley antes citada, se entenderá hecha al comprobante fiscal simplificado previsto en el artículo 29-C del Código referido.
+
+V.- Las referencias que se hacen a los artículos 1o.-C, fracción III, primer párrafo; 5, fracción II; 32, fracciones III y V, primer párrafo, y 33, primer párrafo, de la Ley del Impuesto al Valor Agregado a los términos comprobante, comprobantes, documento o documentación, se entenderán hechas al comprobante fiscal previsto en el Código Fiscal de la Federación. Tratándose del comprobante fiscal a que se refiere el artículo 2o.-C, sexto y séptimo párrafos de la Ley antes citada, la referencia a comprobantes se entenderá hecha al comprobante fiscal simplificado a que se refiere el artículo 29-C del Código Fiscal de la Federación.
+
+La referencia al término estados de cuenta mensuales en los que se asentarán las cantidades que se hayan cobrado en el mes inmediato anterior, que se hace en el artículo 1o.-C de la Ley mencionada en el párrafo que antecede se entenderá hecha a la relación mensual en la que se asienten las cantidades cobradas en el mes inmediato anterior.
+
+VI.- Las referencias que se hacen en los artículos 4, fracción III; 8, fracciones I, inciso d) y IV, inciso d), segundo párrafo, y 19, fracciones II, primer y segundo párrafos y VI, de la Ley del Impuesto Especial sobre Producción y Servicios a los términos comprobantes o comprobante de enajenación se entenderán hechas al comprobante fiscal previsto en el Código Fiscal de la Federación.
+
+VII.- La referencia a los términos comprobante y documento que ampare la enajenación que se hace en los artículos 9, fracción III y 13, primer párrafo de la Ley Federal sobre Automóviles Nuevos se entenderán hechas al comprobante fiscal previsto en el Código Fiscal de la Federación.
+
+CUARTO.- Para los efectos de la actualización del monto de las multas y cantidades en moneda nacional prevista en el artículo 70, último párrafo, en relación con el artículo 17-A, sexto párrafo, del Código Fiscal de la Federación, se considerará que la actualización de dichos montos se realizó por última vez en el mes de julio de 2003, mismos que se dieron a conocer en el "Anexo 2 de las Reglas de Carácter General en Materia de Comercio Exterior para 2003", publicado en el Diario Oficial de la Federación el 28 de abril de 2003, modificado mediante resolución publicada en el referido órgano informativo el 29 de julio del mismo año y como último Índice Nacional de Precios al Consumidor que se utilizó para la actualización mencionada el correspondiente a mayo de 2003.
+
+QUINTO.- Para los efectos del artículo 70, último párrafo del Código Fiscal de la Federación, las cantidades establecidas en los artículos 16-A y 16-B de la Ley Aduanera se actualizarán de conformidad con lo dispuesto en el séptimo párrafo del artículo 17-A del Código referido.
+
+SEXTO.- La primera actualización del monto de las multas y cantidades establecidas en la Ley Aduanera que se realice con motivo de la adición al artículo 70 del Código Fiscal de la Federación prevista en el presente Decreto, entrará en vigor a partir del 1 de enero de 2012 y para su determinación se considerará el periodo comprendido desde el último mes cuyo Índice Nacional de Precios al Consumidor se utilizó para el cálculo de la última actualización y el mes inmediato anterior a la entrada en vigor del presente Decreto. Para estos efectos, el factor de actualización se obtendrá de conformidad con lo dispuesto en el sexto párrafo del artículo 17-A del citado Código.
+
+SÉPTIMO.- Para los delitos previstos en el Código Fiscal de la Federación que se hayan cometido con anterioridad a la entrada en vigor del presente Decreto se aplicarán los plazos de prescripción y las reglas de cómputo de los mismos, previstos en las disposiciones vigentes al momento en que se hubieren llevado a cabo, por lo que para ellos se seguirá considerando como la fecha en la que la Secretaría de Hacienda y Crédito Público toma conocimiento del delito y del delincuente la de la emisión del Dictamen Técnico Contable elaborado por el Servicio de Administración Tributaria.
+
+OCTAVO.- La reforma al artículo 100 del presente Código, relativa a la prescripción de la acción penal, entrará en vigor el 31 de Agosto de 2012.
