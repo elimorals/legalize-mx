@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2010-09-10"
+last_updated: "2011-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -139,9 +139,11 @@ La educación que el Estado, los Municipios y sus Organismos Descentralizados im
 
 Queda expresamente establecido que en ningún caso se podrá condicionar la inscripción o el acceso a la educación, al pago del mencionado donativo. De igual manera, el manejo y control de estas aportaciones, quedará sujeta a la observación de las disposiciones en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 8.
 
-La educación que impartan el Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrán, además de los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos; los siguientes:
+La educación que imparta el Estado de Puebla, sus Municipios, Organismos Descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrán, además de los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
 I.- Contribuir al desarrollo integral del ser humano promoviendo sus valores para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, estimulando su iniciativa y un alto sentido de responsabilidad;
 
@@ -155,7 +157,9 @@ V.- Infundir en los seres humanos ideas que les permitan transformarse y transfo
 
 VI.- Fomentar sentimientos de solidaridad social, de apoyo a los grupos marginados, de valoración y respeto de los pueblos indígenas, a fin de contribuir a crear una sociedad más justa e integrada en la que se promueva el uso de las lenguas indígenas y el aprecio por los valores culturales de las etnias;
 
-VII.- Alcanzar mediante la enseñanza del español, un idioma común para todos los mexicanos, sin menoscabo de proteger, promover y preservar el desarrollo de las lenguas indígenas que se hablan en el Estado, así como impulsar en la educación básica el aprendizaje de una lengua extranjera;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VII.- Alcanzar mediante la enseñanza del español, un idioma común para todos los mexicanos, sin menoscabo de proteger, promover y preservar el desarrollo de las lenguas indígenas que se hablan en el Estado, así como garantizar en la educación básica el aprendizaje del idioma inglés;
 
 VIII.- Promover la vigencia de valores para acrecentar el acervo cultural nacional y estatal, expresado en tradiciones, hábitos, costumbres, el conocimiento y divulgación de la labor de hombres y mujeres poblanos en su contribución social, y el respeto a las instituciones nacionales y a los símbolos patrios, el aprecio por la historia, así como la consciencia de nacionalidad y soberanía;
 
@@ -589,9 +593,17 @@ III.- Fomentar actitudes de respeto, trabajo en equipo, optimismo, ayuda mutua, 
 
 IV.- Promover la iniciativa y capacidad creadora, el juego, la expresión de las distintas formas de pensar y sentir, así como el acercamiento a los distintos campos del arte y la cultura;
 
-V.- Orientar la realización comprometida de acciones tendientes al cuidado y a la conservación de la vida y de los entornos natural y social; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-VI.- Estimular el aspecto afectivo, sentido de responsabilidad, hábitos de cooperación, amor a su familia e identidad local y nacional, de acuerdo a los intereses propios de su edad.
+V.- Orientar la realización comprometida de acciones tendientes al cuidado y a la conservación de la vida y de los entornos natural y social;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VI.- Estimular el aspecto afectivo, sentido de responsabilidad, hábitos de cooperación, amor a su familia e identidad local y nacional, de acuerdo a los intereses propios de su edad; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VII.- Iniciar al educando en el conocimiento del idioma inglés.
 
 #### SECCIÓN III. DE LA EDUCACIÓN PRIMARIA
 
@@ -617,9 +629,17 @@ VI.- Fomentar la iniciativa, la creatividad y la responsabilidad en un ambiente 
 
 VII.- Propiciar el ejercicio crítico y reflexivo sobre los objetos de conocimientos mediante el trabajo intelectual, lógico y sistemático, de tal modo que el educando se haga agente activo de su proceso de aprendizaje;
 
-VIII.- Orientar en el educando la adquisición de una conciencia de participación comprometida con el cuidado y conservación del entorno natural y social; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-IX.- Fortalecer la práctica de los valores y el respeto a los símbolos patrios.
+VIII.- Orientar en el educando la adquisición de una conciencia de participación comprometida con el cuidado y conservación del entorno natural y social;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+IX.- Fortalecer la práctica de los valores y el respeto a los símbolos patrios; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+X.- Desarrollar el conocimiento y dominio del idioma inglés.
 
 #### SECCIÓN IV. DE LA EDUCACIÓN SECUNDARIA
 
@@ -651,9 +671,17 @@ V.- Promover el desarrollo de habilidades y destrezas mediante el trabajo en tal
 
 VI.- Formar al educando para el análisis crítico, científico y objetivo de la realidad como base para la búsqueda de soluciones a los problemas de su comunidad, de su Municipio, del Estado y del País;
 
-VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad.
+VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología para atender los requerimientos sociales;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Fortalecer la conciencia histórica de identidad regional, estatal y nacional mediante el conocimiento y la práctica de la justicia, la democracia y la solidaridad; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+IX.- Lograr el dominio del idioma inglés.
 
 #### SECCIÓN V. DE LA EDUCACIÓN MEDIA SUPERIOR
 
@@ -687,9 +715,17 @@ V.- Fortalecer la identidad regional y nacional a través del aprecio por la cul
 
 VI.- Fomentar la práctica continua de los valores humanos en la convivencia social;
 
-VII.- Proporcionar capacitación y adiestramiento que respondan a las necesidades sociales y productivas de las regiones del Estado; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Vincular al educando con el sector productivo de bienes y servicios.
+VII.- Proporcionar capacitación y adiestramiento que respondan a las necesidades sociales y productivas de las regiones del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Vincular al educando con el sector productivo de bienes y servicios; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+IX.- Perfeccionar el idioma inglés.
 
 ###### ARTÍCULO 59.
 
@@ -1266,3 +1302,9 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El titular de la Secretaría de Educación Pública, en el ámbito de sus atribuciones, emitirá los acuerdos y circulares necesarios, tendientes a la aplicación de lo dispuesto en el presente Decreto, así como realizará los trámites y gestiones para el cumplimiento del mismo.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Lo dispuesto en los artículos 51, 53, 55 y 58, en relación a la enseñanza del idioma inglés, iniciará en el ciclo escolar 2012-2013 y se aplicará en su totalidad para el ciclo escolar 2020-2021.
