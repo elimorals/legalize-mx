@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-integral-escolar-para-el-estado-libre-y-79854"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2011-02-04"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periodico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -55,31 +55,49 @@ II.- Crear y fortalecer vínculos permanentes entre las diferentes instancias qu
 
 III.- Otorgar atribuciones a los integrantes de la comunidad escolar para establecer, ejecutar y en su caso, vigilar las acciones, proyectos y programas en materia de seguridad escolar que permitan el seguimiento y evaluación constante de los mismos;
 
-IV.- Propiciar un ambiente de seguridad en las Escuelas, generando una cultura de prevención, atención y solución de riesgos que puedan surgir en cualquier momento en las Escuelas; así como fomentar la participación de maestros, padres de familia, alumnos y autoridades en estas actividades; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-V.- Establecer un Programa de Seguridad Escolar Integral, que servirá de instrumento rector para el diseño e implementación de programas en materia de seguridad escolar, los que una vez aprobados deberán ser de observancia obligatoria para las instituciones educativas, asociaciones de padres de familia; estudiantes y en general para los habitantes del Estado.
+IV.- Prevenir la violencia, el hostigamiento y el acoso escolar en las instituciones educativas del Estado, así como otorgar apoyo asistencial a las víctimas;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+V.- Propiciar un ambiente de seguridad en las escuelas, generando una cultura de prevención, atención y solución de riesgos que puedan surgir en cualquier momento en las escuelas; así como fomentar la participación de maestros, padres de familia, alumnos y autoridades en estas actividades; y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VI.- Establecer un Programa de Seguridad Escolar Integral, que servirá de instrumento rector para el diseño e implementación de programas en materia de seguridad escolar, los que una vez aprobados deberán ser de observancia obligatoria para las instituciones educativas, asociaciones de padres de familia, estudiantes y en general para los habitantes del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 2.
 
 Para los efectos y la aplicación de esta Ley, se entenderá por:
 
-I.- Brigada: Grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para velar por la seguridad escolar de la institución educativa a la que pertenecen;
+I.- Acoso escolar: El comportamiento negativo, repetitivo e intencional que llevan a cabo uno o más individuos contra una persona que tiene dificultades para defenderse; a la relación interpersonal caracterizada por el desequilibrio de poder o fuerza, que ocurre de manera repetida durante algún tiempo y no existe una provocación aparente por parte de la víctima, siempre que se dirija contra uno o más alumnos; entorpezca significativamente las oportunidades educativas o la participación en programas educativos de dichos alumnos; y perjudique la disposición de un alumno a participar o aprovechar los programas o actividades educativas del centro escolar, al hacerle sentir un temor razonable a sufrir alguna agresión física;
 
-II.- Comunidad Escolar: Conjunto de personas que comparten espacios educativos, considerando a alumnos, padres de familia, docentes, personal administrativo y de apoyo en cada Escuela;
+II.- Brigada: Grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para velar por la seguridad escolar de la institución educativa a la que pertenecen;
 
-III.- Consejo Estatal: Consejo Estatal de Seguridad Escolar;
+III.- Comunidad Escolar: Conjunto de personas que comparten espacios educativos, considerando a alumnos, padres de familia, docentes, personal administrativo y de apoyo en cada escuela;
 
-IV.- Consejo Municipal: Consejo Municipal de Seguridad Escolar;
+IV.- Consejo Estatal: Consejo Estatal de Seguridad Escolar;
 
-V.- Escuela o Institución Educativa: Establecimiento público o privado, donde se imparte educación de cualquier tipo;
+V.- Consejo Municipal: Consejo Municipal de Seguridad Escolar;
 
-VI.- Secretaría: Secretaría de Educación Pública del Estado de Puebla; y
+VI.- Escuela o Institución Educativa: Establecimiento público o privado, donde se imparte educación de cualquier tipo;
 
-VII.- Consejo de Participación Social: Órgano colegiado integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+VII.- Secretaría: Secretaría de Educación Pública del Estado de Puebla; y
+
+VIII.- Consejo de Participación Social: Órgano colegiado integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 3.
 
-Es responsabilidad del Gobierno del Estado y en su caso de los Ayuntamientos, establecer las medidas necesarias para prevenir y adoptar acciones en materia de seguridad escolar, atenderlas de conformidad a su competencia, propiciando para tal fin, la celebración de acuerdos o convenios con los sectores público, privado, social y la población en general, teniendo siempre como finalidad esencial dar estricto cumplimiento a lo previsto en esta Ley.
+Es responsabilidad de la Secretaría y en su caso, de los Ayuntamientos, establecer las medidas necesarias para prevenir y adoptar programas y acciones en materia de seguridad escolar, atenderlas de conformidad a su competencia, propiciando para tal fin, la celebración de acuerdos o convenios con los sectores público, privado, social y la población en general, teniendo siempre como finalidad esencial dar estricto cumplimiento a lo previsto en esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 3 BIS.- Los programas y acciones de enlace escolar y de seguridad pública, tenderán principalmente a modificar las actitudes, y formar hábitos y valores de los alumnos a efecto de prevenir la inseguridad.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES EN MATERIA DE SEGURIDAD INTEGRAL ESCOLAR
 
@@ -243,7 +261,23 @@ I.- Mantener y propiciar el respeto a lo que representa la Escuela;
 
 II.- Fomentar el compañerismo entre alumnos y personal docente de la Escuela;
 
-III.- Establecer programas permanentes de formación e información tendientes a mejorar la seguridad en la Escuela;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+III.- Establecer programas permanentes de formación e información, que aborden, entre otros, los temas de:
+
+a) Prevención de adicciones;
+
+b) Educación sexual;
+
+c) Prevención de abuso sexual;
+
+d) Prevención de violencia intrafamiliar, social y/o escolar;
+
+e) Educación vial;
+
+f) Primeros auxilios y de protección civil; y
+
+g) Seguridad en casa y en la escuela.
 
 IV.- Promover el consumo de alimentos nutritivos que ayuden a un buen desempeño escolar dentro y fuera de la Escuela;
 
@@ -269,9 +303,37 @@ V.- La representación del cuerpo de alumnos deberá estar integrada sólo por a
 
 Es obligación de los integrantes de la comunidad escolar reportar o hacer del conocimiento de la Brigada o de la autoridad escolar, cualquier situación irregular que detecten y que consideren, pone o puede poner en riesgo la seguridad integral escolar.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 17.
 
-Las brigadas orientarán a la población escolar sobre la manera de actuar en caso de algún siniestro.
+Las Brigadas orientarán a la población escolar sobre la manera de actuar en caso de algún siniestro.
+
+Sin perjuicio de las atribuciones que establece la presente Ley, las Brigadas promoverán:
+
+I.- La participación de los vecinos y los miembros de la comunidad escolar en la consolidación de los programas y actividades relativos a la seguridad escolar;
+
+II.- La colaboración en la vigilancia vecinal tendiente a proteger a los estudiantes del plantel escolar, así como el patrimonio y entorno escolares, especialmente, estos últimos, en periodos vacacionales y días inhábiles;
+
+III.- La difusión de acciones en materia de protección civil al interior de los planteles; y
+
+IV.- Las demás que, siendo compatibles con esta Ley y sus Reglamentos, sean necesarios u oportunos para el cumplimiento de sus objetivos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 17 BIS.- Los miembros de la comunidad escolar, a través de la Brigada, cuando detecten algún daño en la infraestructura del inmueble o instalaciones de la institución educativa que ponga en riesgo o en peligro la salud, integridad física o la vida de los miembros de la misma comunidad, lo harán del conocimiento del directivo del plantel escolar correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 17 TER.- Los directivos de los planteles escolares deberán realizar las denuncias correspondientes ante la autoridad competente, cuando se cometan ilícitos tanto al interior del centro educativo como dentro del perímetro escolar, aportando los elementos que acrediten el ilícito.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 17 QUATER.- La Brigada deberá promover, a través de las autoridades competentes, la información a los miembros de la comunidad escolar sobre el uso adecuado de los materiales que existan en el centro educativo que puedan poner en peligro la salud, la integridad física o la vida de cualquiera de ellos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 17 QUINQUIES.- La Brigada, en coordinación con la autoridad de Protección Civil que corresponda, implementará un programa específico en esta materia, atendiendo a las características propias de cada centro escolar.
 
 ## TÍTULO SEGUNDO
 
@@ -449,6 +511,294 @@ V.- Coordinarse permanentemente con los cuerpos de seguridad pública y la comun
 
 VI.- Las demás que deriven de esta Ley.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO TERCERO. VIOLENCIA, HOSTIGAMIENTO Y ACOSO ESCOLAR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. GENERALIDADES
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 32.
+
+En el Sistema Educativo del Estado está prohibida la violencia, el hostigamiento y el acoso escolar, en cualquiera de sus modalidades.
+
+Para tal efecto, todas las instituciones educativas del Estado tienen la obligación fundamental de garantizar a los niños, las niñas y los adolescentes el pleno respeto a su dignidad, vida, integridad física y moral dentro de la convivencia escolar, por lo que deberán:
+
+I.- Ofrecer a todos los alumnos una formación permanente en el respeto por los valores de la dignidad humana, los derechos humanos, la aceptación de los demás, la tolerancia hacia las diferencias entre personas y la solidaridad hacia las personas;
+
+II.- Inculcar a todos los estudiantes un trato respetuoso y considerado hacia los demás, especialmente hacia quienes presentan discapacidades, vulnerabilidad o capacidades sobresalientes;
+
+III.- Establecer entre los alumnos prácticas cotidianas de trato fraternal, así como métodos de solución amigable y pacífica de las diferencias o conflictos entre ellos;
+
+IV.- Proteger eficazmente a los estudiantes contra toda forma de acoso, hostigamiento, agresión física o psicológica, humillación, discriminación o burla por parte de los demás compañeros, los profesores, los trabajadores o directivos: y
+
+V.- Establecer en sus reglamentos y disposiciones internas, los mecanismos adecuados de carácter disuasivo, correctivo y reeducativo para impedir el acoso, el hostigamiento, la agresión física o psicológica, la burla y humillación hacia los demás y especialmente hacia los niños, las niñas y los adolescentes.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 33.
+
+El acoso escolar será considerado como tal cuando:
+
+I.- Ocurra dentro de las instalaciones de una institución educativa;
+
+II.- Se lleve a cabo durante el desenvolvimiento de un programa o actividad escolar auspiciada por una institución educativa;
+
+III.- Acontezca en el interior de un vehículo de transporte escolar al servicio de una institución educativa; o
+
+IV.- Se utilicen programas informáticos que sean procesados mediante una computadora, un sistema computacional o una red informática propiedad de una institución educativa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. DEL MANUAL DE CONVIVENCIA ESCOLAR
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 34.
+
+La Secretaría diseñará los lineamientos necesarios para prevenir la violencia, el hostigamiento y el acoso escolar, los cuales serán de observancia general en todas las instituciones del Sistema Educativo del Estado.
+
+Los lineamientos deberán estar contenidos en el Manual de Convivencia Escolar, que será difundido por la Secretaría en sitios electrónicos y en lugares visibles de las Instituciones Educativas.
+
+Cada institución educativa deberá proporcionar una copia impresa del Manual de Convivencia Escolar a los padres de familia y a cada profesor al momento de la matrícula.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 35.
+
+Los lineamientos no deberán de contravenir ninguna ley o reglamento, estarán diseñados para que sean aplicados en todos los grados escolares y deberán contener como mínimo, lo siguiente:
+
+I.- La definición de violencia, intimidación, hostigamiento y acoso escolar;
+
+II.- La declaratoria que prohíbe el acoso, la intimidación o la violencia dirigida hacia cualquier alumno o docente;
+
+III.- La descripción clara y precisa sobre el tipo de conducta que es esperada de cada alumno y docente, así como el procedimiento para proporcionar e instruir a estudiantes, padres de familia, docentes, administradores, directivos escolares y voluntarios en la identificación y prevención, así como responder a actos de acoso, hostigamiento e intimidación;
+
+IV.- Las consecuencias y acciones que se deben de llevar a cabo por parte de los directivos escolares o autoridad educativa responsable, en contra de aquella persona que intimide o acose a un alumno o docente;
+
+V.- La declaratoria en la que se prohíbe cualquier acto de represalia o venganza en contra de cualquier persona que reporte un caso de acoso, hostigamiento o intimidación, al igual que la descripción de consecuencias y acciones en contra de aquella persona que haya presentado una acusación falsa de manera intencional;
+
+VI.- El procedimiento para la denuncia de un acto de acoso, hostigamiento o intimidación por parte de la víctima o de un tercero, en el cual se contenga una provisión donde se permita la denuncia anónima;
+
+VII.- Las acciones especificas para proteger a la persona de cualquier represalia que pueda sufrir a consecuencia de denunciar actos de acoso, hostigamiento o intimidación;
+
+VIII.- El procedimiento de abordaje por parte de la institución educativa correspondiente, para responder a cualquier acto de acoso, hostigamiento o intimidación;
+
+IX.- El procedimiento de investigación de un acto de acoso, hostigamiento o intimidación, para determinar si el acto de acoso o intimidación puede ser atendido por la institución educativa y, en caso contrario, determinar la remisión inmediata de dicho acto a la autoridad competente;
+
+X.- El procedimiento para canalizar a víctimas y autores de acoso, hostigamiento o intimidación a tratamientos psicológicos y asesorías especializadas;
+
+XI.- El procedimiento para informar de manera periódica y constante a los padres de la víctima, sobre las medidas tomadas para que el agresor o los agresores no cometan nuevos actos de acoso, hostigamiento e intimidación en contra de aquélla;
+
+XII.- El procedimiento para documentar cualquier incidente de acoso, hostigamiento e intimidación para que sean incluidos en el informe anual sobre violencia escolar que presentará cada institución educativa a la Secretaría, al final del ciclo escolar correspondiente;
+
+XIII.- Las sanciones aplicables a las instituciones educativas, directores, docentes y administradores, en caso de hacer caso omiso a denuncia, queja o conocimiento alguno de violencia, acoso e intimidación; y
+
+XIV.- Información sobre el tipo de servicios de apoyo para víctimas, agresores y terceros afectados.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 36.
+
+La Secretaría diseñará e implementará en cada una de las instituciones educativas de la Entidad, programas de prevención de actos de violencia, acoso e intimidación dirigidos hacia alumnos, docentes, voluntarios, trabajadores, directivos y padres de familia.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 37.
+
+En caso de cancelación de matrícula, la Secretaría gestionará la reubicación del estudiante sancionado en otro plantel del mismo Municipio. Si no fuera posible tal reubicación en el mismo Municipio, lo intentará en establecimientos de Municipios cercanos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 38.
+
+Como incentivo al comportamiento respetuoso hacia los demás compañeros de la institución educativa, ésta deberá enaltecer a los estudiantes que cada año escolar se destaquen por su actitud fraternal y respetuosa, entregando un reconocimiento en la ceremonia de fin de cursos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. DE LA CAPACITACIÓN
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 39.
+
+Las instituciones educativas formarán grupos de prevención de acoso, hostigamiento e intimidación escolar, al igual que grupos de apoyo a víctimas de estas conductas, los cuales estarán conformados por personal administrativo, docente, directivos escolares, estudiantes, voluntarios y padres de familia.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 40.
+
+Cada institución educativa deberá:
+
+I.- Proporcionar capacitación sobre los lineamientos para la prevención del acoso escolar a los trabajadores, docentes y voluntarios que tengan contacto directo con los estudiantes;
+
+II.- Desarrollar un programa educativo enfocado hacia los estudiantes, para que conozcan y comprendan los lineamientos establecidos por los procedimientos o protocolos para la prevención de acoso escolar; y
+
+III.- Realizar una evaluación de la capacitación proporcionada, para definir las deficiencias y programar una nueva para continuar sensibilizando.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 41.
+
+Los lineamientos serán incluidos en el programa de capacitación de todo trabajador de la educación y docente que pertenezca a una institución educativa pública o privada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. DE LA DENUNCIA, SU SEGUIMIENTO, REVISIÓN Y DE LOS SERVICIOS DE APOYO
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 42.
+
+Los incidentes de acoso, hostigamiento o intimidación podrán ser reportados por el estudiante afectado o por sus padres o tutores.
+
+Si un trabajador, docente o directivo tiene conocimiento de actos de acoso, hostigamiento o intimidación dirigidos hacia uno o varios alumnos, está obligado de reportarlo ante las instancias escolares correspondientes.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 43.
+
+Las denuncias deberán ser presentadas por escrito a la autoridad escolar correspondiente. Si por alguna circunstancia el denunciante no puede entregarla por escrito, la realizará de manera verbal, debiendo la autoridad escolar receptora de la denuncia, elaborar un escrito que subsane este requisito.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 44.
+
+En cada institución educativa del Estado, se designará a un responsable de recepción de denuncias de incidentes de acoso, hostigamiento o intimidación, el cual será nombrado por los directivos de dicha institución.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 45.
+
+En el área de recepción de la Dirección de la institución educativa correspondiente, deberá exhibirse el nombre del responsable, con el horario de atención y el número telefónico en el cual puede ser localizado.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 46.
+
+La Secretaría expedirá el formato de denuncias que será entregada a cada una de las instituciones educativas, para que sean reproducidas y puestas a disposición de quienes la soliciten, procurando que exista siempre disponibilidad al público.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 47.
+
+La denuncia deberá contener la información siguiente:
+
+I.- El nombre de la víctima y del presunto agresor, así como las generalidades de ambos;
+
+II.- Nombres de testigos, si existen;
+
+III.- Descripción detallada del incidente;
+
+IV.- Ubicación del lugar en donde ocurrió el incidente;
+
+V.- Indicar si existe algún tipo de lesión física y describirla, en caso necesario, con apoyo de un médico;
+
+VI.- En su caso, el número de días que se ausentó la victima de las actividades escolares a consecuencia del incidente; y
+
+VII.- En caso de necesitar de servicios de tratamiento psicológico, ser canalizada oportunamente.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 48.
+
+La información contenida en la denuncia debe ser confidencial y no deberá afectar las calificaciones de rendimiento escolar de la víctima o del presunto agresor.
+
+Una vez presentada la denuncia, se citará a las partes involucradas e interesadas, garantizando su derecho de audiencia. Dicho procedimientos (sic) deberá detallarse en el Manual de Convivencia Escolar.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 49.
+
+Las instituciones educativas designarán a una persona para que dé seguimiento a todos los incidentes de acoso, hostigamiento o intimidación suscitados dentro de la institución correspondiente, con la finalidad de que se fortalezcan las tareas de prevención y la solución de los incidentes.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 50.
+
+La persona designada para el seguimiento, tendrá las funciones siguientes:
+
+I.- Celebrar reuniones periódicas con la familia de la víctima y del agresor para registrar los avances en el tratamiento;
+
+II.- Sostener reuniones informativas con los consejeros, terapeutas, psicólogos o especialistas, encargados de dar tratamiento a las partes afectadas, con el propósito de estar al día con los avances en los casos de tratamiento;
+
+III.- Evaluar las medidas adoptadas para resolver los incidentes, así como expresar observaciones u opiniones a la institución educativa para mejorar su sistema de resolución de incidentes;
+
+IV.- Proponer modificaciones a lineamientos, con base en criterios objetivos; y
+
+V.- Conformar una base de datos en la que se encuentren registrados los incidentes suscitados en la institución educativa a la cual pertenece y el estado en el que se encuentran dichos casos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 51.
+
+Cada seis meses, las instituciones educativas, deberán presentar un informe ante la Secretaría en el que se contenga un sumario de las denuncias recibidas y las acciones tomadas en el año calendario.
+
+A dicho informe se le deberán anexar copias de las denuncias recibidas y toda la documentación que respalde el actuar de la autoridad escolar correspondiente, en la resolución de los incidentes.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 52.
+
+Al final del ciclo escolar, cada institución educativa, remitirá la información contenida en su base de datos a la Secretaría para su análisis.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 53.
+
+La Secretaría analizará permanentemente la información que reciba de cada institución educativa, con la finalidad de obtener un diagnóstico preciso sobre su situación y perfeccionar los procedimientos o protocolos de prevención.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 54.
+
+La Secretaria realizará una evaluación anual a cada una de las instituciones educativas, a efecto de otorgar o negar el Certificado de Calidad de Convivencia Escolar a cada una de ellas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 55.
+
+La calidad de convivencia escolar se medirá según el cumplimiento de las obligaciones previstas en el presente ordenamiento y tomará en cuenta las denuncias debidamente demostradas que se hayan recibido en la Secretaría y los logros obtenidos por la institución educativa en esta materia.
+
+En los dos últimos meses de cada periodo escolar, la Secretaría expedirá, renovará o negará para el año siguiente a cada institución escolar, el Certificado de Calidad de Convivencia Escolar a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 56.
+
+Cuando existan cambios a los lineamientos, la Secretaría deberá notificarlos de manera inmediata a las instituciones educativas, las cuales deberán informarlos de inmediato a sus grupos de prevención de Acoso Escolar.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 57.
+
+La Secretaría deberá publicar anualmente en el mes de octubre, las estadísticas relativas al acoso escolar registrado en las instituciones educativas de la Entidad, las medidas emprendidas para su tratamiento y los resultados obtenidos, así como lista de los establecimientos educativos que fueron certificados por su calidad de convivencia escolar y los que fueron desaprobados en esta materia.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 58.
+
+A fin de combatir los fenómenos de acoso, hostigamiento, agresión y demás manifestaciones de violencia escolar, la Secretaría deberá:
+
+I.- Promover políticas de radio y televisión que fomenten la reflexión colectiva sobre el fenómeno de la violencia en la convivencia escolar y estimulen a los niños, niñas y adolescentes a identificar el acoso y el hostigamiento en los establecimientos educativos y lo denuncien;
+
+II.- Adoptar planes de capacitación de profesores en la identificación, prevención, seguimiento y resolución de conflictos escolares; y
+
+III.- Producir videos didácticos de sensibilización del problema de violencia y acoso escolar, con utilización de casos reales que permitan las discusión sobre los mismos entre los estudiantes. Dicho material deberá ser distribuido entre las instituciones educativas.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 59.
+
+Las instituciones educativas ofrecerán servicios de apoyo psicológicos a aquellas personas que lo soliciten o requieran a consecuencia de ser víctimas de acoso escolar. La Secretaría suscribirá con aquéllas los acuerdos de coordinación necesarios para el mejor cumplimiento de esta función.
+
+Estos apoyos también estarán disponibles para aquéllos que se consideran como agresores, con el propósito de respaldarles a revertir su conducta disfuncional y brindarles un sistema de apoyo para que no se convierta en una conducta repetitiva.
+
+Cuando la víctima o agresor solicite dicho apoyo, la institución educativa lo canalizará oportunamente a la instancia correspondiente, según lo estipulado en los procedimientos o protocolos.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -460,3 +810,19 @@ ARTÍCULO SECUNDO.- Dentro de los 180 días siguientes a la entrada en vigor de 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de enero de dos mil once.- Diputado Presidente.- JUAN ANTONIO GONZÁLEZ HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.- Diputada Secretaria.- GUDELIA TAPIA VARGAS.- Rúbrica. Diputada Secretaria.- MARÍA SOLEDAD DOMÍNGUEZ RÍOS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus electos, Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de enero de dos mil once.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación Pública del Estado, deberá elaborar el Manual de Convivencia Escolar, debiendo estar disponible para su entrega en el periodo escolar 2012-2013.
