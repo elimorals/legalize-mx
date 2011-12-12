@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA ACTUALIZACIÓN POR MISCELANEA FISCAL: 31 DE DICIEMBRE DE 2010.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -37,7 +37,7 @@ DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, Decreta:
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 LEY FEDERAL DE DERECHOS
 
@@ -115,7 +115,7 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 Las personas físicas y las morales pagarán los derechos que se establecen en esta Ley en las oficinas que autorice la Secretaría de Hacienda y Crédito Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -125,19 +125,43 @@ El pago de los derechos que establece esta Ley deberá hacerse por el contribuye
 
 Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la prestación del servicio o del uso, goce o aprovechamiento de bienes de dominio público de la Federación y se trate de derechos que deban pagarse por anticipado, el servicio, uso, goce o aprovechamiento de bienes de dominio público de la Federación no se proporcionará.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-Cuando el pago de derechos deba efectuarse en una fecha posterior al inicio de la prestación del servicio o del otorgamiento del uso, goce, explotación o aprovechamiento de bienes de dominio público de la Federación, por tratarse de servicios continuos o porque así se establezca, se dejará de prestar el servicio o se interrumpirá el uso, goce, explotación o aprovechamiento de los bienes, si no se efectúa el pago de la totalidad de la cuota en los plazos que correspondan.
+Cuando el pago de derechos deba efectuarse de forma periódica o en una fecha posterior al inicio de la prestación del servicio o del otorgamiento del uso, goce, explotación o aprovechamiento de bienes de dominio público de la Federación, por tratarse de servicios continuos o porque así se establezca, el contribuyente deberá presentar copia de la declaración del pago de derechos de que se trate ante la dependencia encargada de la prestación de los servicios o de la administración de los bienes del dominio público de la Federación dentro de los plazos que se señalan en esta Ley. Cuando no se presente la copia de la declaración o una vez recibida la misma se observe que el pago del derecho de que se trate no se efectuó por la totalidad de la cuota que corresponda, la dependencia procederá como sigue:
+
+I. Requerirá al contribuyente para que en un plazo no mayor a 10 días presente copia de la declaración o, en su caso, efectúe la aclaración correspondiente.
+
+II. Una vez transcurrido el plazo a que se refiere la fracción anterior, si el contribuyente no hubiere presentado la declaración o aclaración correspondiente o de haberla presentado subsistan las diferencias, sin perjuicio de otros procedimientos de aclaración que se señalen en esta Ley, la dependencia de que se trate procederá a determinar los adeudos en el pago de los derechos y remitirá dicha determinación al Servicio de Administración Tributaria en los formatos y con los documentos que para tal efecto dicho órgano desconcentrado señale mediante reglas de carácter general, a fin de que éste último realice la notificación del adeudo y, en su caso, el requerimiento de pago correspondiente.
+
+III. Deberá suspender el servicio o interrumpir el uso, goce, explotación o aprovechamiento del bien de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Al servidor público encargado de la prestación de los servicios o del otorgamiento del uso, goce, explotación o aprovechamiento de los bienes de dominio público de la Nación que incumpla con lo dispuesto en el párrafo anterior se le impondrán las sanciones que correspondan de acuerdo con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+El Servicio de Administración Tributaria proporcionará la asistencia legal a las dependencias de la Administración Pública Federal con el fin de que en el procedimiento a que se refiere el párrafo cuarto de este artículo se cumplan las formalidades aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Lo dispuesto en el párrafo cuarto de este artículo no será aplicable a los derechos por el uso, explotación o aprovechamiento de bienes de dominio público de la Nación a cargo de la Comisión Nacional del Agua, con excepción de lo establecido en la fracción XI del artículo 192-E de la Ley.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Los servidores públicos encargados de la prestación de los servicios, así como de la administración de los bienes del dominio público de la Nación que regula esta Ley, serán responsables de la vigilancia del pago y, en su caso, del cobro y entero de los derechos previstos en la misma. La omisión total o parcial en el cobro y entero de los derechos, afectará el presupuesto de la dependencia o entidad en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
 
-> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-No podrán realizarse convenios ni acuerdo alguno donde se autorice el manejo y administración de los recursos provenientes de los cobros que establece esta Ley, salvo lo previsto en la misma y en los Convenios de Coordinación en materia de Administración de Ingresos Federales, que el Gobierno Federal celebre con las Entidades Federativas.
+> <small>(DEROGADO [N. DE E. ANTES PARRAFO SEXTO], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -147,11 +171,11 @@ Cuando los derechos a que se refiere esta Ley, se incrementen en cantidades equi
 
 Cuando el contribuyente realice el pago de los derechos y por causas imputables al mismo, la autoridad no pueda realizar la prestación del servicio u otorgar el uso o aprovechamiento de bienes del dominio público de la Nación durante el mes inmediato posterior a dicho pago, el contribuyente pagará la diferencia que resulte a su cargo derivado de los incrementos de los derechos que haya en dicho período, salvo en aquellos casos en que la Ley establezca otro período.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En el supuesto de que el contribuyente no haga la presentación de los comprobantes de pago en los plazos que señala esta Ley, la dependencia prestadora del servicio o del uso, goce o aprovechamiento de bienes de dominio público de la Federación, dejará de proporcionarlos.
+> <small>(DEROGADO [N. DE E. ANTES PÁRRAFO NOVENO], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -371,227 +395,87 @@ Por el cambio de característica migratoria dentro de la calidad de no inmigrant
 
 #### SECCION PRIMERA. Servicios Migratorios
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 8o.
 
-Por la expedición de autorización en la que se otorga calidad migratoria de No Inmigrante a extranjeros y por las prórrogas correspondientes, en las diversas características migratorias, se pagará el derecho por servicios migratorios, conforme a las siguientes cuotas:
+Por la expedición del documento migratorio que acredita la condición de estancia se pagarán derechos conforme a las siguientes cuotas:
 
-cuota sin cuota con
+I. Visitante sin permiso para realizar actividades remuneradas $295.00
 
-ajuste ajuste
+II. Visitante con permiso para realizar actividades remuneradas $2,350.00
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+III. Visitante Regional $295.00
 
-I.- Turista $261.89 $262
+IV. Visitante Trabajador Fronterizo $295.00
 
-> <small>(REFORMADA, 30 DE DICIEMBRE DE 1983)</small>
+V. Visitante con fines de adopción $2,280.00
 
-II.- Visitante, con entradas y salidas múltiples:
+VI. Residente Temporal:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+a). Hasta un año $3,130.00
 
-a).- Para dedicarse a actividades
+b). Dos años $4,690.00
 
-no lucrativas $1,294.32 $1,294
+c). Tres años $5,940.00
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+d). Cuatro años $7,040.00
 
-b).- Para dedicarse a
+VII. Residente Permanente $3,815.00
 
-actividades no lucrativas,
+Por la reposición de los documentos a que se refiere este artículo se pagará la misma cuota del derecho según corresponda.
 
-por cada prórroga $1,294.32 $1,294
+Para efectos de la fracción I de este artículo, la Secretaría de Gobernación fijará el procedimiento para identificar a los Visitantes sin permiso para realizar actividades remuneradas con fines turísticos.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+No pagarán los derechos por servicios migratorios a que se refieren las fracciones I y II de este artículo los choferes u operadores de vehículos de transporte de carga que se internen en el país con el único objeto de cargar o descargar mercancías en los recintos de las aduanas fronterizas del territorio nacional.
 
-c).- Para dedicarse a
+El pago del derecho previsto en las fracciones I y II de este artículo deberá efectuarse a la salida del territorio nacional tratándose de extranjeros que arriben al país vía aérea.
 
-actividades lucrativas $2,101.52 $2,102
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d).- Para dedicarse a
-
-actividades lucrativas,
-
-por cada prórroga $2,101.52 $2,102
-
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Visitante Persona de
-
-Negocios o Visitante Consejero $261.89 $262
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Asilado político, por la
-
-revalidación anual $1,294.32 $1,294
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-V.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VI.- Visitante provisional $420.02 $420
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-VII.- Ministro de culto o asociado religioso:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Por el otorgamiento
-
-de la característica $248.80 $249
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Por cada prórroga $248.80 $249
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VIII.- Transmigrante $261.89 $262
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Por el cambio de característica migratoria dentro de la calidad de no inmigrante, se pagarán los derechos que correspondan al otorgamiento de la nueva característica a adquirir.
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-Por la recepción, examen y
-
-estudio de la solicitud de
-
-cambio de turista a cualquier
-
-otra característica migratoria de
-
-la calidad de no inmigrante $490.53 $491
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-IX. (DEROGADA, D.O.F. 13 DE NOVIEMBRE DE 2008)
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-No pagarán el derecho por servicios migratorios a que se refiere la fracción II de este artículo, los choferes u operadores de vehículos de transporte de carga que se internen en el país con el único objeto de cargar o descargar mercancías en los recintos de las aduanas fronterizas del sur del territorio nacional.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 9o.
 
-Por la expedición de autorización en la que se otorga calidad migratoria de inmigrantes en sus distintas características a extranjeros, así como por refrendo, se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
+Por la recepción y estudio de la solicitud y, en su caso, la autorización del cambio de condición de estancia se pagará el derecho conforme a la cuota de $1,000.00
 
-cuota sin cuota con
+El pago a que se refiere este artículo será sin perjuicio del derecho que corresponda por el otorgamiento de la nueva condición de estancia a adquirir en términos del artículo 8o. de esta Ley.
 
-ajuste ajuste
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Autorización como
-
-Inmigrante en las diferentes
-
-Características de rentista,
-
-inversionista, profesionista,
-
-cargo de confianza, científico
-
-en actividades lucrativas,
-
-técnico, artista, deportista,
-
-asimilado y familiares del
-
-solicitante $2,799.71 $2,800
-
-II.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por el refrendo de
-
-Calidad migratoria en las
-
-Diferentes características
-
-a que se refiere este
-
-artículo, se pagarán
-
-derechos conforme a la
-
-cuota de $2,800.85 $2,801
-
-Por el cambio de característica migratoria dentro de la calidad inmigrante, se pagarán los derechos que correspondan a la nueva característica a adquirir.
-
-No pagarán los derechos a que se refiere este artículo, los científicos en actividades no lucrativas.
-
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 10.
 
-Para el otorgamiento de la calidad de inmigrado, se pagarán las siguientes cuotas:
+Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de $1,000.00
 
-cuota sin cuota con
+No pagarán los derechos a que se refiere este artículo los extranjeros que soliciten la regularización de su situación migratoria con fundamento en las fracciones III, IV y V del artículo 133 de la Ley de Migración.
 
-ajuste ajuste
+El pago del derecho a que se refiere este artículo será sin perjuicio del derecho que corresponda al otorgamiento de la condición de estancia a adquirir en términos del artículo 8o. de esta Ley.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por la expedición de la
-
-declaratoria de inmigrado $3,414.33 $3,414
-
-II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por la recepción, examen
-
-y estudio de la solicitud de
-
-cambio de calidad a inmigrado $891.98 $892
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 11.
 
-No se pagarán los derechos por la expedición de autorización en la que se otorga a los extranjeros la calidad migratoria de no inmigrantes, en los siguientes casos:
+No se pagarán los derechos señalados en el artículo 8o. de esta Ley cuando los extranjeros permanezcan en territorio nacional en las condiciones de estancia siguientes:
 
-I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+I. Residente Temporal estudiante.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+II. Visitantes sin permiso para realizar actividades remuneradas que se ubiquen en alguno de los siguientes supuestos:
 
-II.- Estudiante.
+a). Ingresen a territorio nacional por vía terrestre, siempre que su estancia en el país no exceda de siete días. En caso de que se exceda dicho periodo el derecho se pagará al momento de la salida del territorio nacional.
 
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
+b). Pasajeros o miembros de la tripulación a bordo de buques de crucero en travesía internacional, que desembarquen para visitar el país en los puertos mexicanos que formen parte de su travesía turística y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de veintiún días, contados a partir del primer arribo a territorio nacional.
 
-III.- Visitante distinguido.
+c). Miembros de la tripulación que ingresen al país a bordo de cualquier tipo de buque distinto al previsto en el inciso anterior y desembarquen en puertos mexicanos y embarquen en el mismo buque para continuar su viaje, siempre y cuando no excedan de quince días, contados a partir del primer arribo a territorio nacional.
 
-IV.- Asilado político.
+d). Miembros de la tripulación en activo que ingresen al país a bordo de aeronaves de servicio de transporte aéreo internacional regular de pasajeros, siempre y cuando su estancia en el país no exceda de siete días.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-V.- Visitantes sin dedicarse a actividades lucrativas:
-
-a).- Cuando sean autorizados o se otorgue la prórroga bajo los convenios de cooperación o intercambio educativo, cultural y científico.
-
-b) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-VI.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-VII.- Refugiado.
-
-VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IX.- Corresponsal.
+e). Cuando sean autorizados bajo los convenios de cooperación o intercambio educativo, cultural y científico.
 
 cuota sin cuota con
 
@@ -617,93 +501,27 @@ cuota de $52.44 $52
 
 El derecho de servicios migratorios a que se refiere el presente artículo se pagará a la salida de pasajeros de vuelos internacionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-Por la expedición de permisos, constancias y certificados, o registros a extranjeros, se pagará el derecho de servicios migratorios, conforme a las siguientes cuotas:
+Por la recepción y estudio de la solicitud y, en su caso, la expedición de certificados, permisos o autorizaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-cuota sin cuota con
+I. Certificados en los que se haga constar la situación migratoria $320.00
 
-ajuste ajuste
+II. Permiso de salida y regreso al país $320.00
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+III. Autorización para realizar actividades remuneradas a Residente Temporal
 
-I.- Permiso para contraer
+estudiante $2,350.00
 
-matrimonio con nacional $2,657.76 $2,658
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Certificado para
-
-Realizar trámites judiciales
-
-o administrativos con
-
-propósitos de divorcio o de
-
-nulidad de matrimonio con
-
-nacional mexicano $5,252.90 $5,253
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Permiso para realizar
-
-trámites de adopción $2,042.20 $2,042
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Permiso para ampliación
-
-o cambio de actividad o de
-
-empleador $2,042.16 $2,042
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-V.- Certificados de legal
-
-internación y legal estancia $287.47 $287
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VI.- Permiso de salida y regreso
-
-al país $287.47 $287
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VII.- Por cada inscripción
-
-en el Registro Nacional
-
-de Extranjeros $668.96 $669
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 14.
 
-Por la reposición de la forma migratoria respectiva, se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-I.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- De inmigrante $840.32 $840
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- De inmigrado $1,260.76 $1,261
-
-IV.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -795,21 +613,21 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
-Los asilados políticos, refugiados y visitantes distinguidos, no pagarán los derechos por internación al país, ni por reposición de documentos, establecidos en los artículos precedentes de esta Sección.
+No pagarán los derechos por los servicios contenidos en esta Sección los extranjeros, cuando el tipo de trabajo o servicio a realizar tenga por remuneración el salario mínimo general vigente en la zona donde prestarán sus servicios o ingresos de menor cuantía al mismo, así como tratándose de Visitantes por razones humanitarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los extranjeros a los que se les autorice la condición de estancia bajo los supuestos previstos en la fracción I del artículo 54 de la Ley de Migración, no pagarán los derechos por internación al país ni por el otorgamiento o la reposición de documentos, establecidos en esta Sección.
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 17.
 
-No pagarán los derechos por los servicios a que esta Sección se refiere los extranjeros, cuando el tipo de trabajo o servicio a realizar tenga por remuneración el salario mínimo o ingresos de menor cuantía al mismo, o a quienes se les otorgue la calidad de No Inmigrante, bajo la característica de Visitante en la modalidad de Protección Internacional y Razones Humanitarias.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -817,19 +635,21 @@ No pagarán los derechos por los servicios a que esta Sección se refiere los ex
 
 No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 18-A.
 
-Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y en un 80% al Consejo de Promoción Turística de México para la promoción turística del país, el cual transferirá el 10% de la recaudación total del derecho al Fondo Nacional de Fomento al Turismo para los estudios, proyectos y la inversión en infraestructura que éste determine con el objeto de iniciar o mejorar los destinos turísticos del país.
+Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, por lo que se refiere a los Visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y en un 80% al Consejo de Promoción Turística de México para la promoción turística del país, el cual transferirá el 10% de la recaudación total del derecho al Fondo Nacional de Fomento al Turismo para los estudios, proyectos y la inversión en infraestructura que éste determine con el objeto de iniciar o mejorar los destinos turísticos del país.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los ingresos que se obtengan por la recaudación de los derechos establecidos en los artículos 8, fracciones II, III, IV, V, VI, VII y VIII, 9, 10, 12, 13, 14 y 14-A de esta Ley, serán destinados a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país y a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los demás ingresos que se obtengan por la recaudación de los derechos establecidos en esta Sección, serán destinados a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país y a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -943,27 +763,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por el trámite y estudio de la solicitud y, en su caso, y (sic) clasificación de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+I. Por la supervisión, clasificación y autorización de cada material cinematográfico en cualquier formato o modalidad:
 
-a).- De 35 milímetros o más,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-por rollo de 300 metros o
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-fracción $313.12 $313
+a). Avance publicitario $595.00
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- De 16 milímetros, 8
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-milímetros, Super 8
+b). Película destinada a
 
-milímetros, por rollo de
+exhibición pública $4,765.00
 
-100 metros o fracción $157.77 $158
+Los contribuyentes podrán optar por pagar el derecho a que se refiere este inciso por cada minuto de duración de la película conforme a la cuota de $53.00
 
 (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -983,21 +803,13 @@ No pagarán los derechos a que se refiere esta fracción, las instituciones púb
 
 El pago de los derechos previstos en esta fracción, incisos a), b) y c) se destinará en su totalidad al Fondo de Inversión y Estímulos al Cine, para el fomento y promoción de la industria cinematográfica nacional.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Expedición de certificados
+II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-de origen de material filmado
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-y grabado $934.60 $935
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por la autorización del
-
-doblaje de películas, para
-
-exhibición $959.21 $959
+III. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -2931,13 +2743,13 @@ XXI. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a X y XII a XX del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota, salvo lo dispuesto en el inciso b) de la fracción VI de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 29-E.
 
-Las entidades, ya sean personas físicas o morales, o fondos de protección, que se indican a continuación, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, las siguientes cuotas:
+Las entidades, ya sean personas físicas o morales, fondos de protección o sociedades, que se indican a continuación, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -3011,7 +2823,11 @@ realización de su objeto, pagará la
 
 cantidad de: $95,412.60 $95,413
 
-VII. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+VII. Cada sociedad que pertenezca al sector de centros cambiarios, transmisores de dinero o sociedades financieras de objeto múltiple no reguladas a que se refiere la Ley General de Organizaciones y Actividades Auxiliares del Crédito, pagarán por concepto de supervisión del cumplimiento de las disposiciones establecidas en el artículo 95 Bis de la citada ley, la cuota de $30,000.00
 
 VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -3429,15 +3245,23 @@ Las personas morales que pertenezcan al sector de sociedades de inversión no pa
 
 En el caso de las entidades financieras de nueva creación, incluyendo las filiales de entidades financieras del exterior de cualquier tipo, los derechos por inspección y vigilancia se comenzarán a cubrir al día hábil siguiente de que inicien operaciones y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal. Para efectos de la determinación de dichos derechos, se estará a lo dispuesto en el artículo 29-D o 29-E de esta Ley, según corresponda al sector al que pertenezca la entidad de nueva creación.
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las entidades financieras señaladas en los artículos 29-D y 29-E de esta Ley, no estarán obligadas al pago de derechos por concepto de inspección y vigilancia cuando por cualquier acto de la autoridad competente para ello, o por cualquier otra causa prevista en las leyes, pierdan el carácter de entidad supervisada a que se refieren los propios artículos 29-D y 29-E. Lo anterior, aplicará desde el momento en que surta efectos la notificación relativa de la autoridad de que se trate y ésta haya quedado firme, o bien, se actualicen los supuestos previstos en las leyes de que se trate. En caso de que el acto de autoridad a que se refiere este párrafo haya quedado sin efectos por resolución de autoridad competente para ello, las entidades señaladas en los artículos 29-D y 29-E de esta Ley, deberán cubrir las cuotas que hubieren dejado de pagar en términos de las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Las entidades financieras o sociedades señaladas en los artículos 29-D y 29-E de esta Ley, no estarán obligadas al pago de derechos por concepto de inspección y vigilancia cuando por cualquier acto de la autoridad competente para ello, o por cualquier otra causa prevista en las leyes, pierdan el carácter de entidad supervisada a que se refieren los propios artículos 29-D y 29-E. Lo anterior, aplicará desde el momento en que surta efectos la notificación respectiva de la autoridad de que se trate y ésta haya quedado firme, o bien, se actualicen los supuestos previstos en las leyes correspondientes. En caso de que el acto de autoridad a que se refiere este párrafo haya quedado sin efectos por resolución de autoridad competente para ello, las entidades señaladas en los artículos 29-D y 29-E de esta Ley deberán cubrir las cuotas que hubieren dejado de pagar en términos de las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Las Federaciones, así como el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores que conforme a lo previsto en el artículo 29-D, fracciones IX y X de esta Ley, respectivamente, hayan ejercido la opción establecida en las fracciones antes mencionadas, ajustarán la cuota respectiva en virtud de la incorporación de sociedades u organismos de integración que supervisen y cubrirán la diferencia que corresponda el día hábil siguiente a aquél en que dichas sociedades u organismos inscriban en el Registro Público de Comercio la autorización otorgada por la Comisión Nacional Bancaria y de Valores o queden sujetas a la supervisión de la Federación, según sea el caso. El referido ajuste se realizará proporcionalmente sobre la cuota mínima a que se refiere el artículo 29-D, fracciones IX o X de este ordenamiento, según corresponda, a partir de esa fecha y hasta la conclusión del ejercicio fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de centros cambiarios, transmisores de dinero o sociedades financieras de objeto múltiple no reguladas, los derechos por inspección y vigilancia se comenzarán a cubrir al día hábil siguiente a aquél en el que obtengan el registro ante la Comisión Nacional Bancaria y de Valores o informen a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros de su constitución, en términos del artículo 87-K de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, según corresponda, y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal. Para los efectos de la determinación de dichos derechos, se estará a lo dispuesto en la fracción VII del artículo 29-E de esta Ley.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3461,11 +3285,11 @@ Cuando una entidad financiera o una filial de entidad financiera del exterior de
 
 Para la determinación de los montos de los derechos a pagar correspondientes a los artículos 29-D fracciones I a VIII, XII a XVIII y XX, y 29-H de esta Ley o en caso de haberse ejercido la opción contenida en las fracciones IX y X del citado artículo 29-D, incluyendo en todos estos casos a las filiales de entidades financieras del exterior de cualquier tipo, deberá utilizarse el promedio mensual de los datos o cifras de las variables que según se trate apliquen, correspondientes al periodo comprendido entre los meses de agosto del ejercicio fiscal inmediato anterior del año en que se haga el cálculo y los once meses previos a éste. En su caso, se utilizará la información más reciente con la que cuente la Comisión Nacional Bancaria y de Valores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-Para la determinación de los montos de los derechos a pagar correspondientes a la fracción XI del artículo 29-D de esta Ley, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, y en caso de que las Sociedades de Inversión hayan ejercido la opción establecida en dicha fracción, se deberá utilizar el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión, o el total de las operaciones de compra de dichos activos, según sea el caso, valuadas al precio al cual hayan sido negociadas, correspondientes al periodo comprendido entre los meses de agosto del ejercicio fiscal inmediato anterior del año en que se haga el cálculo y los once meses previos a éste. En su caso, se utilizará la información más reciente con la que cuente la Comisión Nacional Bancaria y de Valores.
+Para la determinación de los montos de los derechos a pagar correspondientes a la fracción XI del artículo 29-D de esta Ley, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, y en caso de que las Sociedades de Inversión hayan ejercido la opción establecida en dicha fracción, se deberá utilizar el total de las operaciones registradas como ventas de activos objeto de inversión que realice la Sociedad de Inversión, o el total de las operaciones reportadas como compras de dichos activos, según sea el caso, valuadas al precio al cual hayan sido negociadas, correspondientes al periodo comprendido entre los meses de agosto del ejercicio fiscal inmediato anterior del año en que se haga el cálculo y los once meses previos a éste, utilizando la información financiera que periódicamente envían a la Comisión Nacional Bancaria y de Valores, conforme a las disposiciones aplicables o, en su caso, la información más reciente con la que cuente dicha Comisión.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3635,49 +3459,17 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Los derechos por
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-servicio de inspección y
+III. Las sociedades controladoras de grupos financieros $550,000.00 anuales.
 
-vigilancia que proporcione
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-la Comisión Nacional de
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-Seguros y Fianzas a las
-
-sociedades controladoras,
-
-de grupos financieros bajo
-
-su supervisión, se determinarán
-
-en razón del 1 al millar respecto
-
-del capital pagado más reservas
-
-de capital, sin que los derechos a
-
-pagar por este concepto excedan
-
-de $548,968.96 $548,969 anuales.
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Empresas de servicios
-
-complementarios que formen
-
-parte de grupos financieros
-
-cuyas sociedades controladoras
-
-se encuentren bajo supervisión
-
-de la Comisión Nacional de
-
-Seguros y Fianzas $27,448.07 $27,448
+IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $30,000.00 anuales.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -3955,7 +3747,17 @@ II.- Las demás personas y entidades sujetas a la inspección y vigilancia de la
 
 Las cuotas determinadas conforme al presente artículo deberán manifestarse a la Secretaría de Hacienda y Crédito Público dentro de los primeros 15 días de cada bimestre. Al presentarse dichas manifestaciones, exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. Las sociedades controladoras de grupos financieros $550,000.00 anuales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $30,000.00 anuales.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -4213,11 +4015,13 @@ realice funciones similares.
 
 El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro o institución pública que realice funciones similares durante el año calendario, el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 32.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose como tales a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará anualmente el derecho de inspección y vigilancia conforme a la cuota de $300,000.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5561,39 +5365,69 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Reducción, división, identificación
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-o unificación de superficie $1,922.02 $1,922
+II. Reducción, división,
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+identificación o unificación
 
-III.- Agrupamiento de concesiones
+de superficie $2,000.00
 
-mineras, la incorporación o
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-separación de éstas a uno o más
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-de ellos $273.01 $273
+III. Agrupamiento de
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+concesiones mineras,
 
-IV.- Expedición de duplicado del
+la incorporación o
 
-título de concesión o asignación
+separación de éstas a
 
-minera $328.13 $328
+uno o más de ellos $1,000.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. Expedición de duplicado
+
+del título de concesión o
+
+asignación minera $500.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+V. Inscripción en el registro
+
+de peritos mineros $500.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 65.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Inscripción de actos, contratos o convenios relativos a la transmisión de la titularidad de concesiones mineras o de los derechos que de ellas deriven $1,000.00
+
+II. Cancelación de las inscripciones relativas a los actos, contratos o convenios a que alude la fracción anterior $500.00
+
+III. Inscripción de Sociedades mineras $2,000.00
+
+IV. Inscripción de las modificaciones estatutarias de dichas sociedades $1,000.00
+
+V. Avisos notariales preventivos $500.00
+
+VI. Anotaciones preventivas para interrumpir la cancelación de las inscripciones de contratos o convenios sujetos a temporalidad $500.00
+
+VII. Revisión de la documentación que consigne las correcciones o aclaraciones requeridas para la inscripción o cancelación de los actos, contratos o convenios mencionados en las fracciones anteriores $500.00
 
 ###### ARTICULO 65-A.
 
@@ -5613,33 +5447,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por cada plano a escala 1:50,000
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-que corresponda a las hojas
+I. Por cada plano a escala 1:50,000 que corresponda a las hojas topográficas del Instituto Nacional de Estadística y Geografía $3,000.00
 
-topográficas del Instituto Nacional
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de Estadística, Geografía
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-e Informática $2,743.98 $2,744
+II. Por cada porción de las hojas anteriores de 5 minutos de latitud y de longitud $500.00
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por cada porción de las hojas
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-anteriores de 5 minutos de latitud y
-
-de longitud $273.01 $273
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por cada porción a que se
-
-refiere la fracción anterior a escala
-
-1:25,000 $1,097.49 $1,097
+III. Por cada porción a que se refiere la fracción anterior a escala 1:25,000 $1,900.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5863,51 +5687,11 @@ Cuando para la prestación de los servicios a que se refiere esta Sección, se r
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 73-E.
 
-Por el registro y autorización de técnico responsable para la proyección y construcción de instalaciones que utilicen y aprovechen energía eléctrica, se pagarán las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Ingeniero titulado con estudios
-
-de subestaciones, líneas de
-
-transmisión y distribución de
-
-instalaciones en fuerza y
-
-alumbrado $1,454.95 $1,455
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Pasante de ingeniería o
-
-técnico a nivel vocacional con
-
-estudios de subestaciones, líneas
-
-de transmisión y distribución e
-
-instalaciones en fuerza y
-
-alumbrado $1,162.06 $1,162
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Técnico a nivel secundaria
-
-con estudios de instalaciones en
-
-fuerza y alumbrado $727.36 $727
-
-Por el refrendo del registro a que se refiere este artículo se pagará el 50% de la cuota del derecho que corresponda.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 cuota sin cuota con
 
@@ -6025,17 +5809,9 @@ emisión de certificados
 
 digitales $127,305.35 $127,305
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Por el examen para
-
-encargado de identificación
-
-como prestador del servicio
-
-de certificación para la emisión
-
-de certificados digitales $3,628.03 $3,628
+IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -6311,9 +6087,17 @@ centros de acopio de granos y
 
 semillas regulados $726.66 $727
 
-Por duplicado o renovación de los certificados a que se refiere este artículo, así como por la renovación de la certificación a que se refieren las fracciones VII y VIII, se pagará el 50% de la cuota correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-No se pagará el derecho a que se refiere este artículo por los animales y vegetales, así como sus productos y subproductos que se importen o exporten en forma temporal, así como mascotas, animales de compañía, perros guías para invidentes, muestras médicas y comerciales.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Por duplicado, renovación o modificación de cada certificado a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+No se pagará el derecho a que se refiere este artículo por los animales y vegetales, sus productos y subproductos que se importen o exporten en forma temporal; mascotas y perros guías para invidentes; muestras médicas y comerciales; así como por las mercancías originarias de México que hubieren sido retornadas por causas no imputables al exportador.
 
 ###### ARTICULO 86-B.
 
@@ -6343,23 +6127,29 @@ II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 86-D.
 
-Por la aprobación para el funcionamiento de los siguientes establecimientos u organismos, se pagará el derecho de aprobación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
+Por el estudio, trámite y, en su caso, la aprobación o autorización para el funcionamiento de órganos de coadyuvancia se pagará el derecho de aprobación o autorización en materia de sanidad agropecuaria conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Organismos de normalización $34,332.85 $34,333
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+I. Personas Físicas: Médico Veterinario Responsable o Tercero Especialista $626.38
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Organismos de certificación $66,410.34 $66,410
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Unidades de verificación:
 
@@ -6375,17 +6165,13 @@ b).- Personas morales $5,072.12 $5,072
 
 IV.- Laboratorios de pruebas $2,004.72 $2,005
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Médicos veterinarios para brindar
+V. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-servicios de asistencia técnica y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-capacitación zoosanitaria a los
-
-productores $626.38 $626
-
-Por duplicado o refrendo de la aprobación a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 (ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -8663,6 +8449,12 @@ para operar servicios transfronterizos de
 
 turismo, por permiso. $475.40 $475
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Cuando los permisos a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por permiso $173.00
+
 (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para la construcción, operación
@@ -8781,9 +8573,9 @@ C. Licencias para conducir:
 
 a).- Expedición. $334.68 $335
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Refrendo. $89.88 $90
+b). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -8803,43 +8595,13 @@ Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, 
 
 D. Servicios diversos:
 
-I.- Alta de vehículos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-a).- Alta de vehículo automotor,
+I. Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares, por unidad; alta de vehículo automotor, remolque o semirremolque y automóvil para uso particular en el registro de arrendamiento, por vehículo $488.42
 
-remolque o semirremolque en el
-
-permiso de los servicios de
-
-autotransporte federal y servicios
-
-auxiliares, por unidad; alta de
-
-vehículo automotor, remolque o
-
-semirremolque y automóvil para
-
-uso particular en el registro de
-
-arrendamiento, por vehículo. $488.42 $488
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Alta de vehículo automotor,
-
-remolque o semirremolque en
-
-arrendamiento en el permiso de
-
-los servicios de autotransporte
-
-federal y servicios auxiliares, a
-
-través de medios electrónicos,
-
-por vehículo. $177.39 $177
+Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo o unidad $177.00
 
 II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -8887,81 +8649,13 @@ de emisiones contaminantes de los
 
 vehículos de pasaje y carga. $11.82 $12
 
-VI.- Registros:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+VI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-a).- De horario para los servicios
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de autotransporte federal de pasaje,
-
-por ruta. $118.26 $118
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- De escrituras constitutivas
-
-o actas de asamblea, incluidas sus
-
-modificaciones de empresas de
-
-autotransporte federal, de
-
-arrendadoras de remolques,
-
-semirremolques, automóviles y
-
-vehículos automotores con placas
-
-del servicio de autotransporte
-
-federal, por empresa. $118.26 $118
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- De empresas fabricantes de
-
-placas y/o calcomanías, y asignación
-
-de número para su control, por
-
-empresa. $7,777.99 $7,778
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d).- Para la celebración de convenios
-
-entre transportistas para la prestación
-
-de servicios de una misma clase y
-
-enrolar sus servicios en la ruta que
-
-tengan autorizada, por convenio. $1,604.80 $1,605
-
-VII.- Reconocimientos:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Reconocimiento para instructores
-
-de conductores del servicio de
-
-autotransporte federal o transporte
-
-privado, por instructor. $164.39 $164
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Reconocimiento para operar un
-
-centro de capacitación y adiestramiento
-
-de conductores del servicio de
-
-autotransporte federal, y transporte
-
-privado, por centro. $868.03 $868
+VII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -9022,6 +8716,12 @@ remolque o semirremolque en el
 permiso de transporte privado de
 
 personas o carga, por vehículo. $488.42 $488
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo $177.00
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -9103,297 +8803,11 @@ conforme a la cuota de $9.97 $10
 
 Tratándose de los derechos a que se refiere este artículo, los usuarios con operaciones no regulares deberán calcular y enterar el pago correspondiente por cada aeronave, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, al día siguiente de haberse proporcionado dichos servicios. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria dentro de los diez días del mes siguiente a aquél en que se reciban los servicios, anexando un desglose que contenga las operaciones efectuadas en el mes por cada aeronave.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 151.
 
-Los usuarios que requieran la utilización de los servicios adicionales que presta SENEAM, deberán pagar el derecho que corresponda, conforme a lo siguiente:
-
-A. Servicios de Telecomunicaciones Aeronáuticas. Conexión a la Red Fija de Telecomunicaciones Aeronáuticas (AFTN), los derechos por este servicio incluyen:
-
-El manejo de mensajes, ATA/IATA, OACI y WMO, a razón de 600 caracteres por mensaje (incluye preámbulo, dirección, procedencia y fin del mensaje); informes meteorológicos de aeródromo regulares horarios (METAR); informes meteorológicos de aeródromo especiales (SPECI) de México y de los Estados Unidos de América; pronósticos meteorológicos aeronáuticos terminales de México (FTMX) y de los Estados Unidos de América (FTUS); y pronósticos meteorológicos aeronáuticos de área de México (FAMX) y de los Estados Unidos de América (FAUS).
-
-Por los siguientes servicios, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por instalación a la AFTN
-
-(incluye software) $5,500.34 $5,500
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por cada estación conectada
-
-una cuota mensual de $19,251.21 $19,251
-
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
-
-B. Servicios al Banco de Imágenes Meteorológicas (BIMA). Para la obtención de imágenes meteorológicas del satélite, se pagarán derechos conforme a las siguientes cuotas:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por el servicio de acceso hasta
-
-150 consultas mensuales $4,125.25 $4,125
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por cada consulta adicional $275.01 $275
-
-C. Por los servicios de asistencia técnica meteorológica, se pagarán previamente los derechos conforme a las siguientes cuotas:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por los datos estadísticos
-
-meteorológicos históricos de un
-
-aeropuerto correspondientes a un
-
-año, se pagará una cuota única de $3,344.07 $3,344
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por los datos estadísticos
-
-meteorológicos históricos de un
-
-aeropuerto correspondientes a este
-
-apartado de 6 meses o menor, se
-
-pagará una cuota única de $1,631.89 $1,632
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por las tablas estadísticas
-
-climatológicas, con información de
-
-6 parámetros meteorológicos de un
-
-año de un solo aeropuerto,
-
-se pagará una cuota única de $3,344.07 $3,344
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Por las tablas estadísticas
-
-climatológicas, con información de 1 a 3
-
-parámetros meteorológicos de un año
-
-de un solo aeropuerto, se pagará una
-
-cuota única de $1,631.89 $1,632
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-V.- Por cada imagen meteorológica de
-
-satélite impresa a color solicitada al
-
-CAPMA de SENEAM, se pagará una
-
-cuota única de $38.28 $38
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VI.- Por cada imagen meteorológica
-
-de satélite impresa en blanco y
-
-negro, solicitada al CAPMA de
-
-SENEAM, se pagará una cuota
-
-única de $25.51 $26
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VII.- Por cada carpeta de información
-
-meteorológica conteniendo carta de
-
-pronóstico de tiempo significativo,
-
-cartas de pronóstico de vientos y
-
-temperaturas de 500, 300 y 200
-
-milibares, pronóstico terminal, imagen
-
-satélite, aviso de huracán e
-
-información meteorológica significativa,
-
-se pagará una cuota única de $191.39 $191
-
-D. Por los servicios de asistencia técnica, se pagarán derechos conforme a las siguientes cuotas:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por la asistencia técnica a equipos
-
-y sistemas de los usuarios que se
-
-encuentren ubicados en las
-
-instalaciones de SENEAM, se pagará
-
-por cada equipo instalado una cuota
-
-mensual de $6,688.16 $6,688
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por la asistencia técnica a circuitos
-
-ACARS que se encuentren ubicados
-
-en las instalaciones de SENEAM, se
-
-pagará por cada equipo instalado una
-
-cuota mensual de $17,924.32 $17,924
-
-E. Por los servicios de acceso al monitoreo visual de progreso de vuelo, se pagarán derechos conforme a las siguientes cuotas:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Cuota por instalación, software y
-
-asistencia técnica de 40 horas de
-
-teoría y práctica, por una sola vez $15,833.69 $15,834
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Cuota mensual por acceso
-
-a este sistema $33,440.91 $33,441
-
-F. Para la formación teórica y práctica de controladores de tránsito aéreo, previo a la prestación del servicio, se pagarán derechos por cada alumno y por hora de instrucción, las siguientes cuotas:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por la formación en el servicio
-
-de control de tránsito aéreo de control
-
-de aeródromo $160.51 $161
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por la formación en el servicio de
-
-control de tránsito aéreo de aproximación
-
-no radar y radar en áreas terminales $240.76 $241
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por la formación en el servicio de
-
-control de tránsito aéreo de área no
-
-radar y radar $261.56 $262
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Por la formación de supervisores
-
-en el servicio de control de tránsito
-
-aéreo de aeródromo $156.92 $157
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-V.- Por la formación de supervisores
-
-en el servicio de control de tránsito
-
-aéreo de aproximación radar en áreas
-
-terminales $234.77 $235
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VI.- Por la formación de supervisores
-
-en el servicio de control de tránsito
-
-aéreo de radar ruta $261.56 $262
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VII.- Por la actualización de habilidades
-
-y conocimientos teórico prácticos de
-
-cualquiera de los servicios señalados
-
-en las fracciones anteriores $200.63 $201
-
-G. Por los servicios de capacitación a personal técnico aeronáutico que se describe a continuación, previamente se pagarán los derechos conforme a las siguientes cuotas:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por la exposición, curso, conferencia
-
-o seminario de un especialista en
-
-meteorología de los siguientes temas:
-
-interpretación de imágenes de satélite,
-
-ciclones tropicales, sistemas frontales,
-
-corriente en chorro, turbulencia, tormentas
-
-severas, formación de hielo, corrientes
-
-descendentes violentas y fenómeno
-
-del niño (Enso), se pagarán derechos
-
-por cada hora $893.15 $893
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por la exposición, curso, conferencia
-
-o seminario de un especialista en el
-
-área técnica de los siguientes temas:
-
-procedimientos terminales y de ruta o
-
-servicios de información aeronáutica,
-
-se pagarán derechos por cada hora $893.15 $893
-
-Para los efectos de este artículo, el usuario deberá de solicitar los servicios por escrito a SENEAM, con excepción de los servicios previstos en las fracciones V, VI y VII del Apartado C.
-
-Para determinar el monto de los derechos a que se refieren los Apartados A y B de este artículo, SENEAM dará a conocer al usuario dentro de los tres primeros días del mes siguiente a aquél al que corresponda el pago, los mensajes y consultas adicionales que hubieren generado los usuarios en dicho mes.
-
-Los usuarios que tengan autorizado por SENEAM la prestación de los servicios establecidos en los Apartados A, B y E de este artículo, calcularán y enterarán el derecho, desglosando los conceptos mediante pagos mensuales dentro de los primeros diez días del mes siguiente a aquél en que reciba los servicios por los que se paga el derecho.
-
-Para tener acceso a los sistemas establecidos en los Apartados A, B y E de este artículo, el equipo que utilice el usuario deberá contar con la aprobación previa y por escrito de SENEAM y con el enlace necesario.
-
-No se pagarán los derechos a que se refiere el Apartado C de este artículo, cuando la información se proporcione a las instituciones de enseñanza educativa sin fines de lucro, para investigación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-No se pagará el derecho señalado en el Apartado F de este artículo, siempre y cuando la capacitación se proporcione para la formación teórica y práctica de personal del Gobierno Federal en materia de seguridad nacional y defensa nacional.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 151-A.
 
@@ -9431,89 +8845,11 @@ VI.- Que participen en festivales aéreos organizados por la autoridad aeronáut
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 153.
 
-Por los servicios relativos a la inscripción en el Registro Aeronáutico Mexicano, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- De aeronaves $2,505.91 $2,506
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- De concesiones o permisos de
-
-transporte aéreo, o de los documentos
-
-relativos al arrendamiento de
-
-aeronaves y motores mexicanos y
-
-extranjeros $666.61 $667
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- De concesiones o permisos de
-
-aeropuertos, helipuertos, aeródromos
-
-o hidroaeródromos $2,505.91 $2,506
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- De permisos de pistas
-
-Comunitarias $501.04 $501
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-V.- De pólizas de seguros $1,252.90 $1,253
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VI.- De resoluciones o acuerdos
-
-emitidos por autoridad competente $1,124.24 $1,124
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VII.- De contratos de prestación de
-
-servicios aeroportuarios y
-
-complementarios, así como sus
-
-modificaciones $407.07 $407
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VIII.- De las certificaciones relativas
-
-a las ayudas a la navegación aérea,
-
-sea cual fuere su naturaleza,
-
-incluyendo las visuales y las
-
-electrónicas $393.40 $393
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IX.- Por otros servicios
-
-prestados por el Registro $501.04 $501
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-No se pagará el derecho a que se refiere la fracción VIII de este artículo, por las certificaciones solicitadas por la Secretaría de Comunicaciones y Transportes.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 153-A.
 
@@ -9787,11 +9123,11 @@ b).- Personal de tierra $375.78 $376
 
 III.- Por reposición de la licencia $375.78 $376
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-No se pagará el derecho a que se refiere este artículo por la expedición de capacidades y licencias al personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes, con actividades en materia de seguridad nacional.
+No se pagará el derecho a que se refiere la fracción II de este artículo por la revalidación de licencias al personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -9813,9 +9149,9 @@ a).- De aeronavegabilidad $1,252.90 $1,253
 
 b).- De matrícula $1,252.90 $1,253
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c).- De matrícula provisional $1,252.90 $1,253
+c). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -9849,13 +9185,9 @@ del certificado de aeronavegabilidad
 
 o matrícula $1,252.90 $1,253
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por la cancelación del certificado
-
-de matrícula a petición de parte
-
-interesada $509.51 $510
+IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -9865,7 +9197,9 @@ nacionalidad y matrícula con siglas
 
 especiales $16,398.64 $16,399
 
-Las cuotas de los derechos establecidos en las fracciones I y II ya incluyen la inscripción en el Registro Aeronáutico Mexicano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -9949,189 +9283,33 @@ I. Por el examen para el permiso de formación o capacitación, por cada uno $70
 
 II. Por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, por cada uno $1,550.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-No se pagarán los derechos a que se refiere este artículo cuando sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes, con actividades en materia de seguridad nacional.
+No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
 
 #### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 162.
 
-Por el Registro Público Marítimo Nacional, se pagará el derecho de registro marítimo nacional conforme a las siguientes cuotas:
+Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de $349.93
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-A. Tratándose de Buques, por el estudio y trámite de la solicitud y, en su caso, inscripción de:
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I. Los certificados de las
-
-matrículas de las embarcaciones
-
-y artefactos navales mexicanos $623.45 $623
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II. Los contratos de
-
-adquisición, enajenación o
-
-cesión, así como los actos
-
-constitutivos de derechos
-
-reales, traslativos o extintivos
-
-de propiedad, sus modalidades,
-
-hipotecas, gravámenes y
-
-privilegios marítimos sobre
-
-las embarcaciones y
-
-artefactos navales mexicanos $349.93 $350
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III. Los contratos de
-
-arrendamiento o fletamento
-
-a casco desnudo de
-
-embarcaciones mexicanas $377.02 $377
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV. Los contratos de
-
-construcción, de embarcaciones
-
-en México o de aquellas que se
-
-construyan en el extranjero y se
-
-pretendan abanderar como mexicanas $377.02 $377
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-V. De la cancelación de
-
-cualquiera de los actos
-
-especificados en este apartado $589.57 $590
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-B. Por el estudio y trámite de
-
-la solicitud y, en su caso, la
-
-inscripción de los navieros y
-
-agentes mexicanos, así como
-
-de los operadores, se pagará
-
-por concepto de derecho de
-
-Registro Marítimo Nacional
-
-la cuota de $1,164.53 $1,165
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-C. Por el estudio de la solicitud y, en
-
-su caso, la inscripción de cualquier
-
-contrato o documento relativo a
-
-embarcaciones, comercio marítimo y
-
-actividad portuaria que no se encuentre
-
-comprendido en los apartados de
-
-este artículo, se pagará por concepto
-
-de derecho de Registro Marítimo
-
-Nacional $351.55 $352
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por el registro de los contratos de
-
-cesión parcial de derechos y de
-
-prestación de servicios que celebran
-
-los administradores portuarios
-
-integrales, así como los contratos
-
-que celebren con terceros, se
-
-pagará por concepto de derecho de
-
-Registro Marítimo Nacional la cuota de $367.46 $367
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por la consulta de los asientos
-
-registrales contenidas en los
-
-folios marítimos, relativos a las
-
-inscripciones efectuadas en el
-
-Registro Público Marítimo Nacional $101.76 $102
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por la expedición de certificados
-
-de inscripción y no inscripción $349.93 $350
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-D.- Por anotaciones relativas a embarcaciones, empresas pesqueras o sociedades cooperativas, se pagará el 60% de las cuotas establecidas en los apartados anteriores.
-
-E.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 163.
 
-No se pagarán los derechos a que se refiere el artículo anterior cuando se trate de:
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-I. Inscripciones relativas a la transmisión o adquisición de buques o derechos reales, y demás actos en los que intervengan la Federación, Entidades Federativas y municipios, o en caso de que soliciten información o expedición de certificados.
-
-II. Inscripciones a requerimiento de autoridades judiciales federales y estatales, autoridades del trabajo y administrativas, que actúan en el ejercicio de sus funciones.
-
-III. Actos relacionados con instituciones educativas públicas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 164.
 
-Cuando un mismo título o documento origine dos o más inscripciones en el Registro Marítimo por contener distintos actos jurídicos u operaciones diferentes, los derechos se pagarán por cada una de las mismas, calculándose separadamente.
-
-Si existe duplicidad en el registro de acto o documento realizado ante la central y cualquiera de las Oficinas Locales del Registro Público Marítimo Nacional, no se hará la devolución de derechos y subsistirá la inscripción hecha en primer término.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -10309,27 +9487,9 @@ toneladas brutas de arqueo $6,150.02 $6,150
 
 brutas de arqueo $7,029.42 $7,029
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-f).- Por la cancelación del certificado
-
-de matrícula de todo tipo de
-
-embarcaciones, exceptuando las
-
-señaladas en el siguiente párrafo,
-
-se pagará una cuota de $409.79 $410
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-Para el caso de las embarcaciones
-
-de hasta 10 metros de eslora sin
-
-cubierta corrida, destinadas a la pesca
-
-ribereña, se pagará la cuota de $79.52 $80
+f). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
@@ -10501,43 +9661,13 @@ a partir de 2 toneladas por tonelada
 
 bruta de arqueo o fracción $6.07 $6
 
-VIII.- La expedición de liberación de embarques de cargas a buques mercantes de tercera bandera, que realicen el transporte de mercancías con destino a los puertos de los países con los cuales los Estados Unidos Mexicanos han suscrito convenios bilaterales de transporte marítimo y que no sean operados por los armadores nacionales autorizados por sus respectivos gobiernos en ámbito del convenio que se trate, por toneladas de carga liberada:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-a).- Embarques de hasta 500
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-toneladas de carga $11,009.19 $11,009
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Embarques de 500.01 hasta
-
-1000 toneladas de carga $16,544.17 $16,544
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- Embarques de 1000.01 hasta
-
-3,000 toneladas de carga $22,259.48 $22,259
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d).- Embarques de 3,000.01 hasta
-
-9,000 toneladas de carga $27,674.11 $27,674
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-e).- Embarques de 9,000.01
-
-toneladas de carga en adelante $33,088.64 $33,089
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IX.- Por la expedición de permisos
-
-de amarre temporal $622.62 $623
+IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -10549,19 +9679,9 @@ reflotación de embarcaciones,
 
 aeronaves o artefactos navales $3,635.14 $3,635
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Por asignación de la señal
-
-distintiva de llamada a las
-
-embarcaciones, salvo disposición
-
-en contrario establecida en los
-
-convenios internacionales en los
-
-que México sea parte $683.02 $683
+XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -10583,35 +9703,11 @@ renovación de autorización, por cada
 
 técnico $840.11 $840
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 165-A.
 
-Por actos relacionados con el programa de abanderamiento se pagará el derecho de navegación marítima, conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
-
-II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por autorizar la sustitución de
-
-cada embarcación inscrita $1,789.51 $1,790
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Por la cancelación de
-
-inscripción antes del plazo
-
-otorgado para su
-
-abanderamiento $13,278.13 $13,278
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -10687,35 +9783,11 @@ III.- Los hospitales de beneficencia pública.
 
 IV.- Las instalaciones de señales marítimas y maniobras de rescate.
 
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 168-A.
 
-Por los servicios relativos a las tarifas de los servicios de transporte por agua en las vías generales de comunicación, se pagarán las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Por el registro de bases tarifarias del
-
-servicio regular de transporte de altura
-
-de líneas conferenciadas $655.69 $656
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por la autorización de bases
-
-tarifarias del servicio regular de
-
-transporte de cabotaje de pasajeros
-
-o servicios de transporte
-
-de mercancías $655.69 $656
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -10805,29 +9877,9 @@ c).- Embarcaciones de 500 o más
 
 unidades de arqueo bruto $3,869.55 $3,870
 
-IV.- Seguridad, salvamento y auxilio a la navegación:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Embarcaciones cuya capacidad
-
-sea hasta 3.5 unidades de arqueo
-
-bruto $1,081.13 $1,081
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Embarcaciones mayores a 3.5 y
-
-menores de 500 unidades de arqueo
-
-bruto $2,162.27 $2,162
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- Embarcaciones de 500 o más
-
-unidades de arqueo bruto $3,243.43 $3,243
+IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 cuota sin cuota con
 
@@ -10943,55 +9995,9 @@ excedentes $2.0732
 
 Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por certificación o revalidación:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Hasta 10 toneladas $31.82 $32
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- De más de 10 y hasta 20
-
-toneladas $63.71 $64
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- De más de 20 y hasta 75
-
-toneladas $255.24 $255
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d).- De más de 75 y hasta 200
-
-toneladas $319.06 $319
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-e).- De más de 200 y hasta 1000
-
-toneladas $446.72 $447
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-f).- De más de 1000 y hasta 2000
-
-toneladas $510.59 $511
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-g).- De más de 2000 toneladas brutas
-
-de arqueo, por las primeras 2000 la
-
-cuota señalada en el inciso anterior y
-
-por cada una o fracción de las
-
-excedentes $0.08
+II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11481,31 +10487,11 @@ I.- Por persona moral $17,357.66 $17,358
 
 II.- Por persona física $1,590.91 $1,591
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 170-F.
 
-Por la revisión,
-
-verificación y, en su caso, autorización
-
-a las personas físicas o morales para
-
-realizar a nombre del Gobierno Mexicano
-
-el servicio de recepción de desechos,
-
-de las embarcaciones o artefactos
-
-navales, se pagará anualmente el
-
-derecho de recepción de desechos
-
-conforme a la cuota de: $32,190.75 $32,191
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -12895,105 +11881,11 @@ carácter histórico o artístico de un bien
 
 mueble o inmueble $93.22 $93
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 180.
 
-Por las autorizaciones para la realización de obras en bienes inmuebles considerado monumentos históricos o artísticos, en inmuebles colindantes a esos monumentos, en edificaciones en zonas de monumentos históricos declarados, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Autorización para la realización de obra nueva:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Para casa habitación y
-
-escuelas $44.51 $45
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Para conjuntos de departamentos,
-
-la cuota del inciso anterior y además,
-
-por cada unidad $44.51 $45
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- Para conjunto de casas las
-
-cuotas de los incisos a) y b) y
-
-además, por cada unidad $224.02 $224
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d).- Para edificios de oficinas o
-
-mixtos $55.66 $56
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-e).- Para edificios industriales,
-
-bodegas, talleres, fábricas o
-
-servicios de automóviles y
-
-estacionamientos $68.18 $68
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-f).- Para restaurantes, hoteles,
-
-hospitales, teatros y cines $68.18 $68
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-g).- Para conjuntos comerciales,
-
-supermercados, cabarets y
-
-similares $111.71 $112
-
-II.- Autorización para demolición, ampliación, modificación, restauración o rehabilitación, reestructuración y prórrogas de licencia:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Para demolición $22.01 $22
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Para ampliación $68.18 $68
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- Para modificación $68.18 $68
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d).- Cualquier caso de obra no
-
-especificado $68.18 $68
-
-III.- Autorización para la fijación de anuncios:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Adosados al muro $22.01 $22
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- En saliente $69.51 $70
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- Cualquier caso de anuncio
-
-no especificado $68.18 $68
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 181.
 
@@ -13119,15 +12011,9 @@ XII.- Por la recepción y estudio del escrito de queja dentro del procedimiento 
 
 Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII.- Presentación del escrito que
-
-dé inicio al procedimiento de
-
-infracción administrativa en materia
-
-de derechos de autor $1,403.18 $1,403
+XIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -13209,31 +12095,25 @@ expedientes de reservas de derechos
 
 al uso exclusivo $736.56 $737
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXI. Otorgamiento de números relativos al Número Internacional Normalizado del Libro (ISBN) $152.00
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+XXI. Respecto del Número Internacional Normalizado del Libro (ISBN):
 
-XXII.- Solicitud de declaración
+a). Por el otorgamiento del ISBN $152.00
 
-administrativa de nulidad de reservas
+b). Por la expedición de cada certificado o constancia $123.00
 
-de derechos al uso exclusivo $1,396.84 $1,397
+No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en formato Braille, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad visual.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIII.- Solicitud de declaración
+XXII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-administrativa de cancelación de los
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-actos emitidos por el Instituto
-
-Nacional del Derecho de Autor en los
-
-expedientes de reservas de derechos
-
-al uso exclusivo $1,398.41 $1,398
+XXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -13266,6 +12146,12 @@ XXVI. Solicitud de práctica de visita de inspección a establecimientos comerci
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
 Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXVII. Por la expedición de cada certificado o constancia relacionados con el Número Internacional Normalizado para Publicaciones Periódicas (ISSN) $123.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -13667,35 +12553,21 @@ d).- De educación primaria $5.72 $6
 
 Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a personas con o sin discapacidad no causarán el derecho a que se refiere esta fracción.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI.- Permiso provisional de
-
-práctica de locución $515.93 $516
+XVI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 XVII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-XIX.- Expedición de certificados de aptitud:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+XIX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-a).- De locutor $388.90 $389
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- De cronista o comentarista $640.38 $640
-
-XX.- Expedición de duplicado de certificados de aptitud:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- De locutor $388.90 $389
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- De cronista o comentarista $640.38 $640
+XX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -13741,27 +12613,9 @@ XXVI.- Expedición de duplicado de
 
 credencial de la preparatoria abierta $28.75 $29
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXVII.- Por los cursos de formación y capacitación para profesionales en producción televisiva y audiovisual educativa:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- Por cada hora o fracción de
-
-curso teórico $31.17 $31
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- Por cada hora o fracción de
-
-curso práctico $37.40 $37
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c).- Por cada hora o fracción de
-
-curso teórico-práctico $43.64 $44
+XXVII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
@@ -13769,183 +12623,17 @@ curso teórico-práctico $43.64 $44
 
 ###### ARTICULO 187.
 
-Por los servicios que presta el Registro Agrario Nacional, relativos a la inscripción y en su caso expedición de los documentos en que consten las operaciones originales y las modificaciones que sufra la propiedad ejidal y comunal, así como los derechos constituidos respecto de la misma, los relacionados con terrenos de colonias agrícolas y ganaderas, los que se refieran a la constitución de sociedades rurales y sobre propiedades agrícolas, ganaderas o forestales de las sociedades mercantiles y civiles; así como asistencia técnica y catastral, y demás servicios, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios que presta el Registro Agrario Nacional, relativos a la expedición de los documentos en que consten las operaciones originales y las modificaciones que sufra la propiedad ejidal y comunal, así como los derechos constituidos respecto de la misma, los relacionados con terrenos de colonias agrícolas y ganaderas, los que se refieran a la constitución de sociedades rurales y sobre propiedades agrícolas, ganaderas o forestales de las sociedades mercantiles y civiles, se pagarán derechos conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
 
-A.- Por la inscripción de:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+A. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-I.- Documentos públicos o
-
-privados por virtud de los
-
-cuales se reconozcan, creen,
-
-modifiquen, transmitan o
-
-extingan derechos sobre
-
-tierras ejidales o comunales,
-
-siempre que no provengan
-
-del Fondo de Apoyo para los
-
-Núcleos Agrarios sin Regularizar $207.03 $207
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-No se pagará el derecho establecido en esta fracción cuando la inscripción se ordene en resolución firme emitida por los tribunales competentes.
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Cancelación o rectificación de
-
-las inscripciones $37.58 $38
-
-III.- Acuerdo de asamblea que apruebe:
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-a).- El Reglamento Interno de las
-
-Colonias Agrícolas y Ganaderas y sus
-
-Modificaciones $47.66 $48
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b).- La Adopción de Dominio Pleno de
-
-Colonias, que no provengan del
-
-Programa de Regularización $100.17 $100
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Otorgamiento del usufructo de
-
-las tierras de uso común o parceladas,
-
-como garantía para respaldar el
-
-cumplimiento de los contratos
-
-refaccionarios, de habilitación o avío
-
-o cualquier otro acto u obligación $37.58 $38
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-V.- Documentos públicos o privados
-
-por los que se constituyan, modifiquen,
-
-liquiden, o extingan sociedades de
-
-solidaridad social, uniones de ejidos,
-
-sociedades de producción rural,
-
-asociaciones rurales de interés colectivo,
-
-así como cualquiera otra forma asociativa
-
-que constituyan los ejidatarios, comuneros
-
-o pequeños propietarios conforme a la
-
-Ley Agraria, incluidas las relativas a la
-
-explotación de parcelas con destino
-
-específico y sus modificaciones $94.38 $94
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VI.- Conversión del régimen de dominio
-
-pleno al ejidal $212.43 $212
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VII.- Planos generales e internos,
-
-así como los de las grandes áreas
-
-de ejidos y comunidades que no
-
-provengan del Fondo de Apoyo
-
-para los Núcleos Agrarios sin
-
-Regularizar $47.14 $47
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VIII.- Acuerdo de asamblea a que se
-
-refieren las fracciones I a VI y XV del
-
-artículo 23 de la Ley Agraria, así como
-
-su modificación, por cada uno $47.04 $47
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IX.- Acuerdo de asamblea a que se
-
-refieren las fracciones VII a la XIV
-
-del artículo 23 de la Ley Agraria,
-
-así como sus modificaciones, por
-
-cada uno $100.17 $100
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-X.- Documentos públicos o privados
-
-por los que se constituyan sociedades
-
-civiles o mercantiles, emisoras o
-
-tenedoras de acciones o partes
-
-sociales serie “T”, así como aquellos
-
-que hagan constar el aumento o
-
-disminución del capital y la emisión de
-
-acciones o partes sociales de la serie
-
-“T”, la adquisición o enajenación de
-
-predios rústicos, modificaciones al
-
-contrato social, así como su liquidación
-
-y extinción $212.49 $212
-
-XI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-XII.- Escritura constitutiva de un
-
-nuevo ejido $212.43 $212
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-No se pagará el derecho establecido en la fracción I, de este Apartado, tratándose de la inscripción en el Registro Agrario Nacional de las resoluciones que dicten los Tribunales Agrarios, cuando las mismas se refieran a alguna acción agraria de las que se encuentran contempladas dentro del rezago agrario, en términos del Artículo Tercero Transitorio del Decreto por el que se reforma el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992 y de la Ley Agraria.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
@@ -13977,25 +12665,13 @@ III.- Títulos de propiedad de
 
 origen parcelario $179.72 $180
 
-C.- Por la reposición de:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-I.- Certificados parcelarios o de
+C. Por la reposición de certificados parcelarios o de derechos sobre tierras de uso común; así como de certificados de derechos agrarios, por cada uno $94.31
 
-derechos sobre tierras de uso
-
-común; así como de certificados
-
-de derechos agrarios expedidos
-
-por resolución jurisdiccional $94.31 $94
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-En este supuesto no se pagará el derecho establecido en el apartado A, fracción II de este artículo.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 D.- Por la expedición de otros documentos:
 
@@ -14011,11 +12687,9 @@ II.- Oficios informativos sobre
 
 ubicación de predios $123.48 $123
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-Tratándose de solicitudes de oficios informativos que impliquen la asistencia técnica y catastral, se pagarán adicionalmente, los derechos señalados en el apartado E, fracción I de este artículo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -14023,79 +12697,33 @@ III.- Listado de ejidatarios o comuneros
 
 con derechos vigentes $181.59 $182
 
-E.- Por la asistencia técnica y catastral:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Fondo de Apoyo para los Núcleos Agrarios sin Regularizar o del Programa de Regularización de Colonias.
+IV. Listados prediales referenciados a carta catastral, por cada hoja tamaño carta u oficio $47.04
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) De 0.1 a 10 hectáreas $531.85 por hectárea
+E. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-b) De 10.1 a 50 hectáreas $468.01 por hectárea
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-c) De 50.1 a 100 hectáreas $382.87 por hectárea
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-d) De 100.1 a 500 hectáreas $319.06 por hectárea
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-e) De 500.1 a 1,500 hectáreas $191.39 por hectárea
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-f) De 1,500.1 a 10,000 hectáreas $127.53 por hectárea
-
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
-
-g) De 10,000.1 y más hectáreas $63.71 por hectárea
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Carta Catastral, en términos del
-
-artículo 98 del Reglamento Interior
-
-del Registro Agrario Nacional, por
-
-cada uno $94.31 $94
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Listados prediales referenciados
-
-a carta catastral, por hoja tamaño
-
-carta u oficio, por cada una $47.04 $47
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 F.- Por otros servicios:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por el depósito de lista de sucesión
+I. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-y expedición de la constancia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-correspondiente $27.50 $28
+II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por la apertura de lista de
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-Sucesión $27.50 $28
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Por las anotaciones preventivas,
-
-su rectificación o cancelación $47.04 $47
+III. Por las anotaciones preventivas, su rectificación o cancelación, así como por la cancelación o rectificación de las inscripciones $47.04
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -14105,7 +12733,15 @@ certificadas de cada plano tamaño
 
 carta u oficio $13.17 $13
 
-No se pagará el derecho establecido en esta fracción cuando el servicio sea solicitado por la Federación, el Distrito Federal, Estados y Municipios en relación con asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate de la expedición de copias certificadas para la substanciación del juicio de amparo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO [N. DE E. DE LA FRACCION], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+No se pagarán los derechos establecidos en este artículo cuando se trate del cumplimiento de resoluciones judiciales firmes emitidas por los tribunales competentes, así como por las anotaciones preventivas ordenadas por autoridad competente.
 
 > <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -14365,7 +13001,9 @@ Los ingresos que se obtengan por la recaudación de este derecho, que no estén 
 
 #### SECCION PRIMERA. Registro Agrario Nacional
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 191-A.
 
@@ -14833,11 +13471,13 @@ IX.- Imponer y condonar multas.
 
 X.- Notificar los créditos fiscales determinados.
 
-XI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XI. Con excepción del uso doméstico amparado en los títulos de concesión y del uso público urbano amparado en los títulos de asignación, la Comisión Nacional del Agua, podrá interrumpir el uso, explotación o aprovechamiento de bienes del dominio público de la Nación cuando no se haya cubierto la totalidad del pago del derecho que corresponda en uno o más trimestres. Para estos efectos, se requerirá al contribuyente la presentación de los comprobantes de pago o, en su caso, los documentos que contengan las aclaraciones correspondientes en un plazo de 10 días hábiles y en el supuesto de que éstos no sean proporcionados o no acrediten el pago total del derecho se procederá a efectuar la interrupción del uso, explotación o aprovechamiento de los bienes del dominio público de la Nación, hasta en tanto se efectúen los pagos correspondientes.
 
 El ejercicio de las facultades a que se refiere este artículo, es independiente y sin menoscabo de las atribuciones que competen a la Secretaría de Hacienda y Crédito Público.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -15229,7 +13869,11 @@ I.- Por cada solicitud de registro
 
 en materia de vida silvestre $331.20 $331
 
-No pagarán el derecho que se establece en esta fracción, cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, así como el de colecciones científicas o museográficas públicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+No se pagará el derecho que se establece en esta fracción cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, de mascotas y aves de presa, de prestadores de servicios en materia de vida silvestre, así como de colecciones científicas o museográficas públicas o privadas.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -15243,11 +13887,9 @@ aprovechamiento en caza
 
 deportiva $919.32 $919
 
-Por la reposición de la licencia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-referida en esta fracción, se
-
-pagará la cuota de $402.21 $402
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -15677,19 +14319,11 @@ subproductos forestales fuera de
 
 la región y franja fronteriza $935.07 $935
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por la verificación de la calidad
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-sanitaria de los embarques y, en
-
-su caso, la expedición de cada
-
-certificado fitosanitario internacional
-
-para la exportación de productos
-
-y subproductos forestales $748.05 $748
+II. Por la verificación de la calidad sanitaria de los embarques y, en su caso, la expedición de cada certificado fitosanitario internacional para la exportación o la reexportación de materias primas o productos forestales $748.05
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -15751,25 +14385,11 @@ forestales con fines científicos $1,264.07 $1,264
 
 III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 194-N
 
-5.- Por la expedición de documentos que deban utilizar los interesados para acreditar la legal procedencia de materias primas, productos y subproductos forestales, se pagará el derecho conforme a la cuota de:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I. De 1 a 3 documentos: $9.94 $10
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II. A partir del cuarto documento, por
-
-cada uno: $3.31 $3
+5.- (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -15799,87 +14419,23 @@ ambiental $935.07 $935
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 194-P.
 
-Por los servicios
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-de verificación y certificación de
-
-equipos de medición de contaminantes
-
-de vehículos automotores en circulación
-
-en centros autorizados, se pagará el
-
-derecho de prevención y control de
-
-la contaminación conforme a la
-
-cuota de $445.85 $446
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 194-Q.
 
-Por el servicio de
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-certificación y verificación de emisiones
-
-contaminantes de vehículos
-
-automotores nuevos, a través de la
-
-prueba de laboratorio de emisiones
-
-vehiculares, por el método "CVS 75",
-
-se pagará por cada prueba que se
-
-realice el derecho de prevención y
-
-control de la contaminación, conforme
-
-a la cuota de $14,654.86 $14,655
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 194-R.
 
-Por el servicio
-
-de evaluación y verificación de la
-
-aplicación de métodos, procedimientos,
-
-partes, componentes y equipos que
-
-reduzcan las emisiones de contaminantes
-
-a la atmósfera generados por vehículos
-
-automotores, a través de la prueba
-
-estática de emisiones vehiculares, se
-
-pagará por cada prueba que se realice
-
-el derecho de prevención y control de
-
-la contaminación, conforme a la cuota $150.33 $150
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 194-S.
 
@@ -16311,6 +14867,16 @@ Los ingresos que se obtengan por la recaudación de los derechos contenidos de l
 
 Cuando los solicitantes, con base en el artículo 109-Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y conforme a los lineamientos de carácter general que emita la Secretaría de Medio Ambiente y Recursos Naturales, presenten una solicitud única para dos o más trámites o servicios establecidos de la Sección Quinta a la Sección Novena del presente Capítulo para la autorización de un proyecto, sólo pagarán el derecho más alto que corresponda a los trámites y servicios solicitados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 194-Y.
+
+Por la recepción, evaluación y dictamen del Documento Técnico Unificado y, en su caso, la autorización en Materia de Impacto Ambiental en su modalidad particular y del aprovechamiento de recursos forestales maderables o el refrendo del mismo se pagará una cuota de: $8,680.00
+
+Por la solicitud y, en su caso, autorización de la modificación del Documento Técnico Unificado a que se refiere este artículo se pagará el 35% de la cuota prevista en el párrafo que antecede.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO XIV. De la Secretaría de Salud
@@ -16720,6 +15286,12 @@ cuota de $1,745.45 $1,745
 (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de $5,978.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Por las modificaciones solicitadas a las autorizaciones señaladas en esta fracción se pagará el 75% de la cuota prevista en el párrafo que antecede.
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -19637,9 +18209,11 @@ II.- Por el uso o aprovechamiento de aguas residuales, cuando se deje de usar o 
 
 III.- Por las aguas que broten o aparezcan en el laboreo de las minas o que provengan del desagüe de éstas, salvo las que se utilicen en la explotación, beneficio o aprovechamiento de las mismas, para uso industrial o de servicios.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por usos agropecuarios, incluyendo a los distritos y unidades de riego, así como a las juntas de agua, con excepción de las usadas en la agroindustria, hasta por la dotación autorizada a los distritos de riego por la Comisión Nacional del Agua o, en su caso, hasta por el volumen concesionado. Tampoco se pagará el derecho establecido en este Capítulo, por el uso o aprovechamiento que en sus instalaciones realicen las instituciones educativas, diferentes a la conservación y mantenimiento de zonas de ornato o deportivas. Estas instituciones deberán contar con reconocimiento de validez oficial de estudios en los términos de las leyes de la materia.
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+IV. Por los usos agrícola y pecuario definidos como tales en la Ley de Aguas Nacionales y siempre que sus procesos se efectúen de forma indivisa, incluyendo a los distritos y unidades de riego, así como a las juntas de agua, con excepción de las usadas en la agroindustria, hasta por la dotación autorizada a los distritos de riego por la Comisión Nacional del Agua o, en su caso, hasta por el volumen concesionado. Tampoco se pagará el derecho establecido en este Capítulo, por el uso o aprovechamiento que en sus instalaciones realicen las instituciones educativas con reconocimiento de validez oficial de estudios en los términos de las leyes de la materia, diferentes a la conservación y mantenimiento de zonas de ornato o deportivas.
 
 V.- Por las aguas que regresen a su fuente original o que sean vertidas en cualquier otro sitio previamente autorizado por la Comisión Nacional del Agua en los términos de la Ley de Aguas Nacionales, siempre que tengan el certificado de calidad del agua expedido por esta última en los términos del Reglamento de la citada Ley, de que cumple los lineamientos de calidad del agua señalados en la tabla contenida en esta fracción, de acuerdo con el grado de calidad correspondiente al destino inmediato posterior y se acompañe una copia de dicho certificado a la declaración del ejercicio. Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
 
@@ -19697,11 +18271,15 @@ Las personas físicas o morales que estén exentas en los términos del presente
 
 El cumplimiento de calidad del agua a que se refieren las fracciones V y VI del presente artículo, se realizará con base en determinaciones analíticas efectuadas por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorios de Prueba (SINALP) de la Secretaría de Comercio y Fomento Industrial y aprobado por la Comisión Nacional del Agua.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 224-A.
 
-Los contribuyentes de los derechos a que se refiere la presente Sección al momento de presentar sus declaraciones, podrán disminuir del pago del derecho respectivo, las cantidades siguientes:
+Los contribuyentes de los derechos a que se refiere el presente Capítulo, al momento de presentar sus declaraciones, podrán disminuir del pago del derecho respectivo las cantidades siguientes:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- El costo comprobado de los aparatos de medición y los gastos de su instalación que se efectúen a partir de 1998, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones, para calcular el volumen de agua explotada, usada o aprovechada, en los términos de la presente Ley.
 
@@ -19733,25 +18311,47 @@ que por necesidad pública las mismas
 
 requieran de su uso o aprovechamiento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El monto a disminuir, deberá señalarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda. Cuando el monto a disminuir sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+El monto a disminuir deberá señalarse en la declaración trimestral definitiva. Cuando el monto a disminuir sea mayor al derecho a cargo el excedente se descontará en las siguientes declaraciones trimestrales definitivas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 225.
 
-Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar con aparatos de medición de las aguas que usen o aprovechen, mismos que deberán tener sellos oficiales de la Comisión Nacional del Agua e instalarlos en lugares visibles, así como permitir el acceso al personal de la Comisión para verificar su lectura. Asimismo, estarán obligados a informar a dicha Comisión las descomposturas de su medidor dentro del término de diez días hábiles contados a partir de que tuvieren conocimiento de las mismas.
+Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar con aparatos de medición de las aguas que usen, exploten o aprovechen que al efecto instale la Comisión Nacional del Agua y deberán permitir el acceso y brindar las facilidades y apoyos necesarios al personal de dicha Comisión para que los instale y realice la toma de las lecturas correspondientes.
 
-Las personas físicas y morales que usen, exploten, gocen o aprovechen aguas nacionales, estarán obligadas a llevar un registro de las lecturas de su medidor en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo dispuesto en el artículo 30 del Código Fiscal de la Federación.
+El contribuyente deberá utilizar las lecturas de los medidores a que se refiere el párrafo anterior para calcular y pagar el derecho conforme a la cuota que corresponda en los plazos establecidos para tal efecto, en términos de los artículos 223 y 226 de esta Ley.
+
+Hasta que la Comisión Nacional del Agua instale el aparato de medición a que se refiere el presente artículo el contribuyente estará obligado a:
+
+I. Adquirir e instalar directamente un aparato de medición que cumpla con las reglas de carácter general que emita la Comisión Nacional del Agua o, en su caso, conservar el que tenga instalado.
+
+II. Calcular y pagar el derecho conforme a los artículos 223 y 226 de esta Ley, utilizando para tales efectos las lecturas del aparato de medición con el que cuenten.
+
+III. Determinar el volumen usado, explotado o aprovechado a través de métodos indirectos cuando se trate de contribuyentes con uso agrícola y pecuario.
+
+IV. Informar a la Comisión Nacional del Agua las descomposturas de su medidor dentro del término de treinta días hábiles contados a partir de que tuvieren conocimiento de las mismas.
+
+Para los efectos del primer párrafo de este artículo, sin perjuicio de la consulta directa de los medidores instalados por la Comisión Nacional del Agua, los contribuyentes podrán consultar vía Internet, en el transcurso del trimestre que corresponda, el estado que guardan sus consumos, de conformidad con el procedimiento que al efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, estarán obligadas a llevar un registro de las lecturas de su medidor en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo dispuesto en el artículo 30 del Código Fiscal de la Federación.
 
 > <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 #### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION TERCERA. Servicio Militar Nacional
 
@@ -19759,15 +18359,13 @@ Las personas físicas y morales que usen, exploten, gocen o aprovechen aguas nac
 
 ###### ARTICULO 226.
 
-El contribuyente calculará el derecho sobre agua por trimestre y efectuará su pago a más tardar el día 17 de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria. El pago se hará por el derecho que corresponda al agua que se haya usado, explotado o aprovechado durante los tres meses inmediatos anteriores, para lo cual el citado contribuyente efectuará la lectura del aparato de medición durante el último día hábil del trimestre de que se trate, y del resultado obtenido disminuirá la lectura efectuada el último día del trimestre anterior.
+El contribuyente calculará el derecho sobre agua trimestralmente y efectuará su pago a más tardar el último día hábil de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria. El pago se hará por el derecho que corresponda al agua que se haya usado, explotado o aprovechado durante los tres meses inmediatos anteriores, para lo cual efectuará la lectura del aparato de medición durante el último día hábil del trimestre de que se trate y de la lectura realizada disminuirá la lectura efectuada el último día del trimestre anterior y el volumen resultante será sobre el cual calculará el derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los contribuyentes señalados en el tercer párrafo del artículo 225 de esta Ley efectuarán directamente las lecturas del aparato de medición con el que cuenten y aplicarán el procedimiento descrito en el párrafo anterior a fin de calcular el derecho sobre el volumen de agua utilizado, explotado o aprovechado en el trimestre de que se trate.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+Para los efectos de este artículo el contribuyente deberá presentar una declaración por todos los aprovechamientos con que cuente en sus instalaciones, sean de aguas superficiales o provenientes del subsuelo, en anexo libre declarará y reportará a la Comisión Nacional del Agua sus aprovechamientos, debiendo incluir: nombre o razón social, registro federal de contribuyentes, número de títulos de concesión o asignaciones, incluyendo por cada aprovechamiento la zona de disponibilidad, el volumen declarado, la tarifa aplicada y el monto pagado.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Para los efectos de este artículo el contribuyente deberá presentar una declaración por todos los aprovechamientos con que cuente en sus instalaciones, sean de aguas superficiales o provenientes del subsuelo, en anexo libre declarará y reportará a la Comisión Nacional del Agua sus aprovechamientos, debiendo incluir: nombre o razón social, Registro Federal de Contribuyentes, número de Títulos de Concesión; incluyendo por cada aprovechamiento zona de disponibilidad, volumen declarado, tarifa aplicada y monto pagado.
+Los contribuyentes deberán contar con la documentación original comprobatoria del pago de los derechos en su domicilio fiscal y con copia de dicho pago en el lugar donde se usen, exploten o aprovechen las aguas nacionales, cuando se trate de un lugar distinto a su domicilio fiscal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -20707,45 +19305,11 @@ Los ingresos recaudados por este derecho se destinarán a la Secretaría de Medi
 
 No se pagará el derecho a que se refiere este artículo por obras de dragado y mantenimiento de puertos.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 232-D
 
-2.- Las personas
-
-físicas o morales que usen, gocen
-
-o aprovechen las playas, la zona
-
-federal marítimo terrestre, los terrenos
-
-ganados al mar o cualquier otro
-
-depósito de aguas marítimas, para
-
-pernoctar dentro de los mismos
-
-en vehículos automotores, remolques
-
-o semirremolques tipo vivienda,
-
-pagarán por día, por cada vehículo,
-
-remolque o semirremolque,
-
-una cuota de: $194.45 $194
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-No se pagará el derecho a que se refiere esta fracción, por aquellos remolques y semirremolques tipo vivienda que hagan uso de sitios concesionados para tal fin.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los ingresos recaudados por este derecho se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para los programas de censo, delimitación, mesas de regularización y rezago histórico en el otorgamiento de concesiones de la zona federal marítimo terrestre.
+2.- (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -20781,7 +19345,11 @@ Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o a
 
 III.- No se pagará el derecho a que se refiere este artículo cuando el inmueble sea destinado a labores de investigación científica.
 
-IV.- No pagarán las asociaciones y sociedades civiles sin fines de lucro, que tengan concesión o permiso para el uso de las playas, la zona federal marítima terrestre o a cualquier otro depósito de aguas marítimas, así como la zona federal administrada por la Comisión Nacional del Agua y que realicen acciones encaminadas a conservar y restaurar el medio ambiente a través de la reforestación con especies nativas o la cobertura vegetal como manglares, vegetación de marismas, bosques de coníferas, selvas, arbustos y matorrales xerófilos inundables, pantanos salobres, reparios, mesófilos y vegetación hidrófila.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+IV. No pagarán las asociaciones y sociedades civiles sin fines de lucro que tengan concesión o permiso para el uso de las playas, la zona federal marítima terrestre o a cualquier otro depósito de aguas marítimas, así como la zona federal administrada por la Comisión Nacional del Agua y que realicen acciones destinadas a la conservación o restauración del medio ambiente en la superficie concesionada, entendiendo por conservación lo establecido en la fracción IX del artículo 3o. de la Ley General de Vida Silvestre y por restauración lo establecido en la fracción XXXIV del artículo 3o. de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -20941,11 +19509,13 @@ V.- La información obtenida por las autoridades fiscales en el ejercicio de sus
 
 VI.- El volumen o cualquier información proporcionada por el contribuyente a la autoridad respectiva.
 
-(REUBICADO, D.O.F. 30 DE DICIEMBRE DE 2002)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 236-B.
 
-Tratándose del derecho a que se refieren las fracciones IV y V del artículo 232 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley.
+Tratándose del derecho a que se refieren los artículos 232, fracciones I, segundo párrafo, IV y V y 236 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -20983,35 +19553,11 @@ III.- Señales informativas $6,288.02 $6,288
 
 El derecho a que se refiere este artículo se pagará por anualidades adelantadas mediante declaración que se presentará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 237-A.
 
-Las personas
-
-físicas y las morales que recolecten
-
-dentro de los parques nacionales
-
-el brazuelo o leña muerta, pagarán
-
-el derecho de recolección de leña
-
-conforme a la cuota de $52.29
-
-por metro cúbico o rollo fustal.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-No pagarán el derecho a que se refiere este artículo las personas que destinen el brazuelo o leña muerta a usos domésticos o recreativos.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-El pago de este derecho se realizará previamente a la recolección, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 237-B.
 
@@ -21129,89 +19675,11 @@ Sólo se pagará el 10% del derecho a que se refiere este artículo, en los caso
 
 No se estará obligado al pago del derecho a que se refiere este artículo, cuando las actividades extractivas se realicen con la autorización de la autoridad competente, para la investigación científica, para proyectos de repoblación o reintroducción, o como medidas de manejo o control.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 238-A.
 
-Cuando el aprovechamiento de una especie esté vedada por las disposiciones en vigor, se pagará el derecho de aprovechamiento conforme a las cuotas que a continuación se señalan según el riesgo de extinción de la especie, independientemente de las sanciones que procedan.
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-I.- Águila arpía, real o dorada;
-
-mamíferos marinos; berrendo;
-
-cochito; cóndor de california;
-
-halcón pradera y peregrino;
-
-guacamaya roja o verde; lobo
-
-mexicano; manatí; oso gris; oso
-
-negro; pavón o gran cornudo, tapir
-
-y jaguar, por cada uno $146,536.22 $146,536
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Aguila solitaria; caimán;
-
-carpintero real o imperial;
-
-cocodrilo de río y de pantano;
-
-loro cabeza amarilla, cabeza
-
-azul o tehuano; mono aullador
-
-o zarahuato y araña; nutria
-
-marina y de río; ocelote; perro
-
-de las praderas; quetzal;
-
-teporingo o zacatuche;
-
-tortuga lora, verde o golfina;
-
-tucán pico de canoa y de collar
-
-y zopilote rey, por cada uno $97,690.70 $97,691
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-III.- Aguila calva o cabeza
-
-blanca; halcón aplomado;
-
-flamenco; guacamaya enana;
-
-monstruo de gila o escorpión;
-
-tigrillo; tortuga de mapimí o
-
-del desierto y tucan verde, por
-
-cada uno $48,845.17 $48,845
-
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-IV.- Oso hormiguero, pelícano
-
-café y oca salvaje por cada uno $24,422.45 $24,422
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-No se estará obligado al pago del derecho a que se refiere este artículo, cuando el aprovechamiento de dichas especies se haga con la autorización de la autoridad competente para programas de recuperación, repoblamiento, reintroducción y protección.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los ingresos recaudados por el derecho a que se refiere este artículo, se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para la inspección y vigilancia de las actividades que amenazan a dichas especies.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -23185,6 +21653,12 @@ I. Las declaraciones de los derechos a que se refiere el presente Capítulo, se 
 
 II. A cuenta de los pagos provisionales mensuales a que se refiere el artículo 254 de esta Ley, PEMEX Exploración y Producción efectuará pagos diarios, incluyendo los días inhábiles, así como pagos semanales, los cuales se efectuarán el primer día hábil de cada semana. Los montos y la forma de los pagos diarios y semanales a que se refiere esta fracción, serán los que se determinen anualmente en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y se enterarán ante la Tesorería de la Federación. Contra los pagos provisionales mensuales que resulten a cargo de PEMEX Exploración y Producción, éste podrá acreditar los anticipos efectuados por el mes de que se trate en los términos de esta fracción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. PEMEX Exploración y Producción así como PEMEX Refinación, entregarán mensualmente, dentro de los primeros cinco días hábiles de cada mes a los Gobiernos de los Estados y del Distrito Federal, un reporte respecto de las sumas y pagos realizados a la Tesorería de la Federación, efectuados en el mes de calendario inmediato anterior, en concepto de anticipos correspondientes al derecho ordinario sobre hidrocarburos, al derecho especial sobre hidrocarburos y al derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus. Dicha información será avalada por el titular de cada una de las entidades.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
@@ -23192,6 +21666,12 @@ II. A cuenta de los pagos provisionales mensuales a que se refiere el artículo 
 ###### ARTICULO 261.
 
 Para los efectos del artículo 2 de la Ley de Coordinación Fiscal, a la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos y por el derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, se le aplicará la tasa de 85.31%; el monto que resulte de esta operación se considerará como recaudación federal participable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+A cuenta de los pagos de las participaciones referidas en el párrafo anterior, la Secretaría de Hacienda y Crédito Público efectuará anticipos mensuales a más tardar el día 17 de cada mes. Los anticipos a que se refiere este párrafo serán los que se determinen anualmente en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y cumplirán con lo establecido para los anticipos de participaciones que se determinen en los términos de los Convenios de Colaboración Administrativa establecidos entre la Secretaría de Hacienda y Crédito Público y las Entidades Federativas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -23211,11 +21691,13 @@ El Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público
 
 ### CAPITULO XIII. Minería
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 262.
 
-Están obligadas a pagar los derechos sobre minería que establece este Capítulo las personas que desarrollen trabajos relacionados con la exploración o explotación de sustancias o minerales sujetos a la aplicación de la Ley Minera.
+Están obligadas a pagar los derechos sobre minería que establece este Capítulo todas las personas físicas o morales titulares de una concesión o que desarrollen trabajos relacionados con la exploración o explotación de sustancias o minerales sujetos a la aplicación de la Ley Minera.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -23907,9 +22389,11 @@ Los contribuyentes del derecho a que se refiere el presente Capítulo, al moment
 
 A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra de los aparatos de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El monto a acreditar, deberá asentarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda, debiendo precisar en la declaración respectiva la fecha de adquisición y el costo total de los aparatos de medición y de su instalación debidamente comprobado. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+El monto a acreditar deberá asentarse en la declaración trimestral definitiva, debiendo precisar en la declaración respectiva la fecha de adquisición y el costo total de los aparatos de medición y de su instalación debidamente comprobado. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones trimestrales definitivas.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -24005,15 +22489,17 @@ Este porcentaje de descuento se aplicará al monto del derecho a que se refiere 
 
 (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 283.
 
-El usuario calculará el derecho federal a que se refiere el presente Capítulo por ejercicios fiscales y efectuará pagos provisionales trimestrales, a más tardar el día 15 de los meses de enero, abril, julio y octubre, mediante declaración que presentará en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público.
+El usuario calculará el derecho federal a que se refiere el presente Capítulo trimestralmente y efectuará su pago el último día hábil de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El derecho del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará en las oficinas antes citadas, dentro de los tres meses siguientes del cierre del mismo ejercicio.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -24026,6 +22512,12 @@ Las personas que efectúen descargas fortuitas de aguas residuales, deberán pre
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por cada uno de los sitios donde lleve a cabo la descarga al cuerpo receptor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Los contribuyentes deberán contar con la documentación original comprobatoria del pago de los derechos en su domicilio fiscal y con copia de dicho pago en el lugar donde se realice la descarga de las aguas residuales, cuando se trate de un lugar distinto a su domicilio fiscal.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -28988,3 +27480,103 @@ Quinto. El primer reporte anual de la Comisión Nacional de Hidrocarburos para c
 D.O.F. 31 DE DICIEMBRE DE 2010.
 
 LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2012, salvo las reformas efectuadas a los artículos 8o.; 9o.; 10; 11; 13; 16 y 18-A, primer y segundo párrafos, así como la derogación de los artículos 14 y 17 de la Ley Federal de Derechos, las cuales entrarán en vigor una vez que inicie la vigencia del Reglamento de la Ley de Migración.
+
+A partir de la publicación del presente Decreto y hasta en tanto entre en vigor la reforma al artículo 8o. de la Ley Federal de Derechos, el pago de los derechos previstos en las actuales fracciones I, III y VIII de dicho artículo, deberá efectuarse a la salida del territorio nacional tratándose de extranjeros que arriben al país vía aérea.
+
+Segundo. Durante el año 2012 en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+II. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+III. Para los efectos de lo dispuesto en el artículo 232, fracción IV de la Ley Federal de Derechos, las personas físicas y morales que usen, gocen o aprovechen los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota establecida en dicha fracción.
+
+IV. No pagarán el derecho a que se refiere el artículo 8o., fracción I de la Ley Federal de Derechos, los turistas que visiten el país por vía terrestre, cuya estancia no exceda de siete días en el territorio nacional. Para el caso que se exceda dicho periodo el derecho se pagará al momento de la salida del territorio nacional.
+
+V. En relación al registro de título de técnico o profesional técnico, técnico superior universitario o profesional asociado, se aplicarán en materia de derechos las siguientes disposiciones:
+
+a) Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+b) Por el registro de título de técnico superior universitario o profesional asociado expedidos por Instituciones del Sistema Educativo Nacional que impartan educación de tipo superior, así como por la expedición de la respectiva cédula, se pagará el 50% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+VI. Para los efectos de los derechos por los servicios que presta la Dirección General de Educación Tecnológica Agropecuaria, de conformidad con las fracciones XII y XIV del artículo 186 de la Ley Federal de Derechos, se pagará el 50% del monto establecido en dichas fracciones.
+
+VII. No se pagará el derecho por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado B de la Ley Federal de Derechos cuando el concesionario entregue agua para uso público urbano a municipios o a organismos operadores municipales de agua potable, alcantarillado y saneamiento. En este caso, el concesionario podrá descontar del pago del derecho que le corresponda por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado A de la referida Ley, el costo comprobado de instalación y operación de la infraestructura utilizada para la entrega de agua de uso público urbano que el contribuyente hubiera hecho en el ejercicio fiscal de 2012, sin que en ningún caso exceda del monto del derecho a pagar. Lo anterior, previa aprobación del programa que al efecto deberá ser presentado a la Comisión Nacional del Agua.
+
+VIII. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refieren las fracciones III, IV, V y XI del artículo 29-D de la Ley Federal de Derechos vigentes para el ejercicio fiscal de 2012, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refieren dichas fracciones conforme a lo dispuesto en las mismas, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2011 hubieren optado por pagar para dicho ejercicio fiscal, más el 5% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2012 por concepto de inspección y vigilancia podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2012, conforme a lo previsto en las fracciones III, IV, V y XI del artículo 29-D de la Ley Federal de Derechos.
+
+Tratándose de las entidades financieras a que se refieren las fracciones III, IV, V y XI del artículo 29-D de la Ley Federal de Derechos, que se hayan constituido en el ejercicio fiscal de 2011, podrán optar por pagar los derechos de inspección y vigilancia que les hubiere correspondido enterar en dicho ejercicio fiscal más el 5% de dicha cuota, en lugar de la cuota mínima correspondiente para el ejercicio fiscal de 2012 conforme a las fracciones III, IV, V y XI del artículo 29-D de la citada Ley, según sea el caso.
+
+Cuando los contribuyentes ejerzan la opción de pagar los derechos en los términos previstos en esta fracción y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2012, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+IX. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere la fracción IV del artículo 29-D de la Ley Federal de Derechos, que se constituyan durante el ejercicio fiscal de 2012 y tengan por objeto realizar las operaciones a que se refiere el artículo 2, fracción III, inciso b) de las "Disposiciones de carácter general aplicables a las instituciones de crédito" expedidas por la Comisión Nacional Bancaria y de Valores publicadas en el Diario Oficial de la Federación el 2 de diciembre de 2005 y sus respectivas modificaciones, pagarán la cuota de $2'000,000.00 por concepto de inspección y vigilancia, ajustándose en todo caso a lo previsto por el artículo 29-G de la Ley Federal de Derechos.
+
+Tercero. Para los efectos de lo dispuesto en el artículo 231 de la Ley Federal de Derechos, durante el ejercicio fiscal de 2012, el pago del derecho por el uso, explotación o aprovechamiento de aguas nacionales utilizadas en los municipios del territorio mexicano que a continuación se señalan, se efectuará de conformidad con las zonas de disponibilidad de agua conforme a lo siguiente:
+
+ZONA 6.
+
+Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 4, 5, 7, 8 y 9.
+
+ZONA 7.
+
+Estado de Oaxaca: Abejones, Concepción Pápalo, Guelatao de Juárez, Natividad, Nuevo Zoquiapam, San Francisco Telixtlahuaca, San Juan Atepec, San Jerónimo Sosola, San Juan Bautista Atatlahuca, San Juan Bautista Jayacatlán, San Juan del Estado, San Juan Evangelista Analco, San Juan Chicomezúchil, San Juan Quiotepec, San Juan Tepeuxila, San Miguel Aloápam, San Miguel Amatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Huautla, San Pablo Macuiltianguis, San Pedro Jaltepetongo, San Pedro Jocotipac, Santa Ana Yareni, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa María Apazco, Santa María Ixcatlán, Santa María Jaltianguis, Santa María Pápalo, Santa María Texcatitlán, Santa María Yavesía, Santiago Apoala, Santiago Huauclilla, Santiago Nacaltepec, Santiago Tenango, Santiago Xiacuí, Santos Reyes Pápalo, Teococuilco de Marcos Pérez, Teotitlán del Valle y Valerio Trujano.
+
+ZONA 8.
+
+Estado de Oaxaca: Loma Bonita.
+
+Estado de Puebla: Chalchicomula de Sesma y Esperanza.
+
+Estado de Tabasco: Jalpa de Méndez, Nacajuca y Paraíso.
+
+ZONA 9.
+
+Todos los municipios del Estado de Chiapas.
+
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Asunción Cacalotepec, Ayotzintepec, Capulálpam de Méndez, Chiquihuitlán de Benito Juárez, Cosolopa, Cuyamecalco Villa de Zaragoza, Eloxochitlán de Flores Magón, Huautepec, Huautla de Jiménez, Ixtlán de Juárez, Mazatlán Villa de Flores, Mixistlán de la Reforma, San Andrés Solaga, San Andrés Teotilalpam, San Andrés Yaá, San Baltazar Yatzachi el Bajo, San Bartolomé Ayautla, San Bartolomé Zoogocho, San Cristóbal Lachirioag, San Felipe Jalapa de Díaz, San Felipe Usila, San Francisco Cajonos, San Francisco Chapulapa, San Francisco Huehuetlán, San Ildefonso Villa Alta, San Jerónimo Tecóatl, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Bautista Valle Nacional, San Juan Coatzospam, San Juan Comaltepec, San Juan Cotzocón, San Juan Juquila Vijanos, San Juan Lalana, San Juan Petlapa, San Juan Tabaá, San Juan Yae, San Juan Yatzona, San Lorenzo Cuaunecuiltitla, San Lucas Camotlán, San Lucas Ojitlán, San Lucas Zoquiápam, San Mateo Cajonos, San Mateo Yoloxochitlán, San Melchor Betaza, San Miguel Quetzaltepec, San Miguel Santa Flor, San Miguel Soyaltepec, San Miguel Yotao, San Pablo Yaganiza, San Pedro Cajonos, San Pedro Ixcatlán, San Pedro Ocopetatillo, San Pedro Ocotepec, San Pedro Sochiapam, San Pedro Teutila, San Pedro y San Pablo Ayutla, San Pedro Yaneri, San Pedro Yólox, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Cruz Acatepec, Santa María Alotepec, Santa María Chilchotla, Santa María Jacatepec, Santa María la Asunción, Santa María Temaxcalapa, Santa María Teopoxco, Santa María Tlahuitoltepec, Santa María Tlalixtac, Santa María Yalina, Santiago Atitlán, Santiago Camotlán, Santiago Choapam, Santiago Comaltepec, Santiago Jocotepec, Santiago Lalopa, Santiago Laxopa, Santiago Texcalcingo, Santiago Yaveo, Santiago Zacatepec, Santiago Zoochila, Santo Domingo Albarradas, Santo Domingo Roayaga, Santo Domingo Xagacía, Tamazulapam del Espíritu Santo, Tanetze de Zaragoza, Totontepec Villa de Morelos, Villa Díaz Ordaz, Villa Hidalgo y Villa Talea de Castro.
+
+Estado de Puebla: Coyomeapan, Eloxochitlán, San Sebastián Tlacotepec, Zoquitlán.
+
+Estado de Tabasco: Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique.
+
+Estado de Veracruz: Alvarado, Ángel R. Cabada, Catemaco, Ignacio de la Llave, Ixmatlahuacan, José Azueta, Lerdo de Tejada, Omealca, Saltabarranca, Tatahuicapan de Juárez, Tierra Blanca y Tlalixcoyan y los municipios que no estén comprendidos en las zonas 6, 7 y 8.
+
+Cuarto. Para los efectos de lo dispuesto en el artículo 231 de la Ley Federal de Derechos, a partir del año de 2012, el pago del derecho por el uso, explotación o aprovechamiento de aguas nacionales utilizadas en los municipios del territorio nacional que a continuación se señalan, se efectuará de conformidad con las zonas de disponibilidad de agua conforme a lo siguiente:
+
+ZONA 3.
+
+Estado de México: Tonanitla.
+
+ZONA 4.
+
+Estado de México: San José del Rincón.
+
+Estado de Zacatecas: Trancoso.
+
+ZONA 6.
+
+Estado de Chihuahua: Santa Isabel.
+
+Estado de Jalisco: San Ignacio Cerro Gordo.
+
+ZONA 7.
+
+Estado de México: Luvianos.
+
+Estado de Quinta Roo: Tulum.
+
+Estado de Zacatecas: Santa María de la Paz.
+
+ZONA 8.
+
+Estado de Quintana Roo: Bacalar.
+
+Quinto. Para los efectos de la determinación del derecho especial sobre hidrocarburos a que se refiere el artículo 257 Quáter de la Ley Federal de Derechos, cuando la producción acumulada del campo de que se trate sea mayor a 240 millones de barriles de petróleo crudo equivalente, al excedente de dicha producción se aplicará la tasa del 36% sobre la diferencia que resulte entre el valor anual del petróleo crudo y gas natural extraídos en el campo de que se trate, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos y las deducciones permitidas en el citado artículo.
+
+Lo dispuesto en el párrafo anterior se podrá aplicar para la determinación del derecho especial sobre hidrocarburos correspondiente a los ejercicios fiscales de 2010 y 2011.
+
+Sexto. Para los efectos de conocer el comportamiento de los ingresos de Caminos y Puentes Federales, la Secretaría de Hacienda y Crédito Público deberá enviar a más tardar el último día del mes de febrero de cada año, un informe detallado al Congreso de la Unión para su análisis.
