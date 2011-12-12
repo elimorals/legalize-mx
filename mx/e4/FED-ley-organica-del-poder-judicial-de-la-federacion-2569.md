@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2011-08-30"
+last_updated: "2011-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOPJF"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
+LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -614,7 +614,9 @@ e) Aquellos en que la Federación sea sujeto pasivo;
 
 f) Los cometidos por un servidor público o empleado federal, en ejercicio de sus funciones o con motivo de ellas;
 
-g) Los cometidos en contra de un servidor público o empleado federal, en ejercicio de sus funciones o con motivo de ellas;
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+g) Los cometidos en contra de un servidor público o empleado federal, en ejercicio de sus funciones o con motivo de ellas, así como los cometidos contra el Presidente de la República, los secretarios del despacho, el Procurador General de la República, los diputados y senadores al Congreso de la Unión, los ministros, magistrados y jueces del Poder Judicial Federal, los miembros de Consejo de la Judicatura Federal, los magistrados del Tribunal Electoral del Poder Judicial de la Federación, los miembros del Consejo General del Instituto Federal Electoral, el presidente de la Comisión Nacional de los Derechos Humanos, los directores o miembros de las Juntas de Gobierno o sus equivalentes de los organismos descentralizados;
 
 h) Los perpetrados con motivo del funcionamiento de un servicio público federal, aunque dicho servicio esté descentralizado o concesionado;
 
@@ -3451,3 +3453,7 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
