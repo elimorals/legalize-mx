@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-11-16"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -4550,7 +4550,7 @@ Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas 
 
 ### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 272 Bis.
 
@@ -5054,17 +5054,35 @@ Donación, trasplantes y pérdida de la vida
 
 Compete a la Secretaría de Salud:
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. El control sanitario de la disposición y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios;
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+I. El control y la vigilancia sanitarios de la disposición y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado denominado Comisión Federal para la Protección contra Riesgos Sanitarios;
 
-II. La regulación sobre cadáveres, en los términos de esta Ley, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-III. Establecer y dirigir las políticas en salud en materia de donación y trasplantes de órganos, tejidos y células, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea.
+II. La regulación sobre cadáveres, en los términos de esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+III. Establecer y dirigir las políticas en salud en materia de donación, procuración y trasplantes de órganos, tejidos y células, para lo cual se apoyará en el Centro Nacional de Trasplantes, y en el Centro Nacional de la Transfusión Sanguínea;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+IV. Emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+V. Elaborar y llevar a cabo, en coordinación con las instituciones públicas del Sistema Nacional de Salud y con los gobiernos de las entidades federativas, campañas permanentes de concientización sobre la importancia de la donación y los trasplantes.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5094,7 +5112,11 @@ VIII. Embrión, al producto de la concepción a partir de ésta, y hasta el tér
 
 IX. Feto, al producto de la concepción a partir de la decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
 
-X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+X. Órgano, a la entidad morfológica compuesta por la agrupación de tejidos diferentes, que mantiene de modo autónomo su estructura, vascularización y capacidad de desarrollar funciones fisiológicas;
 
 XI. Producto, a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este Título, la placenta y los anexos de la piel;
 
@@ -5112,13 +5134,103 @@ XIV. Trasplante, a la transferencia de un órgano, tejido o células de una part
 
 XV. Banco de tejidos con fines de trasplante, establecimiento autorizado que tenga como finalidad primordial mantener el depósito temporal de tejidos para su preservación y suministro terapéutico;
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVI. Disponente secundario, alguna de las siguientes personas; él o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada, y
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+XVI. Disponente secundario, alguna de las siguientes personas; él o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada;
 
-XVII. Disposición, el conjunto de actividades relativas a la obtención, recolección, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XVII. Disposición, el conjunto de actividades relativas a la obtención, extracción, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Asignación, el proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XIX. Autotrasplante, trasplante que consiste en obtener un órgano o tejido del propio paciente y volverlo a implantar en él;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XX. Coordinador hospitalario de donación de órganos y tejidos para trasplantes, el médico especialista o general, debidamente capacitado por la Secretaría de Salud que realiza las funciones de procuración de órganos a que se refiere esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXI. Coordinación Institucional, la representación nombrada por cada institución de salud en el país ante la Secretaría de Salud con el fin de atender en el ámbito de su competencia, las políticas en salud en materia de donación y trasplantes de órganos, tejidos y células;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXII. Distribución, al proceso a través del cual se determina el establecimiento de salud donde serán trasplantados los órganos y tejidos, obtenidos de un donador que haya perdido la vida;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXIII. Implante, al procedimiento terapéutico consistente en la sustitución de una parte del cuerpo por material biológico nativo o procesado, o bien sintético, que podrá quedar o no integrado al organismo y sin que desempeñe alguna función que requiera la persistencia viva de lo sustituido;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXIV. Institución de salud, a la agrupación de establecimientos de salud bajo una misma estructura de mando y normativa;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXV. Preservación, a la utilización de agentes químicos y/o modificación de las condiciones del medioambiente durante la extracción, envase, traslado o trasplante de órganos, tejidos o células, con el propósito de impedir o retrasar su deterioro;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXVI. Procuración, al proceso y las actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+XXVII. Trazabilidad, a la capacidad de localizar e identificar los órganos y tejidos en cualquier momento desde la donación, y en su caso hasta el trasplante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 314 Bis.
+
+Los gobiernos de las entidades federativas deberán establecer centros de trasplantes, los cuales coadyuvarán con el Centro Nacional de Trasplantes presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señalen esta Ley y las demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 314 Bis 1.
+
+El Subsistema Nacional de Donación y Trasplantes está constituido por las dependencias y entidades de la Administración Pública, tanto federal como de las entidades federativas, el Centro Nacional de Trasplantes, los Centros Estatales de Trasplantes y el del Distrito Federal y las personas físicas o morales de los sectores público, social y privado que presten servicios de salud o se dediquen a actividades relacionadas con los trasplantes o la donación de órganos, tejidos y células, así como por los programas y los mecanismos de vinculación, coordinación y colaboración de acciones que se establezcan entre éstas.
+
+La política en materia de donación y trasplantes deberá guiarse por la transparencia, la equidad y la eficiencia, debiendo protegerse los datos personales en términos de las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 314 Bis 2.
+
+El Centro Nacional de Trasplantes tendrá a su cargo la coordinación del Subsistema Nacional de Donación y Trasplantes cuyas funciones se establecerán en la reglamentación respectiva.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5142,13 +5254,57 @@ La Secretaría otorgará la autorización a que se refiere el presente artículo
 
 Los establecimientos a que se refiere el artículo anterior contarán con un responsable sanitario, de quien deberán dar aviso ante la Secretaría de Salud.
 
-Los establecimientos en los que se extraigan órganos, tejidos y células, deberán de contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que cuente con un alto nivel de conocimientos médicos académicos y profesionales. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Los establecimientos en los que se extraigan órganos, tejidos y células, deberán de contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará los órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
 
 A su vez, los establecimientos que realicen actos de trasplantes, deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que cuente con un alto nivel de conocimientos médicos académicos y profesionales, y será responsable de hacer la selección de disponentes y receptores para trasplante, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
 
 El Comité Interno de Trasplantes deberá coordinarse con el comité de bioética de la institución en los asuntos de su competencia.
 
 Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 316 Bis.
+
+Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley deberán contar con un coordinador hospitalario de donación de órganos y tejidos para trasplantes que esté disponible de manera permanente.
+
+El coordinador hospitalario de la donación de órganos y tejidos para trasplantes de los establecimientos a los que se refieren las fracciones I y II del artículo 315 deberá ser un médico especialista o general, que cuente con experiencia en la materia y esté capacitado por la Secretaría de Salud para desempeñar esa función, quien podrá auxiliarse en su caso de otros profesionales de la salud debidamente capacitados en la materia.
+
+Corresponderá a los coordinadores a los que se refiere este artículo:
+
+I. Detectar, evaluar y seleccionar a los donantes potenciales;
+
+II. Solicitar el consentimiento del familiar a que se refiere esta Ley;
+
+III. Establecer y mantener coordinación con el Comité Interno de Trasplantes durante el proceso de procuración de órganos y tejidos;
+
+IV. Facilitar la coordinación entre los profesionales de la salud encargados de la extracción del o de los órganos y el de los médicos que realizarán el o los trasplantes;
+
+V. Coordinar la logística dentro del establecimiento de la donación y el trasplante;
+
+VI. Resguardar y mantener actualizados los archivos relacionados con su actividad;
+
+VII. Participar con voz en el Comité Interno de Trasplantes;
+
+VIII. Fomentar al interior del establecimiento la cultura de la donación y el trasplante;
+
+IX. Representar al responsable sanitario del establecimiento en ausencia de éste, y
+
+X. Lo que le atribuya esta Ley y las demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 316 Bis 1.
+
+Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley deberán contar con el apoyo, a través de un convenio, de bancos de sangre externos, cuando el establecimiento no tuviere uno propio, para garantizar la disponibilidad oportuna de dicho tejido en aquellos casos en que éste se llegara a requerir.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5204,11 +5360,15 @@ Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, 
 
 La donación en materia de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 322.
 
-La donación expresa constará por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+La donación expresa podrá constar por escrito y ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 En la donación expresa podrá señalarse que ésta se hace a favor de determinadas personas o instituciones. También podrá expresar el donante las circunstancias de modo, lugar y tiempo y cualquier otra que condicione la donación.
 
@@ -5216,29 +5376,45 @@ En la donación expresa podrá señalarse que ésta se hace a favor de determina
 
 Los disponentes secundarios, podrán otorgar el consentimiento a que se refieren los párrafos anteriores, cuando el donante no pueda manifestar su voluntad al respecto.
 
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+
 La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
 En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo. En el caso de sangre, componentes sanguíneos y células progenitoras hematopoyéticas se estará a lo dispuesto en las disposiciones jurídicas que al efecto emita la Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 323.
 
-Se requerirá el consentimiento expreso:
-
-I. Para la donación de órganos y tejidos en vida, y
-
-II. Para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas.
+Se requerirá que el consentimiento expreso conste por escrito:
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
+I. Para la donación de órganos y tejidos en vida, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+II. Para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas en vida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 324.
 
-Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de alguna de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada.
+Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas que se encuentren presentes: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante. Si se encontrara presente más de una de las personas mencionadas, se aplicará la prelación señalada en este artículo.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría de Salud en coordinación con otras autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 Las disposiciones reglamentarias determinarán la forma para obtener dicho consentimiento.
 
@@ -5266,21 +5442,35 @@ II. El expreso otorgado por una mujer embarazada sólo será admisible si el rec
 
 Está prohibido el comercio de órganos, tejidos y células. La donación de éstos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 328.
 
-Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
+Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, o se desconozca su identidad o forma de localizar a sus parientes, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 329.
 
-El Centro Nacional de Trasplantes hará constar el mérito y altruismo del donador y de su familia.
+El Centro Nacional de Trasplantes y los centros estatales de trasplantes, en el ámbito de sus respectivas competencias, harán constar el mérito y altruismo del donador y de su familia.
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+De igual forma el Centro Nacional de Trasplantes se encargará de definir el formato del documento oficial mediante el cual se manifieste el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos, después de su muerte para que éstos sean utilizados en trasplantes.
 
-De igual forma el Centro Nacional de Trasplantes se encargará de expedir el documento oficial mediante el cual se manifieste el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos, después de su muerte para que éstos sean utilizados en trasplantes.
+Con base en el formato señalado en el párrafo anterior, el Centro Nacional de Trasplantes y los centros estatales de trasplantes, en el ámbito de sus respectivas competencias, expedirán el documento oficial a las personas que lo soliciten.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 329 Bis.
+
+El Centro Nacional de Trasplantes fomentará la cultura de la donación, en coordinación con el Consejo Nacional de Trasplantes y los centros estatales de trasplantes.
+
+Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5296,11 +5486,13 @@ I. El trasplante de gónadas o tejidos gonadales, y
 
 II. El uso, para cualquier finalidad, de tejidos embrionarios o fetales producto de abortos inducidos.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 331.
 
-La obtención de órganos o tejidos para trasplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
+La procuración y extracción de órganos o tejidos para trasplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5328,7 +5520,11 @@ III. Tener compatibilidad aceptable con el receptor;
 
 IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
 
-V. Haber otorgado su consentimiento en forma expresa, en términos del artículo 322 de esta Ley, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+V. Haber otorgado su consentimiento en forma expresa, en términos de los artículos 322 y 323 de esta Ley, y
 
 > <small>(REFORMADA, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -5340,15 +5536,47 @@ b) El interesado en donar deberá otorgar su consentimiento expreso ante Notario
 
 c) Haber cumplido todos los requisitos legales y procedimientos establecidos por la Secretaría, para comprobar que no se está lucrando con esta práctica.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, para realizar trasplantes entre vivos, cuando el receptor y/o el donador sean extranjeros, deberá además de cumplir lo previsto en el presente artículo y demás disposiciones aplicables, acreditar su legal estancia en el país con la calidad migratoria específica que corresponda, y el establecimiento en el que se vaya a realizar el trasplante, deberá inscribir al paciente al Registro Nacional de Trasplantes con una antelación de al menos quince días hábiles si se trata de un trasplante entre familiares por consanguinidad, civil o de afinidad hasta el cuarto grado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Cuando no exista el parentesco a que se refiere el párrafo anterior, el receptor del órgano deberá tener un historial clínico en el país de al menos seis meses.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Los establecimientos de salud en los que se realicen trasplantes a los que se refieren los dos párrafos anteriores deberán constatar que no existan circunstancias que hagan presumir una simulación jurídica o comercio de órganos y tejidos.
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 334.
 
 Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse lo siguiente:
 
-I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este Título;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Existir consentimiento expreso del disponente o no constar su revocación del tácito para la donación de sus órganos y tejidos, y
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la extracción de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este título;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+II. Existir consentimiento expreso del disponente, que conste por escrito o no constar la revocación del tácito para la donación de sus órganos y tejidos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+II Bis. Proporcionar información completa, amplia, veraz y oportuna al o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante de la persona fallecida, conforme a la prelación señalada, de los procedimientos que se llevarán a cabo, y
 
 III. Asegurarse que no exista riesgo sanitario.
 
@@ -5357,6 +5585,30 @@ III. Asegurarse que no exista riesgo sanitario.
 ###### ARTICULO 335.
 
 Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 335 Bis.
+
+Los coordinadores hospitalarios de la donación de órganos y tejidos para trasplantes en turno notificarán al Ministerio Público, de manera inmediata la identificación de un donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito.
+
+Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 335 Bis 1.
+
+Los coordinadores hospitalarios de donación de órganos y tejidos para trasplantes ante la identificación de un donante fallecido deberán:
+
+I. Brindar información completa, amplia, veraz y oportuna a los familiares sobre el proceso de extracción de órganos, de conformidad con lo que señale esta Ley y demás disposiciones aplicables;
+
+II. Recabar y entregar los documentos y constancias necesarias que para tal fin determine esta Ley, su reglamento o la Secretaría de Salud, y
+
+III. Las demás que establezcan las disposiciones reglamentarias.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -5378,39 +5630,45 @@ El traslado, la preservación, conservación, manejo, etiquetado, claves de iden
 
 El traslado de órganos, tejidos y células adecuadamente etiquetados e identificados, podrá realizarse en cualquier medio de transporte por personal debidamente acreditado bajo la responsabilidad del establecimiento autorizado para realizar trasplantes o para la disposición de órganos, tejidos y células.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 338.
 
 El Centro Nacional de Trasplantes tendrá a su cargo el Registro Nacional de Trasplantes, el cual integrará y mantendrá actualizada la siguiente información:
 
-I. Los datos de los receptores, de los donadores y fecha del trasplante;
+I. El registro de establecimientos autorizados conforme al artículo 315 de esta Ley;
 
-II. Los establecimientos autorizados conforme al artículo 315 de esta Ley;
+II. Los cirujanos de trasplantes responsables de la extracción y trasplantes, y los coordinadores hospitalarios de la donación;
 
-III. Los profesionales de las disciplinas para la salud que intervengan en trasplantes;
+III. Los datos de las donaciones de las personas fallecidas;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+IV. Los datos de los trasplantes con excepción de los autotrasplantes;
 
-IV. Los pacientes en espera de algún órgano o tejido, integrados en bases de datos hospitalarias, institucionales, estatales y nacional, y
+V. Los datos de los receptores considerados candidatos a recibir el trasplante de un órgano o tejido, integrados en bases de datos hospitalarias, institucionales, estatales y nacional, y
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2009)</small>
+VI. Los casos de muerte encefálica en los que se haya concretado la donación, así como los órganos y tejidos que fueron trasplantados en su caso.
 
-V. Los casos de muerte encefálica.
+En los términos que precisen las disposiciones reglamentarias, los establecimientos de salud referidos en el artículo 315 de esta Ley, a través del responsable sanitario en coordinación con los Comités internos señalados en el artículo 316 del mismo ordenamiento legal citado, deberán proporcionar la información relativa a las fracciones II, III, IV Y V de este artículo.
 
-En los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el artículo 315 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa a las fracciones I, III, IV y V de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 339.
 
-La distribución y asignación de órganos, tejidos y células en el país, de donador con pérdida de la vida para trasplante, deberá sujetarse a los criterios y procedimientos emitidos por el Centro Nacional de Trasplantes.
+La distribución y asignación de órganos, tejidos y células en el territorio nacional, de donador con pérdida de la vida para trasplante, deberá sujetarse a los criterios previstos en la presente Ley y los emitidos por la Secretaría de Salud, mediante disposiciones de carácter general que deberán publicarse en el Diario Oficial de la Federación.
 
-El Centro Nacional de Trasplantes supervisará y dará seguimiento dentro del ámbito de su competencia a los procedimientos señalados en el párrafo anterior, mismos que deberán ser atendidos por los Centros Estatales de Trasplantes que establezcan los gobiernos de las entidades federativas y por los comités internos correspondientes en cada establecimiento de salud.
+La asignación y la distribución de órganos, tejidos y células en el territorio nacional, se realizará por los Comités Internos de Trasplantes y por los Comités Internos de Coordinación para la donación de órganos y tejidos, de conformidad con lo previsto en la presente Ley.
+
+La coordinación para la asignación y distribución de órganos y tejidos de donador con pérdida de la vida para trasplante estará a cargo del Centro Nacional de Trasplantes, por conducto del Registro Nacional de Trasplantes, el cual se podrá apoyar en los Centros Estatales de Trasplantes, conforme a lo previsto en la presente Ley y en las disposiciones reglamentarias que al efecto se emitan.
+
+El Centro Nacional de Trasplantes deberá establecer procedimientos para la asignación y distribución de órganos y tejidos de donante fallecido en los términos previstos para tal efecto en las disposiciones reglamentarias. El Centro Nacional de Trasplantes supervisará y dará seguimiento dentro del ámbito de su competencia a los procedimientos señalados en el párrafo anterior, mismos que deberán ser atendidos por los Centros Estatales de Trasplantes que establezcan los gobiernos de las entidades federativas y por los comités internos correspondientes en cada establecimiento de salud.
 
 El Centro Nacional de Trasplantes dará aviso a la Comisión Federal para la Protección contra Riesgos Sanitarios, en caso de detectar irregularidades en el desarrollo de las atribuciones en el ámbito de su competencia.
 
-Asimismo, el Centro Nacional de Trasplantes fomentará la cultura de la donación, en coordinación con el Consejo Nacional de Trasplantes y los centros estatales de trasplantes.
+El Centro Nacional de Trasplantes impulsará, junto con las Organizaciones de la Sociedad Civil, las acciones que permitan la trazabilidad de los órganos y tejidos donados para trasplante, misma que estará a cargo de cada establecimiento de salud en el desarrollo de sus actividades de disposición y de trasplante de órganos y tejidos, conforme a las disposiciones de carácter general que establezca la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2003)</small>
 
@@ -5441,6 +5699,38 @@ La Secretaría de Salud, emitirá las disposiciones que regulen tanto la infraes
 ###### ARTICULO 342.
 
 Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un deshecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud, en los términos de esta Ley y demás disposiciones generales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 342 Bis.
+
+Los tejidos músculo-esquelético, cutáneo y vascular, obtenidos de donadores con pérdida de la vida y la membrana amniótica, podrán destinarse a procedimientos que permitan obtener insumos para la salud, para efectos de implantes.
+
+Estos tejidos únicamente se podrán obtener en los establecimientos autorizados por la Secretaría de Salud, en los términos del artículo 315 de esta Ley.
+
+Los establecimientos para la atención de la salud en los cuales se obtenga la donación de los tejidos antes referidos, se sujetarán a las disposiciones que dicte la Secretaría de Salud.
+
+Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los mecanismos de aprovechamiento, procesamiento o utilización, bajo condiciones que garanticen calidad, seguridad y eficacia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 342 Bis 1.
+
+El plasma residual podrá destinarse a procedimientos de fraccionamiento para obtener hemoderivados. Tanto los establecimientos de salud que suministren el plasma residual, como los establecimientos que lo reciban para elaborar hemoderivados, deberán estar autorizados conforme a los artículos 198 fracción I y 315 de esta Ley. Asimismo, se sujetarán a las disposiciones que dicte la Secretaría de Salud.
+
+Las disposiciones que emita la Secretaría de Salud contemplarán, al menos, los mecanismos de aprovechamiento, procesamiento o utilización bajo condiciones que garanticen calidad, seguridad y eficacia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 342 Bis 2.
+
+La Secretaría de Salud establecerá las disposiciones aplicables para regular la disposición y procesamiento de los tejidos y el plasma residual referidos en los artículos 342 Bis y 342 Bis 1 de esta Ley, a fin de garantizar la trazabilidad en cuanto a origen y destino de los mismos. Asimismo, establecerá los mecanismos para promover la accesibilidad a los hemoderivados del plasma residual y de los insumos para la salud a que se refiere el artículo 342 Bis, en condiciones de equidad y seguridad en beneficio para la salud pública.
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
@@ -5574,11 +5864,13 @@ Sólo podrá darse destino final a un feto previa expedición del certificado de
 
 En el caso de que el cadáver del feto no sea reclamado dentro del término que señala el artículo 348 de esta ley, deberá dársele destino final. Salvo aquellos que sean destinados para el apoyo de la docencia e investigación por la autoridad de Salud conforme a esta ley y a las demás disposiciones aplicables, quien procederá directamente o por medio de las instituciones autorizadas que lo soliciten mismas que deberán cumplir con los requisitos que señalen las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 350 Bis 7.
 
-Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la Secretaría de Salud en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+Los establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad federativa competente en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
@@ -6580,35 +6872,45 @@ Igual sanción se aplicará al que traslade o realice actos tendientes a traslad
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por siete años.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 462.
 
 Se impondrán de seis a diecisiete años de prisión y multa por el equivalente de ocho mil a diecisiete mil días de salario mínimo general vigente en la zona económica de que se trate:
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+l. Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos y sus componentes, cadáveres o fetos de seres humanos;
 
-I.- Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos y sus componentes, cadáveres o fetos de seres humanos, y (sic)
+II. Al que comercie o realice actos de simulación jurídica que tengan por objeto la intermediación onerosa de órganos, tejidos, incluyendo la sangre, cadáveres, fetos o restos de seres humanos;
 
-> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
+III. Al que trasplante un órgano o tejido, sin atender las preferencias y el orden establecido en las bases de datos hospitalarias, institucionales, estatales y nacional a que se refiere el artículo 336 de esta Ley;
 
-II.- Al que comercie o realice actos de simulación jurídica que tengan por objeto la intermediación onerosa de órganos, tejidos incluyendo la sangre, cadáveres, fetos o restos de seres humanos, y
+IV. A los que promuevan, favorezcan, faciliten o publiciten la obtención o la procuración ilegal de órganos, tejidos y células o el trasplante de los mismos;
 
-> <small>(REFORMADA, D.O.F. 26 DE MAYO DE 2000)</small>
+V. Al receptor del órgano que consienta la realización del trasplante conociendo su origen ilícito, y
 
-III.- Al que trasplante un órgano o tejido sin atender las preferencias y el orden establecido en las listas de espera a que se refiere el artículo 336 de esta Ley.
+VI. Al que trasplante un órgano o tejido cuando el receptor y/o donador sean extranjeros, sin seguir el procedimiento establecido para tal efecto.
 
-> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+En el caso de las fracciones III, IV, V y VI se aplicarán al responsable, además de otras penas, de cinco a diez años de prisión. Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de cinco a ocho años en el ejercicio profesional, técnico o auxiliar y hasta seis años más, en caso de reincidencia.
 
-En el caso de la fracción III, se aplicarán al responsable, además de otras penas, de cinco a diez años de prisión. Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de cinco a ocho años en el ejercicio profesional, técnico o auxiliar y hasta seis años más, en caso de reincidencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 462 Bis.
 
-Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II y III del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de cuatro a nueve años de prisión y multa por el equivalente de cinco mil a doce mil días de salario mínimo general vigente en la zona económica de que se trate.
+Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I, II, III, IV y V del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de cuatro a nueve años de prisión y multa por el equivalente de diez mil a quince mil días de salario mínimo general vigente en la zona económica de que se trate.
+
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2004)</small>
 
 Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de dos a cuatro años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Se impondrá la sanción a que se refiere el presente artículo, al responsable del establecimiento de la salud que no inscriba en el Registro Nacional de Trasplantes al receptor y/o donador extranjero al que se refiere la parte final del artículo 333 de esta Ley.
 
 ###### ARTICULO 463.
 
@@ -7285,3 +7587,21 @@ SEGUNDO.- La Secretaría de Salud contará con un plazo no mayor a 120 días con
 D.O.F. 16 DE NOVIEMBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días contados a partir de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Ejecutivo Federal expedirá el Reglamento de la Ley General de Salud en Materia de Trasplantes en un plazo que no excederá los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de Salud deberá emitir las disposiciones de carácter general que permitan la homologación de los criterios de atención médica integral en la materia en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de la Ley General de Salud contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes para su cumplimiento.
+
+Asimismo, tendrán un plazo de hasta veinticuatro meses a partir de la entrada en vigor del presente Decreto, para contar con un Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes.
+
+Dicho plazo se determinará de conformidad con las disposiciones reglamentarias que para tal efecto se emitan y con el Programa de Capacitación que expida el Centro Nacional de Trasplantes.
+
+El personal de salud que a la fecha de entrada en vigor del presente Decreto cuente con un documento que acredite que ha tomado el Diplomado impartido por el Centro Nacional de Trasplantes para formar coordinadores hospitalarios de donación de órganos y tejidos para trasplantes, podrá continuar desarrollando su función como coordinador hospitalario de donación de órganos y tejidos para trasplantes, pero deberá obtener la revalidación que al efecto establezcan las disposiciones reglamentarias aplicables.
+
+QUINTO. Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
