@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-11"
-last_updated: "2011-02-11"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -243,11 +243,13 @@ Las Dependencias y Entidades Públicas podrán contratar la realización de los 
 
 La contratación de los trabajos y servicios antes mencionados se sujetará a lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 18.
 
-De conformidad con lo establecido en el artículo 10 de esta Ley y en la legislación en la materia, se requerirá la autorización del Congreso cuando se pretendan afectar las participaciones que en ingresos federales le correspondan al Estado o para los Proyectos para Prestación de Servicios contraídos por la Entidad Pública o Dependencia de que se trate.
+De conformidad con lo establecido en el artículo 11 de esta Ley y en la legislación en la materia, se requerirá la autorización del Congreso cuando se pretendan afectar las participaciones que en ingresos federales le correspondan al Estado o a los Municipios, para los Proyectos para Prestación de Servicios contraídos por la Entidad Pública o Dependencia de que se trate.
 
-Asimismo, el Congreso podrá decretar la desafectación de participaciones u otros ingresos estatales o municipales, cuando sea procedente.
+Asimismo, el Congreso podrá decretar la desafectación de participaciones, cuando sea procedente.
 
 ###### ARTÍCULO 19.
 
@@ -1004,3 +1006,13 @@ Dentro del plazo de noventa días se expedirá el Reglamento a que se refiere la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los diez días del mes de febrero de dos mil once.- Diputado Presidente.- RAFAEL VON RAESFELD PORRAS.- Rúbrica.- Diputado Vicepresidente.- JESÚS MORALES FLORES.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario. ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días del mes de febrero de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario de Gobernación. C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En los procedimientos que se encuentren en trámite, se observará la aplicación del presente Decreto.
