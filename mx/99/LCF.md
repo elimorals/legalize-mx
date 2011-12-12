@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "2009-06-24"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 27 de diciembre de 1978.
 
@@ -228,19 +228,9 @@ La Secretaría de Hacienda y Crédito Público podrá verificar el cumplimiento 
 
 La recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se dividirá en dos partes:
 
-I. Del total recaudado 9/11 corresponderá a las entidades federativas en función del consumo efectuado en su territorio, siempre y cuando se encuentren adheridas al Sistema Nacional de Coordinación Fiscal y celebren con la Federación, a través de la Secretaría de Hacienda y Crédito Público, convenio de colaboración en términos del artículo 13 de esta Ley, mediante el cual se sujeten, entre otras cosas, al cumplimiento de las obligaciones siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DEROGACIÓN A LA FRACCIÓN I, VÉASE DISPOSICIÓN TRANSITORIA, ARTÍCULO SEGUNDO, FRACCIÓN III, PÁRRAFO TERCERO, DEL DECRETO D.O.F. 12 DE DICIEMBRE DE 2011, QUE SEÑALA: "EL 1 DE ENERO DE 2015 QUEDARÁ DEROGADA"; POR LO QUE SE SUGIERE CONSULTAR EL TEXTO ANTERIOR A ESTA REFORMA, EN LA CRONOLOGÍA LEGISLATIVA CORRESPONDIENTE AL 24 DE JUNIO DE 2009.</small>
 
-a) Administrar la totalidad de la recaudación del impuesto dentro de su territorio.
-
-b) Reintegrar a la Federación las cantidades equivalentes a los 2/11 restantes del total recaudado por la aplicación de las cuotas, a fin de que se proceda a su distribución en términos de la fracción II de este artículo, o bien, manifestar su autorización para que la Federación compense dichas cantidades contra sus participaciones federales, en términos de lo establecido en el artículo 9o. de esta Ley.
-
-c) Destinar los recursos que correspondan a la entidad por la administración del impuesto a la compensación de las pérdidas en participaciones estatales que sufran sus municipios y en el caso del Distrito Federal sus demarcaciones territoriales, derivadas de modificaciones en la forma de distribución de la entidad a sus municipios o demarcaciones territoriales.
-
-d) Incluir en las publicaciones a que se refiere el artículo 6o., último párrafo de esta Ley, el destino de los recursos que corresponderán a sus municipios y en el caso del Distrito Federal sus demarcaciones territoriales, así como acreditar su cumplimiento a la Secretaría de Hacienda y Crédito Público.
-
-Los recursos que obtengan las entidades federativas, municipios y demarcaciones territoriales, de acuerdo a lo previsto en esta fracción, podrán afectarse en términos del artículo 9o. de esta Ley, siempre que la afectación correspondiente en ningún caso exceda del 25% de los recursos que les correspondan.
-
-Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
+I. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 II. Del total recaudado con motivo de la aplicación de las cuotas, 2/11 se destinarán a un Fondo de Compensación, el cual se distribuirá entre las 10 entidades federativas que, de acuerdo con la última información oficial del Instituto Nacional de Estadística, Geografía e Informática, tengan los menores niveles de Producto Interno Bruto per cápita no minero y no petrolero. Éste se obtendrá de la diferencia entre el Producto Interno Bruto Estatal total y el Producto Interno Bruto Estatal Minero, incluyendo todos los rubros contenidos en el mismo.
 
@@ -2062,7 +2052,9 @@ III. El artículo 4o.-A de la Ley de Coordinación Fiscal entrará en vigor a lo
 
 Las entidades federativas que celebren los convenios de coordinación a que se refiere el artículo 4o.-A, fracción I de la Ley de Coordinación Fiscal, dentro de los 30 días naturales siguientes a la fecha de entrada en vigor de dicha fracción, recibirán los recursos previstos en el mismo desde el inicio de la aplicación de las cuotas correspondientes y, en caso contrario, sobre la recaudación obtenida a partir del mes siguiente a aquél en que se celebre el convenio de coordinación.
 
-El 1o. de enero de 2012, quedará derogada la fracción I del artículo 4o.-A de la Ley de Coordinación Fiscal. A partir de esa fecha, las cuotas federales aplicables a la venta final de gasolina y diesel, previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en 9/11. El remanente de 2/11 se destinará al Fondo de Compensación a que se refiere la fracción II del primer artículo mencionado.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+El 1 de enero de 2015, quedará derogada la fracción I del artículo 4o.-A de la Ley de Coordinación Fiscal. A partir de esa fecha, las cuotas federales aplicables a la venta final de gasolinas y diesel, previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en 9/11. El remanente de 2/11 se destinará al Fondo de Compensación a que se refiere la fracción II del primer artículo mencionado.
 
 IV. Hasta en tanto la Secretaría de Educación Pública determine el índice de calidad educativa a que se refiere la variable ICi,t contenida en el artículo 27 de esta Ley, el porcentaje asignado a este coeficiente se adicionará al coeficiente de la matrícula.
 
@@ -2093,6 +2085,10 @@ D.O.F. 24 DE JUNIO DE 2009.
 Primero. El presente Decreto entrará en vigor el 1 de enero de 2010.
 
 Segundo. En la aprobación del Presupuesto de Egresos de la Federación para los ejercicios 2010, 2011, 2012, 2013 y 2014, la Cámara de Diputados proveerá lo conducente a fin de que la asignación de recursos no distribuibles geográficamente del Fondo de Aportaciones múltiples, se incremente para el nivel medio superior.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación
 
 ## TRANSITORIO
 
