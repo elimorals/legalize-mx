@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2009-03-05"
+last_updated: "2011-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOCG"
 ---
 # LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
+LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -2144,6 +2144,12 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 
 Artículo Segundo.- La adecuación respecto de la integración de la Mesa Directiva en los términos previstos en el artículo 17 que se reforma por virtud del presente decreto, deberá quedar cumplimentada en la sesión ordinaria inmediata siguiente a la fecha de entrada en vigor del presente decreto.
 
+> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
+Artículo Tercero.- Por única ocasión, durante el tercer año de ejecicio (sic) de la LXI Legislatura, se dejará sin efecto el numeral 1, última parte, del artículo 17 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para permitir que la Presidencia de la Mesa Directiva de la Cámara de Diputados sea ejercida por un diputado integrante del Grupo Parlamentario del PRI por el periodo del 1 de septiembre al 15 de diciembre de 2011; un diputado del Grupo Parlamentario del PRD por el periodo del 16 de diciembre de 2011 al 30 de abril de 2012 y un diputado del Grupo Parlamentario del PAN por el periodo del 1 de mayo al 31 de agosto de 2012.
+
+De igual manera, se excepciona por el mismo periodo la aplicación de lo dispuesto en el numeral 8 del citado artículo 17 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, para permitir por esta ocasión que el Grupo Parlamentario del PRD pueda presidir la Mesa Directiva, en términos del párrafo precedente sin que constituya óbice para presidir la Junta de Coordinación Política.
+
 D.O.F. 5 DE DICIEMBRE DE 2006.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -2207,3 +2213,7 @@ D.O.F. 5 DE MARZO DE 2009.
 DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 112 Y 113 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
