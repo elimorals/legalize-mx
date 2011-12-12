@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-la-mujer-de-61016"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-12"
-last_updated: "2011-06-13"
+last_updated: "2011-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de mayo de 2008.
 
@@ -136,8 +136,6 @@ XXIII. Las que le confieran otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. De la Estructura Orgánica
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
-
 ###### ARTÍCULO 6°.
 
 Para el estudio y despacho de los asuntos de su competencia, el Instituto contará con los siguientes órganos y áreas:
@@ -148,29 +146,45 @@ II. La Dirección General.
 
 III. La Coordinación de Proyectos de Investigación y Estadísticas de Género.
 
-a) Analista social e integración de estadísticas,
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+a) Analista Social e Integración de Estadísticas.
 
 IV. La Coordinación de Transversalización de Perspectiva de Género.
 
 a) Analista de Transversalización de Perspectiva de Género.
 
-V. La Coordinación de Prevención y Atención Integral de la Violencia de Género,
+V. La Coordinación de Prevención y Atención Integral de la Violencia de Género.
 
-a) Analista de masculinidad
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-b) Analista psicológico
+a) Analista de Masculinidad
 
-c) Analista jurídico
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-VI. La Coordinación Jurídica
+b) Analista Psicológico
 
-VII. La Coordinación Administrativa
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-a) Auxiliar Técnico Contable y Administrativo
+c) Analista Jurídico
 
-Las facultades de cada uno de estos órganos las determinará el Reglamento
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
-Interior del Instituto.
+VI. La Coordinación de Relaciones Interinstitucionales y Comunicación
+
+a) Analista de Relaciones Interinstitucionales y Comunicación
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VII. La Coordinación Jurídica
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2011)</small>
+
+VIII. La Coordinación Administrativa
+
+a) Analista Contable y Financiero
+
+Las facultades de cada uno de estos órganos las determinará el Reglamento Interior del Instituto.
 
 El Instituto tendrá representaciones en cada uno de los poblados que se determinen en su Reglamento Interno.
 
@@ -265,3 +279,7 @@ CUARTO.- Se derogan todas las disposiciones jurídicas de carácter municipal qu
 P.O. 13 DE JUNIO DE 2011.
 
 PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2011.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
