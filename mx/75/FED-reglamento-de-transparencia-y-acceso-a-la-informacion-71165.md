@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-71165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-23"
-last_updated: "2010-07-27"
+last_updated: "2011-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-12-09"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de diciembre de 2009.
 
@@ -369,7 +369,9 @@ I. Un Vicepresidente de la Junta de Gobierno, quien fungirá como Presidente de 
 
 II. Un Vicepresidente de la Junta de Gobierno;
 
-III. El Director General de Vinculación Estratégica;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+III. El Director General de Vinculación y Servicio Público de Información;
 
 IV. El Director General de Administración;
 
@@ -421,11 +423,11 @@ El Pleno de la Comisión quedará válidamente constituido cuando se encuentren 
 
 Las decisiones se tomarán por mayoría de votos de los Comisionados asistentes a cada sesión. En caso de empate en las votaciones, quien presida la sesión contará con voto de calidad.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 21.
 
-La Comisión se reunirá de manera ordinaria al menos una vez cada tres meses, y en forma extraordinaria cuando así resulte necesario, de acuerdo a los plazos y términos de atención de los recursos y demás temas que deban ser sometidos a su consideración, en términos de las disposiciones aplicables.
-
-Durante la última sesión ordinaria de cada año, la Comisión aprobará el calendario anual de sesiones para el año inmediato posterior.
+La Comisión se reunirá cuando así resulte necesario, de acuerdo a los plazos y términos de atención de los recursos y demás temas que deban ser sometidos a su consideración, en términos de las disposiciones aplicables.
 
 ### Capítulo V,
 
@@ -1321,7 +1323,9 @@ El Comité de Valoración estará integrado por los siguientes miembros:
 
 I. El Director General Adjunto de Recursos Materiales y Servicios Generales, quien fungirá como Presidente;
 
-II. Un representante de la Dirección General del Servicio Público de Información, en calidad de Vocal;
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+II. Un representante de la Dirección General de Vinculación y Servicio Público de Información, en calidad de Vocal;
 
 III. Un representante de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, en calidad de Vocal;
 
@@ -1837,6 +1841,8 @@ Cuando se dé el acceso a la Información y se ponga a disposición del solicita
 
 Transcurrido el plazo a que hace referencia el párrafo anterior sin que el solicitante acuda, la solicitud se tendrá por atendida, debiendo éste realizar una nueva solicitud de acceso a la Información en caso de que subsista su interés de acceso, sin responsabilidad alguna para el Instituto.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBAN LOS "LINEAMIENTOS DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA", PUBLICADO EN EL D.O.F. DE 19 DE ABRIL DE 2018, SE DEROGA DEL PRESENTE ORDENAMIENTO "LO QUE RESPECTA A LAS PREVISIONES CONTENIDAS EN EL MISMO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES" Y "SE MANTENDRÁ VIGENTE POR LO QUE RESPECTA A LAS DISPOSICIONES CONTEMPLADAS EN EL MISMO EN MATERIA DE ORGANIZACIÓN Y CONSERVACIÓN DE ARCHIVOS, HASTA EN TANTO SEA EMITIDO EL REGLAMENTO EN MATERIA DE ARCHIVOS DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]</small>
+
 ### Capítulo VI,
 
 De los Procedimientos ante la Comisión.
@@ -1984,3 +1990,7 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Comité de Valoración a que hace referencia la fracción XIII Bis del artículo 2 del Reglamento, deberá conformarse a más tardar transcurridos seis meses de la entrada en vigor de las presentes reformas, y en su primera sesión ordinaria aprobará su Manual de Integración y Funcionamiento.
 
 TERCERO.- Para el ejercicio 2010, por única ocasión, el Instituto tendrá hasta el último día del mes de agosto para cumplimentar la obligación establecida por el último párrafo del artículo 92 del Reglamento.
+
+D.O.F. 13 DE DICIEMBRE DE 2011.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
