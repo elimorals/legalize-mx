@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2011-09-30"
+last_updated: "2011-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-05-19"
 ---
 # REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -51,13 +51,17 @@ Para los efectos de este reglamento, se entenderá por:
 
 2.- Terminal.- Cualquier dispositivo de punto de venta que se utilice para la comercialización de concursos, sorteos, productos y servicios que ofrece Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-3.- Concurso.- El proceso que tiene lugar desde la captación oficial de quinielas, hasta la selección de ganadores; en el que los poseedores o titulares de un boleto mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio.
+3.- Concurso.- El proceso que tiene lugar desde la captación oficial de quinielas, la selección de ganadores o determinación de ganadores y hasta su cierre; en el que los poseedores o titulares de un boleto mediante la selección previa de un resultado deportivo o competencia, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina uno o varios ganadores de un premio.
 
-4.- Volante.- El documento que contiene la programación de los partidos seleccionados para un concurso, en donde el concursante anota sus pronósticos y formula sus quinielas.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-5.- Quiniela.- La selección de un pronóstico cuando menos para todos y cada uno de los partidos, programados para un concurso.
+4.- Volante.- El documento en el que el concursante anota sus pronósticos de resultados de partidos de fútbol para formular sus quinielas.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+5.- Quiniela.- La selección que realiza un concursante sobre los pronósticos de resultados de los partidos programados para un concurso.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -81,9 +85,9 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 12.- Monto acumulativo (polla o bolsa).- La cantidad repartible correspondiente al primer lugar que se haya declarado vacante por falta de ganadores y que es adicionada al monto del primer premio del siguiente concurso.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-13.- Selección de ganadores.- Es el evento mediante el cual, en cada concurso, utilizando los sistemas de cómputo se determinan los números de los boletos que obtuvieron premiación y el monto de la misma.
+13.- Selección de ganadores.- Es el evento mediante el cual se determina, con base en los resultados de los partidos de cada concurso, los boletos que obtuvieron premiación y el monto de la misma.
 
 14.- Bolsa garantizada.- Es el monto mínimo que Pronósticos se compromete a entregar al primer lugar acorde con lo establecido en los artículos 20o. y 21o. del presente Reglamento.
 
@@ -95,9 +99,41 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 16.- Medios electrónicos.- Cualquier dispositivo electrónico con el que Pronósticos comercialice sus concursos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-17.- Ceremonia.- Acto oficial de selección de la combinación ganadora.
+17.- Ceremonia.- Acto oficial de selección de ganadores en el que se establecen las quinielas ganadoras de acuerdo a los resultados de los partidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+18.- Momio.- Factor aplicable al monto de participación o apuesta elegido por el concursante para cada partido, el cual arroja el monto del premio correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+19.- L: Resultado en que gana el equipo Local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+20.- E: Resultado de Empate entre los equipos contendientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+21.- V: Resultado en que gana el equipo Visitante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+22.- Monto de participación o apuesta.- Importe en pesos con el que el concursante elige participar en cada partido que incluya en su quiniela.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+23.- Sistema Central de Transacciones en Línea: Sistema de Cómputo utilizado para operar los Concursos y Sorteos en Línea de Pronósticos, que registra y totaliza las transacciones generadas en el Concurso Progol y sus modalidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+24.- Determinación de ganadores.- Es el evento mediante el cual se determina con base a los resultados y los momios de cada partido de la modalidad Mi Progol, los boletos que obtuvieron premiación y el monto de la misma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+25.- Lista de juegos.- Conjunto de partidos y momios difundidos por Pronósticos que integra la programación para un concurso determinado.
 
 ### Capítulo II. Partidos de fútbol base de los concursos
 
@@ -169,7 +205,7 @@ Se podrá participar en el concurso, utilizando los volantes oficiales emitidos 
 
 Pronósticos informará al público, con toda oportunidad, el número mínimo y máximo de quinielas con que se podrá concursar en una sola apuesta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 15o.
 
@@ -265,7 +301,7 @@ Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará ac
 
 El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20o.
 
@@ -291,7 +327,7 @@ El total para premiación asignado a cada una de las categorías se prorrateará
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la Entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar las Reservas y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2005)</small>
 
 ###### Artículo 21o.
 
@@ -643,19 +679,237 @@ El participante ganador podrá cobrar el premio al que fue acreedor conforme a l
 
 El participante que tenga interés directo, podrá impugnar los resultados de la Selección de Ganadores conforme a lo establecido en los artículos 23o. al 28o. de este Reglamento.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO II. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION ATMOSFERICA
+### Capítulo XVII. Disposiciones Generales de Mi progol
 
-### CAPITULO III. DE LAS FUENTES DIVERSAS
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO IV. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA DE JURISDICCION ESTATAL Y DE LOS ECOSISTEMAS ACUATICOS
+###### Artículo 54o.
 
-### CAPITULO V. DE LA PROTECCION Y CONTROL DE LA CONTAMINACION DEL SUELO
+Se denomina Mi Progol, al concurso mediante el cual se realiza un pronóstico sobre resultados de partidos de fútbol soccer a celebrarse a nivel nacional e internacional a los cuales se les establecen momios, eligiendo el concursante para cada partido un monto de participación o apuesta, e inicia en el momento de aceptación del pago de Mi Progol y termina con la determinación de ganadores del último partido del concurso correspondiente.
 
-### CAPITULO VI
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
-DE LA GENERACION, MANEJO, TRANSPORTE, TRATAMIENTO, REUSO, RECICLAJE Y DISPOSICION FINAL DE LOS RESIDUOS SOLIDOS MUNICIPALES, DOMESTICOS E INDUSTRIALES NO PELIGROSOS
+###### Artículo 55o.
+
+Pronósticos dará a conocer oportunamente al público la Lista de juegos que integren el Concurso, la fecha de celebración de los mismos, así como los momios correspondientes a los tres posibles resultados (L, E, V) de cada partido.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 56o.
+
+En cualquier partido que se programe, Pronósticos, para los fines de este reglamento, sólo tomará como resultado oficial, el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o cualquier otra condición que se haya pactado entre los equipos contendientes.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 57o.
+
+Cuando cambien las condiciones de un partido y éste se encuentre dentro de la Lista de juegos, se reprogramará el momio publicado. Si esto sucede y el concursante ya adquirió su boleto antes del cambio, se respetará el momio indicado en el boleto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 58o.
+
+La anulación o modificación posterior a la Determinación de Ganadores de los resultados de un partido de fútbol, por parte de autoridades deportivas o judiciales que tengan competencia para ello, no tendrá efectos en relación con un concurso determinado, el que siempre se basará en los resultados oficiales que se conozcan antes de la Determinación de Ganadores.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 59o.
+
+Si después de iniciado un partido de fútbol de los programados para un concurso, fuere suspendido por cualquier motivo y el resultado oficial de éste no se conociera antes de la Determinación de Ganadores, el momio aplicable será de 1.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 60o.
+
+No se considerará realizado el partido cuando no se inicie por cualquier razón, inclusive por falta de comparecencia de los equipos, y ello motive la declaratoria de las autoridades deportivas de un resultado oficial en favor del equipo que sí se haya presentado; por lo que en este caso será aplicable lo previsto en el artículo 59o de este reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo XVIII. De los Procedimientos para participar en Mi Progol
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 61o.
+
+Se podrá participar en la modalidad Mi Progol, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del concursante al comercializador o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 62o.
+
+El concursante deberá realizar la selección del (los) partido(s) de entre los programados para la modalidad Mi Progol, debiendo elegir para cada partido sólo uno de los tres posibles resultados L, E, V, así como el monto de participación o apuesta con la que concursará.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 63o.
+
+No se aceptarán aquellas quinielas en las que el producto de los momios y el monto de participación o apuesta exceda el monto máximo de premio establecido por Pronósticos, los cuales se darán a conocer previamente al público a través de medios de comunicación masiva.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 64o.
+
+Aquellas quinielas participantes que se compongan de dos o más partidos, serán ganadoras siempre y cuando se acierte a la totalidad de los resultados asentados en las mismas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 65o.
+
+Pronósticos podrá facultar a sus comercializadores autorizados para registrar participaciones y captar la venta de Mi Progol mediante el uso de:
+
+a) Terminales que por lectura óptica del volante llenado por el concursante indicando su selección de pronóstico, mediante la digitación que haga el comercializador autorizado de estos datos en la terminal, ésta imprima, numere y expida el boleto que, contra su pago será entregado al concursante como comprobante de su participación, quedando almacenado el registro electrónico correspondiente en el sistema central de captación de transacciones en línea.
+
+b) Medios electrónicos enlazados al sistema central de captación de transacciones en línea que permiten transmitir las participaciones al computador central en el cual queda almacenado el registro electrónico correspondiente.
+
+Pronósticos podrá facultar a sus comercializadores autorizados para recibir y captar la venta del concurso por otros medios de comunicación electrónica, en los términos del contrato de comisión mercantil que tengan suscrito para tal efecto, transmitiendo los datos de las participaciones vendidas al sistema central de captación de transacciones en línea.
+
+Los comercializadores autorizados recibirán de los concursantes el pago del precio correspondiente y lo remitirán a Pronósticos en las condiciones y términos que Pronósticos señale en el contrato de comisión mercantil y el Reglamento de Comercializadores.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66o.
+
+Cuando por causa de fuerza mayor o caso fortuito debidamente comprobado, no se haya registrado la participación en el sistema central de captación de transacciones en línea, el titular de la participación que no haya sido registrada en los términos mencionados, tendrá el derecho a la devolución del importe efectivamente pagado.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 67o.
+
+El boleto deberá contener cuando menos los siguientes datos:
+
+1.- Número, nombre y fecha del concurso.
+
+2.- Quiniela (s).
+
+3.- Los momios correspondientes a la quiniela (s).
+
+4.- Importe del monto invertido.
+
+5.- El número de identificación del boleto.
+
+6.- Claves de seguridad.
+
+7.- Hora y fecha de emisión.
+
+8.- Número de terminal.
+
+9.- Número de Serie.
+
+10.- El término de caducidad del derecho al cobro del premio.
+
+11.- Mención de que es un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito, y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él sean legales.
+
+12.- El importe del premio en caso de resultar ganador.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 68o.
+
+Pronósticos, a través del Sistema Central de Transacciones en Línea, suspenderá la recepción de participaciones para los partidos, indefectiblemente diez (10) minutos antes de la hora programada para su inicio; sin embargo, se podrá seguir participando para los partidos subsecuentes disponibles.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 69o.
+
+Pronósticos podrá limitar la aceptación de participaciones para quinielas idénticas sucesivas que se pretendan registrar en una misma terminal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo XIX. Determinación de Ganadores
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 70o.
+
+Antes del inicio de cada partido, se generará un archivo con el registro de participaciones, el cual contendrá una firma electrónica que asegure la integridad del archivo emitido por el Sistema Central de Transacciones en Línea; a su vez el Sistema Central de Transacciones en Línea generará una bitácora en la que conste la hora de la suspensión de la recepción de quinielas participantes para cada uno de los partidos.
+
+Tanto el archivo que contiene el registro de participaciones de cada partido, así como la firma electrónica correspondiente se entregarán en un repositorio electrónico al órgano interno de control en Pronósticos para la Asistencia Pública antes de que dé inicio el partido correspondiente, esto con el fin de que pueda cotejar la información.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 71o.
+
+La determinación de ganadores se realizará en el Sistema Central de Transacciones en Línea una vez que haya concluido el partido correspondiente, habiendo tantas determinaciones de ganadores como partidos haya al día.
+
+Pronósticos publicará en su sitio web los resultados oficiales de los partidos una hora después de finalizados.
+
+Una vez verificado el cierre del concurso, es decir cuando hayan concluido todos los partidos programados en la Lista de Juegos, se publicarán los resultados en medios de comunicación masiva dentro del plazo de 48 horas.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 72o.
+
+Concluidos todos los partidos de la Lista de juegos del concurso, se generará un dispositivo de almacenamiento de datos con los archivos que contienen los registros de participaciones de todos los partidos que integraron el concurso y sus respectivas firmas electrónicas. El representante de la Subdirección General de Informática entregará este dispositivo al Inspector designado por la Secretaría de Gobernación, quien los depositará en una caja de seguridad asignada para tal efecto, a la cual únicamente tiene acceso el Organo Interno de Control.
+
+Acto seguido, se realizará el Cierre del concurso, el cual tendrá por objeto asentar en un acta, firmada por el Inspector designado por la Secretaría de Gobernación, el representante de la Dirección General, el representante de la Subdirección General de Informática y por el de la Subdirección de Concursos y Sorteos; los resultados oficiales de los partidos y la Determinación de Ganadores, así como cualquier incidente que hubiese ocurrido durante la vigencia del mismo. Dicha acta deberá ser firmada por los Servidores Públicos que intervienen en el acto.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 73o.
+
+El Director General de Pronósticos hará la designación de su representante, conforme a lo establecido en el último párrafo del Artículo 19o.- del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 74o.
+
+Se considera fondo de cada concurso, al valor conjunto de todas las participaciones que hayan sido captadas, controladas, registradas y aseguradas en el Sistema Central de Transacciones en Línea, para los efectos de su participación en el concurso Mi Progol.
+
+Dicho fondo se aplicará como sigue:
+
+Hasta el 8% a los comercializadores autorizados como comisión por las ventas que realicen, en términos del contrato de comisión mercantil celebrado entre ellos y Pronósticos.
+
+Hasta el 67% destinado a premiación de los concursantes ganadores; en caso de ser menor al 67%, la diferencia será enviada reserva.
+
+Con la cantidad restante de los montos anteriormente señalados, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar las Reservas y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación que correspondan a programas de desarrollo social.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 75o.
+
+Si por caso fortuito o fuerza mayor, no acudiera al evento el inspector designado por la Secretaría de Gobernación, deberá realizarse la ceremonia en presencia de un Fedatario Público.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo XX. Del pago de los premios de Mi Progol
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 76o.
+
+El concursante ganador podrá cobrar el premio al que fue acreedor conforme a lo establecido en los artículos 29o. al 32o. de este Reglamento.
+
+En caso de que el importe para el pago de premios exceda el 67% a que refiere el artículo 74 del presente reglamento, la diferencia será tomada de la reserva.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 77o.
+
+En términos de lo establecido en el artículo 66o. del presente reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el concurso respectivo prescribirá en un plazo de 1 (un) año contado a partir del siguiente día de la fecha de celebración del concurso a que se refiere el artículo 72o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo XXI. De las reclamaciones de Mi Progol
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 78o.
+
+El concursante que tenga interés directo, podrá impugnar los resultados de la Determinación de Ganadores conforme a lo establecido en los artículos 23o. al 28o. de este Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo XXII
+
+De los Comercializadores de Pronósticos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 79o.
+
+Los comercializadores autorizados de Pronósticos atenderán el contenido de este Reglamento, el contrato de comisión mercantil celebrado con Pronósticos y demás disposiciones aplicables. Las omisiones, errores o faltas imputables a los comercializadores Autorizados o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
 ## Transitorios
 
@@ -669,7 +923,7 @@ México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 11 DE JUNIO DE 2004.
 
@@ -728,6 +982,10 @@ D.O.F. 30 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 13 DE DICIEMBRE DE 2011.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
