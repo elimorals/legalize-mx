@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-tribunal-electoral-de-poder-12791"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-11"
-last_updated: "1997-10-11"
+last_updated: "2011-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 11 de octubre de 1997.
 
@@ -1244,3 +1246,13 @@ JORGE ZÁRATE LÓPEZ
 SECRETARIO GENERAL DE ACUERDOS
 
 JOSÉ ALVAREZ SOLIS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2011.
+
+PRIMERO. Publíquese el presente Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de Jalisco en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El presente Reglamento, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO. Se abroga el Reglamento Interior del Tribunal Electoral del Estado de Jalisco, publicado en el Periódico Oficial de la Entidad, el once de octubre de mil novecientos noventa y siete.
