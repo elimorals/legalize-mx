@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2010-10-31"
+last_updated: "2011-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -327,13 +327,11 @@ Para los efectos de este artículo, no formarán parte de la base gravable, el v
 
 Cuando los servicios de hospedaje incluyan servicios accesorios, tales como transporte, alimentación, uso de Instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen de tal forma que permitan acreditar la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde en su totalidad a servicios de hospedaje.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 22.
 
 El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 2.0%.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 23.
 
@@ -344,6 +342,8 @@ Se entiende por traslado del impuesto, el cobro o cargo que los contribuyentes d
 El prestador deberá realizar el pago del impuesto en la oficina recaudadora que corresponda a su domicilio fiscal en el Estado, o bien, en la oficina autorizada correspondiente, a más tardar el día 17 del mes siguiente a aquél en que se prestó el servicio, en las formas que para tal efecto apruebe la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea, el impuesto se tendrá por pagado una vez que sea validado por el sistema.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto causado.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 24.
 
@@ -3007,11 +3007,15 @@ III. Por la expedición de permisos provisionales para
 
 circulación de vehículos:
 
-a) Hasta por 15 días. 6
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2011)</small>
 
-b) Segundo Permiso hasta por quince días. 26
+a) Hasta por 15 días 6
 
-c) Tercer Permiso hasta por quince días. 50
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2011)</small>
+
+b) Segundo Permiso hasta por 15 días 6
+
+c) (DEROGADO, P.O. 13 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3612,3 +3616,17 @@ SEGUNDO. Las tasas, tarifas y cuotas como elementos del Impuesto Sobre Tenencia 
 TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
 
 CUARTO. El Ejecutivo del Estado a través de la Secretaría de Finanzas y de Administración Pública, deberá crear dentro de los 60 días siguientes a la aprobación del decreto, un programa de apoyo fiscal de adeudos anteriores, en apoyo a las familias duranguenses, para que logren estar al corriente en los pagos de los accesorios legales generados en virtud de adeudos anteriores por dicho impuesto.
+
+P.O. 13 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administración, informará a los Ayuntamientos del contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los apartados relativos al cobro de derechos por la expedición de permisos para circular sin placas, contenidos en el Titulo Tercero de las Leyes de Ingresos para el Ejercicio Fiscal 2012 de los Municipios de Canatlán, Canelas, Coneto de Comonfort, Cuencamé, El Oro, General Simón Bolívar, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, El Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis de Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Tlahualilo y Topia.
