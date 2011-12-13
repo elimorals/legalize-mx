@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2011-12-03"
+last_updated: "2011-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -737,7 +737,7 @@ III. El registro de las iniciativas se hará del conocimiento del Pleno, y el Pr
 
 IV. El dictamen de las comisiones se discutirá en el Pleno luego de su lectura; ésta podrá ser dispensada por acuerdo del Pleno, siempre que se haya publicado con la debida antelación en la Gaceta Parlamentaria;
 
-V. Sólo los dictámenes relativos a la Constitución Federal, y a la Constitución Local, deberán ser objeto de una segunda lectura, la cual no podrá ser dispensada bajo ninguna circunstancia; y
+V. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2011)
 
 VI. La dispensa de trámites en el procedimiento de las iniciativas, sólo será posible por acuerdo expreso de las dos terceras partes de los diputados presentes en el recinto oficial.
 
@@ -835,9 +835,7 @@ La secuencia del trámite de discusión, aprobación o rechazo de los dictámene
 
 I. Las iniciativas deberán comprender un dictamen realizado en términos de lo dispuesto en el artículo 86 de este Reglamento;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
-
-II. Antes de discutir un dictamen se someterá a una lectura, si el asunto que lo motiva provoca formación de nueva ley;
+II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2011)
 
 III. Cuando el Pleno del Congreso haga observaciones a un dictamen, ya sea en forma parcial o total, lo devolverá a la comisión para que considere las indicaciones del Pleno. Corregido el dictamen, de nueva cuenta volverá a ser entregado a la Secretarí a (sic) del Congreso para su discusión y aprobación, en su caso, sin que pueda exceder el término que para emitir los dictámenes establece el artículo 92 de la Ley Orgánica, y
 
@@ -2016,5 +2014,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE DICIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigencia el mismo día que entre en vigor la reforma al artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
