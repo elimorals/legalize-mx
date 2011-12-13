@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-12-07"
+last_updated: "2011-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE DICIEMBRE DE 2011.</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -439,7 +439,7 @@ La vecindad en un municipio no se perderá cuando el vecino se traslade a residi
 
 ### CAPITULO PRIMERO. Integración e Instalación de los Ayuntamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 15.
 
@@ -449,7 +449,7 @@ Cada municipio será gobernado por un ayuntamiento de elección popular directa 
 
 Los integrantes de los ayuntamientos de elección popular deberán cumplir con los requisitos previstos por la ley, y no estar impedidos para el desempeño de sus cargos, de acuerdo con los artículos 119 y 120 de la Constitución Política del Estado Libre y Soberano de México y se elegirán conforme a los principios de mayoría relativa y de representación proporcional, con dominante mayoritario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -471,9 +471,9 @@ III. Un presidente, dos síndicos y nueve regidores, electos por planilla según
 
 IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 17.
 
@@ -483,7 +483,7 @@ Dentro de los primeros tres días hábiles del mes de diciembre de cada año, el
 
 Dicho informe se publicará en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -495,7 +495,7 @@ I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos d
 
 II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -591,7 +591,7 @@ Los ayuntamientos podrán sesionar con la asistencia de la mayoría de sus integ
 
 Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención a la Ley, lo exija el interés público o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
@@ -685,7 +685,7 @@ XIX. Aprobar su presupuesto de egresos, en base a los ingresos presupuestados pa
 
 Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza, determinada conforme a principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad, igualdad y transparencia, sujetándose a lo dispuesto por el Código Financiero y demás disposiciones legales aplicables.
 
-Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
+Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a lineamientos legales establecidos para todos los servidores públicos municipales.
 
 XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
 
@@ -785,25 +785,23 @@ XLII. Convocar al procedimiento de designación de los Defensores Municipales de
 
 XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temporales o definitivas, así como los permisos para viajar al extranjero en misión oficial, que soliciten sus integrantes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
 
 XLIV. Llevar un registro actualizado sobre establecimientos comerciales que se encuentren dentro del municipio, especificando la licencia con el giro comercial e impacto que generen, así como las demás características que el Cabildo determine;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
 
 XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a giros comerciales de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2011 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE NOVIEMBRE DE 2011)</small>
 
@@ -817,9 +815,9 @@ I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
 II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
-> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011) (F. DE E., G.G. 13 DE DICIEMBRE DE 2011)
 
-III. No haber sido condenado en proceso penal, por delito internacional que amerite pena privativa de libertad;
+III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
 
 > <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
 
@@ -899,7 +897,7 @@ Los miembros del ayuntamiento necesitan licencia del mismo, para separarse tempo
 
 Las faltas de los integrantes del ayuntamiento podrán ser temporales o definitivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 Las faltas temporales que no excedan de quince días naturales se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de cabildo para autorizarlas, hasta por tres ocasiones, durante su periodo constitucional. Las faltas temporales que excedan de quince días naturales serán aprobadas por el Ayuntamiento cuando exista causa justificada. Se consideran causas justificadas para separarse del cargo las siguientes:
 
@@ -915,7 +913,7 @@ e) Aquellas otras que por su naturaleza sean consideradas por el Ayuntamiento.
 
 El Ayuntamiento deberá resolver las solicitudes de licencia que excedan de quince días o las definitivas, a más tardar dentro de los ocho días siguientes a la solicitud en sesión de Cabildo. En caso de que el ayuntamiento no resuelva en el plazo señalado en este párrafo, se tendrá por aprobada la solicitud de licencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 41.
 
@@ -1063,11 +1061,11 @@ XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y 
 
 XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
 
-> <small>N. DE E. LA APLICACION DE ESTA FRACCION SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACION, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARAN A CABO DENTRO DE LOS PRIMEROS DIEZ DIAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
+> <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARAN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
 
 XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
 
-> <small>N. DE E. EN RELACION CON LA APLICABILIDAD DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA APLICABILIDAD DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 20 DE JULIO DE 2011)</small>
 
@@ -1157,7 +1155,7 @@ VIII. Regularizar la propiedad de los bienes inmuebles municipales, para ello te
 
 > <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
 
-IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquel en que concluyo el proceso de regularización;
+IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquél en que concluyó el proceso de regularización;
 
 > <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1231,7 +1229,7 @@ e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, c
 
 > <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-f). vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
+f). Vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
 
 II. Corresponde a los jefes de sector o de sección y de manzana:
 
@@ -1399,7 +1397,7 @@ Las comisiones del ayuntamiento carecen de facultades ejecutivas. Los asuntos y 
 
 Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 73.
 
@@ -1449,7 +1447,7 @@ Los ayuntamientos podrán destinar recursos y coordinarse con las organizaciones
 
 Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar la cooperación de instituciones privadas.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO SEXTO. De las Unidades y Consejos Municipales de Protección Civil
 
@@ -1461,7 +1459,7 @@ En cada municipio se establecerá una Unidad Municipal de Protección Civil mism
 
 Las unidades municipales de protección civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
 
-La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de repuesta (sic) sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
+La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de respuesta sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
 
 > <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1609,7 +1607,7 @@ XIII. Ser responsable de la publicación de la Gaceta Municipal, así como de la
 
 XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 92.
 
@@ -1973,7 +1971,7 @@ XVII. Las demás que le señalen las disposiciones relativas.
 
 Para ser contralor se requiere cumplir con los requisitos que se exigen para ser tesorero municipal, a excepción de la caución correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 15 DE FEBRERO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE FEBRERO DE 1999)</small>
 
 ### CAPITULO QUINTO. De la Planeación
 
@@ -2271,7 +2269,7 @@ Los puntos no previstos en la convocatoria respectiva, serán resueltos conjunta
 
 Artículo 147 G.- La Comisión de Derechos Humanos del Estado de México notificará al ayuntamiento la declaratoria de Terna y éste lo comunicará a los aspirantes propuestos, a fin de que en la siguiente sesión ordinaria de cabildo, expongan su propuesta de plan de trabajo. Serán los integrantes del ayuntamiento quienes en cabildo decidan la designación del Defensor Municipal de Derechos Humanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 Artículo 147 H.- La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de cabildo, en la que estará presente la o el Presidente de la Comisión de Derechos Humanos del Estado de México o quien lo represente.
 
@@ -2391,7 +2389,7 @@ Artículo 147 N.- El Defensor Municipal de Derechos Humanos presentará por escr
 
 Artículo 147 O.- Corresponderá a la Comisión de Derechos Humanos del Estado de México expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 142.
 
@@ -2459,19 +2457,19 @@ VI. Promover la capacitación y especialización permanente del personal que lab
 
 VII. Las que el ayuntamiento le asigne.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
 
 ### CAPITULO PRIMERO. Del Bando y los Reglamentos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO SEGUNDO. De las Sanciones
 
@@ -2481,7 +2479,7 @@ En cada municipio el ayuntamiento designará, a propuesta del presidente municip
 
 Así mismo podrá nombrar a los oficiales mediadores-conciliadores en materia comunitaria que requiera, los cuales durarán en su cargo tres años con posibilidad a ser nombrados para otros periodos.
 
-La forma de concluir la mediación y la conciliación, será por convenios suscritos o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
+La forma de concluir la mediación y la conciliación, será por convenio suscrito o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2639,7 +2637,7 @@ e) Llevar un libro en donde se asiente todo lo actuado;
 
 f) Expedir a petición de parte, certificaciones de hechos de las actuaciones que realicen;
 
-g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
+g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de éste la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
 
 h) Las demás que les atribuyan los ordenamientos municipales aplicables.
 
@@ -2671,23 +2669,23 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 ###### Artículo 155.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 156.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 157.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 158.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 159.
 
-(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ## TITULO VI. De la Reglamentación Municipal
 
@@ -2813,7 +2811,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HUMBERTO LIRA MORA
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 G.G. 5 DE ENERO DE 1994.
 
@@ -2849,7 +2847,7 @@ Este decreto entrará en vigor el día siguiente de su publicación en la Gaceta
 
 G.G. 7 DE FEBRERO DE 1997.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -2963,7 +2961,7 @@ TERCERO.- Para cumplir con lo establecido en los artículos 53 fracciones VIII y
 
 G.G. 1 DE DICIEMBRE DE 2004.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 8 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 8 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
 
 G.G. 27 DE JUNIO DE 2005.
 
@@ -3105,7 +3103,7 @@ OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la 
 
 G.G. 3 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 137, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 40 Y SE ADICIONAN LOS PARRAFOS QUINTO, SEXTO, SEPTIMO, OCTAVO Y NOVENO AL ARTICULO 41 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 137, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 40 Y SE ADICIONAN LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO AL ARTÍCULO 41 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3113,7 +3111,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 G.G. 3 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 140, POR EL QUE SE ADICIONA UNA FRACCION XXI BIS AL ARTICULO 31 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 140, POR EL QUE SE ADICIONA UNA FRACCIÓN XXI BIS AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3123,7 +3121,7 @@ TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera
 
 G.G. 3 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 143, POR EL QUE SE ADICIONAN LAS FRACCIONES XXI BIS Y XXI TER AL ARTICULO 31, LA FRACCION XII BIS AL ARTICULO 48, EL INCISO F) A LA FRACCION I DEL ARTICULO 57, LA FRACCION VII BIS AL ARTICULO 83. SE REFORMA EL PRIMER PARRAFO Y LAS FRACCIONES I, II Y III DEL ARTICULO 81 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 143, POR EL QUE SE ADICIONAN LAS FRACCIONES XXI BIS Y XXI TER AL ARTÍCULO 31, LA FRACCIÓN XII BIS AL ARTÍCULO 48, EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 57, LA FRACCIÓN VII BIS AL ARTÍCULO 83. SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 81 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3137,7 +3135,7 @@ SEGUNDO.- Estas reformas entrarán en vigor al día siguiente a su publicación 
 
 G.G. 7 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 153, POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 17 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 153, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3145,7 +3143,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el primero de enero del año 201
 
 G.G. 7 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 154, POR EL QUE SE REFORMAN LAS FRACCIONES XVII Y XVIII Y SE ADICIONA LA FRACCION XIX DEL ARTICULO 48 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO NÚMERO 154, POR EL QUE SE REFORMAN LAS FRACCIONES XVII Y XVIII Y SE ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3165,7 +3163,7 @@ El presente decreto entrará en vigor treinta días después de su publicación 
 
 G.G. 30 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 177, POR EL QUE SE ADICIONA LA FRACCION XXV BIS AL ARTICULO 31 DE LA LEY ORGANICA MUNICIPAL.
+DECRETO NÚMERO 177, POR EL QUE SE ADICIONA LA FRACCIÓN XXV BIS AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3175,7 +3173,7 @@ TERCERO.- Las Autoridades estatales y municipales implementarán el programa y l
 
 G.G. 30 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 178, POR EL QUE SE REFORMA EL ARTICULO 6 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO, POR MEDIO DEL CUAL SE ELEVA LA CATEGORIA POLITICA DE LA CABECERA MUNICIPAL DE NICOLAS ROMERO, MEXICO, DE VILLA, POR LA DE LA CIUDAD.
+DECRETO NÚMERO 178, POR EL QUE SE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, POR MEDIO DEL CUAL SE ELEVA LA CATEGORÍA POLÍTICA DE LA CABECERA MUNICIPAL DE NICOLÁS ROMERO, MÉXICO, DE VILLA, POR LA DE LA CIUDAD.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3293,7 +3291,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 29 DE AGOSTO DE 2011.
 
-DECRETO No. 331 POR EL QUE SE ADICIONA LA FRACCION XXIV BIS AL ARTICULO 31 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO No. 331 POR EL QUE SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3301,7 +3299,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 29 DE AGOSTO DE 2011.
 
-DECRETO No. 332 POR EL QUE SE REFORMAN LOS ARTICULOS 36 Y 39 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO No. 332 POR EL QUE SE REFORMAN LOS ARTÍCULOS 36 Y 39 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3309,7 +3307,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 29 DE AGOSTO DE 2011.
 
-DECRETO No. 333 POR EL QUE SE REFORMA EL ARTICULO 92 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO No. 333 POR EL QUE SE REFORMA EL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3317,7 +3315,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 29 DE AGOSTO DE 2011.
 
-DECRETO No. 334 POR EL QUE SE REFORMAN LOS ARTICULOS 105, 106 Y 107 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO No. 334 POR EL QUE SE REFORMAN LOS ARTÍCULOS 105, 106 Y 107 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3325,7 +3323,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 5 DE SEPTIEMBRE DE 2011.
 
-DECRETO No. 340 POR EL QUE SE REFORMAN LOS ARTICULOS 17 EN SU SEGUNDO PARRAFO, 30 EN SUS PARRAFOS PRIMERO Y SEGUNDO; 48 EN SU FRACCION III, 91 EN SU FRACCION XIII, 121, 160 EN SU PRIMER PARRAFO Y 165 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO No. 340 POR EL QUE SE REFORMAN LOS ARTÍCULOS 17 EN SU SEGUNDO PÁRRAFO, 30 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 48 EN SU FRACCIÓN III, 91 EN SU FRACCIÓN XIII, 121, 160 EN SU PRIMER PÁRRAFO Y 165 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3333,7 +3331,7 @@ SEGUNDO.- Este Decreto entrara en vigor al día siguiente de su publicación en 
 
 G.G. 5 DE SEPTIEMBRE DE 2011.
 
-DECRETO No. 341 POR EL QUE SE ADICIONA EL INCISO Ñ) BIS A LA FRACCION I DEL ARTICULO 69 Y UN SEGUNDO PARRAFO AL ARTICULO 77 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+DECRETO No. 341 POR EL QUE SE ADICIONA EL INCISO Ñ) BIS A LA FRACCIÓN I DEL ARTÍCULO 69 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 77 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
