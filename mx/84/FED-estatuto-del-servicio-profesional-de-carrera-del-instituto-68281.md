@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2010-08-31"
+last_updated: "2011-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-04-24"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-ACUERDO DE LA JUNTA DE GOBIERNO DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA POR EL QUE SE EXPIDE EL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
+ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -155,7 +155,9 @@ El Comité es el órgano de resolución en los procesos de ingreso, capacitació
 
 I. Elaborar las disposiciones normativas para la operación del Sistema y presentarlas a la Comisión;
 
-II. Emitir las convocatorias de los concursos para ocupar las plazas vacantes por (sic) en términos de las disposiciones normativas de este Estatuto y su Manual de integración y funcionamiento;
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+II. Emitir la convocatoria de los concursos para ocupar las plazas vacantes en términos de las disposiciones normativas de este Estatuto y su manual de integración y funcionamiento.
 
 III. Aprobar los instrumentos y métodos de selección y evaluación específicos para cada concurso, así como valorar los resultados del procedimiento de selección y determinar los Aspirantes ganadores de cada concurso;
 
@@ -527,51 +529,101 @@ XII. Las demás que señale este Estatuto y sus disposiciones normativas.
 
 Del Recurso de Reconsideración.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 45.
 
-En contra de las resoluciones que recaigan en los procesos de ingreso, capacitación, evaluación del desempeño, y separación, el Aspirante o el Servidor Público Profesional de Carrera podrá interponer ante el Comité, recurso de reconsideración, dentro del término de diez días hábiles contados a partir de la notificación de la resolución correspondiente.
+Contra los resultados emitidos en las diferentes etapas de los procesos de ingreso y evaluación del desempeño, se podrá interponer recurso de reconsideración.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 46.
 
-El recurso de reconsideración se resolverá mediante la revisión integral del expediente del Aspirante o del Servidor Público Profesional de Carrera, según el proceso de que se trate, así como las documentales que obren en el proceso que se impugna, además se valorarán las pruebas documentales que en su caso presente el recurrente junto con su escrito de reconsideración.
+El escrito de interposición del recurso deberá presentarse ante el Presidente del Comité, dentro de los diez días hábiles siguientes a aquél en que haya surtido efecto la notificación del acto o resolución recurrida.
+
+La interposición del recurso de reconsideración deberá formularse únicamente por escrito ante el Comité, y presentarse en las oficinas de su Presidente, o en las oficinas de los Directores de Administración de las unidades administrativas del Instituto, de los Coordinadores Estatales o los Directores Regionales. Los recursos que se presenten por medios electrónicos se considerarán no interpuestos y su respuesta no requerirá del acuerdo o la notificación establecidos en los artículos 48 y 52 del presente Estatuto.
+
+El recurso de reconsideración se resolverá mediante la revisión integral del expediente, según el proceso de que se trate, así como las documentales que obren en el proceso que se impugna, además se valorarán las pruebas documentales que en su caso presente el recurrente junto con su escrito de reconsideración.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 47.
 
-El recurso de reconsideración se interpondrá por escrito, expresando el nombre del recurrente y el domicilio para notificaciones tratándose del Aspirante, la resolución que se impugna y las consideraciones en que fundamenta el recurrente su petición. La falta de cualquiera de estos requisitos dará lugar a no tener por interpuesto el recurso de reconsideración.
+El escrito de interposición del recurso de reconsideración deberá contener por lo menos los siguientes requisitos:
+
+I. Nombre y firma del recurrente, adjuntando copia de su identificación oficial, así como el domicilio que señale para efectos de notificaciones;
+
+II. El acto o (sic) que se recurre y la fecha en que se le notificó el mismo;
+
+III. Copia de la resolución o acto que se impugna y de la notificación correspondiente
+
+IV. Los agravios que se le causan; y
+
+V. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado, debiendo acompañar las documentales con que cuente.
+
+En caso de no acompañar las pruebas documentales al escrito inicial, éstas se tendrán por no ofrecidas.
+
+Serán inadmisibles las pruebas testimonial, pericial y la confesional.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
 
-Dentro de los tres días siguientes a la presentación o recepción del recurso de reconsideración, el Comité deberá acordar su admisión.
+El Comité, a través de su Presidente, acordará dentro del término de siete días hábiles, contados a partir del día siguiente de la recepción del recurso de reconsideración, sobre la admisión o desechamiento del mismo.
 
-En contra del acuerdo que recaiga al escrito de presentación o recepción del recurso de reconsideración no procederá ningún recurso.
+El acuerdo de admisión deberá prever, entre otros aspectos, la competencia, la solicitud del informe a que se refiere el artículo 49, así como la admisión de pruebas y la suspensión del proceso.
+
+Contra el acuerdo de admisión o desechamiento del recurso de reconsideración no procederá recurso alguno.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 48 Bis.
+
+El Comité, a través de su Presidente, tendrá por no interpuesto el recurso de reconsideración y lo desechará cuando:
+
+I. Se presente fuera de plazo;
+
+II. Falte alguno de los requisitos señalados en el artículo 47, fracciones I a III del Estatuto; y
+
+III. Se promueva en contra de criterios de evaluación.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 49.
 
-En casos excepcionales el Comité para la resolución del recurso de que se trate solicitará a las unidades administrativas la documentación que obre en sus archivos.
+El Comité, a través de su Presidente, podrá solicitar a las unidades administrativas que hayan intervenido en los procesos a que se refieren el artículo 45, dentro del plazo de cinco días hábiles, rindan los informes que se estimen pertinentes, y remitan la documentación que obre en sus archivos, para resolver el recurso de que se trate.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 50.
 
-La valoración de las pruebas se hará de conformidad con las bases, reglas, criterios o lineamientos del proceso de que se trate y lo previsto en el presente Estatuto y en sus disposiciones normativas.
+La valoración de las pruebas se hará de conformidad con las bases, reglas, criterios o lineamientos del proceso de que se trate.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 51.
 
-El Comité tendrá 15 días hábiles a partir de la admisión del recurso de reconsideración para emitir la resolución definitiva, la que deberá contener:
+El Comité tendrá 15 días hábiles a partir de la notificación de la admisión del recurso de reconsideración para emitir la resolución definitiva, la que deberá contener:
 
-I. La fijación clara y precisa de los argumentos hechos valer por el Aspirante o por el Servidor Público Profesional de Carrera;
+I. La fijación de los argumentos hechos valer por el recurrente.
 
-II. La motivación y fundamentación en que se apoye el sentido del fallo, y
+II. Las consideraciones que motiven y fundamenten el sentido del fallo, y
 
-III. Los puntos resolutivos con que se concluya el recurso de reconsideración, determinando de manera clara y precisa sus efectos.
+III. Los puntos resolutivos con que se concluya el recurso de reconsideración, determinando sus efectos.
 
-En contra de la resolución definitiva no procederá ningún recurso.
+En contra de las resoluciones definitivas que emita el Comité o su Presidente no procederá ante el Instituto recurso alguno.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 52.
 
-El acuerdo que recaiga a la presentación o recepción del recurso de reconsideración y su resolución, deberán notificarse personalmente, tratándose del Servidor Público Profesional de Carrera en su lugar de trabajo, en el caso del Aspirante en el domicilio que haya señalado para tal efecto.
+El acuerdo de admisión o de desechamiento del recurso de reconsideración y la resolución, deberán de notificarse personalmente, en el domicilio que haya señalado para tal efecto el recurrente, en un plazo máximo de siete días hábiles, contados a partir de la expedición de los mismos.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 53.
 
-Tratándose de recursos de reconsideración promovidos por los Aspirantes, cuando no sea posible notificarlos personalmente en el domicilio señalado, la notificación se entenderá con quien reciba el documento; en caso de negativa para su recepción, se dejará aviso para que el recurrente la reciba en la oficina que señale el Instituto.
+Cuando no sea posible notificar personalmente al interesado en el domicilio señalado, la notificación se entenderá realizada con quien reciba el documento; en caso de negativa para su recepción, se dejará aviso para que el recurrente la reciba en la oficina que señale el Instituto.
 
 En caso de que no se encuentre persona alguna para la recepción de la notificación, se fijará el aviso en el domicilio señalado.
 
@@ -581,25 +633,47 @@ Transcurridos 10 días después de fijado el aviso, la notificación se tendrá 
 
 Los días y horas para la sustanciación de este recurso de reconsideración se entenderán como hábiles.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 55.
 
-La interposición del recurso de reconsideración por parte del Servidor Público Profesional de Carrera, tendrá como efecto la suspensión del cumplimiento de la resolución impugnada, hasta en tanto dicho recurso se resuelva en definitiva.
+La interposición del recurso de reconsideración, tendrá como efecto la suspensión del resultado de la etapa impugnada, hasta en tanto dicho recurso se resuelva en forma definitiva.
 
 ###### Artículo 56.
 
-Cuando el recurso de reconsideración se tenga por no interpuesto, no procederá la suspensión.
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 2011)
 
 ###### Artículo 57.
 
-El Comité notificará la resolución al recurrente, para los efectos que se precisen.
+(DEROGADO, D.O.F. 13 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 58.
 
-La resolución que haya determinado la improcedencia del recurso de reconsideración, confirmará el fallo impugnado y éste subsistirá para todos los efectos correspondientes.
+La resolución del recurso tendrá por objeto:
+
+I. Confirmar el resultado de la etapa impugnada y ordenar la reanudación del proceso; y
+
+II. Revocar el acto impugnado, con el efecto de modificar el resultado de la etapa correspondiente y ordenar la reanudación del proceso.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 58 Bis.
+
+El recurso de reconsideración a que se refiere este capítulo, versará exclusivamente en la aplicación correcta de los procesos y no en los criterios de evaluación que se instrumenten.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 59.
 
-El recurso de reconsideración a que se refiere este capítulo no resolverá cuestiones de carácter laboral del Servidor Público Profesional de Carrera.
+El recurso no resolverá cuestiones de carácter laboral del Servicio Público Profesional de Carrera.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 59 Bis.
+
+Los bancos de reactivos que se utilicen en los exámenes de ingreso y evaluación del desempeño deben clasificarse como información reservada conforme a la ley de la materia.
 
 ## TRANSITORIOS
 
@@ -613,7 +687,9 @@ CUARTO.- Las disposiciones normativas derivadas de este Estatuto y los procedimi
 
 QUINTO.- Los servidores públicos que hayan obtenido la titularidad de su plaza conforme al Acuerdo por el que se establecen las Reglas del Sistema Integral de Profesionalización, publicado en el Diario Oficial de la Federación el 11 de noviembre de 1994, serán considerados Servidores Públicos Profesionales de Carrera, y les aplicará este Estatuto a partir de su entrada en vigor.
 
-SEXTO.- A la entrada en vigor del Estatuto, los servidores públicos que ocupen plazas correspondientes a los rangos que conforman el Subsistema de Personal de Confianza, y que no tengan la titularidad de su plaza en los términos del artículo transitorio anterior, no se considerarán miembros del Sistema y la evaluación para su ingreso a éste deberá realizarse en un periodo de hasta dos años, contados a partir de la emisión de las disposiciones normativas del Estatuto; los servidores públicos que no acrediten esta evaluación serán separados de su encargo en los términos del presente Ordenamiento.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+
+SEXTO.- A la entrada en vigor del Estatuto, los servidores públicos que ocupen plazas correspondientes a los rangos que conforman el Subsistema de Personal de Confianza, y que no tengan la titularidad de su plaza en los términos del artículo transitorio anterior, no se considerarán miembros del Sistema y la evaluación para su ingreso a éste deberá realizarse a más tardar el 31 de diciembre de 2012; los servidores públicos que no acrediten esta evaluación serán separados de su encargo en los términos del presente Ordenamiento.
 
 SEPTIMO.- Hasta en tanto se publiquen las disposiciones normativas a que hace referencia el artículo Cuarto Transitorio y para asegurar la continuidad de las tareas encomendadas al Instituto, las plazas correspondientes a los rangos del Sistema que se encuentren vacantes a la fecha de entrada en vigor de este Estatuto, se considerarán temporalmente de libre designación. Los servidores públicos que ocupen las plazas podrán permanecer un plazo no mayor de un año a partir de la publicación de las disposiciones normativas. Dentro de ese lapso, las plazas deberán someterse a concurso en los términos de este Estatuto.
 
@@ -623,8 +699,14 @@ El presente Acuerdo No. 4a./V/2009, fue aprobado en la Cuarta Sesión 2009 de la
 
 México, D.F., a 24 de abril de 2009.- Hace constar lo anterior el Director General Adjunto de Asuntos Jurídicos, Jorge Ventura Nevares, en ejercicio de la atribución que le confiere lo dispuesto por la fracción IV, del artículo 46 del Reglamento Interior del Instituto Nacional de Estadística y Geografía.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 31 DE AGOSTO DE 2010.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE DICIEMBRE DE 2011.
+
+PRIMERO. Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos de reconsideración que se hubieren interpuesto antes de la entrada en vigor del presente Acuerdo se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
