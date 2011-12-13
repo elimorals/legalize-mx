@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-universidad-autonoma-de-baja-california-3401
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-10-06"
-last_updated: "2011-02-11"
+last_updated: "2011-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA SUR
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA SUR
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 6 de octubre de 1978.
 
@@ -35,7 +35,7 @@ EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 DECRETA
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA SUR.
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA SUR.
 
 ### CAPITULO I. PRINCIPIOS FUNDAMENTALES
 
@@ -561,12 +561,16 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 
 ###### ARTÍCULO SEGUNDO.
 
-En un plazo no mayor a 15 días naturales, el Consejo General Universitario, deberá convocar a elección de quien ocupara el cargo de Rector de la Universidad Autónoma de Baja California Sur, en los términos de la Ley Orgánica de la Universidad Autónoma de Baja California Sur.
+(DEROGADO, B.O. 13 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO TERCERO.
 
-A partir de la entrada en vigor del presente Decreto, quedan sin efecto legal o administrativo alguno, las designaciones de Rector realizadas por el Consejo General Universitario y por la Junta Consultiva.
+(DEROGADO, B.O. 13 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO CUARTO.
 
-En un plazo que no exceda de 3 días naturales posteriores a la entrada en vigor del presente Decreto, el Secretario Académico convocará al Consejo General Universitario, para que en uso de la facultad que le otorga la fracción VII del Artículo 10 de la presente Ley, designe al Rector Interino, mismo que desahogará el proceso de elección a que se refiere el artículo segundo transitorio del presente Decreto. Entre tanto tendrá todas las facultades legales, académicas y administrativas que le confiere la presente Ley.
+(DEROGADO, B.O. 13 DE DICIEMBRE DE 2011)
+
+B.O. 13 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
