@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2011-05-12"
+last_updated: "2011-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
+LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-> <small>N. DE E. EN TERMINOS DEL ARTICULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002, SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACION, EXPEDICION, RENOVACION Y REPOSICION DE LICENCIAS DE CHOFER DEL SERVICIO PUBLICO, ESTABLECIDAS EN LA LEY DE TRANSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
+> <small>N. DE E. EN TÉRMINOS DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002, SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACIÓN, EXPEDICIÓN, RENOVACIÓN Y REPOSICIÓN DE LICENCIAS DE CHOFER DEL SERVICIO PÚBLICO, ESTABLECIDAS EN LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -605,9 +605,11 @@ El Titular deberá reintegrar la licencia a la Dirección Municipal en un térmi
 
 La Dirección Municipal deberá boletinar los casos de suspensión o cancelación de licencias de conducir, mediante oficio dirigido a las compañías aseguradoras y a los demás municipios de la Entidad, para los fines legales que estimen conveniente aplicar.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 50.
 
-Para circular sin placas y/o sin tarjeta de circulación, se requerirá permiso, el cual será expedido única y exclusivamente por el Gobierno del Estado, por conducto de la Secretaría de Finanzas y de Administración, o por las Recaudaciones de Rentas en los Municipios; dichos permisos no se darán por un lapso mayor de ocho días y solamente podrán prorrogarse por otros ocho días cuando las circunstancias lo ameriten.
+Para circular sin placas y/o sin tarjeta de circulación, se requerirá permiso, el cual será expedido única y exclusivamente por el Gobierno del Estado, por conducto de la Secretaría General de Gobierno en coordinación con la Secretaría de Finanzas y de Administración, o por las recaudaciones de Rentas en los Municipios; dichos permisos no se darán por un lapso mayor de quince días y solamente podrán prorrogarse por otros quince días cuando las circunstancias lo ameriten.
 
 ###### ARTICULO 51.
 
@@ -706,3 +708,19 @@ P.O. 12 DE MAYO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Los ayuntamientos deberán realizar las adecuaciones necesarias a su marco reglamentario, en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que inicie su vigencia el presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administración, informará a los Ayuntamientos del contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los apartados relativos al cobro de derechos por la expedición de permisos para circular sin placas, contenidos en el Titulo Tercero de las Leyes de Ingresos para el Ejercicio Fiscal 2012 de los Municipios de Canatlán, Canelas, Coneto de Comonfort, Cuencamé, El Oro, General Simón Bolívar, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, El Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis de Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Tlahualilo y Topia.
+
+Los citados Municipios deberán realizar las adecuaciones numéricas que correspondan en sus Leyes de Ingresos en el Título señalado en el párrafo anterior.
