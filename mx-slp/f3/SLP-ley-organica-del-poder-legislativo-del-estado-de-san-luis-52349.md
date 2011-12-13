@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2011-10-20"
+last_updated: "2011-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -443,9 +443,9 @@ c) Lectura de correspondencia: de los demás poderes del Estado, de los ayuntami
 
 d) Presentación de iniciativas de los diputados, quienes podrán leer un extracto de la misma, y relación de las demás iniciativas presentadas con antelación, así como de los acuerdos para turnarlos a las comisiones correspondientes.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2010)</small>
+(REFORMANDO, P.O. 13 DE DICIEMBRE DE 2011)
 
-e) Lectura y aprobación de dictámenes; cuya lectura podrá ser dispensada por acuerdo del Pleno; excepto cuando se trate de la aprobación de una nueva ley y de reformas constitucionales.
+e) Lectura y aprobación de dictámenes; cuya lectura podrá ser dispensada por acuerdo del Pleno.
 
 f) Asuntos generales.
 
@@ -1940,3 +1940,9 @@ P.O. 20 DE OCTUBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
