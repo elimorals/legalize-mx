@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-del-33096
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2008-11-05"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO Y MUNICIPIOS DE MORELOS
 
-LEY DE ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA DEL ESTADO Y MUNICIPIOS DE MORELOS
+LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y MUNICIPIOS DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 30 de julio de 2003.
 
@@ -654,3 +656,13 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Aprobada que sea la presente Ley, remítase al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- La presente Ley, iniciará su vigencia el primer día del mes de enero del año 2012.
+
+TERCERO.- Al entrar en vigor la presente ley, quedará abrogada la Ley de Entrega-recepción de la Administración Pública del Estado y Municipios de Morelos, publicada el 30 de Julio de 2003, en el Periódico Oficial "Tierra y Libertad", número 4268.
+
+CUARTO.- Los procesos de entrega-recepción que se encuentren pendientes al inicio de la entrada en vigor de la presente Ley, se concluirán conforme a las disposiciones que les dieron origen.
