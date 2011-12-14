@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-la-aplicacion-en-el-poder-judicial-de-la-45572"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-02"
-last_updated: "2005-07-02"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO PARA LA APLICACION EN EL PODER JUDICIAL DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-REGLAMENTO PARA LA APLICACION EN EL PODER JUDICIAL DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
+REGLAMENTO PARA LA APLICACIÓN EN EL PODER JUDICIAL DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 2 de julio de 2005.
 
@@ -408,3 +410,23 @@ LIC. JULIO CÉSAR ROMERO RAMOS SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL SUPER
 C E R T I F I C A:
 
 Que este Reglamento para la aplicación de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit en el Poder Judicial en (catorce fojas), fue aprobado por los Señores Magistrados: Presidente Javier Germán Rodríguez Jiménez, José Ramón González Pineda, Jorge Armando Gómez Arias, José Guadalupe Campos Hernández, Lauro Jiménez Borrayo, Jesús Ramírez García, Laura Elena Fletes Fletes y los señores Consejeros: Presidente Javier Germán Rodríguez Jiménez, José Ramón González Pineda, Jorge Armando Gómez Arias, Irma Leticia Bermúdez Cruz y Cecilio Ávalos Alba en la Tercera Sesión Conjunta de los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado, de fecha veinticuatro de junio de dos mil cinco. RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O.14 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado. Igualmente deberá ser publicado en el Boletín de Información Judicial, así como en el portal de Transparencia del Poder Judicial.
+
+SEGUNDO. Se abroga el Reglamento para la aplicación de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit en el Poder Judicial publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 2 de Julio de 2005.
+
+TERCERO. Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Para los efectos a que se refieren los artículos 17, 22 y 24 de este ordenamiento, dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente reglamento, el Consejo de la Judicatura procederá a integrar los órganos encargados de la Transparencia y Acceso a la Información del Poder Judicial.
+
+QUINTO. Para los efectos del artículo 15 de este ordenamiento, tanto los titulares de las unidades administrativas como el responsable del área de informática del Poder Judicial, dentro del plazo de 90 días hábiles siguientes a la entrada en vigor del presente reglamento procederán a integrar y presentar la información fundamental en el portal de internet del Poder Judicial del Estado de Nayarit
+
+SEXTO. Para los efectos del artículo 27 de éste ordenamiento, dentro de un plazo de 60 días contados a partir de la entrada en vigor del presente reglamento el responsable del área de informática del Poder Judicial deberá crear el correo institucional de la Unidad de Enlace y Acceso a la Información Pública.
+
+SÉPTIMO. El Consejo de la Judicatura, dictará las medidas necesarias para crear la previsión presupuestal que permita establecer la infraestructura básica de transparencia y acceso a la información en el Poder Judicial.
+
+OCTAVO. El Consejo de la Judicatura, por conducto de las unidades administrativas competentes, establecerán medidas para a la divulgación y capacitación de las funciones de transparencia y acceso a la información pública al interior del Poder Judicial.
