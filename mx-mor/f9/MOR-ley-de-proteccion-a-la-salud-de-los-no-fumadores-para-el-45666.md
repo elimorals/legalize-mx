@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-a-la-salud-de-los-no-fumadores-para-el-45666"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-20"
-last_updated: "2005-07-20"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MOR"
 ---
 # LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE MORELOS
 
-LEY DE PROTECCION A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE MORELOS
+LEY DE PROTECCIÓN A LA SALUD DE LOS NO FUMADORES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el. 20 de julio de 2005.
 
@@ -415,3 +417,21 @@ SECRETARIO DE GOBIERNO
 JESÚS GILES SÁNCHEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente ley entrará en vigor a los 180 días siguientes de su publicación en el periódico oficial "Tierra y Libertad" Órgano oficial de difusión del Gobierno del Estado Libre y Soberano del Estado de Morelos, con objeto de que las autoridades estatales y municipales cuenten con un tiempo razonable para sensibilizar a la población e informar sobre las nuevas disposiciones de la presente Ley.
+
+Para dar oportunidad a las adecuaciones y modificaciones que deberán realizarse en los lugares a que se refieren los artículos 11 y 12 de esta Ley, el Ejecutivo del Estado a través de la Secretaría de Salud en Morelos, deberá establecer un programa y calendarización para la supervisión y cumplimiento gradual de las disposiciones de esta Ley, mismo que no deberá pasar de un año, contado a partir de la entrada en vigor de la misma. El mismo plazo se establecerá para la operación de la línea telefónica a que se refiere el artículo 43 de esta Ley.
+
+SEGUNDO.- La Secretaría de Salud, en coordinación con la Secretaría de Seguridad Pública, Secretaría de Educación, y los Municipios en un plazo no mayor de sesenta días naturales, deberá realizar convenios con la· finalidad de dar cumplimiento a la Legislación sanitaria en materia de control del tabaco y el presente ordenamiento.
+
+TERCERO.- Las autoridades municipales deberán instrumentar en un plazo no mayor de 90 días, a partir de la publicación del presente Decreto, los mecanismos de verificación a establecimientos y sanciones correspondientes en su ámbito de competencia adecuando sus reglamentos, bandos y demás disposiciones jurídicas que correspondan.
+
+CUARTO.- Se derogan los artículos; 167, 170, 171, 172, 173 y 174 de la Ley de Salud del Estado de Morelos vigente, así como todas aquellas disposiciones que se opongan al presente decreto.
+
+QUINTO.- Se abroga la Ley de protección a la Salud de los no fumadores para el Estado de Morelos y su Reglamento.
+
+SEXTO.- El Ejecutivo Estatal dispondrá de 60 días a partir de la publicación de la presente, para publicar el Reglamento de la presente Ley.
