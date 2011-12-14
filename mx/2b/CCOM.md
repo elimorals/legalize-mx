@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2011-10-19"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "CCOM"
 ---
 # CODIGO DE COMERCIO
 
-CODIGO DE COMERCIO
+CÓDIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -648,9 +648,9 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 ###### Art. 44.
 
-Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
+Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -7186,7 +7186,7 @@ Art. 1,247. Las partes sólo podrán objetar los documentos en cuanto a su alcan
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,248. Para que haga fé en la República los documentos públicos extranjeros deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicabales (sic).
+Art. 1,248. Para que haga fé en la República los documentos públicos extranjeros deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicabales". (sic)
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
@@ -9078,9 +9078,7 @@ III. La confesión judicial del deudor, según el artículo 1,288;
 
 IV. Los títulos de crédito;
 
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-V. Las pólizas de seguros conforme a la ley de la materia;
+V. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -10149,3 +10147,7 @@ D.O.F. 9 DE JUNIO DE 2011.
 D.O.F. 19 DE OCTUBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
