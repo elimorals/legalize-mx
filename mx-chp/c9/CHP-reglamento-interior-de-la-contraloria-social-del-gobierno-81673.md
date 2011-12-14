@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-contraloria-social-del-gobierno-81673
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-18"
-last_updated: "2011-05-18"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA SOCIAL DEL GOBIERNO DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA CONTRALORIA SOCIAL DEL GOBIERNO DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DE LA CONTRALORÍA SOCIAL DEL GOBIERNO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de mayo de 2011.
 
@@ -120,6 +120,10 @@ i) Delegación Regional IX Istmo Costa.
 j) Delegación Regional X Valle de Cintalapa.
 
 III.- Dirección de Evaluación de la Gestión.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+IV.- Dirección de Vinculación Social.
 
 ###### Artículo 8°.
 
@@ -369,19 +373,21 @@ i) Delegación Regional IX Istmo Costa.
 
 j) Delegación Regional X Valle de Cintalapa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-El Titular de la Dirección de Enlace Regional, tendrá las atribuciones siguientes:
+El Titular de la Dirección de Enlace Regional, tendrá las Atribuciones siguientes:
 
 l. Proponer al Director General, el esquema de organización y operación de las Delegaciones Regionales de Contraloría Social.
 
-II. Coordinar las acciones de las Delegaciones Regionales de Contraloría Social, en materia de vigilancia, verificación y evaluación social de los programas, proyectos o servicios gubernamentales en las diferentes regiones del Estado.
+II. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2011)
 
-III. Promover, a través de las Delegaciones Regionales de la Contraloría Social, la capacitación de los integrantes de las Estructuras Ciudadanas de Contraloría Social, para el desarrollo de los procesos de vigilancia, verificación y evaluación de los programas, proyectos y servicios gubernamentales.
+III. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2011)
 
-IV. Vigilar el cumplimiento de los procesos de vigilancia, verificación y evaluación de los programas, proyectos y servicios gubernamentales.
+IV. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2011)
 
-V. Implementar talleres, encuentros, foros, conferencias y demás acciones de carácter informativo y de capacitación, dirigidas a las Estructuras Ciudadanas de Contraloría Social.
+V. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2011)
 
 VI. Participar en la celebración de convenios con los Gobiernos Municipales, para la instrumentación de acciones en materia de Contraloría Social.
 
@@ -397,9 +403,11 @@ XI. Vigilar el cumplimiento de las atribuciones asignadas a los Titulares de las
 
 XII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales administrativas y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-El Titular de la Dirección de Evaluación de la Gestión, tendrá las atribuciones siguientes:
+El Titular de la Dirección de Evaluación de la Gestión, tendrá las Atribuciones siguientes:
 
 l. Generar el Sistema Estatal de Contraloría Social, que permita el acopio de datos, el procesamiento de la información y la generación de reportes, para la toma de decisiones en materia de política pública.
 
@@ -415,13 +423,39 @@ VI. Implementar mecanismos técnicos y estadísticos, para determinar el impacto
 
 VII. Proponer al Director General, indicadores de gestión y desempeño bajo criterios de suficiencia, pertinencia, relevancia y aseguramiento del impacto social de las acciones realizadas.
 
-VIII. Coordinar acciones con los tres niveles de Gobierno en materia de vigilancia, evaluación y verificación social de la gestión y desempeño de las Dependencias, Entidades, así como con los organismos que integran la Administración Pública Estatal en las diferentes regiones del Estado.
+VIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2011)
 
 IX. Generar el informe de resultados de los procesos de vigilancia, evaluación y verificación social, de los proyectos sobre servicios, apoyos y obras públicas, que realizan los tres niveles de gobierno.
 
 X. Proveer los materiales e instrumentos para la recopilación de datos, que permitan a las Estructuras Ciudadanas, realizar las acciones de vigilancia, verificación y evaluación de los programas y proyectos.
 
 XI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieran las disposiciones legales administrativas y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 19 Bis.
+
+El Titular de la Dirección de Vinculación Social, tendrá las Atribuciones siguientes:
+
+l. Contribuir con las Delegaciones Regionales, en el proceso de vigilancia, evaluación y verificación de los programas, proyectos y servicios gubernamentales con principal énfasis donde existen mayor número de municipios con menor índice de desarrollo humano.
+
+II. Vigilar el cumplimiento de los procesos de vigilancia, verificación y evaluación de los programas, proyectos y servicios gubernamentales.
+
+III. Implementar talleres, encuentros, foros, conferencias y demás acciones de carácter informativo y de capacitación, dirigidas a las Estructuras Ciudadanas de Contraloría Social.
+
+IV. Proponer al Director General, la capacitación de los integrantes de las Estructuras Ciudadanas de Contraloría Social, para el desarrollo de los procesos de vigilancia, verificación y evaluación de los programas, proyectos y servicios gubernamentales.
+
+V. Coordinar acciones con los tres niveles de Gobierno en materia de vigilancia, evaluación y verificación social, de la gestión y desempeño de las Dependencias, Entidades; así como los organismos que integran la Administración Pública Estatal en las diferentes regiones del Estado.
+
+VI. Planear estrategias de difusión en la Entidad, en coordinación con el Instituto de Comunicación Social, para fomentarlas (sic) acciones y logros de la Contraloría Social, con apego a las normas aplicables.
+
+VII. Participar en la celebración de convenios con los Gobiernos Municipales, Organizaciones Gubernamentales y/o no Gubernamentales para la instrumentación de acciones en materia de contraloría social.
+
+VIII. Informar al Director General, sobre la planeación de actividades y los objetivos específicos de su Dirección para su ejecución.
+
+IX. Evaluar, en coordinación con las Direcciones de Enlace Regional y Evaluación de la Gestión, los avances y metas de los programas gubernamentales en materia de contraloría social.
+
+X. Las demás Atribuciones que en el ámbito de su competencia, le sean encomendadas por el Director General; así como las que le confieran las disposiciones legales administrativas y reglamentarias aplicables.
 
 ### Capítulo IV. De las Atribuciones de los Titulares de las Delegaciones Regionales
 
@@ -486,3 +520,13 @@ Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 05 días del mes de enero de 2011.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Tomás Sánchez Sánchez, Secretario de la Función Pública.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- Conforme a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
