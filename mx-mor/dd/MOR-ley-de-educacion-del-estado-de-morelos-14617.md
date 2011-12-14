@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2011-07-13"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -39,9 +39,9 @@ CONSIDERANDO
 
 1.- Que tal y como lo consagra nuestra Carta Magna en su Artículo 3°. todo individuo tiene derecho a recibir educación, por lo que el Estado está obligado a impartir educación preescolar, primaria y secundaria; a promover y atender todos los tipos y modalidades educativos incluyendo la educación superior; a apoyar la investigación científica y tecnológica, y a alentar el fortalecimiento y difusión de nuestra cultura. La educación que imparta el Estado será invariablemente gratuita y laica, el criterio con que se debe orientar este servicio público en nuestro país se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además será democrática y nacionalista.
 
-2.- Que el texto de esta garantía constitucional es el resultado de la voluntad popular y de sus ajustes sociales, por lo que al inicio de la presente década y reconociendo la importancia de la función que cumple la educación dentro del proceso de cambio social, así como su indiscutible carácter de factor de unidad nacional, y la necesidad de la participación de los particulares en la prestación del Servicio Público Educativo, el Gobierno de la República propuso al Constituyente Permanente la reforma del Artículo 3°. Constitucional.
+2.- Que el texto de esta garantía constitucional es el resultado de la voluntad popular y de sus ajustes sociales, por lo que al inicio de la presente década y reconociendo la importancia de la función que cumple la educación dentro del proceso de cambio social, así como su indiscutible carácter de factor de unidad nacional, y la necesidad de la participación de los particulares en la prestación del Servicio Público Educativo, el Gobierno de la República propuso al Constituyente Permanente la reforma del Artículo 3° Constitucional.
 
-Que publicada la reforma constitucional el 21 de enero de 1992, los gobernadores de los 31 Estados de la República suscribieron con la Secretaría de Educación Pública y el Sindicato Nacional de Trabajadores de la Educación, el 18 de mayo del mismo año, el Acuerdo Nacional para la Modernización de la Educación Básica, a fin elevar la calidad de la educación pública y promover el mejoramiento de la calidad de la educación que con apego a las disposiciones vigentes, imparten los particulares.
+Que publicada la reforma constitucional el 21 de enero de 1992, los gobernadores de los 31 Estados de la República suscribieron con la Secretaría de Educación Pública y el Sindicato Nacional de Trabajadores de la Educación, el 18 de mayo del mismo año, el Acuerdo Nacional para la Modernización de la Educación Básica, a fin de elevar la calidad de la educación pública y promover el mejoramiento de la calidad de la educación que con apego a las disposiciones vigentes, imparten los particulares.
 
 Que gracias a la trascendencia de los actos anteriores, a los que se sumó la reforma constitucional del 5 de marzo de 1993, se abrogó la Ley Federal de Educación publicada en el Diario Oficial de la Federación de 29 de noviembre de 1973, con la respectiva aprobación de la Ley General de Educación, expedida por el Congreso de la Unión y publicada el 13 de julio del mismo año de la reforma constitucional antes citada. El contenido del ordenamiento vigente sustenta el principio de que la educación tenderá a desarrollar armónicamente todas las facultades del ser humano; fija las atribuciones que de manera exclusiva, corresponden al Ejecutivo Federal, por conducto de la Secretaría de Educación Pública y, cuya finalidad es garantizar el carácter nacional de la educación, evaluar el sistema educativo nacional y fijar los lineamientos para la planeación y la evaluación que el gobierno de cada entidad federativa deba realizar; reconoce a los educadores como promotores, coordinadores y agentes directos del proceso educativo; y propone destinar recursos presupuestarios crecientes para la educación pública.
 
@@ -123,9 +123,11 @@ Los Gobiernos Estatal y Municipal, en el ámbito de sus respectivas competencias
 
 Todos los habitantes del Estado deben cursar la educación preescolar, primaria y secundaria. Es obligación de los padres y tutores, lograr que sus hijos y pupilos, cursen tal instrucción.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 7.
 
-La educación básica que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados, será gratuita, las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestaciones del servicio público.
+La educación básica que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados, será gratuita, laica y obligatoria.
 
 ###### ARTICULO 8.
 
@@ -133,7 +135,7 @@ El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educ
 
 ###### ARTICULO 9.
 
-La educación que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados será laica y obligatoria.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 10.
 
@@ -1224,3 +1226,9 @@ TERCERO. El gobierno del Estado celebrará con el gobierno Federal un convenio d
 P.O. 13 DE JULIO DE 2011.
 
 ÚNICO.- Aprobado que sea el presente decreto, entrara en vigor al siguiente día de su publicación, remítase al Poder Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Aprobado el presente Decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
