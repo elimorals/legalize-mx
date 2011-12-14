@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2006-06-30"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1992-06-25"
 ---
 # LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS -ANTES LEY DE LA COMISION NACIONAL DE DERECHOS HUMANOS-
 
-LEY DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
+LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -473,9 +473,11 @@ En todo caso, una vez recibida, la autoridad o servidor público de que se trate
 
 En contra de las Recomendaciones, acuerdos o resoluciones definitivas de la Comisión Nacional, no procederá ningún recurso.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 48.
 
-La Comisión Nacional no estará obligada a entregar ninguna de sus pruebas a la autoridad a la cual dirigió una Recomendación o a algún particular. Si dichas pruebas le son solicitadas, discrecionalmente determinará si son de entregarse o no.
+La Comisión Nacional no estará obligada a entregar ninguna de sus pruebas a la autoridad a la cual dirigió una Recomendación o a algún particular. Si dichas pruebas le son solicitadas, resolverá si son de entregarse o no, excepto en los casos en que el quejoso o sus familiares en línea ascendente o descendente en cualquier grado o colaterales hasta el segundo grado, ofrezcan como medio de convicción en un procedimiento jurisdiccional las pruebas o constancias que integraron la queja ventilada ante la propia Comisión Nacional.
 
 ###### ARTICULO 49.
 
@@ -706,3 +708,7 @@ TERCERO.- Para efectos de la regularización de los bienes inmuebles a que se re
 D.O.F. 30 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
