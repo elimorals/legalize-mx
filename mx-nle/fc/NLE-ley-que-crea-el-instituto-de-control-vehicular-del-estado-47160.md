@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2010-12-24"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
+LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -397,7 +397,17 @@ XI. Historial de infracciones y sanciones; y
 
 XII. Impedimentos y condicionamientos para conducir.
 
-La información que refieren las fracciones III, IV, V, VI, VII y VIII contenida en el registro podrá ser reservada a petición del interesado. La que refieren las primeras diez fracciones deberá aparecer impresa en la licencia que se expida.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+Respecto de los datos que refieren las fracciones VI, VII, VIII y IX, a petición del interesado se podrá expedir la licencia para conducir conteniéndolos impresos total, parcialmente o careciendo de ellos; de igual forma, este podrá optar por solicitar se le expidan versiones de licencia con o sin los referidos datos.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+La autoridad deberá informar la opción prevista en el párrafo anterior al solicitante.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+Los datos que refieren las fracciones I, II, III, IV, V, X y XII, deberán aparecer impresos en toda licencia que se expida.
 
 ###### Artículo 29.
 
@@ -596,3 +606,7 @@ P.O. 17 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Único. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
