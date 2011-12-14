@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-608
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-24"
-last_updated: "2008-04-24"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL PERIÓDICO OFICIAL EL 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de abril de 2008.
 
@@ -478,3 +480,13 @@ GUILLERMO ARTEAGA TORRES
 Consejero Jurídico
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, con fecha 24 de abril del año 2008.
+
+Artículo Tercero. La Consejería deberá elaborar y remitir a la Secretaría de Finanzas y Administración, sus manuales administrativos de organización y de procedimientos, dentro de los 60 días naturales posteriores a la publicación del presente Reglamento.
