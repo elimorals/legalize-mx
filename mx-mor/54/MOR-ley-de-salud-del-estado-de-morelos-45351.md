@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2010-06-09"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -653,7 +653,7 @@ Las familias y personas que no sean derechohabientes de las Instituciones de Seg
 
 Las atribuciones y obligaciones, así como los mecanismos de coordinación entre Gobierno Federal, Gobierno Estatal y usuarios se regirán de acuerdo a lo establecido en el Título Tercero bis de la Protección Social en Salud de la Ley General de Salud vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 49.
 
@@ -1623,19 +1623,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ###### Artículo 167.
 
-Las autoridades sanitarias Federales se coordinarán con el Ejecutivo del Estado, para la aplicación del Reglamento Sobre el Consumo de Tabaco, que tiene por objeto proteger la salud de las personas de los efectos nocivos causados por la exposición al humo del tabaco, a través de la reducción del consumo de éste, principalmente en lugares públicos cerrados.
-
-La protección de la salud de los efectos nocivos del humo de tabaco comprende los siguiente:
-
-I. El derecho de las personas no fumadoras a no estar expuestas al humo del tabaco en los sitios cerrados que comparten con fumadores;
-
-II. La orientación a la población para que se abstenga de fumar en el hogar, los centros de trabajo y en lugares públicos;
-
-III. La prohibición de fumar en los edificios públicos que se señalan en el Reglamento;
-
-IV. El apoyo a los fumadores, cuando lo soliciten, para abandonar el tabaquismo con los tratamientos correspondientes, y
-
-V. La información a la población sobre los efectos nocivos del consumo de tabaco y la promoción de su abandono.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 168.
 
@@ -1685,43 +1673,23 @@ IV.- Los maestros, las asociaciones de padres de familia y asociaciones de alumn
 
 ###### Artículo 170.
 
-Se restringe el consumo de tabaco en:
-
-I.- Los locales o establecimientos cerrados en los que se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de los mismos, deberán delimitar secciones reservadas para fumadores y para personas que no fumen durante su estancia en los mismos. Dichas secciones deberán estar identificadas con señalizaciones en lugares visibles al público asistente y cumplir con las condiciones estipuladas en la reglamentación correspondiente;
-
-II.- Los cines, auditorios y teatros cerrados a los que tenga acceso el público en general, con excepción de las secciones indicadas como áreas de fumadores;
-
-III.- En los vehículos de servicio público de transporte colectivo y en los de transporte público foráneo que circulen en el Estado, a excepción de que tengan un área destinada para tal efecto, debiendo fijar en el interior de los mismos, letreros o emblemas que indiquen la prohibición de fumar. Los choferes no podrán fumar mientras lleven pasaje;
-
-IV.- En los edificios e instalaciones de atención al público en general, del Gobierno Federal y Estatal y de los Ayuntamientos, así como aeropuertos, terminales aéreas y centrales camioneras;
-
-V.- En las tiendas de autoservicio, sucursales bancarias y financieras, industrias y en las oficinas comerciales o de servicio; y
-
-VI.- En los salones, auditorios, bibliotecas y salas de usos múltiples de las escuelas oficiales y particulares de educación preescolar, primaria, secundaria, especial, media superior y superior.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 171.
 
-En términos de la presente Ley, se vigilará el cumplimiento del reglamento para la definición de áreas restringidas al consumo de tabaco, que tomará en cuenta el giro y opinión de los propietarios o responsables de los establecimientos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 172.
 
-Los Servicios de Salud de Morelos, en el ámbito de su competencia como autoridad sanitaria, vigilará el cumplimiento de esta Ley y del Reglamento Federal sobre consumo de tabaco coordinados con los auxiliares mencionados en el Artículo 169 de esta misma Ley.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 173.
 
-En los edificios e instalaciones a que se refiere el Artículo 170 Fracción IV se destinará un área para que los trabajadores, visitantes o usuarios, que así lo deseen, puedan fumar, la cual deberá:
-
-I.- Estar aislada de las áreas de trabajo;
-
-II. Tener ventilación hacia el exterior o un sistema de extracción o purificación de aire;
-
-III.- Ubicarse, de acuerdo con la distribución de trabajadores, por piso, área o edificio, y
-
-IV. Estar identificada como área de fumar, con señalización clara y visible.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ###### Artículo 174.
 
-Deberán fijarse en lugares visibles, avisos o símbolos que expresen la prohibición de fumar e identifiquen las áreas en donde está permitido fumar. Fuera de las áreas reservadas para fumadores, no deberán existir ceniceros de ningún tipo.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DE TABACO DEL ESTADO DE MORELOS, P.O. 14 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO II. ESTABLECIMIENTOS DESTINADOS AL PROCESO DE MEDICAMENTOS
 
@@ -3405,7 +3373,7 @@ DR. ANTONIO CAMPOS RENDÓN
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE NOVIEMBRE DE 2008.
 
@@ -3446,3 +3414,19 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Dec
 Artículo Tercero.- La Secretaría de Salud, contará con 90 días después de la entrada en vigor de este Decreto, para expedir la reglamentación relativa a la Atención Médica Pre hospitalaria.
 
 Artículo Cuarto.- Las personas que den atención pre hospitalaria y que son objeto de la regulación que se establece en el artículo 90 bis de la Ley en comento, tendrán un año para regularizar su situación profesional, a partir de la entrada en vigor del presente Decreto, salvo que por el estudio específico se requiera un tiempo mayor, en cuyo caso deberá estar avalado por la Secretaría de Salud.
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente ley entrará en vigor a los 180 días siguientes de su publicación en el periódico oficial "Tierra y Libertad" Órgano oficial de difusión del Gobierno del Estado Libre y Soberano del Estado de Morelos, con objeto de que las autoridades estatales y municipales cuenten con un tiempo razonable para sensibilizar a la población e informar sobre las nuevas disposiciones de la presente Ley.
+
+Para dar oportunidad a las adecuaciones y modificaciones que deberán realizarse en los lugares a que se refieren los artículos 11 y 12 de esta Ley, el Ejecutivo del Estado a través de la Secretaría de Salud en Morelos, deberá establecer un programa y calendarización para la supervisión y cumplimiento gradual de las disposiciones de esta Ley, mismo que no deberá pasar de un año, contado a partir de la entrada en vigor de la misma. El mismo plazo se establecerá para la operación de la línea telefónica a que se refiere el artículo 43 de esta Ley.
+
+SEGUNDO.- La Secretaría de Salud, en coordinación con la Secretaría de Seguridad Pública, Secretaría de Educación, y los Municipios en un plazo no mayor de sesenta días naturales, deberá realizar convenios con la· finalidad de dar cumplimiento a la Legislación sanitaria en materia de control del tabaco y el presente ordenamiento.
+
+TERCERO.- Las autoridades municipales deberán instrumentar en un plazo no mayor de 90 días, a partir de la publicación del presente Decreto, los mecanismos de verificación a establecimientos y sanciones correspondientes en su ámbito de competencia adecuando sus reglamentos, bandos y demás disposiciones jurídicas que correspondan.
+
+CUARTO.- Se derogan los artículos; 167, 170, 171, 172, 173 y 174 de la Ley de Salud del Estado de Morelos vigente, así como todas aquellas disposiciones que se opongan al presente decreto.
+
+QUINTO.- Se abroga la Ley de protección a la Salud de los no fumadores para el Estado de Morelos y su Reglamento.
+
+SEXTO.- El Ejecutivo Estatal dispondrá de 60 días a partir de la publicación de la presente, para publicar el Reglamento de la presente Ley.
