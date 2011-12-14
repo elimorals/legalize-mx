@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-escuela-judicial-del-poder-judicial-del-56538"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-14"
-last_updated: "2007-07-14"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA ESCUELA JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Sección Octava del Periódico Oficial del Estado de Nayarit, el sábado 14 de julio de 2007.
 
@@ -412,3 +414,15 @@ Artículo Segundo.- El presente reglamento entrará en vigor al día siguiente d
 Dado en la Sala del Plenos del Tribunal Superior de Justicia del Estado, y aprobado por unanimidad de votos por el Consejo de la Judicatura del Poder Judicial del Estado, en la Séptima Sesión Ordinaria celebrada el día 12 de julio de 2007.
 
 Magistrado Licenciado Javier Germán Rodríguez Jiménez, Presidente del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica. Licenciada María Catalina Medina Rosales, Secretaria de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit, igualmente deberá ser publicado en el boletín judicial y en el portal de transparencia del Poder Judicial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones contenidas en el Reglamento de Escuela Judicial del Poder Judicial del Estado de Nayarit, publicado en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit, con fecha 14 de julio de 2007.
