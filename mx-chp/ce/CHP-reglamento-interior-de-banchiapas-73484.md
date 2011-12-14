@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-banchiapas-73484"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-03"
-last_updated: "2010-02-03"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE BANCHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 3 de febrero de 2010.
 
@@ -69,7 +69,9 @@ IV. Director General: Al Titular de BANCHIAPAS.
 
 V. Reglamento Interior: Al Reglamento Interior de BANCHIAPAS;
 
-VI. Órganos Administrativos: A las Unidades, Direcciones y Departamentos que forman parte de la estructura orgánica de BANCHIAPAS.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+VI. Órganos Administrativos: A las Direcciones, Unidades, Área de Coordinación Regional y Departamentos que forman parte de la estructura orgánica de BANCHIAPAS.
 
 VII. FES: Al Fideicomiso Fondo de Empresas Sociales.
 
@@ -95,15 +97,29 @@ II. Unidad de Apoyo Administrativo.
 
 III. Unidad de Informática.
 
-IV. Dirección Jurídica.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-V. Dirección de Empresas Sociales Rurales.
+IV. Área de Coordinación Regional.
 
-VI. Dirección de Empresas Sociales Urbanas y Microcréditos.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-VII. Dirección de Capacitación y Asistencia Técnica.
+V. Dirección Jurídica
 
-VIII. Dirección de Financiamiento y Desarrollo Empresarial.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+VI. Dirección de Empresas Sociales Rurales
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+VII. Dirección de Empresas Sociales Urbanas y Servicios Financieros.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+VIII. Dirección de Capacitación y Asistencia Técnica
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+IX. Dirección de Financiamiento a Locatarios y Pequeños Comerciantes.
 
 ###### Artículo 8°.
 
@@ -203,7 +219,9 @@ XII. Las demás que le correspondan, en términos de las leyes, reglamentos, dec
 
 ## Título Tercero. De los Órganos Administrativos de BANCHIAPAS y Atribuciones de sus Titulares
 
-### Capítulo I. De la Integración de la Dirección General y Atribuciones de los Titulares de las Unidades
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo I. De la Integración de la Dirección General y Atribuciones de los Titulares de las Unidades y Área de Coordinación Regional
 
 ###### Artículo 14.
 
@@ -213,19 +231,33 @@ a) Unidad de Apoyo Administrativo.
 
 b) Unidad de Informática.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+c) Área de Coordinación Regional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 15.
 
-Le corresponden a los Titulares de las Unidades, de manera general las atribuciones siguientes:
+Le corresponde a los Titulares de las Unidades y Área de Coordinación Regional, de manera general las atribuciones siguientes:
 
 I. Acordar con el Director General, el despacho y resolución de los asuntos de su competencia, así como, informar a éste de manera permanente, el trámite y atención de los mismos.
 
-II. Elaborar, integrar y ejecutar los programas y proyectos propios de la Unidad a su cargo.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-III. Elaborar el anteproyecto de Presupuesto de Egresos de la Unidad a su cargo y vigilar su correcta aplicación de acuerdo a lo planeado.
+II. Elaborar, integrar, y ejecutar los programas y proyectos propios de la Unidad y Área de Coordinación Regional a su cargo.
 
-IV. Programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas al personal que integre la Unidad a su cargo.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-V. Establecer sistemas de control y seguimiento en los aspectos técnico-administrativos, durante el proceso de ejecución de los programas y proyectos de la Unidad a su cargo.
+III. Elaborar el anteproyecto de Presupuesto de Egresos de la Unidad y Área de Coordinación Regional a su cargo y vigilar su correcta aplicación de acuerdo a lo planeado.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+IV. Programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades encomendadas al personal que integre la Unidad y Área de Coordinación Regional a su cargo.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+V. Establecer sistemas de control y seguimiento en los aspectos técnico-administrativos, durante el proceso de ejecución de los programas y proyectos de la Unidad y Área de Coordinación Regional a su cargo.
 
 VI. Desempeñar las comisiones y representaciones que le encomiende el Director General, en el ámbito de su competencia e informar su resultado.
 
@@ -239,7 +271,9 @@ X. Vigilar que las funciones del órgano administrativo y personal adscrito bajo
 
 XI. Participar en la elaboración de los manuales administrativos de BANCHIAPAS, para eficientar su funcionamiento organizacional.
 
-XII. Coordinar, supervisar y vigilar la elaboración, integración y ejecución de los programas técnicos, administrativos o de asesoría propios de la Unidad a su cargo.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+XII. Coordinar, supervisar y vigilar la elaboración, integración y ejecución de los programas técnicos, administrativos o de asesoría propios de la Unidad y Área de Coordinación Regional a su cargo.
 
 XIII. Proponer y participar en la organización de cursos de capacitación y conferencias que se impartan al personal de BANCHIAPAS.
 
@@ -249,13 +283,17 @@ XV. Suscribir acuerdos, documentos y demás actos jurídicos y administrativos r
 
 XVI. Establecer coordinación con los órganos administrativos, a fin de coadyuvar en el cumplimiento de los programas y proyectos técnicos y administrativos desarrollados en el Estado.
 
-XVII. Proponer los proyectos de reestructuración organizacional de la Unidad a su cargo.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+XVII. Proponer los proyectos de reestructuración organizacional de la Unidad ó Área de Coordinación Regional a su cargo.
 
 XVIII. Aplicar e imponer las sanciones administrativas que corresponda en términos de las disposiciones legales vigentes.
 
 XIX. Formular los anteproyectos de iniciativas de leyes, reglamentos, lineamientos, decretos; acuerdos, circulares, programas, presupuestos y los demás que le correspondan en el ámbito de su competencia.
 
-XX. Vigilar el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados a la Unidad a su cargo, sugiriendo se modifiquen las normas vigentes o se adopten nuevas.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+XX. Vigilar el cumplimiento de las leyes, reglamentos, lineamientos, Decretos, acuerdos, circulares, y demás disposiciones relacionadas con el funcionamiento y los servicios encomendados a la Unidad y Área de Coordinación Regional a su cargo, sugiriendo se modifiquen las normas vigentes o se adopten nuevas.
 
 XXI. Elaborar y emitir opinión respecto a los convenios, contratos y autorizaciones que celebre, u otorgue BANCHIAPAS, cuando contengan aspectos de su competencia y suscribirlos cuando se les delegue esta atribución expresamente.
 
@@ -373,6 +411,28 @@ XV. Coordinar los trabajos de diseño gráfico y de imagen corporativa de BANCHI
 
 XVI. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que le asigne el Director General.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 17 Bis.
+
+El Titular del Área de Coordinación Regional, tendrá las atribuciones siguientes:
+
+I. Supervisar por conducto de los Coordinadores Regionales, los programas y proyectos que se ejecuten a través de los Módulos de Banchiapas.
+
+II. Implementar instrumentos y habilidades administrativas que permitan eficientar las acciones de las Coordinaciones Regionales.
+
+III. Formular mecanismos de seguimiento y acompañamiento de los Programas y Proyectos ejecutados a través de los Módulos de Banchiapas.
+
+IV. Evaluar los avances y estrategias en la ejecución de los programas y proyectos asignados a Banchiapas a través de las Coordinaciones Regionales.
+
+V. Verificar la información generada referente a los créditos otorgados y a las recuperaciones del Programa del Crédito a Locatarios y Pequeños Comerciantes, así como de los demás programas ejecutados a través de los Módulos.
+
+VI. Canalizar ante los Órganos Administrativos de Banchiapas, los Proyectos presentados en los Módulos por las empresas sociales y grupos de trabajo.
+
+VII. Vigilar y supervisar las acciones y operaciones de las Coordinaciones Regionales y de los módulos, así como la aplicación y el buen uso de los recursos.
+
+VIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables así como las que le asigne el Director General.
+
 ### Capítulo II. De las Atribuciones Generales de los Titulares de las Direcciones
 
 ###### Artículo 18.
@@ -471,6 +531,10 @@ a) Departamento de Aportaciones Solidarias.
 
 b) Departamento de Intermediarios Financieros Rurales.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+c) Departamento de Acuerdos Institucionales y Coinversión.
+
 ###### Artículo 22.
 
 El Titular de la Dirección de Empresas Sociales Rurales, tendrá las atribuciones siguientes:
@@ -491,19 +555,23 @@ VII. Diseñar y operar herramientas para el control de la cartera de las aportac
 
 VIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que les asigne el Director General.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-La Dirección de Empresas Sociales Urbanas y Microcréditos, tendrá los órganos administrativos siguientes:
+La Dirección de Empresas Sociales Urbanas y Servicios Financieros, tendrá los Órganos Administrativos siguientes:
 
 a) Departamento de Empresas Sociales Urbanas.
 
-b) Departamento de Microcréditos.
+b) Departamento de Seguimiento a Proyectos.
 
-e) Departamento de Atención a Mercados Públicos.
+c) Departamento de Servicios Financieros.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 24.
 
-El Titular de la Dirección de Empresas Sociales Urbanas y Microcréditos, tendrá las atribuciones siguientes:
+El titular de la Dirección de Empresas Sociales Urbanas y Servicios Financieros tendrá las atribuciones siguientes:
 
 I. Impulsar el desarrollo de empresas sociales, microempresas y actividades económicas de las personas en zonas urbanas, así como sus esquemas e instrumentos financieros.
 
@@ -515,13 +583,23 @@ IV. Promover mecanismos de colaboración entre los sectores público, social y p
 
 V. Analizar, en coordinación con las personas de las zonas urbanas, la viabilidad de los requerimientos financieros de sus empresas sociales, microempresas y actividades económicas.
 
-VI. Proponer la elaboración de estudios para conocer las potencialidades y oportunidades para el desarrollo de la economía social.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+VI. Proponer la elaboración de estudios para conocer las potencialidades y oportunidades para el desarrollo de la economía social y de los servicios financieros.
 
 VII. Impulsar proyectos y programas para fortalecer las capacidades en materia de economía social, en beneficio de las empresas sociales, las microempresas y las actividades económicas de las personas en las zonas urbanas.
 
-VIII. Dar seguimiento a los proyectos autorizados a empresas sociales, microempresas y actividades económicas de las personas en zonas urbanas.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-IX. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que les asigne el Director General.
+VIII. Diseñar estrategias de seguimiento y acompañamiento a los proyectos autorizados a empresas sociales, microempresas y actividades económicas de las personas en zonas urbanas.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+IX. Establecer normas, proyectos y programas que permitan acceder a los servicios financieros, con el propósito de fortalecer a las Empresas Sociales, Microempresas y actividades económicas del Estado.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+X. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables así como, las que les asigne el Director General.
 
 ###### Artículo 25.
 
@@ -551,33 +629,31 @@ VI. Proponer convenios de vinculación con organismos nacionales, internacionale
 
 VII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que les asigne el Director General.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 27.
 
-La Dirección de Financiamiento y Desarrollo Empresarial, tendrá los órganos administrativos siguientes:
+La Dirección de Financiamiento a Locatarios y Pequeños Comerciantes, tendrá los Órganos Administrativos siguientes:
 
-a) Departamento de Servicios Financieros.
+a) Departamento de Control y Supervisión.
 
-b) Departamento de Análisis de Crédito.
+b) Departamento de Operación.
 
-e) Departamento de Seguimiento.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-El Titular de la Dirección de Financiamiento y Desarrollo Empresarial, tendrá las atribuciones siguientes:
+El Titular de la Dirección de Financiamiento a Locatarios y Pequeños Comerciantes, tendrá las atribuciones siguientes:
 
-I. Facilitar el acceso al financiamiento y promover el desarrollo de las micro, pequeñas y medianas empresas, a través de productos financieros atractivos e innovadores.
+I. Diseñar e implementar instrumentos para facilitar el acceso al financiamiento y desarrollo de las actividades económicas de los locatarios y pequeños comerciantes.
 
-II. Coordinar el diseño y promoción del portafolio de productos financieros, dirigido a las micro, pequeñas y medianas empresas, así como realizar acciones de seguimiento de los créditos otorgados.
+II. Ejecutar programas para el desarrollo de las actividades económicas de locatarios y pequeños comerciantes.
 
-III. Asesorar a las micro, pequeñas y medianas empresas para poder acceder a los distintos financiamientos.
+III. Promover mecanismos de colaboración entre los sectores publico, social y privado en atención a las diferentes actividades económicas que desarrollan los locatarios y pequeños comerciantes.
 
-IV. Supervisar la revisión y análisis de los proyectos de apoyo, solicitados conforme a los requisitos establecidos en la convocatoria correspondiente.
+IV. Coordinar la elaboración de estudios para evaluar y fomentar las actividades de los locatarios y pequeños comerciantes.
 
-V. Coordinar la dictaminación de los proyectos de apoyo solicitados por las micro, pequeñas y medianas empresas.
-
-VI. Coordinar y validar la integración de los expedientes técnicos de los proyectos de inversión, conforme a las reglas de operación vigentes.
-
-VII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como, las que les asigne el Director General.
+V. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Director General.
 
 ## Título Cuarto. De las Suplencias de los Servidores Públicos
 
@@ -587,9 +663,11 @@ VII. Las demás que en el ámbito de su competencia le confieran las disposicion
 
 En ausencia del Director General, sus funciones y atribuciones serán ejercidas por el servidor público que éste designe, con aprobación del Secretario.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-Los titulares de las Unidades y Direcciones, serán suplidos en sus ausencias por el servidor público que designe el Director General.
+Los Titulares de las Direcciones, Unidades y Área de Coordinación Regional, serán suplidos en sus ausencias por el servidor público que designe el Director General.
 
 ###### Artículo 31.
 
@@ -610,3 +688,15 @@ Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiocho días del mes de agosto del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Todo lo no previsto en el presente Decreto, será resuelto por el Director General.
+
+Artículo Tercero.- En tanto se actualizan los Manuales Administrativos respectivos, el Director General resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
