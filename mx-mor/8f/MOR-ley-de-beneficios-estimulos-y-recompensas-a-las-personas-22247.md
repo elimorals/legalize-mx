@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-beneficios-estimulos-y-recompensas-a-las-personas-22247"
 country: "mx"
 rank: "ley"
 publication_date: "1974-11-06"
-last_updated: "1974-11-06"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LAS PERSONAS VETERANAS DE LA REVOLUCION EN EL ESTADO DE MORELOS -- ANTES LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCION EN EL ESTADO DE MORELOS --
 
-LEY DE BENEFICIOS, ESTIMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCION EN EL ESTADO DE MORELOS
+LEY DE BENEFICIOS, ESTÍMULOS Y RECOMPENSAS A LOS VETERANOS DE LA REVOLUCIÓN EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 6 de noviembre de 1974.
 
@@ -105,31 +105,43 @@ Las resoluciones de la Comisión de Estudio y Dictamen de Antecedentes Revolucio
 
 La Comisión de Estudio y Dictamen de Antecedentes Revolucionarios tendrá las siguientes atribuciones:
 
-I.- Recibir las solicitudes que presenten los Veteranos de la Revolución, para disfrutar de los beneficios que otorga la presente Ley.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-II.- Estudiar y dictaminar respecto de las solicitudes y documentación que presentan los interesados, resolviendo en su oportunidad si se les conceden o no los Beneficios, Estímulos y Recompensas que se establecen en esta Ley.
+I.- Recibir las solicitudes que presenten los Veteranos de la Revolución, las viudas y sus descendientes para disfrutar de los beneficios que otorga la presente Ley.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+II.- Estudiar y dictaminar respecto de las solicitudes y documentación que presenten los interesados, resolviendo en su oportunidad si se les conceden o no los beneficios, estímulos y recompensas que se establecen en esta Ley.
 
 ### CAPITULO IV
 
 DE LOS BENEFICIOS, ESTIMULOS Y RECOMPENSAS.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-El Gobierno del Estado otorgará a los Veteranos:
+El Gobierno del Estado otorgará a los Veteranos, sus viudas y a sus descendientes hasta la segunda generación:
 
-I.- Pensión vitalicia no menor de quinientos pesos mensuales, previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios, sancionará el Titular del Poder Ejecutivo.
+I.- Pensión vitalicia no menor de treinta salarios mínimos mensuales, previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios, que sancionará el Titular del Poder Ejecutivo.
 
-II.- Servicio Médico gratuito en los hospitales del Gobierno del Estado. Este derecho lo disfrutará la esposa o la concubina del Veterano.
+II.- Servicio Médico gratuito en los hospitales del Gobierno del Estado.
 
-III.- Un seguro de vida por la cantidad de diez mil pesos, cuya prima será pagada por el Gobierno del Estado, cumpliendo el interesado los requisitos que fije la Institución Aseguradora.
+Este derecho lo disfrutará la esposa o la concubina del Veterano y sus descendientes hasta la segunda generación.
 
-IV.- Diplomas y condecoraciones previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios y
+III.- Un seguro de vida por la cantidad de treinta mil pesos, cuya prima será pagada por el Gobierno del Estado, cumpliendo el o los interesados los requisitos que fije la Institución Aseguradora.
 
-V.- En caso de Defunción del Veterano, además del seguro de vida mencionado en el Inciso III, se cubrirá a los deudos del Veterano la cantidad de dos mil pesos para gastos funerarios.
+IV.- Diplomas y condecoraciones previo dictamen de la Comisión de Estudio y Dictamen de Antecedentes Revolucionarios; y,
+
+V.- En caso de defunción del veterano, además del seguro de vida mencionado en la fracción III, se cubrirá a los deudos del Veterano la cantidad de doce mil pesos para gastos funerarios.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 10.
 
-En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Estado, los Veteranos de la Revolución tendrán un lugar de honor.
+En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Estado, los Veteranos de la Revolución, sus viudas y descendientes tendrán un lugar de honor.
 
 ###### ARTICULO 11.
 
@@ -186,3 +198,13 @@ EL SECRETARIO DE GOBIERNO.
 LIC. GUILLERMO TENORIO CARPIO.
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Con el fin de dar tiempo razonable para que el Ejecutivo estatal instrumente lo consignado en este decreto, el artículo 9 entrará en vigor el 1° de enero de 2012.
+
+TERCERO.- Remítase al ejecutivo del Estado para su publicación en el Periódico Oficial del Estado "Tierra y Libertad".
