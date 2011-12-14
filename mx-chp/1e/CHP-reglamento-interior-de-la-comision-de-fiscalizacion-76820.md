@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-comision-de-fiscalizacion-76820"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-26"
-last_updated: "2009-08-26"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DE FISCALIZACIÓN ELECTORAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE FISCALIZACIÓN ELECTORAL, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -596,3 +598,21 @@ XIV. Las demás que le señalen otros ordenamientos.
 Dado en la residencia oficial de la Comisión de Fiscalización Electoral, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los cinco días del mes de agosto del año dos mil nueve.
 
 Oswaldo Chacón Rojas, Presidente.- Gabriel Bravo del Carpio, Director General Ejecutivo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir de su aprobación por el Pleno.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Comisión de Fiscalización Electoral, publicado en el Periódico Oficial del Estado número 183, de fecha veintiséis de agosto de dos mil nueve, así como sus reformas y adiciones, y las disposiciones que de éste emanen, y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente reglamento y en los que se presente controversia en cuanto a su aplicación y observancia el Presidente resolverá lo procedente.
+
+Artículo Cuarto.- En las cuestiones no previstas en el presente Reglamento, respecto de las áreas, departamentos, oficinas y demás funciones del personal, se estará a lo dispuesto por el Manual de Organización de la Comisión.
+
+Artículo Quinto.- El Manual de Organización de la Comisión, deberá expedirse en un plazo no mayor a ciento veinte días hábiles, después de la publicación del presente Reglamento.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Presidente queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría Ejecutiva tan pronto sea aprobado el presente instrumento procederá a su difusión solicitando al órgano correspondiente su publicación en el Periódico Oficial del Estado.
