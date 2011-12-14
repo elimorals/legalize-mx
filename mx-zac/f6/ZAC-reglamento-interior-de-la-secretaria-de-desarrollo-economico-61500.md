@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-desarrollo-economico-61
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-04"
-last_updated: "2008-06-04"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL SUPLEMENTO DEL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de junio de 2008.
 
@@ -35,7 +37,9 @@ Con base a lo anterior, he tenido a bien expedir el siguiente
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-### CAPÍTULO I. Del ámbito de competencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 1.
 
@@ -856,3 +860,19 @@ LIC. CARLOS PINTO NÚÑEZ
 EL SECRETARIO DE DESARROLLO ECONÓMICO
 
 L.C. NICOLÁS CASTAÑEDA TEJEDA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Suplemento al Periódico Oficial, Órgano de Gobierno del Estado, número 45, de fecha 4 de Junio del 2008.
+
+Tercero.- Se derogan las disposiciones que contravengan este Ordenamiento.
+
+Cuarto.- Los asuntos que se encuentren en trámite a cargo de direcciones o áreas administrativas que se modifican o cambian de adscripción, los continuará y resolverá el área administrativa que el presente Reglamento señalan como competentes.
+
+Quinto.- Cuando la competencia de alguna de las Unidades Administrativas establecidas con anterioridad a la vigencia de este Reglamento deberá ser ejercida por otra u otras áreas que en el mismo se disponen, los recursos materiales y financieros con los que contaban y que fueren necesarios, pasarán al áreas (sic) competente, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+Sexto.- Los Manuales de Organización y de Procedimientos, deberán publicarse dentro del término de ciento veinte días naturales siguientes a la entrada en vigor del presente Reglamento.
