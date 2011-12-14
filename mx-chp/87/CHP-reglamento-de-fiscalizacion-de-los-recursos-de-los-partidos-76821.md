@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-fiscalizacion-de-los-recursos-de-los-partidos-768
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-26"
-last_updated: "2009-08-26"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS, COALICIONES Y ASOCIACIONES POLITICAS DEL ESTADO DE CHIAPAS
 
-REGLAMENTO DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS, COALICIONES Y ASOCIACIONES POLITICAS DEL ESTADO DE CHIAPAS
+REGLAMENTO DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS, COALICIONES Y ASOCIACIONES POLÍTICAS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL PROCEDIMIENTO ADMINISTRATIVO DE FISCALIZACIÓN, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 26 de agosto de 2009.
 
@@ -1599,4 +1601,16 @@ Dado en la residencia oficial de la Comisión de Fiscalización Electoral, en la
 
 Oswaldo Chacón Rojas, Presidente.- Gabriel Bravo del Carpio, Director General Ejecutivo.- Rúbricas.
 
-> <small>N. DE E. VEASE ANEXO EN EL P.O. DE 26 DE AGOSTO DE 2009, PAGINAS DE LA 114 A LA 201.</small>
+> <small>N. DE E. VÉASE ANEXO EN EL P.O. DE 26 DE AGOSTO DE 2009, PÁGINAS DE LA 114 A LA 201.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir de su aprobación por el Pleno y será publicado en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento de Fiscalización de los recursos de los Partidos Políticos, Coaliciones y Asociaciones Políticas de la Comisión de Fiscalización Electoral, publicado en el Periódico Oficial del Estado número 183, de fecha veintiséis de agosto de dos mil nueve, así como sus reformas y adiciones, y las disposiciones que de éste emanen, y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- En los casos no previstos en el presente reglamento y en los que se presente controversia en cuanto a su aplicación y observancia el Presidente resolverá lo procedente.
+
+Artículo Cuarto.- La Secretaría Ejecutiva tan pronto sea aprobado el presente instrumento procederá a su difusión solicitando al órgano correspondiente su publicación en el Periódico Oficial del Estado.
