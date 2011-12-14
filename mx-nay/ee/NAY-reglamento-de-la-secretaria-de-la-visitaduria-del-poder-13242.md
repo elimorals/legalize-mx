@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-secretaria-de-la-visitaduria-del-poder-13242"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-01-31"
-last_updated: "1996-01-31"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO DE LA SECRETARIA DE LA VISITADURIA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA SECRETARÍA DE VINCULACIÓN Y CONTROL JURISDICCIONAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 31 de enero de 1996.
 
@@ -202,3 +204,11 @@ PDTE. DEL CONSEJO DE LA JUDICATURA.
 C. FRANCISCO JAVIER LOPEZ AGRAZ
 
 SECRETARIO DE ACUERDOS DEL CONSEJO DE LA JUDICATURA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado. Igualmente deberá ser publicado en el Boletín Judicial y en el portal de Transparencia del Poder Judicial.
+
+Artículo Segundo. Se abroga el Reglamento de la Secretaría de la Visitaduría aprobado con fecha 11 de enero de 1996, así como todas aquellas que se opongan al presente reglamento.
