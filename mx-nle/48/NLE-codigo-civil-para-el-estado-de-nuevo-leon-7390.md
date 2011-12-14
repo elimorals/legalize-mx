@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2011-09-23"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
+CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -217,7 +217,7 @@ Los actos del estado civil que se efectúen conforme a las leyes de una entidad 
 
 # LIBRO PRIMERO. DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ## TITULO PRIMERO. DE LAS PERSONAS FISICAS Y DE LAS PERSONAS MORALES
 
@@ -271,7 +271,7 @@ Art. 22 Bis IV.- Las personas morales pueden ejercitar todos los derechos que se
 
 Art. 22 Bis V.- Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos sociales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ## TITULO SEGUNDO. DE LA PERSONALIDAD JURIDICA
 
@@ -295,7 +295,7 @@ Art. 23 Bis I.- La minoría de edad, el estado de interdicción y las demás inc
 
 Art. 23 Bis II.- La personalidad jurídica de las personas morales, se adquiere en el momento de su constitución y se pierde al extinguirse conforme lo disponga la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ## TITULO TERCERO. DE LOS ATRIBUTOS DE LAS PERSONAS
 
@@ -641,11 +641,11 @@ Art. 34 Bis I.- Posesión de estado civil es la conducta reiterada que en forma 
 
 Art. 34 Bis II.- Para acreditar la posesión de estado civil se deberá atender, el trato y comportamiento en el seno de la familia respectiva, la fama que sobre el particular tenga la persona en sus relaciones sociales y de familia.
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ## TITULO CUARTO. DEL REGISTRO CIVIL
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -665,7 +665,7 @@ Las inscripciones a que se refiere el artículo que antecede harán prueba plena
 
 (DEROGADO, P.O. 28 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 38.
 
@@ -787,7 +787,7 @@ En las actas del Registro Civil se efectuarán las anotaciones que relacionen el
 
 Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial. Se asentarán en las formas correspondientes, y serán autorizadas por el Director del Registro Civil en lo que corresponde a los Municipios de Apodaca, San Pedro Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García. En los demás Municipios serán autorizadas por otro Oficial del Registro Civil, y en el caso de que exista un solo Oficial, por el Presidente Municipal del lugar.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO II. ACTAS DE NACIMIENTO
 
@@ -805,7 +805,7 @@ Tienen obligación de declarar el nacimiento ante el Oficial del Registro Civil,
 
 Recibido el certificado, el Oficial del Registro Civil en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o en su caso expedirá la orden de inhumación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 59.
 
@@ -959,7 +959,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 En el caso de nacimiento múltiple, se levantará acta para cada individuo y se harán constar la (sic) particularidades que los distinga y quién nació primero, según el certificado de nacido vivo o de nacimiento que expida el médico, cirujano, partera o el testimonio que tenga (sic) de ello las personas que hayan asistido al parto.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO III. ACTAS DE RECONOCIMIENTO DE HIJOS
 
@@ -1013,7 +1013,7 @@ En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se h
 
 Si el reconocimiento se hiciera en Oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta de nacimiento. El Oficial que no cumpla con este requisito será sancionado de conformidad con lo dispuesto en la Ley del Registro Civil.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO IV. ACTAS DE ADOPCION
 
@@ -1053,7 +1053,7 @@ A partir del levantamiento del acta de adopción no se publicará, ni se expedir
 
 El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO V. ACTAS DE MATRIMONIO
 
@@ -1243,7 +1243,7 @@ Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio
 
 El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado de conformidad con lo previsto en la Ley del Registro Civil.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO VI. ACTAS DE DIVORCIO
 
@@ -1265,7 +1265,7 @@ El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalida
 
 Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO VII. ACTAS DE DEFUNCION
 
@@ -1371,7 +1371,7 @@ En los registros de nacimiento y matrimonio se hará referencia al acta de defun
 
 Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este Capítulo, serán acreedores a la sanción prevista en el artículo 81.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO VIII. ACTAS DE INSCRIPCION DE SENTENCIAS
 
@@ -1395,7 +1395,7 @@ Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se 
 
 Las actas a que se refiere el artículo 131 contendrán: el nombre, apellidos, edad, estado civil y nacionalidad de la persona de que se trate; los puntos resolutivos de la sentencia, fecha de ésta y Tribunal que la dictó. Asimismo se harán las anotaciones correspondientes en todos los casos en que sea procedente hacerlas, según los cambios del estado civil.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
 ### CAPITULO IX. CANCELACION, RECTIFICACION, MODIFICACION Y ACLARACION DE ACTAS DEL ESTADO CIVIL
 
@@ -1593,7 +1593,7 @@ En la adopción se deberá estar a los impedimentos previstos en el artículo an
 
 La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o cuente por lo menos con dos certificados de ingravidez expedidos por médicos distintos. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 159.
 
@@ -1997,7 +1997,7 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2011)</small>
 
 ###### Artículo 237.
 
@@ -2257,13 +2257,13 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 Para que pueda pedirse el divorcio por el estado de interdicción declarado, es necesario que hayan transcurrido dos años desde que se declaró.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Art. 272.
 
 Cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijos o teniéndolos estos sean mayores de 30 años y no sean incapaces, de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, podrán acudir a promover divorcio administrativo ante el Oficial del Registro Civil del lugar de su domicilio; sujetándose al procedimiento establecido para el efecto en el Capítulo XI de la Ley del Registro Civil.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -2413,7 +2413,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO XI. DEL CONCUBINATO
 
@@ -2657,7 +2657,7 @@ La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, po
 
 El juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 2000)</small>
 
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
@@ -2669,7 +2669,7 @@ Por violencia familiar se considera la conducta o el acto abusivo de poder u omi
 
 ### CAPITULO I. DE LOS HIJOS DE MATRIMONIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACIÓN
 
@@ -2999,7 +2999,7 @@ La paternidad y la maternidad pueden probarse por cualquiera de los medios ordin
 
 Art. 381 Bis I.- Generada la presunción de la filiación, en actos prejudiciales, podrá decretarse pensión alimenticia, como medida provisional y de protección, a cargo del presunto progenitor y a favor de pretendido hijo, al admitirse la demanda correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Art. 382.
 
@@ -3015,7 +3015,7 @@ III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habit
 
 IV.- Cuando el hijo tenga a su favor un principio de prueba en contra del pretendido padre. Si no se cuenta con este tipo de prueba, podrá obtenerse mediante el acto prejudicial de investigación de la paternidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Art. 383.
 
@@ -3067,7 +3067,7 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 #### SECCION PRIMERA. DE LA ADOPCION EN GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 390.
 
@@ -3189,7 +3189,7 @@ El procedimiento para hacer la adopción se regulará por lo establecido en el C
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, ésta quedará consumada para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 398.
 
@@ -3261,7 +3261,7 @@ El Ministerio Público también podrá impugnar la adopción cuando se afecte el
 
 (DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 #### SECCION TERCERA. DE LA ADOPCION PLENA
 
@@ -3297,7 +3297,7 @@ Art. 410 Bis IV.- La adopción puede beneficiar a personas de cualquier edad, si
 
 Art. 410 Bis V.- Si alguno de los adoptantes fallece después de haber iniciado el procedimiento judicial de la adopción, podrá continuar el trámite el cónyuge supérstite, surtiendo efectos para ambos cónyuges, siempre que la voluntad del fallecido hubiere sido expresada y ratificada ante juez competente. En caso contrario, sólo tendrá efectos para el supérstite.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE ABRIL DE 2004)</small>
 
 #### SECCION CUARTA. DE LA ADOPCION INTERNACIONAL Y POR EXTRANJEROS
 
@@ -3329,7 +3329,7 @@ Los hijos menores de edad no emancipados, están bajo la patria potestad mientra
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Art. 414.
 
@@ -3557,7 +3557,7 @@ II.- Con la emancipación derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 444.
 
@@ -3621,7 +3621,7 @@ III.- Por sentencia condenatoria que imponga como pena esta suspensión; y
 
 IV.- (DEROGADA, P.O. 10 DE FEBRERO DE 1999)
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 > <small>(ADICIONADO, P.O. 3 DE ENERO DE 2000)</small>
 
@@ -3837,7 +3837,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2008)</small>
 
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
@@ -3945,7 +3945,7 @@ VI.- Los directores de establecimientos de beneficencia pública.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XVI de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 2 DE AGOSTO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P. O. 2 DE AGOSTO DE 1991)</small>
 
 ### CAPITULO VIII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
@@ -4327,7 +4327,7 @@ Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no p
 
 Cuando la anajenación (sic) se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 437.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### Art. 563.
 
@@ -4917,7 +4917,7 @@ El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los 
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 679.
 
@@ -5173,7 +5173,7 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 ###### Art. 727.
 
@@ -5197,7 +5197,7 @@ III.- Por el pariente de cualquier grado que suministre alimentos a sus ascendie
 
 IV.- Por el tutor, cuando administre bienes pertenecientes a menores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 729.
 
@@ -5231,7 +5231,7 @@ Solo puede constituírse el Patrimonio de la Familia con bienes sitos en el Muni
 
 Cada familia solo puede constituír un Patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 1981)</small>
 
 ###### Art. 734.
 
@@ -5311,7 +5311,7 @@ c) En los casos establecidos por el artículo 880 fracción VI del Código de Pr
 
 VI.- Cuando se declare la nulidad del matrimonio o se decrete el divorcio, salvo que existan hijos que sean menores o incapaces.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ###### Art. 740.
 
@@ -6737,7 +6737,7 @@ El usufructo no se extingue por el mal uso que haga el usufructuario de la cosa 
 
 Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra el usufructuario y sus herederos, salvo lo dispuesto en el artículo 988.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO II. DE LAS SERVIDUMBRES LEGALES
 
@@ -8675,7 +8675,7 @@ Las formalidades expresadas en este capítulo se practicarán en un solo acto qu
 
 Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO V. DEL TESTAMENTO PRIVADO
 
@@ -9189,7 +9189,7 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 ### CAPITULO VI. DE LA SUCESION DE LOS CONCUBINOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Art. 1521.
 
@@ -9239,7 +9239,7 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
@@ -9633,7 +9633,7 @@ El juez, observando el procedimiento fijado por el Código de la materia, aproba
 
 El albacea que no presente la proposición de que se trata o que durante dos bimestres consecutivos, sin justa causa, no cubra a los herederos o legatarios lo que les corresponda, será separado del cargo a solicitud de cualquiera de los interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ###### Art. 1605.
 
@@ -12779,7 +12779,7 @@ Los no nacidos pueden adquirir por donación, con tal que hayan estado concebido
 
 Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO II. DEL MUTUO CON INTERES
 
@@ -12799,7 +12799,9 @@ Si en el primer caso del artículo anterior el padre no hubiere revocado la dona
 
 La donación no podrá ser revocada por superveniencia de hijos:
 
-I.- Cuando sea menor de doscientos pesos;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+I.- Cuando sea menor de 1000 cuotas;
 
 II.- Cuando sea antenupcial;
 
@@ -13249,7 +13251,7 @@ Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arr
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2343.
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2346.
 
@@ -13257,13 +13259,13 @@ La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses
 
 ### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO 4° DEL DECRETO NUMERO 35 DE FECHA 8 DE JULIO DE 1944, POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO 4° DEL DECRETO NÚMERO 35 DE FECHA 8 DE JULIO DE 1944, POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 36, P.O. 13 DE JUNIO DE 1962)</small>
 
 ###### Art. 2347.
 
 El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2348.
 
@@ -13375,7 +13377,7 @@ Lo dispuesto en el artículo 2359 es aplicable a los aperos de la finca arrendad
 
 Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2373.
 
@@ -13401,7 +13403,7 @@ Si el arrendador aprueba expresamente el contrato especial de subarriendo, el su
 
 El arrendamiento puede terminar:
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 I.- Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fué arrendada;
 
@@ -13419,7 +13421,7 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Art. 2378.
 
@@ -13447,7 +13449,7 @@ Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hab
 
 El arrendador puede exigir la rescisión del contrato:
 
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO SEPTIMO DEL DECRETO NUMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTICULO UNICO DEL DECRETO NUMERO 40, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(DEROGADA LA SUSPENSIÓN DEL ARTÍCULO SÉPTIMO DEL DECRETO NÚMERO 36 DE FECHA 13 DE JUNIO DE 1962, POR ARTÍCULO ÚNICO DEL DECRETO NÚMERO 40, P.O. 5 DE ENERO DE 1983)</small>
 
 I.- Por falta de pago de la renta en los términos prevenidos en los artículos 2346 y 2348;
 
@@ -14705,111 +14707,111 @@ Para que las asociaciones y las sociedades extranjeras de carácter civil, pueda
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR SEÑALA LA UBICACION DEL PRESENTE CAPITULO EN EL LIBRO TERCERO, UBICANDOSE REALMENTE EN EL LIBRO CUARTO.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR SEÑALA LA UBICACIÓN DEL PRESENTE CAPÍTULO EN EL LIBRO TERCERO, UBICÁNDOSE REALMENTE EN EL LIBRO CUARTO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)</small>
 
 ### CAPITULO II. DE LA RENTA VITALICIA
 
 ###### Art. 2631.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2632.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2633.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2634.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2635.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2636.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2637.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2638.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2639.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2640.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2641.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2642.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2643.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2644.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2645.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2646.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2647.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2648.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2649.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2650.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2651.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2652.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2653.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2654.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ###### Art. 2655.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERÍA DEL ESTADO DE NUEVO LEÓN, P.O. 4 DE DICIEMBRE DE 1940)
 
 ## TITULO DECIMO-SEGUNDO. DE LOS CONTRATOS ALEATORIOS
 
@@ -15607,7 +15609,7 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruír la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO 1997)</small>
 
 ###### Art. 2818.
 
@@ -16439,7 +16441,7 @@ El Secretario General de Gobierno,
 
 LIC. ANGEL SANTOS CERVANTES.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.
 
 P.O. 4 DE DICIEMBRE DE 1940.
 
@@ -16491,7 +16493,7 @@ Este Decreto surtirá sus efectos desde el día siguiente al de su publicación 
 
 P.O. 6 DE ENERO DE 1960.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 13 DE JUNIO DE 1962.
 
@@ -16737,7 +16739,7 @@ Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigo
 
 Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
 
-P.O.10 DE SEPTIEMBRE DE 2006.
+P.O. 10 DE SEPTIEMBRE DE 2006.
 
 Artículo Primero.- El presente Decreto entrará en vigor una vez que inicie la vigencia de la reforma a la Ley Orgánica del Poder Judicial del Estado que establece la creación de los Juzgados del Juicio Oral Civil y Familiar.
 
@@ -16815,13 +16817,13 @@ P.O. 8 DE OCTUBRE DE 2010.
 
 P.O. 5 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 112, POR EL QUE SE REFORMAN LOS ARTICULOS 140 Y 148 DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 112, POR EL QUE SE REFORMAN LOS ARTÍCULOS 140 Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 117, POR EL QUE SE REFORMAN POR MODIFICACION LOS ARTICULOS 649, 666, 667, 669, 670, 671, 672, 675, 677 Y 705 PRIMER PARRAFO, TODOS DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 117, POR EL QUE SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 649, 666, 667, 669, 670, 671, 672, 675, 677 Y 705 PRIMER PÁRRAFO, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -16866,6 +16868,10 @@ Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y dem�
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Único.- el presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
