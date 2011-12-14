@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2010-12-27"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NUMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -41,7 +41,9 @@ Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 > <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+LEY NÚMERO 44
+
+LEY DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -1317,11 +1319,11 @@ HIDALGO 0.00157628307
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
 
-Artículo tercero. Para el ejercicio fiscal del año 2011, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del ISAN, así como los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2010, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+Artículo Tercero. Para el ejercicio fiscal del año 2012, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del ISAN, así como los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2011, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
 
-La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios, al consumo de gasolina y diesel, en sus porcentajes correspondientes al 9/11 y al 2/11 del Fondo de Compensación para las 10 entidades más pobres, se distribuirán a los municipios de la entidad en 70% con base en el factor de distribución del Fondo de Fortalecimiento Municipal y Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF), y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2010.
+La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios, al consumo de gasolina y diesel, en sus porcentajes correspondientes al 9/11 y al 2/11 del Fondo de Compensación para las 10 entidades más pobres, se distribuirán a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Fortalecimiento Municipal y Demarcaciones Territoriales del D. F. (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2011.
 
 Artículo cuarto. (DEROGADO, G.O. 9 DE JUNIO DE 2008)
 
@@ -1446,6 +1448,12 @@ G.O. 27 DE DICIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
 
