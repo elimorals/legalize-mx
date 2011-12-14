@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2010-12-24"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -253,9 +253,17 @@ e) Tipo sanguíneo y, en su caso, alergias y si el titular de la licencia es don
 
 f) Clave Única de Registro de Población;
 
-g) Huella digital; y
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
 
-h) Firma.
+g) Huella digital;
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+h) Firma; e
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+i) Impedimentos y condicionamientos para conducir.
 
 II. Institucionales:
 
@@ -270,6 +278,10 @@ c) Tipo de licencia, de acuerdo a lo dispuesto en el artículo 8º de la present
 En el caso de las licencias especiales se deberá incluir el tipo de vehículo y la modalidad de servicio que se autoriza a prestar de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
 
 La calidad de donador de órganos o tejidos se registrará en la licencia siempre y cuando el titular de la misma así lo autorice voluntaria y expresamente mediante un formulario que le proporcionará la autoridad estatal competente en materia de expedición de licencias.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2011)</small>
+
+Respecto de los datos personales que refieren los incisos d) y e) de la fracción I, a petición expresa del interesado se podrá expedir la licencia para conducir conteniéndolos impresos total o parcialmente o careciendo de ellos; de igual forma, este podrá optar por solicitar se le expidan versiones de licencia con y sin los referidos datos. En cualquier caso, el resto de los datos que refiere la fracción I deberán aparecer impresos en toda licencia que se expida.
 
 ###### Artículo 19.
 
@@ -362,3 +374,7 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Único. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
