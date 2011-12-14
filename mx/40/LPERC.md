@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2011-06-01"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LPERC"
 ---
 # LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -80,11 +80,15 @@ III.- de Ciencias y Artes;
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
 
-III- Bis.- De Demografía;
+III- BIS.- De Demografía;
 
 IV.- de Deportes;
 
 V.- (DEROGADA, D.O.F. 23 DE MAYO DE 2002)
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+V BIS.- De Mérito Deportivo;
 
 VI.- de Mérito Cívico;
 
@@ -102,7 +106,7 @@ XI.- De Administración Pública;
 
 > <small>(ADICIONADA, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-XI Bis.- Al Mérito Forestal;
+XI BIS.- Al Mérito Forestal;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -124,9 +128,9 @@ XVI.- De Seguridad Pública;
 
 XVII.- Premio Nacional de la Cerámica.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
-La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de la Cerámica y del Premio Nacional de Deportes, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su desempeño, virtud, actuación y trayectoria.
+La misma persona puede recibir dos o más premios distintos, pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de la Cerámica, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su desempeño, virtud, actuación y trayectoria.
 
 ###### ARTICULO 7.
 
@@ -498,7 +502,7 @@ Este premio será entregado en ceremonia pública y solemne por el Presidente de
 
 ### CAPITULO IX. Premio Nacional de Deportes
 
-> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 52.
 
@@ -522,89 +526,103 @@ El premio consistirá en una de las preseas a que hace mención el artículo 7o.
 
 Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
 
-### CAPITULO X. Premio Nacional de Mérito Cívico
+### CAPITULO IX BIS. Premio Nacional de Mérito Deportivo
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 56.
 
-El Premio Nacional de Deportes se concederá en dos campos:
-
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2004)</small>
-
-I.- La actuación y trayectoria destacada en alguna modalidad deportiva dividida en dos categorías:
-
-1.- Deportista, y
-
-2.- Entrenador.
-
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2004)</small>
-
-II.- El fomento, la protección o el impulso de la práctica de los deportes.
-
-> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
-
-### CAPITULO XI. Premio Nacional de Trabajo
-
-###### ARTICULO 57.
-
-El Premio Nacional de Deportes se otorgará en los campos a los que se refiere el artículo anterior, de acuerdo a lo siguiente:
-
-I.- En el campo a que se refiere la fracción I del artículo anterior:
-
-1.- Tratándose de Deportistas se podrán otorgar hasta cuatro premios, en las siguientes modalidades:
+El Premio Nacional de Deportes se concederá a quienes por su actuación y desempeño hayan resaltado o sobresalido en el año que se califica dentro del ámbito deportivo, en cualquiera de las siguientes modalidades:
 
 a) En el deporte no profesional;
 
-b) En el deporte profesional, y
+b) En el deporte profesional;
 
-c) En el deporte paralímpico.
+c) En el deporte paralímpico;
 
-2.- Tratándose de Entrenadores, se otorgará un premio por trayectoria destacada en alguna modalidad deportiva.
+d) Al entrenador; y
 
-II.- En el campo al que se refiere la fracción II del artículo anterior, se otorgará el Premio Nacional de Deportes a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
+e) Al juez-árbitro.
 
-El Premio Nacional de Deportes en la categoría relativa a la actuación y trayectoria destacada en el deporte profesional y en el caso del campo a que se refiere la fracción II de este artículo, así como aquel que se otorgue por segunda o más ocasiones, no se acompañará de numerario.
+Las modalidades previstas en los incisos a), c), d) y e) podrán hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para la modalidad prevista en el inciso b) no se acompañará numerario alguno.
 
-> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+El otorgamiento del Premio Nacional de Deportes obtenido en grupo no será impedimento para ser premiado de manera individual, pero cuando se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO IX TER. Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 57.
+
+El Premio Nacional de Mérito Deportivo se concederá en las siguientes categorías:
+
+I. Por actuación y trayectoria destacada en el deporte mexicano, y
+
+II. Por el fomento, la protección o el impulso de la práctica de los deportes.
+
+La categoría prevista en la fracción I podrá hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para la categoría prevista en la fracción II no se acompañará numerario alguno.
+
+Cuando el premio se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 58.
 
-El premio se tramitará ante la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Éste se integrará, además, por los titulares de los siguientes organismos: Confederación Deportiva Mexicana, A.C., Comité Olímpico Mexicano, A.C., Comisión Nacional de Cultura Física y Deporte así como un representante de la Cámara de Diputados y un representante de la Cámara de Senadores.
+El Premio Nacional de Mérito Deportivo, a que se refiere la fracción II del artículo anterior, se otorgará a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
 
-> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO XII. Premio Nacional de la Juventud
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2009)</small>
+### CAPITULO X. Premio Nacional de Mérito Cívico
 
 ###### ARTICULO 59.
 
-Los premios consistirán en medalla de primera clase. Si el premio se otorga a un grupo o equipo de deportistas el conjunto recibirá un diploma y cada uno de los individuos medalla. Si son varias las personas premiadas, las preseas consistirán en insignias.
+El mismo Consejo de Premiación designado para el Premio Nacional de Deportes funcionará para el Premio Nacional de Mérito Deportivo.
 
-> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+Este se integrará por el Secretario de Educación Pública, quien lo presidirá, y por los titulares de las Comisiones de Juventud y Deporte de las Cámaras de Diputados y de Senadores, de la Comisión Nacional de Cultura Física y Deporte, de la Confederación Deportiva Mexicana, A.C., del Comité Olímpico Mexicano, A.C., y del Comité Paralímpico Mexicano, A.C.
+
+Cualquier controversia será resuelta por el Consejo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 60.
 
-Por cada año habrá una asignación de premios, que podrán ser hasta cinco en el primer campo: cuatro en la categoría de deportista y uno en la categoría de entrenador, pero sólo uno en el segundo campo. Si ocurrieren vacantes de premio, así lo declarará el Consejo de Premiación.
+Los premios consistirán en medalla de primera clase y se tramitarán ante la Secretaría de Educación Pública a través de la Comisión Nacional de Cultura Física y Deporte.
 
-> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+Si el premio se otorga a un grupo o equipo de deportistas, el conjunto recibirá un diploma y cada uno de los individuos medalla.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 61.
 
-Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas ante la Comisión Nacional de Cultura Física y Deporte y reconocidas ante la Confederación Deportiva Mexicana, A.C., o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
+Por cada año habrá una asignación de premios determinados atendiendo a lo establecido en la ley y con base en las definiciones del jurado y del Consejo de Premiación, si ocurrieren vacantes de los premios en alguno de los campos, modalidades o categorías, así lo declarará el consejo de premiación, fundando y motivando tal determinación.
 
-Las candidaturas se propondrán al Consejo de Premiación durante el mes de septiembre y a más tardar el 15 de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los 10 días siguientes y a continuación los pondrá en manos del Jurado, que a más tardar el 10 de noviembre deberá haber entregado su dictamen al Consejo.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 62.
 
-Habrá un solo Jurado para los dos campos de premios, que de preferencia se integrará con personas que hayan sido premiadas con anterioridad y con representantes de los facultados para proponer candidaturas.
+Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones deportivas nacionales y asociaciones deportivas registradas ante la Comisión Nacional de Cultura Física y Deporte y reconocidas ante la Confederación Deportiva Mexicana, A.C., o por los responsables de la información deportiva difundida por prensa escrita, radio o televisión, quienes lo podrán proponer a través de las asociaciones deportivas nacionales o asociaciones deportivas registradas.
 
-> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2004)</small>
+Las candidaturas se propondrán al consejo de premiación dentro del periodo comprendido del primero de octubre al cinco de noviembre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días naturales siguientes y a continuación los pondrá en manos del Jurado, quien entregará su dictamen debidamente fundado, motivado y por escrito al consejo, a más tardar el 28 de noviembre.
+
+Una vez que el Consejo conozca los nombres de quienes serán premiados, se los hará de su conocimiento inmediatamente.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 63.
 
-Los premios se entregarán el 20 de noviembre de cada año, en el marco de los festejos conmemorativos del aniversario de la Revolución Mexicana.
+Habrá un solo jurado para los dos premios, que se integrará por: un representante de la Comisión Nacional de Cultura Física y Deporte, uno de la Confederación Deportiva Mexicana, A.C., uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes serán designados por los titulares de dichos organismos, respectivamente. Asimismo, por un ex galardonado del Premio Nacional de Deportes, un ex galardonado del Premio Nacional de Mérito Deportivo, un medallista olímpico, un medallista paralímpico, un representante de la prensa escrita, un representante de la televisión y un representante de la radio.
 
-### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
+Los miembros del jurado deberán conducirse con imparcialidad, legalidad y equidad, y su actuación en los asuntos que conozcan en el ejercicio de sus funciones estará sujeta a la secrecía, a la ética y a la confidencialidad. Su incumplimiento será motivo de expulsión a consideración del consejo quien, en su caso, ordenará la reposición de las actuaciones afectadas por la falta de los miembros.
+
+Además de las disposiciones previstas en esta ley, el jurado podrá proponer la entrega de premios adicionales en una misma modalidad y categoría.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 63 BIS.- Los premios se entregarán el primer domingo del mes de diciembre de cada año.
+
+### CAPITULO XI. Premio Nacional de Trabajo
 
 ###### ARTICULO 64.
 
@@ -626,7 +644,9 @@ Es aplicable a este premio lo prevenido en el artículo 38 de la presente Ley.
 
 (DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
-### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
+### CAPITULO XII. Premio Nacional de la Juventud
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 68.
 
@@ -644,11 +664,7 @@ Es aplicable a este premio lo prevenido en el artículo 38, que en relación con
 
 Al premio corresponderá una placa y podrá adicionarse con una entrega en numerario, cuyo monto fijará discrecionalmente el Consejo de Premiación.
 
-### CAPITULO XV
-
-Premio Nacional de Administración Pública.
-
-> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
 
 ###### ARTICULO 72.
 
@@ -708,9 +724,7 @@ Cada una de las distinciones del Premio Nacional de la Juventud podrá contar co
 
 El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 67 de esta Ley.
 
-### CAPITULO XV BIS. Premio Nacional al Mérito Forestal
-
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
 
 ###### ARTICULO 77.
 
@@ -734,9 +748,11 @@ Se conceden facultades al Jurado para que, atendiendo proposiciones del Consejo 
 
 Según lo acuerde el Presidente de la República, a proposición del Consejo de Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 67, o en ceremonias parciales y aun en los lugares en que hayan tenido lugar los hechos que originaron los actos premiados.
 
-### CAPITULO XVI. Estímulos y Recompensas
+### CAPITULO XV
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+Premio Nacional de Administración Pública.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 82.
 
@@ -774,9 +790,9 @@ Los trabajadores y funcionarios que se consideren con derecho a este premio, pod
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
-### CAPITULO XVII. Premio Nacional de Protección Civil
+### CAPITULO XV BIS. Premio Nacional al Mérito Forestal
 
-> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 87.
 
@@ -814,9 +830,9 @@ La Coordinación General de Estudios Administrativos de la Presidencia de la Rep
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-### CAPITULO XVIII. Premio Nacional de Trabajo y Cultura Indígena
+### CAPITULO XVI. Estímulos y Recompensas
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 91-A.
 
@@ -842,9 +858,9 @@ En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 3
 
 El premio consistirá en diploma y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
 
-### CAPITULO XIX. Premio Nacional de Derechos Humanos
+### CAPITULO XVII. Premio Nacional de Protección Civil
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 92.
 
@@ -932,9 +948,9 @@ Si falleciere la persona a cuyo favor se hubiere resuelto otorgar alguna de las 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
-### CAPITULO XX. Premio Nacional de Preservación del Medio Ambiente
+### CAPITULO XVIII. Premio Nacional de Trabajo y Cultura Indígena
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 101.
 
@@ -974,9 +990,9 @@ El premio será entregado el 19 de septiembre de cada año, por el Presidente de
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XXI. Premio Nacional de Seguridad Pública
+### CAPITULO XIX. Premio Nacional de Derechos Humanos
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 106.
 
@@ -1008,9 +1024,9 @@ Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Con
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XXII. Premio Nacional de la Cerámica
+### CAPITULO XX. Premio Nacional de Preservación del Medio Ambiente
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 109.
 
@@ -1036,9 +1052,9 @@ En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio N
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XXIII. Disposiciones Generales
+### CAPITULO XXI. Premio Nacional de Seguridad Pública
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 113.
 
@@ -1078,6 +1094,10 @@ La convocatoria para el otorgamiento de este premio, podrá considerar la partic
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
+### CAPITULO XXII. Premio Nacional de la Cerámica
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
+
 ###### ARTICULO 116.
 
 El Premio Nacional de Seguridad Pública es el galardón con el que el Gobierno de la República reconoce el trabajo destacado, la entrega en el servicio, la constancia y el desarrollo de las personas que realizan su mejor esfuerzo para desempeñar su actuación de acuerdo con los principios constitucionales en materia de seguridad pública y que son los de legalidad, eficiencia, profesionalismo y honradez.
@@ -1113,6 +1133,10 @@ VI.- Trabajo Pericial.
 Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Seguridad Pública, quien lo presidirá; un representante de la Procuraduría General de la República; un representante de la Secretaría de la Defensa Nacional; un representante de la Secretaría de Marina; un representante de cada una de las Cámaras del Congreso de la Unión y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, con el carácter de Secretario Técnico del Consejo de Premiación.
 
 > <small>(REFORMADA SU DENOMINACION (N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2006)</small>
+
+### CAPITULO XXIII. Disposiciones Generales
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 120.
 
@@ -1253,3 +1277,13 @@ D.O.F. 9 DE JUNIO DE 2009.
 D.O.F. 1 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE DICIEMBRE DE 2011.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Si a la fecha en que la presente reforma inicie su vigencia se han iniciado los trámites para la entrega del Premio Nacional de Deportes instituido por la ley vigente, correspondiente al año que se curse, las disposiciones de esta reforma se aplicarán a partir del año siguiente.
+
+Tercero. Durante el primer año de vigencia de la presente reforma, la conformación del jurado previsto en el artículo 63, referente a los ex galardonados, se integrará por única vez por dos ex galardonados del Premio Nacional de Deportes.
+
+Cuarto. Cuando el primer domingo del mes de diciembre al que se refiere el artículo 63 Bis coincida con el día del cambio del titular del Poder Ejecutivo, la entrega de los premios se recorrerá al siguiente domingo.
