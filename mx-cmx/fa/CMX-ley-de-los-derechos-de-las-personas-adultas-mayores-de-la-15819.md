@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2008-12-05"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -170,7 +170,23 @@ IV. A participar en la vida cultural, deportiva y recreativa de su comunidad.
 
 E). Del trabajo:
 
-I. A gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como a recibir una capacitación adecuada.
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+I. A gozar, en igualdad de oportunidades, de acceso al trabajo o de otras posibilidades de obtener un ingreso propio;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+II. A recibir, por conducto de los sujetos establecidos en el Artículo 2 de la presente Ley, en el ámbito de sus respectivas competencias, capacitación gratuita y continua en los siguientes rubros:
+
+a) Computación;
+
+b) Inglés; y
+
+c) Oficios relacionados con sus capacidades y aptitudes.
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+III. A laborar en instalaciones que garanticen su seguridad e integridad física, con base en la normatividad correspondiente.
 
 F). De la Asistencia Social:
 
@@ -609,3 +625,9 @@ G.O. 5 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
