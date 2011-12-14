@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-12-12"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -869,6 +869,18 @@ Las modalidades de acceso a los servicios de salud privados y sociales se regir�
 ###### ARTICULO 41.
 
 Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 41 Bis.
+
+Los establecimientos para la atención médica del sector público, social o privado del sistema nacional de salud, además de los señalados en los artículos 98 y 316 de la presente Ley, y de acuerdo con su grado de complejidad y nivel de resolución, contarán con los siguientes comités:
+
+I. Un Comité Hospitalario de Bioética para la resolución de los problemas derivados de la atención médica a que se refiere el artículo 33 de esta Ley; así como para el análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud, así como promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, promoverá la educación bioética permanentemente de sus miembros y del personal del establecimiento, y
+
+II. En los casos de establecimientos de atención médica que lleven a cabo actividades de investigación en seres humanos, un Comité de Ética en Investigación que será responsable de evaluar y dictaminar los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético que correspondan, así como de elaborar lineamientos y guías éticas institucionales para la investigación en salud, debiendo dar seguimiento a sus recomendaciones.
+
+Los Comités Hospitalarios de Bioética y de Ética en la Investigación se sujetarán a la legislación vigente y a los criterios que establezca la Comisión Nacional de Bioética. Serán interdisciplinarios y deberán estar integrados por personal médico de distintas especialidades y por personas de las profesiones de psicología, enfermería, trabajo social, sociología, antropología, filosofía o derecho que cuenten con capacitación en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, guardando equilibrio de género, quienes podrán estar adscritos o no a la unidad de salud o establecimiento.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -1958,9 +1970,19 @@ La Secretaría de Educación Pública, en coordinación con la Secretaría de Sa
 
 La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 98.
 
-En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán: una comisión de investigación; una comisión de ética, en el caso de que se realicen investigaciones en seres humanos, y una comisión de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética. El Consejo de Salubridad General emitirá las disposiciones complementarias sobre áreas o modalidades de la investigación en las que considere que es necesario.
+En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán:
+
+I. Un Comité de Investigación;
+
+II. En el caso de que se realicen investigaciones en seres humanos, un Comité de Ética en Investigación, que cumpla con lo establecido en el artículo 41 Bis de la presente Ley, y
+
+III. Un Comité de Bioseguridad, encargado de determinar y normar al interior del establecimiento el uso de radiaciones ionizantes o de técnicas de ingeniería genética, con base en las disposiciones jurídicas aplicables.
+
+El Consejo de Salubridad General emitirá las disposiciones complementarias sobre áreas o modalidades de la investigación en las que considere que es necesario.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -1986,9 +2008,15 @@ V.- Sólo podrá realizarse por profesionales de la salud en instituciones médi
 
 La realización de estudios genómicos poblacionales deberá formar parte de un proyecto de investigación;
 
-VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación, y
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
-VII.- Las demás que establezca la correspondiente reglamentación.
+VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+VII.- Es responsabilidad de la institución de atención a la salud proporcionar atención médica al sujeto que sufra algún daño, si estuviere relacionado directamente con la investigación, sin perjuicio de la indemnización que legalmente corresponda, y
+
+VIII.- Las demás que establezca la correspondiente reglamentación.
 
 ###### ARTICULO 101.
 
@@ -7605,3 +7633,25 @@ Dicho plazo se determinará de conformidad con las disposiciones reglamentarias 
 El personal de salud que a la fecha de entrada en vigor del presente Decreto cuente con un documento que acredite que ha tomado el Diplomado impartido por el Centro Nacional de Trasplantes para formar coordinadores hospitalarios de donación de órganos y tejidos para trasplantes, podrá continuar desarrollando su función como coordinador hospitalario de donación de órganos y tejidos para trasplantes, pero deberá obtener la revalidación que al efecto establezcan las disposiciones reglamentarias aplicables.
 
 QUINTO. Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 14 DE DICIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTICULO 41 BIS Y REFORMA EL ARTICULO 98 DE LA LEY GENERAL DE SALUD.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+En un lapso que no excederá de noventa días naturales, la Secretaría de Salud, a través de la Comisión Nacional de Bioética, expedirá las disposiciones necesarias para la integración y funcionamiento de los Comités Hospitalarios de Bioética y las características de los centros hospitalarios que deben tenerlos.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los comités a que se refiere el presente Decreto se sujetarán a los recursos humanos, materiales y financieros de dichos establecimientos, así como a la disponibilidad presupuestaria aprobada para tales efectos en el ejercicio fiscal correspondiente.
+
+D.O.F. 14 DE DICIEMBRE DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 100 DE LA LEY GENERAL DE SALUD.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
