@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interno-de-la-secretaria-de-la-carrera-judicial-4340
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-05"
-last_updated: "2007-07-04"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA SECRETARÍA DE LA CARRERA JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 5 de enero de 2005.
 
@@ -630,3 +632,11 @@ P.O. 4 DE JULIO DE 2007.
 Artículo Primero.- Publíquese el presente acuerdo eh el Periódico Oficial Órgano del Gobierno del Estado, Boletín Judicial y en la página web del Poder Judicial del Estado.
 
 Artículo Segundo.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit. Igualmente deberá ser publicado en el Boletín de Información Judicial, así como en el portal de Transparencia del Poder Judicial.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Secretaría de la Carrera Judicial aprobado por el Consejo de la Judicatura con fecha 15 de diciembre de 2004, publicado en el Periódico Oficial Órgano del Gobierno del Estado el 5 de enero de 2005.
+
+TERCERO. Sin menoscabo de lo previsto en el artículo transitorio anterior, las disposiciones del reglamento antes mencionado relativas a los servicios de psicología y trabajo social, seguirán vigentes en tanto se emita el reglamento correspondiente.
