@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2011-09-20"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1589,7 +1589,9 @@ La pederastia se considerará agravada si:
 
 I. Se cometiere por dos o más personas;
 
-II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima, o si ésta se encuentra bajo su guarda o custodia por cualquier otro motivo; o
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+II. El sujeto activo del delito tuviere relación de parentesco de cualquier tipo o grado con la víctima o fuere concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre del sujeto pasivo; o si éste se encuentra bajo la guarda o custodia de aquél por cualquier otro motivo; o
 
 III. El sujeto activo del delito desempeñare un ministerio religioso, cargo o comisión públicos, una profesión o empleo, y hubiese utilizado los medios o circunstancias que ello le proporcionaba para ejercer presión o intimidación sobre la víctima.
 
@@ -1623,7 +1625,9 @@ La violación se considerará agravada, y se sancionará con pena de diez a trei
 
 I. Que se cometa por dos o más personas;
 
-II. Que el responsable fuere ascendiente, descendiente, adoptante, adoptado, hermano, hermana, padrastro, madrastra o tutor de la víctima;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+II. Que el responsable fuere ascendiente, descendiente, adoptante, adoptado, hermano, hermana, padrastro, madrastra o tutor de la víctima; o fuere concubina, concubinario, amasia, amasio o pareja sentimental del padre o de la madre de la víctima;
 
 III. Que el responsable tenga bajo su custodia, guarda o educación a la víctima; o
 
@@ -2741,7 +2745,9 @@ III. A la persona que participe como sujeto activo de este delito en calidad de 
 
 IV. A quien financie, elabore, reproduzca, almacene, distribuya, rente, comercialice, exponga, publicite o difunda el material a que se refiere la fracción II de este artículo, se le impondrán las mismas sanciones que ahí se señalan;
 
-V. A quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad a espectáculos, obras gráficas o audiovisuales de contenido pornográfico o de carácter lascivo o sexual, se le impondrán de seis meses a cinco años de prisión y multa de hasta doscientos días de salario;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+V. A quien permita, directa o indirectamente, a una persona menor de dieciocho años de edad, a través del uso de tecnología de información, en centros de renta pública, el acceso a material, espectáculos, obras gráficas o audiovisuales de contenido pornográfico o de carácter lascivo o sexual, se le impondrán de seis meses a cinco años de prisión y multa de hasta doscientos días de salario;
 
 VI. A quien almacene, compre o arriende el material pornográfico a que se refiere la fracción II de este artículo, aun sin fines de comercialización o distribución, se le impondrán de seis meses a cinco años de prisión y multa de hasta doscientos días de salario.
 
@@ -3543,7 +3549,7 @@ Gobernador del Estado.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 3 DE AGOSTO DE 2004.
 
@@ -3822,3 +3828,19 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 20 DE SEPTIEMBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+DECRETO NUMERO 312 POR EL QUE SE REFORMA EL ARTICULO 290, FRACCIÓN V, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+DECRETO NUMERO 314 POR EL REFORMAN LOS ARTÍCULOS 183, FRACCIÓN II, Y 185, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
