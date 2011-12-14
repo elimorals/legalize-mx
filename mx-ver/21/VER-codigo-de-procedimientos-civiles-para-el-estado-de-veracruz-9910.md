@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2011-04-13"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2011.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -93,7 +93,7 @@ ARTICULO 10
 
 Las acciones que se tramiten contra los herederos sólo obligan a éstos en proporción a sus cuotas hereditarias; salvo en todo caso la responsabilidad que les resulte, cuando sea mancomunada su obligación con el autor de la herencia, cuando haya habido ocultación de bienes, omisión o dilación al formar inventario, o dolo o fraude en la administración de bienes indivisos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 11
 
@@ -173,7 +173,7 @@ Las acciones del estado civil tienen por objeto las cuestiones relativas al naci
 
 Las acciones del estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 21
 
@@ -355,7 +355,7 @@ ARTICULO 49
 
 Sólo se entregarán los expedientes a las partes, a sus abogados o procuradores debidamente autorizados para formar o glosar cuentas y para que tomen apuntes, antes de alegar o cuando de común acuerdo lo pidieren. Los autos y copias, en su caso, se entregarán por el secretario directamente a las partes, por medio del conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo no comprenden al Ministerio Público, al que se hará entrega del expediente, excepto que sea actor o demandado, bajo apercibimiento de que, si en el término de cinco días hábiles no desahoga la vista, o si dentro del término legal que corresponda no contesta el traslado, el juez ordenará que se le devuelva el expediente, certificando tal circunstancia para los efectos a que haya lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE NOVIEMBRE DE 2001)</small>
 
 ARTICULO 50
 
@@ -471,7 +471,7 @@ II.- El documento o documentos que acrediten el carácter con el que el litigant
 
 III.- Una copia del escrito cuando haya de emplazarse a su contraparte, pudiéndose emplear fotocopias o cualquier otro medio de reproducción, siempre y cuando sean legibles.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 63
 
@@ -491,7 +491,7 @@ Después de la demanda y la contestación, no se admitirá la presentación de d
 
 I.- Que sean de fecha posterior a aquellos escritos;
 
-II.- Que siendo anteriores, proteste la parte que los presente que no tuvo conocimiento de su existencia;
+II.- Que siendo anteriores, proteste la parte que los presente (sic) que no tuvo conocimiento de su existencia;
 
 III.- Que no haya sido posible adquirirlos con anterioridad por causas no imputables a la parte interesada, y siempre que ésta haya hecho oportunamente la designación prescrita por el artículo 63.
 
@@ -743,7 +743,7 @@ ARTICULO 103
 
 Los honorarios de los depositarios, peritos y demás personas que intervengan en el juicio, serán regulados conforme a arancel.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 104
 
@@ -1183,6 +1183,66 @@ Si es instrumento público o privado reconocido y contiene cantidad líquida, pu
 
 La liquidación se hará con un escrito de cada parte y la resolución del juez sin ulterior recurso, salvo la responsabilidad del mismo juez.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO I BIS. De la Investigación de la Filiación
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 BIS
+
+Este acto prejudicial tendrá por objeto preparar la acción correspondiente a la investigación de la filiación, a fin de determinar la paternidad o la maternidad, mediante la prueba pericial en genética molecular del ácido desoxirribonucleico o ADN, realizada por instituciones certificadas para este tipo de pruebas por la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 TER
+
+Quien ejerza la patria potestad, la tutela, o tenga la custodia de un menor, el hijo mayor de edad e incluso el Ministerio Público, podrá solicitar al Juez competente la práctica de la prueba biológica a que se hace referencia en el artículo precedente.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 QUATER
+
+Presentada la solicitud de investigación de la filiación, se resolverá de plano sobre su admisión, ordenándose dar vista a la persona a quien se impute la paternidad o maternidad, a fin de que comparezca ante el Juez dentro del término de tres días, para que manifieste su aceptación o negativa a dicha imputación. Para el caso de que se omita manifestación alguna por parte de la persona requerida se entenderá como una negativa de la filiación que se le atribuye.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 QUINQUIES
+
+En el supuesto de que se acepte la filiación, previa ratificación de la misma ante el Juez, se ordenará mediante oficio el levantamiento del acta de reconocimiento ante el Oficial del Registro Civil en los términos de ley, dándose por concluido este acto.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 SEXIES
+
+En caso de negativa de la filiación, se ordenará la práctica de la prueba biológica respectiva, misma que deberá realizarse ante una institución que haya sido certificada con capacidad para realizar este tipo de pruebas por la Secretaría de Salud. En el mismo proveído se señalará la fecha para su desahogo, a fin de que se tomen las muestras respectivas, previa citación de las personas que se someterán a dicha prueba, constituyéndose el Juez en el lugar señalado para la práctica de la prueba, levantando el acta circunstanciada de lo que acontezca. La institución designada tendrá un plazo de treinta días para rendir el dictamen, pudiéndose prorrogar dicho término a solicitud de la misma.
+
+El dictamen remitido a la autoridad judicial versará únicamente sobre los datos relativos a la filiación, conservándose en la confidencialidad los demás datos o características genéticas que pudiere arrojar la misma, a fin de preservar los derechos que en cuanto a su intimidad le asisten a la persona.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 SEPTIES
+
+Si la persona que deba practicarse la prueba no asistiere a la misma o se negare a proporcionar la muestra necesaria, hará presumir la filiación que se le atribuye en los términos del Código Civil.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 OCTIES
+
+La acción correspondiente deberá intentarse por parte del solicitante dentro del término de treinta días, una vez recibido el dictamen con resultado positivo o generada la presunción de filiación, apercibido de que en caso de no hacerlo así, quedarán sin materia los beneficios obtenidos en este acto prejudicial.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 NONIES
+
+El costo de la prueba biológica será a cargo del padre o madre cuando aquél o ésta resulte serlo, en caso contrario será a cargo y por cuenta del promovente.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 157 DECIES
+
+Contra el auto que admita la prueba de investigación de la filiación no procede recurso alguno. Contra el que la deseche procede el recurso de apelación.
+
 ### CAPITULO II. Del depósito o guarda de personas como acto prejudicial
 
 > <small>(REFORMADO, G.O. 22 DE JUNIO DE 2009)</small>
@@ -1443,7 +1503,7 @@ ARTICULO 206
 
 Las fianzas a que se refiere este Capítulo, se otorgarán ante el juez de los autos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE ABRIL DE 2008)</small>
 
 ### CAPITULO VI. Del procedimiento de mediación o conciliación
 
@@ -1468,6 +1528,8 @@ Ante el incumplimiento del convenio que en su caso se hubiere celebrado en el Ce
 Es juez competente el designado por las partes en el convenio y, en su defecto, el que esté conociendo del juicio, y en su caso, se estará a lo previsto en las reglas para la fijación de la competencia establecidas en este Código y, habiendo varios, el del número más bajo.
 
 Regirán las disposiciones relativas a la ejecución de convenios judiciales contenidas en este Código.
+
+## TITULO SEXTO. DEL JUICIO
 
 ### CAPITULO I. De la demanda y contestación
 
@@ -1551,7 +1613,7 @@ IV.- Producir todas las consecuencias de la interpelación judicial, si por otro
 
 V.- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 213
 
@@ -1587,7 +1649,7 @@ ARTICULO 218
 
 Cuando sin justa causa, después de hacerse el emplazamiento, el emplazado dejare de contestar la demanda o alguna de sus partes, se presumirán confesados los hechos que no hayan sido contestados. El silencio y las evasivas en la contestación respecto a uno o más hechos de la demanda, establecen igual presunción. En materia familiar, la falta de contestación no produce confesión ficta, sino que se entienden contestados los hechos en sentido negativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 219
 
@@ -1633,8 +1695,6 @@ ARTICULO 224
 
 Si las cuestiones controvertidas fueren puramente de derecho, que no estuviere sujeto a prueba, se señalará día y hora para la audiencia de alegatos.
 
-## TITULO SEXTO. DEL JUICIO
-
 ### CAPITULO II. Reglas generales sobre la prueba
 
 ARTICULO 225
@@ -1677,7 +1737,7 @@ ARTICULO 231
 
 Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en usos, costumbres o jurisprudencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 232
 
@@ -1721,7 +1781,7 @@ IX.- Las presunciones, y
 
 X.- Los demás medios que produzcan convicción en el juzgador.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 236
 
@@ -2057,7 +2117,7 @@ ARTICULO 281
 
 Los que tengan conocimiento de los hechos que las partes quieran probar, están obligados a declarar como testigos. No podrán pasar de tres por cada hecho que exija distinto interrogatorio.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE NOVIEMBRE DE 1995)</small>
 
 ARTICULO 282
 
@@ -2233,7 +2293,7 @@ Los peritos dictaminarán por escrito u oralmente en presencia del tercero en di
 
 La prueba pericial se rendirá en la audiencia, reproduciendo los peritos, en su caso, sus dictámenes oralmente, en presencia del tercero, y éste dirá su parecer.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 309
 
@@ -2411,15 +2471,57 @@ ARTICULO 339
 
 Para que las sentencias a que se refiere el artículo anterior produzca los efectos de la cosa juzgada, no se requiere promoción de las partes ni declaración judicial, bastando con una certificación de la secretaría en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos por el juez.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+
+## TITULO SEXTO BIS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ### CAPITULO UNICO. De la suspensión del procedimiento
 
 > <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
 
-## TITULO SEXTO BIS
+###### ARTICULO 339
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+ARTICULO 339-A
+
+El procedimiento se suspenderá:
+
+I.- Cuando el Tribunal que conozca del Juicio no esté en posibilidad de funcionar, por causa de fuerza mayor.
+
+II.- Cuando una de las partes falleciere; le sobrevenga un estado de incapacidad mental y mientras se le nombre tutor, o en el caso de ausencia.
+
+III.- Cuando lo determine la Ley.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+
+###### ARTICULO 339
+
+B
+
+Tan pronto como en autos aparezca una causa de suspensión o sea denunciada y probada por parte interesada, el Juez decretará la suspensión, expresando en su determinación el día desde el cual deba contarse y aquel en que deba terminar.
+
+Cuando llegue el día señalado para que termine la suspensión y subsistan los motivos de la misma, el Juez podrá prorrogarla en términos del párrafo anterior.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+
+###### ARTICULO 339
+
+CULO 339-C
+
+Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal, verificado durante la suspensión, es ineficaz, sin que sea necesario pedir ni declarar la nulidad.
+
+El tiempo de la suspensión no se computa en ningún término.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
+
+###### ARTICULO 339
+
+D
+
+En caso de la primera hipótesis de la fracción II del artículo 339-A, la suspensión durará el tiempo indispensable para que se apersone en el juicio el representante de la sucesión, mismo que no pasará de sesenta días naturales, pasado el cual se seguirá el negocio con el Ministerio Público.
+
+## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
 
 ### CAPITULO I. De la ejecución
 
@@ -2506,48 +2608,6 @@ ARTICULO 347
 Cuando la ejecución se ejercite sobre cosa cierta y determinada o en especie, si hecho el requerimiento de entrega el demandado no la hace, se pondrá en secuestro judicial.
 
 Si la cosa ya no existe, se embargarán bienes que cubran su valor fijado por el ejecutante y los daños y perjuicios como en las demás ejecuciones, pudiendo ser moderada la cantidad por el juzgador. El ejecutado puede oponerse a los valores fijados, y rendir las pruebas que juzgue conveniente durante la tramitación del juicio.
-
-###### ARTICULO 339
-
-ARTICULO 339-A
-
-El procedimiento se suspenderá:
-
-I.- Cuando el Tribunal que conozca del Juicio no esté en posibilidad de funcionar, por causa de fuerza mayor.
-
-II.- Cuando una de las partes falleciere; le sobrevenga un estado de incapacidad mental y mientras se le nombre tutor, o en el caso de ausencia.
-
-III.- Cuando lo determine la Ley.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-###### ARTICULO 339
-
-B
-
-Tan pronto como en autos aparezca una causa de suspensión o sea denunciada y probada por parte interesada, el Juez decretará la suspensión, expresando en su determinación el día desde el cual deba contarse y aquel en que deba terminar.
-
-Cuando llegue el día señalado para que termine la suspensión y subsistan los motivos de la misma, el Juez podrá prorrogarla en términos del párrafo anterior.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-###### ARTICULO 339
-
-CULO 339-C
-
-Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal, verificado durante la suspensión, es ineficaz, sin que sea necesario pedir ni declarar la nulidad.
-
-El tiempo de la suspensión no se computa en ningún término.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-###### ARTICULO 339
-
-D
-
-En caso de la primera hipótesis de la fracción II del artículo 339-A, la suspensión durará el tiempo indispensable para que se apersone en el juicio el representante de la sucesión, mismo que no pasará de sesenta días naturales, pasado el cual se seguirá el negocio con el Ministerio Público.
-
-## TITULO SEPTIMO. DE LA EJECUCION, DE LA VIA DE APREMIO Y DE LOS EMBARGOS
 
 ### CAPITULO II. De la vía de apremio
 
@@ -3203,155 +3263,7 @@ ARTICULO 451
 
 Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye; limitándose a examinar su autenticidad y si debe o no ejecutarse conforme a las leyes del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE JULIO DE 1997)</small>
-
-### CAPITULO UNICO. Reglas generales
-
-ARTICULO 452
-
-Las partes tienen el derecho de sujetar sus diferencias a juicio arbitral.
-
-ARTICULO 453
-
-El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
-
-El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
-
-ARTICULO 454
-
-El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
-
-ARTICULO 455
-
-Todo el que esté en pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
-
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sin aprobación judicial, salvo cuando dichos incapacitados sean herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros, se hará siempre con la intervención judicial como se previno en los medios preparatorios.
-
-ARTICULO 456
-
-Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo cuando se trata de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado, se nombrará necesariamente con intervención judicial.
-
-ARTICULO 457
-
-Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
-
-ARTICULO 458
-
-No se pueden comprometer en árbitros los siguientes negocios:
-
-I.- El derecho de recibir alimentos;
-
-II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
-
-III.- Las acciones de nulidad de matrimonio;
-
-IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 270 del Código Civil.
-
-ARTICULO 459
-
-El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
-
-Cuando las partes no hayan designado los árbitros se entienden que se reservan para hacerlo con intervención judicial, como se previene en los medios preparatorios.
-
-ARTICULO 460
-
-El compromiso será válido aunque no se fije término para el juicio arbitral. En este caso la misión de los árbitros durará sesenta días. El plazo se cuenta desde que se acepta el nombramiento.
-
-ARTICULO 461
-
-Durante el plazo del arbitraje los árbitros no podrán ser recusados sino por el consentimiento unánime de las partes.
-
-ARTICULO 462
-
-Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales, si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
-
-Las partes podrán renunciar a la apelación.
-
-Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
-
-ARTICULO 463
-
-El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
-
-ARTICULO 464
-
-Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará para que, a costa de los mismos interesados, desempeñe sus funciones.
-
-Cuando fueren varios los árbitros, entre ellos mismos elegirán al que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
-
-ARTICULO 465
-
-El compromiso termina:
-
-I.- Por muerte del árbitro elegido en el compromiso o en la cláusula compromisoria, si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
-
-II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
-
-III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
-
-IV.- Por nombramiento recaído en el árbitro de magistrado, o de juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
-
-V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 460.
-
-ARTICULO 466
-
-Los árbitros designados por el juez sólo son recusables por las mismas causas que lo fueren los demás jueces.
-
-ARTICULO 467
-
-Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
-
-ARTICULO 468
-
-El laudo será firmado por cada uno de los árbitros y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
-
-ARTICULO 469
-
-Si los árbitros no estuvieren autorizados para nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de Primera Instancia para que sea hecho el nombramiento.
-
-ARTICULO 470
-
-Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más, que se sumarán a dicho término para que pueda pronunciar el laudo.
-
-ARTICULO 471
-
-Los árbitros decidirán según las reglas de derecho, a menos que en el compromiso o en la cláusula se les recomiende la amigable composición o el fallo en conciencia.
-
-ARTICULO 472
-
-De las recusaciones y excusas de los árbitros, conocerá el juez ordinario sin ulterior recurso, sujetándose al procedimiento indicado para las recusaciones o excusas de los jueces municipales.
-
-ARTICULO 473
-
-Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso de que sea opuesta como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
-
-ARTICULO 474
-
-Los árbitros pueden condenar en costas y en daños y perjuicios a las partes, y aun imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
-
-ARTICULO 475
-
-Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
-
-Para la ejecución de autos, se acudirá también al juez de primera instancia.
-
-Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para el juicio.
-
-ARTICULO 476
-
-Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje, y, si hubiere varios jueces de lo civil, el de número más bajo.
-
-ARTICULO 477
-
-Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
-
-ARTICULO 478
-
-La apelación sólo será admisible conforme a las reglas del derecho común.
-
-ARTICULO 479
-
-El juez debe compeler a los árbitros para que cumplan con sus obligaciones.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE JULIO DE 1997)</small>
 
 ## TITULO SEPTIMO BIS. DEL JUICIO HIPOTECARIO
 
@@ -3567,6 +3479,156 @@ Los gastos y costas del juicio se regirán por las disposiciones contenidas en e
 
 ## TITULO OCTAVO. DEL JUICIO ARBITRAL
 
+### CAPITULO UNICO. Reglas generales
+
+ARTICULO 452
+
+Las partes tienen el derecho de sujetar sus diferencias a juicio arbitral.
+
+ARTICULO 453
+
+El compromiso puede celebrarse antes de que haya juicio, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre.
+
+El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren.
+
+ARTICULO 454
+
+El compromiso puede celebrarse por escritura pública, por escritura privada o en acta ante el juez, cualquiera que sea la cuantía.
+
+ARTICULO 455
+
+Todo el que esté en pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios.
+
+Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitros sin aprobación judicial, salvo cuando dichos incapacitados sean herederos de quien celebró el compromiso o estableció cláusula compromisoria. Si no hubiere designación de árbitros, se hará siempre con la intervención judicial como se previno en los medios preparatorios.
+
+ARTICULO 456
+
+Los albaceas necesitan del consentimiento unánime de los herederos para comprometer en árbitros los negocios de la herencia y para nombrar árbitros, salvo cuando se trata de cumplimentar el compromiso o cláusula compromisoria pactados por el autor. En este caso, si no hubiere árbitro nombrado, se nombrará necesariamente con intervención judicial.
+
+ARTICULO 457
+
+Los síndicos de los concursos sólo pueden comprometer en árbitros con unánime consentimiento de los acreedores.
+
+ARTICULO 458
+
+No se pueden comprometer en árbitros los siguientes negocios:
+
+I.- El derecho de recibir alimentos;
+
+II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
+
+III.- Las acciones de nulidad de matrimonio;
+
+IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 270 del Código Civil.
+
+ARTICULO 459
+
+El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
+
+Cuando las partes no hayan designado los árbitros se entienden que se reservan para hacerlo con intervención judicial, como se previene en los medios preparatorios.
+
+ARTICULO 460
+
+El compromiso será válido aunque no se fije término para el juicio arbitral. En este caso la misión de los árbitros durará sesenta días. El plazo se cuenta desde que se acepta el nombramiento.
+
+ARTICULO 461
+
+Durante el plazo del arbitraje los árbitros no podrán ser recusados sino por el consentimiento unánime de las partes.
+
+ARTICULO 462
+
+Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales, si las partes no hubieren convenido otra cosa. Cualquiera que fuere el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
+
+Las partes podrán renunciar a la apelación.
+
+Cuando el compromiso en árbitros se celebre respecto de un negocio en grado de apelación, la sentencia arbitral será definitiva sin ulterior recurso.
+
+ARTICULO 463
+
+El compromiso produce las excepciones de incompetencia y litispendencia, si durante él se promueve el negocio en un tribunal ordinario.
+
+ARTICULO 464
+
+Cuando hay árbitro único, las partes son libres de nombrarle un secretario y si dentro del tercer día empezando desde aquél en que deba de actuar no se han puesto de acuerdo, el árbitro lo designará para que, a costa de los mismos interesados, desempeñe sus funciones.
+
+Cuando fueren varios los árbitros, entre ellos mismos elegirán al que funja como secretario, sin que por esto tenga derecho a mayores emolumentos.
+
+ARTICULO 465
+
+El compromiso termina:
+
+I.- Por muerte del árbitro elegido en el compromiso o en la cláusula compromisoria, si no tuviere substituto. En caso de que no hubieren las partes designado el árbitro sino por intervención del tribunal, el compromiso no se extinguirá y se proveerá al nombramiento del substituto en la misma forma que para el primero;
+
+II.- Por excusa del árbitro o árbitros, que sólo puede ser por enfermedad comprobada que les impida desempeñar su oficio;
+
+III.- Por recusación con causa declarada procedente cuando el árbitro hubiere sido designado por el juez, pues al nombrado de común acuerdo no se le puede recusar;
+
+IV.- Por nombramiento recaído en el árbitro de magistrado, o de juez propietario o interino por más de tres meses; lo mismo se entenderá de cualquier otro empleo de la administración de justicia que impida de hecho o de derecho la función de arbitraje;
+
+V.- Por la expiración del plazo estipulado o del legal a que se refiere el artículo 460.
+
+ARTICULO 466
+
+Los árbitros designados por el juez sólo son recusables por las mismas causas que lo fueren los demás jueces.
+
+ARTICULO 467
+
+Siempre que haya de reemplazarse un árbitro se suspenderán los términos durante el tiempo que pase para hacer el nuevo nombramiento.
+
+ARTICULO 468
+
+El laudo será firmado por cada uno de los árbitros y, en caso de haber más de dos, si la minoría rehusare hacerlo, los otros lo harán constar y la sentencia tendrá el mismo efecto que si hubiere sido firmada por todos. El voto particular no exime de la obligación a que este artículo se refiere.
+
+ARTICULO 469
+
+Si los árbitros no estuvieren autorizados para nombrar un tercero en discordia y no lograren ponerse de acuerdo, acudirán al juez de Primera Instancia para que sea hecho el nombramiento.
+
+ARTICULO 470
+
+Cuando el tercero en discordia fuere nombrado faltando menos de quince días para la extinción del término del arbitraje y las partes no lo prorrogaran, podrá disponer de diez días más, que se sumarán a dicho término para que pueda pronunciar el laudo.
+
+ARTICULO 471
+
+Los árbitros decidirán según las reglas de derecho, a menos que en el compromiso o en la cláusula se les recomiende la amigable composición o el fallo en conciencia.
+
+ARTICULO 472
+
+De las recusaciones y excusas de los árbitros, conocerá el juez ordinario sin ulterior recurso, sujetándose al procedimiento indicado para las recusaciones o excusas de los jueces municipales.
+
+ARTICULO 473
+
+Los árbitros pueden conocer de los incidentes sin cuya resolución no fuere posible decidir el negocio principal. También pueden conocer de las excepciones perentorias, pero no de la reconvención, sino en el caso de que sea opuesta como compensación hasta la cantidad que importe la demanda, o cuando así se haya pactado expresamente.
+
+ARTICULO 474
+
+Los árbitros pueden condenar en costas y en daños y perjuicios a las partes, y aun imponer multas, pero para emplear los medios de apremio deben ocurrir al juez ordinario.
+
+ARTICULO 475
+
+Notificado el laudo, se pasarán los autos al juez ordinario para su ejecución, a no ser que las partes pidieren aclaración de sentencia.
+
+Para la ejecución de autos, se acudirá también al juez de primera instancia.
+
+Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para el juicio.
+
+ARTICULO 476
+
+Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje, y, si hubiere varios jueces de lo civil, el de número más bajo.
+
+ARTICULO 477
+
+Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
+
+ARTICULO 478
+
+La apelación sólo será admisible conforme a las reglas del derecho común.
+
+ARTICULO 479
+
+El juez debe compeler a los árbitros para que cumplan con sus obligaciones.
+
+## TITULO NOVENO. DE LAS TERCERIAS
+
 ### CAPITULO UNICO. ARTICULO 480
 
 En un juicio seguido por dos o más personas pueden venir uno o más terceros, siempre que tenga interés propio y distinto al del actor o reo en la materia del juicio.
@@ -3659,7 +3721,7 @@ ARTICULO 497
 
 Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
 
-## TITULO NOVENO. DE LAS TERCERIAS
+## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
 
 ### CAPITULO UNICO
 
@@ -3693,8 +3755,6 @@ TITULO DECIMOPRIMERO
 
 DEL CAMBIO DE NOMBRE
 
-## TITULO DECIMO. DEL DIVORCIO POR MUTUO CONSENTIMIENTO
-
 ### CAPITULO UNICO. ARTICULO 503
 
 Los cambios de nombre por homonimia contra persona determinada, se ventilarán en la forma que para el juicio establece este Código.
@@ -3707,13 +3767,13 @@ ARTICULO 505
 
 Las sentencias que se pronuncien en esta materia, se comunicarán al Encargado del Registro Civil.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE FEBRERO DE 1992)</small>
 
 TITULO DECIMOSEGUNDO
 
 DE LOS RECURSOS Y DE LA REVISION DE OFICIO
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ### CAPITULO I. De la revocación, reposición, apelación y la revisión de oficio
 
@@ -3805,7 +3865,7 @@ ARTICULO 520
 
 Llegados los autos o el testimonio en su caso al tribunal de segunda instancia, éste, de oficio y dentro del término de tres días, examinará la admisión del recurso y la calificación del grado hecha por el inferior. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación, se procederá en su consecuencia como corresponda, para que a la mayor brevedad se cumplan las disposiciones de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 521
 
@@ -3823,7 +3883,7 @@ ARTICULO 523
 
 Se prohibe en la segunda instancia la práctica de diligencias y trámites inútiles, así como la de pasar los autos a estudio de vocales; éstos se enterarán de ellos sin necesidad de trámite especial alguno.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 524
 
@@ -3943,63 +4003,11 @@ ARTICULO 542
 
 Si las partes no concurrieren a la audiencia, ni enviaren sus alegatos, la resolución será dictada, a más tardar, dentro de tres días.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE MARZO DE 1988)</small>
 
 ### CAPITULO II. De la acumulación de autos
 
 > <small>(ADICIONADO, G.O. 31 DE MARZO DE 1988)</small>
-
-### CAPITULO I. Reglas generales
-
-ARTICULO 543
-
-El concurso de un deudor no comerciante puede ser voluntario o necesario:
-
-Es voluntario, cuando el deudor se desprende de sus bienes para pagar a sus acreedores, presentando por escrito una solicitud acompañada de un estado de su activo y pasivo, con expresión del nombre y domicilio de sus deudores y acreedores y de las causas que hayan motivado su llegada al concurso. Sin estos requisitos no se admitirá la solicitud. No se incluirán en el activo los bienes que no puedan ser embargados.
-
-Es necesario, cuando dos o más acreedores de plazo cumplido han demandado y ejecutado ante uno mismo o diversos jueces a su deudor común y no hay bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
-
-Admitida la solicitud del deudor o tan pronto como los acreedores hayan justificado que aquél está comprendido dentro de lo dispuesto en el párrafo que antecede, el juez declarará formado el concurso.
-
-ARTICULO 544
-
-Declarado el concurso el juez resolverá:
-
-I.- Notificar personalmente al deudor la formación de su concurso necesario;
-
-II.- Hacer saber a los acreedores la formación del concurso mediante la lista de acuerdos y de edictos que se publicarán en la "Gaceta Oficial" y en otro periódico de información que designará el juez. Si hubiere acreedores en el lugar del juicio se les citará por correo o por telégrafo, si fuere necesario;
-
-III.- Nombrar síndico provisional;
-
-IV.- Decretar, para que sean practicados en el mismo día, el embargo y aseguramiento de los bienes, libros, correspondencia y documentos del deudor. En esta diligencia serán selladas las puertas de los almacenes y del despacho del deudor y asegurados los muebles susceptibles de embargo que se hallen en el domicilio del mismo deudor;
-
-V.- Hacer saber a los deudores la prohibición de hacer pagos o entregar efectos al concursado y la orden a éste de entregar los bienes al síndico, bajo el apercibimiento de segunda paga a los primeros y de procederse penalmente en contra del deudor que ocultare cosas de su propiedad;
-
-VI.- Señalar un término no menor de ocho días ni mayor de veinte, para que los acreedores presenten en el juzgado los títulos justificativos de sus créditos con copia para ser entregada al síndico;
-
-VII.- Señalar día y hora para la junta de rectificación y graduación de créditos, la cual deberá celebrarse diez días después de que expire el plazo fijado en la fracción anterior. El día de esta junta y el nombre y domicilio del síndico se harán saber en los edictos a que se refiere la fracción II;
-
-VIII.- Pedir a los jueces ante quienes se tramiten pleitos contra el concursado, los envíen para su acumulación al juicio universal. Se exceptúan los juicios relativos a hipotecas que estén pendientes o se promuevan después, los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley.
-
-ARTICULO 545
-
-El deudor puede oponerse al concurso necesario dentro del tercero día de su declaración. La oposición se substanciará por cuerda separada, sin suspender las medidas a que se refiere el artículo anterior y en forma incidental; la resolución de este incidente será apelable en el efecto devolutivo.
-
-Revocado el auto que declaró abierto el concurso deberán reponerse las cosas al estado que tenían antes. El síndico, en caso de haber realizado actos de administración, deberá rendir cuentas al interesado.
-
-ARTICULO 546
-
-Los acreedores, aun los garantizados con privilegio, hipoteca o prenda, podrán pedir por cuerda separada que se revoque la declaración del concurso, aun cuando el concursado haya manifestado ya su estado o haya consentido el auto judicial respectivo.
-
-ARTICULO 547
-
-El concursado que hubiere hecho cesión de bienes no podrá pedir la revocación de la declaración respectiva, a no ser que alegue y acredite algún error en la apreciación de sus negocios.
-
-En este caso y en el previsto en el artículo anterior, la revocación se tramitará como lo previene el artículo 545.
-
-ARTICULO 548
-
-El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas; si no lo presentare lo hará el síndico.
 
 ###### ARTICULO 542
 
@@ -4140,6 +4148,58 @@ Contra la resolución que se dicte, procederá la apelación en ambos efectos.
 TITULO DECIMOCUARTO
 
 DE LOS CONCURSOS
+
+### CAPITULO I. Reglas generales
+
+ARTICULO 543
+
+El concurso de un deudor no comerciante puede ser voluntario o necesario:
+
+Es voluntario, cuando el deudor se desprende de sus bienes para pagar a sus acreedores, presentando por escrito una solicitud acompañada de un estado de su activo y pasivo, con expresión del nombre y domicilio de sus deudores y acreedores y de las causas que hayan motivado su llegada al concurso. Sin estos requisitos no se admitirá la solicitud. No se incluirán en el activo los bienes que no puedan ser embargados.
+
+Es necesario, cuando dos o más acreedores de plazo cumplido han demandado y ejecutado ante uno mismo o diversos jueces a su deudor común y no hay bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
+
+Admitida la solicitud del deudor o tan pronto como los acreedores hayan justificado que aquél está comprendido dentro de lo dispuesto en el párrafo que antecede, el juez declarará formado el concurso.
+
+ARTICULO 544
+
+Declarado el concurso el juez resolverá:
+
+I.- Notificar personalmente al deudor la formación de su concurso necesario;
+
+II.- Hacer saber a los acreedores la formación del concurso mediante la lista de acuerdos y de edictos que se publicarán en la "Gaceta Oficial" y en otro periódico de información que designará el juez. Si hubiere acreedores en el lugar del juicio se les citará por correo o por telégrafo, si fuere necesario;
+
+III.- Nombrar síndico provisional;
+
+IV.- Decretar, para que sean practicados en el mismo día, el embargo y aseguramiento de los bienes, libros, correspondencia y documentos del deudor. En esta diligencia serán selladas las puertas de los almacenes y del despacho del deudor y asegurados los muebles susceptibles de embargo que se hallen en el domicilio del mismo deudor;
+
+V.- Hacer saber a los deudores la prohibición de hacer pagos o entregar efectos al concursado y la orden a éste de entregar los bienes al síndico, bajo el apercibimiento de segunda paga a los primeros y de procederse penalmente en contra del deudor que ocultare cosas de su propiedad;
+
+VI.- Señalar un término no menor de ocho días ni mayor de veinte, para que los acreedores presenten en el juzgado los títulos justificativos de sus créditos con copia para ser entregada al síndico;
+
+VII.- Señalar día y hora para la junta de rectificación y graduación de créditos, la cual deberá celebrarse diez días después de que expire el plazo fijado en la fracción anterior. El día de esta junta y el nombre y domicilio del síndico se harán saber en los edictos a que se refiere la fracción II;
+
+VIII.- Pedir a los jueces ante quienes se tramiten pleitos contra el concursado, los envíen para su acumulación al juicio universal. Se exceptúan los juicios relativos a hipotecas que estén pendientes o se promuevan después, los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley.
+
+ARTICULO 545
+
+El deudor puede oponerse al concurso necesario dentro del tercero día de su declaración. La oposición se substanciará por cuerda separada, sin suspender las medidas a que se refiere el artículo anterior y en forma incidental; la resolución de este incidente será apelable en el efecto devolutivo.
+
+Revocado el auto que declaró abierto el concurso deberán reponerse las cosas al estado que tenían antes. El síndico, en caso de haber realizado actos de administración, deberá rendir cuentas al interesado.
+
+ARTICULO 546
+
+Los acreedores, aun los garantizados con privilegio, hipoteca o prenda, podrán pedir por cuerda separada que se revoque la declaración del concurso, aun cuando el concursado haya manifestado ya su estado o haya consentido el auto judicial respectivo.
+
+ARTICULO 547
+
+El concursado que hubiere hecho cesión de bienes no podrá pedir la revocación de la declaración respectiva, a no ser que alegue y acredite algún error en la apreciación de sus negocios.
+
+En este caso y en el previsto en el artículo anterior, la revocación se tramitará como lo previene el artículo 545.
+
+ARTICULO 548
+
+El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo, con nombres y domicilios de acreedores y deudores, privilegiados y valistas; si no lo presentare lo hará el síndico.
 
 ### CAPITULO II. De la rectificación y graduación de créditos
 
@@ -4683,7 +4743,7 @@ ARTICULO 640
 
 El interventor solo puede deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, cuando haya hecho esos gastos con autorización previa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 641
 
@@ -4781,7 +4841,7 @@ ARTICULO 659
 
 Aprobada la cuenta general de administración, dentro de los quince días siguientes, presentará el albacea el proyecto de partición de los bienes, en los términos que dispone el Código Civil y con sujeción a este Capítulo, y si no hiciere por sí mismo la partición, lo manifestará al juez dentro de los tres días de aprobada la cuenta, a fin de que se nombre contador que la haga.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 ARTICULO 660
 
@@ -5037,7 +5097,7 @@ DE LA JURISDICCION VOLUNTARIA
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE OCTUBRE DE 2000)</small>
 
 ARTICULO 695
 
@@ -5079,15 +5139,117 @@ Las resoluciones dictadas en jurisdicción voluntaria, son apelables en ambos ef
 
 > <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2000)</small>
 
+###### ARTICULO 699
+
+ARTICULO 699-A
+
+A elección del promovente, podrá tramitarse la jurisdicción voluntaria ante el juez competente o ante notario público en los siguientes casos:
+
+I.- Para justificar hechos y acreditar derechos;
+
+II.- Para acreditar residencia, buena conducta, dependencia económica o el dominio de construcciones de mejora a un inmueble;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2006)</small>
+
+III.- Para acreditar hechos conocidos o acreditar situaciones jurídicas;
+
+IV.- Para comprobar la posesión de un derecho real;
+
+V.- Cambio voluntario de nombre o aclaración de uso indistinto de varios nombres;
+
+VI.- El procedimiento voluntario de apeo y de deslinde;
+
+VII.- La constitución y extinción voluntaria del Patrimonio Familiar;
+
+VIII.- La liquidación voluntaria de la sociedad conyugal, siempre que no existan menores;
+
+IX.- La constitución y modificación voluntaria de capitulaciones matrimoniales;
+
+X.- La sucesión testamentaria o intestada con las limitaciones legales establecidas, y
+
+XI.- La renuncia y el nombramiento unánime de albacea siempre que no existan menores.
+
+Cuando así lo establezca la ley, deberá el notario avisar de sus actuaciones en jurisdicción voluntaria, y proceder a inscribir el testimonio respectivo en el Registro Público de la Propiedad, y en su caso, en el Registro Civil para que se haga la anotación marginal.
+
+De haber oposición al trámite notarial, de inmediato suspenderá su actuación y turnará al juez competente toda la documentación, para que se decida lo conducente.
+
+Las formalidades y requisitos exigidos por este Código siempre serán observadas y de no hacerlo el notario, además de las responsabilidades en que incurran, será responsable del pago de daños y perjuicios que cause.
+
+En los testimonios que expidan los notarios relativos a estas actuaciones, insertará este artículo.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+B
+
+Cuando se trate de diligencias para justificar un hecho, de acreditar un derecho, la residencia, buena conducta, dependencia económica de personas, el dominio sobre construcciones o mejoras de un inmueble o la posesión de un derecho real, podrá hacerse mediante acta levantada ante notario público, con la asistencia de tres testigos idóneos propuestos por el interesado. El notario identificará plenamente al solicitante y a los testigos y hará saber al solicitante que las declaraciones que se obtengan no surten efecto en juicio contencioso; informará a los testigos acerca del objeto de su declaración, haciéndoles saber las penas en que incurren quienes lo hacen con falsedad. El notario tomará la protesta a cada testigo de conducirse con la verdad, los interrogará por separado, sin la presencia del solicitante, los inquirirá sobre aquellos puntos que pueden afectar su credibilidad y sobre los que motivaron la solicitud. En el caso de la información de posesión de un derecho real, se llevará a cabo con la audiencia del propietario y de los demás partícipes del derecho real, cuando los haya, para lo cual, el notario los notificará de conformidad con la Ley del Notariado en vigor. En estos casos, en el testimonio respectivo se señalará claramente que la calidad de poseedor es como usufructuario, acreedor pignoraticio, depositario, usuario, acreedor del derecho real de habitación u otro semejante. El notario levantará acta de lo actuado y expedirá testimonio a los interesados.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+CULO 699-C
+
+Podrán comprobarse ante notario los hechos conocidos y sabidos por todos sobre los cuales puedan ser fundados y declarados derechos y legitimadas situaciones personales o patrimoniales con trascendencia jurídica. El notario, si del examen y calificación de las pruebas y del resultado de las diligencias estimare justificada la notoriedad pretendida, lo expresará así. Cuando además de comprobar la notoriedad, se pretenda el reconocimiento de derechos y la legitimación de situaciones personales y patrimoniales, se pedirá así en el requerimiento inicial y el notario emitirá su opinión sobre los mismos declarándolos formalmente, si resultaren evidentes. Si hubiere oposición de parte interesada, lo hará constar el notario, terminará la diligencia y remitirá lo actuado al juez.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+D
+
+Cuando alguna persona quiera cambiar su nombre o nombres propios que le impusieron sus padres, podrá hacerlo ante notario, exhibiéndole copia certificada del acta de nacimiento o reconocimiento. El notario extenderá acta donde haga constar la solicitud y señalará el nuevo nombre que desee usar el interesado; un extracto de la misma se mandará publicar, por dos veces, con intervalo de diez días en la Gaceta Oficial del estado, y en un periódico de los de mayor circulación en el lugar de residencia del solicitante. Transcurridos quince días, contados a partir de la última publicación, sin que nadie acuda ante el notario a manifestar su inconformidad con el cambio propuesto, levantará el notario una segunda acta donde se haga constar la falta de oposición, se adjuntarán las publicaciones, y se le expedirá al interesado testimonio, desde cuya fecha podrá utilizar el nuevo nombre. Simultáneamente, el notario remitirá copia certificada del testimonio al oficial encargado del Registro Civil del lugar donde conste el asentamiento del interesado, para que haga la anotación que procede al margen de dicha acta o partida de nacimiento.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+E
+
+El notario podrá actuar en diligencia de apeo y deslinde de predios cuando así lo solicite la parte interesada en los siguientes casos: si no se fijaron los límites que separan un predio de otro, o haya motivo fundado para creer que no son exactos; porque se hayan destruido las señales o mojoneras que los marcaban; se hayan confundido con otros del predio contiguo, o se hayan colocado en lugar distinto del que estaba determinado; porque suponga el interesado que el predio tenga una superficie mayor o menor a la que señala el título de propiedad respectivo.
+
+El solicitante deberá exhibir el título con el que acredite la propiedad del bien; plano que contenga la ubicación o localización del mismo, de preferencia con cuadro de construcción señalando rumbos, indicar la parte o partes en que debe practicarse el apeo y deslinde y en su caso, el amojonamiento; proporcionar los nombres completos y domicilios de los colindantes y designar un perito. Reunidos los elementos anteriores, el notario levantará acta donde hará constar la solicitud y el cumplimiento de lo establecido en el párrafo precedente, señalará día y hora para la celebración de la diligencia, lo que notificará a los colindantes, cuando menos tres días hábiles antes de la fecha fijada, para que si tienen interés legítimo que deducir, estén presentes en las mismas, exhiban sus títulos y planos, designen perito y hagan las observaciones que consideren pertinentes. El día y hora señalados para la diligencia, el notario se constituirá en el lugar donde se ubique el inmueble que es objeto de esta diligencia y la practicará con el o los peritos y los interesados que concurran. Efectuado el apeo, o mensura en su caso y realizado sin oposición el deslinde y el amojonamiento si fuese necesario, el notario extenderá un acta expresando todas las circunstancias que deban dar a conocer la línea divisoria de los predios, las mojoneras colocadas o mandadas a colocar, su dirección y distancia una de otra, como también las cuestiones importantes que se hayan suscitado y todas las observaciones de interés que hubiesen hecho los interesados. En caso de oposición de parte interesada, lo hará constar el notario terminará la diligencia y remitirá lo actuado al juez para que resuelvan sus diferencias.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+F
+
+El miembro de la familia que quiera constituir voluntariamente al patrimonio familiar, lo podrá manifestar por escrito ante un notario, el cual comprobará documentalmente los requisitos previstos por los artículos 774 y 775 del Código Civil del Estado. Si se tienen las condiciones exigidas por la ley, el notario declarará constituido el patrimonio familiar sobre el bien indicado y lo inscribirá en el Registro Público de la Propiedad. La misma persona que constituyó el patrimonio familiar puede acudir al notario para que declare su extinción, cuado (sic) deje de tener acreedores alimentarios y tramitará, su inscripción en el Registro Público de la Propiedad. La constitución y extinción del patrimonio de familia no puede hacerse en fraude de acreedores.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+G
+
+Cuando los cónyuges decidan liquidar el régimen matrimonial de sociedad conyugal, podrán acudir ante notario siempre que concurran las siguientes circunstancias:
+
+I.- Que sin desvincularse de su matrimonio, opten por el régimen de separación de bienes;
+
+II.- Que por virtud de sentencia ejecutoria en el divorcio necesario se haya condenado a la liquidación de la sociedad conyugal, y las partes voluntariamente acudan al juez del conocimiento, y éste apruebe el convenio de liquidación de la sociedad conyugal y se formalice ante notario, y
+
+III.- Se declare por sentencia ejecutoriada la nulidad del matrimonio y haya los mismos supuestos indicados para el divorcio necesario en el párrafo anterior.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
+
+###### ARTICULO 699
+
+H
+
+Los cónyuges mayores de edad podrán otorgar voluntariamente ante notario público convenios de modificación a las capitulaciones matrimoniales, a fin de acordar que sólo determinados bienes entrarán en el régimen de sociedad conyugal. El notario dará aviso por escrito de estos convenios al Registro Civil, a fin de que haya la anotación marginal correspondiente al acta de matrimonio; si el convenio implica transferencia de derechos de propiedad sobre inmuebles, el notario lo inscribirá en el Registro Público de la Propiedad para que surta efectos contra terceros.
+
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 ARTICULO 700
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de discapacidad de la persona que va a quedar sujeta a ella.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 La declaración de estado de minoridad o de discapacidad intelectual puede pedirse:
 
@@ -5197,115 +5359,13 @@ ARTICULO 711
 
 Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa lata en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en forma contenciosa, y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto, el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
-
-###### ARTICULO 699
-
-ARTICULO 699-A
-
-A elección del promovente, podrá tramitarse la jurisdicción voluntaria ante el juez competente o ante notario público en los siguientes casos:
-
-I.- Para justificar hechos y acreditar derechos;
-
-II.- Para acreditar residencia, buena conducta, dependencia económica o el dominio de construcciones de mejora a un inmueble;
-
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2006)</small>
-
-III.- Para acreditar hechos conocidos o acreditar situaciones jurídicas;
-
-IV.- Para comprobar la posesión de un derecho real;
-
-V.- Cambio voluntario de nombre o aclaración de uso indistinto de varios nombres;
-
-VI.- El procedimiento voluntario de apeo y de deslinde;
-
-VII.- La constitución y extinción voluntaria del Patrimonio Familiar;
-
-VIII.- La liquidación voluntaria de la sociedad conyugal, siempre que no existan menores;
-
-IX.- La constitución y modificación voluntaria de capitulaciones matrimoniales;
-
-X.- La sucesión testamentaria o intestada con las limitaciones legales establecidas, y
-
-XI.- La renuncia y el nombramiento unánime de albacea siempre que no existan menores.
-
-Cuando así lo establezca la ley, deberá el notario avisar de sus actuaciones en jurisdicción voluntaria, y proceder a inscribir el testimonio respectivo en el Registro Público de la Propiedad, y en su caso, en el Registro Civil para que se haga la anotación marginal.
-
-De haber oposición al trámite notarial, de inmediato suspenderá su actuación y turnará al juez competente toda la documentación, para que se decida lo conducente.
-
-Las formalidades y requisitos exigidos por este Código siempre serán observadas y de no hacerlo el notario, además de las responsabilidades en que incurran, será responsable del pago de daños y perjuicios que cause.
-
-En los testimonios que expidan los notarios relativos a estas actuaciones, insertará este artículo.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-B
-
-Cuando se trate de diligencias para justificar un hecho, de acreditar un derecho, la residencia, buena conducta, dependencia económica de personas, el dominio sobre construcciones o mejoras de un inmueble o la posesión de un derecho real, podrá hacerse mediante acta levantada ante notario público, con la asistencia de tres testigos idóneos propuestos por el interesado. El notario identificará plenamente al solicitante y a los testigos y hará saber al solicitante que las declaraciones que se obtengan no surten efecto en juicio contencioso; informará a los testigos acerca del objeto de su declaración, haciéndoles saber las penas en que incurren quienes lo hacen con falsedad. El notario tomará la protesta a cada testigo de conducirse con la verdad, los interrogará por separado, sin la presencia del solicitante, los inquirirá sobre aquellos puntos que pueden afectar su credibilidad y sobre los que motivaron la solicitud. En el caso de la información de posesión de un derecho real, se llevará a cabo con la audiencia del propietario y de los demás partícipes del derecho real, cuando los haya, para lo cual, el notario los notificará de conformidad con la Ley del Notariado en vigor. En estos casos, en el testimonio respectivo se señalará claramente que la calidad de poseedor es como usufructuario, acreedor pignoraticio, depositario, usuario, acreedor del derecho real de habitación u otro semejante. El notario levantará acta de lo actuado y expedirá testimonio a los interesados.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-CULO 699-C
-
-Podrán comprobarse ante notario los hechos conocidos y sabidos por todos sobre los cuales puedan ser fundados y declarados derechos y legitimadas situaciones personales o patrimoniales con trascendencia jurídica. El notario, si del examen y calificación de las pruebas y del resultado de las diligencias estimare justificada la notoriedad pretendida, lo expresará así. Cuando además de comprobar la notoriedad, se pretenda el reconocimiento de derechos y la legitimación de situaciones personales y patrimoniales, se pedirá así en el requerimiento inicial y el notario emitirá su opinión sobre los mismos declarándolos formalmente, si resultaren evidentes. Si hubiere oposición de parte interesada, lo hará constar el notario, terminará la diligencia y remitirá lo actuado al juez.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-D
-
-Cuando alguna persona quiera cambiar su nombre o nombres propios que le impusieron sus padres, podrá hacerlo ante notario, exhibiéndole copia certificada del acta de nacimiento o reconocimiento. El notario extenderá acta donde haga constar la solicitud y señalará el nuevo nombre que desee usar el interesado; un extracto de la misma se mandará publicar, por dos veces, con intervalo de diez días en la Gaceta Oficial del estado, y en un periódico de los de mayor circulación en el lugar de residencia del solicitante. Transcurridos quince días, contados a partir de la última publicación, sin que nadie acuda ante el notario a manifestar su inconformidad con el cambio propuesto, levantará el notario una segunda acta donde se haga constar la falta de oposición, se adjuntarán las publicaciones, y se le expedirá al interesado testimonio, desde cuya fecha podrá utilizar el nuevo nombre. Simultáneamente, el notario remitirá copia certificada del testimonio al oficial encargado del Registro Civil del lugar donde conste el asentamiento del interesado, para que haga la anotación que procede al margen de dicha acta o partida de nacimiento.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-E
-
-El notario podrá actuar en diligencia de apeo y deslinde de predios cuando así lo solicite la parte interesada en los siguientes casos: si no se fijaron los límites que separan un predio de otro, o haya motivo fundado para creer que no son exactos; porque se hayan destruido las señales o mojoneras que los marcaban; se hayan confundido con otros del predio contiguo, o se hayan colocado en lugar distinto del que estaba determinado; porque suponga el interesado que el predio tenga una superficie mayor o menor a la que señala el título de propiedad respectivo.
-
-El solicitante deberá exhibir el título con el que acredite la propiedad del bien; plano que contenga la ubicación o localización del mismo, de preferencia con cuadro de construcción señalando rumbos, indicar la parte o partes en que debe practicarse el apeo y deslinde y en su caso, el amojonamiento; proporcionar los nombres completos y domicilios de los colindantes y designar un perito. Reunidos los elementos anteriores, el notario levantará acta donde hará constar la solicitud y el cumplimiento de lo establecido en el párrafo precedente, señalará día y hora para la celebración de la diligencia, lo que notificará a los colindantes, cuando menos tres días hábiles antes de la fecha fijada, para que si tienen interés legítimo que deducir, estén presentes en las mismas, exhiban sus títulos y planos, designen perito y hagan las observaciones que consideren pertinentes. El día y hora señalados para la diligencia, el notario se constituirá en el lugar donde se ubique el inmueble que es objeto de esta diligencia y la practicará con el o los peritos y los interesados que concurran. Efectuado el apeo, o mensura en su caso y realizado sin oposición el deslinde y el amojonamiento si fuese necesario, el notario extenderá un acta expresando todas las circunstancias que deban dar a conocer la línea divisoria de los predios, las mojoneras colocadas o mandadas a colocar, su dirección y distancia una de otra, como también las cuestiones importantes que se hayan suscitado y todas las observaciones de interés que hubiesen hecho los interesados. En caso de oposición de parte interesada, lo hará constar el notario terminará la diligencia y remitirá lo actuado al juez para que resuelvan sus diferencias.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-F
-
-El miembro de la familia que quiera constituir voluntariamente al patrimonio familiar, lo podrá manifestar por escrito ante un notario, el cual comprobará documentalmente los requisitos previstos por los artículos 774 y 775 del Código Civil del Estado. Si se tienen las condiciones exigidas por la ley, el notario declarará constituido el patrimonio familiar sobre el bien indicado y lo inscribirá en el Registro Público de la Propiedad. La misma persona que constituyó el patrimonio familiar puede acudir al notario para que declare su extinción, cuado (sic) deje de tener acreedores alimentarios y tramitará, su inscripción en el Registro Público de la Propiedad. La constitución y extinción del patrimonio de familia no puede hacerse en fraude de acreedores.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-G
-
-Cuando los cónyuges decidan liquidar el régimen matrimonial de sociedad conyugal, podrán acudir ante notario siempre que concurran las siguientes circunstancias:
-
-I.- Que sin desvincularse de su matrimonio, opten por el régimen de separación de bienes;
-
-II.- Que por virtud de sentencia ejecutoria en el divorcio necesario se haya condenado a la liquidación de la sociedad conyugal, y las partes voluntariamente acudan al juez del conocimiento, y éste apruebe el convenio de liquidación de la sociedad conyugal y se formalice ante notario, y
-
-III.- Se declare por sentencia ejecutoriada la nulidad del matrimonio y haya los mismos supuestos indicados para el divorcio necesario en el párrafo anterior.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2000)</small>
-
-###### ARTICULO 699
-
-H
-
-Los cónyuges mayores de edad podrán otorgar voluntariamente ante notario público convenios de modificación a las capitulaciones matrimoniales, a fin de acordar que sólo determinados bienes entrarán en el régimen de sociedad conyugal. El notario dará aviso por escrito de estos convenios al Registro Civil, a fin de que haya la anotación marginal correspondiente al acta de matrimonio; si el convenio implica transferencia de derechos de propiedad sobre inmuebles, el notario lo inscribirá en el Registro Público de la Propiedad para que surta efectos contra terceros.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO III. De la Enajenación de Bienes de Menores o Discapacitados y Transacción Acerca de sus Derechos
 
 ARTICULO 712
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o discapacitados y que correspondan a las clases siguientes:
 
@@ -5403,7 +5463,7 @@ ARTICULO 721
 
 Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 327 y 328 del Código Civil, el Tribunal resolverá dentro del tercer día.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 722
 
@@ -5567,13 +5627,13 @@ En el caso previsto por el artículo 825 del Código Civil, se observarán las m
 
 ### CAPITULO IX. Disposiciones relativas a otros actos de jurisdicción voluntaria
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ARTICULO 745
 
 También se tramitarán en jurisdicción voluntaria con intervención del Ministerio Público:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 1988)</small>
 
 I.- La información para obtener la habilitación de edad o para comparecer en juicio, que solicite el mayor de dieciseis años, a fin de comprobar los requisitos que establece el Capítulo I, Título Décimo, Libro Primero del Código Civil o cuando se ignore el paradero de los padres o ascendientes que ejerzan la patria potestad o se nieguen a representarlo;
 
@@ -5821,8 +5881,6 @@ ARTICULO 781
 
 Los jueces municipales no son recusables; pero deben excusarse cuando estén impedidos. Si los jueces impedidos no se excusaren, a queja de parte, el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
-### CAPÍTULO II. De la Sustanciación
-
 ## TRANSITORIOS
 
 ARTICULO 1°
@@ -5885,7 +5943,7 @@ El Secretario de Gobierno
 
 Lic. Miguel Aguillón Guzmán
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 14 DE NOVIEMBRE DE 1940.
 
@@ -6073,7 +6131,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.O. 22 DE FEBRERO DE 2010.
 
-DECRETO No. 818, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 340 DEL CODIGO DE PROCEDIMIENTOS CIVILES.
+DECRETO No. 818, POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 340 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -6081,7 +6139,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 22 DE FEBRERO DE 2010.
 
-DECRETO No. 819, POR EL QUE SE REFORMAN LOS ARTICULOS 284 Y 287 DEL CODIGO DE PROCEDIMIENTOS CIVILES.
+DECRETO No. 819, POR EL QUE SE REFORMAN LOS ARTÍCULOS 284 Y 287 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -6104,6 +6162,10 @@ G.O. 13 DE ABRIL DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
