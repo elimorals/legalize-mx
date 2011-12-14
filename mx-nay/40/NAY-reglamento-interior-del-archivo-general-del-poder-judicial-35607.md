@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-archivo-general-del-poder-judicial-3560
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-17"
-last_updated: "2003-12-17"
+last_updated: "2011-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DEL ARCHIVO JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 2003.
 
@@ -303,3 +305,21 @@ Publíquese en el Boletín de información Judicial; así mismo difúndase media
 Se derogan todas las disposiciones contenidas en el Reglamento de la Secretaria de Acuerdos del Consejo de la Judicatura del Poder Judicial de Nayarit, relativas al Archivo General del Poder Judicial del Estado de Nayarit publicadas con fecha 31 de Enero de 1996.
 
 Presidente del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit, Mag. Lic. Javier Germán Rodríguez Jiménez.- Rúbrica.- El Secretario de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Lic. Pedro Antonio Enriquez Soto.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, debiendo difundirse además en el Boletín Judicial y en la página de transparencia del Poder Judicial.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Archivo Judicial del Poder Judicial de Nayarit, publicado con fecha 17 diecisiete de diciembre de 2003 dos mil tres, bajo decreto número 102.
+
+Artículo Tercero. Se abroga el Acuerdo General Conjunto Del Pleno del Tribunal Superior De Justicia Y del Pleno del Consejo de la Judicatura del Poder Judicial Del Estado que Establece Lineamientos para el Flujo Documental, Depuración y Digitalización del Acervo Archivístico de los Juzgados de Primera Instancia y Tribunal Superior de Justicia, publicado en el periódico Oficial, órgano de Gobierno del Estado, con fecha 17 de marzo de 2004, bajo número de decreto 042.
+
+Artículo Cuarto. Se abroga el Acuerdo General Conjunto del Pleno del Tribunal Superior de Justicia y del Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit, mediante el cual se modifica el diverso que establece lineamientos para el flujo documental, depuración y digitalización del acervo archivístico de los Juzgados de Primera Instancia y Tribunal Superior de Justicia del Estado de Nayarit publicado en el periódico Oficial, órgano de Gobierno del Estado, con fecha 10 de agosto de 2011, bajo número de decreto 024.
+
+Artículo Quinto. Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+Artículo Sexto. La digitalización de los expedientes a que se refiere el artículo 10 fracción 2, se realizará de acuerdo a los medios que permita el presupuesto, no excediendo un término mayor a cinco años, contados a partir de la entrada en vigor del presente reglamento.
+
+Artículo Séptimo. En los casos no previstos el Secretario de Acuerdos del Consejo podrá expedir copia certificada de los documentos que integren el Archivo Judicial.
