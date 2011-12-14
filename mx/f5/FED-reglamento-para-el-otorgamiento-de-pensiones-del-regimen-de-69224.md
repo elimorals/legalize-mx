@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-otorgamiento-de-pensiones-del-regimen-de-692
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-21"
-last_updated: "2009-07-21"
+last_updated: "2011-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69224&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-07-20"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE PENSIONES DEL RÉGIMEN DE CUENTAS INDIVIDUALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de julio de 2009.
 
@@ -291,23 +291,45 @@ Asimismo, se hará del conocimiento de los Familiares Derechohabientes que puede
 
 ### Capítulo IX. Del Ahorro Solidario
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 32.
 
-El Trabajador que opte por el beneficio de ahorro solidario, deberá comunicar su decisión a la Dependencia o Entidad en la que labore, en los meses de noviembre y diciembre del año correspondiente, así como elegir si el descuento aplicable es equivalente al uno o al dos por ciento de su Salario Básico.
+El Trabajador que elija el beneficio de ahorro solidario deberá comunicar su decisión a la Dependencia o Entidad en la que labora, conforme a lo siguiente:
 
-Los Trabajadores de nuevo ingreso o reingreso a la Dependencia o Entidad, tendrán un plazo de dos meses para comunicar su decisión, contados a partir de la fecha de incorporación.
+I. A través del portal en Internet que para tal efecto se determine en las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
-La Dependencia o Entidad deberá cerciorarse que el Trabajador elija alguno de los porcentajes a que se refiere el presente artículo.
+El portal en Internet a que se refiere el párrafo anterior deberá contener un instructivo para la elección, cancelación o modificación del porcentaje del ahorro solidario y la información que se proporcione deberá tener un contenido que sea directo, sencillo, didáctico y de fácil comprensión para los Trabajadores.
 
-La Secretaría emitirá el formato conforme al cual los Trabajadores optarán por el beneficio a que se refiere este artículo, y lo remitirá al Instituto con la finalidad de que éste lo dé a conocer a los Trabajadores por medio de las Dependencias y Entidades.
+El portal en Internet deberá generar un formato para el trámite de elección, cancelación o modificación del porcentaje del ahorro solidario y permitir al Trabajador imprimirlo, y
+
+II. Para el caso de Trabajadores que no tengan acceso al portal en Internet, éstos podrán utilizar el formato impreso correspondiente que para tal efecto les proporcione la Dependencia o Entidad en la que laboren.
+
+Las modificaciones al porcentaje, descuentos o, en su caso, su cancelación se aplicarán en el primer pago periódico de nómina siguiente a que hubiesen transcurrido 30 días naturales a partir de que el Trabajador ingresó su solicitud al portal en Internet o, en su caso, a partir de que presentó el formato impreso ante su Dependencia o Entidad.
+
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33.
 
-En caso de que el Trabajador no elija el porcentaje de la aportación de ahorro solidario de conformidad con el artículo anterior, se mantendrá una aportación solidaria igual a la que haya hecho el año inmediato anterior.
+El Trabajador podrá solicitar el beneficio de ahorro solidario en cualquier momento. La solicitud deberá hacerse conforme a lo establecido en el artículo anterior, así como proporcionar, cuando menos, la siguiente información: nombre completo; Registro Federal de Contribuyentes; Clave Única de Registro de Población; en su caso, correo electrónico, y elegir claramente si el descuento aplicable es equivalente al uno o al dos por ciento de su Sueldo Básico.
+
+Asimismo, el Trabajador podrá solicitar la cancelación del descuento realizado sobre su Sueldo Básico en cualquier tiempo, la cual deberá hacerse conforme a lo establecido en el artículo anterior. Una vez solicitada la cancelación del descuento, el Trabajador podrá darse de alta nuevamente transcurrido un plazo de doce meses, contados a partir de la fecha efectiva en que se dejó de aplicar el descuento.
+
+Tratándose de modificaciones al porcentaje de descuento de su aportación de ahorro solidario, el Trabajador únicamente podrá solicitarlo durante los meses de noviembre y diciembre del año correspondiente.
+
+Para el caso de Trabajadores que hubiesen elegido el beneficio del ahorro solidario y que causen separación por licencia sin goce de sueldo, por enfermedad o por suspensión de los efectos del nombramiento conforme a la legislación aplicable, al momento en que reingresen a laborar no deberán realizar ningún trámite adicional, salvo que deseen cancelar o modificar el porcentaje de descuento aplicado a su Sueldo Básico, para lo cual se sujetarán al procedimiento establecido en el presente Capítulo.
+
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 34.
 
-El Trabajador podrá solicitar en cualquier tiempo, ante la Dependencia o Entidad en la que labore, la cancelación del descuento o la reducción de su aportación de ahorro solidario a un punto porcentual, en el entendido de que tales operaciones se harán efectivas a más tardar dos meses después de que la Dependencia o Entidad reciba la solicitud.
+El Sistema deberá contemplar los mecanismos necesarios para que las Dependencias y Entidades cuenten con la información de los Trabajadores que han elegido el beneficio de ahorro solidario, en línea y tiempo real, a fin de llevar a cabo los descuentos correspondientes de manera oportuna.
+
+Las Dependencias y Entidades, a través del Sistema, deberán remitir la información relativa al entero de las cantidades en materia de ahorro solidario. Una vez recibida la información antes señalada en el Sistema, las empresas operadoras de la Base de Datos Nacional SAR comunicarán a las Administradoras y a PENSIONISSSTE lo conducente, para la dispersión de los recursos involucrados en las Cuentas Individuales de los Trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 bis.- En caso de que los servidores públicos encargados de realizar los descuentos y depósitos en materia de Ahorro Solidario a cargo de las Dependencias o Entidades respectivas, incumplan en los términos referidos en el presente Capítulo, responderán administrativamente por tal incumplimiento, sin perjuicio de que se realicen los descuentos y depósitos correspondientes a favor del Trabajador involucrado. Lo anterior, sin menoscabo de las sanciones civiles o penales a que hubiese lugar.
 
 ### Capítulo X. Del Procedimiento de Revisión de Documentos
 
@@ -469,6 +491,16 @@ En estos casos, los Trabajadores podrán utilizar su Firma Electrónica Avanzada
 
 Los formatos que en términos de este Reglamento deben expedir la Secretaría y el Instituto se publicarán en el Diario Oficial de la Federación.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO QUINTO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 57.
+
+Previo acuerdo con la Secretaría, el Instituto podrá establecer en los convenios que celebre con los gobiernos de las Entidades Federativas o de los municipios y sus Dependencias y Entidades, los procedimientos necesarios para que, con cargo al presupuesto de éstos, el Gobierno Federal a través de medios electrónicos, por abono que realice la Tesorería de la Federación a las cuentas bancarias de los Trabajadores de que se trate, realice el entero de las aportaciones correspondientes a las subcuentas de retiro, cesantía en edad avanzada y vejez y ahorro solidario.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -506,3 +538,17 @@ SEXTO.- A más tardar el 30 de noviembre de 2009, el Instituto remitirá a la Se
 Con base en lo anterior, la Secretaría realizará la emisión de los Bonos de Pensión de los Trabajadores a que se refiere el presente artículo, antes del 30 de diciembre de 2009.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de julio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones de carácter general a que se refiere la fracción I del artículo 32, deberán ser publicadas en el Diario Oficial de la Federación dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- Para efecto de lo previsto por la fracción II del artículo 32, se deberá considerar el Formato para optar por el beneficio del ahorro solidario aplicable a los trabajadores incorporados al régimen de cuentas individuales del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el día 31 de julio de 2009, en tanto no se emita un nuevo formato.
+
+CUARTO.- Los Trabajadores que ya cuenten con el beneficio del ahorro solidario tramitado ante su Dependencia o Entidad a la fecha de entrada en vigor del presente Decreto, no deberán realizar ningún trámite adicional, salvo que deseen cancelar o modificar el porcentaje de descuento aplicado a su Sueldo Básico, para lo cual se sujetarán al procedimiento establecido en el presente Decreto.
+
+QUINTO.- Los Trabajadores que hubieran elegido el beneficio del ahorro solidario y lo comuniquen a la Dependencia o Entidad en la que laboren antes de la entrada en vigor del presente Decreto, se sujetarán al procedimiento establecido en las disposiciones vigentes que se encontraban en el momento de elegir dicho beneficio.
