@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-de-la-687
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-01"
-last_updated: "2009-06-01"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DEL TRABAJO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DE LA SECRETARIA DEL TRABAJO
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DE LA SECRETARÍA DEL TRABAJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 1 de junio de 2009.
 
@@ -79,7 +79,9 @@ XI.- Unidad de Asesoría de la Secretaría del Trabajo. Vocal.
 
 XII.- Invitados que el Secretario Técnico convoque.
 
-Con excepción del Presidente, cada integrante del Comité, designará un suplente, quien deberá ser preferentemente de rango inmediato inferior. Podrá asistir a las sesiones del Comité en ausencia temporal del titular, con las mismas facultades, obligaciones y responsabilidades de éste.
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2011)</small>
+
+Cada integrante del Comité, designará un suplente, quien deberá ser preferentemente de rango inmediato inferior. Podrá asistir a las sesiones del Comité en ausencia temporal del titular, con las mismas facultades, obligaciones y responsabilidades de éste.
 
 ###### ARTICULO 4.
 
@@ -426,3 +428,9 @@ EL JEFE DE LA UNIDAD DE ASESORIA DE LA SECRETARIA
 LIC. J. G. FEDERICO SALINAS ORTEGA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 15 DE DICIEMBRE DE 20011.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
