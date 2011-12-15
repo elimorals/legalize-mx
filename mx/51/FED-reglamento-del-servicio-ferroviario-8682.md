@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-ferroviario-8682"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-30"
-last_updated: "2000-08-08"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8682&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-26"
 
 REGLAMENTO DEL SERVICIO FERROVIARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de septiembre de 1996.
 
@@ -123,11 +123,21 @@ La Secretaría podrá realizar las visitas de verificación que considere conven
 
 Dentro de los treinta días hábiles siguientes contados a partir de la fecha en que se hubiera recibido la respuesta del concesionario o vencido el plazo señalado en el artículo anterior, la Secretaría resolverá lo conducente conforme al artículo 9 de la Ley, en el entendido de que si, de acuerdo con los límites y condiciones contenidos en el título del concesionario original, le corresponde únicamente a éste prestar el servicio público de transporte ferroviario objeto de la petición sobre esa vía general de comunicación, y él manifiesta su inconformidad para que a su vez un tercero preste dicho servicio, la Secretaría no otorgará concesión a terceros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 9.
 
-Los estados o municipios interesados en que, en términos del artículo 10 de la Ley, se les otorgue una asignación para construir, operar o explotar una vía general de comunicación ferroviaria o prestar el servicio público de transporte ferroviario, deberán presentar ante la Secretaría una solicitud suscrita por el gobierno de la entidad o municipio, según corresponda, que comprenda:
+Las entidades federativas, municipios o delegaciones políticas, interesados en que, en términos del artículo 10 de la Ley, se les otorgue una asignación para construir, operar o explotar una vía general de comunicación ferroviaria o prestar el servicio público de transporte ferroviario, deberán presentar ante la Secretaría una solicitud suscrita por el gobierno de la entidad, municipio o delegación política, según corresponda, que comprenda:
 
-I. Los motivos por los cuales desean prestar el servicio ferroviario correspondiente;
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+I. Los motivos por los cuales desean realizar cualquiera de las actividades siguientes:
+
+a) Construir, operar o explotar una vía general de comunicación ferroviaria;
+
+b) Prestar el servicio ferroviario correspondiente, o
+
+c) Realizar ambas actividades descritas en los incisos anteriores.
 
 II. El objeto y plazo de la asignación;
 
@@ -135,7 +145,9 @@ III. La ubicación y características de los inmuebles en los que se construirá
 
 IV. El programa de obras, rehabilitación o modernización;
 
-V. El análisis sobre los aspectos técnicos y operacionales conforme a los cuales se pretende prestar el servicio;
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+V. El análisis sobre los aspectos técnicos y operacionales conforme a los cuales se pretende construir, operar o explotar una vía general de comunicación ferroviaria o prestar el servicio;
 
 VI. Los estudios de mercado, programas de inversión y financiamiento;
 
@@ -149,11 +161,13 @@ La Secretaría evaluará las solicitudes a que se refiere el artículo anterior,
 
 Los interesados deberán demostrar su capacidad técnica, administrativa y financiera.
 
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 11.
 
-La Secretaría, en un plazo no mayor de 180 días naturales, en su caso, otorgará la asignación cuando el estado o municipio respectivo reúna los requisitos establecidos en la Ley y este Reglamento; se aseguren las mejores condiciones económicas para el Estado y se garantice la calidad, eficiencia y seguridad en la prestación del servicio ferroviario.
+La Secretaría, en un plazo no mayor de ciento ochenta días naturales, en su caso, otorgará la asignación cuando la entidad federativa, municipio o delegación política reúna los requisitos establecidos en la Ley y este Reglamento, se aseguren las mejores condiciones económicas para el Estado y se garantice la calidad, eficiencia y seguridad en la prestación del servicio ferroviario.
 
-En caso de que la Secretaría estime improcedente la petición, comunicará al estado o municipio las razones de ello, en un plazo máximo de 60 días naturales de recibida la solicitud correspondiente. Si la Secretaría lo estima conveniente, podrá licitar la concesión respecto de la vía férrea o el servicio ferroviario de que se trate.
+En caso de que la Secretaría estime improcedente la petición, comunicará a la entidad federativa, municipio o delegación política las razones de ello, en un plazo máximo de sesenta días naturales de recibida la solicitud correspondiente. Si la Secretaría lo estima conveniente, podrá licitar la concesión respecto de la vía férrea o el servicio ferroviario de que se trate.
 
 ###### Artículo 12.
 
@@ -161,13 +175,17 @@ Tratándose de entidades paraestatales de la Administración Pública Federal qu
 
 A las empresas de participación estatal mayoritaria en cuyo capital participe transitoriamente el Gobierno Federal, les será otorgado un título de concesión. En estos casos, los procesos de desincorporación correspondientes se realizarán en términos de lo dispuesto en las fracciones IV a VII del artículo 9 de la Ley, y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-El Gobierno Federal tendrá el derecho de percibir una participación de los ingresos que obtengan los estados, municipios y entidades paraestatales de la Administración Pública Federal a los que se les haya otorgado una asignación en los términos del artículo 10 de la Ley, la cual se fijará en el título respectivo.
+El Gobierno Federal tendrá el derecho de percibir una participación de los ingresos que obtengan la entidad federativa, municipios, delegaciones políticas y entidades paraestatales de la Administración Pública Federal a los que se les haya otorgado una asignación en los términos del artículo 10 de la Ley, la cual se fijará en el título respectivo.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-Las asignaciones que se otorguen a los estados, municipios o entidades paraestatales de la Administración Pública Federal quedarán sujetas a las disposiciones que respecto de las concesiones establecen la Ley, este Reglamento y demás disposiciones aplicables.
+Las asignaciones que se otorguen a la entidad federativa, municipios, delegaciones políticas o entidades paraestatales de la Administración Pública Federal quedarán sujetas a las disposiciones que respecto de las concesiones establecen la Ley, este Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 15.
 
@@ -189,9 +207,11 @@ Las solicitudes de prórroga de una concesión deberán presentarse por escrito,
 
 ### Capítulo III. De los permisos y autorizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-Los interesados en obtener los permisos a que se refieren las fracciones I, II y IV del artículo 15 de la Ley, deberán presentar la solicitud correspondiente en el formato que para tal efecto emita la Secretaría, y acompañar los documentos que en el mismo se indiquen.
+Los interesados en obtener los permisos a que se refieren las fracciones I, II y IV del artículo 15 de la Ley deberán presentar la solicitud correspondiente en el formato que para tal efecto publique la Secretaría en el Diario Oficial de la Federación, y acompañar los documentos que en el mismo se indiquen.
 
 Los solicitantes deberán reunir los siguientes requisitos:
 
@@ -207,7 +227,13 @@ V. Que los servicios o las obras objeto de la solicitud reúnan las condiciones 
 
 VI. Que los servicios o las obras objeto de la solicitud reúnan las condiciones de seguridad necesarias para evitar que se afecte la vía general de comunicación ferroviaria o la prestación de los servicios ferroviarios.
 
-Las solicitudes para instalar anuncios y señales publicitarias en el derecho de vía, deberán reunir los requisitos señalados en las fracciones II y VI anteriores.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+Las solicitudes para instalar anuncios y señales publicitarias en el derecho de vía, deberán reunir los requisitos señalados en las fracciones I, II y VI anteriores.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+En caso de que las solicitudes no contengan los datos o no cumplan con los requisitos antes señalados, la Secretaría prevendrá a los interesados, por escrito y por una sola vez, en un plazo que no excederá de diez días hábiles, contados a partir de que se reciba la solicitud, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación correspondiente. Transcurrido el plazo citado sin desahogar la prevención por parte de los interesados, se desechará el trámite. Asimismo, si pasado el plazo señalado sin que la Secretaría prevenga las deficiencias, ésta no podrá rechazar las solicitudes por falta de información.
 
 ###### Artículo 19.
 
@@ -215,17 +241,21 @@ Se exceptúan de los requisitos señalados en el artículo anterior las solicitu
 
 En este supuesto, los solicitantes deberán acreditar que los servicios u obras reúnen las condiciones técnicas y operativas requeridas, así como de seguridad necesarias para evitar que se afecte la vía general de comunicación ferroviaria o la prestación de los servicios ferroviarios.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-Las solicitudes de autorización para realizar las instalaciones u obras a que se refiere el artículo 34 de la Ley, deberán acompañar el proyecto en el que se especifiquen la naturaleza, características, ubicación y tiempo estimado para la realización de la obra.
+A las solicitudes de autorización para realizar las instalaciones u obras a que se refiere el artículo 34 de la Ley, se deberá acompañar el proyecto en el que se especifiquen la naturaleza, características, ubicación y tiempo estimado para la realización de la obra.
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+En caso de que las solicitudes no contengan los datos o no cumplan con los requisitos señalados en el párrafo anterior, la Secretaría prevendrá a los interesados, por escrito y por una sola vez, en un plazo que no excederá de diez días hábiles, contados a partir de que se reciba la solicitud, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación correspondiente. Transcurrido el plazo citado sin desahogar la prevención por parte de los interesados, se desechará el trámite. Asimismo, si pasado el plazo señalado sin que la Secretaría prevenga las deficiencias, ésta no podrá rechazar las solicitudes por falta de información.
 
-La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de cuarenta y cinco días naturales contado a partir de aquél en que se presente la solicitud.
+La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de cuarenta y cinco días naturales, contados a partir de aquél en que se haya desahogado la prevención a que se refiere el párrafo anterior, en caso de no existir ésta, el plazo se contará desde la presentación de la solicitud.
+
+La vigencia de las autorizaciones será indefinida.
 
 ###### Artículo 21.
 
-En caso de que las solicitudes de permiso o autorización no cumplan con los requisitos señalados en los artículos 18 a 20 de este Reglamento, respectivamente, la Secretaría lo comunicará por escrito al interesado en un plazo que no excederá de diez días hábiles contados a partir de la fecha en que se reciba la solicitud. Transcurrido dicho plazo sin que la Secretaría comunique las deficiencias respectivas, ésta no podrá rechazar las solicitudes de permiso o autorización por falta de información.
+(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 ###### Artículo 22.
 
@@ -273,15 +303,19 @@ II. Para instalación de anuncios y señales publicitarias en el derecho de vía
 
 III. Para accesos, puentes sobre vías férreas, cruzamientos e instalaciones marginales en el derecho de vía, el plazo será indefinido.
 
-> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-Tratándose de las instalaciones y obras a que se refiere el artículo 34 de la Ley, la vigencia de las autorizaciones será indefinida.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-La vigencia de los permisos y autorizaciones podrá ser renovada a solicitud del interesado, siempre que lo solicite con tres meses de anticipación a la fecha de vencimiento respectiva, y hubiera cumplido con lo dispuesto en la Ley, este Reglamento, así como con los reglamentos y las Normas aplicables, y las condiciones previstas en el permiso o autorización correspondiente. La Secretaría resolverá lo conducente dentro de los noventa días naturales siguientes a la presentación de la solicitud, debidamente integrada.
+La vigencia de los permisos podrá ser renovada a solicitud del interesado, siempre que lo solicite con tres meses de anticipación a la fecha de vencimiento respectiva y hubiera cumplido con lo dispuesto en la Ley, este Reglamento, así como con los reglamentos y las Normas aplicables, y las condiciones previstas en el permiso correspondiente. La Secretaría resolverá lo conducente dentro de los veintidós días naturales siguientes a la presentación de la solicitud, debidamente integrada.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La solicitud mencionada en el párrafo anterior deberá estar acompañada del documento que acredite la propiedad, posesión o aprovechamiento del inmueble en el que se pretenden prestar los servicios objeto del permiso.
 
 ###### Artículo 27.
 
-Los concesionarios, permisionarios y autorizados sólo podrán iniciar las actividades correspondientes hasta que entreguen a la Secretaría las constancias de las pólizas de seguros que deban contratarse, exhiban la garantía que, en su caso, se les solicite y cumplan con las demás condiciones que para tal efecto establezca la Ley, este Reglamento, así como el título de concesión, permiso o autorización respectivo.
+(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 ## Título segundo. De la vía general de comunicación ferroviaria
 
@@ -337,15 +371,25 @@ La construcción o reconstrucción de vías férreas deberá llevarse a cabo con
 
 El concesionario dará aviso a la Secretaría de la terminación de la obra, dentro de los quince días naturales siguientes a dicha conclusión.
 
-Se exceptúa de lo dispuesto en el presente artículo la realización de trabajos de urgencia y de mantenimiento, en cuyo caso se estará a lo que establece este Reglamento.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+Se exceptúa de lo dispuesto en el presente artículo la realización de trabajos de urgencia, de mantenimiento y los trabajos menores de construcción en cuyo caso se estará a lo que establece este Reglamento.
 
 ###### Artículo 37.
 
 El proyecto ejecutivo deberá contener, cuando menos, la ubicación de los inmuebles en los que se construirá la obra y el régimen jurídico de los mismos; la descripción y planos del proyecto; las características y condiciones generales de operación; el programa de obra e inversión y, en su caso, las condiciones de mercado, así como cualquier otro documento o información relacionada que la Secretaría requiera.
 
-La documentación e información a que se refiere el párrafo anterior deberá presentarse de conformidad con el instructivo que al efecto expida la Secretaría.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-La Secretaría resolverá lo conducente dentro de los noventa días naturales siguientes a que se presente e integre debidamente el proyecto ejecutivo, siempre que, en su caso, el título de concesión respectivo no establezca un plazo distinto.
+En la construcción de instalaciones para la prestación de servicios auxiliares deberá llevarse a cabo con apego al proyecto ejecutivo previamente aprobado por la Secretaría, el cual contendrá la información señalada en el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+En caso de que el proyecto ejecutivo no cumpla con los requisitos señalados en los párrafos anteriores, la Secretaría prevendrá a los interesados, por escrito y por una sola vez, en un plazo que no excederá de diez días hábiles, contados a partir de que se reciba la solicitud, para que subsanen la omisión dentro del término de cinco días hábiles contados a partir de que haya surtido efectos la notificación correspondiente. Transcurrido el plazo citado sin desahogar la prevención por parte de los interesados, se desechará el trámite. Asimismo, si pasado el plazo señalado sin que la Secretaría prevenga las deficiencias, ésta no podrá rechazar las solicitudes por falta de información.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría emitirá la resolución correspondiente en un plazo que no excederá de cuarenta y cinco días naturales, contados a partir de aquél en que se haya desahogado la prevención a que se refiere el párrafo anterior, en caso de no existir ésta, el plazo se contará desde la presentación del proyecto ejecutivo, siempre que en su caso, el título de concesión respectivo no establezca un plazo distinto.
 
 ###### Artículo 38.
 
@@ -655,6 +699,18 @@ II. Cuando no se reúnan los requisitos establecidos en este Reglamento u otras 
 
 El equipo tractivo que transite en una vía general de comunicación ferroviaria estará marcado con la inicial y número que la Secretaría le asigne, así como su peso y la potencia nominal de tracción, de acuerdo con las Normas.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+Para la asignación de la inicial y el número a que se refiere el párrafo anterior, el interesado deberá presentar la solicitud correspondiente, acompañándose con los documentos que contengan las especificaciones técnicas de fabricación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+En caso de que las solicitudes no contengan la información o documentación señalados en el párrafo anterior, la Secretaría prevendrá a los interesados, por escrito y por una sola vez, en un plazo que no excederá de tres días hábiles, contados a partir de que se reciba la solicitud, para que subsanen las omisiones dentro del término de dos días hábiles contados a partir de que haya surtido efectos la notificación correspondiente. Transcurrido el plazo citado sin desahogar la prevención por parte de los interesados, se desechará el trámite.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría emitirá la resolución en un plazo de doce días naturales, contados a partir del día siguiente al que se haya desahogado la prevención o en caso de que la Secretaría no haya prevenido al interesado, a partir de la presentación de su solicitud.
+
 ###### Artículo 78.
 
 El equipo tractivo de control que se utilice en las vías férreas deberá contar, cuando menos, con velocímetro y un sistema que permita la grabación y que registre con precisión los parámetros de operación, en los términos que establezcan las Normas aplicables.
@@ -666,6 +722,18 @@ Toda unidad de equipo tractivo deberá contar con una bitácora, la cual se tend
 ###### Artículo 80.
 
 El equipo de arrastre que transite en una vía general de comunicación ferroviaria deberá exhibir de manera visible, cuando menos, la inicial y número que la Secretaría le asigne, así como la clase, tara, capacidad de carga y otras especificaciones técnicas relativas a las dimensiones del equipo, y tener en forma disponible copia del reporte de la última inspección, de acuerdo con las Normas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+Para la asignación de la inicial y el número a que se refiere el párrafo anterior, el interesado deberá presentar la solicitud correspondiente en el formato que para tal efecto la Secretaría publique en el Diario Oficial de la Federación, acompañándose con los documentos que contengan las especificaciones técnicas de fabricación.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+En caso de que las solicitudes no contengan la información o documentación señalados en el párrafo anterior, la Secretaría prevendrá a los interesados, por escrito y por una sola vez, en un plazo que no excederá de tres días hábiles, contados a partir de que se reciba la solicitud, para que subsanen las omisiones dentro del término de dos días hábiles contados a partir de que haya surtido efectos la notificación correspondiente. Transcurrido el plazo citado sin desahogar la prevención por parte de los interesados, se desechará el trámite.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría emitirá la resolución en un plazo de doce días naturales, contados a partir del día siguiente al que se haya desahogado la prevención o en caso de que la Secretaría no haya prevenido al interesado, a partir de la presentación de su solicitud.
 
 ###### Artículo 81.
 
@@ -801,17 +869,27 @@ Dichos documentos deberán ser formulados de manera clara y precisa, ajustarse a
 
 El personal cuyas actividades deban sujetarse al reglamento interno de transporte y los Horarios, tendrán la obligación de portar un ejemplar de los mismos durante el desempeño de sus funciones, en el entendido de que tratándose de los Horarios, éstos corresponderán a la ruta que operen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 99.
 
-El reglamento interno de transporte tendrá como finalidad regular las operaciones ferroviarias del concesionario, y deberá contener, cuando menos, lo siguiente:
+El reglamento interno de transporte tiene por objeto regular las operaciones ferroviarias del concesionario, y deberá contener, cuando menos, lo siguiente:
 
 I. Definiciones de los términos utilizados en el propio documento; interpretación de los Horarios y de las señales manuales, sonoras, fijas, luminosas, semiautomáticas o automáticas y de precaución; modalidad del movimiento de equipo ferroviario según sean los sistemas de control de tránsito de trenes adoptados; modelos de órdenes de tren; parlamentos, y reglas para tripulantes, despachadores de trenes, personal de terminales, personal de vía, así como cualquier otra relacionada con la operación;
 
 II. Las medidas de seguridad necesarias para el buen funcionamiento del equipo ferroviario, y particularmente los estándares de las presiones de operación de los sistemas de frenos de aire y procedimientos para su prueba, inspección y preparación en el equipo tractivo y de arrastre, antes y durante su recorrido;
 
-III. Procedimientos para que el personal realice las maniobras que garanticen la seguridad en la operación ferroviaria, y
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-IV. Disposiciones de comportamiento y desempeño del personal, y las características de las prendas reglamentarias que éste deberá utilizar en sus labores.
+III. Procedimientos para que el personal realice las maniobras que garanticen la seguridad en la operación ferroviaria;
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+IV. Disposiciones de comportamiento y desempeño del personal, y las características de las prendas reglamentarias que éste deberá utilizar en sus labores, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+V. Sistema de control de tránsito de trenes.
 
 ###### Artículo 100.
 
@@ -1191,9 +1269,7 @@ Los centros de abasto deberán contar con un sistema de control y registro del c
 
 ###### Artículo 140.
 
-Los concesionarios y permisionarios que pretendan construir instalaciones para la prestación de servicios auxiliares, deberán someter a la aprobación previa de la Secretaría un proyecto ejecutivo, mismo que deberá sujetarse a lo señalado en el artículo 37 de este Reglamento.
-
-La Secretaría resolverá lo conducente dentro de los noventa días naturales siguientes a que se presente dicha información debidamente integrada.
+(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 ###### Artículo 141.
 
@@ -1231,7 +1307,9 @@ Los interesados en obtener la licencia federal ferroviaria deberán cumplir con 
 
 I. Haber cumplido 18 años de edad;
 
-II. No haber sido condenado por delitos dolosos de carácter grave ni encontrarse en ninguno de los supuestos de la fracción II del artículo 450 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal;
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+II. No haber sido condenado por delitos dolosos de carácter grave ni encontrarse en ninguno de los supuestos de la fracción II del artículo 450 del Código Civil Federal;
 
 III. Aprobar los exámenes médicos psicofísicos que señale la Secretaría y presentar el certificado expedido por un médico que cumpla con los requisitos a que se refiere el siguiente artículo;
 
@@ -1243,7 +1321,9 @@ V. No encontrarse en los supuestos del artículo 153 de este Reglamento, y
 
 VI. Cubrir el pago de los derechos correspondientes.
 
-La Secretaría resolverá las solicitudes que se presenten dentro de los treinta días naturales siguientes a que se cuente con los resultados de los exámenes médicos psicofísicos y la acreditación de los conocimientos, habilidades y destrezas requeridos.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría resolverá las solicitudes que se presenten dentro de los catorce días naturales siguientes a que se cuente con los resultados de los exámenes médicos psicofísicos y la acreditación de los conocimientos, habilidades y destrezas requeridos.
 
 ###### Artículo 147.
 
@@ -1389,9 +1469,11 @@ La solicitud correspondiente deberá presentarse ante la Secretaría cuando meno
 
 En caso de que el concesionario o permisionario pretenda interrumpir permanentemente en forma total los servicios ferroviarios, se estará a lo dispuesto por el artículo 20, fracción II de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 168.
 
-La Secretaría resolverá las solicitudes de interrupción del servicio ferroviario, en un plazo que no excederá de treinta días naturales contados a partir de la presentación de la misma.
+La Secretaría resolverá las solicitudes de interrupción del servicio ferroviario, en un plazo que no excederá de veinticinco días naturales contados a partir de la presentación de la misma.
 
 La resolución respectiva establecerá el plazo a partir del cual el concesionario podrá interrumpir la prestación del servicio, pero en todo caso ésta estará condicionada a que el concesionario, dentro de los diez días naturales siguientes a la notificación correspondiente, la publique en el periódico oficial de la entidad o entidades en que se interrumpirá la prestación de los servicios y exhiba una copia en lugar visible en las terminales de la ruta correspondiente.
 
@@ -1411,9 +1493,11 @@ Las tarifas serán determinadas libremente por los concesionarios y permisionari
 
 Las tarifas y sus reglas de aplicación deberán presentarse para su registro ante la Secretaría, con un mínimo de diez días hábiles de anticipación a su aplicación, en los formatos impresos o magnéticos que, en su caso, se establezcan. Cuando las tarifas presentadas a registro no se ajusten a los formatos correspondientes, serán devueltas sin registrar dentro de los diez días hábiles siguientes a su presentación.
 
-Las tarifas registradas serán las máximas aplicables y a partir de ellas los concesionarios y permisionarios podrán estructurar promociones y otorgar descuentos a los usuarios en igualdad de circunstancias, de manera equitativa y no discriminatoria, atendiendo a las características específicas de cada servicio, de acuerdo con las clasificaciones que se establezcan de conformidad con el presente Reglamento.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-En la aplicación de las tarifas, los concesionarios estarán obligados a separar el componente en costos originado en el extranjero del generado en México.
+Las tarifas registradas serán las máximas aplicables y a partir de ellas los concesionarios y permisionarios podrán otorgar, con base en los términos y condiciones que establezcan, promociones y descuentos a los usuarios, siempre y cuando estos términos y condiciones garanticen que la aplicación de promociones y descuentos se realizarán de manera equitativa y no discriminatoria, en igualdad de circunstancias. Asimismo, las promociones y descuentos atenderán a las características específicas de cada servicio, de acuerdo con las clasificaciones que se establezcan de conformidad con el presente Reglamento.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 171.
 
@@ -1581,11 +1665,19 @@ En caso de pérdida total de la carga, la reclamación deberá presentarse dentr
 
 Los daños y perjuicios causados por omisión, inexactitud o falsedad en las declaraciones respecto de las características y condiciones de la carga, serán responsabilidad del remitente.
 
-#### Sección tercera. De los daños a terceros en sus personas y en sus bienes
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+#### Sección tercera
+
+De los daños a terceros en sus personas y en sus bienes, a las vías generales de comunicación, así como cualquier otro daño que pudiera generarse.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 188.
 
-En términos del artículo 53 de la Ley, los concesionarios garantizarán el pago de las indemnizaciones por los daños que puedan ocasionarse a terceros en sus personas y en sus bienes, a las vías generales de comunicación, así como cualquier otro que pudiera generarse por el equipo o por la carga, mediante la contratación de seguros que cubran íntegramente los riesgos antes señalados.
+En atención al artículo 53 de la Ley, los concesionarios, permisionarios y autorizados garantizarán el pago de las indemnizaciones por los daños que ocasionen a terceros en sus personas y en sus bienes y a las vías generales de comunicación cuando dichos daños sean originados por la prestación de los servicios, realización de instalaciones a que se refiere el artículo 34 de la Ley, ejecución de las obras o cualquier otra actividad relacionada con la construcción, conservación y mantenimiento de las vías férreas o de la operación y explotación de éstas, objeto de la concesión, permiso o autorización, mediante la contratación de seguros que cubran íntegramente los riesgos antes señalados.
+
+Asimismo, los concesionarios, permisionarios y autorizados deberán contratar un seguro que cubra los daños que se originen por desastres naturales a la prestación de los servicios, a las vías férreas, instalaciones y demás obras que se construyan con motivo de la operación y explotación de las vías férreas.
 
 ###### Artículo 189.
 
@@ -1593,9 +1685,11 @@ En los casos en que se dañe la vía general de comunicación ferroviaria, el co
 
 #### Sección cuarta. De las responsabilidades de los permisionarios y autorizados
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 190.
 
-Las personas que cuenten con permisos o autorizaciones, serán responsables por los daños que se causen a las vías férreas y a terceros con motivo de la prestación de los servicios o por defectos o vicios ocultos en las construcciones que realicen o en los trabajos de instalación, reparación y conservación.
+Los permisionarios y autorizados serán responsables por los daños que se causen a las vías férreas y a terceros en sus personas y en sus bienes con motivo de la prestación de los servicios, ejecución de las obras o por defectos o vicios ocultos en las construcciones que realicen o en los trabajos de instalación, reparación y conservación.
 
 ###### Artículo 191.
 
@@ -1603,17 +1697,21 @@ Tratándose de terminales de carga que reciban mercancías para su consolidació
 
 ###### Artículo 192.
 
-Los permisionarios y autorizados garantizarán mediante la contratación de seguros que cubran íntegramente los riesgos correspondientes al pago de las indemnizaciones por los daños que se ocasionen a terceros en sus personas y en sus bienes, a las vías generales de comunicación, así como cualquier otro que pudiera generarse por la prestación de los servicios, las instalaciones o ejecución de las obras.
+(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 #### Sección quinta. Disposiciones comunes
 
 ###### Artículo 193.
 
-La Secretaría fijará anualmente los montos mínimos que deberán cubrir los seguros a que se refiere el presente Capítulo.
+(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 194.
 
-Los concesionarios, permisionarios y autorizados no podrán iniciar o, en su caso, continuar la ejecución de las obras o prestación de los servicios objeto de la concesión, permiso o autorización respectivos, en tanto la Secretaría apruebe las pólizas de seguros y sus renovaciones, según corresponda, que en los términos de la Ley y de este Reglamento deben contratar.
+Los concesionarios, permisionarios y autorizados sólo podrán iniciar, o en su caso, continuar la ejecución de las obras, la prestación de los servicios o realizar las instalaciones, objeto de la concesión, permiso o autorización respectivos, hasta que entreguen a la Secretaría las pólizas de seguros que deban contratarse en términos del artículo 188 de este Reglamento, o exhiban la garantía que en su caso, se les solicite y cumplan con las demás condiciones que para tal efecto establezca la Ley, este Reglamento, así como el título de concesión, permiso o autorización correspondiente.
+
+Para que surtan efectos, las pólizas de seguros y sus renovaciones, deberán ser aprobadas por la Secretaría, según corresponda, en los términos de la Ley y de este Reglamento.
 
 ###### Artículo 195.
 
@@ -1666,6 +1764,30 @@ I. Proporcionar a la Secretaría los elementos y las facilidades necesarias a ef
 II. Proporcionar, en un plazo máximo de sesenta días naturales contados a partir de la fecha del siniestro, un informe técnico en el que se establezcan las causas y circunstancias que lo originaron, y
 
 III. Proporcionar a la autoridad competente los registros y dispositivos de control de la operación, incluyendo los de las unidades tractivas y los centros de despacho, tales como las cintas originales de los diálogos entre el despachador y la tripulación, las órdenes de tren escritas, el registro de autorizaciones y liberación de tramos, y demás elementos que la autoridad competente le solicite.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 202 Bis.
+
+En caso de un accidente ferroviario, la Secretaría integrará una Comisión a fin de que efectúe la investigación de dicho accidente, sin perjuicio de las atribuciones que tengan otras autoridades. Dicha investigación tendrá como propósito determinar el factor que dio origen al mismo, para lo cual emitirá un dictamen.
+
+La Secretaría expedirá las reglas de operación de la Comisión.
+
+La Comisión estará integrada por:
+
+I. Un Presidente;
+
+II. Un Secretario, que deberá contar con el Título Profesional de Licenciado en Derecho o Abogado;
+
+III. Un Vocal Especialista, en cada una de las siguientes ramas: Infraestructura, Operación, Equipo, Talleres y Medicina en el Transporte;
+
+IV. Un Representante de la empresa o empresas ferroviarias involucradas, y
+
+V. Un Representante del Sindicato Nacional de Trabajadores Ferrocarrileros de la República Mexicana.
+
+El Presidente, el Secretario y los Vocales de Infraestructura, Operación, Equipo y Talleres serán nombrados por el Titular de la Dirección General de Transporte Ferroviario y Multimodal, el Vocal de Medicina en el Transporte será nombrado por el Titular de la Dirección General de Protección y Medicina Preventiva en el Transporte.
+
+En cuanto a los representantes de la empresa o empresas ferroviarias y del Sindicato Nacional de Trabajadores Ferrocarrileros de la República Mexicana, serán nombrados por el Responsable Técnico de la empresa ferroviaria y por el Secretario Nacional del Sindicato Nacional de Trabajadores Ferrocarrileros de la República Mexicana respectivamente.
 
 ###### Artículo 203.
 
@@ -1957,6 +2079,18 @@ Los trámites que no cuenten con plazo específico para su resolución, deberán
 
 Lo dispuesto en el presente artículo se aplicará, salvo disposición específica en contrario.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 226.
+
+En los casos de los trámites que se presenten a la Secretaría se aplicará lo siguiente:
+
+I. En trámites realizados por medios electrónicos el uso de la Firma Electrónica Avanzada;
+
+II. En trámites realizados por personas físicas el uso de la Clave Única de Registro de Población, y
+
+III. Los solicitantes que cuenten con el Registro Único de Personas Acreditadas, no deberán acreditar su personalidad jurídica.
+
 ## TRANSITORIOS
 
 Primero. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1989,7 +2123,7 @@ Las solicitudes de permiso, autorización o licencia en trámite se ajustarán a
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de septiembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 8 DE AGOSTO DE 2000.
 
@@ -1998,3 +2132,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en el Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
 
 TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den cumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los trámites que se hayan presentado ante la autoridad para su atención y se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, serán resueltos conforme a las nuevas disposiciones.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
