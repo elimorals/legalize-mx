@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2007-01-25"
+last_updated: "2011-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -191,7 +193,9 @@ III. Internacionales, cuando puedan participar tanto proveedores del país como 
 
 Se realizarán licitaciones públicas e invitaciones internacionales cuando previa investigación de mercado que realiza la comisión de adquisiciones no exista oferta de proveedores nacionales respecto a bienes o servicios en cantidad o calidad requeridas, o sea conveniente en términos de precios.
 
-Las convocatorias para participar en las licitaciones se deberán publicar cuando menos en dos diarios de amplia circulación en la entidad. En los casos a que se refieren las fracciones II y III de este artículo, dichas publicaciones se harán también como mínimo, en dos diarios de amplia circulación nacional.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+Las convocatorias para participar en las licitaciones se deberán publicar cuando menos en dos diarios de amplia circulación en la entidad, así como en la página de Internet del Gobierno del Estado. En los casos a que se refieren las fracciones II y III de este artículo, dichas publicaciones se harán también, como mínimo, en dos diarios de amplia circulación nacional.
 
 ###### Artículo 11.
 
@@ -728,3 +732,7 @@ P.O. 22 DE AGOSTO DE 2006.
 P.O. 25 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
