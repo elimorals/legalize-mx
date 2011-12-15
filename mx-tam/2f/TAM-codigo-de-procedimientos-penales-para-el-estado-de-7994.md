@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2011-11-08"
+last_updated: "2011-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -1087,7 +1087,9 @@ a) Secuestro en los casos de los artículos 391 y 391 Bis.
 
 XII.- De los delitos contra el patrimonio de las personas.
 
-a) Robo previsto por el artículo 399, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+a) Robo previsto por el artículo 399, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX, X y XVIII, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I;
 
 b) Robo previsto por el artículo 410, exceptuando de éste el caso previsto en su última parte, cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411;
 
@@ -3345,7 +3347,9 @@ II.- Que garantice el monto estimado de las sanciones pecuniarias que en su caso
 
 III.- Que otorgue caución para el cumplimiento de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso; y
 
-IV.- Que no se trate de delitos que por su gravedad están previstos en el párrafo último del artículo 109 de este Código.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+IV.- Que no se trate de delitos que por su gravedad están previstos en el artículo 109 de este Código.
 
 El monto de las garantías a que se refieren las fracciones II y III, será fijado tomando en consideración:
 
@@ -4998,3 +5002,9 @@ El Pleno del Supremo Tribunal de Justicia deberá, previo al vencimiento del té
 ###### ARTÍCULO TERCERO.
 
 En los asuntos iniciados previamente a la entrada en vigor de la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las notificaciones personales ya ordenadas se realizarán en los términos acordados dentro del expediente correspondiente.
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
