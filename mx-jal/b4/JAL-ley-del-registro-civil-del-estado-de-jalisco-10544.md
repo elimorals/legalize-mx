@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2011-09-15"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -223,9 +225,17 @@ XI. Elaborar los índices alfabéticos de los registros de su oficialía;
 
 XII. Expedir las constancias de inexistencia que le sean solicitadas, previa comprobación de que no obren en sus oficialías las actas respectivas;
 
-XIII. Conservar bajo su responsabilidad y cuidado los libros y archivos de la oficialía; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-XIV. Las demás que establezcan las leyes.
+XIII. Conservar bajo su responsabilidad y cuidado los libros y archivos de la oficialía;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+XIV. Instar de manera verbal a quien o quienes comparezcan a efectuar el registro de nacimiento, cuando el nombre que deseen poner al menor, contengan abreviaturas, diminutivos, claves, números y adjetivos que puedan llegar a denigrar a la persona, o cuando a juicio del oficial del Registro Civil resulte impropio, denostante, cause afrenta, ya sea por su rareza, peculiaridad o dificulta en su emisión y articulación, solicitando se reconsidere su decisión.
+
+Bajo ninguna circunstancia el Oficial del Registro Civil podrá efectuar sugerencias de nombres para los registrados, y
+
+XV. Las demás que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1386,5 +1396,9 @@ P.O. 30 DE JULIO DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 15 DE SEPTIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
