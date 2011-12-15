@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fraccionamiento-del-estado-de-quintana-roo-7260"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "1992-12-31"
+last_updated: "2011-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE FRACCIONAMIENTO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial el 31 de Diciembre de 1992.
 
@@ -101,11 +101,19 @@ b) No contaminantes
 
 VI.- De Servicios Funerarios
 
-ARTICULO 5o (sic).- Los fraccionamientos habitacionales urbanos de tipo residencial se destinarán exclusivamente a la construcción de viviendas, con características de construcción de primera, de acuerdo a lo que establece la Ley de Obras Públicas y privadas del Estado, las cuales pueden ser unifamiliares o multifamiliares de conformidad con las densidades, alturas o características de construcción que hubiesen sido aprobadas en el proyecto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 8o.
+
+Los fraccionamientos habitacionales urbanos de tipo residencial se destinarán exclusivamente a la construcción de viviendas, con características de construcción de primera, de acuerdo a lo que establece la Ley de Obras Públicas y privadas del Estado, las cuales pueden ser unifamiliares o multifamiliares de conformidad con las densidades, alturas o características de construcción que hubiesen sido aprobadas en el proyecto.
 
 Los fraccionamientos habitacionales urbano (sic) de tipo medio y los de interés social podrán contar con edificios departamentales, con las densidades, alturas y características de construcción que hubiesen sido aprobadas en el proyecto.
 
 En todos los casos de fraccionamientos habitacionales urbanos, podrán incluirse zonas comerciales, para cuyo efecto, la secretaría de Obras Públicas y Desarrollo Urbano tomará en consideración las normas municipales aplicables a la zona comercial, incluyéndolas en el proyecto y autorización respectiva.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+Los fraccionamientos habitacionales deberán contar con viviendas destinadas a personas con discapacidad y personas con movilidad reducida, con los aditamentos necesarios que contribuyan a su pleno desarrollo y desenvolvimiento de dichas personas.
 
 ###### ARTICULO 9o.
 
@@ -434,6 +442,10 @@ VII.- Opinión de los organismoss (sic) que administren los diferentes servicios
 VIII.- Memoria descriptiva del proyecto conteniendo; clasificación del fraccionamiento, normas de calidad de las obras, especificaciones y presupuesto y proyecto del (sic) reglamentación de las restricciones propias; y
 
 IX.- El plano de las obras a ejecutarse en caso de que se pretenda hacerlo en diferentes etapas sucesivas.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 39 BIS.-· El fraccionador destinará dentro del proyecto a presentar, con la finalidad de garantizar la inclusión y el derecho de las personas con discapacidad o movilidad reducida, que el 1% de la edificación de las viviendas contempladas dentro del mismo sean destinadas a estas personas, atendiendo en todo momento en su diseño y construcción, a los criterios y especificaciones que marque el Código de Edificación de Vivienda del Estado, la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad y demás normas aplicables.
 
 ###### ARTICULO 40.
 
@@ -828,3 +840,11 @@ En cumplimiento a lo dispuesto por la fracción II del Artículo 91 de la consti
 El Gobernador Constitucional del Estado. Dr. Miguel Borge Martín.
 
 El Secretario de Gobierno, Ing Juan Manuel Mercader Rodríguez.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
