@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-el-fomento-de-la-microindustria-y-la-223"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1988-01-26"
-last_updated: "1991-07-22"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=223&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 26 de enero de 1988.
 
@@ -47,11 +47,13 @@ LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
 La presente Ley es de orden público y de interés social, sus disposiciones se aplican en toda la República y tienen por objeto fomentar el desarrollo de la microindustria y de la actividad artesanal, mediante el otorgamiento de apoyos fiscales, financieros, de mercado y de asistencia técnica, así como a través de facilitar la constitución y funcionamiento de las personas morales correspondientes, simplificar trámites administrativos ante autoridades federales y promover la coordinación con autoridades locales o municipales para este último objeto.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 2o.
 
-La aplicación de esta Ley en la esfera administrativa corresponde a la Secretaría de Comercio y Fomento Industrial, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades federales, en cuanto no se prevean en forma expresa en esta propia Ley.
+La aplicación de esta Ley en la esfera administrativa corresponde a la Secretaría de Economía, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades federales, en cuanto no se prevean en forma expresa en esta propia Ley.
 
-Cuando en el presente ordenamiento se mencione a "La Secretaría", se entenderá que se trata de la citada Secretaría de Comercio y Fomento Industrial.
+Cuando en el presente ordenamiento se mencione a "La Secretaría", se entenderá que se trata de la citada Secretaría de Economía.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
@@ -93,6 +95,10 @@ III.- Elaborar programas de difusión, gestión, formación y capacitación empr
 
 IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal.
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+V.- Llevar a cabo el procedimiento simplificado de constitución de empresas micro industriales, de acuerdo con lo establecido en la presente ley y con los convenios de coordinación que para tal efecto celebre.
+
 ### CAPITULO II. De los Empresarios Personas Físicas
 
 ###### ARTICULO 8o.
@@ -105,15 +111,17 @@ Sólo las personas físicas de nacionalidad mexicana, si satisfacen los requisit
 
 Los empresarios deberán indicar su nombre o, en su caso, la denominación comercial de la empresa, seguidos de las palabras "empresa microindustrial" o las siglas "MI" y "ART" tratándose de personas físicas se dediquen (sic) a la producción de artesanías, para su fácil identificación y distinguirlos en el otorgamiento de los beneficios a que se refiere esta Ley.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 10.
 
-Al cancelarse la inscripción y la cédula, el empresario no podrá seguir utilizando el término "empresa microindustrial" o su sigla "MI", y "ART", en su caso, ni solicitar y obtener los beneficios que se conceden a las empresas microindustriales, quedando obligado a devolver la cédula a la Secretaría dentro de un plazo de 15 días hábiles.
+Al Cuando un empresario desee transmitir la empresa a otra persona, se deberá solicitar previamente de la Secretaría la inscripción del nuevo empresario en el Padrón y el consecuente otorgamiento de la nueva cédula, para que el adquirente pueda disfrutar de los beneficios establecidos para las microindustrias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 11.
 
-Al cancelarse la inscripción y la cédula, el empresario no podrá seguir utilizando el término "empresa microindustrial" o su sigla "MI", ni solicitar y obtener los beneficios que se conceden a las empresas microindustriales, quedando obligado a devolver la cédula a la Secretaría dentro de un plazo de 15 días hábiles.
+Al cancelarse la inscripción y la cédula, el empresario no podrá seguir utilizando el término "empresa microindustrial" o su sigla "MI", y "ART", en su caso, ni solicitar y obtener los beneficios que se conceden a las empresas microindustriales, quedando obligado a devolver la cédula a la Secretaría dentro de un plazo de 15 días hábiles.
 
 La propia Secretaría comunicará a las autoridades correspondientes la cancelación de la inscripción y la cédula, a fin de que se dejen sin efecto, a partir de la cancelación, los beneficios que se hayan otorgado.
 
@@ -140,6 +148,10 @@ El contrato por el que se constituya una sociedad de responsabilidad limitada mi
 La Secretaría podrá proporcionar a quienes lo soliciten, modelos de contrato social o formularios en que los interesados sólo aporten los datos particulares de quienes deseen asociarse y de la persona moral que se pretenda constituir.
 
 Una vez formulado y firmado por los socios el contrato social, la Secretaría, o las autoridades en quienes delegue esa función, lo examinarán y harán constar su visto bueno sobre su forma y contenido, u orientarán, en su caso, a los interesados sobre los elementos que se hayan omitido o deban subsanarse.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+El Gobierno Federal, a través de la Secretaría de Economía podrá suscribir convenio con los Gobiernos de los Estados para delegar las facultades previstas en el presente artículo y capítulo de la ley y con ello facilitar los procedimientos de constitución de empresas microindustriales.
 
 ###### ARTICULO 16.
 
@@ -383,8 +395,14 @@ México, D. F., a 23 de diciembre de 1987.- Dip. David Jiménez González, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 22 DE JULIO DE 1991.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
