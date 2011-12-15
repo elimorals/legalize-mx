@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2011-12-12"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELANEA FISCAL: 31 DE DICIEMBRE DE 2010.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1497,29 +1497,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por la recepción, examen y
+I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
-resolución de cada solicitud
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de uso de denominación en la
-
-constitución de sociedades
-
-y asociaciones $965.00 $965
-
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-II.- Por la recepción, examen y
-
-resolución de cada solicitud
-
-de permiso de cambio de
-
-denominación o razón
-
-social $885.00 $885
+II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
@@ -1593,35 +1577,27 @@ señalados en los incisos
 
 anteriores $345.41 $345
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 VI.- Por la recepción y estudio
 
 del escrito de convenio de
 
-renuncia, para la adquisición
+renuncia, para la obtención
 
-de inmuebles fuera de zona
+de concesiones para la
 
-restringida u obtención de
+exploración y explotación
 
-concesiones para la exploración
+de minas o aguas en el
 
-y explotación de minas o aguas
+territorio nacional $5,074.56
 
-en el territorio nacional $5,074.56 $5,075
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
-
-VII.- A cada extranjero para
-
-adquirir en territorio nacional
-
-fuera de la zona restringida
-
-el dominio de tierras, aguas
-
-y sus accesiones $5,074.56 $5,075
+VII.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -27580,3 +27556,9 @@ Quinto. Para los efectos de la determinación del derecho especial sobre hidroca
 Lo dispuesto en el párrafo anterior se podrá aplicar para la determinación del derecho especial sobre hidrocarburos correspondiente a los ejercicios fiscales de 2010 y 2011.
 
 Sexto. Para los efectos de conocer el comportamiento de los ingresos de Caminos y Puentes Federales, la Secretaría de Hacienda y Crédito Público deberá enviar a más tardar el último día del mes de febrero de cada año, un informe detallado al Congreso de la Unión para su análisis.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
