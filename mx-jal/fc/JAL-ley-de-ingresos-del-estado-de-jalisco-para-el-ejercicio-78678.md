@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-78678"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-28"
-last_updated: "2010-12-28"
+last_updated: "2011-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 2010.
 
@@ -309,13 +311,19 @@ III. Cuando se trate de contratos de mutuo, hipoteca, prenda o
 
 de sustitución de deudor, por la celebración del contrato, el: 0.5%
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 IV. En los demás contratos, actos o instrumentos notariales
 
-de índole no contractual o sin valor pecuniario, así como
+de índole no contractual o sin valor pecuniario, aquellos
 
-aquellos relativos a la transmisión de propiedad inmobiliaria,
+relativos a la transmisión de propiedad inmobiliaria,
 
-se pagarán por cada uno: $115.00
+así como los que se celebren en virtud de la Ley de
+
+Justicia Alternativa del Estado de Jalisco, se pagarán
+
+por cada uno: $115.00
 
 Si al aplicar las tasas anteriores resulta un impuesto inferior a $115.00, se cobrará esta cantidad.
 
@@ -1503,11 +1511,33 @@ e) Copias simples, por cada hoja: $1.50
 
 f) Expedición de sellos del Sistema Nacional de Educación: $74.00
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+VIII. Los servicios inherentes al Instituto de Justicia Alternativa causarán el pago de derechos que se consigna en la siguiente tarifa:
+
+a) Acreditación de centros privados de resolución de conflictos, con vigencia de dos años: $6,600.00;
+
+b) Certificación de mediadores, conciliadores, negociadores y árbitros, con vigencia de dos años: $1,000.00;
+
+c) Renovación de la acreditación de centros privados de resolución de conflictos, con vigencia de dos años: $3,300.00;
+
+d) Renovación de la certificación de mediadores, conciliadores, negociadores y árbitros, con vigencia de dos años: $500.00;
+
+e) Cambio de domicilio de los centros privados de resolución de conflictos: $3,300.00, y
+
+f) Aviso por cambio de adscripción de los mediadores, conciliadores, negociadores y árbitros: $115.00.
+
+Durante el presente ejercicio fiscal se otorgará una reducción de 50% en los derechos que se establecen en los incisos a) y b) de esta fracción.
+
 Cualquier otro servicio de autoridad, se pagará conforme a las leyes especiales que lo reglamenten.
 
-Los documentos solicitados se entregarán en un plazo hasta de 4 (cuatro) días, contados a partir del día siguiente a la fecha de recepción de la solicitud, acompañada del recibo de pago correspondiente, excepto en los servicios que presta el Registro Civil en que los documentos solicitados se entregarán en 60 (sesenta) minutos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-A petición del interesado dichos documentos se entregarán en un plazo no mayor de 24 (veinticuatro) horas, cobrándose el doble de la cuota correspondiente con excepción de los servicios que presta el Registro Civil, al cual no se aplicará este párrafo.
+Los documentos solicitados se entregarán en un plazo hasta de cuatro días, contados a partir del día siguiente a la fecha de recepción de la solicitud, acompañada del recibo de pago correspondiente, excepto en los servicios que presta el Registro Civil en que los documentos solicitados se entregarán en sesenta minutos.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+A petición del interesado, dichos documentos se entregarán en un plazo no mayor de veinticuatro horas, cobrándose el doble de la cuota correspondiente, con excepción de los servicios que presta el Registro Civil, al cual no se aplicará este párrafo.
 
 ###### Artículo 26.
 
@@ -2132,3 +2162,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
