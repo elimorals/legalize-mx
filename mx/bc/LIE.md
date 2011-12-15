@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2011-05-25"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LIE"
 ---
 # LEY DE INVERSION EXTRANJERA
 
-LEY DE INVERSION EXTRANJERA
+LEY DE INVERSIÓN EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -308,6 +308,10 @@ Se entenderá por utilización y aprovechamiento de los bienes inmuebles ubicado
 
 De la Constitución y Modificación de Sociedades
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
 ### Capítulo II. De la Inversión Neutra Representada por Instrumentos Emitidos por las Instituciones Fiduciarias
 
 ###### ARTICULO 13.
@@ -326,25 +330,31 @@ La Secretaría de Relaciones Exteriores resolverá sobre los permisos a que se r
 
 Toda solicitud de permiso deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación ante la unidad administrativa central competente, o dentro de los treinta días hábiles siguientes, si se presenta en las delegaciones estatales de dicha dependencia. Concluidos dichos plazos sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 
-###### ARTICULO 15.
+###### ARTÍCULO 15.
 
-Se requiere permiso de la Secretaría de Relaciones Exteriores para la constitución de sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
+La Secretaría de Economía autorizará el uso de las denominaciones o razones sociales con las que pretendan constituirse las sociedades. Se deberá insertar en los estatutos de las sociedades que se constituyan, la cláusula de exclusión de extranjeros o el convenio previsto en la fracción I del artículo 27 Constitucional.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
-Se requiere permiso de la Secretaría de Relaciones Exteriores para que las sociedades constituidas cambien su denominación o razón social.
+El procedimiento referido en el artículo anterior, se aplicará para sociedades constituidas que cambien su denominación o razón social.
+
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 Las sociedades que modifiquen su cláusula de exclusión de extranjeros por la de admisión, deberán notificarlo a la Secretaría de Relaciones Exteriores, dentro de los treinta días hábiles siguientes a dicha modificación.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 Si estas sociedades son propietarias de bienes inmuebles ubicados en la zona restringida destinados a fines no residenciales, deberán dar el aviso a que se refiere la fracción I del artículo 10 de esta Ley, dentro del plazo previsto en el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
 
-###### ARTICULO 16-A.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-Toda solicitud de permiso a que se refieren los artículos 15 y 16 de esta Ley deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+ARTÍCULO 16 A.- Las solicitudes a que se refieren los artículos 15 y 16 de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
 
 ###### ARTICULO 17.
 
@@ -769,6 +779,12 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
