@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2011-05-17"
+last_updated: "2011-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-LEY DE EDUCACION DEL ESTADO DE JALISCO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2011.
+LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -395,9 +397,17 @@ VI.- Cooperar con las autoridades escolares en la atención de los servicios de 
 
 VII.- Establecer y sostener servicios de vigilancia escolar;
 
-VIII.- Promover y coordinar con las autoridades competentes la realización de programas de educación para la salud y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-IX.- Todas aquellas que en forma específica les asigne: La Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, La Constitución Local y las disposiciones de la presente Ley.
+VIII.- Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los Consejos Escolares, la realización de programas de educación para la salud y mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+IX.- Promover y coordinar con los Consejos Municipales de Participación Social en la Educación y los Consejos Escolares, la realización de programas de educación en fomento de acciones de participación, coordinación y difusión de la cultura de protección civil y la emergencia escolar, y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+X.- Todas aquellas que en forma específica les asignen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Local y las disposiciones de la presente Ley.
 
 ###### ARTICULO 20.
 
@@ -1375,7 +1385,11 @@ d) Propiciar la colaboración entre los diversos sectores de la comunidad educat
 
 e) Promover, apoyar y realizar actividades extraescolares que complementen y respalden la formación de los alumnos;
 
-f) Llevar a cabo acciones de protección civil y emergencia escolar, efectuando la difusión necesaria;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+f) Llevar a cabo en coordinación con los Consejos Municipales de Participación Social en la Educación, las acciones de participación, capacitación y difusión necesarias para la cultura de protección civil y la emergencia escolar.
+
+Para fines del inciso anterior, deberá constituir el Comité de Protección Civil y Emergencia Escolar, cuya vigencia será de un año escolar, debiéndose renovar durante el primer mes de inicio de cada ciclo escolar.
 
 g) Fomentar y promover la participación de la familia en beneficio de los educandos y de su plantel;
 
@@ -1423,7 +1437,9 @@ f) Contribuir a la formulación de propuestas para el enriquecimiento de los pla
 
 g) Opinar en asuntos pedagógicos;
 
-h) Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+h) Coadyuvar con la Unidad Municipal de Protección Civil en la realización de acciones de participación, capacitación y difusión necesarias para la protección civil y la emergencia escolar.
 
 i) Promover y organizar certámenes interescolares para la superación educativa en el ámbito municipal;
 
@@ -1455,7 +1471,9 @@ Este Consejo tendrá las siguientes funciones:
 
 a) Promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social;
 
-b) Coadyuvar a nivel estatal en actividades de protección civil y emergencia escolar;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+b) Coadyuvar con la Unidad Estatal de Protección Civil en las acciones de participación, capacitación y difusión necesarias para la protección civil y la emergencia escolar.
 
 c) Sistematizar los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio;
 
@@ -1900,3 +1918,7 @@ P.O. 9 DE DICIEMBRE DE 2010.
 P.O. 17 DE MAYO DE 2011.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
