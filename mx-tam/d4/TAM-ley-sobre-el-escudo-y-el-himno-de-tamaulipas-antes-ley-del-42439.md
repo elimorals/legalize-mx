@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2006-09-06"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS -ANTES LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS-
 
-LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -37,23 +39,29 @@ LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE
 
 D E C R E T O No. 93
 
-LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS.
 
 ### Capítulo Primero
 
 De los Símbolos del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 1.
 
-El Escudo de Armas y el Himno de Tamaulipas son los símbolos del Estado libre y soberano de Tamaulipas. Esta ley es de orden público y regula las características, el uso y la difusión del Escudo y del Himno de Tamaulipas, así como de las muestras de respeto que deberán guardárseles y para la ejecución del Himno.
+El Escudo y el Himno de Tamaulipas son los símbolos del Estado libre y soberano de Tamaulipas. Esta ley es de orden público y regula las características, el uso y la difusión del Escudo y del Himno de Tamaulipas, así como de las muestras de respeto que deberán guardárseles y para la ejecución del Himno.
 
 ### Capítulo Segundo
 
 De las Características del Escudo del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 2.
 
-El Escudo de Armas de Tamaulipas se compone de cuatro secciones enmarcadas en un pergamino amarillo oro con las características de diseño del Escudo que al presente ordenamiento se anexa y que al quedar de frente se describe como a continuación se especifica:
+El Escudo de Tamaulipas se compone de cuatro secciones enmarcadas en un pergamino amarillo oro con las características de diseño del Escudo que al presente ordenamiento se anexa y que al quedar de frente se describe como a continuación se especifica:
 
 En la primera sección, correspondiente a la parte superior izquierda y en fondo azul, aparecen dispuestas en el siguiente orden: una planta de maíz, una de sorgo con la panoja anaranjada, una de agave y una de caña, todas en color verde como símbolo de las fuentes principales que han dado auge al desarrollo agrícola de Tamaulipas.
 
@@ -71,31 +79,43 @@ En la tercera sección, correspondiente a la parte superior derecha, en fondo ro
 
 En la cuarta sección, correspondiente a la parte inferior, en fondo azul cielo se presenta arriba y al centro el Cerro del Bernal en color café, mostrando a cada lado de la parte superior del mismo una nube blanca. En la parte inferior izquierda, se presenta un barco camaronero gris claro y un pez anaranjado en un mar azul obscuro, con lo que se identifica la explotación e industria pesquera de Tamaulipas. En la parte inferior y al centro se presenta un tractor blanco en un campo beige surcando la tierra, como testimonio de desarrollo a través de la mecanización del campo. En la parte inferior derecha en fondo verde se presenta una torre petrolera de color negro y dos depósitos de petróleo blancos, significando el potencial de hidrocarburos y la capacidad técnica para su refinación.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 3.
 
-El Escudo de Armas del Estado puede representarse en forma de Bandera, la cual consta en un campo blanco con una proporción entre anchura y longitud de 4 a 7, en cuyo centro se inscribirá el Escudo del Estado conforme a las características dispuestas en el artículo anterior.
+El Escudo del Estado puede representarse en forma de Bandera, la cual consta en un campo blanco con una proporción entre anchura y longitud de 4 a 7, en cuyo centro se inscribirá el Escudo del Estado conforme a las características dispuestas en el artículo anterior.
 
-### Capítulo Tercero. Del uso y difusión del Escudo de Armas de Tamaulipas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo Tercero. Del uso y difusión del Escudo de Tamaulipas
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 4.
 
-La reproducción del Escudo de Armas de Tamaulipas debe corresponder al modelo señalado en el artículo 2 de esta ley, salvo que por la naturaleza de su inscripción se autorice a reproducirlo en blanco y negro.
+La reproducción del Escudo de Tamaulipas debe corresponder al modelo señalado en el artículo 2 de esta ley, salvo que por la naturaleza de su inscripción se autorice a reproducirlo en blanco y negro.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
-Para la utilización del Escudo de Armas de Tamaulipas en monedas conmemorativas, medallas, sellos, papel oficial y usos similares, podrá disponerse que figuren las palabras "Estado Libre y Soberano de Tamaulipas" o "Estado de Tamaulipas", formando un semicírculo inferior.
+Para la utilización del Escudo de Tamaulipas en monedas conmemorativas, medallas, sellos, papel oficial y usos similares, podrá disponerse que figuren las palabras “Estado Libre y Soberano de Tamaulipas” o “Estado de Tamaulipas”, formando un semicírculo inferior.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 6.
 
-El Escudo de Armas del Estado podrá usarse en los vehículos que utilicen los servidores públicos del Estado y en el papel de las dependencias de los poderes estatales y de los entes públicos del Estado, así como de los Ayuntamientos, sin que pueda utilizarse para documentos particulares. Para la impresión y uso del Escudo del Estado en la papelería de las entidades públicas se requerirá acuerdo de la autoridad competente.
+El Escudo del Estado podrá usarse en los vehículos que utilicen los servidores públicos del Estado y en el papel de las dependencias de los poderes estatales y de los entes públicos del Estado, así como de los Ayuntamientos, sin que pueda utilizarse para documentos particulares. Para la impresión y uso del Escudo del Estado en la papelería de las entidades públicas se requerirá acuerdo de la autoridad competente.
 
-### Capítulo Cuarto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-Del uso y difusión del Escudo de Armas en su modalidad de Bandera.
+### Capítulo Cuarto. Del uso y difusión del Escudo de Tamaulipas en su modalidad de Bandera
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 7.
 
-En la reproducción del Escudo de Armas del Estado en su modalidad de bandera podrá autorizarse la inscripción de la denominación de instituciones, agrupaciones y planteles educativos, previa autorización de la instancia pública competente, sobre la base de contribuir al respeto y honor de este símbolo del Estado. No se podrá autorizar ninguna otra inscripción en esta modalidad del Escudo.
+En la reproducción del Escudo del Estado en su modalidad de bandera podrá autorizarse la inscripción de la denominación de instituciones, agrupaciones y planteles educativos, previa autorización de la instancia pública competente, sobre la base de contribuir al respeto y honor de este símbolo del Estado. No se podrá autorizar ninguna otra inscripción en esta modalidad del Escudo.
 
 ###### Artículo 8.
 
@@ -105,441 +125,283 @@ Las autoridades del Estado regularán y promoverán la entrega a las institucion
 
 En las festividades cívicas o en las ceremonias oficiales en las que se halle presente la Bandera Nacional deberá contarse con el Escudo de Tamaulipas en su modalidad de bandera para acompañar al lábaro patrio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-En las sedes de los poderes del Estado y de los Municipios del mismo se izarán la Bandera Nacional y el Escudo de Armas de Tamaulipas en su modalidad de bandera en las fechas que señale el calendario cívico del Estado. Cuando la ocasión sea luctuosa, se izarán a media asta.
+En las sedes de los poderes del Estado y de los Municipios del mismo se izarán la Bandera Nacional y el Escudo de Tamaulipas en su modalidad de bandera en las fechas que señale el calendario cívico del Estado. Cuando la ocasión sea luctuosa, se izarán a media asta.
 
 Las banderas que se utilicen en los inmuebles referidos tendrán las dimensiones y la conservación adecuada para su uso y dignidad, confiriéndose al cuidado del personal que al efecto se designe, el cual vigilará que en las fechas correspondientes sean izados y arriados puntualmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
 El Calendario Cívico del Estado comprende las fechas señaladas a continuación:
 
--1º de enero:
+I.- 1 de enero, con motivo de la fundación de Güémez en 1749;
 
-- Apertura del primer periodo de sesiones ordinarias del Congreso del Estado en el primer año de ejercicio de la Legislatura.
+II.- 5 de enero, por el aniversario de la declaración de Méndez con la categoría de Villa en 1869;
 
-- Aniversario de la fundación de Güémez en 1749.
+III.- 6 de enero, a razón de los aniversarios de las fundaciones de la Villa de Palmillas en 1745 y de Padilla en 1749;
 
-- 5 de enero
+IV.- 7 de enero, para conmemorar el natalicio del Profesor Candelario Garza Cantú en 1891;
 
-- Aniversario de la declaración de Méndez con la categoría de Villa en 1869.
+V.- 15 de enero, en conmemoración de la apertura del segundo periodo ordinario de sesiones del H. Congreso del Estado;
 
-6 de enero:
+VI.- 16 de enero, para conmemorar el natalicio del General Gregorio Osuna Hinojosa en 1873;
 
-- Aniversario de la fundación de Padilla en 1749.
+VII.- 17 de enero, con motivo de la fundación de la Villa de Matamoros en 1810;
 
-- Aniversario de la fundación de la Villa de Palmillas en 1745.
+VIII.- 23 de enero, por el aniversario luctuoso del General Pedro J. Méndez Ortiz en 1866;
 
-- 7 de enero:
+IX.- 25 de enero, para conmemorar el aniversario de la declaración del General Pedro J. Méndez Ortiz como benemérito del Estado en 1868;
 
-- Natalicio del Profesor Candelario Garza Cantú en 1891.
+X.- 1 de febrero, por el aniversario luctuoso del General Gregorio Osuna Hinojosa, en 1941;
 
-- 16 de enero:
+XI.- 5 de febrero, con motivo del aniversario de la expedición de la Constitución Política del Estado Libre y Soberano de Tamaulipas de 1921;
 
-- Aniversario del Natalicio del General Gregorio Osuna Hinojosa en 1873.
+XII.- 16 de febrero, por el aniversario luctuoso de los siguientes personajes:
 
-- 17 de enero:
+a).- Coronel Felipe de la Garza Cisneros en 1832; y
 
-- Aniversario de la fundación de la Villa de Matamoros en 1810.
+b).- General Alberto Carrera Torres en 1917.
 
-- 23 de enero:
+XIII. 17 de febrero, con motivo de la fundación de Santander Jiménez en 1749. Primera Capital de la colonia de Nuevo Santander hoy Tamaulipas;
 
-- Aniversario de la muerte del General Pedro J. Méndez Ortiz en 1866.
+XIV.- 20 de febrero, con motivo de la fundación de la Villa de Burgos en 1749;
 
-25 de enero:
+XV.- 22 de febrero, por los siguientes aniversarios luctuosos:
 
-- Aniversario de la declaración del General Pedro J. Méndez Ortiz como benemérito del Estado en 1868.
+a).- De la Maestra Estefanía Castañeda Núñez de Cáceres en 1937; y
 
-- 1 de febrero:
+b).- De Pedro Paredes y Serna en 1841.
 
-- Aniversario de la muerte del General Gregorio Osuna Hinojosa, en 1941.
+XVI.- 4 de marzo, con motivo de la creación del municipio de Valle Hermoso en 1953;
 
-- 16 de febrero:
+XVII.- 5 de marzo, con motivo de la fundación de Camargo en 1749;
 
-- Aniversario de la muerte del Coronel Felipe de la Garza Cisneros en 1832.
+XVIII.- 6 de marzo, con motivo de la fundación de Mier en 1753;
 
-- Aniversario de la muerte del General Alberto Carrera Torres en 1917.
+XIX.- 14 de marzo, con motivo de la fundación de la Villa de Reynosa en 1749;
 
-- 17 de febrero:
+XX.- 15 de marzo, con motivo de la fundación de la Villa de Escandón, hoy Xicoténcatl en 1751;
 
-- Aniversario de la fundación de Santander Jiménez en 1749. Primera Capital de la colonia de Nuevo Santander hoy Tamaulipas.
+XXI.- 19 de marzo, con motivo de la fundación de la Villa de San Fernando en 1749;
 
-- 20 de febrero:
+XXII.- 26 de marzo, por el aniversario luctuoso del General Rómulo Cuéllar en 1916;
 
-- Aniversario de la fundación de la Villa de Burgos en 1749.
+XXIII.- 27 de marzo, por el aniversario de la muerte de Julián de la Cerda en 1893;
 
-- 22 de febrero:
+XXIV.- 1 de abril, con motivo de la fundación de San Nicolás en 1768;
 
-- Aniversario de la muerte de Pedro Paredes y Serna en 1841.
+XXV.- 7 de abril, por el aniversario de la muerte de José Ustaquio Fernández en 1843;
 
-- Aniversario de la muerte de la maestra Estefanía Castañeda Núñez de Cáceres en 1937.
+XXVI.- 9 de abril, para conmemorar el aniversario de la instalación de la Diputación Provincial del Nuevo Santander en 1823;
 
-- 1 de marzo:
+XXVII.- 11 de abril, por el aniversario luctuoso de los siguientes personajes:
 
-- Apertura del primer periodo de sesiones ordinarias del segundo y tercer años de ejercicio de la Legislatura del Estado.
+a).- General Emiliano P. Nafarrete en 1918; y
 
-- 4 de marzo:
+b).- General César López de Lara en 1960.
 
-- Aniversario de la creación del municipio de Valle Hermoso en 1953.
+XXVIII.- 12 de abril, por el aniversario de la repoblación de Tampico en 1823;
 
-- 5 de marzo:
+XXIX.- 15 de abril, con motivo de la fundación de Aldama en 1790;
 
-- Aniversario de la fundación de Camargo en 1749.
+XXX.- 19 de abril, por el aniversario de la muerte de Doña Agapita Ortiz de Méndez en 1788;
 
-- 6 de marzo:
+XXXI.- 20 de abril, con motivo del aniversario de la capitalidad de la Villa de Aguayo con el nombre de Victoria en 1825;
 
-- Aniversario de la fundación de Mier en 1753.
+XXXII.- 23 de abril, para conmemorar el natalicio de los siguientes personajes:
 
-- 14 de marzo:
+a).- Profesor Adalberto J. Argüelles en 1850; y
 
-- Aniversario de la fundación de la Villa de Reynosa en 1749.
+b).- General Alberto Carrera Torres en 1887.
 
-- 15 de marzo:
+XXXIII.- 24 de abril, con motivo de la creación del municipio de Gustavo Díaz Ordaz en 1968;
 
-- Aniversario de la fundación de la Villa de Escandón, hoy Xicoténcatl en 1751.
+XXXIV.- 1 de mayo, con motivo del otorgamiento de la calidad de Municipio a Ciudad Madero en 1824;
 
-- 19 de marzo:
+XXXV.- 2 de mayo, con motivo de la fundación de Altamira en 1749;
 
-- Aniversario de la fundación de la Villa de San Fernando en 1749.
+XXXVI.- 6 de mayo, para conmemorar los siguientes aniversarios:
 
-- 26 de marzo:
+a).- Promulgación de la Constitución Política de Tamaulipas en 1825; y
 
-- Aniversario de la muerte del General Rómulo Cuéllar en 1916.
+b).- Natalicio del Licenciado y General Juan José de la Garza en 1826.
 
-- 27 de marzo:
+XXXVII.- 8 de mayo, con motivo de la fundación de Villagrán en 1757;
 
-- Aniversario de la muerte de Julián de la Cerda en 1893.
+XXXVIII.- 9 de mayo, con motivo de la fundación de Cruillas en 1766;
 
-- 1 de abril:
+XXXIX.- 11 de mayo, para conmemorar los siguientes aniversarios:
 
-- Aniversario de la fundación de San Nicolás en 1768.
+a).- De la fundación de la Villa de San Juan Bautista de Horcasitas, hoy González, en 1749; y
 
-- 7 de abril:
+b).- De la muerte del profesor Adalberto J. Argüelles en 1923.
 
-- Aniversario de la muerte de José Ustaquio Fernández en 1843.
+XL.- 13 de mayo, por el aniversario luctuoso del General José Bernardo Gutiérrez de Lara en 1841;
 
-- 9 de abril:
+XLI.- 14 de mayo, con motivo del aniversario de la declaración de Miquihuana como Villa del Estado en 1849;
 
-- Aniversario de la instalación de la Diputación Provincial del Nuevo Santander en 1823.
+XLII.- 15 de mayo, por el aniversario de la muerte de Manuel González Flores, en Chapingo en 1893;
 
-- 11 de abril:
+XLII (SIC).- 16 de mayo, para conmemorar el Natalicio del General Juan N. Cortina en 1824;
 
-- Aniversario de la muerte del General Emiliano P. Nafarrete en 1918.
+XLIII.- 19 de mayo con motivo de las siguientes fundaciones:
 
-- Aniversario de la muerte del General César López de Lara en 1960.
+a).- De Villa de Jaumave en 1744;
 
-- 12 de abril:
+b).- De Ocampo en 1749; y
 
-- Aniversario de la repoblación de Tampico en 1823.
+c).- De Hidalgo en 1752.
 
-- 15 de abril:
+XLIV.- 22 de mayo, por el aniversario luctuoso del Insurgente Mateo Acuña en 1811;
 
-- Aniversario de la fundación de Aldama en 1790.
+XLV.- 23 de mayo, para conmemorar el natalicio del Profesor Lauro Aguirre en 1882;
 
-- 19 de abril:
+XLVI.- 26 de mayo, con motivo de la fundación de Bustamante en 1746;
 
-- Aniversario de la muerte de Doña Agapita Ortiz de Méndez en 1788.
+XLVII.- 28 de mayo, por aniversario luctuoso del profesor Juan Rincón en 1951;
 
-- 20 de abril:
+XLVIII.- 3 de junio, con motivo de la fundación de Villa de Casas en 1770;
 
-- Aniversario de la capitalidad de la Villa de Aguayo con el nombre de Victoria en 1825.
+XLIX.- 15 de junio, con motivo de la declaración de Villa de Nuevo Laredo en 1848;
 
-- 23 de abril:
+L.- 16 de junio, en homenaje a la Batalla de Santa Gertrudis, en el municipio de Camargo, en 1866. Triunfo de las tropas republicanas al mando del General Mariano Escobedo y el Coronel Servando Canales Molano, contra los conservadores;
 
-- Aniversario del natalicio del General Alberto Carrera Torres en 1887.
+LI.- 24 de junio, en conmemoración del natalicio de los siguientes personajes:
 
-- Aniversario del natalicio del Profesor Adalberto J. Argüelles en 1850.
+a).- Profesor Juan Rincón en 1743; y
 
-- 24 de abril:
+b).- Profesor Juan B. Tijerina en 1857.
 
-- Aniversario de la creación del municipio de Gustavo Díaz Ordaz en 1968.
+LII.- 26 de junio, por el aniversario luctuoso del General Lauro Villar Ochoa en 1923;
 
-- 1º de mayo:
+LIII.- 28 de junio, por el aniversario luctuoso del General Servando Canales Molano en 1881;
 
-- Aniversario del otorgamiento de la calidad de Municipio a Ciudad Madero en 1824.
+LIV.- 3 de julio, en conmemoración de los siguientes aniversarios:
 
-2 de mayo:
+a).- Elevación de Mainero a la categoría de Villa en 1924; y
 
-- Aniversario de la fundación de Altamira en 1749.
+b).- Muerte del General Manuel Mier y Terán en 1832.
 
-- 6 de mayo:
+LV.- 4 de julio, en conmemoración del natalicio del Ingeniero Marte R. Gómez Segura en 1896;
 
-- Aniversario de la promulgación de la Constitución Política de Tamaulipas en 1825.
+LVI.- 6 de julio, con motivo de la fundación de San Carlos en 1766;
 
-- Aniversario del natalicio del Licenciado y General Juan José de la Garza en 1826.
+LVII. 7 de julio, en conmemoración de la instalación del Primer Congreso Constituyente de Tamaulipas en 1824;
 
-- 8 de mayo:
+LVIII.- 18 de julio, para conmemorar el natalicio del General Manuel del Refugio González Flores en 1833;
 
-- Aniversario de la fundación de Villagrán en 1757.
+LIX.- 22 de julio, con motivo de la fundación de Tula en 1617;
 
-- 9 de mayo:
+LX.- 29 de julio, para conmemorar el natalicio del Licenciado Horacio Terán Sosaya en 1902;
 
-Aniversario de la fundación de Cruillas en 1766.
+LXI.- 7 de agosto, con motivo del aniversario de la repoblación de Palmillas en 1749;
 
-- 11 de mayo:
+LXII.- 9 de agosto, para conmemorar el natalicio de Manuel C. Farrega en 1897;
 
-- Aniversario de la muerte del profesor Adalberto J. Argüelles en 1923.
+LXIII.- 10 de agosto, por el aniversario luctuoso de Guadalupe Mainero Juárez en 1901;
 
-- Aniversario de la fundación de la Villa de San Juan Bautista de Horcasitas, hoy González, en 1749.
+LXIV.- 20 de agosto, para conmemorar el natalicio de José Bernardo Gutiérrez de Lara en 1774;
 
-- 13 de mayo:
+LXV.- 24 de agosto, para conmemorar el natalicio del Licenciado Francisco Castellanos en 1893;
 
-- Aniversario de la muerte del General José Bernardo Gutiérrez de Lara en 1841.
+LVI (SIC).- 3 de septiembre, con motivo de la fundación de Soto la Marina en 1750;
 
-- 14 de mayo:
+LVII (SIC).-10 de Septiembre, para conmemorar los siguientes acontecimientos:
 
-- Aniversario de la declaración de Miquihuana como Villa del Estado en 1849.
+a).- Aniversario de la muerte de José de Escandón, Conde de la Sierra Gorda en 1770; y
 
-- 15 de mayo:
+b).- Aniversario del natalicio del General Cesar López de Lara en 1790.
 
-- Aniversario de la muerte de Manuel González Flores, en Chapingo en 1893.
+LXVIII.- 11 de septiembre, en homenaje al Ejército Mexicano, que con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejército Español en su intento de reconquista en 1829;
 
-- 16 de mayo:
+LXIX.- 27 de septiembre, con motivo de la declaración de Antiguo Morelos como Villa en 1828;
 
-- Aniversario del Natalicio del General Juan N. Cortina en 1824.
+LXX.- 29 de septiembre, con motivo de la elevación a Villa de la Congregación de San José o Joya de los Indios con el nombre de Gómez Farías en 1870;
 
-- 19 de mayo:
+LXXI.- 1 de octubre, en conmemoración de los siguientes acontecimientos:
 
-- Aniversario de la fundación de Ocampo en 1749.
+a).- Fundación del actual municipio de Guerrero en 1750; y
 
-- Aniversario de la fundación de Hidalgo en 1752.
+b).- Apertura del primer periodo ordinario de sesiones del H. Congreso del Estado.
 
-- Aniversario de la fundación de la Villa de Jaumave en 1744.
+LXXII.- 3 de octubre, para conmemorar el natalicio del Licenciado Emilio Portes Gil en 1890;
 
-- 22 de mayo:
+LXXIII.- 6 de octubre, con motivo de la fundación de la Villa de Santa María de Aguayo, hoy Victoria en 1750;
 
-- Aniversario de la muerte del Insurgente Mateo Acuña en 1811.
+LXXIV.- 7 de octubre, por el aniversario luctuoso de Luis Caballero Vargas en 1832;
 
-- 23 de mayo:
+LXXV.- 8 de octubre, para conmemorar el natalicio de la maestra Estefanía Castañeda Núñez de Cáceres en 1872;
 
-- Aniversario del natalicio del Profesor Lauro Aguirre en 1882.
+LXXVI.- 10 de octubre, para conmemorar el natalicio del Arquitecto Enrique L. Canseco en 1886;
 
-- 26 de mayo:
+LXXVII.- 11 de octubre, con motivo del aniversario de la elevación a ciudad de la Congregación de San Pedro de Roma con el nombre de Miguel Alemán en 1950;
 
-- Aniversario de la fundación de Bustamante en 1746.
+LXXVIII.- 16 de octubre, por el aniversario de la muerte del Licenciado y General Juan José de la Garza en 1893;
 
-- 28 de mayo:
+LXXIX.- 19 de octubre, con motivo del aniversario de la elevación de Nuevo Morelos a la categoría de Villa en 1860;
 
-- Aniversario de la muerte del profesor Juan Rincón en 1951.
+LXXX.- 23 de octubre, en conmemoración de los siguientes aniversarios:
 
-- 3 de junio:
+a) Del natalicio del General Servando Canales Molano en 1830; y
 
-- Aniversario de la fundación de Villa de Casas en 1770.
+b) De la fundación de la nueva Villa de Padilla en 1971.
 
-- 15 de junio:
+LXXXI.- 24 de octubre, para conmemorar el natalicio del General Rafael Cárdenas en 1890;
 
-- Aniversario de la declaración de Villa de Nuevo Laredo en 1848.
+LXXXII.- 25 de octubre, por el aniversario de la muerte del General Ascensión Gómez en 1741;
 
-- 16 de junio:
+LXXXIII.- 27 de octubre, para conmemorar el natalicio del profesor Rafael Tejeda Puente en 1782;
 
-- Aniversario de la Batalla de Santa Gertrudis, municipio de Camargo, en 1866. Triunfo de las tropas republicanas al mando del General Mariano Escobedo y el Coronel Servando Canales Molano, contra los conservadores.
+LXXXIV.- 28 de octubre, con motivo del aniversario de la elevación de El Mante a la categoría de Ciudad en 1937;
 
-- 24 de junio:
+LXXXV.- 30 de octubre, por el aniversario de la muerte del General Juan N. Cortina en 1894;
 
-- Aniversario del natalicio del Profesor Juan Rincón en 1743.
+LXXXVI.- 16 de noviembre, para conmemorar el natalicio del Licenciado Fidencio Trejo Flores en 1884;
 
-- Aniversario del natalicio del Profesor Juan B. Tijerina en 1857.
+LXXXVII.- 22 de noviembre para conmemorar el natalicio del General Pedro J. Méndez Ortiz en 1836;
 
-- 26 de junio:
+LXXXVIII.- 4 de diciembre, con motivo de la emancipación del municipio de Río Bravo en 1961.
 
-- Aniversario de la muerte del General Lauro Villar Ochoa en 1923.
+LXXXIX.- 10 de diciembre, por el aniversario luctuoso del licenciado Emilio Portes Gil en 1978;
 
-- 28 de junio:
+XC.- 12 de diciembre, para conmemorar el natalicio de Guadalupe Mainero Juárez en 1856;
 
-- Aniversario de la muerte del General Servando Canales Molano en 1881.
+XCI.- 16 de diciembre, por el aniversario luctuoso del ingeniero Marte R. Gómez en 1973;
 
-- 3 de julio:
+XCII.- 25 de diciembre, con motivo de la fundación de Llera en 1748; y
 
-- Aniversario de la elevación de Mainero a la categoría de Villa en 1924.
-
-- Aniversario de la muerte del General Manuel Mier y Terán en 1832.
-
-- 4 de julio:
-
-- Aniversario del natalicio del Ingeniero Marte R. Gómez Segura en 1896.
-
-- 6 de julio:
-
-- Aniversario de la fundación de San Carlos en 1766.
-
-- 7 de julio:
-
-- Aniversario de la instalación del Primer Congreso Constituyente de Tamaulipas en 1824.
-
-- 18 de julio:
-
-- Aniversario del natalicio del General Manuel del Refugio González Flores en 1833.
-
-- 22 de julio:
-
-- Aniversario de la fundación de Tula en 1617.
-
-- 29 de julio:
-
-- Aniversario del natalicio del Licenciado Horacio Terán Sosaya en 1902.
-
-- 7 de agosto:
-
-- Aniversario de la repoblación de Palmillas en 1749.
-
-- 9 de agosto:
-
-- Aniversario del natalicio de Manuel C. Farrega en 1897.
-
-- 10 de agosto:
-
-- Aniversario de la muerte de Guadalupe Mainero Juárez en 1901.
-
-- 20 de agosto:
-
-- Aniversario del natalicio de José Bernardo Gutiérrez de Lara en 1774.
-
-- 24 de agosto:
-
-- Aniversario del natalicio del Licenciado Francisco Castellanos en 1893.
-
-- 1 de septiembre:
-
-- Apertura del segundo periodo de sesiones ordinarias de cada año de ejercicio de la Legislatura del Estado.
-
-- 3 de septiembre:
-
-- Aniversario de la fundación de Soto la Marina en 1750.
-
-- 10 de Septiembre:
-
-- Aniversario del natalicio del General Cesar López de Lara en 1790.
-
-- Aniversario de la muerte de José de Escandón, Conde de la Sierra Gorda en 1770.
-
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2005)</small>
-
-- 11 de septiembre:
-
-- El 11 de septiembre de 1829, el Ejército Mexicano con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejercito Español en su intento de reconquista.
-
-- 27 de septiembre:
-
-- Aniversario de la declaración de Antiguo Morelos como Villa en 1828.
-
-- 29 de septiembre:
-
-- Aniversario de la elevación a Villa de la Congregación de San José o Joya de los Indios con el nombre de Gómez Farías en 1870.
-
-- 1 de octubre:
-
-- Aniversario de la fundación de la actual Cd. Guerrero en 1750.
-
-- 3 de octubre:
-
-- Aniversario del natalicio del Licenciado Emilio Portes Gil en 1890.
-
-- 6 de octubre:
-
-- Aniversario de la fundación de la Villa de Santa María de Aguayo, hoy Victoria en 1750.
-
-- 7 de octubre:
-
-- Aniversario de la muerte de Luis Caballero Vargas en 1832.
-
-- 8 de octubre:
-
-- Aniversario del natalicio de la maestra Estefanía Castañeda Núñez de Cáceres en 1872.
-
-- 10 de octubre:
-
-- Aniversario del natalicio del Arquitecto Enrique L. Canseco en 1886.
-
-- 11 de octubre:
-
-- Aniversario de la elevación a ciudad de la Congregación de San Pedro de Roma con el nombre de Miguel Alemán en 1950.
-
-- 16 de octubre
-
-- Aniversario de la muerte del Licenciado y General Juan José de la Garza en 1893.
-
-- 19 de octubre:
-
-- Aniversario de la elevación de Nuevo Morelos a la categoría de Villa en 1860.
-
-- 23 de octubre:
-
-- Aniversario del natalicio del General Servando Canales Molano en 1830.
-
-- Aniversario de la fundación de la nueva Villa de Padilla en 1971.
-
-- 24 de octubre:
-
-- Aniversario del natalicio del General Rafael Cárdenas en 1890.
-
-- 25 de octubre:
-
-- Aniversario de la muerte del General Ascensión Gómez en 1741.
-
-- 27 de octubre:
-
-- Aniversario del natalicio del profesor Rafael Tejeda Puente en 1782.
-
-- 28 de octubre:
-
-- Aniversario de la elevación de El Mante a la categoría de Ciudad en 1937.
-
-- 30 de octubre:
-
-- Aniversario de la muerte del General Juan N. Cortina en 1894.
-
-- 16 de noviembre:
-
-- Aniversario del natalicio del Licenciado Fidencio Trejo Flores en 1884.
-
-- 22 de noviembre:
-
-- Aniversario del natalicio del General Pedro J. Méndez Ortiz en 1836.
-
-- 4 de diciembre:
-
-- Aniversario de la emancipación del municipio de Río Bravo en 1961.
-
-- 10 de diciembre:
-
-- Aniversario de la muerte del licenciado Emilio Portes Gil en 1978.
-
-- 12 de diciembre.
-
-- Aniversario del natalicio de Guadalupe Mainero Juárez en 1856.
-
-- 16 de diciembre
-
-- Aniversario de la muerte del ingeniero Marte R. Gómez en 1973.
-
-- 25 de diciembre:
-
-- Aniversario de la fundación de Llera en 1748.
-
-- 26 de diciembre:
-
-- Aniversario de la fundación del actual Municipio de Abasolo en 1752. En 1828 el recibe nombre de Abasolo.
+XCIII.- 26 de diciembre, con motivo de la fundación del actual municipio de Abasolo en 1752. En 1828 recibe el nombre de Abasolo.
 
 ###### Artículo 12.
 
 En fechas y acontecimientos de excepcional importancia para el Estado, el Gobernador podrá acordar el izamiento de la Bandera Nacional en días distintos a los señalados en el calendario cívico local dentro de la jurisdicción del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-Todos los planteles educativos del Estado poseerán un Escudo de Armas del Estado en su modalidad de bandera, misma que se utilizará en los actos cívicos que se realicen. Se alentará entre los alumnos el respeto y el culto a dicho símbolo del Estado.
+Todos los planteles educativos del Estado poseerán un Escudo del Estado en su modalidad de bandera, misma que se utilizará en los actos cívicos que se realicen. Se alentará entre los alumnos el respeto y el culto a dicho símbolo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-En su caso, podrán realizarse ceremonias de entrega formal del Escudo de Armas del Estado a organizaciones e instituciones públicas y privadas. El personal de las mismas que la reciba se ubicará en la forma más adecuada posible conforme al lugar en el cual se efectúe la ceremonia y observará, en todo caso, los siguientes preceptos:
+En su caso, podrán realizarse ceremonias de entrega formal del Escudo del Estado a organizaciones e instituciones públicas y privadas. El personal de las mismas que la reciba se ubicará en la forma más adecuada posible conforme al lugar en el cual se efectúe la ceremonia y observará, en todo caso, los siguientes preceptos:
 
 I.- Si la entrega tiene lugar en campo abierto, se formará en línea de 3 filas en orden de revista, pero si es grupo montado lo hará en línea de secciones por tres, en el lugar que se disponga.
 
 II.- Si la entrega se efectúa en un salón, patio o cualquier otro sitio que no reúna las condiciones necesarias para las formaciones indicadas en la fracción anterior, la colocación del grupo se adaptará a las características del lugar.
 
 III.- Si la ceremonia coincide con la entrega oficial del Lábaro Patrio en términos de la ley federal sobre la materia, se seguirán las reglas señaladas en la misma, entregándose primero la Bandera Nacional y posteriormente el Escudo de Armas del Estado en su modalidad de bandera.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 IV.- La persona encargada de hacer la entrega formal del escudo lo tomará en sus manos y frente a la representación de la organización o institución que habrá de recibirla tomará la siguiente protesta:
 
@@ -551,27 +413,37 @@ Los integrantes de la organización o institución responderán:
 
 Quien haya hecho entrega del escudo, referirá:
 
-"Al poner el Escudo de Armas de Tamaulipas en sus manos, nuestro Estado confía en que su protesta será honrada".
+“Al poner el Escudo de Tamaulipas en sus manos, nuestro Estado confía en que su protesta será honrada”.
 
-V.- Enseguida se entregará el Escudo de Armas al representante de la organización o institución, quien a su vez la entregará a quien sea designado como portaestandarte.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+V.- Enseguida se entregará el Escudo al representante de la organización o institución, quien a su vez la entregará a quien sea designado como portaestandarte.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-Si fueren varias las instituciones que hayan de recibir el Escudo de Armas del Estado se procederá en cada caso como lo refiere el artículo anterior, ordenándose alfabéticamente la precedencia de la entrega.
+Si fueren varias las instituciones que hayan de recibir el Escudo del Estado se procederá en cada caso como lo refiere el artículo anterior, ordenándose alfabéticamente la precedencia de la entrega.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
-Cuando la representación de una organización o institución desfile con el Escudo de Armas del Estado, el portaestandarte lo colocará en la portabandera, de modo que la cuja caiga sobre su cadera derecha; introducirá el regatón del asta en la cuja y con la mano derecha a la altura del hombro mantendrá el escudo cuidando que quede ligeramente inclinado hacia delante y evitando en todo momento que toque el suelo.
+Cuando la representación de una organización o institución desfile con el Escudo del Estado, el portaestandarte lo colocará en la portabandera, de modo que la cuja caiga sobre su cadera derecha; introducirá el regatón del asta en la cuja y con la mano derecha a la altura del hombro mantendrá el escudo cuidando que quede ligeramente inclinado hacia delante y evitando en todo momento que toque el suelo.
 
 Al hacerse alto, se sacará el asta de la cuja y se bajará hasta que el regatón toque el suelo, aproximadamente a 10 centímetros a la derecha de la punta del pie de ese costado, sosteniéndola con la mano derecha a la altura del pecho en posición vertical.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
-Los particulares podrán utilizar la modalidad de bandera del Escudo de Armas del Estado en sus vehículos y exhibirla en sus lugares de residencia o de trabajo. En todo caso los particulares observarán el respeto que corresponde a este símbolo del Estado y lo exhibirán y portarán con pulcritud y deferencia.
+Los particulares podrán utilizar la modalidad de bandera del Escudo del Estado en sus vehículos y exhibirla en sus lugares de residencia o de trabajo. En todo caso los particulares observarán el respeto que corresponde a este símbolo del Estado y lo exhibirán y portarán con pulcritud y deferencia.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
-Los ejemplares del Escudo de Armas del Estado en su modalidad de bandera que estén destinados al comercio, deberán satisfacer las características de diseño y proporcionalidad establecidas en el artículo 3° de esta ley.
+Los ejemplares del Escudo de Tamaulipas en su modalidad de bandera que estén destinados al comercio, deberán satisfacer las características de diseño y proporcionalidad establecidas en el artículo 3 de esta ley.
 
 ### Capítulo Quinto. De la ejecución y difusión del Himno de Tamaulipas
 
@@ -595,9 +467,11 @@ Sin demérito de la naturaleza federal de las concesiones de radio y televisión
 
 El Himno de Tamaulipas se ejecutará en actos solemnes de carácter oficial, cívico, cultural, escolar o deportivo. Cuando deba ejecutarse el Himno Nacional, el Himno de Tamaulipas se entonará con posterioridad a aquél.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 23.
 
-La demostración civil de respeto al Himno de Tamaulipas se hará en posición de firmes y los varones se descubrirán la cabeza.
+La demostración civil de respeto al Himno de Tamaulipas se hará en posición de firmes y podrá colocarse la mano derecha sobre el pecho a la altura del corazón, con la palma hacia el cuerpo. Los varones se descubrirán la cabeza.
 
 ###### Artículo 24.
 
@@ -749,9 +623,11 @@ La aplicación del presente ordenamiento corresponde a la Secretaría General de
 
 Las infracciones del presente ordenamiento que no constituyan delito pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán con multa hasta por el equivalente a 500 salarios mínimos o arresto hasta por 36 horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a tres tantos del beneficio económico percibido por el infractor.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 33.
 
-En caso de reproducción ilícita del Escudo de Armas o del Himno del Estado, o ambos, la autoridad administrativa ordenará el decomiso de los artículos correspondientes.
+En caso de reproducción ilícita del Escudo o del Himno del Estado, o ambos, la autoridad administrativa ordenará el decomiso de los artículos correspondientes.
 
 T R A N S I T O R I O S
 
@@ -782,3 +658,9 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
