@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "2000-05-30"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -522,6 +522,20 @@ La certificación de los medios de identificación electrónica del promovente, 
 
 Las dependencias y organismos descentralizados podrán hacer uso de los medios de comunicación electrónica para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares, en términos de lo dispuesto en el artículo 35 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+ART. 69-C Bis.- Asimismo, a efecto de facilitar las gestiones de los interesados frente a las autoridades y evitar duplicidad de información en trámites y crear sinergias entre las diversas bases de datos, las dependencias y organismos descentralizados que estén vinculados en la realización de procedimientos administrativos relacionados con la apertura y operación de empresas, estarán obligados a coordinarse con la Secretaría de Economía, para el cumplimiento de dichos fines. La Secretaría de Economía tendrá la facultad de organizar, unificar e implementar el sistema informático que preverá expedientes electrónicos empresariales.
+
+Los expedientes electrónicos empresariales se compondrán, por lo menos, del conjunto de información y documentos electrónicos generados por la autoridad y por el interesado relativas a éste y que se requieren para la realización de cualquier trámite ante la Administración Pública Federal centralizada y descentralizada.
+
+La información y documentos electrónicos contenidos en el expediente electrónico gozarán, para todos los efectos jurídicos a que haya lugar, de equivalencia funcional en relación con la información y documentación en medios no electrónicos, siempre que la información y los documentos electrónicos originales se encuentren en poder de la Administración Pública Federal o cuando cuenten con la firma digital de las personas facultadas para generarlos o cuando hayan sido verificados por la autoridad requirente.
+
+Las normas reglamentarias del expediente electrónico empresarial desarrollarán, entre otros, los procedimientos y requisitos técnicos del mismo.
+
+El Gobierno Federal, a través de la Secretaría de Economía, podrá celebrar convenios con los Estados y Municipios del país que deseen incorporarse al sistema electrónico de apertura y operación de empresas que se ha mencionado en los párrafos anteriores.
+
 > <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 ART. 69-D.- Los titulares de las dependencias y los directores generales de los organismos descentralizados de la administración pública federal designarán a un servidor público con nivel de subsecretario u oficial mayor, como responsable de:
@@ -927,3 +941,9 @@ D.O.F. 30 DE MAYO DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto. Los recursos administrativos en trámite ante organismos descentralizados a la entrada en vigor del mismo, se resolverán conforme a la ley de la materia.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
