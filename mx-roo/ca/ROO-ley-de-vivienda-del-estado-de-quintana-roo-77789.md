@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-vivienda-del-estado-de-quintana-roo-77789"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-21"
-last_updated: "2010-12-21"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Quintana Roo, el martes 21 de diciembre de 2010.
 
@@ -831,13 +831,25 @@ Para el cumplimiento del objetivo planteado, el Estado establecerá convenios de
 
 ### CAPÍTULO I. LINEAMIENTOS GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 58.
 
-Las acciones de vivienda que se realicen en la entidad y sus municipios, deberán ser congruentes con las necesidades de cada centro de población y con los planes y los programas que regulan el uso y el aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado. Además, establecerán las previsiones para dotar a los desarrollos de vivienda que cumplan con lo anterior, de infraestructura y equipamiento básico y adoptarán las medidas conducentes para mitigar los posibles impactos sobre el medio ambiente.
+Las acciones de vivienda que se lleven a cabo en el Estado y en los municipios, por parte de las instancias y dependencias de los Gobiernos Federal, Estatal y Municipales, así como los sectores social y privado, se sujetarán a las normas de diseño, tecnologías de la construcción, asimismo deberán ser congruentes con las necesidades de cada centro de población y con los planes y programas que regulan el uso y aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado. Además, establecerán las previsiones para dotar a los desarrollos de vivienda que cumplan con lo anterior, de infraestructura y equipamiento básico y adoptarán las medidas conducentes para mitigar los posibles impactos sobre el medio ambiente.
+
+Dichas normas propiciarán la participación de la población beneficiada en la producción y mejoramiento de su vivienda, y tendrán por objeto elevar la calidad de las edificaciones y serán formuladas por la Secretaría guardando congruencia con lo dispuesto en los ordenamientos federales y locales aplicables.
 
 ###### Artículo 59.
 
 El Estado y los Municipios celebrarán acuerdos y convenios con los sectores sociales y privado, que tengan por objeto el mejoramiento de las condiciones de convivencia, impulsando la dotación y la administración de la infraestructura, los equipamientos y los servicios urbanos necesarios.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 59 Bis.
+
+· Para garantizar la inclusión y el derecho de las personas con discapacidad o movilidad reducida a la vivienda social, los promotores y desarrolladores de complejos habitacionales deberán edificar el 1% de las viviendas contempladas en el proyecto del conjunto habitacional, para ser destinadas a estas personas, atendiendo en todo momento en su diseño y construcción, a los criterios y especificaciones que marque el Código de Edificación de Vivienda del Estado, la Ley de Protección y Desarrollo Integral para las Personas con Discapacidad y demás normas aplicables.
+
+Las viviendas para la personas con discapacidad o movilidad reducida, deberán estar ubicadas dentro del conjunto habitacional en áreas de fácil acceso de los servicios públicos y de servicios.
 
 ###### Artículo 60.
 
@@ -1172,3 +1184,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+15 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
