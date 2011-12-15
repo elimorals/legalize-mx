@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-ambiental-y-del-21026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-24"
-last_updated: "2009-06-26"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21026&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2001-04-09"
 ---
 # LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DE LA CIUDAD DE MEXICO -- ANTES LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL --
 
-LEY ORGANICA DE LA PROCURADURIA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
+LEY ORGÁNICA DE LA PROCURADURÍA AMBIENTAL Y DEL ORDENAMIENTO TERRITORIAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 24 de abril de 2001.
 
@@ -362,11 +362,15 @@ XXII. Adscribir orgánica y administrativamente a la oficina del Procurador (a),
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XXIII. Participar en las sesiones del Consejo de Gobierno, como invitado permanente, con derecho a voz únicamente, y
+XXIII. Participar en las sesiones del Consejo de Gobierno, como invitado permanente, con derecho a voz únicamente, y (sic)
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
-XXIV. Las demás que se le asignen en los ordenamientos jurídicos aplicables.
+XXIV. Difundir y publicar las respuestas de las autoridades respecto de las recomendaciones en el portal de Internet de la Procuraduría, en la Gaceta Oficial del Distrito Federal, así como en dos medios impresos de comunicación de mayor circulación;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
+
+XXV. Las demás que se le asignen en los ordenamientos jurídicos aplicables.
 
 ###### Artículo 11.
 
@@ -1016,6 +1020,10 @@ IV. Señalamiento de las acciones concretas que se solicitan a la autoridad llev
 
 La Recomendación será pública y no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
+
+Para efectos del párrafo anterior está obligado todo titular de la autoridad local en el marco de sus atribuciones a quien va dirigida la Recomendación a responder por escrito los motivos de aceptación o no de la misma.
+
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2006)</small>
 
 ###### Artículo 34.
@@ -1028,9 +1036,13 @@ La autoridad a la que se dirija la Recomendación, deberá responder si la acept
 
 Aceptada la Recomendación, la Procuraduría deberá dar el seguimiento correspondiente a fin de garantizar que la misma se cumpla en sus términos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
-Cuando la autoridad no acepte la Recomendación deberá responder a la Procuraduría con los razonamientos que motivaron su decisión.
+Cuando la autoridad no acepte la Recomendación deberá responder a la Procuraduría con los razonamientos que motivaron su decisión, asimismo la autoridad deberá publicar la respuesta en su portal de Internet.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
+
+La autoridad local que incumpla con lo dispuesto en el párrafo anterior, incurrirá en responsabilidad administrativa y se hará acreedor de las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1058,13 +1070,17 @@ La Procuraduría podrá elaborar y difundir públicamente informes especiales cu
 
 Lo anterior sin perjuicio de la responsabilidad penal o administrativa que pudiera acreditarse en el caso específico por la conducta de los servidores públicos.
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 34 Bis 2.
 
-La Asamblea Legislativa del Distrito Federal, a través de la Comisión de Preservación del Medio Ambiente y de Protección Ecológica y de la Comisión de Desarrollo e Infraestructura Urbana, según corresponda, a petición de la Procuraduría, podrá solicitar a los servidores públicos de la administración pública del Distrito Federal, información o su comparecencia para justificar las razones de sus acciones u omisiones, cuando:
+La Asamblea Legislativa del Distrito Federal, a través de la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático y/o de la Comisión de Desarrollo e Infraestructura Urbana, según corresponda, a petición de la Procuraduría o de las propias Comisiones, podrá solicitar a las autoridades y servidores públicos de la administración pública del Distrito Federal, información o su comparecencia para justificar las razones de sus acciones u omisiones, cuando:
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
 
 I. No acepten las Recomendaciones de la Procuraduría o lo hagan parcialmente; o
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2006)</small>
 
 II. Incumplan total o parcialmente esas Recomendaciones.
 
@@ -1143,3 +1159,9 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Túrnese al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+G.O. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
