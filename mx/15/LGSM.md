@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "2009-06-02"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -100,7 +100,11 @@ II.- El objeto de la sociedad;
 
 III.- Su razón social o denominación;
 
-IV.- Su duración;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+IV.- Su duración, misma que podrá ser indefinida;
 
 V.- El importe del capital social;
 
@@ -442,13 +446,13 @@ Cualquiera persona extraña a la sociedad que haga figurar o permita que figure 
 
 Ninguna sociedad de responsabilidad limitada tendrá más de cincuenta socios.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 62.
+###### Artículo 62.
 
-El capital social nunca será inferior a tres millones de pesos; se dividirá en partes sociales que podrán ser de valor y categoría desiguales, pero que en todo caso serán de mil pesos o de un múltiplo de esta cantidad.
+El capital social será el que se establezca en el contrato social; se dividirá en partes sociales que podrán ser de valor y categoría desiguales, pero que en todo caso serán de un múltiplo de un peso.
 
 ###### ARTICULO 63.
 
@@ -616,9 +620,11 @@ Para proceder a la constitución de una sociedad anónima, se requiere:
 
 I.- Que haya dos socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
 
-> <small>(REFORMADA, D.O.F. 28 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Que el capital social no sea menor de cincuenta mil pesos y que esté íntegramente suscrito;
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+II.- Que el contrato social establezca el monto mínimo del capital social y que esté íntegramente suscrito;
 
 III.- Que se exhiba en dinero efectivo, cuando menos, el veinte por ciento del valor de cada acción pagadera en numerario, y
 
@@ -1953,3 +1959,9 @@ D.O.F. 28 DE JULIO DE 2006.
 D.O.F. 2 DE JUNIO DE 2009.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
