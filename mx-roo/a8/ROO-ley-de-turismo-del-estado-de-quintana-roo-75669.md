@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2010-06-28"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -281,9 +281,13 @@ XV. Brindar apoyo a la Secretaría Federal, para que ésta, ejerza sus facultade
 
 XVI. Coadyuvar con los Fideicomisos de Promoción Turística del Estado en la elaboración de sus programas de difusión turística;
 
-XVII. Brindar atención a los prestadores de servicios turísticos asesoramiento y capacitación para conducirse de manera ética, profesional, apegados a las disposiciones legales que tiendan a proteger a los sectores sociales en materia turística, ya sean estas de carácter municipal, estatal, nacional e internacional; y
+XVII. Brindar atención a los prestadores de servicios turísticos asesoramiento y capacitación para conducirse de manera ética, profesional, apegados a las disposiciones legales que tiendan a proteger a los sectores sociales en materia turística, ya sean estas de carácter municipal, estatal, nacional e internacional; y (sic)
 
-XVIII. Las demás previstas en éste y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Llevar a cabo la celebración de convenios con prestadores de servicios turísticos, por medio de los cuales se determinen precios y tarifas reducidos, así como paquetes que hagan posible el cumplimiento de los objetivos del turismo social y accesible.
+
+XIX. Las demás previstas en éste y otros ordenamientos.
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS COLEGIADOS EN MATERIA TURÍSTICA
 
@@ -332,6 +336,10 @@ Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando e
 ###### Artículo 15.
 
 La Secretaría impulsará y promoverá el turismo social, el cual comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades con equidad para que las personas viajen con fines recreativos, deportivos, educativos y culturales en condiciones adecuadas de economía, seguridad y comodidad.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
+
+La Secretaria pondrá especial atención para que se facilite la participación en el turismo Social de los grupos de trabajadores, niños, jóvenes, estudiantes, adultos mayores, indígenas y otros que por razones físicas, económicas, sociales o culturales tienen acceso limitado a disfrutar del patrimonio y los servicios turísticos.
 
 Las dependencias y las entidades de la Administración Pública del Estado, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
 
@@ -876,3 +884,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de Turismo del Estado contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a la fracción XVIII del Artículo 9 de la Ley de Turismo del Estado de Quintana Roo.
