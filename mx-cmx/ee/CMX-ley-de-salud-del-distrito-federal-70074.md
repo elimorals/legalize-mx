@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-11-24"
+last_updated: "2011-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1036,9 +1036,9 @@ VI. Garantizar el conocimiento, difusión y acceso a la información de la socie
 
 VII. Estimular las tareas de investigación y divulgación en la materia;
 
-> <small>(REFORMADA, G.O. 4 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
-VIII. Elaborar y difundir información y recomendaciones de hábitos alimenticios correctos, a través de un Programa de Semáforo Nutricional que contemple una campaña permanente en mercados, centros de abasto, restaurantes, establecimientos mercantiles, de venta de alimentos y similares, que será diseñado por la Secretaría en coordinación con la Secretaría de Desarrollo Económico del Distrito Federal, así como brindar asesoría para la instrumentación de acciones por parte de los establecimientos a los que se refiere la presente fracción, con la finalidad de que proporcionen información sobre los riesgos del sobrepeso y la obesidad, y
+VIII. Elaborar y difundir información y recomendaciones de hábitos alimenticios correctos, a través de un Programa de Semáforo Nutricional que contemple una campaña permanente en mercados públicos, centros de abasto, restaurantes, establecimientos mercantiles, de venta de alimentos y similares, que será diseñado por la Secretaría en coordinación con la Secretaría de Desarrollo Económico del Distrito Federal, así como brindar asesoría para la instrumentación de acciones por parte de los establecimientos a los que se refiere la presente fracción, con la finalidad de que proporcionen información sobre los riesgos del sobrepeso y la obesidad, y
 
 IX. Las demás que se establezcan en las disposiciones aplicables.
 
@@ -1378,7 +1378,9 @@ Corresponde al Gobierno, a través de la Agencia, la regulación, control, vigil
 
 Para los efectos del presente Título se entiende como:
 
-I. Mercados y centros de abastos: los sitios públicos y privados destinados a la compra y venta de productos en general, preferentemente los agropecuarios y de primera necesidad, en forma permanente o en días determinados;
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2011)</small>
+
+I. Mercados públicos y centros de abasto: los sitios públicos y privados destinados a la compra y venta de productos en general, preferentemente los agropecuarios y de primera necesidad, en forma permanente o en días determinados;
 
 II. Central de abastos: el sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compraventa al mayoreo y medio mayoreo de productos en general;
 
@@ -1888,19 +1890,27 @@ En el caso de la presentación de recurso de inconformidad, se interrumpirá la 
 
 La Agencia podrá hacer uso de las medidas legales necesarias, que establezcan la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificaciones del Distrito Federal, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de sanciones y las medidas de seguridad que procedan.
 
-### Capítulo VII. Central de Abasto, Mercados, Centros de Abasto y Similares
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo VII. Central de Abasto, Mercados Públicos, Centros de Abasto y Similares
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 147.
 
-La central de abastos, mercados, centros de abasto y similares, serán objeto de verificaciones sanitarias periódicas por la Agencia.
+La central de abastos, mercados públicos, centros de abasto y similares, serán objeto de verificaciones sanitarias periódicas por la Agencia.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 148.
 
-Corresponde a la Agencia, por conducto de las autoridades competentes, ordenar la fumigación periódica de la Central de Abastos, los mercados y centros de abasto y similares, con el propósito de evitar la proliferación de fauna nociva para la salud, de acuerdo a las disposiciones legales aplicables.
+Corresponde a la Agencia, por conducto de las autoridades competentes, ordenar la fumigación periódica de la Central de Abastos, los mercados públicos y centros de abasto y similares, con el propósito de evitar la proliferación de fauna nociva para la salud, de acuerdo a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 149.
 
-Los vendedores y personas cuya actividad esté vinculada con la central de abasto, mercados, centros de abasto y similares, estarán obligados a conservar las condiciones sanitarias e higiénicas reglamentadas para el debido mantenimiento de sus locales o puestos.
+Los vendedores y personas cuya actividad esté vinculada con la central de abasto, mercados públicos, centros de abasto y similares, estarán obligados a conservar las condiciones sanitarias e higiénicas reglamentadas para el debido mantenimiento de sus locales o puestos.
 
 ### Capítulo VIII. Construcciones, Edificios y Fraccionamientos
 
@@ -2547,3 +2557,7 @@ G.O. 24 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
+
+G.O. 15 DE DICIEMBRE DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
