@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2009-06-17"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOAPF"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -388,9 +388,11 @@ III.- Intervenir en lo relativo a comisiones, congresos, conferencias y exposici
 
 IV.- Intervenir en las cuestiones relacionadas con los límites territoriales del país y aguas internacionales;
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o para invertir o participar en sociedades mexicanas civiles o mercantiles, así como conceder permisos para la contitución (sic) de éstas o reformar sus estatutos o adquirir bienes inmuebles o derechos sobre ellos;
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+V.- Conceder a los extranjeros las licencias y autorizaciones que requieran conforme a las Leyes para adquirir el dominio de las Tierras, aguas y sus accesiones en la República Mexicana; obtener concesiones y celebrar contratos, intervenir en la explotación de Recursos Naturales o los permisos para adquirir bienes inmuebles o derechos sobre ellos;
 
 VI.- Llevar el registro de las operaciones realizadas conforme a la fracción anterior;
 
@@ -1054,6 +1056,12 @@ XI.- Coordinar y dirigir con la colaboración de la Secretaría de Agricultura, 
 
 XII.- Normar y registrar la propiedad industrial y mercantil; así como regular y orientar la inversión extranjera y la transferencia de tecnología;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+XII bis.- Autorizar el uso o modificación de denominación o razón social de sociedades mercantiles o civiles;
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
 XIII.- Establecer y vigilar las normas de calidad, pesas y medidas necesarias para la actividad comercial; así como las normas y especificaciones industriales;
@@ -1101,6 +1109,12 @@ XXIII.- Promover, orientar, fomentar y estimular la industria nacional;
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1991)</small>
 
 XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pequeña y mediana y regular la organización de productores industriales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+
+XXIV bis.- Organizar, unificar e implementar el sistema informático que establecerá expedientes electrónicos empresariales con la finalidad de simplificar los trámites que los interesados realizan ante la administración pública federal centralizada y paraestatal;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -2253,3 +2267,9 @@ CUARTO. El Titular del Ejecutivo Federal enviará al Congreso el primer document
 D.O.F. 17 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
+
+SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
