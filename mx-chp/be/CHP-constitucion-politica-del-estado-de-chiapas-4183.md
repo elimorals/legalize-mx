@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-11-23"
+last_updated: "2011-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -33,7 +33,7 @@ Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
 La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 263, POR LA SEXAGESIMA CUARTA LEGISLATURA, MODIFICO DE MANERA SUSTANCIAL EL TEXTO DE LA CONSTITUCION, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DEL 27 DE JUNIO DE 2011.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 263, POR LA SEXAGÉSIMA CUARTA LEGISLATURA, MODIFICO DE MANERA SUSTANCIAL EL TEXTO DE LA CONSTITUCIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 27 DE JUNIO DE 2011.</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
@@ -189,7 +189,7 @@ El Estado promoverá y protegerá la organización y el desarrollo de la familia
 
 Los derechos de los indígenas que esta Constitución consagra deberán ser protegidos y regulados por la ley reglamentaria respectiva y por las demás leyes, en sus correspondientes ámbitos de competencia, y serán, además, garantizados por las autoridades estatales y municipales, así como por las autoridades tradicionales de las comunidades indígenas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 9°.
 
@@ -597,11 +597,11 @@ El Congreso del Estado deberá quedar instalado el día primero de octubre del a
 
 El Congreso del Estado tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la convocatoria respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-Dentro de los 30 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Dentro de los 45 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2197,7 +2197,7 @@ Por tanto, mando se imprima, publique circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Gobierno del Estado, en Tuxtla Gutiérrez, a primero de febrero de mil novecientos veintiuno.- T. Fernández Ruiz.- Amadeo Ruiz, Srio. Gral.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE NOVIEMBRE DE 1922.
 
@@ -2491,9 +2491,9 @@ Quedan derogadas todas las leyes y disposiciones que se opongan a la presente.
 
 P.O. 7 DE ENERO DE 1931.
 
-DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 67, QUE REFORMA VARIOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE POR ACUERDO DEL C. GOBERNADOR DEL ESTADO, Y EN VISTA DE HABERSE PUBLICADO CON ALGUNOS ERRORES Y OMISIONES EL DECRETO No. 67, PUBLICADO EN EL PERIODICO OFICIAL No. 1, DE FECHA 7 DE ENERO DE 1931, QUEDO SIN EFECTO ALGUNO DICHO DECRETO, DEBIENDOSE TENER COMO AUTENTICA Y EXACTA LA PUBLICACION QUE NUEVAMENTE SE REALIZO DEL MISMO, EN EL P.O. 14 DE ENERO DE 1931.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE POR ACUERDO DEL C. GOBERNADOR DEL ESTADO, Y EN VISTA DE HABERSE PUBLICADO CON ALGUNOS ERRORES Y OMISIONES EL DECRETO NÚMERO 67, PUBLICADO EN EL PERIÓDICO OFICIAL No. 1, DE FECHA 7 DE ENERO DE 1931, QUEDO SIN EFECTO ALGUNO DICHO DECRETO, DEBIÉNDOSE TENER COMO AUTÉNTICA Y EXACTA LA PUBLICACIÓN QUE NUEVAMENTE SE REALIZÓ DEL MISMO, EN EL P.O. 14 DE ENERO DE 1931.</small>
 
 ###### Artículo 3º.
 
@@ -2609,7 +2609,7 @@ La presente ley surtirá sus efectos desde la fecha de su publicación en el Per
 
 P.O. 14 DE ENERO DE 1931.
 
-DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA ESTATAL.
+DECRETO NÚMERO 67, QUE REFORMA VARIOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA ESTATAL.
 
 ###### Artículo 1º.
 
@@ -2633,13 +2633,13 @@ Unico.- Este decreto comenzará a regir desde la fecha de su publicación en el 
 
 P.O. 10 DE NOVIEMBRE DE 1943.
 
-DECRETO No. 3, QUE REFORMA EL ARTICULO 54 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 3, QUE REFORMA EL ARTÍCULO 54 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Este decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE NOVIEMBRE DE 1943.
 
-DECRETO No. 4, QUE REFORMA EL ARTICULO 2 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 4, QUE REFORMA EL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Este decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -2667,7 +2667,7 @@ P.O. 1 DE MARZO DE 1933.
 
 P.O. 28 DE NOVIEMBRE DE 1934.
 
-DECRETO 103/8 QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 103/8 QUE REFORMA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 1º.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
@@ -2887,13 +2887,13 @@ El Ejecutivo dispondrá se promulgue, circule y publique por bando solemne, para
 
 P.O. 19 DE DICIEMBRE DE 1973.
 
-DECRETO No. 86, QUE REFORMA EL ARTICULO 2 CONSTITUCIONAL.
+DECRETO NÚMERO 86, QUE REFORMA EL ARTÍCULO 2 CONSTITUCIONAL.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE DICIEMBRE DE 1973.
 
-DECRETO No. 87, QUE REFORMA EL ARTICULO 2 CONSTITUCIONAL.
+DECRETO NÚMERO 87, QUE REFORMA EL ARTÍCULO 2 CONSTITUCIONAL.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -2933,7 +2933,7 @@ CUARTO.- Esta reforma entrará en vigor al día siguiente de su publicación en 
 
 P.O. 22 DE NOVIEMBRE DE 1978.
 
-DECRETO No. 4 QUE REFORMA EL ARTICULO 67 CONSTITUCIONAL.
+DECRETO NÚMERO 4 QUE REFORMA EL ARTÍCULO 67 CONSTITUCIONAL.
 
 PRIMERO.- Quedan derogadas todas las disposiciones que se opongan a la presente reforma.
 
@@ -2941,7 +2941,7 @@ SEGUNDO.- Esta reforma entrará en vigor una vez cumplido el procedimiento estab
 
 P.O. 22 DE NOVIEMBRE DE 1978.
 
-DECRETO No. 5 QUE REFORMA LOS ARTICULOS 17, 20 Y 65 DE LA CONSTITUCION.
+DECRETO NÚMERO 5 QUE REFORMA LOS ARTÍCULOS 17, 20 Y 65 DE LA CONSTITUCIÓN.
 
 PRIMERO.- Las presentes reformas entrarán en vigor una vez cumplido el procedimiento establecido en el artículo 93 de la Constitución Política del Estado, en sus fracciones I a IV y al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2977,9 +2977,9 @@ Quedan derogadas todas las leyes, decretos, circulares, reglamentos o cualesquie
 
 ###### ARTICULO QUINTO.
 
-El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento. cumplimiento.
+El Ejecutivo dispondrá se promulgue, circule y publique por Bando Solemne, para su debido cumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO SEXTO.
 
@@ -3243,7 +3243,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 20 DE JUNIO DE 2001.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCIÓN.
 
 ###### ARTICULO PRIMERO.
 
@@ -3455,9 +3455,9 @@ Las Salas Regionales Unitarias ubicadas en Tapachula de Córdova y Ordóñez en 
 
 Décimo Primero.- Los recursos humanos, materiales y financieros que actualmente conforman al Supremo Tribunal de Justicia del Estado, la Sala Superior, el Consejo de la Judicatura, el Tribunal del Servicio Civil y el Tribunal Electoral, todos del Poder Judicial del Estado, se transferirán en lo que proceda a la Magistratura Superior del Estado, Tribunal Constitucional, Consejo de la Magistratura, Tribunal del Trabajo Burocrático y Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, respectivamente.
 
-Décimo Segundo.- (DEROGADO [N. DE E. REPUBLICADO] POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 326, P.O. 14 DE NOVIEMBRE DE 2007)
+Décimo Segundo.- (DEROGADO [N. DE E. REPUBLICADO] POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 326, P.O. 14 DE NOVIEMBRE DE 2007)
 
-Décimo Tercero.- (DEROGADO [N. DE E. REPUBLICADO] POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 326, P.O. 14 DE NOVIEMBRE DE 2007)
+Décimo Tercero.- (DEROGADO [N. DE E. REPUBLICADO] POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 326, P.O. 14 DE NOVIEMBRE DE 2007)
 
 Décimo Cuarto.- Los Magistrados del Tribunal del Servicio Civil, que no formen parte del Tribunal del Trabajo Burocrático, tendrán derecho a un haber en términos del Artículo 55 Constitucional.
 
@@ -3577,7 +3577,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 3 DE SEPTIEMBRE DE 2008.
 
-DECRETO NUMERO 237, POR EL QUE SE REFORMA EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 004, DE FECHA 29 DE NOVIEMBRE DE 2007, DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+DECRETO NÚMERO 237, POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 004, DE FECHA 29 DE NOVIEMBRE DE 2007, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3585,7 +3585,7 @@ Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 
 P.O. 3 DE SEPTIEMBRE DE 2008.
 
-DECRETO NUMERO 238, POR EL QUE SE REFORMAN EL PARRAFO TERCERO DEL ARTICULO 47 Y EL ARTICULO 64, DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+DECRETO NÚMERO 238, POR EL QUE SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 47 Y EL ARTÍCULO 64, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
 
 Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3735,7 +3735,7 @@ Artículo Octavo.- Se derogan las disposiciones que se opongan a lo dispuesto en
 
 P.O. 13 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 367, POR EL QUE SE REFORMA EL PARRAFO DECIMOCUARTO Y SE DEROGAN LOS PARRAFOS DECIMOQUINTO Y DECIMOSEXTO DEL ARTICULO 15 Y SE ADICIONA UN ARTICULO TRANSITORIO A LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+DECRETO NÚMERO 367, POR EL QUE SE REFORMA EL PÁRRAFO DECIMOCUARTO Y SE DEROGAN LOS PÁRRAFOS DECIMOQUINTO Y DECIMOSEXTO DEL ARTÍCULO 15 Y SE ADICIONA UN ARTÍCULO TRANSITORIO A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3864,3 +3864,9 @@ Artículo Cuarto.- De conformidad con lo previsto en el párrafo tercero, del ar
 Los primeros ayuntamientos de los nuevos municipios, cuyo ejercicio iniciará el primero de octubre de dos mil doce, serán electos a través de los comicios ordinarios que para ese periodo se celebren, conforme a lo dispuesto en la Constitución Política del Estado de Chiapas y el Código de Elecciones y Participación Ciudadana.
 
 Artículo Quinto.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
