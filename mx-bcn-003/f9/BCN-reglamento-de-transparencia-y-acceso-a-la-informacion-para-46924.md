@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4692
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-28"
-last_updated: "2006-03-10"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO QUE APRUEBA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL EL 16 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de octubre de 2005.
 
@@ -716,3 +718,13 @@ SECRETARIO MUNICIPAL DEL XVIII AYUNTAMIENTO DE TECATE, B,C.
 P.O. 10 DE MARZO DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+Primero.- Se aprueba el Reglamento de Transparencia y Acceso a la Información Pública para el Municipio de Tecate, Baja California.
+
+Segundo.- se Abroga el Reglamento de Transparencia y Acceso a la Información para el Municipio de Tecate, Baja California; lo anterior a nivel de Dictamen.
+
+Tercero.- Remítase el presente Acuerdo al Secretario General de Gobierno del Estado de Baja California para su debida publicación en el Periódico Oficial del Estado.
