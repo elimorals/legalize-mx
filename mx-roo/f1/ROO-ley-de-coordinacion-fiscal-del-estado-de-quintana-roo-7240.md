@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2010-12-13"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -295,27 +295,31 @@ Esta participación se distribuirá directamente con base en el impuesto pagado 
 
 El Municipio que opte por no incorporarse al Sistema que establece esta Ley, recibirá las participaciones Federales que le corresponda, en los términos del artículo 5.º fracción I de la presente Ley a excepción de los que se obtengan por concepto de Tenencia y uso de vehículos, para ello, la distribución de los ingresos por este concepto se hará con base a los factores que establece el artículo 8º de la misma.
 
-###### ARTICULO 7º.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El factor que a cada Municipio corresponda de los recursos que establece el artículo 5º fracciones I y II de esta Ley, se determinará conforme a las reglas siguientes:
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-I.- Se establecerá un monto global compuesto por los recursos estimados, señalados en las fracciones I y II del artículo 5º de la presente Ley.
+###### ARTICULO 7°.
 
-II.- La población y la Superficie Territorial, serán proporcionados en forma oficial por el I.N.E.G.I. y se sujetarán a los resultados del último censo de población y vivienda.
+El factor que a cada Municipio corresponda de los recursos que establece el artículo 5, se determinará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+I.- Se establecerá un monto global compuesto por los recursos estimados, señalados en las fracciones I, II y III del artículo 5 de la presente Ley.
 
-III.- Los datos de la Recaudación del Impuesto Predial de los Municipios serán los que proporcione el Órgano Superior de Fiscalización del Estado.
+II.- La población y la Superficie Territorial, serán proporcionados en forma oficial por el I.N.E.G.I. y se sujetarán a los resultados del último censo o conteo de población y vivienda que haya publicado de manera oficial dicho Instituto en la fecha que corresponda al periodo por liquidar.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+III.- Los datos de la Recaudación del Impuesto Predial de los Municipios serán conforme a las últimas cifras que haya validado la Secretaría de Hacienda y Crédito Público para el cálculo de las participaciones.
 
-IV.- El factor de distribución a que se refiere la fracción III del presente artículo, será el del ejercicio inmediato anterior al año de la correspondiente distribución.
+IV.- Los datos a que se refiere la fracción III del presente artículo, se actualizarán cada año y se usará el más actualizado del que corresponda al periodo a distribuir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2008)</small>
+V.- Los datos de los ingresos propios de cada Municipio, serán conforme a las últimas cifras de su cuenta pública y que hayan sido proporcionadas de manera oficial por la Auditoría Superior del Estado.
 
-###### ARTICULO 8º.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La determinación de los coeficientes para lo distribución de los recursos que establece el Artículo 5º, fracción I y III de esta Ley, será de acuerdo a los siguientes factores:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 8°.
+
+Para la determinación mensual de la distribución de los recursos que establece el artículo 5, fracciones I y III de esta Ley, se tomará como base de repartición para cada municipio, el importe mensual que se les hubiere pagado en el ejercicio fiscal 2011 que se haya publicado oficialmente, si hubiere excedente se determinarán los coeficientes para su distribución de acuerdo a los siguientes factores:
 
 I.- El 45% se distribuirá en relación directa al número de habitantes de cada Municipio.
 
@@ -336,6 +340,24 @@ VI.- El 10% se distribuirá en relación a los ingresos propios de cada Municipi
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
 
 La base para la determinación de estos coeficientes será el importe de los Fondos comprendidos en el Artículo 5°, fracción I y III de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione lo Secretaría de Hacienda y Crédito Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+En caso de que el monto a distribuir, sea inferior a la base señalada en el primer párrafo, se usará el porcentaje que le correspondió a cada municipio en el mismo mes del ejercicio fiscal 2011.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de los municipios a los que por motivos de su fecha de creación no se les pueda aplicar lo dispuesto en el artículo 8 de esta ley por no tener base de repartición en los meses del ejercicio fiscal 2011 que le precedan a su creación, se le asignará como base para esos meses, el importe promedio que hayan recibido de los fondos comprendidos en el artículo 5 fracciones I y III de esta Ley durante el número de meses transcurridos desde su creación y hasta el cierre del ejercicio fiscal 2011.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Los ajustes y demás compensaciones de los fondos que se reciban de la Federación, se acumularán en el mes en que éstos sean recibidos. Se calculará la distribución del acumulado conforme al presente artículo y se liquidarán las diferencias con lo pagado anteriormente en el mismo mes.
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 2008)</small>
 
@@ -361,15 +383,19 @@ Municipio.
 
 La base para la determinación de estos coeficientes será el importe de los fondos comprendidos en el Artículo 5º, fracción II de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione la Secretaria de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 8°B.- Los factores y sus variables aplicados hasta el mes de mayo del 2008 serán aplicables para los recursos participables a los municipios hasta por un monto igual al total distribuido durante el ejercicio fiscal 2007.
+ARTICULO 8ºB.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 9º.
 
 Liquidaciones de las participaciones.
 
-El Gobierno del Estado a través de la Secretaría de Finanzas, una vez identificada la asignación mensual que le corresponde a la Entidad de los fondos previstos en el artículo 2º y 2ºA de la Ley de Coordinación Fiscal, afectará mensualmente la participación que le corresponde a cada Municipio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+El Gobierno del Estado a través de la Secretaría de Hacienda, una vez identificada la asignación mensual que le corresponde a la Entidad de los Fondos previstos en el artículo 2 y 2-A de la Ley de Coordinación Fiscal Federal, afectará mensualmente la participación que le corresponde a cada Municipio.
 
 La liquidación de los ajustes cuatrimestrales y definitivos quedarán sujetos a la normatividad establecida en el Artículo 7º de la Ley Federal en la Materia.
 
@@ -381,9 +407,13 @@ Transcurrido el plazo de ministración de las participaciones sin que el Estado 
 
 El Municipio podrá solicitar y recibir del Gobierno del Estado anticipos a cuenta de participaciones, autorizándolo a deducir dicho anticipo de las participaciones que le correspondan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Si a partir de la vigencia de la presente Ley, el estado recibiera participaciones, resultado de ejercicios anteriores, el porcentaje correspondiente a los Municipios se entregará conforme a los factores vigentes en los ejercicios respectivos.
+Si a partir de la vigencia de la presente Ley, el Estado recibiera participaciones, resultado de ejercicios anteriores, el porcentaje correspondiente a los Municipios se entregará conforme a lo establecido en el Artículo 8 de esta Ley.
 
 ###### ARTICULO 12.
 
@@ -401,7 +431,11 @@ III.- Cuando se hubieran entregado anticipos a cuenta de participaciones.
 
 De las retenciones:
 
-Las participaciones que correspondan a los Municipios, son inembargables y no están sujetas a retención, excepto que la Contaduría Mayor de Hacienda lo determine cuando exista motivo fundado o bien a fin de solventar los créditos contratados y documentos en los que establezca como garantía las participaciones que el Municipio debe recibir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Las participaciones que correspondan a los Municipios, son inembargables y no están sujetas a retención, excepto que la Auditoría Superior del Estado lo determine cuando exista motivo fundado o bien a fin de solventar los créditos contratados y documentos en los que establezca como garantía las participaciones que el Municipio debe recibir.
 
 ###### ARTICULO 14.
 
@@ -431,11 +465,19 @@ DE LAS REUNIONES EN MATERIA DE COORDINACION.
 
 Objetivos de los órganos de Coordinación:
 
-El Gobierno del Estado por conducto de la Secretaría de Finanzas, los Ayuntamientos a través de sus Tesorerías Municipales y el Poder Legislativo por medio de su Contaduría Mayor de Hacienda, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán la Comisión Permanente de Funciones Fiscales, teniendo los siguientes objetivos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+El Gobierno del Estado por conducto de la Secretaría de Hacienda; los Ayuntamientos a través de sus Tesorerías Municipales y el Poder Legislativo por medio de su Auditoría Superior del Estado, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán la Comisión Permanente de Funcionarios Fiscales, teniendo los siguientes objetivos:
 
 I.- Proponer las medidas que estimen convenientes para mejorar o actualizar en su caso, el Sistema de Coordinación Fiscal del Estado de Quintana Roo.
 
-II.- Vigilar la distribución y liquidación tanto de pagos provisionales como de diferencias en la participación anual que formule la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+II.- Vigilar la distribución y liquidación tanto de pagos provisionales como de diferencias en las participaciones anuales que formule la Secretaría de Hacienda.
 
 III.- Efectuar en forma permanente estudios de la Legislatura Fiscal Municipal.
 
@@ -453,7 +495,11 @@ PARA CONVOCAR A REUNION.
 
 De las reuniones de los Organismos de Coordinación en el artículo precedente.
 
-Las reuniones se podrán realizar a petición expresa de la Secretaría de Finanzas o de alguno de los Ayuntamientos y se efectuarán cuantas veces sea necesario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Las reuniones se podrán realizar a petición expresa de la Secretaría de Hacienda o de alguno de los Ayuntamientos y se efectuarán cuantas veces sea necesario.
 
 ### CAPITULO IV
 
@@ -463,7 +509,11 @@ DE LOS ALCANCES POR VIOLACIONES AL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO.
 
 Procedimientos en caso de violaciones.
 
-Cuando un Municipio adherido al Sistema de Coordinación Fiscal del Estado, contravenga lo establecido por esta Ley o viole el contenido de los Convenios de adhesión al Sistema de Coordinación Fiscal del Estado o al de Colaboración Administrativa, previa opinión de la Comisión Permanente de Funciones Fiscales, será prevenido por la Secretaría de Finanzas para que en un plazo que no exceda de treinta días, adopte las medidas necesarias para corregir las violaciones en que hubiera incurrido, de no hacerlo, se considerará que deja de estar adherido al Sistema de Coordinación Fiscal del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Cuando un Municipio adherido al Sistema de Coordinación Fiscal del Estado, contravenga lo establecido por esta Ley o viole el contenido de los Convenios de adhesión al Sistema de Coordinación Fiscal del Estado o al de Colaboración Administrativa, previa opinión de la Comisión Permanente de Funciones Fiscales, será prevenido por la Secretaría de Hacienda para que en un plazo que no exceda de treinta días, adopte las medidas necesarias para corregir las violaciones en que hubiera incurrido, de no hacerlo, se considerará que deja de estar adherido al Sistema de Coordinación Fiscal del Estado.
 
 El Ejecutivo del Estado hará la declaratoria correspondiente, mediante su publicación en el Periódico Oficial.
 
@@ -653,6 +703,12 @@ El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinar
 
 Las aportaciones federales que con cargo al Fondo a que se refiere este artículo reciban los Municipios a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto a las aportaciones que reciban con cargo a este fondo, los municipios tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 23 de esta ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+La Unidad de Programas Coordinados Federación-Estado y la Auditoría Superior del Estado, como órgano técnico del Poder Legislativo, en el ámbito de sus respectivas facultades y competencia, serán los responsables de ejercer la vigilancia directa y constatar la correcta aplicación de los recursos que se reciban del fondo y de fincar, en su caso, las responsabilidades administrativas correspondientes.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 28.
@@ -669,19 +725,39 @@ Dichas aportaciones serán administradas y ejercidas por los municipios, conform
 
 El control y supervisión del manejo de los recursos a que se refieren los capítulos V y VI quedará a cargo de las siguientes autoridades, en las etapas que se indican:
 
-I.- Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las entidades federativas, corresponderá a la Secretaría de la Contraloría y Desarrollo Administrativo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria federal y hasta la entrega de los recursos correspondientes a las entidades federativas, corresponderá a la Secretaría de la Función Pública;
 
 II.- Recibidos los recursos de los fondos de que se trate por los municipios, hasta su erogación total, corresponderá a las autoridades de los gobiernos municipales según corresponda.
 
 La supervisión y vigilancia no podrán implicar limitaciones, ni restricciones, de cualquier índole, en la administración y ejercicio de los fondos.
 
-III.- La fiscalización de las cuentas públicas de los municipios, será efectuada por el Poder Legislativo del Estado, por conducto de su Contaduría Mayor de Hacienda conforme a la legislación en la materia, a fin de verificar que las dependencias de los municipios aplicaron los recursos de los fondos para los fines previstos en esta ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- La Contaduría Mayor de Hacienda de la Cámara de Diputados al fiscalizar la cuenta pública federal que corresponda, verificará que las dependencias del ejecutivo federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos de los fondos a los que se refiere este capítulo, la misma se realizará en términos del artículo 3º, fracción III, de su ley orgánica.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-Cuando las autoridades Municipales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos del fondo no han sido aplicados a los fines que por cada fondo se señale en la ley, deberán hacerlo del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo en forma inmediata.
+III. La fiscalización de las cuentas públicas de los municipios, será efectuada por el Poder Legislativo del Estado, por conducto de su Auditoría Superior del Estado conforme a la legislación en la materia, a fin de verificar que las dependencias de los municipios aplicaron los recursos de los fondos para los fines previstos en esta ley;
 
-Por su parte, cuando la Contaduría Mayor de Hacienda del Poder Legislativo detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta ley, deberán hacerlo del conocimiento inmediato de la Contaduría Mayor de Hacienda de la Cámara de Diputados del Congreso de la Unión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+IV. La Auditoría Superior de la Federación de la Cámara de Diputados al fiscalizar la cuenta pública federal que corresponda, verificará que las dependencias del ejecutivo federal cumplieron con las disposiciones legales y administrativas federales, y por lo que hace a la ejecución de los recursos de los fondos a los que se refiere este capítulo, la misma se realizará en términos del artículo 3º, fracción III, de su ley orgánica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Cuando las autoridades Municipales que en el ejercicio de sus atribuciones de control y supervisión conozcan que los recursos del fondo no han sido aplicados a los fines que por cada fondo se señale en la ley, deberán hacerlo del conocimiento de la Secretaría de la Función Pública en forma inmediata.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Por su parte, cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta ley, deberán hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
 Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la hacienda pública federal en que, en su caso, incurran las autoridades del Estado o Municipios exclusivamente por motivo de la desviación de los recursos recibidos de los fondos señalados, para fines distintos a los previstos en este capítulo, serán sancionados en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas por la autoridad del Estado que corresponda con base en sus propias leyes.
 
@@ -880,3 +956,73 @@ TERCERO.- El presente decreto entrará en vigor a partir del primero de enero de
 T R A N S I T O R I O:
 
 UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO.- En tanto el Estado permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público quedan en suspenso los siguientes:
+
+I.- IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II.- DERECHOS
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este Artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado y los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO. - Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- El presente decreto entrará en vigor a partir del 1o. de enero de 2012, previa publicación en el Periódico Oficial del Estado.
