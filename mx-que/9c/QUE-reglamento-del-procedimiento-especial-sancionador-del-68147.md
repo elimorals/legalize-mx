@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-procedimiento-especial-sancionador-del-68147"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-10"
-last_updated: "2009-04-10"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL PROCEDIMIENTO ESPECIAL SANCIONADOR DEL INSTITUTO ELECTORAL DE QUERETARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de abril de 2009.
 
@@ -69,13 +69,17 @@ REGLAMENTO DEL PROCEDIMIENTO ESPECIAL SANCIONADOR DEL INSTITUTO ELECTORAL DE QUE
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 1.
 
-El presente reglamento es de orden público e interés social, tiene como objetivo regular el procedimiento especial sancionador, cuando durante los procesos electorales locales, sean denunciados actos probablemente constitutivos de violaciones a lo dispuesto en lo establecido en el Libro Segundo, Titulo Tercero, Capítulo Cuarto, relativo a las conductas previstas en los artículos 6, 32 fracción III, 106, 107, 110 y 232 de la Ley Electoral del Estado de Querétaro, de observancia general y obligatoria en todo el territorio del Estado.
+El presente reglamento es de orden público y de observancia general en todo el Estado, tiene como objetivo regular el procedimiento especial sancionador, cuando durante los procesos electorales locales, sean denunciados actos probablemente constitutivos de violaciones a lo dispuesto en los artículos 6, 32 fracción III, 106, 107, 108, 110 y 232 de la Ley Electoral del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 2.
 
-La interpretación de las normas del presente reglamento, para su aplicación, se hará atendiendo a los criterios gramatical, sistemático, funcional, por analogía y por mayoría de razón. A falta de disposición expresa se aplicarán los principios generales de derecho.
+Para la resolución de los procedimientos del presente reglamento, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa se aplicarán los principios generales del derecho.
 
 ###### Artículo 3.
 
@@ -85,7 +89,9 @@ El procedimiento especial sancionador es de naturaleza coercitiva y tiene por ob
 
 Para efectos del presente reglamento se entenderá por:
 
-I. Instituto. Al Instituto Electoral de Querétaro;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+I. Instituto. Al instituto Electoral de Querétaro;
 
 II. Consejo. Al Consejo General del Instituto;
 
@@ -105,7 +111,9 @@ II. La propaganda que difundan los poderes públicos, los órganos autónomos, l
 
 III. Se contravengan las normas sobre propaganda política o electoral establecidas en Ley; y
 
-IV. Constituyan actos anticipados de campaña.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+IV. Constituyan actos anticipados de precampaña y campaña.
 
 Cuando se denuncie ante el Instituto la difusión de propaganda en radio y televisión, presuntamente infractora, se procederá en los términos previstos por el artículo 52 tercer párrafo inciso b) de la Ley.
 
@@ -117,13 +125,23 @@ La facultad de la autoridad electoral para fincar responsabilidades por infracci
 
 El procedimiento especial sancionador, será instruido por la Secretaría y el Consejo emitirá la resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 8.
 
-La Secretaría en ejercicio de sus atribuciones, podrá dictar medidas de carácter preventivo y provisional, con la finalidad de evitar que la conducta presumiblemente transgresora de la normatividad electoral genere efectos irreparables, empleando medidas cautelares tendientes a lograr la suspensión provisional de los actos o conductas probablemente infractores.
+La Secretaría en ejercicio de sus atribuciones, podrá dictar medidas de carácter preventivo y provisional, con la finalidad de evitar que la conducta presumiblemente transgresora de la normatividad electoral genere daños irreparables, empleando medidas cautelares tendientes a lograr la suspensión provisional de los actos o conductas probablemente infractores.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
-En el procedimiento especial, sólo serán admisibles las pruebas documentales y técnicas. Se consideran pruebas técnicas, las fotografías, imágenes en video o digitalizadas, archivos magnéticos o electrónicos, grabaciones sonoras y demás medios de reproducción y almacenamiento de imágenes y datos. Los interesados deberán aportar los medios de reproducción para su desahogo y señalar los hechos que pretenden probar, identificando personas y circunstancias de modo, tiempo y lugar. En caso de incumplir con los requisitos descritos no se admitirá la prueba.
+En el procedimiento especial, sólo serán admisibles:
+
+I. Las pruebas documentales;
+
+II. Documentales privadas, y
+
+III. Técnicas.
 
 ###### Artículo 10.
 
@@ -133,7 +151,7 @@ Asimismo, podrá solicitar a las autoridades, o a cualquier persona física o mo
 
 ### Capítulo Segundo.
 
-De los sujetos sancionables.
+De los Sujetos Responsables.
 
 ###### Artículo 11.
 
@@ -159,15 +177,21 @@ IX. Los funcionarios electorales; y
 
 X. Los demás sujetos obligados en los términos de la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 12.
 
-Cuando la conducta probablemente infractora sea cometida por autoridades o servidores públicos de la Federación, Estado o municipios, notarios públicos, extranjeros o ministros de culto, la Secretaría se cerciora que se acredite la calidad de los denunciados y procederá los términos siguientes, con independencia de las medidas cautelares que resulten procedentes.
+Cuando la conducta probablemente infractora sea cometida por autoridades o servidores públicos de la Federación, Estado o municipios, notarios públicos, extranjeros o ministros de culto, la Secretaría se cerciora que se acredite la calidad de los denunciados y procederá los términos siguientes, con independencia de las medidas cautelares que resulten procedentes:
 
-a) Conocida la infracción, el Consejo integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, a fin de que se aplique la sanción en los casos que resulte procedente.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+a) Conocida la infracción, la Secretaría integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, a fin de que se aplique la sanción en los casos que resulte procedente.
 
 b) El superior jerárquico a que se refiere el inciso anterior, deberá comunicar al Consejo las medidas que haya adoptado, y en su caso, las sanciones aplicadas.
 
-c) Si la autoridad infractora no tuviese superior jerárquico, el expediente será turnado, en caso de autoridades federales, a la Auditoría Superior de la Federación, y en caso de autoridades estatales y municipales, a la Entidad Superior de Fiscalización del Estado, a fin de que se proceda en los términos de las leyes aplicables.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+c) Si la autoridad infractora no tuviese superior jerárquico, el expediente se remitirá a la autoridad competente, según el caso en específico.
 
 Cuando el Instituto conozca del incumplimiento de los notarios públicos a las obligaciones que la ley les impone, el Consejo integrará un expediente que se remitirá a la Secretaría de Gobierno del Estado para que proceda en los términos de la legislación aplicable. La Secretaría deberá comunicar al Consejo las medidas que haya adoptado, y en su caso, las sanciones aplicadas.
 
@@ -177,7 +201,7 @@ Cuando el Instituto tenga conocimiento de la comisión de una infracción por pa
 
 ### Capítulo Tercero.
 
-De la denuncia.
+De la Denuncia.
 
 ###### Artículo 13.
 
@@ -193,7 +217,9 @@ La denuncia deberá ser presentada por escrito y cumplir con los siguientes requ
 
 I. Nombre del denunciante, con firma autógrafa o huella digital;
 
-II. Domicilio para oír y recibir notificaciones, así como el domicilio del denunciado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+II. Domicilio en la capital del Estado para oír y recibir notificaciones, así como el domicilio del denunciado;
 
 III. Los documentos que sean necesarios para acreditar la personalidad;
 
@@ -203,7 +229,9 @@ V. Ofrecer y aportar los medios de prueba documentales o técnicas que estime pe
 
 VI. Los medios de prueba deberán ser relacionadas con cada uno de los hechos;
 
-VII. En su caso, las medidas cautelares que sean solicitadas, y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+VII. En su caso, las medidas cautelares que sean solicitadas; y
 
 VIII. Las copias necesarias a efecto de correr traslado al denunciado, y sus anexos.
 
@@ -213,7 +241,9 @@ En el caso de los representantes de los partidos políticos o coaliciones ante e
 
 Recibida la denuncia, de inmediato la Secretaría procederá a:
 
-I. Su registro en el libro correspondiente;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+I. Su registro;
 
 II. Su análisis, para determinar si previene al denunciante o dicta acuerdo de admisión o desechamiento de la misma;
 
@@ -233,7 +263,7 @@ Cuando se prevenga al denunciante, el plazo para dictar la determinación que co
 
 ### Capítulo Cuarto.
 
-Del desechamiento y sobreseimiento.
+Del Desechamiento y Sobreseimiento.
 
 ###### Artículo 19.
 
@@ -247,7 +277,9 @@ I. No se proporcione el nombre del denunciante;
 
 II. Cuando el escrito carezca de la firma autógrafa o huella digital del denunciante o la de su representante legal, según corresponda;
 
-III. Cuando los hechos denunciados no constituyan, de manera notoria, una violación en materia de propaganda política o electoral;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+III. Cuando los hechos denunciados no constituyan, de manera notoria, una violación en materia de propaganda política electoral o gubernamental;
 
 IV. El denunciante no aporte ni ofrezca medio de prueba alguno que sustente los hechos denunciados; y
 
@@ -259,7 +291,7 @@ Procederá el sobreseimiento de la denuncia cuando:
 
 I. Habiendo sido admitida, durante la tramitación sobrevenga alguna causa de improcedencia.
 
-II. El denunciado sea un partido político que, con posterioridad a la admisión de la denuncia, haya perdido su registro.
+II. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2011)
 
 III. El denunciante presente escrito de desistimiento, siempre que lo exhiba antes de que el expediente se ponga en estado de resolución y que a juicio de la Secretaría no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
 
@@ -267,7 +299,7 @@ La Secretaría llevará un registro de las denuncias presentadas, así como de l
 
 ### Capítulo Quinto.
 
-De la tramitación.
+De la Tramitación.
 
 ###### Artículo 22.
 
@@ -277,9 +309,11 @@ Dentro del plazo fijado para la admisión de la denuncia, la Secretaría podrá 
 
 Serán medidas cautelares los actos procesales que determine la Secretaría a fin de lograr la suspensión provisional de los actos que constituyan probables infracciones, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en la normatividad electoral aplicable, hasta en tanto se emita resolución por parte del Consejo que determine la procedencia sobre el retiro físico o suspensión en definitiva de la distribución o difusión de la propaganda, así como de los actos violatorios de dicha normatividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-Para el adecuado desahogo de estos procedimientos, la Secretaría, a petición de parte, podrá dictar las siguientes medidas cautelares:
+Para el adecuado desahogo de estos procedimientos, la Secretaría podrá dictar las siguientes medidas cautelares:
 
 I. La suspensión provisional de la ejecución de un acto;
 
@@ -293,9 +327,11 @@ En el acuerdo mediante el cual se ordenen las medidas cautelares, deberá fijars
 
 En caso de que se ordene el retiro de propaganda en lugares prohibidos, el denunciado deberá observar las reglas que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-Admitida la denuncia la Secretaría emplazará al denunciado, sin perjuicio de realizar las diligencias que estime necesarias. Las cuales podrán ser efectuadas por la Secretaria o a través de cualquier funcionario del Instituto que para tal efecto instruya.
+Admitida la denuncia la Secretaría emplazará al denunciado, sin perjuicio de realizar las diligencias que estime necesarias. Las cuales podrán ser efectuadas por la Secretaría o a través de cualquier funcionario del Instituto que para tal efecto instruya.
 
 ###### Artículo 27.
 
@@ -313,11 +349,17 @@ El escrito de contestación deberá cumplir con los siguientes requisitos:
 
 I. Nombre del denunciado, y en su caso, el de su representante, con firma autógrafa o huella digital;
 
-II. Los documentos necesarios para acreditar la personalidad;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-III. Domicilio para oír y recibir notificaciones;
+II. Los documentos necesarios para acreditar la personalidad; salvo que se trate del representante de un partido político o coalición que integre el Consejo General;
 
-IV. Referirse a los hechos que se le imputan;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+III. Domicilio para oír y recibir notificaciones, el cual deberá ubicarse en la capital del Estado;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+IV. Referirse a los hechos que se le imputan; y
 
 V. Ofrecer y aportar los medios de prueba documentales o técnicas que estime pertinentes, debiendo relacionarlos con los hechos, mencionando en su caso, la imposibilidad de exhibir aquellos que habiendo solicitado oportunamente al órgano competente no le fueron entregadas, a fin de que acreditando lo anterior, sean requeridas.
 
@@ -325,15 +367,17 @@ V. Ofrecer y aportar los medios de prueba documentales o técnicas que estime pe
 
 Recibida la contestación del denunciado o una vez que concluya el plazo concedido para tal efecto, mediante acuerdo, se abrirá el procedimiento en su periodo probatorio por un plazo de hasta setenta y dos horas, en el que la Secretaría ordenará la preparación y desahogo de los medios de prueba documentales y técnicas que hayan ofrecido las partes. El plazo señalado podrá ser ampliado por una sola vez, hasta por cuarenta y ocho horas más.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 31.
 
-Una vez concluido el periodo probatorio, la Secretaría deberá dictar acuerdo mediante el que ponga el expediente en estado de resolución, procediendo a formular el proyecto correspondiente, el que pondrá a consideración del Consejo dentro del plazo de setenta y dos horas siguientes, el cual podrá ser ampliado hasta por cuarenta y ocho horas más, atendiendo a las circunstancias contextuales, casuísticas y contingentes del caso concreto.
+Una vez concluido el periodo probatorio, la Secretaría deberá dictar acuerdo mediante el que ponga el expediente en estado de resolución, procediendo a formular el proyecto correspondiente, el cual pondrá a consideración del Consejo en la sesión respectiva.
 
-La Secretaría convocará con la debida anticipación al Consejo, para que dentro de los plazos establecidos en el párrafo precedente, se ponga a su consideración el proyecto de resolución.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ### Capítulo Sexto.
 
-De la resolución y sanciones.
+De la Resolución y Sanciones.
 
 ###### Artículo 32.
 
@@ -365,45 +409,27 @@ En la sesión respectiva, el Consejo conocerá y resolverá sobre el proyecto de
 
 El Consejo determinará la procedencia sobre el retiro físico o suspensión en definitiva de la distribución o difusión de propaganda y actos violatorios de la normatividad electoral aplicable.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 35.
 
-Las infracciones cometidas por la inobservancia, trasgresión o incumplimiento de las deposiciones (sic) contenidas en este reglamento, serán determinadas por el Consejo, y se aplicarán las reglas siguientes:
+Las infracciones cometidas por la inobservancia, trasgresión o incumplimiento de las disposiciones contenidas en este reglamento, serán determinadas por el Consejo conforme a lo dispuesto por la Ley.
 
-I. Amonestación Pública.
-
-II. Multa de una hasta cinco mil veces el salario mínimo general diario vigente en el Estado de Querétaro. En caso de reincidencia el monto de la multa podrá ser aumentado hasta el doble.
-
-III. Reducción de hasta el veinticinco por ciento de las ministraciones del financiamiento público que les corresponda, durante el periodo que se determine en la resolución correspondiente, cundo la infracción sea cometida por un partido político o coalición.
-
-IV. Cancelación inmediata de la acreditación respectiva, cuando la infracción sea cometida por un observador electoral.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
 
-Para la individualización de las sanciones, una vez acreditada la existencia de una infracción, se tomaran en cuenta las circunstancias que rodean la misma, considerando las siguientes:
+Para la individualización de las sanciones, una vez acreditada la existencia de una infracción, se procederá conforme al artículo 224 de la Ley.
 
-I. La gravedad de la infracción cometida, así como la afectación al bien jurídico tutelado.
-
-II. Las circunstancias de modo, tiempo y lugar de la infracción.
-
-III. Las condiciones socioeconómicas del infractor.
-
-IV. Las condiciones externas y los medios de ejecución.
-
-V. La reincidencia de la conducta infractora.
-
-VI. En su caso, el monto del beneficio, daño o perjuicio derivado de la conducta infractora.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 37.
 
-Para la ejecución de la resolución que se emita y garantizar su eficaz cumplimiento, se hará uso de los siguientes medios de apremio:
-
-I. Multa de una hasta un mil veces el salario mínimo general diario vigente en el Estado de Querétaro.
-
-II. En su caso, uso de la fuerza pública.
+Para la ejecución de la resolución que se emita y garantizar su eficaz cumplimiento, se estará a lo establecido en el artículo 63 de la Ley de Medios.
 
 ###### Artículo 38.
 
-Las resoluciones recaídas a este procedimiento podrán ser impugnadas por las partes atendiendo a lo previsto en la Ley de Medios, siempre y cuando reúna los requisitos para tal efecto.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2011)
 
 ## Transitorios
 
@@ -412,3 +438,11 @@ Primero. El presente Reglamento entrará en vigor al día siguiente de su aproba
 Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Dado en la Sala de Sesiones del Consejo General del Instituto Electoral de Querétaro, a los treinta y un días del mes de marzo de dos mil nueve.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+Primero. Las presentes reformas al Reglamento entrarán en vigor el día siguiente de su aprobación por el Consejo.
+
+Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
