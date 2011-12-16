@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-12-15"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -83,6 +83,18 @@ I.- Universalidad: La cobertura de los servicios de salud que responda a las nec
 II.- Equidad: La obligación de las autoridades sanitarias locales de garantizar acceso igual a los habitantes del Distrito Federal a los servicios de salud disponibles ante las necesidades que se presenten en la materia, y
 
 III.- Gratuidad: El acceso sin costo a los servicios de salud disponibles en las unidades médicas del Gobierno del Distrito Federal y a los medicamentos asociados a estos servicios, a los residentes del Distrito Federal que carezcan de seguridad social laboral.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Para dar cumplimiento a lo establecido en el presente artículo, en el presupuesto vinculado a la promoción de la salud, la prevención y atención que se brinde en los servicios de salud del Distrito Federal, el Gobierno preverá que no sea inferior, en términos reales, al del año fiscal anterior. Este gasto buscará incrementarse cuando menos en la misma proporción en que se prevea el crecimiento del Producto Interno Bruto en los Criterios Generales de Política Económica.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+El Gobierno y la Asamblea Legislativa, dentro del ámbito de sus competencias, en la elaboración, análisis y aprobación del Presupuesto de Egresos del Distrito Federal, incorporarán la perspectiva de salud pública atendiendo, en la asignación de recursos, a los cambios demográficos, la transición epidemiológica y a las necesidades de equipamiento, mantenimiento y desarrollo de infraestructura hospitalaria.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+En la observancia de los dos párrafos anteriores, se atenderá la disponibilidad de recursos a partir de los ingresos que autorice la Asamblea Legislativa.
 
 ###### Artículo 4.
 
@@ -187,6 +199,10 @@ El Jefe de Gobierno expedirá los instrumentos jurídicos que definan el ámbito
 Los servicios de atención médica que ofrezca el Gobierno, así como los medicamentos asociados, serán otorgados de manera gratuita a los usuarios, de conformidad a los términos señalados en la Ley que establece el Derecho al Acceso Gratuito a los Servicios Médicos y Medicamentos a las personas residentes en el Distrito Federal que carecen de seguridad social laboral.
 
 En el caso de que apliquen cuotas de recuperación o algún pago por la prestación de servicios de salud, su recaudación se ajustará a lo que dispongan los instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+El Gobierno promoverá mecanismos de coordinación con el Gobierno Federal y las entidades federativas para recuperar la inversión que se brinda en los servicios de salud en pacientes que no residen o habiten en el Distrito Federal.
 
 ###### Artículo 10.
 
@@ -2561,3 +2577,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 G.O. 15 DE DICIEMBRE DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
