@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2011-10-03"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN LOS ARTÍCULOS PRIMERO AL NOVENO TRANSITORIOS DEL DECRETO NUMERO 409, PUBLICADO EN EL P.O. 20 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO Y LOS MUNICIPIOS PERMANEZCAN ADHERIDOS AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CRÉDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN DICHOS TRANSITORIOS.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -67,13 +65,17 @@ La recaudación y administración de los impuestos, derechos, productos y aprove
 
 ARTÍCULO 4° BIS.- Para efecto de mejor comprensión, cuando en esta Ley se mencione a:
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ZONA "A".- Se referirá a los Municipios de José María Morelos, Felipe Carrillo Puerto, Lázaro Cárdenas y Bacalar.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+ZONA “A”.- Se referirá a los municipios de José María Morelos, Felipe Carrillo Puerto y Lázaro Cárdenas.
 
-ZONA "B".- Se referirá a los municipios de Othón P. Blanco, e Isla Mujeres.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+ZONA “B”.- Se referirá a los municipios de Othón P. Blanco, Bacalar e Isla Mujeres.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -639,43 +641,63 @@ Las Autoridades Municipales deberán dar aviso a la Tesorería, con la anticipac
 
 El incumplimiento de las disposiciones establecidas con relación al Impuesto sobre Diversiones, Video Juegos y Espectáculos Públicos, será sancionado con lo establecido en el Código Fiscal Municipal.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011, Y P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE ADQUISICION DE INMUEBLES, OBJETO, SUJETO, BASE Y TASA DEL IMPUESTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 29.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
-ARTÍCULO 29 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+ARTÍCULO 29 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 30.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 31.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 31
 
-BIS. - (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 32.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 33.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 34.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 34
 
-BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011)
+BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, P.O. 3 DE OCTUBRE DE 2011 Y P.O. 16 DE DICIEMBRE DE 2011)
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE EL USO O TENENCIA DE VEHÍCULOS QUE NO CONSUMAN GASOLINA NI OTRO DERIVADO DEL PETRÓLEO
 
@@ -3129,6 +3151,108 @@ b) Por el servicio de 24 horas de labores por 24 horas de descanso que preste un
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las Oficinas de las Tesorerías Municipales indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE SECCIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN TERCERA. SERVICIOS PRESTADOS EN MATERIA DE PROTECCION CIVIL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 120-E.
+
+Causará derechos los servicios prestados por las Autoridades Municipales en materia de protección civil, que se pagarán de conformidad con las siguientes tarifas:
+
+Por el servicio de Asesoría Técnica 2.00 S.M.G.
+
+Por el Servicio de Registro 4.00 S.M.G.
+
+Por la Certificación 5.00 S.M.G.
+
+Por la Autorización de giros cuya actividad 10.0 S.M.G.
+
+sea considera de riesgo de conformidad a lo
+
+dispuesto por la fracción VII del artículo 89
+
+de la presente Ley.
+
+Por la revalidación anual de registro 10.0 S.M.G.
+
+Otros Servicios 6.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE SECCIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULO QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN CUARTA. SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 120-F.
+
+Por los servicios que prestan los Municipios en materia de ecología y protección al ambiente, se causarán los derechos conforme a la siguiente tarifa:
+
+I.- Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de chapeo y desmonte el solicitante deberá de cubrir 0.13 S.M.G. por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
+
+II.- Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir 2.5 S.M.G.
+
+III.- Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de Desarrollo, el solicitante deberá de cubrir 0.08 S.M.G. por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
+
+IV.- Por la expedición del permiso de Operación, se causarán los derechos conforme a lo siguiente:
+
+a).- En la zona A, el equivalente a 10 S.M.G.
+
+b).- En la zona B el equivalente a 13 S.M.G.
+
+c).- En la zona C el equivalente a 15 S.M.G.
+
+V.- Por el estudio y expedición de factibilidad ecológica, se causará el equivalente a 10 S.M.G., en las Zonas A, B y C.”
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 120-G.
+
+Por el registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción y venta de animales, se causarán los derechos conforme a la siguiente tarifa:
+
+ZONA A ZONA B ZONA C
+
+I. Por el registro de 9 S.M.G. 12 S.M.G. 15 S.M.G.
+
+establecimientos
+
+comerciales de
+
+venta de animales:
+
+II. Por el registro de 9 S.M.G. 12 S.M.G. 15 S.M.G.
+
+establecimientos de
+
+cría de animales
+
+III. Por el registro a 9 S.M.G. 12 S.M.G. 15 S.M.G.
+
+Prestadores de
+
+Servicios vinculados
+
+con el Manejo,
+
+Producción y Venta
+
+de Animales
+
+Los derechos previstos en el presente artículo deberán ser pagados previamente a la expedición de la constancia de registro que corresponda.
+
+Los mismos derechos se causarán, por la expedición de la constancia de actualización de datos de los particulares registrados, cuando los datos del registro se modifiquen.
+
 ### CAPITULO XX. SERVICIOS DE RECOLECCIÓN, TRANSPORTACIÓN, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
@@ -4838,3 +4962,221 @@ PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Per
 SEGUNDO.- A partir de la entrada en vigor de esta Ley se derogan el Capítulo III del Título Segundo de la Ley de Hacienda de los Municipios del Estado de Quintana Roo y sus correspondientes artículos, que comprenden del 29 al 34-BIS de la citada Ley, por lo que las leyes que remitan a esos preceptos se entenderán referidos a los correspondientes de esta Ley del Impuesto Sobre Adquisición de Bienes Inmuebles de los Municipios del Estado de Quintana Roo.
 
 TERCERO.- Se derogan todas aquellas disposiciones que contravengan la presente Ley.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I.- DERECHOS
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2012, en el Municipio de Othón P. Blanco, del Estado de Quintana Roo, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TASAS APLICABLES PARA EL CALCULO DEL IMPUESTO PREDIAL PARA EL MUNICIPIO DE OTHON P. BLANCO, DEL ESTADO DE QUINTANA ROO
+
+Clasificados de predios Tasa al millar
+
+I. Urbanos
+
+a. Edificados 2.1
+
+b. Baldíos 14.4
+
+II. Rústicos 2.0
+
+III. Ubicados en la Costa Maya 1.1
+
+TERCERO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2012, en el Municipio de Cozumel, del Estado de Quintana Roo, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo la siguiente:
+
+RAN- LIMITE LIMITE CUOTA FACTOR
+
+GO INFERIOR SUPERIOR FIJA PARA
+
+DEL VALOR DEL VALOR APLICARSE
+
+CATASTRAL CATASTRAL SOBRE EL
+
+DE UN DE UN EXCEDENTE
+
+INMUEBLE INMUEBLE DEL LIM.
+
+INF.
+
+A $0.01 $139,795.00 $76.60 0.001
+
+B $139,795.01 $419,795.00 $216.39 0.002
+
+C $419,795.01 $1'268,155.00 $775.57 0.003
+
+D $1'268,155.01 $3'774,465.00 $3,291.88 0.004
+
+E $3'774,465.01 $11'323,395.00 $13,357.12 0.005
+
+F $11'323,395.01 $33'970,185.00 $51,101.77 0.006
+
+G $33'970,395.01 EN ADELANTE $186,982.51 0.007
+
+CUARTO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2012, en el Municipio de Isla Mujeres, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TABLA DE TASAS PARA EL COBRO DEL IMPUESTO PREDIAL APLICABLE A PARTIR DEL EJERCICIO FISCAL 2012.
+
+Tipo Predio Tasa
+
+Urbano Construido 0.0022
+
+Urbano Baldío 0.0050
+
+Rústico 0.0025
+
+QUINTO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2012, en el Municipio de Solidaridad, del Estado de Quintana Roo, se aplicarán las siguientes tasas para el cálculo anual del mencionado impuesto:
+
+TIPO TASA
+
+CONSTRUIDOS PREDIOS URBANOS CONSTRUIDOS 0.0019
+
+BALDIOS PREDIOS URBANOS BALDIOS 0.0045
+
+PREDIOS URBANOS BALDIOS 0.005
+
+PUERTO AVENTURAS
+
+TASA ÚNICA TASA
+
+TIPO
+
+PREDIOS RUSTICOS
+
+PREDIO AZTECA (FRACCIONAMIENTO
+
+RUSTICO VIVE RIVIERA MAYA) 0.005
+
+SEXTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2012, en el Municipio de Tulum, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TASAS APLICABLES PARA LA DETERMINACIÓN Y LIQUIDACIÓN DEL IMPUESTO PREDIAL
+
+PREDIOS URBANOS EDIFICADOS 0.0017
+
+PREDIOS TULUM 0.0050
+
+URBANOS AKUMAL, CHEMUYIL 0.0050
+
+BALDIOS OTRAS ZONAS URBANAS 0.00567
+
+PREDIOS RÚSTICOS 0.00380
+
+SÉPTIMO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2012, en el Municipio de Benito Juárez, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TASAS IMPOSITIVAS PARA LOS VALORES CATASTRALES
+
+CATEGORIA CONDICION VOCACION TASAS AL MILLAR
+
+Urbano y
+
+Suburbano Baldío 6.2
+
+Obra en Habitacional 2.45
+
+Construcción
+
+No Hab. 2.45
+
+Obra en
+
+Funcionamiento Habitacional 2.45
+
+No Hab. 2.45
+
+Rústico 1.9
+
+TASAS IMPOSITIVAS PARA LOS VALORES DECLARADOS
+
+CATEGORIA CONDICION VOCACION TASAS ALMILLAR
+
+Urbano y Baldio 6.6
+
+Suburbano
+
+Obra en Habitacional 2.8
+
+Construcción
+
+No Hab. 2.8
+
+Obra en Habitacional 2.8
+
+Funciona-
+
+miento
+
+No Hab. 2.8
+
+Rústico 2.9
+
+OCTAVO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2012, en el Municipio de Bacalar, del Estado de Quintana Roo se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TABLA DE TASAS PARA EL COBRO DEL IMPUESTO PREDIAL APLICABLE PARA EL EJERCICIO FISCAL 2012 EN EL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO.
+
+TIPO DE PREDIO TASA AL MILLAR
+
+I. URBANO
+
+a). Construido 0.001
+
+b). Baldío 0.003
+
+II. RUSTICO 0.001
+
+NOVENO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2012, en el Municipio de Lázaro Cárdenas, del Estado de Quintana Roo se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TABLA DE TASAS PARA EL COBRO DEL IMPUESTO PREDIAL APLICABLE PARA EL EJERCICIO FISCAL 2012 EN EL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO QUINTANA ROO.
+
+CLASIFICADOS DE PREDIOS TASA AL MILLAR
+
+I. Urbanos
+
+a. Edificados 9.2
+
+b. Baldíos 9.2
+
+II. Rústicos 9.2
+
+III. Predios con frente a la Playa 18.4
+
+DECIMO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2012, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
