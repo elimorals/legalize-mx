@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-12-17"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACION FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -2457,9 +2457,9 @@ TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corr
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DEL SERVICIO PRESTADO POR LAS AUTORIDADES DE SEGURIDAD PUBLICA
+#### SECCION SEGUNDA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA QUE PRESTA LA SECRETARIA DE GOBIERNO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
 
@@ -6265,7 +6265,7 @@ VI.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el Est
 
 VII.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
 
-a).- De un humo para· servicio público 4.03 veces el S.M.G. vigente en el Estado.
+a).- De un humo para• servicio público 4.03 veces el S.M.G. vigente en el Estado.
 
 b).- De un humo para servicio particular 6.01 veces el S.M.G. vigente en el Estado.
 
@@ -8135,7 +8135,7 @@ Por concesiones anuales a comerciantes de artesanías, manualidades, de alimento
 
 Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
-### CAPITULO XVIII (SIC). DE LA PRESTACION DE SEGURIDAD PUBLICA
+### CAPITULO XVIII A. DE LA PRESTACION DE SEGURIDAD PUBLICA
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8143,7 +8143,7 @@ Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION
 
@@ -8171,37 +8171,39 @@ Así mismo, deberán renovar su registro anualmente, dentro de los dos primeros 
 
 Los contribuyentes de este capítulo que no hayan solicitado su registro y autorización, serán sancionados según lo dispuesto por el Reglamento de Vigilancia Privada del Estado de Quintana Roo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
 ###### ARTICULO 207-D.
 
-Es objeto de este derecho el servicio especial prestado por convenio o contrato, que realice la Secretaría de Protección y Vialidad a través de su Dirección de Seguridad Pública.
+Es objeto de este derecho, el servicio especial prestado por convenio o contrato por la Unidad de Servicios Especiales de Vigilancia dependiente de la Secretaría de Gobierno.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-E.
 
-Son sujetos de este derecho las personas físicas o morales, empresas, organizadores de fiestas o eventos que soliciten en forma periódica, eventual o permanente el servicio policiaco.
+Son sujetos de este derecho, las personas físicas o morales que requieran y soliciten en forma periódica, eventual o permanente la intervención de la Unidad de Servicios Especiales de Vigilancia descrita en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-F.
 
-Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondiente, a más tardar el día hábil siguiente a la firma del convenio, de acuerdo a la siguiente:
+Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría de Hacienda del Estado de Quintana Roo, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos de acuerdo a la siguiente tarifa:
 
-TARIFA
+a) Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, de doce horas diarias de vigilancia especial de instalaciones por periodos de quince días, por cada elemento, se causará la cantidad de 186 (ciento ochenta y seis) Salarios Mínimos Generales vigente en el Estado, pagaderos de manera quincenal.
 
-a).- Por el servicio de 24 horas de labores por 24 horas de descanso de un policía raso, mensualmente pagarán 138 S.M.G.
+b) Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por doce horas diarias de protección de personas por periodos de quince días se causará por cada elemento, la cantidad de 371 (trescientos setenta y un) Salarios Mínimos Generales vigente en el Estado, pagaderos de manera quincenal.
 
-b).- Por el servicio de 24 horas de labores por 24 horas de descanso que preste un policía segundo, mensualmente pagarán 207 S.M.G.
+c) Por el servicio que preste la Unidad de Servicios Especiales de Vigilancia, por la custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1 (un) Salario Mínimo General vigente en el Estado, por cada 3 (tres), kilómetros de recorrido.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-G.
 
-Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las oficinas recaudadoras indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
+Las personas físicas o morales que requieran del Servicio Especial de Vigilancia deberán solicitarlo por escrito dirigido a la Unidad de Servicios Especiales de Vigilancia indicando el número de elementos que le deberán ser asignados, la fecha de inicio y terminación del servicio especial de vigilancia requerido, domicilio en el cual se llevará a cabo la ejecución del servicio y nombre, razón social y domicilio del contratante beneficiario del servicio especial de vigilancia.
+
+Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requeridos por las personas físicas o morales y que su ejecución contribuya al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como protección a funcionarios y personas en general.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9968,3 +9970,11 @@ CUARTO.- El presente decreto entrará en vigor a partir del 1o. de enero de 2011
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga toda disposición de menor o igual jerarquía que se oponga al presente Decreto.
+
+TERCERO. Se faculta al Ejecutivo del Estado a realizar, dentro del término de sesenta días naturales contados a partir de la vigencia del presente Decreto, todos los actos administrativos y presupuestales con el fin de que la Unidad de Servicios Especiales de Vigilancia, sea creada y entre en funcionamiento, así como a expedir los reglamentos administrativos necesarios.
