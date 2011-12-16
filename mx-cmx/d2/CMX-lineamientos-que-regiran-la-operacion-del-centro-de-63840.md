@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-que-regiran-la-operacion-del-centro-de-63840"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2008-10-23"
-last_updated: "2008-10-23"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63840&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,9 @@ scjn_last_update: "2016-05-27"
 ---
 # LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL -- ANTES ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF) --
 
-ACUERDO 427/SO/07-10/2008 MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS QUE REGIRAN LA OPERACION DEL CENTRO DE ATENCION TELEFONICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL (TEL-INFODF) , Y SE ABROGAN LOS ACUERDOS 227/SE/26-05/2008 y 245/SO/04-06/2008
+LINEAMIENTOS QUE REGIRÁN LA OPERACIÓN DEL CENTRO DE ATENCIÓN TELEFÓNICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL (TEL-INFODF)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el jueves 23 de octubre de 2008.
 
@@ -109,63 +109,119 @@ María Elena Pérez-Jaén Zermeño
 
 Comisionada Ciudadana
 
-LINEAMIENTOS QUE REGIRÁN LA OPERACIÓN DEL CENTRO DE ATENCIÓN TELEFÓNICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL (TEL-INFODF).
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+LINEAMIENTOS QUE REGIRÁN LA OPERACIÓN DEL CENTRO DE ATENCIÓN TELEFÓNICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL (Tel-InfoDF)
 
 ## Título Primero
 
 ### Capítulo Único. Disposiciones generales
 
-1. Los presentes lineamientos son de observancia obligatoria para el personal del Instituto y de carácter vinculatorio para los entes públicos del Distrito Federal, en el ámbito de su competencia apegándose a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales del Distrito Federal. Tienen por objeto establecer las reglas de operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+1. Los presentes lineamientos son de observancia obligatoria para el personal del Instituto y de carácter vinculatorio para los entes obligados del Distrito Federal, en el ámbito de su competencia apegándose a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal. Tienen por objeto establecer las reglas de operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LAS MODIFICACIONES Y ADICIONES A LOS LINEAMIENTOS, PUBLICADOS EN LA G.O. DE 16 DE DICIEMBRE DE 2011, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE NUMERAL.]</small>
 
 2. Además de las definiciones contenidas en los artículos 4 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y 2 de la Ley de Protección de Datos Personales del Distrito Federal, así como las contenidas en los “Lineamientos para la gestión de solicitudes de información pública y de datos personales a través del sistema INFOMEX del Distrito Federal”, para los efectos del presente documento se entenderá por:
 
-I. Agente u Operador: Persona capacitada para registrar las solicitudes, orientar y responder las consultas telefónicas que se formulen al Centro de Atención Telefónica.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-II. Consulta telefónica: La petición de orientación y/o asesoría presentada por el interesado, vía telefónica, para que el propio usuario pueda registrar y dar seguimiento a sus solicitudes de información pública y/o de acceso, rectificación, cancelación u oposición de datos personales, y sobre el procedimiento para interponer recursos de revisión; así como la orientación y/o asesoría en materia de acceso a la información pública y/o de acceso, rectificación, cancelación u oposición de datos personales; y sobre la presentación de denuncias por violaciones a las disposiciones relativas a información Pública de oficio.
+I. Agente u Operador: Persona capacitada para capturar y registrar las solicitudes de información, de acceso, rectificación, cancelación u oposición de datos personales y denuncias, así como orientar y responder las consultas telefónicas que se formulen al Centro de Atención Telefónica
 
-III. Denuncia: Acto mediante el cual las personas hacen del conocimiento del Instituto de Acceso a la Información Pública del Distrito Federal el incumplimiento de las disposiciones referidas a la información pública de oficio que están establecidas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable.
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-IV. DEE: Dirección de Evaluación y Estudios.
+II. Asesoría: Información especializada en materia de información pública y/o de datos personales.
 
-V. Ente Público: Se considerarán entes públicos los establecidos en los artículos 4, fracción V y 31 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y el artículo 2, párrafo cuarto, de la Ley de Protección de Datos Personales para el Distrito Federal.
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-VI. Gestión telefónica: Es la actividad de los Agentes u Operadores, consistente en la captura en el módulo manual del sistema INFOMEX de solicitudes de información pública y/o de datos personales y/o la presentación de la denuncias, así como de ingreso al módulo referido para informar, a petición del usuario, del estado que guardan dichas solicitudes.
+III. Captura: Ingreso de datos en INFOCAP u otra herramienta electrónica, que permiten la atención al registro de solicitudes de acceso a la información pública, de datos personales y denuncias, así como de las asesorías y orientaciones solicitadas por los usuarios.
 
-VII. Instituto: Instituto de Acceso a la Información Pública del Distrito Federal.
+IV. Consulta telefónica: La petición de orientación y/o asesoría presentada por el interesado, vía telefónica, para que el propio usuario pueda registrar y dar seguimiento a sus solicitudes de información pública y/o de acceso, rectificación, cancelación u oposición de datos personales, y sobre el procedimiento para interponer recursos de revisión; así como la orientación y/o asesoría en materia de acceso a la información pública y/o de acceso, rectificación, cancelación u oposición de datos personales; y sobre la presentación de denuncias por violaciones a las disposiciones relativas a información Pública de oficio.
 
-VIII. Ley de Datos Personales: Ley de Protección de Datos Personales del Distrito Federal.
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-IX. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+V. Coordinador: Encargado de vigilar las actividades de los Agentes u Operadores, y verificar el funcionamiento del Centro de Atención Telefónica del Instituto.
 
-X. Lineamientos de INFOMEX: Lineamientos para la gestión de solicitudes de información pública y de datos personales a través del sistema INFOMEX del Distrito Federal.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-XI. Número de Folio: Identificador numérico único compuesto de trece dígitos, dentro del módulo manual del sistema INFOMEX, que el Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal proporcionará a los usuarios, una vez ingresada su solicitud de información pública y/o de datos personales, y que le será necesario conservar a dichos usuarios para realizar el seguimiento de las solicitudes de información.
+VI. Denuncia: Acto en virtud del cual una persona hace del conocimiento al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal de un posible incumplimiento a las obligaciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal, con excepción al ejercicio de ambos derechos; así como al trámite del Recurso de Revisión y lo relativo a la facultad de inspección del InfoDF.
 
-XII. Reporte: El informe detallado bajo criterios cronológicos, temáticos y/o de cualquier otra índole que determine la Secretaría Ejecutiva del Instituto, sobre las consultas telefónicas y otros requerimientos formulados al Centro de Atención Telefónica del Instituto.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-XIII. Requerimiento: La petición para realizar la captura de solicitudes de información pública y/o de datos personales o de denuncias, a través del Centro de Atención Telefónica del Instituto.
+VII. DJDN: Dirección Jurídica y Desarrollo Normativo
 
-XIV. SE: La Secretaría Ejecutiva del Instituto.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-XV. Supervisor: Encargado de vigilar las actividades de los Agentes u Operadores, y verificar el funcionamiento del Centro de Atención Telefónica del Instituto.
+VIII. Ente Obligado: Se considerarán entes obligados los establecidos en los artículos 4, fracción V y 31 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y el artículo 2, párrafo cuarto, de la Ley de Protección de Datos Personales para el Distrito Federal.
 
-XVI. TEL-INFODF: El Centro de Atención Telefónica del Instituto, integrado con infraestructura de cómputo, telefonía y Agentes u Operadores, que tiene por objeto atender y asesorar a toda persona, vía telefónica, sobre el ejercicio del derecho de acceso a la información pública y/o acceso, rectificación, cancelación u oposición de datos personales en posesión de los entes públicos del Distrito Federal. El número telefónico de este servicio es 5636INFO (56364636).
+IX. Gestión telefónica: Es la actividad de los Agentes u Operadores, consistente en la captura en el módulo manual del sistema INFOMEX de solicitudes de información pública y/o de datos personales y/o la presentación de la denuncias, así como de ingreso al módulo referido para informar, a petición del usuario, del estado que guardan dichas solicitudes.
 
-XVII. Usuario: La persona que se comunica a TEL-INFODF y requiere atención, vía telefónica, para la captura de su solicitud de información pública y/o de datos personales, así como asesoría para presentar estas solicitudes o interponer recurso de revisión, por cuenta propia, o bien requiere orientación en materia de acceso a la información y/o la presentación de la denuncia.
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+X. INFOCAP: Sistema de Apoyo y Control del Centro de Atención Telefónica Tel-InfoDF, en el que cada agente telefónico u operador captura las solicitudes de información pública y/o de acceso, rectificación, cancelación u oposición de datos personales, orientaciones, seguimientos y denuncias recibidos.
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XI. Instituto: Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal.
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XII. Ley de Datos Personales: Ley de Protección de Datos Personales para el Distrito Federal.
+
+XIII. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+XIV. Lineamientos de INFOMEX: Lineamientos para la gestión de solicitudes de información pública y de datos personales a través del sistema INFOMEX del Distrito Federal.
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XV. Número de Folio: Identificador numérico único compuesto de trece dígitos, dentro del módulo manual del sistema INFOMEX, que el Centro de Atención Telefónica del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal proporcionará a los usuarios, una vez ingresada su solicitud de información pública y/o de datos personales, y que le será necesario conservar a dichos usuarios para realizar el seguimiento de las solicitudes de información.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XVI. Orientación telefónica: Información brindada a los usuarios que consiste en la forma de obtener lo solicitado y que no es competencia del Tel-InfoDF.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XVII. Registro: Ingreso de datos en el módulo manual de INFOMEX para solicitar información pública y/o de datos personales.
+
+XVIII. Reporte: El informe detallado bajo criterios cronológicos, temáticos y/o de cualquier otra índole que determine la Secretaría Ejecutiva del Instituto, sobre las consultas telefónicas y otros requerimientos formulados al Centro de Atención Telefónica del Instituto.
+
+XIX. Requerimiento: La petición para realizar la captura de solicitudes de información pública y/o de datos personales o de denuncias, a través del Centro de Atención Telefónica del Instituto.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XX. Seguimiento: Servicio brindado por Tel-InfoDF que consiste en proporcionar información del estado procesal que guardan las solicitudes de información pública y/o de datos personales registradas en INFOMEX, por medio del Tel-InfoDF o los solicitantes.
+
+XXI. SE: La Secretaría Ejecutiva del Instituto.
+
+XXII. TEL-INFODF: El Centro de Atención Telefónica del Instituto, integrado con infraestructura de cómputo, telefonía y Agentes u Operadores, que tiene por objeto atender y asesorar a toda persona, vía telefónica, sobre el ejercicio del derecho de acceso a la información pública y/o acceso, rectificación, cancelación u oposición de datos personales en posesión de los entes públicos del Distrito Federal. El número telefónico de este servicio es 5636INFO (56364636).
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XXIII. Usuario: La persona que se comunica a Tel-InfoDF y requiere atención, vía telefónica, para el registro de su solicitud de información pública y/o de datos personales, así como orientación y asesoría para presentar estas solicitudes, interponer recurso de revisión y/o presentar una denuncia, por cuenta propia, o bien requiere asesoría en materia de acceso a la información y datos personales.
 
 3. El TEL-INFODF: Esta adscrito a la SE, la cual será la responsable de su operación y desempeño.
 
-## Título Segundo. Del Centro de Atención Telefónica TEL-INFODF
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-### Capítulo I. Objetivos y servicios del Centro de Atención Telefónica TEL-INFODF
+## Título Segundo. Del Centro de Atención Telefónica Tel-InfoDF
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo I. Objetivos y servicios del Centro de Atención Telefónica Tel-InfoDF
 
 4. El TEL-INFODF tiene los siguientes objetivos:
 
-I. Facilitar, ampliar y fortalecer el ejercicio del derecho de acceso a la información pública y/o acceso, rectificación, cancelación u oposición de datos personales en posesión de los entes públicos del Distrito Federal.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+I. Facilitar, ampliar y fortalecer el ejercicio del derecho de acceso a la información pública y/o acceso, rectificación, cancelación u oposición de datos personales en posesión de los entes obligados del Distrito Federal, a la población en general y preferentemente a la que no tiene acceso a internet.
 
 II. Realizar la captura de las solicitudes de información pública y/o de datos personales, y en su caso la presentación de denuncias.
 
-III. Brindar orientación telefónica sobre los procedimientos que deben realizarse para solicitar información pública y/o de acceso, rectificación, cancelación u oposición de datos personales; presentación de denuncias y de recursos de revisión; así como asesoría para realizar los trámites correspondientes y la manera de llenar sus respectivos formatos.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+III. Brindar orientación y asesoría de manera telefónica sobre los procedimientos que deben realizarse para solicitar información pública y/o de acceso, rectificación, cancelación u oposición de datos personales; presentación de denuncias y de recursos de revisión; así como asesoría para realizar los trámites correspondientes y la manera de llenar sus respectivos formatos.
 
 IV. Favorecer el nivel de participación social de las personas, al facilitar el ejercicio de su derecho de acceso a la información pública y/o de acceso, rectificación, cancelación u oposición de datos personales, así como difundir la cultura de la transparencia, a través de la asesoría y orientación que brinde TEL-INFODF, en el ámbito del los derechos referidos.
 
@@ -173,17 +229,23 @@ La atención telefónica otorgada por los agentes u operadores del TEL-INFODF se
 
 5. Los agentes u operadores del TEL-INFODF contarán con la capacitación adecuada para el cumplimiento de sus funciones y se actualizará permanentemente en materia de transparencia, acceso a la información pública, y el acceso, rectificación, cancelación u oposición de datos personales. Asimismo, contará con la capacitación normativa y técnica para el manejo del sistema INFOMEX, así como con habilidades para la comunicación telefónica, que permitan el desarrollo de relaciones empáticas con los usuarios, el manejo de conflictos, la facilidad de comunicación y la efectividad en la búsqueda y captura de datos.
 
-El supervisor vigilará el cumplimiento de los objetivos de TEL-INFODF y será el responsable de la presentación de un reporte periódico con los criterios cronológicos, temáticos y cualquier otro rubro que establezca la SE.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+El coordinador vigilará el cumplimiento de los objetivos de Tel-InfoDF y será el responsable de la presentación de un reporte periódico con los criterios cronológicos, temáticos y cualquier otro rubro que establezca la SE.
 
 6. El TEL-INFODF ofrecerá los siguientes servicios:
 
-I. Captura de solicitudes en el módulo manual del sistema INFOMEX.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-II. Registro de Denuncias recibidas de los Usuarios, las cuales deberán ser atendidas por la DEE.
+I. Registro de solicitudes en el módulo manual del sistema INFOMEX.
 
-III. Seguimiento:
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-A petición del usuario, se proporcionará información del estado procesal que guarda su solicitud de información pública y/o de datos personales registradas a través de TEL-INFODF.
+II. Captura de Denuncias recibidas de los usuarios, las cuales deberán ser atendidas por la DJDN.
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+III. Seguimiento: A petición del usuario, se proporcionará información del estado procesal que guarda su solicitud de información pública y/o de datos personales atendidas a través de Tel-InfoDF o registradas en el sistema INFOMEX.
 
 IV. Orientación y asesoría sobre:
 
@@ -191,21 +253,33 @@ A. La asistencia técnica necesaria para que, en caso de requerirlo, los usuario
 
 B. Los objetivos, atribuciones y actividades del Instituto contenidos en la Ley de Transparencia, la Ley de Datos Personales y demás normatividad aplicable.
 
-C. Las obligaciones de acceso a la información pública y de acceso, rectificación, cancelación u oposición de datos personales que poseen los entes públicos, contempladas en la Ley de Transparencia y la Ley de Datos Personales respectivamente, como son: proporcionar la información respecto del funcionamiento y actividades que desarrollan, la información que deben tener disponible los entes públicos en sus portales de Internet y la obligación de las Oficinas de Información Pública de apoyar al solicitante en la requisición de solicitudes de información pública y de datos personales.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-D. El directorio, las funciones y los datos generales de las Oficinas de Información Pública de los entes públicos, así como las funciones que deben realizar los responsables de las mismas.
+C. Las obligaciones de acceso a la información pública y de acceso, rectificación, cancelación u oposición de datos personales que poseen los entes obligados, contempladas en la Ley de Transparencia y la Ley de Datos Personales respectivamente, como son: proporcionar la información respecto del funcionamiento y actividades que desarrollan, la información que deben tener disponible los entes obligados en sus portales de Internet y la obligación de las Oficinas de Información Pública de apoyar al solicitante en la requisición de solicitudes de información pública y de datos personales.
 
-E. El ente público al cual se considere competente para atender las solicitudes de información pública y/o de datos personales, cuando así lo requiera el usuario.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-F. El ejercicio del derecho de acceso a la información pública y/o acceso, rectificación, cancelación u oposición de datos personales en posesión de los entes públicos del Distrito Federal en cuanto a:
+D. El directorio, las funciones y los datos generales de las Oficinas de Información Pública de los entes obligados, así como las funciones que deben realizar los responsables de las mismas.
 
-i. Quiénes son los entes públicos obligados en términos de la Ley de Transparencia y la Ley de Datos Personales.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+E. El Ente Obligado al cual se considere competente para atender las solicitudes de información pública y/o de datos personales, cuando así lo requiera el usuario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+F. El ejercicio del derecho de acceso a la información pública y/o acceso, rectificación, cancelación u oposición de datos personales en posesión de los entes obligados del Distrito Federal en cuanto a:
+
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+i. Quiénes son los entes obligados en términos de la Ley de Transparencia y la Ley de Datos Personales.
 
 ii. Qué es una solicitud de información pública.
 
 iii. Qué es una solicitud de acceso, rectificación, cancelación u oposición de datos personales.
 
-iv. Cuál es el ente público que considera competente para atender la solicitud de información requerida por los usuarios.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+iv. Cuál es el Ente Obligado que considera competente para atender la solicitud de información requerida por los usuarios.
 
 v. Cuáles son los supuestos de información de acceso restringido que prevé la Ley de Transparencia.
 
@@ -213,11 +287,25 @@ vi. El procedimiento y, en su caso, los costos de reproducción y/o de envío de
 
 vii. El procedimiento y, en su caso, los costos de reproducción de la respuesta a una solicitud de acceso a datos personales.
 
-viii. Las obligaciones de transparencia de los entes públicos contenidas en los artículos 13, 14, 15, 16, 17, 18, 19, 20, 21 y 22 de la Ley de Transparencia.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-ix. Los pasos a seguir para interponer los recursos de revisión ante el Instituto en los términos previstos por la Ley de Transparencia y por la Ley de Datos Personales.
+viii. Las obligaciones de transparencia de los entes obligados contenidas en los artículos 13, 14, 15, 16, 17, 18, 18 Bis, 19, 19 Bis, 20, 21 y 22 de la Ley de Transparencia.
 
-7. El horario de atención de TEL-INFODF será de lunes a viernes de 9:00 a 18:00 Hrs.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+ix. Los requisitos para interponer los recursos de revisión ante el Instituto en los términos previstos por la Ley de Transparencia y por la Ley de Datos Personales.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+x. Los requisitos para interponer una denuncia.
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+xi. Información relativa a los avisos enviados vía SMS por el INFODF, relativos al estado en el que se encuentran las solicitudes registradas en INFOMEX por los usuarios.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+7. El horario de atención de Tel-InfoDF será de lunes a jueves de 9:00 a 18:00 hrs y viernes de 9:00 a 15:00 hrs.
 
 8. Para efectos de los presentes Lineamientos, serán días inhábiles los siguientes: los sábados y domingos; el 1 de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1 de mayo; el 16 de septiembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
@@ -227,17 +315,23 @@ Asimismo, serán inhábiles los días que sean establecidos por el Pleno del Ins
 
 9. En términos del numeral 2, fracción II, de los presentes lineamientos, las consultas telefónicas versarán sobre:
 
-I. Las obligaciones de transparencia a las que hacen referencia los artículos 13, 14, 15, 16, 17, 18, 19, 20, 21 y 22 de la Ley de Transparencia y que deben cumplir los entes públicos;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+I. Las obligaciones de transparencia a las que hacen referencia los artículos 13, 14, 15, 16, 17, 18, 18 Bis, 19, 19 Bis, 20, 21 y 22 de la Ley de Transparencia y que deben cumplir los entes obligados;
 
 II. Información difundida en la página de Internet del Instituto.
 
 III. La explicación de los diversos procedimientos previstos por la Ley de Transparencia y la Ley de Datos Personales, plazos e instancias competentes;
 
-IV. El domicilio y directorio de las Oficinas de Información Pública de los entes públicos del Distrito Federal;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+IV. El domicilio y directorio de las Oficinas de Información Pública de los entes obligados del Distrito Federal;
 
 V. Los objetivos y el funcionamiento del Instituto, y
 
-VI. Cualquier otra información que tenga relación con el procedimiento para la realización de solicitudes de información pública y de datos personales, así como para la presentación de denuncias e interposición del recurso de revisión ante el Instituto.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+VI. Cualquier otra información que tenga relación con el procedimiento para la realización y seguimiento de solicitudes de información pública y de datos personales, así como para la presentación de Denuncias e interposición del recurso de revisión ante el Instituto.
 
 10. Para asegurar la calidad del servicio que se proporciona a los usuarios, todas las llamadas que ingresen a TEL-INFODF serán grabadas desde el momento en que ingrese la llamada y hasta que se finalice la misma. Esta situación será comunicada por el sistema telefónico con el que opera el TEL-INFODF.
 
@@ -245,13 +339,19 @@ VI. Cualquier otra información que tenga relación con el procedimiento para la
 
 12. Las consultas telefónicas recibidas por cualquier área del Instituto, que correspondan al ámbito de competencia de TELINFODF, deberán ser remitidas a éste.
 
-### Capítulo III. Del procedimiento de captura de solicitudes de información pública y de datos personales
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-13. Los agentes u operadores de TEL-INFODF deberán capturar las solicitudes de información pública y de datos personales en el módulo manual del sistema INFOMEX, el cual se encuentra en la dirección electrónica www.infomexdf.org.mx
+### Capítulo III. Del Procedimiento de registro de solicitudes de información pública y de datos personales
 
-14. Para la captura de las solicitudes en el módulo manual del sistema INFOMEX, el usuario deberá proporcionar a los agentes de TEL-INFODF los datos que requiere dicho módulo. Una vez registrada la solicitud, el agente proporcionará al usuario el número de folio del acuse de recibo y el número de atención que, como medida de identificación adicional, emitirá el sistema informático de apoyo de TEL-INFODF, advirtiéndole que deberá conservar y tener disponibles dichos datos para que, posteriormente, pueda requerir una atención más ágil de la información sobre el estado de su solicitud.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-En caso de que sea interpuesta una solicitud a diferentes entes públicos por parte de un mismo solicitante y que por su extensión no sea posible procesar el día de su recepción, deberá registrarse a más tardar al día hábil siguiente dentro del horario establecido en el numeral 7 de los presentes lineamientos.
+13. Los agentes u operadores de Tel-InfoDF deberán registrar las solicitudes de información pública y de datos personales en el módulo manual del sistema INFOMEX, el cual se encuentra en la dirección electrónica www.infomexdf.org.mx
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+14. Para el registro de las solicitudes en el módulo manual del sistema INFOMEX, el usuario deberá proporcionar a los agentes de Tel-InfoDF los datos que requiere dicho módulo. Una vez registrada la solicitud, el agente proporcionará al usuario el número de folio del acuse de recibo advirtiéndole que deberá conservar y tener disponible dicho dato para que, posteriormente, pueda recibir una atención más ágil de la información sobre el estado de su solicitud.
+
+En caso de que sea interpuesta una solicitud a diferentes entes obligados por parte de un mismo solicitante y que por su extensión no sea posible procesar el día de su recepción, deberá registrarse a más tardar al día hábil siguiente dentro del horario establecido en el numeral 7 de los presentes lineamientos.
 
 15. Las solicitudes de información pública y/o de datos personales que remita el TEL-INFODF a las Oficinas de Información Pública deberán ser tramitadas y gestionadas a través del módulo manual del sistema INFOMEX. Por lo tanto, dichas Oficinas deberán realizar las notificaciones y prevenciones directamente al solicitante, a través del medio señalado por él para recibir notificaciones.
 
@@ -259,30 +359,70 @@ En caso de que sea interpuesta una solicitud a diferentes entes públicos por pa
 
 I. Registrarán la solicitud el mismo día en que se presente, siempre y cuando se lleve a cabo dentro de los horarios de servicio de TEL-INFODF, establecidos en los presentes lineamientos. La fecha en la que se tendrá por presentada la solicitud se determinará conforme a lo establecido en los Lineamientos de INFOMEX.
 
-II. Una vez realizado el registro anterior, deberá proporcionarse al usuario la fecha de recepción de la solicitud, el número de folio, el número de atención emitida por el sistema y los plazos de respuesta aplicables, datos que deberá conservar el usuario para dar seguimiento al procedimiento ante la Oficina de Información Pública del ente público o ante el TELINFODF. También se le informará que, en caso de que requiera su acuse de recibo, podrá recogerlo directamente en las instalaciones del Instituto, o podrá enviársele vía correo electrónico.
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+II. Una vez realizado el registro anterior, deberá proporcionarse al usuario la fecha de recepción de la solicitud, el número de folio, el número de atención emitida por el sistema y los plazos de respuesta aplicables, datos que deberá conservar el usuario para dar seguimiento al procedimiento ante la Oficina de Información Pública del Ente Obligado o ante el Tel-InfoDF. También se le informará que, en caso de que requiera su acuse de recibo, podrá recogerlo directamente en las instalaciones del Instituto, o podrá enviársele vía correo electrónico.
 
 III. Para el caso de solicitudes de rectificación de datos personales, los Agentes u Operadores deberán indicar al solicitante que será su responsabilidad enviar a la Oficina de Información Pública correspondiente, la documentación probatoria que sustente su solicitud a través de correo electrónico o presentarla directamente ante la Oficina de Información Pública del ente público competente para atender su solicitud.
 
 IV. El TEL-INFODF llevará un registro de las solicitudes.
 
-17. El TEL-INFODF llevará un control de los datos de los solicitantes y de las solicitudes realizadas a través de una base de datos de su sistema de apoyo, el cual servirá para elaborar el Reporte que generará periódicamente, cuyo tratamiento se apegará a lo dispuesto por la Ley de Datos.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-18. Durante su labor y para la adecuada atención de los solicitantes, los Agentes u Operadores deberán apoyarse en los datos del sistema INFOMEX, en material impreso y en la propia página de Internet del Instituto. De igual forma, deberán sujetarse a los requerimientos y procesos para atender las consultas telefónicas contenidas en los presentes lineamientos.
+17. El Tel-InfoDF llevará un control de los datos de los solicitantes y de las solicitudes realizadas a través de una base de datos de su sistema de apoyo, el cual servirá para elaborar el Reporte que generará periódicamente, cuyo tratamiento se apegará a lo dispuesto por la Ley de Datos Personales.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+18. Durante su labor y para la adecuada atención de los solicitantes, los Agentes u Operadores deberán apoyarse en los datos de los sistemas INFOCAP e INFOMEX, en material impreso y en la propia página de Internet del Instituto. De igual forma, deberán sujetarse a los requerimientos y procesos para atender las consultas telefónicas contenidas en los presentes lineamientos.
 
 19. Cuando las llamadas telefónicas tengan por objeto una solicitud que no sea competencia del TEL-INFODF o no sea materia de información pública y/o de datos personales, dentro de lo posible, el Agente u Operador deberá orientar al solicitante sobre la forma de obtener dicha información.
 
 ## Título Tercero
 
-### Capítulo Único. Disposiciones complementarias
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-20. Bajo ningún motivo se realizarán las gestiones telefónicas a los solicitantes que utilicen un lenguaje inapropiado, amenazas o insultos durante la llamada telefónica.
+### Capítulo IV (SIC). Del procedimiento de atención de las denuncias
 
-21. En el ámbito de competencia del TEL-INFODF, procede la captura de las solicitudes de información y de datos personales, la orientación y asistencia requerida por el solicitante. El Instituto no es responsable de la información requerida, del fundamento legal o motivación de las resoluciones y/o prevenciones, del sentido de las respuestas, ni del contenido de las mismas. Lo anterior es responsabilidad tanto del solicitante como de los entes públicos que generan la respuesta a dichas solicitudes.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-22. Por ningún motivo podrá realizarse el registro de recursos de revisión a través del TEL-INFODF, por lo que en dichos casos, los solicitantes deberán sujetarse a los procedimientos previstos en la Ley de Transparencia y la Ley de Datos Personales y demás normatividad aplicable.
+20. Los agentes u operadores de Tel-InfoDF ante una posible denuncia por presuntas infracciones a la Ley de Transparencia o la Ley de Datos Personales deberán:
+
+I. Capturarla en los formatos establecidos.
+
+II. Proporcionar al denunciante el número de folio del acuse de recibo, para que posteriormente de seguimiento a su denuncia.
+
+III. Entregar la captura de la denuncia a la Unidad de Correspondencia del Instituto, para la gestión correspondiente.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+## Título Cuarto
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN EL TÍTULO TERCERO], G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+### Capítulo Único. Disposiciones Complementarias
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+21. Bajo ningún motivo se realizarán las gestiones telefónicas, a los solicitantes que utilicen un lenguaje inapropiado, amenazas o insultos durante la llamada telefónica.
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+22. En el ámbito de competencia del Tel-InfoDF, procede la captura de las solicitudes de información y/o de datos personales y de las denuncias, la orientación y asistencia requerida por el solicitante. El Instituto no es responsable de la información requerida, del fundamento legal o motivación de las resoluciones y/o prevenciones, del sentido de las respuestas, ni del contenido de las mismas. Lo anterior es responsabilidad tanto del solicitante como de los entes obligados que generan la respuesta a dichas solicitudes y denuncias.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+23. Por ningún motivo podrá realizarse el registro de recursos de revisión a través del Tel-InfoDF, por lo que en dichos casos, los solicitantes deberán sujetarse a los procedimientos previstos en la Ley de Transparencia y la Ley de Datos Personales y demás normatividad aplicable.
 
 ## Transitorios
 
 Primero. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Se abrogan los Lineamientos que regirán la operación del Centro de Atención Telefónica del Instituto de Acceso a la Información Pública del Distrito Federal (TEL-INFODF), aprobados mediante el acuerdo 227/SE/26-05/2008 y modificados mediante el acuerdo 245/SO/04-06/2008.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE DICIEMBRE DE 2011.
+
+## [N. DE E. TRANSITORIO DE LOS “LINEAMIENTOS QUE REGIRÁN LA OPERACIÓN DEL CENTRO DE ATENCIÓN TELEFÓNICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL (TEL-INFODF)”.]
+
+ÚNICO. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
