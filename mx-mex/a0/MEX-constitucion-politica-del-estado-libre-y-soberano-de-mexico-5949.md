@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2011-12-06"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2011.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -165,11 +165,11 @@ En el Estado de México se fomentará a sus habitantes el cuidado de su salud, p
 
 Los habitantes del Estado gozan del derecho a que les sea respetado su honor, su crédito y su prestigio.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 7.
 
-Las leyes del Estado no podrán establecer sanciones que priven a ningún individuo de la vida, de la libertad a perpetuidad o que confisquen sus bienes.
+Las leyes del Estado no podrán establecer sanciones que priven a algún individuo de la vida o confisquen sus bienes.
 
 > <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -1963,7 +1963,7 @@ Cualquier incumplimiento en la entrega de las participaciones que correspondan a
 
 En los casos de participaciones federales, las autoridades del Estado convendrán con las de la Federación el calendario respectivo; no asistirá responsabilidad a quien, por razones que no le sean imputables, origine retraso en la ejecución de dicho calendario.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO CUARTO. De las Atribuciones de los Presidentes Municipales
 
@@ -3512,3 +3512,9 @@ DECRETO NUMERO 387, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 51 DE LA CO
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno".
