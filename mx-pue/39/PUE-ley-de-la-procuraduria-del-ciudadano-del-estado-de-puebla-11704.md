@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-procuraduria-del-ciudadano-del-estado-de-puebla-11704
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-31"
-last_updated: "2010-01-04"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE LA PROCURADURIA DEL CIUDADANO DEL ESTADO DE PUEBLA
 
-LEY DE LA PROCURADURIA DEL CIUDADANO DEL ESTADO DE PUEBLA
+LEY DE LA PROCURADURÍA DEL CIUDADANO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SERVICIO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 16 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 31 de diciembre de 1997.
 
@@ -630,3 +632,11 @@ PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se abroga la Ley de la Procuraduría del Ciudadano del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha treinta y uno de diciembre de mil novecientos noventa y siete.
+
+TERCERO.- Se derogan todas las disposiciones de la misma naturaleza que se opongan a la presente Ley.
