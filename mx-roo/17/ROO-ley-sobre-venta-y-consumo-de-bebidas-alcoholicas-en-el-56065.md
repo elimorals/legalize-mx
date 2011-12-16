@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2010-12-22"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ROO"
 ---
 # LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
-LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
+LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE DICIEMBRE DE 2010 NO APLICA AL ARTICULADO DEL DECRETO 389 PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2010.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -41,9 +39,11 @@ LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de la presente ley son de orden público, interés social y de observancia general en el Estado de Quintana Roo y tiene por objeto regular la venta y/o consumo de bebidas alcohólicas.
+Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Estado de Quintana Roo y tiene por objeto regular la venta, consumo y/o distribución de bebidas alcohólicas y cualquier otra acción que conduzca a la realización de dichas actividades, de conformidad con lo establecido en la presente Ley.
 
 El consumo que se regulará en la presente Ley, será en los casos específicos que se señalan en la misma, y para ello se deberá contar con un permiso especial y cubrir el pago previsto en la Ley de Hacienda del Estado de Quintana Roo.
 
@@ -51,9 +51,13 @@ El consumo que se regulará en la presente Ley, será en los casos específicos 
 
 Son sujetos de la presente ley las personas que:
 
-I.- Operen establecimientos cuyo giro principal o accesorio sea la venta o consumo de bebidas alcohólicas; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-II.- Realicen actividades relacionadas con la venta o consumo de bebidas alcohólicas, en razón de autorización especial en los términos de la presente ley.
+I.- Operen establecimientos cuyo giro principal o accesorio sea la venta, consumo y/o distribución de bebidas alcohólicas y cualquier otra acción que conduzca a la realización de dichas actividades.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+II.- Realicen actividades relacionadas con la venta, consumo y/o distribución de bebidas alcohólicas y cualquier otra acción que conduzca a la realización de dichas actividades. En razón de autorización especial en los términos de la presente Ley.
 
 ###### ARTÍCULO 3.
 
@@ -67,7 +71,9 @@ I.- El Ejecutivo: Al Gobernador del Estado de Quintana Roo;
 
 II.- La Secretaría: A la Secretaría de Hacienda del Gobierno del Estado de Quintana Roo;
 
-III.- Licencia de Bebidas Alcohólicas: Al documento otorgado por el Ejecutivo a través de la Secretaría; por el que se concede autorización, términos y condiciones para la venta y/o consumo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+III.- Licencia de Bebidas alcohólicas: Al documento otorgado por el Ejecutivo a través de la Secretaría; por el que se concede autorización, términos y condiciones para la venta, consumo y/o distribución de bebidas alcohólicas.
 
 IV.- S.M.G.: Salario Mínimo General vigente en la Entidad.
 
@@ -81,7 +87,9 @@ Los Ayuntamientos únicamente tendrán competencia en lo que corresponda a licen
 
 Para llevar a cabo la actividad señalada en el Artículo 1 de esta Ley, las personas físicas o morales, deberán obtener previamente la Licencia de Bebidas Alcohólicas, Permiso Provisional o Especial en los términos que la misma establece.
 
-Los derechos por el otorgamiento, modificación o transferencia de la Licencia de Bebidas Alcohólicas, y por el otorgamiento del Permiso Provisional o Especial a que se refiere esta ley, se causarán con base a las tarifas establecidas en la Ley de Hacienda del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Los derechos por el otorgamiento, modificación, transferencia, refrendo, renovación o reposición de la Licencia de Bebidas Alcohólicas, y por el otorgamiento del Permiso Provisional o Especial a que se refiere esta Ley, se causarán con base a las tarifas establecidas en la Ley de Hacienda del Estado de Quintana Roo.
 
 ###### ARTÍCULO 7.
 
@@ -131,7 +139,9 @@ VIII.- Facilitar la información a quien lo solicite de acuerdo con lo que estab
 
 IX.- Someter a Dictamen de la Comisión Estatal de Mejora Regulatoria cualquier adición, modificación o cancelación que se practique en el contenido de esta ley, para salvaguardar lo establecido en la Ley Estatal de Mejora Regulatoria;
 
-X.- Solicitar, para efectos de compulsa, al titular de una Licencia de Bebidas Alcohólicas de los giros especificados en las fracciones VIII y IX del Artículo 17 de esta Ley, información de las personas a quienes haya vendido bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+X.- Solicitar para efectos de compulsa, al titular de una Licencia de Bebidas Alcohólicas de los giros especificados en las fracciones VIII, IX y X del artículo 17 de esta Ley, información de las personas a quienes haya vendido bebidas alcohólicas;
 
 > <small>(F. DE E., P.O. 20 DE JUNIO DE 2007)</small>
 
@@ -231,6 +241,10 @@ g) En caso de autorización de la Licencia de Bebidas Alcohólicas, pagar los de
 
 h) Fotografías del exterior e interior del establecimiento.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+i) Cédula catastral del domicilio en el que se pretenda crear el establecimiento con venta de bebidas alcohólicas.
+
 ###### ARTÍCULO 16.
 
 El titular de la Licencia de Bebidas Alcohólicas que requiera efectuar alguna modificación en la misma se sujetará a lo establecido en los Artículos 11, 12, 13, 14, 15 y 26 de esta Ley y su Reglamento según sea el caso, y solamente en lo que expresamente aplique y señale la fracción correspondiente.
@@ -285,21 +299,25 @@ El titular de la licencia que decida seguir contando con dichos derechos y oblig
 
 #### SECCIÓN QUINTA. DE LOS PERMISOS
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
-Permiso de Bebidas Alcohólicas, es el documento oficial otorgado por el Ejecutivo por conducto de la Secretaría, con carácter provisional o especial que autoriza la venta y/o consumo de bebidas alcohólicas en los giros previstos por esta Ley.
+Permiso de Bebidas Alcohólicas, es el documento oficial otorgado por el Ejecutivo por conducto de la Secretaría, con carácter provisional o especial que autoriza la venta, consumo y/o distribución de bebidas alcohólicas en los giros previstos por esta Ley.
 
 ###### ARTÍCULO 21.
 
 El Permiso Provisional o Especial, a que se refiere el artículo anterior estará sujeto a los derechos y obligaciones que señala la presente Ley y su Reglamento. Para efectos de esta Ley se deberá entender lo siguiente:
 
-I.- Permiso Provisional: Es aquel que se otorga para la venta de bebidas alcohólicas al titular de una Licencia de Bebidas Alcohólicas, en atención a una solicitud relativa a una modificación de la misma, a efecto de que mientras se resuelve su petición, pueda gozar de los derechos y obligaciones que la modificación de la Licencia de Bebidas Alcohólicas solicitada le otorgaría.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-También es aquel que se otorga para la venta de bebidas alcohólicas al solicitante de una Licencia de Bebidas Alcohólicas, y cuando así lo considere la Secretaría, a efecto de que pueda gozar de los derechos y obligaciones que la misma le otorgaría, mientras se resuelve su solicitud.
+I.- Permiso Provisional: Es aquél que se otorga para la venta, consumo y/o distribución de bebidas alcohólicas al titular de una Licencia de Bebidas Alcohólicas, en atención a una solicitud relativa a una modificación de la misma, a efecto de que mientras se resuelve su petición, pueda gozar de los derechos y obligaciones que la modificación de la licencia de bebidas alcohólicas solicitada le otorgaría.
 
-II.- Permiso Especial: Es aquel que se otorga para la venta de bebidas alcohólicas en los siguientes casos:
+También es aquél que se otorga para la venta, consumo y/o distribución de bebidas alcohólicas al solicitante de una Licencia de Bebidas Alcohólicas, y cuando así lo considere la Secretaría, a efecto de que pueda gozar de los derechos y obligaciones que la misma le otorgaría, mientras se resuelve su solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+II.- Permiso Especial: Es aquél que se otorga para la venta, consumo y/o distribución de bebidas alcohólicas en los siguientes casos:
 
 a) Durante la realización eventual de alguna actividad pública como kermés, feria, cena baile, baile popular, degustación y en general, cualquier evento público de carácter artístico, cultural, social o deportivo.
 
@@ -314,6 +332,10 @@ El Permiso Provisional tendrá una vigencia de sesenta días naturales, contados
 El Permiso Especial señalado en el inciso a) del Artículo anterior en ningún caso tendrá una vigencia superior al tiempo de duración de la actividad pública que le dio origen.
 
 Para el otorgamiento de los permisos a que se refiere el Artículo anterior, el solicitante deberá reunir las características y cumplir los requisitos que se establezcan en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 22 BIS.- Los titulares de permisos provisionales o especiales para la venta, consumo y/o distribución, tendrán las mismas obligaciones que un titular de una Licencia de Bebidas Alcohólicas de conformidad al artículo 29 de esta Ley.
 
 ### CAPÍTULO III. DE LOS ESTABLECIMIENTOS
 
@@ -888,3 +910,9 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de enero de
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Se dejan sin efecto todas las disposiciones legales de (sic) que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 2012, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
