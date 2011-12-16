@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-planeacion-y-22346"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-05"
-last_updated: "2009-12-11"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2001.
 
@@ -1214,3 +1216,11 @@ P.O. 11 DE DICIEMBRE DE 2009.
 PRIMERO.- La presente reforma entrará en vigor el día 04 de enero de 2010, con las salvedades que se establecen en el artículo siguiente.
 
 SEGUNDO.- A fin de salvaguardar la eficiencia en la prestación de servicio a la ciudadanía, la aplicación de la presente reforma se realizará de manera progresiva, para lo cual, la misma deberá iniciar en la fecha señalada en el Artículo Transitorio anterior, en las oficinas de la Subrecaudación Auxiliar de Rentas para el Canje de Placas, .de la ciudad de Mexicali, y en la Subrecaudación Auxiliar de Rentas para el Canje de Placas en Vía Rápida, de la ciudad de Tijuana.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los 15 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Dirección General de Informática, se entenderán hechas a la Subsecretaría de Innovación y Modernización Tecnológica Gubernamental.
+
+TERCERO.- Se abroga el Reglamento Interno de la Secretaría de Planeación y Finanzas publicado en el Periódico Oficial del Estado el 05 de octubre de 2001, a partir del día en que entre en vigor el presente Reglamento.
