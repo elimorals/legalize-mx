@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-06-27"
+last_updated: "2011-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -395,7 +395,13 @@ XXXVI. Intervenir, junto con las autoridades federales, estatales y municipales 
 
 XXXVII. Otorgar a las autoridades judiciales el apoyo que soliciten con motivo del ejercicio de sus funciones;
 
-XXXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XXXVIII. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de Vigilancia;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
+XXXIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2011)</small>
 
@@ -1688,3 +1694,11 @@ P.O. 27 DE JUNIO DE 2011.
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga toda disposición de menor o igual jerarquía que se oponga al presente Decreto.
+
+TERCERO. Se faculta al Ejecutivo del Estado a realizar, dentro del término de sesenta días naturales contados a partir de la vigencia del presente Decreto, todos los actos administrativos y presupuestales con el fin de que la Unidad de Servicios Especiales de Vigilancia, sea creada y entre en funcionamiento, así como a expedir los reglamentos administrativos necesarios.
