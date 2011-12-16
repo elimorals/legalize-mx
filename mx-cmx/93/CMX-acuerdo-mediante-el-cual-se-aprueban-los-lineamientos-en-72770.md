@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-mediante-el-cual-se-aprueban-los-lineamientos-en-72770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-02-15"
-last_updated: "2010-02-15"
+last_updated: "2011-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72770&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-01-28"
 ---
 # ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTAL DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL DISTRITO FEDERAL
 
-ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTAL DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
+ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTAL DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2011.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de febrero de 2010.
 
@@ -82,9 +82,11 @@ LINEAMIENTOS EN MATERIA DE RACIONALIDAD, AUSTERIDAD Y DISCIPLINA PRESUPUESTAL DE
 
 I. OBJETIVO.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 1.
 
-Los presentes Lineamientos tienen por objeto regular y normar las acciones para optimizar la utilización eficiente y eficaz de los recursos financieros, materiales y humanos del Instituto de Acceso a la Información Pública del Distrito Federal (INFODF), a partir de criterios de racionalidad, austeridad y disciplina presupuestal.
+Los presentes Lineamientos tienen por objeto regular y normar las acciones para optimizar la utilización eficiente y eficaz de los recursos financieros, materiales y humanos del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal (INFODF), a partir de criterios de racionalidad, austeridad y disciplina presupuestal.
 
 ###### Artículo 2.
 
@@ -106,9 +108,13 @@ Para los efectos de los presentes Lineamientos se entenderá por:
 
 Comisión: tarea o función de carácter extraordinario conferida a los servidores públicos para que realicen las actividades inherentes a su cargo en un sitio distinto al de su adscripción;
 
-Contraloría: Contraloría del Instituto de Acceso a la Información Pública del Distrito Federal;
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
 
-Instituto: Instituto de Acceso a la Información Pública del Distrito Federal;
+Contraloría: Contraloría del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Instituto: Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
 Pasajes locales: Asignación que se otorga a los servidores públicos del Instituto por concepto de transportación derivada del traslado de su lugar de adscripción a otro diferente, dentro de la zona metropolitana o conurbada de la Ciudad de México;
 
@@ -120,7 +126,9 @@ Prestación de Servicios: Actos en virtud de los cuales una persona física o mo
 
 Tarifa: Tabla que consigna los montos que se otorgan por concepto de viáticos nacionales o internacionales, así como de telefonía celular y combustible a los servidores públicos autorizados;
 
-Unidades Administrativas: Presidencia, Secretaría Técnica, Secretaría Ejecutiva, Contraloría, Dirección Jurídica y Desarrollo Normativo, Dirección de Capacitación y Cultura de la Transparencia, Dirección de Evaluación y Estudios, Dirección de Vinculación con la Sociedad, Dirección de Comunicación Social, Dirección de Tecnologías de Información y Dirección de Administración y Finanzas del Instituto; y
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
+Unidades Administrativas: La Secretaría Técnica, la Secretaría Ejecutiva, la Contraloría, las Direcciones y Coordinaciones del Instituto y
 
 Viáticos: Asignaciones destinadas a cubrir los costos por hospedaje, alimentación, transporte local (gastos de camino), estacionamiento y llamadas telefónicas oficiales o tarjeta telefónica pre-pagada, durante el desempeño de una comisión oficial, siempre y cuando sea en un lugar distinto al de su adscripción.
 
@@ -144,57 +152,53 @@ El Pleno es la instancia facultada para interpretar los presentes Lineamientos.
 
 Las Unidades Administrativas deberán sujetarse a las disposiciones de austeridad presupuestaria en la adquisición y contratación de los siguientes bienes y servicios: materiales y útiles de oficina, agua para consumo humano, arrendamiento de edificios y locales, servicios profesionales por honorarios, estudios e investigaciones, gastos de alimentación, mensajería y paquetería, energía eléctrica, telefonía convencional, telefonía celular, viáticos, pasajes, fotocopiado, seguridad y vigilancia, combustible, remodelación y mantenimiento de instalaciones, mobiliario, equipo informático, equipo de telecomunicaciones y vehículos.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
 Asimismo, las partidas presupuestales sujetas a criterios de racionalidad son las siguientes:
 
-### CAPÍTULO 2000 “MATERIALES Y SUMINISTROS”. - 2101 “Materiales y útiles de oficina”
+### CAPÍTULO 2000 "MATERIALES Y SUMINISTROS". - 2111 "Materiales y equipos menores de oficina"
 
-- 2201 “Alimentación de personas”
+- 2211 "Productos alimenticios y bebidas para personal"
 
-- 2203 “Utensilios para el servicio de alimentación”
+- 2231 "Utensilios para el servicio de alimentación"
 
-- 2601 “Combustibles”
+- 2611 "Combustibles, Lubricantes y aditivos"
 
-### CAPÍTULO 3000 “SERVICIOS GENERALES”. - 3101 “Servicio postal”
+### CAPÍTULO 3000 "SERVICIOS GENERALES". - 3181 "Servicio postal y telegráfico"
 
-- 3103 “Servicio telefónico convencional”
+- 3114 "Telefonía tradicional"
 
-- 3104 “Servicio de energía eléctrica”
+- 3112 "Servicio de energía eléctrica"
 
-- 3105 “Servicio de agua”
+- 3131 "Servicio de agua"
 
-- 3107 “Servicio de telefonía celular”
+- 3151 "Telefonía celular"
 
-- 3201 “Arrendamiento de edificios y locales”
+- 3221 "Arrendamiento de edificios"
 
-- 3301 “Honorarios”
+- 3311 "Servicios legales, de contabilidad, auditoría y relacionados"
 
-- 3303 “Servicios de informática”
+- 3331 "Servicios de consultoría administrativa, procesos, técnica y tecnología"
 
-- 3305 “Estudios e investigaciones”
+- 3351 "Servicios de investigación científica y desarrollo de la información"
 
-- 3504 “Mantenimiento, conservación y reparación de bienes inmuebles y muebles adheridos a los mismos”
+- 3511 "Conservación y mantenimiento menos de inmuebles"
 
-- 3701 “Pasajes nacionales”
+- 3711 "Pasajes aéreos nacionales e internacionales"
 
-- 3702 “Viáticos nacionales”
+- 3751 "Viáticos en el país"
 
-- 3703 “Pasajes al interior del Distrito Federal”
+- 3722 "Pasajes terrestres al interior del Distrito Federal"
 
-- 3705 “Pasajes internacionales”
+- 3761 "Viáticos en el extranjero"
 
-- 3706 “Viáticos en el extranjero”
+- 3851 "Gastos de representación"
 
-- 3807 “Gastos para alimentación de servidores públicos de mando”
+### CAPÍTULO 5000 "BIENES MUEBLES E INMUEBLES". - 5111 "Muebles e (sic) oficina y estantería"
 
-### CAPÍTULO 5000 “BIENES MUEBLES E INMUEBLES”. - 5101 “Mobiliario”
+- 5151 "Equipo de cómputo y tecnologías de información"
 
-- 5102 “Equipo de administración”
-
-- 5206 “Bienes informáticos”
-
-- 5304 “Vehículos y equipo destinados a servicios administrativos”
-
-- 5305 “Vehículos y equipo destinados a servidores públicos”
+- 5413 "Automóviles y camiones destinados a servidores públicos y servicios administrativos"
 
 ###### Artículo 9.
 
@@ -278,9 +282,11 @@ Estas comisiones deberán guardar estrecha relación con el cumplimiento de los 
 
 En la contratación de servicios de transportación aérea no están autorizados los servicios de primera clase y se optará por la mejor opción de acuerdo a un comparativo entre calidad y precio, sin importar el nivel jerárquico del servidor público que realice el viaje.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-La asignación de pasajes locales será supervisada por la Dirección de Administración y Finanzas y validada por los titulares de las áreas solicitantes, implantando un control en el que se especifique el servidor público que efectúa el gasto, el lugar del destino y el motivo del traslado.
+La asignación de pasajes locales será supervisada por la Dirección de Administración y Finanzas y validada por los titulares de las Unidades Administrativas solicitantes, implantando un control en el que se especifique el servidor público que efectúa el gasto, el lugar del destino y el motivo del traslado.
 
 ###### Artículo 25.
 
@@ -300,13 +306,11 @@ Se asignará a cada Unidad Administrativa una clave para el servicio de fotocopi
 
 El gasto en el servicio de seguridad y vigilancia se reducirá al mínimo necesario para salvaguardar la integridad física de los trabajadores, así como el patrimonio del Instituto.
 
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 27.
 
-La dotación de combustible se otorgará sólo a servidores públicos con nivel de Director de Área y hasta el Presidente del Instituto, de conformidad con las tarifas aprobadas por el Pleno de acuerdo a la disponibilidad presupuestal.
-
-El incremento anual en estas tarifas no podrá ser mayor a la tasa de inflación esperada por el Banco de México y publicada en los Criterios Generales de Política Económica para el ejercicio fiscal de que se trate.
-
-Asimismo, se adquirirá el combustible necesario para los vehículos destinados a servicios generales y para la planta de emergencia de energía eléctrica.
+La dotación de combustible se otorgará sólo a servidores públicos titulares de las unidades administrativas y hasta el Presidente del Instituto, de conformidad con las tarifas aprobadas por el Pleno de acuerdo a la disponibilidad presupuestal.
 
 ###### Artículo 28.
 
@@ -369,3 +373,9 @@ Dra. María Emilia Alejandra Janetti Díaz
 Directora de Administración y Finanzas
 
 Responsable de la Publicación
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 16 DE DICIEMBRE DE 2011.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
