@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2009-08-07"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -501,11 +501,11 @@ En la formulación de sus presupuestos, las entidades paraestatales se sujetará
 
 Los ingresos que se recauden por los diversos conceptos que establece la Ley de Ingresos y los de naturaleza distinta que obtengan las entidades paraestatales, se concentrarán forzosamente en la Secretaría de Finanzas y deberán reflejarse en la contabilidad gubernamental.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 42.
 
-Las entidades paraestatales, dispondrán y erogarán sus recursos propios por medio de sus órganos de autoridad, conforme a la normatividad aplicable.
-
-Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas, en los términos que se fijen en los Presupuestos de Egresos del Estado, debiendo erogarlos por sus propios órganos y sujetarse a los controles e informes respectivos, de conformidad con la legislación aplicable.
+La percepción de subsidios, transferencias y los derivados de la suscripción de convenios, acuerdos, donativos, reintegros y cualquier otro bien financiero o material que reciban por cualquier otro título no considerado en los anteriores, los recibirá de la Secretaría de Finanzas, en los términos que se fijen en los presupuestos de egresos autorizados, debiendo erogarlos con sujeción de los controles e informes que determinen las disposiciones legales aplicables al origen de financiamiento.
 
 ###### ARTICULO 43.
 
@@ -772,3 +772,7 @@ TERCERO.- El Titular de la Consejería Jurídica del Gobierno del Estado, deber�
 CUARTO.- Se derogan las anteriores disposiciones que se opongan al presente decreto.
 
 QUINTO.- El Congreso del Estado procederá a realizar las adecuaciones a las leyes, decretos y demás ordenamientos vigentes, que se deriven de la aplicación del presente decreto.
+
+P.O. 17 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
