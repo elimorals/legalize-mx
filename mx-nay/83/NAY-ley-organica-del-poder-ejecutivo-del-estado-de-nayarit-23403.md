@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2011-08-13"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -277,9 +277,11 @@ III. Secretaría de Planeación, Programación y Presupuesto;
 
 IV. Secretaría de Obras Públicas;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Secretaría de Educación Básica;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+V. Secretaría de Educación
 
 VI. Secretaría de la Contraloría General;
 
@@ -307,9 +309,9 @@ XI. Secretaría del Medio Ambiente;
 
 XII. Procuraduría General de Justicia;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica;
+XIII. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -835,249 +837,87 @@ XLIII. Recibir, conservar y en su caso hacer efectivas las garantías que las pe
 
 XLIV. Las demás que le atribuyan las leyes, reglamentos y convenios, y las que le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
 
-A la Secretaría de Educación Básica le corresponden las siguientes atribuciones:
+A la Secretaría de Educación le corresponden las siguientes atribuciones:
 
-I. Proponer al Ejecutivo del Estado, las políticas y programas en materia educativa, cultural, deportiva, recreativa y de aprovechamiento del tiempo libre; así como promover, apoyar, ejecutar y supervisar las actividades relativas a dichas materias, por conducto de la propia Secretaría o de los órganos desconcentrados y organismos descentralizados que para tal efecto constituya el Ejecutivo Estatal;
+I. Proponer al Ejecutivo del Estado, las políticas y programas en materia de educación;
 
-II. Dirigir, vigilar y coordinar que el sistema educativo estatal dé cumplimiento al Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, a la Ley General de Educación y demás disposiciones legales aplicables en la materia;
+II. Coordinar, aplicar y vigilar en el ámbito de su competencia, el Sistema Educativo Estatal en cumplimiento a las disposiciones que señala en materia de educación, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit, la Ley General de Educación, la Ley de Educación del Estado de Nayarit y demás disposiciones legales aplicables en la materia;
 
-III. Aplicar y vigilar el cumplimiento de las disposiciones que señala en materia de educación básica, la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, las leyes federales y estatales, y demás disposiciones relativas en la materia;
+III. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos de la Administración Pública Centralizada o que dependan de sus organismos descentralizados, desconcentrados y particulares con autorización o reconocimiento de validez oficial de estudios, en todos sus tipos, niveles y modalidades, con apego a la legislación federal y la estatal vigentes;
 
-IV. Planear, organizar, desarrollar, vigilar y evaluar los servicios educativos de la Administración Pública Centralizada o que dependan de sus organismos descentralizados, con apego a la legislación federal o a la estatal vigentes, en el ámbito de la educación básica;
+IV. Promover y prestar los servicios educativos que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación federal o estatal vigentes;
 
-V. Promover y prestar los servicios de educación básica que dependen del Gobierno del Estado o sus organismos descentralizados con apego a la legislación Federal y Estatal vigentes;
+V. Formular y proponer los contenidos regionales y estatales que hayan de incluirse en los planes y programas de estudio para la educación inicial, preescolar, primaria y secundaria, para la formación de maestros de educación básica; educación media superior, superior y la investigación científica y tecnológica;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
+VI. Formular y proponer planes y programas de estudio regionales, que permitan difundir un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, cultura indígena y demás aspectos propios de la entidad y sus municipios respectivos;
 
-VI. Dirigir, operar y supervisar los servicios de educación básica y de educación normal, en las que resulte competentes de conformidad con el Acuerdo Nacional para la Modernización de la Educación Básica;
+VII. Implementar los instrumentos que promueva la Secretaría de Educación Pública del Gobierno Federal, a afecto de adoptar en la normativa estatal las bases generales y específicas de autorización o reconocimiento de validez oficial de estudios;
 
-VII. Formular o proponer los contenidos regionales y estatales que hayan de incluirse en los planes y programas de estudio para la educación inicial, preescolar, primaria y secundaria, para la formación de maestros de educación básica;
+VIII. Crear las escuelas oficiales que dependen directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados, o de los particulares con autorización o reconocimiento de validez oficial de estudios, sin perjuicio de la atribución conferida en este sentido al Ejecutivo del Estado;
 
-VIII. Formular y proponer planes y programas de estudio regionales, que permitan difundir un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, cultura indígena y demás aspectos propios de la entidad y sus municipios respectivos;
+IX. Otorgar, negar o revocar las autorizaciones o reconocimientos de validez oficial de estudios a los particulares que impartan o deseen impartir educación en todos sus tipos, niveles y modalidades, en términos de la legislación vigente;
 
-IX. Fijar los criterios educativos y culturales en la producción radiofónica y televisiva de la Administración Pública del Estado;
+X. Imponer y aplicar sanciones a los particulares con autorización o reconocimiento de validez oficial de estudios, que prestan servicios educativos en todos sus tipos, niveles y modalidades, o a cualquier ente o persona obligada, cuando se cometa una infracción en los términos de la legislación aplicable vigente;
 
-X. Coordinar, supervisar y evaluar las acciones de todos aquellos organismos que desarrollen actividades en materia de educación básica, los que estarán sectorizados dentro de esta Secretaría;
+XI. Expedir por sí o a través de las instituciones educativas los títulos, certificados, constancias, y diplomas a las personas que hayan concluido estudios, de conformidad con los planes y programas de estudio correspondientes, así como llevar el registro de los mismos;
 
-XI. Organizar, desarrollar, supervisar, vigilar y evaluar los servicios de educación básica a cargo del Gobierno Federal, estatal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente;
+XII. Aplicar la normativa y los procedimientos establecidos por la Secretaría de Educación Pública del Gobierno Federal, para expedir certificados, constancias o diplomas o títulos, quienes acrediten conocimientos parciales o terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta, de la experiencia laboral o a través de los procesos educativos;
 
-XII. Representar al Gobierno del Estado ante todo tipo de organismos educativos, culturales y deportivos, respecto de la educación básica;
+XIII. Otorgar revalidaciones y equivalencias por niveles educativos, por grados académicos, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva;
 
-XIII. Elaborar y en su caso, ejecutar los convenios de coordinación que en materia de educación básica, celebre el estado con el Gobierno Federal, con los municipios de la entidad o cualquier otro ente, en las materias establecidas en el presente artículo;
+XIV. Proponer criterios educativos y culturales en la producción radiofónica y televisiva de la Administración Pública del Estado;
 
-XIV. Emitir opinión sobre la viabilidad de las solicitudes que formulen los particulares que deseen impartir educación básica, en cualquiera de los tipos, niveles y modalidades en el estado, en términos de la legislación vigente;
+XV. En el marco de la planeación democrática, diseñar, operar y evaluar el Programa Estatal de Educación en los términos de la legislación vigente;
 
-XV. Ordenar y ejecutar la suspensión provisional y definitiva de los establecimientos a que se refiere la fracción anterior, en los casos en que no reúnan los requisitos establecidos en las leyes de la materia;
+XVI. Coordinar, supervisar y evaluar las acciones de todos aquellos organismos que desarrollen actividades en materia educativa, que estén sectorizados a la Secretaría;
 
-XVI. Emitir opinión sobre la revocación de las autorizaciones otorgadas a los particulares para impartir educación básica, en cualquiera de los tipos, niveles y modalidades en el estado, en los términos de la legislación vigente;
+XVII. Representar al Gobierno del Estado ante todo tipo de organismos educativos, culturales y deportivos;
 
-XVII. Vigilar que en los planteles que conforman el Sistema de Educación Básica en la entidad, se observen y se cumplan los planes y programas de estudios autorizados por la autoridad;
+XVIII. Constituir los consejos estatales para la planeación de las instituciones públicas y privadas que imparten educación, básica, media superior, superior y de investigación científica y tecnológica;
 
-XVIII. Crear y mantener las escuelas oficiales de educación básica que dependen directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados;
+XIX. Elaborar, revisar y en su caso, ejecutar los convenios de coordinación que en materia de educación, cultura y deporte celebre el Estado con el Gobierno Federal, Gobiernos Estatales, Ayuntamientos de la entidad o cualquier otro organismo o ente;
 
-XIX. Coordinar la integración y el funcionamiento de los órganos de participación social para la educación básica;
+XX. Mantener por sí, o en coordinación con los Gobiernos Federal y Municipal, los programas permanentes de educación para adultos, de alfabetización, de enseñanza abierta, así como la acreditación de estudios;
 
-XX. Formular y promover acuerdos de concertación con los sectores social y privado, para la formulación y ejecución de programas de educación básica, cultura, ciencia, tecnología, deporte, recreación y bienestar social;
+XXI. Coordinar, en el ámbito de su competencia, las actividades con la Secretaría de Educación Pública del Gobierno Federal, a fin de fomentar el funcionamiento de escuelas e instituciones para la enseñanza y difusión de las bellas artes y del arte popular;
 
-XXI. Coordinar en los centros de enseñanza la orientación vocacional de los estudiantes;
+XXII. Desarrollar por sí o en coordinación con otras dependencias, programas de educación para núcleos de población en comunidades indígenas de la entidad;
 
-XXII. Mantener por sí, o en coordinación con los Gobiernos Federal y Municipal, los programas permanentes de educación especial para adultos, de alfabetización así como los demás programas especiales;
+XXIII. Promover el establecimiento y funcionamiento del Consejo Estatal de Participación Social, como órgano de consulta, operación y apoyo, cuyo objeto social sea la educación;
 
-XXIII. Promover la participación social para la educación, en las regiones, municipios y comunidades, de conformidad con los lineamientos y políticas que establezcan el titular del Ejecutivo del Estado;
+XXIV. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
-XXIV. Apoyar dentro del ámbito de su competencia, la difusión y realización de los programas de carácter educativo que promuevan las instituciones encargadas de la salud de protección al ambiente, protección civil, asistencia social, funciones electorales y participación ciudadana;
+XXV. Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
-XXV. Coordinar, en el ámbito de su competencia, las actividades con la Secretaría de Educación Pública del Gobierno Federal, a fin de fomentar el funcionamiento de escuelas e instituciones para la enseñanza y difusión de las bellas artes y del arte popular;
+XXVI. Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares, un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información Educativa;
 
-XXVI. Fomentar las relaciones culturales, educativas, científicas, tecnológicas, deportivas y artísticas con el Gobierno Federal y con otras entidades federativas, así como con otros países;
+XXVII. Participar con la autoridad educativa federal en la operación de los mecanismos de ingreso y promoción en el servicio docente y de administración escolar;
 
-XXVII. Desarrollar por sí o en coordinación con otras dependencias programas de educación para núcleos de población en comunidades indígenas de la entidad;
+XXVIII. Proponer al Titular del Poder Ejecutivo, el ajuste de calendario escolar respecto del establecido por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos en la Entidad, en los términos de la legislación aplicable;
 
-XXVIII. Coordinar con las autoridades competentes la realización de campañas para prevenir la farmacodependencia y el alcoholismo;
+XXIX. Desarrollar programas de actualización del personal directivo y magisterial;
 
-XXIX. Otorgar becas de conformidad con las disposiciones legales aplicables;
+XXX. Mantener al corriente el escalafón del magisterio, otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores que destaquen en el ejercicio de su profesión, así como establecer mecanismos de estímulos a la labor docente con base en la evaluación;
 
-XXX. Expedir certificados, otorgar constancias, y diplomas a las personas que hayan concluido estudios, de conformidad con los planes y programas de estudio correspondientes, así como llevar el registro de los mismos;
+XXXI. Constituir el Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para Maestros, incorporado al sistema nacional respectivo;
 
-XXXI. Revalidar los estudios y diplomas equivalentes a la enseñanza que se imparta en el Estado,
+XXXII. Realizar, en coordinación con las autoridades competentes, las acciones necesarias en contra de quienes pongan en peligro la salud, seguridad, integridad física o psíquica de quienes concurren a los centros educativos del sistema de educación básica, o representen una afectación a los alumnos en el cumplimiento del proceso educativo;
 
-XXXII. Autorizar, con acuerdo del Titular del Ejecutivo los nombramientos de los servidores públicos adscritos presupuestalmente a la Secretaría, así como los permisos que deban otorgarse en términos de la legislación vigente;
+XXXIII. Promover la creación de institutos de investigación científica y tecnológica, laboratorios y demás centros educativos que se requieran para lograr la excelencia educativa en el Estado;
 
-XXXIII. Desarrollar programas de actualización del personal directivo y magisterial;
+XXXIV. Promover y revisar, en coordinación con las dependencias estatales, los programas de capacitación técnica especializada en las ramas agropecuaria, industrial y de servicios, fomentando y vigilando el desarrollo de las investigaciones científicas y tecnológicas, por conducto de la propia Secretaría o de los organismos que al efecto se constituyan, y
 
-XXXIV. Mantener al corriente el escalafón del magisterio y crear un sistema de estímulos y recompensas a la labor educativa;
+XXXV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-XXXV. Constituir el Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para Maestros, incorporado al sistema nacional respectivo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVI. Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores que destaquen en el ejercicio de su profesión y, en general, realizar actividades que proporcionen mayor aprecio social a la labor desempeñada por el magisterio,
-
-XXXVII. Conducir la administración de los organismos que integran al personal al servicio de la educación básica;
-
-XXXVIII. En términos de lo previsto por la Ley del Instituto del Deporte y la Juventud, impulsar, organizar y fomentar el deporte, dentro de sus diferentes niveles educativos, haciéndolos participar en eventos municipales, estatales, nacionales y en el extranjero;
-
-XXXIX. Intervenir en la celebración de convenios de coordinación con el Gobierno Federal o con los municipios del estado para fomentar el deporte, las culturas y las artes de la entidad;
-
-XL. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades;
-
-XLI. Organizar las ceremonias cívicas escolares de acuerdo con el calendario oficial, vigilando que en las mismas se guarde el respeto irrestricto hacia los símbolos patrios, de acuerdo con la Legislación correspondiente;
-
-XLII. Coordinar, con las autoridades competentes, la realización de actividades promotoras de la salud, la conservación del medio ambiente, el mejoramiento integral del individuo y su entorno social, y aquellas tendientes a la prevención, restricción y erradicación de prácticas nocivas a la salud, la educación y la cultura;
-
-XLIII. Realizar, en coordinación con las autoridades competentes, las acciones necesarias en contra de quienes pongan en peligro la salud, seguridad, integridad física o psíquica de quienes concurren a los centros educativos del sistema de educación básica, o representen una afectación a los alumnos en el cumplimiento del proceso educativo;
-
-XLIV. Expedir la reglamentación administrativa interna necesaria para proveer al cumplimiento del proceso educativo propios de esta Secretaría;
-
-XLV. Elaborar conjuntamente con la Secretaría de Obras Públicas, el plan anual de construcción de obra destinada a la educación básica, así como el de mantenimiento y conservación de estos inmuebles e instalaciones;
-
-XLVI. Planear y supervisar el uso de inmuebles e instalaciones destinados a la educación básica, cultura, recreación y deporte;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
-
-XLVII. Presentar a las Secretarías de Obras Públicas, de Administración y Finanzas y de Planeación, Programación y Presupuesto, la relación de equipamientos, enseres y utensilios requeridos por las instituciones públicas de educación básica;
-
-XLVIII. Coadyuvar en la organización, control y mantenimiento de los museos, bibliotecas, casas de cultura y zonas arqueológicas del estado;
-
-XLIX. Impulsar las actividades de difusión y fomento cultural y artístico de los habitantes del estado; estimular, promover y fomentar la investigación científica y tecnológica, así como la difusión del patrimonio cultural, histórico, arqueológico, artístico y monumental del estado;
-
-L. Fijar los criterios para la participación en torneos y justas deportivas, tanto nacionales, como extranjeras;
-
-LI. Fomentar la constitución de patronatos y otras formas de organización privada, para apoyar económicamente el desarrollo de las actividades culturales y artísticas en el estado;
-
-LII. Coadyuvar en las actividades relacionadas con la beneficencia pública y privada;
-
-LIII. Organizar la distribución oportuna de los libros de texto gratuito y vigilar su correcta utilización;
-
-LIV. Coordinar y supervisar las edificaciones y publicaciones oficiales de carácter cultural y artístico;
-
-LV. Organizar la Banda de Música del Estado;
-
-LVI. El régimen financiero que regule la aplicación de los recursos transferidos por la Federación, se ajustará al capítulo quinto del convenio respectivo celebrado entre el Ejecutivo Federal y el Ejecutivo del Estado;
-
-LVII. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los municipios; y
-
-LVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 36 Bis.
-
-A la Secretaría de Educación Media Superior, Superior, e Investigación científica y tecnológica le corresponden las siguientes atribuciones:
-
-l. Proponer al Ejecutivo del Estado, las políticas y programas en materia de educación media superior, superior, de investigación científica y tecnológica, vinculadas al plan estatal de desarrollo y al mercado laboral de la región; así como promover, apoyar, ejecutar y supervisar las actividades relativas a dichas materias, por conducto de la propia Secretaría o de los órganos desconcentrados y organismos descentralizados que para tal efecto constituya el Ejecutivo Estatal;
-
-II. Dar cumplimiento a lo que establece en la Constitución General de la República, la propia del Estado, y las leyes que de ellas emanan, en los temas propios de esta Secretaría;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
-
-III. Promover, otorgar, planear, organizar, desarrollar, vigilar y evaluar los servicios de educación media superior, superior e investigación científica y tecnológica, con excepción de la educación normal a que se refiere el artículo 36 fracción VI;
-
-IV. En el marco de la planeación democrática, diseñar, operar y evaluar el programa estatal de desarrollo en educación media superior, superior e investigación científica y tecnológica, en los términos de la legislación vigente;
-
-V. Constituir los consejos estatales para la planeación de las instituciones públicas y privadas que imparten educación media superior, superior y de investigación científica y tecnológica;
-
-VI. Formular la política estatal en materia de atención a la juventud y organizar, dirigir, supervisar, administrar y coordinar los servicios que se dirijan a los jóvenes en el Estado de Nayarit;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
-
-VII. Dirigir, operar y supervisar los servicios de educación media superior, superior y técnica, así como a las instituciones de educación privada que impartan programas de formación de maestros de educación básica, conforme a la legislación federal y estatal vigente;
-
-VIII. Formular y proponer los contenidos regionales y estatales que hayan de incluirse en los planes y programas de estudio para la normal, la educación media superior, superior, e investigación científica y tecnológica y promover la creación de posgrados que fomenten la investigación regional, nacional y con visión universal;
-
-IX. Formular y proponer planes y programas de estudio regionales, que permitan difundir un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, cultura indígena y demás aspectos propios de la entidad y sus municipios respectivos;
-
-X. Fijar los criterios educativos y culturales en la producción radiofónica y televisiva de la Administración Pública del Estado, en el ámbito de su competencia;
-
-XI. Coordinar, supervisar y evaluar las acciones de todos aquellos organismos que desarrollen actividades propias de esta Secretaría, los que estarán sectorizados a la misma;
-
-XII. En el ámbito de su competencia, organizar, desarrollar, supervisar, vigilar y evaluar los servicios educativos a cargo del Gobierno Federal, estatal y de los particulares en todos los tipos, niveles y modalidades, en términos de la legislación correspondiente;
-
-XIII. Representar al Gobierno del Estado ante todo tipo de organismos educativos, culturales y deportivos, en el ámbito de su competencia;
-
-XIV. Elaborar y en su caso, ejecutar los convenios de coordinación que en esta materia, celebre el estado con el Gobierno Federal, con los municipios de la entidad o cualquier otro ente;
-
-XV. Emitir opinión sobre la viabilidad o revocación de las solicitudes que formulen los particulares que deseen impartir educación, en cualquiera de los tipos, niveles y modalidades en el estado, en términos de la legislación vigente;
-
-XVI. Ordenar y ejecutar la suspensión provisional y definitiva de los establecimientos a que se refiere la fracción anterior, en los casos en que no reúnan los requisitos establecidos en las leyes de la materia;
-
-XVII. Vigilar que en los planteles integrados a esta Secretaría, se observen y se cumplan los planes y programas de estudios autorizados por la autoridad;
-
-XVIII. Crear y mantener las escuelas oficiales que dependen directamente del Gobierno del Estado y autorizar la creación de las que forman parte de sus organismos descentralizados, con excepción de las instituciones de educación superior autónomas;
-
-XIX. Coordinar la integración y el funcionamiento de los órganos de participación social en la educación;
-
-XX. Formular y promover acuerdos de concertación con los sectores social y privado, para la formulación y ejecución de programas de educación, cultura, ciencia, tecnología, deporte, recreación y bienestar social;
-
-XXI. Coordinar en los centros de enseñanza la orientación vocacional de los estudiantes;
-
-XXII. Apoyar dentro del ámbito de su competencia, la difusión y realización de los programas de carácter educativo que promuevan las instituciones encargadas de la salud de protección al ambiente, protección civil, asistencia social, funciones electorales y participación ciudadana;
-
-XXIII. Coordinar sus actividades con la Secretaría de Educación Pública del Gobierno Federal, a fin de fomentar el funcionamiento de escuelas e instituciones para la enseñanza y difusión de las bellas artes y del arte popular;
-
-XXIV. Fomentar las relaciones culturales, educativas, científicas, tecnológicas, deportivas y artísticas con el Gobierno Federal y con otras entidades federativas, así como con otros países;
-
-XXV. Desarrollar por sí o en coordinación con otras dependencias programas de educación para núcleos de población en comunidades indígenas de la entidad;
-
-XXVI. Coordinar con las autoridades competentes la realización de campañas para prevenir la fármacodependencia y el alcoholismo;
-
-XXVII. Otorgar becas de conformidad con las disposiciones legales aplicables;
-
-XXVIII. Expedir certificados y otorgar constancias, diplomas y grados académicos a las personas que hayan concluido estudios, de conformidad con los planes y programas de estudio correspondientes, así como llevar el registro de los mismos;
-
-XXIX. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado;
-
-XXX. Autorizar, con el acuerdo del Titular del Ejecutivo, los nombramientos de los servidores públicos adscritos presupuestalmente a la Secretaría, así como los permisos que deban otorgarse en términos de la legislación vigente;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
-
-XXXI. Desarrollar programas de actualización del personal directivo y magisterial, dependiente de esta Secretaría;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2008)</small>
-
-XXXII. Mantener al corriente el escalafón del magisterio dependiente de esta Secretaría y crear un sistema de estímulos y recompensas a la labor educativa, de conformidad con la legislación vigente;
-
-XXXIII. Constituir el Sistema Estatal de Actualización, Capacitación y Superación Profesional para Maestros;
-
-XXXIV. Otorgar reconocimientos, distinciones, estímulos y recompensas a los docentes e investigadores que destaquen en el ejercicio de su profesión y, en general, realizar actividades que proporcionen mayor aprecio social a la labor desempeñada por el magisterio;
-
-XXXV. En términos de lo previsto por la Ley del Instituto del Deporte y la Juventud, impulsar, organizar y fomentar el deporte, dentro de sus diferentes niveles educativos, haciéndolos participar en eventos municipales, estatales, nacionales y en el extranjero;
-
-XXXVI. Intervenir en la celebración de convenios de coordinación con el Gobierno Federal o con los municipios del estado para fomentar el deporte, las culturas y las artes de la entidad;
-
-XXXVII. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura, museos y orientar sus actividades;
-
-XXXVIII. Promover y revisar, en coordinación con las dependencias estatales, los programas de capacitación técnica especializada en las ramas agropecuaria, industrial y de servicios, fomentando y vigilando el desarrollo de las investigaciones científicas y tecnológicas, por conducto de la propia Secretaría o de los organismos que al efecto se constituyan;
-
-XXXIX. Expedir la reglamentación administrativa interna necesaria para proveer al cumplimiento del proceso educativo;
-
-XL. En el ámbito de su competencia elaborar conjuntamente con la Secretaría de Obras Públicas el plan anual de construcción de obra destinada a la educación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones;
-
-XLI. Planear y supervisar el uso de inmuebles e instalaciones destinados a la educación;
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2011)</small>
-
-XLII. Presentar a las Secretarías de Obras Públicas, de Administración y Finanzas y de Planeación, Programación y Presupuesto, la relación de equipamientos, enseres y utensilios requeridos por las instituciones públicas de educación que sean de su competencia;
-
-XLIII. Coadyuvar en la organización, control y mantenimiento de los museos, bibliotecas, casas de cultura y zonas arqueológicas del estado;
-
-XLIV. Impulsar las actividades de difusión y fomento cultural y artístico de los habitantes del estado; estimular, promover y fomentar la investigación científica y tecnológica, así como la difusión del patrimonio cultural, histórico, arqueológico, artístico y monumental del estado;
-
-XLV. Promover la creación de institutos de investigación científica y tecnológica, laboratorios y demás centros educativos que se requieran para lograr la excelencia educativa en el Estado;
-
-XLVI. Proteger, mantener y acrecentar el patrimonio artístico e histórico de la entidad;
-
-XLVII. Impulsar la restauración y conservación de zonas arqueológicas, sitios históricos y de interés cultural, de lugares típicos o de belleza natural, de acuerdo a la normatividad legal vigente;
-
-XLVIII. Fomentar la constitución de patronatos y otras formas de organización privada, para apoyar económicamente el desarrollo de las actividades culturales y artísticas en el estado;
-
-XLIX. Coordinación y supervisar las edificaciones y publicaciones oficiales de carácter cultural y artístico;
-
-L. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorgan los ordenamientos legales aplicables y los convenios celebrados por la Administración Pública Estatal con la Federación y los municipios; y
-
-LI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+Artículo 36 bis. (DEROGADO, P.O. 17 DE DICIEMBRE DE 2011)
 
 ###### Artículo 37.
 
@@ -2150,3 +1990,17 @@ Quinto.- Dentro del plazo tres (sic) meses contados a partir de la entrada en vi
 Sexto.- En razón de la redistribución de competencias, cuando la ley haga referencia a alguna atribución conferida a alguna de las secretarías que han sido modificadas en su denominación, se entenderá que estas deben ser ejercidas por cada una de las Secretarías creadas en el presente Decreto, atendiendo a la naturaleza y ramo de que se trate.
 
 Séptimo.- En un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto, se deberán de realizar las adecuaciones legales conducentes.
+
+P.O. 17 DE DICIEMBRE DE 2011.
+
+PRIMERO: El presente Decreto entrará en vigor el primero de enero de 2012.
+
+SEGUNDO: Dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente decreto, la Secretaria de Educación expedirá su respectivo reglamento.
+
+TERCERO: A la entrada en vigor del presente Decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros, de conformidad con el acuerdo de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
+
+CUARTO: Los asuntos que con motivo de esta reforma deban pasar de la competencia de la Secretaría de Educación Básica y la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, a la Secretaria de Educación que se crea con este Decreto, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la nueva Secretaría.
+
+QUINTO: Cuando la ley haga referencia a alguna atribución conferida a la Secretaría de Educación Básica o a la Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, se entenderá a favor de la Secretaría de Educación creada en el presente Decreto.
+
+SEXTO: Los servidores públicos adscritos a la Secretaría de Educación Básica y Secretaría de Educación Media Superior, Superior e Investigación Científica y Tecnológica, no resultarán afectados en sus derechos laborales adquiridos, al incorporarse a la nueva Dependencia.
