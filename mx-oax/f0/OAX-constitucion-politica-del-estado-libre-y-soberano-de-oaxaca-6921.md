@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2011-10-12"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -241,7 +241,7 @@ Las sentencias que pongan fin a los procedimientos orales deberán ser explicada
 
 El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 12.
 
@@ -3881,9 +3881,11 @@ DÉCIMO SEGUNDO. Los servidores públicos y Magistrados de los órganos e instit
 
 DÉCIMO TERCERO. Los conflictos de carácter laboral entre los órganos públicos reformados en virtud del presente decreto y sus empleados, que se hayan iniciado con anterioridad al mismo, continuarán tramitándose conforme a las disposiciones vigentes hasta que la autoridad correspondiente emita una resolución definitiva e inatacable.
 
-DÉCIMO CUARTO. Los Magistrados de los Tribunales Especializados en ejercicio, concluirán el período para el que fueron nombrados y no podrán ser ratificados para un nuevo periodo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
-Los Magistrados de nuevo ingreso que pasen a formar parte del Tribunal Superior de Justicia, durarán en su encargo el plazo de ocho años que establece el artículo 102 de esta Constitución y podrán ser ratificados en el cargo por igual periodo.
+DÉCIMO CUARTO. Los Magistrados de los Tribunales Especializados en ejercicio, que hayan rendido protesta y tomado posesión de su encargo con ciento ochenta días anteriores a la entrada en vigor de las disposiciones contenidas en el Decreto número 397, de fecha 6 de abril de 2011, publicado en el Periódico Oficial del Gobierno del Estado, número extra de 15 de abril del mismo año, durarán en su encargo el periodo al que se refieren los artículos 102 y 111 de la Constitución Política del Estado Libre y Soberano de Oaxaca y podrán reelegirse por un periodo igual.
+
+Los Magistrados de nuevo ingreso que pasen a formar parte del Tribunal Superior de Justicia, durarán en su encargo el plazo de ocho años que establece el artículo 102 de esta Constitución y podrán ser reelectos en el cargo por un periodo igual.
 
 DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
@@ -3904,6 +3906,12 @@ SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá rea
 P.O. 12 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 17 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Con base en el presente Decreto, expídase a los Magistrados Propietarios y Suplentes del Tribunal Estatal Electoral del Poder Judicial del Estado de Oaxaca, el nombramiento correspondiente en el que establezca el periodo de ocho años en el cargo, previsto en el artículo 111, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
