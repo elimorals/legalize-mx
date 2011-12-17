@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-79798"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2010-12-23"
+last_updated: "2011-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2010
 
@@ -263,6 +263,10 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. Las Dependencias y Entidades de la Administración Pública Estatal publicarán, en el Periódico Oficial del Estado, las reglas de operación, normas, disposiciones y criterios que complementen esta Ley, a más tardar el 31 de marzo de 2011.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+CUARTO. Se autoriza al Estado de San Luis Potosí, S.L.P. para contratar con el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo (BANOBRAS) un crédito simple hasta por la cantidad de $157'517,037.72 (Ciento cincuenta y siete millones quinientos diecisiete mil treinta y siete pesos 72/100 M.N), a un plazo de veinte años a partir de la fecha en que se ejerza la primera disposición, cantidad que será destinada a inversiones públicas productivas. Del total del importe del financiamiento, la cantidad de $71'984,780.72 (Setenta y un millones novecientos ochenta y cuatro mil setecientos ochenta pesos 72/100), será destinada para cubrir aportaciones de las coparticipaciones pendientes de realizar por parte del Estado al FONDEN Estatal, relativas a las "Declaratorias de Desastre" emitidas por la Secretaría de Gobernación durante el año de 2010; y la cantidad de $85'532,257.00 (Ochenta y cinco millones quinientos treinta y dos mil doscientos cincuenta y siete pesos 00/100 M.N), será destinada para solventar el costo de obras y acciones de reconstrucción de infraestructura estatal acordadas con el Ejecutivo Federal en el marco de lo dispuesto por las Reglas del FONDEN y sus respectivos lineamientos de operación, en virtud de las Declaratorias de Desastre" emitidas por la Secretaría de Gobernación durante el año de 2011, en términos de lo establecido en los párrafos tercero y cuarto del artículo Décimo Quinto Transitorio del Presupuesto de Egresos de la Federación para el ejercicio 2011; modificándose con este financiamiento el artículo 13 de la Ley del Presupuesto de Egresos del Estado, para el Ejercicio Fiscal 2011.
+
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
 D A D O en el Salón de Sesiones del Honorable Congreso del Estado el quince de diciembre de dos mil diez.
@@ -285,4 +289,10 @@ Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
 
-> <small>N. DE E. VEASE ANEXOS EN LA EDICION EXTRAORDINARIA DEL P.O. DE 23 DE DICIEMBRE DE 2010, PAGINAS DE LA 10 A LA 103.</small>
+> <small>N. DE E. VÉASE ANEXOS EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 23 DE DICIEMBRE DE 2010, PÁGINAS DE LA 10 A LA 103.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2011.
+
+UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
