@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2011-09-23"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -501,7 +501,23 @@ XLIX.- Establecer y actualizar la información económica, social y estadística
 
 L.- Elaborar y publicar en coordinación con las autoridades competentes, el catálogo del patrimonio histórico y cultural del Municipio, vigilando y promoviendo su preservación y coadyuvando a determinar las construcciones y edificios que no podrán modificarse;
 
-LI.- Enviar mensualmente dentro de los primeros diez días de cada mes al Congreso del Estado los documentos, cortes de caja o estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados del ejercicio presupuestario de ingresos y egresos que corresponda a la fecha;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+LI.- Presentar dentro de los treinta días siguientes del trimestre al Congreso del Estado, la información financiera que a continuación se señala:
+
+a) Estado de situación financiera;
+
+b) Estado de variación en la hacienda pública;
+
+c) Estado de cambios en la situación financiera;
+
+d) Notas a los estados financieros;
+
+e) Estado analítico del activo;
+
+f) Estado analítico de los ingresos;
+
+g) Estado analítico de los egresos en las clasificaciones administrativa (sic), por objeto del gasto y funcional-programática.
 
 LII.- Solicitar al Congreso del Estado, autorización para contratar créditos destinados a las inversiones públicas productivas en los términos de la Ley de Deuda Pública Estatal y Municipal;
 
@@ -611,7 +627,13 @@ XVI.- Aprobar los proyectos de Ley de Ingresos y el Presupuesto de Egresos;
 
 XVII.- Acordar la contratación de deuda pública, con sujeción a la Ley aplicable; y
 
-XVIII.- Las demás que establezcan esta y otras leyes.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+XVIII.- Acordar el período de recepción de las participaciones al inicio de la Administración; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+XIX.- Las demás que establezca esta y otras leyes.
 
 El Ayuntamiento no podrá revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención de la Ley o del interés público.
 
@@ -1964,3 +1986,7 @@ P.O. 23 DE SEPTIEMBRE DE 2011.
 DECRETO NUMERO 645, POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 20, DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2011.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
