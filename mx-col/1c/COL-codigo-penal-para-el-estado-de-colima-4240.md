@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2011-12-10"
+last_updated: "2011-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -3011,13 +3011,17 @@ VI.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes d
 
 VII.- Si se ejerce violencia en las personas o en las cosas, aun cuando sea para facilitar la fuga o defender lo robado;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Se realice en paraje solitario o lugar desprotegido; o
+VIII.- Se realice en paraje solitario o lugar desprotegido;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
-IX.- Cuando el sujeto activo se apodere de uno o más bienes muebles de cualquier institución educativa pública o privada, que cuente con reconocimiento de validez oficial.
+IX.- Cuando el sujeto activo se apodere de uno o más bienes muebles de cualquier institución educativa pública o privada, que cuente con reconocimiento de validez oficial; o
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+X.- Cuando se apodere de placas o bustos de cualquier material, ya sea de propiedad privada, del Estado o Ayuntamientos.
 
 Los supuestos de este artículo se aplicarán independientemente, de que con motivo de la comisión del robo, se cometan otros delitos diversos, los que serán objeto de la acumulación correspondiente.
 
@@ -3859,6 +3863,10 @@ CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumpli
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
 
-P.O. 10 DE DICIEMBRE DE 2011.
+P.O. 10 DE NOVIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 17 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
