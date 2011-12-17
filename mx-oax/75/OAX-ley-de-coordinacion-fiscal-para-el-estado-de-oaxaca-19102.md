@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2010-12-29"
+last_updated: "2011-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
+LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -219,6 +219,14 @@ La participación que corresponde a los Municipios, resultantes del fondo establ
 
 El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+Recepcionado los montos por los Municipios, estos deberán registrarlos como ingresos propios y emitir el recibo oficial correspondiente en un plazo máximo de diez días contados a partir de su recepción.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+
+Para efectos de recepción de los ingresos regulados en la presente Ley, los Municipios señalaran a la Secretaría de Finanzas en el acta de cabildo a que alude la fracción II del presente artículo, la clabe interbancaria, número de referencia de la cuenta e institución financiera a la cual debe realizarse la transferencia.
+
 ###### ARTICULO 9.
 
 Las Participaciones que reciban los Municipios, con base en la presente Ley, deberán ser incluidas en sus leyes de ingresos de cada ejercicio fiscal.
@@ -289,19 +297,13 @@ El Estado por conducto de la Secretaría enterará este fondo a los Municipios d
 
 El Fondo de Aportaciones para la Infraestructura Social Municipal, se destinará exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema en los siguientes rubros: Agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales, e infraestructura productiva rural.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
-Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado a través de la Secretaría de Finanzas, la Secretaría de la Contraloría y el Comité Estatal de Planeación para el Desarrollo del Estado de Oaxaca y el Municipio de que se trate.
+Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo Institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado, a través de la Secretaría de Finanzas, Secretaría de Desarrollo Social y Humano, y el Municipio de que se trate.
 
-(NOTA: EL 31 DE MAYO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LAS SENTENCIAS DICTADAS AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 13/2009, 14/2009, 15/2009, 16/2009, 17/2009, 18/2009 Y 19/2009, SE DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LAS CUALES SURTIERON EFECTOS LOS DÍAS 28, 27 Y 29 DE SEPTIEMBRE, ASÍ COMO EL 3, 4, 6 Y 7 DE OCTUBRE, RESPECTIVAMENTE TODAS DEL AÑO 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-ADICIONALMENTE LOS MUNICIPIOS PODRÁN DESTINAR HASTA EL 3% DE LOS RECURSOS CORRESPONDIENTES, PARA SER APLICADOS COMO GASTOS INDIRECTOS A LAS OBRAS SEÑALADAS EN EL PRESENTE ARTÍCULO; PODRÁN DISPONER HASTA EL 1.5% PARA PROGRAMAS DE EVALUACIÓN Y SEGUIMIENTO EN LA RENDICIÓN DE CUENTAS A CARGO DEL ÓRGANO TÉCNICO DEL CONGRESO DEL ESTADO DE OAXACA, LO QUE SERÁ CONVENIDO ENTRE LA AUDITORÍA SUPERIOR DEL ESTADO Y EL MUNICIPIO DE QUE SE TRATE; CONVENIO QUE SE REMITIRÁ A LA SECRETARÍA DE FINANZAS PARA QUE REALICE LA RETENCIÓN CORRESPONDIENTE DESCONTÁNDOLA PARA ESE FIN, CON EL CARÁCTER DE MANDATARIO.
+Adicionalmente los Municipios podrán destinar hasta el 3% de los recursos correspondientes en cada caso, para ser aplicados como gastos indirectos a las obras señaladas en el presente artículo.
 
 Respecto de dichas aportaciones los Municipios deberán:
 
@@ -576,3 +578,7 @@ P.O. 30 DE DICIEMBRE DE 2009.
 P.O. 29 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2011, salvo lo dispuesto por el artículo 28 del Capítulo Cuarto de la presente Ley, que iniciará su vigencia el 1 de enero del año 2012.
+
+P.O. 17 DE DICIEMBRE DE 2011.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
