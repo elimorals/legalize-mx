@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transito-y-vialidad-del-estado-de-yucatan-79786"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-22"
-last_updated: "2011-02-22"
+last_updated: "2011-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento al Diario Oficial del Gobierno del Estado de Yucatán, el martes 22 de febrero de 2011.
 
@@ -35,7 +35,7 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I VO S: .
+E X P O S I C I Ó N D E M O T I V O S: .
 
 Por todo lo expuesto y fundado, los integrantes de las comisiones permanentes de Puntos Constitucionales y Gobernación; y la de Desarrollo Urbano, Vivienda e Infraestructura, en el estudio, análisis y dictamen de la iniciativa de Ley de Tránsito y Vialidad del Estado de Yucatán, nos pronunciamos a favor con los razonamientos y adecuaciones planteadas. En tal virtud, con fundamento en los artículos 30, fracciones V de la Constitución Política, 18 y 43, fracción I de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -129,7 +129,9 @@ III.- Aprobar el cuadro de enfermedades y defectos físicos y psíquicos que inh
 
 IV.- Determinar las drogas, psicotrópicos y medicamentos que afecten la conducción, así como las pruebas para su detección y sus niveles máximos;
 
-V.- Expedir y matricular placas, tarjetas de circulación, calcomanías y hologramas para la identificación vehicular, con los requisitos y condiciones que establezca el Reglamento;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2011)</small>
+
+V.- Expedir o refrendar placas de circulación, tarjetas de circulación, calcomanías y hologramas de identificación vehicular, con los requisitos y condiciones que la Reglamentación establezca;
 
 VI.- Expedir y renovar los permisos y licencias para conducir vehículos, así como la suspensión o revocación de las mismas;
 
@@ -449,13 +451,15 @@ VI.- Lo demás que se establezca en el Reglamento.
 
 El extravío de los documentos, placas y hologramas a que se refiere este artículo, así como los demás que señale esta Ley y su Reglamento deberán notificarse a la Secretaría. Para su reposición, el interesado deberá presentar el documento jurídico que acredite el robo, pérdida o destrucción del mismo, previo pago de los derechos correspondientes.
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-El Poder Ejecutivo, por conducto de la Secretaría, expedirá con la periodicidad que señale el Reglamento, los documentos, placas y hologramas a que se refiere el artículo anterior de esta Ley, previo el cumplimiento de los requisitos reglamentarios correspondientes.
+El Poder Ejecutivo, por conducto de la Secretaría, expedirá o refrendará con la periodicidad que señale el Reglamento, los documentos, placas, calcomanías y hologramas a que se refiere el artículo anterior de esta Ley, previo el cumplimiento de los requisitos reglamentarios correspondientes.
 
-Para efecto de lo establecido en el párrafo anterior, la Secretaría publicará oportunamente el calendario de expedición de los documentos, placas y hologramas a que se refieren esta Ley y su Reglamento.
+Para efecto de lo establecido en el párrafo anterior, la Secretaría publicará oportunamente el calendario de expedición de los documentos, calcomanías, placas y hologramas a que se refiere esta Ley y su Reglamento.
 
-Los documentos, placas y hologramas serán entregados en uso y custodia al interesado, por lo que éste tendrá la obligación de devolverlos a la Secretaría, al momento de efectuar las renovaciones correspondientes con motivo del vencimiento de las mismas.
+Los documentos, placas, calcomanías y hologramas serán entregados en uso y custodia al interesado, por lo que éste tendrá la obligación de devolver los documentos y placas a la Secretaría, al momento de efectuar las renovaciones correspondientes con motivo del vencimiento de las mismas.
 
 ###### Artículo 27.
 
@@ -1118,3 +1122,19 @@ SECRETARIO GENERAL DE GOBIERNO
 C. LUIS FELIPE SAIDÉN OJEDA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 19 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá expedir las disposiciones reglamentarias conducentes, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor de este Decreto.
