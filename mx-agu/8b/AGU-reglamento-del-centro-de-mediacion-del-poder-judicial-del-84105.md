@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-centro-de-mediacion-del-poder-judicial-del-84105
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2011-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO DEL CENTRO DE MEDIACION DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL CENTRO DE MEDIACIÓN DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2011.</small>
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de diciembre de 2011.
 
@@ -241,9 +241,9 @@ Ante la presencia de un impedimento que actualice cualquiera de los supuestos pr
 
 El mediador o conciliador sustituido, deberá entregar al sustituto la información y documentos a los que haya tenido acceso con motivo de su función.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO II (SIC). De la Certificación y Refrendo
+### CAPÍTULO III. De la Certificación y Refrendo
 
 ###### Artículo 15.
 
@@ -279,9 +279,9 @@ I. Las estadísticas de los resultados obtenidos en el desempeño de su función
 
 II. El número y tipo de sanciones a que se haya hecho acreedor.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO III. De las Partes en la Mediación y Conciliación
+### CAPÍTULO IV. De las Partes en la Mediación y Conciliación
 
 ###### Artículo 18.
 
@@ -321,9 +321,9 @@ IV. Cumplir con los compromisos asumidos en el convenio que ponga fin a la contr
 
 V. Las demás que se deriven de las disposiciones legales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO IV. Del Procedimiento de Mediación y Conciliación
+### CAPÍTULO V. Del Procedimiento de Mediación y Conciliación
 
 ###### Artículo 21.
 
@@ -453,9 +453,9 @@ En el supuesto de que el convenio sea resultado del uso de la mediación o de la
 
 Una vez formalizado el convenio, tendrá, respecto de las Partes, el carácter de resolución definitiva; ante su incumplimiento, parcial o total, las mismas podrán acudir al Centro a solicitar una nueva fecha de mediación o conciliación en caso de que el objeto del convenio celebrado no recaiga sobre cuestiones que deban ejecutarse ante un juez; o exigir su cumplimiento forzoso ante los jueces competentes, en la vía y forma que manden las leyes respectivas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO V. De la Capacitación y Actualización de Mediadores y Conciliadores
+### CAPÍTULO VI. De la Capacitación y Actualización de Mediadores y Conciliadores
 
 ###### Artículo 38.
 
@@ -463,9 +463,9 @@ La capacitación y actualización de los mediadores y conciliadores oficiales y 
 
 Al Centro corresponderá vigilar el desarrollo, calidad y ejecución de dichos programas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO VI. De los Padrones de Mediadores y Conciliadores Certificados y de los Centros de Mediación y Conciliación Privados
+### CAPÍTULO VII. De los Padrones de Mediadores y Conciliadores Certificados y de los Centros de Mediación y Conciliación Privados
 
 ###### Artículo 39.
 
@@ -497,9 +497,9 @@ El Director del Centro revisará si el Reglamento establece con claridad la orga
 
 En caso de no ser aprobado, la institución de mediación y conciliación privada deberá satisfacer las observaciones del Director del Centro y presentarlo nuevamente en un plazo que no exceda de quince días hábiles.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO VII. Del Registro y Control Documental
+### CAPÍTULO VIII. Del Registro y Control Documental
 
 ###### Artículo 43.
 
