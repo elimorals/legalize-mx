@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-12-16"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -459,37 +459,45 @@ I. Formular, conducir y evaluar la política estatal de desarrollo social y las 
 
 II. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de desarrollo social y atención a grupos marginados, en coordinación con las dependencias y entidades de la Administración Pública del Estado involucradas en esas materias y someterlos a la aprobación del Ejecutivo, para el proceso legislativo correspondiente;
 
-III. Coordinar el diseño, formulación e instrumentación de los programas de desarrollo social del Gobierno del Estado, en conjunto con las diversas dependencias del Ejecutivo Estatal;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-IV. Dar seguimiento a la ejecución de los programas de desarrollo social que se realicen con recursos estatales o federales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
+III. Concertar y convenir programas y acciones con el Ejecutivo Federal, los Ayuntamientos de los Municipios, así como los Órganos Autónomos, Organizaciones Civiles y con los Gobiernos de otros Estados, con el propósito de generar las condiciones de desarrollo social;
 
-V. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-VI. Regular y supervisar, en coordinación con las Secretarías de Hacienda y de Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
+IV. Realizar los estudios necesarios y ejecutar, en su caso, las obras públicas y acciones que se requieran para cumplir con las metas y objetivos establecidos en el Programa Estatal, en términos de la Ley en la materia;
 
-VII. Coordinar y concertar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población,
+V. Coordinar el diseño, formulación e instrumentación de los programas de desarrollo social del Gobierno del Estado, en conjunto con las diversas dependencias del Ejecutivo Estatal;
 
-VIII. Coadyuvar en la Implementación y ejecución de programas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las dependencias del Gobierno del Estado;
+VI. Dar seguimiento a la ejecución de los programas de desarrollo social que se realicen con recursos estatales o federales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
 
-IX. Establecer programas especiales de desarrollo a las comunidades indígenas y rurales con el fin de consolidar su integración al desarrollo del Estado;
+VII. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
-X. Concertar con la Secretaría de Desarrollo Agropecuario, Rural e Indígena, la integración, instrumentación y ejecución de los presupuestos de desarrollo social vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, con la colaboración; tanto de las dependencias coordinadoras de los sectores de producción y desarrollo social, como de las representaciones de esas comunidades;
+VIII. Regular y supervisar, en coordinación con las Secretarías de Hacienda y de Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
 
-XI. Convenir con los municipios la elaboración, ejecución, registro y evaluación de los programas de inversión en materia de desarrollo social y humano, así como los de combate a la pobreza;
+IX. Coordinar y concertar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población,
 
-XII. Proponer y promover mecanismos de financiamiento para el desarrollo social, con la participación de las demás dependencias y entidades del Poder Ejecutivo del Estado y de las autoridades municipales;
+X. Coadyuvar en la Implementación y ejecución de programas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las dependencias del Gobierno del Estado;
 
-XIII. Impulsar y coordinar la organización social en los ámbitos rural y urbano para facilitar la participación en la toma de decisiones con respecto a su propio desarrollo;
+XI. Establecer programas especiales de desarrollo a las comunidades indígenas y rurales con el fin de consolidar su integración al desarrollo del Estado;
 
-XIV. Analizar, evaluar y en su caso instrumentar de manera conjunta con la Secretaría de Planeación y Desarrollo Regional, las propuestas de desarrollo comunitario y social resultantes de la participación de las diferentes organizaciones sociales y civiles, favoreciendo el equilibrio en el desarrollo regional;
+XII. Concertar con la Secretaría de Desarrollo Agropecuario, Rural e Indígena, la integración, instrumentación y ejecución de los presupuestos de desarrollo social vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, con la colaboración; tanto de las dependencias coordinadoras de los sectores de producción y desarrollo social, como de las representaciones de esas comunidades;
 
-XV. Coordinar la ejecución de los convenios en materia de desarrollo social celebrados con la federación, municipios y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades del Estado;
+XIII. Convenir con los municipios la elaboración, ejecución, registro y evaluación de los programas de inversión en materia de desarrollo social y humano, así como los de combate a la pobreza;
 
-XVI. Establecer, coordinar y operar el Sistema Estatal de Desarrollo Social con la participación de las dependencias y entidades de la Administración Pública Estatal y municipal, de los órganos autónomos, particulares, organismos, instituciones y representantes del sector social y privado;
+XIV. Proponer y promover mecanismos de financiamiento para el desarrollo social, con la participación de las demás dependencias y entidades del Poder Ejecutivo del Estado y de las autoridades municipales;
 
-XVII. Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias de la administración pública estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran; y
+XV. Impulsar y coordinar la organización social en los ámbitos rural y urbano para facilitar la participación en la toma de decisiones con respecto a su propio desarrollo;
 
-XVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XVI. Analizar, evaluar y en su caso instrumentar de manera conjunta con la Secretaría de Planeación y Desarrollo Regional, las propuestas de desarrollo comunitario y social resultantes de la participación de las diferentes organizaciones sociales y civiles, favoreciendo el equilibrio en el desarrollo regional;
+
+XVII. Coordinar la ejecución de los convenios en materia de desarrollo social celebrados con la federación, municipios y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades del Estado;
+
+XVIII. Establecer, coordinar y operar el Sistema Estatal de Desarrollo Social con la participación de las dependencias y entidades de la Administración Pública Estatal y municipal, de los órganos autónomos, particulares, organismos, instituciones y representantes del sector social y privado;
+
+XIX. Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias de la administración pública estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran; y
+
+XX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 33.
 
@@ -1241,15 +1249,19 @@ VIII. Establecer, regular, emitir y coordinar las bases para la realización de 
 
 IX. Coordinarse con la Contaduría Mayor de Hacienda para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades;
 
-X. Participar en el Consejo Estatal para la Modernización de la Administración Pública de Quintana Roo e intervenir en la determinación y supervisión de las normas y procedimientos para regular la organización, funcionamiento y desarrollo de las dependencias y entidades de la misma;
+X. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
 
-XI. Establecer lineamientos y mecanismos que modernicen las normas, los procedimientos y los instrumentos de control y evaluación de la actividad gubernamental, con el propósito de satisfacer las legítimas necesidades de la sociedad;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XI. Normar, promover y coordinar el desarrollo para la modernización e innovación de la administración pública;
 
 XII. Comprobar el cumplimiento por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo del Estado;
 
 XIII. Evaluar, en coordinación con las Secretarías de Planeación y Desarrollo Regional, de Hacienda y la Oficialía Mayor las estructuras orgánicas y ocupacionales de la Administración Pública del Estado;
 
-XIV. Fijar, regular y emitir, conforme a las directrices del Gobernador del Estado y por conducto del Consejo Estatal para la Modernización de la Administración Pública de Quintana Roo, los criterios y lineamientos para la integración de los reglamentos interiores y de los manuales administrativos de las dependencias y entidades del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XIV. Emitir la normatividad que regule los Reglamentos interiores, Manuales Administrativos y demás instrumentos que sean de observancia general de las dependencias, órganos administrativos desconcentrados y entidades de la Administración Púbica Estatal, así como vigilar su cumplimiento;
 
 XV. Instrumentar, coordinar y regular, las acciones de control y evaluación que permitan retroalimentar al Sistema de Planeación del Desarrollo del Estado, así como a los planes y programas que deriven del mismo, a fin de asegurar el cumplimiento de los objetivos y metas establecidos para el desarrollo del Estado de Quintana Roo;
 
@@ -1261,7 +1273,9 @@ XVIII. Vigilar en el ámbito de su competencia, el cumplimiento de las obligacio
 
 XIX. Promover, coordinar y evaluar los programas y acciones destinados a asegurar la calidad gubernamental en las funciones y servicios a cargo de las dependencias y entidades de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos de la misma, sean aprovechados y aplicados con criterios de eficiencia, simplificación administrativa, productividad, ahorro en el gasto público y transparencia. En su caso, promover la descentralización o desconcentración respectiva;
 
-XX. Establecer normas, lineamientos y controles para la instrumentación del Sistema Estatal de Información Ciudadana que contendrá el inventario de todos los trámites y servicios al público que prestan las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XX. Promover, ante las dependencias, órganos administrativos desconcentrados y entidades, los mecanismos para informar a la población de los trámites y servicios que prestan;
 
 XXI. Dictaminar, en forma previa a su expedición, los proyectos de normas de contabilidad y control, en materias de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como sobre los proyectos de normas relativas a la contratación de deuda o el manejo de fondos y valores que formulen las dependencias competentes, y en general sobre las iniciativas de leyes, reglamentos, acuerdos y lineamientos jurídicos que correspondan al ámbito de su competencia;
 
@@ -1299,37 +1313,57 @@ XXXVII. Vigilar el cumplimiento de las normas y lineamientos, políticas y proce
 
 XXXVIII. Coordinar e intervenir con las unidades de control, evaluación y auditoria gubernamental en la verificación de las actas de entrega recepción de las dependencias y entidades de la Administración Pública Estatal;
 
-XXXIX. Coordinar las acciones de control y evaluación que se establezcan en el seno del Comité de Planeación para el Desarrollo del Estado de Quintana Roo; y
+XXXIX. Coordinar las acciones de control y evaluación que se establezcan en el seno del Comité de Planeación para el Desarrollo del Estado de Quintana Roo; y (sic)
 
-XL. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XL. Emitir, normar, promover, coordinar y regular los procedimientos vinculados con el desarrollo de gobierno digital que deberán aplicar las dependencias, órganos administrativos desconcentrados y entidades de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XLI. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 41.
 
 A la Oficialía Mayor corresponde el despacho de los siguientes asuntos:
 
-I. Establecer y difundir las normas, políticas, sistemas, funciones, programas y procedimientos vinculados con la administración de los recursos humanos, materiales, tecnológicos y de los servicios generales e informáticos que deberán aplicar las dependencias y entidades de la Administración Pública del Estado, para el manejo de sus recursos y servicios, de acuerdo con los programas y presupuestos a cargo de las mismas y en cumplimiento de los acuerdos de desconcentración que se establezcan bajo las directrices del Gobernador del Estado y los acuerdos que se adopten al respecto en la Comisión Estatal para la Modernización de la Administración Pública de Quintana Roo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+l. Establecer y difundir las normas, políticas, sistemas, funciones, programas y procedimientos vinculados con la administración de los recursos humanos, materiales y de los servicios generales que deberán aplicar las dependencias y entidades de la Administración Pública del Estado, para el manejo de sus recursos y servicios, de acuerdo con los programas y presupuestos a cargo de las mismas y en cumplimiento de los acuerdos de desconcentración que se establezcan bajo las directrices del Ejecutivo del Estado;
 
 II. Emitir las normas y lineamientos que permitan la pronta y eficiente desconcentración de sistemas y procedimientos, vinculados con la administración de los recursos precitados, hacia las dependencias y entidades de la Administración Pública del Estado, asegurando su adecuado control bajo criterios de austeridad, racionalidad y transparencia en la administración del gasto corriente;
 
 III. Proporcionar los servicios regionales de administración, en coordinación con las dependencias que operen en las regiones respectivas, procurando su vinculación con el modelo de organización y desarrollo regional del Estado y bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
 
-IV. Instrumentar los mecanismos de coordinación con las diversas unidades administradoras de las dependencias y entidades de la Administración Pública del Estado, procurando transferirles la operación en la administración de los recursos y servicios, proporcionándoles la asistencia y apoyo técnico que requieran para el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-V. Promover con la Federación los programas, acciones y recursos que en materia de descentralización se celebren con el Gobierno del Estado para el desarrollo administrativo de los servicios a cargo de sus dependencias y entidades;
+IV. Instrumentar los mecanismos de coordinación con las diversas unidades administrativas de las dependencias y entidades de la Administración Pública del Estado, procurando transferirles la operación en la administración de los recursos y servicios, proporcionándoles la asistencia y apoyo que requieran para el desarrollo de sus funciones;
 
-VI. Regular y contratar al personal de la Administración Pública del Estado; así como tramitar y registrar en coordinación con la dependencia correspondiente, los nombramientos, promociones, licencias, jubilaciones y pensiones de los servidores públicos; así como vigilar el cumplimiento de las disposiciones legales estatutarias que rijan las relaciones entre esa administración y sus trabajadores;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-VII. Normar y emitir los criterios y lineamientos sobre el reclutamiento, selección, contratación e inducción de servidores públicos; elaborar y actualizar el escalafón de los funcionarios de las dependencias y entidades de la Administración Pública Estatal, así como programar los estímulos y recompensas para dicho personal, conforme a las disposiciones aplicables;
+V. Participar en los programas y acciones que en materia de descentralización celebre el Ejecutivo del Estado con la Federación, para el desarrollo administrativo de los servicios a cargo de sus Dependencias y Entidades;
 
-VIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus funciones bajo un esquema de desconcentración y adecuada supervisión. Asimismo fijar, regular y emitir, en coordinación con la Secretaría de la Contraloría, los criterios y lineamientos en materia de adquisición, arrendamiento, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de las funciones de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-IX. Administrar y controlar los Almacenes Generales, los Talleres Gráficos e Imprenta del Estado, desarrollando las labores editoriales correspondientes y coordinando y supervisando la edición de publicaciones oficiales;
+VI. Regular y contratar al personal de la Administración Pública del Estado; así como tramitar y registrar en coordinación con la dependencia correspondiente, los nombramientos, promociones, licencias, jubilaciones y pensiones de los servidores públicos; así como vigilar el cumplimiento de las disposiciones legales estatutarias que rijan las relaciones con dichos trabajadores;
 
-X. Participar en la Comisión Estatal para la Modernización de la Administración Pública y en coordinación con la Secretaría de Gobierno y bajo las directrices del Gobernador del Estado, en la instrumentación de los proyectos de reglamentos interiores y manuales administrativos de las dependencias y entidades; sujetándose a los criterios de simplificación y calidad en el servicio;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+VII. Normar y emitir los criterios y lineamientos sobre el reclutamiento, selección, contratación, inducción y baja de los servidores públicos; elaborar y actualizar el escalafón, así como programar los estímulos y recompensas para los trabajadores de las dependencias y entidades de la Administración Pública Estatal, conforme a las disposiciones aplicables;
 
-XI. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado; administrar y asegurar la conservación y mantenimiento de los mismos, y coadyuvar con el Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal en la instrumentación del Sistema de Administración Inmobiliaria Estatal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VIII. Normar y controlar los procesos para la proveeduría de los bienes y servicios que requiera la Administración Pública Estatal para el cumplimiento de sus objetivos bajo un esquema de desconcentración y adecuada supervisión. Asimismo fijar, regular y emitir, en coordinación con las Secretarías de la Contraloría y de Hacienda, los criterios y lineamientos en materia de adquisición, arrendamiento, suministro, registro, almacenamiento y mantenimiento de bienes y servicios, materiales logísticos e informáticos necesarios para el cumplimiento de los objetivos de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IX. Normar y difundir el sistema de control de almacenes generales y de inventarios de los bienes muebles que sean patrimonio del Estado, así como establecer los lineamientos y procedimientos para su control, vigilancia, baja y destino final;
+
+X. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XI. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado, conforme a lo previsto en el artículo 60 de la Ley del Patrimonio del Estado de Quintana Roo, así como administrar y asegurar la conservación y mantenimiento de los mismos;
 
 XII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
@@ -1341,11 +1375,31 @@ XIV. Administrar y regular el Centro de Transporte Aéreo y los Servicios Region
 
 XV. Organizar en colaboración con las dependencias y entidades del Estado, y los sectores social y privado, los actos cívicos en la entidad;
 
-XVI. Desarrollar, regular, administrar y supervisar los servicios de informática, vinculados a la administración de los recursos y servicios de las dependencias y entidades de la Administración Pública del Estado, promoviendo su adecuada organización y mantenimiento;
+XVI. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
 
-XVII. Organizar y administrar el Archivo General del Estado, determinando los lineamientos generales que permitan el desarrollo de una función desconcentrada en este rubro; y
+XVII. Organizar y administrar el Archivo General del Estado, determinando los lineamientos generales que permitan el desarrollo de una función desconcentrada en este rubro; y (sic)
 
-XVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Coadyuvar con las Dependencias competentes en el proceso de modernización administrativa estatal, así como participar en las acciones tendientes a la racionalidad y modernización de las políticas, normas, sistemas, estructuras, funciones, recursos, servicios y sectores que integran, regulan o determinan la organización y funcionamiento de la administración pública del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XIX. Establecer las normas, políticas y lineamientos para regular la organización, operación y desarrollo de los programas o sistemas para la profesionalización de los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XX. Coordinar la prestación del servicio social en las dependencias y órganos administrativos desconcentrados de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XXI. Establecer los criterios y lineamientos para regular la elaboración de las estructuras orgánicas y organigramas de las dependencias y entidades de la Administración Pública Estatal, y emitir la autorización correspondiente previo análisis de la Comisión Técnica para la revisión, evaluación y dictaminación de estructuras orgánicas y organigramas;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XXII. Normar, administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo; y
+
+XXIII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 42.
 
@@ -1702,3 +1756,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se deroga toda disposición de menor o igual jerarquía que se oponga al presente Decreto.
 
 TERCERO. Se faculta al Ejecutivo del Estado a realizar, dentro del término de sesenta días naturales contados a partir de la vigencia del presente Decreto, todos los actos administrativos y presupuestales con el fin de que la Unidad de Servicios Especiales de Vigilancia, sea creada y entre en funcionamiento, así como a expedir los reglamentos administrativos necesarios.
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTICULO SEGUNDO.
+
+Los titulares de la Secretaría de Desarrollo Social, de la Contraloría y la Oficialía mayor, en virtud de las modificaciones a sus atribuciones, deberán realizar las adecuaciones correspondientes a sus Reglamentos Interiores y expedirlos en un plazo no mayor a tres meses, contados a partir de la entrada en vigor del presente decreto. Entre tanto, seguirán vigentes los Reglamentos Interiores actuales, en lo que no se opongan a este Decreto.
+
+###### ARTICULO TERCERO.
+
+Los traspasos que por motivo de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias derivadas de las modificaciones a sus estructuras, así como los traspasos de recursos humanos, financieros y de los activos patrimoniales que la dependencia haya utilizado para los asuntos a su cargo.
+
+###### ARTICULO CUARTO.
+
+Se derogan y quedan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
