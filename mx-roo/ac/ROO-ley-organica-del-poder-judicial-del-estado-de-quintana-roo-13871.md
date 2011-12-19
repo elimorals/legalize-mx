@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2011-02-25"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -681,11 +681,11 @@ XII.- De los demás que expresamente señalen la Constitución estatal y la ley.
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 54.
 
-En los Distritos Judiciales del Estado habrán los Juzgados de Primera Instancia y de Paz que acuerde el Pleno del Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la capacidad presupuestal.
+En los Distritos Judiciales del Estado habrá los Juzgados de Primera Instancia, de Paz, los de Oralidad Mercantil, Civil y Familiar que acuerde el Pleno del Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la capacidad presupuestal.
 
 ###### Artículo 55.
 
@@ -827,15 +827,19 @@ Los Juzgados de Primera Instancia conocerán de los asuntos del orden civil, mer
 
 En la materia penal, los juzgados de Control se integrarán por un Juez, y los Tribunales de Juicio Oral se integrarán por tres Jueces.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-Los jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral, conocerán de los asuntos relativos a su materia, de acuerdo con el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo y que deben sustanciarse conforme al procedimiento oral.
+Los jueces de oralidad Mercantil, Civil y Familiar, conocerán de los asuntos relativos a su materia, de acuerdo con el Código de Comercio Vigente y de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, respectivamente, debiendo sustanciarse conforme al procedimiento oral respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 66.
 
-Los Jueces de Primera Instancia en materia civil conocerán:
+Los jueces de primera instancia en materia civil, conocerán:
 
-I.- De los negocios de jurisdicción contenciosa, común y concurrente en materia civil y mercantil, cuyo monto de lo reclamado exceda de 500 días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+I.- De los negocios de jurisdicción contenciosa, común y concurrente en materia civil y mercantil, cuyo monto de lo reclamado exceda de 500 días de salario mínimo vigente en el Estado a excepción de los juicios ordinarios mercantiles que serán conocidos por el juez oral mercantil en términos del artículo 65 de esta Ley y 1390 Bis del Código de Comercio;
 
 II.- De los asuntos judiciales de jurisdicción contenciosa, común y concurrente, relativos a concursos, suspensiones de pagos y quiebras, cualesquiera que sea su monto;
 
@@ -2080,3 +2084,17 @@ P.O. 25 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se, exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese este Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, a excepción de lo relativo a la "Oralidad Mercantil", que entrará en vigor cuando inicie la vigencia del Código de Comercio en lo que respecta al Título especial del Juicio Oral Mercantil.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
