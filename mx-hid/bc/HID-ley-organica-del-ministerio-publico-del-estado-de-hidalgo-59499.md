@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2010-08-09"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -2059,15 +2059,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicac
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al contenido de este Decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 31 DE DICIEMBRE DE 2009.
 
 PRIMERO.- La presente Ley entrará en vigor al momento en que cobre vigencia el sistema procesal penal acusatorio, conforme a los transitorios que del Código Procesal Penal para el Estado de Hidalgo.
 
 SEGUNDO.- Entretanto no entre en vigor el sistema procesal penal acusatorio a que se refiere el Artículo anterior, en todo lo conducente seguirá rigiendo la Ley Orgánica del Ministerio Público del Estado de Hidalgo, Publicada el día 31 de diciembre de 2007 en el Periódico Oficial del Estado de Hidalgo, salvo lo establecido en el siguiente Artículo.
 
-TERCERO.- El servicio de carrera de procuración de justicia entrará en vigor al día siguiente del de la Publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo. No obstante ello, todos los agentes del Ministerio Público y los Peritos, deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, antes del día tres de enero del año dos mil doce. Quienes no obtengan el certificado serán separados del servicio, observándose lo dispuesto en el Artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, y las demás disposiciones aplicables.
+> <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+TERCERO.- El servicio de carrera de procuración de justicia entrará en vigor al día siguiente del de la Publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo. No obstante ello, todos los agentes del Ministerio Público y los Peritos, deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, antes del día tres de enero del año dos mil trece. Quienes no obtengan el certificado serán separados del servicio, observándose lo dispuesto en el Artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, y las demás disposiciones aplicables.
 
 CUARTO.- En consecuencia, los agentes del Ministerio Público y Peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia, se someterán a las disposiciones normativas contenidas en esta Ley y en el Reglamento, para el servicio de carrera de procuración de justicia que se expida para tal efecto.
 
