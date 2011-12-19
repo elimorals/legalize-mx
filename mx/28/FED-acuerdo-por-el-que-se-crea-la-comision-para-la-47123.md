@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-crea-la-comision-para-la-47123"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-12-04"
-last_updated: "2005-12-14"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47123&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-12-01"
 ---
 # ACUERDO POR EL QUE SE CREA LA COMISION PARA LA TRANSPARENCIA Y EL COMBATE A LA CORRUPCION EN LA ADMINISTRACION PUBLICA FEDERAL, COMO UNA COMISION INTERSECRETARIAL DE CARACTER PERMANENTE
 
-ACUERDO POR EL QUE SE CREA LA COMISION PARA LA TRANSPARENCIA Y EL COMBATE A LA CORRUPCION DE LA ADMINISTRACION PUBLICA FEDERAL, COMO UNA COMISION INTERSECRETARIAL DE CARACTER PERMANENTE
+ACUERDO POR EL QUE SE CREA LA COMISIÓN PARA LA TRANSPARENCIA Y EL COMBATE A LA CORRUPCIÓN DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, COMO UNA COMISIÓN INTERSECRETARIAL DE CARÁCTER PERMANENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO POR EL QUE SE ABROGA EL DIVERSO POR EL QUE SE CREA LA COMISIÓN PARA LA TRANSPARENCIA Y EL COMBATE A LA CORRUPCIÓN EN LA ADMINISTRACIÓN PÚBLICA FEDERAL, COMO UNA COMISIÓN INTERSECRETARIAL DE CARÁCTER PERMANENTE, PUBLICADO EN EL D.O.F. DE 19 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de diciembre de 2000.
 
@@ -196,3 +198,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 14 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que se hacen a la Comisión para la Transparencia y el Combate a la Corrupción en la Administración Pública Federal en el Programa Nacional de Rendición de Cuentas, Transparencia y Combate a la Corrupción 2008-2012, se entenderán referidas a la Secretaría de la Función Pública, por lo que las acciones y actividades que se encuentran previstas en dicho programa para la referida comisión intersecretarial, se llevarán a cabo por las unidades administrativas que resulten competentes en términos del Reglamento Interior de la Secretaría de la Función Pública.
