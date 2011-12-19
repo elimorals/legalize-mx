@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-obras-publicas-para-el-estado-y-municipios-de-nuevo-1104
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-22"
-last_updated: "2010-11-06"
+last_updated: "2011-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
+LEY DE OBRAS PÚBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -41,7 +41,7 @@ LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 1o.
 
@@ -77,7 +77,7 @@ VIII.- Tratados: Los definidos como tales por la fracción I del Artículo 2º d
 
 Cuando la ejecución de la obra esté a cargo de un Municipio, toda referencia en esta Ley al Titular del Ejecutivo del Estado, la SOP, a la Secretaría de Finanzas y Tesorería General del Estado y a la Contraloría, se entenderá hecha para el órgano equivalente del Municipio correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 3o.
 
@@ -109,7 +109,7 @@ IX.- (DEROGADA, P.O. 17 DE ABRIL DE 1998)
 
 X.- Los demás trabajos de naturaleza semejante a los anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 4o.
 
@@ -133,7 +133,7 @@ La obra pública a cargo del Estado y de los Municipios deberá realizarse con c
 
 El Estado y en su caso los Municipios, deberán establecer las medidas indispensables para que los responsables de ejecutar las obras, garanticen que éstas, una vez entregadas, sean funcionales y seguras; aporten un beneficio general a sus usuarios, a quienes transiten por las vialidades circundantes, y a quienes residan en las zonas inmediatas; y a la vez, no ocasionen un deterioro a la infraestructura existente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 7o.
 
@@ -189,7 +189,7 @@ Los titulares de las dependencias a que se refiere este Artículo podrán delega
 
 El ejercicio de las atribuciones que esta Ley confiere a los Municipios se efectuará conforme a sus preceptos y acatando lo dispuesto en la Ley Orgánica de la Administración Pública Municipal del Estado y en los Reglamentos que cada Ayuntamiento expida. Para tal efecto, los Municipios podrán celebrar convenios de apoyo técnico con el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -229,7 +229,7 @@ El gasto que se efectúe con motivo de las acciones y materias reguladas por est
 
 Para el adecuado cumplimiento de esta Ley, y en relación con los procedimientos que la misma regula, la SOP, la Secretaría y la Contraloría podrán emitir en forma conjunta disposiciones de carácter administrativo que establezcan los métodos o medios de comunicación electrónicos o de informática que se podrán utilizar para la realización de trámites, envío de información o notificación de acuerdos o resoluciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO SEGUNDO. De la Planeación, Programación, Presupuestación y del Registro Estatal de Contratistas
 
@@ -311,7 +311,7 @@ Las entidades que sean apoyadas presupuestalmente o que reciban transferencias d
 
 La SOP estará encargada de planear, proyectar, programar, presupuestar, ejecutar, conservar, modificar, dirigir, coordinar, evaluar y controlar la obra pública de las dependencias de la Administración Pública Centralizada, y de coadyuvar con la emisión de las bases para las entidades que integran la Administración Pública Paraestatal. Asimismo, expedirá las bases a que deberán ajustarse las licitaciones de la obra pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ### Capitulo Segundo. Del Registro Estatal de Contratistas de Obras Públicas
 
@@ -349,7 +349,9 @@ V.- Especialidad de la contratista y la información relativa a los contratos de
 
 VI.- Experiencia acreditada con contratos de obras públicas o servicios relacionados con las mismas concluidos en tiempo y monto;
 
-VII.- Información referente a la capacidad técnica, económica y financiera; los recursos económicos se deberán comprobar con la última declaración anual formulada ante la Secretaría de Hacienda y Crédito Público y con el balance correspondiente, que comprenda hasta 60 días naturales anteriores a la fecha de solicitud de concurso, y los recursos financieros a su vez se acreditarán con la presentación de estados financieros auditados;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VII.- Información referente a la capacidad técnica, económica y financiera; los recursos económicos se deberán comprobar con la última declaración anual formulada ante la Secretaría de Hacienda y Crédito Público o con el balance correspondiente, que comprenda hasta 60 días naturales anteriores a la fecha de solicitud de concurso, y los recursos financieros a su vez se acreditan con la presentación de estados financieros auditados;
 
 VIII.- Inventario de maquinaria y equipo disponibles;
 
@@ -393,11 +395,19 @@ A.- Invitación a cuando menos cinco contratistas, y
 
 B.- Adjudicación directa.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 25.
 
-Las dependencias y entidades, sólo podrán llevar a cabo los procedimientos previstos en el inciso B de la fracción II del Artículo anterior, cuando el costo de la obra no exceda del monto que para estos casos se señale en la Ley de Egresos del Estado. Cuando existan condiciones o circunstancias extraordinarias o imprevisibles que no justifiquen el procedimiento establecido en el artículo anterior, las dependencias y entidades correspondientes previo acuerdo del Ejecutivo o del Ayuntamiento, podrán contratar directamente obras o servicios sin necesidad de expedir convocatoria alguna.
+Las dependencias y entidades podrán llevar a cabo los procedimientos previstos en el inciso B de la fracción II del Artículo anterior, cuando el costo de la obra no exceda del monto que para estos casos se señale en la Ley de Egresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+También podrán llevar a cabo los procedimientos previstos en el inciso B de la fracción II del Artículo anterior, cuando existan condiciones o circunstancias extraordinarias o imprevisibles que no justifiquen alguno de los otros procedimientos establecidos en el Artículo anterior. Para tal efecto realizarán lo siguiente:
+
+I. Los Ayuntamientos, mediante acuerdos de carácter general, o específicos para determinado caso concreto, podrán autorizar a dependencias o entidades de la administración pública municipal, para contratar directamente obras o servicios sin necesidad de expedir convocatoria alguna, bajo su responsabilidad. Los titulares de dichas dependencias y entidades deberán emitir un dictamen para tal efecto, en los términos de los Artículos 58 y 91 de esta Ley; y
+
+II. Las dependencias y entidades de la administración pública estatal, previo acuerdo que emitan sus respectivos titulares, bajo su responsabilidad, podrán contratar directamente obras o servicios sin necesidad de expedir convocatoria alguna, debiendo emitir, para tal efecto, un dictamen en los términos de los Artículos 58 y 91 de la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 26.
 
@@ -445,47 +455,55 @@ III.- La indicación de los lugares, fechas y horarios en que los interesados po
 
 Asimismo, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca la dependencia o entidad convocante;
 
-IV.- la fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones;
+IV.- La fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones;
 
 V.- El capital contable mínimo requerido, el que se comprobará con base en el último estado financiero auditado por contador público independiente o declaración fiscal anual del ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+Para el caso de Convocatorias emitidas en el primer trimestre del año, se podrá acreditar con la última declaración anual fiscal presentada a la que hubieren estado obligados, de conformidad con la legislación fiscal aplicable, sin perjuicio de poder hacerlo en los términos señalados en el párrafo anterior;
 
 VI.- La indicación de si la licitación es estatal o municipal, nacional o internacional;
 
 VII.- Las fechas límite para la adquisición de las bases y de la inscripción en la licitación; esta última no podrá ser menor de siete días hábiles contados a partir de la fecha de la publicación de la convocatoria;
 
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Los requisitos que deben cumplir los interesados para la inscripción: acta constitutiva, sus modificaciones y poderes que deban presentarse; además de su cedula de identificación fiscal;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IX.- El requisito que deben cumplir los interesados para la inscripción de presentar declaración escrita y bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos señalados en el Artículo 44 de esta Ley;
+
+X.- La información sobre los porcentajes a otorgar por concepto de anticipos;
+
+XI.- Los criterios generales conforme a los cuales se adjudicará el contrato:
+
+XII.- La descripción general de la obra y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, la indicación de que el contratista, bajo su responsabilidad, podrá subcontratar partes de la obra;
+
+XIII.- Fecha estimada de inicio y terminación de los trabajos;
+
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-VIII.- Los requisitos que deben cumplir los interesados para la inscripción: acta constitutiva, sus modificaciones y poderes que deban presentarse; declaración escrita y bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos señalados en el Artículo 44 de esta Ley; además de su cédula de identificación fiscal;
-
-IX.- La información sobre los porcentajes a otorgar por concepto de anticipos;
-
-X.- Los criterios generales conforme a los cuales se adjudicará el contrato:
-
-XI.- La descripción general de la obra y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, la indicación de que el contratista, bajo su responsabilidad, podrá subcontratar partes de la obra;
-
-XII.- fecha estimada de inicio y terminación de los trabajos;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
-
-XIII.- La experiencia o capacidad técnica de la empresa y de los profesionistas responsables de la obra que se requiera para participar en la licitación de acuerdo con las características de la obra;
+XIV.- La experiencia o capacidad técnica de la empresa y de los profesionistas responsables de la obra que se requiera para participar en la licitación de acuerdo con las características de la obra;
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-XIV.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrá ser negociada;
+XV.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrá ser negociada;
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-XV.- La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación; y
+XVI.- La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación; y
 
 > <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-XVI.- La determinación, en su caso, del porcentaje de contenido nacional.
+XVII.- La determinación, en su caso, del porcentaje de contenido nacional.
 
 Cuando la publicación de una convocatoria no se efectúe simultáneamente en el Periódico Oficial y en alguno de los diarios de mayor circulación en el Estado, el cómputo de los plazos se realizará de acuerdo a la fecha de la última publicación.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-Tratándose de convocatorias realizadas por dependencias y entidades de la administración pública estatal, no será necesario presentar la información a que se refieren las fracciones VIII y XIII de este Artículo cuando el licitante se encuentre previamente inscrito en el Registro Estatal de Contratistas de Obras Públicas, bastando únicamente exhibir la constancia o citar el número de su inscripción y manifestar bajo protesta de decir verdad que en el citado registro la información se encuentra completa y actualizada.
+Tratándose de convocatorias realizadas por dependencias y entidades de la administración pública estatal, no será necesario presentar la información a que se refieren las fracciones VIII y XIV de este Artículo cuando el licitante se encuentre previamente inscrito en el Registro Estatal de Contratistas de Obras Públicas, bastando únicamente exhibir la constancia o citar el número de su inscripción y manifestar bajo protesta de decir verdad que en el citado registro la información se encuentra completa y actualizada.
 
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
@@ -561,7 +579,7 @@ Todo interesado que satisfaga los requisitos de la convocatoria y las bases de l
 
 El plazo para la presentación y apertura de proposiciones no podrá ser inferior a veinte días naturales contados a partir de la fecha de publicación de la convocatoria, salvo que, por razones de urgencia justificada, no pueda observarse dicho plazo, en cuyo caso éste no podrá ser menor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria; siempre que ello no tenga por objeto limitar el número de participantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 37.
 
@@ -723,7 +741,7 @@ Los contratos que contemplen proyectos integrales o llave en mano se celebrarán
 
 Las dependencias y entidades podrán incorporar las modalidades de contratación que tiendan a garantizar al Gobierno del Estado o a los Municipios las mejores condiciones en la ejecución de la obra, siempre que con ello no se desvirtúe el tipo de contrato seleccionado con el que se haya licitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 49.
 
@@ -761,9 +779,11 @@ IV.- En su caso, las partes de la obra que se subcontratarán o los materiales o
 
 V.- La relación de contratos de obras que tengan celebrados con la administración pública o particulares, el documento que acredite la experiencia o capacidad técnica requerida y el curriculum del técnico que será designado como responsable de los trabajos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 52.
 
-Los licitantes y los servidores públicos de la dependencia o entidad que se encuentren presentes, rubricarán todas las propuestas técnicas presentadas, así como los correspondientes sobres cerrados que contengan las propuestas económicas de aquellos licitantes cuyas propuestas técnicas no hubieren sido desechadas, y quedarán en custodia de la propia dependencia o entidad, quien informará la fecha, lugar y hora en que se dará a conocer el resultado del análisis de las propuestas técnicas. Durante este período, la dependencia o entidad hará el análisis detallado de las propuestas técnicas aceptadas. En caso de que alguno de los licitantes o servidores públicos de las dependencias y entidades presentes se negare a firmar las propuestas presentadas, este hecho se hará constar en el Acta, sin afectar la validez del contenido y alcance de dichos documentos.
+Los licitantes y los servidores públicos que expresamente hubiesen sido designados por la dependencia o entidad que se encuentren presentes, rubricarán todas las propuestas técnicas presentadas, así como los correspondientes sobres cerrados que contengan las propuestas económicas de aquellos licitantes cuyas propuestas técnicas no hubieren sido desechadas, y quedarán en custodia de la propia dependencia o entidad, quien informará la fecha, lugar y hora en que se dará a conocer el resultado del análisis de las propuestas técnicas. Durante este período, la dependencia o entidad hará el análisis detallado de las propuestas técnicas aceptadas. En caso de que alguno de los licitantes o servidores públicos presentes que expresamente hubiesen sido designados por las dependencias y entidades presentes se negare a firmar las propuestas presentadas, este hecho se hará constar en el Acta, sin afectar la validez del contenido y alcance de dichos documentos.
 
 ###### Artículo 53.
 
@@ -791,9 +811,11 @@ V.- Costos hora-máquina;
 
 VI.- Cálculo del factor de salario real.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 56.
 
-El servidor público que presida el acto abrirá el sobre y leerá en voz alta, cuando menos el importe total de cada una de las propuestas admitidas. No se dará lectura a la postura económica de aquellas proposiciones que no contengan todos los documentos a que se refiere el Artículo 32, fracción III último párrafo, o hayan omitido algún requisito; las que serán desechadas. Los participantes en el acto rubricarán el catálogo de conceptos en que se consignen los precios y el importe total de los trabajos motivo de la licitación.
+El servidor público que haya sido designado expresamente para que presida el acto abrirá el sobre y leerá en voz alta, cuando menos el importe total de cada una de las propuestas admitidas. No se dará lectura a la postura económica de aquellas proposiciones que no contengan todos los documentos a que se refiere el Artículo 32, fracción III último párrafo, o hayan omitido algún requisito; las que serán desechadas. Los participantes en el acto rubricarán el catálogo de conceptos en que se consignen los precios y el importe total de los trabajos motivo de la licitación.
 
 Se entregará a todos los licitantes un recibo por la garantía de seriedad de la propuesta otorgada.
 
@@ -831,7 +853,7 @@ En la tercera etapa, que se llevará a cabo en la fecha, lugar y hora señalados
 
 Las dependencias y entidades no adjudicarán el contrato cuando a su juicio las posturas presentadas no fueren aceptables, y podrán volver a expedir una nueva convocatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 60.
 
@@ -911,7 +933,7 @@ VII.- Para la amortización de los anticipos en los casos de rescisión de contr
 
 En los contratos respectivos se deberá pactar que en caso de que el contratista no reintegre el saldo del anticipo por amortizar, se harán efectivas las fianzas respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 66.
 
@@ -1011,7 +1033,7 @@ III.- Los precios del contrato permanecerán fijos hasta la terminación de los 
 
 IV.- A los demás lineamientos que para tal efecto se establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 76.
 
@@ -1181,7 +1203,7 @@ Las dependencias y entidades que realicen obra pública por administración dire
 
 En los supuestos y con sujeción a las formalidades que prevén los Artículos 93 y 94, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública, y celebrar contratos de obra pública a través de un procedimiento de invitación restringida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 La opción que las dependencias y entidades ejerzan deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o Municipios. En el dictamen a que se refiere el Artículo 58 deberán acreditar, de entre los criterios mencionados, aquéllos en que se funda el ejercicio de la opción, y contendrá además:
 
@@ -1233,7 +1255,7 @@ IV.- Los interesados que acepten participar lo manifestarán por escrito y queda
 
 V.- Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ### Capítulo VI. Actuaciones para las Obras con Aplicación del
 
@@ -1417,7 +1439,7 @@ Las verificaciones podrán hacerse a petición de la parte interesada o de ofici
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 111.
 
@@ -1451,7 +1473,7 @@ III.- Con multas de 200 a 500 veces el salario mínimo general diario, las condu
 
 Para los efectos de este Artículo, el salario mínimo general diario será el vigente en la capital del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 113.
 
@@ -1579,7 +1601,7 @@ EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
 ARQ. OSCAR BULNES VALERO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE ABRIL DE 1998.
 
@@ -1604,3 +1626,9 @@ Segundo.- Los procedimientos iniciados antes de la entrada en vigor del presente
 Tercero.- En un término que no exceda de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculados con la presente reforma.
 
 Cuarto.- La SOP y demás dependencias y entidades del Estado que tengan competencia legal en materia de obras públicas, deberán iniciar la operación del Registro a que se refieren los artículos 23 BIS al 23 BIS 5 de esta Ley, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento en que se solicitaron.
