@@ -4,7 +4,7 @@ identifier: "HID-ley-de-deuda-publica-para-el-estado-de-hidalgo-44828"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-30"
-last_updated: "2006-07-31"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE HIDALGO
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE HIDALGO
+LEY DE DEUDA PÚBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 2005.
 
@@ -63,17 +63,17 @@ III.- Los Municipios, por conducto de los Ayuntamientos;
 
 IV.- Los Organismos Descentralizados Estatales o Municipales;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-V.- Las empresas de Participación Estatal o Municipal mayoritaria; y (sic)
+V.- Las empresas de Participación Estatal o Municipal mayoritaria;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-VI.- Los fideicomisos públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que la fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores;
+VI.- Los fideicomisos públicos Estatales o Municipales que formen parte de la administración pública paraestatal o paramunicipal, en los que la fideicomitente sea alguna de las entidades señaladas en las fracciones anteriores; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-VII.- Los Proyectos Públicos Privados, en los que intervengan alguna de las entidades señaladas en las fracciones anteriores.
+VII.- Las Asociaciones Público Privadas, señaladas en la Ley de Asociaciones Público Privadas del Estado de Hidalgo.
 
 ###### Artículo 3.
 
@@ -93,9 +93,9 @@ III.- Entidades de la Administración Pública Paraestatal: los Organismos Desce
 
 IV.- Entidades de la Administración Pública Paramunicipal: los Organismos Descentralizados Municipales, las empresas de participación Municipal mayoritaria y los fideicomisos públicos municipales que formen parte de la misma;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-V.- Proyectos Públicos Privados por sus siglas PPP: son todos aquellos programas que se desarrollen con financiamiento público y capital privado cuyo objeto es generar proyectos de inversión pública productiva;
+V.- Asociaciones Público Privadas: son aquellas señaladas en la Ley de Asociaciones Público Privadas del Estado de Hidalgo;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
@@ -189,9 +189,9 @@ XXIV.- Operaciones de Reestructuración: son los empréstitos o créditos que ce
 
 XXV.- Congreso: el Congreso del Estado Libre y Soberano de Hidalgo;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-XXVI.- Secretaría: la Secretaría de Finanzas del Poder Ejecutivo del Estado de Hidalgo;
+XXVI.- Secretaría: la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado de Hidalgo;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2006)</small>
 
@@ -239,7 +239,9 @@ No constituirán deuda pública, las obligaciones directas a corto plazo que se 
 
 I.- Se trate de empréstitos o créditos quirografarios;
 
-II.- Su vencimiento y pago se realicen en el mismo ejercicio fiscal en el que sean contratadas; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+II.- Su vencimiento y pago tenga lugar dentro de los doce meses siguientes contados a partir de la fecha en que sean contratadas; y
 
 III.- El saldo total acumulado de estos empréstitos o créditos no exceda al 5% (Cinco por ciento) de los ingresos ordinarios, del ejercicio fiscal correspondiente.
 
@@ -679,11 +681,13 @@ En los actos jurídicos, valores o títulos de crédito con que se documenten la
 
 Artículo 36 BIS.- El procedimiento para que las entidades a que se refiere el Artículo 2 de esta Ley accedan a financiamiento con la participación del Instituto para el Financiamiento del Estado de Hidalgo será conforme a los siguientes pasos:
 
-I.- Elaboración y publicación de convocatorias para acceder a financiamiento. El Instituto publicará una convocatoria indicando las fechas en las que éste accederá a financiamiento de los mercados financieros, con la intención de que las entidades interesadas en acceder a financiamiento, puedan inscribirse y participar en las operaciones de financiamiento en las fechas convocadas.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+I.- Elaboración y publicación de convocatorias para acceder a financiamiento. El Instituto publicará una convocatoria indicando las fechas en las que éste accederá a financiamiento de los mercados financieros, con la intención de que las entidades interesadas en acceder a financiamiento, puedan inscribirse y participar en las operaciones de financiamiento en las fechas convocadas. El proceso de elaboración y publicación de convocatorias puede no llevarse a cabo en el caso de que alguna Entidad Pública solicite directamente financiamiento a el Instituto.
 
-II.- Inscripción de las Entidades Públicas para participar en las operaciones de financiamiento. Las Entidades interesadas se inscribirán ante el instituto conforme a las instrucciones publicadas en la convocatoria, con al menos tres semanas de antelación previo a la fecha de cada financiamiento, y entregando la documentación indicada, que al menos incluirá lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+II.- Inscripción de las Entidades Públicas para participar en las operaciones de financiamiento. Las Entidades interesadas se inscribirán ante el Instituto conforme a las instrucciones publicadas en la convocatoria o, en el caso que no haya habido convocatoria, conforme a las especificaciones contenidas en la solicitud de financiamiento señalada en la fracción I de este Articulo 36 BIS y entregando documentación que al menos incluirá lo siguiente:
 
 a).- La fecha de la operación de financiamiento en la que la Entidad desea participar;
 
@@ -1164,3 +1168,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicac
 > <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a lo previsto en el presente Decreto.
