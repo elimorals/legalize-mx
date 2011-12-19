@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2011-12-16"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACIÓN FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -49,11 +49,13 @@ LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 La Hacienda Pública del Estado de Quintana Roo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones federales y otros que anualmente se establezcan en la Ley de Ingresos del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 2o.
 
-Los ingresos fiscales, que se establecen en este ordenamiento se regularán por lo que en el mismo se señale y por el Código Fiscal del Estado de Quintana Roo.
+Los ingresos fiscales y los no tributarios que se establecen en este ordenamiento se regularán por lo que en el mismo se señale y por el Código Fiscal del Estado de Quintana Roo.
 
 ###### ARTICULO 3o.
 
@@ -687,41 +689,13 @@ Será base de este impuesto, el total de las erogaciones efectuadas en términos
 
 El presente impuesto se causará y pagará aplicando la tasa del 2% sobre la base gravable señalada en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 43.
 
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general y presentada para su oportuno pago a través de bancos, ventanilla de la oficina recaudadora de rentas o transferencia de fondos en línea debidamente referenciada en las fechas que les corresponda considerando el primer carácter alfabético del Registro Estatal de Contribuyentes, según el calendario que se señala a continuación:
-
-LETRAS DEL FECHA DE PRESENTACIÓN
-
-REGISTRO ESTATAL DE DECLARACIÓN
-
-DE CONTRIBUYENTES
-
-De la “A” a la “F” A más tardar el día 19 del mes
-
-siguiente a aquél en que se
-
-efectuó la erogación.
-
-De la “G” a la “N” A más tardar el día 21 del mes
-
-siguiente a aquél en que se
-
-efectuó la erogación.
-
-De la “O” a la “Z” A más tardar el día 23 del mes
-
-siguiente a aquél en que se
-
-efectuó la erogación.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-El comprobante de pago y/o declaración, solo serán válidos si contienen el número de folio, la referencia, el sello y firma del cajero, para los casos de las declaraciones presentadas y pagadas en bancos o ventanilla de la oficina recaudadora de rentas. Para el caso del pago a través de transferencia de fondos en línea, bastará con el acuse de recibo electrónico generado por el sistema.
+Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general.
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
@@ -875,9 +849,11 @@ BIS.- Las dependencias y organismos auxiliares de la Administración Pública Fe
 
 Para determinar la cantidad a retener se tomará como base del Impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma Ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El pago del impuesto retenido, deberá efectuarse dentro del (sic) los 10 días siguientes del mes en que se efectuó la retención, mediante declaración provisional en las formas aprobadas por la propia Secretaría.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes siguiente a aquel en el cual se efectuaron las retenciones, mediante declaración definitiva en las formas aprobadas por la propia Secretaría.
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
@@ -1921,71 +1897,71 @@ Se entenderá por ejercicio libre de una profesión o especialidad, aquél que s
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 146.
 
-Será base de este impuesto, el total de los ingresos que perciba el sujeto de este gravamen, durante el ejercicio inmediato anterior, por ejercer libre y habitualmente una profesión.
+Será base de este impuesto, el total de los ingresos que perciba el sujeto de este gravamen, por ejercer libre y habitualmente una profesión.
 
 #### SECCION CUARTA. DEL (SIC) LA TASA, DEL PAGO Y OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 147.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-Este impuesto se pagará anualmente dentro de los primeros cinco meses del ejercicio siguiente a aquél en que se obtuvieron los ingresos, en las oficinas autorizadas por la Secretaría de Hacienda del Estado, aplicando el contribuyente la tasa del 1% sobre el total de sus ingresos.
+###### ARTICULO 147.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+Los sujetos de este impuesto efectuarán pagos bimestrales a más tardar el día 17 del mes inmediato posterior a aquél bimestre en que se obtuvieron los ingresos, por ejercer libre y habitualmente una profesión, mediante declaración que presentarán en las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por esta, mediante reglas de carácter general.
 
-No aplicará lo dispuesto en el párrafo anterior cuando sea el primer año de operación del contribuyente, ya que, el impuesto se pagará dentro de los dos meses siguientes a aquél en que inicie sus actividades, tomando en consideración para el cálculo del impuesto, la fecha del inicio de sus operaciones dentro del cuatrimestre del ejercicio que le corresponda, aplicando la cuota fija de la siguiente distribución:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-Zona 1.- Municipios de José María Morelos y Lázaro Cárdenas:
+Los sujetos de esta obligación calcularán el impuesto aplicando la tasa del 1% sobre la base a que hace referencia el artículo 146 de esta Ley.
 
-Primer cuatrimestre 22 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Segundo cuatrimestre 16 S.M.G.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-Tercer cuatrimestre 11 S.M.G.
-
-Zona 2.- Municipios de Othón P. Blanco, Felipe Carrillo Puerto e Isla Mujeres:
-
-Primer cuatrimestre 30 S.M.G.
-
-Segundo cuatrimestre 24 S.M.G.
-
-Tercer cuatrimestre 19 S.M.G.
-
-Zona 3.- Municipios de Benito Juárez, Cozumel y Solidaridad:
-
-Primer cuatrimestre 38 S.M.G.
-
-Segundo cuatrimestre 32 S.M.G.
-
-Tercer cuatrimestre 27 S.M.G.
+La obligación de presentar declaraciones subsistirá aún cuando no hubiese cantidad a cubrir.
 
 > <small>(REFORMADO P.O. 16 DE DICIEMBRE DE 2005)</small>
 
 Cuando los contribuyentes a que se refiere este capítulo causen baja o suspendan temporalmente actividades, deberán liquidar el impuesto que a la fecha se ha generado aplicando la tasa del 1% sobre el importe de los ingresos percibidos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 148.
 
-Los sujetos de este impuesto están obligados a:
+Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.-Empadronarse en las oficinas recaudadoras de rentas del lugar de su domicilio una vez iniciadas sus actividades, haciendo uso de las formas oficiales aprobadas, en términos de los artículos 171 y 172 de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-II.- Comunicar por escrito sus cambios de domicilio, y (sic)
+I.- Empadronarse y obtener la licencia de funcionamiento correspondiente en los plazos y medios previstos en esta Ley, en términos del artículo 172 de esta Ley.
 
-III.- Dar aviso de suspensión temporal o definitiva de su ejercicio profesional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+II.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
 
-IV. Presentar copia simple del documento que acredite la declaración anual del Impuesto Sobre la Renta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las obligaciones a que se refiere el presente artículo, deberán cumplirse dentro del término de quince días hábiles contados a partir de la fecha en que sucedan los hechos generadores de las mismas.
+III.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IV.- Presentar a más tardar el último día hábil del mes de abril, en las formas aprobadas por la Secretaría a través de los medios electrónicos dispuestos por esta mediante reglas de carácter general, la declaración informativa en la que conste de manera clara el folio de los comprobantes fiscales expedidos en el ejercicio fiscal anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2197,17 +2173,21 @@ Los prestadores de servicios cobrarán el impuesto, en forma expresa y por separ
 
 Este impuesto en ningún caso se considerará que forma parte del valor de los servicios ni será violatorio de tasas o tarifas, incluyendo las oficiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168-I.
 
-Los prestadores de servicios enterar las retenciones efectuadas mediante pagos provisionales mensuales, a cuenta del impuesto anual, en los mismos plazos establecidos en el artículo 43 de esta ley, utilizando las formas autorizadas por la Secretaría de Hacienda a través de los medios electrónicos dispuestos por ésta mediante reglas de carácter general.
+Los prestadores de servicios deberán enterar las retenciones efectuadas mediante pagos provisionales mensuales, a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría de Hacienda a través de los medios electrónicos dispuestos por esta mediante reglas de carácter general.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 El pago provisional será la cantidad que resulte de aplicar la tasa del impuesto sobre el total del ingreso por la utilización de los servicios a que se refiere este capítulo, obtenidos en el período por el que se efectúa el pago.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
@@ -2296,6 +2276,12 @@ En las declaraciones que se presenten en los términos del párrafo anterior, de
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 Los retenedores que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+Los retenedores deberán de proporcionar mensualmente mediante formas aprobadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2447,27 +2433,507 @@ En el caso de operaciones consignadas en escritura pública, los Notarios Públi
 
 TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o perito valuador. La Secretaría de Hacienda estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
 
-### CAPITULO I. DEL CONCEPTO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION PRIMERA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS, Y ARTÍCULOS, QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. DEL REGISTRO PUBLICO DEL COMERCIO
+### CAPITULO XV. DEL IMPUESTO SOBRE USO O TENENCIA VEHICULAR
 
-#### SECCION PRIMERA. PRESTACION DE SEGURIDAD PUBLICA A PARTICULARES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA QUE PRESTA LA SECRETARIA DE GOBIERNO
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+APARTADO A
+
+DEL OBJETO Y SUJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER.- Es objeto de este impuesto el uso o la tenencia de vehículos contenidos en este capítulo.
+
+Son sujetos de este impuesto las personas físicas y las morales, domiciliadas o residentes en el territorio del Estado de Quintana Roo, que realicen el objeto de este impuesto, a las que dicho Estado les expida placas de circulación o que circulen de manera habitual por su circunscripción territorial por más de 30 días naturales o tengan su domicilio en el mismo.
+
+Para efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que está domiciliado o es residente en el territorio del Estado de Quintana Roo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-A.- Para efectos de este Capítulo, se entiende por:
+
+I.- Vehículo: los automóviles, motocicletas, remolques, ómnibus, minibuses, autobuses integrales, Pick Ups, camiones, tractores no agrícolas tipo quinta rueda, las embarcaciones, veleros, esquís acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor y aeronaves.
+
+II.- Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, que corresponda al año modelo posterior al de su enajenación o al año modelo de enajenación del mismo.
+
+b) El que sea importado definitivamente por primera vez al país que corresponda al año modelo siguiente al de su importación o al año de aplicación del mismo.
+
+III.- Vehículo usado: Aquel que no se encuentre comprendido en la fracción anterior.
+
+IV.- Valor total del vehículo: El precio origen de enajenación por parte del fabricante, ensamblador, distribuidor, importador o comerciante en el ramo de vehículos, según sea el caso, al consumidor, Incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, sin incluir el impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+V.- Marca: Las denominaciones y distintivos que los fabricantes dan a sus vehículos para diferenciarlos de los demás.
+
+VI.- Año Modelo: El año de fabricación o el que le asigne el fabricante o ensamblador de conformidad con las normas aplicables.
+
+VII.- Modelo: Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VIII.- Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+IX.- Peso Bruto Vehicular: Es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+X.- Automóvil: Vehículo autopropulsado por un motor propio y destinado al transporte terrestre en caminos o calles, sin necesidad de carriles fijos, siempre que esta ley no le señale una subclasificación específica.
+
+XI.- Motocicleta: Vehículo de dos o más ruedas propulsado por un motor que acciona la rueda trasera mediante un mecanismo por cadena, correa o cardán, en el que el cuadro, o en su caso el casco y las ruedas, constituyen la estructura fundamental del vehículo y/o su dirección sea accionada por un manubrio.
+
+XII.- Pick up: Vehículo empleado para el transporte de carga y personas, y que en su parte trasera tiene de origen una zona descubierta denominada "caja, batea, platón, cama o palangana", en la cual se pueden colocar objetos y cuya parte posterior puede abatirse para poder cargar y descargar objetos.
+
+XIII.- Camión: Vehículo motorizado pesado de cuatro o más ruedas usado para el transporte de carga, la mayoría están construidos sobre una estructura fuerte denominada chasis, una cabina para los operadores y una estructura de formas y características diversas según la naturaleza de la carga.
+
+XIV.- INPC: El índice Nacional de Precios al Consumidor emitido por el Banco de México, publicado en el Diario Oficial de la Federación
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-B.- La federación, el Estado, los Municipios, los organismos descentralizados o cualquier persona, deberán pagar el impuesto con las excepciones que en esta ley se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+APARTADO B
+
+DE LOS RESPONSABLES SOLIDARIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-C.- Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+
+I.- Quienes por cualquier título adquieran la propiedad, uso o tenencia del vehículo, por el adeudo que este haya causado por el impuesto previsto en este capítulo, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
+
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo que este haya causado por el impuesto previsto en este capítulo.
+
+III.- Los funcionarios y servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación sin placas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo a favor del Estado de Quintana Roo correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+IV.- Quienes reciban vehículos para su administración y no proporcionen o se nieguen a proporcionar a las autoridades fiscales o que proporcionen información falsa, sobre elementos suficientes para identificar al o los propietarios de los mismos, que permitan determinar el adeudo fiscal por este impuesto en caso que los hubiera.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION SEGUNDA. DE LA BASE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-D.- Será base de este impuesto el valor total del vehículo nuevo consignado en la primera facturación o en caso de que el vehículo sea de los considerados como nuevos sin valor de facturación, se estará al valor que determine un perito valuador autorizado por el Estado.
+
+Tratándose de vehículos de importación, será base el valor de aduana más impuestos establecidos en el pedimento de importación con excepción del Impuesto al Valor Agregado.
+
+Para los vehículos usados la base se determinará aplicando al valor total del vehículo la tabla de depreciación correspondiente y al resultado se le aplicará el factor de actualización que corresponda según el período transcurrido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION TERCERA. DEL PAGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-E.- El Impuesto Sobre Uso o Tenencia Vehicular se causará por año de calendario, debiéndose calcular y enterar dentro de los tres primeros meses del ejercicio fiscal de que se trate; salvo en el caso de vehículos nuevos, supuesto en el cual el impuesto deberá calcularse y enterarse dentro del plazo de treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación.
+
+En los casos de solicitud de los servicios de expedición de placas, tarjetas de circulación, permisos provisionales para circulación de vehículos sin placas o cambio de propietario en el padrón vehicular, deberá cubrirse previamente el pago del impuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-F.- Los contribuyentes comprobarán el pago del impuesto con el original de la forma por medio de la cual lo hayan efectuado, debiendo acreditar estar al corriente en los últimos 5 años anteriores en el pago del presente impuesto cuando les sea requerido por la autoridad hacendaria del Estado de Quintana Roo.
+
+Cuando el vehículo provenga de otra entidad federativa, se deberá demostrar que es de reciente introducción al Estado, para lo cual deberá acreditar haber cumplido con las obligaciones análogas o contar con permisos de circulación vigentes a que obligue la Entidad de la que provienen, de lo contrario se presumirá que el vehículo fue introducido al Estado y que se encuentra circulando en la entidad desde la fecha en que haya dejado de estar al corriente o hayan vencido sus permisos y en consecuencia pagará los ejercicios fiscales que se presuman causados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-G.- Los contribuyentes de este impuesto están obligados a inscribirse en el Registro Estatal de Contribuyentes y ante el Registro Estatal Vehicular utilizando para ello las formas, requisitos y en los plazos señalados en la presente Ley y su Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-H.- Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, que asignen dichos vehículos a su servicio, al de sus funcionarios, empleados o sean de los utilizados para demostración en prueba de manejo, deberán pagar el impuesto por el ejercicio en que efectúen la asignación o uso, en los términos previstos en el primer párrafo de esta sección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-I.- En la enajenación por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos o importación definitiva por primera vez al país, de vehículos de año modelo anterior al año en que se realice o efectúe dicho acto, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda, bajo el criterio de vehículo nuevo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al año en que se realice o efectúe dicho acto, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION CUARTA. DE LAS CUOTAS, TASAS Y TARIFAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+APARTADO A
+
+VEHICULOS NUEVOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-J.- Tratándose de vehículos nuevos, el Impuesto Sobre Uso o Tenencia Vehicular se pagará de la siguiente manera:
+
+I.- En el caso de automóviles destinados al transporte hasta de 15 pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Límite Inferior Límite Superior Cuota Fija Tasa para aplicarse
+
+($) ($) ($) sobre el excedente
+
+del Límite Inferior
+
+(%)
+
+0.01 526,657.78 0.00 3.0
+
+526,657.79 1,013,523.64 15,799.73 8.7
+
+1,013,523.65 1,362,288.13 58,157.06 13.3
+
+1,362,288.14 1,711,052.62 104,542.74 16.8
+
+1,711,052.63 En adelante 163,135.16 19.1
+
+La tarifa anterior se actualizará de manera anual en el mes de enero con el factor de actualización del periodo comprendido desde el mes de noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el que se efectúa la actualización, dicho factor se obtendrá dividiendo el ÍNPC que corresponda al mes más reciente entre el más antiguo de dicho periodo.
+
+II.- Para vehículos destinados al transporte de más de 15 pasajeros, camiones y tractores no agrícolas tipo quinta rueda cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles de los servicios públicos de “alquiler con chofer”, “especializado” o “de estacionamiento, sitios y terminales”, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tasa del 0.245%.
+
+Para efectos de este artículo se entenderá por vehículos destinados al transporte de más de 15 pasajeros, los minibuses, omnibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+Para vehículos cuyo peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso bruto vehicular sea mayor a 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+III.- Tratándose de embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%; y tratándose de aeronaves el impuesto será la cantidad que resulte de aplicar al valor total del vehículo el 1%.
+
+IV.- Tratándose de motocicletas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Límite Inferior Límite Superior Cuota Fija Tasa para aplicarse
+
+($) ($) ($) sobre el excedente
+
+del Límite Inferior
+
+(%)
+
+0.01 50,000.00 0.00 1.0
+
+50,000.01 220,660.00 500.00 3.0
+
+220,660.01 303,459.28 5,619.80 8.7
+
+303,459.29 407,882.92 12,823.33 13.3
+
+407,882.93 En adelante 26,711.68 16.8
+
+La tarifa anterior se actualizará de manera anual en el mes de enero con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el que se efectúa la actualización, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que corresponda al mes más reciente entre el más antiguo de dicho periodo.
+
+V.- Tratándose de pickups, se pagará conforme a la siguiente:
+
+TARIFA
+
+Límite Inferior Limite Superior Cuota Fija Tasa para aplicación
+
+($) ($) ($) sobre el excedente
+
+del Límite Inferior
+
+(%)
+
+0.01 300,000.00 0.00 0.245
+
+300,000.01 526,657.78 0.00 3.0
+
+526,657.79 1,013,523.64 15,799.73 8.7
+
+1,013,523.65 1,362,288.13 58,157.06 13.3
+
+1,362,288.14 1,711,052.62 104,542.74 16.8
+
+1,711,052.63 En adelante 163,135.16 19.1
+
+La tarifa anterior se actualizará de manera anual en el mes de enero con el factor de actualización correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el que se efectúa la actualización, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que corresponda al mes más reciente entre el más antiguo de dicho periodo.
+
+Tratándose de vehículos blindados, excepto camiones, las tarifas a que se refiere este artículo se aplicarán sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-K.- Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de adquisición Factor aplicable al impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+APARTADO B
+
+VEHICULOS USADOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-L.- Tratándose de vehículos usados cuya antigüedad sea hasta de nueve años anteriores al año vigente, el impuesto a que hace referencia el presente Capítulo se pagará de la siguiente manera:
+
+I.-Tratándose de automóviles de fabricación nacional o de importación, destinados al transporte hasta de 15 pasajeros y Pick Ups, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
+
+Años de Antigüedad Factor de Depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida, conforme al inciso anterior, se multiplicará por el factor de actualización. Este factor de actualización se obtendrá dividiendo el INPC del mes de noviembre del año anterior al año a aquel en el que se efectuará el pago, entre el índice correspondiente al mes de noviembre del año inmediato anterior al año modelo del vehículo. Cuando el resultado de la operación de actualización sea menor a 1, el factor de actualización que se aplique será 1.
+
+c) Al resultado obtenido se aplicará la tarifa establecida en la fracción I si es automóvil o la fracción V si es pickup, ambas del artículo 168-QUATER-J, según corresponda.
+
+II.- Para vehículos de fabricación nacional o importados de más de 15 pasajeros y camiones cuyo peso bruto vehicular sea menor a 15 toneladas, vehículos de transporte público de pasajeros denominados “taxis” y aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste y cuando conforme a esta Ley no se haya causado el impuesto del ejercicio fiscal inmediato anterior, únicamente para efectos de referencia, se calcularan conforme a los procedimientos y elementos dispuestos en el capitulo XV de esta ley todos los importes de impuestos que el vehículo hubiere causado, y se usará el valor que corresponda al último ejercicio fiscal inmediato anterior.
+
+El factor de ajuste será el que resulte de multiplicar el factor de actualización por el factor de depreciación que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente tabla:
+
+Años de Antigüedad Factor de depreciación
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El factor de actualización a que se refiere el párrafo anterior, será el correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el que se efectúa la actualización, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que corresponda al mes más reciente entre el más antiguo de dicho periodo.
+
+III.- Tratándose de vehículos usados de servicio particular que pasen a ser de los servicios públicos de “alquiler con chofer”, “especializado” o “de estacionamiento, sitios y terminales”, el Impuesto Sobre Uso o Tenencia Vehicular se calculará, para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia conforme al siguiente procedimiento:
+
+El valor total del vehículo se multiplicará por el factor de depreciación de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en la fracción I de este artículo, y
+
+La cantidad obtenida, conforme al inciso anterior, se multiplicará por el factor de actualización que se obtendrá dividiendo el INPC del mes de noviembre del año anterior al año a aquel en el que se efectuará el pago, entre el índice correspondiente al mes de noviembre del año inmediato anterior al año modelo del vehículo. Cuando el resultado de la operación de actualización sea menor a 1, el factor de actualización que se aplique será 1: y el resultado obtenido se multiplicará por el 0.245%.
+
+IV.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste.
+
+El factor de ajuste será el que resulte de multiplicar el factor de actualización por el factor de depreciación que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente tabla:
+
+Años de Antigüedad Factor de Depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+El factor de actualización a que se refiere el párrafo anterior, será el correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el que se efectúa la actualización, dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que corresponda al mes más reciente entre el más antiguo de dicho periodo.
+
+V.- Tratándose de motocicletas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
+
+Años de Antigüedad Factor de depreciación
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+b) La cantidad obtenida, conforme al inciso anterior, se multiplicará por el factor de actualización que se obtendrá dividiendo el INPC del mes de noviembre del año anterior al año a aquel en el que se efectuará el pago, entre el índice correspondiente al mes de noviembre del año inmediato anterior al año modelo del vehículo. Cuando el resultado de la operación de actualización sea menor a 1, el factor de actualización que se aplique será 1.
+
+c) Al resultado obtenido se aplicará la tarifa establecida en la fracción IV del artículo 168-QUATER-J.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-M.- Para determinar el impuesto del año en que los vehículos usados sean importados por primera vez al país, se estará bajo el criterio de vehículo nuevo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-N.- Para los efectos de este Capítulo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo y cuando el año modelo no se pueda determinar el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION QUINTA. DE LAS EXENCIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-O.- No se causará el impuesto que se establece en el presente Capítulo respecto de los siguientes vehículos:
+
+I.- Los vehículos de la Federación, Estado o Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de entidades públicas o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos. Siempre y cuando dichos vehículos ostenten las características necesarias que los distingan como tales.
+
+II.- Las embarcaciones dedicadas a la pesca comercial.
+
+III.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
+
+IV.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que no estén en circulación.
+
+VI.- Los vehículos que sean utilizados para el transporte de personas con discapacidad permanente y cumpla con los requisitos que establece el Reglamento de esta Ley.
+
+VII.- Los vehículos eléctricos y los denominados híbridos.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el propietario del mismo deberá pagar el impuesto correspondiente dentro de los 30 días hábiles siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 168
+
+QUATER-P.- Los tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada dependencia.
 
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO II. DE LA EXPEDICION DE LICENCIAS DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+### CAPITULO I. DEL CONCEPTO
 
 ###### ARTICULO 169.
 
@@ -2475,9 +2941,9 @@ El Gobierno del Estado, percibirá derechos por los servicios que preste en el e
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
+### CAPITULO II. DE LA EXPEDICION DE LICENCIAS DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 170.
 
@@ -2819,9 +3285,11 @@ De primera hasta 1,890 S.M.G. 1,134 S.M.G.
 
 De segunda hasta 1,260 S.M.G. 985 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Por la expedición de licencias de bebidas alcohólicas en los Municipios de Othón p. Blanco e Isla Mujeres, para la:
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+III.- Por la expedición de licencias de bebidas alcohólicas en los municipios de Othón p. Blanco, Bacalar e Isla Mujeres, para la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -3111,9 +3579,11 @@ De primera hasta 5,040 S.M.G. 4,410 S.M.G.
 
 De segunda hasta 4,726 S.M.G. 4,096 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Por cambio que se solicite para licencias de bebidas alcohólicas en los municipios de Othón P. Blanco y Felipe Carrillo Puerto.
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+V.- Por cambio que se solicite para licencias de bebidas alcohólicas en los municipios de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto.
 
 Tratándose de cambios de denominación o razón social entre sociedades o por fusión o escisión de las mismas, se aplicará el 10% de la tarifa establecida para estos efectos.
 
@@ -4251,9 +4721,11 @@ De primera hasta 630 S.M.G. 378 S.M.G.
 
 De segunda hasta 526 S.M.G. 316 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco y Felipe Carrillo Puerto a Benito Juárez, Solidaridad, Cozumel y Tulum, del Estado de Quintana Roo, para la:
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto a Benito Juárez, Solidaridad, Cozumel y Tulum, del Estado de Quintana Roo por la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4443,7 +4915,7 @@ De Primera hasta 1,851 S.M.G
 
 De segunda hasta 1,838 S.M.G.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+(ADICIONDO, P.O. 17 DE DICIEMBRE DE 2007)
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
@@ -4457,9 +4929,11 @@ De primera hasta 2,428 S.M.G. 2,441 S.M.G.
 
 De segunda hasta 2,415 S.M.G. 1, 837 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco y Felipe Carrillo Puerto a Isla Mujeres, para la:
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+X.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto a Isla Mujeres, para la
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -5083,103 +5557,19 @@ De segunda hasta 1,890 S.M.G. 2,204 S.M.G.
 
 XIII.- El derecho por cambio de giro a otro corresponderá a la diferencia de salados mínimos entre el costo del giro autorizado y el giro al que solicita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 170-A.
 
-La Secretaría expedirá de conformidad con lo establecido en la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo los permisos especiales que a continuación se mencionan:
+La Secretaría otorgará de conformidad con lo establecido en el artículo 21 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, permisos especiales y causarán derechos en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+I.- Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados SOUVENIRS, cuyo contenido máximo sea hasta 150 mililitros, se cobrará por año de 60 S.M.G. a 240 S.M.G.
 
-I.- Los contribuyentes que enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados SOUVENIRS, cuyo contenido máximo sea hasta 150 mililitros, deberán solicitar permiso especial ante la Oficina Recaudadora que corresponda a su domicilio fiscal, antes de iniciar sus actividades relacionadas con la venta de estos productos.
+II.- Por la realización eventual de alguna actividad pública de carácter artístico, cultural, social o deportivo y en los cuales se realicen la venta y consumo de bebidas alcohólicas, se cobrará por día de 15 S.M.G. a 240 S.M.G.
 
-Por la expedición de los permisos especiales a que se refiere el párrafo anterior se causará un derecho de acuerdo a la siguiente:
-
-TARIFA
-
-ZONA 1 ZONA 2
-
-MENSUAL DE 10 HASTA DE 5 HASTA
-
-20 S.M.G. 10 S.M.G.
-
-TRIMESTRAL DE 28 HASTA DE 14 HASTA
-
-55 S.M.G. 27 S.M.G.
-
-SEMESTRAL DE 00 HASTA DE 27 HASTA
-
-98 S.M.G. 54 S.M.G.
-
-ANUAL HASTA DE 73 HASTA DE 54 HASTA
-
-146 S.M.G. 108 S.M.G.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-II.- Las personas físicas y morales que lleven a cabo eventos de carácter ocasional, en los que además se realice la venta y consumo de bebidas alcohólicas, deberán contar con un permiso especial expedido por la Secretaría, de conformidad con el Artículo 25 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, pagando un derecho diario de acuerdo a la siguiente tarifa:
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Zona 1.-
-
-A) Por cada caja de 24 cervezas. $ 22.00.
-
-B) Por cada botella de licor $ 22.00.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Zona 2.-
-
-A) Por cada caja de 24 cervezas. $ 20.00.
-
-B) Por cada botella de licor $ 18.00.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Para los efectos de este artículo se consideran dentro de la Zona 1 los Municipios de Benito Juárez, Solidaridad, Cozumel e Isla Mujeres; y dentro de la Zona 2 los Municipios de Othón P. Blanco, Lázaro Cárdenas, José María Morelos y Felipe Carrillo Puerto.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-TARIFA
-
-ZONA 1 ZONA 2
-
-Permiso para eventos 15 S.M.G. 10 S.M.G.
-
-sociales y Culturales
-
-que realicen los comités
-
-De (sic) vecinos, por día hasta
-
-Permiso para eventos 20 S.M.G. 15 S.M.G.
-
-deportivos, Sociales y
-
-culturales que realicen
-
-Los (sic) ejidos, por día hasta
-
-Permiso para eventos 25 S.M.G. 18 S.M.G.
-
-deportivos Sociales y
-
-culturales en general,
-
-Por día Hasta (sic)
-
-Bailes públicos, kermeses, 30 S.M.G. 20 S.M.G.
-
-ferias y Eventos (sic) especiales,
-
-por día hasta
-
-Otros permisos, por día hasta 50 S.M.G. 25 S.M.G.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Para los efectos de esta tarifa se consideran dentro de la zona 1 los Municipios de: Benito Juárez, Solidaridad, Cozumel e Isla Mujeres, y dentro de la zona 2, los Municipios de: Othón P. Blanco, Lázaro Cárdenas, José Ma. Morelos y Felipe Carrillo Puerto.
+III.- Cuando se preste el servicio público especializado a que se refiere el artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas, se cobrará por año de 50 S.M.G. a 110 S.M.G.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -5213,49 +5603,221 @@ Por expedición de licencias únicas se cobrará por cada giro o establecimiento
 
 (VEASE ARCHIVO ANEXO)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 170-E.
 
-Cuando el contribuyente preste el servicio público especializado a que se refiere el artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio se otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas. La Secretaría cobrará y expedirá de conformidad con lo establecido en el artículo 17 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, permisos especiales que se otorgarán por unidad de transporte a personas físicas o morales, cobrándose la siguiente:
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADA P.O. 26 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 170-F.
+
+De conformidad al artículo 19 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, el titular de la Licencia de Bebidas Alcohólicas, deberá solicitar el refrendo dentro de los dos primeros meses de cada año y se pagará un derecho de conformidad a la siguiente:
 
 TARIFA
 
-Tarifa Única De 55 S.M.G.
+I.- Para las licencias de Bebidas Alcohólicas domiciliadas en los municipios de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto, en el giro de:
 
-a
+a) Venta de cervezas exclusivamente con alimentos. De 24 hasta 58 S.M.G.
 
-110 S.M.G. por Mes
+b) Venta de cervezas, vinos y licores exclusivamente De 31 hasta 73 S.M.G.
 
-### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
+con los alimentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+c) Venta de cervezas, vinos y licores en envase De 24 hasta 58 S.M.G.
+
+cerrado.
+
+d) Venta de cervezas en envase cerrado. De 21 hasta 52 S.M.G.
+
+e) Venta de cervezas, vinos y licores al copeo. De 39 hasta 89 S.M.G.
+
+f) Venta de cervezas en envase abierto. De 24 hasta 58 S.M.G.
+
+g) Venta de vinos y licores en envase cerrado. De 24 hasta 58 S.M.G.
+
+h) Venta de vinos y licores en envase cerrado para De 39 hasta 89 S.M.G.
+
+distribución al mayoreo.
+
+i) Venta de cervezas en envase cerrado para De 39 hasta 89 S.M.G.
+
+distribución al mayoreo.
+
+j) Venta de cervezas, vinos y licores en envase De 39 hasta 89 S.M.G.
+
+cerrado para distribución al mayoreo.
+
+II.- Para las licencias de Bebidas Alcohólicas domiciliadas en los municipios de José María Morelos y Lázaro Cárdenas, en el giro de:
+
+a) Venta de cervezas exclusivamente con alimentos. De 24 hasta 58 S.M.G.
+
+b) Venta de cervezas, vinos y licores exclusivamente De 26 hasta 53 S.M.G.
+
+con los alimentos.
+
+c) Venta de cervezas, vinos y licores en envase De 24 hasta 58 S.M.G.
+
+cerrado.
+
+d) Venta de cervezas en envase cerrado. De 19 hasta 48 S.M.G.
+
+e) Venta de cervezas, vinos y licores al copeo. De 31 hasta 73 S.M.G.
+
+f) Venta de cervezas en envase abierto. De 21 hasta 52 S.M.G.
+
+g) Venta de vinos y licores en envase cerrado. De 21 hasta 52 S.M.G.
+
+h) Venta de vinos y licores en envase cerrado para De 31 hasta 73 S.M.G.
+
+distribución al mayoreo.
+
+i) Venta de cervezas en envase cerrado para De 31 hasta 73 S.M.G.
+
+distribución al mayoreo.
+
+j) Venta de cervezas, vinos y licores en envase De 31 hasta 73 S.M.G.
+
+cerrado para distribución al mayoreo.
+
+III.- Para las licencias de Bebidas Alcohólicas domiciliadas en el municipio de Isla Mujeres en el giro de:
+
+a) Venta de cervezas exclusivamente con De 31 hasta 73 S.M.G.
+
+alimentos.
+
+b) Venta de cervezas, vinos y licores De 63 hasta 136 S.M.G.
+
+exclusivamente con los alimentos.
+
+c) Venta de cervezas, vinos y licores De 39 hasta 89 S.M.G.
+
+en envase cerrado.
+
+d) Venta de cervezas en envase De 26 hasta 63 S.M.G.
+
+cerrado.
+
+e) Venta de cervezas, vinos y licores De 89 hasta 189 S.M.G.
+
+al copeo.
+
+f) Venta de cervezas en envase De 39 hasta 89 S.M.G.
+
+abierto.
+
+g) Venta de vinos y licores en De 39 hasta 89 S.M.G.
+
+envase cerrado.
+
+h) Venta de vinos y licores en envase De 89 hasta 189 S.M.G.
+
+cerrado para distribución al mayoreo.
+
+i) Venta de cervezas en envase cerrado De 89 hasta 189 S.M.G.
+
+para distribución al mayoreo.
+
+j) Venta de cervezas, vinos y licores en De 89 hasta 189 S.M.G.
+
+envase cerrado para distribución al mayoreo.
+
+IV.- Para las licencias de Bebidas Alcohólicas domiciliadas en los municipios de Benito Juárez, Cozumel, Solidaridad y Tulum en el giro de:
+
+a) Venta de cervezas exclusivamente De 31 hasta 73 S.M.G.
+
+con alimentos.
+
+b) Venta de cervezas, vinos y licores De 79 hasta 168 S.M.G.
+
+exclusivamente con los alimentos.
+
+c) Venta de cervezas, vinos y licores De 55 hasta 121 S.M.G.
+
+en envase cerrado.
+
+d) Venta de cervezas en envase De 26 hasta 63 S.M.G.
+
+cerrado.
+
+e) Venta de cervezas, vinos y licores De 105 hasta 220 S.M.G.
+
+al copeo.
+
+f) Venta de cervezas en envase De 55 hasta 121 S.M.G.
+
+abierto.
+
+g) Venta de vinos y licores en envase De 55 hasta 121 S.M.G.
+
+cerrado.
+
+h) Venta de vinos y licores en envase De 105 hasta 220 S.M.G.
+
+cerrado para distribución al mayoreo.
+
+i) Venta de cervezas en envase cerrado De 105 hasta 220 S.M.G.
+
+para distribución al mayoreo.
+
+j) Venta de cervezas, vinos y licores en De 105 hasta 220 S.M.G.
+
+envase cerrado para distribución al mayoreo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 170-G.
+
+Por la renovación de la Licencia de Bebidas Alcohólicas en cualquiera de sus giros, se cobrara 40 veces el S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 170-H.
+
+Por la reposición de la Licencia de Bebidas Alcohólicas en cualquiera de sus giros, se cobrara 53 veces el S.M.G.
+
+### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 171.
 
-Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes dentro de los treinta días siguientes a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Estado de Quintana Roo.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 172.
 
-Las personas a que hace referencia el Artículo anterior deberán solicitar en el mismo plazo la expedición de licencia de funcionamiento que corresponda, según sea su actividad y por cada establecimiento o sucursal, para lo cual deberán acompañar a su solicitud los siguientes documentos:
+Las personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de servicios, y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal antes las oficinas Recaudadoras de Rentas en el Estado, su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente contado a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Estado de Quintana Roo y obtener a su vez la correspondiente Licencia de Funcionamiento según sea su actividad y por cada establecimiento o sucursal, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
 
-I.- Copia de su inscripción en el Registro Federal de Contribuyentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Croquis de la ubicación.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+I.- Folio del aviso de inscripción o apertura de establecimiento realizado en el Servicio de Administración Tributaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+II.- Domicilio fiscal del contribuyente y del establecimiento
 
 III.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Licencia de bebidas alcohólicas original y copia, si expenden bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IV.- Giro o actividad
 
 V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -5263,9 +5825,75 @@ VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
 VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2002)
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Copia de la cédula catastral del inmueble en el que se encuentre el establecimiento.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VIII.- En su caso el número de Licencia de bebidas alcohólicas con refrendo vigente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IX.- En su caso número de operación del recibo de pago de comodato vigente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+X.- En su caso, número de autorización vigente para operar como casa de empeño y préstamo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XI.- En su caso, número de autorización vigente, para operar como prestador de servicios de seguridad privada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XII.- Obligaciones fiscales a cargo.
+
+Tratándose de aumento de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada.
+
+Tratándose de disminución de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
+
+a) Constancia de cumplimiento de obligaciones.
+
+Tratándose de cambio de domicilio, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
+
+a) Constancia de cumplimiento de obligaciones.
+
+b) Folio del Aviso de cambio de domicilio del establecimiento realizado en el Servicio de Administración Tributaria,
+
+c) Domicilio fiscal del contribuyente,
+
+d) Domicilio del establecimiento y referencias;
+
+e) En su caso, número de Licencia de bebidas alcohólicas con refrendo vigente;
+
+f) En su caso, número de operación del recibo de pago comodato (sic) vigente;
+
+g) En su caso, número de autorización vigente para operar como casa de empeño y préstamo;
+
+h) En su caso, número de autorización vigente para operar como operador de servicios de seguridad privada.
+
+Tratándose de cambio de giro o actividad, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
+
+a) Folio del Aviso de actualización de actividades económicas y obligaciones del establecimiento realizado en el Servicio de Administración Tributaria;
+
+b) Giro o actividad.
+
+Tratándose de cierre de establecimiento o suspensión de actividades se contará con un mes para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener cancelación de la licencia de funcionamiento, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
+
+a) Folio del Aviso de suspensión de actividades económicas del establecimiento realizado en el Servicio de Administración Tributaria;
+
+b) Constancia de cumplimiento de obligaciones.
+
+Las licencias a que se refiere este capítulo incluyendo las actualizadas derivadas de algún movimiento tendrán una vigencia al 31 de diciembre de cada ejercicio fiscal y deberán, renovarse en los dos primeros meses del siguiente ejercicio fiscal, proporcionando la constancia de cumplimiento de obligaciones, mediante el uso de los dispositivos o medios electrónicos que la Secretaría disponga para tal efecto.
+
+La Secretaría se reserva la facultad de verificar mediante la inspección al establecimiento que la información proporcionada para la obtención de la Licencia de Funcionamiento o sus cambios y actualizaciones son auténticos, contrario a esto se impondrán las infracciones a que se refiere el Código Fiscal del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5727,11 +6355,13 @@ CX.- Rentadoras de películas de videos, hasta 16 S.M.G.
 
 CXI.- Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará: hasta 53 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 173-A.
 
-Los contribuyentes que hayan adquirido licencia de bebidas alcohólicas para la venta o expendio, tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año la licencia de funcionamiento y el resello de las mismas, presentando los documentos señalados en el artículo 175 de esta Ley, para lo cual cubrirán un derecho en base a la siguiente:
+Los contribuyentes que hayan adquirido licencia de bebidas alcohólicas para la venta o expendio, tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año la licencia de funcionamiento y el refrendo de las mismas, presentando los documentos señalados en el artículo 175 de esta Ley, para lo cual cubrirán un derecho en base a la siguiente:
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
 
@@ -5955,17 +6585,11 @@ al mayoreo
 
 En el caso de las licencias únicas se cobrará un derecho equivalente a cada giro o establecimiento de conformidad con las tarifas vigentes arriba mencionadas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 174.
 
-Por la expedición de la autorización para las casas de empeño o préstamo en el Estado, se causará un derecho de acuerdo a la siguiente tarifa:
-
-I. Por apertura hasta 45 S.M.G.;
-
-II. Por revalidación anual hasta 25 S.M.G.;
-
-III. Por modificación hasta 20 S.M.G.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -5993,7 +6617,9 @@ IV.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado j
 
 Las licencias deberán de exhibirse en lugar visible y a la vista del público en el establecimiento o local para el cual fueron expedidas.
 
-### CAPITULO V. DE LOS RECARGOS Y SANCIONES
+### CAPITULO IV. DE LOS DERECHOS POR SERVICIOS DE TRANSITO Y CONTROL VEHICULAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 176.
 
@@ -6147,9 +6773,11 @@ m) Por permisos provisionales para circulación de vehículos por:
 
 2.- 30 días sin placas, 6.90 veces el S.M.G. vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-n) Por expedición y reposición de tarjetas de circulación 0.58 veces el S.M.G. en el estado.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+n) Por expedición y reposición de tarjetas de circulación 0.75 el S.M.G. en el estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -6265,7 +6893,7 @@ VI.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el Est
 
 VII.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
 
-a).- De un humo para• servicio público 4.03 veces el S.M.G. vigente en el Estado.
+a).- De un humo para· servicio público 4.03 veces el S.M.G. vigente en el Estado.
 
 b).- De un humo para servicio particular 6.01 veces el S.M.G. vigente en el Estado.
 
@@ -6284,6 +6912,30 @@ VIII.- Examen médico y de competencia para licencia de conducir vehículos de m
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IX.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 veces el S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+X.- Por la expedición de constancias de no infracción 1 S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XI.- Por la inscripción al curso de vialidad a servicio público 1 S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XII.- Por examen práctico de conducción 2 S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XIII.- Por el registro y refrendo anual de escuelas de manejo 20 S.M.G. vigente en el Estado.
 
 ###### ARTICULO 177.
 
@@ -6521,9 +7173,7 @@ d) Servicio público especializado:
 
 e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 800 S.M.G.
 
-### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO V. DE LOS RECARGOS Y SANCIONES
 
 ###### ARTICULO 178.
 
@@ -6537,9 +7187,9 @@ La Secretaría de Hacienda del Estado, solicitará el apoyo de la Dirección de 
 
 Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código Fiscal del Estado de Quintana Roo.
 
-### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 179.
 
@@ -6565,15 +7215,15 @@ VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO VII. SERVICIOS CATASTRALES
+### CAPITULO VI-A. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 179-A.
 
 Los contribuyentes tendrán la obligación de efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el Reglamento del Código Fiscal del Estado.
 
-### CAPITULO VIII. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+### CAPITULO VII. SERVICIOS CATASTRALES
 
 ###### ARTICULO 180.
 
@@ -6653,9 +7303,17 @@ b).- Predios urbanos
 
 1. Se aplicará la tabla de predios rústicos para el caso de los predios urbanos en el que se ocupen más de un día de trabajo de deslinde.
 
-2. Certificado deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los Municipios de Othón P. Blanco, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 SMG.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PUNTO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-3. Certificado deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres y Solidaridad, se cobrará 40.00 SMG.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+2. Certificado deslinde (sic) de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PUNTO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+3. Certificado deslinde (sic) de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 SMG.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6683,9 +7341,9 @@ XIII.- Por dictámenes técnicos en agrimensura o planimetría, se aplicarán la
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO IX. EXPEDICION DE CONSTANCIA DE COMPATIBILIDAD URBANISTICA
+### CAPITULO VIII. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 181.
 
@@ -6693,69 +7351,77 @@ Por la verificación, control y fiscalización que las leyes en la materia encom
 
 Las dependencias y organismos auxiliares de la administración pública estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina recaudadora autorizada por la Secretaría de Hacienda del Estado, quien a su vez registrará el 50% de todo lo recaudado por ese concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la obra pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría de Hacienda al Órgano Superior de Fiscalización del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO X. HOSPITALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO IX. DE LA CONSTANCIA DE COMPATIBILIDAD URBANISTICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 182.
 
-Por el otorgamiento de la constancia de compatibilidad urbanística, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con lo siguiente:
+Por la expedición de la constancia de compatibilidad urbanística estatal con una vigencia de tres años, a que se refieren los artículos 81 y 82 de la Ley de Asentamientos Humanos, se causará un derecho de conformidad con la siguiente:
 
-I.- En caso de fraccionamiento de tipo habitacional, hotelero, comercial, industrial, granjas de explotación agropecuaria y demás aprovechamientos y usos, se cobrará el 0.5 % sobre el monto total de las obras de urbanización
+I.- En caso de fraccionamiento de tipo habitacional, hotelero, comercial, industrial, funerario, granjas de explotación agropecuaria, y demás aprovechamientos y usos, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- 10 S.M.G. Por fracción resultante para el caso de ser una subdivisión en predio menor de 10,000mt2 en tres fracciones o más; y para el caso de subdivisión de un predio cuya superficie original sea mayor a 10,000mt2 se cobrará 12 S.M.G. por fracción resultante;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+III.- Para el régimen de propiedad en condominio por cada unidad privativa asignada, 16 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social; 24 S.M.G. en el caso de desarrollos habitacionales tipo medio, 48 S.M.G. para tipo residencial y 52 S.M.G. por cada unidad comercial. De igual manera, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
 
-II.- 8 S.M.G. para el caso de ser una subdivisión menor de 10,000 mt2 en tres fracciones y 6 S.M.G. por fracción resultante adicional y para el caso de subdivisión de un predio cuya superficie original sea mayor a 10,000 mt2 se cobrará 6 S.M.G. por fracción resultante.
+IV.- Para centros comerciales y/o locales, plazas con uso comercial y oficinas y centrales de abasto, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V.- Para las centrales camioneras y de carga, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+VI.- Para proyectos de industrias, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
 
-III.- Para el régimen de propiedad en condominio por cada unidad privativa asignada, 8 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social. Y 20 S.M.G. para tipo residencial. De igual manera, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos habitacionales.
+VII.- Para proyectos de hospitales y centros médicos, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+VIII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
 
-IV.- Para la renovación de las Constancias de Compatibilidad Urbanística Estatal, para los siguientes conceptos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a).- Para fraccionamientos, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización que falten por ejecutarse.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 182
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+BIS.- Por la autorización de prórroga de la constancia de compatibilidad urbanística estatal de conformidad al artículo 84 último párrafo de la Ley de Asentamientos Humanos, para los siguientes conceptos:
 
-b).- Por régimen de propiedad en condominio, se cobrarán 8 S.M.G en el caso de desarrollos
+a) Para fraccionamientos, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización del desarrollo que falten por ejecutarse.
 
-habitacionales de interés social y 20 S.M.G. para tipo residencial. De igual manera, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos habitacionales.
+b) Por régimen de propiedad en condominio, se cobrará por cada unidad privativa asignada que falte por ejecutarse 16 S.M.G. en el caso de desarrollos habitacionales de interés social, 24 S.M.G. en el caso de desarrollos habitacionales tipo medio, 48 S.M.G. para tipo residencial y 52 S.M.G. por cada unidad comercial; de igual manera se cobrara el 0.5% sobre el monto total de las obras de urbanización que falten de ejecutar.
 
-c).- Por Régimen de propiedad en condominio con vialidades intermedias dentro del predio, se cobrarán el 0.5% del monto total del presupuesto únicamente de las obras de urbanización o de introducción de servicios que falten por ejecutar.
+c) Por régimen de propiedad en condominio con vialidades intermedias dentro del predio, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización o de introducción de servicios que falten por ejecutar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+d) Para centros comerciales y/o locales, plazas con uso comercial, oficinas y centrales de abasto, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+e) Para centrales camioneras y de carga, de 0.5 S.M.G. hasta 2 S.M.G. por cada metro cuadrado, de la superficie del terreno.
 
-V.- Para centros comerciales y/o locales, plazas con uso comercial y oficinas y centrales de abasto. 25 S.M.G.
+f) Para proyectos de industrias, de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+g) Para proyectos de hospitales y centros médicos. De 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
 
-VI.- Para centrales camioneras y de carga 25 S.M.G.
+h) Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.5 S.M.G. hasta 2 S.M.G. por metro cuadrado de la superficie del terreno.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Para proyectos de industrias 25 S.M.G.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 182
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+TER.- Por la autorización de modificación de proyecto de la constancia de compatibilidad urbanística, se cobrará 40 S.M.G. este derecho será adicional de las unidades privativas que se incrementen y el 0.5% de las obras de urbanización que falten por ejecutarse, en el caso de que aun este vigente la constancia que haya sido expedida en su momento de conformidad al artículo 182 de la presente Ley.
 
-VIII.- Cobro por modificación de Constancias de Compatibilidad Urbanística 20 S.M.G. adicionalmente a los incisos a), b) y c) de la fracción IV del presente artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO XI. SERVICIOS OTORGADOS POR LAS AUTORIDADES DE SERVICIOS ESTATALES DE SALUD
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 182
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+QUATER.- Por reposición de la constancia de compatibilidad urbanística, se cobrará 40 S.M.G.
+
+### CAPITULO X. HOSPITALES
 
 ###### ARTICULO 183.
 
@@ -6783,9 +7449,11 @@ BIS.- Los servicios médicos asistenciales que se otorguen a la población abier
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
+### CAPITULO XI. SERVICIOS OTORGADOS POR LAS AUTORIDADES DE SERVICIOS ESTATALES DE SALUD
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 184.
 
@@ -6799,7 +7467,11 @@ I.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
 II.- Por expedición o reposición de certificados médicos para manejadores de alimentos y/o bebidas:
 
-a).- En el Municipio de Othon P. Blanco 1.83 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+a).- En los municipios de Othón P. Blanco y Bacalar 1.83 S.M.G.
 
 b).- En los Municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 S.M.G.
 
@@ -6895,7 +7567,11 @@ a).- Con cupo de hasta 10 pasajeros 10 S.M.G.
 
 b).- Con cupo de más de 10 y hasta 100 pasajeros 20 S.M.G.
 
-c).- Con cupo de más de 100 pasajeros 30 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+c).- Con cupo de más de 100 pasajeros 80 S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6915,7 +7591,11 @@ VI.- Guía sanitaria por embarque 2 al millar ad valoren.
 
 VII.- Verificación sanitaria solicitada:
 
-a).- En el Municipio de Othón P. Blanco 6.00 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+a).- En los municipios de Othón P. Blanco y Bacalar 6.00 S.M.G
 
 b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 4.00 S.M.G.
 
@@ -6933,7 +7613,11 @@ VIII.- Por desinfección desinfectación 8.00 S.M.G.
 
 IX.- Por reposición o expedición extemporánea de aviso de funcionamiento de salubridad local:
 
-a).- En el Municipio de Othón P. Blanco 3.00 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+a).- En los municipios de Othón P. Blanco y Bacalar 3.00 S.M.G
 
 b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 2.00 S.M.G.
 
@@ -7005,9 +7689,9 @@ XIX.- Descompresión por hora 21.17 S.M.G.
 
 XX.- En cualquier otro servicio no especificado de 1.00 a 10.00 S.M.G.
 
-### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
+### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 185.
 
@@ -7039,9 +7723,9 @@ V.- Por certificación de otros actos 1.15 S.M.G.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
-### CAPITULO XIII-A. DEL REGISTRO CIVIL
+### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 188.
 
@@ -7121,13 +7805,17 @@ a).- Por la primera hoja 0.5 S.M.G.
 
 b).- Por cada hoja excedente 0.06 S.M.G.
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Por apostillamiento de documentos diversos. 2.08 S.M.G.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Por apostillamiento de documentos diversos. 4 veces el S.M.G.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO XIV. REGISTRO DE TITULOS PROFESIONALES
+### CAPITULO XIII-A. DEL REGISTRO CIVIL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 188-A.
 
@@ -7277,7 +7965,7 @@ III.- Los certificados de supervivencia expedidos a los pensionistas de los Gobi
 
 Los derechos a que se refiere este capítulo, incluyendo la búsqueda de los documentos se pagarán en las Oficinas Recaudadoras de Rentas del estado, previamente a la prestación del servicio de que se trate.
 
-### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
+### CAPITULO XIV. REGISTRO DE TITULOS PROFESIONALES
 
 ###### ARTICULO 192.
 
@@ -7299,7 +7987,7 @@ III.- Los demás profesionales. 13.80 S.M.G.
 
 IV.- Peritos valuadores. 17.25 S.M.G.
 
-### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 193.
 
@@ -7409,431 +8097,59 @@ Por la instalación o reconección (sic) de tomas para derivar agua de las tuber
 
 El pago de estos derechos deberá hacerse previamente a la prestación del servicio de que se trate.
 
-### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE
+### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+#### SECCION PRIMERA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-#### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 201.
 
-Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos conforme a la siguiente:
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-TARIFA
-
-I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-II.- Por inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, sobre el valor:
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-a).- Si el monto es hasta 907 S.M.G. se aplicará 9.20 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-b) Si el valor es más de 907 S.M.G. se aplicará el 1% resultante.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-Lo anterior sin perjuicio de que si al aplicarse a la cantidad que excede de lo señalado en el inciso B, el 1.0%, resultará inferior a 9.2 veces el S.M.G. vigente en el Estado, se aplicará este último.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Por la inscripción de documentos donde conste la enajenación de terrenos otorgados por CORETT, INFOVIR; y la inscripción de títulos de propiedad a través de los cuales se haga constar la conversión a dominio pleno de parcelas ejidales y/o la enajenación de vivienda de interés social y popular, 4 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-Las adjudicaciones a título de disolución de copropiedad de bienes muebles e inmuebles, se pagará 12 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-Para efectos de esta fracción se consideran transmisión de bienes todos los supuestos considerados en el artículo 15-A del Código Fiscal del Estado.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-Cuando se trate de la constitución y/o ejecución de fideicomisos traslativos de dominio, se causarán derechos conforme a la fracción II de este artículo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Por la extinción de fideicomiso traslativo de dominio se deberá cobrar 5.75 S.M.G.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-El cobro de derechos por sustitución de fiduciario, fideicomisario, incremento de patrimonio de familia, será por 5.75 S.M.G.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Por la inscripción de instrumentos que traten herencia, disolución de la copropiedad, se pagará 17 S.M.G.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Por la inscripción de instrumentos que traten donación, copropiedad entre familiares en línea recta hasta segundo grado se pagará 17 S.M.G.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-III.- Por inscripción de la escritura constitutiva del régimen de la propiedad en condominio se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total del inmueble, en términos del Artículo 202 fracción I inciso b), de la ley de Hacienda Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Por modificación a la escritura del régimen de propiedad en condominio relativa a la ampliación en el número de unidades privativas se pagará de acuerdo a lo siguiente:
-
-a).- Por incorporación de lotes de terreno cuya superficie provocara el aumento de una sola unidad privativa, 12 S.M.G.
-
-b).- Cuando de la incorporación descrita en el inciso anterior se provoque el aumento en más de una unidad privativa, se pagará 6 S.M.G. a partir de la segunda y por cada una de ellas.
-
-c).- Por construcción de nuevas unidades privativas en la superficie del condominio o por la conversión de áreas comunes en unidades privativas, se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total de las nuevas unidades privativas, en términos del artículo 202 fracción I inciso b) de la Ley de Hacienda del Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Por la disolución del Régimen de Propiedad en Condominio, así como por las (sic) inscripción de las Actas de Asambleas Generales de Condóminos o sesiones de los Comités de Vigilancia, 12 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Por la inscripción de las Actas de Asambleas Generales de Condóminos en la cuales se otorguen poderes a excepción de los que se otorgue a los miembros de los comités de vigilancia, independientemente del derecho fijado en el párrafo anterior, 5.75 S.M.G. si se designa un solo apoderado y 2.88 S.M.G. por cada apoderado más que se designe.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-IV.- La inscripción de la escritura constitutiva y de los aumentos de capital de sociedades, por el importe del capital o de los aumentos del mismo.......................... 11.50 S.M.G.
-
-Tratándose de escrituras de Instituciones de Beneficencia .....5.75 S.M.G.
-
-La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan al capital y solo sean consecuencia legal de contratos que causaron derechos de registro y que se otorguen por las mismas partes que figuren en la misma escritura, sin aumentar el capital ni transferir los derechos.............................................................. 5.75 S.M.G.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-V.- La inscripción de cualquier modificación a la escritura constitutiva de sociedades civiles, excepto la disminución de capital social, 5.75 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La inscripción de poderes y sustitución de los mismos
-
-a) Si se designa un solo apoderado, 5.75 S.M.G.
-
-b) Por cada apoderado más que se designe en el mismo poder, 2.88 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-El otorgamiento de poderes a los socios administradores de sociedades civiles en las escrituras constitutivas o modificaciones no causarán los derechos a que se refiere esta fracción.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La inscripción de revocación de poderes por cada apoderado, 2.88 S.M.G.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contratos, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los derechos reales sobre inmuebles, distintos del dominio, de embargos, cédulas hipotecarias, servidumbre y fianzas, se causarán derechos conforme a la fracción II de este artículo.
-
-Por la inscripción de gravámenes sobre bienes inmuebles derivados de créditos fiscales a favor de la Federación, Estado y Municipios, se pagará conforme a la siguiente:
-
-TARIFA
-
-A).- Cuando los actos a inscribir no tengan valor determinado o sea hasta de 906.98 salarios mínimos generales del área geográfica que corresponda. 9.20 S.M.G.
-
-B).- Cuando el valor de los actos a inscribir sea de más de 906.98 y hasta 1529.06 salarios mínimos generales del área geográfica que corresponda. 15 S.M.G.
-
-C).- Cuando el valor de los actos a inscribir sea de más de 1529.06 y hasta 3058.11 salarios mínimos generales del área geográfica que corresponda. 30 S.M.G.
-
-D).- Cuando el valor de los actos a inscribir sea de más de 3058.11 y hasta 15290.52 salarios mínimos generales del área geográfica que corresponda. 60 S.M.G.
-
-E).- Cuando el valor de los actos a inscribir sea de más de 15290.52 salarios mínimos generales del área geográfica que corresponda en adelante. 120 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Por la cancelación de estos derechos................. 5.75 S.M.G.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-VII.- La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, contrato de mutuo y reconocimientos de adeudo con garantía, hipotecaria otorgada por fideicomisos de garantía, instituciones de crédito y organismos auxiliares de crédito, 0.2875% sobre el monto del crédito.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-Por la inscripción de contratos modificatorios de reestructuración, reconocimiento de adeudo o rectificaciones a inscripciones principales, cuando se refiera a modificaciones del monto del adeudo, crédito u operación que se realiza o cualesquiera otra que constituya renovación del contrato, se pagará por concepto de derechos la cantidad que resulte de aplicar la tasa del 0.2875% a la diferencia entre la inscripción original y el nuevo contrato. Lo anterior sin perjuicio de que si al aplicarse esta tasa a la cantidad que exceda del crédito original, los derechos resultaren inferioriores (sic) a 9.2 veces el S.M.G. vigente en el Estado se cubrirá este último monto. Cuando no exista diferencia se cubrirá el equivalente a 5.75 S.M.G.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La inscripción de créditos con garantía hipotecaria y contratos de mutuo con garantía hipotecaria, otorgados por el ISSSTE, IMSS, INFOVIR, FOVI, FONHAPO, CORETT, BANOBRAS, ISFAN INFONAVIT y FOVISSSTE siempre y cuando sean destinados para la adquisición de vivienda de interés social o popular, 8.05 S.M.G.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Por la inscripción de la dación en pago derivada de un crédito hipotecario para la construcción o adquisición de una vivienda de interés social o popular, 11.70 S.M.G.
-
-Por la cancelación de alguno de los conceptos a que se refiere esta fracción, causarán derechos de:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- Cuando el valor de la hipoteca no exceda de 5,000.00..... 5.75 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- Cuando exceda de $ 5,000.01............ 9.20 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-c).- Cuando el gravamen se trate de la vivienda de interés social o popular de construcción reciente............ 2.30 S.M.G.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Por la inscripción de la dación en pago derivada de un crédito, se deberá pagar 20 S.M.G.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VIII.- La inscripción de las demandas, el 50% de las cuotas que correspondan conforme a la fracción II del presente artículo.
-
-La anotación marginal de las demandas relativas a los juicios que se tramiten en las distintas instancias....... 5.75 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La anotación marginal de demanda a que se refieren los artículos 644-C, 644-F y 644-H del Código de Procedimientos Civiles del Estado de Quintana Roo, causará derechos sobre una tarifa del 1% sobre el valor total de las prestaciones líquidas descritas en la demanda inicial.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Por la cancelación de estos conceptos --- 5.75. S.M.G.
-
-IX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-X.- La inscripción de la constitución del patrimonio de familia y de las informaciones ad perpetuam, que no se refieran a la posesión de inmuebles, causarán los siguientes derechos: (REF. 99)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-a).- En los Municipios de Benito Juárez, Isla Mujeres, Cozumel y Solidaridad 10 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-b).- En los Municipios de Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos y Lázaro Cárdenas 5 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Por la cancelación de estos conceptos 5.75 S.M.G.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-XI.- La inscripción de testamentos y constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósitos y por la inscripción de las transmisiones a que haya lugar......................... 8.05 S.M.G.
-
-XII.- Tratándose de bienes muebles, la inscripción de la condición resolutoria en los casos de venta, dé pacto de reserva de la propiedad, de la prenda en general, de la prenda de frutos pendientes y de la prenda de títulos de crédito, el 75 % de los derechos que señala la fracción II.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Por la cancelación de estos conceptos.............. 5.75 S.M.G.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIII.- La inscripción de fraccionamiento de terrenos o subdivisión de inmuebles:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- Cuando el número de lotes no exceda de 5.......... 1.15 S.M.G
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- De 6 a 50 lotes........................ 8.05 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-c).- Por cada lote de los que excedan de 50........... 1.73 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-d).- Cuando los bienes inmuebles que se lotifican sean destinados a la vivienda de interés social y popular, se pagarán el 50% de los derechos de registro a que se refieren los incisos a), b) y c) citados anteriormente.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-La inscripción de fusión de lotes:
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- Cuando no excedan de 5 lotes que se fusionan......... 1.15 S.M.G.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- De 6 a 50 lotes....................... 8.05 S.M.G.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-c).- Por cada lote que exceda de 50.............. 1.73 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-d).- Cuando los bienes inmuebles que se fusionan sean destinados a la vivienda de interés social y popular, se pagarán el 50% de los derechos de registro a que se refieren los incisos a), b) y c) citados con anterioridad.
-
-XIV.- El depósito de testamentos ológrafos:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- Si se hace en la oficina de registros............... 6.33 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- Si se hace fuera de la oficina del registro............. 7.48 S.M.G.
-
-Cuando el depósito se haga fuera de las horas de oficina se aumentara un 100 %.
-
-XV.- La ratificación de documentos privados ante el registrador en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- De $ 2,000.00 hasta $ 15,000.00.......... 4.60 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- De más de $ 15,000.00.................. 5.75 S.M.G.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-XVI.- La cancelación del registro de sociedades civiles por extinción de las mismas.................... 5.75 S.M.G.
-
-Tratándose de instituciones de beneficencia privada............... 2.88 S.M.G.
-
-XVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-XVIII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-XIX.- La búsqueda que se realice a través del Programa Informático para la expedición de constancias de no propiedad y propiedad, por cada nombre buscado 5.75 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La expedición de certificados de libertad o existencia de gravamen 5.75 S.M.G. (REF. 96), por cada inmueble a que se refiera.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-XX.- La expedición de copias certificadas relativas a las inscripciones que obran en el Programa Informático, causarán los derechos conforme a lo siguiente:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- Por la primera hoja.............. 4.03 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- Por cada hoja excedente............. 1.73 S.M.G.
-
-XXI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-XXII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXIII.- Por la inscripción de los contratos de arrendamiento, contratos de comodato o cualquier otro que tenga por objeto el préstamo de uso de inmuebles, por cada uno:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-a).- De casa-habitación hasta............. 11.50 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-b).- De locales comerciales, industriales o de servicios hasta 34.50 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-c).- De arrendamiento financiero 34.50 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-d).- De tiempos compartidos 34.50 S.M.G.
-
-XXIV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-XXV.- Anotaciones relativas a inscripciones principales.......... 5.75 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXVI.- La inscripción de fideicomisos de administración causará derechos conforme a la tarifa establecida en la fracción II.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXVII.- Por la anotación marginal que se realiza respecto a la compraventa con gravamen 5.75 S.M.G.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-XXVIII.- Para la extinción del fideicomiso de administración se deberá cobrar 5.75 S.M.G.
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-XXIX.- Por los demás servicios no previstos en este artículo, 9.2 S.M.G.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 202.
 
-Para el cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas, en los casos a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX, XII, XV, XVI, XVII, XVIII, del artículo anterior en sus respectivos casos:
-
-a).- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2003)</small>
-
-b).- Para la aplicación de la tasa a que se refiere la fracción II del artículo 201 de esta ley, será base para la determinación de los derechos a pagar, el valor mayor entre el avalúo catastral, el avalúo bancario, el avalúo de un perito autorizado por la Comisión Nacional Bancaria y de Valores o el avalúo practicado por personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública y que se encuentren inscritos en el Registro Estatal de Peritos Valuadores y la cantidad que resulte de actualizar el precio pactado de los bienes aplicando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquél en que se otorga el servicio, entre el índice del mes anterior al que se efectuó la operación;
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-Las autoridades fiscales estarán facultadas para practicar u ordenar un avalúo, y cuando el valor de dicho avalúo exceda en más de un 10% al valor mayor entre los previstos en el párrafo anterior, se tomará en cuenta el practicado u ordenado por las autoridades. En el caso de donaciones y sucesiones, la base será el valor determinado por el avalúo catastral.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-Los avalúos a que se refiere este inciso, tratándose de los catastrales, deberán estar vigentes conforme a la Ley de Catastro del Estado, y los bancarios y de peritos autorizados tendrán una vigencia no mayor a seis meses.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-Tratándose de vivienda de interés social, será base para la determinación de los derechos a pagar, el precio pactado al momento de adquirir la vivienda, actualizado en los términos señalados anteriormente.
-
-Para los efectos de esta ley se considera:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La Vivienda de Interés Social es aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 al salario mínimo general elevado al año, vigente en el Estado y además no exceda de 55 metros cuadrados de construcción y la superficie del terreno no exceda de 200 metros cuadrados.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La Vivienda Popular es aquella cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el Estado y además no exceda de 55 metros cuadrados de construcción y la superficie del terreno no exceda de 200 metros cuadrados.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Se entiende por vivienda reciente aquella que no pasa de seis meses de concluida su construcción.
-
-c).- En los contratos de garantía, en los embargos u otros gravámenes, el monto de las obligaciones garantizadas.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-d).- Cuando la base para la determinación de los derechos a pagar esté considerada en moneda extranjera, para la conversión en Moneda Nacional se considerará el tipo de cambio a que se haya adquirido la moneda extranjera de que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día anterior a aquél en que se presta el servicio.
-
-II.- En toda transmisión de bienes o derechos reales que se realicen por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagarán sobre el valor de cada uno de ellos. Si en la transmisión se comprenden varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos.
-
-III.- En las operaciones sobre bienes inmuebles, sujetas a condición suspensiva, resolutoria, reserva de propiedad o cualquiera otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de los que correspondería con arreglo a la fracción II del artículo que antecede, y al practicarse la inscripción complementaria se cubrirá el 25% restante.
-
-IV.- Para la aplicación de las tasas de la fracción II del artículo anterior, en su caso, la nuda propiedad se valuará en el 75% del precio del inmueble y el usufructo en el 25% del mismo.
-
-V.- La expedición de certificados o certificaciones que se soliciten con el carácter de urgentes, causarán el doble de las cuotas correspondientes que señala la tarifa del artículo anterior.
-
-VI.- Cuando se trate de contratos o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en las sumas de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte haciéndose el cómputo por un año.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-VII.- El personal adscrito al Registro Público de la Propiedad y del Comercio, verificará en base a lo dispuesto por esta Ley, que el monto a pagar por los servicios que preste esa dependencia, sea el correcto.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Los Notarios Públicos anexarán al formato de declaración de pago de derechos, copia del instrumento del avalúo que fue la base para la determinación del derecho y cédula catastral actualizada o avalúo catastral.
-
-VIII.- Los certificados, inscripciones y demás servicios que se soliciten por las autoridades fiscales del Estado, causarán los derechos que correspondan conforme a las disposiciones de este artículo y el anterior, pero éstos se harán efectivos dentro del procedimiento administrativo de ejecución, como parte del crédito fiscal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 203.
 
-No se causarán los derechos a que se refiere el artículo 201 de esta Ley.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Cuando se trate de inscripciones relativas a la traslación de dominio de bienes inmuebles, o derechos reales realizadas a favor de la Nación, al Gobierno del Estado, a los otros Estados en caso de reciprocidad y los Municipios, si dichas entidades lo solicitan ante la Secretaría de Hacienda del Estado.
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-II.- Los informes o certificaciones que soliciten las entidades a que se refiere la fracción anterior, para fines que no sean fiscales.
+###### ARTICULO 203
 
-#### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
+BIS.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+a) Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, se cobrará 65 S.M.G. por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 S.M.G. por cada foja que contenga el documento incluyendo sus anexos.
+
+b) Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente, se cobrará 65 S.M.G. por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 S.M.G. por cada foja que contenga el documento incluyendo sus anexos.
+
+c) Por solicitud de trámite de extinción o cancelación de asientos registrales que no sea a consecuencia de un documento inscribible o anotable, por cada acto o negocio jurídico que se pretenda afectar dentro de cada folio 30 S.M.G.
+
+d) Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días 12 S.M.G.
+
+e) Por la expedición de copias certificadas relativas a los actos que obren en el programa informático se cobrará por hoja 2 S.M.G.
+
+f) Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio, se cobrará por cada uno de ellos 5 S.M.G.
+
+Para la aplicación del presente inciso, el solicitante deberá especificar la forma en que requiera el certificado, ya sea por nombre en el que se certificará los folios que reporte el sistema por dicho nombre; o bien ya sea por folio, en el que se certificará los actos que reporte el sistema por dicho folio.
+
+g) Por expedición de constancias de asiento registral por folio 5 S.M.G.
+
+h) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5 S.M.G.
+
+Para el pago de los 0.20 S.M.G. por cada foja a que se refieren los incisos a) y b) del presente artículo, en el supuesto que un mismo documento presentado contenga actos de los inscribibles y de los anotables, sólo una vez se pagará este importe por dicho documento.
+
+#### SECCION SEGUNDA. DEL REGISTRO PUBLICO DEL COMERCIO
 
 ###### ARTICULO 204.
 
@@ -7993,41 +8309,97 @@ V.- Los contratos en que se pacten prestaciones periódicas, se valuarán en la 
 
 VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO XVIII. DE LAS INFRACCIONES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE ECOLOGIA Y MEDIO AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 206.
 
 Por cada verificación vehicular, que deberá efectuarse sobre la emisión de contaminantes generados por los vehículos automotor, su propietario o poseedor deberá pagar los derechos, conforme a las siguientes cuotas:
 
-I.- Una verificación cada semestre a vehículos de uso intensivo con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible, incluyendo motocicletas: 4.0 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Una verificación anual a vehículos de uso particular con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible incluyendo motocicletas: 4.0 S.M.G.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+I.- Por verificación anual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
+
+a) Holograma Cero “0” 4 S.M.G.
+
+b) Holograma dos “2” 4 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+II.- Por verificación bianual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
+
+a) Holograma doble cero “00” 10 S.M.G.
 
 III.- Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.0 S.M.G.
 
 El pago de los derechos a que se refiere este artículo, deberá realizarse de acuerdo a lo establecido en el Programa de Verificación Vehicular para el estado de Quintana Roo y Reglamento en Materia de Prevención y Control de la Contaminación Ambiental.
 
-Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, constancia sobre los resultados de la verificación del vehículo debidamente sellado y marcado por el centro de verificación vehicular autorizado por la Secretaría de Desarrollo Urbano y Medio Ambiente, a fin de que sea realizado el trámite de revalidación de vigencia de la matrícula vehicular.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 250 S.M.G.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-V.- El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 2,000 S.M.G.
+Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, constancia sobre los resultados de la verificación del vehículo debidamente sellado y marcado por el centro de verificación vehicular autorizado por la Secretaría de Ecología y Medio Ambiente, a fin de que sea realizado el trámite de revalidación de vigencia de la matrícula vehicular.
 
-VI.- El costo para obtener el refrendo anual para la operación del centro dé verificación vehicular concesionado será de: 800 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- El costo para obtener la calcomanía y su constancia de baja emisión de contaminantes será de.0.60 S.M.G.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-VIII.- El costo para obtener la Hoja de Rechazo será de 0.50 S.M.G.
+IV.- El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 500 S.M.G.
 
-Únicamente los concesionarios de los centros de verificación vehicular autorizados por la Secretaría de Desarrollo Urbano y Medio Ambiente en el Estado de Quintana Roo, podrán obtener dichas Hojas de rechazo y calcomanías con sus respectivas constancias de baja emisión de contaminantes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+V.- El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 3,500 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VI.- El costo para obtener el refrendo anual para la operación del centro de verificación vehicular concesionado será de: 1,800 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VII.- El costo para obtener la calcomanía y su constancia de baja emisión de contaminantes será:
+
+a) Holograma Doble Cero “00”: 5.0 S.M.G.
+
+b) Holograma Cero “0”: 2.0 S.M.G.
+
+c) Holograma Dos “2”: 2.0 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VIII.- El costo para obtener la hoja de rechazo será de 1.00 S.M.G.
+
+Únicamente los concesionarios de los centros de verificación vehicular autorizados por la Secretaría de Ecología y Medio Ambiente en el Estado de Quintana Roo, podrán obtener dichas hojas de rechazo y calcomanías con sus respectivas constancias de baja emisión de contaminantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IX.- El costo por autorización en el incremento de cada línea de verificación Vehicular en los Centros de Verificación Vehicular autorizados será de 500 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 206
 
-BIS.- Por los servicios que en materia de impacto ambiental presta la Secretaría de Desarrollo Urbano y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+BIS.- Por los servicios que en materia de impacto ambiental, presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
 
 TARIFA
 
@@ -8039,7 +8411,9 @@ b).- Manifestación de impacto ambiental que identifique los impactos negativos 
 
 c).- Informe preventivo. 150 S.M.G.
 
-d).- Estudios de riesgo 120 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+d).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
 e).- Aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental y/o informe preventivo. 80 S.M.G.
 
@@ -8063,11 +8437,13 @@ f).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia 
 
 g).- Por concepto de verificación e inspección de áreas, predios y obras: 60 S.M.G.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 206
 
-TER.- Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Desarrollo Urbano y Medio Ambiente, conforme al reglamento en la materia, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+TER.- Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Ecología y Medio Ambiente, conforme al reglamento en la materia, las personas físicas y morales pagaran un derecho conforme a la siguiente:
 
 TARIFA
 
@@ -8079,15 +8455,41 @@ b).- Auditorias ambientales: 440 S.M.G.
 
 c).- Aclaraciones, rectificaciones o ampliaciones al contenido de los estudios de emisiones a la atmósfera y auditorias ambientales: 80 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+d).- Estudios de Riesgo 150 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+e).- Programa de Prevención de Accidentes 130 S.M.G.
+
 II.- Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
 
-a).- Expedición anual del permiso por vehículo automotor para el transporte de Aguas Residuales y Aguas Residuales Tratadas: 25 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b).- Disposición final y tratamiento por metro cúbico de Agua Residual en las Plantas de Tratamiento de Aguas Residuales operadas por el Gobierno del Estado a través de su organismo operador o sistemas concesionados: 0.10 S.M.G.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-c).- Expedición anual del permiso por vehículo automotor para el transporte de sustancias contenidas dentro del Listado de Actividades Riesgosas para el Estado de Quintana Roo: 50 S.M.G.
+a).- Expedición anual del permiso por vehículo automotor para el transporte de Aguas Residuales Tratadas: 70 S.M.G.
 
-d).- Expedición anual del permiso por vehículo automotor para el transporte de Materiales y Residuos Peligrosos de Competencia Estatal: 50 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+b).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+c).- Expedición anual del permiso por vehículo automotor para el transporte de sustancias contenidas dentro del Listado de Actividades Riesgosas para el Estado de Quintana Roo: 120 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+d).- Expedición anual del permiso por vehículo automotor para el transporte de Materiales y Residuos Peligrosos de Competencia Estatal: 100 S.M.G.
 
 e).- Expedición de la exención de la presentación de los estudios de emisiones a la atmósfera: 100 S.M.G.
 
@@ -8101,19 +8503,65 @@ g).- Inscripción al Curso de Capacitación en Materia de Prevención y Control 
 
 3.- Contaminación del Aire y Control: 50 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+4.- Riesgo Ambiental y Programas de Prevención de Accidentes: 60 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+5.- Manejo de Materiales y Residuos Peligrosos: 60 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+6.- Auditoría Ambiental: 80 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+7.- Llenado de la Licencia de Funcionamiento Ambiental y Cédula de Desempeño Ambiental: 10 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+g) (sic).- Capacidad de carga por metro cúbico del vehículo automotor para obtener el permiso para el transporte de Aguas Residuales y Aguas Residuales Tratadas: 1.0 S.M.G.
+
 h).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de Prevención y Control de la Contaminación Ambiental del Gobierno del Estado de Quintana Roo: 150 S.M.G.
 
-i).- Por concepto de verificación e inspección de las instalaciones de las fuentes fijas de competencia estatal: 60. S.M.G
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-j).- Por concepto de autorización de la licencia de funcionamiento ambiental (LFA): 150 S.M.G.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-k).- Por concepto de Refrendo de lo Licencia de Funcionamiento Ambiental (LFA): 50 S.M.G.
+i).- Por concepto de verificación de las instalaciones de las Fuentes Fijas de Competencia Estatal: 60 S.M.G
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+j).- Por concepto de Autorización de Licencia de Funcionamiento Ambiental (LFA): 240 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+k).- Por concepto de Refrendo de la Licencia Ambiental (LFA): 120 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 206
 
-QUÁTER.- Por el concepto de cobro por ingreso y servicios en las Áreas Naturales Protegidas Estatales (ANP`s) que presta la Secretaría de Desarrollo Urbano y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+QUATER.- Por el concepto de cobro por ingreso y servicios en las Áreas Naturales Protegidas Estatales (ANP`s) que presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 TARIFA
 
@@ -8125,19 +8573,41 @@ b).- Nacionales: 0.50 S.M.G.
 
 c).- Extranjeros: 1.0 S.M.G.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 Por concepto de estudios de investigación que se vayan a efectuar dentro de las ANP's por las instituciones académicas y de investigación, nacionales o extranjeras: 3 S.M.G.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 Por concepto de filmaciones y sesiones fotográficas con fines comerciales: 160 S.M.G.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 Por concesiones anuales a prestadores de servicios náuticos, acuático-recreativos, de ecoturismo de bajo impacto: 380 S.M.G.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 Por concesiones anuales a comerciantes de artesanías, manualidades, de alimentos y bebidas: 380 S.M.G.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
 Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
-### CAPITULO XVIII A. DE LA PRESTACION DE SEGURIDAD PUBLICA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 206
+
+QUINQUIES.- Por los servicios de regulación que en materia de residuos sólidos, presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+
+TARIFA
+
+I.- Por registro y autorización de planes de manejo de residuos: 100 S.M.G.
+
+II.- Por refrendo del registro y autorización de planes de manejo de residuos: 50 S.M.G.
+
+### CAPITULO XVIII. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 207.
 
@@ -8145,25 +8615,27 @@ Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION
+### CAPITULO XVIII A. DE LA PRESTACION DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. TALLERES DE GOBIERNO
+#### SECCION PRIMERA. PRESTACION DE SEGURIDAD PUBLICA A PARTICULARES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 207-A.
 
 Las persona físicas y las empresas mexicanos, debidamente constituidas conforme a las leyes, que presten servicios de vigilancia en áreas de propiedad particular, tales como hoteles, centros comerciales, bancos, industrias, fábricas, fraccionamientos, casas habitación y similares, tanto para su seguridad interior, como para el traslado de valores objetos y personas; así como las actividades relacionadas con éstas, deberán solicitar su registro y autorización correspondiente a la Dirección Jurídica de la Secretaría de Protección y Vialidad, en las formas y requisitos que para tal efecto establece el Reglamento de Vigilancia Privada en el Estado. Dentro del mes siguiente de aquel en que inicien sus operaciones.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-B.
 
-Por el registro y autorización para su funcionamiento, se causará un derecho de 130 S.M.G.
+Por el registro y autorización para su funcionamiento, se causará un derecho de 180 S.M.G.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-Así mismo, deberán renovar su registro anualmente, dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición acreditando el pago de 90 S:MG: (sic)
+Asimismo, deberán renovar su registro anualmente, dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición, acreditando el pago de 180 S.M.G.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8173,7 +8645,9 @@ Los contribuyentes de este capítulo que no hayan solicitado su registro y autor
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
+#### SECCION SEGUNDA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA QUE PRESTA LA SECRETARIA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-D.
 
@@ -8205,17 +8679,19 @@ Las personas físicas o morales que requieran del Servicio Especial de Vigilanci
 
 Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requeridos por las personas físicas o morales y que su ejecución contribuya al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como protección a funcionarios y personas en general.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA] SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 207-H.
 
-Los derechos por los servicios que prestan la Secretaría de Educación y Cultura a través de los Servicios Educativos y Culturales, se pagarán conforme a la siguiente:
+Los derechos por los servicios que presta la Secretaría de Educación, se pagaran conforme a la siguiente:
 
 TARIFA
 
@@ -8343,9 +8819,9 @@ Los derechos de inspección y vigilancia por cada ciclo escolar o semestre, debe
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
+### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 207
 
@@ -8361,9 +8837,9 @@ II.- Por concepto de renovación de la inscripción: 10 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
+### CAPITULO XXI. DE LOS SERVICIOS DE LA DIRECCION GENERAL DE NOTARIAS
 
-ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 207-I.
 
@@ -8371,9 +8847,9 @@ Por llevar a cabo el control, vigilancia y evaluación de los recursos que se re
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
+### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
 
 ###### Artículo 207-J.
 
@@ -8427,9 +8903,9 @@ Por registro de patente de notario público pagará 75 S.M.G.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
+### CAPITULO XXIII. SERVICIOS QUE OTORGA LA SECRETARIA DE CULTURA
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 207-M.
 
@@ -8473,11 +8949,9 @@ Para el envío de documentos o de material que contenga información a través d
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
+### CAPITULO XXIV. DE LOS SERVICIOS QUE OTORGA LA SECRETARIA DE INFRESTRUCTURA (SIC) Y TRANSPORTE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 207-N.
 
@@ -8589,17 +9063,15 @@ d).- De la Ciudad 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
 
 Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de, pago los visitantes que residan en el Estado.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
 VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 Por inscripción Por mensualidad
 
-a).- De música Carrera: 2.50 S.M.G. Carrera: 2.50 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+a).- De música Carrera: 2.60 S.M.G. Carrera: 2.60 S.M.G.
 
 Taller: de 0.57 S.M.G. taller de 1.44 S.M.G.
 
@@ -8639,10 +9111,6 @@ por trimestre
 
 VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
 ZONA NORTE
 
 Por inscripción Por mensualidad
@@ -8660,6 +9128,12 @@ c).- En Tulum De 0.28 hasta De 0.28 hasta
 3.00 S.M.G. hasta 7.00 S.M.G.
 
 d).- En Kantunilkin EXENTO EXENTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+e).- En Holbox EXENTO EXENTO
 
 En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
@@ -8685,17 +9159,39 @@ d).- Felipe C. Puerto. EXENTO EXENTO
 
 e).- En Chunhuhub. EXENTO EXENTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+f).- Sabán. EXENTO EXENTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+g).- Nicolás Bravo. EXENTO EXENTO
+
 Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contemplar espacios disponibles de manera gratuita a favor de personas mexicanas que residan en el Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultura de la Ciudad de Cancún de 2.64 S.M.G. hasta 26.64 S.M.G.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO UNICO
 
 ###### Artículo 207-O.
 
@@ -8715,7 +9211,11 @@ III.- Por la expedición de copias certificadas, independientemente del número 
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+### CAPITULO XXVII. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE HACIENDA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 207-P.
 
@@ -8727,33 +9227,63 @@ a).- Por inscripción y refrendo
 
 en el registro 25.00 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO XXVIII. DE LOS SERVICIOS PRESTADOS POR EL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 207-Q.
+
+Por los servicios que presta La Secretaría de Hacienda, se causarán los siguientes derechos:
+
+a) Por expedición de historial de pagos 2 veces el S.M.G.
+
+b) Por el registro de autorización para la apertura de casa de empeño o préstamo 130 S.M.G
+
+c) Por la renovación anual del registro de autorización para la apertura de casa de empeño o préstamo 110 S.M.G.
+
+d) Por modificaciones al registro de autorización para la apertura de casa de empeño o préstamo 110 S.M.G
+
+e) Por la búsqueda de registro vehicular en otras Entidades Federativas 2 S.M.G
+
+f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+###### ARTICULO 207-R.
+
+por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, se causará los siguientes derechos:
+
+a) Por la aplicación de evaluaciones integrales que incluyen la psicológica, médica, poligráfica, de entorno social, y toxicológica 26.70 veces el S.M.G. por persona.
+
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
 ### CAPITULO III. MULTAS
+
+#### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
+
+#### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
 
 ### CAPITULO V. DONACIONES DE PARTICULARES
 
-### CAPITULO VI. INGRESOS POR COORDINACION
-
-#### SECCION SEXTA. IMPRENTA DE GOBIERNO
-
-#### SECCION SEPTIMA. PUBLICACIONES OFICIALES
-
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
-
-### CAPITULO UNICO
-
 ## TITULO IV. DE LOS PRODUCTOS
 
-### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
+### CAPITULO VI. INGRESOS POR COORDINACION
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-#### SECCION OCTAVA
-
-POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
+#### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
 
 ###### ARTICULO 208.
 
@@ -8769,17 +9299,13 @@ Cuando el Gobierno del Estado sea poseedor de un derecho de explotación del Ser
 
 Dichas cuotas se enterarán por los usufructuarios directamente ante las Oficinas Recaudadoras de Rentas de la Secretaría de Hacienda del Estado.
 
-#### SECCION NOVENA. PRODUCTOS DIVERSOS
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+#### SECCION CUARTA. TALLERES DE GOBIERNO
 
 ###### ARTICULO 210.
 
 Todo ciudadano tiene derecho a solicitar sin perjuicio de terceros, que se le venda un lote de terreno del fundo legal de las poblaciones del Estado. El título definitivo se expedirá por el Gobierno del Estado una vez que el interesado haya llenado los requisitos que señalen las disposiciones reglamentarias respectivas y previo pago del valor que determine el avalúo que practique la Dirección de Catastro.
 
-#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
 ###### ARTICULO 211.
 
@@ -8875,37 +9401,69 @@ XIV. Publicaciones extraordinarias menor de 5 hojas 119.00 S.M.G.
 
 XV. Periódico de más de 200 hojas 9.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
-XVI. Certificación de periódicos agotados 1.00 S.M.G.
+XVI. Servicios notariales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+a) Licencias 42.00 S.M.G.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2010)</small>
+b) Designación de suplencias 42.00 S.M.G.
 
-XVII. Certificación de inexistencia de periódicos 1.00 S.M.G.
+c) Cambio de domicilio 32.00 S.M.G.
+
+d) Cambio de adscripción 53.00 S.M.G.
+
+e) Devolución de Fianza 32.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XVII. Certificación de periódicos agotados 1.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Certificación de inexistencia de periódicos 1.00 S.M.G.
 
 El pago de los productos anteriores se harán por adelantado en las oficinas recaudadoras de rentas del Estado.
+
+#### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 ###### ARTICULO 212.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
+#### SECCION SEPTIMA. PUBLICACIONES OFICIALES
+
 ###### ARTICULO 213.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
+#### SECCION OCTAVA
+
+POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
+
 ###### ARTICULO 214.
 
 Los trabajos realizados en la imprenta de Gobierno del Estado se cobrarán de acuerdo con las cuotas que fije la tarifa que expedira dicho Gobierno, la que surtira sus efectos lo mismo que las reformas que se hagan, 30 días después de su publicación en el Periódico Oficial de Estado.
+
+#### SECCION NOVENA. PRODUCTOS DIVERSOS
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 215.
 
 Las publicaciones editadas por el Gobierno del Estado se cobrarán de acuerdo a las cuotas que fije la tarifa que expedira dicho Gobierno, la que surtirá sus efectos, lo mismo que las reformas que se le hagan, 30 días después de su publicación en el Periódico Oficial del Estado.
 
 Cada ejemplar que se edite deberá contener el precio de venta.
+
+#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 216.
 
@@ -8931,9 +9489,11 @@ inclusive licencias de funcionamiento. 2.00 S.M.G.
 
 b).- Por formato de alta y baja de vehículos. 0.50 S.M.G.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c).- Por tarjeta de circulación. 0.25 S.M.G.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+c).- Por tarjeta de circulación. 0.50 S.M.G.
 
 d).- Por formatos en general. 0.0647 S.M.G.
 
@@ -8953,6 +9513,16 @@ Mayor de $10,000.00 a $ 20,000.00 hasta 60 S.M.G.
 
 Mayor de $20,000.00 en adelante hasta 100 S..M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+f).- Por formas impresas de:
+
+1.- Acta de registro formato único con esqueleto para los Municipios del Estado 0.3 S.M.G.
+
+2.- Copia certificada formato único sin esqueleto para los Municipios del Estado 0.3 S.M.G.
+
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 218
@@ -8961,9 +9531,7 @@ BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda p
 
 ## TITULO V. APROVECHAMIENTOS
 
-### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTICULO 219.
 
@@ -8973,8 +9541,6 @@ Los contribuyentes que no cumplan con las obligaciones fiscales establecidas por
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 ###### ARTICULO 220.
 
 Son rezagos los adeudos de impuestos, derechos y productos que pasen a nuevo año fiscal y debieron ser pagados en el que se causaron.
@@ -8983,15 +9549,27 @@ Son rezagos los adeudos de impuestos, derechos y productos que pasen a nuevo añ
 
 Los rezagos serán cubiertos en las oficinas que debieron pagarse los impuestos, derechos y/o productos de los cuales provengan.
 
+### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 222.
 
 Las multas se harán efectivas en los términos de las disposiciones legales que las establezcan.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 223.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 224.
 
@@ -9155,7 +9733,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE DICIEMBRE DE 1995.
 
@@ -9978,3 +10556,87 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se deroga toda disposición de menor o igual jerarquía que se oponga al presente Decreto.
 
 TERCERO. Se faculta al Ejecutivo del Estado a realizar, dentro del término de sesenta días naturales contados a partir de la vigencia del presente Decreto, todos los actos administrativos y presupuestales con el fin de que la Unidad de Servicios Especiales de Vigilancia, sea creada y entre en funcionamiento, así como a expedir los reglamentos administrativos necesarios.
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+PRIMERO. En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I.- IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II.- DERECHOS
+
+A) Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B) Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO. Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de afiliación y cobranza del Instituto Mexicano del Seguro Social.
+
+TERCERO. Para el Ejercicio Fiscal de 2012, los sujetos obligados al pago del Impuesto Sobre Uso o Tenencia Vehicular en términos del Capitulo XV de esta Ley que cubran el pago correspondiente por concepto de derechos de control vehicular, excepto tratándose de concesionarios que exploten el servicio de renta de vehículos sin chofer, se harán acreedores de un estimulo fiscal en el pago del impuesto conforme a lo siguiente:
+
+I.- Por el equivalente al 100% del impuesto, sin incluir accesorios, a los residentes del Estado de Quintana Roo que recaigan en los siguientes supuestos:
+
+a) A los que tengan al 31 de diciembre del ejercicio fiscal de 2011, placas vigentes del Estado de Quintana Roo y realicen el pago a que se refiere el párrafo primero del presente artículo dentro del periodo comprendido del 1o. de enero al 30 de junio.
+
+b) A los que adquieran vehículos nuevos dentro del territorio del Estado de Quintana Roo y hagan efectivo el presente estimulo fiscal acudiendo a las oficinas autorizadas a inscribirlo en el padrón Estatal Vehicular dentro del plazo señalado en el artículo 168-QUATER-E.
+
+II.- Por el equivalente al 50% del impuesto sin incluir accesorios, a los residentes del Estado de Quintana Roo que no se encuentren en los supuestos a que se refiere la fracción anterior, siempre que regularicen todas las obligaciones fiscales que el vehículo haya causado y realicen el pago a que se refiere el párrafo primero del presente artículo dentro del periodo comprendido del 1o. de enero al 30 de junio.
+
+Lo antes citado será aplicable, siempre y cuando cumplan los requisitos que establezca la Secretaria de Hacienda del Estado mediante reglas de carácter general.
+
+CUARTO. Se dejan sin efecto todas las disposiciones legales de que se opongan al presente decreto.
+
+QUINTO. El presente decreto entrará en vigor a partir del 1° de enero de 2012, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
