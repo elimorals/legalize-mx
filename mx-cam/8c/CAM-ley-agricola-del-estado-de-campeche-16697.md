@@ -4,7 +4,7 @@ identifier: "CAM-ley-agricola-del-estado-de-campeche-16697"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2000-06-26"
+last_updated: "2011-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY AGRICOLA DEL ESTADO DE CAMPECHE
 
-LEY AGRICOLA DEL ESTADO DE CAMPECHE
+LEY AGRÍCOLA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 26 de junio de 2000.
 
@@ -413,6 +413,10 @@ Los apoyos a los productores podrán ser a través de programas de financiamient
 
 La Secretaría y las organizaciones de productores agrícolas, promoverán la realización de ferias agrícolas y exposiciones de maquinaria y tecnología.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+En dichos eventos, se promoverá la educación para el desarrollo sustentable de la agricultura y la conservación de los recursos naturales.
+
 ### CAPÍTULO IV. DEL USO Y TRANSPORTACIÓN DE LA MAQUINARIA AGRÍCOLA
 
 ###### ARTÍCULO 50.
@@ -758,3 +762,11 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 22 de junio del 20
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintitrés días del mes de junio del año dos mil.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
