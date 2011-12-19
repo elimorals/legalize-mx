@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-equilibrio-ecologico-y-proteccion-al-45023"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-18"
-last_updated: "2005-05-18"
+last_updated: "2011-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL MUNICIPIO DE ALLENDE, N.L
 
-REGLAMENTO DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL MUNICIPIO DE ALLENDE, NUEVO LEON
+REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2005.
 
@@ -635,9 +635,15 @@ d) Crear conciencia ecológica dentro de la población que los motive a particip
 
 Las zonas del territorio donde el Municipio ejerza soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieran ser preservadas y restauradas, quedarán sujetas al régimen previsto por este reglamento y los demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 40.
 
-El Republicano Ayuntamiento a través de la Dirección de Ecología Municipal autorizará y supervisará el derribo transplante (sic) y poda de árboles en espacios públicos y privados condicionado ello a la reposición de la biomasa vegetal perdida. La reposición se hará compensando el área transversal promedio del tronco o rama derribado con la misma área transversal del tronco de árboles de una y media pulgada (1 ½ pulgada) de diámetro de tronco por dos metros de altura Dicha reposición deberá hacerse dando prioridad a la renovación en especies nativas o en su caso especies introducidas como fresno americano, fresno común, álamo sicomoro, álamo chino (CHINESE), considerando que una especie nativa equivale a cinco especies introducidas.
+El Republicano Ayuntamiento a través de la Dirección de Ecología Municipal autorizará y supervisará el derribo, trasplante y poda de árboles en espacios públicos y privados con la condición de reponer la biomasa vegetal perdida.
+
+I. La reposición se solicitará de acuerdo al diámetro del árbol derribado, por cada cinco pulgadas de diámetro se compensará un árbol de una y media pulgada (1 ½ pulgada) de diámetro.
+
+II. Dicha reposición deberá hacerse dando prioridad a la renovación en especies nativas o en su caso especies introducidas como fresno americano, fresno común, álamo sicomoro, álamo chino (CHINESE), considerando que una especie nativa equivale a cinco especies introducidas.
 
 ###### ARTICULO 41.
 
@@ -659,29 +665,39 @@ La Comisión de Regidores de Protección al Ambiente promoverá ante el R. Ayunt
 
 La Dirección de Ecología Municipal deberá de actualizar el censo de encinos robles en forma bianual.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 46.
 
-Queda prohibido realizar el desmonte en terrenos sin la autorización.
+Los propietarios de predios baldíos deberán de efectuar el desmonte, desyerbe o limpieza de su inmueble, retirando la rama, basura o escombro tres veces al año, a más tardar en los meses de marzo, julio y noviembre respectivamente.
 
-La Dirección de Ecología dictará los lineamientos para la ejecución reposición de la biomasa vegetal perdida como lo establece el artículo cuarenta (40) del presente reglamento así como dar cumplimiento a lo dispuesto por la Ley de Hacienda para los Municipios del Estado.
+Independientemente de las fechas señaladas en el párrafo anterior, la Dirección de Ecología podrá requerir en cualquier momento al propietario o poseedor del predio baldío, que realice la limpieza, desmonte y desyerbe de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
 
-En cuanto al desmonte o deshierbe de los predios. Las personas que realicen u ordenen la ejecución de acciones que afecten total o parcialmente la vegetación, se harán acreedores a la aplicación de sanciones administrativas en los términos correspondientes del presente reglamento.
+De no cumplirse con lo dispuesto en los dos párrafos anteriores, la Dirección de Ecología podrá por sí mismo o mediante contratación de terceros, efectuar el servicio de desmonte, desyerbe o limpieza del predio baldío. Según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 47.
 
-Corresponde a la Dirección de Ecología Municipal otorgar los permisos de derribo, poda o transplante (sic) de vegetales requerida por la ciudadanía.
-
-Para tramitar el permiso de derribo, transplante (sic) o poda de árboles, se establece lo siguiente:
+Corresponde a la Dirección de Ecología Municipal otorgar los permisos de derribo de vegetales requerida por la ciudadanía. Para tramitar el permiso de derribo de árboles, se establece lo siguiente:
 
 I. El interesado sea persona física o moral podrá tramitar ante la Dirección de Ecología la solicitud personal o telefónicamente, para lo cual se le solicitan los datos generales, ubicación del árbol y motivo de la solicitud.
 
 II. La Dirección de Ecología a través del personal de supervisión, ordenará una visita domiciliaria, elaborando un reporte técnico forestal para su evaluación.
 
-III. Dentro del término máximo a los 15 días de ingresada la solicitud se le informará al peticionante el resultado de la procedencia y lineamientos correspondientes.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+III. Dentro del término máximo a los 5 días de ingresada la solicitud se le informará al peticionante el resultado de la procedencia y lineamientos correspondientes.
 
 IV. El interesado deberá de compensar la biomasa vegetal perdida entregando a la Dirección de Ecología la cantidad de árboles requeridos en el permiso correspondiente, de acuerdo en lo establecido en el artículo 40 del presente reglamento.
 
-V. La Dirección de Ecología vigilará que el retiro y disposición de los desechos productos de la poda o de la tala se depositen en sitios autorizados.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+V. La Dirección de Ecología vigilará que el retiro y disposición de los desechos productos de la tala se depositen en sitios autorizados. Si el Municipio brinda el servicio de la recolección, el costo será de seis cuotas por metro cúbico.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
+VI. En caso de que el interesado sea afectado por ramas de árboles que se encuentren en alguna propiedad colindante, el interesado podrá realizar únicamente la poda de las ramas que pasen a su propiedad, sin tener que pedir autorización al colindante.
 
 ###### ARTICULO 48.
 
@@ -1363,17 +1379,19 @@ Cuando el riesgo de desequilibrio ecológico o casos de contaminación provengan
 
 ### CAPITULO VI. DE LAS SANCIONES EN MATERIA DE PROTECCIÓN AMBIENTAL
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 151.
 
-Las violaciones a lo dispuesto en el presente reglamento constituyen infracción y serán sancionadas por el R. Ayuntamiento, a través de la Dirección de Ecología Municipal, en base al Artículo 171 de la Ley General de Equilibrio Ecológico y Protección al Medio Ambiente y de la Ley Estatal en la materia, con una o mas de las siguientes sanciones.
+Las violaciones a lo dispuesto en el presente reglamento constituyen infracción y serán sancionadas por el R. Ayuntamiento, a través de la Dirección de Ecología Municipal, con base al Artículo 171 de la Ley General de Equilibrio Ecológico y Protección al Medio Ambiente y de la Ley Estatal en la materia, con una o más de las siguientes sanciones.
 
-a).- Multa equivalente de 20 (veinte) a 20,000 (veinte mil) días de salario mínimo general y vigente en el Municipio en el momento de la infracción.
+a. Multa equivalente de 20 (veinte) a 20,000 (veinte mil) días de salario mínimo general y vigente en el Municipio en el momento de la infracción y dependiendo del daño ocasionado el cual será valorado por la autoridad correspondiente, en este caso la Dirección de Ecología.
 
-b).- Clausura parcial o total, temporal o definitiva de las fuentes o actividades que originen deterioro ambiental cuando:
+b. Clausura parcial o total, temporal o definitiva de las fuentes o actividades que originen deterioro ambiental cuando:
 
 I. El infractor no ha cumplido en los plazos y condiciones impuestos para la autoridad, con las medidas correctivas o de urgente aplicación ordenada.
 
-II. Se trate de desobediencia reiterada, en tres o mas ocasiones al cumplimiento de los Lineamientos ambientales o medidas correctivas de urgente aplicación impuestas por la autoridad.
+II. Se trate de desobediencia reiterada, en tres o más ocasiones al cumplimiento de los Lineamientos ambientales o medidas correctivas de urgente aplicación impuestas por la autoridad.
 
 III. Durante la inspección las emisiones de contaminantes a la atmósfera se encuentran violando la normatividad y/o criterios ambientales vigentes.
 
@@ -1382,6 +1400,26 @@ IV. Arresto administrativo hasta por treinta y seis horas.
 V. Cuando la gravedad de la infracción lo amerite, se procederá a cancelar la licencia Municipal, para operar, funcionar o prestar servicios de las actividades del infractor.
 
 VI. En caso de reincidir, se podrá imponer hasta dos tantos de la multa.
+
+c. De acuerdo a lo que establece la Ley de Hacienda para los Municipios del Estado, la Dirección de Ecología le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia, a los propietarios de los predios baldíos según lo marca el artículo 46 del presente reglamento.
+
+d. La Dirección de Ecología podrá sancionar al Ciudadano que tenga alguna clase de accidente vial donde se vean dañados árboles parcial o totalmente que sean causa de su reposición.
+
+e. La Dirección de Ecología impondrá multas si el ciudadano realiza acciones anti ecológicas que afecten al medio ambiente y a la ciudadanía como son:
+
+I. Desperdicio de agua
+
+II. Tirar basura en la vía pública
+
+III. Quema de cualquier tipo de material
+
+IV. Realizar descargas de aguas residuales a la vía pública
+
+V. Tala de árboles sin autorización
+
+VI. Contaminación de agua de ríos y arroyos
+
+VII. Contaminación del suelo.
 
 ###### ARTICULO 152.
 
@@ -1580,3 +1618,9 @@ RUBRICA
 C. LUIS ENRIQUE SANTILLÁN CHÁVEZ
 
 Síndico Segundo
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2011.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
