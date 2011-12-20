@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-infraestructura-fisica-educativa-para-el-estado-de-73180
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-07"
-last_updated: "2009-07-07"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE INFRAESTRUCTURA FISICA EDUCATIVA PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE INFRAESTRUCTURA FISICA EDUCATIVA PARA EL ESTADO DE TAMAULIPAS
+LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 7 de julio de 2009.
 
@@ -89,9 +89,11 @@ II. Aquellas que contribuyan al desarrollo de actividades físicas, deportivas a
 
 III. Las complementarias que tengan por objeto contribuir a la seguridad, funcionalidad y crecimiento de las instituciones educativas.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 5.
 
-La aplicación y vigilancia del cumplimiento de esta ley corresponde a las autoridades educativas; los procesos constructivos, de supervisión y certificación de la infraestructura física educativa corresponden al Instituto.
+La aplicación y vigilancia del cumplimiento de esta ley corresponde a la Secretaría de Obras Públicas y a la Secretaría de Educación, en el ámbito de sus respectivas competencias; los procesos constructivos, de supervisión y certificación de la infraestructura física educativa corresponden al Instituto y a la Secretaría de Obras Públicas como coordinadora administrativa del mismo.
 
 ###### Artículo 6.
 
@@ -105,11 +107,21 @@ Para el mejor cumplimiento de los objetivos de esta ley, deberán observarse las
 
 I. El titular del Ejecutivo Estatal;
 
-II. El titular de la Secretaría de Educación en el Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-III. El Director General del Instituto; y
+II. El titular de la Secretaría de Obras Públicas;
 
-IV. Los Presidentes Municipales.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+III. El titular de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+IV. El Director General del Instituto; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+V. Los Presidentes Municipales.
 
 2. Para el mejor cumplimiento de los objetivos de esta ley, las autoridades a que se refiere el presente artículo deberán actuar bajo los principios de planeación democrática, coordinación interinstitucional y efectiva delegación de facultades.
 
@@ -369,15 +381,23 @@ III. El Organo de Vigilancia;
 
 2. La Junta de Gobierno se integra por:
 
-I. El Secretario de Educación;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-II. El Secretario de Finanzas;
+I. El Secretario de Obras Públicas;
 
-III. El Secretario de Administración;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-IV. El Secretario de Obras Públicas y Desarrollo Urbano;
+II. Secretario de Educación;
 
-V. El Coordinador General del Comité de Planeación para el Desarrollo del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+III. Secretario de Finanzas
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+IV. El Secretario de Administración;
+
+V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2011)
 
 VI. Un Diputado representante del H. Congreso del Estado, designado conforme a las normas que rigen la vida interior del Poder Legislativo;
 
@@ -387,7 +407,9 @@ VIII. El titular de la Dirección de Protección Civil; y
 
 IX. Un Representante del Instituto Nacional de Infraestructura Física Educativa.
 
-3. La presidencia de la Junta de Gobierno corresponde al titular de la Secretaría de Educación. Sus demás integrantes tienen el carácter de vocales.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+3. La presidencia de la Junta de Gobierno corresponde al titular de la Secretaría de Obras Públicas. Sus demás integrantes tienen el carácter de vocales.
 
 4. Los integrantes de la Junta de Gobierno nombrarán a su respectivo suplente, quien deberá desempeñar, al menos, un cargo de Director General o equivalente; en el caso de las fracciones I a la V del párrafo 2 de este artículo.
 
@@ -475,7 +497,9 @@ I. Asistir a las sesiones de la Junta de Gobierno con derecho a voz;
 
 II. Administrar y representar legalmente al Instituto, para lo cual tendrá poderes generales para actos de dominio, administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial para suscribir, endosar y negociar títulos de crédito, sustituirlos o revocarlos; para promover y desistirse del juicio de amparo, querellas y denuncias penales, y para actuar ante todas las autoridades laborales; estos poderes podrán ser otorgados total o parcialmente a favor de quien la Junta de Gobierno autorice, con base en la propuesta de quien sea titular de la Dirección General;
 
-III. Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Educación, los proyectos de iniciativas que favorezcan el desarrollo de la infraestructura física educativa;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+III. Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Obras Públicas, previa consulta con la Secretaría de Educación, los proyectos de iniciativas que favorezcan el desarrollo de la infraestructura física educativa;
 
 IV. Celebrar toda clase de actos jurídicos y otorgar documentos inherentes al objeto y funciones del Instituto;
 
@@ -642,3 +666,15 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciocho días del mes de diciembre del año dos mil ocho.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos indicados con las disposiciones que mediante el presente Decreto fueron reformadas, adicionadas o derogadas, deberán concluirse con la normatividad y conforme al procedimiento mediante las cuales fueron iniciados.
