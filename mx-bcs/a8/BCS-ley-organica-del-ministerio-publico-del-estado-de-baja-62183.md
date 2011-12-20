@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-62183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-07-08"
-last_updated: "2010-12-31"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
@@ -113,7 +113,9 @@ e).- Poner a disposición de la autoridad judicial, a las personas detenidas ret
 
 f).- Llevar a cabo el aseguramiento y tramitación del destino de los instrumentos, objetos y productos del delito, en los términos de las disposiciones legales aplicables, instrumentando un sistema de control de los objetos;
 
-g).- Restituir provisionalmente al ofendido en el goce de sus derechos, de oficio o a petición de éste cuando tales derechos estén acreditados y se hayan demostrado plenamente los elementos del cuerpo del delito de que se trate. La restitución ministerial no procederá cuando se trate de bienes inmuebles, sobre los cuales resolverá el órgano jurisdiccional sin perjuicio de que el Ministerio Público dicte las medidas necesarias para su conservación;
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+g).- Restituir provisionalmente al ofendido en el goce de sus derechos, de oficio o a petición de este cuando tales derechos estén acreditados y se hayan demostrado plenamente los elementos del cuerpo del delito de que se trate.
 
 h).- Garantizar a todo imputado los derechos contemplados por el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -429,7 +431,9 @@ Las relaciones que se generen entre los Subprocuradores serán de coordinación,
 
 El cargo de Subprocuradora de Atención a la Mujer y el Menor, deberá recaer invariablemente en una profesionista del sexo femenino.
 
-Artículo13.- Para ser Agente del Ministerio Público del Fuero Común, se requiere:
+###### Artículo 13.
+
+Para ser Agente del Ministerio Público del Fuero Común, se requiere:
 
 I.- Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -473,7 +477,7 @@ V.- Tener un modo honesto de vivir y gozar de buena reputación;
 
 VI.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme, en el desempeño de algún cargo como servidor público, en esta o en otra entidad federativa o en la Administración Publica Federal;
 
-VIl.- No consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, así como acreditar los exámenes de control de confianza a los que esta Ley se refiere;
+VII.- No consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, así como acreditar los exámenes de control de confianza a los que esta Ley se refiere;
 
 VIII.- No haber sido condenado por sentencia que haya causado ejecutoria como responsable de un delito doloso, o por delito culposo calificado como grave por la Ley, ni estar sujeto a proceso penal;
 
@@ -899,7 +903,7 @@ V.- Ejecutar las órdenes de aprehensión, los cateos y otros mandamientos que e
 
 VI.- Realizar la planeación estratégica de la Policía Ministerial, así como supervisar y evaluar los resultados de los operativos, a través de la revisión permanente de la información de acciones y hechos que se realicen en cada una de las comandancias;
 
-VIl.- Dirigir, supervisar y coordinar las actividades de las comandancias de la Policía Ministerial, distribuidas en el Estado;
+VII.- Dirigir, supervisar y coordinar las actividades de las comandancias de la Policía Ministerial, distribuidas en el Estado;
 
 VIII.- Orientar técnicamente el desarrollo de las actividades de la Policía Ministerial en el Estado;
 
@@ -1253,7 +1257,7 @@ I.- Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos civile
 
 II.- Ser Ciudadano Sudcaliforniano, con residencia efectiva en el Estado no menor de dos años anteriores a su designación;
 
-IIl.- Tener más de 28 años el día de su designación;
+III.- Tener más de 28 años el día de su designación;
 
 IV.- Tener Título legalmente expedido en Medicina, expedido por Institución legalmente facultado (sic) para ello, con cédula profesional, y tener como mínimo 3 años de ejercicio profesional;
 
@@ -1538,3 +1542,7 @@ B.O. 20 DE JULIO DE 2010.
 B.O. 31 DE DICIEMBRE DE 2010.
 
 UNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
