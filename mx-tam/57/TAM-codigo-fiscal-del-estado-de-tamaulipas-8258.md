@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2010-10-26"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FISCAL DEL ESTADO
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -1037,9 +1037,13 @@ La resolución del Tribunal que modifique la jurisprudencia se publicará igualm
 
 En los juicios que se tramiten ante el Tribunal Fiscal del Estado, no habrá lugar a condonación de costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan. Los honorarios del perito tercero serán pagados por las partes. Si los que correspondan sufragar al particular sea actor demandado o coadyuvante, no son cubiertos oportunamente, los pagará la Tesorería General del Estado y ésta exigirá el reembolso mediante el procedimiento administrativo de ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 206o.
 
-Toda promoción deberá ser firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que se aplicará el derecho común.
+Toda promoción deberá contener la firma autógrafa por quien la formule y sin este requisito se tendrá por no presentada, a menos que el promovente no sepa o no pueda firmar, caso en el que se aplicará el derecho común.
 
 Ante el Tribunal Fiscal no procederá la gestión de negocios. Quien promueva a nombre de otro deberá acreditar que la representación fue otorgada, a más tardar, en la fecha de presentación de la demanda.
 
@@ -1179,7 +1183,17 @@ VI.- Contra de ordenamientos que den normas o instrucciones de carácter general
 
 VII.- Cuando de las constancias de autos apareciera claramente que no existe la resolución o el acto impugnado.
 
-VIII.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las Leyes Fiscales Especiales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Cuando no se hagan valer conceptos de impugnación: y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+IX.- En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
 
 ###### ARTICULO 222.
 
@@ -1189,7 +1203,23 @@ I.- Cuando el demandante desista del juicio.
 
 II.- Cuando durante el juicio apareciere o sobreviniese alguna de las causas de improcedencia a que se refiere el artículo anterior.
 
-III.- En los demás casos en que por disposición legal haya impedimento para emitir resoluciones en cuanto al fondo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+III.-En el caso de que el demandante muera durante el juicio, si su pretensión es intransmisible o, si su muerte, deja sin materia el proceso; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+IV.- En los demás casos en que por disposición legal haya impedimento para emitir resoluciones en cuanto al fondo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+El sobreseimiento del juicio podrá ser total o parcial.
 
 ### CAPITULO IV. DE LA DEMANDA
 
@@ -1221,7 +1251,17 @@ III.- La resolución o procedimiento que impugne y la autoridad o autoridades de
 
 IV.- Los hechos y los fundamentos de derecho en que se apoya la reclamación.
 
-V.- Las pruebas que el actor se proponga rendir: Cuando ofrezca pruebas pericial o testimonial, el actor deberá indicar los nombres de los peritos o testigos y acompañar cuestionarios que los peritos deban contestar; para el examen de los testigos será necesario acompañar a la demanda los interrogatorios. Se presentará una copia de la demanda para cada una de las partes, así como de los cuestionarios para los peritos y de los interrogatorios para los testigos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+V.- Los conceptos de impugnación; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+VI.- Las pruebas que el actor se proponga rendir: cuando ofrezca pruebas pericial o testimonial, el actor deberá indicar los nombres de los peritos o testigos y acompañar cuestionarios que los peritos deberán contestar; para el examen de los testigos será necesario acompañar a la demanda los interrogatorios. Se presentará una copia de la demanda para cada una de las partes, así como de los cuestionarios para los peritos y de los interrogatorios para los testigos.
 
 ###### ARTICULO 225.
 
@@ -1578,3 +1618,13 @@ P.O. 26 DE OCTUBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
