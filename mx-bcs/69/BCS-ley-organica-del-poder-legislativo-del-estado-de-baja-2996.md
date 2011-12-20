@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2011-08-20"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -229,7 +229,9 @@ Cuando algún Diputado no pudiere asistir a una Sesión o continuar en ella por 
 
 Si el impedimento es para no poder concurrir a dos o tres sesiones consecutivas, lo avisará igualmente al Presidente del Congreso.
 
-Si el impedimento es para no poder concurrir a más de tres sesiones consecutivas, necesitará el permiso de la Gran Comisión, y a falta de ésta, el de la Directiva del Congreso.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+Si el impedimento es para no poder concurrir a más de tres sesiones consecutivas, necesitara el permiso de la Junta de Gobierno y Coordinación Política, y a falta de esta, el de la Directiva del Congreso.
 
 La omisión de este permiso producirá la pérdida de derecho a las dietas correspondientes por el término que dure su inasistencia, que no será mayor de cinco sesiones.
 
@@ -411,59 +413,117 @@ La falta del Secretario se cubrirá con el Prosecretario y en ausencia de ambos,
 
 De incurrir el Secretario en la falta consecutiva de sus obligaciones, se considerará como incumplimiento de su responsabilidad y se procederá en términos del Artículo anterior.
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ### CAPITULO V
 
-DE LA GRAN COMISION.
+DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 50.
 
-La Gran Comisión es el Organo de Gobierno del Congreso del Estado y estará compuesta de un Presidente y dos Secretarios, que la Legislatura elegirá por cédula y por mayoría de votos en la Sesión siguiente a la apertura del Primer Período Ordinario de Sesiones de cada Legislatura.
+La Junta de Gobierno y Coordinación Política, es el órgano de gobierno y dirección general colegiado y plural del Congreso del Estado, facultado para desempeñar la concertación política de la (sic) fuerzas representadas en el congreso, mediante la cual se impulsan entendimientos y convergencias políticas, tanto al interior del Congreso como las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de cumplir con las atribuciones y obligaciones que constitucionalmente le corresponden.
+
+La Junta de Gobierno y Coordinación Política se constituye con los coordinadores de cada una de las fracciones parlamentarias reconocidas y autorizadas en los términos de esta ley, así como con los diputados que no conformen fracción, mediante las siguientes disposiciones:
+
+I.- Deberá quedar instalada, al término de la primera sesión ordinaria, del primer periodo ordinario, haciendo el presidente de la mesa directiva del congreso la declaratoria de instalación correspondiente;
+
+II.- La responsabilidad de presidir la Junta de Gobierno y Coordinación Política recaerá sucesivamente en los coordinadores de las fracciones parlamentarias en orden de mayor a menor representación, con una duración de un año de ejercicio constitucional;
+
+III.- Cuando dos o más fracciones parlamentarias tengan el mismo número de diputados, presidirá en primer término la Junta de Gobierno y Coordinación Política, el coordinador de la fracción parlamentaria cuyos integrantes representen un mayor número de votos validos obtenidos en la elección origen de su representación;
+
+IV.- Las decisiones o acuerdos de la Junta de Gobierno y Coordinación Política se tomaran por mayoría de votos de sus miembros presentes, mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su fracción parlamentaria, en caso de empate, el presidente tendrá voto de calidad.
+
+Los Diputados que no integren fracción, formaran parte de la Junta de Gobierno y Coordinación Política, teniendo el derecho a voz y voto;
+
+V.- La Junta de Gobierno y Coordinación Política se integrará por los coordinadores de las fracciones parlamentarias acreditados, y se formara con un Presidente, y correlativamente con los secretarios que conforme al número de coordinadores de las fracciones parlamentarias haya.
+
+A las reuniones de la Junta de Gobierno y Coordinación Política concurrirá el oficial mayor del congreso del estado quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+
+La Presidencia de la Mesa Directiva del Congreso del Estado no podrá recaer en la misma fracción que detente la Presidencia de la Junta de Coordinación (sic) Gobierno y Coordinación Política en el mismo periodo.
+
+VI.- La Junta de Gobierno y Coordinación Política sesionará de manera ordinaria por lo menos una vez al mes durante los periodos ordinarios de sesiones, y durante los periodos de receso sesionarán de conformidad a la periodicidad que la misma acuerde.
+
+El quórum legal para que la Junta de Gobierno y Coordinación Política sesione en primera convocatoria, se requerirá la asistencia de los diputados cuyo voto ponderado represente más del cincuenta por ciento de los integrantes de la legislatura y concurran además, más del cincuenta por ciento de sus integrantes.
+
+En caso de no contarse con el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión, en cuyo caso se sesionará con el número de diputados integrantes de la Junta de Gobierno y Coordinación Política que asistan.
+
+VII.- La Junta de Gobierno y Coordinación Política contara para su buen funcionamiento con el apoyo de los demás órganos del Congreso. De igual forma dispondrá del Personal y equipo necesario para el cumplimiento de sus atribuciones, así como de los recursos económicos en los términos que señale el presupuesto de egresos del Congreso del Estado;
+
+VIII.- En caso de ausencia temporal o definitiva del presidente de la Junta de Gobierno y Coordinación Política, la fracción parlamentaria a la que pertenezca, informara de inmediato, tanto al presidente de la mesa directiva, como a la propia junta, el nombre del diputado que lo sustituirá;
+
+IX.- Los integrantes de la Junta de Gobierno y Coordinación Política podrán ser sustituidos de conformidad con las reglas internas de cada fracción parlamentaria.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 51.
 
-Son facultades de la Gran Comisión:
+Son facultades de la Junta de Gobierno y Coordinación Política:
 
-I.- Tratar todos los asuntos políticos de carácter externo de la Legislatura con los demás Poderes, ya sean Federales, del Estado o de cualquier Entidad Federativa y con los Municipios a través de su Presidente.
+I.- Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas o iniciativas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo.
 
-II.- Proponer a los Diputados que integran las Comisiones Permanentes, Especiales y el Gran Jurado, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea.
+II.- Tratar todos los asuntos políticos de carácter externo de la Legislatura con los demás Poderes, ya sean Federales, del Estado o de cualquier Entidad Federativa y con los Municipios; así como también con los demás organismos y entidades públicas nacionales e internacionales, en este último caso realizar la designación de delegaciones para atender la celebración de reuniones interparlamentarias con órganos de representación popular de otras entidades federativas o el Congreso de la Unión; con respecto a estas reuniones, en los periodos de receso, el Presidente de la Junta de Gobierno y Coordinación Política hará la designación respectiva.
 
-III.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Reglamentaria.
+Así como Proponer al Congreso los nombres de los Diputados que representen al Poder Legislativo ante cualquier Organismo Público y designar representantes que deban asistir a eventos cívicos y sociales;
 
-IV.- Con la aprobación de la Legislatura, nombrar y remover a los empleados de la misma, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+III.- Proponer a los Diputados que integran las Comisiones Permanentes, Especiales y el Gran Jurado, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea; así como llevar a cabo la sustitución justificada de los integrantes de las mismas.
 
-V.- Establecer las políticas rectoras para que los servicios internos se cubran cabalmente para el buen funcionamiento de los trabajos Legislativos.
+IV.- Conceder licencias a los Diputados en los casos previstos en el Artículo 27 y demás relativos de esta Ley Reglamentaria.
 
-> <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
+V.- Proponer al Pleno la designación del Oficial Mayor, Auditor Superior del Órgano de Fiscalización, Asesores Jurídicos y Directores de las áreas a que se refiere esta ley, así como expedir el nombramiento respectivo, teniendo en cuenta la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
 
-VI.- Proponer al Congreso el nombramiento del Oficial Mayor, Auditor Superior, Asesores Jurídicos y Directores de las Áreas a las que se refiere esta ley.
+VI.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la fracción anterior, por las causas graves que señale la ley, concediéndoles previamente el derecho de audiencia.
 
-VII.- Proponer al Congreso en Sesión Secreta la destitución de los funcionarios a que se refiere la Fracción anterior, cuando por causas graves o por el buen funcionamiento del Congreso deba hacerse la remoción y proponer a las personas que deban sustituirlas.
+VII.- Asignar a los Diputados, en los términos de la presente Ley, los recursos humanos, materiales, financieros y los espacios que correspondan, para el desempeño de su cargo.
 
-VIII.- (DEROGADA, B.O. 31 DE JULIO DE 2009)
+VIII.- Proponer al pleno del Congreso, las bases para la aplicación de sanciones disciplinarias a los diputados.
 
-> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2008)</small>
+IX.- Vigilar los trabajos administrativos del Congreso y evaluar su eficiencia y calidad, solicitando para tal efecto, a las distintas instancias del ramo, los informes y documentos que estime procedentes.
 
-IX.- Las demás que no estén expresamente señaladas a la Directiva.
+X.- Establecer lineamientos para el otorgamiento de incentivos a los trabajadores y funcionarios del Poder Legislativo.
+
+XI.- Coadyuvar en la integración del proyecto del presupuesto de egresos del Congreso, y turnarlo al titular del Poder Ejecutivo, para que se incluya en el presupuesto de egresos del Gobierno del Estado, para el ejercicio fiscal de cada año.
+
+XII.- Administrar con eficiencia y transparencia el presupuesto de egresos del Congreso del Estado para cada año, así como establecer las bases para autorizar adquisiciones mediante licitación pública de bienes y la contratación de prestación de servicios para la función legislativa, informando de manera oficiosa y al término de cada periodo ordinario de sesiones al pleno del Congreso.
+
+XIII.- Llevar a cabo corresponsablemente a través de su Presidente el proceso de entrega recepción que establece el Titulo Octavo de la Ley Reglamentaria.
+
+XIV.- Establecer una agenda legislativa común, para cada uno de los periodos ordinarios de sesiones, de los asuntos o temas relevantes para la vida pública del Estado.
+
+XV.- Presentar a la Mesa Directiva y al Pleno, para su aprobación, proyectos de acuerdo económico, de leyes y decretos, que entrañen una posición política conjunta del Congreso del Estado.
+
+XVI.- Establecer las políticas rectoras para que los servicios internos se cubran cabalmente para el buen funcionamiento de los trabajos Legislativos.
+
+XVII.- Autorizar los convenios de cooperación con otras instituciones u organismos.
+
+XVIII.- Elaborar el Reglamento interno de la Junta de Gobierno y Coordinación Política.
+
+XIX.- Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de las comisiones permanentes o especiales;
+
+XX.- Proponer programas de capacitación para los trabajadores del Congreso del Estado y cuidar que los trabajos del Congreso se realicen con oportunidad y eficiencia;
+
+XXI.- Llevar el Control y Vigilancia de los Servidores Público del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la Legislación aplicable.
+
+XXII.- Las demás que se deriven de esta Ley o sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 52.
 
-Son facultades del Presidente de la Gran Comisión:
+Serán atribuciones del Presidente de la Junta de Gobierno y Coordinación Política, las siguientes:
 
-I.- Representar a la Gran Comisión.
+I. Representar a la Junta de Gobierno y Coordinación Política;
 
-II.- Coordinar las actividades de la Gran Comisión.
+II. Convocar y presidir las reuniones de trabajo que celebre la Junta de Gobierno y Coordinación Política, así como dar seguimiento al cumplimiento de las decisiones y acuerdos internos que adopte;
 
-III.- Hacer cumplir los acuerdos que adopte la Gran Comisión.
+III. Ejecutar las tareas administrativas y laborales que conforme a la ley le señale y encomiende la Junta de Gobierno y Coordinación Política;
 
-IV.- Proponer al Congreso los nombres de los Diputados que representen al Poder Legislativo ante cualquier Organismo Público y designar representantes que deban asistir a eventos cívicos y sociales.
+IV. Firmar, junto con sus demás integrantes, las actas de las reuniones de la Junta de Gobierno y Coordinación Política;
 
-V.- Firmar con el Secretario las Actas de Sesiones de la Gran Comisión.
+V. Ejecutar sin dilación los planes, programas, lineamientos y acuerdos que adopte la Junta de Gobierno y Coordinación Política; y
 
-VI.- Cuidar que los trabajos del Congreso se realicen con oportunidad y eficiencia.
-
-VII.- Coadyuvar con la Mesa Directiva del Congreso, para programar el Orden del Día de cada Sesión.
-
-VIII.- Las demás que determinen esta Ley y sus Reglamentos.
+VI. Las demás que le confiere la presente Ley y sus reglamentos.
 
 ### CAPITULO VI
 
@@ -569,7 +629,15 @@ d).- Las iniciativas que provengan del Tribunal Superior de Justicia.
 
 e).- Lo relativo al Reglamento Interior del Congreso y sus modificaciones o adiciones.
 
-f).- Las que señalen la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+f).- La elección de Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+g).- Las que señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+
+h).- (DEROGADO, B.O. 20 DE DICIEMBRE DE 2011)
 
 II.- DE LA COMISION DE ASUNTOS POLITICOS:
 
@@ -589,9 +657,9 @@ f).- Los que se refieran a licencias, renuncias o demás faltas absolutas del Go
 
 g).- La elección de Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-h).- Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
+h).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2008)</small>
 
@@ -607,7 +675,9 @@ b).- Servir de instancia receptora de quejas y denuncias presentadas acerca de v
 
 c).- Establecer coordinación con instituciones y organismo (sic) públicos y privados nacionales, para promover el respeto a los Derechos Humanos y el reconocimiento a los Derechos Indígenas; y
 
-d).- Las demás que le encomiende la Directiva y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+d).- Las demás que le encomiende la Mesa Directiva y la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE AGOSTO DE 2008)</small>
 
@@ -625,21 +695,25 @@ c).- Lo relativo a las actividades productivas en materia forestal.
 
 d).- El fomento, explotación, comercio y todo lo que se refiere al ramo minero; y
 
-> <small>(ADICIONADO, B.O. 7 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-e).- Los demás que le turnen la mesa directiva y la Gran Comisión.
+e).- Los demás que le turnen la Mesa Directiva y la Junta de Gobierno y Coordinación Política.
 
 V.- DE ASUNTOS COMERCIALES Y TURISTICOS:
 
 a).- Los que tengan relación con el Fomento de Actividades Comerciales y Turísticas.
 
-b).- Las demás que le fijen la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+b).- Las demás que le fijen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 VI.- ASUNTOS PESQUEROS:
 
 a).- Los que tengan relación con la explotación, industria y comercialización de los productos del mar.
 
-b).- Las que establezca la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+b).- Las que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 VII.- DE COMUNICACIONES Y TRANSPORTES:
 
@@ -647,7 +721,9 @@ a).- Lo concerniente a los medios de Comunicación de Radio, Televisión, Teléf
 
 b).- Lo relativo al transporte Aéreo, Marítimo y Terrestre, así como lo que se refiera al tránsito de todo tipo de vehículos.
 
-c).- Las demás que le encomiende la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+c).- Las demás que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 VIII.- DE ASUNTOS LABORALES Y DE PREVISION SOCIAL:
 
@@ -665,9 +741,9 @@ c).- Lo relativo a la promoción y apoyo de la planta productiva del Estado para
 
 d).- La vigilancia del desempeño de la Procuraduría de la Defensa del Trabajo, Tribunal de Conciliación y Arbitraje para los trabajadores al servicio de los poderes del Estado y Municipios de Baja California Sur, así como las Juntas Locales de Conciliación y Arbitraje en la entidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-e).- Las demás que le señalen la directiva del congreso y la Gran Comisión.
+e).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 2009)</small>
 
@@ -687,9 +763,9 @@ d).- Lo relacionado con la Ley de Salud para el Estado, así como las disposicio
 
 e).- Lo relacionado con los casos que afecten o pudieran afectar la salud de la población; y
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-f).- Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
+f).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 X.- DE ASUNTOS EDUCATIVOS Y DE LA JUVENTUD:
 
@@ -697,13 +773,17 @@ a).- Lo que corresponda a Educación en todos sus niveles.
 
 b).- Lo que tienda a impulsar el mejoramiento de la Juventud, mediante el Fomento del Deporte y la Cultura.
 
-c).- Las demás que establezcan la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+c).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XI.- DE ECOLOGIA:
 
 a).- Lo que se refiera a la preservación del medio ambiente, de los ecosistemas, de los recursos naturales, protección de la flora y la fauna y en general lo relacionado con la prevención y control de la contaminación y la declaratoria de reservas ecológicas en la entidad.
 
-b).- Los demás que le señale la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+b).- Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XII.- DE ASUNTOS FISCALES Y ADMINISTRATIVOS:
 
@@ -719,7 +799,9 @@ e).- Lo concerniente a la Legislación de las Haciendas Municipales.
 
 f).- Los que se refieran a las bases sobre las cuales el Ejecutivo y los Ayuntamientos puedan celebrar Empréstitos en los términos de la Constitución del Estado.
 
-g).- Las que le encomiende la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+g).- Las que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADA, B.O. 10 DE MARZO DE 2008)</small>
 
@@ -733,7 +815,9 @@ c).- La vigilancia permanente en el control del gasto público del Estado y Muni
 
 d).- Ser enlace entre el Órgano de Fiscalización Superior y el Congreso del Estado, así como de su personal, en coordinación con la Oficialía Mayor.
 
-e).- Las demás que le fijen la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+e).- Las demás que le fijen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XIV.- DE CUENTA Y ADMINISTRACION:
 
@@ -743,7 +827,9 @@ b).- Presentar para su aprobación en Sesión Secreta, dentro de la primera quin
 
 c).- Informar al concluir cada período ordinario, o receso legislativo, según sea el caso, del ejercicio del presupuesto del Congreso a que se refiere el inciso anterior, para su aprobación correspondiente.
 
-d).- Las que le encomiende la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+d).- Las que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XV.- DE GESTORIA Y QUEJAS:
 
@@ -751,7 +837,9 @@ a).- Lo relativo a quejas y denuncias, planteados por la ciudadanía respecto de
 
 b).- Lo relativo a la recepción, atención y seguimiento a demandas de la población.
 
-c).- Las demás que le encomiende la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+c).- Las demás que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XVI.- DE LA COMISION EDITORIAL:
 
@@ -761,13 +849,17 @@ b).- La edición de una Publicación Oficial del Congreso, que contendrá reseñ
 
 c).- Coordinar con la Oficialía Mayor, las acciones relativas a la Biblioteca Legislativa.
 
-d).- Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+d).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XVII.- DE CORRECCION Y ESTILO:
 
 a).- La redacción correcta de toda resolución, ya se trate de Decretos o Acuerdos Económicos que apruebe la Legislatura; pero respetando siempre el espíritu de lo aprobado.
 
-b).- Las que le encomiende la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+b).- Las que le encomienden la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -775,7 +867,9 @@ XVIII.- DE LA COMISIÓN DE ENLACE LEGISLATIVO:
 
 a).- Los que tengan relación con el resto de los Congresos para intercambiar las experiencias sobre problemas comunes y la organización para participar en reuniones periódicas de Congresos Locales.
 
-b).- Las demás que establezca la directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+b).- Las demás que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -787,7 +881,9 @@ b).- Las propuestas legislativas que reformen, adicionen o en su caso deroguen l
 
 c).- Implementar programas de beneficio a la mujer y garanticen su respeto.
 
-d).- Las demás que establezcan la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+d).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
 
@@ -805,9 +901,13 @@ d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia,
 
 e).- Lo relativo a la normatividad y demás aspectos relacionados con la protección civil;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADA], B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
 f).- En general, toda la legislación relacionada con la Seguridad Pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+g).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE JULIO DE 2009)</small>
 
@@ -819,9 +919,13 @@ b).- Las leyes relacionadas con la ciencia y la tecnología;
 
 c).- La regulación de las acciones que realicen el Estado y los Municipios relacionadas con la ciencia y la tecnología;
 
-d).- Las normas que tengan por objeto impulsar el desarrollo científico y tecnológico, así como la vinculación de (sic) Estado y Municipios con los sectores productivo y social en materia de ciencia y tecnología; y
+d).- Las normas que tengan por objeto impulsar el desarrollo científico y tecnológico, así como la vinculación de (sic) Estado y Municipios con los sectores productivo y social en materia de ciencia y tecnología; y (sic)
 
 e).- Las relacionadas con instituciones y centros de educación superior e investigación científica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+f).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2007)</small>
 
@@ -835,7 +939,9 @@ c).- Participar en el ámbito de su competencia con dependencias del ejecutivo y
 
 d).- Los asuntos relacionados con el suministro de agua para consumo humano y para uso agrícola; y
 
-e).- Los demás asuntos que le turne la Mesa Directiva del Congreso.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+e).- Los demás asuntos que le turne la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 10 DE JULIO DE 2008)</small>
 
@@ -847,7 +953,9 @@ b).- Lo relativo a planes y programas encaminados a impulsar y estimular el depo
 
 c).- Lo relativo a la creación de estímulos y premios para reconocer el esfuerzo de los deportistas sudcalifornianos destacados; y
 
-d).- Los demás que le señale la Mesa Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+d).- Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2011)</small>
 
@@ -859,7 +967,9 @@ b) Lo relacionado con la difusión de las iniciativas, pronunciamientos, puntos 
 
 c) Las quejas de particulares que tengan que ver con la falta de transparencia; y
 
-d) Las demás que le encomiende la Mesa Directiva y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+d) Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2011)</small>
 
@@ -875,7 +985,9 @@ d) Promover la coordinación entre los niveles federal, estatal y municipal, as�
 
 e) Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas con discapacidad y lograr el cumplimiento de sus objetivos; y
 
-f) Las demás que le señalen la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+f) Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 ###### ARTICULO 56.
 
@@ -885,9 +997,11 @@ A cada Comisión Permanente se le turnarán los asuntos que se relacionen direct
 
 Las Comisiones Permanentes se elegirán en el Primer Período Ordinario de Sesiones de cada Legislatura y serán integradas por tres Diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 58.
 
-Las Comisiones Permanentes funcionarán durante todo el período Constitucional de la Legislatura respectiva, y las vacantes, temporales o absolutas que en ellas ocurrieren se suplirán con carácter de interinidad o permanencia a juicio de la Gran Comisión.
+Las Comisiones Permanentes funcionarán durante todo el período Constitucional de la Legislatura respectiva, y las vacantes, temporales o absolutas que en ellas ocurrieren se suplirán con carácter de interinidad o permanencia a juicio de la Junta de Gobierno y Coordinación Política.
 
 ###### ARTICULO 59.
 
@@ -897,9 +1011,11 @@ Serán nombradas por el Presidente del Congreso, a su arbitrio, las comisiones e
 
 Los Presidentes de las Comisiones serán responsables de los expedientes que pasen a su estudio y al efecto deberán firmar recibo de ello en el correspondiente libro de control que se llevará en la Oficialía Mayor.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 61.
 
-Ningún Diputado podrá dictaminar en asuntos en que tenga un interés personal. En tal circunstancia deberá excusarse por sí o a pedimento de un Diputado ante la Gran Comisión, quien le ordenará por escrito su substitución para el sólo efecto del despacho de ese asunto.
+Ningún Diputado podrá dictaminar en asuntos en que tenga un interés personal. En tal circunstancia deberá excusarse por sí o a pedimento de un Diputado ante la Junta de Gobierno y Coordinación Política, quién le ordenará por escrito su substitución para el sólo efecto del despacho de ese asunto.
 
 ###### ARTICULO 62.
 
@@ -947,9 +1063,11 @@ Las Fracciones Parlamentarias deberán entregar la documentación a que se refie
 
 El funcionamiento de las Fracciones Parlamentarias serán reguladas por los Estatutos y Lineamientos de los respectivos Partidos Políticos, y en el marco de la presente Ley.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 71.
 
-Los Coordinadores de las Fracciones Parlamentarias serán el conducto de estas con la Directiva, la Gran Comisión y las Comisiones Permanentes o Especiales.
+Los Coordinadores de las Fracciones Parlamentarias serán el conducto de estas con la Directiva, la Junta de Gobierno y Coordinación Política y las Comisiones Permanentes o Especiales.
 
 ###### ARTICULO 72.
 
@@ -1005,9 +1123,13 @@ XIV.- Dar tramitación de inmediato a los documentos e instancias a las cuales h
 
 XV.- Vigilar la oportuna entrega de los citatorios para las Sesiones Extraordinarias, en los domicilios de los Diputados;
 
-XVI.- Acordar con el Presidente del Congreso, con el de la Gran Comisión o con el de la Diputación Permanente, en su caso, cuando los asuntos requieran urgencia;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-XVII.- Exponer al Congreso, a la Gran Comisión o a la Diputación Permanente, en su caso, las observaciones que crea convenientes para la mejor marcha de los asuntos que le sean turnados para su despacho;
+XVI.- Acordar con el Presidente del Congreso, con el de la Junta de Gobierno y Coordinación Política o con el de la Diputación Permanente, en su caso, cuando los asuntos requieran urgencia;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+XVII.- Exponer al Congreso, a la Junta de Gobierno y Coordinación Política o a la Diputación Permanente, en su caso, las observaciones que crea convenientes para la mejor marcha de los asuntos que le sean turnados para su despacho;
 
 XVIII.- Asistir a todas las Sesiones Públicas y Secretas, para atender a la Presidencia y a la Secretaría y darse cuenta cabal del desarrollo de los asuntos que en ella se traten;
 
@@ -1029,9 +1151,11 @@ XXV.- Las demás acordadas por la Asamblea, o que prescriban esta Ley y los Regl
 
 DE LA DIRECCION DE FINANZAS.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 77.
 
-El Congreso nombrará un Director de Finanzas cuya función será la de planear, organizar, dirigir y controlar la política financiera de acuerdo a los lineamientos de la Comisión de Cuenta y Administración y de la Gran Comisión.
+El Congreso nombrará un Director de Finanzas cuya función será la de planear, organizar, dirigir y controlar la política financiera de acuerdo a los lineamientos de la Comisión de Cuenta y Administración y de la Junta Gobierno (sic) y Coordinación Política.
 
 ###### ARTICULO 78.
 
@@ -1049,9 +1173,13 @@ V.- Llevar el registro de las operaciones financieras del Congreso, por concepto
 
 VI.- De acuerdo con la Oficialía Mayor firmar los Convenios y Contratos que comprometan y afecten el Presupuesto del Congreso, conforme a las disposiciones aplicables;
 
-VII.- Informar periódicamente a la Comisión de Cuenta y Administración y a la Gran Comisión del manejo de los fondos del presupuesto;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Las demás que acuerde la Asamblea, la Comisión de Cuenta y Administración, la Gran Comisión, y que prescriban esta Ley y sus Reglamentos.
+VII.- Informar periódicamente a la Comisión de Cuenta y Administración y a la Junta de Gobierno y Coordinación Política del manejo de los fondos del presupuesto;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Las demás que acuerden la Asamblea, la Comisión de Cuenta y Administración, la Junta de Gobierno y Coordinación Política, y las que prescriban esta Ley y sus Reglamentos.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 10 DE MARZO DE 2008)</small>
 
@@ -1103,7 +1231,9 @@ VII.- Asesorar jurídicamente a los Diputados en los asuntos propios de la Legis
 
 VIII.- Asistir a las reuniones de las Comisiones para emitir su juicio jurídico en la discusión de los asuntos tratados.
 
-IX.- Las demás de naturaleza jurídica que le fijen la Directiva del Congreso o la Gran Comisión.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+IX.- Las demás de naturaleza jurídica que le fijen la Mesa Directiva del Congreso o la Junta de Gobierno y Coordinación Política.
 
 ###### ARTICULO 83.
 
@@ -1133,7 +1263,9 @@ V.- Cuidar el buen desempeño de las obligaciones de la Directiva en torno a los
 
 VI.- Planear, organizar y coordinar la agenda de eventos especiales del Congreso;
 
-VII.- Las demás que la Directiva y la Gran Comisión le señalen.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+VII.- Las demás que la Directiva y la Junta de Gobierno y Coordinación Política le señalen.
 
 ### CAPITULO II
 
@@ -1275,7 +1407,7 @@ IX.- Dictámenes en segunda lectura para su discusión y aprobación en su caso.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
-Los asuntos a que se refieren las fracciones IV, V, VI, Vlll y IX deberán registrarse a más tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante la Oficialia Mayor del Congreso del Estado.
+Los asuntos a que se refieren las fracciones IV, V, VI, VIII y IX deberán registrarse a más tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante la Oficialia Mayor del Congreso del Estado.
 
 > <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -1785,6 +1917,8 @@ Al final expresará:
 
 DE LA CONSULTA POPULAR.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 173.
 
 Los Diputados no tendrán tratamiento alguno que los distinga de los demás Ciudadanos y al dirigirse a la Legislatura usarán una de las fórmulas siguientes: "Señores (o) Ciudadanos Diputados", "Honorable (o) Respetable Asamblea".
@@ -1851,9 +1985,11 @@ V.- Una vez concluido lo anterior, el Presidente levantará la Sesión citando p
 
 El Diputado que se presente después de instalado el Congreso a otorgar la Protesta de Ley, será introducido al Salón por dos miembros que nombre el Presidente.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 185.
 
-El Congreso, sin haberlo Decretado antes, no podrá asistir en Pleno a ceremonial o festividad alguna, fuera de su Recinto Oficial; siempre que recibiera invitación para ello, el Presidente de la Gran Comisión designará una Comisión que represente al Congreso.
+El Congreso, sin haberlo Decretado antes, no podrá asistir en Pleno a ceremonial o festividad alguna, fuera de su Recinto Oficial; siempre que recibiera invitación para ello, La Junta de Gobierno y Coordinación Política designará una Comisión que represente al Congreso.
 
 ###### ARTICULO 186.
 
@@ -1891,7 +2027,7 @@ DE LAS REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### ARTICULO 192.
 
-El Congreso del Estado, a propuesta de la Gran Comisión o de algunas de las Comisiones Permanentes o especiales y por acuerdo de la mayoría de sus miembros, podrá convocar a consulta popular los asuntos de su competencia, cuando a su juicio se requiera conocer la opinión de los ciudadanos de la entidad, sobre determinado asunto.
+El Congreso del Estado, a propuesta de la Junta de Gobierno y Coordinación Política o de algunas de las Comisiones Permanentes o especiales y por acuerdo de la mayoría de sus miembros, podrá convocar a consulta popular los asuntos de su competencia, cuando a su juicio se requiera conocer la opinión de los ciudadanos de la entidad, sobre determinado asunto.
 
 > <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2000)</small>
 
@@ -2033,7 +2169,7 @@ En caso de falta absoluta del Gobernador del Estado, se procederá de conformida
 
 DISPOSICIONES GENERALES.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 218.
 
@@ -2059,7 +2195,7 @@ DISPOSICIONES GENERALES.
 
 DE LA DOCUMENTACION.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 222.
 
@@ -2121,9 +2257,11 @@ Para ejercer sus atribuciones y funciones, la Diputación Permanente se sujetar�
 
 Celebrará sus Sesiones Ordinarias los martes de cada semana, y extraordinarias o secretas cuando lo solicite alguno de sus miembros, para tratar asuntos cuya importancia calificará la Presidencia.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 229.
 
-Cuando por cualquier motivo la Diputación Permanente no complete quórum para Sesión Ordinaria, ésta se pospondrá citándose inmediatamente a los suplentes, y se informará al Presidente de la Gran Comisión para lo conducente.
+Cuando por cualquier motivo la Diputación Permanente no complete quórum para Sesión Ordinaria, esta se pospondrá citándose inmediatamente a los suplentes, y se informará al Presidente de la Junta de Gobierno y Coordinación Política para lo conducente.
 
 ###### ARTICULO 230.
 
@@ -2153,57 +2291,65 @@ Al final de su ejercicio, la Diputación Permanente entregará a la Directiva de
 
 ###### ARTICULO 236.
 
-Los diputados integrantes de la Gran Comisión como órgano de gobierno del Poder Legislativo al separarse de sus empleos, Cargos o comisiones, deberán rendir a través de su Presidente, un informe de los asuntos de su competencia y entregar los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales, a quienes los sustituyan en sus funciones, acorde a los lineamientos establecidos en este título.
+El Pleno de la Junta de Gobierno y Coordinación Política deberá rendir un informe de los asuntos de su competencia y entregar los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales, a quienes los sustituyan en sus funciones, acorde a los lineamientos establecidos en este título.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+Los informes se entregarán por escrito a través de su Presidente y formarán parte de la entrega recepción.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 237.
 
-La entrega-recepción, así como el informe, se efectuará por escrito mediante acta administrativa que describa el estado que guardan los asuntos que esta propia ley les encomienda. En el caso del Presidente de la Gran Comisión este rendirá el informe relacionado con la situación que guardan los recursos humanos.
+La entrega-recepción será responsabilidad de todos los integrantes de la Junta de Gobierno y Coordinación Política y se llevará a cabo a través de su Presidente y es el acto a través del cual la Junta de Gobierno y Coordinación Política saliente, hace entrega detallada de todos los asuntos, recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales a la Junta de Gobierno y Coordinación Política entrante.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+La entrega-recepción, así como los informes a que se refiere el artículo anterior, se efectuarán por escrito mediante acta administrativa que describa el estado que guardan los asuntos que esta propia ley les encomiende. Misma que será signada por los integrantes del pleno.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 238.
 
-La entrega y recepción se hará al tomar posesión del empleo, cargo o comisión, el Presidente de la Gran Comisión entrante, previa protesta que deberá rendir en términos de Ley. Si no existe nombramiento o designación del Presidente de la Gran Comisión entrante, la entrega y recepción se hará al servidor público que para tal efecto se designe.
+La entrega y recepción se hará al tomar posesión del empleo, cargo o comisión, el Presidente de la Junta de Gobierno y Coordinación Política entrante, previa protesta que deberá rendir en términos de Ley.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+Si no existe nombramiento o designación del Presidente de la Junta de Gobierno y Coordinación Política entrante, la entrega y recepción se hará al Oficial Mayor del Congreso del Estado.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 239.
 
-Los documentos e información que se anexen al acta administrativa de entrega y recepción del despacho deberán circunscribirse a los aspectos más relevantes, debiendo presentarse en forma concentrada y global por el Presidente de la Gran Comisión en los términos de esta Ley.
+Los documentos e información que se anexen al acta administrativa de entrega y recepción del despacho deberán circunscribirse a los aspectos más relevantes, debiendo presentarse en forma concentrada y global por el Presidente de la Junta de Gobierno y Coordinación Política en los términos de esta Ley.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 240.
 
-La verificación del contenido del acta correspondiente deberá realizarse por los integrantes de la Gran Comisión entrante, en un término no mayor de quince días hábiles, contados a partir de la fecha de entrega y recepción del despacho; durante dicho lapso el Presidente de la Gran Comisión saliente hará las aclaraciones y proporcionará la información adicional que éstos le soliciten.
+La verificación del contenido del acta correspondiente deberá realizarse por los integrantes de la Junta de Gobierno y Coordinación Política entrante, en un término no mayor de quince días hábiles, contados a partir de la fecha de entrega y recepción del despacho; durante dicho lapso el Presidente de la Junta de Gobierno y Coordinación Política saliente hará las aclaraciones y proporcionará la información adicional que éstos le soliciten.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 241.
 
-En caso de que el Presidente de la Gran Comisión entrante descubra irregularidades durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento del Pleno del Congreso, para que se aclaren por el Presidente de la Gran Comisión saliente, o en su caso, se proceda de conformidad al régimen de responsabilidades de los servidores públicos. Si el Presidente de la Gran Comisión entrante, no procediera de conformidad con el párrafo anterior, incurrirá en responsabilidad en términos de Ley.
+En caso de que el Presidente de la Junta de Gobierno y Coordinación Política entrante descubra irregularidades durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento del Pleno del Congreso, para que se aclaren por la Junta de Gobierno y Coordinación Política saliente; requerimiento que deberá llevarse a cabo por conducto del Presidente de dicha Junta, o en su caso, se proceda de conformidad al régimen de responsabilidades de los servidores públicos. Si el Presidente de la Junta de Gobierno y Coordinación Política entrante, no procediera de conformidad con el párrafo anterior, incurrirá en responsabilidad en términos de Ley.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 242.
 
-La entrega del despacho y de los asuntos en trámite encomendados al Presidente de la Gran Comisión saliente no lo exime de las responsabilidades en que hubiere incurrido en términos de ley.
+La entrega del despacho y de los asuntos en trámite encomendados al Presidente de la Junta de Gobierno y Coordinación Política saliente no lo exime de las responsabilidades en que hubiere incurrido en términos de ley.
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 243.
 
-El Presidente de la Gran Comisión saliente que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerido por el Presidente de la Gran Comisión entrante, para que en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
+El Presidente de la Junta de Gobierno y Coordinación Política saliente que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerido por el Presidente de la Junta de Gobierno y Coordinación Política entrante, para que en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
 
-En este caso, el Presidente de la Gran Comisión entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
+En este caso, el Presidente de la Junta de Gobierno y Coordinación Política entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 244.
 
-En el caso, el Presidente de la Gran Comisión la documentación de entrega deberá integrarse en la forma siguiente:
+La documentación que le corresponderá entregar a la Junta de Gobierno y Coordinación Política entrante, deberá integrarse de la siguiente manera:
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2009)</small>
 
 I.- El Expediente Protocolario que contendrá:
 
@@ -2214,6 +2360,8 @@ b). Acta administrativa de Entrega-Recepción;
 c). Informe de los asuntos de su competencia; y
 
 d). En su caso, acta circunstanciada.
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2009)</small>
 
 II.- Recursos Humanos:
 
@@ -2430,3 +2578,15 @@ UNICO.- El presente decreto entrara en vigor al día siguiente de su publicació
 B.O. 20 DE AGOSTO DE 2011
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Por única ocasión la Junta de Gobierno y Coordinación Política de la XIII Legislatura, y a partir de la entrada en vigor del presente decreto y hasta el día 14 de marzo del 2012, el actual Presidente de la Gran Comisión del Congreso del Estado, presidirá la Junta de Gobierno y Coordinación Política, por lo que en estricto apego al principio de equidad que debe imperar en dicho órgano de gobierno interno, contaran con un solo voto ponderado y no podrá haber duplicidad entre quien preside y quien coordina la Fracción Parlamentaria del Partido Acción Nacional.
+
+TERCERO.- A partir del 15 de marzo del 2012, La Junta de Gobierno y Coordinación Política de la Decima Tercera Legislatura, se integrará con estricto apego a lo dispuesto por el artículo 50 párrafo segundo y demás relativo del presente decreto.
+
+CUARTO.- Una vez constituida la Junta de Gobierno y Coordinación Política tiene un término de 30 días naturales para expedir el Reglamento Interior de la Junta de Gobierno y Coordinación Política, previa aprobación del pleno del Congreso.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
