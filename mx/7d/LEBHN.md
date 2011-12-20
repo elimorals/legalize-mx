@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2011-06-17"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -370,9 +370,17 @@ Conmemoración de la gesta heroica del Batallón de San Patricio en 1847.
 
 Aniversario del sacrificio de los Niños Héroes de Chapultepec, en 1847.
 
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2011)</small>
+
+2 de octubre:
+
+Aniversario de los caídos en la lucha por la democracia de la Plaza de las Tres Culturas en Tlatelolco, en 1968.
+
 7 de octubre:
 
-Conmemoración del sacrificio del senador Belisario Domínguez en 1913.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2011)</small>
+
+Conmemoración del sacrificio del senador Belisario Domínguez, en 1913.
 
 22 de diciembre:
 
@@ -791,3 +799,7 @@ D.O.F. 23 DE JUNIO DE 2010.
 D.O.F. 17 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
