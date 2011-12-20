@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2011-10-26"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON DISCAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -357,11 +355,11 @@ VII. Tratamiento.
 
 ### CAPITULO I. PRISION
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 23.
 
-La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a setenta años y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
+La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a vitalicia, entendiéndose por ésta una duración igual a la vida del sentenciado, y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
 
 SUBTITULO PRIMERO
 
@@ -699,9 +697,9 @@ II. La magnitud del daño causado al bien jurídico y del peligro a que hubiere 
 
 III. Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
-IV. La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido; para tal efecto, se considerará la circunstancia de que se haya cometido el delito, en razón del origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias o estado civil de la víctima.
+IV. La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido y, en su caso, su carácter de servidores públicos; para tal efecto, se considerará la circunstancia de que se haya cometido el delito, en razón del origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias o estado civil de la víctima; o con motivo del ejercicio de las funciones del servicio público;
 
 V. La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico, indígena se tomarán en cuenta, además, sus usos y costumbres;
 
@@ -835,11 +833,11 @@ Cuando la capacidad de comprender el carácter ilícito del hecho típico no pue
 
 ### CAPITULO V. CASOS DE CONCURSO
 
-> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 68.
 
-En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos, sin que el total exceda de setenta años.
+En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos sin que el total exceda de setenta años de prisión, salvo en los casos previstos en este Código, en que se imponga la pena de prisión vitalicia.
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
@@ -1136,6 +1134,10 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el ejercicio de
 ###### Artículo 94.
 
 La prescripción extingue la pretensión punitiva y las penas.
+
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+Serán imprescriptibles los delitos que establezcan como pena máxima la prisión vitalicia.
 
 ###### Artículo 95.
 
@@ -1725,9 +1727,13 @@ III. Sin haber participado en el hecho delictuoso altere, destruya o sustraiga l
 
 A los responsables de este delito se les impondrán de uno a tres años de prisión y de treinta a ciento cincuenta días multa.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
-Si el delito fuera cometido por servidores públicos de la administración y procuración de justicia, la pena se aumentará hasta en una mitad más de la que le corresponda, y será destituido e inhabilitado de dos a seis años.
+Cuando las conductas establecidas en este artículo se refieran a procedimientos penales por los delitos previstos en los artículos 241, 242 Bis, 268 Bis y 274 de este Código, se impondrá por el encubrimiento de cuatro a ocho años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+Si el delito fuera cometido por servidores públicos de las Instituciones de Seguridad Pública o de administración de justicia, la pena se aumentará hasta en una mitad más de la que le corresponda, y será destituido e inhabilitado por un plazo igual a la pena privativa de libertad impuesta.
 
 ###### Artículo 150.
 
@@ -2563,7 +2569,9 @@ c) El sujeto activo haya ejecutado conductas sexuales, crueles o degradantes, o 
 
 d) Existan con antelación actos que constituyan violencia familiar del sujeto activo hacia el pasivo.
 
-En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
 
 ###### Artículo 221.
 
@@ -2857,9 +2865,9 @@ I. Al responsable de homicidio simple, se le impondrán de diez a quince años d
 
 Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística, se le impondrán de doce a veinte años de prisión y de trescientos a quinientos cincuenta días multa.
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
-II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y
+II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa; y
 
 > <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -3313,7 +3321,9 @@ Artículo 273 BIS.- (DEROGADO, G.G. 29 DE AGOSTO DE 2007)
 
 Son circunstancias que modifican el delito de violación:
 
-l. Cuando en la comisión del delito de violación participen dos o más personas se impondrán, de treinta y cinco a sesenta años de prisión y de cien a quinientos días multa;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+I. Cuando en la comisión del delito de violación participen dos o más personas se impondrán de cuarenta a setenta años de prisión y de seiscientos a cuatro mil días multa;
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -3321,7 +3331,9 @@ II. Si el delito fuere cometido por uno de los cónyuges, por un ascendiente con
 
 III. Cuando el delito de violación sea cometido por quien desempeñe un empleo, cargo o comisión públicos o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, será además, destituido definitivamente del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor;
 
-IV. Cuando por razón del delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+IV. Cuando por razón del delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
 
 > <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
@@ -4534,3 +4546,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
 
 CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
+
+G.G. 20 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades competentes tomarán las medidas necesarias en materia penitenciaria para atender los requerimientos que resulten de la adopción de las penas contempladas en el presente decreto.
