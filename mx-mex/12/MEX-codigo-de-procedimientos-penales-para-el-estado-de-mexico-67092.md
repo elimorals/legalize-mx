@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2011-10-26"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1765,7 +1765,7 @@ Reglas especiales de actuación
 
 Cuando las características del caso aconsejen adoptar medidas especiales para asegurar la regularidad y buena fe en el procedimiento, el juez o tribunal de inmediato convocarán a las partes a fin de acordar reglas particulares de actuación.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
 ## TÍTULO SEXTO. MEDIDAS CAUTELARES, PROVIDENCIAS PRECAUTORIAS Y MEDIDAS DE PROTECCIÓN
 
@@ -1807,7 +1807,7 @@ No se podrá ordenar una medida cautelar cuando ésta resulte desproporcionada e
 
 Tratándose de medidas cautelares que impliquen privación de la libertad, en ningún caso podrá sobrepasar la pena mínima prevista para el delito.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO II. MEDIDAS CAUTELARES Y DE PROTECCIÓN PERSONALES
 
@@ -1837,7 +1837,7 @@ La policía que ejecute una orden de aprehensión, conducirá inmediatamente al 
 
 Una vez que sea puesto a disposición del juez de control, se citará dentro de las veinticuatro horas siguientes a una audiencia para que le sea formulada la imputación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1915,7 +1915,7 @@ Cuando el imputado ha sido aprehendido después de habérsele formulado la imput
 
 Medidas cautelares personales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 192.
 
@@ -2055,19 +2055,19 @@ II. Los delitos cometidos con medios violentos, siempre que se ocasionen daños 
 
 III. En los siguientes delitos contra el libre desarrollo de la personalidad previstos en el Código Penal del Estado:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 a) El del artículo 204 fracciones I, II, III;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 b) El de pornografía de menores e incapaces contenido en el artículo 206, fracciones I, II y IV; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2177,7 +2177,7 @@ Al comunicarse al imputado la determinación sobre una medida cautelar impuesta,
 
 Ejecución de la garantía
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 203.
 
@@ -2539,13 +2539,13 @@ Tratándose de actos invasivos como extracciones de sangre u otros similares, se
 
 De negarse el consentimiento, deberá quedar registrada de manera fehaciente esta negativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 Confidencialidad de las actuaciones de investigación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4145,7 +4145,7 @@ Trámite
 
 La revocación de las resoluciones pronunciadas en audiencia deberá promoverse tan pronto sean dictadas y sólo será admisible cuando no hubiere precedido debate. La tramitación será verbal y de inmediato, y de, la misma manera se pronunciará el fallo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4164,6 +4164,10 @@ Segunda instancia a petición de parte
 ###### Artículo 407.
 
 La segunda instancia se abrirá a petición de parte para resolver sobre los agravios que le cause la resolución recurrida, los que se expresarán al interponerse el recurso.
+
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+En los casos en que se dicte sentencia condenatoria de primera instancia que imponga pena de prisión vitalicia y el sentenciado o su defensor no la hayan apelado, el órgano jurisdiccional superior la revisará de oficio.
 
 Legitimación
 
@@ -4330,6 +4334,14 @@ II. Condenada una persona por el homicidio de otra que hubiere desaparecido, se 
 III. Después de la sentencia aparecieren pruebas indubitables que invaliden las que hayan servido para fundar la condena; o
 
 IV. Varios sentenciados hayan sido condenados por el mismo delito y sea imposible que todos lo hubieren cometido.
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+V. Cuando dentro de un procedimiento penal, distinto al que haya motivado la condena, de acuerdo con las probanzas desahogadas, se deduzca de manera indubitable que una persona distinta al sentenciado fue responsable del delito imputado a éste.
+
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de condenas ejecutoriadas a prisión vitalicia, la revisión extraordinaria será abierta de oficio por el superior jerárquico, cada diez años, siempre y cuando existan nuevos elementos para proceder a la revisión extraordinaria.
 
 Solicitud
 
@@ -4889,7 +4901,7 @@ Este Código entrará en vigor el día uno de octubre del año dos mil nueve.
 
 Al entrar en vigor el nuevo sistema de justicia penal, quedará abrogado el Código de Procedimientos Penales para el Estado de México publicado en el Periódico Oficial "Gaceta del Gobierno", el veinte de marzo del año dos mil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4941,7 +4953,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CÓDIGO.
 
 G.G. 30 DE JULIO DE 2009.
 
@@ -5078,3 +5090,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
 
 CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
+
+G.G. 20 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las autoridades competentes tomarán las medidas necesarias en materia penitenciaria para atender los requerimientos que resulten de la adopción de las penas contempladas en el presente decreto.
