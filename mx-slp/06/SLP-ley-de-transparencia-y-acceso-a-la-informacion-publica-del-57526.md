@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2011-10-22"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -371,7 +371,9 @@ II. Actualizar y sistematizar por lo menos cada veinticinco días hábiles, el c
 
 III. Proporcionar de manera directa o por medio de la unidad administrativa responsable, la información, documentos y expedientes que le requiera la CEGAIP;
 
-IV. Colaborar con la CEGAIP para la implementación de una cultura de transparencia, en los materiales y programas de estudio, de los diferentes niveles educativos impartidos en la Entidad, instruyendo a los educandos en materia de transparencia y en materia de protección de datos personales;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+IV. Colaborar con la CEGAIP para promover y fortalecer la cultura, del ejercicio del derecho de acceso a la información pública, del ejercicio del derecho a la protección de datos personales, y de transparencia, en los diversos sectores de la población, especialmente en el educativo de todos los niveles que se impartan en el Estado;
 
 V. Coadyuvar con la CEGAIP en la implementación de programas de capacitación, enseñanza y cualquier otra forma de entrenamiento o formación en materia de transparencia, acceso a la información y protección de datos personales, y
 
@@ -1017,7 +1019,9 @@ XXV. Promover la capacitación, actualización y habilitación de los servidores
 
 XXVI. Elaborar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la presente Ley, tengan que realizarse ante los entes obligados y la CEGAIP;
 
-XXVII. Promover que en los planes y programas de la educación que imparten las instituciones públicas y privadas en el Estado, en todos sus niveles y modalidades, se incluyan contenidos relacionados con el ejercicio del derecho de acceso a la información pública, y el respeto a la acción de protección de datos personales, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+XXVII. Promover y fortalecer la cultura, del ejercicio del derecho de acceso a la información pública, del ejercicio del derecho a la protección de datos personales, y de transparencia, en los diversos sectores de la población, especialmente en el educativo de todos los niveles que se impartan en el Estado, y
 
 XXVIII. Las demás que le confiera esta Ley, su reglamento interior, y cualquier otra disposición legal aplicable.
 
@@ -1440,6 +1444,12 @@ SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a l
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a las del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
