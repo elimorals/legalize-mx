@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-derechos-del-contribuyente-del-estado-de-tamaulipas-7038
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2010-10-26"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -169,7 +169,11 @@ El contribuyente deberá entregar a la autoridad revisora, una copia de la decla
 
 1. Las autoridades fiscales contarán con un plazo de seis meses para determinar las contribuciones omitidas que conozcan con motivo del ejercicio de sus facultades de comprobación, sin perjuicio de lo dispuesto en el tercer párrafo del artículo 14 de esta Ley.
 
-2. El cómputo del plazo se realizará a partir de los supuestos a que se refiere el artículo 48-A del Código Fiscal del Estado y le serán aplicables las reglas de suspensión que dicho precepto contempla. Si no lo hacen en dicho lapso, se entenderá de manera definitiva que no existe crédito fiscal alguno a cargo del contribuyente por los hechos, contribuciones y períodos revisados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+2.- El cómputo del plazo se realizará a partir de los supuestos a que se refiere el artículo 51 del Código Fiscal del Estado de Tamaulipas y le serán aplicables las reglas de suspensión que dicho precepto contempla. Si no lo hacen en dicho lapso, se entenderá de manera definitiva que no existe crédito fiscal alguno a cargo del contribuyente por los hechos, contribuciones y períodos revisados.
 
 ###### Artículo 17.
 
@@ -228,3 +232,13 @@ P.O. 26 DE OCTUBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
