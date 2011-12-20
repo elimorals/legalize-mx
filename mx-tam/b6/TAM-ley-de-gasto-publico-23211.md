@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2010-04-27"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -417,9 +417,13 @@ La Contraloría Gubernamental estará facultada para realizar programas de inspe
 
 ### CAPITULO VI. DE LA CONTABILIDAD
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 65.
 
-La contabilidad del gasto público se establecerá conforme a los sistemas que apruebe el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, la cual incluirá las cuentas para registrar tanto los activos, pasivos, patrimonio, ingresos, costos y egresos, así como las asignaciones, compromisos y ejercicio correspondiente a los programas y partidas de su propio presupuesto.
+La contabilidad del gasto público se establecerá conforme a la Ley General de Contabilidad Gubernamental, la normatividad que emita el Consejo Nacional de Armonización Contable, y demás disposiciones aplicables en la materia.
 
 ###### ARTICULO 66.
 
@@ -429,27 +433,57 @@ I.- Girar instrucciones sobre la forma y términos en que las entidades deban ll
 
 II.- Expedir los catálogos de cuenta que aplicarán las dependencias del Ejecutivo; y
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Autorizar, en coordinación con la Auditoría Superior del Estado, los catálogos de cuenta de las demás entidades a que se refiere el artículo 3º de esta ley.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-Los catálogos de cuentas de los Poderes Legislativo y Judicial serán los que estos mismos se aprueben, procurando homologarlos a los del Poder Ejecutivo.
+III.- Autorizar, en coordinación con el Consejo de Armonización Contable del Estado de Tamaulipas, los catálogos de cuenta de las demás entidades a que se refiere el artículo 3º de esta ley, que deberán ser los mismos de la ley general de contabilidad gubernamental y los lineamientos del Consejo Nacional de Armonización Contable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+Los catálogos de cuentas de los Poderes Legislativo y Judicial serán conforme a las disposiciones de la Ley General de Contabilidad Gubernamental y los lineamientos del Consejo Nacional de Armonización Contable.
 
 ###### ARTICULO 67.
 
 La contabilidad de las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos y metas en las unidades responsables de su ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+La contabilización de las transacciones del gasto se hará conforme a la fecha de su realización, independientemente de la de su pago, y la del ingreso se registrará cuando exista jurídicamente el derecho de cobro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+Las operaciones presupuestales y contables derivadas de la gestión pública, se registrarán de manera armónica, delimitada y especifica, de manera que permitan la generación de Estados Financieros confiables, oportunos, comprensibles, periódicos y comparables, expresados en términos monetarios, objetivo de la Ley General de Contabilidad Gubernamental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 68.
 
-El sistema de contabilidad se debe diseñar y operar en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, egresos avances en la ejecución de programas y en general de manera que permita medir la eficiencia del gasto público del Estado, en el momento en que sea requerido.
+El sistema de contabilidad se debe diseñar y operar en forma que facilite la fiscalización de los activos, pasivos, patrimonio, ingresos y gastos, avances en la ejecución de programas y en general de manera que permita medir la eficiencia del gasto público, la modificación patrimonial del gobierno y de las finanzas públicas, en el momento en que sea requerido.
 
 ###### ARTICULO 69.
 
 Los fines de la contabilidad gubernamental serán:
 
-I.- Registrar el gasto público;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Proporcionar información sobre la aplicación de los fondos públicos a fin de coadyuvar en la toma de decisiones;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+I.- Registrar el gasto público de acuerdo a los principios, normas contables generales y específicas e instrumentos que establezca la Ley General de Contabilidad Gubernamental y Consejo Nacional de Armonización Contable;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+II.- Proporcionar información sobre la aplicación de los fondos públicos, de una manera oportuna, confiable y comparable, a la transparencia y a la rendición de cuentas;
 
 III.- Detectar desviaciones si las hubiere, a efecto de corregirlas o delimitar responsabilidades e informar al órgano de control correspondiente;
 
@@ -574,3 +608,13 @@ P.O. 27 DE ABRIL DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
