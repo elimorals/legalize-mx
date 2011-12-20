@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2010-12-31"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -255,7 +255,9 @@ IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguri
 
 V.- Ordenar y llevar a cabo, las medidas de aseguramiento provisional de bienes muebles para garantizar el pago de la reparación del daño;
 
-VI.- Restituir provisionalmente al ofendido en el goce de sus derechos, de oficio o a petición de éste, cuando tales derechos estén acreditados y se hayan demostrado plenamente los elementos del cuerpo del delito de que se trate. La restitución ministerial no procederá cuando se trate de bienes inmuebles, sobre los cuales resolverá el órgano jurisdiccional, sin perjuicio de que el ministerio público dicte las medidas necesarias para su conservación;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
+
+VI.- Restituir provisionalmente al ofendido en el goce de sus derechos, de oficio o a petición de éste, cuando tales derechos estén acreditados y se hayan demostrado plenamente los elementos del cuerpo del delito de que se trate, en los términos previstos en este código.
 
 VII.- Conceder o negar la libertad provisional del indiciado;
 
@@ -417,9 +419,9 @@ IV.- Tener acceso a las diligencias que se realicen en cualquier momento del pro
 
 V.- Ser convocado oficiosamente por el juez, para que se le informe sobre sus derechos y se levante un acta para determinar los daños morales y materiales que hubiese resentido;
 
-VI.- Solicitar al ministerio público o al juez de la causa, la restitución provisional de sus derechos, cuando estén debidamente justificados y se haya demostrado el cuerpo del delito.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-En tratándose de bienes inmuebles, sólo el juez podrá ordenar la restitución pudiendo, si lo juzga necesario, fijar caución suficiente al ofendido para responder de los daños y perjuicios que pudieran causarse al inculpado si resulta absuelto;
+VI.- Solicitar al Ministerio Público o al Juez de la causa, restituya provisionalmente el goce de sus derechos cuando estén debidamente justificados, en los términos previstos en este código;
 
 VII.- Proporcionar al ministerio público o al juzgador, directamente o por medio de su representante, todas las pruebas con que cuente para demostrar el delito y la responsabilidad del inculpado, así como la existencia y monto de la reparación del daño, a que se desahoguen todas las diligencias probatorias pendientes y a presentar conclusiones, si lo desea, por lo que toca a la reparación del daño, dentro del mismo período otorgado al ministerio público;
 
@@ -3624,3 +3626,7 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 B.O. 31 DE DICIEMBRE DE 2010.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 2011.
+
+ÚNICO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
