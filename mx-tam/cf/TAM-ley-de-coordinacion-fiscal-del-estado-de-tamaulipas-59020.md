@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2011-06-15"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -37,7 +37,7 @@ LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE
 
 DE C R E T O No. LIX-1089
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS..
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -485,6 +485,24 @@ La Comisión podrá contar con grupos de trabajo permanentes; así como integrar
 
 El financiamiento, integración, operación y funcionamiento de la Comisión, así como de los Grupos de Trabajo que la integren, se establecerán en el Reglamento de la Comisión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO OCTAVO. DE LAS PARTICIPACIONES E INCENTIVOS A LOS MUNICIPIOS EN MATERIA DE INGRESOS ESTATALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 44.
+
+A los Municipios les corresponden y percibirán ingresos por concepto de las participaciones que reciba el Estado, respecto al Impuesto sobre Tenencia o Uso de Vehículos dentro del ejercicio de que se trate, en la proporción que para cada Fondo se establece a continuación:
+
+I.- El 20 por ciento de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando los Municipios suscriban Convenio de Colaboración con el Estado, y cumplan con lo establecido en el mismo; y
+
+II.- Las participaciones que correspondan a los Municipios derivados del Impuesto sobre Tenencia o Uso de Vehículos a que se refiere la fracción anterior, serán distribuidas en proporción a la recaudación que se obtenga de dicho impuesto, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -556,3 +574,27 @@ La Comisión de Funcionarios de la Hacienda Pública de Tamaulipas, deberá qued
 ###### ARTÍCULO TERCERO.
 
 La Comisión de Funcionarios de la Hacienda Pública de Tamaulipas propondrá al Ejecutivo del Estado el Reglamento de la misma, en el cual deberá incluirse normas para su financiamiento, operación y funcionamiento, así como los Grupos de Trabajo que la integren, a más tardar a los 60 días posteriores de la instalación de la misma.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 31 de diciembre del 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obligaciones derivadas de la Ley del Impuesto sobre Tenencia o Uso de Vehículos publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980, última reforma el 31 de diciembre de 2008, vigentes al 31 de diciembre de 2011, que hubieran nacido antes de que se suspenda el cobro del impuesto a que se refiere dicha ley, en los términos del Artículo Cuarto Transitorio del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal; de la Ley del Impuesto sobre Tenencia o Uso de Vehículos; y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, por la realización de las situaciones jurídicas previstas en el ordenamiento primeramente citado, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Durante el primer año de vigencia del Impuesto sobre Tenencia o Uso de Vehículos, contemplado en el Título II, Capítulo IV de la Ley de Hacienda para el Estado de Tamaulipas, y para efectos de calcular el impuesto cuando en dicho apartado se haga referencia al "impuesto causado en el ejercicio inmediato anterior", se considerará como tal el causado en términos de la Ley del Impuesto sobre Tenencia o Uso de Vehículos vigente hasta el 31 de diciembre del 2011, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980, última reforma el 31 de diciembre de 2008, durante el ejercicio inmediato anterior al de aplicación de esa ley.
+
+###### ARTÍCULO CUARTO.
+
+Durante el año 2012, las participaciones que corresponden a los Municipios derivadas del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal, a que se refiere la fracción I del artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, serán sustituidas por el 15 por ciento de los ingresos recaudados por el Estado en materia de derechos de control vehicular.
+
+Estos serán distribuidos en proporción a la recaudación que se obtenga de dichos conceptos, conforme al domicilio declarado por el contribuyente al efectuar su pago.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento del mismo y se resolverán conforme a dichos preceptos hasta su culminación.
