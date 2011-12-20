@@ -4,7 +4,7 @@ identifier: "GRO-ley-para-el-bienestar-e-incorporacion-social-de-las-14738"
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-13"
-last_updated: "1999-04-13"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY PARA EL BIENESTAR E INCORPORACION SOCIAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUERRERO, NUM. 281
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de abril de 1999.
 
@@ -486,3 +488,21 @@ El Secretario General de Gobierno.
 C. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente Ley, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley para el Bienestar e Incorporación Social de las Personas con Discapacidad en el Estado de Guerrero, Número 281, todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento Interno del Consejo Estatal para la Integración Social de las Personas con Discapacidad, dentro de los 90 días siguientes a la entrada en vigor de esta Ley.
+
+CUARTO.- Las instalaciones, edificios públicos, calles, parques y jardines existentes y cuya vida útil sea aún considerable, serán adaptados de manera paulatina, de conformidad con los programas operativos de obra pública, no mayor a seis meses, contados a partir de la entrada en vigor de la presente Ley.
+
+Para tal fin, el Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los 81 Ayuntamientos Municipales y los organismos autónomos, contemplarán en sus respectivos presupuestos los recursos necesarios para la realización de dichas adaptaciones en los inmuebles que de ellos dependan.
+
+Tratándose de edificios con valor histórico y arquitectónico, se estará a la opinión emitida por la Comisión del Patrimonio Cultural del Estado.
+
+QUINTO. - Comuníquese al Ejecutivo del Estado para su promulgación y publicación.
