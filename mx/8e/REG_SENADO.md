@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2010-12-20"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "REG_SENADO"
 ---
 # REGLAMENTO DEL SENADO DE LA REPUBLICA
 
-REGLAMENTO DEL SENADO DE LA REPUBLICA
+REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -3006,13 +3006,19 @@ Artículo 300
 
 4. El Instituto Belisario Domínguez del Senado de la República tiene a su cargo tareas de investigación jurídica y legislativa
 
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2011)</small>
+
+5. El Centro de Estudios Internacionales Gilberto Bosques del Senado de la República tendrá como objeto la realización de estudios y el acopio de información sobre temas de política internacional y política exterior de México; así como el prestar apoyo a las comisiones de relaciones exteriores para el desarrollo de sus actividades y el ejercicio de las facultades exclusivas del Senado en materia de política exterior; además de auxiliar a los órganos directivos, comisiones, grupos parlamentarios y senadores que así lo requieran en cuanto a diplomacia parlamentaria y protocolo en el ámbito internacional.
+
 Artículo 301
 
 1. Para la profesionalización del personal de apoyo parlamentario y administrativo, el Senado cuenta con el Centro de Capacitación y Formación Permanente, dependiente de la Mesa Directiva, el cual se regula conforme al Estatuto del Servicio Civil de Carrera del Senado de la República, establecido por la Ley.
 
 2. Para la organización y el funcionamiento de las secretarías de Servicios Parlamentarios y de Servicios Administrativos, la Tesorería y la Contraloría Interna, el Estatuto de los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República establece sus respectivas estructuras, relaciones de mando y supervisión, adscripciones y funciones.
 
-3. El Estatuto a que se refiere el párrafo anterior desarrolla las bases orgánicas y funcionales del Instituto Belisario Domínguez del Senado, establecido en los términos del artículo 135 de la Ley; así como de la Unidad de Enlace para la Transparencia y el Acceso a la Información Pública del Senado creada conforme a la ley de la materia.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2011)</small>
+
+3. El Estatuto a que se refiere el párrafo anterior desarrolla las bases orgánicas y funcionales del Instituto Belisario Domínguez y del Centro de Estudios Internacionales Gilberto Bosques, establecidos en los términos del artículo 135 de la Ley; así como de la Unidad de Enlace para la Transparencia y el Acceso a la Información Pública del Senado creada conforme a la ley de la materia.
 
 Artículo 302
 
@@ -3193,3 +3199,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las iniciativas de senadores acumuladas y pendientes de dictaminar durante los primeros dos años de ejercicio de la LXI legislatura, que al 31 de agosto de 2011 se hallen en el supuesto de la fracción III del artículo 219 serán sometidas al procedimiento ahí previsto, al iniciar el Tercer Año de Ejercicio Legislativo de la LXI Legislatura.
+
+D.O.F. 20 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Mesa Directiva, a través de la Secretaría General de Servicios Administrativos, dictará las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias para garantizar el adecuado funcionamiento del Centro.
+
+TERCERO. La estructura, organización, facultades y funcionamiento del Centro de Estudios Internacionales Gilberto Bosques, serán establecidos en el Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República.
