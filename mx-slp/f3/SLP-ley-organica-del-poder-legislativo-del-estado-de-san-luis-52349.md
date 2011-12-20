@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2011-12-13"
+last_updated: "2011-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1249,35 +1249,39 @@ III. La consulta y concertación con autoridades educativas tendientes al mejora
 
 IV. Los relativos a la protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y municipios;
 
-V. Los relacionados con la promoción, fomento y difusión de las actividades culturales, recreativas y deportivas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-VI. Los relativos a la ciencia y tecnología;
+V. Los relacionados con la promoción, fomento y difusión de las actividades culturales y recreativas;
 
-VII. Redactar anualmente la convocatoria, revisar y dictaminar sobre las propuestas que se presenten y someter al Pleno el otorgamiento de la Presea Plan de San Luis;
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-VIII. Lo concerniente a la rendición de honores a la memoria de los potosinos que hayan prestado servicios de importancia al Estado;
+VI. De la legislación relativa a la cultura física y deporte, así como de sus reformas y adiciones;
 
-IX. El otorgamiento de premios y reconocimientos a los alumnos destacados por su aprovechamiento en cada nivel educativo en el Estado;
+VII. Los relativos a la ciencia y tecnología;
 
-X. El otorgamiento de preseas o reconocimientos en las diferentes áreas del desarrollo humano destacados;
+VIII. Redactar anualmente la convocatoria, revisar y dictaminar sobre las propuestas que se presenten y someter al Pleno el otorgamiento de la Presea Plan de San Luis;
 
-XI. La investigación, en su caso, de los méritos que se adjudican a los potosinos propuestos;
+IX. Lo concerniente a la rendición de honores a la memoria de los potosinos que hayan prestado servicios de importancia al Estado;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+X. El otorgamiento de premios y reconocimientos a los alumnos destacados por su aprovechamiento en cada nivel educativo en el Estado;
 
-XII. Convocar anualmente, a la celebración del Parlamento de las y los Jóvenes del Estado de San Luis Potosí; que se realizará en coordinación con la instancia de juventud del Gobierno del Estado, el Consejo Estatal Electoral y de Participación Ciudadana, y los ayuntamientos de la Entidad; establecer las bases para el desarrollo del evento y, previo análisis de las propuestas de los participantes, elaborar y, con base en ellas, presentar al Pleno las iniciativas que estime conducentes;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+XI. El otorgamiento de preseas o reconocimientos en las diferentes áreas del desarrollo humano destacadas;
 
-XIII. Organizar, de preferencia en el mes (sic) abril, el Parlamento de los Niños y las Niñas;
+XII. La investigación, en su caso, de los méritos que se adjudican a los potosinos propuestos;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-XIV. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+XIII. Convocar anualmente, a la celebración del Parlamento de las y los jóvenes del Estado de San Luis Potosí; que se realizará en coordinación con la instancia de juventud del Gobierno del Estado, el Consejo Estatal Electoral y de Participación Ciudadana y los ayuntamientos de la Entidad; establecer las bases para el desarrollo del evento y, previo análisis de las propuestas de los participantes; elaborar y, con base en ellas, presentar al Pleno las iniciativas que estime conducentes;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
-XV. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+XIV. Organizar, de preferencia en el mes de abril, el Parlamento de los Niños y las Niñas;
+
+XV. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+
+XVI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 109.
 
@@ -1569,7 +1573,7 @@ El Congreso del Estado deberá contar con un Comité de Adquisiciones, Arrendami
 
 Los órganos de soporte técnico, de apoyo y de control del Congreso, son dependencias responsables y especializadas en los ámbitos de competencia que respectivamente les señala la presente Ley, el Reglamento y demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 126.
 
@@ -1771,7 +1775,7 @@ V. Informes del Congreso, y
 
 VI. Asistencias de los diputados y actas de las sesiones plenarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1779,7 +1783,7 @@ La información de la Gaceta deberá actualizarse en la página del Congreso del
 
 La antelación de la publicación de la Gaceta podrá ser dispensada, en los casos en que la ley establezca plazos perentorios para la aprobación o el conocimiento de determinados asuntos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1789,9 +1793,9 @@ No podrán publicarse en la Gaceta los asuntos tratados en las sesiones privadas
 
 ### Capítulo V. De la Gaceta Parlamentaria
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2011)</small>
 
 ## TRANSITORIOS
 
@@ -1944,5 +1948,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE DICIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
