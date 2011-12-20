@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2011-07-13"
+last_updated: "2011-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
+CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1955,6 +1955,10 @@ Por ingresos compartidos deben entenderse todos aquellos a los que tenga derecho
 
 ### CAPITULO IV. DE LA CONTABILIDAD
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 150.
 
 El gasto público municipal, comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento y los organismos o empresas paramunicipales.
@@ -2079,15 +2083,23 @@ El Congreso del Estado revisará las Cuentas Públicas de los municipios, aplica
 
 ###### ARTICULO 168.
 
-Cada Municipio llevará su propia contabilidad, la cual incluirá las cuentas necesarias para registrar los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, inversiones, asignaciones, obligaciones y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+Cada municipio llevará su propia contabilidad, la cual incluirá las cuentas necesarias para registrar los activos, pasivos, capital o patrimonio, ingresos y gastos, inversiones, asignaciones, obligaciones y ejercicios correspondientes a los programas y partidas de su propio presupuesto, las cuales deberán de ser conforme con los sistemas administrativos y de control de gasto establecidos en la Ley General de Contabilidad Gubernamental, la normatividad que emita el Consejo Nacional de Armonización Contable y demás disposiciones aplicables en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 169.
 
-La contabilidad de los municipios se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución.
+La contabilidad de los municipios se llevará con base acumulativa para facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas, con objetivos, metas y unidades responsables de su ejecución.
 
 Los sistemas de contabilidad deben diseñarse y operarse en forma que faciliten el control de los activos, pasivos, ingresos, gastos, avances en la ejecución de programas y permitan medir la eficacia y eficiencia del gasto público municipal.
 
-Los Municipios informarán oportunamente al Congreso del Estado las normas, procedimientos y sistemas que implanten, para los efectos de la revisión de la cuenta pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
+Los municipios presentarán información al Congreso del Estado sobre la aplicación de los fondos públicos, de una manera oportuna, confiable y comparable, a la transparencia y a la rendición de cuentas.
 
 ## TITULO CUARTO. DE LOS SERVICIOS PUBLICOS Y DESARROLLO MUNICIPAL
 
@@ -3029,9 +3041,13 @@ El Presidente del Tribunal durará en su cargo tres años y los demás represent
 
 El Tribunal de Conciliación y Arbitraje de los Municipios, contará con un Secretario General y los empleados que señale las necesidades del servicio. El personal del Tribunal, a excepción del Secretario de Acuerdos, estarán sujetos al presente ordenamiento, pero los conflictos que se susciten con motivo de su aplicación, serán resueltos por las autoridades locales del trabajo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 274.
 
-Los gastos que origine el funcionamiento del Tribunal de Conciliación y Arbitraje de los Municipios se cubrirán proporcionalmente por la Tesorería General del Estado de las participaciones que reciben los Ayuntamientos.
+Los gastos que origine el funcionamiento del Tribunal de Conciliación y Arbitraje de los Municipios se cubrirán proporcionalmente por la Secretaría de Finanzas del Gobierno del Estado, aplicando la tasa del uno al millar a las participaciones que reciben los Ayuntamientos.
 
 ###### ARTICULO 275.
 
@@ -3968,3 +3984,13 @@ P.O. 13 DE JULIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
