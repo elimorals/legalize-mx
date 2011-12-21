@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-tribunal-de-lo-contencioso-25051"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-19"
-last_updated: "2002-04-19"
+last_updated: "2011-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 19 de abril de 2002.
 
@@ -470,3 +472,19 @@ MAGISTRADA DE LA SALA SUPERIOR
 LIC. GUADALUPE DEL C. ORTIZ INZUNZA
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación, en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Sinaloa, aprobado mediante sesión ordinaria 13/2002, celebrada el día cinco de abril de dos mil dos.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente ordenamiento.
