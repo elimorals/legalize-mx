@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-comisiones-del-consejo-estatal-electoral-65046"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2011-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2008.
 
@@ -111,6 +111,8 @@ La interpretación de las disposiciones de este Reglamento se sujetará a los pr
 
 Las Comisiones ejercerán las facultades que les confiera el Código Electoral del Estado Libre y Soberano de Morelos, el Reglamento Interior, este Reglamento, los acuerdos de integración de las mismas, los lineamientos o reglamentos específicos de su materia, así como los acuerdos y resoluciones del propio Consejo Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 3.
 
 Para los efectos de este reglamento, se entenderá por:
@@ -135,15 +137,19 @@ i) Reglamento Interior: el Reglamento Interior del Instituto Estatal Electoral;
 
 j) Representantes: los Representantes de los Partidos Políticos ante el Consejo Estatal Electoral;
 
-k) Secretario: el Secretario Ejecutivo del Instituto Estatal Electoral;
+k) Secretario Ejecutivo: el Secretario Ejecutivo del Instituto Estatal Electoral;
 
-l) Coordinador: el Secretario Ejecutivo del Instituto Estatal Electoral, quien se desempeñara como coordinador de los trabajos de cada Comisión del Consejo Estatal Electoral;
+l) Coordinador: el Secretario Ejecutivo del Instituto Estatal Electoral, quien se desempeñara como Coordinador de los trabajos de cada Comisión del Consejo Estatal Electoral;
 
-m) Direcciones: las Direcciones de área de la Secretaria Ejecutiva del Instituto Estatal Electoral; y
+m) Direcciones: La Dirección Ejecutiva de Organización y Partidos Políticos, la Dirección Ejecutiva de Capacitación y Educación Electoral y la Dirección Ejecutiva de Administración y Financiamiento del Instituto Estatal Electoral; y (sic)
 
-n) Personal de apoyo: el personal técnico especializado, del Instituto Estatal Electoral.
+n) Secretario: el Titular de las Direcciones Ejecutivas correspondientes del Instituto Estatal Electoral;
+
+o) Personal de apoyo: el personal técnico especializado, del Instituto Estatal Electoral.
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN DE LAS COMISIONES
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 4.
 
@@ -151,13 +157,13 @@ Las Comisiones serán de dos tipos:
 
 a) Permanentes: aquéllas enunciadas expresamente en el Código Electoral las cuales tendrán como objetivo supervisar el desarrollo adecuado de las actividades de las diferentes direcciones y órganos técnicos del Instituto de acuerdo a la materia encomendada, siendo las siguientes:
 
-I.- De Organización y Partidos Políticos;
+I. De Organización y Partidos Políticos;
 
-II.- De Capacitación Electoral y Educación Cívica;
+II. De Capacitación Electoral y Educación Electoral;
 
-III.- De Administración y Financiamiento; y
+III. De Administración y Financiamiento; y
 
-IV.- De Fiscalización.
+IV. De Fiscalización.
 
 b) Provisionales: las creadas por acuerdo del Consejo para la realización de tareas especificas temporales, cuando estas sean necesarias para el desempeño de sus atribuciones.
 
@@ -175,19 +181,21 @@ d) Los plazos o condiciones para dar por terminado el asunto y, en consecuencia,
 
 Solo se podrá ampliar el plazo de vigencia de una Comisión Provisional, si a juicio del Consejo queda debidamente justificado.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 6.
 
-Las Comisiones Permanentes se integrarán por tres Consejeros Electorales, dentro de los cuales podrá estar el Consejero Presidente del Instituto. Por mayoría de votos, el pleno del Consejo Estatal Electoral determinara quien las presidirá y el Secretario Ejecutivo coordinará el trabajo de las comisiones. Podrán participar en las Comisiones Permanentes con derecho de voz pero sin voto, los representantes de los partidos políticos, con excepción de la de fiscalización.
+Las Comisiones Permanentes se integrarán por tres Consejeros Electorales, dentro de los cuales podrá estar el Consejero Presidente del Instituto. Por mayoría de votos, el pleno del Consejo Estatal Electoral determinara quien las presidirá, el Secretario Ejecutivo coordinará el trabajo de las comisiones y el titular de la Dirección Ejecutiva correspondiente realizará la función de secretario de la misma. Podrán participar en las Comisiones Permanentes con derecho de voz pero sin voto, los representantes de los partidos políticos, con excepción de la de fiscalización.
 
 Las Comisiones Provisionales estarán integradas por el número de Consejeros Electorales que para tal fin se designen, dentro de los cuales podrá estar el Consejero Presidente del Instituto. Serán presididas por un Consejero Electoral definido por el pleno, y podrán participar con derecho a voz los representantes de los partidos políticos.
 
 Los demás Consejeros podrán asistir a las reuniones de todas las Comisiones y participar en ellas, exclusivamente con derecho de voz.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 7.
 
-Los Directores de área de la Secretaría Ejecutiva del Instituto, prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera, también contarán con el auxilio o asesoría técnico-científica de especialistas.
-
-Las comisiones para su eficiente desempeño podrán contar con el personal técnico que autorice el Consejo de conformidad a la asignación presupuestal.
+Los Directores Ejecutivos del Instituto, fungirán como Secretarios y prestarán el apoyo a las comisiones para la realización de sus actividades o programas específicos. En el caso que se requiera, también contarán con el auxilio o asesoría técnico-científica de especialistas.
 
 ###### ARTÍCULO 8.
 
@@ -197,7 +205,9 @@ a) Discutir y aprobar los dictámenes, proyectos de acuerdo o de resolución; en
 
 b) Solicitar información a otras Comisiones o a cualquier órgano del Instituto, que resulte necesaria para la resolución de un asunto de su competencia;
 
-c) Solicitar información a autoridades diversas al Instituto, por conducto del Consejero Presidente, y a particulares por conducto del Secretario; y
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+c) Solicitar información a autoridades diversas al Instituto, por conducto del Consejero Presidente, y a particulares por conducto del Secretario Ejecutivo; y
 
 d) Las demás que deriven del Reglamento Interior, del presente Reglamento, de los acuerdos del Consejo y de las demás disposiciones aplicables.
 
@@ -209,7 +219,9 @@ a) Discutir y aprobar los dictámenes, proyectos de acuerdo, de resolución y, e
 
 b) Solicitar información a otras Comisiones o a cualquier órgano del Instituto, que resulte necesaria para la resolución de un asunto de su competencia;
 
-c) Solicitar información a autoridades diversas al Instituto, por conducto del Consejero Presidente, y a particulares por conducto del Secretario; y
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+c) Solicitar información a autoridades diversas al Instituto, por conducto del Consejero Presidente, y a particulares por conducto del Secretario Ejecutivo; y
 
 d) Las demás que deriven del Reglamento Interior, del presente Reglamento, de los acuerdos del Consejo y de las demás disposiciones aplicables.
 
@@ -311,9 +323,11 @@ l) Organizar y mantener el archivo de los asuntos que conozca la Comisión; y
 
 m) Lo demás que le atribuya el Código, el Reglamento Interior, el presente Reglamento, el acuerdo de creación de la Comisión de que se trate, el Consejo o la propia Comisión.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 15.
 
-Los Directores y personal de apoyo, tendrán las siguientes responsabilidades al interior de las Comisiones:
+El Secretario de la Comisión respectiva y/o el personal de apoyo, tendrán las siguientes responsabilidades al interior de las Comisiones:
 
 a) Asistir a las reuniones de las Comisiones relacionadas con el área de su competencia solo con derecho de voz;
 
@@ -381,7 +395,9 @@ Para la instalación de las reuniones será necesaria la asistencia del Presiden
 
 El Presidente podrá ausentarse momentáneamente de la reunión, en cuyo caso designará a un Consejero para que lo auxilie en la conducción de la misma. Si el Presidente no pudiere asistir a la reunión, deberá comunicarlo a la Comisión, delegando en ese caso por escrito su función a uno de los Consejeros integrantes.
 
-En caso de inasistencia del Coordinador a la reunión, sus funciones serán realizadas en este caso por el funcionario designado de entre el personal adscrito a la Secretaría Ejecutiva, por el Presidente de la Comisión respectiva.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+En caso de inasistencia del Coordinador a la reunión, sus funciones serán realizadas en este caso por el Secretario de dicha Comisión.
 
 ###### ARTÍCULO 21.
 
@@ -441,23 +457,21 @@ Cualquier integrante de la Comisión, Consejero o Representante de los partidos 
 
 Las mociones al orador deberán dirigirse al Presidente y contar con la anuencia de aquél a quien se haga.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-El Presidente y los Consejeros integrantes de la Comisión deberán votar todo proyecto de acuerdo o de resolución, programa, informe, dictamen o resolución que se ponga a su consideración, y en ningún caso podrán abstenerse de ello.
+El Presidente y los Consejeros integrantes de la Comisión deberán votar todo proyecto de acuerdo o de resolución, programa, dictamen o resolución que se ponga a su consideración, y en ningún caso podrán abstenerse de ello.
 
-La votación se tomará con base en el proyecto de acuerdo, programa, informe, dictamen o resolución presentada inicialmente por el Presidente, con el contenido de los documentos entregados en la convocatoria. Durante el desarrollo de la reunión podrán incorporarse las modificaciones que hayan realizado los Consejeros y representantes de los partidos políticos, si así lo aprueba la mayoría de los integrantes con voto, a propuesta del Presidente.
+La votación se tomará con base en el proyecto de acuerdo, programa, dictamen o resolución presentada inicialmente por el Presidente, con el contenido de los documentos entregados en la convocatoria. Durante el desarrollo de la reunión podrán incorporarse las modificaciones que hayan realizado los Consejeros y representantes de los partidos políticos, si así lo aprueba la mayoría de los integrantes con voto, a propuesta del Presidente.
 
-Los programas, informes, dictámenes, acuerdos o resoluciones se tomarán por mayoría simple de votos de los Consejeros integrantes presentes.
+Los programas, dictámenes, acuerdos o resoluciones se tomarán por mayoría simple de votos de los Consejeros integrantes presentes.
 
-La votación se hará en lo general y en lo particular, cuando así lo proponga el Presidente o lo solicite un Consejero o representante de los partidos políticos presente.
-
-Los Consejeros votarán levantando la mano. Primero se expresarán los votos a favor, después los votos en contra.
-
-El Consejero que esté en desacuerdo con el sentido de la votación podrá emitir para su presentación en el Consejo, un voto particular que contenga los argumentos que refieran su disenso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 25.
 
-De cada reunión se levantará una versión estenográfica, que servirá de base para la elaboración del proyecto de acta o minuta que contendrá los datos de identificación de la reunión, los puntos del orden del día, la lista de asistencia, el contenido argumentativo de todas las intervenciones con su identificación nominal correspondiente, el sentido de los votos emitidos con su respectiva identificación nominal y la síntesis de los acuerdos aprobados. El proyecto de acta o minuta de cada reunión se someterá a la Comisión para su aprobación en la siguiente reunión que se celebre, salvo en los casos en que la proximidad de las reuniones impida la elaboración del proyecto respectivo.
+De cada reunión se levantará una versión estenográfica, que servirá de base para la elaboración del proyecto de acta o minuta que contendrá los datos de identificación de la reunión, los puntos del orden del día, la lista de asistencia, el sentido de los votos emitidos con su respectiva identificación nominal y la síntesis de los acuerdos aprobados. El proyecto de acta o minuta de cada reunión se someterá a la Comisión para su aprobación en la siguiente reunión que se celebre, salvo en los casos en que la proximidad de las reuniones impida la elaboración del proyecto respectivo.
 
 ## TRANSITORIOS
 
@@ -514,3 +528,13 @@ C. MAURICIO ARZAMENDI GORDERO
 PARTIDO NUEVA ALIANZA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Es competente para aprobar el presente acuerdo, de conformidad a lo dispuesto en el considerando primero del mismo.
+
+SEGUNDO.- Se aprueban la modificación y adición de los artículos 3, 4, 6, 7, 8, 9, 15, 20, 24 y 25 del Reglamento de Comisiones del Consejo Estatal Electoral, mismas que entrarán en vigor al día siguiente de su aprobación por este órgano comicial, en términos del considerando segundo del presente acuerdo .
+
+TERCERO.- Publíquese el presente acuerdo en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
