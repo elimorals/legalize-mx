@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2011-11-30"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -2099,17 +2099,31 @@ XXVIII. Alterar de manera negligente o intencional las evidencias, objetos, inst
 
 XXIX. Mostrar un comportamiento discriminatorio en perjuicio de personas en razón de su sexo, preferencia sexual, raza, condición física, edad, nacionalidad, condición social, económica, religiosa o étnica;
 
+> <small>(REFORMADA, P.O.21 DE DICIEMBRE DE 2011)</small>
+
 XXX. Obligar por cualquier medio a sus subalternos a la entrega de dinero o cualquier otro tipo de dádivas;
 
-Revelar asuntos secretos o información reservada de los que tenga conocimiento en razón de su empleo, cargo o comisión;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
-XXXI. Dañar o utilizar de forma negligente el armamento que se le proporcione para la prestación del servicio; y
+XXXI. Revelar asuntos secretos o información reservada de los que tenga conocimiento en razón de su empleo, cargo o comisión;
 
-XXXII. Utilizar o llevar consigo durante el servicio o comisión, uno o varios teléfonos móviles, radiofrecuencias o cualesquier aparato de comunicación que no sea de aquellos que se le hubieran proporcionado por la dependencia correspondiente para la función a su cargo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+XXXII. Dañar o utilizar de forma negligente el armamento que se le proporcione para la prestación del servicio; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+XXXIII. Llevar consigo durante el pase de lista, o al momento de su llegada a las instalaciones policiales al inicio del turno, uno o varios teléfonos móviles, radiofrecuencias o cualesquier aparato de comunicación que no sea de aquellos que se le hubieran proporcionado por la dependencia correspondiente para la función del cargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 159.
 
-(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
+Se sancionará con pena privativa de libertad de tres a nueve años, multa de doscientas a cuatrocientas cuotas, destitución e inhabilitación de tres a quince años para desempeñar cualquier cargo público, al Policía en cualquiera de las modalidades previstas en esta Ley; agente de tránsito, custodio o elemento de seguridad de los centros penitenciarios, preventivos o de reinserción social que porte o utilice durante el servicio o comisión, uno o varios teléfonos móviles, radiotransmisores, radiofrecuencias o cualquier aparato de comunicación que no sea de aquellos que se le hubieren proporcionado por la dependencia o corporación correspondiente para el ejercicio del cargo.
+
+Al haberse dictado auto de formal prisión o de vinculación al proceso por la comisión de este delito, el imputado será suspendido de sus derechos laborales.
+
+Quedan excluídas de este delito las autoridades señaladas en el Artículo 122 de esta Ley.
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -3171,7 +3185,9 @@ Las conductas descritas en las fracciones V ó XXII serán motivo de la aplicaci
 
 Serán motivo de imposición de separación temporal o destitución, según la naturaleza o gravedad del caso, las conductas previstas en las fracciones II, XII, XVII y XXXIII del Artículo 158.
 
-Son causas de destitución las conductas descritas en los incisos VIII, IX, X, XI, XIII, XV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXX ó XXXI del Artículo 158.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+Son causas de destitución las conductas descritas en los incisos VIII, IX, X, XI, XIII, XV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXX, ó XXXI del Artículo 158, y la del Artículo 159.
 
 También son causas de destitución e inhabilitación:
 
@@ -3418,3 +3434,7 @@ P.O. 3 DE DICIEMBRE DE 2010.
 P.O. 30 DE NOVIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
