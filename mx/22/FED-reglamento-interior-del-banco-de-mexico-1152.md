@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2011-08-01"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1994-09-23"
 ---
 # REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-REGLAMENTO INTERIOR DEL BANCO DE MEXICO
+REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -369,11 +369,13 @@ La Dirección General de Estabilidad Financiera tendrá las atribuciones que se 
 
 A esta Dirección General estarán adscritas las Direcciones de Estabilidad Financiera y de Información del Sistema Financiero.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
 
-ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que se señalan en los artículos 17 y 28 de este Reglamento.
+ARTICULO 14 BIS.- La Dirección General Jurídica además de las atribuciones que se establecen en este precepto, tendrá las que se señalan en los artículos 17 y 28 de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica.
+A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica, así como la Gerencia Jurídica Fiduciaria.
+
+Corresponderá a la Gerencia Jurídica Fiduciaria el desempeño de las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -517,7 +519,9 @@ IV. Expedir las disposiciones relativas a los fideicomisos constituidos en el Ba
 
 V. Recibir y dar el trámite correspondiente a las solicitudes de autorización, de opinión y a las consultas a que se refieren las fracciones II, III y XIII;
 
-VI. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
+
+VI. Concertar y formalizar todos los actos jurídicos relativos a las funciones de banca central, sistemas de pagos, así como aquellos en materia de firma electrónica;
 
 > <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1067,9 +1071,7 @@ VIII. Llevar el control y registro de representantes y delegados fiduciarios y e
 
 IX. Determinar los requisitos legales con que se otorguen los créditos hipotecarios al personal del Banco y, en su caso, autorizar su cancelación, así como formalizar las operaciones respectivas;
 
-(REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
-
-X. Desempeñar las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos, y (sic)
+X. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2011)
 
 (REUBICADA, D.O.F. 14 DE OCTUBRE DE 2005)
 
@@ -1213,9 +1215,15 @@ La Contraloría tendrá las atribuciones señaladas en los artículos 30 Bis, 30
 
 I. Llevar el registro de los servidores públicos del Banco, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
 
-II. Recibir y registrar las declaraciones patrimoniales que presenten los servidores públicos a que se refiere el artículo 61, fracción II, de la Ley, así como dar seguimiento a la evolución de su situación patrimonial, de acuerdo con las disposiciones que emita la Comisión de Responsabilidades.
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
+
+II. Recibir y registrar las declaraciones patrimoniales y curriculares que presenten los servidores públicos a que se refiere el artículo 61, fracción II, de la Ley, así como dar seguimiento a la evolución de su situación patrimonial, de acuerdo con las disposiciones que emita la Comisión de Responsabilidades.
 
 A la Contraloría estará adscrita la Dirección de Control Interno.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2011)</small>
+
+Las personas sujetas a presentar declaraciones de situación patrimonial y curricular, serán los miembros de la Junta de Gobierno, los servidores públicos que ocupen en la Institución puestos de Subgerente o superior, así como aquellos que determine el Gobernador, a propuesta motivada del Contralor, Directores Generales o Director de Auditoría, respecto del personal que dependa jerárquicamente de ellos.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1890,3 +1898,9 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
 
 TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
+
+D.O.F. 21 DE DICIEMBRE DE 2011.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan cambiado sus atribuciones, contenidas en cualquier ordenamiento, deberán entenderse hechas a la Unidad Administrativa que cuente con las atribuciones respectivas.
