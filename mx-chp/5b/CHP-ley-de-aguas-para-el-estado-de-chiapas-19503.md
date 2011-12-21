@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-aguas-para-el-estado-de-chiapas-19503"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-08"
-last_updated: "2011-09-14"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE AGUAS PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -1267,13 +1267,17 @@ EN CASO DE QUE LA PRESTACION DE LOS SERVICIOS PUBLICOS SE CONCESIONE, SE FORMARA
 
 LOS PROMOTORES Y DESARROLLADORES DE FRACCIONAMIENTOS O PARQUES HABITACIONALES, COMERCIALES, INDUSTRIALES O MIXTOS, PODRAN EN LOS TERMINOS DE ESTE CAPITULO OBTENER CONCESION PARA PRESTAR TRANSITORIAMENTE LOS SERVICIOS A QUE SE REFIEREN LA PRESENTE LEY. LAS CONDICIONES ESPECIALES PARA ESTA CONCESION TRANSITORIA SE CONTENDRAN EN EL REGLAMENTO DE LA PRESENTE LEY.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 83.
 
-EN MATERIA DE CONCESIONES SE APLICARA DE MANERA SUPLETORIA A ESTA LEY, LA LEGISLACION CIVIL Y LA LEY ORGANICA MUNICIPAL.
+EN MATERIA DE CONCESIONES, SE APLICARA DE MANERA SUPLETORIA A ESTA LEY, LA LEGISLACION CIVIL ESTATAL Y LA LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 84.
 
-LAS CONTROVERSIAS QUE SE SUSCITEN CON MOTIVO DE LA INTERPRETACION Y APLICACION DE LAS CONCESIONES A QUE SE REFIERE ESTE CAPITULO, SE RESOLVERAN CONFORME A LAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA Y EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE CHIAPAS.
+LAS CONTROVERSIAS QUE SE SUSCITEN CON MOTIVO DE LA INTERPRETACION Y APLICACION DE LAS CONCESIONES A QUE SE REFIERE ESTE CAPITULO, SE RESOLVERAN CONFORME A LAS DISPOSICIONES DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE CHIAPAS Y EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE CHIAPAS.
 
 ### CAPITULO VI. DE LA PARTICIPACION DEL SECTOR SOCIAL
 
@@ -2532,3 +2536,13 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PE
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 21 DE DICIEMBRE DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Organismos Operadores Municipales que en términos de lo dispuesto en el artículo Tercero Transitorio del Decreto 404, publicado en el Periódico Oficial número 263, de fecha cinco de noviembre de dos mil diez, no hubiesen realizado las adecuaciones funcionales y la celebración del convenio correspondiente, deberán formalizarlos en un plazo no mayor a noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Asimismo, los Organismos Operadores Municipales, que hayan celebrado dichos convenios fuera de los términos señalados en el artículo Tercero Transitorio del Decreto referido en el párrafo que antecede, tendrán plena validez jurídica, así como los actos realizados por éstos y los que se celebren en lo sucesivo, siempre y cuando no contravengan las disposiciones establecidas en la Ley de Aguas para el Estado de Chiapas y la normativa aplicable.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
