@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2011-10-12"
+last_updated: "2011-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
+LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -657,6 +657,12 @@ SUJETO
 
 Serán responsables solidarios del pago de este impuesto las personas jurídico-individuales (físicas) y jurídico-colectivas (morales) que contraten y reciban la prestación del trabajo personal subordinado, aún cuando el pago del salario se realice por otra persona.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO POR ARTÍCULO DÉCIMO NOVENO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+La Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos descentralizados, fideicomisos y demás entidades paraestatales, así como los órganos constitucionales, deberán cubrir el impuesto a su cargo.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 BASE
@@ -725,7 +731,9 @@ Para que los conceptos mencionados se exenten deberán estar debidamente comprob
 
 II. Las erogaciones que efectúen:
 
-a) La Federación, Estado y Municipios, así como sus organismos auxiliares de la administración pública;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+a) (DEROGADO POR ARTÍCULO VIGÉSIMO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
 
 b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo;
 
@@ -769,11 +777,11 @@ DISPOSICIONES GENERALES
 
 8.- La realización de pagos por concepto del Impuesto Sobre Nóminas, no causará el Impuesto Adicional, a que se refiere esta Ley.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-###### Artículo 58 Bis
+> <small>(REFORMADO POR ARTÍCULO VIGÉSIMO PRIMERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
-9.- Los recursos que genere el Impuesto Sobre Nóminas serán destinados para integrar el Fondo de Competitividad y Promoción del Empleo.
+Artículo 58 BIS-9.- Del total de los recursos que genere el Impuesto sobre Nóminas, se destinará un sesenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1513,7 +1521,11 @@ TARJETA DE CIRCULACIÓN, ENGOMADO Y HOLOGRAMA:
 
 En el Servicio Particular por inscripción al padrón vehicular con expedición de placas y documentación para circular:
 
-1. Autos: $320.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+1. Autos: $550.00
 
 2. Camión: $550.00
 
@@ -1569,7 +1581,11 @@ b) Por dos placas $400.00
 
 III. REFRENDO ANUAL DE TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
 
-1. Auto particular: $200.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+1. Auto particular: $300.00
 
 2. Camión particular: $300.00
 
@@ -1681,21 +1697,9 @@ b) Camión materialista $460.00
 
 c) Automóvil de servicio público $611.20
 
-VII. SERVICIO DE CONTROL VEHICULAR DE CARGA PARA CIRCULAR SIN PLACAS NI TARJETA DE CIRCULACIÓN Y OTROS:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-1. Expedición de permiso para camiones de carga particulares:
-
-a) Con un giro $150.00
-
-b) Con dos giros $200.00
-
-c) Con tres giros $250.00
-
-d) Con cuatro giros $350.00
-
-e) Con cinco giros $500.00
-
-f) Giros para carga con treinta días $100.00
+VII. (DEROGADA POR ARTÍCULO VIGÉSIMO SEGUNDO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
 
 VIII. SERVICIO DE CONTROL VEHICULAR PARA CIRCULAR SIN PLACAS NI TARJETA DE CIRCULACIÓN Y OTROS:
 
@@ -1792,6 +1796,44 @@ XIII. REVISTA MECÁNICA PARA
 AUTOS Y CAMIONES DEL SERVICIO
 
 PÚBLICO: $100.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 84 Bis.
+
+El pago de los derechos por los servicios a que se refiere este Capítulo deberá realizarse en las oficinas de la Secretaría de Finanzas y Planeación del Estado que corresponda a su circunscripción, ante las instituciones autorizadas o a través de medios electrónicos en las formas previamente aprobadas y autorizadas por la misma Secretaría.
+
+Los derechos que se causen por los servicios de control vehicular por expedición de placas metálicas, tarjeta de circulación, engomado y holograma, se pagarán dentro de los tres primeros meses de cada año, salvo en el caso de vehículos cuya inscripción al padrón vehicular del Estado se solicite por primera vez, supuesto en el que se realizará el pago al momento en que se solicite la inscripción.
+
+Los demás derechos regulados en este Capítulo, se pagarán en el momento en que se soliciten.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 84 Bis
+
+1.- Las personas físicas o morales, propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos, y las solicitantes de los servicios a que se refiere este capítulo tienen las siguientes obligaciones:
+
+I.- Solicitar la inscripción del vehículo automotor de que se trate en el padrón estatal vehicular, dentro de los treinta días naturales siguientes de su adquisición; en el caso de vehículos recuperados o rehabilitados que se hayan acreditado como robados o siniestrados, los propietarios o poseedores contarán con un plazo de treinta días naturales posteriores a la fecha de recuperación o rehabilitación para solicitar la inscripción al padrón estatal vehicular, previo pago de los derechos por servicios de control vehicular que corresponda.
+
+II.- Solicitar la baja del padrón estatal vehicular dentro de los quince días naturales siguientes en que se den los supuestos de robo, siniestro, enajenación y/o traslado a otra Entidad Federativa.
+
+III.- En caso de enajenación de vehículos, los nuevos propietarios o poseedores de los mismos, deberán solicitar la alta en el padrón estatal vehicular dentro de los quince días naturales siguientes a la fecha en que se realizó el trámite de baja del mismo.
+
+IV.- Son responsables solidarios en los trámites de baja del padrón estatal vehicular, los adquirentes de los vehículos por los que no se haya realizado dicho trámite.
+
+V.- Las personas físicas o morales que adquieran vehículos nuevos o usados y que no cuenten con placas metálicas de circulación expedidas por el Gobierno del Estado de Morelos, deberán solicitar la inscripción al padrón vehicular estatal y realizar el pago de los derechos por servicios de control vehicular correspondientes, dentro de los treinta días naturales siguientes a la fecha de su adquisición
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO POR ARTÍCULO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 84 Bis
+
+2.- La falta de presentación de los avisos a que se refiere este Capítulo dará lugar a la imposición de sanciones en términos de lo dispuesto en el artículo 183 del Código Fiscal para el Estado de Morelos.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
 
@@ -3402,3 +3444,13 @@ P.O. 12 DE OCTUBRE DE 2011.
 PRIMERO.- El presente Decreto será publicado en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, y entrará en vigor el primero de enero de 2012.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos que señala el artículo 47 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 21 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1 de enero del año 2012.
+
+SEGUNDO.- Se derogan todas las disposiciones que concedan subsidios o exenciones y se hayan publicado con anterioridad al inicio de vigencia de la presente Ley, con excepción de las previstas en la Ley General de Hacienda del Estado de Morelos.
+
+TERCERO.- Para los efectos de las disposiciones de la Ley General de Hacienda del Estado de Morelos, relativas a la actualización de las cuotas y tarifas de las contribuciones en cantidades determinadas, se autoriza la aplicación de un subsidio para mantener dichas cuotas y tarifas en los mismos montos que establece la mencionada Ley General de Hacienda del Estado de Morelos.
+
+CUARTO.- Con la finalidad de homologar los sistemas automatizados de recaudación, así como el proceso de depósito de recursos en el sistema bancario nacional, respecto del esquema aplicado en la determinación de los impuestos y derechos cuyo importe sea o comprenda, fracciones en pesos, se autoriza que en el caso de productos y aprovechamientos se aplique un ajuste de los montos a la unidad más próxima; por lo que tratándose de cantidades terminadas hasta cincuenta centavos, el ajuste se hará a la unidad inmediata inferior y tratándose de cantidades terminadas por arriba de los cincuenta centavos, el ajuste se hará a la unidad inmediata superior.
