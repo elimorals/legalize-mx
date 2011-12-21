@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-integracion-de-personas-con-discapacidad-del-11028"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-16"
-last_updated: "1996-05-16"
+last_updated: "2011-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY PARA LA INTEGRACION DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATAN
 
-LEY PARA LA INTEGRACION DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATAN
+LEY PARA LA INTEGRACIÓN DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 21 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 16 de mayo de 1996.
 
@@ -586,3 +588,23 @@ C. VICTOR MANUEL CERVERA PACHECO.
 LA SECRETARIA GENERAL DE GOBIERNO
 
 ABOG. MYRNA HOYOS S.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 21 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el primer día hábil del mes de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, quedará abrogada la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán publicada en el Diario Oficial del Estado de fecha 16 de mayo de 1996.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias de esta Ley, en un plazo no mayor a 180 días a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de esta Ley, quedará abrogado el Reglamento del Consejo Promotor para la Integración de las Personas con Discapacidad del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 11 de enero de 2008.
