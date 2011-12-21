@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-consejo-promotor-para-la-integracion-de-las-5940
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-11"
-last_updated: "2008-01-11"
+last_updated: "2011-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DEL CONSEJO PROMOTOR PARA LA INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATAN
 
-REGLAMENTO DEL CONSEJO PROMOTOR PARA LA INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATAN
+REGLAMENTO DEL CONSEJO PROMOTOR PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN, PUBLICADA EN EL SUPLEMENTO DEL D.O. 21 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el viernes 11 de enero de 2008.
 
@@ -166,3 +168,23 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 21 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el primer día hábil del mes de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, quedará abrogada la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán publicada en el Diario Oficial del Estado de fecha 16 de mayo de 1996.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias de esta Ley, en un plazo no mayor a 180 días a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de esta Ley, quedará abrogado el Reglamento del Consejo Promotor para la Integración de las Personas con Discapacidad del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 11 de enero de 2008.
