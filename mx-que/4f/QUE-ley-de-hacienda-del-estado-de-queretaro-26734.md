@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2011-05-06"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-LEY DE HACIENDA DEL ESTADO DE QUERETARO
+LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 6 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -171,11 +169,25 @@ Las personas afiliadas al Instituto Nacional de Adultos en Plenitud INAPLEN o qu
 
 Obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-Las personas físicas o morales que enajenen vehículos de motor o remolques, en calidad de propietario ó representante legal de aquél, tienen obligación de realizar el endoso de la factura al comprador, señalando la fecha en que esto suceda, debiendo realizar la baja o cambio de propietario, ante las Administraciones Tributarias Regionales y Oficinas Recaudadoras Locales, dentro de los quince días siguientes a la fecha de la enajenación, en caso de no hacerlo, incurrirán en responsabilidad solidaria en el pago de este impuesto, del impuesto sobre tenencia o uso de vehículos y de los derechos por control vehicular.
+Las personas físicas o morales que enajenen vehículos de motor o remolques, en calidad de propietario o representante legal de aquél, tienen obligación de realizar el endoso de la factura al comprador, señalando la fecha en que esto suceda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de vehículos respecto de los cuales se haya expedido un comprobante fiscal digital, el enajenante deberá suscribir el contrato de compraventa mediante el cual se acredite la adquisición del vehículo en cuestión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, los enajenantes deberán realizar la baja o cambio de propietario ante las Administraciones Tributarias Regionales y Oficinas Recaudadoras Locales, dentro de los quince días siguientes a la fecha de la enajenación, en caso de no hacerlo, incurrirán en responsabilidad solidaria en el pago de este impuesto, del impuesto sobre tenencia o uso de vehículos y de los derechos por control vehicular.
 
 Los comisionistas que intervengan en la enajenación de vehículos o remolques, tendrán la misma obligación que el propietario o representante legal, estando facultada la autoridad a cobrar indistintamente el impuesto correspondiente.
 
@@ -299,17 +311,25 @@ El cobro por la adquisición por cualquier título de vehículos de motor o remo
 
 Las personas físicas y morales que pretendan realizar el pago de este impuesto deberán presentar los siguientes documentos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-I. Factura o documento con el cual acrediten la propiedad de la unidad.
+I. Factura del vehículo, la cual deberá estar endosada a favor del interesado, indicando la fecha de la adquisición.
 
-Este deberá estar expedido o endosado a favor del interesado indicando la fecha de adquisición. No se aceptarán dichos documentos, cuándo éstos o los endosos que obren en los mismos, presenten tachaduras, alteraciones o enmendaduras.
+Tratándose de vehículos respecto de los cuales se haya expedido un comprobante fiscal digital, además deberá anexarse el contrato de compraventa mediante el cual se acredite la adquisición del vehículo en cuestión.
+
+No se aceptarán dichos documentos, cuando éstos o los endosos que obren en los mismos, presenten tachaduras, alteraciones o enmendaduras.
 
 II. La documentación señalada en el artículo 136 fracción II, III y IV, y
 
-III. Presentar tarjeta de circulación. Para el caso de pérdida o extravío de la misma presentar constancia de no infracción expedida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III. Presentar tarjeta de circulación y placas de circulación cuando éstas últimas hayan perdido su vigencia.
+
+Para el caso de pérdida o extravío de los documentos a que se refiere el párrafo anterior, deberá presentarse la constancia de no infracción expedida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -323,15 +343,23 @@ III. Presentar tarjeta de circulación. Para el caso de pérdida o extravío de 
 
 DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 19.
 
-Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales tenedoras o usuarias de los vehículos a que el mismo se refiere, siempre que el Estado de Querétaro expida placas de circulación en su jurisdicción territorial a dichos vehículos.
+Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales tenedoras o usuarias de los vehículos a que el mismo se refiere, en cualquiera de los siguientes supuestos:
 
-Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
+I. Cuando el vehículo se encuentre registrado en el Padrón Vehicular Estatal.
+
+II. Cuando el Estado de Querétaro expida placas de circulación para el vehículo de que se trate, en su jurisdicción territorial.
+
+III. Cuando el domicilio fiscal manifestado por el tenedor o usuario del vehículo ante el Registro Federal de Contribuyentes o ante los padrones de contribuyentes de carácter estatal, se encuentre en el Estado de Querétaro.
+
+IV. Cuando se hayan tramitado placas de transporte público federal ante las autoridades competentes ubicadas en el Estado de Querétaro.
+
+V. Cuando se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes con circunscripción territorial en el Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -397,7 +425,7 @@ VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensam
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -409,9 +437,15 @@ I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del veh�
 
 II. Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera; y
 
-III. Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Querétaro o del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III. Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por contribuciones relativas a la tenencia o uso de vehículos correspondientes, ya sean de carácter federal o estatal, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -469,7 +503,7 @@ APARTADO A
 
 VEHÍCULOS DE DIEZ O MÁS AÑOS MODELO ANTERIOR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -500,6 +534,12 @@ Motocicleta acuática 4
 Tabla de oleaje con motor 2
 
 Las personas afiliadas al Instituto Nacional de las personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales o personas con alguna discapacidad física que presenten la constancia de tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de este impuesto, debiendo acreditar ante la autoridad correspondiente el carácter con que se ostente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Lo dispuesto en el párrafo anterior, únicamente resultará aplicable respecto del impuesto sobre tenencia o uso de vehículos causado con posterioridad a la adquisición de las calidades a que se refiere este artículo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -707,13 +747,13 @@ Del límite inferior
 
 Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 25-L.
 
-Para los efectos de lo dispuesto en los artículos 25-F, 25-H, 25-I y 25-J de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+Para los efectos de lo dispuesto en los artículos 25-C, 25-F, 25-H y 25-J de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 38 del Código Fiscal del Estado de Querétaro.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -771,7 +811,7 @@ II. La cantidad obtenida conforme a la fracción anterior se actualizará de con
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -805,7 +845,11 @@ antigüedad depreciación
 
 9 0.075
 
-b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 25-L de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 25-F de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 38 del Código Fiscal del Estado de Querétaro; al resultado se le aplicará la tarifa a que hace referencia el artículo 25-F de esta Ley.
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
@@ -1155,81 +1199,193 @@ II. Llevar los libros de contabilidad, los registros y demás documentos exigido
 
 III. Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los contribuyentes de este impuesto, deberán auxiliar a la Secretaría de Planeación y Finanzas y a sus dependencias, suministrándole los informes y datos que soliciten en relación con la aplicación de este impuesto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPÍTULO SEXTO. IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEXTO. IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, CONCURSOS Y JUEGOS CON APUESTAS
 
 Objeto
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 44.
 
 Es objeto de este impuesto:
 
-I.- Los ingresos que obtengan las personas físicas y morales que organicen loterías, rifas, sorteos y concursos.
+I. La realización, organización y celebración de loterías, rifas, concursos y juegos con apuestas y sorteos, independientemente del nombre con el que se designen, que se realicen, organicen, celebren o que surtan sus efectos dentro del territorio del Estado, sin importar el lugar en donde se realice el evento.
 
-II.- Los ingresos que por obtención de premios perciban las personas físicas y morales con domicilio en el Estado, que participen en loterías, rifas, sorteos y concursos que organicen los organismos descentralizados de la Administración Pública Federal.
+Se entienden comprendidos en los juegos con apuestas, la captación y operación de cruce de apuestas a que se refiere la Ley Federal de Juegos y Sorteos y su Reglamento, cuando ésta se realice en territorio del Estado, a través de centros de apuestas remotas o libros foráneos autorizados por la autoridad competente para tales efectos.
 
-Sujeto
+II. La obtención de ingresos por la recepción de premios que se otorguen con motivo de loterías, rifas, sorteos, concursos y juegos con apuestas, que se celebren o que surtan sus efectos dentro del territorio del Estado, aún y cuando el premio sea entregado y/o cobrado fuera del mismo
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+Para los efectos del párrafo anterior, se entenderán también comprendidos los ingresos que por obtención de premios perciban las personas físicas y morales con domicilio en el Estado, que participen en loterías, rifas, sorteos y concursos que realicen, organicen o celebren los organismos descentralizados de la Administración Pública Federal.
+
+Para efectos de este Capítulo, se entiende que las loterías, rifas, sorteos, concursos y juegos con apuestas, surten sus efectos en territorio del Estado, cuando los billetes, boletos y demás comprobantes que permitan participar en las actividades mencionadas, sean enajenados, entregados, otorgados o distribuidos en dicho territorio.
+
+Este impuesto se causará independientemente de la denominación que se le dé al pago necesario para participar en las actividades a que se refiere esta sección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 45.
 
-Son sujetos de este impuesto las personas físicas y morales que obtengan ingresos por la organización de loterías, rifas, sorteos y concursos que se celebren o que surtan sus efectos dentro del territorio del Estado, así como las que obtengan ingresos por los premios derivados de loterías, rifas, sorteos y concursos que organicen los organismos descentralizados de la Administración Pública Federal, cuando las personas físicas y morales que obtengan premios residan en el territorio del Estado.
+No se causará el impuesto en los siguientes supuestos:
 
-Base
+I. Cuando los organismos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para la asistencia pública, realicen, organicen o celebren loterías, rifas, sorteos y concursos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+II. Cuando los actos a que se refiere la fracción anterior se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el artículo 95, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
+
+III. Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio.
+
+IV. Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes:
+
+a) No obtenga más de diez permisos para celebrar sorteos en un año de calendario.
+
+b) El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
+
+Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso.
+
+En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el primer párrafo de este inciso, se pagará el impuesto que corresponda de conformidad con lo dispuesto en este Capítulo con la actualización y los recargos respectivos.
+
+Sujeto
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 46.
 
-La base de este impuesto se constituye por los ingresos que perciban las personas físicas y morales que organicen loterías, rifas, sorteos y concursos que se celebren o que surtan sus efectos dentro del territorio del Estado.
+Son sujetos de este impuesto las personas físicas y morales que actualicen las hipótesis normativas previstas en el artículo 44 de esta Ley.
 
-Asimismo, es base de este impuesto el ingreso que obtengan las personas físicas y morales por concepto de premios por la participación en loterías, rifas, sorteos y concursos que organicen los organismos descentralizados de la Administración Pública Federal.
+De igual manera, quien realice, organice o celebre loterías, rifas, sorteos, concursos y juegos con apuestas, será sujeto de este impuesto cuando una vez realizado el evento, obtenga el ingreso por el premio porque no resulte un ganador, porque no se presente la persona que lo haya obtenido o en virtud de que por cualquier circunstancia no se entregue dicho premio.
 
-En los casos en los que los (sic) no se pueda determinar los ingresos percibidos por concepto de la organización de loterías, rifas, sorteos y concursos, la base del impuesto se constituirá por el valor total del premio o premios que se ofrezcan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando no sea posible fijar el valor del bien o bienes entregados como premio, se nombrará un perito que determinará el valor del mismo.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 47.
 
-El impuesto se causa en el momento en que se entregue a los participantes los boletos, billetes y demás comprobantes que permitan participar en las loterías, rifas, sorteos y concursos y, cuando sea el caso, en el momento en que se perciban los ingresos.
+Para los efectos de este Capítulo, se consideran:
 
-Cuando se obtengan premios derivados de las loterías, rifas, sorteos y concursos que organicen los organismos descentralizados de la Administración Pública Federal, el impuesto se causará en el momento que el premio sea pagado o entregado al participante.
+I. Juegos con apuestas y sorteos: Aquellos previstos en la Ley Federal de Juegos y Sorteos y su Reglamento, incluidos en los juegos con apuestas la captación y operación de cruce de apuestas a que se refieren dichas disposiciones federales.
 
-Para los efectos de este impuesto, los reintegros correspondientes a los boletos o billetes que permiten la participación en los eventos no se considerarán como premios.
+II. Organizadores habituales: Las personas físicas y morales que de manera sistemática realicen las actividades a que se refiere el artículo 44, fracción I, de esta Ley, como parte de sus actividades ordinarias.
 
-Tasa
+III. Organizadores accidentales: Las personas físicas y morales que realicen las actividades a que se refiere la fracción anterior, de manera ocasional.
+
+IV. Valor nominal: La cantidad total que se deba entregar por los billetes, boletos y demás comprobantes que permitan participar en las actividades previstas en las fracciones I y II del artículo 44 de esta Ley, aún cuando éstas se entreguen como donativo, cooperación o cualquier otro concepto.
+
+Base y Tasa
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
 
-La tasa del impuesto a que se refiere este capítulo es de 4.8% de los ingresos obtenidos.
+El impuesto a que se refiere el presente Capítulo, se calculará conforme a lo siguiente:
 
-Forma de Pago
+I. Los sujetos que realicen, organicen o celebren loterías, rifas, sorteos y concursos descritos en la fracción I, del artículo 44, de esta Ley, calcularán el impuesto a su cargo, aplicando la tasa del 12% sobre el total de las cantidades percibidas de los participantes de dichas actividades.
+
+II. Los sujetos que realicen, organicen o celebren juegos con apuestas descritos en la fracción I, del artículo 44, de esta Ley, calcularán el impuesto a su cargo, aplicando la tasa del 12% sobre el monto total de las apuestas recibidas.
+
+III. Los sujetos que obtengan premios derivados de loterías, rifas, sorteos, concursos y juegos con apuestas, deberán calcular el impuesto aplicando la tasa del 6% sobre el monto total del premio o sobre el valor del premio obtenido cuando éste no sea en efectivo.
+
+Cuando no se puedan determinar las cantidades referidas en las fracciones I y II de este artículo, en los términos señalados por las mismas, la base del impuesto se constituirá por el valor total del premio o premios que se ofrezcan.
+
+En el caso de juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego de que se trate, la tasa correspondiente en los términos de este artículo, se aplicará sobre el monto total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+Cuando los billetes, boletos, contraseñas, documentos, objetos o registros que permitan participar en las actividades antes mencionadas sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios.
+
+Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como base para el cálculo del impuesto, el valor nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
+
+Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+En el caso de la fracción III de este artículo, cuando no sea posible fijar el valor del bien o los bienes entregados como premio, el sujeto del impuesto deberá entregar dentro de los 5 días hábiles siguientes a la fecha de causación del impuesto, un peritaje rendido por perito valuador registrado ante las Secretarías de Gobierno y de Planeación y Finanzas, del Poder Ejecutivo del Estado. En este supuesto el valor determinado por el perito será considerado como base para el cálculo del impuesto.
+
+Momento de Causación
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 49.
 
-De las declaraciones y pago del impuesto:
+El impuesto se causa en el momento en que se perciban las cantidades a que se refieren las fracciones I y II, del artículo 48 de esta Ley.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+Cuando se obtengan premios derivados de las loterías, rifas, sorteos, concursos y juegos con apuestas, el impuesto se causará en el momento que el premio sea pagado o entregado al participante.
 
-I. En el caso que el impuesto se derive de la organización de loterías, rifas, sorteos y concursos, se estará a lo siguiente:
+Para los efectos de este impuesto, los reintegros correspondientes a los boletos o billetes que permiten la participación en los eventos, no se considerarán como premios.
 
-El pago del impuesto deberá efectuarse dentro de los 20 días siguientes a la obtención del ingreso, mediante una declaración de pago.
+Época y Forma de Pago
 
-Las declaraciones se presentarán en las formas oficiales aprobadas por la Secretaría de Planeación y Finanzas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el impuesto declarado y, en su caso, los accesorios correspondientes.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+Artículo 49 bis.- El entero del impuesto se ajustará a lo siguiente:
 
-II. En el caso de que el impuesto se derive de la obtención de premios que perciban las personas físicas y morales derivados de loterías, rifas, sorteos y concursos que organicen los organismos descentralizados de la Administración Pública Federal, el organismo que organice la lotería, rifa, sorteo o concurso, deberá retener el monto del impuesto causado y enterarlo a la Secretaría de Planeación y Finanzas.
+I. Cuando el impuesto se cause con motivo de la realización de las actividades previstas en la fracción I, del artículo 44, de esta Ley, el pago del impuesto deberá efectuarse a más tardar el día 20 del mes siguiente a aquel en el que se cause dicho impuesto, mediante declaración de pago.
 
-III. No se admitirán las declaraciones si en el mismo acto de su presentación no se paga íntegramente el impuesto declarado, y en su caso, los accesorios correspondientes.
+Lo anterior, no será aplicable en el caso de organizadores accidentales quienes deberán ajustarse a lo dispuesto en el inciso b), fracción II, del artículo 49 TER, de esta Ley.
+
+II. Cuando el impuesto se derive de la obtención de premios que perciban las personas físicas y morales derivados de loterías, rifas, sorteos, concursos y juegos con apuestas, que se celebren o que surtan sus efectos dentro del territorio del Estado, el organizador de los mismos, deberá retener el monto del impuesto causado y enterarlo mediante declaración de pago, a más tardar el día 20 del mes siguiente a la fecha de su causación.
+
+En este supuesto el retenedor, deberá proporcionar al interesado, constancia de retención del impuesto.
+
+Los retenedores de este impuesto están obligados a enterar una cantidad equivalente a la que debieron retener conforme a este capítulo, para el caso de que no efectúe la retención o no haga el pago de la contraprestación correspondiente.
+
+Las declaraciones de pago se presentarán en las formas oficiales aprobadas y en las oficinas autorizadas, por la Secretaría de Planeación y Finanzas.
+
+Si el contribuyente tuviera varios establecimientos, presentará una declaración de pago por cada uno de ellos.
+
+El pago de este impuesto no libera de la obligación de obtener previamente los permisos o autorizaciones correspondientes.
+
+Otras Obligaciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 49 ter.- Además de las obligaciones previstas en otros ordenamientos fiscales de carácter generales, los contribuyentes de este impuesto tendrán las siguientes:
+
+l. Tratándose de organizadores habituales:
+
+a) Empadronarse, para los efectos del presente impuesto, dentro de los 10 días hábiles siguientes a la fecha de inicio de sus operaciones, ante la autoridad fiscal del Estado que corresponda a su domicilio, mediante aviso que será presentado en las formas que apruebe la Secretaría de Planeación y Finanzas. El aviso deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado.
+
+Las personas morales estarán obligadas además a entregar a dichas autoridades una copia del acta o documento constitutivo, en el mismo plazo a que se refiere este inciso.
+
+b) Presentar dentro de los 10 días hábiles siguientes a aquél en que se actualice el supuesto jurídico o el hecho que lo motive, los avisos de cambio de domicilio, nombre, razón o denominación social, traspaso, suspensión o reanudación de actividades;
+
+c) Precisar en las declaraciones de pago que presenten, el monto del impuesto que hubieren retenido durante el mes de que se trate y en su caso, el que corresponda por su propia actividad, por el mismo periodo;
+
+d) Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de las actividades a que se refiere este capítulo, dentro de los 5 días hábiles siguientes a que esto ocurra;
+
+e) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda;
+
+f) Si los premios ofrecidos consisten en bienes distintos de dinero, señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o eventos de que trata el presente Capítulo, el valor en moneda nacional de los mismos;
+
+g) Llevar un registro analítico y pormenorizado de las operaciones y actividades que realicen por las que se cause el impuesto, y
+
+h) Adjuntar a la declaración de pago del impuesto el registro a que se refiere el inciso anterior relativo al mes por el que se presente la declaración.
+
+ll. Tratándose de organizadores accidentales tendrán las obligaciones señaladas en los incisos c), d) y e) de la fracción anterior, además de las siguientes:
+
+a) Garantizar el interés fiscal, en cualesquiera de las formas que establece el Código Fiscal del Estado de Querétaro, correspondiente al importe del impuesto que pudiera causarse con motivo del evento, con 5 días hábiles de anticipación a la fecha en que pretenda celebrarse.
+
+El monto de la garantía será determinado por el contribuyente, multiplicando el valor nominal de los billetes, boletos y demás comprobantes, por la tasa del impuesto.
+
+Para el supuesto previsto en el párrafo segundo del artículo 48 de esta Ley, el monto de la garantía se determinará aplicando al valor total del premio o premios que se ofrezcan, la tasa del impuesto indicada en dicho artículo.
+
+b) Presentar declaración de pago dentro de los 5 días hábiles siguientes a la causación del impuesto, y
+
+c) Llevar un registro analítico y pormenorizado de las operaciones que se hubieren realizado con motivo del evento por el que se cause el impuesto y presentarlo anexo a la declaración de pago.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -1573,13 +1729,15 @@ Del cambio de otros datos informativos sobre el establecimiento o del titular de
 
 PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 57.
 
-Por la inscripción de compraventa de inmuebles; compraventa de bienes inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; usufructo, uso, nuda propiedad; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios, se causará el derecho a razón del seis al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 65 de esta Ley.
+Por la inscripción de compraventa de inmuebles; compraventa de bienes inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; uso; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios, se causará el derecho a razón del seis al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 65 de esta Ley.
+
+Por la inscripción del acto mediante el cual se adquiera el usufructo o la nuda propiedad, se causarán y pagarán derechos a razón del 3 al millar.
 
 ###### Artículo 58.
 
@@ -1619,9 +1777,11 @@ Se causará el derecho a razón de doce VSMGZ por la inscripción de:
 
 I. Anotación o inscripción ordenada por autoridad judicial o administrativa, resolución judicial, convenio judicial, autorización para venta de bienes, diligencia de apeo y deslinde;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+II. Adquisición o transmisión de derechos posesorios;
 
 III. Acta de asamblea de condóminos;
 
@@ -1629,7 +1789,11 @@ IV. Contrato de arrendamiento de bienes;
 
 V. Servidumbres;
 
-VI. Constitución de prenda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VI. Constitución de garantías reales sobre muebles;
 
 VII. Constitución, disolución o liquidación de sociedades, cooperativas y asociaciones;
 
@@ -1649,13 +1813,13 @@ XIV. Prórroga de gravamen; y (sic)
 
 XV. Protocolización de acuerdos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 XVI. Constitución de habitación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1751,13 +1915,13 @@ VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bien
 
 VIII. Cancelación de convenio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 67.
 
-Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre muebles e hipotecas industriales, compraventa de bienes muebles, crédito con garantía hipotecaria, convenios que impliquen ampliación del crédito, ampliación de garantía, disolución de copropiedad, o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 2.5 al millar sobre el importe de operación.
+Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre inmuebles, compraventa de bienes muebles, convenios que impliquen ampliación del crédito, ampliación de garantía, disolución de copropiedad, o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 2.5 al millar sobre el importe de operación.
 
 En el caso de ampliación de garantía, los derechos se calcularán sobre el valor que se le asigne a los bienes que servirán de garantía, y en caso de que no se establezca sobre el total de la cantidad que se está garantizando.
 
@@ -1827,7 +1991,7 @@ III. Protocolización de deslinde catastral de predio con superficie mayor a 5,0
 
 Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o certificaciones y demás servicios que preste el Registro Público de la Propiedad y del Comercio en materia de crédito agrícola y ejidal, causarán y pagarán los derechos de conformidad con las leyes respectivas y en los casos no previstos se aplicarán las cuotas señaladas en este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1835,17 +1999,15 @@ Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o ce
 
 Por la expedición de certificados, copias certificadas y búsqueda de antecedentes, se causarán y pagarán los siguientes derechos:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 Concepto VSMGZ
 
-Expedición de certificados de gravamen,
+Expedición de certificados de gravamen
 
-y de libertad de gravamen, hasta 10 años 4
-
-Expedición de certificados de gravamen y
-
-de libertad de gravamen, de más de 10 y
-
-hasta 20 años 7
+y de libertad de gravamen, por 20 años 7
 
 Expedición de certificados de gravamen y
 
@@ -1853,21 +2015,21 @@ de libertad de gravamen, de más de 20 años 10
 
 Expedición de certificados de inscripción, de
 
-no inscripción. 7
+no inscripción 7
 
 Certificado de propiedad, de no propiedad
 
-y de única propiedad. 4
+y de única propiedad 4
 
-Certificado de historial registral, hasta 10 años. 12
+Certificado de historial registral, hasta 10 años 12
 
 Certificado de historial registral, de más de 10 y
 
-hasta 20 años. 16
+hasta 20 años 16
 
 Certificado de historial registral, de más de
 
-20 años. 20
+20 años 20
 
 Expedición de cada 5 hojas de copias certificadas 2
 
@@ -1887,19 +2049,29 @@ Las solicitudes emitidas por autoridades judiciales no causarán derechos, siemp
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 77.
 
-Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad, entendiéndose por tal servicio, el que se presta a los usuarios mediante el acceso para consulta de una base de datos a través de un enlace de comunicaciones entre equipos de cómputo, se causarán 3 VSMGZ por mes de servicio o 30 VSMGZ por un año de servicio.
+Por el servicio de consulta remota al sistema de información del Registro Público de la Propiedad y del Comercio, entendiéndose por tal servicio, el que se presta a los usuarios mediante el acceso para consulta de una base de datos a través de un enlace de comunicaciones entre equipos de cómputo, se causarán 30 VSMGZ por un año de servicio, cuando dicha cuota se entere en su totalidad durante el primer mes del ejercicio de que se trate, en caso contrario se causarán y pagarán 3 VSMGZ por cada mes de servicio.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 78.
 
-Cuando un mismo título o documento origine dos o más inscripciones, los derechos se causarán por cada una de ellas, cotizándose separadamente.
+Cuando un mismo título o documento origine dos o más inscripciones, los derechos se causarán por cada una de ellas, calculándose separadamente.
 
 Tratándose de instituciones de crédito, de auxiliares de crédito, sociedades financieras de objeto limitado, de seguros, de fianzas y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT) e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) cuando actúen como instituciones de crédito; las inscripciones que deban hacerse causarán los mismos derechos; pero su conjunto no podrá exceder del 2.5 al millar sobre el importe de la operación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Lo dispuesto en el primer párrafo del este artículo no será aplicable tratándose de la inscripción de convenios modificatorios de contratos de crédito con garantía hipotecaria otorgados en favor de los desarrolladores inmobiliarios para la construcción de fraccionamientos o condominios, cuando éstos no impliquen la novación del contrato, ni la constitución de nuevas garantías o ampliación de las otorgadas en el contrato de crédito originario, así como en la cancelación de los citados contratos, que deban registrarse en más de un folio, siempre que el contrato del cual deriven se haya registrado originalmente en un solo folio, caso en el cual se cobrará lo correspondiente a una sola inscripción.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -1923,11 +2095,13 @@ Sujeto
 
 Son sujetos los contribuyentes solicitantes de los servicios prestados por el Archivo General Notarías.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 82.
 
-Por los servicios prestados por el Archivo General de Notarías se causan derechos conforme a lo siguiente:
+Por los servicios prestados por el Archivo General de Notarías, se causan derechos conforme a lo siguiente:
 
 Concepto Número de hojas VSMGZ
 
@@ -1935,13 +2109,13 @@ Expedición de testimonio De 3 a 5 hojas 8
 
 De 6 a 9 hojas 12
 
-De 10 hojas en adelante 16
+De 10 a 15 hojas 16
+
+De 16 hojas en adelante 18
 
 Avisos e informes de testamento, búsqueda de
 
-documentos, copias certificadas
-
-(por cada diez hojas) 3
+documentos, copias certificadas, por cada diez hojas 3
 
 Certificación de escrituras 3
 
@@ -1957,7 +2131,15 @@ Expedición de copias simples, por cada diez hojas 1
 
 Aviso de testamento sobre la vivienda de interés
 
-social o popular. 0
+social o popular 0
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 82-A.
+
+Por el servicio de guarda y custodia de testamento público cerrado, se causará y pagará una cuota única de 8 VSMGZ.
 
 ### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR
 
@@ -1969,37 +2151,37 @@ AUTORIDADES CATASTRALES
 
 Son objeto de los derechos contenidos en este capítulo, la prestación de servicios a contribuyentes que ofrecen las autoridades catastrales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 84.
 
 Por la expedición de copias fotostáticas de planos catastrales se causarán:
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+I. Copia simple de planos catastrales en tamaño, carta, oficio o doble carta, sin ampliación o reducción; 3 VSMGZ, por plano;
 
-I.- Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción: 3 VSMGZ por plano.
+II. Copia simple de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo, 4 VSMGZ por plano.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+III. Copia certificada de levantamiento topográfico o deslinde catastral en medidas de 40x60 cm., hasta un 1 metro cuadrado, sin ampliación o reducción; 5 VSMGZ, por plano;
 
-II.- Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción: 5 VSMGZ por plano.
+IV. Copia certificada de planos catastrales en tamaño carta, oficio o doble carta, sin ampliación o reducción, con ortofoto de fondo: 6 VSMGZ por plano.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+V. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 6 VSMGZ por plano.
 
-III.- Copia simple de plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 5 VSMGZ por plano.
+VI. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 7 VSMGZ por plano.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+VII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 7 VSMGZ por plano.
 
-IV.- Copia certificada de plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, 7 VSMGZ por plano.
+VIII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas de 40X60 cm. hasta un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 8 VSMGZ por plano.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+IX. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 8 VSMGZ por metro cuadrado.
 
-V. Copia simple de plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 7 VSMGZ por metro cuadrado.
+X. Copia simple de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 9 VSMGZ por metro cuadrado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+XI. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, 9 VSMGZ por metro cuadrado.
 
-VI. Copia certificada de plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción 9, VSMGZ por metro cuadrado.
+XII. Copia certificada de planos catastrales, plano de levantamiento topográfico o deslinde catastral en medidas mayores a un metro cuadrado, sin ampliación o reducción, con ortofoto de fondo, 10 VSMGZ por metro cuadrado.
 
 ###### Artículo 85.
 
@@ -2159,23 +2341,23 @@ excedente.
 
 Si el solicitante requiere la realización de un deslinde catastral inmediatamente posterior a la ejecución del replanteo topográfico y siempre que el dictamen aporte los datos técnicos para realizarlo, el monto de los derechos por concepto de la ejecución del deslinde catastral se calculará al 50% de lo señalado en el artículo 85.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 88.
 
-Cuando el contribuyente solicite copia simple de planos catastrales en material especial se causarán y pagarán:
+Cuando el contribuyente solicite copia simple de planos catastrales en material especial o la reproducción de cartas catastrales o planos en medios magnéticos, se causarán y pagarán los siguientes derechos:
 
 (VEASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 89.
 
-Por la expedición de copia impresa de plano general de cabecera municipal, se causarán y pagarán:
+Por la expedición de copia impresa de plano general de cabecera municipal o plano general municipal, se causarán y pagarán:
 
 I. Con división manzanera y red de calles de:
 
@@ -2347,25 +2529,23 @@ Horas subsecuentes hasta 10 horas 0.25
 
 Más de 10 horas hasta 24 horas 6.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 94.
 
 Por los servicios catastrales relativos a fraccionamientos y condominios, se causarán y pagarán:
 
-1.1.1.1.1.1.3 TRÁMITE VSMGVZ
+TRÁMITE VSMGZ
 
 Alta de fraccionamiento
 
 Alta de condominio 7
 
-Alta o modificación de construcción
+Expedición de dictamen técnico
 
-Expedición de dictamen técnico 5
-
-Reconsideración de valor catastral
+Reconsideración de valor catastral 5
 
 Preasignación de claves catastrales
 
@@ -2373,95 +2553,63 @@ Relotificación de fraccionamiento
 
 Modificación al régimen en condominio 21
 
-Expedición de listados de fraccionamientos o condominios
+Expedición de listados de fraccionamientos o condominios. 3
 
-Individualización de claves catastrales de fraccionamiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Actualización de datos catastrales 3
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 95.
 
-Por los siguientes servicios que presta la Dirección de Catastro, se pagarán los siguientes derechos:
+Por los servicios a cargo de la Dirección de Catastro que a continuación se indican, se pagarán los siguientes derechos:
 
-I.- Notificación de registro catastral que sea solicitada por los contribuyentes o usuarios, excepto cuando la emisión de la notificación sea dentro de la tramitación de los avisos de traslado de dominio presentados por los fedatarios públicos, 3 VSMGZ.
+I. Por la notificación de registro catastral solicitada por los contribuyentes o usuarios, excepto cuando la emisión de dicho documento se realice como parte de la tramitación de los avisos de traslado de dominio presentados por los fedatarios públicos, 3 VSMGZ.
 
-II.- Proporcionar información catastral de un inmueble a solicitud del interesado que demuestre su interés jurídico, excepto cuando se trate del propietario del inmueble para conocer la exactitud de dicha información, 3 VSMGZ.
+II. Por la expedición de la información catastral de un inmueble, para conocer la exactitud de la información relativa al mismo, excepto cuando se trate de su propietario, 3 VSMGZ.
 
-III.- La expedición de constancias de información catastral disponible con fojas de una hasta cinco: 3 VSMGZ, y por cada foja excedente, el 0.06 VSMGZ.
+III. Por la expedición de constancias de información catastral, 3 VSMGZ.
 
-IV.- Certificaciones de documentos catastrales con fojas de una hasta cinco, causarán y pagarán 5 VSMGZ, y por cada foja excedente, el 0.10 VSMGZ.
+IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, causarán y pagarán 5 VSMGZ, y por cada foja excedente, el 0.10 VSMGZ.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+V. Por la autorización de las formas para la elaboración de los avalúos fiscales que efectúan los Peritos Valuadores con registro ante la Dirección de Catastro, 0.10 VSMGZ por foja.
 
-V.- Autorizar las formas para la elaboración de los avalúos fiscales que efectúan los Peritos Valuadores con registro ante la Dirección de Catastro, 0.10 VSMGZ por foja.
+VI. Por la expedición de copias simples de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo: 5 VSMGZ por metro cuadrado.
 
-VI.- Expedición de copias simples de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo: 5 VSMGZ por metro cuadrado.
+VII. Por la expedición de copias certificadas de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo, 7 VSMGZ por metro cuadrado.
 
-VII.- Expedición de copias certificadas de planos que obran en los archivos catastrales y que no se encuentran contemplados en los artículos anteriores del presente capítulo, 7 VSMGZ por metro cuadrado.
+VIII. Por la expedición de impresión del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 3 VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+IX. Por la expedición de copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 5 VSMGZ.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+X. Por la expedición de archivo digital en formato dxf de plano de levantamiento topográfico o de deslinde catastral, incluye únicamente poligonal y vértices en coordenadas terrestres o UTM, 10 VSMGZ. Sólo se expedirán estos archivos a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan.
 
-VIII.- Expedición de impresión del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 3 VSMGZ.
+XI. Por la expedición de copia impresa del plano general del Estado, 10 VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XII. Por la certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, 10 VSMGZ.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-IX. Expedición de copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, 5 VSMGZ.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-X. Expedición de archivo digital en formato dxf de plano de levantamiento topográfico o de deslinde catastral, incluye únicamente poligonal y vértices en coordenadas terrestres o UTM, 10 VSMGZ. Sólo se expedirán estos archivos a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan o a quienes acrediten su interés jurídico.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-XI. Expedición de copia impresa del plano general del Estado, 10 VSMGZ.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-XII. Expedición de copias certificadas de planos de deslinde catastral producto de alguna modificación, rectificación o aclaración de linderos, a solicitud del propietario, 10 VSMGZ.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-XIII. Por la inscripción en el Padrón de Topógrafos con especialidad en geodesia, a cargo de la Dirección de Catastro, deberán pagarse 10 VSMGZ.
+XIII. Por la inscripción en el Padrón de Topógrafos con especialidad en geodesia, a cargo de la Dirección de Catastro, 10 VSMGZ.
 
 La constancia de registro que al efecto se emita, tendrá vigencia de un año a partir de su expedición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
 XIV. Por la renovación de datos en el padrón a que se refiere la fracción anterior, deberá pagarse 10 VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XV. Por el acceso remoto a la consulta electrónica del Sistema de Gestión Catastral, por año, por usuario, 15 VSMGZ. Sólo se proporcionará dicho servicio a los usuarios especializados, autorizados por la Dirección de Catastro.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+XVI. Por el trámite consistente en la autorización de fusión de predios, 5 VSMGZ.
 
-XV. Por el acceso remoto a la consulta electrónica del Sistema de Gestión Catastral, por año, por usuario, 15 VSMGZ.
+XVII. Por el trámite de alta de predios producto de subdivisión, 5 VSMGZ
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XVIII. Por la aplicación de deméritos a solicitud del interesado, 3 VSMGZ.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+XIX. Por la realización de inspecciones de un inmueble, a solicitud del interesado, para conocer la exactitud de la información relativa al mismo, 4 VSMGZ.
 
-XVI. Por registro de fusión de predios, 5 VSMGZ.
+XX. Por la cancelación de trámites a solicitud del interesado, por causas ajenas a la Dirección de Catastro, 3 VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XXI. Por la expedición de impresión del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 4 VSMGZ.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+XXII. Por la expedición de copias simples de documentos catastrales con fojas de una hasta cinco, 3 VSMGZ, y por cada foja excedente, el 0.06 VSMGZ.
 
-XVII. Por el alta de predios producto de subdivisión, 5 VSMGZ.
+XXIII. Por la expedición de copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 6 VSMGZ.
 
 ###### Artículo 96.
 
@@ -2491,7 +2639,9 @@ LAS AUTORIDADES DE EDUCACIÓN
 
 Por servicios prestados por las autoridades de la Secretaría de Educación, se causarán derechos de acuerdo a lo establecido en los artículos subsiguientes:
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 Artículo 98 bis.- Por los servicios que se prestan con motivo del Programa de Educación Superior Tecnológica, se causarán y pagarán los siguientes:
 
@@ -2499,17 +2649,15 @@ Concepto VSMGZ
 
 Inscripción y reinscripción 25
 
-Expedición de fichas de exámenes 8.5
-
-de selección
+Expedición de fichas de exámenes de selección 8.5
 
 Exámenes especiales 8.5
 
 Curso de repetición en grupo especial 8.5
 
-Curso de repetición como adicional 4.2
+Curso de repetición como adicional a grupo normal 4.2
 
-a grupo normal
+Emisión de certificado de estudios parciales 2
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2631,7 +2779,7 @@ Por trámite de devolución de
 
 documentos originales 1
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2639,79 +2787,35 @@ documentos originales 1
 
 Por los servicios que presta la Dirección de Educación se causarán y pagarán los siguientes:
 
-CONCEPTO VSMGZ
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Por solicitud, estudio y resolución del trámite
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-de reconocimiento de validez oficial de estudios
+Concepto VSMGZ
 
-de tipo superior. 136
+Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior. 136
 
-Por solicitud, estudio y resolución del trámite de
+Por solicitud, estudio y resolución del trámite de cambio de propietario de reconocimiento de validez oficial de estudios de tipo superior, tipo medio superior o educación inicial, respecto de cada plan de estudios sea cual fuere la modalidad 15
 
-cambio de propietario de reconocimiento de validez
+Por solicitud, estudio y resolución del trámite de cambio de propietario de autorización para impartir educación básica o reconocimiento de validez oficial de estudios, en cualquier modalidad, por cada plan y programa de estudios. 51
 
-oficial de estudios de tipo superior, tipo medio
+Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial. 59
 
-superior o educación inicial, respecto de cada plan
+Cambio o ampliación de domicilio o establecimiento de un plantel adicional respecto de cada plan de estudios con reconocimiento de validez oficial o autorización para impartir educación básica. 51
 
-de estudios sea cual fuere la modalidad. 15
+Por solicitud, estudio y resolución del trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad. 15
 
-Por solicitud, estudio y resolución del trámite de
+Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles de educación inicial y medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad. 15
 
-cambio de propietario de autorización para
-
-impartir educación preescolar, primaria, secundaria,
-
-normal y demás para la formación de maestros, sea
-
-cual fuere la modalidad. 15
-
-Por solicitud, estudio y resolución del trámite de
-
-cambio a planes y programas de estudio de tipo
-
-superior con reconocimiento de validez oficial. 59
-
-Cambio o ampliación de domicilio o establecimiento
-
-de un plantel adicional respecto de cada plan de
-
-estudios con reconocimiento de validez oficial. 51
-
-Por solicitud, estudio y resolución del trámite de
-
-autorización para impartir educación preescolar,
-
-primaria, secundaria, normal y demás para la
-
-formación de maestros, sea cual fuere la modalidad. 15
-
-Por solicitud, estudio y resolución del trámite de
-
-reconocimiento de validez oficial de estudios de
-
-los niveles de educación inicial y medio superior
-
-o equivalente y de formación para el trabajo, sea
-
-cual fuere la modalidad. 15
-
-Por solicitud, de equivalencia y revalidación
-
-de estudios:
+Por solicitud, de equivalencia y revalidación de estudios:
 
 a) De educación media superior 5
 
 b) De educación superior 14
 
-Por duplicado de equivalencia o
+Por duplicado de equivalencia o revalidación de estudios 2
 
-revalidación de estudios 2
-
-Por registro de alumnos (por semestre, cuatrimestre,
-
-módulo o bimestre y por institución):
+Por registro de alumnos (por semestre, cuatrimestre, módulo o bimestre y por institución):
 
 a) Capacitación para el Trabajo 1
 
@@ -2755,9 +2859,7 @@ Duplicado de certificado todos los niveles 2
 
 Examen a título de suficiencia, por materia 1
 
-Validación de Certificado de Estudios Parciales,
-
-por ciclo escolar 1
+Validación de Certificado de Estudios Parciales, por ciclo escolar 1
 
 Exámenes profesionales o de grado 3
 
@@ -2767,25 +2869,19 @@ Autenticación de Títulos de Educación Superior 2
 
 Dictamen y cambio de carrera (Educación Superior) 2
 
-Para cualquier otra certificación o expedición de
-
-constancias distintas de las señaladas 2
-
 Por expedición de dictamen técnico para realizar estudios. 2
 
-Cambios de área realizados de manera posterior a la
+Cambios de área realizados de manera posterior a la emisión del dictamen de equivalencia o revalidación correspondiente. 2
 
-emisión del dictamen de equivalencia o revalidación
+Cancelación y consecuente reexpedición de formatos de certificados de educación media superior que se solicite por instituciones de educación incorporadas al Estado. 1
 
-correspondiente. 2
+Por la emisión de constancias de servicios para ingreso a la Universidad Pedagógica Nacional o Escuela Normal Superior de Querétaro. 2
 
-Cancelación y consecuente reexpedición de formatos de
+Por la emisión de certificación de acta de examen o título profesional, por deterioro, extravío o robo. 2
 
-certificados de educación media superior que se solicite
+Por cualquier otra certificación o expedición de constancias distintas de las señaladas en el presente artículo. 2
 
-por instituciones de educación incorporadas al Estado 1
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -2853,7 +2949,7 @@ BEIS BOL 0.8 0.8
 
 d. Clase muestra a cualquiera de los talleres 0.65 VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3089,7 +3185,7 @@ MATERIAL POR PERSONA
 
 RENTA DEL AUDITORIO (POR HORA) 1.6
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3115,11 +3211,29 @@ DEPORTIVOS NO PROFESIONALES CON
 
 LUZ ARTIFICIAL 33 POR HORA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VII. Unidad Deportiva José María Truchuelo:
+
+CONCEPTO CON LUZ NATURAL CON LUZ ARTIFICIAL
+
+VSMGZ
+
+CANCHA FRONTÓN DE DÍA USO 1 2
+
+CANCHA DE FÚTBOL SIETE POR 4 6
+
+CANCHA DE SQUASH HORA 1 2
+
+CANCHA DE VOLEIBOL DE PLAYA 1.5 3
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VII. Por reposición de credencial, en todas las unidades 0.8 VSMGZ.
+VIII. Por reposición de credencial, en todas las unidades 0.8 VSMGZ.
 
 ### CAPÍTULO SÉPTIMO. POR LOS SERVICIOS PRESTADOS POR LAS
 
@@ -3139,11 +3253,19 @@ Son objeto de los derechos contenidos en este capítulo, la prestación de servi
 
 Por los servicios relativos a la expedición de dictamen de uso de suelo, se pagarán los siguientes derechos:
 
-I. Por la realización del estudio necesario para la expedición del dictamen de uso de suelo, se causarán y pagarán 5 VSGMZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+I. Por la realización del estudio necesario para la expedición del dictamen de uso de suelo, se pagará una cuota correspondiente a 5 VSGMZ.
 
 Cuando del estudio a que se refiere el párrafo anterior se desprenda que la expedición del dictamen de uso de suelo es procedente, el monto pagado en los términos de esta fracción podrá ser acreditado contra las cantidades que conforme a la fracción II de este artículo deban pagarse.
 
-II. Por la expedición de dictamen de uso de suelo se pagará la cantidad que resulte de aplicar la tarifa y fórmula siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+II. Por la expedición de dictamen de uso de suelo por superficies de hasta 100 m2, se pagará la cantidad que resulte de aplicar la tarifa y fórmula siguientes:
 
 a. Tarifa:
 
@@ -3153,47 +3275,35 @@ a) Habitacional Popular y/o Institucional 6
 
 Urbanización Progresiva 4
 
-Residencial 10
+Residencial 12
 
 Campestre 10
 
-b) Comercial Educación 15
+b) Comercial y Todos los contenidos en los Planes de
 
-Cultura 15
+de Servicios Desarrollo Urbano 15
 
-Salud 15
-
-Asistencia Social 15
-
-Asistencia Animal y Abastos 15
-
-c) Servicios Comunicaciones 15
-
-Transporte 15
-
-Recreativos 10
-
-Deportes 10
-
-Servicios Urbanos 15
-
-Administrativos 15
-
-Alojamiento 15
-
-d) Agropecuario Actividades productivas
+c) Agropecuario Actividades productivas
 
 y de servicio a las mismas 10
 
-e) Industrial Agroindustrial 10
+d) Industrial Agroindustrial 20
 
-Micro 15
+Micro 10
 
-Pequeña 15
+Pequeña o Ligera 15
 
 Mediana 20
 
-Grande 25
+Grande o Pesada 25
+
+e) Actividades Todos los contenidos en los Planes de
+
+Extractivas Desarrollo Urbano 20
+
+f) Equipamientos Todos los contenidos en los Planes de
+
+Desarrollo Urbano 15
 
 b. Por superficie excedente a 100 m2, excepto para el uso agropecuario, adicionalmente a la tarifa que corresponde conforme al inciso anterior, se pagará la cantidad que resulte de aplicar la siguiente fórmula:
 
@@ -3201,9 +3311,13 @@ Cantidad a pagar por superficie excedente = 1 VSMGZ x (No. de m2 excedentes)
 
 Factor Único
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 III. Considerando como factor único para el uso y tipo correspondiente los siguientes:
 
-Uso Tipo Factor Único
+USO TIPO FACTOR ÚNICO
 
 a) Habitacional Popular y/o Institucional 150
 
@@ -3213,17 +3327,61 @@ Residencial 50
 
 Campestre 40
 
-b) Comercial Todos los tipos 80
+b) Comercial y Todos los contenidos en los Planes de
 
-c) Servicios Todos los tipos 80
+de Servicios Desarrollo Urbano 80
 
-e) (sic) Industrial Todos los tipos 100
+c) Industrial Agroindustrial 100
 
-IV. Para el cobro de metros cuadrados excedentes hasta seis, relativos al Uso Agropecuario, se pagará 1 VSMGZ y a partir de siete, se pagará únicamente cuota directa de 6 VSMGZ.
+Micro 100
 
-V. El cobro por modificación, corrección y/o ratificación de dictamen de uso de suelo será de 4 VSMGZ.
+Pequeña o Ligera 100
 
-VI. En caso de que una industria o comercio pretenda establecerse en un parque, fraccionamiento o condominio industrial, el cual haya cumplido previamente con los trámites requeridos por la Secretaría de Desarrollo Urbano y Obras Públicas, efectuado el pago correspondiente, únicamente cubrirá un pago por la emisión del dictamen de uso de suelo individual de 6 VSMGZ.
+Mediana 80
+
+Grande o Pesada 80
+
+d) Actividades Todos los contenidos en los Planes de
+
+Extractivas Desarrollo Urbano 40
+
+e) Equipamiento Todos los contenidos en los Planes de
+
+Desarrollo Urbano 80
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IV. Por los metros cuadrados excedentes relativos al Uso Agropecuario, se pagará una cuota de 10 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+V. Por la modificación, corrección y/o ratificación de dictamen de uso de suelo se pagará una cuota correspondiente a 5 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VI. En caso de que una industria o comercio pretenda establecerse en un parque, fraccionamiento o condominio industrial, que haya cumplido previamente con los trámites requeridos por la Secretaría de Desarrollo Urbano y Obras Públicas y efectuado el pago correspondiente, únicamente cubrirá un pago por la emisión del dictamen de uso de suelo individual de 10 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VII. Por la expedición de copias de dictámenes de uso de suelo o licencia de construcción se pagarán:
+
+a) Por cada copia simple, 2 VSMGZ.
+
+b) Por cada copia certificada, 5 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VIII. Por la emisión del informe de uso de suelo pagará una cuota del 6 VSMGZ.
 
 ###### Artículo 104.
 
@@ -3259,6 +3417,10 @@ VI. En caso de que una industria o comercio pretenda establecerse en un parque, 
 
 Por visto bueno a proyectos de fraccionamientos se pagará:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 Superficie hectáreas/VSMGZ
 
 Uso/Tipo 0 a 2 a 5 a 10 a Más
@@ -3287,19 +3449,23 @@ vos Otros no 66 72 78 84 125
 
 especificados
 
+Agroindustrial 60 66 72 78 84
+
 Micro 42 48 54 60 72
 
-Pequeña 48 54 60 66 140
+Industrial Pequeña o Ligera 48 54 60 66 140
 
-Industrial Mediana 54 60 66 72 165
+Mediana 54 60 66 72 165
 
-Grande 60 66 72 78 195
+Grande o Pesada 60 66 72 78 195
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 112.
 
-Por los dictámenes técnicos para la licencia de ejecución de obras de urbanización de fraccionamientos, se pagará:
+Por los dictámenes técnicos para la autorización de la licencia de ejecución de obras de urbanización de fraccionamientos, se pagará:
 
 Superficie hectáreas/VSMGZ
 
@@ -3329,19 +3495,23 @@ vos Otros no 78 84 90 96 102
 
 especificados
 
+Agroindustrial 60 66 72 78 84
+
 Micro 54 60 66 72 78
 
-Pequeña 60 66 72 78 84
+Industrial Pequeña o Ligera 60 66 72 78 84
 
-Industrial Mediana 66 72 78 84 90
+Mediana 66 72 78 84 90
 
-Grande 72 78 84 90 96
+Grande o Pesada 72 78 84 90 96
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 113.
 
-Por dictamen técnico sobre avance de obra de urbanización, venta provisional de lotes de fraccionamientos, se pagará:
+Por dictamen técnico sobre avance de obras de urbanización para la autorización de venta provisional de lotes de fraccionamientos, se pagará:
 
 Superficie hectáreas/VSMGZ
 
@@ -3371,19 +3541,23 @@ vos Otros no 72 78 84 90 96
 
 especificados
 
+Agroindustrial 60 66 72 78 84
+
 Micro 54 60 66 72 78
 
-Pequeña 60 66 72 78 84
+Industrial Pequeña o Ligera 60 66 72 78 84
 
-Industrial Mediana 66 72 78 84 90
+Mediana 66 72 78 84 90
 
-Grande 72 78 84 90 96
+Grande o Pesada 72 78 84 90 96
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 114.
 
-Por el dictamen técnico de la autorización definitiva y recepción de fraccionamientos por el H. Ayuntamiento, se pagará:
+Por el dictamen técnico para la autorización de entrega y recepción de obras de urbanización de fraccionamientos por el H. Ayuntamiento, se pagará:
 
 Superficie hectáreas/VSMGZ
 
@@ -3413,19 +3587,23 @@ vos Otros no 72 78 84 90 96
 
 especificados
 
+Agroindustrial 60 66 72 78 84
+
 Micro 54 60 66 72 78
 
-Pequeña 60 66 72 78 84
+Industrial Pequeña o Ligera 60 66 72 78 84
 
-Industrial Mediana 66 72 78 84 90
+Mediana 66 72 78 84 90
 
-Grande 72 78 84 90 96
+Grande o Pesada 72 78 84 90 96
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 115.
 
-Por el dictamen técnico para la renovación de fraccionamiento, se pagará:
+Por el dictamen técnico para la autorización de la renovación de la licencia de ejecución de obras de urbanización del fraccionamiento, se pagará:
 
 Superficie hectáreas/VSMGZ
 
@@ -3455,19 +3633,25 @@ vos Otros no 110 120 130 140 150
 
 especificados
 
+Agroindustrial 80 90 100 110 120
+
 Micro 70 80 90 100 110
 
-Pequeña 80 90 110 110 120
+Industrial Pequeña o Ligera 80 90 110 110 120
 
-Industrial Mediana 90 100 110 120 130
+Mediana 90 100 110 120 130
 
-Grande 100 110 120 130 140
+Grande o Pesada 100 110 120 130 140
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 116.
 
 Por la relotificación de fraccionamientos, se pagará:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 Superficie hectáreas/VSMGZ
 
@@ -3497,19 +3681,25 @@ vos Otros no 48 54 60 66 72
 
 especificados
 
+Agroindustrial 48 54 60 72 78
+
 Micro 36 42 48 54 60
 
-Pequeña 48 54 60 72 78
+Industrial Pequeña o Ligera 48 54 60 72 78
 
-Industrial Mediana 60 66 72 78 84
+Mediana 60 66 72 78 84
 
-Grande 72 78 84 90 96
+Grande o Pesada 72 78 84 90 96
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 117.
 
 Por los ajustes de medidas de los fraccionamientos, se pagará:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 Superficie hectáreas/VSMGZ
 
@@ -3539,63 +3729,67 @@ vos Otros no 36 42 48 54 60
 
 especificados
 
+Agroindustrial 30 36 42 48 54
+
 Micro 24 30 36 42 48
 
-Pequeña 30 36 42 48 54
+Industrial Pequeña o Ligera 30 36 42 48 54
 
-Industrial Mediana 36 42 48 54 60
+Mediana 36 42 48 54 60
 
-Grande 42 48 54 60 66
+Grande o Pesada 42 48 54 60 66
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 118.
 
-Por otros conceptos, relativos a fraccionamientos, se pagará:
+Por otros conceptos relacionados con fraccionamientos, se pagará:
 
 Concepto VSMGZ
 
-Por dictamen técnico para la autorización de publicidad
+Por dictamen técnico para la autorización de publicidad de
 
-de fraccionamientos 40
+fraccionamientos 40
 
-Por dictamen técnico para la autorización de
+Por dictamen técnico para la autorización de publicidad de fraccionamientos
 
-publicidad de fraccionamientos extemporáneos 500
+Extemporáneos 500
 
-Por el dictamen técnico para la cancelación de
+Por el dictamen técnico para la cancelación de fraccionamientos 30
 
-fraccionamientos 30
-
-Por el dictamen técnico para el cambio de nombre de
-
-fraccionamientos 25
+Por el dictamen técnico para el cambio de nombre de fraccionamientos 25
 
 Por reposición de copias de planos de fraccionamientos 20
 
-Por dictamen técnico para la causahabiencia de
+Por dictamen técnico para la causahabiencia de fraccionamientos 20
 
-fraccionamientos 20
+Por constancias de fraccionamientos emitidas por la Secretaría de Desarrollo Urbano y Obras Públicas 20
 
-Por constancias de fraccionamientos emitidas por la
+Por copias certificadas de planos
 
-Secretaría de Desarrollo Urbano y Obras Públicas 20
+de fraccionamientos Por cada plano 15
 
-Por copia certificadas de planos
+Por copias simple (sic) de planos
 
-de fraccionamientos Por cada plano 5
+de fraccionamientos Por cada plano 10
 
-Por copias certificadas de Por la primera hoja .05
+Por copias certificadas de documentos Por la primera hoja 3
 
-documentos Por cada hoja
+Por cada hoja
 
-subsecuente .02
+subsecuente. 1
+
+Por copias simples de documentos Por la primera hoja 1
+
+Por cada hoja
+
+subsecuente. 0.5
 
 Por los servicios de supervisión de fraccionamientos se causará y pagará el equivalente al 1.5 por ciento sobre el costo de las obras de urbanización. Tratándose de fraccionamientos de interés social, popular o de urbanización progresiva se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3603,63 +3797,105 @@ Por los servicios de supervisión de fraccionamientos se causará y pagará el e
 
 Por los siguientes conceptos con relación a condominios, se pagará:
 
-Concepto VSMGZ
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Visto bueno a proyecto De 2 a 15 unidades 25
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-De 16 a 30 unidades 25
+Concepto Número de Unidades Uso VSMGZ
 
-De 31 a 45 unidades 30
+Visto bueno a proyecto De 2 a 10 unidades Habitacional 5
 
-De 46 a 60 unidades 35
+Otros usos 25
 
-De 61 a 75 unidades 40
+De 11 a 50 Unidades 40
 
-De 76 a 90 unidades 45
+De 51 a 90 Unidades Todos los usos 50
 
-Más de 91 unidades 50
+De 91 a 120 Unidades 75
 
-Emisión de la declaratoria De 2 a 15 unidades 50
+Emisión de la declaratoria De 2 a 10 Unidades Habitacional 10
 
-del régimen de propiedad De 16 a 30 unidades 60
+del régimen de propiedad Otros usos 50
 
-condominio De 31 a 45 unidades 70
+en condominio De 11 a 50 Unidades 80
 
-De 46 a 60 unidades 80
+De 51 a 90 Unidades Todos los usos 100
 
-De 61 a 75 unidades 90
+De 91 a 120 Unidades 150
 
-De 76 a 90 unidades 100
+Emisión de dictamen De 2 a 10 Unidades Habitacional 10
 
-Más de 91 unidades 115
+técnico aprobatorio de Otros usos 30
 
-Reposición de expediente de condominio,
+la licencia de De 11 a 50 Unidades 40
 
-documentos y planos 10
+construcción para las De 51 a 90 Unidades Todos los usos 50
 
-Autorización de publicidad de condominio 60
+obras de uso o De 91 a 120 Unidades 75
 
-Modificación y/o ampliación de condominio 50
+propiedad común
 
-Corrección de medidas de condominios 40
+Autorización de De 2 a 10 unidades Habitacional 60
 
-Constancias de Condominios 20
+publicidad de Otros usos 60
 
-Certificaciones en documentos De una hoja 0.5
+condominios De 11 a 50 Unidades 60
 
-Cancelación de declaratoria de regimen 30
+De 51 a 90 Unidades Todos los usos 60
 
-Por copias certificadas de
+De 91 a 120 Unidades 60
 
-documentos Por la primera hoja 0.5
+Modificación y/o De 2 a 10 unidades Habitacional 10
 
-Por cada hoja
+ampliación de Otros usos 30
 
-subsecuente 0.2
+condominio De 11 a 50 Unidades 50
+
+De 51 a 90 Unidades Todos los usos 75
+
+De 91 a 120 Unidades 100
+
+Corrección de De 2 a 10 unidades Habitacional 5
+
+medidas de Otros usos 20
+
+condominios De 11 a 50 Unidades 40
+
+De 51 a 90 Unidades Todos los usos 60
+
+De 91 a 120 Unidades 80
+
+Constancia de De 2 a 10 unidades Habitacional 5
+
+condominio Otros usos 20
+
+De 11 a 50 Unidades 20
+
+De 51 a 90 Unidades Todos los usos 20
+
+De 91 a 120 Unidades 20
+
+Cancelación de De 2 a 10 Unidades Habitacional 50
+
+declaratoria de Otros usos 50
+
+régimen de propiedad De 11 a 50 Unidades 50
+
+en condominio De 51 a 90 Unidades Todos los usos 50
+
+De 91 a 120 Unidades 50
+
+Copia simple de documentos de condominio 1
+
+Copia certificada de documentos de condominio 3
+
+Copia simple de plano de condominio 10
+
+Copia certificada de plano de condominio 15
 
 Por los servicios de supervisión de condominios se causará y pagará el equivalente al 1.5 por ciento sobre el costo de las obras de urbanización. Tratándose de condominios que se pretendan construir en fraccionamientos de interés social, popular o de urbanización progresiva se exceptuarán de dicho cobro las partidas de electrificación, agua potable, alcantarillado y drenaje.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3667,31 +3903,25 @@ Por los servicios de supervisión de condominios se causará y pagará el equiva
 
 Por la expedición de copias de documentos que contengan la información de instrumentos de planeación, se causará:
 
-Concepto MEDIO DE VSMGZ
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-REPRODUCCIÓN
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-Programa de Desarrollo Urbano
+Concepto MEDIO DE REPRODUCCIÓN VSMGZ
 
-versión completa 2
+Programa de Desarrollo Urbano 2
 
 Disco Compacto
 
-Plano Base del Estado y
+Plano base del Estado y Municipios 1
 
-Municipios 1
+Copia fiel de plano individual 1
 
-Copia Fiel de
+0.5 por la primera hoja
 
-Plano individual 1
+Copia certificada de Programas Impresión en bond
 
-Impresión en Bond
-
-Copia certificada de Programas 0.5 por la primera
-
-de Desarrollo Urbano hoja
-
-.02 por las hojas
+de Desarrollo Urbano .02 por las hojas
 
 subsecuentes
 
@@ -3701,21 +3931,29 @@ subsecuentes
 
 Por otros servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas se pagarán los siguientes derechos.
 
-I. Por informes generales respecto de fraccionamientos emitidos por la Secretaría. 5 VSMGZ.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
+I. Por informes generales respecto de fraccionamientos y condominios emitidos por la Secretaría. 5 VSMGZ.
 
-II. Por copia simple de plano autorizado relativo a la licencia de construcción se pagará 1 VSMGZ por cada plano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+II. Por copias de plano autorizado relativo a la licencia de construcción:
 
-III. Por constancia de trámite de licencia de construcción se pagará 1 VSMGZ.
+a) Simples, se pagarán 2 VSMGZ, por cada plano, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+b) Certificadas, se pagarán 5 VSMGZ, por cada plano
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III. Por constancia de trámite de licencia de construcción se pagará 3 VSMGZ.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3767,7 +4005,7 @@ Otras publicaciones, por palabra 0.06
 
 El pago de las cantidades mencionadas conforme al presente artículo no genera derecho a la adquisición gratuita del ejemplar o ejemplares en que se haya realizado la publicación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3775,11 +4013,15 @@ El pago de las cantidades mencionadas conforme al presente artículo no genera d
 
 Por los servicios prestados por la Dirección Estatal del Registro Civil y que en su caso serán cobrados por los Municipios cuando estos organicen el registro civil, se pagarán los siguientes derechos:
 
-CONCEPTO ZONA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Concepto ZONA
 
 A B
 
-Asentamiento de actas de nacimiento, nacimientos múltiples y reconocimiento de hijo:
+Asentamiento de registro de nacimiento, nacimientos múltiples y reconocimientos de hijo:
 
 En Oficialía en día y horas hábiles 1 0.7
 
@@ -3789,15 +4031,11 @@ A domicilio en día y horas hábiles 6 4.2
 
 A domicilio en día u horas inhábiles 8 7
 
-Asentamiento de actas de nacimiento:
-
-De expósito o recién nacido muerto 0.1 0.1
+Asentamiento de registro de nacimiento de expósito o recién nacido muerto. 0 0
 
 Mediante registro extemporáneo 3 2.1
 
-Asentamiento de actas de adopción
-
-simple y plena 4 2.8
+Asentamiento de actas de adopción simple y plena 4 2.8
 
 Celebración y acta de matrimonio en Oficialía:
 
@@ -3815,113 +4053,73 @@ En día y hora hábil vespertino 30 21
 
 En sábado o domingo 35 25
 
-Celebración y acta de matrimonio colectivo
+Celebración y acta de matrimonio colectivo en campaña, por cada pareja 1.8 1
 
-en campaña, por cada pareja 1.8 1
-
-Procedimiento y acta de Divorcio
-
-Administrativo 65 50
+Procedimiento y acta de Divorcio administrativo 65 50
 
 Asentamiento de acta de Divorcio judicial 5 3.5
 
 Asentamiento de actas de defunción:
 
-En día hábil 1 0.7
+En día hábil 1 0. 7
 
 En día inhábil 3 2.1
 
-De recién nacido muerto 1 0.7
+De recién nacido muerto 1 0. 7
 
-Constancia de denuncia de nonato según
+Constancia de denuncia de nonato según artículo 325 del Código Civil del Estado de Querétaro 0.49 0.35
 
-artículo 325 del Código Civil para el Estado 0.49 0.35
+Inscripción de ejecutoria que declara: Incapacidad legal para administrar bienes, Ausencia, Presunción de muerte o Tutela de incapacitados. 5 3.5
 
-Inscripción de ejecutoria que declara:
+Rectificación de acta 1 0. 7
 
-Incapacidad legal para administrar bienes,
+Constancia de inexistencia de acta 1 0. 7
 
-Ausencia, Presunción de muerte o Tutela de
+Inscripción de actas levantadas en el extranjero 5 3
 
-incapacitados. 5 3.5
+Copias certificadas de documentos expedidos por la Dirección Estatal del Registro Civil, por cada hoja. 1 0. 7
 
-Rectificación de acta 1 0.7
+De otro Estado convenido. La tarifa será independientemente de los cobros que haga la autoridad que la expide y del envío según convenio o disposición correspondiente. 2 2
 
-Constancia de inexistencia de acta 1 0.7
+Uso del sistema informático para expedición de certificación automática, por documento 0.1 0.1
 
-Inscripción de actas levantadas
-
-en el extranjero 5 3
-
-Copia certificada de cualquier acta 1 0.7
-
-De otro Estado convenido. La tarifa será
-
-independientemente de los cobros que haga
-
-la autoridad que la expide y del envío según
-
-convenio o disposición correspondiente 2 2
-
-Uso del sistema informático para expedición
-
-de certificación automática, por documento 0.1 0.1
-
-Uso del sistema informático por autoridad
-
-distinta al Registro Civil, por documento 1 1
+Uso del sistema informático por autoridad distinta al Registro Civil, por documento 1 1
 
 Las zonas mencionadas corresponderán:
 
-Zona A: Comprende los Municipios: El Marques, Corregidora, Querétaro y San Juan del Río.
+Zona A: Comprende los municipios: El Marqués, Corregidora, Querétaro y San Juan del Río.
 
-Zona B: Comprende los Municipios: Resto del Estado.
+Zona B: Comprende el resto de los municipios del Estado.
 
-El Registro Civil expedirá sin costo alguno la certificación de actas de nacimiento parar (sic) personas con discapacidad y adultos mayores, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten.
+El Registro Civil expedirá sin costo alguno la certificación de actas de nacimiento parar (sic) personas con discapacidad y adultos mayores, cuando la autoridad federal, estatal o municipal o bien el interesado lo tramiten, así como aquellas que solicite el Sistema Estatal de Desarrollo Integral de la Familia respecto de menores puestos a su disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Artículo 124 BIS. Por los servicios prestados por la Dirección de Gobierno, se pagarán los siguientes derechos:
+Artículo 124 bis.- Por los servicios prestados por la Dirección de Gobierno, se pagarán los siguientes derechos:
 
-CONCEPTO VSMGZ
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Por la revisión del formato para la solicitud de una concesión
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-de transporte público en cualquiera de sus modalidades o por
+Concepto VSMGZ
 
-su regularización 1
+Por la revisión del formato para la solicitud de una concesión de transporte público en cualquiera de sus modalidades o por su regularización 1
 
-Por la realización del trámite de refrendo anual de una concesión
+Por la realización del trámite de refrendo anual de una concesión de transporte público en cualquiera de sus modalidades. 60
 
-de transporte público en cualquiera de sus modalidades. 44
+Por la realización del trámite del refrendo anual de manera extemporánea de una concesión de transporte público en cualquiera de sus modalidades. 88
 
-Por la realización del trámite del refrendo anual de manera
+Por el otorgamiento y expedición del título de una concesión de transporte público en cualquiera de sus modalidades. 184
 
-extemporánea de una concesión de transporte público en
+Por el cambio de titular por defunción y expedición del nuevo título de una concesión de transporte público en cualquiera de sus modalidades, para el caso del fallecimiento del concesionario original. 90
 
-cualquiera de sus modalidades. 88
-
-Por el otorgamiento y expedición del título de una concesión de
-
-transporte público en cualquiera de sus modalidades. 184
-
-Por el cambio de titular por defunción y expedición del nuevo título
-
-de una concesión de transporte público en cualquiera de sus
-
-modalidades, para el caso del fallecimiento del concesionario original. 90
-
-Por la consolidación de una concesión de transporte público en
-
-cualquiera de sus modalidades. 90
+Por la consolidación de una concesión de transporte público en cualquiera de sus modalidades. 90
 
 Por la emisión de una constancia de concesionario de transporte público. 15
 
-Por la reposición de un título de concesión de transporte público en
-
-cualquiera de sus modalidades. 30
+Por la reposición de un título de concesión de transporte público en cualquiera de sus modalidades. 30
 
 Por la realización del examen para ocupar una vacante de Notario. 184
 
@@ -3933,97 +4131,63 @@ Por la expedición de nombramiento de Notario. 90
 
 LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 125.
 
-Por los servicios prestados por la Procuraduría General de Justicia del Estado se causarán y pagarán conforme a los siguientes derechos:
+Por los servicios prestados por la Procuraduría General de Justicia del Estado se causarán y pagarán los siguientes derechos:
 
 Concepto VSMGZ
 
-Por la expedición de Por la primera
+Por la expedición de Certificado de Por la primera hoja 2
 
-Certificado de antecedentes hoja 2
+antecedentes procesales o penales Por cada hoja excedente a la primera 1
 
-procesales o penales
+Por la práctica de peritaje y Por trabajo pericial para cuyo
 
-Por cada hoja
+elaboración del dictamen o dictamen se exija que el perito acredite 20
 
-excedente a la
+certificado correspondiente, a contar con estudios de licenciatura.
 
-primera 1
+petición de autoridad, como
 
-Por práctica de peritaje y Por trabajo pericial 12
+consecuencia de propuesta Por trabajo pericial para cuyo dictamen
 
-elaboración del dictamen o para cuyo dictamen
+de particulares, cuando no no se exija que el perito acredite 10
 
-certificado correspondiente, se exija que el perito
+resulte para la Procuraduría contar con estudios de licenciatura.
 
-a petición de autoridad, acredite contar con
+como obligación derivada de
 
-como consecuencia de estudios de
+sus funciones.
 
-de propuesta de particulares, licenciatura
+Por la expedición del documento que acredite la verificación alfanumérica de automotor que determine la existencia o no de irregularidad en sus datos de identificación vehicular 5
 
-cuando no resulte para la
+Por expedición de certificado sobre la existencia o no de reporte de robo de vehículo automotor conforme a las bases de datos de la Procuraduría General de Justicia 2
 
-Procuraduría como obligación Por trabajo pericial para
+Por capacitación que se imparta a instituciones públicas o privadas, por cada hora por grupo de hasta 30 personas. 10
 
-derivada de sus funciones. cuyo dictamen no se
+Por la realización de pruebas psicológicas al personal de las instituciones públicas o privadas, por cada persona evaluada. 8
 
-exija que el perito
+Por evaluación del nivel de conocimientos y habilidades del personal de instituciones públicas o privadas, por cada persona evaluada. 8
 
-acredite contar con
+Por la expedición de copias de documentos en poder de la Procuraduría consultables conforme a la Ley, contenidas en:
 
-estudios de licenciatura 6
+Sin costo
 
-Por la expedición del documento que acredite la
-
-verificación alfanumérica de automotor que determine la
-
-existencia o no de irregularidad en sus datos de
-
-identificación vehicular 5
-
-Por expedición de certificado sobre la existencia o no de
-
-reporte de robo de vehículo automotor conforme a las
-
-bases de datos de la Procuraduría General de Justicia. 2
-
-Por capacitación que se imparta a instituciones públicas o
-
-privadas, por cada hora por grupo de hasta 30 personas. 10
-
-Por la realización de pruebas psicológicas al personal de
-
-las instituciones públicas o privadas, por cada persona
-
-evaluada. 8
-
-Por evaluación de nivel de conocimientos y habilidades
-
-del personal de instituciones públicas o privadas, por cada
-
-persona evaluada. 8
-
-Por la expedición de copias de documentos en poder
-
-de la Procuraduría consultables conforme a la Ley,
-
-contenidas en:
-
-Medio electrónico o magnético, el interesado
-
-deberá proveer los discos o cintos (sic) que
-
-se requieran; Sin costo
+Medio electrónico o magnético, el interesado deberá proveer los discos o cintos que se requieran;
 
 Fotocopia: por cada hoja 0.01
 
-Por cada trabajo pericial, el particular, adicionalmente, cubrirá el importe de los insumos o elementos consumidos en la realización del dictamen, conforme a los costos vigentes en el mercado al momento de la solicitud respectiva.
+Por la expedición del certificado Por cada delito respecto del
+
+de cancelación administrativa de cual se solicite la cancelación. 2
+
+registro de antecedentes penales.
+
+El costo de los insumos, consumibles, reactivos u otros materiales necesarios para la realización de cada trabajo pericial, no se entenderá comprendido en el monto de los derechos correspondientes a la práctica de peritajes y a la elaboración de los dictámenes o certificados respectivos, por lo que el particular deberá cubrir el importe de los mismos de acuerdo al valor de mercado que tengan al momento en que se realice la solicitud respectiva o suministrarlos al área pericial competente, de conformidad con las especificaciones técnicas y de calidad que el perito que elaborará el dictamen le indique.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -4605,37 +4769,57 @@ La Dirección de Ingresos podrá sustituir las placas, tarjeta de circulación y
 
 Las propietarios, tenedores o usuarios de vehículos nuevos o usados, domiciliados en el territorio del Estado o que tengan su residencia en el mismo, deberán registrar dichos vehículos en el Padrón Vehicular Estatal, dentro de los quince días hábiles siguientes a la fecha en que adquirieron la propiedad, tenencia o uso de dichos vehículos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 136.
 
-Las personas físicas o morales que sean propietarias o arrendatarias de unidades automotrices nuevas o usadas y pretendan registrarlas en el Padrón Vehicular Estatal:
+Las personas físicas o morales que sean propietarias o arrendatarias de unidades automotrices nuevas o usadas y pretendan inscribirlas en el Padrón Vehicular Estatal, deberán presentar en original y copia, la siguiente documentación:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Factura original y a falta de esta carta factura original y copia de la factura de origen o refactura original.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
-En caso de no contar con la factura de origen o copia para los vehículos 1995 y posteriores, la Dirección de Ingresos asignará el valor del vehículo, de acuerdo a los valores publicados en la Guía Autométrica que corresponda al año modelo del vehículo o, en su defecto se le asignará el valor de un vehículo con características similares, que se encuentre inscrito en el Padrón Vehicular Estatal.
+I. Factura original o el comprobante fiscal digital correspondiente, de acuerdo con lo siguiente:
 
-Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando este haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior.
+A. Tratándose de vehículos nuevos, se deberá presentar, el comprobante fiscal digital relativo a la primera enajenación del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+En el caso de unidades enajenadas a crédito, a falta de comprobante fiscal digital del vehículo, se deberá presentar la carta factura mediante la cual se acredite la propiedad del mismo. La carta factura deberá tener una antigüedad menor a 15 días hábiles contados a partir de la fecha de su emisión.
+
+B. En el caso de vehículos usados:
+
+a) Se deberá presentar la factura de la unidad expedida a nombre del propietario o endosada a su nombre, indicando la fecha de adquisición; o
+
+b) Comprobante fiscal digital y contrato de compraventa con el que se acredite la adquisición del vehículo por parte del interesado;
+
+Además de lo anterior, para el caso de vehículos usados, se deberá presentar la factura o comprobante fiscal digital en el que conste la primera enajenación de la unidad al consumidor.
+
+En el caso de unidades enajenadas a crédito, a falta de comprobante fiscal digital y/o factura, deberá presentarse carta factura mediante la cual se acredite la propiedad del mismo. La carta factura deberá tener una antigüedad menor a 15 días hábiles contados a partir de la fecha de su emisión.
+
+En caso de no contar con la factura de origen o copia para los vehículos 1995 y anteriores, la Dirección de Ingresos asignará el valor del vehículo, de acuerdo a los valores publicados en la Guía Autométrica que corresponda al año modelo del vehículo o, en su defecto se le asignará el valor de un vehículo con características similares, que se encuentre inscrito en el Padrón Vehicular Estatal.
+
+Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando este haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II.- Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario. Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento en donde conste quien es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el tramite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad, firmada ante dos testigos, además de presentar original y copia de la identificación de quien otorga y recibe dicho poder, así como copia de la identificación de los dos testigos.
+II. Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario. Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento en donde conste quien es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el tramite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad, firmada ante dos testigos, además de presentar original y copia de la identificación de quien otorga y recibe dicho poder, así como copia de la identificación de los dos testigos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 III. Comprobante de domicilio en el Estado de Querétaro y en los casos en los que así lo determine la autoridad fiscal, constancia de residencia expedida por la autoridad municipal competente.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Presentar los últimos cinco comprobantes de pago del Impuesto Sobre Tenencia o Uso de Vehículos, los cuales estarán sujetos a validación con la autoridad emisora, previo al Registro en el Padrón Vehicular Estatal, o en su caso comprobar que se encuentra libre de pago de dicho Impuesto.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IV. Presentar los comprobantes de pago del impuesto sobre tenencia o uso de vehículos correspondiente.
+
+Dichos documentos estarán sujetos a validación con la autoridad emisora, previo a la inscripción en el Padrón Vehicular Estatal, o en su caso comprobar que se encuentra libre del pago del impuesto respectivo.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4643,15 +4827,15 @@ V. Entregar placas y tarjeta de circulación o, en su caso, presentar la baja co
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-VI.- Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acreditan la legal estancia del vehículo en el país, o en su caso, copia certificada emitida por la Secretaría de Hacienda y Crédito Público.
+VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acreditan la legal estancia del vehículo en el país, o en su caso, copia certificada emitida por la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-VII.- Las personas físicas o morales que pretendan realizar el cambio de propietario de vehículos nuevos o usados registrados en el Padrón Vehicular Estatal deberán presentar además de lo señalado en las fracciones I, II, III y IV del presente artículo, la factura debidamente endosada a su nombre y la tarjeta de circulación.
+VII. Las personas físicas o morales que pretendan realizar el cambio de propietario de vehículos nuevos o usados registrados en el Padrón Vehicular Estatal deberán presentar además de lo señalado en las fracciones I, II, III y IV del presente artículo, la factura debidamente endosada a su nombre y la tarjeta de circulación.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
-VIII.- Cuando derivado de un error en un movimiento al Padrón Vehicular Estatal por causas no imputables al contribuyente se deba realizar la baja y alta del vehículo, no se causarán los derechos a que hacen referencia las fracciones I y VI del artículo 135 de la presente Ley.
+VIII. Cuando derivado de un error en un movimiento al Padrón Vehicular Estatal por causas no imputables al contribuyente se deba realizar la baja y alta del vehículo, no se causarán los derechos a que hacen referencia las fracciones I y VI del artículo 135 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -4665,69 +4849,13 @@ El contribuyente o su representante legal deberán presentar el vehículo cuando
 
 Artículo 136 bis.- Si el vehículo que se pretende registrar, cuenta con placas de circulación expedidas por la Secretaría de Comunicaciones y Transportes, el contribuyente deberá presentar, además de los requisitos contemplados en el artículo 136 de está Ley, la tarjeta de circulación expedida por dicha Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 137.
 
-Para la obtención de placas metálicas de circulación de características especiales, se estará a lo siguiente:
-
-I. Para auto antiguo:
-
-a. Comprobar que la unidad cuenta con una antigüedad mínima de 30 años.
-
-b. Presentar documento expedido por el fabricante de la unidad u organismo de certificación, laboratorio de prueba o unidad de verificación, debidamente acreditado, en donde se certifique que las partes, componentes y la carrocería de la unidad, conservan sus características originales. La Secretaría de Planeación y Finanzas podrá realizar la verificación física del vehículo, auxiliándose para ello, con alguno de los clubes o asociación de autos antiguos afiliados a la Federación Mexicana de Automóviles Antiguos y de Colección A.C.
-
-c. Cumplir con los requisitos señalados en el artículo 136 de esta Ley.
-
-II. Para discapacitado:
-
-a. Entregar constancia de discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia.
-
-b. Cumplir con los requisitos señalados en el artículo 136 de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-III. Para demostración:
-
-Únicamente se podrá dotar de placas de demostración a personas morales que tengan el carácter de distribuidores o comerciantes de automóviles y camiones tipo pick up nuevos con domicilio fiscal ubicado dentro del territorio del Estado de Querétaro, siempre y cuando se cumplan los siguientes requisitos:
-
-1. Los distribuidores o comerciantes de vehículos nuevos deberán realizar su solicitud por escrito ante la Dirección de Ingresos, de la Secretaría de Planeación y Finanzas y deberán acreditar que la antigüedad del año modelo de los vehículos para los cuales se solicitan, no sea mayor a un año contado a partir del ejercicio fiscal de que se trate.
-
-2. En la solicitud de dotación correspondiente, deberá señalarse el año modelo, línea, versión y número de serie de los vehículos para los cuales se solicitan las citadas placas.
-
-3. Los distribuidores o comerciantes de vehículos nuevos, deberán adjuntar a su solicitud:
-
-a) Tratándose de personas morales que realicen por primera vez su solicitud de dotación en los términos de este artículo original y copia certificada de su acta constitutiva.
-
-b) Copia certificada del instrumento en el que conste la designación de su representante legal.
-
-c) En caso de que el trámite se efectúe por persona diversa del representante legal, original y copia simple del poder notarial que lo autorice para tales efectos.
-
-d) Original y copia simple de la identificación oficial del apoderado y otorgante.
-
-e) Original y copia simple de la identificación oficial del representante legal.
-
-f) Original y copia simple de la licencia municipal con giro preponderante de compraventa de vehículos nuevos.
-
-g) Original y copia simple de la constancia de empadronamiento en materia de impuesto sobre nóminas, así como las dos últimas declaraciones de dicho tributo, del impuesto al valor agregado, así como del impuesto sobre automóviles nuevos.
-
-h) Original y copia simple del Registro Federal de Contribuyentes ante la Secretaría de Hacienda y Crédito Público, con giro preponderante de compra-venta de vehículos nuevos.
-
-Se entregará un juego de placas de demostración, por cada versión, de cada modelo de los vehículos de que se trate.
-
-El refrendo de las placas de demostración se realizará por año de calendario durante el primer mes del ejercicio fiscal siguiente a aquél en que se hubiere realizado la dotación de las mismas.
-
-Cuando el distribuidor o comerciante de vehículos, no realice el refrendo en el plazo referido en el párrafo anterior, el tenedor o usuario del mismo deberá pagar el impuesto sobre tenencia o uso de vehículos dentro de los 15 días siguientes a aquél en que haya fenecido el citado plazo.
-
-Cuando el distribuidor o comerciante enajene un vehículo sobre el cual se hubiere autorizado la dotación de placas de demostración, estará obligado a dar aviso de dicha situación, en un plazo de 15 días contados a partir de la fecha en que la enajenación aconteció. En el aviso mencionado deberá además señalarse al nuevo vehículo de demostración al cual se asignarán dichas placas.
-
-Las autoridades fiscales podrán practicar en cualquier momento, visitas domiciliarias de inspección a efecto de comprobar que las placas de demostración han sido utilizadas en vehículos para los cuales fueron autorizadas y que éstos no han dejado de estar destinados a su demostración.
-
-Cuando las autoridades fiscales, a través del ejercicio de sus facultades, comprueben que las placas de demostración han sido utilizadas en vehículos diversos a aquellos para los cuales fueron autorizadas o que éstos dejaron de estar destinados a demostración, podrán exigir al distribuidor o comerciante que tenga el carácter de tenedor o usuario (sic) vehículos de que se trate, el pago del impuesto sobre tenencia o uso de vehículos previsto en el Capítulo Segundo del Título Tercero de esta Ley, en el plazo señalado en el quinto párrafo del artículo 25-D de esta Ley, así como exigir la inmediata devolución de las placas de demostración otorgadas.
+Para la obtención de placas metálicas de circulación con características especiales deberán cumplirse los requisitos y procedimientos que mediante acuerdo establezca la Secretaría de Planeación y Finanzas, mismo que deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
@@ -6060,3 +6188,125 @@ Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere
 Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2012.
+
+Artículo Segundo. El pago del impuesto sobre loterías, rifas, sorteos y concursos que se hubiere causado con anterioridad a la entrada en vigor de esta Ley, deberá ajustarse a lo previsto en las disposiciones vigentes a la fecha de su nacimiento.
+
+Artículo Tercero. Las personas físicas y morales que a la entrada en vigor esta (sic) Ley, se encuentren obligadas a empadronarse en términos del inciso a), fracción I, del artículo 49-TER, de la Ley de Hacienda del Estado de Querétaro, deberán hacerlo en un plazo no mayor a un mes, contado a partir de dicha fecha.
+
+Artículo Cuarto. Hasta en tanto no se emita el acuerdo a que se refiere el artículo 137 de la Ley de Hacienda del Estado de Querétaro para la obtención de placas metálicas de circulación de características especiales, serán aplicables las disposiciones contenidas en dicho artículo vigente hasta el 31 de diciembre de 2011.
+
+Artículo Quinto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2012, serán las siguientes:
+
+I. Para los efectos de este ordenamiento se entiende por:
+
+a. Vivienda de interés social o popular, aquella a que se refiere el artículo 59 de la Ley de Hacienda del Estado de Querétaro.
+
+b. Por las siglas VSMGZ, veces el salario mínimo general vigente en la zona.
+
+II. Siempre que se trate de vivienda interés (sic) social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado Querétaro (sic) deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a. La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b. La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c. La expedición de certificados de no propiedad.
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a. La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b. Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c. Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGVZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+IV. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a. La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b. La inscripción de la escritura pública en que conste la operación mediante las que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c. La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+V. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a. El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial;
+
+b. El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos; y
+
+c. El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos.
+
+VI. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VII. Tratándose de desarrollos habitacionales de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas causarán:
+
+a. Un derecho a razón de 6 VSMGZ, por los previstos en el artículo 103 de la Ley de Hacienda del Estado de Querétaro, siempre que la solicitud no implique cambio de uso de suelo.
+
+b. Un derecho a razón del 25 VSMGZ, por los previstos en el artículo 111 de la Ley de Hacienda del Estado de Querétaro, por cada prototipo de vivienda con que cuente el desarrollo, sin importar el número total de ellas en el mismo.
+
+Por los servicios previstos en los artículos 112, 113 y 119 del ordenamiento a que se refiere el inciso anterior, se causará y pagará el 50 por ciento de los derechos establecidos en dichos numerales.
+
+Por los servicios previstos en el artículo 114 de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el 25 por ciento de los derechos establecidos en la referida disposición.
+
+VIII. Los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, causarán el 50 por ciento de los derechos señalados en el artículo 131, cuando la revisión física y mecánica a que se refiere se lleve a cabo en el periodo ordinario que al efecto establezca la Secretaría de Gobierno.
+
+IX. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+X. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+XI. La Secretaría de Planeación y Finanzas podrá condonar los créditos fiscales que tiene derecho a percibir la hacienda pública del Estado, que al 31 de diciembre de 2011 sean exigibles y que el importe del crédito sea inferior o igual a 50 VSMGZ a esa fecha.
+
+No procederá la condonación prevista en este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con propiedad, tenencia o uso de vehículos.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si cumple con los requisitos señalados.
+
+XII. Tratándose de los derechos señalados en el artículo 145-C de la Ley de Hacienda del Estado de Querétaro, se estará a lo siguiente:
+
+a. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas mayores a 16 años causarán un derecho de 0.24 VSMGZ.
+
+b. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas de 16 años o menos causarán un derecho de 0.16 VSMGZ.
+
+XIII. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia del tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y el Comercio para efectos de descuento en el impuesto predial.
+
+XIV. El impuesto para el fomento de la educación pública en el Estado, para Caminos y Servicios Sociales que se cause con motivo de los pagos que por concepto del impuesto sobre la venta de bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado, realicen los contribuyentes, se reducirá en un 100%.
+
+XV. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán el equivalente a 0.40 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a que se refiere este artículo.
+
+XVI. A los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101-BIS, se aplicarán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+En los paquetes familiares (por lo menos tres personas en las
+
+30% diferentes disciplinas, previa 30% entrega de una copia del
+
+acta de nacimiento de cada familiar)
+
+Para adultos mayores.
+
+XVII. Para los efectos del impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%, en los casos de aquellas personas que resulten beneficiarias de los apoyos contenidos en el Programa Querétaro cerca de tu economía familiar 2012.
+
+XVIII. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector vigente con domicilio en el Estado de Querétaro. En este último caso además deberán presentar 2 comprobantes de domicilio con una antigüedad no mayor a 3 meses, cuyos datos relativos al domicilio del particular deberán ser coincidentes con los asentados en la referida credencial.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 95 y 102 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
+
+XIX. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el equivalente a 0.40 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que estará formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
