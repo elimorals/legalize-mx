@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2010-12-22"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # CODIGO FISCAL DEL ESTADO DE YUCATAN
 
-CODIGO FISCAL DEL ESTADO DE YUCATAN
+CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -75,9 +75,11 @@ Los gastos de ejecución constituyen las erogaciones efectuadas por las autorida
 
 Los recargos, las multas, los gastos de ejecución y la indemnización a que se refiere este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Cuando en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 5.
 
-Los aprovechamientos son los ingresos que percibe el Estado por funciones de derecho público de naturaleza de las contribuciones, participaciones y aportaciones federales así como los ingresos que deriven de financiamientos y los obtenidos por los organismos descentralizados, empresas de participación estatal.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, participaciones federales y aportaciones federales que se reciban de acuerdo con las normas del Sistema Nacional de Coordinación Fiscal, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
 Los recargos, las multas, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del artículo 30 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
@@ -391,7 +393,9 @@ Cuando las leyes fiscales establezcan que las contribuciones sean pagadas median
 
 Las contribuciones o los aprovechamientos que no se cubran en la fecha o dentro del plazo fijado por las disposiciones fiscales, se actualizarán desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además los contribuyentes deberán pagar recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-Los recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de qué se trate. La tasa de recargos para cada uno de los meses de mora será la que mediante ley fije anualmente el Congreso del Estado en la Ley de Ingresos del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Los recargos se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere el párrafo anterior, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que mediante ley fije anualmente el Congreso del Estado en la Ley de Ingresos del Estado de Yucatán.
 
 Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 91 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
@@ -405,7 +409,9 @@ Cuando las autoridades fiscales reciban un cheque que sea presentado en tiempo y
 
 Si una vez transcurrido el plazo previsto en este artículo no se obtienen el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
-Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece el artículo 89 de este Código, por la parte diferida.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en parcialidades, se causarán además los recargos que establece el artículo 89 de este Código, por la parte diferida. Cuando el contribuyente pague en una sola exhibición el total de las contribuciones omitidas, en forma espontánea en los términos del artículo 98 de este Código, el importe de los recargos no excederá de los causados durante un año. Este beneficio también será aplicable para aquellos contribuyentes que opten por parcializar el total o parte del adeudo y, siendo este el caso, paguen el monto no parcializado en una sola exhibición, siempre y cuando el número de parcialidades no exceda de doce, debiendo garantizar el interés fiscal. En caso de no cumplir con el convenio de pago a plazos, que en su caso se autorice, el contribuyente perderá el beneficio que en éste artículo se establece.
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y la indemnización a que se refiere este artículo. No causarán recargos las multas no fiscales.
 
@@ -685,7 +691,9 @@ La modificación de las declaraciones a que se refiere este artículo se efectua
 
 Iniciado el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración normal o la complementaria, en su caso, únicamente en las formas especiales a que se refieren los artículos 68, 71 y 101 de este Código según proceda, debiendo pagarse las multas que establece el citado artículo 101.
 
-Se presentará la declaración correspondiente conforme a lo previsto por el cuarto párrafo del artículo 186 de este Código, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del referido artículo 101.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Se presentará la declaración correspondiente conforme a lo previsto por el quinto párrafo del artículo 186 de este Código, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del referido artículo 101.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 30 de este Código, a partir de la fecha en que se debió hacer el pago.
 
@@ -1525,7 +1533,9 @@ b) De un 60% a un 90% del monto de las contribuciones omitidas o del beneficio i
 
 c) De un 50% a un 75% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 100 de este Código.
 
-Tratándose de los casos comprendidos en las fracciones I y II del artículo anterior, el aumento de multas a que se refiere esta fracción será determinado por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de los casos comprendidos en los párrafos primero y segundo del artículo anterior, el aumento de multas a que se refiere esta fracción será determinado por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente.
 
 ###### Artículo 103.
 
@@ -1545,9 +1555,11 @@ III. No citar la clave del registro, o utilizar alguna no asignada por la autori
 
 IV. Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme al artículo 13 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 105.
 
-A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo 103, se le impondrá multa de acuerdo con lo siguiente:
+A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo 104, se le impondrá multa de acuerdo con lo siguiente:
 
 I. De $1,220.00 a $3,670.00, a las comprendidas en las fracciones I, II y IV, y
 
@@ -1573,7 +1585,9 @@ V. No efectuar en los términos de las disposiciones fiscales los pagos de una c
 
 VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el (sic) este Código, salvo cuando la presentación se efectúe en forma espontánea, y
 
-VII. No proporcionar la información a que se refiere el penúltimo párrafo del artículo 29 de este Código, en los plazos que establecen las disposiciones fiscales.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VII. No proporcionar la información a que se refiere el último párrafo del artículo 29 de este Código, en los plazos que establecen las disposiciones fiscales.
 
 ###### Artículo 107.
 
@@ -2447,7 +2461,9 @@ IV. Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos 
 
 En los casos anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
 
-El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refieren los artículos 69 y 71 de este Código en el caso de las fracciones II, III y V y de 18 meses en el de las fracciones I y IV, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refieren los artículos 69 y 71 de este Código en el caso de las fracciones II y III y de 18 meses en el de las fracciones l y IV, todas de este artículo 189, contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
 
 ###### Artículo 190.
 
@@ -2555,7 +2571,7 @@ No se cobrará los gastos de ejecución a que se refiere el artículo 196 de és
 
 ###### Artículo 200.
 
-Para los efectos del penúltimo párrafo del artículo 159 de este Código, como honorarios por las notificaciones de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará el equivalente a dos veces el salario mínimo a quien incurra en el incumplimiento.
+(DEROGADO, D.O. 22 DE DICIEMBRE DE 2011)
 
 #### Sección Segunda. Del Embargo
 
@@ -2769,7 +2785,9 @@ La enajenación de bienes embargados procederá:
 
 I. A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del artículo 226 de este Código;
 
-II. En los casos de embargo precautorio a que se refiere el artículo 187 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento;
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+II. En los casos de embargo precautorio a que se refiere el artículo 188 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento;
 
 III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del artículo 244 de este Código, y
 
@@ -3020,3 +3038,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 22 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Las disposiciones de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
