@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-10-29"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1825,11 +1825,11 @@ XVI. Obligar al indiciado o acusado a declarar usando la incomunicación o cualq
 
 XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo; y (sic)
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVIII. El incumplimiento de las resoluciones que emita el Instituto de Transparencia e Información Pública de Jalisco, en los términos de la ley de la materia;
+XVIII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
 
@@ -3215,6 +3215,12 @@ Si en la muerte del infante tomare participación un médico, cirujano, enfermer
 
 Para que proceda la aplicación de la pena de infanticidio, se requiere que la mujer no tenga mala fama; que haya ocultado su embarazo; que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil y que, además, no sea habido en matrimonio o concubinato. En caso contrario, se aplicarán las sanciones del homicidio simple y, si no se llenan los extremos legales del infanticidio, se aplicarán las penas del parricidio.
 
+### CAPITULO UNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Art. 227.
 
 Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
@@ -3973,6 +3979,12 @@ Al que se dedique en forma habitual a la comercialización de objetos robados, a
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
+## TITULO DECIMO (SIC) SEGUNDO. DE LOS DELITOS EN MATERIA DE INFORMACION PUBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Art. 266.
 
 Para los efectos de este capítulo se entiende por:
@@ -4328,6 +4340,36 @@ Cuando en la comisión de este delito se empleen los instrumentos conocidos como
 Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independientemente de que puedan estar a disposición de otra autoridad.
 
 No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del presente artículo, cuando se trate de leña o madera muerta, así como cuando el sujeto activo sea campesino o indígena y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad y las cantidades no sean superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+###### Art. 298.
+
+Se impondrán de uno a cinco años de prisión y multa por el importe equivalente de cincuenta a mil días de salario mínimo diario general vigente en la ciudad de Guadalajara, a quien:
+
+I. Incumpla las resoluciones definitivas del Instituto de Información Pública del Estado, dictadas en:
+
+a) Los recursos de revisión de solicitudes de información;
+
+b) Los recursos de transparencia denunciados por particulares;
+
+c) Las revisiones oficiosas de las resoluciones de los procedimientos de protección de información confidencial; o
+
+d) Los procedimientos de revisión de clasificación de información pública de los sujetos obligados;
+
+II. Difunda pública y dolosamente información pública clasificada como reservada;
+
+III. Difunda pública y dolosamente información pública clasificada como confidencial, sin la autorización correspondiente,
+
+IV. Entregue a un tercero, información pública clasificada como reservada, o confidencial sin la autorización correspondiente;
+
+V. Destruya de forma irrecuperable información pública, sin la autorización correspondiente; o
+
+VI. Modifique de forma irrecuperable información pública, de manera dolosa y sin la autorización correspondiente.
+
+Para efectos de la fracción I se considera que una resolución es incumplida, cuando el sujeto obligado persista en su incumplimiento una vez agotados los medios de apremio impuestos por el Instituto de Transparencia e Información Pública del Estado, en los términos que establece la ley estatal en materia de información pública.
 
 ## TRANSITORIOS
 
@@ -4842,3 +4884,49 @@ P.O. 29 DE OCTUBRE DE 2011.
 DECRETO No. 23618/LIX/11 POR EL QUE SE REFORMA EL PENULTIMO PARRAFO DEL ARTICULO 48 DEL CODIGO PENAL PARA EL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día 01 de abril del 2012 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La derogación de la fracción XVIII del artículo 146 del Código Penal del Estado de Jalisco, surtirá efectos para los hechos delictivos acontecidos a partir de la entrada en vigor del presente decreto; pero continuará vigente para efectos del desahogo de las averiguaciones previas y los procesos penales, así como la compurgación de las penas respectivas en su caso, de los hechos delictivos acontecidos con anterioridad a la entrada en vigor del presente decreto.
+
+TERCERO. El Instituto de Transparencia e Información Pública del Estado debe:
+
+I. Emitir y publicar el reglamento marco de información pública para sujetos obligados, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto;
+
+II. Emitir y publicar los lineamientos generales de clasificación de información pública, de publicación y actualización de información fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto;
+
+IlI. Autorizar los criterios generales de los sujetos obligados, en materia de clasificación de información pública, de publicación y actualización de información pública fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a su presentación ante el Instituto;
+
+IV. Elaborar y distribuir entre los sujetos obligados, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, los formatos guía para
+
+a) Solicitar información pública de libre acceso;
+
+b) Denunciar falta de transparencia de la información fundamental;
+
+c) Acceder a información confidencial propia;
+
+d) Solicitar protección de información confidencial propia;
+
+e) Solicitar corrección de información confidencial propia;
+
+f) Presentar un recurso de revisión; y
+
+g) Presentar una denuncia de transparencia; y
+
+V. Validar los sistemas electrónicos de publicación de información pública fundamental y recepción de solicitudes de información pública de libre acceso, de los sujetos obligados, dentro de los treinta días naturales siguientes a su presentación ante el Instituto.
+
+CUARTO. Los sujetos obligados deben:
+
+I. Actualizar la publicación de la información fundamental que le corresponda, en su caso, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto; tratándose de los supuestos donde se exige publicar información de años anteriores, la disposición será obligatoria para la información generada a partir de la entrada en vigor del presente decreto; sin perjuicio de mantener publicada la información que está en la actualidad;
+
+II. Modificar la constitución de su Comité, en su caso, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto;
+
+III. Elaborar o actualizar conforme a este decreto y remitir al Instituto para su validación, en su caso, un sistema de recepción de solicitudes y entrega de información pública vía electrónica, en los términos que establece la ley, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, con posibilidad de ampliarse por otros ciento ochenta adicionales, cuando lo autorice el Instituto a petición del sujeto obligado;
+
+IV. Emitir o actualizar conforme a este decreto y remitir al Instituto para su autorización, en su caso, sus criterios generales en materia de clasificación de información pública, de publicación y actualización de información pública fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a la publicación oficial de los lineamientos generales emitidos por el Instituto en dichas materias; y
+
+V. Analizar y reclasificar en su caso, la información pública en su poder, de acuerdo con la ley, los lineamientos generales y sus criterios generales de clasificación, dentro de los treinta días naturales siguientes a la autorización de éstos últimos por parte del Instituto.
+
+QUINTO. Los asuntos en materia de información pública, cuyo trámite haya iniciado durante la vigencia de la Ley de Transparencia e Información Pública del Estado de Jalisco, seguirán rigiéndose por la misma hasta su conclusión.
