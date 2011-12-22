@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-55161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2011-04-28"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55161&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCI
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES, PUBLICADA EN EL D.O.F. DE 5 DE JULIO DE 2010, LAS REFERENCIAS QUE CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE HACEN EN LAS LEYES, TRATADOS Y ACUERDOS INTERNACIONALES, REGLAMENTOS Y DEMÁS ORDENAMIENTOS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA, EN LO FUTURO SE ENTENDERÁN HECHAS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de mayo de 2007.
 
@@ -85,13 +85,17 @@ III. Comisionados;
 
 IV. Comisionado Presidente;
 
-V. Secretaría de Acuerdos;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+V. Secretaría de Acceso a la Información;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 2011)</small>
 
 V BIS. Secretaría de Protección de Datos Personales;
 
-VI. Secretaría Ejecutiva;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+VI. Secretaría General;
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2011)</small>
 
@@ -107,7 +111,9 @@ d) De Atención a la Sociedad y Relaciones Institucionales;
 
 e) De Autorregulación;
 
-f) De Clasificación;
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+f) De Clasificación y Datos Personales;
 
 g) De Comunicación Social;
 
@@ -119,11 +125,17 @@ j) De Informática y Sistemas;
 
 k) De Normatividad y Estudios;
 
-l) De Sanciones;
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+l) De Sustanciación y Sanción;
 
 m) De Protección de Derechos, y
 
 n) De Verificación;
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+o) De Coordinación de Políticas de Acceso.
 
 VIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2009)
 
@@ -327,7 +339,9 @@ IX. Acordar con los secretarios el conjunto de los diversos asuntos de sus despa
 
 X. Fungir como enlace entre la estructura administrativa y operativa del propio Instituto con el Pleno;
 
-XI. Turnar, a través de la Secretaría de Acuerdos, al Comisionado Ponente que corresponda de acuerdo con el sistema aprobado por el Pleno los recursos de revisión, de consideración, procedimientos de verificación de falta de respuesta y otros previstos en la Ley;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XI. Turnar, a través de la Secretaría de Acceso a la Información, al Comisionado Ponente que corresponda de acuerdo con el sistema aprobado por el Pleno los recursos de revisión, de reconsideración, procedimientos de verificación por falta de respuesta y otros previstos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 XII. Someter a la aprobación del Pleno las normas, lineamientos y demás documentos necesarios para el cumplimiento de las atribuciones del Instituto, así como los informes que por su conducto rindan las unidades administrativas del Instituto a dicho órgano colegiado;
 
@@ -341,11 +355,15 @@ XVI. Otorgar y revocar poderes generales o especiales, y
 
 XVII. Las demás que le señalen la Ley, su Reglamento, y las disposiciones legales y administrativas que le sean aplicables.
 
-### CAPITULO QUINTO. DE LA SECRETARIA DE ACUERDOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO QUINTO. DE LA SECRETARIA DE ACCESO A LA INFORMACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 24.
 
-Son atribuciones de la Secretaría de Acuerdos:
+Son atribuciones de la Secretaría de Acceso a la Información:
 
 I. Auxiliar al Comisionado Presidente en la asignación y tramitación de los recursos y demás procedimientos interpuestos ante el Instituto, así como de los asuntos que en general le competan conforme a sus atribuciones;
 
@@ -403,65 +421,119 @@ Artículo 24 BIS. Son atribuciones de la Secretaría de Protección de Datos Per
 
 I. Coordinar y supervisar la elaboración de los proyectos normativos en materia de protección de datos personales derivados de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, de sus Reglamentos, y demás disposiciones aplicables, y someterlos a consideración del Pleno;
 
-II. Coordinar y supervisar la elaboración de los dictámenes y opiniones, en materia de protección de datos personales, de leyes, reglamentos y otros instrumentos jurídicos, llevando el seguimiento legislativo o regulatorio respectivo;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+II. Coordinar y supervisar la elaboración de los dictámenes y opiniones, de proyectos de leyes, reglamentos y otros instrumentos jurídicos;
 
 III. Coordinar y supervisar la elaboración de opiniones sobre la interpretación para efectos administrativos de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en materia de protección de datos personales;
 
-IV. Dirigir, coordinar y supervisar la elaboración de publicaciones especializadas en materia del derecho de protección de datos personales que autorice el Pleno;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-V. Coordinar y supervisar la recepción, trámite y sustanciación de los procedimientos de protección de derechos, y someter a consideración del Comisionado Ponente un proyecto de resolución;
+IV. Coordinar y vigilar las acciones necesarias para que se lleve a cabo la sustanciación y desahogo de los procedimientos de protección de derechos, verificación e imposición de sanciones previstos en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
 
-VI. Llevar a cabo las acciones tendientes a propiciar, dentro del procedimiento de protección de derechos, una conciliación entre el titular de los datos y el responsable y, de ser el caso, formular el acuerdo respectivo;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-VII. Coordinar y supervisar las verificaciones que le instruya el Pleno para vigilar el cumplimiento que los sujetos regulados y obligados dan a las disposiciones contenidas en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, y en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en sus Reglamentos y en las demás disposiciones aplicables;
+V. Coordinar y vigilar las acciones necesarias para que se lleve a cabo la verificación a los sistemas de datos personales en términos de lo previsto por la normatividad aplicable;
 
-VIII. Supervisar, coordinar y sustanciar los procedimientos de imposición de sanciones que instruya el Pleno, emitir la resolución correspondiente y notificarla a las partes;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-IX. Auxiliar en la tramitación y asignación de los recursos de revisión, en términos de lo dispuesto por la Ley Federal de Procedimiento Administrativo, que se interpongan en contra de las resoluciones que emita el Pleno del Instituto;
+VI. Ejecutar las instrucciones que dicte el Pleno del Instituto respecto de (sic) procedimiento de verificación previsto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, emitir las órdenes de verificación y suscribir los oficios de comisión para la sustanciación del procedimiento de verificación conforme al ordenamiento legal citado y a las demás disposiciones aplicables;
 
-X. Proponer y supervisar el desarrollo, fomento y difusión de análisis, estudios e investigaciones en materia de protección de datos personales;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XI. Coordinar la difusión y divulgación de estudios sobre estándares y mejores prácticas internacionales en materia de seguridad de la información, en atención a la naturaleza de los datos personales; las finalidades del tratamiento, y las capacidades técnicas y económicas del responsable;
+VII. Coordinar y supervisar las verificaciones que en materia de protección de datos personales instruya el Pleno, así como expedir las correspondientes credenciales de verificador a los servidores públicos que ejerzan tales funciones;
 
-XII. Coordinar y supervisar la elaboración de estudios de impacto sobre la privacidad previo a la puesta en práctica de una nueva modalidad de tratamiento de datos personales o a la realización de modificaciones sustanciales en tratamientos ya existentes;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XIII. Coordinar y supervisar la actualización de los instrumentos jurídicos y guías aplicables a los procedimientos de derechos de acceso, rectificación, cancelación y oposición, de protección de derechos, de verificación y de imposición de sanciones, y la elaboración de informes institucionales y estadísticas, entre otros, en los asuntos de su competencia;
+VIII. Coordinar y supervisar que se lleve a cabo la elaboración de los proyectos de las resoluciones de los procedimientos de protección de derechos, verificación e imposición de sanciones, en términos de la legislación de la materia;
 
-XIV. Coordinar la elaboración de informes en materia de protección de datos personales sobre presuntas infracciones e incumplimientos a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y a su Reglamento, en materia de protección de datos, por parte de las dependencias y entidades de la Administración Pública Federal, y enviarlos a las instancias competentes;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XV. Vigilar y dar seguimiento al cumplimiento de las resoluciones que en materia de protección de datos emita el Instituto;
+IX. Coordinar y supervisar las actividades que correspondan, para el seguimiento y cumplimentación de las resoluciones que se dicten por el Instituto en materia de protección de datos personales;
 
-XVI. Acreditar en coadyuvancia con la Secretaría de Economía, a terceros certificadores a fin de armonizar el tratamiento de los datos personales de acuerdo con lo establecido por la Ley aplicable;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XVII. Elaborar los informes para las autoridades competentes sobre las sanciones impuestas a los infractores de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, e informar al área jurídica de las conductas presuntamente constitutivas de delito para los efectos legales a que haya lugar;
+X. Coordinar y supervisar el apoyo técnico necesario para la sustanciación de recursos de revisión que deriven de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en materia de protección de datos personales, en los términos que el Pleno determine;
 
-XVIII. Participar en la elaboración y ejecución de los planes y programas que en coadyuvancia se lleven a cabo con las dependencias reguladoras para la emisión de la normatividad secundaria;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XIX. Promover la cooperación internacional para la efectiva tutela del derecho de protección de datos personales fuera del territorio nacional, así como la difusión e intercambio de mejores prácticas a nivel global;
+XI. Informar al Pleno el desarrollo de los procedimientos de protección de derechos, verificación e imposición de sanciones y presentar al comisionado ponente los proyectos de resolución correspondientes y en su caso, cuando el Pleno lo determine, presentar al mismo los proyectos de resolución respectivos;
 
-XX. Colaborar con otras autoridades de supervisión y organización nacionales e internacionales, en materia de protección de datos;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XXI. Participar en foros y eventos internacionales relacionados con la materia de protección de datos personales;
+XII. Promover la adopción de esquemas de autorregulación;
 
-XXII. Nombrar y remover a su personal de apoyo, y elaborar el acuerdo de adscripción de las unidades administrativas a su cargo;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XXIII. Proponer al Comisionado Presidente el nombramiento y remoción, en su caso, de los directores generales de su adscripción, de acuerdo con el Estatuto del Servicio Profesional del Instituto;
+XIII. Coordinar el diseño y la operación de mecanismos y criterios para la acreditación de terceros certificadores, así como para la certificación en materia de protección de datos personales;
 
-XXIV. Informar sobre el avance de los planes y programas, así como de las actividades y el desempeño de las unidades administrativas a su cargo, y
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-XXV. Las demás que le confieran el Pleno del Instituto y las disposiciones legales y administrativas que le sean aplicables.
+XIV. Coordinar la evaluación de las solicitudes de autorización de medidas compensatorias y proponer el proyecto de resolución correspondiente al Pleno;
 
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], D.O.F. 28 DE ABRIL DE 2011)
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO SEPTIMO. DE LA SECRETARIA EJECUTIVA
+XV. Coordinar la administración del Registro de Esquemas de Autorregulación y las evaluaciones de aquellos que sean notificados para su inscripción;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XVI. Coordinar y supervisar la elaboración de evaluaciones de impacto a la privacidad;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XVII. Promover la cooperación internacional para la efectiva tutela del derecho de protección de datos personales, la difusión e intercambio de mejores prácticas, así como con autoridades y organizaciones nacionales e internacionales, en coordinación con la unidad administrativa competente;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Fomentar y difundir análisis, estudios e investigaciones en materia de protección de datos personales; estándares y mejores prácticas en materia de seguridad de la información;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XIX. Representar al Instituto en los asuntos, eventos, foros, conferencias, que determine el Pleno;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XX. Nombrar y remover al personal que se encuentre bajo su adscripción, así como presentar al Pleno el acuerdo de adscripción de las unidades administrativas bajo su cargo;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XXI. Proponer al Comisionado Presidente el nombramiento y remoción, en su caso, de los directores generales de su adscripción, de acuerdo con el Estatuto del Servicio Profesional del Instituto;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XXII. Proponer y participar, en coordinación con la Secretaría General, en la celebración de convenios, acuerdos y demás instrumentos jurídicos que promuevan la colaboración y participación con otras entidades, dependencias, organizaciones nacionales e internacionales, para la protección de datos personales y el cumplimiento a lo establecido en la legislación de la materia;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XXIII. Coordinar y supervisar, la operación de las oficinas de representación del Instituto en las entidades federativas, así como dar seguimiento a los acuerdos de colaboración respectivos;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XXIV. Representar al Instituto en asuntos de carácter legal, contencioso y jurisdiccional, que deriven de asuntos de su competencia; y
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XXV. Las demás que le confieran el Pleno del Instituto y las disposiciones legales que le sean aplicables.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Para el ejercicio de las facultades que se le confieren en el presente Reglamento, la Secretaría de Protección de Datos Personales se auxiliará de las Direcciones Generales de: Autorregulación, Normatividad y Estudios, Sustanciación y Sanción y Verificación. Asimismo, se auxiliará de las Direcciones de Atención Regional y de Coordinación y Seguimiento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO SEPTIMO. DE LA SECRETARIA GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-Son atribuciones de la Secretaría Ejecutiva:
+Son atribuciones de la Secretaría General:
 
 I. Elaborar los planes y programas para la capacitación y orientación de los particulares y los servidores públicos estatales sobre la Ley, y llevarlos a cabo;
 
-II. Elaborar los proyectos de convenios, contratos, bases de colaboración y demás actos consensuales a celebrarse con terceros, en coordinación con la Secretaría de Acuerdos y darles seguimiento;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+II. Elaborar los proyectos de convenios, contratos, bases de colaboración y demás actos consensuales a celebrarse con terceros, en coordinación con las Secretarías de Acceso a la Información y de Protección de Datos Personales y darles seguimiento;
 
 III. Diseñar los mecanismos de coordinación con los sujetos obligados, los estados, el Distrito Federal, los municipios, u otras personas físicas o morales, nacionales o extranjeras; y ejecutar la coordinación;
 
@@ -481,7 +553,9 @@ X. Informar sobre la integración y el funcionamiento de los órganos y unidades
 
 XI. Informar sobre el avance de los programas que periódicamente presenten las unidades administrativas a su cargo;
 
-XII. Elaborar y proponer al Pleno el proyecto original y los proyectos de actualización de los catálogos de funciones y de perfiles de puestos, así como los lineamientos relativos a la gestión y administración de los recursos humanos del Instituto de conformidad con el Estatuto del Servicio Profesional y del Personal Administrativo del Instituto. Para la gestión y operación de los recursos humanos del Instituto la Secretaría Ejecutiva se auxiliará de la Dirección General de Administración;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XII. Elaborar y proponer al Pleno el proyecto original y los proyectos de actualización de los catálogos de funciones y de perfiles de puestos, así como los lineamientos relativos a la gestión y administración de los recursos humanos del Instituto de conformidad con el Estatuto del Servicio Profesional y del Personal Administrativo del Instituto. Para la gestión y operación de los recursos humanos del Instituto la Secretaría General se auxiliará de la Dirección General de Administración;
 
 XIII. Elaborar el proyecto de presupuesto anual y ejecutar el gasto en los términos aprobados, así como elaborar los estados financieros anuales del Instituto;
 
@@ -507,7 +581,9 @@ XXIII. Formular los programas de organización y administrar al Instituto en los
 
 XXIV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles o inmuebles y tomar las medidas pertinentes, a fin de que las funciones del Instituto se cumplan de manera articulada, congruente y eficaz;
 
-XXV. Recabar la información y elementos estadísticos que reflejen el estado de las funciones del Instituto en coordinación con la Secretaría de Acuerdos;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+XXV. Recabar la información y elementos estadísticos que reflejen el estado de las funciones del Instituto en coordinación con las Secretarías de Acceso a la Información y de Protección de Datos Personales;
 
 XXVI. Informar sobre el avance de los planes y programas, así como de las actividades y el desempeño de las unidades administrativas a su cargo;
 
@@ -539,7 +615,9 @@ IV. Asesorar y emitir opiniones en asuntos de su competencia;
 
 V. Coordinarse con los titulares o con los servidores públicos de otras unidades administrativas, cuando así se requiera para el mejor funcionamiento del Instituto;
 
-VI. Formular el anteproyecto de presupuesto por programas relativos al área a su cargo, conforme a las normas que emita la Secretaría Ejecutiva;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+VI. Formular el anteproyecto de presupuesto por programas relativos al área a su cargo, conforme a las normas que emita la Secretaría General;
 
 VII. Atender y contestar dentro de su ámbito de competencia, las solicitudes de acceso a la información a través de la Unidad de Enlace del Instituto y, cuando le sea requerido, participar en las sesiones del Comité de Información;
 
@@ -699,29 +777,91 @@ VI. Coadyuvar con la unidad administrativa competente en la definición y ejecuc
 
 VII. Administrar las licencias de software y realizar su distribución entre las unidades administrativas que las requieran.
 
-(DEROGADO, D.O.F. 8 DE ABRIL DE 2009) (REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], D.O.F. 28 DE ABRIL DE 2011)
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 BIS. Son atribuciones específicas de la Dirección General de Sustanciación y Sanción:
+
+I. Aplicar la normatividad para la sustanciación de los procedimientos de protección de derechos y de imposición de sanciones previstos en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
+
+II. Sustanciar los procedimientos de protección de derechos y de imposición de sanciones previstos en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
+
+III. Realizar las acciones conducentes para impulsar la conciliación entre el titular de los datos y el responsable, dentro del procedimiento de protección de derechos, así como celebrar la audiencia o las audiencias correspondientes y formalizar el acuerdo al que lleguen las partes, y
+
+IV. Elaborar y enviar los proyectos de resoluciones que correspondan con motivo de la sustanciación de los procedimientos de protección de derechos y de imposición de sanciones previstos en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 TER. Son atribuciones específicas de la Dirección General de Verificación:
+
+I. Realizar las verificaciones que sean instruidas por el Pleno a fin de vigilar el cumplimiento a las disposiciones contenidas en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sus Reglamentos y las demás disposiciones aplicables;
+
+II. Realizar investigaciones, dictaminar y emitir opiniones en materia de vigilancia y verificación relacionadas con el cumplimiento de las disposiciones de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sus Reglamentos y las demás disposiciones aplicables;
+
+III. Sustanciar el procedimiento de verificación conforme a lo establecido en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sus Reglamentos y a las demás disposiciones aplicables;
+
+IV. Elaborar informes y reportes sobre presuntas infracciones e incumplimientos a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental en materia de protección de datos personales, así como de sus reglamentos y demás disposiciones aplicables;
+
+V. Verificar que se cumplimenten las resoluciones que dicte el Instituto en materia de protección de datos personales; y
+
+VI. Coordinarse con las autoridades federales, estatales y municipales, en su caso, para obtener el apoyo necesario en el ejercicio de sus facultades.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO NOVENO. DE LA SECRETARIA TECNICA DEL PLENO
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 35.
 
-(DEROGADO, D.O.F. 8 DE ABRIL DE 2009)
+Son atribuciones específicas de la Secretaría Técnica del Pleno:
+
+I. Coadyuvar en la entrega de los documentos y materiales que los comisionados requieran para la toma de decisiones;
+
+II. Notificar a los comisionados la fecha y hora de sesiones ordinarias y extraordinarias del Pleno, junto con el orden del día de los asuntos a tratar, y enviar oportunamente toda la documentación necesaria para la discusión correspondiente;
+
+III. Elaborar las actas de las sesiones del Pleno y enviarlas a los comisionados y al secretario que corresponda para su firma;
+
+IV. Tomar nota de los acuerdos dictados por el Pleno, así como darles seguimiento;
+
+V. Representar al Pleno en las comisiones, comités, subcomités y actos diversos que le instruya ese órgano colegiado;
+
+VI. Administrar la agenda y protocolo del Pleno del Instituto;
+
+VII. Recabar la firma de las resoluciones, acuerdos y actas de las sesiones del pleno por parte de los comisionados, los secretarios y otros servidores públicos del Instituto, en su caso;
+
+VIII. Elaborar bases de datos que reflejen el estado que guardan, las resoluciones las actas y los acuerdos del Pleno, en sus procesos de firma, y emitir reportes y estadísticas al respecto;
+
+IX. Custodiar la documentación referente a las diversas tareas a cargo del Pleno;
+
+X. Fungir como enlace entre los comisionados y las secretarías del Instituto para la notificación de instrucciones por acuerdo de éstos, y
+
+XI. Las demás que las disposiciones legales y administrativas le confieran, así como las que le encomiende el Pleno.
 
 (REUBICADO [N. DE E. ANTES CAPITULO NOVENO], D.O.F. 28 DE ABRIL DE 2011)
 
 ### CAPITULO DECIMO. DISPOSICIONES FINALES
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 36.
 
-El Comisionado Presidente para efectos del Juicio de Amparo será suplido en sus ausencias por el Secretario de Acuerdos o por el Director General de Asuntos Jurídicos; la ausencia del Secretario de Acuerdos y del Secretario Ejecutivo del Instituto, así como del Titular del Organo Interno de Control, será suplida en los términos siguientes:
+El Comisionado Presidente para efectos del Juicio de Amparo será suplido en sus ausencias por los Secretarios de Acceso a la Información o de Protección de Datos Personales, o por el Director General de Asuntos Jurídicos, indistintamente.
 
-I. La del Secretario de Acuerdos, por los Directores Generales de Asuntos Jurídicos, de Estudios e Investigación, de Clasificación y Datos Personales, y de Coordinación y Vigilancia de la Administración Pública Federal, en el orden en que se enumeran;
+Los Comisionados integrantes del Pleno del Instituto, para efectos del Juicio de Amparo serán suplidos en sus ausencias por el Director General de Asuntos Jurídicos.
 
-II. La del Secretario Ejecutivo, por los Directores Generales de Administración, de Atención a la Sociedad y Relaciones Institucionales, de Comunicación Social y de Informática y Sistemas, en el orden en que se enumeran;
+Los Comisionados integrantes del Pleno del Instituto, ponentes en los procedimientos de protección de derechos, de imposición de sanciones y cualquier otro de los previstos por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, serán suplidos en sus ausencias por el Secretario de Protección de Datos Personales, salvo en la atribución a que se refiere el artículo 18 fracción VI de este Reglamento.
 
-III. La de los Directores Generales, por el servidor público inmediato inferior del ausente en la materia de que se trate y así sucesivamente hasta el nivel de Jefe de Departamento del área respectiva, y
+Las ausencias de los Secretarios General, de Acceso a la Información y de Protección de Datos Personales del Instituto, la de los Directores Generales y la del Titular del Organo Interno de Control, serán suplidas en los términos siguientes:
 
-IV. La del titular del Organo Interno de Control, por el servidor público que determine el Reglamento Interior de la Secretaría de la Función Pública.
+I. La del Secretario General, por el Director General de Administración;
+
+II. La del Secretario de Acceso a la Información, por los Directores Generales de Clasificación y Datos Personales, de Coordinación de Políticas de Acceso, de Coordinación y Vigilancia de la Administración Pública Federal o de Estudios e Investigación, indistintamente;
+
+III. La del Secretario de Protección de Datos Personales, por los Directores Generales de Normatividad y Estudios, Autorregulación, de Sustanciación y Sanción y por el de Verificación, en el orden que se enumeran;
+
+IV. La de los Directores Generales, por el servidor público inmediato inferior del ausente en la materia de que se trate y así sucesivamente hasta el nivel de Jefe de Departamento del área respectiva, y
+
+V. La del titular del Organo Interno de Control, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 37.
 
@@ -768,3 +908,7 @@ SEXTO.- Las referencias que con anterioridad a la entrada en vigor del presente 
 D.O.F. 28 DE ABRIL DE 2011.
 
 UNICO.- Las modificaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2011.
+
+UNICO. Las modificaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
