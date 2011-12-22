@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-74567"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-19"
-last_updated: "2010-10-04"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "YUC"
 ---
 # LEY DE FISCALIZACION DE LA CUENTA PUBLICA DEL ESTADO DE YUCATAN
 
-LEY DE FISCALIZACION DE LA CUENTA PUBLICA DEL ESTADO DE YUCATAN
+LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURIDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISION, COMISION PERMANENTE DE HACIENDA PUBLICA, INSPECCION DE LA CONTADURIA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACION A CUENTA PUBLICA, OFICIALIA MAYOR DEL CONGRESO Y TESORERIA DEL CONGRESO, SE ENTENDERAN POR JUNTA DE GOBIERNO Y COORDINACION POLITICA, VIGILANCIA DE LA CUENTA PUBLICA Y TRANSPARENCIA, SECRETARIA GENERAL DEL PODER LEGISLATIVO Y DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS, RESPECTIVAMENTE.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 19 de abril de 2010.
 
@@ -221,9 +219,11 @@ I.- Acciones de los órganos de control interno competentes, consistentes en pli
 
 II.- Recomendaciones generales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 14.
 
-Las entidades fiscalizadas, deberán presentar su cuenta pública consolidada a la Auditoría Superior del Estado, dentro de los 40 días hábiles siguientes, al cierre del ejercicio fiscal correspondiente.
+Las entidades fiscalizadas deberán presentar su cuenta pública consolidada a la Auditoría Superior del Estado, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 La documentación comprobatoria de las entidades fiscalizadas que así lo requiera, deberá cumplir con los requisitos establecidos en el Código Fiscal de la Federación.
 
@@ -293,9 +293,11 @@ Los informes establecidos en este articulo, se enviarán a la Auditoría Superio
 
 Los Ayuntamientos para efectos de la fiscalización y revisión de su cuenta pública, remitirán a la Auditoría Superior del Estado, los Presupuestos de Egresos ejercidos.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 24.
 
-Los Ayuntamientos deberán presentar su cuenta pública a la Auditoría Superior del Estado, dentro de los 40 días hábiles siguientes, al cierre del ejercicio fiscal correspondiente.
+Los ayuntamientos deberán presentar su cuenta pública a la Auditoría Superior del Estado, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 ###### Artículo 25.
 
@@ -1118,3 +1120,13 @@ El Director de Evaluación del Presupuesto será nombrado en el plazo que establ
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
+
+D.O. 22 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los plazos para la presentación de las cuentas públicas, previstas en la Ley de Fiscalización de la Cuenta Pública y la Ley de Presupuesto y Contabilidad Gubernamental, ambas del Estado de Yucatán, se aplicarán a partir de la presentación de la cuenta pública del ejercicio fiscal correspondiente al año 2011.
