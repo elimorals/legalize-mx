@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2010-12-20"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
+LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 473, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 22 DE DICIEMBRE DE 2011, EL CAPÍTULO IV, DEL TÍTULO III DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -123,6 +125,12 @@ El pago de los derechos que establece esta ley, deberá hacerse previamente a la
 
 Cuando esta ley establezca que el pago de derechos deba realizarse por períodos, se entenderá que dichos pagos son previos a la prestación del servicio correspondiente, excepto en los casos en que por su naturaleza, el pago no pueda efectuarse con anterioridad a la prestación del mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+La cuota del derecho deberá corresponder al ejercicio fiscal en el que se preste el servicio, en caso contrario, deberá pagarse un diferencial al momento de prestarse el servicio, que será igual al monto del derecho del ejercicio fiscal en el que se preste el servicio menos el monto del derecho del ejercicio en el que se pagó.
+
 La dependencia o servidor público que preste un servicio por el que se deba pagar derechos, procederá a su realización previa presentación, del recibo oficial que acredite su pago. Ningún otro comprobante justifica el pago.
 
 El servidor público que preste un servicio por el que se causen derechos, será solidariamente responsable de su pago y se hará acreedor, en su caso, a las sanciones que procedan, independientemente de que realice el pago correspondiente, si presta el servicio sin cerciorarse de que haya sido pagado el derecho generado.
@@ -159,7 +167,7 @@ Cuando se trate de vehículos que se encuentren en mal estado, se practicará un
 
 #### SECCIÓN CUARTA. DE LA TARIFA
 
-###### ARTÍCULO 11
+###### ARTÍCULO 11.
 
 El impuesto se determinará aplicando a la base la tasa del 1%.
 
@@ -249,7 +257,7 @@ El impuesto se pagará mediante declaración mensual definitiva, que presentará
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO III. IMPUESTO SOBRE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL
 
@@ -317,7 +325,7 @@ ARTÍCULO 27 D.- Para disfrutar de los beneficios que establece esta sección, l
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -337,7 +345,7 @@ ARTÍCULO 27 D.- Para disfrutar de los beneficios que establece esta sección, l
 
 #### SECCIÓN CUARTA. DE LA TASA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -345,9 +353,11 @@ ARTÍCULO 27 D.- Para disfrutar de los beneficios que establece esta sección, l
 
 El objeto de este impuesto lo constituyen las erogaciones que se efectúen en el Estado de Yucatán por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios, siempre y cuando los servicios que las generen se efectúen en el territorio de este Estado. También, se considera objeto de este impuesto, el servicio personal subordinado, cuando se preste en el territorio del Estado de Yucatán no obstante que se cubra su remuneración en otra entidad federativa o en el Distrito Federal.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé, así como las cantidades que por concepto de alimentos proporcionen sociedades universales y particulares a sus integrantes de acuerdo con la legislación civil del Estado de Yucatán, así mismo, los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción, los anticipos que reciban los miembros de sociedades y asociaciones civiles. Además, los fondos de previsión social a que se refiere el artículo 58 de la Ley General de Sociedades Cooperativas, que se entreguen a los cooperativistas, cuando dicho fondo no sea deducible en los términos de la fracción XXIII del artículo 31 del (sic) la Ley del Impuesto sobre la Renta.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé, así como las cantidades que por concepto de alimentos proporcionen sociedades universales y particulares a sus integrantes de acuerdo con la legislación civil del Estado de Yucatán, así mismo, los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción. También se entiende por erogaciones destinadas a remunerar el trabajo personal subordinado, los fondos de previsión social a que se refiere el artículo 58 de la Ley General de Sociedades Cooperativas, que se entreguen a los cooperativistas, cuando dicho fondo no sea deducible en los términos de la fracción XXIII del artículo 31 de la Ley del Impuesto sobre la Renta.
 
 Se entiende por honorarios asimilables a salarios, las erogaciones por concepto de contraprestación al servicio personal independiente, siempre y cuando éste se preste bajo la dirección del prestatario, en forma preponderante y, siempre que el servicio se lleve a cabo en las instalaciones del mismo.
 
@@ -357,7 +367,7 @@ También se entiende por honorarios asimilables a salarios, las remuneraciones q
 
 #### SECCIÓN QUINTA. ÉPOCA DE PAGO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -385,7 +395,7 @@ La base de este impuesto es el monto total de las erogaciones que se realicen en
 
 #### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -477,6 +487,12 @@ Es objeto de este impuesto, el ingreso en efectivo, en especie o en el valor de 
 
 Este impuesto se causará independientemente de la denominación que se le dé al pago necesario para participar en las actividades anteriormente mencionadas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Quedan comprendidos en los juegos con cruce de apuestas, independientemente del nombre con el que se les designe, aquéllos que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, independientemente de que en el desarrollo de los mismos se utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares. También quedan comprendidos en los juegos con cruce de apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2009)</small>
@@ -513,9 +529,17 @@ Cuando no exista una contraprestación para participar en una lotería, rifa, so
 
 Este impuesto se determinará y recaudará aplicando a la base gravable la tasa que para cada evento se establece a continuación:
 
-I. El 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos, sin deducción alguna por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas;
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+I. El 6% al valor nominal de la suma de los billetes, boletos, fichas, tarjetas, contraseñas, documentos, registros distribuidos, o cualquier otro comprobante, así como bandas magnéticas, dispositivos electrónicos, u objetos similares, para participar en loterías, rifas y sorteos. Cuando los billetes, boletos, fichas, tarjetas, contraseñas, documentos, registros, o cualquier otro comprobante, así como bandas magnéticas, dispositivos electrónicos, u objetos similares, sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+II. En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, tasa del 6% sobre el monto total de las apuestas, deduciéndose únicamente el valor del premio que se entregue por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas. Cuando la realización de juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, o bien, en el uso de las mismas intervenga directa o indirectamente el azar el impuesto se determinará aplicando una cuota mensual de $500.00 por máquina que tenga cada establecimiento.
 
 III. En el caso de concursos, el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento;
 
@@ -537,7 +561,11 @@ V. Quienes obtengan premios derivados de juegos permitidos con cruce o captació
 
 El pago de este impuesto deberá efectuarse dentro de los plazos siguientes:
 
-I. Cuando las loterías, las rifas, los sorteos, los concursos y juegos con cruce de apuestas legalmente permitidos se realicen por contribuyentes habituales, se pagará el impuesto dentro de los cinco días hábiles siguientes a la fecha de su celebración, conjuntamente con el importe del impuesto retenido, a cargo de quien obtuvo el premio, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+I. Cuando las loterías, las rifas, los sorteos, los concursos y juegos con cruce de apuestas legalmente permitidos se realicen por contribuyentes habituales, se pagará el impuesto mediante declaración mensual definitiva, que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Hacienda, a más tardar el día diez del mes de calendario siguiente a la fecha de la celebración de las loterías, las rifas, los sorteos, los concursos y juegos con cruce de apuestas legalmente permitidos, conjuntamente con el importe del impuesto retenido, a cargo de quien obtuvo el premio, y
 
 II. Cuando se trate de contribuyentes eventuales, deberán otorgar un depósito equivalente al cincuenta por ciento del impuesto correspondiente al total del boletaje emitido, en efectivo o mediante fianza expedida por institución legalmente autorizada y presentarse ante las autoridades fiscales al día hábil siguiente de la realización del evento o actividad, con el boletaje sobrante en su caso, a fin de determinar los boletos vendidos y como consecuencia, la diferencia a cargo o a favor del contribuyente, con base en los porcentajes establecidos en este capítulo, debiendo enterar en ese mismo día el impuesto a cargo que resulte.
 
@@ -651,9 +679,15 @@ I. Expedir boletos o comprobantes impresos por imprenta autorizada, que den dere
 
 II. Vender únicamente boletos con autorización oficial;
 
-III. Retener el monto del impuesto que les corresponda cubrir, a cargo de quien reciba los premios, y
+III. Retener el monto del impuesto que les corresponda cubrir, a cargo de quien reciba los premios, y (sic)
 
 IV. Proporcionar al ganador del premio la constancia de retención del impuesto a su cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+V. Los contribuyentes que realicen habitualmente loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos deberán solicitar su inscripción en el Registro Estatal de Contribuyentes, ante la autoridad fiscal que les corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial autorizada; proporcionando la información relacionada con su identidad, domicilio y aquélla otra, que les sea solicitada.
 
 ### CAPÍTULO VII. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -1199,7 +1233,7 @@ Los retenedores de este impuesto, están obligados a enterar una cantidad equiva
 
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1321,11 +1355,9 @@ V.- Por certificación de no adeudo de impuestos 0.50 S.M.G.
 
 VI.- Por expedición de duplicado de recibo oficial 0.25 S.M.G.
 
-VII.- Por acceso a la información
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) Disco magnético o CD (por cada uno) 0.75 S.M.G.
-
-b) DVD 1.50 S.M.G.
+VII.- (DEROGADA, D.O. 22 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1371,11 +1403,15 @@ o alguna otra documentación relativa a trámites
 
 de control vehicular. 2 S.M.G.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI.- Reposición de la Credencial Inteligente de Transporte Urbano (CITUR) 0.53
+XI.- (DEROGADA, D.O. 22 DE DICIEMBRE DE 2011)
 
-S.M.G
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XII.- Constancias de no Inhabilitación 3 S.M.G.
 
 No se pagarán derechos por la expedición de documentos o copias certificadas de los mismos, que sean solicitados por el Estado, salvo que esta solicitud derive de la petición de un particular.
 
@@ -1389,7 +1425,7 @@ Tampoco se pagarán derechos por la expedición de copias certificadas para la s
 
 ### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 49.
 
@@ -1451,9 +1487,7 @@ IV.- Por baja de placas para todos los mencionados en las fracciones anteriores 
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 49-A.
-
-Por control vehicular, se causarán derechos por los siguientes:
+ARTÍCULO 49 A.- Por control vehicular, se causarán derechos por los siguientes:
 
 a).- Verificación de factura 2.64 S.M.G.
 
@@ -1515,6 +1549,18 @@ VII.- Permiso para circular sin placas,
 
 por cada día 0.14 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 50 BIS.- Por el refrendo de tarjeta de circulación y calcomanía para automóviles, camiones y camionetas se pagarán 2.88 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 50 TER.- Por el refrendo de tarjeta de circulación para motocicletas se pagarán 0.85 S.M.G.
+
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 51.
@@ -1525,25 +1571,73 @@ Por reposición de tarjetas de circulación o constancia de calcomanía de autom
 
 Se causará los derechos establecidos en el artículo 51 de esta ley, cuando sea cancelada la tarjeta de circulación con que se haya dotado a un vehículo automotor en los casos que éste cambie de propietario, o exista cambio de domicilio, de número de motor o en cualquier otro caso, que implique reposición de dicha tarjeta.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 53.
 
-Por la expedición de licencia para conducir vehículos, con vigencia de dos años, se causará derechos conforme a lo siguiente:
+Por la expedición de licencia para conducir vehículos, se causarán derechos conforme a lo siguiente:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- De chofer de:
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-a) Transporte Público 9.78 S.M.G.
+I.- De chofer
 
-b) Particulares 5.29 S.M.G.
+a) Con vigencia de dos años 5.29 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+b) Con vigencia de tres años 7.94 S.M.G.
 
-II.- De automovilista 4.96 S.M.G.
+c) Con vigencia de cinco años 13.23 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- De motociclista 2.87 S.M.G.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+II.- De automovilista
+
+a) Con vigencia de dos años 4.96 S.M.G.
+
+b) Con vigencia de tres años 7.44 S.M.G.
+
+c) Con vigencia de cinco años 12.40 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III.- Vehículos menores motorizados
+
+a) Con vigencia de dos años 2.87 S.M.G.
+
+b) Con vigencia de tres años 4.31 S.M.G.
+
+c) Con vigencia de cinco años 7.18 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III Bis.- Operador del servicio público de pasaje
+
+a) Con vigencia de dos años 9.78 S.M.G.
+
+b) Con vigencia de tres años 14.67 S.M.G.
+
+c) Con vigencia de cinco años 24.45 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III Ter.- Operador del servicio de carga
+
+a) Con vigencia de dos años 9.78 S.M.G.
+
+b) Con vigencia de tres años 14.67 S.M.G.
+
+c) Con vigencia de cinco años 24.45 S.M.G.
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -1558,6 +1652,18 @@ V.- Permiso temporal para aprender a conducir por
 un término de hasta treinta días 1.87 S.M.G.
 
 VI.- Constancias de licencias de conducir 0.50 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+VII.- Personas con discapacidad:
+
+a) Con vigencia de dos años 2.15 S.M.G.
+
+b) Con vigencia de tres años 3.23 S.M.G.
+
+c) Con vigencia de cinco años 5.38 S.M.G.
 
 ###### ARTÍCULO 54.
 
@@ -1650,6 +1756,30 @@ Más 0.14 S.M.G, por kilómetro recorrido desde el lugar en que se encuentra el 
 2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.68 S.M.G.
 
 Más 0.14 S.M.G, por kilómetro recorrido desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 56 A.- Por la expedición del holograma que acredite que el vehículo cuenta con póliza vigente otorgada por alguna compañía de seguros autorizada por la autoridad competente, se pagará 1.50 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 56 B.- Por la expedición o renovación en su caso, del permiso de funcionamiento para establecer una escuela de manejo, causará un derecho de 141.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 56 C.- Por la expedición o renovación en su caso del permiso para ser instructor en alguna escuela de manejo, causará un derecho de 21.16 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 56 D.- Por la expedición del holograma de verificación de contaminantes se pagará un derecho de 1.50 S.M.G.
 
 ### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
@@ -1761,9 +1891,11 @@ a) De copia simples por la primera hoja 0.50 S.M.G.
 
 b) Por cada hoja excedente 0.02 S.M.G.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX.- Por expedición de fotocopias de actos registrados certificada 0.02 S.M.G.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XX.- Por expedición de fotocopia certificada de actos registrados 0.92 S.M.G.
 
 > <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -1771,7 +1903,11 @@ XXI.- Constancia de existencia o inexistencia de registro 1.38 S.M.G.
 
 Los servicios dispuestos en las fracciones III, V, VIII, y IX, incluyen la expedición de un certificado. El Ejecutivo, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, IV, VI, XI, XII y XIV, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
-### CAPÍTULO XII. DERECHOS POR SERVICIOS QUE PRESTA LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1925,6 +2061,10 @@ III.- En los casos en que un documento tenga que inscribirse en varias secciones
 
 ### CAPÍTULO XIV. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE ECOLOGÍA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 63.
 
 Por las siguientes escrituras públicas que se otorguen ante notario o escribano públicos, se causará derechos conforme a lo siguiente:
@@ -2011,7 +2151,7 @@ que se otorga ante Escribano Público 0.75 S.M.G.
 
 ### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2023,349 +2163,487 @@ I.- Determinaciones Sanitarias
 
 a) Apertura
 
-1. Expendio de cerveza en envase cerrado 707 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2. Licorería 883 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-3. Tienda de autoservicio tipo A 707 S.M.G.
+1.-Expendio de cerveza en envase cerrado 601.00 S.M.G.
 
-4. Tienda de autoservicio tipo B 1,060 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-5. Bodega o distribuidora de bebidas alcohólicas 707 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-6. Centro Nocturno 1,766 S.M.G.
+2.- Licorería 708.00 S.M.G.
 
-7. Discoteca 1,766 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-8. Cabaret 1,766 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-9. Restaurante de lujo 354 S.M.G.
+3.- Tienda de autoservicio tipo A 601.00 S.M.G.
 
-10. Restaurante 265 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-11. Pizzería 265 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-12. Bar 1,236 S.M.G.
+4.- Tienda de autoservicio tipo B 901.00 S.M.G.
 
-13. Video bar 1, 236 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-14. Salón de baile 707 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-15. Sala de recepción 354 S.M.G.
+5.- Bodega o distribuidora de bebidas alcohólicas 601.00 S.M.G.
 
-> <small>(F. DE E., D.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-16. Restaurante de lujo en establecimientos
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-donde se realicen juegos con apuestas y
+6.- Centro Nocturno 1,501.00 S.M.G.
 
-sorteos en términos de la Ley Federal de
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Juegos y Sorteos y su Reglamento. 5,296 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+7.- Discoteca 1,501.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+8.- Cabaret 1,501.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+9.- Restaurante de Lujo 301.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+10.- Restaurante 225.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+11.- Pizzería 225.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+12.- Bar 1,051.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+13.- Video Bar 1,051.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+14.- Salón de baile 601.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+15.- Sala de recepción 301.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+16.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento. 4,502.00 S.M.G.
 
 b) Renovaciones
 
-1. Expendio de cerveza en envase cerrado 89 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-2. Licorería 124 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-3. Tienda de autoservicio tipo A 89 S.M.G.
+1.- Expendio de cerveza en envase cerrado 76.00 S.M.G.
 
-4. Tienda de autoservicio tipo B 124 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-5. Bodega o distribuidora de bebidas
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-alcohólicas 89 S.M.G.
+2.- Licorería 105.00 S.M.G.
 
-6. Centro Nocturno 301 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-7. Discoteca 301 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-8. Cabaret 301 S.M.G.
+3.- Tienda de autoservicio tipo A 76.00 S.M.G.
 
-9. Cantina 124 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-10. Restaurante de lujo 80 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-11. Restaurante 71 S.M.G.
+4.- Tienda de autoservicio tipo B 105.00 S.M.G.
 
-12. Pizzería 45 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-13. Bar 265 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-14. Video bar 265 S.M.G.
+5.- Bodega o distribuidora de bebidas alcohólicas 76.00 S.M.G.
 
-15. Salón de baile 89 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-16. Sala de recepción 89 S.M.G.
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-17. Restaurante de lujo en establecimientos
+6.- Centro Nocturno 256.00 S.M.G.
 
-donde se realicen juegos con apuestas y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-sorteos en términos de la Ley Federal de
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-Juegos y Sorteos y su Reglamento. 1,766 S.M.G.
+7.- Discoteca 256.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+8.- Cabaret 256.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+9.- Cantina 105.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+10.- Restaurante de Lujo 68.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+11.- Restaurante 60.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+12.- Pizzería 38.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+13.- Bar 225.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+14.- Video Bar 225.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+15.- Salón de baile 76.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+16.- Sala de recepción 76.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+17.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento. 1,501.00 S.M.G.
 
 c) Modificación de horario
 
-1. Expendio de cerveza en envase cerrado,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-licorería, tienda de autoservicio tipo A,
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-tienda de autoservicio tipo B, bodega o
+1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 45.00 S.M.G.
 
-distribuidora de bebidas alcohólicas, centro
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-nocturno, discoteca, cabaret, cantina,
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-restaurante de lujo, restaurante, pizzería,
-
-bar, videobar, salón de baile y sala
-
-de recepción. 53 S.M.G.
-
-2. Restaurante de lujo en establecimientos
-
-donde se realicen juegos con apuestas y
-
-sorteos en términos de la Ley Federal de
-
-Juegos y Sorteos y su Reglamento. 883 S.M.G. o
+2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento. 751.00 S.M.G.
 
 d) Cambio de denominación
 
-1. Expendio de cerveza en envase cerrado,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-licorería, tienda de autoservicio tipo A,
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-tienda de autoservicio tipo B, bodega o
+1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 166.00 S.M.G.
 
-distribuidora de bebidas alcohólicas, centro
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-nocturno, discoteca, cabaret, cantina,
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-restaurante de lujo, restaurante, pizzería,
-
-bar, videobar, salón de baile y sala de
-
-recepción. 195 S.M.G.
-
-2. Restaurante de lujo en establecimientos
-
-donde se realicen juegos con apuestas y
-
-sorteos en términos de la Ley Federal de
-
-Juegos y Sorteos y su Reglamento. 883 S.M.G.
+2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 751.00 S.M.G.
 
 e) Cambio de propietario
 
-1. Expendio de cerveza en envase cerrado,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-licorería, tienda de autoservicio tipo A,
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-tienda de autoservicio tipo B, bodega o
+1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 S.M.G.
 
-distribuidora de bebidas alcohólicas, centro
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-nocturno, discoteca, cabaret, cantina,
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-restaurante de lujo, restaurante, pizzería,
-
-bar, videobar, salón de baile y sala de recepción. 354 S.M.G.
-
-2. Restaurante de lujo en establecimientos
-
-donde se realicen juegos con apuestas y
-
-sorteos en términos de la Ley Federal de
-
-Juegos y Sorteos y su Reglamento. 5,296 S.M.G.
+2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 4,502.00 S.M.G.
 
 f) Cambio de domicilio
 
-1. Expendio de cerveza en envase cerrado,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-licorería, tienda de autoservicio tipo A, tienda
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-de autoservicio tipo B, bodega o distribuidora
+1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 S.M.G.
 
-de bebidas alcohólicas, centro nocturno,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-discoteca, cabaret, cantina, restaurante
+(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-de lujo, restaurante, pizzería, bar, videobar,
-
-salón de baile y sala de recepción. 354 S.M.G
-
-2. Restaurante de lujo en establecimientos donde
-
-se realicen juegos con apuestas y sorteos
-
-en términos de la Ley Federal de Juegos
-
-y Sorteos y su Reglamento. 5,296 S.M.G.
+2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 4,502.00 S.M.G.
 
 II.- Certificado de defunción 0.60 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Por la expedición de certificado sobre
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-pozo de agua para abastecimiento privado; 20.00 S.M.G.
+III.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado; 17.00 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Por la revalidación de certificado; 10.00 S.M.G.
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+IV.- Por la revalidación de certificado; 9.00 S.M.G.
 
-V.- Por la autorización de libro de medicamento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-controlado; 7.00 S.M.G.
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+V.- Por la autorización de libro de medicamento controlado; 6.00 S.M.G.
 
-VI.- Permiso sanitario de construcción; 20.00 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-VII.- Por levantamiento o aplicación de
+VI.- Permiso sanitario de construcción; 17.00 S.M.G.
 
-medida de seguridad; 16.00 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-VIII.- Por día de capacitación; 4.80 S.M.G.
+VII.- Por levantamiento o aplicación de medida de seguridad; 14.00 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Por visita de establecimientos a petición
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-de parte; 15.00 S.M.G.
+VIII.- Por día de capacitación; 4.00 S.M.G.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X.- Por muestra a petición de parte; 15.00 S.M.G.
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+IX.- Por visita de establecimientos a petición de parte; 13.00 S.M.G.
 
-XI.- Por permiso para otorgar degustaciones; 8.00 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-XII.- Por autorización de corrección
+X.- Por muestra a petición de parte; 13.00 S.M.G.
 
-de nomenclatura; 20.00 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII.- Autorización temporal para expendio y
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
 
-suministro de bebidas alcohólicas:
+XI.- Por permiso para otorgar degustaciones; 7.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XII.- Por autorización de corrección de nomenclatura; 17.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XIII.- Autorización temporal para expendio y suministro de bebidas alcohólicas:
+
+Tipo A 18.00 S.M.G.
+
+Tipo B 30.00 S.M.G.
+
+Tipo C 34.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XIV.- Por expedición de código de barras para el manejo de estupefacientes; 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XV.- Por autorización de compra y venta de medicamentos controlados 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XVI.- Por autorización de libros para el registro del manejo de sangre y sus derivados; 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XVII.- Por validación de planos de construcción; 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XVIII.- Por verificación a solicitud de parte, con muestreo; 15.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XIX.- Autorización de libros de sustancias tóxicas; 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XX.- Renovación de Licencia Sanitaria de Plaguicidas; 26.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXI.- Aviso de Funcionamiento Tipo A 11.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXII.- Aviso de Funcionamiento Tipo B 38.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXIII.- Solicitud de verificación para destrucción y/o desactivación de Medicamento no controlado 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXIV.- Solicitud de verificación sanitaria para destrucción de alimentos 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXV.- Expedición de copias certificadas de documentos que obren en los archivos de la Dirección hasta 20 hojas 5.00 S.M.G. Por hoja adicional se cobrará $ 20.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXVI.- Visitas de verificación para constatación de corrección de anomalías 13.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXVII.- Balance de medicamentos 85.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXVIII.- Autorización de inhumación o cremación de cadáveres, durante las primeras doce horas 4.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXIX.- Cambio de responsable sanitario y libros de control en farmacias: 8.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+
+XXX.- Por trámite de importación y exportación 26.00 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Tipo A 21.00 S.M.G.
+ARTÍCULO 85 B.- Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura o renovaciones establecidas en el artículo anterior.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Tipo B 35.00 S.M.G.
+ARTÍCULO 85 C.- Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+Apartado A
 
-Tipo C 40.00 S.M.G.
+Determinaciones sanitarias y renovaciones
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+I.- Los establecimientos con categoría A, son:
 
-XIV.- Por expedición de código de barras
+Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
 
-para el manejo de estupefacientes; 10.00 S.M.G.
+II.- Los establecimientos con categoría B, son:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
 
-XV.- Por autorización de compra y venta
+III.- Los establecimientos con categoría C, son:
 
-de medicamentos controlados; 10.00 S.M.G.
+Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
 
-XVI.- Por autorización de libros para el
+Apartado B
 
-registro del manejo de sangre y sus derivados; 10.00 S.M.G.
+Autorizaciones temporales
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+I.- Las autorizaciones con categoría A, son para:
 
-XVII.- Por validación de planos de construcción; 10.00 S.M.G.
+Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+II.- Las autorizaciones con categoría B, son para:
 
-XVIII.- Por verificación a solicitud de parte,
+Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
 
-con muestreo; 18.00 S.M.G.
+III.- Las autorizaciones con categoría C, son para:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
 
-XIX.- Autorización de libros de sustancias tóxicas; 10.00 S.M.G.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
-XX.-Renovación de Licencia Sanitaria de
+ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
 
-Plaguicidas; 30.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXI.- Aviso de Funcionamiento Tipo A; 13.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXII.- Aviso de Funcionamiento Tipo B; 45.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXIII.- Solicitud de verificación para
-
-destrucción y/o desactivación de
-
-medicamento no controlado; 10.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXIV.- Solicitud de verificación sanitaria
-
-para destrucción de alimentos; 10.00 S.M.G
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXV.- Expedición de copias certificadas de documentos que obren en los archivos de la Dirección hasta 20 hojas 6.00 S.M.G. Por hoja adicional se cobrará $ 20.00
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXVI.- Visitas de verificación para
-
-constatación de corrección de anomalías; 15.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXVII.- Balance de medicamentos; 100.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXVIII.- Autorización de inhumación o cremación
-
-de cadáveres, durante las primeras doce horas; 5.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXIX.- Cambio de responsable sanitario y libros
-
-de control en farmacias; 9.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXX.- Por trámite de importación y exportación 30.00 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
@@ -2431,9 +2709,7 @@ V.- Por expedición de copias certificadas por hoja 0.10 S.M.G.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 85-E.
-
-Los servicios que presta la Unidad de Protección Civil, causarán los siguientes derechos:
+ARTÍCULO 85 E.- Los servicios que presta la Unidad de Protección Civil, causarán los siguientes derechos:
 
 I.- Registro a empresas capacitadoras 150.00 S.M.G.
 
@@ -2461,11 +2737,15 @@ VIII.- Renovación del Registro de Empresas
 
 e Instructores 100.00 S.M.G
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IX.- Diagnóstico de Riesgo 15.00 S.M.G.
+
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 85-F.
-
-Están exentas del pago de los derechos establecidos en este capítulo, las dependencias federales, estatales y municipales, y las instituciones y asociaciones sin fines de lucro.
+ARTÍCULO 85 F.- Están exentas del pago de los derechos establecidos en este capítulo, las dependencias federales, estatales y municipales, y las instituciones y asociaciones sin fines de lucro.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2502,6 +2782,326 @@ VI.- Certificación de plicas 0.47 S.M.G.
 ### CAPÍTULO XVIII. DERECHOS POR SERVICIOS QUE PRESTA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 85 G.- Por los servicios que presta el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, se cobrarán los siguientes derechos:
+
+I.- Chichén Itzá Unidad de servicio 1.15 S.M.G.
+
+II.- Chichén Itzá Unidad de servicio (extranjeros) 2.03 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III.- Chichén Itzá Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+III Bis.- Chichén Itzá Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IV.- Chichén Itzá visitas escolares 0.09 S.M.G.
+
+V.- Chichén Itzá Luz y Sonido 0.78 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+V Bis.- Chichén Itzá Luz y Sonido Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+V Ter.- Chichén Itzá Luz y Sonido Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+VI.- Chichén Itzá Luz y Sonido (extranjeros) 1.22 S.M.G.
+
+VII.- Uxmal Unidad de Servicios 1.15 S.M.G.
+
+VIII.- Uxmal Unidad de Servicios (extranjeros) 2.03 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IX.- Uxmal Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IX Bis.- Uxmal Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+X.- Uxmal visitas escolares 0.09 S.M.G.
+
+XI.- Uxmal Luz y Sonido 0.78 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XI Bis.- Uxmal Luz y Sonido Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XI Ter.- Uxmal Luz y Sonido Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+XII.- Uxmal Luz y Sonido (extranjeros) 1.22 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XIII.- Grutas de Loltún Unidad de Servicio 0.58 S.M.G.
+
+XIV.- Grutas Loltún (extranjeros) 1.02 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XV.- Grutas de Loltún Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XV Bis.- Grutas de Loltún Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XVI.- Grutas de Loltún visitas escolares 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XVII.- Dzibilchaltún Unidad de Servicio 0.58 S.M.G.
+
+XVIII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XIX.- Dzibilchaltún Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XIX Bis.- Dzibilchaltún Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XX.- Dzibilchaltún visitas escolares 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXI.- Balankanché Unidad de Servicio 0.58 S.M.G.
+
+XXII.- Grutas de Balankanché (extranjeros) 1.02 .S.M.G
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXIII.- Grutas de Balankanché Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXIII Bis.- Grutas de Balankanché Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXIV.- Grutas de Balankanché visitas escolares 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXV.- Celestún Unidad de Servicio 0.58 S.M.G.
+
+XXVI.- Celestún (extranjeros) 1.02 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXVII.- Celestún Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXVII Bis.- Celestún Niños entrada menores de 13 años (extranjeros) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXVIII.- Celestún visitas escolares 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXIX.- Cenote X'Kekén adultos 0.48 S.M.G.
+
+XXX.- Cenotes X'Kekén(extranjeros) 0.92 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXI.- Cenote X'Kekén Niños entrada menores de 13 años 0.30 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXI Bis.- Cenote X'Kekén Niños entrada menores de 13 años (extranjeros) 0.30 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXI Ter.- Cenote X'Kekén visitas escolares 0.30 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXII.- Cenote X'Kekén INAPAM 0.39 S.M.G.
+
+XXXIII.- Cenote Samulá adulto 0.48 S.M.G.
+
+XXXIV.- Cenote Samulá (extranjeros) 0.92 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXV.- Cenote Samulá (Niños menores de 13 años) 0.30 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXV Bis.- Cenote Samulá (Niños menores de 13 años) (extranjeros) 0.30 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXV Ter.- Cenote visitas escolares 0.30 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXVI.- Cenote Samulá INAPAM 0.39 S.M.G.
+
+XXXVII.- Izamal (Luz y Sonido) 0.95 S.M.G.
+
+XXXVIII.- Izamal (Luz y Sonido) extranjero 1.39 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXVIII Bis.- Izamal (Luz y Sonido) Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXXVIII Ter.- Izamal (Luz y Sonido) niños menores de 13 años (extranjeros) 0.09 S.M.G.
+
+XXXIX.- Ek Balam Unidad de Servicios 0.58 S.M.G.
+
+XL.- Ek Balam Unidad de Servicios extranjero 1.02 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XLI.- Ek Balam Unidad de Servicios Niños entrada menores de 13 años 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XLI Bis.- Ek Balam Unidad de Servicios Niños entrada menores de 13 años (extranjero) 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XLlI.- Ek Balam visitas escolares 0.09 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Los ciudadanos mexicanos estarán exentos del pago del derecho a que se refiere este artículo por los servicios que se presten los domingos, en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del Luz y sonido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+En los días festivos se cobrará el 50% del derecho que establece este artículo a los ciudadanos mexicanos por los servicios que se presten en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con la excepción de lo establecido en el párrafo siguiente y los niños menores de 13 años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Las personas adultos mayores con credencial del INAPAM pagarán el 50% del derecho a que se refiere este artículo por los servicios que se presten en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Las personas con discapacidad estarán exentas de pago del derecho que se establece en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Para disfrutar de la cuota preferencial establecida en este artículo referente a las visitas escolares, se deberá obtener la autorización del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, previamente a la prestación del servicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 68.
 
@@ -2577,25 +3177,31 @@ g) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
 h) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-i) Constancia de Única Propiedad familiar 1.27 S.M.G.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+i) Constancia de Única Propiedad 1.66 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 j) Certificado de Número Oficial de Predio 1.64 S.M.G.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-k) Certificado de Inscripción Predial Vigente 1.27 S.M.G.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+k) Certificado de Inscripción Vigente 1.51 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 l) Certificado de No Inscripción Predial 1.64 S.M.G.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-m) Constancia de Valor Catastral Vigente 1.27 S.M.G.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+m) Constancia de Valor Catastral Vigente 1.51 S.M.G.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2615,45 +3221,61 @@ p) Constancia de Información de Valor 1.85 S.M.G.
 
 q) Certificado de Valor Catastral 1.64 S.M.G.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-r) Información de bienes por propietario y/o por predio
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-De 1 a 5 direcciones 1.64 S.M.G.
+r) Información de bienes por propietario:
 
-De 6 a 10 direcciones 3.26 S.M.G.
+de 1 a 5 direcciones 1.64 S.M.G.
 
-De 11 a 20 direcciones 4.90 S.M.G.
+de 6 a 10 direcciones 3.34 S.M.G.
 
-De 21 en adelante por cada dirección
+de 11 a 20 direcciones 4.90 S.M.G.
 
-excedente 031 S.M.G.
+de 20 en adelante por cada dirección excedente 0.31 S.M.G.
 
-IV.- Elaboración de planos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-a) Catastrales a escala 3.88 S.M.G.
+s) Información de bienes por predio:
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+de 1 a 5 direcciones 1.64 S.M.G.
 
-b) Planos topográficos
+de 6 a 10 direcciones 3.26 S.M.G.
 
-De 1 m2 a 9,999 m 7.20 S.M.G.
+de 11 a 20 direcciones 4.90 S.M.G.
 
-De 01 - 00 - 00 Ha A 10 - 00 - 00 Ha 13.36 S.M.G.
+de 20 en adelante por cada dirección excedente 0.31 S.M.G.
 
-De 10 - 00 - 01 Ha A 20 - 00 - 00 Ha 15.95 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-De 20 - 00 - 01 Ha A 30 - 00 - 00 Ha 19.20 S.M.G.
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-De 30 - 00 - 01 Ha A 40 - 00 - 00 Ha 23.10 S.M.G.
+t) Constancia de no propiedad familiar 1.90 S.M.G.
 
-De 40 - 00 - 01 Ha A 50 - 00 - 00 Ha 27.60 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-De 50 - 00 - 01 Ha A 75 - 00 - 00 Ha 33.15 S.M.G.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-De 75 - 00 - 01 Ha A 100 - 00 - 00 Ha 39.78 S.M.G.
+IV. Elaboración de planos:
+
+a) Catastrales a escala 1.86 S.M.G.
+
+b) Planos topográficos:
+
+De 1 m2 a 9,999 m2 7.20 S.M.G.
+
+De 01 - 00 - 00 Ha A 10 - 00 - 00 Ha 7.63 S.M.G.
+
+De 10 - 00 - 01 Ha A 20 - 00 - 00 Ha 9.19 S.M.G.
+
+De 20 - 00 - 01 Ha A 30 - 00 - 00 Ha 11.44 S.M.G.
+
+De 30 - 00 - 01 Ha en adelante por cada hectárea
+
+de más se cobrará 0.38 S.M.G.
 
 > <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2665,7 +3287,11 @@ b) Oficios de rectificación de medidas, urbanización
 
 y cambio de nomenclatura 1.21 S.M.G.
 
-c) Oficios de unión 0.51 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+c) Oficios de unión de predios, por cada parte 0.51 S.M.G.
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2674,6 +3300,12 @@ VI.- Diligencias de verificación o rectificación de medidas
 físicas y de colindancias de predios 4.78 S.M.G.
 
 Más 0.10 S.M.G. por kilómetro recorrido considerados a partir de 17 kms sin que el derecho establecido en esta fracción exceda de 17 S.M.G., tomando como punto de referencia la ubicación de la Dirección del Catastro del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+En el pago de kilometraje se pagará un sólo derecho cuando se trate del mismo propietario y en la misma localidad.
 
 > <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2721,7 +3353,7 @@ c) Tamaño cuatro cartas (Plotter) 3.39 S.M.G.
 
 d) Planos mayores a 4 veces tamaño carta 6.73 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2785,7 +3417,27 @@ b) Tipo habitación 0.98 S.M.G.
 
 Las instituciones públicas estatales y municipales siempre que el servicio sea destinado a un interés público, quedan exentas del pago de los derechos que establece este capítulo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XIV (SIC). DERECHOS POR ACCESO A LA INFORMACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 85 H.- Por los servicios que presten los sujetos obligados por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, con excepción de los municipios, se causarán derechos conforme a lo siguiente:
+
+I.- Expedición de copias simples, con anterioridad a partir de dos años, por hoja 0.08 S.M.G.
+
+II.- Expedición de copias simples, para el anterior y actual ejercicio, por hoja 0.02 S.M.G.
+
+III.- Expedición de copias certificadas 0.15 S.M.G.
+
+IV.- Disco magnético o CD (por cada uno) 0.75 S.M.G.
+
+V.- DVD 1.50 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 74.
 
@@ -2821,15 +3473,35 @@ Las instituciones públicas estatales y municipales siempre que el servicio sea 
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+### CAPÍTULO XV (SIC). DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE TRANSPORTE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 85 l.- Por los servicios que presten la Dirección de Transporte, se causarán derechos conforme a lo siguiente:
+
+I. Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 S.M.G.
+
+II. Emisión de credencial inteligente de transporte urbano para operadores 2.00 S.M.G.
+
+III. Reposición de credencial inteligente de transporte urbano para operadores 2.00 S.M.G.
+
+IV. Expedición de impresiones a tamaño gran escala de los croquis y rutas concesionadas 2.00 S.M.G.
+
+V. Cesión de derechos (concesión o permiso) 20.00 S.M.G.
+
+VI. Adquisición de concesión por designación de beneficiario 10.00 S.M.G.
+
+VII. Emisión de tarjeta de información de servicio público de transporte de pasajeros 4.00 S.M.G.
 
 ###### ARTÍCULO 80.
 
-Los servicios que presta la Procuraduría General de Justicia del Estado, causarán derechos de conformidad con lo siguiente, por:
+Los servicios que presta la Fiscalía General del Estado, causarán derechos de conformidad con lo siguiente, por:
 
 I.- La expedición de certificados del Departamento de Dactiloscopía y Criminología:
 
@@ -2849,7 +3521,7 @@ II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
 III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 24.99 S.M.G.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -3101,11 +3773,15 @@ c) Superior 60.10 S.M.G.
 
 d) Formación para el trabajo 40.07 S.M.G.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 82.
 
-Los servicios que presta la Secretaría de Ecología, causarán derechos de conformidad con lo siguiente:
+Los servicios que presta la Secretaría de Desarrollo Urbano y Medio Ambiente, causarán derechos de conformidad con lo siguiente:
 
 > <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -3113,17 +3789,23 @@ I.- Por la verificación de emisión de contaminantes, generados por vehículos
 
 automotores 1.50 S.M.G.
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Por cada cuota de conservación de cazador nacional 26.47 S.M.G.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+II.- Por cada cuota de conservación de cazador nacional 35.27 S.M.G.
 
-III.- Por cada cuota de conservación de cazador extranjero 39.71 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-IV.- Por cada cintillo de cobro cinegético 4.41 S.M.G.
+III.- Por cada cuota de conservación de cazador extranjero 48.50 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IV.- Por cada cintillo de cobro cinegético 5.29 S.M.G.
 
 > <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -3301,59 +3983,15 @@ del anuncio publicitario o señal informativa 1 S.M.G
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
+### CAPÍTULO ÚNICO
+
 ###### ARTÍCULO 85-B.
 
 Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura o renovaciones establecidas en el artículo anterior.
 
 > <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 85-C.
-
-Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
-
-Apartado A
-
-Determinaciones sanitarias y renovaciones
-
-I.- Los establecimientos con categoría A, son:
-
-Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
-
-II.- Los establecimientos con categoría B, son:
-
-Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
-
-III.- Los establecimientos con categoría C, son:
-
-Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
-
-IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
-
-Apartado B
-
-Autorizaciones temporales
-
-I.- Las autorizaciones con categoría A, son para:
-
-Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
-
-II.- Las autorizaciones con categoría B, son para:
-
-Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
-
-III.- Las autorizaciones con categoría C, son para:
-
-Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 85-D.
-
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO ÚNICO
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -3524,3 +4162,21 @@ Se abroga el Decreto Número 323 publicado en el Diario Oficial del Gobierno del
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a este Decreto.
+
+D.O. 22 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones de este Decreto entrarán en vigor el día uno de enero del año 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+El Capítulo IV, del Título III de la Ley General de Hacienda del Estado de Yucatán dejará de ser aplicable a los municipios a partir de que se hagan cargo del servicio público de panteones y la función recaudatoria inherente al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese este Decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
