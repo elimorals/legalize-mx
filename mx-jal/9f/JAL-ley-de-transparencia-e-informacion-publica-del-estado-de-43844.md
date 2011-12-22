@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-e-informacion-publica-del-estado-de-43844"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-06"
-last_updated: "2011-03-24"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
-LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
+LEY DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 23936, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MARZO DE 2011, NO APLICA AL ARTICULADO DEL DECRETO 23486/LIX/11 PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Jalisco, el jueves 6 de enero de 2005.
 
@@ -533,9 +533,9 @@ No tendrá más restricciones a sus atribuciones, facultades y competencias que 
 
 El Instituto contará con los recursos humanos, económicos y materiales necesarios para el desempeño de sus funciones, de conformidad con lo asignado en su presupuesto anual.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 38.
 
@@ -543,7 +543,7 @@ El Instituto contará con un Consejo conformado por un Presidente y dos consejer
 
 El Consejo nombrará un Secretario Ejecutivo, el cual tendrá las atribuciones que señale su reglamento interior.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2007)</small>
 
@@ -579,7 +579,7 @@ VI. Tener título profesional expedido por la autoridad competente y registrado 
 
 VII. Haberse desempeñado notablemente en tareas sociales, profesionales, académicas, empresariales o culturales, que denoten su compromiso y conocimiento con la transparencia, para lo cual los candidatos deberán acreditar, mediante los medios que consideren idóneos, dicho desempeño.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 42.
 
@@ -619,9 +619,9 @@ VII. Si alguno de los candidatos no reúna los votos requeridos en la tercera ro
 
 El Instituto será presidido por el Presidente del Consejo quien tendrá la representación legal del mismo, durará en su encargo cuatro años.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 45.
 
@@ -1191,7 +1191,7 @@ LIC. HÉCTOR PÉREZ PLAZOTA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE JULIO DE 2007.
 
@@ -1212,3 +1212,49 @@ CUARTO. Se derogan todas las disposiciones legales que se opongan al presente de
 P.O. 3 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día 01 de abril del 2012 previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La derogación de la fracción XVIII del artículo 146 del Código Penal del Estado de Jalisco, surtirá efectos para los hechos delictivos acontecidos a partir de la entrada en vigor del presente decreto; pero continuará vigente para efectos del desahogo de las averiguaciones previas y los procesos penales, así como la compurgación de las penas respectivas en su caso, de los hechos delictivos acontecidos con anterioridad de la entrada en vigor del presente decreto.
+
+TERCERO. El Instituto de Trasparencia e Información Pública del Estado debe:
+
+I. Emitir y publicar el reglamento marco de información pública para sujetos obligados, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto;
+
+II. Emitir y publicar los lineamientos generales de clasificación de información pública, de publicación y actualización fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto;
+
+III. Autorizar los criterios generales de los sujetos obligados, en materia de clasificación de información pública, de publicación y actualización de información pública fundamental y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a su presentación ante el Instituto;
+
+IV. Elaborar y distribuir entre los sujetos obligados, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, los formatos guía para:
+
+a) Solicitar información pública de libre acceso;
+
+b) Denunciar falta de transparencia de información fundamental;
+
+c) Acceder a información confidencial propia;
+
+d) Solicitar protección de información confidencial propia;
+
+e) Solicitar corrección de información confidencial propia;
+
+f) Presentar un recurso de revisión; y
+
+g) Presentar una denuncia de transparencia; y
+
+V. Validar los sistemas electrónicos de publicación de información pública fundamental y recepción de solicitudes de información pública de libre acceso, de los sujetos obligados, dentro de los treinta días naturales siguientes a su presentación ante el Instituto.
+
+CUARTO. Los sujetos obligados deben:
+
+I. Actualizar la publicación de la información fundamental que le corresponda en su caso, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto; tratándose de los supuestos donde se exige publicar información de años anteriores, la disposición será obligatoria para la información generada a partir de la entrada en vigor del presente decreto; sin perjuicio de mantener publicada la información que está en la actualidad;
+
+II. Modificar la constitución de su Comité, en su caso, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto;
+
+III. Elaborar o actualizar conforme a este decreto y remitir al Instituto para su validación, en su caso, un sistema de recepción de solicitudes y entrega de información pública vía electrónica, en los términos que establece la ley, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, con posibilidad de ampliarse por otros ciento ochenta adicionales, cuando lo autorice el Instituto a petición del sujeto obligado;
+
+IV. Emitir o actualizar conforme a este decreto y remitir al Instituto para su autorización, en su caso, sus criterios generales en materia de clasificación de información pública, de publicación y actualización de información pública fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a la publicación oficial de los lineamientos generales emitidos por el Instituto en dichas materias; y
+
+V. Analizar y reclasificar en su caso, la información pública en su poder, de acuerdo con la ley, los lineamientos generales y sus criterios generales de clasificación, dentro de los treinta días naturales siguientes a la autorización de éstos últimos por parte del Instituto.
+
+QUINTO. Los asuntos en materia de información pública, cuyo trámite haya iniciado durante la vigencia de la Ley de Transparencia e Información Pública del Estado de Jalisco, seguirán rigiéndose por la misma hasta su conclusión.
