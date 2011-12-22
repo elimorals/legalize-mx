@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-65007"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-13"
-last_updated: "2011-05-06"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-CODIGO FISCAL DEL ESTADO DE QUERETARO
+CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -103,7 +101,7 @@ V. El Director de Fiscalización
 
 VI. Los titulares de las dependencias encargadas de las Finanzas Públicas de los Municipios; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -237,9 +235,9 @@ Cuando con motivo de la prestación de un servicio se proporcionen bienes o se o
 
 En los casos en los que se pague la contraprestación mediante transferencia electrónica de fondos, ésta se considerará efectivamente cobrada en el momento en que se efectúe dicha transferencia, aun cuando quien reciba el depósito no manifieste su conformidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
@@ -249,15 +247,15 @@ La asociación en participación estará obligada a cumplir con las mismas oblig
 
 El asociante representará a la asociación en participación y a sus integrantes, en los medios de defensa que se interpongan en contra de las consecuencias fiscales derivadas de las actividades empresariales realizadas a través de dichas asociaciones en participación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 La asociación en participación se identificará con una denominación o razón social, seguida de la leyenda A. en P. o en su defecto, con el nombre del asociante, seguido de las siglas antes citadas. Asimismo, tendrá, en territorio estatal el domicilio del asociante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -265,7 +263,7 @@ Sujeto pasivo de la obligación fiscal, es la persona obligada al cumplimiento d
 
 También es sujeto pasivo, cualquier agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las leyes fiscales, se asimilan éstas agrupaciones a las personas morales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -315,7 +313,7 @@ XI. Las instituciones de crédito autorizadas para llevar a cabo operaciones fid
 
 XII. Los liquidadores y síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación, quiebra o concurso mercantil, hasta el límite del patrimonio social; así como de aquéllas que se causaron durante su gestión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -343,9 +341,9 @@ Los recargos, las sanciones, los gastos de ejecución y la indemnización a que 
 
 Son impuestos son (sic) las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en los artículos 26 y 27 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -377,7 +375,7 @@ Los recargos, las sanciones, los gastos de ejecución y la indemnización a que 
 
 El hecho imponible es el presupuesto de naturaleza jurídica fijado por la ley, para configurar cada tributo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -385,7 +383,7 @@ El hecho imponible es el presupuesto de naturaleza jurídica fijado por la ley, 
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos, o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -399,7 +397,7 @@ Corresponde a los contribuyentes la determinación de las contribuciones a su ca
 
 Las obligaciones fiscales se originan cuando se realizan las situaciones o supuestos previstos en las leyes, aún cuando aquellos constituyan infracciones a disposiciones legales. En éste último caso, el cumplimiento o exigibilidad de las obligaciones no legitimará estos hechos o circunstancias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -421,7 +419,7 @@ A falta de disposición expresa, el cumplimiento de obligaciones fiscales distin
 
 #### Sección Primera. Del pago
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -469,7 +467,7 @@ La determinación de los créditos fiscales y de las bases para su liquidación,
 
 Las autoridades fiscales tendrán las funciones que en relación con las diversas materias tributarias determinen las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -483,15 +481,15 @@ La actualización se calculará con base en el factor que se obtenga de dividir 
 
 El factor de actualización deberá calcularse hasta el diezmilésimo. Las contribuciones no se actualizarán por fracción de mes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, no será deducible o acreditable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -543,7 +541,7 @@ En el caso de aprovechamientos, los recargos se calcularán de conformidad con l
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la autoridad recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -603,7 +601,7 @@ La cancelación de los créditos a que se refiere este artículo no libera de su
 
 #### Sección Cuarta. Otros medios de extinción
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -629,7 +627,7 @@ Admitida la solicitud de condonación y asegurado el interés fiscal o dispensad
 
 Las resoluciones que se dicten con motivo de solicitudes para condonación parcial de multas no podrán ser objeto de impugnación a través de los medios que establece este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -691,9 +689,9 @@ Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcion
 
 Son obligaciones de los contribuyentes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 I. Inscribirse en el registro de contribuyentes que establezcan las autoridades fiscales, debiendo proporcionar información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se señalan en la fracción III de este artículo.
 
@@ -721,7 +719,7 @@ g. Suspensión.
 
 h. Apertura o cierre de establecimientos o de locales que utilicen como base fija para el desempeño de sus actividades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -733,7 +731,7 @@ IV. Declarar y pagar los créditos fiscales en la forma y plazos en que disponga
 
 V. Firmar las promociones y documentos que se presenten ante las autoridades fiscales, bajo protesta de decir verdad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -763,7 +761,7 @@ Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas 
 
 Las personas inscritas deberán conservar en su domicilio fiscal y en los establecimientos registrados, la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo y, en caso de baja de obligaciones o cancelación de registro, están obligados a señalar el domicilio donde conservarán la documentación comprobatoria a disposición de las autoridades fiscales, durante el plazo que establece el artículo 85 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -773,7 +771,7 @@ La solicitud o los avisos a que se refiere este artículo que se presenten en fo
 
 La Secretaría de Planeación y Finanzas llevará registros de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en las que la propia Secretaría obtenga por cualquier otro medio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -781,7 +779,7 @@ La Secretaría de Planeación y Finanzas llevará registros de contribuyentes ba
 
 Salvo disposición en contrario, cuando las disposiciones fiscales señalen la obligación de presentar avisos ante las autoridades fiscales, la presentación deberá efectuarse dentro de los 10 días siguientes a aquél en que se actualice el supuesto jurídico o el hecho que lo motive.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -843,7 +841,7 @@ a. Se procede a la devolución sin que medie más trámite que el requerimiento 
 
 b. La orden de devolución no implicará resolución favorable al contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -895,27 +893,57 @@ III. Cuando quien pretenda hacer la compensación no tenga derecho a obtener su 
 
 ## Título Cuarto. Facultades de las autoridades fiscales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 60.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo de la siguiente forma:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo simultánea o sucesivamente, de la siguiente forma:
 
-I. Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la presentación del documento omitido otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos, se impondrán las multas correspondientes, que tratándose de declaraciones, será una multa por cada obligación omitida. La autoridad después del tercer requerimiento respecto de la misma obligación, podrá aplicar lo dispuesto en la siguiente fracción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, una vez realizadas las acciones previstas en la fracción anterior, podrán hacer efectiva al contribuyente o al responsable solidario que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+I. Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la presentación del documento omitido otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos, se impondrán las multas correspondientes, que tratándose de declaraciones, será una multa por cada obligación omitida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+II. Embargar precautoriamente los bienes o la negociación del contribuyente, cuando el contribuyente haya omitido presentar las tres últimas declaraciones. El embargo quedará sin efectos cuando el contribuyente presente las declaraciones o dos meses después de practicado si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de facultades de comprobación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, las autoridades fiscales podrán hacer efectiva al contribuyente o al responsable solidario que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate, una vez realizadas las acciones previstas en la fracción I de este artículo, o de manera simultánea a cualquiera de los actos señalados en las fracciones precedentes. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo, en este caso el recurso de revocación sólo procederá contra el propio procedimiento administrativo de ejecución y en el mismo podrán hacerse valer agravios contra la resolución determinante del crédito fiscal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 En caso del incumplimiento a tres o más requerimientos respecto de la misma obligación, se hará del conocimiento de la autoridad competente tal situación, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -925,7 +953,7 @@ Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -953,13 +981,13 @@ IV. Recabar de los funcionarios y empleados públicos y de los fedatarios, los i
 
 V. Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VI. Las autoridades fiscales podrán solicitar a los contribuyentes la información necesaria para su inscripción en el registro a que se refiere la fracción I del artículo 53 de este Código e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito, así como para la actualización de los datos que obren en dicho registro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1095,7 +1123,7 @@ Se tendrán por consentidos los hechos u omisiones consignados en el oficio de o
 
 El plazo que se señala en el primero y segundo párrafo de esta fracción es independiente del que se establece en el artículo 68 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1105,7 +1133,7 @@ VIII. Cuando el contribuyente no corrija totalmente su situación fiscal conform
 
 Para los efectos del primer párrafo de este artículo, se considera como parte de la documentación o información que pueden solicitar las autoridades fiscales, la relativa a las cuentas bancarias del contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1179,7 +1207,7 @@ c) Omisión o alteración en el registro de existencias que deban figurar en los
 
 IV. No cumplan con las obligaciones sobre valuación de inventarios o no lleven el procedimiento de control de los mismos, que establezcan las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1289,9 +1317,13 @@ Se podrá proporcionar a otras autoridades para el cumplimiento de sus funciones
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 83.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses para pago diferido y de veinticuatro meses para pago en parcialidades, siempre y cuando los contribuyentes:
+Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de créditos fiscales, sin que dicho plazo exceda de doce meses para pago diferido y de veinticuatro meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
 I. Presenten el formato que se establezca para tales efectos, por las autoridades fiscales;
 
@@ -1299,7 +1331,11 @@ La modalidad del pago a plazos elegida por el contribuyente en el formato de la 
 
 II. Paguen la primera parcialidad que se determinará dividiendo el monto total del adeudo entre el número de parcialidades autorizadas. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
-a) El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+a) El monto del adeudo principal actualizado desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización;
 
 b) Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se solicite la autorización; y
 
@@ -1387,13 +1423,13 @@ I. Se presente o debió presentarse la declaración del ejercicio, cuando se ten
 
 No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en que se presenten, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Se presentó o debió haberse presentado declaración o aviso que corresponda a una contribución que no se calcule por ejercicios o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1401,7 +1437,7 @@ III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la
 
 El plazo señalado en este artículo no está sujeto a interrupción sólo podrá suspenderse cuando:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1463,9 +1499,13 @@ X. Las autoridades fiscales se abstendrán de imponer sanciones, cuando se haya 
 
 No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 89.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos sujetos pasivos de una prestación fiscal.
+Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de la relación jurídico-tributaria:
 
 I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse o hacerlo fuera de los plazos señalados, así como no incluir en las manifestaciones para su inscripción en el registro de contribuyentes que corresponda, las actividades por las que sea contribuyente habitual; no citar su número de registro o cuenta según el caso en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad.
 
@@ -1510,6 +1550,12 @@ XIX. Resistirse por cualquier medio a las visitas de inspección; no suministrar
 XX. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores al estarse practicando visitas domiciliarias.
 
 XXI. Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+XXII. Trasladar indebidamente las contribuciones a su cargo, cuando la ley o la naturaleza de las mismas no lo permitan.
 
 ###### Artículo 90.
 
@@ -1651,7 +1697,11 @@ A las fracciones II, VII, VIII, IX, X, XI y XII del artículo 91.
 
 III. De 150 a 300 veces:
 
-A las fracciones VII, VIII, XIII, XIV, XV, XX y XXI del artículo 89.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+A las fracciones VII, VIII, XIII, XIV, XV, XX, XXI y XXII del artículo 89.
 
 A las fracciones X, XI, XII y XIII del artículo 90.
 
@@ -1693,7 +1743,7 @@ b) Que se destruya, ordene o permita la destrucción total o parcial de la conta
 
 c) Que la comisión de la infracción sea en forma continua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1797,7 +1847,7 @@ I. Grabe o manufacture sin autorización de la Secretaría de Planeación y Fina
 
 II. Imprima, grabe o troquele sin autorización de la Secretaría de Planeación y Finanzas, placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIOÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1807,15 +1857,15 @@ IV. Elaboren los documentos descritos en la fracción anterior, a partir de frag
 
 Esta sanción se aplicará aún cuando el infractor no se haya propuesto obtener algún provecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 111.
 
 Se impondrá de seis meses a tres años de prisión a quien cometa el delito de uso de placas, tarjetones o medios de control fiscal falsificados a:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1843,7 +1893,7 @@ Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será 
 
 No se formulará querella si quien hubiere omitido el pago de la contribución u obtenido el beneficio indebido conforme a este artículo, lo entera espontáneamente con sus recargos antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2047,13 +2097,13 @@ Sólo podrá dispensarse el otorgamiento de la garantía del interés fiscal, en
 
 La garantía deberá constituirse dentro de los veinte días siguientes al en que surta efectos la notificación de la resolución sobre la cual se debe garantizar el interés fiscal, salvo en los casos que se indique un plazo diferente en otros preceptos de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 La garantía del interés fiscal se otorgará a favor de las autoridades fiscales señaladas en el artículo 8 de este Código, en los asuntos de sus respectivas competencias para cobrar coactivamente créditos fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2103,7 +2153,7 @@ c. Si no se paga dentro del mes siguiente a la fecha en que surta efectos la not
 
 En caso de que las instituciones de fianzas interpongan medios de defensa en contra del requerimiento de pago y no obtengan resolución favorable, las cantidades garantizadas deberán pagarse actualizadas y causarán recargos por el periodo comprendido entre la fecha en que se debió efectuar el pago y la fecha en que se paguen dichas cantidades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2135,7 +2185,7 @@ No se aceptarán en prenda los bienes de fácil descomposición o deterioro; los
 
 c. El embargo en la vía administrativa se sujetará a los trámites y requisitos previstos en el artículo 132-B de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2153,7 +2203,7 @@ IV. Deberá inscribirse en el registro público que corresponda el embargo admin
 
 V. Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución y gastos extraordinarios que puedan ser determinados en términos de la fracción II del artículo 153 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2167,7 +2217,7 @@ Cuando no se cumplan los requisitos a que se refiere este párrafo la autoridad 
 
 La autoridad fiscal podrá aceptar la garantía ofrecida por el contribuyente aun y cuando ésta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 129 de este Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2217,7 +2267,7 @@ IV. En cualquier otro caso en que deba cancelarse de conformidad con las disposi
 
 La garantía podrá disminuirse o sustituirse por una menor, en la misma proporción en que se reduzca el crédito fiscal debido al pago parcial que se realice de una parte del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2253,13 +2303,13 @@ b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue 
 
 c) Afecten el interés jurídico de terceros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 d) Determinen el valor de los bienes embargados a que se refiere el artículo 179 de éste Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2551,7 +2601,7 @@ El embargo podrá ampliarse en cualquier momento del procedimiento administrativ
 
 La persona con quien se entienda la diligencia de embargo tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2565,7 +2615,7 @@ IV. Bienes inmuebles.
 
 La persona con quien se entienda la diligencia de embargo podrá designar dos testigos y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2751,13 +2801,13 @@ Cuando el embargado o terceros acreedores no interpongan el recurso dentro del p
 
 Cuando del dictamen rendido por el perito valuador del embargado o terceros acreedores resulte un valor superior en un 10 por ciento al determinado conforme al primer párrafo de este artículo, la autoridad exactora designará dentro del término de seis días, un perito tercero valuador o empresa o institución dedicada a la compraventa y subasta de bienes. El avalúo que se fije será la base para la enajenación de los bienes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 Los avalúos que se practiquen para efectos fiscales tendrán vigencia de seis meses, contados a partir de la fecha en que queden firmes y deberán practicarse por las autoridades fiscales, por las instituciones de crédito, por corredores públicos o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2767,7 +2817,11 @@ En aquellos casos en que después de realizado el avalúo se lleven a cabo const
 
 El remate deberá ser convocado al día siguiente de haber quedado firme el avalúo, para que tenga verificativo dentro de los treinta días siguientes. La publicación de la convocatoria se hará cuando menos diez días antes del inicio del periodo señalado para el remate, y la misma se mantendrá en los lugares o medio en que se haya fijado o dado a conocer hasta la conclusión del remate.
 
-La convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzguen convenientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
+La convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzguen convenientes y se publicará en la página electrónica de las autoridades fiscales.
 
 En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
@@ -2793,9 +2847,9 @@ En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente p
 
 La autoridad exactora podrá enajenar a plazo los bienes embargados en los casos y condiciones que establezca este Código. En este supuesto quedará liberado de la obligación de pago el embargado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 185.
 
@@ -3001,7 +3055,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
@@ -3246,3 +3300,127 @@ Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere
 Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2012.
+
+Artículo Segundo. El pago del impuesto sobre loterías, rifas, sorteos y concursos que se hubiere causado con anterioridad a la entrada en vigor de esta Ley, deberá ajustarse a lo previsto en las disposiciones vigentes a la fecha de su nacimiento.
+
+Artículo Tercero. Las personas físicas y morales que a la entrada en vigor esta Ley, se encuentren obligadas a empadronarse en términos del inciso a), fracción I, del artículo 49-TER, de la Ley de Hacienda del Estado de Querétaro, deberán hacerlo en un plazo no mayor a un mes, contado a partir de dicha fecha.
+
+Artículo Cuarto. Hasta en tanto no se emita el acuerdo a que se refiere el artículo 137 de la Ley de Hacienda del Estado de Querétaro para la obtención de placas metálicas de circulación de características especiales, serán aplicables las disposiciones contenidas en dicho artículo vigente hasta el 31 de diciembre de 2011.
+
+Artículo Quinto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2012, serán las siguientes:
+
+I. Para los efectos de este ordenamiento se entiende por:
+
+a. Vivienda de interés social o popular, aquella a que se refiere el artículo 59 de la Ley de Hacienda del Estado de Querétaro.
+
+b. Por las siglas VSMGZ, veces el salario mínimo general vigente en la zona.
+
+II. Siempre que se trate de vivienda (sic) interés social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a. La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b. La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c. La expedición de certificados de no propiedad.
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a. La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b. Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c. Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGVZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+IV. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a. La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b. La inscripción de la escritura pública en que conste la operación mediante las que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c. La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+V. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a. El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial;
+
+b. El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos; y
+
+c. El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos.
+
+VI. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VII. Tratándose de desarrollos habitacionales de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas causarán:
+
+a. Un derecho a razón de 6 VSMGZ, por los previstos en el artículo 103 de la Ley de Hacienda del Estado de Querétaro, siempre que la solicitud no implique cambio de uso de suelo.
+
+b. Un derecho a razón del 25 VSMGZ, por los previstos en el artículo 111 de la Ley de Hacienda del Estado de Querétaro, por cada prototipo de vivienda con que cuente el desarrollo, sin importar el número total de ellas en el mismo.
+
+Por los servicios previstos en los artículos 112, 113 y 119 del ordenamiento a que se refiere el inciso anterior, se causará y pagará el 50 por ciento de los derechos establecidos en dichos numerales.
+
+Por los servicios previstos en el artículo 114 de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el 25 por ciento de los derechos establecidos en la referida disposición.
+
+VIII. Los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, causarán el 50 por ciento de los derechos señalados en el artículo 131, cuando la revisión física y mecánica a que se refiere se lleve a cabo en el periodo ordinario que al efecto establezca la Secretaría de Gobierno.
+
+IX. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+X. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+XI. La Secretaría de Planeación y Finanzas podrá condonar los créditos fiscales que tiene derecho a percibir la hacienda pública del Estado, que al 31 de diciembre de 2011 sean exigibles y que el importe del crédito sea inferior o igual a 50 VSMGZ a esa fecha.
+
+No procederá la condonación prevista en este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con propiedad, tenencia o uso de vehículos.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si cumple con los requisitos señalados.
+
+XII. Tratándose de los derechos señalados en el artículo 145-C de la Ley de Hacienda del Estado de Querétaro, se estará a lo siguiente:
+
+a. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas mayores a 16 años causarán un derecho de 0.24 VSMGZ.
+
+b. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas de 16 años o menos causarán un derecho de 0.16 VSMGZ.
+
+XIII. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia del tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y el Comercio para efectos de descuento en el impuesto predial.
+
+XIV. El impuesto para el fomento de la educación pública en el Estado, para Caminos y Servicios Sociales que se cause con motivo de los pagos que por concepto del impuesto sobre la venta de bienes cuya enajenación se encuentra gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado, realicen los contribuyentes, se reducirá en un 100%.
+
+XV. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán el equivalente a 0.40 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a que se refiere este artículo.
+
+XVI. A los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101-BIS, se aplicarán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+30% En los paquetes familiares (por lo menos tres
+
+personas en las diferentes disciplinas, previa
+
+entrega de una copia del acta de nacimiento de
+
+cada familiar)
+
+Para adultos mayores.
+
+XVII. Para los efectos del impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%, en los casos de aquellas personas que resulten beneficiarias de los apoyos contenidos en el Programa Querétaro cerca de tu economía familiar 2012.
+
+XVIII. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector vigente con domicilio en el Estado de Querétaro. En este último caso además deberán presentar 2 comprobantes de domicilio con una antigüedad no mayor a 3 meses, cuyos datos relativos al domicilio del particular deberán ser coincidentes con los asentados en la referida credencial.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 95 y 102 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
+
+XIX. Por los servicios de control vehicular contemplados en el artículo 135, fracciones I y II, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el equivalente a 0.40 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que estará formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
