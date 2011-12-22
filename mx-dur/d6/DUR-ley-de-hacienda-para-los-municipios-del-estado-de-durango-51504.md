@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2009-12-20"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -51,13 +51,13 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 Los Municipios del Estado de Durango percibirán en cada ejercicio fiscal para cubrir los gastos públicos de la Hacienda Pública a su cargo, los ingresos que autoricen las leyes respectivas, así como los que les correspondan de conformidad con los convenios de coordinación y las leyes en que se fundamenten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 2.
 
 Los ingresos que percibirá el municipio serán ordinarios o extraordinarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 I.- Ingresos Ordinarios son: Impuestos, Derechos, Contribuciones por Mejoras, Productos, Aprovechamientos, Participaciones y Aportaciones federales o estatales, según sea el caso.
 
@@ -323,13 +323,13 @@ En este último caso, si las construcciones ya hubieren sido terminadas, los int
 
 Lo dispuesto en este artículo sólo surtirá efectos en relación con el impuesto mencionado y las multas que se apliquen por violaciones a la presente Sección.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 Las constancias de no adeudo de Impuesto Predial y de multas y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el bimestre en que hubiesen sido expedidos y en el siguiente al de su expedición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 36.
 
@@ -551,7 +551,7 @@ III.- Proporcionar a las Autoridades Fiscales, los datos o informaciones que se 
 
 IV.- Devolver la autorización o permiso en caso de clausura, cambio de objeto, giro, nombre o razón social y en los de traspaso o traslado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN SEXTA. IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES
 
@@ -627,7 +627,7 @@ III.- Tratándose de contratos de compraventa o cualesquiera otros traslativos d
 
 IV.- Tratándose de contratos de permuta, aún cuando estén sujetos a condición suspensiva, el impuesto se causará por la transmisión de cada uno de los inmuebles que sean objeto del contrato, sobre el valor mayor que resulte para cada uno de ellos de conformidad con las reglas de la fracción I de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 80.
 
@@ -673,7 +673,7 @@ d) Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud 
 
 Al momento de recibir la declaración de Traslación de Dominio y los anexos a ésta, la autoridad correspondiente verificará si dicha declaración reúne los requisitos legales y si está correcta la liquidación del impuesto. Si los requisitos y la liquidación están bien, la autoridad, en un plazo que no excederá de 3 días hábiles deberá hacer los asientos de la traslación de dominio y emitir el recibo de pago. En caso de que los requisitos o la liquidación sean incorrectos, en el acto de recepción, el funcionario encargado de la ventanilla, requerirá al interesado o al Notario Público para que realice o realicen las correcciones que procedan, dentro del término de los 15 días siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 82.
 
@@ -703,7 +703,7 @@ II.- Cuando por causas imputables a la Tesorería Municipal o su Equivalente el 
 
 Los plazos continuarán corriendo a partir de la fecha en que se notifique al interesado la resolución que se hubiera dictado con motivo de la consulta a que se refiere la fracción I de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 86.
 
@@ -711,7 +711,7 @@ Los Notarios no podrán autorizar definitivamente ninguna escritura pública en 
 
 En los testimonios que los Notarios Públicos expidan de escrituras relativas a los actos o contratos traslativos de dominio, deberán hacerse constar el número del comprobante oficial del pago del impuesto y el importe del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 87.
 
@@ -953,7 +953,7 @@ Se causarán los derechos de cooperación para obras públicas, cuando éstas, p
 
 Los derechos deberán ser pagados al inicio de la obra, o bien dentro del plazo que se establezca en los convenios que se celebren entre los sujetos obligados al pago y la Tesorería Municipal o su Equivalente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN SÉPTIMA. POR SERVICIO DE GESTIÓN INTEGRAL DE RESIDUOS
 
@@ -1017,7 +1017,7 @@ VII. El nivel socioeconómico y capacidad de pago de los diferentes tipos de usu
 
 Los generadores están obligados a pagar las cuotas y tarifas derivadas por la gestión integral de residuos que incluye la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos en los plazos y términos que establezca la ley de ingresos municipal correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
 #### SECCIÓN OCTAVA. POR SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -1409,7 +1409,7 @@ Tendrán carácter de productos los ingresos que se obtengan por la venta de bie
 
 Tendrán carácter de productos los ingresos que se obtengan de la venta de objetos recogidos por autoridades municipales.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO VII. POR ESTACIONAMIENTO DE VEHÍCULOS EN LA VÍA PÚBLICA EN AQUELLOS LUGARES DONDE EXISTEN APARATOS MARCADORES O MEDIDORES DEL TIEMPO
 
@@ -1497,6 +1497,8 @@ Artículo Primero.- La presente Ley entrará en vigor el 1 de enero de 2007, pos
 
 La elaboración de iniciativas de leyes de ingresos que presenten los ayuntamientos para el ejercicio fiscal de 2007, estarán de conformidad a lo dispuesto en la presente Ley.
 
+> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO Y DÉCIMO TERCERO DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2012 DEL MUNICIPIO DE GÓMEZ PALACIO, DURANGO, Y DE LA LEY DE INGRESOS PARA EL EJERCICIO FISCAL 2012 DEL MUNICIPIO DE LERDO, DURANGO, RESPECTIVAMENTE CON EFECTOS EXCLUSIVOS A DICHOS MUNICIPIOS, P.O. 22 DE DICIEMBRE DE 2011)</small>
+
 Artículo Segundo.- Se abroga la Ley de Hacienda de los Municipios para el Estado de Durango expedida mediante decreto No. 128, y publicada en el Periódico Oficial 19 bis, de fecha 6 de marzo de 1988, así como sus subsecuentes reformas; exceptuando lo contenido en el capítulo XVIII del Título III denominado por Servicio Público de Iluminación.
 
 Artículo Tercero.- Se derogan todas las disposiciones que contravengan lo previsto en la presente.
@@ -1537,7 +1539,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO LÓPEZ PESCADOR.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE DICIEMBRE DE 2006.
 
@@ -1564,3 +1566,25 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTÍCULO SEPTIMO.
+
+Esta Ley y sus anexos entrarán en vigor el día primero de enero de 2012 y su vigencia durará hasta el 31 de diciembre del mismo año, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se deroga, con efectos exclusivos al Municipio de Gómez Palacio, Dgo., el Artículo Segundo Transitorio del Decreto No. 237, de fecha 06 de junio de 2006, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 6, de fecha 20 de julio de 2006.
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+SÉPTIMO.- En los términos que establece el Código Fiscal Municipal, el Presidente y el Tesorero Municipal, ejercerán las facultades y competencias en materia de subsidios y consideraciones en materia tributaria.
+
+###### ARTÍCULO DÉCIMO TECERO.
+
+Se deroga, con efectos exclusivos al Municipio de Lerdo, Dgo., el Artículo Segundo Transitorio del Decreto No. 237, de fecha 06 de junio de 2006, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 6, de fecha 20 de julio de 2006.
