@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2007-05-15"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -146,9 +146,15 @@ VI. Evaluar la aplicación de la presente ley en los ámbitos público y privado
 
 VII. Coordinar los instrumentos de la Política en el Distrito Federal en Materia de Igualdad entre mujeres y hombres;
 
-VIII. Evaluar la participación equilibrada entre mujeres y hombres en los cargos de elección popular; y
+VIII. Evaluar la participación equilibrada entre mujeres y hombres en los cargos de elección popular; y (sic)
 
-IX. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2011)</small>
+
+IX. Formular un programa anual que tenga como objetivo la difusión trimestral a la ciudadanía sobre los derechos de las mujeres y la equidad de género en el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2011)</small>
+
+X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ## TÍTULO III
 
@@ -519,3 +525,11 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintidós días del mes de marzo del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. MARTIN CARLOS OLAVARRIETA MALDONADO, PRESIDENTE.- DIP. ANTONIO LIMA BARRIOS, SECRETARIO.- DIP. MIGUEL ÁNGEL ERRASTI ARANGO, SECRETARIO.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 Y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dos días del mes de mayo del año dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN PÚBLICA, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA. EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA LEÓN.- FIRMA.- LA SECRETARIA DE TURISMO MARÍA ALEJANDRA BARRALES MAGDALENO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 22 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
