@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-universidad-tecnologica-de-morelia-30
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-08"
-last_updated: "2003-05-08"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE MORELIA
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE MORELIA
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE MORELIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE MORELIA, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 2003.
 
@@ -404,3 +406,11 @@ EL SECRETARIO DE EDUCACIÓN.- EGBERTO BEDOLLA BECERRIL. (Firmado).
 LA SECRETARIA DE CONTRALORÍA Y DESARROLLO ADMINISTRATIVO.- ROSA HILDA ABASCAL RODRÍGUEZ. (Firmado).
 
 EL RECTOR DE LA UNIVERSIDAD TECNOLÓGICA.- FRANCISCO OCTAVIO APARICIO MENDOZA. (Firmado).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Universidad Tecnológica de Morelia, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 8 de mayo del año 2003, por lo que las disposiciones de carácter administrativo que se opongan al presente Reglamento no tendrán validez y efecto legal alguno.
