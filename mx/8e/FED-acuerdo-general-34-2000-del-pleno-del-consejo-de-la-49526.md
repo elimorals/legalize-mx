@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2000-del-pleno-del-consejo-de-la-49526"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-07-26"
-last_updated: "2006-03-09"
+last_updated: "2011-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49526&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-07-19"
 ---
 # ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PJF, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES]
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de julio de 2000.
 
@@ -99,9 +101,13 @@ De los libros obligatorios para los juzgados de distrito, de las columnas y apar
 
 De los Libros Obligatorios para los Juzgados de Distrito.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 6o.
 
-Libros obligatorios para juzgado mixto. Son libros de gobierno o control obligatorios para los juzgados de distrito mixtos, los siguientes:
+Libros obligatorios para Juzgado Mixto. Son libros de gobierno o control obligatorios para los juzgados de distrito mixtos, los siguientes:
 
 Libro uno: Registro de juicios de amparo;
 
@@ -109,9 +115,9 @@ Libro dos: Registro de causas penales;
 
 Libro tres: Registro de asuntos civiles y administrativos;
 
-Libro cuatro: Registro de exhortos, despachos y requisitorias (secciones penal, civil y administrativa);
+Libro cuatro: Registro de comunicaciones oficiales enviadas;
 
-Libro cinco: Registro de exhortos y despachos (sección de amparo);
+Libro cinco: Registro de comunicaciones oficiales recibidas;
 
 Libro seis: Registro de medidas precautorias (cateos, arraigos, autorizaciones para intervención de comunicaciones privadas y prohibición de abandonar una demarcación geográfica sin autorización);
 
@@ -127,17 +133,27 @@ Libro once: Control de armas de fuego;
 
 Libro doce: Control de narcóticos;
 
-Libro trece: Control de firmas de procesados en libertad provisional bajo caución.
+Libro trece: Control de firmas de procesados en libertad provisional bajo caución;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 15/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2006)</small>
+Libro Catorce: Control de audiencias de información a las partes sobre puntos del procedimiento;
 
-Libro Catorce: Control de audiencias de información a las partes sobre puntos del procedimiento.
+Libro quince: Registro de solicitudes relacionadas con la ejecución de la pena y reparación del daño;
+
+Libro dieciséis: Registro de asuntos en revisión; y
+
+Libro diecisiete: Control de firmas de sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 7o.
 
 Libros obligatorios para juzgados especializados. Los juzgados de distrito especializados en materia penal, que conozcan de amparo y procesos penales, deberán llevar todos los libros que se mencionan en el artículo anterior, con excepción del libro tres; cuando únicamente manejen procesos penales, utilizarán los mismos libros señalados, excepto los mencionados como libros uno, tres y cinco.
 
 Los juzgados de distrito especializados en las materias civil y administrativa, deberán llevar, únicamente los libros que en el artículo anterior se encuentran señalados como libros uno, tres, cuatro, cinco, ocho y nueve y, los especializados en materia laboral, sólo los identificados como libros uno, cinco, ocho y nueve, del artículo precedente.
+
+Los juzgados de distrito especializados en ejecución de penas, deberán llevar los libros señalados en el artículo anterior como cuatro, ocho, nueve, diez, once, doce, quince, dieciséis y diecisiete.
 
 ### CAPITULO II
 
@@ -1000,6 +1016,172 @@ Artículo 122 Sépter.- Observaciones. En esta columna deberá anotarse algún d
 (F. DE .E., D.O.F. 14 DE MARZO DE 2006)
 
 (VER TABLA DOCE BIS)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+LIBRO QUINCE DE JUZGADO
+
+Registro de solicitudes relacionadas con la ejecución de la pena y reparación del daño.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 122 Octies.
+
+Contenido del Libro. Este Libro constará de nueve columnas con los rubros: Expediente, Solicitante, Solicitud, Autoridad, Fecha de Recepción y del Acuerdo que le recayó, Fecha de audiencia, Fecha de resolución, Recurso y Observaciones, los cuales se utilizarán en la forma que se describe en los siguientes artículos.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 122 Nonies.
+
+Expediente. En esta columna deberá anotarse el tipo de solicitud de que se trate: SIPE, SM, SD, SE y RD, que corresponden, en su orden, a solicitudes de inicio de procedimiento de ejecución, modificación, duración y extinción de las penas, y al procedimiento para el cumplimiento de la reparación del daño, seguido del número que identifique al expediente en que se actúa. Cada tipo de expediente llevará su propia numeración consecutiva, que atenderá al orden estricto de su recepción.
+
+Las solicitudes de inicio del procedimiento de ejecución serán todas aquellas que versen sobre la observancia de la legalidad de la ejecución de las sanciones penales y la solución de las controversias entre la autoridad penitenciaria y el reo, así como la petición del control y vigilancia sobre el cumplimiento adecuado del régimen disciplinario en el centro de reclusión, en caso de que la legislación aplicable así lo establezca.
+
+Las solicitudes de modificación de las penas serán aquellas referentes al conocimiento y resolución, en su caso, en la vía jurisdiccional, de beneficios que deriven de la modificación a la ley, como la aplicación retroactiva de la ley en beneficio, la traslación del tipo penal u otros análogos.
+
+Las solicitudes relativas a la duración de las penas incluirán lo relativo a la aplicación del indulto, la amnistía, la compurga simultánea de penas, la libertad anticipada, la remisión parcial de la pena, el tratamiento preliberacional, la aplicación de la ley más favorable, la determinación de inimputabilidad, y otras semejantes que se vinculen con la medición del tiempo que deba transcurrir para tener por cumplida la pena.
+
+Las solicitudes referentes a la extinción de las penas comprenderán lo relativo a la declaratoria formal de extinción de la pena privativa de libertad, la condena condicional y la substitución de las penas.
+
+Finalmente, las solicitudes de reparación del daño serán las atinentes a las gestiones que inicie o promueva el ofendido y/o su representante, ante el Juzgado Especializado en Ejecución o bien ante el juez de primera instancia, para obtener el resarcimiento del daño ocasionado, en conformidad a los términos en que se dictó la sentencia de condena.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 122 Decies.
+
+Solicitante. En esta columna se asentará el nombre de la persona privada de su libertad que solicita la intervención judicial y, en su caso, por conducto de quién la solicita. En el caso de la reparación del daño, se asentará el nombre de la persona que la solicita. Si se acude a través de un representante se anotará también el nombre de éste y el carácter con el que ocurre.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Undecies.- Solicitud. Esta columna contendrá una breve reseña de la solicitud planteada o del cumplimiento pedido sobre la reparación del daño.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Duodecies.- Autoridad. En esta columna se asentará el nombre de la autoridad o autoridades a quienes, de ser el caso, competa dar cumplimiento a la resolución que el juez de Distrito emita.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Terdecies.- Fecha de Recepción y del Acuerdo que le recayó. En esta columna se asentará la fecha en que la promoción se recibe en el órgano jurisdiccional y la del acuerdo de inicio, anotando entre paréntesis la letra “A”, cuando se trate de admisión, “D” para desechamiento, “P” para prevención y “O” para otro. En este último supuesto se hará la aclaración respectiva en la columna de Observaciones.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Articulo 122 Quaterdecies.- Fecha de audiencia. En esta columna se asentará el día, mes y año de la audiencia pública que se haya fijado previo al dictado de la resolución respectiva.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Quindecies.- Resolución. En esta columna se anotará el sentido de la resolución emitida, asentando las expresiones “otorgada” o “negada”, “desechamiento”, “improcedencia” u otros, según sea el caso y la fecha de aquélla.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Sexdecies.- Recurso. Contendrá tres subrubros: Interposición y tipo, Fecha de remisión y Resolución, que se utilizarán de la siguiente forma:
+
+a) En el subrubro Interposición y tipo, se anotará el recurso que se haya hecho valer y el día, mes y año en que se haya interpuesto;
+
+b) En el subrubro Fecha de remisión, se anotará el día, el mes y el año en que se remita físicamente el escrito de expresión de agravios con el expediente debidamente integrado, o bien las constancias relativas al tribunal para la tramitación del recurso; y
+
+c) En el subrubro Resolución, habrán de asentarse, la fecha y el sentido de la resolución del recurso interpuesto.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Septdecies.- Observaciones. En esta columna deberá anotarse cualquier dato que se juzgue conveniente que, sin estar comprendido en los anteriores apartados, resulte necesario para un mejor control y conocimiento del asunto, entre otros, el incidente que en concreto se tramite, cuando se ordene la reaprehensión del sentenciado o bien cuando el expediente se remita físicamente al archivo del juzgado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+LIBRO DIECISEIS DE JUZGADO
+
+Registro de asuntos en revisión.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Octodecies.- Contenido del libro. Este libro constará de cinco apartados: Procedimiento de Revisión, Resolución impugnada, Amparo, Archivo y Observaciones, los cuales contendrán columnas con diversos rubros, conforme se indica en los artículos siguientes.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Nonodecies.- Procedimiento de Revisión. Este apartado se dividirá en nueve columnas con los rubros: Número de expediente, Recepción, Número de origen, Autoridad remitente, Delito, Nombre del sentenciado, Recurrente, Resolución recurrida y Fecha de vista, en las cuales se anotarán los siguientes datos:
+
+I. En la columna Número de expediente se anotarán con numeración progresiva y ascendente todos los recursos de revisión que se reciban en el juzgado, atendiendo rigurosamente a la fecha de su recepción;
+
+II. En la columna Recepción se anotará la fecha en que se reciba el recurso en la oficina de correspondencia del propio juzgado;
+
+III. En la columna Número de origen se anotará el número del expediente que corresponda al proceso administrativo de primera instancia dentro del cual se haya interpuesto el recurso;
+
+IV. En la columna Autoridad remitente se asentará la denominación de la autoridad que hubiese emitido la resolución recurrida;
+
+V. En la columna Delito se asentará el delito o delitos por los que se dictó sentencia al reo;
+
+VI. En la columna Nombre se anotarán el nombre o los nombres de los sentenciados, que se encuentren relacionados con la revisión, según sea el caso;
+
+VII. En la columna Recurrente se asentará la calidad que guarde en el proceso de naturaleza administrativa la parte que hubiese interpuesto el recurso, utilizando las expresiones: "sentenciado", "defensor particular" o "defensor de oficio", según sea el caso;
+
+VIII. En la columna Resolución recurrida se anotará el tipo de resolución que se haya impugnado a través del recurso mencionado, utilizando, enunciativamente, las expresiones "acuerdo", "omisión" o "deficiencia", según se trate, y
+
+IX. En la columna Fecha de vista, se asentará la fecha que el juzgado haya fijado para celebrar la audiencia de vista.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Vicies.- Sentencia de revisión. Este apartado se dividirá en dos columnas con los rubros: Fecha y Sentido, los cuales se utilizarán de la siguiente manera:
+
+I. En la columna Fecha se anotará precisamente la fecha en que se emita la resolución que resuelva o ponga fin al recurso intentado, y
+
+II. En la columna Sentido, se asentará el sentido de esa sentencia o resolución, utilizando a manera de ejemplo las expresiones "confirma", "modifica", "revoca", "desierto", “repone procedimiento”, “sobreseimiento”, “sin materia”, según sea el caso, etcétera.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Unvicies.- Archivo. En este apartado se anotará la fecha en la cual se remita físicamente a éste el toca respectivo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Duovicies.- Observaciones. En este apartado se podrán anotar todos los datos que sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+LIBRO DIECISIETE DE JUZGADO
+
+Control de firmas de sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Tervicies.- Contenido del libro. El control y vigilancia de los sentenciados que disfruten de algún beneficio o sustitutivo de la pena se llevará mediante un libro único para todo el juzgado, en el que se asentarán las firmas que impriman dichos sentenciados.
+
+Este libro constará de dos secciones: a) Indice y b) Control de firmas.
+
+a) En la sección correspondiente al Indice deberán anotarse por orden alfabético, los nombres de los sentenciados que disfruten de algún beneficio o del sustitutivo, seguidos de los números de fojas relativas a la sección de “control de firmas”;
+
+b) La sección Control de firmas constará de un apartado que contendrá consecutivamente y de manera vertical los rubros: Número de la causa, Nombre del sentenciado y Periodicidad con la que debe firmar y, de cuatro columnas con los subrubros: Fecha de la firma, Firma del sentenciado, Certificación y Observaciones, las que se utilizarán de la manera precisada en los siguientes artículos.
+
+Para lo anterior deberán destinarse, por lo menos, cuatro páginas por sentenciado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas se agoten y subsista la obligación para el sentenciado de presentarse al juzgado, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva tanto en la columna de observaciones, como en la sección del índice de nombres.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Quatervicies.- Número de la causa. En este rubro se señalará el número de la causa en la que se hubiese concedido al sentenciado algún beneficio o sustitutivo de la pena.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Quinvicies.- Nombre del sentenciado. En este rubro se anotará precisamente el nombre del sentenciado a quien se hubiese concedido el beneficio o el sustitutivo de la pena.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Sexvicies.- Periodicidad con la que deba firmar. En este rubro se asentará la periodicidad con la que el sentenciado deba firmar, anotando las expresiones: “quincenal”, “mensual”, “bimestral” o la que corresponda, según cada caso.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Septvicies.- Fecha de la firma. En la columna Fecha de la firma se anotará el día, el mes y el año en que el sentenciado que disfrute del beneficio o sustitutivo penal, comparezca al juzgado a realizar su presentación.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Octovicies.- Firma del sentenciado. En la columna Firma del sentenciado éste imprimirá su firma o bien la huella digital que asiente, en el caso en que no supiere firmar.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Nonovicies.- Certificación. En la columna Certificación, se imprimirá el nombre y la firma del funcionario investido de fe pública que certifique la comparecencia del sentenciado.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+
+Artículo 122 Tricies.- Observaciones. En la columna Observaciones se deberá anotar cuando se autorice al reo a firmar con diversa periodicidad de aquella con la que inició; cuando no se presente a firmar en la fecha en que le corresponda hacer sus presentaciones; cuando se tome alguna medida en su contra por ese motivo; o los datos relativos a la conclusión de la obligación de firmar en el libro respectivo y la fecha correspondiente y, además, en el caso en que se hayan tenido que habilitar páginas por insuficiencia de las destinadas inicialmente.
+
+También se podrán anotar los datos relativos al supuesto en que se conceda algún permiso al sentenciado y, todos aquellos que sin estar comprendidos en las columnas anteriores, resulten necesarios para un mejor control de las obligaciones de los sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
 
 ## TITULO TERCERO
 
@@ -2084,3 +2266,11 @@ D.O.F. 9 DE MARZO DE 2006.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 34/2000, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación de los libros de control que obligatoriamente deberán llevar los órganos jurisdiccionales del Poder Judicial de la Federación, así como su descripción e instructivos correspondientes.
