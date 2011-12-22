@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATAN
 
-LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATAN
+LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -1961,17 +1961,21 @@ Hacienda y la Secretaría son las dependencias responsables de la consolidación
 
 Hacienda dará a conocer a los Poderes Legislativo y Judicial, organismos autónomos, Dependencias y Entidades de quienes deba obtener información, a más tardar el día quince de enero de cada año, las instrucciones y formatos para obtener los datos necesarios para la integración de la Cuenta Pública del año anterior.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 174.
 
-Los Ejecutores de Gasto mencionados en el artículo precedente deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a través de Hacienda y la Secretaría, dentro de los 40 días hábiles siguientes al cierre del ejercicio.
+Los Ejecutores de Gasto mencionados en el artículo anterior, deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a través de Hacienda y la Secretaría, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 ###### Artículo 175.
 
 Las cuentas públicas de los ayuntamientos deberán contener, como mínimo, la información contable y presupuestaria a que se refiere el artículo 156. Asimismo, de considerarlo necesario, el CONAC determinará la información adicional que al respecto se requiera, en atención a las características de los mismos.
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 176.
 
-Los ayuntamientos deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, dentro de los 40 días hábiles siguientes al cierre del ejercicio fiscal correspondiente.
+Los ayuntamientos deberán presentar su Cuenta Pública a la Auditoría Superior del Estado, a más tardar el treinta y uno de marzo del año siguiente al cierre del ejercicio fiscal correspondiente.
 
 ###### Artículo 177.
 
@@ -2282,3 +2286,15 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 22 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los plazos para la presentación de las cuentas públicas, previstas en la Ley de Fiscalización de la Cuenta Pública y la Ley de Presupuesto y Contabilidad Gubernamental, ambas del Estado de Yucatán, se aplicarán a partir de la presentación de la cuenta pública del ejercicio fiscal correspondiente al año 2011.
