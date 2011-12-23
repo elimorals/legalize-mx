@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2011-06-02"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -49,7 +49,9 @@ La presente Ley es de orden público e interés social, tiene por objeto estable
 
 La Administración Pública será Centralizada y Descentralizada.
 
-Integran la administración pública centralizada: el Despacho del Gobernador del Estado de Tlaxcala, las unidades y departamentos administrativos que dependan directamente de éste, las Secretarías, las Coordinaciones, la Oficialía Mayor, la Procuraduría General de Justicia, así como los Organismos Públicos Desconcentrados, creados por el Ejecutivo mediante Decreto.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+Integran la administración pública centralizada: el Despacho del Gobernador del Estado de Tlaxcala, las unidades y departamentos administrativos que dependan directamente de éste, las Secretarías, las Coordinaciones, la Oficialía Mayor, la Consejería Jurídica, la Procuraduría General de Justicia, así como los organismos públicos desconcentrados, creados por el Ejecutivo mediante Decreto.
 
 Constituyen la administración pública descentralizada, los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, creados por el Ejecutivo mediante Decreto.
 
@@ -133,53 +135,45 @@ Corresponde al Gobernador del Estado de Tlaxcala nombrar y remover libremente a 
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 11.
 
 Para el estudio, planeación y despacho de los asuntos del orden administrativo del Estado, el Poder Ejecutivo distribuirá sus facultades entre las Dependencias siguientes:
 
-Secretaría de Gobierno.
+Secretaría de Gobierno
 
-Secretaría de Finanzas.
+Secretaría de Finanzas
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2001)</small>
+Secretaría de Desarrollo Económico
 
-Secretaría de Desarrollo Económico.
+Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda
 
-Secretaría de Obras Públicas, Desarrollo Urbano y Vivienda.
-
-Secretaría de Educación Pública.
+Secretaria de Educación Pública
 
 Secretaría de Salud
 
-Secretaría de Comunicaciones y Transportes.
+Secretaría de Comunicaciones y Transportes
 
-Secretaría de Fomento Agropecuario.
+Secretaría de Fomento Agropecuario
 
-Secretaría de Turismo.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+Secretaría de Turismo
 
 Secretaría de la Función Pública
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
 Secretaría de Seguridad Pública
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
-Secretaría de Desarrollo Social
 
 Procuraduría General de Justicia
 
 Oficialía Mayor de Gobierno
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+Consejería Jurídica del Ejecutivo
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 12.
 
-Los Secretarios, el Procurador General de Justicia, el Oficial Mayor de Gobierno, y los Coordinadores, tendrán igual rango y entre ellos no habrá preeminencia alguna; ejerciendo las funciones de su competencia en los términos de la presente Ley, y de sus respectivos reglamentos interiores.
+Los Secretarios, el Procurador General de Justicia, el Oficial Mayor del Gobierno, el Consejero Jurídico y los Coordinadores, tendrán, igual rango y entre ellos no habrá preeminencia alguna; ejerciendo las funciones de su competencia en los términos de la presente ley, y de sus respectivos reglamentos interiores.
 
 ###### ARTICULO 13.
 
@@ -208,6 +202,10 @@ Al frente de cada dependencia habrá un titular del ramo, quien para el despacho
 ###### ARTICULO 17.
 
 Corresponde originalmente a los titulares de las Dependencias el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo y accesibilidad de las tareas, obras y servicios públicos podrán delegar en los servidores públicos subalternos, cualesquiera de sus facultades excepto aquellas, que por disposición de la Ley o del Reglamento Interior respectivo, deban ser ejercidas precisamente por los propios Titulares.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+Igualmente les corresponde a los servidores públicos de la Administración Pública, tanto centralizada como de las entidades paraestatales, suscribir los documentos relativos al ejercicio de sus facultades y aquellos que les correspondan por suplencia; así como expedir, cuando proceda, copias certificadas de los documentos y de la información que obren en los archivos físicos o electrónicos de la unidad administrativa a su cargo.
 
 ###### ARTICULO 18.
 
@@ -991,27 +989,9 @@ XVII. Las demás que le señalen las leyes, reglamentos, convenios federales y e
 
 SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
-
 ###### ARTICULO 48.
 
-La Secretaría de Desarrollo Social es la entidad encargada de formular y coordinar la política social solidaria en el Estado, orientada hacia el bien común y ejecutarla en forma corresponsable con la sociedad; y le corresponde el despacho de los asuntos siguientes:
-
-I. Formular el Programa Sectorial de Desarrollo Social y los programas que emanen de él y la integración del Registro Estatal de Beneficiarios;
-
-II. Implementar y vigilar el cumplimiento de los planes y políticas para el desarrollo social de la Entidad;
-
-III. Participar, promover y ejecutar la celebración de Convenios de Coordinación y concertación con los tres órdenes de gobierno, con organizaciones de la sociedad civil y con los beneficiarios de los programas sociales y asistenciales;
-
-IV. Coordinar conjuntamente con la federación y municipios los programas y apoyos en las zonas de atención prioritaria;
-
-V. Informar públicamente sobre las zonas que sean declaradas de atención prioritaria;
-
-VI. Establecer un Programa de Investigación y estudio para el Desarrollo Social, en coordinación con las dependencias y organismos gubernamentales que contribuyan al desarrollo social del Estado;
-
-VII. Generar la interacción de los diversos sectores de la sociedad, para contribuir en la implementación de programas productivos y de financiamiento para el desarrollo social, y
-
-VIII. La demás que le confieran otras disposiciones legales.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2011)
 
 (REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)
 
@@ -1078,6 +1058,34 @@ XVIII. Controlar y vigilar los almacenes generales del Estado;
 XIX. Asegurar la conservación del patrimonio del Gobierno del Estado, y
 
 XX. Las demás funciones que le encomienden las leyes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+CONSEJERIA JURIDICA
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 51 BIS.- A la Consejería Jurídica del Ejecutivo le corresponde el despacho de los siguientes asuntos:
+
+I. Otorgar apoyo técnico jurídico al Gobernador del Estado, en todos aquellos asuntos que éste le encomiende;
+
+II. Conocer, revisar y emitir opinión o dictamen respecto de consultas, contratos, convenios, iniciativas de ley, reglamentos, decretos, acuerdos, resoluciones y en general cualquier acto o documento con efectos jurídicos, cuando el Gobernador del Estado lo encomiende;
+
+III. Revisar los reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico que expida el Titular del Poder Ejecutivo; a efecto de someterlos a consideración y, en su caso, obtener la firma correspondiente;
+
+IV. Revisar y someter a consideración y, en su caso, firma del Gobernador del Estado, todos los proyectos de iniciativas de leyes y decretos que se presenten al Congreso del Estado de Tlaxcala, y emitir opinión sobre éstos;
+
+V. Prestar asesoría jurídica en asuntos en que intervengan diversas dependencias de la Administración Pública Estatal, cuando el Gobernador del Estado lo acuerde;
+
+VI. Establecer y conducir la coordinación en materia jurídica de las unidades o áreas responsables de los asuntos jurídicos de las dependencias y entidades de la Administración Pública Estatal;
+
+VII. Participar, junto con las demás dependencias y entidades competentes, en la actualización y simplificación del orden jurídico estatal, cuando el titular del Poder Ejecutivo así lo encomiende;
+
+VIII. Representar al Gobernador del Estado en todo tipo de procedimientos administrativos, ministeriales o jurisdiccionales, tanto locales como federales, en la que el Gobierno del Estado sea parte, así como ante las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los medios de control constitucional local. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+
+IX. Solicitar a las dependencias y entidades de la Administración Pública Estatal la información y apoyo que requiera para el cumplimiento de sus funciones, y
+
+X. Las demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -1179,6 +1187,10 @@ El Gobernador podrá crear por acuerdo o decreto, órganos normativos, técnicos
 
 El titular del Ejecutivo Estatal, expedirá el reglamento y las bases operativas y orgánicas de los órganos desconcentrados, mismos que podrán constituirse con unidades normativas, Unidades Técnicas, Unidades Administrativas, Delegaciones de Servicios Múltiples y Delegaciones Administrativas.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, el titular del Ejecutivo Estatal podrá decretar la disolución, liquidación, extinción, fusión, enajenación, sectorización, o bien, la transferencia a los municipios, de los organismos a que se refiere el artículo 52 de la presente ley, dando cuenta al Poder Legislativo del uso que haga de esta facultad.
+
 (REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)
 
 ### CAPÍTULO SEXTO (SIC). DE LAS RELACIONES CON LOS OTROS PODERES LOCALES, CON LOS MUNICIPIOS Y CON EL GOBIERNO FEDERAL
@@ -1229,35 +1241,15 @@ El nombramiento y remoción del Presidente de la Junta, corresponde al Gobernado
 
 ### CAPITULO SEPTIMO. DE LAS ATRIBUCIONES DEL DESPACHO DEL TITULAR DEL EJECUTIVO ESTATAL
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 72.
 
-Para el trámite de acuerdos de los asuntos que corresponden al Gobernador, éste contará con una Secretaria Particular, una Secretaria Privada, una Secretaria Auxiliar y una Coordinación de Acuerdos.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+Para el trámite de acuerdos de los asuntos que corresponden al Gobernador, éste contará con una Secretaría Particular, y las coordinaciones o unidades administrativas que él mismo establezca en acuerdos, reglamentos o manuales de organización, y autorice el Presupuesto.
 
 ###### ARTICULO 73.
 
-La planeación, evaluación y seguimiento de los programas de desarrollo en la entidad, estarán a cargo de una coordinación de Planeación, Evaluación y Seguimiento de Programas, dependiente del Gobernador a la que corresponde el despacho de los siguientes asuntos:
-
-I. Coordinar las actividades de la planeación del desarrollo en el Estado;
-
-II. Establecer los lineamientos metodológicos para la realización de las actividades de planeación;
-
-III. Cuidar de los contenidos y ejecución de los programas públicos del orden Estatal o Federal que correspondan a las prioridades estatales de desarrollo;
-
-IV. Coordinar, previo acuerdo del Ejecutivo Estatal, los órganos colegiados establecidos en materia de planeación y programación estatal y vigilar el cumplimiento de sus acuerdos;
-
-V. Verificar en forma sistemática los resultados de los programas;
-
-VI. Comprobar el cumplimiento de las disposiciones, acuerdos y compromisos establecidos en los programas anuales y en el programa de desarrollo del Estado;
-
-VII. Conocer los avances en los programas de las entidades gubernamentales en el Estado;
-
-VIII. Opinar sobre las medidas para, mejorar la ejecución de los programas, y
-
-IX. Las demás que la confiera el Ejecutivo del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2011)
 
 T R A N S I T O R I O S
 
@@ -1354,3 +1346,21 @@ El presente Decreto entrará en vigor el día dieciocho de junio del dos mil onc
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando se mencione a la Secretaría de Desarrollo Social en otros ordenamientos jurídicos se entenderá que se hace referencia al Comité de Planeación para el Desarrollo del Estado de Tlaxcala, organismo público desconcentrado de la Secretaría de Finanzas, al cual se transfieren las funciones, recursos y programas de la Secretaría que se extingue mediante el presente Decreto, salvo que el titular del Poder Ejecutivo determine por Acuerdo o Decreto, que parte de los mismos sean transferidos a otra dependencia o entidad de la Administración Pública Estatal.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas del Gobierno del Estado, queda facultada para realizar las transferencias o resectorización presupuestaria y la adscripción de los recursos humanos que sean necesarios para la debida observancia de este Decreto, con la intervención que le corresponda a la Secretaría de la Función Pública y a la Oficialía Mayor de Gobierno, así como para realizar las adecuaciones a los ramos, programas de inversión y programas operativos que se requieran para el Presupuesto de Egresos del Ejercicio Fiscal en curso y subsecuentes, debiendo integrar en la cuenta pública correspondiente el informe sobre el uso que haga de esta facultad.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de la Función Pública nombrará, previo acuerdo del Gobernador del Estado, a los liquidadores de los organismos descentralizados, empresas de participación estatal mayoritaria o los fideicomisos a que se refiere el artículo 52 de la Ley Orgánica de la Administración Pública del Estado y con base en las reglas que al efecto dicte el Gobernador, de conformidad con lo previsto para este caso en la Ley de las Entidades Paraestatales del Estado de Tlaxcala y no se oponga al contenido de este Decreto.
