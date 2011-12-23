@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-12-02"
+last_updated: "2011-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1414,6 +1414,22 @@ Concepto de traición.- Obra a traición el que no solamente emplea la alevosía
 ###### Artículo 152.
 
 Homicidio o lesiones culposos.- Son punibles el homicidio y las lesiones causados culposamente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 152 Bis.
+
+Sin menoscabo de la responsabilidad civil que corresponda, no será punible el Homicidio o las Lesiones, cuando estas sean resultado directo de reacciones o complicaciones propias de tratamientos o procedimientos médicos, necesarios para mantener o recuperar la salud, o tratándose de cirugías para modificar la apariencia, necesarias o no para la salud, siempre que concurra lo siguiente:
+
+I.- Que exista evidencia que el médico explico el procedimiento o tratamiento al paciente, sus complicaciones o consecuencias posibles, el tiempo de recuperación y los cuidados y tratamientos que este deberá tener después de recibir el tratamiento o procedimiento médico y que cuente con el consentimiento expreso del paciente;
+
+II.- Que el médico cuente con título expedido por institución académica con validez oficial, cedula profesional debidamente registrada y constancia suficiente que lo acredite como especialista para realizar el procedimiento o técnica que practique;
+
+III.- Que el procedimiento se realice en lugar expresamente destinado para su práctica y que cuente con los permisos y autorizaciones de las autoridades competentes;
+
+IV.- Que exista un dictamen de la Comisión de Arbitraje Médico Estatal o Federal o la dependencia oficial que realice esa actividad cualquiera que sea su denominación, en el que se avale y valide el procedimiento, la técnica y los cuidados que se tuvieron durante el procedimiento médico y los cuidados y seguimiento subsecuentes, y
+
+V.- Que las lesiones o la muerte, no tengan como causa determinada la violación de un deber de cuidado que el o los médicos podían y debían observar según las circunstancia del caso.
 
 ###### Artículo 153.
 
@@ -4738,3 +4754,7 @@ P.O. 7 DE OCTUBRE DE 2011.
 P.O. 2 DE DICIEMBRE DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
