@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-70365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-09"
-last_updated: "2009-10-09"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70365&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-09-30"
 ---
 # REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
-REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
+REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 9 de octubre de 2009.
 
@@ -337,11 +337,13 @@ Para el eficaz y debido desempeño de sus funciones, la Secretaría General de A
 
 I. Subsecretaría General de Acuerdos;
 
-II. Coordinación de Jurisprudencia y Estadística Judicial;
+II. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 2011)
 
 III. Secretariado Técnico;
 
-IV. Dirección General de Seguimiento y Análisis de Asuntos Jurisdiccionales y Administrativos en Trámite en Materia Electoral;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+IV. Dirección General de Estadística e Información Jurisdiccional;
 
 V. Unidad de Vinculación con las Salas Regionales;
 
@@ -383,45 +385,13 @@ X. Informar permanentemente al Secretario General de Acuerdos, respecto del func
 
 XI. Las demás que le confieran las disposiciones aplicables y este Reglamento, así como las que le sean encomendadas por la Sala Superior, por la Presidencia del Tribunal Electoral o por el Secretario General de Acuerdos.
 
-SECCION 2a.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-Del Coordinador de Jurisprudencia y Estadística Judicial
+SECCION 2a.
 
 ###### ARTICULO 15.
 
-El Coordinador de Jurisprudencia y Estadística Judicial tendrá las atribuciones siguientes:
-
-I. Supervisar las actividades de las áreas a su cargo e informar permanentemente al Secretario General de Acuerdos respecto de su funcionamiento y del desahogo de los asuntos de su competencia;
-
-II. Fungir como secretario técnico en los comités que le correspondan;
-
-III. Coordinar la formulación de las propuestas de tesis y jurisprudencia de los asuntos competencia de la Sala Superior y someterlos a la consideración del Comité respectivo;
-
-IV. Recibir de las Salas Regionales las tesis y jurisprudencia que emitan, y tramitarlas en términos de los lineamientos que al efecto expida la Sala Superior;
-
-V. Compilar, sistematizar y publicar la jurisprudencia y tesis emitidas por las Salas del Tribunal Electoral;
-
-VI. Detectar oportunamente y enterar de inmediato al Secretario General de Acuerdos las posibles contradicciones en los criterios sustentados por las Salas;
-
-VII. Diseñar, implementar y supervisar la operación de los sistemas de información y documentación de los asuntos jurisdiccionales competencia del Tribunal Electoral;
-
-VIII. Desarrollar y difundir la información estadística de la actividad jurisdiccional;
-
-IX. Elaborar los estudios estadísticos de carácter técnico que coadyuven en la toma de decisiones y en la planeación de la actividad jurisdiccional;
-
-X. Coadyuvar con las diversas instancias gubernamentales para el cumplimiento por parte del Tribunal Electoral de las obligaciones establecidas en la Ley del Sistema Nacional de Información Estadística y Geográfica;
-
-XI. Definir, proponer, ejecutar y coordinar actividades dirigidas a fomentar el estudio y la investigación respecto de los criterios, tesis y jurisprudencia del Tribunal Electoral;
-
-XII. Coordinar el desahogo de las consultas sobre la actividad jurisdiccional de la Sala Superior y de las Salas Regionales;
-
-XIII. Diseñar, implementar y supervisar la operación de las fuentes sistematizadas de consulta interna y externa de los criterios, tesis y jurisprudencia emitidos con motivo de los medios de impugnación en materia electoral;
-
-XIV. Auxiliar al Secretario General de Acuerdos en la elaboración del proyecto de manual para la organización y funcionamiento de la Coordinación;
-
-XV. Informar permanentemente al Secretario General de Acuerdos, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y
-
-XVI. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Sala Superior, la Presidencia del Tribunal Electoral o el Secretario General de Acuerdos.
+(DEROGADO, D.O.F. 23 DE DICIEMBRE DE 2011)
 
 SECCION 3a.
 
@@ -449,27 +419,41 @@ VIII. Informar permanentemente al Secretario General de Acuerdos, respecto del f
 
 IX. Las demás que le encomienden la Sala Superior, la Presidencia del Tribunal Electoral o el Secretario General de Acuerdos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
 SECCION 4a.
 
-De la Dirección General de Seguimiento y Análisis de Asuntos Jurisdiccionales y Administrativos en Trámite en Materia Electoral
+De la Dirección General de Estadística e Información Jurisdiccional
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-El titular de la Dirección General de Seguimiento y Análisis de Asuntos Jurisdiccionales y Administrativos en Trámite en Materia Electoral, tendrá las atribuciones siguientes:
+El titular de la Dirección General de Estadística e Información Jurisdiccional, tendrá las atribuciones siguientes:
 
-I. Operar mecanismos de vinculación y coordinación con las instancias competentes del Poder Judicial de la Federación, Tribunal Federal de Justicia Fiscal y Administrativa, Fiscalía Especializada para la Atención de Delitos Electorales y Comisión Nacional de los Derechos Humanos, mediante los acuerdos y convenios que en su caso procedan, a fin de contar con información de los asuntos electorales en trámite para su identificación, investigación, análisis y sistematización;
+I. Supervisar las actividades de las áreas a su cargo e informar permanentemente al Secretario General de Acuerdos respecto de su funcionamiento y del desahogo de los asuntos de su competencia;
 
-II. Informar oportunamente al Secretario General de Acuerdos de los asuntos electorales que estén radicados en la Suprema Corte de Justicia, Tribunales Colegiados, Juzgados de Distrito o las demás autoridades a que se refiere el punto anterior, precisando las partes en el procedimiento, la materia de impugnación, los puntos controvertidos y las causales de improcedencia y/o sobreseimiento que, en su caso, se invoquen;
+II. Diseñar, implementar, administrar y supervisar la operación de los sistemas de información y documentación de los asuntos jurisdiccionales competencia del Tribunal Electoral;
 
-III. Analizar, sistematizar y clasificar las opiniones sustentadas por la Sala Superior del Tribunal Electoral, que se presenten ante la Suprema Corte de Justicia de la Nación, con motivo de las acciones de inconstitucionalidad contra las leyes electorales;
+III. Coordinar y supervisar el debido control y registro de los asuntos ingresados y desahogados por las Salas del Tribunal Electoral;
 
-IV. Informar, de manera oportuna y de conformidad con los lineamientos y mecanismos establecidos por el Secretario General de Acuerdos, a los Magistrados y al personal del Tribunal Electoral que así lo solicite, respecto de los asuntos de su competencia;
+IV. Llevar el registro de las sentencias relativas a la no aplicación de leyes sobre la materia electoral;
 
-V. Informar de manera oportuna a la Coordinación de Jurisprudencia y Estadística Judicial, una vez que se resuelvan ante los órganos del Poder Judicial de la Federación, de los asuntos cuya recopilación de criterios sea de su competencia;
+V. Establecer los estándares para la captura de los datos que provengan de los asuntos que conozcan las Salas y coordinar con las secretarías generales de acuerdos de las regionales los mecanismos para su validación;
 
-VI. Mantener actualizado, en el ámbito de su competencia, el sistema electrónico de consulta interna y externa, y
+VI. Desarrollar y difundir la información estadística de la actividad jurisdiccional;
 
-VII. Las demás que le encomienden la Sala Superior, la Presidencia del Tribunal Electoral o el Secretario General de Acuerdos.
+VII. Elaborar los estudios estadísticos de carácter técnico que coadyuven en la toma de decisiones y la planeación de la actividad jurisdiccional;
+
+VIII. Coadyuvar con las diversas instancias gubernamentales para el cumplimiento por parte del Tribunal Electoral de las obligaciones establecidas en la Ley del Sistema Nacional de Información Estadística y Geográfica;
+
+IX. Coordinar el desahogo de las consultas formuladas en materia estadística jurisdiccional;
+
+X. Atender y desahogar las solicitudes de acceso a la información pública que sean turnadas a la Secretaría General de Acuerdos;
+
+XI. Supervisar el funcionamiento y actualización del sistema electrónico de consulta estadística interna y externa, y
+
+XII. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Sala Superior, la Presidencia del Tribunal Electoral o el Secretario General de Acuerdos.
 
 SECCION 5a.
 
@@ -479,7 +463,9 @@ De la Unidad de Vinculación con las Salas Regionales
 
 El titular de la Unidad de Vinculación con Salas Regionales tendrá las atribuciones siguientes:
 
-I. Coadyuvar con el Secretario General de Acuerdos de la Sala Superior en el cumplimiento de las atribuciones que tiene encomendadas;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+I. Coadyuvar con el Secretario General de Acuerdos de la Sala Superior y el Director General de Estadística e Información Jurisdiccional en el cumplimiento de las atribuciones que tiene encomendadas;
 
 II. Llevar el control del registro de los asuntos ingresados y turnados en las Salas Regionales, contando con el apoyo de sus Secretarías Generales;
 
@@ -495,9 +481,13 @@ VII. Informar al Secretario y Subsecretario General de Acuerdos de la Sala Super
 
 VIII. Mantener actualizado, en el ámbito de su competencia, el sistema electrónico de consulta interna y externa;
 
-IX. Informar permanentemente al Secretario General de Acuerdos de la Sala Superior, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-X. Las demás que le encomienden la Sala Superior, la Presidencia del Tribunal Electoral o el Secretario General de Acuerdos.
+IX. Informar permanentemente al Director General de Estadística e Información Jurisdiccional, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia, y
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+X. Las demás que le encomienden la Sala Superior, la Presidencia del Tribunal Electoral, el Secretario General de Acuerdos o el Director de Estadística e Información Jurisdiccional.
 
 SECCION 6a.
 
@@ -785,27 +775,91 @@ XIX. Las demás que le confieran las disposiciones aplicables y las que le encom
 
 El Coordinador de Asuntos Jurídicos tendrá las atribuciones siguientes:
 
-I. Asesorar al Presidente del Tribunal Electoral, al Secretario Administrativo, así como a las diversas áreas del Tribunal en aquellos asuntos que se le encomienden;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+I. Asesorar a la Presidencia del Tribunal Electoral; emitir opiniones jurídicas, o en su caso dictámenes de validación jurídica a la Secretaría Administrativa, así como a las diversas unidades administrativas del Tribunal en aquellos asuntos que se le encomienden. En caso de que la unidad administrativa difiera de la opinión o el dictamen de validación jurídica, podrá solicitar su revisión al Presidente del Tribunal;
 
 II. Integrar los Comités y Comisiones que le instruya la Sala Superior y su Presidente;
 
-III. Elaborar o, en su caso, revisar los contratos y convenios que celebre el Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-IV. Revisar o, en su caso, elaborar los proyectos de reglamentos, acuerdos generales, lineamientos y manuales que le sean encomendados por el Presidente del Tribunal Electoral;
+III. Elaborar o, en su caso, validar los convenios y contratos que celebre el Tribunal Electoral, así como el seguimiento del cumplimiento de los mismos;
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+IV. Validar o, en su caso, elaborar los proyectos de reglamentos, acuerdos generales, lineamientos y manuales que le sean encomendados por el Presidente del Tribunal Electoral;
 
 V. Compilar y sistematizar electrónicamente los Acuerdos Generales, las circulares y demás disposiciones de observancia general que emitan el Presidente del Tribunal Electoral, la Comisión de Administración y el Secretario Administrativo y hacerlas del conocimiento de todos los funcionarios del Tribunal;
 
-VI. Coordinar los programas de actualización y sistematización de la normativa jurídico-administrativa interna;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-VII. Auxiliar al área de apoyo técnico que corresponda, para el registro de las obras que edite el Tribunal Electoral en materia de propiedad intelectual;
+VI. Proponer y coordinar los programas de actualización y sistematización de la normativa jurídico-administrativa interna;
 
-VIII. Representar los intereses del Tribunal Electoral conforme a los poderes que le otorgue el Presidente;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-IX. Elaborar y, en su caso, actualizar el proyecto de manual especifico de organización de la Coordinación, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes, y
+VII. Llevar a cabo el trámite del registro de las obras que edite el Tribunal Electoral en materia de propiedad intelectual;
 
-X. Las demás que le confieran las disposiciones aplicables y el Presidente del Tribunal Electoral.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO I. De los Presidentes de las Salas Regionales
+VIII. Representar legalmente los intereses del Tribunal Electoral conforme a los poderes que le otorgue el Presidente;
+
+IX. Elaborar y, en su caso, actualizar el proyecto de manual especifico de organización de la Coordinación, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes, y (sic)
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+X. Atender, en coordinación con las áreas respectivas, las observaciones que deriven de las auditorías realizadas por la Contraloría Interna del Tribunal Electoral de Poder Judicial de la Federación, así como de la Auditoria Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+XI. Atender los planteamientos jurídicos que la ciudadanía formule al Presidente, así como a las otras áreas del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+XII. Recibir las quejas y denuncias presentadas por las y los trabajadores de las empresas que tiene contratadas el Tribunal Electoral, sobre violaciones a sus derechos de seguridad social; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+XIII. Las demás que le confieran las disposiciones aplicables y el Presidente del Tribunal Electoral.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO V. Del Coordinador de Jurisprudencia, Seguimiento y Consulta
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 32 Bis.
+
+El Coordinador de Jurisprudencia, Seguimiento y Consulta tendrá las atribuciones siguientes:
+
+I. Coadyuvar con las ponencias de los Magistrados en la formulación de las propuestas de tesis y jurisprudencia de los asuntos competencia de la Sala Superior, para efectos de su aprobación;
+
+II. Recibir de las Salas Regionales las tesis y jurisprudencia que emitan, y tramitarlas en términos de los lineamientos que al efecto expida la Sala Superior;
+
+III. Compilar, sistematizar y publicar la jurisprudencia y tesis emitidas por las Salas del Tribunal Electoral;
+
+IV. Sistematizar la información para su integración al sistema de compilación y consulta de la jurisprudencia electoral del continente americano, bajo los criterios previstos por la Organización de Estados Americanos;
+
+V. Detectar oportunamente y enterar de inmediato al Presidente las posibles contradicciones en los criterios sustentados por las Salas;
+
+VI. Definir, proponer, ejecutar y coordinar actividades dirigidas a fomentar el estudio y la investigación respecto de los criterios, tesis y jurisprudencia del Tribunal Electoral;
+
+VII. Coordinar el desahogo de las consultas sobre la actividad jurisdiccional del Tribunal Electoral;
+
+VIII. Coordinar el desahogo de consultas respecto a los criterios interpretativos adoptados por la Suprema Corte de Justicia de la Nación, así como por órganos electorales y tribunales constitucionales de otros países, y organismos internacionales encargados de la protección de derechos humanos;
+
+IX. Diseñar, implementar y supervisar la operación de las fuentes sistematizadas de consulta interna y externa de los criterios, tesis y jurisprudencia emitidos con motivo de los medios de impugnación en materia electoral;
+
+X. Identificar, analizar, sistematizar y clasificar los asuntos electorales y los criterios emitidos, de otros órganos jurisdiccionales, la Fiscalía Especializada para Atención de Delitos Electorales y la Comisión de Derechos Humanos;
+
+XI. Coordinar que la información relativa al seguimiento y análisis de los asuntos y criterios de otros organismos jurisdiccionales y administrativos se encuentren a disposición del personal jurisdiccional a través de la página de intranet;
+
+XII. Elaborar y, en su caso, actualizar el proyecto del manual específico de organización y funcionamiento de la Coordinación, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes;
+
+XIII. Integrar los Comités y Comisiones que le instruya la Sala Superior y su Presidente;
+
+XIV. Informar permanentemente al Presidente respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia; y
+
+XV. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Sala Superior y su Presidente.
 
 ## TITULO CUARTO. De las Salas Regionales
 
@@ -843,7 +897,7 @@ Podrán resolverse sin citar a sesión pública las cuestiones incidentales, los
 
 En caso de ausencia temporal o definitiva de dos Magistrados de una misma Sala Regional, por causa de fuerza mayor o caso fortuito, y siempre que existieran asuntos de urgente resolución, y únicamente para ese fin, las ausencias serán suplidas por el Magistrado que determine la Sala Superior y por el Secretario General o, en su caso, por el Secretario de mayor antigüedad de la Sala Regional. En la Sala Regional de la que provenga el Magistrado comisionado, se procederá en los términos del artículo 194 de la Ley Orgánica.
 
-### CAPITULO II. De los Magistrados de las Salas Regionales
+### CAPITULO I. De los Presidentes de las Salas Regionales
 
 ###### ARTICULO 37.
 
@@ -875,7 +929,7 @@ XII. Vigilar, en el ámbito de su competencia, el cabal cumplimiento de los acue
 
 XIII. Las demás que les confieran las disposiciones aplicables y este Reglamento.
 
-### CAPITULO III. Del Secretario General de Acuerdos de las Salas Regionales
+### CAPITULO II. De los Magistrados de las Salas Regionales
 
 ###### ARTICULO 38.
 
@@ -895,7 +949,7 @@ VI. Participar en la integración de los Comités de Magistrados, y
 
 VII. Las demás que les confieran las disposiciones aplicables y este Reglamento.
 
-### CAPITULO IV. De los Secretarios de Estudio y Cuenta de las Salas Regionales
+### CAPITULO III. Del Secretario General de Acuerdos de las Salas Regionales
 
 ###### ARTICULO 39.
 
@@ -959,11 +1013,7 @@ IV. Archivo Jurisdiccional.
 
 Los titulares de las referidas áreas deberán reunir los requisitos que exige el artículo 215 de la Ley Orgánica, en tanto que sus facultades y atribuciones serán, en lo conducente y de acuerdo con las funciones de las Salas Regionales, las previstas en la Ley Orgánica y este Reglamento para los mismos funcionarios de la Sala Superior.
 
-### CAPITULO I. Del Presidente y el Secretario
-
-SECCION 1a.
-
-Del Presidente
+### CAPITULO IV. De los Secretarios de Estudio y Cuenta de las Salas Regionales
 
 ###### ARTICULO 42.
 
@@ -1061,11 +1111,11 @@ XI. Nombrar, a excepción de lo previsto en la fracción II del artículo 51 de 
 
 XII. Las demás que le confieran las disposiciones aplicables y este Reglamento.
 
-### CAPITULO II. De los Organos Auxiliares
+### CAPITULO I. Del Presidente y el Secretario
 
 SECCION 1a.
 
-Del Contralor Interno
+Del Presidente
 
 ###### ARTICULO 48.
 
@@ -1159,7 +1209,11 @@ XII. Integrar los Comités y Comisiones que le instruya la Sala Superior y su Pr
 
 XIII. Las demás que expresamente le asigne el Presidente y el Secretario de la Comisión de Administración.
 
-### CAPITULO III. De los Comités
+### CAPITULO II. De los Organos Auxiliares
+
+SECCION 1a.
+
+Del Contralor Interno
 
 ###### ARTICULO 53.
 
@@ -1175,17 +1229,23 @@ El Contralor Interno tendrá las atribuciones siguientes:
 
 I. Vigilar el cumplimiento de las normas de control establecidas por la Comisión de Administración;
 
-II. Verificar la adecuada integración y ejercicio del presupuesto de egresos del Tribunal Electoral, así como el cumplimiento de las metas y actividades previstas en los programas, subprogramas y proyectos aprobados;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
-III. Comprobar, que las áreas administrativas del Tribunal Electoral den cabal cumplimiento a las obligaciones derivadas de las disposiciones contenidas en la normativa aplicable, con relación al ejercicio de los recursos presupuestales asignados a su operación;
+II. Verificar el adecuado ejercicio del presupuesto de egresos del Tribunal Electoral, así como el cumplimiento de las metas y actividades previstas en los programas, subprogramas y proyectos aprobados;
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+III. Evaluar el cumplimiento por parte de las áreas administrativas del Tribunal Electoral de las obligaciones derivadas de las disposiciones contenidas en la normativa aplicable, con relación al ejercicio de los recursos presupuestales asignados a su operación;
 
 IV. Proponer el Programa Anual de Control y Auditoría a la Comisión de Administración y llevar a cabo una vez aprobado éste, las auditorías contables, operacionales, de resultados, de desempeño, por procesos y especiales, a las unidades administrativas del Tribunal Electoral;
 
 V. Formular, con base en las auditorías y revisiones de control que realice, las observaciones y recomendaciones necesarias, y verificar su cumplimiento en las diferentes áreas administrativas del Tribunal Electoral que sean auditadas;
 
-VI. Coadyuvar con las áreas administrativas del Tribunal Electoral en la integración del sistema de control y evaluación institucional, contribuir a la consecución y su debido funcionamiento, proponer las normas y lineamientos con un enfoque preventivo, así como analizar y mejorar los controles que al efecto se requieran;
+VI. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 2011)
 
-VII. Verificar, evaluar y proponer las acciones que coadyuven a promover un mejor control interno para la mejora administrativa del Tribunal Electoral y alcanzar los logros propios de la simplificación administrativa y transparencia;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+VII. Verificar, evaluar y proponer en coordinación con las unidades administrativas las acciones que promuevan la mejora de la administración del Tribunal Electoral;
 
 VIII. Emitir y someter a la Comisión de Administración el dictamen y la resolución, con motivo de las quejas e inconformidades que presenten los particulares relacionadas con los acuerdos, convenios o contratos relativos a las adquisiciones de bienes y servicios, y obra pública;
 
@@ -1195,7 +1255,9 @@ X. Instruir el seguimiento necesario a los procedimientos de ejecución en los q
 
 XI. Mantener actualizado el registro de los servidores públicos sancionados adscritos al Tribunal Electoral;
 
-XII. Coadyuvar con la Comisión de Administración y la Sala Superior en el registro, seguimiento y presentación de la declaración de situación patrimonial de los servidores públicos del Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+XII. Llevar el registro, seguimiento y presentación de la declaración de situación patrimonial de los servidores públicos del Tribunal Electoral;
 
 XIII. Participar en los actos de entrega-recepción de los servidores públicos de las Salas del Tribunal Electoral;
 
@@ -1205,7 +1267,9 @@ XV. Las ausencias del Contralor Interno, serán suplidas por el titular de la Je
 
 XVI. Elaborar y, en su caso, actualizar el proyecto del manual específico de organización de la Contraloría, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes, y
 
-XVII. Las demás que le confieran las disposiciones legales y administrativas y las que le encomienden en sus respectivos ámbitos de competencia, la Sala Superior, la Comisión de Administración y el Presidente del Tribunal Electoral.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
+
+XVII. Las demás que le confieran las disposiciones legales y administrativas y las que le encomiende la Comisión de Administración y el Presidente del Tribunal.
 
 SECCION 2a.
 
@@ -1293,7 +1357,7 @@ XI. Expedir las copias certificadas de los documentos que les soliciten y que es
 
 XII. Las demás que le confieran las disposiciones aplicables y este Reglamento, así como las que le encomiende el Presidente de la Sala Regional.
 
-### CAPITULO I. De la Coordinación de Recursos Humanos y Enlace Administrativo
+### CAPITULO III. De los Comités
 
 ###### ARTICULO 61.
 
@@ -1377,7 +1441,7 @@ c) Dirección General de Atención, Enlace y Logística;
 
 XXVIII. Las demás que le confieran las disposiciones aplicables, este Reglamento, el Magistrado Presidente y la Comisión de Administración.
 
-### CAPITULO II. Coordinación Financiera
+### CAPITULO I. De la Coordinación de Recursos Humanos y Enlace Administrativo
 
 ###### ARTICULO 63.
 
@@ -1447,7 +1511,7 @@ IV. Las demás que establezca la Comisión de Administración para el adecuado d
 
 Las atribuciones de cada una de estas áreas de apoyo se establecerán en los manuales de organización específicos que apruebe la Comisión de Administración.
 
-### CAPITULO III. Coordinación de Adquisiciones, Servicios y Obra Pública
+### CAPITULO II. Coordinación Financiera
 
 ###### ARTICULO 65.
 
@@ -1519,7 +1583,7 @@ IV. Las demás que establezca la Comisión de Administración para el adecuado d
 
 Las atribuciones de cada una de estas áreas de apoyo se establecerán en los manuales de organización específicos que apruebe la Comisión de Administración.
 
-### CAPITULO IV. De las Areas de Apoyo de la Secretaría Administrativa
+### CAPITULO III. Coordinación de Adquisiciones, Servicios y Obra Pública
 
 ###### ARTICULO 67.
 
@@ -1577,7 +1641,7 @@ V. Las demás que establezca la Comisión de Administración para el adecuado de
 
 Las atribuciones de cada una de estas áreas de apoyo se establecerán en los manuales de organización específicos que apruebe la Comisión de Administración.
 
-### CAPITULO I. De las Reglas de Turno
+### CAPITULO IV. De las Areas de Apoyo de la Secretaría Administrativa
 
 ###### ARTICULO 69.
 
@@ -1709,7 +1773,7 @@ III. Desahogar requerimientos, cuando consistan únicamente en la presentación 
 
 Los expedientes de los medios de impugnación podrán ser consultados por las personas autorizadas para tal efecto, siempre que ello no obstaculice su pronta y expedita sustanciación y resolución; asimismo, podrán solicitar copias simples o certificadas a su costa, quienes tengan reconocida su calidad de partes, las que serán expedidas cuando lo permitan las labores del Tribunal Electoral.
 
-### CAPITULO II. Del Reencauzamiento
+### CAPITULO I. De las Reglas de Turno
 
 ###### ARTICULO 77.
 
@@ -1741,13 +1805,13 @@ XII. En caso de impedimentos se seguirán en principio las reglas ordinarias del
 
 XIII. Los turnos podrán ser modificados en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, conforme con las reglas que dicte la Sala Superior mediante acuerdo general.
 
-### CAPITULO III. De los Requerimientos
+### CAPITULO II. Del Reencauzamiento
 
 ###### ARTICULO 78.
 
 Cuando en las demandas de los medios de impugnación se advierta que el actor interpone un medio de impugnación distinto al que expresamente manifiesta, por error en la elección en la vía legalmente procedente, las Salas del Tribunal Electoral deberán dar al escrito respectivo el trámite correspondiente al medio de impugnación procedente.
 
-### CAPITULO IV. De la Improcedencia y del Sobreseimiento
+### CAPITULO III. De los Requerimientos
 
 ###### ARTICULO 79.
 
@@ -1797,7 +1861,7 @@ Para lograr el oportuno cumplimiento de sus requerimientos, la Sala del Tribunal
 
 En la notificación de requerimientos, además de los medios ordinarios, también podrá utilizarse fax o correo electrónico, según sea necesario para la eficacia del acuerdo a notificar.
 
-### CAPITULO I. De la Acumulación, de la Conexidad de la Causa y de la Escisión
+### CAPITULO IV. De la Improcedencia y del Sobreseimiento
 
 ###### ARTICULO 82.
 
@@ -1869,7 +1933,7 @@ c) En el caso de que no se hayan recibido las copias certificadas a que se refie
 
 ## TITULO SEGUNDO. De la Sustanciación y de la Resolución de los Medios de Impugnación en Materia Electoral
 
-### CAPITULO II. De la Facultad de Atracción y de Delegación
+### CAPITULO I. De la Acumulación, de la Conexidad de la Causa y de la Escisión
 
 ###### ARTICULO 86.
 
@@ -1903,7 +1967,7 @@ El Magistrado que se encuentre sustanciando un expediente, podrá proponer a la 
 
 En casos urgentes, previo al turno del expediente escindido al Magistrado que corresponda, el Presidente de la Sala podrá dictar las medidas necesarias para que se inicie o se concluya el trámite del medio de impugnación respectivo.
 
-### CAPITULO III. De los Incidentes
+### CAPITULO II. De la Facultad de Atracción y de Delegación
 
 ###### ARTICULO 92.
 
@@ -1927,11 +1991,7 @@ La Coordinación de Jurisprudencia y Estadística Judicial deberá integrar al s
 
 En los términos del artículo 189, fracción XVII, de la Ley Orgánica, la Sala Superior podrá delegar a las Salas Regionales para su resolución, aquellos asuntos de su competencia en los que hubiere dictado jurisprudencia, siempre que ello no provoque una demora en los asuntos que implique la consecuente irreparabilidad de la violación reclamada, de lo contrario, deberá resolverlos.
 
-### CAPITULO IV. De las Sentencias
-
-SECCION 1a.
-
-De la Aclaración de Sentencias
+### CAPITULO III. De los Incidentes
 
 ###### ARTICULO 97.
 
@@ -1945,7 +2005,11 @@ III. En el ofrecimiento, admisión y desahogo de pruebas, atendiendo a la natura
 
 IV. Las sentencias interlocutorias serán definitivas e inatacables.
 
-### CAPITULO V. De las Notificaciones
+### CAPITULO IV. De las Sentencias
+
+SECCION 1a.
+
+De la Aclaración de Sentencias
 
 ###### ARTICULO 98.
 
@@ -1991,7 +2055,7 @@ V. Agotada la instrucción, el Magistrado propondrá a la Sala el proyecto de re
 
 VI. Cuando el incidente de incumplimiento resulte fundado, la Sala otorgará al órgano partidista o autoridad contumaz un plazo razonable para que cumpla con la sentencia, y establecerá las medidas que considere más adecuadas para lograrlo, bajo apercibimiento que, de no hacerlo, se le aplicará alguno de los medios de apremio a que se refiere el artículo 32 de la Ley General.
 
-### CAPITULO VI. De los Medios de Apremio y de las Correcciones Disciplinarias
+### CAPITULO V. De las Notificaciones
 
 ###### ARTICULO 102.
 
@@ -2041,7 +2105,7 @@ Las notificaciones practicadas por correo electrónico, surtirán efectos a part
 
 Para los efectos de las notificaciones electrónicas previstas en la Ley General y el presente artículo, la Sala Superior emitirá los acuerdos y lineamientos que regulen la expedición, uso y vigencia de los certificados de firma electrónica avanzada, así como el empleo de la cuenta de correo electrónico proporcionada por el Tribunal Electoral, con los cuales se garantice la autenticidad de los usuarios del sistema y la integridad del contenido de las notificaciones.
 
-### CAPITULO VII. Del Exhorto
+### CAPITULO VI. De los Medios de Apremio y de las Correcciones Disciplinarias
 
 ###### ARTICULO 111.
 
@@ -2087,7 +2151,7 @@ El responsable podrá solicitar, dentro de las veinticuatro horas siguientes, au
 
 Las multas que fije el Tribunal Electoral se harán efectivas ante la Tesorería de la Federación en un plazo improrrogable de quince días contados a partir de la notificación que reciba la persona sancionada, misma que deberá informar del debido cumplimiento, para efectos de ordenar archivar el asunto correspondiente.
 
-### CAPITULO I. De la Contradicción y de la Sistematización
+### CAPITULO VII. Del Exhorto
 
 ###### ARTICULO 117.
 
@@ -2161,7 +2225,7 @@ La sesión en la que se entregue la constancia de Presidente Electo de los Estad
 
 La jurisprudencia por reiteración se integra con las tesis que contienen el mismo criterio de aplicación, interpretación o integración de una norma de igual o similar contenido, aunque provengan éstas de distintas leyes, federales o locales.
 
-### CAPITULO II. De las Reglas de Publicación
+### CAPITULO I. De la Contradicción y de la Sistematización
 
 ###### ARTICULO 128.
 
@@ -2209,13 +2273,13 @@ El criterio que prevalezca a la contradicción planteada será obligatorio a par
 
 Para la sistematización de las tesis y jurisprudencias que establezcan las Salas del Tribunal Electoral deberá estarse a lo ordenado en los Acuerdos que emita la Sala Superior para tales efectos.
 
-### CAPITULO III. De la Interrupción de la Obligatoriedad
+### CAPITULO II. De las Reglas de Publicación
 
 ###### ARTICULO 133.
 
 Para la publicación de las tesis y jurisprudencias que establezcan las Salas del Tribunal Electoral deberá estarse a lo ordenado en los Acuerdos que emita la Sala Superior para tales efectos.
 
-### CAPITULO I. De las Controversias entre el Tribunal Electoral y sus Servidores
+### CAPITULO III. De la Interrupción de la Obligatoriedad
 
 ###### ARTICULO 134.
 
@@ -2223,7 +2287,7 @@ La interrupción de la obligatoriedad de las jurisprudencias deberá hacerse del
 
 ## TITULO QUINTO. De las Controversias entre el Tribunal Electoral y sus Servidores y entre el Instituto y sus Servidores
 
-### CAPITULO II. De los Juicios para Dirimir los Conflictos o Diferencias Laborales de los Servidores del Instituto
+### CAPITULO I. De las Controversias entre el Tribunal Electoral y sus Servidores
 
 ###### ARTICULO 135.
 
@@ -2265,7 +2329,7 @@ V. Rendir un informe anual al Presidente del Tribunal Electoral o al Presidente 
 
 VI. Las demás que le confieran las disposiciones aplicables y este Reglamento.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De los Juicios para Dirimir los Conflictos o Diferencias Laborales de los Servidores del Instituto
 
 ###### ARTICULO 140.
 
@@ -2351,7 +2415,7 @@ El personal que contravenga estas disposiciones será sujeto a sanción conforme
 
 ## TITULO SEPTIMO. Del Recurso de Apelación Administrativa
 
-### CAPITULO II. De las Partes
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 151.
 
@@ -2361,7 +2425,7 @@ Los servidores del Tribunal Electoral podrán impugnar mediante el recurso de ap
 
 El recurso de apelación administrativa se sustanciará y resolverá con arreglo a lo previsto en este Título. A falta de disposición expresa, se estará a lo dispuesto por el Código Federal de Procedimientos Civiles.
 
-### CAPITULO III. De las Notificaciones y de los Plazos
+### CAPITULO II. De las Partes
 
 ###### ARTICULO 153.
 
@@ -2371,7 +2435,7 @@ I. El actor, quien es el servidor público del Tribunal Electoral que haya sido 
 
 II. La autoridad responsable.
 
-### CAPITULO IV. De los Impedimentos
+### CAPITULO III. De las Notificaciones y de los Plazos
 
 ###### ARTICULO 154.
 
@@ -2391,7 +2455,7 @@ Las notificaciones personales surtirán sus efectos el mismo día en que se prac
 
 El plazo para interponer el recurso en contra de los actos o resoluciones por las que se impongan sanciones administrativas, será de diez días hábiles contados a partir del día siguiente al en que surta efectos la notificación de la resolución correspondiente.
 
-### CAPITULO V. De la Demanda e Informe de la Autoridad Responsable
+### CAPITULO IV. De los Impedimentos
 
 ###### ARTICULO 157.
 
@@ -2401,7 +2465,7 @@ En caso de que se presente algún impedimento, el Magistrado Instructor deberá 
 
 Los impedimentos y excusas de los Magistrados serán atendidos conforme lo dispone la Ley Orgánica.
 
-### CAPITULO VI. De las Pruebas
+### CAPITULO V. De la Demanda e Informe de la Autoridad Responsable
 
 ###### ARTICULO 159.
 
@@ -2427,7 +2491,7 @@ La autoridad responsable en su informe, se referirá a cada uno de los puntos co
 
 Si la autoridad responsable no rindiera el informe dentro del plazo señalado en el artículo anterior, el Magistrado Instructor declarará la preclusión correspondiente y tendrá por cierto el acto reclamado, salvo prueba en contrario.
 
-### CAPITULO VII. De la Audiencia
+### CAPITULO VI. De las Pruebas
 
 ###### ARTICULO 163.
 
@@ -2437,13 +2501,13 @@ En el escrito de demanda y en el informe podrán ofrecerse, solamente, pruebas s
 
 El Magistrado Instructor podrá recabar de oficio y desahogar las pruebas que estime conducentes para la resolución del asunto, notificando oportunamente a las partes a fin de que puedan intervenir, si así conviene a sus intereses.
 
-### CAPITULO VIII. De las Resoluciones
+### CAPITULO VII. De la Audiencia
 
 ###### ARTICULO 165.
 
 Cuando por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarlas ante las partes, se citará a las mismas para celebrar audiencia. En este caso, la audiencia se llevará a cabo con o sin su asistencia y en la fecha que al efecto se señale. El Magistrado acordará lo conducente.
 
-### CAPITULO IX. De la Regularización del Procedimiento
+### CAPITULO VIII. De las Resoluciones
 
 ###### ARTICULO 166.
 
@@ -2459,13 +2523,15 @@ La Sala Superior dictará las medidas necesarias para garantizar, cuando así pr
 
 La Sala Superior resolverá en el término de treinta días hábiles, contados a partir del cierre de instrucción.
 
-### CAPITULO UNICO. Del Procedimiento de Reforma
+### CAPITULO IX. De la Regularización del Procedimiento
 
 ###### ARTICULO 169.
 
 La Sala Superior podrá ordenar de oficio, que se subsane toda omisión o defecto que notare en la sustanciación del recurso.
 
 ## TITULO OCTAVO. De las Reformas al Reglamento
+
+### CAPITULO UNICO. Del Procedimiento de Reforma
 
 ###### ARTICULO 170.
 
@@ -2508,3 +2574,13 @@ La Magistrada Presidenta, María del Carmen Alanis Figueroa.- Rúbrica.- Los Mag
 EL SUSCRITO, MARCO ANTONIO ZAVALA ARREDONDO, SECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, CERTIFICA Que el presente documento, en sesenta y dos folios, debidamente cotejados y sellados, corresponden al original del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, aprobado por esta Sala Superior en sesión de treinta de septiembre del año en curso.
 
 Lo que certifico en ejercicio de las facultades previstas en el artículo 201, fracción X, de la Ley Orgánica del Poder Judicial de la Federación y en cumplimiento a las instrucciones de la Magistrada Presidenta María del Carmen Alanis Figueroa.- Doy Fe.- México, Distrito Federal, a dos de octubre de dos mil nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 2011.
+
+PRIMERO. Las presentes reformas entrarán en vigor partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Una vez aprobadas las presentes reformas, se deberá actualizar la normativa interna al texto del Reglamento modificado.
+
+TERCERO. Publíquese la presente reforma en el en el (sic) Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral, así como en el Semanario Judicial de la Federación y su Gaceta.
