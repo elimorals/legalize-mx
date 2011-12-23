@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2010-10-15"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1995,11 +1995,21 @@ Querella por poder.- La querella formulada en representación de personas físic
 
 ### CAPITULO I. DE LAS ACTUACIONES MINISTERIALES
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 231.
 
-Medidas a Tomar Durante la Averiguación Previa.- Inmediatamente que el Ministerio Público tenga conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas u ofendidos; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
+MEDIDAS A TOMAR DURANTE LA AVERIGUACIÓN PREVIA. Inmediatamente que el Ministerio Público tenga conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, ofendidos o testigos. Tratándose de la comisión de conductas típicas que se ejecuten a través de la violencia física o moral, o que pudieran poner en riesgo la integridad física y emocional de las víctimas, ofendidos o testigos, el Ministerio Público podrá imponer bajo su estricta responsabilidad, las siguientes medidas:
+
+a) Ordenar al activo la separación inmediata del domicilio de la víctima, ofendido o testigo y su prohibición de reincorporarse al mismo, y
+
+b) Prohibir al agresor acercarse a la víctima, ofendido o testigo.
+
+El Ministerio Público deberá dictar medidas tendientes a impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
+
+El agente del Ministerio Público al que le sean solicitadas estas medidas y no las dicte de manera inmediata, poniendo con esto en riesgo la seguridad, tranquilidad e integridad de la víctima o el ofendido, será responsable por omisión, debiéndosele imponer las sanciones previstas en los artículos 43 y 44 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California.
+
+Las medidas cautelares aludidas en este precepto son exclusivamente encuadradas para el delito de la Violencia Familiar como lo menciona el capítulo VII del Código Penal para el Estado de Baja California publicado en el Periódico Oficial No. 23 de fecha 20 de agosto de 1989.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
 
@@ -3844,3 +3854,7 @@ P.O. 15 DE OCTUBRE DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
 SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial de Estado de Baja California.
