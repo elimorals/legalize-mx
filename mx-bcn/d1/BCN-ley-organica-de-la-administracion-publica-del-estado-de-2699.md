@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2011-07-11"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -201,13 +201,13 @@ XIX.- Secretaría de Pesca y Acuacultura.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
 ### CAPITULO I
 
 DE LA SECRETARIA GENERAL DE GOBIERNO, OFICIALIA MAYOR DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA, SECRETARIAS Y DIRECCIONES DEL RAMO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 18.
 
@@ -353,7 +353,7 @@ XXXIII.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 DE LA COMPETENCIA DE LA OFICIALIA MAYOR DE GOBIERNO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2010)</small>
 
 ###### ARTÍCULO 20.
 
@@ -441,7 +441,7 @@ IX.- Imponer al personal de la Procuraduría y Agentes de Ministerio Público y 
 
 X.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 1998)</small>
 
 ### CAPITULO V
 
@@ -513,7 +513,7 @@ XXVI.- Ejercer las atribuciones derivadas de los Convenios de Colaboración Admi
 
 XXVII.- Las demás que determinen expresamente las leyes y reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 1998)</small>
 
 ### CAPITULO VI
 
@@ -585,7 +585,7 @@ XVI.- Certificar, autorizar y dar fe de las actuaciones administrativas, que se 
 
 XVII.- Las demás que le encomienden expresamente las leyes, reglamentos y demás ordenamientos de observancia general.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ### CAPITULO VII
 
@@ -639,7 +639,7 @@ XX.- Los demás que determinen las leyes y reglamentos.
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 5 DE JUNIO DE 1998)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2003)</small>
 
 ### CAPITULO VIII
 
@@ -763,7 +763,7 @@ Il.- Promover la explotación, reproducción, mejoramiento, fomento y protecció
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-IIl.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados;
+III.- Proyectar y coordinar los programas de fomento, mejoramiento, protección y explotación de los terrenos agrícolas, pastizales naturales y cultivados;
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -779,11 +779,11 @@ VI.- Impulsar y participar en los Programas de Investigación y Experimentación
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VIl.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas y avícolas;
+VII.- Coordinar y llevar a cabo campañas para la erradicación de plagas y enfermedades que afecten a las especies agrícolas, ganaderas y avícolas;
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
-VIlI.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios en el Estado;
+VIII.- Efectuar actividades de supervisión, control, regulación y sanción de la movilización de los productos y subproductos agropecuarios en el Estado;
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -861,7 +861,7 @@ VI.- Otorgar becas y tramitar subsidios para fines educativos, así como promove
 
 VII.- Expedir constancias y certificados de estudio; otorgar diplomas, títulos y grados académicos, así como revalidar y establecer equivalencias de estudios;
 
-VIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, P.O. 31 DE MARZO DE 1989)
+VIII.- (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA, P.O. 31 DE MARZO DE 1989)
 
 IX.- Fomentar, difundir y coordinar la enseñanza y práctica de los deportes y la recreación, así como promover la celebración de actividades deportivas y la participación de eventos regionales, nacionales y en el extranjero;
 
@@ -871,7 +871,7 @@ XI.- Registrar y controlar el ejercicio profesional en el Estado, así como ausp
 
 XII.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
-XlII.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
+XIII.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
 XIV.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
@@ -931,7 +931,7 @@ DE LA COMPETENCIA DE LA DIRECCION GENERAL DE INFORMATICA.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2001)</small>
 
 ### CAPITULO XV
 
@@ -969,7 +969,13 @@ XII.- Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos
 
 XIII.- Coordinar la integración y establecimiento de las Juntas de Conciliación y/o Arbitraje y el Tribunal de Arbitraje, así como vigilar su funcionamiento;
 
-XIV.- Las demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XIV.- Organizar y operar el Sistema Estatal de Protección al Empleo así como el Seguro de Desempleo, en los términos de la Ley correspondiente;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XV.- Las demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XVI
 
@@ -1003,7 +1009,7 @@ DE LA COMPETENCIA DE LA DIRECCION DE RELACIONES PUBLICAS.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XVIII
 
@@ -1013,7 +1019,7 @@ DE LA COMPETENCIA DE LA DIRECCION DE COMUNICACION SOCIAL.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO XIX
 
@@ -1125,19 +1131,19 @@ XXIX.- Operar y administrar el funcionamiento y los servicios del Centro de Cont
 
 XXX.- Operar y administrar los centros de internamiento para adolescentes en el Estado que determinen las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXXI.- Ejecutar las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
-> <small>(N. DE E. PARA LA APLICACION DE ESTA FRACCION, VEASE TRANSITORIO TERCERO DEL DECRETO NUMERO 437 QUE REFORMA A ESTE ORDENAMIENTO)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XXXII.- Coordinar, vigilar y, en su caso, ejecutar el cumplimiento de las medidas cautelares, providencias precautorias y las condiciones a cumplir durante la suspensión del proceso a prueba;
 
-> <small>(N. DE E. PARA LA APLICACION DE ESTA FRACCION, VEASE TRANSITORIO TERCERO DEL DECRETO NUMERO QUE REFORMA A ESTE ORDENAMIENTO)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1163,7 +1169,7 @@ XXXVII.- Dirigir, coordinar e implementar los procesos de evaluación, de contro
 
 XXXVIII.- Expedir las constancias de antecedentes penales, de conformidad con las disposiciones aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE REFORMA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1209,17 +1215,17 @@ V.- Presentar y acreditar las evaluaciones de control y confianza, de conformida
 
 VI.- Las demás que señalen las Leyes y reglamentos correspondientes;
 
-VII.- Las demás que señalen las Leyes y reglamentos correspondientes. (sic)
+VII.- Las demás que señalen las Leyes y reglamentos correspondientes (sic).
 
 Para ser Subsecretario de Seguridad Pública, deberá cumplir los requisitos señalados en las fracciones I a la VII del presente artículo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ### CAPITULO XX
 
 DE LA COMPETENCIA DE LA SECRETARIA DE PROTECCION AL AMBIENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 39.
 
@@ -1345,7 +1351,7 @@ XXIX.- La regulación del aprovechamiento sustentable, la protección y la prese
 
 XXX.- Las demás que se prevengan en la Ley de la materia y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MAYO DE 2008)</small>
 
 ### CAPITULO XXI
 
@@ -1547,7 +1553,7 @@ LIC. HUGO FELIX GARCIA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE NOVIEMBRE DE 1988.
 
@@ -1563,7 +1569,7 @@ P.O. 31 DE MARZO DE 1989.
 
 LEY QUE CREA EL INSTITUTO DE CULTURA DE BAJA CALIFORNIA.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1853,13 +1859,13 @@ TERCERO.- El Congreso del Estado autorizará las previsiones presupuestales nece
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No. 165, POR EL QUE SE REFORMA EL ARTICULO 9 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 165, POR EL QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
-DECRETO No. 167, POR EL QUE SE REFORMA LA FRACCION VIII DEL ARTICULO 19 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 167, POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1889,7 +1895,7 @@ TERCERO.- Las obligaciones contempladas en el artículo 118 para los propietario
 
 P.O. 30 DE ABRIL DE 2010.
 
-DECRETO No. 365, POR EL QUE SE REFORMAN LOS ARTICULOS 19 Y 20 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 365, POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 Y 20 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1899,7 +1905,7 @@ TERCERO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto 
 
 P.O. 30 DE ABRIL DE 2010.
 
-DECRETO No. 366, POR EL QUE SE REFORMAN LOS ARTICULOS 29 Y 39 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 366, POR EL QUE SE REFORMAN LOS ARTÍCULOS 29 Y 39 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
 
@@ -1915,7 +1921,7 @@ SEXTO.- El Ejecutivo del Estado dentro de los seis meses siguientes a la entrada
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 437, POR EL QUE SE REFORMAN LOS ARTICULOS 38 Y 38 BIS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 437, POR EL QUE SE REFORMAN LOS ARTÍCULOS 38 Y 38 BIS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -1925,13 +1931,13 @@ TERCERO.- Las fracciones XXXII y XXXIII del artículo 38 del presente Decreto, s
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 441, POR EL QUE SE REFORMAN LAS FRACCIONES II, III, IV, VI, VII, VIII, IX, X, XIII Y ADICIONA LAS FRACCIONES XIV, XV, XVI Y XVII DEL ARTICULO 25 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 441, POR EL QUE SE REFORMAN LAS FRACCIONES II, III, IV, VI, VII, VIII, IX, X, XIII Y ADICIONA LAS FRACCIONES XIV, XV, XVI Y XVII DEL ARTÍCULO 25 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 446, POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 38 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 446, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
@@ -1954,3 +1960,7 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Las atribuciones que en materia de atención a la juventud correspondan actualmente a la Secretaría de Educación y Bienestar Social, conforme a la Ley Orgánica de la Administración Pública del Estado, las asumirá el Instituto de la Juventud del Estado de Baja California, una vez que se instituya en los términos de la presente Ley, dejando a salvo los derechos de los trabajadores encargados de llevar a cabo las actividades y labores destinadas a la atención a la juventud.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
