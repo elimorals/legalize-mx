@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-aeropuertos-y-servicios-auxiliares-41249"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-10-20"
-last_updated: "2005-11-18"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-09-25"
 
 ESTATUTO ORGANICO DE AEROPUERTOS Y SERVICIOS AUXILIARES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL ESTATUTO ORGÁNICO DE AEROPUERTOS Y SERVICIOS AUXILIARES, PUBLICADO EN EL D.O.F. DE 23 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 20 de octubre de 2004.
 
@@ -2250,3 +2252,13 @@ México, D.F., a 6 de septiembre de 2004.- Este estatuto fue expedido por el Con
 D.O.F. 18 DE NOVIEMBRE DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 23 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna Unidad Administrativa, cuyas funciones estén establecidas por la norma anterior, dichas funciones se entenderán concedidas a la Unidad Administrativa que determine este Estatuto Orgánico.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deban pasar de una Unidad Administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido.
+
+CUARTO.- El presente Estatuto Orgánico, así como las reformas, modificaciones y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
