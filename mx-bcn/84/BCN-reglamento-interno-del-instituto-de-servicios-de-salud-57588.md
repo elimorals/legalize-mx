@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-servicios-de-salud-57588"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-26"
-last_updated: "2007-12-28"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 26 de octubre de 2007.
 
@@ -231,6 +231,10 @@ Dirección de Servicios de Salud:
 
 • Departamento de Promoción de la Salud;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+• Unidad de Especialidades Médicas de Oncología;
+
 Dirección de Enseñanza y Vinculación;
 
 • Departamento de Enseñanza e Investigación;
@@ -279,7 +283,9 @@ Coordinación Estatal de Informática;
 
 Jurisdicciones de Servicios de Salud;
 
-• Hospitales Generales e Integrales.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+•Hospitales Generales, de Especialidades y Materno Infantiles; (sic)
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
@@ -457,11 +463,15 @@ I.- Dirección de Servicios de Salud;
 
 II.- Dirección de Enseñanza y Vinculación;
 
-III.- Dirección de Protección contra Riesgos Sanitarios, y
+III.- Dirección de Protección contra Riesgos Sanitarios, y (sic)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 IV.- Coordinación del Laboratorio Estatal de Salud Pública.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+V.- Titular de la Unidad de Especialidades Médicas de Oncología.
 
 ###### ARTÍCULO 28.
 
@@ -941,6 +951,20 @@ X.- Promover el desarrollo de competencias en las instituciones del sector públ
 
 XI.- Las demás que le confieren las disposiciones legales y administrativas aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 46 BIS.- Corresponde a la Unidad de Especialidades Médicas de Oncología, por conducto de su titular, la atención y trámite de las siguientes atribuciones:
+
+I.- Prestar, primordialmente a la población sin seguridad social y a los afiliados al Seguro Popular, mediante el sistema de referencia y contrareferencia, el servicio integral de tratamiento oncológico, que no sólo se refiere a radioterapia, quimioterapia y áreas afines, sino a la asistencia psicológica, tratamiento del dolor y a todas aquellas actividades médicas, administrativas y de servicio social que permitan el referido servicio integral;
+
+II.- Desarrollar e implementar un sistema de mejora continua en los procedimientos con aspectos técnicos y médicos, de tal forma que se sigan aplicando los métodos mas avanzados para el tratamiento oncológico;
+
+III.- Supervisar que para el cumplimiento de lo previsto en la fracción anterior, se gestione el establecimiento de un fondo para actualizaciones y adquisiciones de equipos médicos que en el futuro resulten más avanzados;
+
+IV.- Supervisar que en los contratos o convenios de subrogaciones que celebre el ISESALUD para otorgar el uso de las instalaciones y servicios de la Unidad de Especialidades Médicas de Oncología, se establezca un porcentaje sobre el pago de los aranceles respectivos, para integrarse al fondo referido en la fracción anterior, para actualizaciones y adquisiciones; y
+
+V.- Las demás que le confieran las disposiciones aplicables.
+
 #### SECCIÓN III. DE LA SUBDIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 47.
@@ -1419,9 +1443,11 @@ XXIV.- Planear y asegurar el abastecimiento de los bienes y servicios que requie
 
 XXV.- Las demás que le confieren las disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 66.
 
-De conformidad a lo establecido en el modelo estatal de atención a la salud, se consideran como Unidades Hospitalarias a los Hospitales Generales de Mexicali, Tijuana, Ensenada, Playas de Rosarito y Hospital Integral Tecate.
+De conformidad con lo establecido en el modelo estatal de atención a la salud, se consideran como unidades hospitalarias y de atención médica, a los Hospitales Generales de Mexicali, Tijuana, Ensenada, Playas de Rosarito, Tecate, Hospital Materno Infantil de Tijuana y Hospital Materno Infantil de Mexicali.
 
 ###### ARTÍCULO 67.
 
@@ -1515,11 +1541,15 @@ X.- Supervisar la elaboración del anteproyecto anual de presupuesto, por progra
 
 XI.- Las demás que le sean encomendadas por el superior jerárquico así como las que se deriven de otras disposiciones aplicables.
 
-#### SECCIÓN III. DE LOS DIRECTORES DE ÁREA Y COORDINADORES ESTATALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN III. DE LOS DIRECTORES DE ÁREA, TITULAR DE LA UNIDAD DE ESPECIALIDADES MÉDICAS DE ONCOLOGÍA Y COORDINADOR DEL LABORATORIO ESTATAL DE SALUD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 71.
 
-Los Directores de Área y el Coordinador Estatal del Laboratorio de Salud Pública, tendrán las siguientes facultades y obligaciones:
+Los Directores de Área, el Titular de la Unidad de Especialidades Médicas de Oncología y el Coordinador del Laboratorio Estatal de Salud Pública, tendrán las siguientes facultades y obligaciones:
 
 I.- Proponer acciones que fomenten una eficaz organización y administración de la operación de los servicios de salud, de las unidades administrativas bajo su cargo;
 
@@ -1673,9 +1703,11 @@ Las ausencias temporales de los Subdirectores Generales, que no excedan de 15 d�
 
 Las ausencias temporales de los Directores de Área y Coordinadores Estatales, que no excedan de 15 días serán suplidas por el Jefe de Departamento que éstos designen en su respectivo ámbito de competencia, y aquellas ausencias que excedan del tiempo antes citado, su suplente será designado por el Subdirector General al que se encuentren adscritos.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 78.
 
-Las ausencias temporales de los Jefes Jurisdiccionales y de los Directores de Hospitales, que no excedan de 15 días serán suplidas por el servidor público que éstos designen, y aquellas ausencias que excedan del tiempo antes citado, su suplente será designado por el Subdirector General y Jefe Jurisdiccional respectivamente.
+Las ausencias temporales de los Jefes Jurisdiccionales, del Titular de la Unidad de Especialidades Médicas de Oncología y de los Directores de Hospitales, que no excedan de 15 días, serán suplidas por el servidor público que éstos designen, y aquellas ausencias que excedan el tiempo antes citado, su suplente será designado por el Subdirector General de Salud en los dos primeros casos y por el Jefe Jurisdiccional tratándose de los Directores de Hospitales.
 
 ###### ARTÍCULO 79.
 
@@ -1710,3 +1742,9 @@ JOSÉ GUADALUPE BUSTAMANTE MORENO
 P.O. 28 DE DICIEMBRE DE 2007.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto no se modifiquen o se expidan los manuales administrativos de conformidad a este Decreto, el Director General del Instituto de Servicios de Salud Pública del Estado de Baja California queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
