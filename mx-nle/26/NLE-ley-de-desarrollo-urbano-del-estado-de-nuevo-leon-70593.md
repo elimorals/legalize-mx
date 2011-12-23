@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2011-11-04"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
+LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -3155,7 +3155,9 @@ III. La red u obras para el manejo integral de aguas pluviales, conforme al dise
 
 IV. La red de distribución de energía eléctrica y obras complementarias, las cuales deberán de ser subterráneas preferentemente;
 
-V. El alumbrado público, conforme a las especificaciones municipales;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+V. El alumbrado público, el cual deberá contar con un sistema ahorrador de energía y ser conforme a las especificaciones municipales;
 
 > <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
@@ -3285,9 +3287,17 @@ VII. Deberán cumplir con las normas densidad, coeficientes de ocupación y util
 
 VIII. Las calles o vías públicas locales tendrán como mínimo un derecho de vía de 12-doce metros si son de un sentido y las vías locales cerradas deberán ser de 12 metros y tendrán un retorno mínimo de 22 metros de diámetro de paramento a paramento, con banquetas de 2 metros cada una, deberán estar vinculadas o conectadas al sistema vial autorizado. En los fraccionamientos en zonas de montaña las vías públicas podrán tener derecho de vía establecido en el artículo 195 de éste ordenamiento;
 
-IX. Deberán contar con áreas públicas municipales destinadas para jardines, parques, plazas, equipamiento educativo público de nivel básico, áreas deportivas públicas y caseta de vigilancia; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-X. Solo podrán ubicarse en zonas urbanas o de reserva para el crecimiento urbano que cuenten o se prevea que pueda contar con un servicio de transporte público, por lo que deberá contar con factibilidad otorgado por la Autoridad Estatal en materia de transporte urbano.
+IX. Deberán contar con áreas públicas municipales destinadas para jardines, parques, plazas, equipamiento educativo público de nivel básico, áreas deportivas públicas y caseta de vigilancia;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+X. Arbolado nativo de la región en áreas de calles, camellones y demás lugares destinados a ese fin, en una cantidad igual a tres unidades por lote vendible, los cuales deberán ser distribuidos proporcionalmente entre la superficie total que deba plantarse; esta obligación será independiente a la prevista en el artículo 206 fracción VI de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XI. Solo podrán ubicarse en zonas urbanas o de reserva para el crecimiento urbano que cuenten o se prevea que pueda contar con un servicio de transporte público, por lo que deberá contar con factibilidad otorgado por la Autoridad Estatal en materia de transporte urbano.
 
 ###### ARTÍCULO 205.
 
@@ -3365,15 +3375,19 @@ IX. Ceder a título gratuito a favor del municipio correspondiente, las superfic
 
 X. Ceder al municipio las áreas para destinos y equipamiento urbano público, de conformidad con lo establecido en el artículo 201, fracción I, de la presente Ley;
 
-XI. La ejecución de las obras de urbanización a que se refiere el artículo 199 de esta Ley se hará de manera progresiva con cargo a los propios adquirentes de los lotes, a través del organismo promotor del desarrollo, quien se constituye en responsable solidario del buen resultado del proyecto, quien promoverá y apoyará los programas de autoconstrucción técnicamente dirigidos, dichas obras serán entregadas a los municipios correspondientes para su administración;
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-XII. Podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelación de vialidades, alineamiento de predios, tomas de agua potable y drenaje domiciliario, energía eléctrica y alumbrado público de seguridad;
+XI. Arbolado nativo de la región en áreas de calles, camellones y demás lugares destinados a ese fin, en una cantidad igual a dos unidades por lote vendible, los cuales deberán ser distribuidos proporcionalmente entre la superficie total que deba plantarse;
+
+XII. La ejecución de las obras de urbanización a que se refiere el artículo 199 de esta Ley se hará de manera progresiva con cargo a los propios adquirentes de los lotes, a través del organismo promotor del desarrollo, quien se constituye en responsable solidario del buen resultado del proyecto, quien promoverá y apoyará los programas de autoconstrucción técnicamente dirigidos, dichas obras serán entregadas a los municipios correspondientes para su administración;
+
+XIII. Podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelación de vialidades, alineamiento de predios, tomas de agua potable y drenaje domiciliario, energía eléctrica y alumbrado público de seguridad;
 
 > <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
 
-XIII. En estos fraccionamientos podrán existir lotes con usos distintos al habitacional, pero compatibles con este, como son: usos comerciales, de servicios e industriales no contaminantes, ni riesgosos para los habitantes; y
+XIV. En estos fraccionamientos podrán existir lotes con usos distintos al habitacional, pero compatibles con este, como son: usos comerciales, de servicios e industriales no contaminantes, ni riesgosos para los habitantes; y
 
-XIV. Las demás que establezcan las disposiciones de carácter general que al efecto expidan los Ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
+XV. Las demás que establezcan las disposiciones de carácter general que al efecto expidan los Ayuntamientos y las que establezcan otros ordenamientos jurídicos aplicables.
 
 #### SECCIÓN QUINTA. DE LOS FRACCIONAMIENTOS COMERCIALES Y DE SERVICIOS
 
@@ -4461,7 +4475,7 @@ VI. Los demás que establezcan las disposiciones de carácter general expedidas 
 
 ###### ARTÍCULO 289.
 
-En el caso de construcción de vivienda popular que estén (sic) ubicada en zonas de regularización de la tenencia de la tierra o en fraccionamiento (sic) sociales progresivos, y sea el propio poseedor quien realice los trámites, la licencia municipal de construcción será otorgada con la presentación de los documentos siguientes:
+En el caso de construcción de vivienda popular que estén (sic) ubicada en zonas de regularización de la tenencia de la tierra o en fraccionamiento (sic) sociales progresivos, y sea el propio poseedor quien realice los trámites, la licencia municipal de construcción será otorgada con la presentación de los documentos siguientes::
 
 I. Documentos que acrediten la propiedad o constancia expedida por la autoridad estatal responsable de que el predio se encuentra en proceso de regularización de la tenencia de la tierra, o que el solicitante está en posesión del mismo;
 
@@ -5637,7 +5651,7 @@ EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LOMBARDO VICTORIANO GUAJARDO GUAJARDO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2010.
 
@@ -5649,19 +5663,19 @@ P.O. 6 DE NOVIEMBRE DE 2010.
 
 P.O. 3 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 129, POR EL QUE SE REFORMAN LAS FRACCIONES IX A LA XIV DEL ARTÍCULO 13 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN.
+DECRETO NÚMERO 129, POR EL QUE SE REFORMAN LAS FRACCIONES IX A LA XIV DEL ARTÍCULO 13 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 3 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 130, POR EL QUE SE REFORMAN LA FRACCION LXVIII DEL ARTICULO 5 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 130, POR EL QUE SE REFORMAN LA FRACCIÓN LXVIII DEL ARTÍCULO 5 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 19 DE ENERO DE 2011.
 
-DECRETO NUMERO 160 POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTICULO 150 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 160, POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 150 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
@@ -5669,10 +5683,18 @@ Segundo.- Las disposiciones contenidas en el Artículo Segundo del presente Decr
 
 P.O. 19 DE ENERO DE 2011.
 
-DECRETO NUMERO 161 POR EL QUE SE REFORMAN LA FRACCION VII DEL ARTICULO 66, EL ULTIMO PARRAFO DEL ARTICULO 189, Y LA FRACCION III DEL ARTICULO 305, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 161, POR EL QUE SE REFORMAN LA FRACCION VII DEL ARTÍCULO 66, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 189, Y LA FRACCIÓN III DEL ARTÍCULO 305, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 4 DE NOVIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor una vez iniciada la vigencia de la reforma a los Artículos 23 y 132 de la Constitución Política del Estado Libre y Soberano de Nuevo León; a fin de establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento en que se solicitaron.
+
+Tercero.- En un término que no exceda de noventa días a partir de la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con la presente reforma.
