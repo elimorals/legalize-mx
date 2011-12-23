@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2011-12-09"
+last_updated: "2011-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -511,7 +511,7 @@ b.- Peso y talla del menor;
 
 c.- Huellas digitales del menor, y
 
-d.- El número aproximado de semanas de edad del menor.
+d.- El número aproximado de semanas de edad del menor
 
 ###### ARTÍCULO 23.
 
@@ -601,9 +601,15 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 La atención de las enfermedades mentales comprende:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
+I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y (sic)
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos mentales.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos mentales, donde se incluirán los programas de talleres protegidos.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como objetivo fomentar la integración psicológica, social y laboral del paciente psiquiátrico promoviendo el desarrollo de capacidades remanentes.
 
 ###### ARTÍCULO 32.
 
@@ -1717,6 +1723,8 @@ Las autorizaciones sanitarias serán expedidas cuando el solicitante hubiese sat
 
 ### CAPITULO DECIMO TERCERO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 151.
 
 Las autorizaciones sanitarias serán otorgadas por tiempo determinado, pudiendo ser revalidadas.
@@ -1925,7 +1933,7 @@ V.- La recolección de muestra se efectuará conforme a lo señalado en la Ley G
 
 ###### ARTÍCULO 176.
 
-Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Autoridad Sanitaria de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
+Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Autoridad Sanitaria de conformidad con los preceptos de la Constitución Política de los Estados Unidos Mexicanos, en sus artículos 14, 16, de esta Ley y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
 
 ###### ARTÍCULO 177.
 
@@ -2292,3 +2300,7 @@ P.O. 9 DE DICIEMBRE DE 2011.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Titular del Poder Ejecutivo comunicará al sector Salud, y difundirá a través de los medios de comunicación a la comunidad en general, el objeto de la presente reforma.
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
