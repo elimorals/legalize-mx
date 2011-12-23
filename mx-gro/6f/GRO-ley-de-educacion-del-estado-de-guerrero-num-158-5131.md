@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2011-10-18"
+last_updated: "2011-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
 
-LEY DE EDUCACION DEL ESTADO DE GUERRERO NUM. 158
+LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NUM. 158
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -127,31 +127,45 @@ III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio
 
 IV.- Promover, mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-V.- Difundir el conocimiento y práctica de la democracia, la justicia y la equidad como forma de gobierno y convivencia que permita a todos y todas sin distingo de sexos, participar en la toma de decisiones para mejoramiento y transformación de la sociedad.
+V.- Impartir educación bilingüe e intercultural a los pueblos indígenas, con el propósito de desarrollar sus potencialidades, implementando planes y programas de estudio que integren conocimientos, tecnologías y sistemas de valores correspondientes a las culturas de la entidad.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-VI.- Promover el valor de la justicia, la observancia de la Ley, la igualdad de las personas ante ésta, y propiciar el conocimiento de los derechos humanos y el respeto a los mismos.
+VI.- Difundir el conocimiento y práctica de la democracia, la justicia y la equidad como forma de gobierno y convivencia que permita a todos y todas sin distingo de sexos, participar en la toma de decisiones para mejoramiento y transformación de la sociedad.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-VII.- Fomentar actitudes de actualización y capacitación del magisterio para su incursión en la currícula, que propicien la investigación y la innovación y tecnológica (sic), estimulando el acceso de las mujeres a la formación profesional así como la educación permanente.
+VII.- Promover el valor de la justicia, la observancia de la Ley, la igualdad de las personas ante ésta, y propiciar el conocimiento de los derechos humanos y el respeto a los mismos.
 
-VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y de nuestro Estado.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+VIII.- Fomentar actitudes de actualización y capacitación del magisterio para su incursión en la currícula, que propicien la investigación y la innovación, y (sic) tecnológica, estimulando el acceso de las mujeres a la formación profesional así como la educación permanente.
 
-IX.- Implementar talleres sobre los valores nutricionales, así como estimular la educación física y la práctica del deporte, a fin de promover un mejor desempeño escolar de acuerdo a la edad y desarrollo del educando, a través (sic) estilos de vida saludable.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+IX.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural de la Nación y de nuestro Estado.
 
-X.- Generar e innovar actitudes solidarias y humanistas en los educandos para crear conciencia de la importancia de la nutrición, de la educación física, la preservación de la salud, educación sexual, planeación familiar, paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
-XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
+X.- Implementar talleres sobre los valores nutricionales, así como estimular la educación física y la práctica del deporte, a fin de promover un mejor desempeño escolar de acuerdo a la edad y desarrollo del educando, a través de estilos de vida saludable.
 
-XII.- Fomentar actitudes solidarias y positivas hacia el ahorro y el bienestar general.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XI.- Proporcionar a los educandos de las escuelas indígenas de tiempo completo, desayunos y comidas balanceadas y nutritivas.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XII.- Generar e innovar actitudes solidarias y humanistas en los educandos para crear conciencia de la importancia de la nutrición, de la educación física, la preservación de la salud, educación sexual, planeación familiar, paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XIII.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XIV.- Fomentar actitudes solidarias y positivas hacia el ahorro y el bienestar general.
 
 ###### ARTICULO 8o.
 
@@ -309,6 +323,10 @@ Será responsabilidad de las autoridades educativas del Estado realizar una dist
 
 ARTICULO 19 BIS.- Es obligación de las Autoridades Educativas en coordinación con la Secretaría de Salud, desarrollar estrategias para verificar que en las escuelas públicas y privadas de los niveles básico, media superior y superior, los alimentos que se expendan o proporcionen contengan un adecuado índice de valor nutricional. Quedando prohibida la venta de productos no recomendables, por su alto contenido de azúcares, grasas o sal.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+De igual forma es obligación de las Autoridades Educativas en coordinación con el Sistema para el Desarrollo Integral de la Familia y la Secretaría de Salud, desarrollar las acciones para la dotación de alimentos a las escuelas de tiempo completo de educación indígena y de educación básica en el Estado.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 20.
@@ -429,7 +447,9 @@ I.- Atenderán, de manera especial las escuelas en que, por estar en localidades
 
 II.- Desarrollarán programas de apoyo a los maestros que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
-III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles, casas de estudiantes indígenas y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
 IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la primaria y la secundaria;
 
@@ -455,7 +475,19 @@ XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la cons
 
 XIII.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior.
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+XIV.- Establecerán escuelas de tiempo completo como una estrategia para incrementar el logro de los aprendizajes de los niños brindando una educación básica de calidad con sólidos principios de equidad, en ambientes y condiciones propicios para su desarrollo integral, garantizando el apoyo para su funcionamiento.
+
 El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+A fin de contribuir a la disminución de las brechas de desigualdad e inequidad social en el acceso a los servicios de educación básica, el Estado a través de la Secretaría de Educación Guerrero, entregará al inicio de cada ciclo escolar, uniformes y útiles escolares conforme a las listas oficiales, en forma gratuita y universal, a todos los alumnos y alumnas regularmente inscritos en el nivel de primaria, este apoyo será otorgado mediante un programa especial administrado y operado por la Secretaria de Educación Guerrero, previo al presupuesto aprobado para cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 33 BIS. - Se buscará que las escuelas indígenas de educación básica sean escuelas de tiempo completo y las Autoridades Educativas garantizarán los recursos para su adecuado funcionamiento. Atendiendo a las características de cada escuela y las necesidades reales de la población indígena se diseñarán las líneas de trabajo.
 
 ###### ARTICULO 34.
 
@@ -936,3 +968,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos Diarios de Circulación Estatal, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las Autoridades competentes
+
+P.O. 23 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a sesenta días contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación Guerrero, implementará las acciones y programas a que haya lugar, así como las reglas de operación correspondientes, a fin de que a partir del inicio del ciclo escolar 2012 - 2013 se inicie la entrega de los materiales conforme lo señala el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Ejecutivo del Estado, en la propuesta de Decreto de Presupuesto de Egresos, incluirá la partida presupuestaria correspondiente con el monto de recursos necesarios para la implementación de las acciones a que se hace referencia en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese al Titular del Poder Ejecutivo para los efectos legales correspondientes y su publicación en el Periódico Oficial del Estado para el conocimiento general.
