@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-07-02"
+last_updated: "2011-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN, COLIMA
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1813,13 +1813,19 @@ con venta de cerveza, vinos y licores 100.00
 
 28.- Tiendas departamentales 200.00
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 29.- Tiendas de conveniencia 150.00 a 200.00
 
-30.- Otros giros no especificados 20.00 a 500.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
+30.- Venta de ponche 26.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31.- Otros giros no especificados de 20.00 a 500.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
 En zona rural cada uno:
 
@@ -1847,7 +1853,7 @@ c).- Por la expedición de permisos para el funcionamiento temporal de estableci
 
 3.- Birrierías 5.00
 
-4.- Cabaretes 5.00
+4.- Cabarets 5.00
 
 5.- Casinos y similares 10.00
 
@@ -1903,7 +1909,13 @@ con venta de cerveza, vinos y licores 8.00
 
 28.- Tiendas de conveniencia 10.00
 
-29.- Otros giros no especificados 2.00 a 30.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+29.- Venta de ponche 3.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+30.- Otros giros no especificados 2.00 a 30.00
 
 d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
@@ -2027,7 +2039,7 @@ CAMBIO DE DOMICILIO:
 
 de cerveza 3.00 a 8.00
 
-28- Tienda de autoservicio con venta
+28.- Tiendas de autoservicio con venta
 
 de cerveza, vinos y Licores 10.00 a 20.00
 
@@ -2083,7 +2095,7 @@ D).- OTRAS LICENCIAS Y PERMISOS
 
 ###### ARTICULO 82.
 
-Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
+Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente durante los meses de enero y febrero, por cada una, áconforme a la siguiente tarifa:
 
 1. Máquinas de video juegos 3.00
 
@@ -3426,3 +3438,7 @@ P.O. 18 DE DICIEMBRE DE 2010.
 P.O. 2 DE JULIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
