@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-79798"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2011-12-17"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI, PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2010
 
@@ -109,7 +111,9 @@ TOTAL 26´913,788,635
 
 El Poder Legislativo administrará y ejercerá su respectivo Presupuesto, de conformidad con lo dispuesto en la fracción X del artículo 57 de la Constitución Política del Estado de San Luis Potosí; la Ley de Presupuesto, y demás disposiciones aplicables.
 
-Las erogaciones previstas para el Poder Legislativo en el año 2011, importan la cantidad de $216'991,210 (DOSCIENTOS DIECISEIS MILLONES NOVECIENTOS NOVENTA Y UN MIL DOSCIENTOS DIEZ PESOS 00/100 M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Las erogaciones previstas para el Poder Legislativo en el año 2011, importan la cantidad de $221'991,210 (DOSCIENTOS VEINTIUN MILLONES NOVECIENTOS NOVENTA Y UN MIL DOSCIENTOS DIEZ PESOS 00/100 M.N.), incluidas las previsiones por incrementos salariales, así como las prestaciones económicas, repercusiones por conceptos de seguridad social, incluyendo servicio médico y demás asignaciones derivadas de compromisos laborales y servicios básicos para su operación.
 
 ###### ARTICULO 6°.
 
@@ -294,5 +298,9 @@ Lic. Marco Antonio Aranda Martínez
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 2011.
+
+UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2011.
 
 UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
