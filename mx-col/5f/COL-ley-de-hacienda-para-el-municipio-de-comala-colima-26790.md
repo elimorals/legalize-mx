@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-07-02"
+last_updated: "2011-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1891,9 +1891,13 @@ y Cerveza de 100.00 a 200.00
 
 29.- Ramadas de 30.00 a 60.00
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-30.- Otros giros no especificados de 20.00 a 500.00
+30. Venta de ponche de 24.00 a 28.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31. Otros giros no especificados de 20.00 a 500.00
 
 b).- Por el refrendo anual de licencias de funcionamiento, por cada una
 
@@ -1981,9 +1985,13 @@ y Cerveza de 25.00 a 50.00
 
 29.- Ramadas de 15.00 a 30.00
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-30.- Otros giros no especificados de 10.00 a 250.00
+30. Venta de ponche de 12.00 a 24.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31. Otros giros no especificados de 10.00 a 250.00
 
 c).- Por la expedición de permisos para el funcionamiento temporal de establecimientos en que se expendan bebidas alcohólicas por cada día:
 
@@ -2071,9 +2079,13 @@ o similares de 2.00 a 10.00
 
 29.- Ramadas 3.00
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-30.- Otros giros no especificados de 1.00 a 30.00
+30. Venta de ponche 3.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31. Otros giros no especificados de 1.00 a 30.00
 
 d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos que se expendan bebidas alcohólicas por cada hora:
 
@@ -2159,9 +2171,13 @@ o similares de 5.00 a 15.00
 
 28.- Ramadas de 1.00 a 5.00
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-29.- Otros giros no especificados de 1.00 a 30.00
+29. Venta de ponche de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+30. Otros giros no especificados de 1.00 a 30.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -3378,3 +3394,7 @@ P.O. 18 DE DICIEMBRE DE 2010.
 P.O. 2 DE JULIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
