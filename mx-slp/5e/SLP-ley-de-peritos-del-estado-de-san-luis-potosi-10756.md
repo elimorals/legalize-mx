@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-peritos-del-estado-de-san-luis-potosi-10756"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-31"
-last_updated: "1996-05-31"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 31 de mayo de 1996.
 
@@ -77,7 +77,9 @@ La Secretaría General de Gobierno se auxiliará para efectos de la administraci
 
 I.- Un Presidente, que será el Secretario General de Gobierno.
 
-II.- Dos Secretarios, que serán el Director de Catastro del Estado y el Director del Registro Público de la Propiedad y del Comercio; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+II.- Dos Secretarios, que serán el Director de Catastro del Estado; y el Director del Registro Público de la Propiedad, y
 
 III.- Vocales, que serán los Presidentes de los Colegios o Asociaciones de Peritos que existan o se constituyan en el Estado.
 
@@ -336,3 +338,11 @@ El Secretario General de Gobierno
 LIC. FERNANDO SILVA NIETO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
