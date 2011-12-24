@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2010-12-29"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
+LEY DEL PRESUPUESTO, GASTO PÚBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, PUBLICADA EN P.O. DE 24 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -483,7 +485,7 @@ Dichas responsabilidades se harán efectivas por la Secretaría de Finanzas medi
 
 ###### Artículo 41.
 
-Cuando la Secretaría de Finanzas en el ámbito de sus atribuciones de control, vigilancia e inspección del presupuesto, su contabilidad y el gasto público estatal, detecte irregularidades a las que se refiere el artículo 38 de esta Ley, procederá a levantar acta administrativa en la que se consignarán las irregularidades y dentro del plazo de 3 días hábiles la remitirá junto con toda Ia documentación comprobatoria de las irregularidades a la Secretaria de la Contraloría, para que ésta proceda al fincamiento del pliego preventivo de responsabilidad correspondiente.
+Cuando la Secretaría de Finanzas en el ámbito de sus atribuciones de control, vigilancia e inspección del presupuesto, su contabilidad y el gasto público estatal, detecte irregularidades a las que se refiere el artículo 38 de esta Ley, procederá a levantar acta administrativa en la que se consignarán las irregularidades y dentro del plazo de 3 días hábiles la remitirá junto con toda la documentación comprobatoria de las irregularidades a la Secretaria de la Contraloría, para que ésta proceda al fincamiento del pliego preventivo de responsabilidad correspondiente.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -577,7 +579,7 @@ LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 Al C.......
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2004.
 
@@ -626,3 +628,25 @@ SEGUNDO.- De conformidad con el Acuerdo emitido por el Consejo Nacional de Armon
 TERCERO.- Las entidades darán cumplimiento a las reformas de los artículos 5, 13, 32 A y 32 B antes de la presentación del proyecto de Decreto de egresos del ejercicio 2012.
 
 CUARTO.- Se autoriza a las entidades del Poder Ejecutivo, para que en un plazo de 90 días contados a partir de la entrada en vigencia del presente Decreto, realicen los ajustes a sus programas operativos anuales e indicadores en el marco de la asignación presupuestal aprobada; a fin de cumplir con las fracciones VII y VIII del artículo 9 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga la Ley de Presupuesto, Gasto Público y su Contabilidad y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+TERCERO: En tanto se expida el Reglamento de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, se continuará aplicando la Normatividad para el Ejercicio del Presupuesto de Egresos, así como las demás disposiciones vigentes en la materia, en lo que no se opongan a la presente Ley. Dicho reglamento deberá expedirse a más tardar a los 120 días naturales posteriores a la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado y se sujetará estrictamente a las disposiciones que esta Ley establece.
+
+CUARTO: Las Unidades de administración de los Poderes Legislativo y Judicial y de los Órganos Autónomos, así como la Secretaría, deberán concluir la emisión de sus disposiciones y reglas de carácter general para el manejo de información de los activos financieros a más tardar en 120 días naturales posteriores a la publicación de la presente Ley.
+
+QUINTO: Se autoriza a los Poderes Legislativo, Judicial, Ejecutivo y Órganos Autónomos para que los informes a que alude el contenido del artículo 2 fracción XXXII de esta Ley, se presenten en el año 2012 de manera semestral.
+
+SEXTO: El Ejecutivo Estatal deberá establecer un programa de implantación de la presente Ley en los primeros treinta días del mes de enero de 2012, a fin de garantizar el cumplimiento de la misma.
+
+SÉPTIMO: Las Comisiones permanentes de Hacienda; Presupuesto y Programación y el Ejecutivo Estatal a través de la Secretaría de Finanzas deberán establecer un programa de trabajo con el propósito de impulsar la creación de una Instancia Técnica de Evaluación que cumpla con los estándares de calidad y optimización además de dar cumplimiento a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+OCTAVO: El Ejecutivo Estatal realizará los estudios necesarios para la modernización o implantación de un sistema integral de información presupuestal, financiera y contable a fin de dar cumplimiento a lo dispuesto en la Ley General de Contabilidad Gubernamental, en un plazo no mayor al 31 de diciembre de 2012.
+
+NOVENO: El Ejecutivo Estatal convocará a los integrantes de las Comisiones Permanentes de Hacienda; Presupuesto y Programación; Instructora y Vigilancia de la Auditoría Superior del Estado para analizar en su interacción la legislación en materia de Planeación, Deuda Pública, Fiscalización y Responsabilidades de los Servidores Públicos.
+
+DÉCIMO: La información a que se refiere el artículo 21 de esta Ley se presentará desagregada por concepto y tipo de gasto durante el ejercicio fiscal 2012.
