@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-07-02"
+last_updated: "2011-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1791,7 +1791,9 @@ pasarela y table dance 1000.00
 
 35.- Tiendas departamentales y ancla 500.00
 
-36.- Otros giros no especificados 23.00 a 1000.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+36.-Venta de ponche 26.00
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -1877,9 +1879,9 @@ venta de cerveza 60.00
 
 59.- Tiendas de conveniencia 150.00 a 200.00
 
-> <small>(F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-60.- Tiendas de conveniencia 150.00 a 200.00
+60.- Otros giros no especificados de 23.00 a 1000.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
@@ -1969,7 +1971,9 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 30.- Tiendas departamentales 10.00
 
-31.- Otros giros no especificados 2.00 a 11.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31.- Venta de ponche 3.00
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -2095,6 +2099,10 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 62.- Tiendas de conveniencia 10.00
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+63.- Otros giros no especificados de 2.00 a 11.00
+
 d) Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
 
 1.- Agencias 10.00
@@ -2157,7 +2165,9 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 30.- Tiendas departamentales 5.00
 
-31.- Otros giros no especificados 0.80 a 15.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31.- Venta de ponche 1.00
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -2278,6 +2288,10 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 (ADICIONADO, P.O. 6 DE OCTUBRE DE 2007) (F. DE E., P.O. 17 DE NOVIEMBRE DE 2007)
 
 61.- Tiendas de conveniencia 1.50
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+62.- Otros giros no especificados de 0.80 a 15.00
 
 e) Por la autorización de:
 
@@ -4114,3 +4128,7 @@ P.O. 18 DE DICIEMBRE DE 2010.
 P.O. 2 DE JULIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
