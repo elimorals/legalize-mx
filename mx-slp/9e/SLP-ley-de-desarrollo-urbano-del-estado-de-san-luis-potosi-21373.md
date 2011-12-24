@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2010-12-21"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -271,15 +271,21 @@ Los notarios y demás fedatarios públicos no podrán autorizar escrituras de lo
 
 Las constancias, autorizaciones, permisos, factibilidades o licencias que las autoridades competentes expidan, en relación con la utilización de las áreas o predios de conformidad con lo previsto en esta Ley, deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
-Asimismo, no podrán inscribirse las escrituras públicas relativas a actos, contratos, convenios o afectaciones en el Registro Público de la Propiedad y del Comercio, ni Catastro municipal podrá autorizar traslados de dominio, cuando en ellas no se hubieren efectuado las inserciones relativas a los planes y programas sobre provisiones, reservas, usos y destino del suelo en materia de desarrollo urbano.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, no podrán inscribirse las escrituras públicas relativas a actos, contratos, convenios o afectaciones en el Registro Público de la Propiedad, ni Catastro municipal podrá autorizar traslados de dominio, cuando en ellas no se hubieren efectuado las inserciones relativas a los planes y programas sobre provisiones, reservas, usos y destino del suelo en materia de desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 14.
 
-Los notarios solo podrán autorizar escrituras públicas relativas a actos, convenios y contratos sobre propiedad o cualquier otro derecho respecto de inmuebles, así como la posesión de los mismos, cuando en ellos se inserten las cláusulas que establezcan la utilización de las áreas y predios conforme a los respectivos planes de desarrollo urbano, en la licencia de uso de suelo respectiva, así como a lo previsto en la presente ley, y en el certificado del Registro Público de la Propiedad y del Comercio sobre la existencia o inexistencia de Planes de Desarrollo Urbano a que se refiere este ordenamiento en lo que respecta a las áreas y predios, motivo de las mismas escrituras.
+Los notarios sólo podrán autorizar escrituras públicas relativas a actos, convenios y contratos sobre propiedad o cualquier otro derecho respecto de inmuebles, así como la posesión de los mismos, cuando en ellos se inserten las cláusulas que establezcan la utilización de las áreas y predios conforme a los respectivos planes de desarrollo urbano, en la licencia de uso de suelo respectiva, así como a lo previsto en la presente Ley, y en el certificado del Registro Público de la Propiedad, sobre la existencia o inexistencia de Planes de Desarrollo Urbano a que se refiere este Ordenamiento en lo que respecta a las áreas y predios, motivo de las mismas escrituras.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 15.
 
-No se podrá inscribir en el Registro Público de la Propiedad y del Comercio los actos o convenios que contravengan lo previsto en los artículos 12, 13 y 14 de la presente Ley.
+No se podrá inscribir en el Registro Público de la Propiedad los actos o convenios que contravengan lo previsto en los artículos 12, 13 y 14 de la presente Ley.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES Y SU COMPETENCIA
 
@@ -313,9 +319,9 @@ V. Proveer lo necesario para la exacta observancia de la planeación urbana en e
 
 VI. Coordinar el Plan Estatal de Desarrollo Urbano, con el Programa Nacional de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-VII. Ordenar la publicación en el Periódico Oficial del Estado, y la inscripción en el Registro Público de la Propiedad y del Comercio, de los Planes de Desarrollo Urbano que aprueben las autoridades competentes;
+VII. Ordenar la publicación en el Periódico Oficial del Estado, y la inscripción en el Registro Público de la Propiedad, de los Planes de Desarrollo Urbano que aprueben las autoridades competentes;
 
 VIII. Participar en las Comisiones de Conurbación Interestatal, en los términos que establece la Ley General de Asentamientos Humanos y los convenios correspondientes;
 
@@ -377,9 +383,9 @@ VII. Participar en forma coordinada con los gobiernos municipales, en la elabora
 
 VIII. Tomar la participación que le corresponda, en la elaboración y ejecución de los Planes Parciales que se implementen, con el propósito de regularizar la tenencia del suelo para su incorporación al desarrollo urbano, en los términos de la legislación aplicable y los convenios de coordinación, a fin de resolver los problemas generados por los asentamientos irregulares existentes y establecer medidas para evitar su proliferación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-IX. Comprobar la inscripción en el Registro Público de la Propiedad y del Comercio; de los diversos programas y planes de desarrollo urbano; y de las declaratorias que reconozcan la existencia de una zona Conurbada; una vez publicadas por el Gobernador del Estado, y ordenado su registro;
+IX. Comprobar la inscripción en el Registro Público de la Propiedad, de los diversos programas y planes de desarrollo urbano; y de las declaratorias que reconozcan la existencia de una zona conurbada; una vez publicadas por el Gobernador del Estado, y ordenado su registro;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -761,7 +767,9 @@ La Secretaría someterá el proyecto de Plan Regional de Desarrollo Urbano, a co
 
 El proyecto, previo dictamen de la propia Secretaría, lo someterá a la consideración del Gobernador del Estado, quien una vez que lo haya aprobado, procederá a establecer la coordinación con los gobiernos municipales involucrados.
 
-Aprobado el Plan Regional y celebrado el convenio de coordinación correspondiente, se ordenará su publicación en el Periódico Oficial del Estado, y su registro en el Registro Público de la Propiedad y del Comercio, en la sección de Planes de Desarrollo Urbano.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Aprobado el Plan Regional y celebrado el convenio de coordinación correspondiente, se ordenará su publicación en el Periódico Oficial del Estado, y su registro en el Registro Público de la Propiedad, en la sección de Planes de Desarrollo Urbano.
 
 En el área de aplicación de un Plan Regional de Desarrollo Urbano, no deberá realizarse urbanización o edificación alguna contraviniendo sus disposiciones. Para su ejecución y cumplimiento se aplicarán los convenios de coordinación respectivos.
 
@@ -929,11 +937,11 @@ Para expedir el Plan Estatal de Desarrollo Urbano se llevará a cabo una consult
 
 La Secretaría con la participación social, a través de los Consejos someterá a consulta pública el proyecto del Plan Estatal de Desarrollo Urbano, para recibir todos los comentarios y aportaciones que se consideren oportunos, que deberán provenir de instituciones debidamente constituidas y los distintos grupos sociales que integran la comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Una vez realizado el procedimiento a que se refiere el artículo anterior y hechas las modificaciones propuestas al proyecto del Plan Estatal de Desarrollo Urbano, el Ejecutivo emitirá el acuerdo de aprobación y decreto, y ordenará su publicación en el Periódico Oficial del Estado, así como su inscripción en el Registro Público de la Propiedad y del Comercio del Estado.
+Una vez realizado el procedimiento a que se refiere el artículo anterior y hechas las modificaciones propuestas al proyecto del Plan Estatal de Desarrollo Urbano, el Ejecutivo emitirá el acuerdo de aprobación y decreto, y ordenará su publicación en el Periódico Oficial del Estado, así como su inscripción en el Registro Público de la Propiedad del Estado.
 
 Para controlar la ejecución y verificar los avances obtenidos del Plan Estatal de Desarrollo Urbano, la Secretaría evaluará anualmente el mismo y presentará un informe detallado al Gobernador del Estado
 
@@ -1207,9 +1215,9 @@ En el marco de la característica fundamental señalada, a los planes de que se 
 
 V. La Comisión de Conurbación realizará los trámites necesarios para la elaboración, actualización o modificación del plan, llevando a cabo la consulta pública conforme al procedimiento descrito en el artículo 68, fracción II de esta Ley. Concluido el proyecto, los ayuntamientos recabarán la opinión de los Comités de Planeación de Desarrollo Municipal o los Consejos Consultivos Municipales de Desarrollo, y emitirán su aprobación en respectivas sesiones de cabildo;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-VI. La Comisión de Conurbación aprobará el Plan de Ordenación de Zona Conurbada, y lo remitirá al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, y su inscripción en el Registro Público de la Propiedad y del Comercio, y
+VI. La Comisión de Conurbación aprobará el Plan de Ordenación de Zona Conurbada, y lo remitirá al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, y su inscripción en el Registro Público de la Propiedad, y
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -1395,7 +1403,9 @@ III. Formulado el proyecto del Plan de Desarrollo Urbano o programa, se remitir�
 
 IV. Recibidas las observaciones de consulta pública, integrándose las procedentes al proyecto del Plan de Desarrollo Urbano o programa de que se trate, el presidente municipal lo presentará en sesión de cabildo para su análisis o modificación, según sea el caso, para que finalmente sea aprobado, y
 
-V. Una vez hecho lo anterior, el presidente municipal lo remitirá al Ejecutivo del Estado para en su caso, someterlo al Dictamen de Congruencia con el Plan Estatal de Desarrollo Urbano, así como su publicación en el Periódico Oficial del Estado, e inscripción en el Registro Público de la Propiedad y del Comercio. Por su parte, el ayuntamiento lo publicará en los diarios de mayor circulación en la localidad.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+V. Una vez hecho lo anterior, el presidente municipal lo remitirá al Ejecutivo del Estado para, en su caso, someterlo al Dictamen de Congruencia con el Plan Estatal de Desarrollo Urbano, así como su publicación en el Periódico Oficial del Estado, e inscripción en el Registro Público de la Propiedad. Por su parte, el ayuntamiento lo publicará en los diarios de mayor circulación en la localidad.
 
 ###### ARTICULO 69.
 
@@ -1573,9 +1583,11 @@ IX. Patrimonio cultural y natural, y
 
 X. Los demás que se establezcan en los planes y que sean compatibles con los anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 85.
 
-La determinación de reservas contendrá la delimitación de áreas de expansión futura del centro de población, una vez que los Planes de Desarrollo Urbano sean publicados e inscritos en el Registro Público de la Propiedad y de Comercio, los predios en ella comprendidos, se utilizarán por sus propietarios en forma que no presente obstáculo al futuro aprovechamiento determinado por el Plan correspondiente.
+La determinación de reservas contendrá la delimitación de áreas de expansión futura del centro de población, una vez que los Planes de Desarrollo Urbano sean publicados, e inscritos en el Registro Público de la Propiedad, los predios en ella comprendidos, se utilizarán por sus propietarios en forma que no presente obstáculo al futuro aprovechamiento determinado por el Plan correspondiente.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
@@ -2453,7 +2465,9 @@ Para las construcciones y obras localizadas en zonas y monumentos del patrimonio
 
 La solicitud de Licencia Municipal de Construcción y la documentación que debe acompañarla, llevará la correspondiente responsiva del director responsable de la obra, salvo los casos de excepción que señalará el Reglamento de éste ordenamiento.
 
-A la solicitud de cualquier Licencia Municipal, se deberá acompañar título de propiedad del respectivo predio, debidamente inscrito en el Registro Público de la Propiedad y del Comercio o, en su caso, constancia expedida por la correspondiente autoridad, de hallarse el predio en proceso de regularización de su tenencia.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+A la solicitud de cualquier licencia municipal se deberá acompañar título de propiedad del respectivo predio, debidamente inscrito en el Registro Público de la Propiedad o, en su caso, constancia expedida por la correspondiente autoridad, de hallarse el predio en proceso de regularización de su tenencia.
 
 ###### ARTICULO 150.
 
@@ -2899,7 +2913,9 @@ d) Su localización dentro del respectivo desarrollo urbano, será determinada p
 
 El ayuntamiento reservará en las áreas de donación de que se trate, el cincuenta por ciento para área verde, la que quedará al cuidado de los vecinos del fraccionamiento; y el resto deberá ser utilizado exclusivamente para equipamiento urbano, en beneficio social.
 
-La formalización del cumplimiento de esta obligación deberá efectuarse en el mismo acto en que conste la protocolización del acta de notificación del fraccionamiento autorizado. El incumplimiento de la escrituración respectiva, dejará sin efecto la aprobación del fraccionamiento, girando el ayuntamiento la notificación respectiva a catastro municipal, y al Registro Público de la Propiedad y del Comercio; sin perjuicio de las demás sanciones a que se haga acreedor el titular de la autorización;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+La formalización del cumplimiento de esta obligación deberá efectuarse en el mismo acto en que conste la protocolización del acta de lotificación del fraccionamiento autorizado. El incumplimiento de la escrituración respectiva dejará sin efecto la aprobación del fraccionamiento, girando el ayuntamiento la notificación respectiva a catastro municipal, y al Registro Público de la Propiedad; sin perjuicio de las demás sanciones a que se haga acreedor el titular de la autorización;
 
 III. Ejecutar las obras de urbanización en los términos que fije la respectiva autorización, así como de acuerdo a los proyectos y especificaciones que en su oportunidad se aprueben;
 
@@ -2915,9 +2931,9 @@ VII. Mantener en buen estado las obras de urbanización, así como prestar a su 
 
 VIII. Solicitar la autorización para iniciar la ejecución de obras de urbanización e igualmente las demás establecidas en ésta Ley y su reglamento, conforme se contempla en estos ordenamientos;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-IX. Inscribir en el Registro Público de la Propiedad y del Comercio, la autorización del fraccionamiento y su plano de lotificación autorizado;
+IX. Inscribir en el Registro Público de la Propiedad, la autorización del fraccionamiento y su plano de lotificación autorizado;
 
 X. Inscribir la autorización así como sus anexos gráficos en la Dirección de Catastro Municipal en los términos establecidos en la ley de la materia, y
 
@@ -3011,7 +3027,7 @@ Toda solicitud de autorización de fraccionamiento se presentará por duplicado 
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2008)</small>
 
-l. Dictamen del diseño urbano del fraccionamiento, emitido por la Dirección de Administración Urbana o equivalente; previamente evaluado en forma colegiada por un representante de:
+I. Dictamen del diseño urbano del fraccionamiento, emitido por la Dirección de Administración Urbana o equivalente; previamente evaluado en forma colegiada por un representante de:
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3041,9 +3057,9 @@ f) Cámara u organismo que represente a los constructores del municipio, que man
 
 Los tiempos máximos de respuesta de cada una de las instancias que participan en la dictaminación colegiada, no podrán ser mayores de quince días hábiles;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-II. Títulos que acrediten la plena propiedad del inmueble objeto del fraccionamiento, con la constancia de inscripción en el Registro Público de la Propiedad y del Comercio, y comprobante de pago del impuesto predial al corriente;
+II. Títulos que acrediten la plena propiedad del inmueble objeto del fraccionamiento, con la constancia de inscripción en el Registro Público de la Propiedad, y comprobante de pago del impuesto predial al corriente;
 
 III. Proyecto de lotificación y memoria descriptiva del fraccionamiento;
 
@@ -3287,9 +3303,9 @@ II. Datos de las áreas o predios;
 
 III. Ubicación del predio en areofoto (sic) o cartografía reciente;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-IV. Copia certificada del documento que acredite la propiedad del inmueble, debidamente inscrito en el Registro Público de la Propiedad y del Comercio, y comprobante de pago del impuesto predial al corriente.
+IV. Copia certificada del documento que acredite la propiedad del inmueble, debidamente inscrito en el Registro Público de la Propiedad, y comprobante de pago del impuesto predial al corriente.
 
 En caso de ser un predio procedente de una subdivisión autorizada, en el documento que acredite la propiedad deberá constar la donación correspondiente.
 
@@ -3309,7 +3325,9 @@ XI. Característica de la urbanización del terreno o terrenos.
 
 No será necesario cumplir con el requisito de la fracción IV, cuando se trate de la subdivisión de lotes provenientes de fraccionamientos autorizados.
 
-Autorizada que sea la subdivisión, ésta deberá inscribirse en el Registro Público de la Propiedad y del Comercio, así como en la Dirección de Catastro Municipal, de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Autorizada que sea la subdivisión, ésta deberá inscribirse en el Registro Público de la Propiedad, así como en la Dirección de Catastro municipal, de conformidad con la legislación aplicable.
 
 El Reglamento de ésta Ley señalará las características de los requisitos referidos como igualmente el procedimiento aplicable y el contenido de la autorización.
 
@@ -3323,9 +3341,9 @@ Se deberá solicitar la autorización del Ayuntamiento para la fusión de predio
 
 Toda persona física o moral, pública o privada que pretenda fusionar áreas o predios deberá presentar la solicitud por escrito ante el Ayuntamiento, anexando los siguientes datos y documentos:
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-I. Copia certificada de los documentos que acrediten la propiedad de cada uno de los inmuebles que serán objeto de la fusión, debidamente inscritos en el Registro Público de la Propiedad y del Comercio, que incluya comprobante de pago del impuesto predial al corriente;
+I. Copia certificada de los documentos que acrediten la propiedad de cada uno de los inmuebles que serán objeto de la fusión, debidamente inscritos en el Registro Público de la Propiedad, que incluya comprobante de pago del impuesto predial al corriente;
 
 II. Plano catastral, en su caso;
 
@@ -3337,9 +3355,9 @@ III. Ubicación del predio en aerofoto o cartografía reciente, indicando la dis
 
 IV. Plano de la poligonal de los predios que se fusionan con acotación de linderos, superficie de cada uno de ellos y total del inmueble en que se fusionan, y con indicación del nombre de las calles que circundan la manzana, y
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-V. Autorizada que sea la fusión, ésta deberá inscribirse en el Registro Público de la Propiedad y del Comercio, así como en la Dirección de Catastro municipal, de conformidad con la legislación aplicable.
+V. Autorizada que sea la fusión, ésta deberá inscribirse en el Registro Público de la Propiedad, así como en la Dirección de Catastro municipal, de conformidad con la legislación aplicable.
 
 ###### ARTICULO 208.
 
@@ -3683,9 +3701,11 @@ Los Servidores Públicos Estatales y Municipales que tramiten documentos, contra
 
 No podrán, por tanto, realizar ningún contrato translativo (sic) de dominio para adquirir acciones, terrenos y viviendas o locales de un desarrollo en el que intervinieron en su trámite oficial o bien utilizar la información de dicho trámite para obtener un beneficio para sí, su cónyuge, parientes consanguíneos, sin límite de grado, o por afinidad hasta el octavo grado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 232.
 
-Los Notarios y Corredores Públicos, los empleados del Registro Público de la Propiedad y del Comercio y de la Dirección de Catastro municipal, se abstendrán de dar trámite a documentos, contratos o convenios que consignen operaciones que contravengan lo dispuesto en ésta Ley.
+Los Notarios y Corredores Públicos, los empleados del Registro Público de la Propiedad, y de la Dirección de Catastro municipal, se abstendrán de dar trámite a documentos, contratos o convenios que consignen operaciones que contravengan lo dispuesto en esta Ley.
 
 ###### ARTICULO 233.
 
@@ -3860,3 +3880,9 @@ P.O. 21 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales y administrativas que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
