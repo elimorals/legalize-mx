@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-expropiacion-ocupacion-temporal-y-limitacion-del-10969"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-21"
-last_updated: "1996-08-21"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE EXPROPIACION, OCUPACION TEMPORAL Y LIMITACION DEL DOMINIO POR CAUSA DE UTILIDAD PUBLICA PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE EXPROPIACION, OCUPACION TEMPORAL Y LIMITACION DEL DOMINIO POR CAUSA DE UTILIDAD PUBLICA PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DEL DOMINIO POR CAUSA DE UTILIDAD PÚBLICA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 1996.
 
@@ -245,11 +245,11 @@ Las mismas disposiciones se aplicarán en lo conducente, a los bienes de ocupaci
 
 Tratándose de expropiación y de ocupación temporal, el importe de la indemnización deberá cubrirse tan pronto se concluya todo el procedimiento previsto en esta ley.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 28.
 
-Para su obligatoriedad, agotado el procedimiento a que se refiere esta ley, los decretos declaratorios de expropiación, ocupación temporal o de limitación del dominio, una vez que queden firmes deberán, aparte de ser publicados en la forma y términos previstos en esta ley, inscribirse en el Registro Público de la Propiedad y del Comercio, relacionando tal inscripción con aquélla en que se hubiere inscrito la propiedad a favor del afectado, haciéndose la anotación marginal en esta última.
-
-La escritura que otorgue el particular afectado deberá de inscribirse en el Registro Público de la Propiedad y del Comercio, en los asientos respectivos.
+Para su obligatoriedad, agotado el procedimiento a que se refiere esta Ley, los decretos declaratorios de expropiación, ocupación temporal o de limitación del dominio, una vez que queden firmes deberán, aparte de ser publicados en la forma y términos previstos en esta Ley, inscribirse en el Registro Público de la Propiedad, relacionando tal inscripción con aquélla en que se hubiere inscrito la propiedad a favor del afectado, haciéndose la anotación marginal en esta última.
 
 ###### ARTICULO 29.
 
@@ -259,9 +259,11 @@ La Secretaría General de Gobierno, en caso de que el particular afectado no rea
 
 El pago indemnizatorio que proceda respecto a los bienes inscritos como patrimonio de la familia, expropiados o afectados en términos de lo previsto en esta ley, se cubrirá en favor de su titular y beneficiarios en la forma establecida en el Código Civil para el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 31.
 
-Si la cosa o bien expropiado reporta hipoteca o estuviere sujeta a algún otro gravamen, embargo, secuestro o arrendamiento, quedará libre, total o parcialmente de cualquier responsabilidad y al efecto, se ordenará a la oficina del Registro Público de la Propiedad y del Comercio que corresponda, se hagan las cancelaciones, tildaciones o anotaciones correspondientes, observando al efecto las siguientes prevenciones:
+Si la cosa o bien expropiado reporta hipoteca o estuviere sujeta a algún otro gravamen, embargo, secuestro o arrendamiento, quedará libre, total o parcialmente de cualquier responsabilidad, y al efecto se ordenará a la oficina del Registro Público de la Propiedad que corresponda, se hagan las cancelaciones, tildaciones o anotaciones correspondientes, observando al efecto las siguientes prevenciones:
 
 I.- Si la expropiación del bien o la cosa es total se extinguirán de manera absoluta, las hipotecas, embargos y arrendamientos que sobre ella pesaren; y
 
@@ -318,3 +320,11 @@ El Secretario General de Gobierno
 LIC. FERNANDO SILVA NIETO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
