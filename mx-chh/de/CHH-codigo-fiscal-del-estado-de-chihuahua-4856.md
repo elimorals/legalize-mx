@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2010-12-25"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
+CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -39,43 +39,53 @@ CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
 ### CAPITULO UNICO. INGRESOS Y EGRESOS
 
-1o.- El Tesorero General del Estado presentará a la consideración del Gobernador antes del 15 de octubre de cada año, el proyecto de Ley de Ingresos para que de conformidad con el mismo pueda enviarse al Congreso del Estado el Presupuesto de Egresos que regirá para el siguiente año.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-2o.- Todas las Dependencias del Gobierno del Estado, las oficinas o servicios sujetos a convenios de coordinación y en general todas las Instituciones cuyo sostenimiento permanente dependa en forma total del Gobierno del Estado, deberán enviar al Gobernador por conducto de la Tesorería General a más tardar el 15 de octubre de cada año, un Proyecto de su Presupuesto de Egresos para el siguiente año, exponiendo el programa de trabajos que vaya a realizarse y las razones que en su concepto justifiquen su proyecto.
+1o.- El Secretario de Hacienda presentará a la consideración del Gobernador, antes del 15 de octubre de cada año, el proyecto de Ley de Ingresos para que de conformidad con el mismo, pueda enviarse al Congreso del Estado el Presupuesto de Egresos, que regirá para el siguiente año.
 
-> <small>(REFORMADO, P.O.30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-3o.- El Secretario de Finanzas y Administración dará cuenta al Gobernador de todos los proyectos de presupuestos a que se refiere el artículo anterior y de conformidad con las instrucciones del Jefe del Ejecutivo formulará el Presupuesto de Egresos, que será enviado antes del 10 de diciembre de cada año a la Legislatura del Estado, para su estudio y aprobación en su caso.
+2o.- Todas las Dependencias del Gobierno del Estado, las oficinas o servicios sujetos a convenios de coordinación y en general todas las Instituciones cuyo sostenimiento permanente dependa en forma total del Gobierno del Estado, deberán enviar al Gobernador por conducto de la Secretaría de Hacienda, a más tardar el 15 de octubre de cada año, el Proyecto de su Presupuesto de Egresos para el siguiente año, exponiendo el programa de trabajo que vaya a realizarse y las razones que en su concepto justifiquen el proyecto.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+3o.- El Secretario de Hacienda dará cuenta al Gobernador de todos los proyectos de presupuestos a que se refiere el artículo anterior, y de conformidad con las instrucciones del Ejecutivo Estatal, formulará el Presupuesto de Egresos, que será enviado a más tardar el 30 de noviembre de cada año al Congreso del Estado, para su análisis y aprobación en su caso.
 
 4o.- Si el Congreso dejare de expedir oportunamente el presupuesto de Egresos o la Ley de Ingresos, continuarán rigiendo en esta materia la ley y el presupuesto que hubieren estado vigentes el año anterior.
 
 5o.- El Ejecutivo promulgará y publicará la Ley de Ingresos y el Presupuesto de Egresos a más tardar el 31 de diciembre del año y entrarán en vigor el día 1o. de enero de cada año.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-6.- A la Secretaría de Finanzas y Administración y sus unidades y oficinas autorizadas ingresarán todos los caudales públicos del Estado.
+6o. A la Secretaría de Hacienda, sus unidades y oficinas autorizadas ingresarán todos los caudales públicos del Estado.
 
-Los ingresos destinados a la Universidad Autónoma de Chihuahua y a la Universidad Autónoma de Ciudad Juárez, serán recaudados por las oficinas receptoras simultáneamente con las demás contribuciones y se concentrarán en la Secretaría de Finanzas y Administración de (sic) Gobierno del Estado, la que los entregará a dichas instituciones educativas.
+Los ingresos destinados a la Universidad Autónoma de Chihuahua y a la Universidad Autónoma de Ciudad Juárez, serán recaudados por las oficinas receptoras y simultáneamente con las demás contribuciones, y se concentrarán en la Secretaría de Hacienda, la que los entregará a dichas instituciones educativas.
 
-7o.- Todo egreso deberá hacerse por acuerdo del Gobernador del Estado dado por escrito a la Oficialía Mayor, para que ésta expida las órdenes de pago correspondientes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Cuando estuviere por agotarse alguna partida contable del presupuesto, el Tesorero deberá dar aviso al Gobernador para que este, conforme a las necesidades y problemas que confronte el Poder Ejecutivo, solicite del Congreso del Estado las ampliaciones o modificaciones que procedan.
+7o.- Todo egreso deberá hacerse por acuerdo del Gobernador del Estado dado por escrito a la Secretaría de Hacienda, para que ésta expida las órdenes de pago correspondientes.
 
-8o.- Todas las erogaciones se harán por la Tesorería General del Estado de acuerdo con las órdenes de pago que expida la Oficialía Mayor, las que serán acompañadas de los respectivos comprobantes, y con sujeción estricta a la distribución de partidas contenidas en el presupuesto general de egresos.
+Cuando estuviere por agotarse alguna partida contable del presupuesto, el Secretario de Hacienda deberá dar aviso al Gobernador para que éste, conforme a las necesidades y problemas que confronte el Poder Ejecutivo, solicite del Congreso del Estado las ampliaciones o modificaciones que procedan.
 
-El Tesorero General del Estado autorizará directamente las erogaciones y gastos extraordinarios o imprevistos de recaudación, contra la partida presupuestal que se designe como gastos de recaudación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su administración y manejo; su cuantía amparada por orden de pago, la fijará prudentemente el Tesorero General, quien ordenará periódicamente el reembolso de las disposiciones del fondo fijo, para reconstituirlo.
+8o.- Todas las erogaciones se harán por la Secretaría de Hacienda de acuerdo con las órdenes de pago que se expidan, las que serán acompañadas de los respectivos comprobantes, y con sujeción estricta a la distribución de partidas contenidas en el Presupuesto de Egresos.
 
-9o.- El Tesorero General del Estado será responsable personal o pecuniariamente por los pagos que hiciere u ordenare sin estar autorizados por el Presupuesto, por ley posterior o por el Gobernador del Estado. El Tesorero tendrá derecho a hacer observaciones a las órdenes de pago pero deberá cumplirlas sin su responsabilidad si el Gobernador insistiere en ellas.
+El Secretario de Hacienda autorizará directamente las erogaciones y gastos extraordinarios o imprevistos de recaudación, contra la partida presupuestal que se designe como gastos de recaudación.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+Las Recaudaciones de Rentas serán dotadas de fondos fijos de caja para su administración y manejo; su cuantía amparada por orden de pago, la fijará prudentemente el Secretario de Hacienda, quien ordenará periódicamente el reembolso de las disposiciones del fondo fijo.
 
-10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguientes al mes que corresponda. El Secretario de Finanzas y Administración del Estado formulará trimestralmente la cuenta general para que se envíe oportunamente al Congreso.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+9o. El Secretario de Hacienda será responsable personal o pecuniariamente por los pagos que hiciere u ordenare sin estar autorizados en el Presupuesto, por Ley posterior o por el Gobernador del Estado. El Secretario de Hacienda tendrá derecho a hacer observaciones a las órdenes de pago, pero deberá cumplirlas sin su responsabilidad si el Gobernador insistiere en ellas.
 
-11.- Compete a la Secretaría de Finanzas y Administración:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+10.- La cuenta general de ingresos y egresos del erario deberá publicarse mensualmente dentro de los primeros veinte días siguientes al mes que corresponda. El Secretario de Hacienda formulará trimestralmente y anualmente la cuenta general para que se envíe oportunamente al Congreso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+11.- Compete a la Secretaría de Hacienda:
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -151,7 +161,9 @@ Se entiende que hay abuso o uso indebido del derecho privado, en todos los casos
 
 18.- Cuando las autoridades fiscales de acuerdo con una disposición legal, deban dictar una resolución que se apoye en las apreciaciones de determinados hechos y circunstancias, la resolución se fundará en el derecho y la equidad.
 
-19.- Las autoridades Fiscales no podrán modificar ni revocar sus resoluciones favorables a los particulares, pero el Tesorero General del Estado podrá promover ante el Supremo Tribunal de Justicia del Estado la nulidad total o parcial de dichas resoluciones mediante juicio de oposición.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+19.- Las autoridades fiscales no podrán modificar ni revocar sus resoluciones favorables a los particulares, pero el Secretario de Hacienda podrá promover, ante el Supremo Tribunal de Justicia del Estado, la nulidad total o parcial de dichas resoluciones mediante juicio de oposición.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -167,15 +179,23 @@ Días hábiles son todos aquéllos no mencionados en el párrafo anterior. Horas
 
 21.- La ignorancia de las leyes y disposiciones fiscales, no podrá aducirse como excusa de su incumplimiento. No obstante, las autoridades fiscales competentes en aquellos casos en que se trate de personas notoriamente incultas, que habiten lejos de las poblaciones y que no tengan a su servicio a personas instruídas, podrán conceder a los interesados un término de gracia para el cumplimiento de las leyes y disposiciones relativas, así como eximirlos de las sanciones que debieran imponérseles, por las infracciones en que hubieran incurrido.
 
-22.- El Ejecutivo del Estado, por conducto del Tesorero General, es la autoridad competente, en el orden administrativo, para interpretar la legislación fiscal, dictar las disposiciones que se requieran para su mejor aplicación, así como para cuidar de su exacta observancia.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+22.- El Ejecutivo del Estado, por conducto del Secretario de Hacienda, es la autoridad competente, en el orden administrativo, para interpretar la legislación fiscal, dictar las disposiciones que se requieran para su mejor aplicación, así como para cuidar de su exacta observancia.
 
-23.- La Tesorería General del Estado podrá determinar estimativamente los ingresos totales del causante en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+23.- La Secretaría de Hacienda podrá determinar estimativamente los ingresos totales de los causantes en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
 I.- Cuando omitan presentar sus declaraciones, se opongan u obstaculicen la iniciación o desarrollo de una visita domiciliaria ordenada por la Tesorería General del Estado o se nieguen a recibir la orden respectiva.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
 II.- Cuando no lleven o no presenten los libros de contabilidad, documentación comprobatoria de las operaciones que hubieren efectuado, o de los renglones de las declaraciones, o no proporcionen los informes que se les soliciten, o cuando a requerimiento de la Tesorería General del Estado, los causantes no exhiban en su domicilio dichos libros.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
 III.- Cuando la contabilidad del negocio del causante adolezca de alguno de los siguientes vicios:
 
@@ -191,15 +211,25 @@ e).- Que existan asientos falsos en la contabilidad de los causantes.
 
 f).- Que omita el registro de facturación de compras, cuyo monto exceda de 3% del importe total de las efectuadas en el ejercicio.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
 IV.- Cuando los causantes tengan libros o registros fuera de su contabilidad autorizada, en los cuales hagan anotaciones distintas a las de ésta.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
 V.- Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de las operaciones del causante.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
 La determinación estimativa de los ingresos procederá independientemente de las sanciones a que haya lugar.
 
-La Tesorería General del Estado, estimará los ingresos de los contribuyentes por los medios indirectos de la investigación económica o de cualquier otra clase.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-24.- Los interesados directamente en situaciones reales y concretas que planteen consultas sobre la aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que la Tesorería General del Estado dicte resolución sobre tales consultas. Si no se plantean situaciones reales y concretas la Tesorería se abstendrá de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
+La Secretaría de Hacienda, estimará los ingresos de los contribuyentes por los medios indirectos de la investigación económica o de cualquier otra clase.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+24.- Los interesados directamente en situaciones reales y concretas que planteen consultas sobre la aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que la Secretaría de Hacienda dicte resolución sobre tales consultas. Si no se plantean situaciones reales y concretas, la Secretaría de Hacienda se abstendrá de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
 
 Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en los términos que la ley fija o, a falta de término establecido, en 90 días. El silencio de las autoridades fiscales se considerará como resolución negativa cuando no dén respuesta en el término que corresponda.
 
@@ -269,9 +299,9 @@ Cuando la determinación o liquidación deban ser hechas por las autoridades fis
 
 35.- Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Los documentos, datos e información que obran en los archivos físicos y electrónicos de la Secretaría de Finanzas y Administración tendrán valor probatorio pleno. Sus reproducciones, impresiones y constancias, tendrán el mismo valor probatorio, sin necesidad de cotejo, siempre y cuando sean certificados por funcionario competente.
+Los documentos, datos e información que obran en los archivos físicos y electrónicos de la Secretaría de Hacienda tendrán valor probatorio pleno. Sus reproducciones, impresiones y constancias, tendrán el mismo valor probatorio, sin necesidad de cotejo, siempre y cuando sean certificados por funcionario competente.
 
 36.- Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación o fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para:
 
@@ -287,7 +317,9 @@ IV.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los 
 
 V.- Verificar en tránsito o en los lugares de almacenamiento los vehículos o mercancías que deban ser amparados por documentación prevista en las leyes fiscales. En estos casos el inspector deberá estar facultado expresamente y por escrito por las autoridades fiscales, para la vigilancia del cumplimiento de los ordenamientos relativos dentro de la zona en que se haga la verificación.
 
-VI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva. Las actuaciones que practique la Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Tesorería, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos en Materia de Defensa Social.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+VI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Secretaría de Hacienda tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía ministerial; y la propia Secretaría de Hacienda, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
 
@@ -317,7 +349,9 @@ VIII.- En el caso de que los contribuyentes se coloquen en alguna de las causale
 
 A).- Si con base en la contabilidad y documentación del causante o información de terceros pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período objeto de revisión.
 
-B).- Si la contabilidad y documentación del causante no permite reconstruir las operaciones de treinta días, la Tesorería General del Estado tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período objeto de revisión.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+B).- Si la contabilidad y documentación del causante no permite reconstruir las operaciones de treinta días, la Secretaría de Hacienda tomará como base los ingresos que observe durante tres días, cuando menos, de operaciones normales, y el promedio diario resultante se multiplicará por el número de días que comprenda el periodo objeto de revisión.
 
 Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
@@ -347,25 +381,39 @@ VII.- El visitado, los testigos y los visitadores firmarán el acta. Si el visit
 
 VIII.- Con las mismas formalidades indicadas en el inciso anterior, se levantarán actas previas, o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-IX.- El visitado o quien lo represente deberá expresar dentro de los 20 días siguientes a la conclusión de las actas ante la Tesorería General del Estado, las razones de su inconformidad en forma circunstanciada, ofreciendo las pruebas pertinentes. En caso de que no se ofrezcan pruebas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas. Para la substanciación del presente recurso se estará a lo dispuesto en el artículo 397 de este Código.
+IX. El visitado, o quien lo represente, deberá expresar dentro de los 20 días siguientes a la conclusión de las actas ante la Secretaría de Hacienda, las razones de su inconformidad, en forma circunstanciada, ofreciendo las pruebas pertinentes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+En caso de que no se ofrezcan pruebas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas. Para la substanciación del presente recurso se estará a lo dispuesto en el artículo 397 de este Código.
 
 38.- Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-39.- Los actos o disposiciones que obliguen económicamente al Estado, deberán ser autorizados por el Gobernador Constitucional del Estado y el Tesorero General. Este dependerá directa y exclusivamente de aquél en el desempeño de las funciones inherentes a su cargo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Las demás autoridades fiscales quedan sometidas a la dirección del Tesorero General del Estado.
+39.- Los actos o disposiciones que obliguen económicamente al Estado, deberán ser autorizados por el Gobernador Constitucional del Estado y el Secretario de Hacienda. Este dependerá directa y exclusivamente de aquél en el desempeño de las funciones inherentes a su cargo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+Las demás autoridades fiscales quedan sometidas al Secretario de Hacienda.
 
-40.- La Tesorería General del Estado, para el desempeño de sus funciones, tendrá las direcciones, los departamentos y secciones que fije el reglamento respectivo. Son autoridades fiscales:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-I.- La Tesorería General del Estado;
+40.- La Secretaría de Hacienda, para el desempeño de sus funciones, tendrá las direcciones, los departamentos y secciones que fije el reglamento respectivo. Son autoridades fiscales:
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+I.- La Secretaría de Hacienda;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 II.- Las Recaudaciones de Rentas y Colecturías;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
 III.- Los organismos fiscales descentralizados.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
 
 Todas las autoridades judiciales, administrativas y municipales del Estado, tienen el carácter de auxiliares de las autoridades fiscales, estando obligadas a prestarles el auxilio y cooperación que soliciten, de acuerdo con las disposiciones de este Código y sus reglamentos.
 
@@ -397,9 +445,9 @@ II.- Si es a los sujetos pasivos o responsables solidarios a quien corresponde d
 
 III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-44.- El pago de impuestos, derechos y contribuciones especiales, así como los productos y aprovechamientos, deberán efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Secretaría de Finanzas y Administración, a través de los siguientes medios:
+44.- El pago de impuestos, derechos y contribuciones especiales, así como los productos y aprovechamientos, deberán efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Secretaría de Hacienda, a través de los siguientes medios:
 
 I.- Efectivo;
 
@@ -407,13 +455,13 @@ II.- Giros postales, telegráficos o bancarios;
 
 III.- Cheques certificados, de caja, de cuentas personales o empresariales;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-IV.- Tarjetas de crédito o de débito. Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Finanzas y Administración mediante acuerdo que publique en el Periódico Oficial del Estado.
+IV.- Tarjetas de crédito o de débito. Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Hacienda, mediante acuerdo que publique en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Asimismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Finanzas y Administración mediante Acuerdo que publique en el Periódico Oficial del Estado.
+Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Hacienda, mediante Acuerdo que publique en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -423,9 +471,9 @@ El pago así efectuado y la presentación de declaraciones por el mismo medio no
 
 El uso de las claves de identificación personal que se establezcan para la presentación de declaraciones y la realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en las recaudaciones o establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas y Administración a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque, en atención a las causas que originaron la falta de pago.
+La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Hacienda a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque, en atención a las causas que originaron la falta de pago.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -435,19 +483,19 @@ La autoridad fiscal recibirá el pago efectuado por el sujeto pasivo, responsabl
 
 Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido, sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, la Secretaría de Finanzas y Administración podrá hacer efectivo por concepto del impuesto, una cantidad igual a la de la última declaración, con las modificaciones que en su caso hubiere tenido con motivo de la revisión. El impuesto determinado podrá ser rectificado por la citada Secretaría. Los contribuyentes o retenedores continuarán obligados a presentar las declaraciones, caso en que el impuesto pagado se acreditará contra el que resulte de éstas, sin perjuicio de las facultades de la autoridad para proceder a su revisión.
+Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, la Secretaría de Hacienda podrá hacer efectivo por concepto del impuesto, una cantidad igual a la de la última declaración, con las modificaciones que en su caso hubiere tenido con motivo de la revisión. El impuesto determinado podrá ser rectificado por la citada Secretaría. Los contribuyentes o retenedores continuarán obligados a presentar las declaraciones, caso en que el impuesto pagado se acreditará contra el que resulte de éstas, sin perjuicio de las facultades de la autoridad para proceder a su revisión.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Los pagos a que se refiere este artículo que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Finanzas y Administración. Las declaraciones podrán ser normales o complementarias. La complementaria sólo podrá presentarse cuando exista error en la base de determinación de la normal hasta por dos ocasiones, siempre y cuando no hayan iniciado las facultades de comprobación por parte de la Secretaría de Finanzas y Administración.
+Los pagos a que se refiere este artículo que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Hacienda. Las declaraciones podrán ser normales o complementarias. La complementaria sólo podrá presentarse cuando exista error en la base de determinación de la normal hasta por dos ocasiones, siempre y cuando no hayan iniciado las facultades de comprobación por parte de la Secretaría de Hacienda.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-46.- El Secretario de Finanzas y Administración del Estado podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederán de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+46.- El Secretario de Hacienda podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -475,7 +523,9 @@ III.- Los impuestos, derechos, productos y los aprovechamientos distintos de los
 
 49.- Podrá hacerse el pago de créditos fiscales "bajo protesta" cuando la persona que los haga se proponga intentar recursos o medios de defensa. El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a la que se dé cumplimiento.
 
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que éste se efectúa bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la Oficina receptora o a la Tesorería General del Estado que el pago se efectúa bajo protesta.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que éste se efectúa bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la Oficina receptora o a la Secretaría de Hacienda que el pago se efectúa bajo protesta.
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
@@ -499,7 +549,9 @@ IV.- En los casos no previstos en las fracciones anteriores, tendrán derecho a 
 
 52.- Para que se haga la devolución de cantidades pagadas indebidamente será necesario:
 
-I.- Que se dicte acuerdo de la Tesorería General del Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+I.- Que se dicte acuerdo de la Secretaría de Hacienda;
 
 II.- Que el derecho para reclamar la devolución no se haya extinguido;
 
@@ -509,21 +561,23 @@ La devolución deberá hacerse a petición del interesado y dentro del término 
 
 53.- La condonación o reducción de impuestos solamente podrá concederse por decreto del Congreso del Estado expedido con aplicación general, y únicamente en los casos en que por fuerza mayor o por accidentes naturales ocurridos en el Estado, los causantes hayan sufrido perjuicios considerables que afecten tanto su situación económica como los diversos elementos que haya tenido en cuenta la ley para establecer los impuestos de que se trate.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Sin embargo, tratándose de rezagos, o sea de ingresos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Secretario de Finanzas y Administración podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
+Sin embargo, tratándose de rezagos, o sea de ingresos que se perciban en años posteriores al en que el crédito se haya generado, el Gobernador del Estado y el Secretario de Hacienda podrán condonarlos o reducirlos cuando lo consideren justo y equitativo en los términos de la fracción XXVI del artículo 93 de la Constitución Política del Estado. El acuerdo en que se autorice esta medida deberá precisar su aplicación y alcance, así como la región o regiones en cuyo beneficio se dicte y será publicado en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 54.- Las multas por infracciones fiscales deberán ser revocadas totalmente si por pruebas diversas de las presentadas ante las autoridades fiscales, se demuestra que no se cometió la infracción o que la persona a la que se le atribuye no es la responsable.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, podrán ser condonados por la Secretaría de Finanzas y Administración, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso; así mismo y por razones plenamente justificadas, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas sólo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales. Contra estas resoluciones no cabrá recurso alguno.
+Las multas por infracciones a las disposiciones fiscales y la indemnización por falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, podrán ser condonados por la Secretaría de Hacienda, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso; así mismo y por razones plenamente justificadas, podrán ser condonados los derechos por servicios que preste el Estado. Las condonaciones anteriormente mencionadas sólo podrán realizarse de manera particular en cada caso que específicamente le sea planteado a la Secretaría mencionada, y nunca con efectos generales. Contra estas resoluciones no cabrá recurso alguno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+55.- Las autoridades fiscales no podrán declarar de oficio la prescripción; en todo caso los causantes deberán hacerla valer mediante memorial presentado en cualquier momento antes del requerimiento que se les haga, o quince días después del mismo, siempre y cuando se garantice el interés fiscal si así lo estima conveniente la Secretaría de Hacienda. Cumplidos los requisitos anteriores, si el crédito fiscal efectivamente prescribió, deberá declararse así y reintegrarse al causante la cantidad exhibida sin hacer deducciones por ningún concepto.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-55.- Las autoridades fiscales no podrán declarar de oficio la prescripción; en todo caso los causantes deberán hacerla valer mediante memorial presentado en cualquier momento antes del requerimiento que se les haga o quince días después del mismo siempre y cuando se garantice el interés fiscal si así lo estima conveniente la Tesorería General del Estado. Cumplidos los requisitos anteriores, si el crédito fiscal efectivamente prescribió, deberá declararse así y reintegrarse al causante la cantidad exhibida sin hacer deducciones por ningún concepto.
 
 La prescripción es personal para los sujetos del crédito fiscal.
 
@@ -537,7 +591,9 @@ II.- Del día siguiente al en que se produjo el hecho generador del crédito fis
 
 III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo el término correrá a partir del día siguiente al en que hubiere cesado.
 
-Las facultades de la Tesorería General del Estado para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán conforme a este artículo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Las facultades de la Secretaría de Hacienda para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán conforme a este artículo.
 
 57.- Los créditos fiscales prescriben en el término de cinco años. En el mismo plazo se extingue, por caducidad, el derecho de los particulares a exigir la devolución de las cantidades pagadas indebidamente, contándose a partir del día en que el causante pudo haber exigido la devolución.
 
@@ -551,9 +607,11 @@ La prescripción se inicia a partir de la fecha en que el crédito pudo ser lega
 
 60.- La caducidad en favor del Fisco del Estado a que se refiere el Artículo 57 se interrumpirá por cualquier gestión de cobro formulada por escrito, que los interesados hagan ante la autoridad competente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-61.- Los créditos y deudas del fisco, únicamente podrán compensarse cuando provengan de la aplicación de leyes tributarias y se satisfagan los requisitos que para esta forma de extinción señala el derecho común. Cuando el crédito y la deuda no provengan de la aplicación del mismo tributo, la deuda del fisco sólo se considerará líquida y exigible si previamente ha sido reconocida por la autoridad que corresponda. La compensación será declarada por la Tesorería General del Estado a petición del interesado. Si dicha Dependencia tiene conocimiento de que se han satisfecho los requisitos para que opere la compensación, podrá declararla de oficio.
+61.- Los créditos y deudas del fisco, únicamente podrán compensarse cuando provengan de la aplicación de leyes tributarias y se satisfagan los requisitos que para esta forma de extinción señala el derecho común. Cuando el crédito y la deuda no provengan de la aplicación del mismo tributo, la deuda del fisco sólo se considerará líquida y exigible si previamente ha sido reconocida por la autoridad que corresponda. La compensación será declarada por la Secretaría de Hacienda a petición del interesado. Si dicha Dependencia tiene conocimiento de que se han satisfecho los requisitos para que opere la compensación, podrá declararla de oficio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 La cancelación de créditos fiscales en las cuentas por incosteabilidad en el cobro y por insolvencia del sujeto pasivo o de los responsables solidarios, no liberan a uno y otros de su obligación.
 
@@ -575,11 +633,17 @@ V.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solve
 
 La garantía de un crédito fiscal comprenderá además del crédito principal la de los posibles recargos, multas y gastos de ejecución.
 
-La Tesorería General del Estado vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de bienes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-El Tesorero podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+La Secretaría de Hacienda vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al secuestro de bienes.
 
-64.- El depósito en dinero se hará únicamente en la Tesorería General del Estado o en las oficinas Recaudadoras, las cuales deberán remitir la garantía a la Tesorería.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+El Secretario podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sea notoria la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+64.- El depósito en dinero se hará únicamente en la Secretaría de Hacienda o en las oficinas Recaudadoras, las cuales deberán remitir la garantía a la Secretaría.
 
 65.- La devolución del depósito que se hubiere constituído para garantizar el interés fiscal, sólo podrá hacerse por orden de la autoridad fiscal competente.
 
@@ -637,7 +701,9 @@ b).- En defecto del indicado en el inciso anterior, el lugar en el que se encuen
 
 c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal.
 
-III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de matriz y, de no hacerlo en un término de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Tesorería General del Estado.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de matriz y, de no hacerlo en un término de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo hará la Secretaría de Hacienda.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -667,9 +733,13 @@ c) Las demás personas que expresamente señalen las disposiciones fiscales del 
 
 74.- Los contribuyentes deberán inscribirse en el Padrón Estatal de Causantes. Cuando un mismo causante tenga diversos giros, sucursales, bodegas o dependencias, deberá empadronar cada uno de ellos por separado.
 
-Asimismo deberá empadronarse en cada uno de los padrones especiales que lleva la Tesorería, cuando sea sujeto de varios impuestos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-75.- Para el efecto de su inscripción en el Padrón Estatal de Causantes, los contribuyentes presentarán su solicitud en las formas autorizadas por la Tesorería General del Estado expresando, bajo protesta de decir verdad, los datos e informes que en las mismas se precisen. Darán aviso igualmente de los cambios de domicilio, razón o denominación social, caso en el que exhibirán copia de la escritura en que consten estos datos; del de sus actividades cuando aumenten o disminuyan sus obligaciones fiscales y del traspaso de la negociación, clausura definitiva o cesación de operaciones.
+Asimismo deberá empadronarse en cada uno de los padrones especiales que lleva la Secretaría, cuando sea sujeto de varios impuestos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+75.- Para el efecto de su inscripción en el Padrón Estatal de Causantes, los contribuyentes presentarán su solicitud en las formas autorizadas por la Secretaría de Hacienda expresando, bajo protesta de decir verdad, los datos e informes que en las mismas se precisen. Darán aviso igualmente de los cambios de domicilio, razón o denominación social, caso en el que exhibirán copia de la escritura en que consten estos datos, del de sus actividades cuando aumenten o disminuyan sus obligaciones fiscales y del traspaso de la negociación, clausura definitiva o cesación de operaciones.
 
 Tendrán igualmente la obligación de citar el número de registro que les sea asignado, en toda declaración, manifestación, promoción, solicitud o gestión que hagan ante cualesquiera oficina o autoridad, indicando si están al corriente en el pago de sus impuestos.
 
@@ -705,25 +775,39 @@ Cuando se cancele la cédula de empadronamiento el interesado deberá entregarla
 
 I.- Que el Contador Público que dictamine esté inscrito en el Registro de la Oficina Estatal de Profesiones y haya obtenido de la misma, patente de ejercicio en los términos del artículo 1082 del Código Administrativo del Estado.
 
-II.- Que el dictamen que emita el Contador Público se formule conforme a las normas y procedimientos de auditoría generalmente aceptados. La Tesorería General del Estado podrá cerciorarse mediante revisión y pruebas selectivas del cumplimiento de esta fracción.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-III.- Que los contribuyentes comuniquen por escrito a la Tesoería (sic) General del Estado que sus estados financieros serán dictaminados por Contador Público para los fines de este artículo, proporcionando los datos de identificación del profesionista, así como constancia expresa de la aceptación del mismo, y entreguen a la Tesorería General del Estado una copia del dictamen, dentro de los 180 días siguientes a la fecha de la comunicación aludida.
+II.- Que el dictamen que emita el Contador Público se formule conforme a las normas y procedimientos de auditoría generalmente aceptados. La Secretaría de Hacienda podrá cerciorarse, mediante revisión y pruebas selectivas, del cumplimiento de esta fracción.
 
-IV.- Que el dictamen presentado a la Tesorería General del Estado se acompañe de una declaración del contador público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate ha cumplido con las obligaciones tributarias que le impone este Código, o en su defecto deberá establecer las salvedades correspondientes precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Los contribuyentes que utilicen los servicios de Contador Público para dictaminar sus estados financieros con fines fiscales federales, están obligados a entregar invariablemente, a la Tesorería General, una copia del dictamen correspondiente. No están sujetos a esta obligación, las sucursales, agencias o cualquiera otra dependencia de negociaciones radicadas fuera del Territorio del Estado.
+III.- Que los contribuyentes comuniquen por escrito a la Secretaría de Hacienda que sus estados financieros serán dictaminados por Contador Público para los fines de este artículo, proporcionando los datos de identificación del profesionista, así como constancia expresa de la aceptación del mismo, y entreguen a la Secretaría de Hacienda una copia del dictamen, dentro de los 180 días siguientes a la fecha de la comunicación aludida.
 
-Las diferencias de impuestos a cargo de los contribuyentes determinadas por el Contador Público, serán recibidas por la Tesorería General del Estado como manifestaciones espontáneas y por lo tanto no se aplicarán sanciones, salvo los recargos correspondientes establecidos en este Código.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+IV.- Que el dictamen presentado a la Secretaría de Hacienda se acompañe de una declaración del Contador Público, referida al propio dictamen, en la que establezca si el contribuyente de que se trate ha cumplido con las obligaciones tributarias que le impone este Código o, en su defecto, deberá establecer las salvedades correspondientes precisando las omisiones en que haya incurrido cuantificando en cada caso su monto.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Los contribuyentes que utilicen los servicios de Contador Público para dictaminar sus estados financieros con fines fiscales federales, están obligados a entregar invariablemente, a la Secretaría de Hacienda, una copia del dictamen correspondiente. No están sujetos a esta obligación, las sucursales, agencias o cualquier otra dependencia de negociaciones radicadas fuera del Territorio del Estado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Las diferencias de impuestos a cargo de los contribuyentes determinadas por el Contador Público, serán recibidas por la Secretaría de Hacienda como manifestaciones espontáneas y, por lo tanto, no se aplicarán sanciones, salvo los recargos correspondientes establecidos en este Código.
 
 Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir las liquidaciones de impuestos omitidos que correspondan.
 
-En caso de falsedad en las declaraciones del Contador Público, determinada por la Tesorería General del Estado, el hecho será comunicado al colegio profesional al que pertenezca.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+En caso de falsedad en las declaraciones del Contador Público, determinada por la Secretaría de Hacienda, el hecho será comunicado al colegio profesional al que pertenezca.
 
 Para establecer la sanción que corresponda al Contador Público, se oirá previamente la opinión del organismo profesional mencionado y al propio contador.
 
 En todo caso los Contadores Públicos al dictaminar los estados financieros de contribuyentes del Estado, deberán observar lo dispuesto por el artículo 234 en materia de Impuesto sobre el Comercio y la Industria.
 
-La Tesorería General del Estado estará facultada para expedir los instructivos que sean necesarios para el adecuado cumplimiento de las disposiciones de este artículo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría de Hacienda estará facultada para expedir los instructivos que sean necesarios para el adecuado cumplimiento de las disposiciones de este artículo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -741,9 +825,9 @@ Las autoridades correspondientes, si el objeto de la operación son bienes inmue
 
 En los testimonios que expidan, deberán insertar la nota y el comprobante del pago de los impuestos respectivos. Cuando el entero de los impuestos se realice por medio de la red electrónica mundial, bastará se inserte en los testimonios el número de operación que le haya correspondido.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-La Secretaría de Finanzas y Administración formulará el modelo de las notas que deben presentar los notarios.
+La Secretaría de Hacienda formulará el modelo de las notas que deben presentar los notarios.
 
 83.- Los Encargados del Registro Publico de la Propiedad y del Comercio no inscribirán ninguna escritura o documento en que consten actos, resoluciones judiciales o administrativas gravadas por este Código, si no se les comprueba fehacientemente el pago de los impuestos que dichos actos generen y que los interesados están al corriente en el pago de los demás impuestos de que, con respecto al Fisco del Estado, son objeto los bienes materia de aquéllos, que existe prórroga legalmente concedida para su pago, que éste fue garantizado o que están exentos por disposición de la Ley.
 
@@ -753,9 +837,9 @@ La Secretaría de Finanzas y Administración formulará el modelo de las notas q
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos y verbales relativos a la situación de los causantes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los Notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-La prohibición a que se refiere esta disposición, no será aplicable tratándose de los servicios públicos prestados por la Secretaría de Finanzas y Administración, por la expedición de constancias relativas al Padrón Vehicular.
+La prohibición a que se refiere esta disposición, no será aplicable tratándose de los servicios públicos prestados por la Secretaría de Hacienda, por la expedición de constancias relativas al Padrón Vehicular.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
@@ -967,7 +1051,9 @@ GRUPO TERCERO.- Con multa de $50.00 a $5,000.00 los casos comprendidos en los ar
 
 GRUPO CUARTO.- Con multa de $50.00 a $1,000.00 los casos comprendidos en los artículos 89 fracciones I, III, XII, XIII y XXII; 90 fracciones I, III, IX, XI y XIV; 91 fracciones I, VIII y XIV; 92 fracciones II, III, IV, X, XI, XII y XIII.
 
-GRUPO QUINTO.- Con multa hasta de tres tantos de la prestación fiscal omitida, en los casos de las fracciones XV, XVI, XVII, XVIII, XIX y XX del artículo 89 y fracción II del artículo 90. Cuando la infracción no traiga como consecuencia omisión de la prestación fiscal, se impondrá multa de $100.00 a $10,000.00, según la gravedad de la falta. Tratándose del Impuesto sobre la Ganadería relacionada con la infracción prevista en la fracción XX del Artículo 89, en todo caso la multa será de $100.00 a $1,000.00 por cada cabeza de ganado, a juicio de la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+GRUPO QUINTO.- Con multa hasta de tres tantos de la prestación fiscal omitida, en los casos de las fracciones XV, XVI, XVII, XVIII, XIX y XX del artículo 89 y fracción II del artículo 90. Cuando la infracción no traiga como consecuencia omisión de la prestación fiscal, se impondrá multa de $100.00 a $10,000.00, según la gravedad de la falta. Tratándose del Impuesto sobre la Ganadería relacionada con la infracción prevista en la fracción XX del artículo 89, en todo caso la multa será de $100.00 a $1,000.00 por cada cabeza de ganado, a juicio de la Secretaría de Hacienda.
 
 94.- Tratándose de infracciones al Impuesto sobre el Comercio y la Industria, se observarán particularmente, las siguientes reglas, sin perjuicio de que en caso de omisión se apliquen las disposiciones de los artículos anteriores:
 
@@ -977,15 +1063,21 @@ II.- Independientemente de las medidas de carácter administrativo a que se refi
 
 III.- No se llevará a cabo la clausura a que se refiere la fracción I, si el causante paga el importe del impuesto que adeude, más el monto de las sanciones y recargos a que se haya hecho acreedor. También serán a cargo del causante los gastos de ejecución ocasionados por esta diligencia.
 
-Cuando ante la autoridad correspondiente se solicite la suspensión provisional o definitiva de una orden de clausura, además de garantizar el interés fiscal en la forma que establece el artículo 63 de este Código, la Tesorería General del Estado podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la terminación del juicio.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Esta inspección estará a cargo de contadores designados y removidos libremente por la Tesorería; sus sueldos o remuneraciones serán pagados por el causante dentro de los diez primeros días de cada mes y por conducto de la oficina recaudadora de la jurisdicción del contribuyente.
+Cuando ante la autoridad correspondiente se solicite la suspensión provisional o definitiva de una orden de clausura, además de garantizar el interés fiscal en la forma que establece el artículo 63 de este Código, la Secretaría de Hacienda podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la terminación del juicio.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Esta inspección estará a cargo de contadores designados y removidos libremente por la Secretaría; sus sueldos o remuneraciones serán pagados por el causante dentro de los diez primeros días de cada mes y por conducto de la oficina recaudadora de la jurisdicción del contribuyente.
 
 Los contribuyentes tendrán derecho a la restitución de los sueldos o remuneraciones pagadas en los casos en que se nulifique la resolución.
 
 IV.- En caso de reincidencia o negativa a formular declaraciones o manifestaciones, se dictará orden definitiva de clausura, y el fisco procederá a suplir las declaraciones omitidas con las informaciones y datos que pueda recabar, para el efecto de practicar la liquidación del adeudo y proceder a su cobro.
 
-V.- Las órdenes de clausura preventiva o definitiva, en su caso, se dictarán por el Tesorero General del Estado o por los Recaudadores de Rentas en sus respectivas jurisdicciones bajo su más estricta responsabilidad y se ejecutarán por las autoridades que los mismos señalen, a más tardar al día siguiente de la fecha en que les sean entregadas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+V.- Las órdenes de clausura preventiva o definitiva, en su caso, se dictarán por el Secretario de Hacienda o por los Recaudadores de Rentas en sus respectivas jurisdicciones bajo su más estricta responsabilidad y se ejecutarán por las autoridades que los mismos señalen, a más tardar al día siguiente de la fecha en que les sean entregadas.
 
 VI.- La clausura preventiva se practicará en cualquier tiempo después de los 15 días siguientes a la fecha en que debieron presentarse las declaraciones. La Autoridad que ordenó la clausura deberá levantarla en la misma fecha en que se presenten las declaraciones y se haga el pago del impuesto, de los recargos, sanciones y de los gastos de ejecución o, en su caso, se asegure el interés fiscal.
 
@@ -995,9 +1087,13 @@ VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1976)
 
 I.- Se estimarán, específicamente como infracciones:
 
-a).- Trasladar o traspasar el negocio sin la autorización de la Tesorería General del Estado que previene el artículo 274 fracción IV;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-b).- Remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de 5 litros, sin el permiso de la Tesoería (sic) General del Estado;
+a).- Trasladar o traspasar el negocio sin la autorización de la Secretaría de Hacienda que previene el artículo 274, fracción IV;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+b).- Remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de 5 litros, sin el permiso de la Secretaría de Hacienda;
 
 c).- Expender bebidas alcohólicas en envases con capacidad mayor a 5 litros, según lo previene el artículo 277;
 
@@ -1007,7 +1103,9 @@ e).- Recibir alcohol que no venga acompañado de la documentación respectiva;
 
 f).- La producción o venta clandestina de bebidas alcohólicas o alcohol.
 
-g).- Que un productor remita bebidas alcohólicas para su venta, distribución o consignación fuera del Estado, sin la autorización de la Tesorería General del Estado exigida por el Artículo 299 Inciso b);
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+g).- Que un productor remita bebidas alcohólicas para su venta, distribución o consignación fuera del Estado, sin la autorización de la Secretaría de Hacienda exigida por el artículo 299, Inciso b;
 
 h).- No presentar facturas u otros comprobantes de adquisición de bebidas alcohólicas o alcohol;
 
@@ -1017,7 +1115,9 @@ j).- Descargar bebidas alcohólicas o alcohol en lugares distinsos (sic) al cons
 
 k).- Transportar o descargar mayor cantidad de bebidas alcohólicas o alcohol que las amparadas en las facturas o notas de remisión o cuando éstas no estén fechadas el mismo día del envío;
 
-l).- No manifestar a la Tesorería General del Estado los contratos a que se refiere el artículo 301 de este Código;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+l).- No manifestar a la Secretaría de Hacienda los contratos a que se refiere el artículo 301 de este Código;
 
 m).- Emplear para el pago de una prestación fiscal, marbetes de clase o leyenda distinta de las previstas en las disposiciones respectivas; y
 
@@ -1031,7 +1131,9 @@ b).- Con multa hasta de $100.00 por cada envase en el caso de los incisos m) y n
 
 c).- Con multa de $1,000.00 a $10,000.00 en los casos de los incisos b), c), f) y g).
 
-III.- El inspector o auditor de la Tesorería General del Estado que encuentre un vehículo no registrado transportando alcohol o bebidas alcohólicas; que descubra a expendedores con bebidas alcohólicas a granel, en envases mayores de 5 litros o que carezcan del marbete que evidencíe el pago del impuesto, levantará acta para consignar los hechos y embargará precautoriamente el vehículo, el alcohol o las bebidas alcohólicas, depositándolos en las bodegas habilitadas al efecto por la autoridad. El Tesorero General del Estado, con base en el acta, podrá ordenar la clausura provisional del establecimiento durante 15 días o la definitiva en caso de reincidencia. También si lo juzga conveniente podrá autorizar que se nombre depositario al propietario o poseedor de los bienes secuestrados.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III.- El inspector o auditor de la Secretaría de Hacienda que encuentre un vehículo no registrado transportando alcohol o bebidas alcohólicas; que descubra a expendedores con bebidas alcohólicas a granel, en envases mayores de 5 litros o que carezcan del marbete que evidencie el pago del impuesto, levantará acta para consignar los hechos y embargará precautoriamente el vehículo, el alcohol o las bebidas alcohólicas, depositándolos en las bodegas habilitadas al efecto por la autoridad. El Secretario de Hacienda, con base en el acta, podrá ordenar la clausura provisional del establecimiento durante 15 días o la definitiva en caso de reincidencia. También, si lo juzga conveniente, podrá autorizar que se nombre depositario al propietario o poseedor de los bienes secuestrados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -1045,15 +1147,23 @@ Se entiende que hay reincidencia, cuando en el término de 5 años la misma pers
 
 Tratándose de funcionarios o empleados públicos que cometan infracciones graves, la falta podrá castigarse, también, con la destitución del cargo o empleo que ocupen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+98.- Para incoarse el procedimiento penal por los delitos previstos en este Código, es necesario denuncia precisamente del Secretario de Hacienda.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Se extinguirá la acción penal y la Secretaría de Hacienda otorgará el perdón al presunto responsable, si antes de que se haya dictado sentencia de primera instancia se pagan las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la Secretaría de Hacienda se ha garantizado debidamente el interés fiscal.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-98.- Para incoarse el procedimiento penal por los delitos previstos en este Código, es necesario denuncia precisamente del Tesorero General del Estado.
-
-Se extinguirá la acción penal y la Tesorería otorgará el perdón al presunto responsable, si antes de que se haya dictado sentencia de primera instancia se pagan las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la Tesorería se ha garantizado debidamente el interés fiscal.
 
 En los delitos fiscales no se aplicarán sanciones pecuniarias en el procedimiento penal; las autoridades fiscales harán efectivas las prestaciones omitidas y las sanciones administrativas correspondientes, con arreglo a las disposiciones de este Código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 Para que se otorgue el beneficio de la libertad caucional, de la condena condicional o del juicio sumario, además de los requisitos señalados en el Código de la materia deberá acreditarse que el interés fiscal está satisfecho o garantizado.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 En todo lo no previsto en este artículo y el siguiente, serán aplicables las reglas de los Códigos de Defensa Social y de Procedimientos en Materia de Defensa Social.
 
@@ -1169,309 +1279,49 @@ II.- Retener a los usuarios de sus servicios el impuesto correspondiente y enter
 
 111.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN P.O. 18 DE NOVIEMBRE DE 1995, LAS DISPOSICIONES DE LA PRESENTE SECCION SERAN APLICABLES DE MANERA SUPLETORIA, HASTA EN TANTO SE EXPIDA EL REGLAMENTO DE LA LEY EN MENCION.</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION SEXTA. CATASTRO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+112.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-112.- Se declaran de utilidad e interés públicos, el Catastro y la organización catastral de la propiedad inmueble en el Estado, considerándose catastro: el inventario de los bienes raíces ubicados en el Estado, estructurado por el conjunto de padrones fiscales en que se contengan los planos generales y parciales relativos a esa propiedad y los datos particulares generales de cada predio, como ubicación, linderos, colindancias, superficies, forma poligonal, construcciones, número de cuenta, nombre del causante y de los anteriores causantes, uso o destino del predio, valor catastral y otros relacionados con los predios.
+113.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-La Tesorería General del Estado, por conducto de su dependencia, el Departamento de Catastro, tendrá a su cargo la formación del plano catastral y de los planos parciales necesarios, de acuerdo con los procedimientos que señale el presente capítulo y su reglamento.
+114.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-Los propietarios o poseedores de predios estarán obligados a facilitar la ejecución de las operaciones catastrales y, por lo tanto, deberán permitir al personal respectivo el acceso a los predios y facilitarles toda clase de datos para el desarrollo de sus funciones.
+115.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-113.- Todo predio ubicado en el Estado deberá ser inscrito en el Catastro, el cual se integrará con los siguientes padrones:
+116.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-I.- Gráfico, constituído por:
+117.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-a).- El plano general del Estado;
+118.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-b).- Los planos parciales catastrales del Estado.
+119.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-II.- Numérico, que registrará:
+120.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+121.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-a).- El número de cuenta o clave del predio;
+122.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-b).- El nombre del propietario o poseedor del predio;
+123.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-c).- La ubicación del predio;
+124.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-d).- La base gravable;
+125.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+126.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-e).- La cuota del impuesto.
+127.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-f).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1977)
+128.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-III.- Alfabético, que registrará:
+129.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-a).- El nombre del sujeto del impuesto, su nacionalidad y domicilio;
+130.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-b).- El número de cuenta o clave del predio;
-
-IV.- De exenciones, que registrará:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-a).- El número de cuenta o clave del predio;
-
-b).- El nombre del propietario o poseedor del predio;
-
-c).- La ubicación del predio;
-
-d).- El fundamento legal de la exención;
-
-e).- La fecha de iniciación de la vigencia de la exención y la fecha de su terminación o anulación, en su caso.
-
-Los predios registrados en el Padrón de Exenciones también se registrarán en los otros padrones.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-114.- No obstante lo dispuesto por el Artículo 111 la Tesorería General del Estado, para llevar a cabo la valuación catastral, podrá oír a los particulares afectados y a las uniones de propietarios.
-
-115.- En materia catastral se considera:
-
-I.- Predio:
-
-a).- La porción o porciones de terreno, incluyendo, en su caso, sus construcciones, que pertenezcan a un mismo propietario o poseedor o a varios en copropiedad o coposesión y cuyos linderos con propiedades ajenas formen un perímetro sin solución de continuidad.
-
-Cuando, por cualquier causa, construcciones permanentes dividan un predio en forma tal que parte o partes de su área queden desvinculados del resto, esa parte o partes se considerarán como predios distintos y, por tanto, serán empadronados por separado y en igual forma se expedirán los recibos de pago del impuesto.
-
-b).- Los lotes en que se hubiera fraccionado un terreno.
-
-II.- Predio no edificado, el que no tenga construcciones o en el que existan construcciones provisionales;
-
-III.- Predio edificado, el terreno que tenga construcciones permanentes;
-
-IV.- Construcciones provisionales, las que por su tipo de construcción, según la época en que hubieran sido realizadas revelen su aprovechamiento transitorio y tengan una productividad económica notoriamente inferior a la que corresponda al valor del terreno. En los casos dudosos, la Tesorería General del Estado determinará si las construcciones son o no provisionales;
-
-V.- Construcciones permanentes, las que por su tipo de construcción y su valor no puedan ser consideradas como provisionales;
-
-VI.- Predio urbano, el que se encuentra ubicado dentro del Fundo Legal o estando fuera, tenga cuando menos dos servicios públicos: (luz, agua, drenaje, etc.);
-
-VII.- Predio rústico, el que no sea urbano;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-VIII.- Valor catastral, el que acepta provisionalmente la Tesorería General del Estado, basándose en la declaración que haga el causante; el que fije a cada predio el Departamento del Catastro en los términos de este capítulo. En todo caso el valor catastral deberá aproximarse, lo más posible, al valor comercial que tenga el predio en la fecha de su avalúo.
-
-116.- Los Ayuntamientos deberán remitir a la Oficina de Catastro de la Tesorería General del Estado, aviso de la iniciación y terminación de las obras de urbanización de los fraccionamientos que hubieran aprobado, a efecto de:
-
-I.- Empadronar los lotes de fraccionamiento, los cuales, para los efectos fiscales se considerarán como nuevos predios.
-
-II.- Registrar la declaración del valor de cada lote del fraccionamiento con carácter provisional, procediendo posteriormente a su valuación, cobrando las diferencias en su caso.
-
-Los Presidentes Municipales y los fraccionadores de terrenos, deberán comunicar por escrito a la Tesorería General del Estado cualquier modificación que se autorice a los planos aprobados, dentro del término de quince días siguientes a la fecha en que se hubieran autorizado las modificaciones, debiéndose acompañar a dicha comunicación un ejemplar de los planos en que aparezcan las innovaciones.
-
-117.- Los Ayuntamientos deberán dar aviso mensualmente a la Oficina de Catastro de la expedición de permisos para construcciones que se lleven a cabo en su jurisdicción, a efecto de llevar el valor catastral justo de las fincas.
-
-De la misma manera deberá enviar copias de los títulos municipales que expida a efecto de empadronar los predios que amparen, así como dar aviso del cambio de nombres de calles y números de fincas.
-
-118.- La valuación catastral de los predios urbanos, se hará a base de estimación pericial de los siguientes factores:
-
-I.- Valor de la tierra determinada en función del lote tipo, del valor de calle correspondiente y de la superficie del predio por valorizar;
-
-II.- Valor de las construcciones permanentes, tomando en consideración lo construído en las diversas plantas y los valores determinados por metro cuadrado, para los diferentes tipos de construcción;
-
-III.- Estado de conservación de las edificaciones.
-
-119.- Para la determinación de los lotes tipo y de los valores unitarios de calle, se tomarán en consideración:
-
-I.- La importancia de la población;
-
-II.- La zonificación Municipal;
-
-III.- Los servicios existentes;
-
-IV.- Las vías de comunicación;
-
-V.- La distancia de los centros comerciales, sociales, oficinas públicas, etc;
-
-VI.- El destino de los predios;
-
-VII.- Sus dimensiones de frente y fondo;
-
-VIII.- Los valores comerciales de las últimas operaciones de compraventa realizadas.
-
-120.- Para fijar los valores unitarios de los diferentes tipos de construcción, se observarán las siguientes reglas:
-
-I.- Se hará la clasificación de los diferentes tipos de edificación;
-
-II.- Para cada uno de ellos se fijará el valor unitario por metro cuadrado de construcción, tomando en consideración cada uno de los elementos que lo integran, tales como: materiales albañilería, plomería, herrería, carpintería, muebles fijos, etc. En los casos de edificios de varias plantas se tomarán en cuenta también los sobrecostos de cimentación y estructura.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-121.- Para determinar los valores unitarios de los predios rústicos, se deberá atender a los factores siguientes: Clase de suelo, calidad, ubicación, vías de comunicación, condiciones hidrológicas, climatología, rendimiento, productividad forestal dentro de un ciclo de explotación, valor comercial, su utilización o destino de acuerdo con su superficie y su configuración topográfica.
-
-No se tomarán en cuenta para los efectos de este artículo las mejoras tales como presones, pozos y cercos.
-
-122.- Los predios rústicos se clasificarán en:
-
-I.- TERRENOS DE RIEGO POR GRAVEDAD.
-
-PRIMERA CLASE.- Aquéllos que cuenten con agua normalmente segura en todo el año, suelos profundos y fértiles, sensiblemente planos, o aquellos otros que no reuniendo estas características se adapten de manera especial para el establecimiento de un determinado cultivo.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-SEGUNDA CLASE.- Cuando el riego sea eventual, o los suelos sensiblemente pobres, en los casos de topografía accidentada.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-TERCERA CLASE.- Con las mismas características de la segunda pero que se encuentren afectados por sales nocivas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-CUARTA CLASE.- Aquellos que estando ubicados en sistemas de riego estén sensiblemente afectados por sales nocivas y para hacerlos producir les sean efectuados necesariamente trabajos especiales.
-
-II.- TERRENOS DE RIEGO POR BOMBEO.- Se clasificarán y valorizarán en relación a la profundidad de extracción de agua.
-
-PRIMERA CLASE.- de 1.00 a 10.00 metros.
-
-SEGUNDA CLASE.- " 10.01 a 20.00 "
-
-TERCERA CLASE.- " 20.01 a 30.00 "
-
-CUARTA CLASE.- " 30.01 a 50.00 "
-
-QUINTA CLASE.- a más de 50.00 metros.
-
-III.- TERRENOS CUBIERTOS CON ARBOLES O ARBUSTOS FRUTALES.- Se clasificarán y valorizarán tomando en cuenta la especie, cantidad y porcentaje de producción a la fecha del avalúo.
-
-IV.- TERRENOS DE TEMPORAL.- Tomando en cuenta como factores predominantes: la precipitación pluvial, la duración del período vegetativo, la calidad de los suelos y su topografía, así como las vías de comunicación, se clasificarán en:
-
-a).- Marginales por precipitación pluvial, los que tengan un promedio de 350 a 425 mm. anuales y un período vegetativo mayor de 180 días;
-
-b).- Los mejor adaptados a nuestros cultivos regionales, con precipitación pluvial promedio de 425 a 500 mm. anuales y un período vegetativo promedio de 180 días;
-
-c).- Ligeramente deficientes en su período vegetativo; con precipitación pluvial sensiblemente igual a la anterior y un período vegetativo que, en promedio, sea inferior a los 180 días, pero no menor de 150 días;
-
-d).- Marginales por duración del período vegetativo, con precipitación pluvial mayor a las descritas anteriormente, pero con un período vegetativo inferior a los 150 días;
-
-e).- Marginales por incomunicación, con precipitaciones y períodos vegetativos mayores que los señalados, pero ubicados lejos de las comunicaciones, como en la Sierra Madre Occidental.
-
-Todos estos tipos de terreno temporal se subdividen en primera y segunda clase, según su topografía y fertilidad.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-V.- TERRENOS PASTALES.- Para la clasificación de estos predios no se tomarán en cuenta los factores contenidos en el artículo anterior. Los terrenos pastales serán considerados como una unidad de explotación, sin determinar las diversas calidades de pastizales que lo integran o los terrenos eriazos o cerriles que comprendan, comparando exclusivamente la superficie del predio con el número de cabezas de ganado mayor o menor que en promedio sea capaz de sustentar.
-
-Estos terrenos se clasificarán y valorizarán atendiendo a su capacidad forrajera, tomando en cuenta la superficie necesaria para mantener una cabeza de ganado mayor o cuatro de ganado menor, conforme a la siguiente tabla:
-
-Hasta 20.00 hectáreas serán de PRIMERA CLASE;
-
-De 20.01 a 25.00 hectáreas serán de SEGUNDA CLASE;
-
-De 25.01 a 30.00 hectáreas serán de TERCERA CLASE;
-
-De 30.01 a 35.00 hectáreas serán de CUARTA CLASE;
-
-De 35.01 a 40.00 hectáreas serán de QUINTA CLASE,
-
-De 40.01 a 50.00 hectáreas serán de SEXTA CLASE;
-
-De más de 50.00 hectáreas serán de SÉPTIMA CLASE;
-
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1973)</small>
-
-VI.- FORESTALES.- Los terrenos con bosque se clasificarán y valuarán basándose en su población forestal, especies y variedades de árboles, tomando en cuenta su ciclo reproductivo. En ningún caso se tomará en consideración la explotación de la vegetación forestal.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VII.- TERRENOS NO ESPECIFICADOS.- Los dedicados a parques de recreo, cotos de caza, los que no tengan utilización definida por parte de sus dueños o ésta no esté prevista en este Código, serán valuados a criterio del Departamento de Catastro, siguiendo los lineamientos generales que marca este capítulo.
-
-123.- Para los efectos de este capítulo y del pago del Impuesto Predial, por plantas de beneficio se entenderán los establecimientos en que se lleven a cabo procedimientos metalúrgicos, o sea la serie de operaciones tendientes a extraer en escala industrial los metales de los minerales que los contienen, quedando comprendidas las plantas de concentración, de lixiviación, de amalgamación, de flotación, de cianuración, molinos, fundiciones y plantas de afinación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-Estos causantes cada año, dentro de la primera quincena del mes de noviembre, presentarán ante la Recaudación de Rentas respectiva declaraciones por triplicado que contendrán los datos que enseguida se expresan:
-
-I.- Nombre del propietario, razón o denominación social o denominación particular de la empresa;
-
-II.- Lugar de ubicación de la planta o establecimiento y Municipio a que corresponda;
-
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1980)
-
-IV.- Detalle general de las construcciones dedicadas a los fines de la empresa;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1980)</small>
-
-V.- Valor que atribuyan al terreno y construcciones.
-
-Siempre estarán obligados a mostrar a las autoridades fiscales los datos, libros y documentos que permitan determinar el valor de los bienes objeto del impuesto.
-
-124.- Los predios a los cuales ya se hubiese fijado un valor catastral, podrán ser revaluados en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-I.- Cuando el avalúo anterior del predio tenga una antigüedad de más de 2 años;
-
-II.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones de las construcciones ya existentes;
-
-III.- Cuando el predio sufra un cambio físico o de urbanización que afecte notoriamente su valor;
-
-IV.- Cuando sea cancelada la exención de que se disfrute;
-
-V.- Cuando se tengan los elementos de catastración técnica necesarios y el avalúo existente haya sido dado con carácter provisional;
-
-VI.- Cuando en las fincas urbanas en construcción o reedificación, haya transcurrido un año de la iniciación de la construcción o reedificación sin haberse terminado, se calificarán en el estado en que se encuentren;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-VII.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se construya, o alguna obra urbanística que incremente significativamente su valor, aunque el avalúo vigente tenga una antigüedad menor a 2 años;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-VIII.- Cuando se trasmita el dominio del predio.
-
-125.- Al practicarse las valuaciones catastrales, los comisionados deberán presentarse en día y hora hábiles en el predio que deba ser objeto de la valuación y mostrarán a los ocupantes tanto la orden correspondiente como su credencial de identificación.
-
-Si los ocupantes se opusieran en cualquier forma a ese trabajo, el valuador informará a la oficina rentística correspondiente a efecto de que se requiera por escrito a los ocupantes del predio, para que permitan la práctica del trabajo ordenado. Si no obstante el requerimiento los ocupantes del predio no permitiesen la valuación, ésta se hará de todas maneras con base en los elementos de que se disponga y sin perjuicio de imponer al infractor las sanciones correspondientes.
-
-126.- La Tesorería General del Estado, estará facultada para ordenar la modificación de las tablas o cuadros de valores, para la tierra o para la construcción, cuando las condiciones de zona, región o sector lo ameriten en razón de los movimientos de los valores comerciales.
-
-Tales modificaciones deberán ajustarse al procedimiento establecido por este capítulo y los instructivos correspondientes.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-127.- Contra las resoluciones dictadas por la Tesorería del Estado, al fijar las clasificaciones y calificaciones de los predios, procederá el recurso de revisión.
-
-128.- Las autoridades judiciales del Estado están obligadas a dar aviso a la Tesorería General, de todas las resoluciones que causen ejecutoria en las que se traslade el dominio de bienes inmuebles, dentro de los quince días siguientes a la fecha de la resolución respectiva.
-
-129.- Los contratos privados traslativos de dominio, deberán ser manifestados a la Tesorería General del Estado dentro de los 30 días siguientes a la fecha de su celebración.
-
-130.- Para fines fiscales los Recaudadores de Rentas, en los casos de operaciones sobre bienes inmuebles sitos en el Estado, tienen obligación de examinar que en los documentos o escritos que se les exhiban se incluyan cuando menos los siguientes datos:
-
-I.- Número de empadronamiento catastral;
-
-II.- Ubicación especificando municipio, población, sector o barrio, calle y número o en su caso colonia, comunidad o ranchería;
-
-III.- Superficie del predio, sus colindancias, sus dimensiones;
-
-IV.- Nombre del predio materia de la operación, si lo tuviere;
-
-V.- Especificación de si se contrata la totalidad o solo una porción del inmueble;
-
-VI.- Clase de tierras, en su caso, y vías de comunicación próximas;
-
-VII.- Nombre, domicilios y nacionalidades de los contratantes;
-
-VIII.- Naturaleza y valor de la operación;
-
-IX.- Fecha del otorgamiento y autorización de la escritura;
-
-X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
-
-131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1982)</small>
-
-A la manifestación anterior deberá adjuntarse plano catastral, permiso de construcción de la Dirección de Obras Públicas Municipales y copia del aviso de terminación de obra presentado ante el Instituto Mexicano del Seguro Social.
+131.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2011)
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
@@ -1489,9 +1339,9 @@ A la manifestación anterior deberá adjuntarse plano catastral, permiso de cons
 
 134.- Son sujetos de este impuesto quienes adquieran el dominio de bienes muebles, en los términos a que se refiere el Artículo 132.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores, que fijará anualmente la Secretaría de Finanzas y Administración o el valor resultante del avalúo que al efecto practique.
+135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores que fijará anualmente la Secretaría de Hacienda o el valor resultante del avalúo que al efecto practique.
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
@@ -1601,9 +1451,9 @@ Cuando dichas personas operen organizadas en agrupaciones profesionales, asociac
 
 179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-180.- La Secretaría de Finanzas y Administración, podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
+180.- La Secretaría de Hacienda, podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no presenten la declaración mensual o no lleven los libros a que están obligados.
 
@@ -1627,9 +1477,9 @@ I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, m
 
 II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Finanzas y Administración comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
+III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Hacienda comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
 
 IV.- A proporcionar a las autoridades fiscales los datos e informes que se les soliciten, dentro del plazo que para ello se les fije.
 
@@ -1643,9 +1493,9 @@ VII.- Señalar nombre y domicilio del depositario de los libros y en general de 
 
 VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-182.- Las declaraciones de los contribuyentes serán revisables por la Secretaría de Finanzas y Administración. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
+182.- Las declaraciones de los contribuyentes serán revisables por la Secretaría de Hacienda. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -1777,13 +1627,13 @@ columna "A"
 
 Si en un mes rigen dos o más salarios mínimos generales en la capital del Estado, el cálculo del impuesto causado en dicho periodo se hará conforme a la tarifa obtenida de la última actualización efectuada durante ese mes en los términos del párrafo anterior.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Administración, hará las operaciones aritméticas que se deriven del incremento al salario mínimo de referencia y publicará en el Periódico Oficial del Estado la tarifa actualizada, dentro de los diez días naturales siguientes al de la publicación del nuevo salario mínimo general en el Diario Oficial de la Federación.
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda, hará las operaciones aritméticas que se deriven del incremento al salario mínimo de referencia y publicará en el Periódico Oficial del Estado la tarifa actualizada, dentro de los diez días naturales siguientes al de la publicación del nuevo salario mínimo general en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Secretaría de Finanzas y Administración, debiendo anexarse copia de la declaración del pago provisional del Impuesto sobre la Renta.
+170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Secretaría de Hacienda, debiendo anexarse copia de la declaración del pago provisional del Impuesto sobre la Renta.
 
 DE LAS EXENCIONES
 
@@ -1821,9 +1671,9 @@ j).- Las despensas que se otorguen a través de vales a los trabajadores, siempr
 
 Para que los conceptos anteriores se excluyan como integrantes de la base del impuesto, deberán ser erogados por el patrón y estar debidamente registrados en contabilidad.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-172.- La Secretaría de Finanzas y Administración podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
+172.- La Secretaría de Hacienda podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
 
 173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
@@ -1999,9 +1849,9 @@ Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles
 
 En el caso de operaciones consignadas en escritura pública, los fedatarios, bajo su responsabilidad calcularán y retendrán el impuesto a que se refiere esta Sección y lo enterarán dentro de los 15 días siguientes a la fecha en que se firme la escritura o minuta, en los términos del artículo 44 de este Código. Los fedatarios quedan relevados de la obligación de efectuar el cálculo y entero del impuesto a que se refiere esta Sección, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales, debiendo observarse al efecto lo dispuesto por la Ley del Impuesto Sobre la Renta federal y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-190-D.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito especializada en valuación debidamente acreditados ante el Departamento Estatal de Profesiones. La Secretaría de Finanzas y Administración estará facultada para practicar, ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
+190-D.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito especializada en valuación debidamente acreditados ante el Departamento Estatal de Profesiones. La Secretaría de Hacienda estará facultada para practicar, ordenar o tomar en cuenta el avalúo del bien objeto de la enajenación.
 
 190-E.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
@@ -2061,7 +1911,9 @@ Las personas que efectúen retenciones harán los enteros relativos en el plazo 
 
 200.- Los jueces del Estado están obligados a remitir a las Recaudaciones de Rentas correspondientes, dentro de los diez días siguientes a la fecha en que sean dictadas, una copia certificada de las sentencias ejecutoriadas en las que se condene el pago de alguno o algunos de los conceptos gravados en este Capítulo.
 
-La Tesorería General del Estado está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría de Hacienda está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios, en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
 
 ### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
@@ -2233,11 +2085,17 @@ IV.- 2% sobre toda clase de camiones de pasajeros o de carga, armados en el Paí
 
 V.- 1.8% en las ventas de segunda mano o posteriores de toda clase de automóviles y camiones, armados o no en el País.
 
-Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Tesorería General o, a juicio de esta Autoridad, sobre el valor resultante del avalúo que al efecto practique.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Para los efectos de este grupo se considerarán ventas de primera mano, todas las que se verifiquen con automóviles o camiones nuevos o usados que por primera vez sean motivo de una transacción comercial dentro del territorio del Estado. El valor gravable se determinará con base en la tabla de valores que anualmente fijará la Secretaría de Hacienda o, a juicio de esta Autoridad, sobre el valor resultante del avalúo que al efecto practique.
 
 QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de azúcar realizadas por los productores, introductores y comerciantes mayoristas de ese producto.
 
 SEXTO GRUPO.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1975)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 532/2011 I P.O. PUBLICADO EN P.O. DE 24 DE DICIEMBRE DE 2011, SE REFORMA EL ARTÍCULO 212, CUARTO GRUPO, FRACCIÓN V, SEGUNDO PÁRRAFO, EN DONDE SE CITA EL TEXTO "QUINTO GRUPO AL OCTAVO GRUPO..."; SIENDO QUE EL ARTÍCULO SE REFORMÓ INTEGRALMENTE EL 30 DE DICIEMBRE DE 1972, PASANDO DE OCHO GRUPOS A SEIS GRUPOS; HABIENDO DIFERENCIA CON LA HISTORIA LEGISLATIVA QUE TIENE PUBLICADA EL CONGRESO DEL ESTADO PUDIÉNDOSE CONSULTAR EN LA PAGINA ELECTRÓNICA.</small>
+
+http://www.congresochihuahua.gob.mx/gestorbiblioteca/gestorcodigos/archivosCodigos/29.pdf.
 
 213.- En todas aquellas operaciones que sean realizadas en forma accidental, por sujetos no empadronados, el impuesto se pagará aplicando la tasa que corresponda conforme al artículo anterior.
 
@@ -2393,15 +2251,17 @@ III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere,
 
 Los causantes que no hayan obtenido ingresos gravables presentarán sus declaraciones expresando la causa de ello, dentro del plazo establecido en el artículo 223.
 
-225.- No se admitirán las declaraciones si éstas no se consignan en las formas aprobadas por la Tesorería General del Estado y si en el mismo acto de su presentación no se paga íntegramente el impuesto y los recargos causados. Este último requisito, el pago del impuesto y recargos, no se exigirá en el caso previsto en la segunda parte del artículo anterior.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+225.- No se admitirán las declaraciones si éstas no se consignan en las formas aprobadas por la Secretaría de Hacienda y si en el mismo acto de su presentación no se paga íntegramente el impuesto y los recargos causados. Este último requisito, el pago del impuesto y recargos, no se exigirá en el caso previsto en la segunda parte del artículo anterior.
 
 226.- Las sociedades no podrán presentar sus declaraciones mensuales sin que sean aprobadas expresamente por la persona a quien corresponda la representación de la sociedad. En el documento en que se apruebe la presentación de las declaraciones se hará constar el monto de los ingresos que deban declararse.
 
 Este artículo tiene como excepción lo dispuesto por el artículo 231.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-227.- Los causantes del impuesto y los gerentes, administradores o apoderados y los contadores de las sociedades, declararán bajo protesta de decir verdad, al hacer las manifestaciones, que los ingresos que declaran son los realmente obtenidos en el período de que se trate, y se harán sabedores de que en caso de falsedad u ocultación incurrirán en las penas establecidas en este Código o, en su caso, en el de Defensa Social.
+227.- Los causantes del impuesto y los gerentes, administradores o apoderados y los contadores de las sociedades, declararán bajo protesta de decir verdad, al hacer las manifestaciones, que los ingresos que declaran son los realmente obtenidos en el período de que se trate, y se harán sabedores de que en caso de falsedad u ocultación incurrirán en las penas establecidas en este Código o, en su caso, en el Código Penal del Estado.
 
 228.- Las declaraciones de los causantes serán revisables en cualquier tiempo en los términos del artículo 239, y cuando aparezca que no se manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias que corresponda, sin perjuicio de las sanciones a que haya lugar.
 
@@ -2433,9 +2293,9 @@ IX.- Proporcionar a las autoridades fiscales del Estado, los datos e informacion
 
 X.- Recibir las visitas de inspección y proporcionar a los auditores o a los investigadores, los datos, informes y documentos que soliciten para el desempeño de sus funciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-XI.- Presentar por triplicado dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
+XI.- Presentar por triplicado dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Secretaría de Hacienda, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas a las cuales deberán anexarse los siguientes documentos:
 
 a).- (DEROGADO, P.O. 16 DE ABRIL DE 1980)
 
@@ -2469,7 +2329,9 @@ XIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales 
 
 XIV.- En el caso de inspección permanente, quedan obligados los contribuyentes a proporcionar al personar (sic) designado los libros, documentos, informes y demás elementos necesarios para el desahogo de la diligencia;
 
-XV.- Los contribuyentes de este impuesto están obligados cuando así lo solicite la Tesorería General del Estado, a proporcionar los informes del transporte de mercancías, movimiento de cuentas, compras efectuadas, así como copias o relaciones de las facturas, notas de venta o notas de servicio que hayan expedido, en las que expresarán los números de empadronamiento de los compradores, de acuerdo con los datos que éstos les hayan proporcionado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+XV.- Los contribuyentes de este impuesto están obligados, cuando así lo solicite la Secretaría de Hacienda, a proporcionar los informes del transporte de mercancías, movimiento de cuentas, compras efectuadas, así como copias o relaciones de las facturas, notas de venta o notas de servicio que hayan expedido, en las que expresarán los números de empadronamiento de los compradores, de acuerdo con los datos que éstos les hayan proporcionado.
 
 Con los datos y documentos a que se refiere el párrafo anterior se ordenarán las auditorías, a efecto de hacer las investigaciones generales que procedan en la contabilidad de los causantes y demás elementos de juicio que puedan allegarse.
 
@@ -2479,7 +2341,9 @@ XVI.- Las demás que establezcan las leyes.
 
 230.- Están obligados a retener y enterar el impuesto en los términos de los artículos 208 y 223 las personas residentes en el Estado que paguen comisiones o remuneraciones por servicios prestados por comisionistas, agentes o representantes radicados fuera del Territorio del Estado. La retención se hará sobre el monto total de los ingresos que perciban los comisionistas, agentes o representantes.
 
-Los retenedores deberán presentar ante las Recaudaciones de Rentas, en el momento de efectuar el pago, una declaración que contenga los siguientes datos: a).- Nombre, domicilio, actividad y en su caso, registro estatal de quien retenga el impuesto. b).- Nombre, domicilio, actividad y en su caso registro estatal de las personas a las que se haya retenido el impuesto. c).- Cantidad total pagada en el mes a cada una de ellas y concepto de la misma. d).- Impuestos retenidos. e).- Lugar y fecha.- f).- Nombre y firma.- g).- Los demás que establezcan las formas aprobadas por la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Los retenedores deberán presentar ante las Recaudaciones de Rentas, en el momento de efectuar el pago, una declaración que contenga los siguientes datos: a).- Nombre, domicilio, actividad y en su caso, registro estatal de quien retenga el impuesto. b).- Nombre, domicilio, actividad y en su caso registro estatal de las personas a las que se haya retenido el impuesto. c).- Cantidad total pagada en el mes a cada una de ellas y concepto de la misma. d).- Impuestos retenidos. e).- Lugar y fecha.- f).- Nombre y firma.- g).- Los demás que establezcan las formas aprobadas por la Secretaría de Hacienda.
 
 231.- Cuando el administrador único o los administradores de las sociedades autoricen al gerente, al director o apoderado de la empresa para que presenten las manifestaciones mensuales, sin previa aprobación expresa, asumirán para los efectos legales las responsabilidades que puedan derivarse de la falsedad o inexactitud de dichas declaraciones.
 
@@ -2499,15 +2363,21 @@ Si radican dentro del Estado, los representantes legales, los comisionistas y ma
 
 #### SECCION NOVENA. VIGILANCIA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-238.- La vigilancia de este impuesto se ejercerá por la Tesorería General del Estado, tanto directamente como por conducto de las Recaudaciones de Rentas.- La Tesorería General del Estado es la autoridad ampliamente facultada para exigir de los causantes la adopción y establecimiento de medidas de control; ordenar la práctica de auditorías, efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de la auditoría; exigir de los contribuyentes la exhibición de los libros de contabilidad, auxiliares y documentos comprobatorios de los asientos respectivos, y en general, solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones de este capítulo.
+238. La vigilancia de este impuesto se ejercerá por la Secretaría de Hacienda, tanto directamente como por conducto de las Recaudaciones de Rentas. La Secretaría de Hacienda es la autoridad ampliamente facultada para exigir de los causantes la adopción y establecimiento de medidas de control; ordenar la práctica de auditorías, efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de la auditoría; exigir de los contribuyentes la exhibición de los libros de contabilidad, auxiliares y documentos comprobatorios de los asientos respectivos, y en general solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
 Cuando con apoyo en las investigaciones practicadas no sea posible determinar el monto de los ingresos reales del causante, las autoridades fiscales podrán estimarlos tomando en cuenta para ello, entre otros, los elementos a que se refiere el artículo 23.
 
-El Tesorero General del Estado podrá delegar el ejercicio de esta facultad en la autoridad que estime conveniente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Tesorería General o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
+El Secretario de Hacienda podrá delegar el ejercicio de esta facultad en la autoridad que estime conveniente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Secretaría de Hacienda o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -2517,9 +2387,11 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 #### SECCION DECIMA. LIQUIDACIONES A CUOTA FIJA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-240.- Cuando se trate de causantes que en el último ejercicio fiscal de doce meses, hubieren obtenido ingresos anuales hasta de $1´500,000.00 (Un millón quinientos mil pesos 00/100 M.N.) y no hubieren llevado los libros, registros contables, no presenten los comprobantes de las operaciones registradas en ellos en la forma requerida por la Ley, la Tesorería General del Estado podrá determinar estimativamente el ingreso gravable, tomando en cuenta para ello lo previsto por los artículos 23, 36 fracción VIII, 238 y 239 de este Ordenamiento. A los ingresos gravables estimados, se aplicarán las tasas establecidas en esta Ley, y el resultado será el impuesto a pagar, a partir del mes en que se haga la determinación estimativa y hasta el final del año de que se trate. Esa misma cantidad será el impuesto que deberá pagar el causante por los doce meses anteriores a aquél en que se hubiere fijado la cuota.
+240.- Cuando se trate de causantes que en el último ejercicio fiscal de doce meses, hubieren obtenido ingresos anuales hasta de $1'500,000.00 (Un millón quinientos mil pesos 00/100 M.N.) y no hubieren llevado los libros, registros contables, no presenten los comprobantes de las operaciones registradas en ellos en la forma requerida por la Ley, la Secretaría de Hacienda podrá determinar estimativamente el ingreso gravable, tomando en cuenta para ello lo previsto por los artículos 23, 36 fracción VIII, 238 y 239 de este ordenamiento. A los ingresos gravables estimados, se aplicarán las tasas establecidas en esta Ley, y el resultado será el impuesto a pagar, a partir del mes en que se haga la determinación estimativa y hasta el final del año de que se trate. Esa misma cantidad será el impuesto que deberá pagar el causante por los doce meses anteriores a aquél en que se hubiere fijado la cuota.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
 Cuando los ingresos totales percibidos en un ejercicio excedan en más de un 20% de los que se hubieren estimado, las liquidaciones de impuesto formuladas quedarán sin efecto y el causante estará obligado a dar aviso a la Tesorería de esta circunstancia y a pagar las diferencias que resulten de la comprobación de los ingresos reales. Los causantes a los cuáles se les practique la determinación estimativa de ingresos a que alude este precepto:
 
@@ -2531,9 +2403,13 @@ c).- Estarán sujetos a cumplir con las demás obligaciones que a los causantes 
 
 d).- Presentarán en el mes de abril de cada año, en la forma aprobada, una manifestación que contenga el importe de los ingresos y egresos habidos en el negocio durante el año anterior, a la que se acompañará una copia de la declaración anual que sirvió de base para el pago del Impuesto sobre la Renta.
 
-e).- Recibirán las visitas de inspección que ordena la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-f).- La determinación estimativa practicada, tiene la vigencia señalada en este artículo, pero se entenderá prorrogada mientras la Tesorería General del Estado no la modifique.
+e).- Recibirán las visitas de inspección que ordena la Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+f).- La determinación estimativa practicada, tiene la vigencia señalada en este artículo, pero se entenderá prorrogada mientras la Secretaría de Hacienda no la modifique.
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -2635,7 +2511,9 @@ a).- Al verificarse la primera operación con el algodón o su semilla aún cuan
 
 b).- Al salir las pacas de algodón o la semilla de los patios de los despepitadores, si antes no han sido motivo de operaciones comerciales.
 
-Si existen pacas de algodón o semilla dentro de los límites de las plantas despepitadoras, la Tesorería General del Estado podrá ordenar que se practique una inspección fiscal a los libros de contabilidad de la empresa, con objeto de determinar si los citados productos han sido motivo de operaciones comerciales en los términos del inciso a) de este artículo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Si existen pacas de algodón o semilla dentro de los límites de las plantas despepitadoras, la Secretaría de Hacienda podrá ordenar que se practique una inspección fiscal a los libros de contabilidad de la empresa, con objeto de determinar si los citados productos han sido motivo de operaciones comerciales en los términos del inciso a) de este artículo.
 
 254.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones comerciales con el algodón y su semilla en los términos del artículo anterior.
 
@@ -2691,13 +2569,19 @@ c).- Mezcla y ampliación de vinos, aguardientes y cualquier otra bebida alcohó
 
 270.- Para los efectos del impuesto a que se refiere este Capítulo, se entenderá por productor toda persona física o moral que habitual o accidentalmente produzca, obtenga, mezcle o amplíe bebidas alcohólicas.
 
-271.- El pago del impuesto se hará mediante declaración mensual, la que se presentará del día 1o. al día 20 de cada mes en las formas que autorizará la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-272.- La Tesorería General del Estado tiene facultades para comprobar la veracidad de la declaración a que se refiere el artículo anterior, para lo cual podrá practicar las investigaciones y auditorías que sean necesarias.
+271.- El pago del impuesto se hará mediante declaración mensual, la que se presentará del día 1o. al día 20 de cada mes en las formas que autorizará la Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+272.- La Secretaría de Hacienda tiene facultades para comprobar la veracidad de la declaración a que se refiere el artículo anterior, para lo cual podrá practicar las investigaciones y auditorías que sean necesarias.
 
 273.- Las personas físicas o morales que tengan la propiedad o posesión de fabricas o instalaciones productoras de cualquiera de los artículos gravados por este ordenamiento, tienen la obligación de empadronarse en la Recaudación de Rentas de su jurisdicción en un plazo de diez días que se computará a partir de la fecha en que se hubieren concluído las instalaciones o hubieren adquirido la propiedad o posesión.
 
-El empadronamiento se hará en las formas que para el caso autorice la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+El empadronamiento se hará en las formas que para el caso autorice la Secretaría de Hacienda.
 
 Los productores cubrirán, en la Recaudación de Rentas respectiva, al presentar la solicitud de empadronamiento, el derecho correlativo con arreglo a las siguientes cuotas:
 
@@ -2721,9 +2605,13 @@ II.- A conservar en el domicilio legal toda su documentación contable y comprob
 
 III.- A facilitar a las Autoridades Fiscales, en cualquier momento, la inspección de la fábrica, equipo, instalaciones y vehículos, y proporcionar los datos y documentos que le soliciten;
 
-IV.- A solicitar de la Tesorería General del Estado la autorización correspondiente para trasladar o traspasar el negocio con diez días de anticipación;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-V.- A no permitir que salgan de sus fábricas las bebidas envasadas que causen el impuesto a que se refiere la sección segunda de este Capítulo, sin el previo pago del mismo, con la excepción de aquéllas que se remitan a otras Entidades para su venta, en cuyo caso así se hará constar en la factura correspondiente. En este caso se requiere permiso de la Tesorería General del Estado, expedido por la Recaudación de Rentas de su jurisdicción;
+IV.- A solicitar de la Secretaría de Hacienda la autorización correspondiente para trasladar o traspasar el negocio con diez días de anticipación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+V.- A no permitir que salgan de sus fábricas las bebidas envasadas que causen el impuesto a que se refiere la sección segunda de este Capítulo, sin previo pago del mismo, con la excepción de aquellas que se remitan a otras Entidades para su venta, en cuyo caso así se hará constar en la factura correspondiente. En este caso se requiere permiso de la Secretaría de Hacienda, expedido por la Recaudación de Rentas de su jurisdicción;
 
 VI.- A envasar las bebidas en recipientes con una capacidad máxima de cinco litros, a los cuales se adherirá una etiqueta en la que aparezca la graduación alcohólica del producto. Cuando se trate de alcohol, podrá ser envasado en recipientes hasta de veinte litros;
 
@@ -2731,7 +2619,9 @@ VI.- A envasar las bebidas en recipientes con una capacidad máxima de cinco lit
 
 VII.- A registrar en la Recaudación de Rentas respectiva, los vehículos que se dediquen al transporte de alcohol y bebidas alcohólica. Al darse de baja el vehículo o al cambiar de placas, deberá darse el aviso correspondiente a la Recaudación de Rentas en que esté registrado;
 
-VIII.- A recabar en cada caso un permiso de la Tesorería General del Estado a través de la Recaudación de Rentas correspondiente, para remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de cinco litros. Dicho transporte solo podrá ser realizado por personas y vehículos registrados como porteadores ante las autoridades fiscales estatales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+VIII.- A recabar en cada caso un permiso de la Secretaría de Hacienda, a través de la Recaudación de Rentas correspondiente, para remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de cinco litros. Dicho transporte sólo podrá ser realizado por personas y vehículos registrados como porteadores ante las autoridades fiscales estatales;
 
 IX.- A declarar en la Recaudación de Rentas de su jurisdicción dentro de los días 1o. al 20 de cada mes, las ventas en litros que de sus bebidas alcohólicas hayan llevado a cabo dentro de la Entidad, indicando el nombre y domicilio de los compradores y la graduación alcohólica del producto.
 
@@ -2757,9 +2647,11 @@ A los productores, ampliadores y mezcladores de bebidas alcohólicas en el Estad
 
 277.- Las bebidas deberán ser vendidas en envase cerrado, no mayor de cinco litros, y sólo se causará el Impuesto sobre la primera venta de cada envase conteniendo la bebida alcohólica respectiva que se efectúe en el Estado o que surta sus efectos dentro del mismo. El pago del impuesto se hará adhiriendo los marbetes adecuados a cada envase, según la tarifa establecida en esta sección.
 
-278.- Los marbetes deberán ser adquiridos por los causantes habituales o accidentales en las Recaudaciones de Rentas del Estado, llenando al efecto los formularios que la Tesorería General del Estado proporcione.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Los productores, mezcladores, ampliadores, mayoristas, distribuidores y expendedores de bebidas alcohólicas podrán canjear en las Recaudaciones de Rentas respectivas o en el lugar que la Tesorería General del Estado señale para tal efecto, los marbetes que hayan adquirido con anterioridad, por otros de distintos valores, siempre y cuando equivalgan a la misma cantidad en su conjunto.
+278.- Los marbetes deberán ser adquiridos por los causantes habituales o accidentales en las Recaudaciones de Rentas del Estado, llenando al efecto los formularios que la Secretaría de Hacienda proporcione.
+
+Los productores, mezcladores, ampliadores, mayoristas, distribuidores y expendedores de bebidas alcohólicas podrán canjear en las Recaudaciones de Rentas respectivas o en el lugar que la Secretaría de Hacienda señale para tal efecto, los marbetes que hayan adquirido con anterioridad, por otros de distintos valores, siempre y cuando equivalgan a la misma cantidad en su conjunto.
 
 279.- Todas las personas que habitual o accidentalmente se dediquen a la venta de bebidas alcohólicas, deberán vender debidamente marbetados los envases que las contengan, con excepción del productor, ampliador y mezclador, que remita para su venta fuera del Estado productos amparados con la correspondiente factura y carta de porte.
 
@@ -2909,9 +2801,13 @@ i).- Los salones destinados al alquiler para la celebración de reuniones social
 
 290.- El empadronamiento a que se refiere el artículo anterior, causará un derecho de $25.00 por una sola vez.
 
-291.- La vigilancia del cumplimiento de esta Ley, estará a cargo de la Tesorería General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-292.- La facultad para declarar que se ha cometido una infracción y para imponer las sanciones que corresponden, es de la Tesorería General del Estado. La aplicación de las sanciones, se hará sin perjuicio del cobro de los impuestos o derechos omitidos.
+291.- La vigilancia del cumplimiento de esta Ley, estará a cargo de la Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+292.- La facultad para declarar que se ha cometido una infracción y para imponer las sanciones que corresponden, es de la Secretaría de Hacienda. La aplicación de las sanciones, se hará sin perjuicio del cobro de los impuestos o derechos omitidos.
 
 #### SECCION TERCERA. IMPUESTO SOBRE VENTA DE ALCOHOL
 
@@ -2941,7 +2837,9 @@ OBLIGACIONES DE LOS CAUSANTES
 
 I.- Observar para el legal funcionamiento de estos negocios, todas las reglas y obligaciones que a los productores de bebidas alcohólicas les impone el Artículo 274 de este ordenamiento;
 
-II.- Dar aviso por escrito a la Recaudación de Rentas de su jurisdicción, con copia para la Tesorería General del Estado, dentro de las 72 horas siguientes al día en que se reciba cualquier remesa de alcohol;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+II.- Dar aviso por escrito a la Recaudación de Rentas de su jurisdicción, con copia para la Secretaría de Hacienda, dentro de las 72 horas siguientes al día en que se reciba cualquier remesa de alcohol.
 
 En el aviso se señalará el nombre del vendedor, el litraje, la procedencia, marca del alcohol y número de la factura;
 
@@ -2987,17 +2885,25 @@ En este caso, si no es posible identificar al productor de las bebidas alcohóli
 
 IV.- En general se estimará como clandestina toda fabricación o venta de bebidas alcohólicas y alcohol que se realice sin que el productor o vendedor esté empadronado en las oficinas rentísticas.
 
-299.- El transporte de alcohol y bebidas alcohólicas deberá hacerse exclusivamente utilizando vehículos registrados en la Tesorería General del Estado. El transporte de bebidas alcohólicas se hará en la siguiente forma:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+299.- El transporte de alcohol y bebidas alcohólicas deberá hacerse exclusivamente utilizando vehículos registrados en la Secretaría de Hacienda. El transporte de bebidas alcohólicas se hará en la siguiente forma:
 
 a).- En los envíos de bebidas alcohólicas que haga un productor a un expendedor, se hará necesario que los envases lleven adherido el marbete correspondiente.
 
-b).- Cuando un productor remita bebidas alcohólicas para su venta fuera del Estado de Chihuahua, en el recorrido de los vehículos desde las bodegas de los remitentes hasta la estación del ferrocarril o de cualquier otra empresa de transportes, o en sus propios vehículos, el envío se amparará con la factura o nota de remisión respectiva, que para el efecto del transporte previamente autorizará la Tesorería General del Estado o sus órganos de recaudación.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+b).- Cuando un productor remita bebidas alcohólicas para su venta fuera del Estado de Chihuahua, en el recorrido de los vehículos desde las bodegas de los remitentes hasta la estación del ferrocarril o de cualquier otra empresa de transportes, o en sus propios vehículos, el envío se amparará con la factura o nota de remisión respectiva, que para el efecto del transporte previamente autorizará la Secretaría de Hacienda o sus órganos de recaudación.
 
 c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir amparadas con la documentación que expidan los remitentes a los porteadores, de manera que se pruebe plenamente que dichas bebidas y alcohol proceden del exterior del Estado de Chihuahua.
 
-300.- Se faculta al Tesorero General del Estado para que, por conducto de los Auditores e Inspectores a sus órdenes, clausure o levante la clausura de los establecimientos que hayan incurrido en infracción cuando las circunstancias en cada caso así lo requieran; dicha facultad se ejercerá sin perjuicio de la imposición de las multas correspondientes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-301.- Todos los propietarios que celebren contratos de arrendamiento respecto de inmuebles, en los que opere una fábrica, almacén, oficina distribuidora o expendio de alcohol o bebidas alcohólicas, estarán obligados, dentro del plazo de 15 días siguientes a la fecha del contrato respectivo, a manifestarlo a la Tesorería General del Estado, para efectos de registro fiscal.
+300.- Se faculta al Secretario de Hacienda para que, por conducto de los Auditores e Inspectores a sus órdenes, clausure o levante la clausura de los establecimientos que hayan incurrido en infracción cuando las circunstancias en cada caso así lo requieran; dicha facultad se ejercerá sin perjuicio de la imposición de las multas correspondientes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+301.- Todos los propietarios que celebren contratos de arrendamiento respecto de inmuebles, en los que opere una fábrica, almacén, oficina distribuidora o expendio de alcohol o bebidas alcohólicas, estarán obligados, dentro del plazo de 15 días siguientes a la fecha del contrato respectivo, a manifestarlo a la Secretaría de Hacienda, para efectos de registro fiscal.
 
 302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
 
@@ -3005,9 +2911,9 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-329.- Para el cobro de los créditos fiscales exigibles, por concepto de impuestos, derechos, contribuciones especiales, así como los productos y aprovechamientos, la Secretaría de Finanzas y Administración y las oficinas recaudadoras de la misma están investidas de la facultad económica-coactiva.
+329.- Para el cobro de los créditos fiscales exigibles por concepto de impuestos, derechos, contribuciones especiales, así como los productos y aprovechamientos, la Secretaría de Hacienda y las oficinas recaudadoras de la misma están investidas de la facultad económica-coactiva.
 
 También ejercerán la facultad económico-coactiva, de acuerdo con las disposiciones de este capítulo, para hacer efectivas:
 
@@ -3049,9 +2955,9 @@ Si es a los sujetos pasivos o responsables solidarios a quienes corresponde fija
 
 Por las diligencias de requerimiento y de embargo, se causará por concepto de gastos de ejecución a cargo del deudor, un 5% sobre el monto del crédito fiscal por cada una de dichas diligencias, pero en ningún caso podrá ser, en total, ni menor del importe de un día de salario mínimo, ni mayor del monto de diez días del citado salario; por la notificación de un crédito fiscal se causará el importe de un día de salario mínimo por concepto de gastos de ejecución.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-335.- El requerimiento y, en su caso, el embargo, ordenados en el mandamiento de ejecución, los llevará a cabo el jefe de la oficina recaudadora o la persona que él en el mismo mandamiento designe y que podrá ser alguno de los empleados subalternos de la misma oficina o cualquiera otra persona. Los nombramientos de ejecutores se comunicarán al Tesorero General, quien podrá removerlos se comunicarán al Tesorero General, quien podrá removerlos libremente y designar otros.
+335.- El requerimiento y, en su caso, el embargo, ordenados en el mandamiento de ejecución, los llevará a cabo el jefe de la oficina recaudadora o la persona que él en el mismo mandamiento designe y que podrá ser alguno de los empleados subalternos de la misma oficina o cualquiera otra persona. Los nombramientos de ejecutores se comunicarán al Secretario de Hacienda, quien podrá removerlos libremente y designar otros.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
@@ -3069,9 +2975,11 @@ Cuando el deudor haga pago de su adeudo en la caja de la oficina recaudadora, se
 
 En los casos en que se ignore el domicilio del deudor; se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales correspondientes; o hubiere fallecido y no tenga representante legal su sucesión; o se ignore quien es o donde tenga su domicilio, sin perjuicio de que las notificaciones que deban hacérsele en los términos que dispone el artículo 320, el requerimiento y, en su caso, el embargo, se entenderá con la autoridad municipal del lugar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-337.- El Tesorero General del Estado o el Jefe de la Oficina Recaudadora podrá ordenar que se practique embargo precautorio siempre que hubiere peligro de que se ausente el deudor o de que enajene u oculte sus bienes, cuando se trate de exigir cualquier crédito fiscal.
+337.- El Secretario de Hacienda o el jefe de la oficina recaudadora podrán ordenar que se practique embargo precautorio siempre que hubiere peligro de que se ausente el deudor o de que enajene u oculte sus bienes, cuando se trate de exigir cualquier crédito fiscal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 Las citadas autoridades deberán iniciar el procedimiento tendiente a determinar y liquidar el crédito en un plazo que no excederá de 30 días.
 
@@ -3109,11 +3017,15 @@ b).- Bienes que ya reportaren cualquier gravamen.
 
 340.- Están exceptuados de embargo:
 
-I.- El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos, siempre que no sean de lujo, a juicio del ejecutor, que quedará sujeto a la aprobación del Tesorero General.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+I.- El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos, siempre que no sean de lujo, a juicio del ejecutor, que quedará sujeto a la aprobación del Secretario de Hacienda.
 
 II.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado.
 
-III.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto sean necesarios para el servicio de la finca, a juicio del ejecutor, que quedará sujeto a la aprobación del Tesorero General.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto sean necesarios para el servicio de la finca, a juicio del ejecutor, que quedará sujeto a la aprobación del Secretario de Hacienda.
 
 IV.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales.
 
@@ -3151,7 +3063,9 @@ Si las rentas, frutos o productos de esos bienes, correspondientes a un año, so
 
 El depositario podrá ser nombrado por la autoridad ejecutora antes de que se practique el embargo y en cualquier tiempo podrá removerlo libremente, haciendo nueva designación. Lo mismo podrá hacerse respecto al nombrado por el ejecutor.
 
-De los nombramientos y de las remociones de los depositarios e interventores se dará cuenta, para su aprobación, al Tesorero General del Estado, quien podrá removerlos libremente y designar a otras personas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+De los nombramientos y de las remociones de los depositarios e interventores se dará cuenta, para su aprobación, al Secretario de Hacienda, quien podrá removerlos libremente y designar a otras personas.
 
 344.- Cuando se embarguen negociaciones mercantiles, industriales o agrícolas, el depositario tendrá el carácter de interventor con cargo a la caja y estará a su cuidado la vigilancia de la contabilidad.
 
@@ -3165,23 +3079,37 @@ III.- Recaudar las rentas, frutos y productos de los bienes embargados, deposit�
 
 IV.- Ejercitar oportunamente ante las autoridades competentes, las acciones necesarias para hacer efectivos los créditos embargados, que sean objeto del depósito, así como las rentas, productos y cualesquiera otras prestaciones en numerario o en especie.
 
-V.- Erogar los gastos de administración necesarios autorizados por la autoridad ejecutora, con aprobación del Tesorero General, si se trata de depositarios administradores y comprobarlos debidamente.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-VI.- Ministrar los gastos de administración autorizados por la autoridad ejecutora, con aprobación del Tesorero General, previa la comprobación correspondiente, si se trata de depositarios interventores.
+V.- Erogar los gastos de administración necesarios autorizados por la autoridad ejecutora, con aprobación del Secretario de Hacienda, si se trata de depositarios administradores y comprobarlos debidamente.
 
-VII.- Rendir a la autoridad ejecutora y a la Tesorería General, mensualmente, cuentas de su gestión, debidamente comprobadas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Dictar las medidas provisionales urgentes que estime necesarias para proteger los intereses del fisco si se trata de depositarios interventores cuando tengan conocimiento de irregularidades en el manejo de las negociaciones embargadas, o de operaciones que puedan lesionar esos intereses, dando cuenta desde luego a la oficina ejecutora y a la Tesorería General, las que las aprobarán o modificarán, según proceda, de acuerdo con los intereses de la Hacienda Pública Estatal.
+VI.- Ministrar los gastos de administración autorizados por la autoridad ejecutora, con aprobación del Secretario de Hacienda, previa la comprobación correspondiente, si se trata de depositarios interventores.
 
-Si las medidas dictadas por los interventores, en el caso a que se refiere el párrafo anterior, no fueren obedecidas por el deudor o por el personal de la negociación, la autoridad ejecutora con aprobación del Tesorero General, podrá ordenar que el interventor se convierta en administrador y entre desde luego al desempeño de su cargo, o podrá designar a otra persona para el mismo.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-346.- Cuando los bienes embargados hayan sido muebles la autoridad ejecutora, con aprobación del Tesorero General, podrá ordenar que sean extraídos y depositados bajo su custodia, en los almacenes de la misma oficina, o puestos en depósito en persona designada por él.
+VII.- Rendir a la autoridad ejecutora y a la Secretaría de Hacienda, mensualmente, cuentas de su gestión, debidamente comprobadas.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Dictar las medidas provisionales urgentes que estime necesarias para proteger los intereses del fisco si se trata de depositarios interventores cuando tengan conocimiento de irregularidades en el manejo de las negociaciones embargadas, o de operaciones que puedan lesionar esos intereses, dando cuenta desde luego a la oficina ejecutora y a la Secretaría de Hacienda, las que las aprobarán o modificarán, según proceda, de acuerdo con los intereses de la Hacienda Pública Estatal.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Si las medidas dictadas por los interventores, en el caso a que se refiere el párrafo anterior, no fueren obedecidas por el deudor o por el personal de la negociación, la autoridad ejecutora con aprobación del Secretario de Hacienda, podrá ordenar que el interventor se convierta en administrador y entre desde luego al desempeño de su cargo, o podrá designar a otra persona para el mismo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+346.- Cuando los bienes embargados hayan sido muebles la autoridad ejecutora, con aprobación del Secretario de Hacienda, podrá ordenar que sean extraídos y depositados bajo su custodia, en los almacenes de la misma oficina, o puestos en depósito en persona designada por él.
 
 347.- Cuando lo embargado sea dinero, se entregará inmediatamente a la oficina recaudadora, la que lo aplicará desde luego para cubrir, hasta donde alcance, el crédito fiscal.
 
 Si los bienes embargados son alhajas, metales preciosos y objetos de arte, se depositarán en la caja de la oficina recaudadora.
 
-Cuando se embarguen valores mobiliarios, se enviarán para su venta a la institución de crédito que designe la Tesorería General del Estado, si ésta lo estima conveniente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Cuando se embarguen valores mobiliarios, se enviarán para su venta a la institución de crédito que designe la Secretaría de Hacienda, si ésta lo estima conveniente.
 
 Cuando el secuestro recaiga en otros bienes muebles, no mencionados en el artículo anterior, que no puedan guardarse con la debida seguridad en alguna dependencia de la oficina correspondiente, se nombrará depositario de los mismos, quien los guardará a disposición de dicha oficina.
 
@@ -3193,7 +3121,9 @@ De la notificación que ordena el párrafo anterior se pondrá constancia en el 
 
 Si los créditos embargados se encuentran inscritos en el Registro Público de la Propiedad o en el de Comercio, una vez que se hayan cubierto a la oficina recaudadora, a petición de los deudores que los hayan pagado, el jefe de dicha oficina requerirá al acreedor embargado para que dentro de los tres días siguientes al pago extienda el documento que contenga el finiquito de la obligación, para que pueda gestionarse que se cancele la inscripción.
 
-Si el acreedor no cumple con el requerimiento dentro del plazo señalado, el jefe de la oficina recaudadora, con aprobación del Tesorero General, extenderá el finiquito y lo comunicará al Registro Público de la Propiedad o al de Comercio, según proceda, para los efectos a que legalmente haya lugar.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Si el acreedor no cumple con el requerimiento dentro del plazo señalado, el jefe de la oficina recaudadora, con aprobación del Secretario de Hacienda, extenderá el finiquito y lo comunicará al Registro Público de la Propiedad o al de Comercio, según proceda, para los efectos a que legalmente haya lugar.
 
 De la notificación que dispone el párrafo primero se pondrá constancia en el expediente de ejecución, que firmarán el ejecutor y el deudor del crédito embargado, si supiere y quisiere hacerlo.
 
@@ -3205,7 +3135,9 @@ De la notificación que dispone el párrafo primero se pondrá constancia en el 
 
 353.- Cuando los bienes señalados para el secuestro se encuentren ya embargados por otras autoridades, se embargarán también por el ejecutor. En estos casos la diligencia se entenderá con el interventor o depositario de los bienes y con el deudor.
 
-354.- La autoridad ejecutora, previa autorización de la Tesorería General del Estado, podrá celebrar contratos con terceras personas para la explotación de las negociaciones industriales o agrícolas, improductivas o abandonadas que hubieren sido secuestradas, siempre que el arrendatario sea experto en la administración de las negociaciones de que se trate.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+354.- La autoridad ejecutora, previa autorización de la Secretaría de Hacienda, podrá celebrar contratos con terceras personas para la explotación de las negociaciones industriales o agrícolas, improductivas o abandonadas que hubieren sido secuestradas, siempre que el arrendatario sea experto en la administración de las negociaciones de que se trate.
 
 El deudor embargado tendrá preferencia en igualdad de circunstancias.
 
@@ -3217,9 +3149,13 @@ El deudor embargado tendrá preferencia en igualdad de circunstancias.
 
 357.- El remate de los bienes embargados se hará en pública almoneda, que se efectuará en el local de la autoridad ejecutora.
 
-La Tesorería General del Estado, a fin de obtener un mayor rendimiento, podrá acordar, por sí o a solicitud de la autoridad ejecutora, que se lleve a cabo en otro lugar la venta de los bienes secuestrados, o que se vendan en lotes o fracciones, cuando esto lo permita la naturaleza de los bienes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-Cuando los bienes embargados fuesen semovientes o artículos de fácil descomposición o deterioro, o se trate de sustancias o materias peligrosas, la autoridad ejecutora queda facultada para proceder de inmediato a su venta, fuera de subasta y a los precios de mercado, dando aviso a la Tesorería General.
+La Secretaría de Hacienda, a fin de obtener un mayor rendimiento, podrá acordar, por sí o a solicitud de la autoridad ejecutora, que se lleve a cabo en otro lugar la vena (sic) de los bienes secuestrados, o que se vendan en lotes o fracciones, cuando esto lo permita la naturaleza de los bienes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Cuando los bienes embargados fuesen semovientes o artículos de fácil descomposición o deterioro, o se trate de sustancias o materias peligrosas, la autoridad ejecutora queda facultada para proceder de inmediato a su venta, fuera de subasta y a los precios de mercado, dando aviso a la Secretaría de Hacienda.
 
 358.- Servirá de base para el remate de los bienes embargados su valor catastral si se trata de inmuebles; si son muebles el valor que se les fije por medio de avalúo pericial.
 
@@ -3281,9 +3217,13 @@ Si en la última postura se ofrece igual suma de contado, por dos o más licitan
 
 370.- Fincado el remate de bienes muebles, se aplicará el depósito constituído y el postor, dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la oficina recaudadora el saldo de la cantidad de contado ofrecida en su postura o mejora, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando.
 
-Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Tesorería General del Estado, si éste requisito fuese necesario conforme al artículo siguiente, la autoridad ejecutora procederá a entregarle los bienes que se le hubiere adjudicado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-371.- Si los bienes rematados fueren raíces, o muebles cuyo valor exceda de $8,000.00 la autoridad ejecutora dentro de un plazo de cinco días enviará el expediente a la Tesorería General del Estado para que previa revisión, apruebe el remate si el procedimiento se apego a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la autoridad ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituído.
+Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Secretaría de Hacienda, si este requisito fuese necesario conforme al artículo siguiente, la autoridad ejecutora procederá a entregarle los bienes que se le hubiere adjudicado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+371.- Si los bienes rematados fueren raíces, o muebles cuyo valor exceda de $8,000.00, la autoridad ejecutora, dentro de un plazo de cinco días, enviará el expediente a la Secretaría de Hacienda para que previa revisión, apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la autoridad ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 Aprobado el remate de bienes raíces, se le comunicará al postor para que, dentro del plazo de diez días, entere en la caja de la oficina recaudadora la cantidad de contado ofrecida en su postura aceptada.
 
@@ -3337,7 +3277,9 @@ II.- A falta de pujas, por la base de la postura legal no mejorada;
 
 III.- En caso de posturas o pujas iguales, por la cantidad en que se haya producido el empate;
 
-La adjudicación regulada en este artículo, sólo será válida si la aprueba el Tesorero General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+La adjudicación regulada en este artículo, sólo será válida si la aprueba el Secretario de Hacienda.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -3353,7 +3295,9 @@ La base para el remate en Tercera Almoneda será el 20% menos del señalado para
 
 380.- La autoridad ejecutora podrá vender fuera de subasta cuando se trate de bienes de fácil descomposición o deterioro, o de materias inflamables o de semovientes y, cuando después de celebrada una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la última almoneda.
 
-Cuando se trate de bienes raíces o de bienes muebles que habiendo salido a subasta por lo menos en dos almonedas y no se hubieren presentado postores la autoridad ejecutora solicitará de la Tesorería General del Estado autorización para su venta al mejor comprador.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Cuando se trate de bienes raíces o de bienes muebles que habiendo salido a subasta por lo menos en dos almonedas y no se hubieren presentado postores, la autoridad ejecutora solicitará de la Secretaría de Hacienda autorización para su venta al mejor comprador.
 
 También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que lo que se pague de contado cubra cuando menos la totalidad de los créditos fiscales. Sin embargo si en el certificado de gravámenes aparecieren terceros, será indispensable su consentimiento para la enajenación.
 
@@ -3361,7 +3305,9 @@ También procederá la venta fuera de subasta, cuando el embargado señale al pr
 
 381.- Las disposiciones del Código de Procedimientos Civiles del Estado, relativas a remate, serán aplicables supletoriamente a lo dispuesto en el presente Código.
 
-En caso de que los deudores de prestaciones fiscales tengan su residencia fuera del Estado, podrá el Tesorero General hacer efectivos los créditos fiscales mediante juicio ejecutivo civil que promoverá ante los Juzgados de Primera Instancia Civiles de la Ciudad de Chihuahua. En estos casos, la liquidación que formule la autoridad fiscal, se considerará un título ejecutivo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+En caso de que los deudores de prestaciones fiscales tengan su residencia fuera del Estado, podrá el Secretario de Hacienda hacer efectivos los créditos fiscales mediante juicio ejecutivo civil que promoverá ante los Juzgados de Primera Instancia Civil de la Ciudad de Chihuahua. En estos casos, la liquidación que formule la autoridad fiscal, se considerará un título ejecutivo.
 
 #### SECCION TERCERA. TERCERIAS
 
@@ -3369,7 +3315,9 @@ En caso de que los deudores de prestaciones fiscales tengan su residencia fuera 
 
 La tercería excluyente de dominio sólo podrá fundarse en la propiedad que tenga el tercerista sobre los bienes embargados, pero si se trata de inmuebles deberán además estar inscritos en el Registro Público de la Propiedad.
 
-383.- La persona que tenga derecho preferente al de la Tesorería General del Estado, para ser pagada con el producto del remate, podrá promover ante la autoridad ejecutora que lo haya practicado, tercería de preferencia, siempre que no se haya aplicado dicho producto al pago del crédito fiscal.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+383.- La persona que tenga derecho preferente al de la Secretaría de Hacienda, para ser pagada con el producto del remate, podrá promover ante la autoridad ejecutora que lo haya practicado, tercería de preferencia, siempre que no se haya aplicado dicho producto al pago del crédito fiscal.
 
 384.- Las tercerías deberán promoverse por escrito ante la autoridad ejecutora, acompañando el título que compruebe la propiedad de los bienes objeto del embargo, tratándose de tercería excluyente de dominio, o los que acrediten el derecho preferente del tercerista para ser pagado con el producto del remate.
 
@@ -3399,9 +3347,13 @@ Las citadas autoridades locales no fiscales y municipales, podrán embargar el r
 
 Cuando la autoridad ejecutora encuentre que los documentos presentados por el tercerista no bastan para acreditar su derecho de propiedad, ordenará inmediatamente al ejecutor que trabe embargo sobre los bienes objeto de la operación y que notifique en la misma diligencia de embargo al opositor, para que, si conviene a sus derechos, ejercite en forma la tercería excluyente de dominio.
 
-391.- Para que pueda cumplirse la resolución dictada por la autoridad ejecutora en una tercería, sea excluyente de dominio o de preferencia, es necesario, en todo caso que, previa revisión del expediente respectivo, la apruebe el Tesorero General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-392.- Si la resolución del Tesorero General del Estado es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
+391.- Para que pueda cumplirse la resolución dictada por la autoridad ejecutora en una tercería, sea excluyente de dominio o de preferencia, es necesario, en todo caso que, previa revisión del expediente respectivo, la apruebe el Secretario de Hacienda.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+392.- Si la resolución del Secretario de Hacienda es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
 
 ### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
 
@@ -3501,9 +3453,9 @@ II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la 
 
 Los derechos de control vehicular por canje o dotación de placas incluirán la tarjeta de circulación, la cual tendrá la misma vigencia de las placas; cuando el canje deba realizarse con carácter general, se causará dentro de los tres primeros meses del año, salvo que la disposición que fije el derecho señale un plazo distinto.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas y Administración.
+308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Hacienda.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -3681,7 +3633,9 @@ Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que p
 
 #### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
-393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+393.- Se suspenderá el procedimiento a (sic) administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Secretario de Hacienda, podrá éste ordenar que se constituya depósito en la oficina recaudadora.
 
 La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
 
@@ -3699,17 +3653,23 @@ La tramitación de dichos juicios se llevará ante las Salas de lo Civil, por ri
 
 400.- Serán partes en el procedimiento:
 
-I.- El actor, que podrá ser, según el caso, el Tesorero General o el particular afectado con el acto.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+I.- El actor, que podrá ser, según el caso, el Secretario de Hacienda o el particular afectado con el acto.
 
 II.- El demandado, teniendo tal carácter:
 
 a).- La Autoridad fiscal que dicte y ordene, ejecute o trate de ejecutar la resolución impugnada o la que legalmente la substituya.
 
-b).- El particular a quien favorezca la resolución, cuya nulidad pida el Tesorero General.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+b).- El particular a quien favorezca la resolución cuya nulidad pida el Secretario de Hacienda.
 
 III.- El tercero que aparezca como titular de un derecho incompatible con el que pretenda el actor.
 
-IV.- El Tesorero General del Estado, quien será representado en la forma que señalen los ordenamientos, aún cuando sea actor ni demandado.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+IV.- El Secretario de Hacienda, quien será representado en la forma que señalen los ordenamientos, aun cuando no sea actor ni demandado.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
@@ -3817,7 +3777,9 @@ IV.- En los demás casos en que por disposición legal haya impedimento para emi
 
 Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
 
-El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+El Secretario de Hacienda igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
 
 395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
 
@@ -3841,23 +3803,37 @@ IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fisc
 
 ### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
 
-396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+396.- El recurso será de revisión cuando el Secretario de Hacienda resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Secretario de Hacienda resuelva inconformidades de particulares respecto de actos dictado por el mismo.
 
 397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+I.- Se interpondrán ante el Secretario de Hacienda precisamente por escrito, en el que se expresará: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
 
-II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
+II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Secretaría de Hacienda, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución.
 
-IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
+III.- Recibida la instancia, el Secretario de Hacienda recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación: en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
 
-VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+IV.- El Secretario de Hacienda, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que estos últimos deban resolver.
+
+Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Secretario de Hacienda señalará la autoridad fiscal ante la que deba desahogarse la probanza.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Secretario de Hacienda considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+VI.- Para la resolución del recurso, el Secretario de Hacienda pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
@@ -3885,7 +3861,9 @@ Cuando se pida la nulidad de una resolución favorable a un particular, la deman
 
 I.- El nombre del actor y el domicilio en la ciudad de Chihuahua que señale para recibir notificaciones;
 
-II.- El nombre y el domicilio del particular demandado, cuando el juicio sea promovido por el Tesorero General y los del tercero interesado, cuando lo haya;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+II.- El nombre y el domicilio del particular demandado, cuando el juicio sea promovido por el Secretario de Hacienda y los del tercero interesado, cuando lo haya;
 
 III.- La autoridad fiscal que emitió el acto impugnado;
 
@@ -3947,7 +3925,9 @@ Las solicitudes de acumulación notoriamente infundadas se desecharán de plano.
 
 425.- Si la autoridad niega la suspensión del procedimiento de ejecución o rechaza la garantía ofrecida, podrá promoverse, hasta antes de notificarse la resolución que ponga fin a la instancia ante el Supremo Tribunal de Justicia, el incidente respectivo ante la Sala en que este radicado el juicio.
 
-El Tesorero General del Estado podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+El Secretario de Hacienda podrá promover el mismo incidente para combatir las decisiones dictadas por las autoridades fiscales en materia de suspensión, que no se ajusten a las normas legales aplicables.
 
 426.- Promovido el incidente a que se refiere el artículo anterior, el magistrado instructor correrá traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada por el término de tres días y citará, a una audiencia de pruebas y alegatos para dentro del decimoquinto día, en la que la sala dictará resolución que corresponda.
 
@@ -4784,3 +4764,9 @@ PRIMERO.- Una vez publicado el presente Decreto en el Periódico Oficial del Est
 SEGUNDO.- Los adeudos de los contribuyentes obligados al pago del impuesto federal sobre la Tenencia o Uso de Vehículos por el ejercicio fiscal 2010 y anteriores, serán exigibles hasta su liquidación y pago en los términos de los convenios de coordinación y colaboración administrativa en materia fiscal federal, celebrados entre el Gobierno Federal y el Poder Ejecutivo del Estado, vigentes hasta antes de la entrada en vigor del presente Decreto.
 
 TERCERO.- La Secretaría de Hacienda del Gobierno del Estado, deberá continuar con la actualización de los datos del Padrón Estatal Vehicular, a fin de generar certidumbre y seguridad jurídica a los tenedores o propietarios de los vehículos, en términos del Decreto Federal del 21 de diciembre de 2007, así corno de los convenios y leyes que resulten aplicables.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
