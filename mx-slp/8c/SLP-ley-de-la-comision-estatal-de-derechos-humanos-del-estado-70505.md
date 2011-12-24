@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2011-11-22"
+last_updated: "2011-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -31,13 +31,13 @@ C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y S
 
 DECRETO 855
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, DECRETA:
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS.
 
-UNICO. Se EXPIDE la Ley de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, para quedar como sigue
+ÚNICO. Se EXPIDE la Ley de la Comisión Estatal de Derechos Humanos del Estado de San Luis Potosí, para quedar como sigue
 
-LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -213,7 +213,7 @@ La Comisión estará atenta a los procesos de formación de nuevas identidades y
 
 ###### ARTICULO 17.
 
-En aplicación del Principio de Inmediatez, la Comisión obligatoriamente establecerá procedimientos expeditos, breves y sencillos para el trámite de las quejas y denuncias, Específicamente:
+En aplicación del Principio de Inmediatez, la Comisión obligatoriamente establecerá procedimientos expeditos, breves y sencillos para el trámite de las quejas y denuncias. Específicamente:
 
 I. Evitará la dilación de las comunicaciones escritas, utilizando todos los mecanismos tecnológicos a su disposición para comunicarse con la autoridad señalada como responsable, buscando que la violación de Derechos Humanos denunciada cese y sea reparada lo antes posible;
 
@@ -993,9 +993,11 @@ III. En coordinación con la Dirección de Educación y Capacitación, preparar 
 
 ### Capítulo IX. De la Dirección de Administración
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 76.
 
-La Dirección de Administración, siguiendo los lineamientos de la Presidencia, estará a cargo del manejo de los recursos humanos, materiales y financieros de la Comisión.
+La Dirección de Administración, siguiendo los lineamientos de la Presidencia, estará a cargo del manejo de los recursos humanos, materiales y financieros de la Comisión, así como de la presentación de los estados financieros mensuales.
 
 ###### ARTICULO 77.
 
@@ -1005,11 +1007,31 @@ Esta Dirección tiene como objeto central facilitar las tareas sustantivas de la
 
 De la Contraloría Interna.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 78.
 
-La Contraloría Interna es el órgano de la Comisión que tiene encomendada la función de control y vigilancia de los servidores públicos de la Comisión, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
+La Contraloría Interna es el órgano de la Comisión que tiene encomendada la función y control y vigilancia de los servidores públicos de ésta, para lo cual contará con autonomía técnica y de gestión para decidir sobre su funcionamiento.
 
-En el ejercicio de sus atribuciones, la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
+En el ejercicio de sus atribuciones la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de defensa y promoción de los Derechos Humanos de los servidores de la Comisión.
+
+La Contraloría Interna contará con las siguientes atribuciones:
+
+I. Planear, programar, organizar y coordinar el sistema de control y evaluación;
+
+II. Fiscalizar el ingreso y gasto público, así como su congruencia con el presupuesto de egresos;
+
+III. Establecer la calendarización y las bases generales reglamentarias para la realización de auditorías internas e inspecciones;
+
+IV. Participar en la entrega recepción de las unidades administrativas;
+
+V. Dictaminar los estados financieros de la Dirección de Administración, y verificar que los informes sean remitidos en tiempo a la Comisión;
+
+VI. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles de la Comisión;
+
+VII. Informar oportunamente a los servidores públicos acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y
+
+VIII. Vigilar el cumplimiento de las normas y disposiciones sobre el registro, contabilidad, contratación y pago de personal; contratación de servicios, adquisiciones, obra, enajenaciones, arrendamientos, usos y conservación del patrimonio de la Comisión, en su caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
@@ -1582,3 +1604,9 @@ P.O. 22 DE NOVIEMBRE DE 2011
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
