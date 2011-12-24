@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2011-07-02"
+last_updated: "2011-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACAN, COLIMA
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1595,11 +1595,17 @@ a) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, por 
 
 28.- Tiendas departamentales 50.00 a 150.00
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 29.- Tiendas de conveniencia 150.00 a 200.00
 
-30.- Otros giros no especificados 10.00 a 500.00
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+30.-Venta de ponche 24.00 a 28.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+31.- Otros giros no especificados 10.00 a 500.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
@@ -1675,9 +1681,11 @@ c) Por la expedición de permisos para el funcionamiento temporal de establecimi
 
 27.- Tiendas departamentales 5.00 a 15.00
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-28.- Tiendas de conveniencia 10.00
+28.-Venta de ponche 1.00 a 5.00
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 29.- Otros giros no especificados 1.00 a 15.00
 
@@ -1741,7 +1749,13 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 28.- Tiendas de conveniencia 1.50
 
-29.- Otros giros no especificados 0.25 a 15.00
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+29.-Venta de ponche 0.25 a 1.50
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+30.- Otros giros no especificados 1.00 a 15.00
 
 e) Por la autorización de:
 
@@ -1809,9 +1823,13 @@ CAMBIO DE DOMICILIO:
 
 30.- Tiendas de conveniencia 75.00 a 100.00
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-31.- Otros giros no especificados 1.00 a 100.00
+31.-Venta de Ponche 1.00 a 15.00
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+32.- Otros giros no especificados 1.00 a 100.00
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2007)</small>
 
@@ -2896,3 +2914,7 @@ P.O. 18 DE DICIEMBRE DE 2010.
 P.O. 2 DE JULIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
