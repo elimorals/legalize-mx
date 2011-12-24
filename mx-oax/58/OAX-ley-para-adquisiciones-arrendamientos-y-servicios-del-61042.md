@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2008-12-29"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de abril de 2008 y republicada en el P.O. el miércoles 30 de abril de 2008.
 
@@ -77,7 +77,7 @@ VIII. Proveedor: la persona física o moral que reúne los requisitos exigidos p
 
 IX. Licitante: la persona física o moral que participe en cualquier procedimiento de Licitación pública o de invitación restringida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -207,9 +207,11 @@ Para los mismos efectos, las dependencias coordinadoras de sector y las entidade
 
 Las dependencias y entidades pondrán a disposición de la Secretaría, en la fecha que ésta señale, sus programas anuales de contratación de adquisiciones, arrendamientos y servicios priorizados. El documento que contenga los programas será de carácter informativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 18.
 
-Los procedimientos para la contratación de adquisiciones, arrendamientos y servicios sólo podrán llevarse a cabo, cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado. El Comité, en casos excepcionales, podrá contratar sin contar con suficiencia presupuestal.
+Los procedimientos para la contratación de adquisiciones, arrendamientos y servicios sólo podrán llevarse a cabo, cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado.
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
 
@@ -247,9 +249,9 @@ En los procedimientos de contratación deberán establecerse los mismos requisit
 
 La convocante pondrá a disposición pública, a través de los medios de difusión electrónica que establezca, la información que obre en su base de datos correspondiente a las convocatorias y bases de las licitaciones y, en su caso, sus modificaciones, las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas y los datos relevantes de los contratos adjudicados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 22.
 
@@ -371,7 +373,7 @@ IX. Descripción completa de los bienes o servicios, o indicación de los sistem
 
 X. Plazo y condiciones de entrega; así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -395,9 +397,9 @@ Para la participación, contratación o adjudicación en adquisiciones, arrendam
 
 La convocante remitirá para su autorización a la Contraloría cuando menos con cinco días hábiles de anticipación al inicio de los procedimientos de Licitación e invitación restringida, copia de la convocatoria, bases de Licitación, montos estimados de adquisiciones o avalúos correspondientes según sea el caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 28.
 
@@ -411,7 +413,7 @@ III. Capitales contables superiores al diez por ciento del monto total de la ofe
 
 IV. Contar con sucursales o representantes regionales, salvo que resulte necesario para proveer los bienes o prestar los servicios en los términos requeridos; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 V. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2008)
 
@@ -429,7 +431,7 @@ III. Precisar que será requisito el que los Licitantes entreguen junto con la p
 
 IV. Si para verificar el cumplimiento de las especificaciones solicitadas se requiere de la realización de pruebas, se precisará el método para ejecutarlas y el resultado mínimo que deba obtenerse;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -623,11 +625,19 @@ En estos casos la dependencia o entidad deberá pactar que los derechos sobre el
 
 XVII. Se trate de equipos especializados, sustancias y materiales de origen químico, físico químico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por el titular de la dependencia o el órgano de gobierno de la entidad.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Se trate de Instituciones Calificadoras de Valores debidamente autorizadas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+XIX. Se trate de agentes estructuradores e intermediarios financieros.
+
 ###### ARTÍCULO 45.
 
 El procedimiento de invitación restringida se sujetará a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -865,7 +875,7 @@ La adquisición de materiales cuyo consumo haga necesaria invariablemente la uti
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -877,7 +887,7 @@ El registro, actualización y renovación en el padrón, serán obligatorios seg
 
 El registro, o renovación en el padrón, tendrá el costo que señale la Ley de Ingresos del Estado de Oaxaca del Ejercicio Fiscal que corresponda, con vigencia para un ejercicio fiscal. Los proveedores, para renovar su registro, deberán de presentar su solicitud dentro de los quince días hábiles anteriores a su vencimiento; si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la cancelación del registro solicitado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -885,9 +895,9 @@ El registro, o renovación en el padrón, tendrá el costo que señale la Ley de
 
 El Padrón, tiene por objeto facilitar a la administración pública estatal la información completa, confiable y oportuna, sobre los Proveedores con capacidad de proporcionar bienes o prestar servicios, en la cantidad, calidad y oportunidad que se requiera, para obtener las mejores condiciones de contratación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 65.
 
@@ -895,19 +905,19 @@ Para ser inscritos en el padrón los interesados deberán satisfacer los requisi
 
 I. Presentar solicitud por escrito ante la Secretaría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 II. Acreditar fehacientemente su calidad de fabricante, productor o comerciante legalmente establecido, mediante inscripción ante la Secretaría de Hacienda y Crédito Público; en la que se especifique su giro o actividad preponderante;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 III. Comprobar que se encuentra al corriente de sus obligaciones fiscales, en términos de lo dispuesto por el artículo 46-A del Código Fiscal para el Estado de Oaxaca vigente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -915,31 +925,31 @@ IV. Cuando se trate de personas morales deberán exhibir copia certificada de la
 
 Los representantes o apoderados legales de las personas morales, deberán presentar copia certificada de identificación oficial con fotografía; así como de su Registro Federal de Contribuyentes y su Clave Única de Registro de Población (CURP);
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 V. Las personas físicas, deberán presentar copia certificada de identificación oficial con fotografía; así como de su Registro Federal de contribuyentes y su Clave Única de Registro de Población (CURP);
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VI. Proporcionar la información y documentación necesaria para acreditar su solvencia económica y capacidad para producción o suministro de bienes y servicios y, en su caso, para el arrendamiento de bienes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VII. Exhibir curriculum, mismo que en su caso, contendrá una relación de contratos celebrados en los dos últimos años con la Administración Pública, los vigentes y los que tengan pendientes de cumplir en el caso que sea procedente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VIII. Acreditar haber cumplido con las inscripciones que exijan las disposiciones de orden fiscal, mediante la presentación de original y fotocopia simple de los mismos para su cotejo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -947,7 +957,7 @@ IX. Pagar los derechos que establezca la Ley de Ingresos del Estado de Oaxaca de
 
 X.- Las demás que establezca el reglamento respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -957,13 +967,13 @@ ARTÍCULO 65 BIS. La Secretaría podrá eximir de la obligación de inscribirse 
 
 Los proveedores inscritos en el padrón deberán comunicar en cualquier tiempo a la Secretaría, las modificaciones legales, de capacidad técnica, económica o productiva y aquellas que puedan implicar un cambio en su clasificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 La Secretaría, las dependencias, y las entidades deberán invitar a los procedimientos de excepción a la licitación abierta a las personas integrantes del Padrón, de acuerdo con la clasificación en que estén registradas, sin perjuicio de que a falta de proveedores o por así convenir a los intereses de las contratantes o adjudicantes, se pueda invitar a personas que no estén inscritas, en caso de que se les adjudique el contrato o pedido, se deberán inscribir al padrón.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1223,9 +1233,9 @@ Los proveedores que incurran en infracciones a esta Ley, podrán ser sancionados
 
 La contraloría, comunicará a las dependencias y entidades, la conducta del infractor, a fin de que se observe lo dispuesto por el artículo 53 de este ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 92.
 
@@ -1235,7 +1245,7 @@ I. Deje de reunir los requisitos que exige para tal efecto, esta Ley;
 
 II. No cumpla en el plazo convenido para ello y por causas imputables a él, con algún pedido o contrato a que se hubiere comprometido o perjudique con ello, los intereses de la Administración Pública Estatal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1243,9 +1253,9 @@ III. Se niegue a dar facilidades necesarias para que los órganos y entidades fa
 
 Cuando desaparezcan las causas que hubiesen motivado la suspensión del registro, el Proveedor lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir efectos legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 93.
 
@@ -1259,31 +1269,31 @@ III. Incurra en actos, prácticas u omisiones que lesionen el interés general o
 
 IV. Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 V. El proveedor que en su carácter de comerciante sea declarado en concurso mercantil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VI. No atienda en tres ocasiones las invitaciones que se le realicen;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VII. No se presenten a formalizar el pedido o contrato o incumpla con éste, sin causa justificada, después de adjudicado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VIII. Existan a su cargo créditos fiscales firmes; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1449,8 +1459,12 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. TEOFILO MANUEL GARCIA CORPUS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno de Estado.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día 1 de enero del año 2012, previa publicación en el Periódico Oficial del Estado.
