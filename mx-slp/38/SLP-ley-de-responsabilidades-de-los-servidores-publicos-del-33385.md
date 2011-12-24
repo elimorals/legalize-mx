@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2011-11-17"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -143,7 +145,9 @@ I. El ataque a las instituciones democráticas;
 
 II. El ataque a la forma de gobierno republicano, representativo y popular del Estado, así como a la organización política y administrativa de los municipios;
 
-III. Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III. Las violaciones graves y sistemáticas a los derechos humanos y sus garantías;
 
 IV. El ataque a la libertad del sufragio;
 
@@ -1086,3 +1090,9 @@ P.O. 17 DE NOVIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
