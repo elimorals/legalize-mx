@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-catastro-del-estado-y-municipios-de-san-luis-potosi-2136
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-22"
-last_updated: "2001-03-22"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 22 de marzo de 2001.
 
@@ -343,9 +343,11 @@ El profesionista o persona encargada de la realización de las obras será respo
 
 Las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal que realicen actividades relativas a la construcción de obras para el desarrollo urbano y la vivienda, así como la regularización de la tenencia de la tierra, deberán informar a catastro municipal las características de dichas obras, en un término no mayor de diez días hábiles a partir de su inicio y terminación, acompañando los planos y demás documentos relacionados.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 34.
 
-Los notarios públicos requerirán de las personas físicas o morales que pretendan transmitir e inscribir en su caso la propiedad de un inmueble, la certificación de clave y valor catastral correspondientes, el uso del suelo y el plano del mismo, validado por la Dirección de Catastro Municipal, por triplicado; uno para el Registro Público de la Propiedad y del Comercio; el segundo para la Dirección de Catastro Municipal; y el tercero será archivado al apéndice del protocolo de los notarios; asimismo, enviarán mensualmente a la autoridad catastral municipal, una relación de las transmisiones e inscripciones de la propiedad de que conozcan en el período respectivo, en los formatos que para tal efecto proporcione la autoridad catastral municipal.
+Los notarios públicos requerirán de las personas físicas o morales que pretendan transmitir e inscribir en su caso la propiedad de un inmueble, la certificación de clave y valor catastral correspondientes, el uso del suelo y el plano del mismo, validado por la Dirección de Catastro Municipal, por triplicado; uno para el Registro Público de la Propiedad; el segundo para la Dirección de Catastro Municipal; y el tercero será archivado al apéndice del protocolo de los notarios; asimismo, enviarán mensualmente a la autoridad catastral municipal, una relación de las transmisiones e inscripciones de la propiedad de que conozcan en el periodo respectivo, en los formatos que para tal efecto proporcione la autoridad catastral municipal.
 
 ###### ARTICULO 35.
 
@@ -507,7 +509,7 @@ Diputado Presidente: Ignacio Palacios Robledo, Diputado Secretario: Felisa Monta
 
 Por tanto, mando se cumpla y ejecute el presente decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-DADO en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los veintiun días del mes de marzo de dos mil uno.
+DADO en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los veintiún días del mes de marzo de dos mil uno.
 
 El Gobernador Constitucional del Estado.
 
@@ -520,3 +522,11 @@ El Secretario General de Gobierno.
 C. JUAN JOSE RODRIGUEZ.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
