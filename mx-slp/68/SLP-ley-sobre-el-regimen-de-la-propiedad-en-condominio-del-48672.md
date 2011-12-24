@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-la-propiedad-en-condominio-del-48672"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-27"
-last_updated: "2005-12-27"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE LA PROPIEDAD EN CONDOMINIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de diciembre de 2005.
 
@@ -187,9 +187,11 @@ II. El inmueble cumpla con lo establecido en el artículo 4° de esta Ley, y
 
 III. Se cumpla con las disposiciones relativas al desarrollo urbano, construcción y demás aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 12.
 
-La escritura constitutiva del régimen de propiedad en condominio de inmuebles, así como los contratos de compraventa o traslado de dominio, y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Registro Público de la Propiedad y del Comercio.
+La escritura constitutiva del régimen de propiedad en condominio de inmuebles, así como los contratos de compraventa o traslado de dominio, y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Registro Público de la Propiedad.
 
 ###### ARTICULO 13.
 
@@ -199,9 +201,11 @@ Cualquier modificación a la escritura constitutiva y su reglamento, se acordar�
 
 En todo contrato de adquisición de los derechos de una unidad de propiedad exclusiva, deberán insertarse las declaraciones y cláusulas de la escritura constitutiva que prevé la fracción I del artículo 11 de esta Ley, y se hará constar que se entregó al interesado una copia del reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 15.
 
-La extinción voluntaria del régimen de propiedad en condominio se acordará en asamblea general extraordinaria, a la que deberá asistir la mayoría simple de los condóminos y requerirá de un mínimo de votos que represente el setenta y cinco por ciento de los mismos, para que sean válidas sus resoluciones. La extinción del régimen de propiedad en condominio deberá constar en escritura pública, e inscribirse en el Registro Público de la Propiedad y del Comercio.
+La extinción voluntaria del régimen de propiedad en condominio se acordará en asamblea general extraordinaria, a la que deberá asistir la mayoría simple de los condóminos y requerirá de un mínimo de votos que represente el setenta y cinco por ciento de los mismos, para que sean válidas sus resoluciones. La extinción del régimen de propiedad en condominio deberá constar en escritura pública, e inscribirse en el Registro Público de la Propiedad.
 
 ## TITULO SEGUNDO. DE LA CALIDAD DE CONDOMINIO, DE LOS BIENES DE PROPIEDAD EXCLUSIVA Y DE LOS (SIC) USO COMUN
 
@@ -385,7 +389,9 @@ IX. El secretario de la asamblea transcribirá y anexará el acta de la misma, e
 
 X. El administrador tendrá siempre a la vista de los condóminos el libro de actas; y les informará por escrito a cada uno las resoluciones que adopte la asamblea, si el acuerdo de la asamblea general:
 
-a) Modifica la escritura constitutiva del condominio, el acta se protocolizará ante fedatario y se inscribirá en el Registro Público de la Propiedad y del Comercio.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+a) Modifica la escritura constitutiva del condominio, el acta se protocolizará ante fedatario y se inscribirá en el Registro Público de la Propiedad.
 
 b) Modifica el reglamento, el acta se protocolizará ante fedatario público.
 
@@ -934,3 +940,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
