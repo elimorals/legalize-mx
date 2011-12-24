@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-60330"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-26"
-last_updated: "2008-09-02"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de enero de 2008.
 
@@ -121,7 +121,9 @@ El impuesto previsto en el artículo anterior se distribuirá de la manera sigui
 
 Cada municipio participará del cien por ciento del importe total efectivamente pagado, del Impuesto Sobre Nómina que efectúe, sin incluir sus accesorios.
 
-### CAPITULO III. De las Participaciones a los Municipios en Ingresos Federales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO III. De las Participaciones a los Municipios en Ingresos Federales y Estatales
 
 ###### ARTICULO 12.
 
@@ -137,9 +139,11 @@ Si al finalizar el año resultare un excedente del segundo fondo distribuible, s
 
 De darse el caso de creación de nuevos municipios, para los efectos de este artículo, se sumará el número de habitantes tanto de la nueva cabecera municipal, como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población o Conteo. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregue el área que integrará al nuevo municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 13.
 
-La cantidad que a cada municipio corresponda, de la recaudación federal participable por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, será calculada de la siguiente forma:
+La cantidad que a cada municipio corresponda, de la recaudación estatal participable por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, será calculada de la siguiente forma:
 
 Del veinte por ciento distribuible entre los municipios, se formarán dos fondos:
 
@@ -377,8 +381,14 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2008.
 
 UNICO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
