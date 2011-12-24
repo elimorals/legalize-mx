@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-procedimientos-administrativos-del-estado-y-21720"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-27"
-last_updated: "2001-03-27"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 27 de marzo de 2001.
 
@@ -593,9 +593,11 @@ La caducidad no producirá por si misma la prescripción de las acciones del par
 
 Cuando se trate de procedimientos iniciados de oficio se entenderán caducados, y se procederá al archivo de las actuaciones, a solicitud de parte interesada o de oficio, en el plazo de 30 días a partir de la última actuación tendiente al dictado de la resolución.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 68.
 
-En aquellos casos en que medie una situación de emergencia o urgencia, debidamente fundada o motivada, la autoridad competente podrá emitir el acto administrativo sin sujetarse a los requisitos y formalidades del procedimiento administrativo previstos en esta Ley, respetando en todo caso las garantías individuales.
+En aquellos casos en que medie una situación de emergencia o urgencia, debidamente fundada o motivada, la autoridad competente podrá emitir el acto administrativo sin sujetarse a los requisitos y formalidades del procedimiento administrativo previstos en esta Ley, respetando en todo caso los derechos humanos y sus garantías.
 
 ### CAPITULO X. De las visitas de inspección y verificación
 
@@ -950,3 +952,11 @@ El Secretario General de Gobierno
 C. JUAN JOSE RODRÍGUEZ.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
