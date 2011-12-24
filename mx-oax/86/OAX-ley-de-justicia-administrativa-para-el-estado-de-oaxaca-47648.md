@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-10-12"
+last_updated: "2011-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -1993,7 +1993,15 @@ La Sala requerirá continuamente al Órgano de Control Interno que corresponda, 
 
 El actor podrá solicitar la suspensión del acto impugnado, en la demanda o en cualquier momento del juicio, hasta antes de citación para sentencia; tal medida cautelar tendrá por efecto mantener las cosas en el estado en que se encuentren hasta en tanto se pronuncia la sentencia definitiva; el Tribunal deberá resolver lo conducente, haciéndolo saber inmediatamente a la autoridad demandada para su cumplimiento.
 
-No se otorgará la suspensión si se sigue perjuicio evidente al interés social, si contravienen disposiciones de orden público o si se deja sin materia el juicio. Salvo que esta se otorgue para efectos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+Se concederá la suspensión siempre que:
+
+I. Se conserve la materia del juicio;
+
+II. No se afecte el interés social, ni se contravengan disposiciones de orden público; y
+
+III. Sean de difícil reparación los daños o perjuicios que se causen al solicitante con la ejecución del acto impugnado.
 
 ###### ARTICULO 186.
 
@@ -2003,19 +2011,43 @@ El Tribunal podrá modificar o revocar en cualquier momento el acuerdo en que ha
 
 Si los actos impugnados se hubiesen ejecutado y afectan a particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad personal de subsistencia entre tanto se pronuncie la resolución que corresponda, el Magistrado Instructor podrá dictar discrecionalmente las medidas cautelares que estime pertinentes para preservar el medio de subsistencia del actor, siempre y cuando no se lesionen derechos de terceros.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 188.
 
-Cuando se trate de créditos fiscales, el Magistrado Instructor al conceder la suspensión podrá discrecionalmente eximir al solicitante de la obligación de garantizar su importe en aquellos casos en que fuere necesario garantizar los intereses del fisco estudiando previamente las circunstancias especiales del mismo, la suspensión del acto impugnado se concederá, previo aseguramiento de los mismos, ante la autoridad ejecutora en cualquiera de las formas que adelante se establecen. La garantía del interés fiscal, que deben comprender la de los posibles recargos, actualización y gastos de ejecución podrá ofrecerse en alguna de las siguientes formas:
+Para el otorgamiento de la suspensión deberá satisfacerse los siguientes requisitos:
 
-I. Depósito en efectivo ante la Secretaría (sic) Finanzas del Gobierno del Estado, las tesorerías municipales, o la institución de crédito que legalmente corresponda;
+I. Tratándose de la suspensión de actos de determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos fiscales, se concederá la suspensión, la que surtirá sus efectos si se ha constituido o se constituye la garantía del interés fiscal ante la autoridad ejecutora por cualquiera de los medios permitidos por las leyes fiscales aplicables.
 
-II. Fianza otorgada por institución autorizada;
+Al otorgar la suspensión, se podrá reducir el monto de la garantía, en los siguientes casos:
 
-III. Prenda o Hipoteca, y
+a) Si el monto de los créditos excediere la capacidad económica del solicitante; y
 
-IV. Embargo de bienes en la vía administrativa.
+b) Si se tratara de tercero distinto al sujeto obligado de manera directa o solidaria al pago del crédito.
 
-El acuerdo que conceda la suspensión surtirá efectos desde luego, aunque se interponga el recurso de queja pero dejará de surtirlos si la garantía que en su caso se haya fijado, no se otorga dentro de los tres días siguientes en el que se notifique el auto que la hubiere concedido.
+II. En los casos en que la suspensión pudiera causar daños o perjuicios a terceros, se concederá si el solicitante otorga garantía bastante para reparar el daño o indemnizar el perjuicio que con ella se cause, si éste no obtiene sentencia favorable.
+
+En caso de afectaciones no estimables en dinero, de proceder la suspensión, se fijará discrecionalmente el importe de la garantía.
+
+La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del Magistrado Instructor, el tercero otorga a su vez contragarantía para restituir las cosas al estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los daños y perjuicios que se le hayan ocasionados, si finalmente la sentencia definitiva que se dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin materia el juicio.
+
+III. En los demás casos, se concederá determinando la situación en que habrán de quedar las cosas, así como las medidas pertinentes para preservar la materia del juicio principal, hasta que se pronuncie sentencia firme.
+
+El monto de la garantía y contragarantía será fijado por el Magistrado Instructor o quien lo supla.
+
+IV. El procedimiento será:
+
+a) La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Sala en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia firme;
+
+b) Se tramitará por cuente por cuerda separada, bajo la responsabilidad del Magistrado Instructor;
+
+c) El Magistrado Instructor deberá conceder o negar la suspensión provisional de la ejecución, a más tardar dentro del día hábil siguiente a la presentación de la solicitud;
+
+d) El Magistrado Instructor requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los tres días siguientes.
+
+V. Mientras no se dicte sentencia firme en el juicio, el Magistrado Instructor podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique; y
+
+VI. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Magistrado Instructor ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, la sala ordenará hacer efectiva la garantía otorgada ante la autoridad.
 
 ###### ARTICULO 189.
 
@@ -2340,3 +2372,9 @@ TERCERO.- El Tribunal contará con un plazo de 180 días para modificar su Regla
 CUARTO.- Para los efectos de esta reforma, la Sala que actualmente preside la Presidencia del Tribunal se convertirá en Sala Superior, en concordancia con el artículo 90 fracción I.
 
 QUINTO.- El plazo a que se refiere el artículo 100 de esta Ley, en el caso de los magistrados designados con anterioridad, se computará a partir de la fecha de su designación.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
