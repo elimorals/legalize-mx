@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2010-12-25"
+last_updated: "2011-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ -- ANTES LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ -- EN EL ESTADO DE COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ALVAREZ EN EL ESTADO DE COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -55,9 +55,11 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado, saneamiento y demás que presta la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez, en lo sucesivo "LA CIAPACOV", pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente Ley, expresadas en unidades de salario mínimo general diario del área geográfica en la que está ubicado el Estado de Colima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 2.
 
-Los derechos a que se refiere el artículo anterior, se pagarán a más tardar el último día de cada mes posterior al vencimiento del bimestre de que se trate, o el primer día hábil siguiente de esa fecha, si aquél no lo fuera, en las cajas recaudadoras de “LA CIAPACOV”, en las instituciones bancarias o establecimientos autorizados por “LA CIAPACOV”.
+Los derechos a que se refiere el artículo anterior, se pagarán a más tardar 28 días naturales posteriores al periodo de facturación bimestral que se trate, de conformidad al calendario que para tales efectos establezca LA CIAPACOV, en las cajas recaudadoras de "LA CIAPACOV", en las instituciones bancarias o establecimientos autorizados por "LA CIAPACOV".
 
 Las cuotas y tarifas establecidas en la presente Ley, están determinadas en forma mensual, pero el pago de los derechos se realizará bimestralmente, en los términos del párrafo anterior.
 
@@ -67,7 +69,7 @@ Tratándose de los derechos de alcantarillado a que se refiere el artículo ante
 
 ### CAPÍTULO SEGUNDO. DE LAS CUOTAS Y TARIFAS EN SERVICIO MEDIDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 3.
 
@@ -75,51 +77,53 @@ Por los servicios de agua potable, alcantarillado y saneamiento en "servicio med
 
 I.- Popular.- Comprende:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-a) En el Municipio de Colima, las colonias de: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II Y III, Gregario Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre I, II y III, Gustavo A. Vázquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio I, II, III y IV, Prados del Sur I y II, Santa Lucía, Villa de San Sebastián, Vivienda Popular, Rinconada de San Pablo, Fraccionamiento Las Fuentes, Fraccionamiento los Jazmines, El Torreón, Las Haciendas, Mirador de Colima y Unión de Colonos Salomón Preciado, Bosques del Sur, Parajes del Sur; así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano; y todas las comunidades rurales.
+a) En el Municipio de Colima, las colonias de: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre, Gustavo A. Vázquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo, El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio, Prados del Sur, Santa Lucía, Villa de San Sebastián, Vivienda Popular, Rinconada de San Pablo, Fraccionamiento Las Fuentes, Fraccionamiento los Jazmines, El Torreón, Las Haciendas, Mirador de Colima y Unión de Colonos Salomón Preciado, Bosques del Sur, Parajes del Sur, La Estancia, Lo de Villa; así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano; y todas las comunidades rurales, exceptuando las casas de descanso y residenciales ubicadas en la zona rural.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-b) En el Municipio de Villa de Álvarez, las siguientes colonias: Adolfo López Mateos, Alfredo V. Bonfil I, Arboledas del Carmen, Azteca, Burócratas, El Llano, Gral. Del Valle, Gral. Emiliano Zapata, Haciendita, José Ma. Morelos, Juan José Ríos I, II y III, La Gloria, Las Águilas, Leandro Valle, Liberación I, Lomas Altas, Rosario Ibarra, Solidaridad, Villa Izcalli, Real de Minas, Jardines del Centenario, así como todas las comunidades rurales exceptuando las casas de descanso. Laguna Seca, Pastores, El Chivato, El Naranjal y Peñitas.
+b) En el Municipio de Villa de Álvarez, las siguientes colonias: Adolfo López Mateos, Alfredo V. Bonfil I, Arboledas del Carmen, Azteca, Burócratas, El Llano, Gral. Del Valle, Gral. Emiliano Zapata, Haciendita, José Ma. Morelos, Juan José Ríos, La Gloria, Las Águilas, Leandro Valle, Liberación, Lomas Altas, Rosario Ibarra, Solidaridad, Villa Izcalli, Real de Minas, Jardines del Centenario, Laguna Seca, Pastores, El Chivato, El Naranjal y Peñitas, así como todas las comunidades rurales exceptuando las casas de descanso y residenciales ubicadas en la zona rural.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 II.- Medio.- Comprende:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-a) En el Municipio de Colima, la zona ubicada en el primer cuadro de la ciudad, delimitado por las calles Venustiano Carranza, Dr. Miguel Galindo, Ignacio Allende, General Núñez, Revolución, Nicolás Bravo, José Antonio Díaz y Degollado. Las Avenidas Niños Héroes, Insurgentes, Camino Real, Pino Suárez y 20 de Noviembre; las colonias Arboledas, Guadalajarita, Las Palmas, Magisterial, Militar, Placetas Estadio, Viveros, Villas del Bosque, Las Víboras; los condominios ubicados en la Calzada Galván, Condominios Torres de Vista Hermosa y los ubicados en Paseo de las Flores; los fraccionamientos: Del Periodista, Huertas del Sol, Jardines Residenciales, Camino Real, Diamante, Fraccionamiento El Yaqui I y II, Fraccionamiento La Rivera, Las Carretas, Rinconada del Pereyra, Buenos Aires, Residencial Margaritas, Los Laureles, Real del Jazmín, Villas del Sur; y el área habitacional que está fuera del primer cuadro de la ciudad, que no esté comprendida en las fracciones I y III de éste artículo.
+a) En el Municipio de Colima, la zona ubicada en el primer cuadro de la ciudad, delimitado por las calles Venustiano Carranza, Dr. Miguel Galindo, Ignacio Allende, General Núñez, Revolución, Nicolás Bravo, José Antonio Díaz y Degollado. Las Avenidas Niños Héroes, Insurgentes, Camino Real, Pino Suárez y 20 de Noviembre; las colonias Arboledas, Guadalajarita, Las Palmas, Magisterial, Militar, Placetas Estadio, Viveros, Villas del Bosque, Las Víboras; los condominios ubicados en la Calzada Galván, Condominios Torres de Vista Hermosa y los ubicados en Paseo de las Flores; los fraccionamientos: Del Periodista, Huertas del Sol, Jardines Residenciales, Camino Real, Diamante, Fraccionamiento El Yaqui, Fraccionamiento La Rivera, Las Carretas, Rinconada del Pereyra, Buenos Aires, Residencial Margaritas, Los Laureles, Real del Jazmín, Villas del Sur; y el área habitacional que está fuera del primer cuadro de la ciudad, que no esté comprendida en las fracciones I y III de éste artículo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-b) En el Municipio de Villa de Álvarez, la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias: Alfredo V. Bonfil II, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, La Joya I y II, Linda Vista I, II y III, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores I y II, Villas Providencia y Villas Rancho Blanco, Lomas de La Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Comala, Fraccionamiento El Ángel, Fraccionamiento Rancho Santo, Villas Diamante, Colinas del Rey, Vista Bugambilias, Villas del Cañaveral, La Reserva, Fraccionamiento Puerta de Hierro, Buena Vista, Higueras del Espinal, Hacienda El Cortijo, Haciendo del Nogal, Fraccionamiento Jacaranda, Los Olivos, Fraccionamiento Puerta Rolón, Fraccionamiento Los Tulipanes, Palo Alto, Verde Valle, Colinas de las Lagunas, Las Lagunas, Real Hacienda, El Haya, Las Colinas, Los Triángulos y San Carlos.
+b) En el Municipio de Villa de Álvarez, la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias: Alfredo V. Bonfil II, Almendros, Alta Villa, Azaleas, Cajita del Agua, Campestre, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, La Joya, Linda Vista, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río, Villa Flores, Villas Providencia y Villas Rancho Blanco, Lomas de La Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Comala, Fraccionamiento El Ángel, Fraccionamiento Rancho Santo, Villas Diamante, Colinas del Rey, Vista Bugambilias, Villas del Cañaveral, La Reserva, Fraccionamiento Puerta de Hierro, Buena Vista, Higueras del Espinal, Hacienda El Cortijo, Haciendo (sic) del Nogal, Fraccionamiento Jacaranda, Los Olivos, Fraccionamiento Puerta Rolón, Fraccionamiento Los Tulipanes, Palo Alto, Verde Valle, Colinas de las Lagunas, Las Lagunas, Real Hacienda, El Haya, Las Colinas, Los Triángulos, San Carlos, Condominios Jade, Punta Diamante, Vista Volcanes, Santa Sofía, Residencial Santa Fé.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 III.- Residencial 1.- Comprende:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-a) En el Municipio de Colima, los siguientes fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Residencial Santa Bárbara, San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Condominio La Primavera, Real Santa Bárbara, Granjas, Campestres del Chanal, Santa María, Residencial Victoria, Hacienda Real, Valle Verde y; las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman.
+a) En el Municipio de Colima, los siguientes fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Residencial Santa Bárbara, San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Condominio La Primavera, Real Santa Bárbara, Granjas, Campestres del Chanal, Santa María, Residencial Victoria, Hacienda Real, Valle Verde, Paseo de la Rivera y; las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman; las casas de descanso y residenciales localizadas en la zona rural.
 
-b) En el Municipio de Villa de Álvarez, las casas de descanso localizadas en la zona rural.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-(VEASE ARCHIVO ANEXO)
+b) En el Municipio de Villa de Álvarez, las casas de descanso y residenciales localizadas en la zona rural.
+
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 IV.- Residencial 2.- Comprende:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-a) En el Municipio de Colima los siguientes Fraccionamientos: Puerta del Sol, Residencial Esmeralda, Esmeralda Norte, Cuarta Sección de Jardines Vista Hermosa, Girasoles, Parque Royal, Real Vista Hermosa I, II y III, Valle Dorado Puerta Paraíso y Residencial Los Olivos; y los Condominios: San Rafael, Los Ciruelos, Residencial Bugambilias, La Cantera, Paseos de la Hacienda, San Germán, Santa Gertrudis y la Huerta de Don Pedro.
+a) En el Municipio de Colima los siguientes fraccionamientos: Puerta del Sol, Residencial Esmeralda, Esmeralda Norte, Cuarta Sección de Jardines Vista Hermosa, Girasoles, Parque Royal, Real Vista Hermosa, Valle Dorado, Puerta Paraíso y Residencial Los Olivos; y los Condominios: San Rafael, Los Ciruelos, Residencial Bugambilias, La Cantera, Paseos de la Hacienda, San Germán, Santa Gertrudis, la Huerta de Don Pedro y Residencial la Primavera.
 
 b) En el Municipio de Villa de Álvarez: Residencial las Parotas.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2008)</small>
 
@@ -189,15 +193,15 @@ III.- Residencial.-Comprende a los usuarios propietarios o poseedores de predios
 
 ### CAPÍTULO TERCERO. DE LAS CUOTAS Y TARIFAS EN SERVICIO NO MEDIDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 8.
 
 En el Municipio de Colima, los usuarios de los servicios de agua potable, alcantarillado y saneamiento en el tipo de uso doméstico "sin medidor", pagarán de acuerdo a la clasificación que les corresponda, las siguientes cuotas fijas mensuales:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-I.- Popular 1.- Comprende las siguientes colonias: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real I y II, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa I, II y III, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre I, II y III, Gustavo A. Vázquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo I y II, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales.
+l.- Popular 1.- Comprende las siguientes colonias: Albarrada, Ampliación La Guadalupe, Antorchista, Arboledas de la Hacienda, Burocrática, Camino Real, Cuauhtémoc, De los Trabajadores, El Paraíso, El Pedregal, El Porvenir, Francisco I. Madero, Francisco Villa, Gregorio Torres Quintero, Ignacio Zaragoza, Insurgentes, Jardines de la Estancia, Jardines del Sol, Josefa Ortiz de Domínguez, Juana de Asbaje, La Guadalupe, La Virgencita Norte, La Virgencita, Las Torres, Lázaro Cárdenas, Los Ángeles, Los Pinos, Luis Donaldo Colosio, Mirador de la Cumbre, Gustavo A. Vazquez Montes, Moctezuma, Nuevo Paraíso, Pablo Silva García, Interior Patios del Ferrocarril, Revolución, Rotaria, San José Norte, San José Sur, San Rafael, Santa Amalia, Siglo XXI, Vagones FF CC, Valle Paraíso, Vecindad Aldama, Vicente Guerrero, Miguel Hidalgo, La Estancia, Lo de Villa, así como las Unidades Habitacionales: Reforma, Lucio Uribe, Matamoros, Lerdo de Tejada, Ignacio Allende, El Salatón, Independencia, Emilio Carranza, Niños Héroes, Balbino Dávalos, Factor Mexicano y todas las comunidades rurales exceptuando las casas de descanso y residenciales ubicadas en la zona rural.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -211,9 +215,9 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 0.84730 0.21182 0.65126
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-II.- Popular 2.- Comprende: El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento El Yaqui I y II, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio I, II, III y IV, Prados del Sur I y II, Santa Lucía, Villa de San Sebastián, Vivienda Popular. Rinconada de San Pablo, Fraccionamiento Las Fuentes, Fraccionamiento los Jazmines, El Torreón, Las Haciendas, Mirador de Colima, Fraccionamiento la Rivera, Unión de Colonos Salomón Preciado, Bosques del Sur, Parajes del Sur, Rinconada del Pereyra, Buenos Aires, Los Laureles, Real del Jazmín y Villas del Sur.
+II.- Popular 2.- Comprende: El Diezmo, El Moralete, El Tecolote, El Tívoli, Fátima, FOVISSSTE, Fraccionamiento Los Volcanes, Fraccionamiento El Yaqui, Fraccionamiento Morelos, Infonavit Camino Real, Infonavit La Estancia, José Pimentel Llerenas, La Armonía, La Oriental, Leonardo B. Gutiérrez, Lomas de Santa Elena, Niños Héroes, Nuevo Milenio, Prados del Sur, Santa Lucía, Villa de San Sebastián, Vivienda Popular. Rinconada de San Pablo, Fraccionamiento Las Fuentes, Fraccionamiento los Jazmines, El Torreón, Las Haciendas, Mirador de Colima, Fraccionamiento la Rivera, Unión de Colonos Salomón Preciado, Bosques del Sur, Parajes del Sur, Rinconada del Pereyra, Buenos Aires, Los Laureles, Real del Jazmín y Villas del Sur.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -225,7 +229,7 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 1.53175 0.38294 0.94538
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 III.- Medio 1.- Comprende el área habitacional que está fuera del primer cuadro de la ciudad y las colonias Villas del Bosque, Las Víboras, Diamante y Residencial Margaritas, excluyendo la comprendida en las fracciones I y II que anteceden.
 
@@ -239,7 +243,7 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 1.98020 0.49505 1.19748
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 IV.- Medio 2.- Comprende la zona ubicada en el primer cuadro de la ciudad, delimitad (sic) por las calles Venustiano Carranza, Dr. Miguel Galindo, Ignacio Allende, General Núñez, Revolución, Nicolás Bravo, José Antonio Díaz, Degollado, y las Avenidas Niños Héroes, Insurgentes, Camino Real, Pino Suárez, 20 de Noviembre, (con excepción de las colonias consideradas en la tarifa medio I que se encuentren dentro de las calles antes mencionadas) y las colonias Arboledas y Las Carretas, los condominios ubicados en la Calzada Galván, Condominios Torres de Vista Hermosa y los ubicados en Paseo de las flores.
 
@@ -253,9 +257,9 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 2.29056 0.57264 1.19748
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-V.- Residencial 1.- Comprende los siguientes fraccionamientos: Del Periodista, Huertas del Sol, Jardines Residenciales, Fraccionamiento Camino Real, Guadalajarita, Las Palmas, Magisterial, Militar, Placetas Estadio, Viveros y Las Carretas.
+V.- Residencial 1.- Comprende los siguientes fraccionamientos: Del Periodista, Huertas del Sol, Jardines Residenciales, Fraccionamiento Camino Real, Guadalajarita, Las Palmas, Magisterial, Militar, Placetas Estadio, Viveros y Las Carretas, así como las casas de descanso y residenciales ubicados en la zona rural.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -267,9 +271,9 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 2.70241 0.67561 2.20567
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-VI.- Residencial 2.- Comprende los siguientes Fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Fraccionamiento Puerta del Sol, Residencial Esmeralda y Esmeralda Norte, Residencial Santa Bárbara, Fraccionamiento San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Cuarta Sección de Vista Hermosa, Granjas, Campestres del Chanal, Condominio La Primavera, Real Santa Bárbara, La Cantera, Paseos de la Hacienda, San Germán, Santa Gertrudis, Residencial Victoria, Santa María, Hacienda Real, Valle Verde y la Huerta de Don Pedro.
+VI.- Residencial 2.- Comprende los siguientes Fraccionamientos: Colinas de Santa Bárbara, Jardines de la Corregidora, Jardines de las Lomas, Jardines Vista Hermosa, Lomas de Circunvalación, Lomas Residenciales, Lomas Verdes, Lomas Vista Hermosa, Fraccionamiento Puerta del Sol, Residencial Esmeralda y Esmeralda Norte, Residencial Santa Bárbara, Fraccionamiento San Pablo, Villa Centella, Villas Colinas, Villa Nova, Villa Verde, Cuarta Sección de Vista Hermosa, Granjas, Campestres del Chanal, Condominio La Primavera, Real Santa Bárbara, La Cantera, Paseos de la Hacienda, San Germán, Santa Gertrudis, Residencial Victoria, Santa María, Hacienda Real, Valle Verde, la Huerta de Don Pedro, Residencial la Primavera y Paseo de la Rivera.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -281,9 +285,9 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 3.01750 0.75437 2.46282
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-VII.- Residencial 3.- Comprende las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman, y los fraccionamientos: Girasoles, Parque Royal, Real Vista Hermosa I, II y III, Residencial Bugambilias, Condominios San Rafael, Los Ciruelos, Fraccionamiento Puerta Paraíso, Fraccionamiento Valle Dorado y Residencial los Olivos.
+VII.- Residencial 3.- Comprende las siguientes calles: Calzadas Pedro A. Galván, 20 de Noviembre, Av. Rey de Coliman, y los fraccionamientos: Girasoles, Parque Royal, Real Vista Hermosa, Residencial Bugambilias, Condominios San Rafael, Los Ciruelos, Fraccionamiento Puerta Paraíso, Fraccionamiento Valle Dorado y Residencial los Olivos.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -295,15 +299,15 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 3.71847 0.92962 3.03508
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 9.
 
 En el Municipio de Villa de Álvarez, los servicios de agua potable, alcantarillado y saneamiento en el tipo de uso doméstico "sin medidor", pagarán de acuerdo a la clasificación que les corresponda, las siguientes cuotas fijas mensuales:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-I. Popular.- Comprende las siguientes colonias Adolfo López Mateos, Alfredo V. Bonfil I, Arboledas del Carmen, Azteca, Burócratas, El Llano, Gral. Del Valle, Gral. Emiliano Zapata, Haciendita, José MA. Morelos, Juan José Ríos I, II y III, La Gloria, Las Águilas, Leandro Valle, Liberación I, Lomas Altas, Rosario Ibarra, Solidaridad, Villa Izcalli, Real de Minas, Jardines del Centenario, así como todas las comunidades rurales exceptuando las casas de descanso. Laguna Seca, Pastores, El Chivato, El Naranjal y Peñitas.
+I.- Popular.- Comprende las siguientes colonias Adolfo López Mateos, Alfredo V. Bonfil l, Arboledas del Carmen, Azteca, Burócratas, El Llano, Gral. Del Valle, Gral. Emiliano Zapata, Haciendita, José Ma. Morelos, Juan José Ríos, La Gloria, Las Águilas, Leandro Valle, Liberación I, Lomas Altas, Rosario Ibarra, Solidaridad, Villa Izcalli, Real de Minas, Jardines del Centenario, Laguna Seca, Pastores, El Chivato, El Naranjal y Peñitas, así como todas las comunidades rurales exceptuando las casas de descanso y residenciales ubicadas en la zona rural.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -315,9 +319,9 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 0.76942 0.19235 0.58824
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-II.- Medio.- Comprende la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta, la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Mortín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil, Almendros I, II y III, Alta Villa, Azaleas, Cajita del Agua, Campestre I y II, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya I y II, Linda Vista I, II y III, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río I, II y III, Villa Flores I y II, Villas Providencia y Villas Rancho Blanco, (se exceptúan las avenidas: Gral. Manuel Álvarez, J. Merced Cabrera, hasta la esquina con Veracruz); Lomas de la Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Cómala, Fraccionamiento El Ángel, Fraccionamiento Puerta de Hierro, Fraccionamiento Rancho Santo, Villas Diamante, Colinas del Rey, Vista Bugambilias, Villas del Cañaveral, La Reserva, Buena Vista, Higueras del Espinal, Hacienda el Cortijo, Hacienda del Nogal, Fraccionamiento Jacaranda, Los Olivos, Fraccionamiento Puerta de Rolón, Fraccionamiento Los Tulipanes, Palo Alto, Verde Valle, Colinas de las Lagunas, Las Lagunas, Real Hacienda, El Haya, Las Colinas, Los Triángulos y San Carlos.
+II.- Medio.- Comprende la zona delimitada por las siguientes calles: Dr. Eduardo Álvarez, De la Cruz, Allende hasta la esquina con Guillermo Prieto, Nicolás Bravo, Zaragoza hasta la esquina con Av. Benito Juárez, Enrique Corona Morfín hasta la esquina con Fco. Javier Mina eje poniente, Galeana, Cuauhtémoc, se incluyen las Avenidas: Benito Juárez, Enrique Corona Morfin, María Ahumada de Gómez, Tecnológico, Blv. Rodolfo Chávez Carrillo, Avenidas Gral. Manuel Álvarez y J. Merced Cabrera y las Colonias Alfredo V. Bonfil II, Almendros, Alta Villa, Azaleas, Cajita del Agua, Campestre, Carlos de la Madrid Virgen, Colinas del Carmen, Condominios los Arcos, Condominios Diamante, El Centenario, El Cortijo, Floresta, Fraccionamiento San Miguel, Fraccionamiento Santa Cristina, Francisco Hernández Espinoza, Golondrinas, Gral. Manuel Álvarez, Gral. Manuel M. Diéguez, Hacienda del Centenario, Jardines de Bugambilias, Jardines de la Villa, Jardines del Llano, Jardines del Centenario, La Joya, Linda Vista, Liberación II, Loma Bonita, Loma Hermosa, Lomas de las Flores, Loma de la Higuera, Lomas del Centenario, Prados de la Villa, Primaveras, Ramón Serrano García, Real Bugambilias, Real del Centenario, Residencial Tabachines, Rinconada de la Hacienda, Rinconada del Centenario, San Agustín, San Isidro, Santa Cristina, Santa Teresa, Sección FOVISSSTE de Villa Izcalli, Senderos del Carmen, Senderos de Rancho Blanco, Villa de Alba, Villa Real, Villa San José, Villacarlo, Villas Adriana, Villas Bugambilias, Villas Colimán, Villas de Alameda, Villas del Centro, Villas de la Tuna, Villas de Oro, Villas del Río, Villa Flores, Villas Providencia y Villas Rancho Blanco, (se exceptúan las avenidas: Gral. Manuel Álvarez, J. Merced Cabrera, hasta la esquina con Veracruz); Lomas de la Herradura, Lomas de La Villa, Villas del Palmar, Fraccionamiento Colinas del Sol, La Frontera, Fraccionamiento Bugambilias, Fraccionamiento Alfonso Rolón, Fraccionamiento Cruz de Cómala, Fraccionamiento El Ángel, Fraccionamiento Puerta de Hierro, Fraccionamiento Rancho Santo, Villas Diamante, Colinas del Rey, Vista Bugambilias, Villas del Cañaveral, La Reserva, Buena Vista, Higueras del Espinal, Hacienda el Cortijo, Hacienda del Nogal, Fraccionamiento Jacaranda, Los Olivos, Fraccionamiento Puerta de Rolón, Fraccionamiento Los Tulipanes, Palo Alto, Verde Valle, Colinas de las Lagunas, Las Lagunas, Real Hacienda, El Haya, Las Colinas, Los Triángulos, San Carlos, Condominios Jade, Punta Diamante, Vista Volcanes, Santa Sofía, Residencial Santa Fé.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -329,7 +333,9 @@ AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
 1.49629 0.37406 0.92437
 
-III.- Residencial.- Comprende Residencial las Parotas y las casas de descanso localizadas en la zona rural.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III.- Residencial.- Comprende Residencial las Parotas y las casas de descanso y residenciales localizadas en la zona rural.
 
 Los usuarios cuyo servicio se ubique en esta fracción pagarán la siguiente cuota fija mensual:
 
@@ -1035,11 +1041,11 @@ TRANSITORIOS:
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA"
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Para el ejercicio fiscal 2008, el beneficio a que se refiere el artículo 37 de esta Ley, se amplía hasta el 30 de junio del citado año, además de no generar los recargos correspondientes en dicha prórroga. Para el supuesto del artículo 38 de la citada Ley, no se generarán recargos hasta después del 30 de junio.
+Para el ejercicio fiscal 2012, los usuarios obtendrán un subsidio del 20% en el servicio de saneamiento, sea bimestral o anualmente adelantado.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -1108,6 +1114,10 @@ P.O. 25 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor el día 1º de Enero de 2011, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para el Ejercicio Fiscal 2011, los usuario (sic) obtendrán un subsidio del 30% en el servicio de saneamiento, sea bimestral o anualmente adelantado.
+
+P.O. 24 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
