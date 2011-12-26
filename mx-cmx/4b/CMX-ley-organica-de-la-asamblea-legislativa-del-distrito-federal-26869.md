@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2011-07-19"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2002-12-05"
 ---
 # LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -698,9 +698,9 @@ Esta se integrará de manera proporcional conforme al número de Diputados que c
 
 La Diputación Permanente será nombrada por la Asamblea en la última sesión del periodo ordinario por mayoría de los Diputados presentes, durarán en su encargo el periodo de receso respectivo, con posibilidad de reelección para el periodo inmediato.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-En la Diputación Permanente sólo podrán tener voz y voto los diputados que hayan sido designados por el Pleno de la Asamblea como titular o como sustituto. En ningún caso podrá participar ningún otro diputado que los señalados en el Acuerdo de la Comisión de Gobierno que haya sido aprobado por el Pleno.
+En la Diputación Permanente sólo podrán tener voz y voto los diputados que hayan sido designados por el Pleno de la Asamblea como titular o como sustituto. No podrá participar ningún otro diputado que los señalados en el Acuerdo de la Comisión de Gobierno que haya sido aprobado por el Pleno, salvo aquellos que intervengan, únicamente con voz pero sin voto, para presentar y argumentar dictámenes de proposiciones en representación de la dictaminadora respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -822,9 +822,9 @@ VIII.- Conocer de las Comunicaciones de los Poderes de la Unión u órganos legi
 
 IX.- Conocer de las Comunicaciones de los órganos de gobierno del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-X.- Conocer de los pronunciamientos, propuestas y denuncias que no comprendan la aprobación, reforma, derogación o abrogación de leyes o decretos;
+X.- Conocer de los pronunciamientos, propuestas, dictámenes y denuncias que no comprendan la aprobación, reforma, derogación o abrogación de leyes, decretos;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1070,9 +1070,9 @@ El análisis y dictamen legislativo, así como las discusiones y votaciones en c
 
 Todo dictamen que presenten las comisiones estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado, las modificaciones que en su caso se hayan realizado y concluir con proposiciones claras y sencillas que puedan sujetarse a votación.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-Los dictámenes aprobados por la Comisión y que sean remitidos a la Mesa Directiva para su discusión en el Pleno deberá (sic) estar debidamente firmados por la mayoría de los integrantes de la Comisión, si la Comisión no cumple con la disposición antes señalada, el dictamen no podrá ser discutido por el Pleno de la Asamblea; asimismo, deberá ir acompañado de manera impresa y por medio electrónico, magnético, óptico u otros.
+Los dictámenes aprobados por la Comisión y que sean remitidos a la Mesa Directiva para su discusión en el Pleno de la Asamblea o ante la Diputación Permanente deberán estar debidamente firmados por la mayoría de los integrantes de la Comisión, si la Comisión no cumple con la disposición antes señalada, el dictamen no podrá ser discutido por el Pleno de la Asamblea o por la Diputación Permanente; asimismo, deberá ir acompañado de manera impresa y por medio electrónico, magnético, óptico u otros.
 
 Los Diputados dejarán de ser miembros de una comisión o comité cuando no acudan, sin causa justificada, a cuatro reuniones consecutivas de dicha comisión o comité. El Presidente de la comisión o comité notificará a la Comisión de Gobierno de los Diputados que incurran en este supuesto para los efectos correspondientes.
 
@@ -1444,7 +1444,9 @@ I.- Que haya sido aprobado el dictamen correspondiente por la comisión o comisi
 
 II.- Que por mandato constitucional o estatutario se deba expedir la ley o el decreto en un plazo determinado, o
 
-III.- Por acuerdo de la Comisión de Gobierno con aprobación del Pleno de la Asamblea y en sus recesos por la Diputación Permanente.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2011)</small>
+
+III.- Por acuerdo de la Comisión de Gobierno con aprobación del Pleno de la Asamblea.
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -1829,3 +1831,13 @@ TERCERO.- Para la primera entrega de la Medalla al Mérito de Protección Civil,
 A. La primera quincena del mes de julio para la emisión de la convocatoria.
 
 B. Del 1 al 30 de agosto para la presentación ante la comunidad de las propuestas y la documentación correspondiente de los candidatos a recibir la Medalla al Mérito de Protección Civil.
+
+G.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto de las reformas a la Ley Orgánica, remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
