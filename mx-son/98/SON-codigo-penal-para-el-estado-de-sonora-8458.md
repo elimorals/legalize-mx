@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2011-07-11"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # CODIGO PENAL PARA EL ESTADO DE SONORA
 
-CODIGO PENAL PARA EL ESTADO DE SONORA
+CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2131,6 +2131,10 @@ I.- Fabrique, produzca, imprima, comercie, suministre, aun gratuitamente, tarjet
 
 II.- Proporcione información confidencial o reservada que, de alguna manera, permita que se puedan llevar a cabo las acciones mencionadas en la fracción anterior o permita su utilización para el pago de bienes y servicios o disposición de efectivo.
 
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+III.- Produzca, imprima, enajene, distribuya, altere, o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
+
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 Si el sujeto activo es empleado del ofendido, la pena se aumentará en una mitad más de la señalada.
@@ -2993,6 +2997,10 @@ Si la entrega se realiza con el fin de obtener un lucro para sí o para otro, o 
 
 Estas mismas sanciones se aplicarán a las personas, que en las circunstancias a que se refiere este artículo, reciban dolosamente al menor.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 275 BIS.- Si las conductas previstas en los artículos 272, 273 y 274 de este Código se cometieran en contra de menores o incapaces, se aumentará la pena que corresponda hasta en una tercera parte.
+
 TITULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
@@ -3455,6 +3463,10 @@ IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o
 
 X.- Respecto de vehículos de propulsión mecánica;
 
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+X Bis.- Respecto de vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales, utilizados para intercambiar o canjear bienes y servicios;
+
 > <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2010)</small>
 
 XI. Respecto de bienes muebles destinados a los planteles educativos e instituciones de educación básica, media superior, superior, para su utilización en el proceso de enseñanza-aprendizaje, tales como infraestructura hidráulica y eléctrica, equipos de cómputo, equipos de aire acondicionado, sistemas de vigilancia, equipos de sonido, aparatos reproductores de imágenes, pantallas digitales o de televisión; asimismo, los que por sus características físicas o sus componentes, formen parte de la infraestructura física de dichos lugares y aquellos cuyo valor individual o en conjunto, al momento de la comisión del delito, exceda los cien días de salario mínimo diario vigente en la capital del Estado; y
@@ -3617,9 +3629,21 @@ XV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pro
 
 XVI.- Al que aproveche indebidamente gases o fluidos, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos;
 
-XVII.- Al que por cualquier motivo, teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente o, a sabiendas, realice operaciones perjudiciales al patrimonio del titular en beneficio propio o de un tercero; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-XVIII.- Al que simule contratos u operaciones que importen créditos en su contra o de cualquier otro modo, se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores.
+XVII.- Al que por cualquier motivo, teniendo a su cargo la administración o el cuidado de bienes ajenos, con ánimo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando o reteniendo valores o empleándolos indebidamente o, a sabiendas, realice operaciones perjudiciales al patrimonio del titular en beneficio propio o de un tercero;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XVIII.- Al que simule contratos u operaciones que importen créditos en su contra o de cualquier otro modo, se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores;
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XIX.- A quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales utilizados para intercambiar o canjear bienes y servicios con conocimiento que son falsos; y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XX.- Al que haga efectivos vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales para intercambiar o canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
 
 ###### ARTICULO 320.
 
@@ -4042,3 +4066,19 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El reglamento a que se refiere el artículo 38 de la ley que se modifica mediante el presente Decreto, deberá expedirse por el Ejecutivo Estatal en un plazo no mayor a 30 días hábiles, contado a partir de la entrada en vigor del presente resolutivo.
+
+B.O. 26 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 155, POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 319 Y SE ADICIONAN UNA FRACCIÓN III AL PÁRRAFO PRIMERO DEL ARTÍCULO 200 BIS, UNA FRACCIÓN X BIS AL ARTÍCULO 308 Y LAS FRACCIONES XIX Y XX AL ARTÍCULO 319 DEL CÓDIGO PENAL PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 156, QUE ADICIONA UN ARTÍCULO 275 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
