@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2011-06-17"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NLE"
 ---
 # LEY DE HACIENDA DEL ESTADO, NUEVO LEON
 
-LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
+LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE JUNIO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 200 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1815,7 +1813,9 @@ Los contribuyentes que otorguen apoyos para la creación de obras literarias o a
 
 2.- El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de $500,000.00 por creador ni por proyecto; y
 
-3.- El monto a acreditarse no podrá exceder del 10% del impuesto sobre nómina a cargo del contribuyente.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+3. El monto a acreditarse no podrá exceder del 20% del impuesto sobre nóminas a cargo del contribuyente.
 
 Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor, en las ramas literaria, musical, dramática, danza, pictórica o de dibujo, escultórica y de carácter plástico, caricatura e historieta, guión cinematográfico y fotografía. Para los efectos de este artículo, no se considerará como creación literaria ni artística la interpretación, la ejecución, la reproducción, la divulgación o la difusión de dichas obras ni quedarán incluidas las obras que resulten de la adaptación o transformación de obras originales, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones y colecciones de obras literarias o artísticas.
 
@@ -4087,13 +4087,13 @@ Tratándose del impuesto Sobre Enajenación de Automóviles, Camiones y Demás V
 
 En caso de que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado realice la prestación de los servicios mencionados en el artículo 276 bis de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre de 1999, los derechos se causarán y pagarán conforme al citado artículo, no obstante que sean prestados con posterioridad a esa fecha.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO OCTAVO.
 
-Para efectos de lo dispuesto en el Artículo 132 de esta Ley, el impuesto causado en el ejercicio fiscal inmediato anterior es el calculado conforme a las disposiciones de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, aplicable en el ámbito Federal.
+Para efectos del cálculo del Impuesto Sobre Tenencia o Uso de Vehículos, a que se refiere el Artículo 132 de esta Ley, en relación a los vehículos respecto de los cuales en el año inmediato anterior al en que se efectúa el cálculo del impuesto, no se hubiese aplicado el mismo, se considerará impuesto causado en el ejercicio fiscal inmediato anterior, al impuesto federal causado en el mismo ejercicio fiscal inmediato anterior, conforme a las disposiciones de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos expedida por el H. Congreso de la Unión.
+
+En caso de que en el Ejercicio Fiscal inmediato anterior, al en que se efectúa el cálculo del impuesto estatal, no se hubiesen generado ni el impuesto estatal ni el impuesto federal, en relación con el vehículo respecto del cual se efectúa el cálculo del impuesto; para los efectos del Artículo 132 de esta Ley, se considerará como impuesto causado en el ejercicio fiscal inmediato anterior, al que se habría causado de haberse aplicado el impuesto federal, conforme a la Ley vigente en el año 2010.
 
 Por lo tanto, envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4513,4 +4513,18 @@ Sexto.- Las solicitudes de licencia o permiso especial que se encuentren en trá
 
 Séptimo.- El Ejecutivo del Estado expedirá el Reglamento de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, dentro de un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
 
-Octavo.- Los Ayuntamientos de los Municipios del Estado deberán expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los ciento ochenta días siguientes al de la entrada en vigor del mismo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Octavo.- Los Ayuntamientos de los Municipios del Estado deberán expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los doscientos setenta días siguientes a la entrada del (sic) vigor del mismo.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 282, POR EL QUE SE REFORMA LA LEY DE HACIENDA DEL ESTADO EN SU ARTÍCULO 159 BIS, PUNTO 3; ASÍ COMO EL ARTÍCULO OCTAVO TRANSITORIO.
+
+Artículo Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2012.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 291, POR EL QUE SE REFORMA POR MODIFICACIÓN EL OCTAVO TRANSITORIO DEL DECRETO NÚMERO 200, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, EL 18 DE MAYO DE 2011.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado de Nuevo León.
