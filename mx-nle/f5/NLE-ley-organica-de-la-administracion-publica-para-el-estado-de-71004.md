@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2011-06-17"
+last_updated: "2011-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE JUNIO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 200 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -1127,4 +1125,10 @@ Sexto.- Las solicitudes de licencia o permiso especial que se encuentren en trá
 
 Séptimo.- El Ejecutivo del Estado expedirá el Reglamento de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, dentro de un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
 
-Octavo.- Los Ayuntamientos de los Municipios del Estado deberán expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los ciento ochenta días siguientes al de la entrada en vigor del mismo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Octavo.- Los Ayuntamientos de los Municipios del Estado deberán de expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los doscientos setenta días siguientes a la entrada del (sic) vigor del mismo.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Nuevo León.
