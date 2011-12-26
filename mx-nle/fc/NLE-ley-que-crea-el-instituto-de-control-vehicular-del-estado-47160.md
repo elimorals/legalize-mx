@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2011-12-14"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -577,6 +577,10 @@ Articulo Décimo Sexto. Durante el año 2011, los Municipios que coadyuven con e
 
 Artículo Décimo Séptimo. Para los efectos de lo dispuesto en el artículo 276, fracción XV, de la Ley de Hacienda del Estado, para tramitar el canje de las placas de circulación emitidas para los ejercicios 2008, 2009 y 2010, los propietarios de vehículos inscritos en el padrón vehicular, deberán realizar dicho tramite a más tardar el 31 de Marzo de 2011, fecha en que concluirá la vigencia de las placas expedidas para los mencionados ejercicios.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Articulo Décimo Octavo. Durante el año 2012, los Municipios que coadyuven con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -610,3 +614,7 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 14 DE DICIEMBRE DE 2011.
 
 Único. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2012.
