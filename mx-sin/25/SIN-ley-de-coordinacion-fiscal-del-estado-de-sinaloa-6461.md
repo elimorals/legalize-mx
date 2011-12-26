@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2001-09-19"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -61,15 +61,49 @@ V.- Constituir los organismos en materia de coordinación fiscal.
 
 En cumplimiento a lo dispuesto por los Artículos 2o., 2o.-A y 6o. de la Ley de Coordinación Fiscal Federal en vigor, la Legislatura del Estado, mediante las presentes disposiciones, establece los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponde a los Municipios en el Fondo Municipal de Participaciones.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 3o.
+###### ARTICULO 3.
 
-El Fondo Municipal de Participaciones, se integrará con el 20% de los recursos que perciba el Estado procedente del Fondo General de Participaciones, de la participación de la recaudación del Impuesto Especial Sobre Producción y Servicios en cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, así como la recaudación del Impuesto sobre Tenencia o uso de Vehículos, el Impuesto sobre Automóviles Nuevos y por el 100% del Fondo de Fomento Municipal en los términos de la Ley de Coordinación Fiscal Federal.
+El Fondo Municipal de Participaciones se integrará por:
+
+I. El 22% de los recursos que perciba el Estado procedente del Fondo General de Participaciones.
+
+II. El 100% del Fondo de Fomento Municipal.
+
+III. El 22% de la participación que le corresponda al Estado, de la recaudación que se obtenga del Impuesto Especial Sobre Producción y Servicios en cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados.
+
+IV. El 22% de la recaudación que se obtenga por el Impuesto sobre Automóviles Nuevos.
+
+V. El 22% de la recaudación que del Fondo de Fiscalización corresponda al Estado.
+
+VI. El 22% de las participaciones recibidas por el Estado por concepto del Impuesto Especial Sobre Producción y Servicios sobre venta de diesel y gasolina.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 3 BIS.- Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar la recaudación del Impuesto Predial y las cuotas por suministro de agua por parte de los Municipios, se constituye el Fondo Estatal de Participaciones con los recursos propios del Gobierno del Estado, que a continuación se indican:
+
+I. El 20% del monto de los ingresos totales que recaude el Estado por concepto del Impuesto sobre Tenencia o Uso de Vehículos.
+
+II. El 20% del monto de la recaudación Estatal que se obtenga por concepto del Impuesto sobre adquisición de vehículos de motor usado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 3 BIS A.- El fondo estatal a que se refiere el Artículo 3o Bis de esta Ley, se distribuirá entre los Municipios conforme a las bases previstas en el Artículo 4o del presente ordenamiento, para el Fondo Municipal de Participaciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 3 BIS B.- El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, calculará y pagará las participaciones estatales que correspondan a los Municipios, en las formas y plazos conforme a los cuales efectúa el pago de las participaciones federales.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 3 BIS C.- En los términos del Artículo 6o, último párrafo de la Ley de Coordinación Fiscal Federal, el Poder Ejecutivo del Estado, 15 días después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentajes, fórmulas y variables utilizadas, deberá publicar en el Periódico Oficial "El Estado de Sinaloa", los datos aquí referidos, de las participaciones que el Estado recaba y de las que tenga obligación de participar a sus Municipios.
+
+También deberá publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-###### ARTICULO 4o.
+###### ARTICULO 4.
 
 El Fondo Municipal de Participaciones, se distribuirá conforme a las siguientes bases:
 
@@ -144,28 +178,6 @@ IV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 Los coeficientes de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
-
-###### ARTICULO 3.
-
-El Fondo Municipal de Participaciones se integrará con el 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la participación de la recaudación del Impuesto Especial sobre Producción y Servicios en Bebidas Alcohólicas y Tabacos Labrados así como la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos y el Impuesto Sobre Automóviles Nuevos y por el 100% del Fondo de Fomento Municipal en los términos de la Ley de Coordinación Fiscal Federal.
-
-###### ARTICULO 4.
-
-El factor que a cada Municipio corresponda en el Fondo Municipal de Participaciones, se determinará conforme a las siguientes bases:
-
-I.- 60% en proporción al número de habitantes de cada Municipio en relación al total estatal, en el año inmediato anterior.
-
-El número de habitantes de cada Municipio se tomará de la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-II.- 20% en proporción a los ingresos propios que haya tenido cada uno de los municipios con respecto al de todos ellos, durante el año inmediato anterior.
-
-III.- 15% en partes iguales a cada Municipio.
-
-IV.- 5% en proporción a la extensión territorial de cada Municipio respecto al total del Estado.
-
-Los factores de participación que conforme a las bases anteriores resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen se seguirán aplicando provisionalmente los que correspondan al año inmediato anterior.
 
 ###### ARTICULO 5.
 
@@ -367,7 +379,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Juan Burgos Pinto
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE MARZO DE 1991.
 
@@ -377,7 +389,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 12 DE AGOSTO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -385,7 +397,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 27 DE DICIEMBRE DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -408,3 +420,15 @@ Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referenc
 Artículo Cuarto.- En todas las leyes y reglamentos en los que se mencione al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
 
 [...]
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. En la Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal del 2012, se observarán las adecuaciones pertinentes para estar en condiciones de aplicar el presente decreto.
+
+Artículo Tercero. En caso de que se establezca el Impuesto sobre Tenencia o Uso de Vehículos previsto en la Ley de Hacienda del Estado de Sinaloa, sea con la misma o distinta denominación, se aplicará el 20% de lo que se recaude por este concepto al Fondo Estatal de Participaciones, en términos de lo dispuesto en el artículo 3o Bis de la presente Ley.
+
+Artículo Cuarto. De igual forma se deberá destinar al Fondo Estatal de Participaciones, el 20% de lo que se recaude por concepto de adeudos del Impuesto sobre Tenencia o Uso de Vehículos, de ejercicios anteriores.
+
+Artículo Quinto. Por única ocasión el Fondo Municipal de Participaciones establecido en el artículo 3o de la presente Ley, se integrará durante el año 2012 por el 21%, a excepción de la fracción II.
