@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-a-la-informacion-publica-y-de-proteccion-de-43948
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-25"
-last_updated: "2007-08-14"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA Y DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE SONORA -ANTES LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA-
 
-LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SONORA
+LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Estado de Sonora, el viernes 25 de febrero de 2005.
 
@@ -65,13 +65,21 @@ VI. Las instituciones y entidades declaradas de interés público por la ley;
 
 VII. Los partidos políticos, las asociaciones políticas y los organismos semejantes reconocidos por la ley; y
 
-VIII. Las personas de derecho privado cuando reciban, ejerzan, inviertan o de cualquier forma utilicen recursos públicos en lo que se refiere al uso de dichos recursos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+VIII. Las personas privadas, físicas o morales, que por cualquier motivo y de cualquier modo, reciban recursos públicos para su ejercicio con ese carácter.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Datos personales: La información concerniente a una persona física, identificada o identificable, relativa a su origen étnico o racial; la que se refiera a sus características físicas, morales o emocionales, a su vida afectiva y familiar, así como a su patrimonio con excepción de la que se encuentre inscrita en registros gubernamentales públicos; la incluida en declaraciones fiscales o derivada de las facultades de comprobación de la autoridad fiscal, con las excepciones que señalen las leyes; la concerniente a su ideología u opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, preferencias sexuales, circunstancias y detalles de los delitos que afecten el entorno íntimo de las víctimas y, en general, toda aquella información que afecte o pueda afectar la intimidad de las personas físicas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+I. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica, o de cualquier otro tipo, concerniente a una persona física, identificada o identificable, relativa a su origen étnico o racial; la que se refiera a sus características físicas, morales o emocionales, a su vida afectiva y familiar, información genética, número de seguridad social, la huella digital, domicilio, correos electrónicos personales, teléfonos particulares, claves informáticas, cibernéticas y códigos personales, así como a su patrimonio, incluyendo la contenida en las declaraciones de situación patrimonial; la incluida en declaraciones fiscales o derivada de las facultades de comprobación de la autoridad fiscal, con las excepciones que señalen las leyes; la concerniente a su ideología u opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, preferencias sexuales, circunstancias y detalles de los delitos que afecten el entorno íntimo de las víctimas y, en general, toda aquella información que afecte o pueda afectar la intimidad de las personas físicas.
 
 II. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, lineamientos, directrices, circulares, contratos, convenios, instructivos, notas, memoranda, estadísticas, planos, mapas, y cualquier otro medio o registro impreso, escrito, óptico, sonoro, electrónico, magnético, holográfico, químico, físico o biológico o de cualquier otra clase que se encuentre en poder de los sujetos obligados y que contenga información de cualquier tipo, sin importar su naturaleza, material, formato, fuente o fecha;
 
@@ -87,7 +95,9 @@ VII. Servidor público: Toda persona física que trabaje, preste servicios, cola
 
 VIII. Instituto: El Instituto de Transparencia Informativa;
 
-IX. Tribunal: El Tribunal Estatal Electoral y de Transparencia Informativa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IX. (DEROGADA, B.O. 26 DE DICIEMBRE DE 2011)
 
 X. Información pública: La contenida en los documentos que los sujetos obligados generen, administren, obtengan, adquieran, transformen, posean o conserven por cualquier título;
 
@@ -95,9 +105,33 @@ XI. Información restringida: La que se encuentre en alguno de los supuestos de 
 
 XII. Ley: La Ley de Acceso a la Información Pública del Estado de Sonora.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XIII. Máxima Publicidad: Consiste en que los sujetos obligados señalados en el artículo 2 de esta Ley, expongan la información que poseen al escrutinio público y, en caso de duda razonable respecto a la forma de interpretar y aplicar la norma, se optará por la publicidad de la información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XIV. Sistema de datos personales: El conjunto ordenado de datos personales que estén en posesión de un sujeto obligado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XV. Tratamiento de Datos Personales: cualquier operación o conjunto de operaciones, efectuadas mediante procedimientos automatizados o físicos, y aplicadas a datos personales, como la obtención, registro, organización, conservación, elaboración o modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma que facilite el acceso a los mismos, cotejo o interconexión, así como su bloqueo, suspensión o destrucción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 4.
 
-En la interpretación de esta Ley deberán favorecerse los principios de publicidad de la información en posesión de los sujetos obligados y transparencia de los documentos que registren sus actos, así como la protección de los datos personales y la información confidencial.
+En la aplicación e interpretación de esta Ley deberán favorecerse los principios de legalidad, certeza jurídica, imparcialidad, información, celeridad, veracidad, transparencia y máxima publicidad de sus actos, así como la protección de la vida privada y los datos personales.
+
+Para la aplicación e interpretación de esta Ley, el derecho de acceso a la información pública se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos, la Convención Americana sobre Derechos Humanos, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales respectivos.
 
 ###### Artículo 5.
 
@@ -105,35 +139,61 @@ La presente Ley tiene por objeto:
 
 I. Transparentar la gestión pública mediante la difusión de la información generada, administrada o en posesión de los sujetos obligados;
 
-II. Proveer lo necesario para facilitar a cualquier persona el acceso a la información generada, administrada o en posesión de los sujetos obligados mediante procedimientos sencillos y expeditos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+II. Proveer lo necesario para facilitar a cualquier persona el acceso a la información generada, administrada o en posesión de los sujetos obligados, mediante el establecimiento de mecanismos de acceso a la información y procedimientos de revisión sencillos y expeditos;
 
 III. Asegurar la protección de los datos personales recibidos, generados, administrados o en posesión de los sujetos obligados;
 
-IV. Hacer prevalecer, como regla general, la publicidad de los documentos que registren las actuaciones de los sujetos obligados, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+IV. Hacer prevalecer, como regla general, la máxima publicidad de los documentos que registren las actuaciones de los sujetos obligados; y
 
 V. La organización, clasificación y manejo de la información recibida, generada, administrada o en posesión de los sujetos obligados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 6.
 
-Los sujetos obligados deberán proporcionar al Instituto y al Tribunal la información que éstos determinen en relación con el cumplimiento de la atribución de proporcionar a los particulares información pública.
+Los sujetos obligados deberán proporcionar al Instituto la información que éste determine en relación con el cumplimiento de la atribución de proporcionar a los particulares información pública.
 
 ### CAPITULO SEGUNDO. DEL INSTITUTO DE TRANSPARENCIA INFORMATIVA DEL ESTADO DE SONORA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 7.
 
-El Instituto es un órgano del Congreso del Estado con autonomía técnica, de gestión y de organización que tendrá a su cargo las atribuciones de definir, según las directrices de esta Ley, lineamientos generales obligatorios para los sujetos obligados con respecto a la clasificación y difusión de la información pública, las formas de atención a las solicitudes de acceso a la misma y su entrega a los particulares, así como su archivo y, de modo especial, la creación, promoción y consolidación de una cultura cívica generalizada en relación con el derecho de acceso a la información pública, el uso responsable de ésta y la capacitación de los servidores públicos en el cumplimiento de la obligación concomitante.
+El Instituto de Transparencia Informativa del Estado de Sonora, es un órgano autónomo con personalidad jurídica y patrimonio propio, especializado e imparcial en materia de transparencia, acceso a la información pública y protección de datos personales, dotado de autonomía presupuestal, operativa, de gestión y de decisión, que tendrá a su cargo, además de lo previsto en esta Ley, atribuciones de definir, según las directrices de este ordenamiento, lineamientos generales obligatorios para los sujetos obligados con respecto a la clasificación y difusión de la información pública, las formas de atención a las solicitudes de acceso a la misma y su entrega a los particulares, así como su archivo y, de modo especial, la creación, promoción y consolidación de una cultura cívica generalizada en relación con el derecho de acceso a la información pública, el uso responsable de ésta y la capacitación de los servidores públicos en el cumplimiento de la obligación concomitante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 8.
 
-El Instituto estará conformado y dirigido y operado por tres vocales que ejercerán las funciones del órgano de modo colegiado y ejecutarán sus decisiones por conducto de su presidente, quien fungirá como su representante legal y será designado de entre y por ellos mismos para durar en el cargo dos años. Salvo los casos en que deba analizarse información restringida, el Instituto sesionará siempre públicamente cuando lo convoque el presidente o los otros dos vocales actuando conjuntamente, y sus decisiones se tomarán por mayoría de votos.
+El Instituto estará integrado por tres vocales que ejercerán las funciones del órgano de modo colegiado y ejecutarán sus decisiones por conducto de su presidente, quien fungirá como su representante legal y será designado de entre y por ellos mismos para durar en el cargo dos años. La Presidencia del Instituto será rotativa entre sus tres miembros. Salvo los casos en que deba analizarse información restringida, el Instituto sesionará siempre públicamente cuando lo convoque el presidente o los otros dos vocales actuando conjuntamente, y sus decisiones se tomarán por mayoría de votos.
 
 ###### Artículo 9.
 
 El Instituto determinará su organización interna y formulará su propio reglamento de operación en el marco de la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 10.
 
-Los tres vocales del Instituto serán designados por una mayoría calificada de dos terceras partes de los votos de los diputados presentes en la correspondiente sesión del Congreso y durarán en su encargo seis años pudiendo ser reelectos para un período adicional. Su designación se formulará de modo que puedan ser substituidos escalonadamente cada dos años.
+Los vocales durarán en su encargo 6 años y podrán ser reelectos hasta por un periodo similar adicional, previa ratificación que en dicho sentido emita expresamente el Congreso del Estado. La designación de los vocales así como su ratificación, deberá ser aprobada por el Congreso del Estado mediante el voto de las dos terceras partes de sus diputados integrantes. Su designación se formulará de modo que puedan ser substituidos escalonadamente cada dos años.
+
+En la integración del Instituto de Transparencia Informativa del Estado de Sonora será obligatorio conformarlo por ambos géneros.
 
 ###### Artículo 11.
 
@@ -143,9 +203,11 @@ Para los efectos del artículo anterior el Congreso lanzará una convocatoria p�
 
 Los cargos de vocal del Instituto se perderán anticipadamente cuando quienes los ejerzan realicen, de modo separado o conjunto, actos u omisiones públicos o privados que, a juicio de dos terceras partes de los miembros del Congreso presentes en la sesión respectiva, lesionen o causen detrimento grave a la imagen u operación del Instituto o al ejercicio libre, imparcial, honesto y transparente de las funciones respectivas. Para este efecto, el Congreso cuidará que, previamente a la decisión, se respete la garantía de audiencia de el o los involucrados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 13.
 
-El Congreso, por conducto de la Comisión de Comunicación, tomará conocimiento de los informes trimestrales que deberá rendir el Instituto sobre el desempeño de sus funciones, debiendo proceder dicha comisión a dar cuenta al Pleno sobre todo aquello que se considere grave o relevante sobre el ejercicio de dichas funciones.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2011)
 
 ### CAPITULO PRIMERO. DE LA INFORMACIÓN BÁSICA QUE DEBE SER DIFUNDIDA DE OFICIO POR LOS SUJETOS OBLIGADOS
 
@@ -161,7 +223,11 @@ I. El marco normativo legal y reglamentario, estatal, federal y municipal, que l
 
 II. Su estructura orgánica y manuales de procedimientos;
 
-III. Las atribuciones de cada unidad administrativa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+III.- Las atribuciones de cada unidad administrativa, incluyendo los indicadores de gestión;
 
 IV. El directorio de servidores públicos, desde su titular hasta el nivel de jefe de departamento o sus equivalentes;
 
@@ -277,9 +343,13 @@ Los sujetos obligados oficiales, por conducto del servidor público titular del 
 
 Los sujetos obligados deberán adoptar las medidas necesarias para asegurar la custodia y conservación de la información de acceso restringido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-El Tribunal y la Comisión Estatal de Derechos Humanos tendrán acceso irrestricto a la información a que se refiere el presente Capítulo, el primero cuando deba decidir sobre su clasificación, desclasificación o, en su caso, la procedencia de acceso a la misma, y la segunda cuando la información se relacione con investigaciones o procedimientos que dicho organismo desahogue en ejercicio de sus atribuciones.
+El Instituto y la Comisión Estatal de Derechos Humanos tendrán acceso irrestricto a la información a que se refiere el presente Capítulo, el primero cuando deba decidir sobre su clasificación, desclasificación o, en su caso, la procedencia de acceso a la misma, y la segunda cuando la información se relacione con investigaciones o procedimientos que dicho organismo desahogue en ejercicio de sus atribuciones.
 
 #### SECCION II. DE LA INFORMACIÓN RESERVADA
 
@@ -307,6 +377,18 @@ IX. Pueda afectar las estrategias y medidas a tomar por los sujetos obligados en
 
 X. Pueda generar una ventaja personal indebida en perjuicio de un tercero o de los propios sujetos obligados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+No podrá invocarse el secreto bancario cuando el titular de las cuentas sea un sujeto obligado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
+
 ###### Artículo 22.
 
 Se considerará información reservada por los sujetos obligados no oficiales previstos por la fracción VII del artículo 2, aquella cuya divulgación afecte sus estrategias o funcionamiento interno.
@@ -321,11 +403,19 @@ Para clasificar alguna información como reservada se requerirá acuerdo expreso
 
 El acuerdo que, en su caso, clasifique información con carácter de reservada deberá indicar la fuente de la información, el daño que pudiera causar su divulgación, las partes de los documentos que se reservan, el plazo de reserva y la designación de la autoridad responsable de su conservación, guarda y custodia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 25.
 
-La información reservada según el presente Capítulo podrá permanecer con tal carácter hasta por un período de diez años, pero deberá ser desclasificada antes del vencimiento de dicho plazo cuando se extingan las causas que dieron origen a su clasificación, o cuando así se determine por el Tribunal.
+La información reservada según el presente Capítulo podrá permanecer con tal carácter hasta por un período de diez años, pero deberá ser desclasificada antes del vencimiento de dicho plazo cuando se extingan las causas que dieron origen a su clasificación, o cuando así se determine por el Instituto mediante resolución fundada y motivada.
 
-Si fuere indispensable información reservada para la defensa de los derechos del solicitante en procedimiento judicial de cualquier naturaleza, acreditada que fuere esta circunstancia el sujeto obligado o, en su caso, el Tribunal permitirán el acceso a dicha información. El documento resultante será admitido como prueba en cualquier etapa del proceso donde sea requerido, con la condición de que haya sido anunciado en el período probatorio y no se encuentre dictada sentencia ejecutoriada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Si fuere indispensable información reservada para la defensa de los derechos del solicitante en procedimiento judicial de cualquier naturaleza, acreditada que fuere esta circunstancia el sujeto obligado o, en su caso, el Instituto permitirán el acceso a dicha información. El documento resultante será admitido como prueba en cualquier etapa del proceso donde sea requerido, con la condición de que haya sido anunciado en el período probatorio y no se encuentre dictada sentencia ejecutoriada.
 
 En caso de que exista un documento que contenga información cuyo acceso se encuentre reservado en forma parcial en los términos de esta Ley, deberá proporcionarse el resto de la información que no esté exceptuada.
 
@@ -343,7 +433,11 @@ Los sujetos obligados elaborarán semestralmente y por rubros temáticos un índ
 
 Se considerará como información confidencial la siguiente:
 
-I. La que contenga datos personales de los particulares o los servidores públicos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+I. La que contenga datos personales y la relacionada con el derecho a la vida privada;
 
 II. La que sea entregada por los particulares a los sujetos obligados oficiales, con reserva expresa de confidencialidad cuando lo permita la ley;
 
@@ -353,53 +447,225 @@ III. La que sea definida así por disposición expresa de una Ley.
 
 Se considerará información confidencial por los sujetos obligados no oficiales aquella que expresamente se clasifique de esta manera por la autoridad previamente o en el acto de entregarla al propio sujeto obligado no oficial, sin perjuicio de que la autoridad pueda formular también esta clasificación con posterioridad, debiendo respetarla el sujeto obligado no oficial a partir de que reciba la notificación correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 29.
 
-Los gobernados podrán entregar a los sujetos obligados oficiales documentos con reserva expresa de confidencialidad referida a particularidades determinadas del propio informante o de terceros, de lugares o de cosas, cuando dicha reserva limite sus efectos al entorno privado de las personas. En estos casos dicha información se conservará confidencial y los documentos correspondientes sólo podrán divulgarse con exclusión de la misma, para lo cual, al formularse la reserva referida, deberán indicarse con precisión los datos que deseen protegerse.
+Los gobernados podrán entregar a los sujetos obligados oficiales documentos con reserva expresa de confidencialidad referida a particularidades determinadas del propio informante o de terceros, de lugares o de cosas, cuando dicha reserva limite sus efectos al entorno privado de las personas, para lo cual deberán señalar los documentos o secciones de ellos que contengan tal información confidencial. En estos casos dicha información se conservará confidencial y los documentos correspondientes sólo podrán divulgarse con exclusión de la misma, salvo que medie consentimiento expreso del particular titular de dicha información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION IV. DE LA PROTECCIÓN DE DATOS PERSONALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
-En relación con los datos personales, son obligaciones especiales de los sujetos obligados oficiales:
+Los datos personales son irrenunciables, intransferibles e indelegables, por lo que los sujetos obligados no podrán comunicar a terceros, ni difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de los individuos a que haga referencia la información. Esta obligación persistirá aún después de finalizada la relación entre el sujeto obligado con el titular de los datos personales, así como después de finalizada la relación laboral entre el sujeto obligado y el responsable del sistema de información referido anteriormente o los usuarios del mismo.
 
-I. Recabar datos personales sólo cuando sean adecuados, pertinentes y no excesivos en relación con los propósitos de la información correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Informar a los particulares, antes o en el momento en que se recaben datos personales, los propósitos o finalidades de su utilización;
-
-III. Asentar los datos personales exactamente del modo en que hayan sido proporcionados;
-
-IV. Sustituir, rectificar o completar, de oficio o a petición del interesado, los datos personales que resultaren incompletos o inexactos, ya sea total o parcialmente; y
-
-V. Adoptar las medidas necesarias para garantizar la privacidad y seguridad de los datos personales y evitar su alteración, pérdida, transmisión o acceso no autorizado.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 31.
 
-Los particulares podrán obtener de los sujetos obligados oficiales la cancelación y exclusión de archivos de sus datos personales cuando resulte que éstos han cumplido su objetivo o éste ya no pueda ser logrado.
+No se requerirá el consentimiento referido en el artículo anterior en los siguientes casos:
+
+I.- Cuando la información sea necesaria para la prevención o combate de enfermedades, o el diagnóstico médico, la prestación de asistencia médica o la gestión de servicios de salud;
+
+II.- Cuando la información sea necesaria por razones estadísticas, científicas o de interés general, según lo prevenga la legislación correspondiente, previo aseguramiento de que no puedan asociarse los datos personales con la persona a quien se refieran;
+
+III.- Cuando se transmita entre sujetos obligados para ser utilizada en ejercicio de sus atribuciones;
+
+IV.- Cuando exista una orden judicial;
+
+V.- Cuando se refiera a las partes en convenio de negociación, laboral o administrativo y sean necesarios para su mantenimiento y cumplimiento;
+
+VI.- Cuando se den a conocer a terceros para la prestación de un servicio que responda al tratamiento de datos personales, mediante la libre y legítima aceptación de una relación jurídica cuyo desarrollo, cumplimiento y control implique necesariamente que la comunicación de los datos será legítima en cuanto se limite a la finalidad que la justifique; y
+
+VII.- En los demás casos que establezcan las leyes.
+
+En caso de que los destinatarios de los datos sean instituciones de otras entidades federativas, los sujetos obligados deberán asegurarse que tales instituciones garanticen que cuentan con niveles de protección semejantes o superiores a los establecidos en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 32.
 
-Toda persona que demuestre su identidad tiene derecho a saber si se está procesando información que incluya sus datos personales y, en su caso, obtener sin demora una comunicación inteligible del objetivo de dicho procesamiento, así como las rectificaciones o supresiones que correspondan cuando los registros sean ilícitos, injustificados o inexactos, y a conocer los destinatarios cuando esta información sea transmitida. Todas las autoridades respetarán invariablemente este derecho.
+El tratamiento de los datos personales se regirá por los siguientes principios:
+
+I.- Licitud: Consiste en que la posesión y tratamiento de sistemas de información en los que consten datos personales, obedecerá exclusivamente a las atribuciones legales o reglamentarias de cada sujeto obligado, y tales datos personales sólo podrán obtenerse a través de los medios previstos en esas disposiciones normativas.
+
+Los sistemas de información en los que consten datos personales no podrán tener finalidades contrarias a la ley o a la moral pública y en ningún caso podrán ser utilizados para finalidades distintas o incompatibles con aquellas que motivaron su obtención. No se considerará incompatible el tratamiento posterior de los datos personales, con fines históricos, estadísticos o científicos;
+
+II.- Consentimiento: Se refiere a la manifestación de voluntad libre, inequívoca, específica e informada, mediante la cual el interesado consiente el tratamiento de sus datos personales;
+
+III.- Calidad de los datos: Consiste en que los datos personales recabados deben ser ciertos, adecuados, pertinentes y no excesivos en relación al ámbito y finalidad para los que se hubieren obtenido. Los datos recabados deberán ser los que respondan con veracidad a la situación actual del interesado;
+
+IV.- Confidencialidad: La garantía de que exclusivamente la persona autorizada conforme a la presente Ley, puede acceder a los datos personales o, en su caso, el responsable o el usuario del sistema de información que contenga datos personales, para su tratamiento; así como el deber de secrecía del responsable y los usuarios del sistema de información correspondiente.
+
+En todo caso, los instrumentos jurídicos que correspondan a la contratación de servicios del responsable del sistema de información que contenga datos personales, así como de los usuarios, deberán prever la obligación de garantizar la seguridad y confidencialidad de los sistemas de datos personales, así como la prohibición de utilizarlos con propósitos distintos para los cuales se llevó a cabo la contratación o distintos a la finalidad del sistema de información correspondiente, así como las penas convencionales para el caso de incumplimiento. Lo anterior, sin perjuicio de las responsabilidades previstas en la normatividad aplicable al caso.
+
+El responsable del sistema de información que contenga datos personales o lo (sic) usuarios, podrán ser relevados del deber de confidencialidad, por resolución judicial y cuando medien razones fundadas en términos de lo dispuesto por la presente Ley;
+
+V.- Seguridad: Consiste en garantizar que únicamente el responsable del sistema de información que contiene datos personales o, en su caso, los usuarios autorizados, puedan llevar a cabo el tratamiento de los datos personales, mediante los procedimientos que para tal efecto se establezcan;
+
+VI.- Disponibilidad: Se refiere a que los datos personales deberán ser almacenados o archivados, de modo que permitan el efectivo ejercicio de los derechos de acceso, rectificación, cancelación y oposición del interesado; y
+
+VII.- Temporalidad: Consiste en que los datos personales deberán ser destruidos cuando hayan dejado de ser necesarios o pertinentes a los fines para los cuales hubiesen sido recolectados u obtenidos.
+
+Los datos personales únicamente podrán ser conservados de manera íntegra, permanente y sujetos a tratamiento, con fines históricos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33.
 
-Los sujetos obligados oficiales no podrán comunicar a terceros, ni difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento previo, expreso y por escrito, o por un medio de autenticación similar, de los individuos a que haga referencia la información.
+Los sujetos obligados deberán adoptar las medidas de seguridad que mediante lineamientos generales emita el Instituto, para proteger la información contra los riesgos naturales, como la pérdida accidental o la destrucción por siniestro, y contra los riesgos humanos, como pérdida, consulta o tratamiento sin autorización, la utilización encubierta de datos o la contaminación por virus informáticos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION V. DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 34.
 
-No se requerirá el consentimiento referido en el artículo anterior en los siguientes casos:
+Todas las personas, previa identificación oficial, contarán con los derechos de acceso, rectificación, cancelación y oposición de sus datos personales en posesión de los sujetos obligados, siendo derechos independientes, de tal forma que no puede entenderse que el ejercicio de alguno de ellos sea requisito previo o impida el ejercicio de otro.
 
-I. Cuando la información sea necesaria para la prevención o combate de enfermedades, o el diagnóstico médico, la prestación de asistencia médica o la gestión de servicios de salud;
+La respuesta a cualquiera de los derechos previstos en el presente artículo, deberá ser proporcionada en forma legible e inteligible.
 
-II. Cuando la información sea necesaria por razones estadísticas, científicas o de interés general, según lo prevenga la ley, previo aseguramiento de que no puedan asociarse los datos personales con la persona a quien se refieran;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Cuando se transmita entre sujetos obligados oficiales para ser utilizada en ejercicio de sus atribuciones;
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-IV. Cuando se determine en la hipótesis y los términos del párrafo segundo del artículo 25; y
+###### Artículo 34 Bis.
 
-V. En los demás casos que establezcan las leyes.
+De conformidad con lo dispuesto en esta Ley, cualquier persona interesada tiene derecho a acceder gratuitamente a información sobre sus datos personales sometidos a tratamiento por parte de los sujetos obligados, el origen de dichos datos, las transmisiones realizadas o que se prevean hacer con los mismos, los destinatarios de dichas transmisiones y a obtener una comunicación inteligible del objetivo de dicho tratamiento. No obstante lo anterior, el interesado deberá cubrir los costos de reproducción de los datos solicitados, de acuerdo a lo establecido en la respectiva Ley de Ingresos. En ese sentido, los costos de reproducción de la información solicitada se cobrarán al solicitante de manera previa a su entrega y se calculará atendiendo a:
+
+I.- El costo de los materiales utilizados en la reproducción de la información;
+
+II.- El costo de envío; y
+
+III.- La certificación de documentos cuando proceda.
+
+Los sujetos obligados deberán esforzarse por reducir al mínimo los costos de reproducción y entrega de información.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis A.- Serán rectificados o cancelados, en su caso, los datos de carácter personal cuyo tratamiento no se ajuste al principio de calidad de los datos, siempre y cuando no sea imposible o exija esfuerzos desproporcionados, a criterio de la autoridad competente en la materia.
+
+La cancelación dará lugar al bloqueo de los datos personales, los cuales se conservarán con el único propósito de determinar posibles responsabilidades en relación con su tratamiento, hasta el plazo de prescripción legal de éstas. Durante dicho período, los datos personales no podrán ser objeto de tratamiento y transcurrido éste, se procederá a su cancelación en la base de datos correspondiente, en términos de la normatividad aplicable.
+
+Si los datos personales rectificados o cancelados hubieren sido transmitidos previamente, el responsable del tratamiento deberá notificar la rectificación o cancelación efectuada a quien se haya transmitido, en el caso de que se mantenga el tratamiento por este último, deberá también proceder a la cancelación.
+
+La cancelación de datos personales no procede cuando pudiese causar perjuicios a derechos o intereses legítimos de terceros, o cuando exista una obligación legal de conservar dichos datos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis B.- De conformidad con lo dispuesto en esta Ley, cualquier persona interesada tendrá derecho a oponerse al tratamiento de los datos personales que le conciernen, en el supuesto que los datos se hubieran recabado sin su consentimiento, cuando existan motivos fundados para ello y la Ley no disponga lo contrario. De actualizarse tal supuesto, el sujeto obligado responsable de la base de datos correspondiente deberá excluir del tratamiento los datos personales relativos al afectado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+#### SECCION VI. DE LOS PROCEDIMIENTOS PARA EL EJERCICIO DE LOS DERECHOS EN MATERIA DE DATOS PERSONALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis C.- Sin perjuicio de lo que dispongan otras leyes, sólo los interesados que acrediten su identidad podrán solicitar a una unidad de enlace, por sí mismos o a través de un representante debidamente acreditado, que les dé acceso, rectifiquen, cancelen o hagan efectivo su derecho de oposición, respecto de los datos personales que les conciernan y que obren en un sistema de datos personales en posesión de los sujetos obligados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis D.- La solicitud de acceso, rectificación, cancelación u oposición deberá plantearse por escrito y contener:
+
+I.- El nombre y firma del solicitante, así como su domicilio u otro medio para recibir notificaciones, como el correo electrónico, así como los datos generales de su representante y su firma, en su caso. En caso de no señalar medio para recibir notificación o si el domicilio señalado se encuentra en localidad diversa a la de la unidad de enlace, las notificaciones se realizarán en el tablón de avisos de la unidad de enlace, el cual deberá ser de fácil acceso para los interesados;
+
+II.- Los datos de identificación que acrediten que el solicitante es el titular de los datos personales sobre los que se ejerce la solicitud, así como copia de su identificación oficial y, en su caso, la de su representante;
+
+III.- El nombre del sujeto obligado a quien se dirige la solicitud;
+
+IV.- La descripción clara y precisa de los datos personales respecto de los que se busca ejercer alguno de los derechos antes mencionados;
+
+V.- Cualquier otro elemento que facilite la localización de la información; y
+
+VI.- Opcionalmente, la modalidad en la que prefiere se otorgue el acceso a sus datos personales, la cual podrá ser verbalmente, mediante consulta directa, copias simples, certificadas u otro tipo de medio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis E.- En el caso de solicitudes de rectificación de datos personales, ésta deberá indicar además de los requisitos señalados en el artículo anterior, las modificaciones que deban realizarse, así como la documentación que sustente la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis F.- Tratándose de solicitudes de cancelación, la solicitud deberá indicar si revoca el consentimiento otorgado en los casos en que la revocación proceda, o si la cancelación deriva de la existencia de un dato erróneo o inexacto, en cuyo caso deberá acompañar la documentación justificativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis G.- En las solicitudes de tratamiento, se deberán indicar las razones legales por las cuales se estima que no resulta viable la tramitación de los datos personales correspondientes por parte del sujeto obligado respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Artículo 34 Bis H.- El interesado al que se niegue, total o parcialmente, el ejercicio de los derechos de oposición, acceso, rectificación o cancelación, podrá interponer el recurso de revisión previsto en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
-Los sujetos obligados oficiales que posean, por cualquier título y de cualquier modo, sistemas de datos personales, deberán hacerlo del conocimiento del Instituto.
+Presentada la solicitud de acceso, rectificación, cancelación u oposición de datos personales, la unidad de enlace del sujeto obligado, observará el siguiente procedimiento:
+
+I.- Procederá a la recepción y registro de la solicitud y devolverá al interesado una copia de la solicitud registrada que servirá de acuse de recibo, en la que deberá aparecer sello institucional, la hora, la fecha del registro y el nombre y cargo de la persona que la recibió;
+
+II.- Registrada la solicitud, se verificará si cumple con los requisitos establecidos por los artículos 34 BIS D, 34 BIS E, 34 BIS F Y 34 BIS G de esta Ley, y si la información proporcionada por el solicitante no basta para localizar los datos personales o son erróneos, la Unidad de Enlace podrá prevenirlo, por una sola vez y dentro de los cinco días hábiles siguientes a la presentación de la solicitud, para que aclare o complete su solicitud, apercibido de que de no desahogar la prevención se tendrá por no presentada la solicitud. De cumplir con los requisitos, se turnará a la o las unidades administrativas que correspondan, para que procedan a la localización de la información solicitada;
+
+III.- La o las unidades administrativas correspondientes informarán, dentro de un plazo de cinco días hábiles, a la unidad de enlace sobre la existencia de los datos personales y sobre los sistemas de datos personales en los cuales se realizó la búsqueda correspondiente;
+
+IV.- En caso de existencia de los datos personales sobre los que se realizó la solicitud, la unidad de enlace notificará en forma personal, dentro de los cinco días hábiles siguientes, de dicha situación al solicitante, de igual forma, se le notificará el nombre de la o las unidades administrativas responsables de realizar el trámite solicitado.
+
+Si la tramitación de la solicitud implica algún costo en términos de la presente Ley, la unidad de enlace lo notificará en el mismo acto para que el solicitante realice el pago correspondiente y lo compruebe ante la unidad de enlace, dentro de un plazo no mayor de diez días hábiles.
+
+Si la tramitación de la solicitud no implica algún costo para el solicitante, la o las unidades administrativas responsables, darán cumplimiento al trámite solicitado y remitirán la resolución correspondiente a la unidad de enlace dentro de los diez días hábiles siguientes contados a partir de la fecha de notificación de la existencia de los datos personales a la unidad de enlace.
+
+El plazo de diez días hábiles, referido en el párrafo anterior, podrá ser ampliado una sola vez, por un periodo igual, siempre y cuando así lo justifiquen las circunstancias del caso y se notifique personalmente de esta situación al solicitante;
+
+V.- Una vez que el solicitante compruebe ante la unidad de enlace, haber realizado el pago correspondiente, ésta lo informará a la o las unidades administrativas responsables, a efecto de que dentro de los diez días hábiles siguientes, den cumplimiento al trámite solicitado y remitan la resolución correspondiente a la unidad de enlace.
+
+El plazo de diez días hábiles, referido en el párrafo anterior, podrá ser ampliado una sola vez, por un periodo igual, siempre y cuando así lo justifiquen las circunstancias del caso y se notifique personalmente de esta situación al solicitante;
+
+VI.- La unidad de enlace notificará personalmente la resolución a la solicitud y, en su caso, el plazo para que el interesado o su representante legal pasen a recoger la información materia de su solicitud, dentro de los siete días hábiles siguientes; y
+
+VII.- Previa exhibición del original del documento con el que acreditó su identidad el interesado o su representante legal, se hará entrega de la información requerida.
+
+En caso de que el interesado o su representante legal no acudan a recoger la información materia de su solicitud, dentro del plazo señalado en la fracción anterior, la unidad de enlace procederá a la destrucción de dicha información, de conformidad con los lineamientos que emita el Instituto.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 14 DE AGOSTO DE 2007)</small>
 
@@ -489,47 +755,71 @@ Los sujetos obligados oficiales deberán auxiliar y otorgar todas las facilidade
 
 Los particulares podrán interponer recurso de revisión contra los actos u omisiones de los sujetos obligados derivados de la aplicación de la presente Ley, dentro de los quince días hábiles siguientes a la fecha de la notificación del acto o de la fecha en que se haya tenido conocimiento del incumplimiento correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 49.
 
-El escrito de interposición del recurso de revisión se presentará ante el Tribunal o ante la unidad de enlace respectiva. En este último caso, la unidad de enlace remitirá al Tribunal el escrito de referencia dentro de un plazo de doce horas, contado a partir del momento de la recepción correspondiente.
+El escrito de interposición del recurso de revisión se presentará, en forma electrónica o por escrito, ante el Instituto o ante la unidad de enlace respectiva. En este último caso, la unidad de enlace remitirá al Instituto el escrito de referencia dentro de un plazo de doce horas, contado a partir del momento de la recepción correspondiente.
 
 El escrito de interposición del recurso de revisión deberá especificar:
 
-I. El nombre del recurrente y del tercero interesado y su domicilio si los hay, así como el lugar o medio que se elija para recibir notificaciones;
+I.- Estar dirigido al Instituto;
 
-II. El acto u omisión que se recurre;
+II.- El nombre del recurrente y del tercero interesado y su domicilio si los hay, así como el lugar o medio que se elija para recibir notificaciones;
 
-III. El sujeto obligado responsable;
+III.- El domicilio o medio electrónico para oír y recibir notificaciones y en su caso, a quien en su nombre autorice para oírlas y recibirlas; en caso de no haberlo señalado, aún las de carácter personal se harán por estrados;
 
-IV. La fecha de notificación o conocimiento del acto reclamado;
+IV.- El acto u omisión que se recurre;
 
-V. Los agravios causados, entendidos simplemente como incumplimiento o violación de la Ley;
+V.- El sujeto obligado responsable;
 
-VI. En su caso, si se requieren, enumeración de las pruebas conducentes; y
+VI.- La fecha de notificación o conocimiento del acto reclamado;
 
-VII. La firma del recurrente al final del escrito y su antefirma al margen de cada foja o, en su caso, la huella dactilar derecha en los mismos espacios.
+VII.- Mencionar los hechos en que se funde la impugnación, los agravios que le cause el acto o resolución impugnada;
 
-Si el promovente omite alguno de los requisitos de referencia, el Tribunal lo requerirá dentro de un plazo de cuarenta y ocho horas a partir de la recepción del escrito respectivo para que se subsane la omisión, gozando el recurrente de un término de tres días hábiles para dicho efecto, bajo el entendido de que la falta de respuesta al requerimiento ocasionará que el recurso se tenga por no interpuesto.
+VIIl.- En su caso, si se requieren, enumeración de las pruebas conducentes; y
+
+VII (SIC).- La firma del recurrente al final del escrito o, en su caso, la huella dactilar derecha en los mismos espacios. En caso de interposición del recurso por medio electrónico, el recurrente deberá señalar los datos de identificación correspondientes de su firma electrónica, en términos de la Ley Sobre el Uso de la Firma Electrónica Avanzada para el Estado de Sonora.
+
+Si el promovente omite alguno de los requisitos de referencia, el Instituto lo requerirá dentro de un plazo de dos días hábiles a partir de la recepción del escrito respectivo para que se subsane la omisión, gozando el recurrente de un término de cinco días hábiles para dicho efecto, bajo el entendido de que la falta de respuesta al requerimiento ocasionará que el recurso se tenga por no interpuesto.
 
 ###### Artículo 50.
 
 Al escrito de interposición del recurso deberán acompañarse los documentos que acrediten representación cuando el recurrente actúe por conducto de otro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 51.
 
-Si durante la substanciación del recurso apareciere que el sujeto obligado es distinto al señalado por el recurrente, el Tribunal notificará al sujeto obligado correcto con el estado en que se encuentre el procedimiento, sin suspenderlo, para que venga al mismo dentro de un plazo de tres días hábiles a partir de la notificación relativa. La omisión de dicho sujeto obligado para comparecer al procedimiento no impedirá que el Tribunal dicte resolución y que, en su caso, ésta afecte al referido sujeto.
+Si durante la substanciación del recurso apareciere que el sujeto obligado es distinto al señalado por el recurrente, el Instituto notificará al sujeto obligado correcto con el estado en que se encuentre el procedimiento, sin suspenderlo, para que venga al mismo dentro de un plazo de tres días hábiles a partir de la notificación relativa. La omisión de dicho sujeto obligado para comparecer al procedimiento no impedirá que el Instituto dicte resolución y que, en su caso, ésta afecte al referido sujeto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 52.
 
-En todos los casos el Tribunal deberá suplir la deficiencia de la queja del recurrente.
+En todos los casos el Instituto deberá suplir la deficiencia de la queja del recurrente.
 
 ###### Artículo 53.
 
 El recurso tendrá por objeto confirmar, revocar o modificar el acto reclamado. Las resoluciones contendrán la determinación del acto impugnado, los fundamentos legales y los motivos en que se apoyen, los puntos y alcances de la decisión y los plazos para su cumplimiento.
 
-Si el Tribunal no resuelve en el plazo establecido por esta Ley, el acto recurrido se entenderá confirmado tanto en sus puntos resolutivos como en sus motivaciones y fundamentación legal. Será motivo de pérdida del cargo de los magistrados del Tribunal la resolución por esta vía de más de dos casos dentro de un período de un año contado de momento a momento, previa declaratoria que formule el Congreso del Estado sobre dicho particular y respetada que fuere la garantía de audiencia de los referidos magistrados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando el Tribunal determine que algún servidor público pudo haber incurrido en responsabilidad de cualquier naturaleza, deberá hacerlo del conocimiento de la autoridad que corresponda para que ésta, sin más requisito que dicha comunicación, inicie los procedimientos procedentes. Igual conocimiento le dará al Instituto para los efectos de las atribuciones de éste.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Si el Instituto no resuelve en el plazo establecido por esta Ley, el acto recurrido se entenderá confirmado tanto en sus puntos resolutivos como en sus motivaciones y fundamentación legal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Cuando el Instituto determine que algún servidor público pudo haber incurrido en responsabilidad de cualquier naturaleza, deberá hacerlo del conocimiento de la autoridad que corresponda para que ésta, sin más requisito que dicha comunicación, inicie los procedimientos procedentes.
 
 ###### Artículo 54.
 
@@ -537,9 +827,17 @@ El recurso será desechado por improcedente cuando:
 
 I. Sea presentado fuera del plazo señalado en el artículo 48;
 
-II. El Tribunal haya conocido y resuelto previamente el asunto; o
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. El asunto esté siendo conocido por el mismo Tribunal en otro proceso pendiente de resolver.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Il. El Instituto haya conocido y resuelto previamente el asunto; o
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+III. El asunto esté siendo conocido por el mismo Instituto en otro proceso pendiente de resolver.
 
 ###### Artículo 55.
 
@@ -551,15 +849,23 @@ II. Admitido que fuere, aparezca posteriormente alguna causal de improcedencia; 
 
 III. El sujeto obligado responsable de la omisión o resolución impugnada cumpla aquélla o modifique ésta de tal modo que quede sin materia el recurso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 56.
 
-El Tribunal sustanciará el recurso de revisión conforme a las siguientes reglas:
+El Instituto sustanciará el recurso de revisión conforme a las siguientes reglas:
 
 I. Se decidirá sobre la admisión del recurso dentro de un plazo de veinticuatro horas a partir de la fecha de recepción del escrito correspondiente;
 
 II. Si el recurso fuere admitido se le dará traslado del mismo al sujeto obligado dentro de las cuarenta y ocho horas siguientes para que en un plazo de tres días hábiles exponga lo que le parezca procedente, requiriéndolo además para que, de ser el caso, en el mismo término remita copia autenticada de la resolución recurrida si el recurrente no la exhibió o, de haberla exhibido sin autentificar, para que la certifique según corresponda, con la advertencia de que, si el sujeto obligado incumple este requisito, se tendrá por definitivamente cierto el acto impugnado de la forma en que lo haya precisado el recurrente;
 
-III. Cuando se admitan pruebas que requieran desahogo especial, el Tribunal dispondrá de quince días hábiles para dicho particular, sin que por motivo alguno este plazo pueda ampliarse o puedan desahogarse pruebas después de su conclusión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+III. Cuando se admitan pruebas que requieran desahogo especial, el Instituto dispondrá de quince días hábiles para dicho particular, sin que por motivo alguno este plazo pueda ampliarse o puedan desahogarse pruebas después de su conclusión;
 
 IV. Una vez concluidas las pruebas que se desahoguen en el plazo previsto en la fracción anterior, si fuere el caso, o concluido el plazo o recibido respuesta al traslado y el requerimiento previstos en la fracción II, deberá dictarse la resolución correspondiente dentro de los diez días hábiles siguientes sin necesidad de citación especial para dicho efecto; y
 
@@ -567,51 +873,67 @@ V. Dictada la resolución, deberá notificarse a las partes dentro de un plazo n
 
 Si el interesado lo solicita, podrán recibírsele promociones por vía electrónica.
 
-Las resoluciones del Tribunal serán públicas una vez que hubieren causado estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Las resoluciones del Instituto serán públicas una vez que hubieren causado estado.
 
 La información reservada o confidencial que, en su caso, sea indispensable para resolver un recurso, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 57.
 
-En cualquier momento pero sin suspensión del procedimiento, el Tribunal podrá celebrar audiencias con las partes para el efecto de explorar y en su caso obtener una composición extrajudicial del recurso.
+En cualquier momento pero sin suspensión del procedimiento, el Instituto podrá celebrar audiencias con las partes para el efecto de explorar y en su caso obtener una composición extrajudicial del recurso.
 
 ###### Artículo 58.
 
 Contra la resolución de la revisión no procederá otro recurso ordinario o medio de defensa distinto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 59.
 
-El sujeto obligado dispondrá de un plazo de cinco días hábiles para cumplir la resolución que dicte el Tribunal. En casos especiales a juicio del Tribunal, previa solicitud del sujeto obligado y justificándose ésta, mediante acuerdo fundado y motivado podrá ampliarse por una sola vez este plazo hasta por otro igual, de modo tal que el particular nunca deba esperar más de diez días hábiles para la entrega de la información correspondiente.
+El sujeto obligado dispondrá de un plazo de cinco días hábiles para cumplir la resolución que dicte el Instituto. En casos especiales a juicio del Instituto, previa solicitud del sujeto obligado y justificándose ésta, mediante acuerdo fundado y motivado podrá ampliarse por una sola vez este plazo hasta por otro igual, de modo tal que el particular nunca deba esperar más de diez días hábiles para la entrega de la información correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 60.
 
-Para obtener coactivamente el cumplimiento de sus resoluciones, el Tribunal podrá decretar y ejecutar:
+Para obtener coactivamente el cumplimiento de sus resoluciones, el Instituto podrá decretar y ejecutar:
 
-I. El extrañamiento y, para el supuesto de mantenerse el incumplimiento en las 48 horas subsiguientes, el apercibimiento de aplicación de cualquiera o varias de las siguientes medidas coactivas, que podrán aplicarse indistintamente sin seguir su orden y con independencia de que también podrán aplicarse sin apercibimiento previo;
+I.- El extrañamiento y, para el supuesto de mantenerse el incumplimiento en las 48 horas subsiguientes, el apercibimiento de aplicación de cualquiera o varias de las siguientes medidas coactivas, que podrán aplicarse indistintamente sin seguir su orden y con independencia de que también podrán aplicarse sin apercibimiento previo.
 
-II. La multa con cargo al patrimonio personal del servidor público responsable que determine el Tribunal o del representante legal del sujeto obligado no oficial, hasta por mil veces el salario mínimo aplicable a la capital del Estado;
+Il.- La multa con cargo al patrimonio personal del servidor público responsable que determine el Instituto o del representante legal del sujeto obligado no oficial, hasta por mil veces el salario mínimo aplicable a la capital del Estado.
 
-III. El arresto hasta por 36 horas del servidor público responsable que determine el Tribunal o del representante legal del sujeto obligado no oficial;
+III.- El arresto hasta por 36 horas del servidor público responsable que determine el Instituto o del representante legal del sujeto obligado no oficial.
 
-IV. La suspensión del servidor público responsable que determine el Tribunal hasta por sesenta días sin goce de sueldo;
+IV.- La suspensión del servidor público responsable que determine el Instituto hasta por sesenta días sin goce de sueldo.
 
-V. El cese definitivo y la consecuente separación del cargo del servidor público responsable que determine el Tribunal;
+V.- El cese definitivo y la consecuente separación del cargo del servidor público responsable que determine el Instituto.
 
-Todas las autoridades del Estado estarán obligadas a coadyuvar con el Tribunal para la ejecución eficaz y eficiente de las precitadas medidas coactivas.
+Todas las autoridades del Estado estarán obligadas a coadyuvar con el Instituto para la ejecución eficaz y eficiente de las precitadas medidas coactivas.
 
-En el caso de la fracción II, el Secretario de Hacienda será responsable de iniciar el procedimiento coactivo y obtener el aseguramiento del pago de la multa correspondiente dentro de un plazo de quince días naturales a partir de la fecha en que reciba notificación del mandato respectivo, para cuyo efecto podrá inclusive retenerse el sueldo del servidor público responsable hasta por el monto que permitan las leyes de la materia. El importe de las multas que se impongan en los términos de la fracción II será entregado al Instituto, dándose conocimiento al Tribunal.
+En el caso de la fracción II, el Secretario de Hacienda será responsable de iniciar el procedimiento y obtener el aseguramiento del pago de la multa correspondiente dentro de un plazo de quince días naturales a partir de la fecha en que reciba la notificación respectiva, para cuyo efecto podrá inclusive retenerse el sueldo del servidor público responsable hasta por el monto que permitan las leyes de la materia. El importe de las multas que se impongan en los términos de la fracción II será entregado al Instituto.
 
-En el caso de la fracción III, las policías estatales y municipales actuarán siguiendo las instrucciones que al efecto reciban del Tribunal sin interferencia de ninguna otra autoridad.
+En el caso de la fracción III, las policías estatales y municipales actuarán siguiendo las instrucciones que al efecto reciban del Instituto sin interferencia de ninguna otra autoridad.
 
 En el caso de la fracción IV, el superior jerárquico del sujeto obligado será personalmente responsable de la retención de sueldos correspondiente, y si ésta no se ejecuta de inmediato dicho superior quedará automáticamente sujeto a la misma sanción. En todo caso, los sueldos que dejen de percibirse por esta causal serán entregados al Instituto.
 
-En el caso de la fracción V, cuando el o los funcionarios responsables deban su cargo a un proceso de elección popular, o hayan sido designados directamente por el Poder Legislativo, la sanción la decidirá y ejecutará el Congreso del Estado a moción que sobre dicho particular presente el Tribunal. En el mismo caso, cuando se trate de servidores públicos designados de cualquier otra forma, la sanción la decidirá directamente el propio Tribunal y la ejecutará el superior jerárquico inmediato del servidor público sancionado. En todos los casos será invariablemente cuidada y respetada la garantía de audiencia del o los servidores públicos involucrados.
+En el caso de la fracción V, cuando el o los funcionarios responsables deban su cargo a un proceso de elección popular, o hayan sido designados directamente por el Poder Legislativo, la sanción la decidirá y ejecutará el Congreso del Estado a moción que sobre dicho particular presente el Instituto. En el mismo caso, cuando se trate de servidores públicos designados de cualquier otra forma, la sanción la decidirá directamente el propio Tribunal y la ejecutará el superior jerárquico inmediato del sujeto obligado sancionado. En todos los casos será invariablemente cuidada y respetada la garantía de audiencia del o los servidores públicos involucrados.
 
 En cualquier caso referente a la hipótesis de la fracción V, una vez resuelto el cese del servidor público involucrado, nadie estará obligado a obedecerlo como autoridad y el que lo hiciere a sabiendas será considerado copartícipe en la comisión del delito de usurpación de funciones que se cometiere.
 
-Sin perjuicio de las medidas coactivas de referencia, el Tribunal podrá además asumir de forma directa la ejecución de sus resoluciones, apersonándose para dicho efecto, por conducto del Presidente del mismo, en las oficinas de los sujetos obligados o en cualquier otro lugar, con auxilio de la fuerza pública si lo considera necesario y con atribuciones para romper cerraduras e inspeccionar archivos y muebles, lugares y espacios que puedan servir para guardar documentos, así como para emitir en el acto todas las órdenes y realizar todas las diligencias que sean conducentes para obtener el cumplimiento forzoso de las resoluciones correspondientes.
+Sin perjuicio de las medidas coactivas de referencia, el Instituto podrá además asumir de forma directa la ejecución de sus resoluciones, apersonándose para dicho efecto, por conducto del Presidente del mismo, en las oficinas de los sujetos obligados o en cualquier otro lugar, con auxilio de la fuerza pública si lo considera necesario y con atribuciones para romper cerraduras e inspeccionar archivos y muebles, lugares y espacios que puedan servir para guardar documentos, así como para emitir en el acto todas las órdenes y realizar todas las diligencias que sean conducentes para obtener el cumplimiento forzoso de las resoluciones correspondientes.
 
-Cualquier acción u omisión que se realice o deje de realizarse para eludir de cualquier modo el cumplimiento de las medidas coactivas previstas en este artículo, sea quien fuere de quien provenga, será castigada con el doble de la pena que corresponda al delito de incumplimiento del deber legal y, para iniciar la averiguación previa respectiva, el Ministerio Público no exigirá más requisito que el de la comunicación de los hechos relativos por parte del Tribunal.
+Cualquier acción u omisión que se realice o deje de realizarse para eludir de cualquier modo el cumplimiento de las medidas coactivas previstas en este artículo, sea quien fuere de quien provenga, será castigada con el doble de la pena que corresponda al delito de incumplimiento del deber legal y, para iniciar la averiguación previa respectiva, el Ministerio Público no exigirá más requisito que el de la comunicación de los hechos relativos por parte del Instituto.
 
 ## TITULO CUARTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -768,3 +1090,9 @@ En los fideicomisos, mandatos o contratos análogos constituidos previamente a l
 ###### ARTÍCULO SEXTO.
 
 En un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones necesarias a las disposiciones reglamentarias correspondientes.
+
+B.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los noventa días naturales siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
