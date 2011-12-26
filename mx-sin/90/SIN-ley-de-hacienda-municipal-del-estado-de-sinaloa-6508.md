@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2011-03-23"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -131,97 +131,139 @@ La Tesorería Municipal podrá celebrar convenios con los retenedores de este im
 
 En todo momento las autoridades municipales, están facultadas para nombrar los interventores que consideren necesarios para que se haga la correcta liquidación de los impuestos retenidos y su entero correspondiente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO II. POR REMATES NO JUDICIALES, SUBASTAS, RIFAS, SORTEOS, LOTERIAS Y JUEGOS PERMITIDOS
+### CAPÍTULO II. POR REMATES NO JUDICIALES, SUBASTAS, RIFAS, SORTEOS, LOTERÍAS, JUEGOS PERMITIDOS Y REALIZACIÓN DE JUEGOS CON APUESTAS Y SORTEOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 15.
 
 Son objeto de este impuesto:
 
-I.- Los remates no judiciales y subastas públicas siempre y cuando la enajenación resultante de estos actos no sean objeto del Impuesto al Valor Agregado; y
+I. Los remates no judiciales y subastas públicas siempre y cuando la enajenación resultante de estos actos no sean objeto del Impuesto al Valor Agregado;
 
-II.- La obtención de premios derivados de rifas, sorteos, loterías y juegos permitidos, excepto los que se realicen por organismos públicos descentralizados de la Administración Pública Federal.
+II. La obtención de premios derivados de rifas, sorteos, loterías y juegos permitidos, excepto los que se realicen por organismos públicos descentralizados de la Administración Pública Federal; y
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+III. Las realizaciones de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de maquinas, que en el desarrollo de aquellos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado.
+
+Quedan comprendidos en los juegos con apuestas, aquellos en los que solo reciban, capten, crucen o exploten apuestas.
+
+Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
 Son sujetos de este impuesto:
 
-I.- En el caso de la fracción I del artículo anterior, los responsables de dichos eventos; y
+I. En el caso de la fracción I del artículo anterior, los responsables de dichos eventos;
 
-II.- En el caso de la fracción II del artículo anterior, las personas físicas o morales que obtengan premios derivados de rifas, sorteos, loterías y juegos permitidos.
+II. En el caso de la fracción II del artículo anterior, las personas físicas o morales que obtengan premios derivados de rifas, sorteos, loterías y juegos permitidos; y
 
-Estarán obligados a la retención de este impuesto las personas físicas o morales responsables de la organización de dichos eventos.
+III. En el caso de la fracción III del artículo anterior, las personas físicas o morales que realicen juegos de apuestas y sorteos ahí descritos.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+Atendiendo a las fracciones I y II estarán obligadas a la retención de este impuesto las personas físicas o morales responsables de la organización de dichos eventos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
 Será base para el pago de este impuesto:
 
-I.- En caso de remates no judiciales y subasta pública, el valor total de los bienes;
+I. En caso de remates no judiciales y subasta pública, el valor total de los bienes.
 
-El valor de los bienes para efectos de esta fracción será igual al que tengan en el mercado. A falta de éste, lo será el que se fije por los peritos designados, uno por la Tesorería Municipal y otro por el propio causante. En caso de que los peritos no llegaren a un acuerdo sobre el valor de los bienes sujetos a peritaje, el Tesorero Municipal designará un perito tercero en discordia, cuyo dictamen servirá de base para el pago de este impuesto; y
+El valor de los bienes para efectos de esta fracción será igual al que tengan en el mercado. A falta de éste, lo será el que se fije por los peritos designados, uno por la Tesorería Municipal y otro por el propio causante. En caso de que los peritos no llegaren a un acuerdo sobre el valor de los bienes sujetos a peritaje, el Tesorero Municipal designará un perito tercero en discordia, cuyo dictamen servirá de base para el pago de este impuesto;
 
-II.- En caso de premios obtenidos, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete o boleto, sin deducción alguna.
+II. En caso de premios obtenidos, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete o boleto, sin deducción alguna.
 
 Tratándose de premios en especie, será base del impuesto, el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
 
-Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o juego de que se trate, se considerará que el valor o precio total del evento, corresponde al objeto del impuesto.
+Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o juego de que se trate, se considerará que el valor o precio total del evento, corresponde al objeto del impuesto; y
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+III. En el caso de los realizadores de juegos de apuestas y sorteos a que hace referencia la fracción III del artículo 15, se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas. Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 18.
 
-Los responsables de la realización de los remates, subastas, rifas, sorteos, loterías y juegos permitidos, tienen obligación de dar aviso de tales actos a la Tesorería Municipal con cinco días de anticipación, cuando menos a la celebración de los mismos con el propósito de que la autoridad fiscal, fije el impuesto correspondiente, así como para que designe al interventor que habrá de representarlo.
+Los responsables de la realización de los remates no judiciales, subastas, rifas, sorteos, loterías y juegos permitidos, tienen obligación de dar aviso de tales actos a la Tesorería Municipal con cinco días de anticipación, cuando menos a la celebración de los mismos con el propósito de que la autoridad fiscal, fije el impuesto correspondiente, así como para que designe al interventor que habrá de representarlo.
 
 A falta de este aviso, la Tesorería Municipal impondrá las sanciones que corresponden, sin perjuicio de exigir el pago del impuesto.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 19.
 
-El impuesto a que se refiere este capítulo deberá enterarse a más tardar 30 días posteriores a la celebración del acto y se causará en porcentaje tomando como base el valor del bien traducido en días de salario mínimo para los casos a que se refieren los puntos 1 y 2 y tratándose del punto 3, el valor del premio, de acuerdo con la siguiente:
+El impuesto a que se refieren las fracciones I y II del artículo 15, deberán enterarse a más tardar 30 días posteriores a la celebración del acto, y se causará en porcentaje tomando como base el valor del bien traducido en días de salario mínimo para los casos a que se refieren los puntos 1 y 2; tratándose del punto 3, el valor del premio. En lo que respecta a la fracción III del citado artículo, se pagará dentro de los primeros cinco días del mes siguiente a aquél al que se realizó la actividad, y tratándose del punto 4 el valor de las contraprestaciones gravadas efectivamente percibidas en el mes de que se trate, de acuerdo con la siguiente:
 
-TARIFA:
+T A R I F A
 
 CONCEPTO PORCIENTO
 
 1.- Aplicable al rematador o subastador
 
-1.1. Hasta 12 veces el salario mínimo general diario vigente 3%
+1.1. Hasta 12 veces el salario mínimo general diario 3%
 
-1.2. De más de 12 a 36 veces el salario mínimo general diario vigente 5%
+Vigente
 
-1.3. De más de 36 a 59 veces el salario mínimo general diario vigente 6%
+1.2. De más de 12 a 36 veces el salario mínimo general 5%
 
-1.4. De más de 59 a 119 veces el salario mínimo general diario vigente 7%
+diario vigente
 
-1.5. De más de 119 veces el salario mínimo general diario vigente 8%
+1.3. De más de 36 a 59 veces el salario mínimo general 6%
+
+diario vigente
+
+1.4. De más de 59 a 119 veces el salario mínimo general 7%
+
+diario vigente
+
+1.5. De más de 119 veces el salario mínimo general 8%
+
+diario vigente
 
 2.- Aplicable a los adquirentes de los bienes rematados
 
-2.1. Hasta 12 veces el salario mínimo general diario vigente 2%
+2.1. Hasta 12 veces el salario mínimo general diario 2%
 
-2.2. De más de 12 a 36 veces el salario mínimo general diario vigente 4%
+vigente
 
-2.3. De más de 36 a 59 veces el salario mínimo general diario vigente 5%
+2.2. De más de 12 a 36 veces el salario mínimo general 4%
 
-2.4. De más de 59 a 119 veces el salario mínimo general diario vigente 6%
+diario vigente
 
-2.5. De más de 119 veces el salario mínimo general diario vigente 7%
+2.3. De más de 36 a 59 veces el salario mínimo general 5%
+
+diario vigente
+
+2.4. De más de 59 a 119 veces el salario mínimo general 6%
+
+diario vigente
+
+2.5. De más de 119 veces el salario mínimo general 7%
+
+diario vigente
 
 3.- Premios obtenidos 6%
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+4.- De realizadores de Juegos y sorteos 6%
+
+(Atendiendo el segundo párrafo del artículo 5° de la
+
+Ley del Impuesto Especial sobre Producción y Servicios)
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 20.
 
-Quedan exentos del pago de este impuesto, los partidos políticos y los organismos públicos federales, estatales y municipales.
+En relación al artículo 15, fracciones I y II de la presente Ley, quedan exentos del pago de este impuesto, los partidos políticos y los organismos públicos federales, estatales y municipales.
+
+Para todo lo no previsto en relación al impuesto sobre las realizaciones de juegos con apuestas y sorteos, será aplicable por incorporación lo previsto en la Ley del Impuesto Especial sobre Producción y Servicios.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3346,3 +3388,17 @@ P.O. 23 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas físicas y morales sujetas al pago de este impuesto sobre las realizaciones de juegos con apuestas y sorteos, deberán solicitar su registro ante las autoridades recaudadoras del municipio que corresponda a más tardar 30 días después de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Municipios podrán realizar Convenios de Colaboración Administrativa con el Ejecutivo del Estado para comprobar el cumplimiento de las disposiciones fiscales derivadas del impuesto sobre las realizaciones de juegos con apuestas y sorteos, con base a la Ley de Coordinación Fiscal del Estado de Sinaloa.
