@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-83294"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-10-19"
-last_updated: "2011-10-19"
+last_updated: "2011-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-09-28"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
 
-ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
+ESTATUTO ORGÁNICO DEL SERVICIO DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 19 de octubre de 2011.
 
@@ -185,7 +185,9 @@ IX. Determinar los casos en que los servidores públicos del SAE deberán ejerce
 
 X. Conferir aquellas facultades delegables a los servidores públicos adscritos al SAE, expidiendo los acuerdos relativos que deberán ser publicados en el Diario Oficial de la Federación;
 
-XI. Otorgar y revocar poderes generales o especiales con las facultades que le correspondan, incluyendo los que requieran de cláusula o autorización especial, así como conferir la facultad para que el apoderado pueda a su vez otorgar poderes generales o especiales;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2011)</small>
+
+XI. Otorgar y revocar poderes generales o especiales con las facultades que le correspondan, incluyendo los que requieran de cláusula o autorización especial, así como conferir la facultad para que el apoderado pueda a su vez otorgar y revocar poderes generales o especiales;
 
 XII. Proponer a la Junta de Gobierno el monto de los recursos que se deberán depositar en el fondo para financiar las operaciones del SAE a que se refiere la Ley o cualquier otra disposición legal;
 
@@ -199,7 +201,9 @@ XVI. Designar como encargados de despacho a los servidores públicos que habrán
 
 XVII. Las demás que señalen la normativa aplicable, así como las que le sean otorgadas mediante acuerdo de la Junta de Gobierno.
 
-Serán facultades indelegables del Director General las señaladas en las fracciones IV, V, IX, X, XI y XIV de este artículo.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2011)</small>
+
+Serán facultades indelegables del Director General las señaladas en las fracciones IV, V, IX, X y XIV de este artículo.
 
 ###### ARTICULO 10.
 
@@ -2254,3 +2258,9 @@ CUARTO.- Las unidades administrativas con denominación nueva o distinta previst
 QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos y demás disposiciones, a las unidades administrativas del SAE que cambian de denominación por virtud del presente Estatuto, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme al mismo.
 
 SANDRO GARCIA ROJAS CASTILLO, Prosecretario de la Junta de Gobierno del Servicio de Administración y Enajenación de Bienes, con fundamento en lo dispuesto en el artículo 13, fracción V, del Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes, CERTIFICO: Que el presente documento que consta de 34 hojas, impresas por ambos lados, coincide fiel y exactamente con el documento que obra bajo resguardo de este Prosecretariado y que fue presentado como anexo del apartado 4.1 "Aprobación de las Modificaciones a la Estructura Organizacional del Servicio de Administración y Enajenación de Bienes, así como de su Estatuto Orgánico", en la Trigésima Cuarta Sesión Ordinaria de la Junta de Gobierno del SAE, celebrada el 18 de marzo de 2011. Asimismo, que el Artículo Primero Transitorio, fue modificado por la Junta de Gobierno del Servicio de Administración y Enajenación de Bienes en su Trigésima Sexta Sesión Ordinaria, celebrada el 27 de septiembre de 2011.- Se expide la presente en la Ciudad de México, D.F., al día 28 del mes de septiembre de 2011.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2011.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
