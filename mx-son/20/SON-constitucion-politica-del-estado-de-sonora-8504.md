@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2011-06-30"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
-CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -99,13 +99,13 @@ Para garantizar el cumplimiento de las obligaciones señaladas en el párrafo qu
 
 En Sonora la investidura de los funcionarios públicos emana de la ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la ley y los particulares pueden hacer todo lo que ésta no les prohíba.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El Estado garantizará el derecho de acceso a la información pública, sin más limitación que el respeto a la privacidad de los individuos, la seguridad pública y la seguridad nacional. La información pública sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley. El deber público concomitante con este derecho será cumplido directamente por las autoridades obligadas y en la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad. La vigilancia de este cumplimiento quedará a cargo del Instituto de Transparencia Informativa del Estado de Sonora, que resolverá con fuerza de imperio todas las controversias que se susciten al efecto. La ley establecerá procedimientos sencillos y plazos cortos para la respuesta de la autoridad a los peticionarios particulares de información pública, así como procedimientos de revisión expeditos; asimismo, definirá los conceptos relacionados con el derecho de acceso a la información pública, sobre la base de que el deber publico respectivo se extiende a los tres poderes del Estado, a los ayuntamientos, entidades paraestatales y paramunicipales, organismos autónomos y, en general, a todos los entes públicos, cualquiera sea su denominación o estructura, así como a los partidos políticos y las personas privadas, físicas o morales, que por cualquier motivo y de cualquier modo, reciban recursos públicos para su ejercicio con ese carácter, en los términos que establezca la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -245,7 +245,7 @@ IV. Inscribirse de acuerdo con las leyes relativas en el catastro del municipio 
 
 Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. No podrán inmiscuirse en los asuntos políticos que se refieran al Estado o a los Municipios, mientras no adquieran la calidad de sonorenses.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE AGOSTO DE 1990)</small>
 
 ###### Artículo 16.
 
@@ -365,25 +365,25 @@ La Ley establecerá los montos máximos que tendrán las aportaciones pecuniaria
 
 El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 La ley establecerá un sistema de medios (sic) impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes relativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El Tribunal estará compuesto por tres magistrados propietarios y dos magistrados suplentes comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los magistrados del Tribunal Estatal Electoral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -391,7 +391,7 @@ Los magistrados del Tribunal Estatal Electoral durarán en su encargo nueve año
 
 Los Magistrados nombrados para concluir el periodo de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del periodo de aquél.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -403,7 +403,7 @@ El Consejo Estatal Electoral realizará el cómputo final de la elección de Gob
 
 Las leyes en materia electoral deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -511,7 +511,7 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 31.
 
@@ -573,7 +573,7 @@ VIlI.- No haber sido Diputado o Senador Propietario del Congreso de la Unión, a
 
 IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -865,7 +865,7 @@ XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y 
 
 XIX Bis. Para ratificar o rechazar el nombramiento del Procurador General de Justicia que haga el Ejecutivo del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1065,7 +1065,7 @@ XI. Las demás que expresamente le confiere esta Constitución.
 
 Del Instituto Superior de Auditoría y Fiscalización.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE MAYO DE 2010)</small>
 
 ### CAPITULO III.
 
@@ -1099,9 +1099,9 @@ G) Determinar y ejecutar las medidas conducentes a la recuperación de los daño
 
 H) Ejercer las atribuciones referidas en los apartados D, F y G con respecto a los ejercicios presupuestales de los organismos constitucionalmente autónomos solamente en los casos en que, a propuesta de la Comisión referida en la fracción XXXII Bis del artículo 64 de esta Constitución, lo determine el pleno del Congreso por votación calificada de dos tercios de los diputados presentes en la sesión.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
 
-El Instituto Superior de Auditoria y Fiscalización estará dirigido por un Auditor Mayor y dos auditores adjuntos que serán designados, según el procedimiento que se establezca en la ley secundaria, el primero por votación de dos tercios de los diputados del Congreso presentes en la sesión y los otros dos, a propuesta del Auditor Mayor, por mayoría simple del propio Congreso.
+El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y Fiscalización, durarán en su encargo siete años y podrán ser nombrados, nuevamente, por una sola vez. Dichos funcionarios solo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
 
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
 
@@ -1139,7 +1139,7 @@ Instrucción Pública.
 
 Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 #### SECCION IV.
 
@@ -1181,7 +1181,7 @@ VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cua
 
 VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1213,7 +1213,7 @@ b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier de
 
 ###### Artículo 74.
 
-En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo, dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
 
 Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
@@ -1279,7 +1279,7 @@ IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medi
 
 V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las Leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedores, en los términos que prevengan las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
 
@@ -1519,7 +1519,7 @@ La educación primaria y secundaria serán obligatorias para todos los niños y 
 
 El Estado vigilará el cumplimiento, de parte de los patrones, de la obligación consignada en la fracción XII, tercer párrafo, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 1994)</small>
 
 Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen, el propio Estado y el Municipio, de impartir la enseñanza preescolar, primaria y secundaria.
 
@@ -1537,7 +1537,7 @@ Juzgados de Primera Instancia y Locales.
 
 La persecución de los delitos incumbe al Ministerio Público y a la Policía Estatal Investigadora, la cual estará bajo la autoridad y mando inmediato de aquél.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 96.
 
@@ -1703,7 +1703,7 @@ El servicio judicial será gratuito. En consecuencia, quedan prohibidas las cost
 
 Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 ###### Artículo 113.
 
@@ -1753,7 +1753,7 @@ Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no exc
 
 La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito y la de los Juzgados de Primera Instancia y Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine la ley, al Presidente del Supremo Tribunal de Justicia, el cual no podrá ser reelecto para el período inmediato posterior, salvo que se trate de una suplencia; en cuyo caso el suplente sí podrá ser reelecto.
 
@@ -1905,13 +1905,13 @@ IV. No haber sido condenado por la Comisión de un delito intencional, aún cuan
 
 V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 VI. No haber sido magistrado o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 133.
 
@@ -2189,9 +2189,9 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PARRAFO PRIMERO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 143.
 
@@ -2209,7 +2209,7 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -2237,9 +2237,9 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 146.
 
@@ -2301,7 +2301,7 @@ Prevenciones Generales.
 
 Por ningún motivo podrán embargarse o subastarse las contribuciones del Estado o del Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE MAYO DE 2010)</small>
 
 ###### Artículo 150.
 
@@ -2485,7 +2485,7 @@ EL O. M. E. DEL D.,
 
 S. Sandoval.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 B.O. 19 DE DICIEMBRE DE 1923.
 
@@ -3233,7 +3233,7 @@ La presente ley entrará en vigor el día de su publicación en el Boletín Ofic
 
 B.O. 16 DE DICIEMBRE DE 2010.
 
-LEY NUMERO 77, POR EL QUE SE REFORMA EL PARRAFO TERCERO Y SE ADICIONAN LOS PARRAFOS CUARTO Y SUS INCISOS A AL H, QUINTO Y SUS INCISOS A AL I Y SEXTO, TODOS DEL ARTICULO 1° DE LA CONSTITUCION POLITICA DEL ESTADO DE SONORA.
+LEY NÚMERO 77, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y SUS INCISOS A AL H, QUINTO Y SUS INCISOS A AL I Y SEXTO, TODOS DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3243,7 +3243,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 B.O. 16 DE DICIEMBRE DE 2010.
 
-LEY NUMERO 79, POR EL QUE SE REFORMAN LOS ARTICULOS 2°, PARRAFO SEGUNDO; 22, PARRAFOS DECIMO QUINTO, DECIMO SEXTO, DECIMO SEPTIMO, DECIMO OCTAVO, VIGESIMO Y VIGESIMO CUARTO; 33, FRACCION X; 64, FRACCION XX; 70, FRACCION VIII; 132, FRACCION VI; 143, PARRAFO PRIMERO; 144, FRACCION I, PARRAFO SEGUNDO Y 146, PARRAFO PRIMERO Y SE ADICIONA UN PARRAFO TERCERO AL ARTICULO 2°, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO DE SONORA.
+LEY NÚMERO 79, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2°, PÁRRAFO SEGUNDO; 22, PÁRRAFOS DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SEPTIMO, DÉCIMO OCTAVO, VIGÉSIMO Y VIGÉSIMO CUARTO; 33, FRACCIÓN X; 64, FRACCIÓN XX; 70, FRACCIÓN VIII; 132, FRACCIÓN VI; 143, PÁRRAFO PRIMERO; 144, FRACCIÓN I, PÁRRAFO SEGUNDO Y 146, PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 2°, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3274,6 +3274,18 @@ P.O. 30 DE JUNIO DE 2011.
 La presente ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+B.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Sonora, por las razones señaladas en la parte expositiva del presente resolutivo y con fundamento en lo dispuesto por el artículo 67, párrafo tercero, de la Constitución Política del Estado, que se reforma mediante la presente ley, resuelve nombrar, nuevamente, por un periodo de siete años, contado a partir del primero de enero del año dos mil doce, al C.P.C. Eugenio Pablos Antillón, como Auditor Mayor del Instituto Superior de Auditoría y Fiscalización.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
