@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2011-07-19"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -390,9 +390,9 @@ Los Diputados integrantes de las Comisiones no tendrán ninguna retribución ext
 
 Toda Comisión deberá presentar su dictamen en los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los hayan recibido. Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los resolutivos. Deberá estar debidamente fundado y motivado y contendrá las modificaciones que en su caso se hayan realizado, concluyendo con proposiciones claras y sencillas que puedan sujetarse a votación.
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo. Tratándose de dictámenes que contengan proposiciones, la ampliación no podrá exceder de sesenta días más, contados a partir de que se venza el plazo regular; cuando se trate de dictámenes que contengan iniciativas, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
+Cuando la Comisión no pueda dictaminar dentro del plazo fijado, expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. Durante los recesos de la Asamblea corresponderá a la Diputación Permanente aprobar la ampliación del plazo atendiendo a lo dispuesto por la fracción X del artículo 58 de la Ley Orgánica. Tratándose de dictámenes que contengan proposiciones, la ampliación no podrá exceder de sesenta días más, contados a partir de que se venza el plazo regular; cuando se trate de dictámenes que contengan iniciativas, la ampliación no podrá exceder de noventa días más, contados a partir de que se venza el plazo regular.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -404,9 +404,9 @@ Lo anterior sin detrimento de lo que dispone el artículo 89 del presente Reglam
 
 Para que haya dictamen de Comisión, el mismo deberá presentarse firmado por la mayoría de los Diputados que la componen. Si alguno o algunos de ellos disintiesen del parecer de dicha mayoría, podrán presentar voto particular por escrito.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Mesa Directiva el (sic) Pleno para su discusión dentro de las siguientes cuarenta y ocho horas posteriores a su distribución.
+Las Comisiones deberán remitir el dictamen de manera impresa y por medio electrónico, magnético, óptico u otros, a la Mesa Directiva del Pleno de la Asamblea o de la Diputación Permanente, para su discusión dentro de las siguientes cuarenta y ocho horas posteriores a su distribución.
 
 ###### Artículo 34.
 
@@ -466,7 +466,9 @@ La temática de las reuniones de Comisiones se dará a conocer con cuarenta y oc
 
 Las Comisiones seguirán funcionando durante el receso de la Asamblea para el despacho de los asuntos a su cargo. El Presidente de cada Comisión tendrá a su cargo coordinar el trabajo de los miembros de la Comisión y citarlos cuando sea necesario, durante los recesos, para el despacho de los asuntos pendientes.
 
-Los dictámenes que emitan las Comisiones durante los recesos serán listados en el programa de trabajo del periodo de sesiones ordinarias siguiente.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Los dictámenes que emitan las comisiones durante los recesos serán listados en el programa de trabajo del periodo de sesiones ordinarias siguiente (sic). En el caso de los dictámenes de proposiciones con punto de acuerdo que emitan las comisiones podrán presentarse para su discusión y, en su caso, aprobación ante la Diputación Permanente, debiendo señalar el nombre del integrante de la Comisión que habrá de presentarlo.
 
 ###### Artículo 42.
 
@@ -1258,9 +1260,9 @@ La designación se hará en la víspera de la clausura de sesiones ordinarias y 
 
 La Diputación Permanente se integrará de manera proporcional conforme al número de Diputados que cada Grupo parlamentario posea en el pleno.
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
-Sólo podrán participar en las sesiones de la Diputación Permanente los diputados que hayan sido designados por el Pleno como titulares o sustitutos.
+Sólo podrán participar en las sesiones de la Diputación Permanente los diputados que hayan sido designados por el Pleno como titulares o sustitutos, salvo aquellos que intervengan, únicamente con voz pero sin voto, para presentar y argumentar dictámenes de proposiciones en representación de la dictaminadora respectiva.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 80], G.O. 30 DE MARZO DE 2005)
 
@@ -1308,15 +1310,19 @@ Las iniciativas que presentes los diputados deberán ir de manera impresa y por 
 
 Las iniciativas populares serán turnadas a una comisión especial integrada por miembros de las comisiones competentes en la materia propuesta, para el efecto de que verifique que se cumple con los requisitos que señala el artículo 46 del Estatuto y la Ley de Participación Ciudadana, en cuyo caso remitirá a la Mesa Directiva o a la Comisión de Gobierno en los recesos, para que se turne a la comisión o comisiones que corresponda su análisis y dictamen. En caso contrario, se desechará de plano la iniciativa presentada.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 84], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 87.
 
-La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga debidamente fundamentada que apruebe el Pleno o en los recesos, la Diputación Permanente, a petición de la Comisión dictaminadora.
+La Comisión elaborará el dictamen respectivo para ser presentado ante el Pleno en un plazo no mayor de treinta días naturales a partir de su recepción en la Comisión, salvo prórroga debidamente fundamentada que apruebe el Pleno, o en los recesos la Comisión de Gobierno, a petición de la Comisión dictaminadora.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 Todo dictamen estará integrado por una adecuada fundamentación, motivación, antecedentes, considerandos, las modificaciones que en su caso se hayan realizado y los puntos resolutivos.
 
 La parte considerativa contendrá las modificaciones que en su caso se hayan realizado.
+
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
 El dictamen de la Comisión deberá presentarse firmado por los miembros de la misma. Si alguno o algunos de los integrantes de la Comisión disienten del dictamen, se hará la anotación en contra, junto con la firma respectiva. Los Diputados podrán formular los votos particulares.
 
@@ -1324,11 +1330,11 @@ El dictamen de la Comisión deberá presentarse firmado por los miembros de la m
 
 Los dictámenes que se entreguen a la Mesa Directiva para su discusión en el Pleno de la Asamblea deberán estar acompañados de manera impresa y por medio electrónico, magnético, óptico u otros.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 85], G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 88.
 
-Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcurrido el plazo señalado en el artículo anterior, el Presidente hará una excitativa a la Comisión para que la dictamine, lo mismo se observará durante el periodo de receso por el Presidente de la Diputación Permanente.
+Si la Asamblea se encuentra en periodo de sesiones ordinarias y hubiere transcurrido el Plazo señalado en el artículo anterior, el Presidente hará una excitativa a la Comisión para que la dictamine, lo mismo se observará durante los periodos de receso por el Presidente de la Comisión de Gobierno.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2949,3 +2955,13 @@ TERCERO.- Para la primera entrega de la Medalla al Mérito de Protección Civil,
 A. La primera quincena del mes de julio para la emisión de la convocatoria.
 
 B. Del 1 al 30 de agosto para la presentación ante la comunidad de las propuestas y la documentación correspondiente de los candidatos a recibir la Medalla al Mérito de Protección Civil.
+
+G.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto de las reformas a la Ley Orgánica, remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
