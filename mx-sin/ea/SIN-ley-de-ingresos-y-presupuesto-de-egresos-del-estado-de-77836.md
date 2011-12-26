@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-77836"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-31"
-last_updated: "2011-08-08"
+last_updated: "2011-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 31 de diciembre de 2010.
 
@@ -39,11 +39,11 @@ LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO
 
 ## TITULO PRIMERO. DE LOS INGRESOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 1.
 
-En el ejercicio fiscal del año 2011, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $34,990,377,678.00 (Treinta y cuatro mil novecientos noventa millones trescientos setenta y siete mil seiscientos setenta y ocho pesos 00/100 M.N.), y que son:
+En el ejercicio fiscal del año 2011, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $32,823,711,011.00 (Treinta y dos mil ochocientos veintitrés millones setecientos once mil once pesos 00/100 M.N.), y que son:
 
 A.- Los derivados de la aplicación de la Ley de Hacienda
 
@@ -281,13 +281,13 @@ a) Educación Publica 3,149,266,198
 
 b) Seguridad Publica 300,792,083
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-D.-Ingresos Derivados de Endeudamiento 2,600,000,000
+D.- Ingresos Derivados de Endeudamiento 433,333,333
 
-1.- Empréstitos 2,600,000,000
+I.- Empréstitos 433,333,333
 
-TOTAL 34,990,377,678
+TOTAL 32,823,711,011
 
 El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas informara al H. Congreso del Estado respecto de los ingresos reales que se obtengan en los términos y modalidades que establece la fracción VI del artículo 65 de la Constitución Política del Estado, al remitir, antes de la apertura del primero y segundo periodo ordinario de sesiones, la cuenta pública correspondiente.
 
@@ -401,11 +401,11 @@ La Secretaría estará facultada para interpretar las disposiciones del presente
 
 ### CAPITULO SEGUNDO. DE LAS EROGACIONES
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 16.
 
-El gasto neto total previsto en el presente presupuesto, importa la cantidad de $34,990,377,678.00 (Treinta y cuatro mil novecientos noventa millones trescientos setenta y siete mil seiscientos setenta y ocho pesos 00/100 M.N.), y corresponde al total de ingresos previstos para 2011 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
+El gasto neto total previsto en el presente presupuesto, importa la cantidad de $32,823,711,011.00 (Treinta y dos mil ochocientos veintitrés millones setecientos once mil seiscientos once pesos 00/100 M.N.), y corresponde al total de ingresos previstos para 2011 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
 
 ###### ARTÍCULO 17.
 
@@ -427,11 +427,13 @@ Atendiendo la clasificación del Presupuesto por Objeto del Gasto a nivel global
 
 Las erogaciones previstas por los Poderes, se señalan en el Anexo 5, de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 22.
 
-De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2011, ascienden a $8,322,742,370.00 (Ocho mil trescientos veinte y dos millones setecientos cuarenta y dos mil trescientos setenta pesos 00/100 M.N.), y se asignan conforme al Anexo 6, de esta Ley.
+De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2011, ascienden a $6,156,075,703.00 (Seis mil ciento cincuenta y seis millones setenta y cinco mil setecientos tres pesos 00/100 M.N.), y se asignan conforme al Anexo 6, de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 Los ingresos derivados de endeudamiento a que se refiere el artículo 1, apartado D, Fracción I de esta Ley, y que forman parte de la cantidad señalada en el párrafo anterior, serán destinados al Programa de Infraestructura Productiva para reactivar la economía del Estado de Sinaloa.
 
@@ -1325,6 +1327,20 @@ Lic. Quirino Ordaz Coppel
 
 > <small>N. DE E. VEASE ANEXO 14. LIMITES DE PERCEPCION NETA MENSUAL PAGINA 120.</small>
 
+> <small>N. DE E. VÉASE ANEXO 1. GASTO NETO TOTAL POR FUNCIÓN. SUBFUNCIÓN Y PROGRAMA, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINAS DE LA 43 A LA 45; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINAS DE LA 9 A LA 10.</small>
+
+> <small>N. DE E. VÉASE ANEXO 2. GASTO NETO TOTAL DISTRIBUIDO POR GRUPO, SUBGRUPO, RAMO, DEPENDENCIA, ORGANISMO Y/O UNIDAD RESPONSABLE, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINAS DE LA 45 A LA 57; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINAS DE LA 10 A LA 11.</small>
+
+> <small>N. DE E. VÉASE ANEXO 3. PRESUPUESTO CLASIFICADO POR GASTO CORRIENTE Y DE CAPITAL, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINA 58; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINA 11.</small>
+
+> <small>N. DE E. VÉASE ANEXO 4. CLASIFICACIÓN DEL PRESUPUESTO POR OBJETO DEL GASTO A NIVEL GLOBAL DE CAPÍTULO, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINA 58; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINA 11.</small>
+
+> <small>N. DE E. VÉASE ANEXO 5. EROGACIONES PREVISTAS POR LOS PODERES, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINA 59; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINA 12.</small>
+
+> <small>N. DE E. VÉASE ANEXO 6. RECURSOS DE INVERSIÓN PÚBLICA DIRECTA POR FUNCIÓN, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINA 59; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINA 12.</small>
+
+> <small>N. DE E. VÉASE ANEXO 12. CLASIFICACIÓN ADMINISTRATIVA POR UNIDAD RESPONSABLE Y CAPÍTULO POR OBJETO DEL GASTO, EN LA SEGUNDA SECCIÓN DEL P.O. DE 31 DE DICIEMBRE DE 2010, PÁGINAS DE LA 67 A LA 119; REFORMAS EN EL P.O. 26 DE DICIEMBRE DE 2011, PÁGINAS DE LA 12 A LA 13.</small>
+
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE AGOSTO DE 2011.
@@ -1332,3 +1348,9 @@ P.O. 8 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "el estado de sinaloa".
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
