@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2010-12-22"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -271,13 +271,29 @@ II.- Los residentes fuera del Estado de Campeche, respecto de todas las erogacio
 
 También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 22.
 
-Están obligados a retener y enterar este impuesto, las personas físicas, las personas morales, las unidades económicas y los demás sujetos del impuesto a que se refiere el artículo anterior, que contraten la prestación de servicios objeto de este impuesto con personas físicas, morales, o unidades económicas residentes fuera del Estado de Campeche.
+Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en este capítulo.
 
-Cuando se efectúen las retenciones a que se refiere el párrafo anterior, los retenedores deberán proporcionar a la persona o unidad económica prestadora del servicio, la constancia de retención correspondiente, de acuerdo con el formulario que apruebe y publique la Secretaría de Finanzas.
+No serán considerados intermediarios, sino patrones, las empresas establecidas que presten servicios a otras, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14 y 15 de la Ley Federal del Trabajo.
 
-Cuando no se efectúen las retenciones a que se refiere el primer párrafo, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el artículo 24 de este Capítulo, al total de las contraprestaciones pactadas con el prestador del servicio, determinado en función del resultado que se obtenga respecto de los pagos realizados, en el ejercicio de las facultades de comprobación ejercidas con el sujeto retenedor u obligado a retener el impuesto.
+Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros sujetos de aseguramiento para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en este capítulo en relación con dichos trabajadores, en el supuesto de que el patrón omita su cumplimiento, siempre y cuando la Secretaría de Finanzas hubiese notificado previamente al patrón el requerimiento correspondiente y éste no lo hubiera atendido.
+
+Asimismo, la Secretaría de Finanzas dará aviso al beneficiario de los trabajos o servicios, del requerimiento a que se refiere el párrafo anterior.
+
+Los contratantes deberán comunicar trimestralmente ante las oficinas recaudadoras de la Dirección de Ingresos de la Secretaría de Finanzas del Estado que correspondan al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
+
+I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y de Registro Patronal ante el IMSS; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
+
+II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías indicando en este caso si se trata de personal operativo, administrativo o profesional y el número estimado mensual de trabajadores u otros sujetos de aseguramiento que se pondrán a disposición del beneficiario de los servicios o trabajos contratados.
+
+El patrón incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por la Secretaría de Finanzas.
+
+La información prevista en este artículo deberá ser presentada en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza, conforme a las reglas generales que para tal efecto emita la Secretaría de Finanzas.
+
+Para los efectos de este artículo, el Gobierno del Estado, en ningún caso, será considerado como intermediario laboral.
 
 #### SECCIÓN TERCERA. DE LA BASE
 
@@ -481,11 +497,13 @@ XI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 35.
 
-Es objeto de este impuesto, el ingreso en efectivo, en especie o en valor de servicios, que perciban las personas físicas y morales organizadoras o beneficiarias de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, aún cuando por dichas actividades no se cobre cantidad alguna que represente el derecho a participar en las mismas.
+Es objeto de este impuesto, el ingreso en efectivo, en especie o en valor de servicios, que perciban las personas físicas y morales organizadoras o beneficiarias de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos, aun cuando por dichas actividades no se cobre cantidad alguna que represente el derecho a participar en las mismas.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Este impuesto se causará independientemente de la denominación que se le dé al pago necesario para participar en las actividades anteriormente mencionadas.
 
@@ -497,7 +515,9 @@ Este impuesto se causará independientemente de la denominación que se le dé a
 
 Están obligados al pago de este impuesto las personas físicas y morales que en el Estado, habitual u ocasionalmente:
 
-I. Organicen, administren, exploten o patrocinen loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; asimismo las que obtengan o cobren premios en efectivo, en especie o en el valor de los servicios;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+I. Organicen, administren, exploten o patrocinen loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos; asimismo las que obtengan o cobren premios en efectivo, en especie o en el valor de los servicios;
 
 II. Reciban o registren apuestas dentro del Estado, independientemente de que el organizador del evento esté fuera del Estado y/o el desarrollo del evento sea fuera del mismo Estado;
 
@@ -507,35 +527,41 @@ IV. Reciban o cobren premios en el territorio del Estado, sin importar que el ev
 
 #### SECCIÓN TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 37.
 
-La base de este impuesto será el total de los ingresos en efectivo, en especie o en el valor de los servicios que se obtenga por la celebración de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos.
+La base de este impuesto será el total de los ingresos en efectivo, en especie o en el valor de los servicios que se obtenga por la celebración de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos.
 
-De igual manera, será base de este impuesto los premios obtenidos en efectivo, en especie o en el valor de los servicios como resultado de la celebración de dichas loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+De igual manera, será base de este impuesto los premios obtenidos en efectivo, en especie o en el valor de los servicios como resultado de la celebración de dichas loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Para el caso de los premios en especie se tomará como base gravable el valor de la facturación o el valor del avalúo que realicen las autoridades fiscales en este orden.
 
-Cuando no exista una contraprestación para participar en una lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitidas, se considerará como base gravable el valor del premio otorgado, ya sea en efectivo, en especie o en el valor de los servicios.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Cuando no exista una contraprestación para participar en una lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitidas, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos, se considerará como base gravable el valor del premio otorgado, ya sea en efectivo, en especie o en el valor de los servicios.
 
 #### SECCIÓN CUARTA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 38.
 
 Este impuesto se determinará y recaudará aplicando a la base gravable la tasa que para cada evento se establece:
 
-I. El 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos, registros distribuidos para participar en loterías, rifas y sorteos. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios;
+I. El 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos, registros distribuidos para participar en loterías, rifas y sorteos, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma, del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios;
 
-II. En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, el impuesto de (sic) determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos, sin deducción alguna por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas;
+II. En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos, el impuesto de (sic) determinará aplicándola tasa del 6% sobre el monto total de los ingresos obtenidos, sin deducción alguna por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas;
 
-III. En el caso de concursos, el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento;
+III. En el caso de concursos, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento;
 
-IV. Quienes obtengan premios derivados de las loterías, rifas, sorteos o concursos a que se refiere esta sección, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por el organizador, o por quien organice, realice o explote los eventos, debiendo proporcionar la constancia de retención;
+IV. Quienes obtengan premios derivados de las loterías, rifas, sorteos o concursos incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos a que se refiere esta sección, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por el organizador, o por quien organice, realice o explote los eventos, debiendo proporcionar la constancia de retención;
 
-V. Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
+V. Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
 #### SECCIÓN QUINTA. DEL PAGO
 
@@ -545,15 +571,29 @@ V. Quienes obtengan premios derivados de juegos permitidos con cruce o captació
 
 El pago de este impuesto deberá efectuarse dentro de los plazos siguientes:
 
-I. Cuando las loterías, las rifas, los sorteos, los concursos y juegos con cruce de apuestas legalmente permitidos se realicen por contribuyentes habituales, se pagará el impuesto dentro de los cinco días hábiles siguientes a la fecha de su celebración, conjuntamente con el importe del impuesto retenido, a cargo de quien obtuvo el premio, y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-II. Cuando se trate de contribuyentes eventuales, deberán otorgar un depósito equivalente al cincuenta por ciento del impuesto correspondiente al total del boletaje emitido, en efectivo o mediante fianza expedida por institución legalmente autorizada y presentarse ante las autoridades fiscales al día hábil siguiente de la realización del evento o actividad con el boletaje sobrante en su caso, a fin de determinar los boletos vendidos y como consecuencia, la diferencia a cargo o a favor del contribuyente, con base en los porcentajes establecidos en este capítulo, debiendo enterar en ese mismo día el impuesto o cargo que resulte.
+I.- Cuando las loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos se realicen por contribuyentes habituales, se pagará el impuesto a más tardar el día veinte del mes siguiente a aquel en que éste se cause, conjuntamente con el importe del impuesto retenido, a cargo de quien o quienes hayan obtenido el premio, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+II. Cuando se trate de contribuyentes eventuales, previo al evento deberán otorgar un depósito equivalente al cincuenta por ciento del impuesto correspondiente al total del boletaje emitido, en efectivo o mediante fianza expedida por institución legalmente autorizada, ante la Secretaría de Finanzas; debiendo presentarse ante las autoridades fiscales al día hábil siguiente de la realización del evento o actividad con el boletaje sobrante en su caso, a fin de determinar los boletos vendidos y como consecuencia, la diferencia a cargo o a favor del contribuyente, con base en los porcentajes establecidos en este capítulo, debiendo enterar en ese mismo día el impuesto o cargo que resulte.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Lo anterior, sin perjuicio de que la autoridad fiscalizadora intervenga directamente el día en que se celebre la actividad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 El pago de este impuesto no libera de la obligación de obtener previamente los permisos o autorizaciones correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 Los contribuyentes eventuales no podrán iniciar la lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitido, si no han pagado el impuesto correspondiente a algún evento anterior, en caso de que lo adeude.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+El pago de este impuesto se cubrirá mediante declaración que presentarán en las formas autorizadas por la Secretaría de Finanzas a través de los medios de pago establecidos en el Código Fiscal del Estado.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -568,6 +608,30 @@ II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas di
 III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda; y
 
 IV.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 40
+
+BIS.- No pagarán este Impuesto:
+
+I. Los partidos y organizaciones políticas reconocidas;
+
+II. Las asociaciones religiosas registradas ante la Secretaría de Gobernación;
+
+III. Las agencias autorizadas que efectúen los sorteos para la adjudicación de vehículos automóviles;
+
+IV. Las dependencias del Gobierno del Estado y los municipios;
+
+V. Los obtenidos de sorteos de bonos del ahorro nacional y de planes de ahorro administrados por el Patronato del Ahorro Nacional, y
+
+VI. Cuando se de algunos de los siguientes supuestos:
+
+a).- Los juegos con apuestas o sorteos se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley de Impuesto sobre la Renta, a que se refiere el Artículo 95, fracciones VI, IX y XVII de dicha Ley, siempre que destine la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas;
+
+b).- Tratándose de sorteos, cuando los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio; o
+
+c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir o contratar un servicio.
 
 ### CAPÍTULO VI. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -625,7 +689,7 @@ De comprobarse que no se ha cumplido con la obligación de pago, dichas oficinas
 
 En el caso de vehículos nuevos el impuesto se calculará conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 I. Para los vehículos terrestres de hasta 15 pasajeros, eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
@@ -699,7 +763,7 @@ VEHÍCULOS USADOS
 
 Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up, cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado; el impuesto se determinará multiplicando el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
 
@@ -727,7 +791,7 @@ Años de Antigüedad Factor
 
 El resultado anterior se actualizará de conformidad con el procedimiento establecido en la fracción VI de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 II.- Tratándose de vehículos de fabricación nacional o importados usados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
@@ -1811,9 +1875,9 @@ venta de bebidas alcohólicas, Discoteca, Hotel, Motel,
 
 Distribuidora, Bodega, Almacén y Supermercado. 2,522
 
-II.- Centros recreativos y deportivos, Casino, Club Social,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-otros 2,240
+II.- Centros recreativos y deportivos y Club Social 2240
 
 III.- Salón Cerveza, Salón de Baile, Salón Billar, Boliche,
 
@@ -1853,9 +1917,9 @@ Expendio, Botanero 34
 
 IV.- Lonchería, Coctelería, Taquería 28
 
-V.- Centro Recreativo y Deportivo, Casino, Club Social,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-otros 22
+V.- Centro Recreativo y Deportivo y Club Social 22
 
 ###### ARTÍCULO 75.
 
@@ -1895,11 +1959,9 @@ IV.- Lonchería, Coctelería, Taquería, Tienda de
 
 Abarrotes 10
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-V.- Centro Recreativo y Deportivo, Casinon (sic)
-
-o Club Social, otros 6
+V.- Centro Recreativo y Deportivo y Club Social 6
 
 ###### ARTÍCULO 76.
 
@@ -1931,15 +1993,15 @@ Expendio, Botanero 53
 
 IV.- Lonchería, Coctelería, Taquería 44
 
-V.- Centro Recreativo y Deportivo, Casino, Club Social,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-otros 34
+V.- Centro Recreativo y Deportivo y Club Social 34
 
 ###### ARTÍCULO 77.
 
 En los casos de sucesión testamentaria o intestamentaria, la cesión o transferencia de los derechos de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, no causará ninguna cuota.
 
-###### ARTÍCULO 78
+###### ARTÍCULO 78.
 
 Por la autorización de modificaciones, como son cambio de domicilio, cambio de giro, reposiciones o duplicados de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
@@ -1958,6 +2020,10 @@ II.- Por cambio de giro de la licencia 1,296
 III.- Por reposición de una licencia 39
 
 IV.- Por duplicado de la licencia 13
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+V.- Por cambio de razón social 700
 
 ###### ARTÍCULO 79.
 
@@ -2071,7 +2137,7 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 93.
 
@@ -2085,9 +2151,11 @@ Las garantías constituidas para la autorización de permisos especiales a menor
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarias.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 ###### ARTÍCULO 96.
 
@@ -2099,17 +2167,23 @@ También ingresarán por este concepto las responsabilidades administrativas que
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 98.
 
 Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. Cuando los bienes objeto de la donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el Ejecutivo; en caso contrario en los términos fijados por el donante.
 
-### CAPÍTULO ÚNICO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 99.
 
-Ingresarán a la Hacienda Pública Estatal los empréstitos y créditos que obtenga el Estado de Campeche, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2011)
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 100.
 
@@ -2131,7 +2205,13 @@ III.- Las fianzas cuya pérdida se declare por resolución firme a favor del Est
 
 ## TÍTULO SEXTO. DE LOS ACCESORIOS
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 103.
 
@@ -2143,21 +2223,21 @@ Se consideran accesorios de las contribuciones y de los aprovechamientos, lo exp
 
 Son ingresos extraordinarios los que perciba la Hacienda Pública del Estado, cuando circunstancias especiales obliguen al propio Estado a hacer frente a necesidades imprevistas que impliquen erogaciones extraordinarias.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 105.
 
 Los ingresos a que se refiere el artículo que antecede, serán los siguientes:
 
-1.- Financiamientos;
+1.- Impuestos y derechos extraordinarios;
 
-2.- Impuestos y derechos extraordinarios;
+2.- Contribuciones de mejoras;
 
-3.- Expropiaciones;
+3.- Expropiaciones; y
 
-4.- Contribuciones de mejoras;
+4.- Aportación a cargo de contratistas y destajistas que realicen obras en el Estado, por el 1% sobre el pago de cada una, para obras y acciones de beneficio social.
 
-5.- Apoyos financieros federales; y
-
-6.- Los contratistas y destajistas que realicen obras en el Estado, aportarán el 1% sobre el pago de cada una, para obras de beneficio social.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ## TÍTULO NOVENO. DE LOS INCENTIVOS
 
@@ -2171,9 +2251,19 @@ Las participaciones por ingresos federales, se percibirán de acuerdo con lo dis
 
 Los incentivos que se establezca (sic) en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre el Gobierno Federal y el Estado de Campeche, ingresarán a la hacienda pública en los términos que se establezcan en el referido Convenio.
 
+## TÍTULO UNDÉCIMO. CONVENIOS DE TRANSFERENCIA DE RECURSOS FEDERALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 108.
 
 Los Fondos de Aportaciones Federales se percibirán en los plazos, conceptos y montos establecidos en la Ley de Coordinación Fiscal y el Decreto de Presupuesto de Egresos de la Federación, los cuales serán destinados y distribuidos de conformidad con lo establecido en la precitada Ley Federal. Estos Fondos ingresarán a la Secretaría de Finanzas del Estado, salvo aquellos que en los términos, condiciones y porcentajes establecidos en la Ley de Coordinación Fiscal hayan sido afectados para garantizar obligaciones o servir como fuente de pago de dichas obligaciones contraídas por el Estado o sus municipios.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 109.
+
+Los ingresos por Convenios de Transferencia de Recursos Federales son aquellos que otorgue el Gobierno Federal, distintos de las Participaciones y Fondos de Aportaciones Federales, y que se reciban a través de convenios, acuerdos u otros instrumentos jurídicos, que pueden o no tener aportación estatal y se regirán por el instrumento jurídico que se suscriba, así como por las leyes, decretos, reglamentos, lineamientos o reglas de operación a que se sujeten.
 
 T R A N S I T O R I O S
 
@@ -2317,10 +2407,16 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los dieciséis días del mes de diciembre del año dos mil nueve.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
 Primero.- El presente decreto entrará en vigor el día 1 de enero de 2011, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2012, previa publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
