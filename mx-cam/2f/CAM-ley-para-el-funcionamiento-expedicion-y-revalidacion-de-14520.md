@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "2000-12-20"
+last_updated: "2011-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO CAMPECHE
 
-LEY PARA EL FUNCIONAMIENTO, EXPEDICION Y REVALIDACION DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHOLICAS DEL ESTADO DE CAMPECHE
+LEY PARA EL FUNCIONAMIENTO, EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -111,7 +111,9 @@ XIV.- Supermercados y Minisupers.
 
 XV.- Tienda de Abarrotes.
 
-XVI.- Casino y Club Social.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XVI.- Club Social
 
 XVII.- Salón de Baile.
 
@@ -163,7 +165,9 @@ XIV.- SUPERMERCADOS Y MINISUPERS: Establecimientos dedicados a dar servicios de 
 
 XV.- TIENDA DE ABARROTES: Establecimientos para venta de abarrotes y similares que expenden complementariamente cerveza en envase cerrado al menudeo.
 
-XVI.- CASINO O CLUB SOCIAL: Lugar dedicado a dar servicio en forma exclusiva para socios e invitados, asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquier otra naturaleza, que podrán contar con salón de baile, servicio de cantina y cocina, que sólo funcionarán en el transcurso de los eventos con consumo y en su caso, venta de bebidas alcohólicas cuando cuenten con licencia o permiso debidamente autorizada para tales efectos.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XVI.- CLUB SOCIAL: Lugar dedicado a dar servicio en forma exclusiva para socios e invitados, asociaciones civiles, centros cívicos, clubes de servicio o agrupaciones que tengan finalidades mutualistas, altruistas, recreativas o de cualquier otra naturaleza, que podrán contar con salón de baile, servicio de cantina y cocina, que solo funcionarán en el transcurso de los eventos con consumo y en su caso, venta de bebidas alcohólicas cuando cuenten con licencia o permiso debidamente autorizada para tales efectos.
 
 XVII.- SALON DE BAILE: Establecimiento en el que se baila, tiene además la característica de presentar espectáculos para la diversión de los asistentes, y expender bebidas alcohólicas en envase abierto y al copeo para el consumo inmediato en el interior del propio local, durante los eventos.
 
@@ -267,7 +271,7 @@ VI.- Lugares en que lo exija la moralidad, el interés general o salud pública.
 
 Igualmente se prohibe el consumo de bebidas alcohólicas, en el interior y exterior de los vehículos, en circulación o estacionados en la vía pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 16.
 
@@ -337,11 +341,15 @@ IX.- Bares de 13:00 horas a 1:00 horas, y bares anexos a hoteles de 13:00 horas 
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
-X.- Salón de billar o boliche de lunes a domingo de 10:00 horas a 22:00 horas, y
+X.- Salón de billar o boliche de lunes a domingo de 10:00 horas a 22:00 horas, y (sic)
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-XI.- Casino o club social de lunes a domingo de 10:00 horas a 3:00 horas, sin perjuicio de lo señalado por el artículo 23 de esta Ley.
+XI.- Club social de lunes a domingo de 10:00 horas a 3:00 horas, sin perjuicio de lo señalado por el artículo 23 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+XII.- Distribuidoras de lunes a sábado de 9:00 horas a 20:00 horas.
 
 ###### ARTICULO 20.
 
@@ -351,7 +359,7 @@ El horario estipulado en los artículos anteriores es para la venta y para el co
 
 Es facultad del Ejecutivo por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, señalar discrecionalmente, los días en que, en los establecimientos a que se refiere la presente Ley, no podrá venderse ni consumirse bebidas alcohólicas. En este caso, el Ejecutivo a través de la Secretaría de Finanzas y Administración del Gobierno del Estado los dará a conocer por los medios de comunicación social que considere convenientes, respetando por Ley, los días de elección popular, cambios de poder, e informes de gobiernos federales, estatales y municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 22.
 
@@ -395,7 +403,7 @@ Ningún establecimiento de los que esta Ley regula, podrá iniciar sus actividad
 
 Para los efectos de esta Ley, se entiende por licencia o permiso la autorización que otorgue el Ejecutivo, por conducto del Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o el consumo de bebidas alcohólicas en los locales que establece la presente Ley, entendiéndose siempre que es un acto discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante un derecho personal, intransferible y condicionado, y consecuentemente, podrá cancelarse cuando a juicio del Ejecutivo lo requiera el orden público, la moral, o las buenas costumbres, o cuando medie algún otro motivo de interés general, quedando además, sujeta a la revalidación anual.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 28.
 
@@ -527,7 +535,7 @@ No se otorgarán permisos ni licencias para la venta de bebidas alcohólicas en 
 
 La Secretaría de Finanzas y Administración del Gobierno del Estado a través de la Dirección de Ingresos deberá recabar periódicamente de los H.H. Ayuntamientos, una relación de los permisos expedidos en los términos del artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 45.
 
@@ -555,7 +563,7 @@ El Ejecutivo por conducto del titular de la Secretaría de Finanzas y Administra
 
 ### CAPITULO VII. DE LAS VISITAS DE INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 48.
 
@@ -577,7 +585,7 @@ Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los est
 
 Los permisionarios, representantes legales, encargados o cualquiera otra persona que se encuentre en el establecimiento o lugar objeto de la inspección, estarán obligados a permitir el acceso a los mismos, a dar facilidades e informes a los inspectores para el desarrollo de su labor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DEL 2000)</small>
 
 ###### ARTICULO 51.
 
@@ -887,7 +895,7 @@ Las sanciones que establece la presente Ley se aplicarán y harán efectivas por
 
 El titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, dictará las medidas que estime pertinentes para el mejor cumplimiento de las disposiciones de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO XII. DE LOS DELITOS COMETIDOS POR MOTIVO DE LA VENTA ILICITA DE BEBIDAS ALCOHOLICAS
 
@@ -935,7 +943,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veintinueve días del mes de Mayo de mil novecientos noventa y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMÓN AZAR GARCÍA.- EL SECRETARIO DE GOBIERNO, LIC. FERNANDO RAFFUL.- RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE ENERO DE 1997.
 
@@ -968,3 +976,9 @@ Primero.- El presente decreto entrará en vigor el día 1 enero del año 2000.
 Segundo.- Las cuotas que han quedado establecidas en el inciso b), de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche que son objeto de la presente reforma, relativas a cursos de cómputo, renta de equipo de cómputo y arrendamientos en general, entrarán en vigor el 1 de enero de 2001, las restantes cuotas entrarán en vigor el 1 de agosto de 2001.
 
 Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2012, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
