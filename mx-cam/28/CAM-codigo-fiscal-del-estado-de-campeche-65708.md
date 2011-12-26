@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2008-12-08"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
-CODIGO FISCAL DEL ESTADO DE CAMPECHE
+CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -355,7 +355,9 @@ Las obligaciones fiscales se generan conforme se realizan las situaciones juríd
 
 El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
 
-El índice nacional de precios al consumidor será el que publique el Banco de México en el Diario Oficial de la Federación y calculado en los términos del artículo 20 Bis del Código Fiscal de la Federación. En los casos en que el índice correspondiente al mes anterior al más reciente del período, no haya sido publicado, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+El índice nacional de precios al consumidor será el que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación y calculado en los términos del artículo 20 Bis del Código Fiscal de la Federación. En los casos en que el índice correspondiente al mes anterior al más reciente del (sic) periodo, no haya sido publicado, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
@@ -393,7 +395,9 @@ El pago de créditos fiscales se acreditará mediante el recibo oficial, comprob
 
 Las contribuciones, aprovechamientos y sus accesorios se causarán y pagarán en moneda nacional.
 
-En los casos en que las leyes fiscales establezcan la aplicación del índice nacional de precios al consumidor, a fin de determinar las contribuciones y sus accesorios, se aplicará el citado índice calculado por el Banco de México y que se publica en el Diario Oficial de la Federación dentro de los primeros diez días del mes siguiente al que corresponda. El índice mencionado es aquél que se refiere en el segundo párrafo del artículo 20 del Código Fiscal de la Federación y calculado en los términos del artículo 20 Bis de ese ordenamiento jurídico.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+En los casos en que las leyes fiscales establezcan la aplicación del índice nacional de precios al consumidor, a fin de determinar las contribuciones y sus accesorios, se aplicará el citado índice calculado por el Instituto Nacional de Estadística y Geografía y que se publica en el Diario Oficial de la Federación dentro de los primeros diez días del mes siguiente al que corresponda. El índice mencionado es aquél que se refiere en el segundo párrafo del artículo 20 del Código Fiscal de la Federación y calculado en los términos del artículo 20 Bis de ese ordenamiento jurídico.
 
 Para determinar las contribuciones y sus accesorios se considerará en su caso el tipo de cambio a que se refieren los párrafos tercero y sexto del artículo 20 del Código Fiscal de la Federación.
 
@@ -731,9 +735,25 @@ Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligad
 
 ### CAPÍTULO III. De los Derechos y Obligaciones de los Contribuyentes y Responsables Solidarios
 
-###### Artículo 42.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-La administración pública estatal, centralizada y paraestatal, así como la Procuraduría General de Justicia en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de este Código y las leyes fiscales.
+###### ARTÍCULO 42.
+
+La Administración Pública Estatal, Centralizada y Paraestatal, así como la Procuraduría General de Justicia, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+
+l. Tengan a su cargo créditos fiscales firmes.
+
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
+
+IV. Habiendo vencido el plazo para presentar alguna declaración y con independencia de que en la misma resulte o no cantidad pagar (sic), ésta no haya sido presentada.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+
+Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+
+Igual obligación tendrán los municipios cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
 
 ###### Artículo 43.
 
@@ -2887,8 +2907,16 @@ SEXTO.- Se derogan todas las disposiciones legales, reglamentarias y administrat
 
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los cuatro días del mes de diciembre del año dos mil ocho.
 
-C. María del Carmen Pérez López.- Diputada Presidenta.- C. Giacomina María Merino Capelline, Diputada Secretaría.- C. Elia Martínez Zamorano, Diputada Secretaría.- Rúbricas.
+C. María del Carmen Pérez López, Diputada Presidenta.- C. Giacomina María Merino Capelline, Diputada Secretaría.- C. Elia Martínez Zamorano, Diputada Secretaría.- Rúbricas.
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los ocho días del mes de diciembre del año dos mil ocho.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFAN.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
