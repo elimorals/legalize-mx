@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2011-07-05"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -85,7 +85,7 @@ Queda abolida la práctica de deducir simultánea o subsidiariamente acciones co
 
 A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 I.- Cuando alguno se jacta públicamente de que otro es su deudor o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor o aquél de quien se dice que es deudor, puede ocurrir al juez de primera instancia del domicilio del jactancioso, pidiendo que le señale un término para que deduzca la acción que afirma tener, apercibido que de no hacerlo en el plazo designado, se tendrá por desistido de la acción que haya sido objeto de la jactancia. Las cuestiones sobre jactancia se ventilarán en la forma que para los incidentes establece este Código. No se reputa jactancioso al que en un acto judicial administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa.
 
@@ -217,17 +217,17 @@ Los magistrados, jueces o secretarios presidirán todos los actos de prueba, baj
 
 Los magistrados, sin embargo, podrán cometer a los jueces de primera instancia, y éstos a los menores o locales, la práctica de las diligencias expresadas en el artículo anterior, cuando deban tener lugar en población o lugar que no sea de su residencia.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-Todas las diligencias o notificaciones que hayan de practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina, se efectuarán de oficio, a excepción del emplazamiento a juicio a la parte demandada y las que impliquen ejecución, las que necesariamente serán a instancia del interesado.
+Todas las diligencias o notificaciones que hayan de practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina, se efectuarán de oficio, a excepción del emplazamiento a juicio a la parte demandada y las que impliquen algún mandamiento de ejecución, las que necesariamente serán a instancia del interesado.
 
 ###### Artículo 26.
 
 Las actuaciones que hayan de efectuarse fuera de la jurisdicción del tribunal que conozca del negocio, deberán cometerse precisamente a la autoridad de aquélla en que deban tener lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 27.
 
@@ -321,7 +321,7 @@ Por ningún motivo se entregarán los autos a las partes, sus representantes o a
 
 El examen de expedientes, ya sea para tomar apuntes o para cualquier otro objeto propio de la actividad de los interesados, será bajo la vigilancia del personal del juzgado o tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 37.
 
@@ -343,7 +343,7 @@ Nunca, por ningún motivo, se entregarán los autos en confianza.
 
 El Magistrado, Juez, Secretario o cualquier servidor público que infrinja este artículo sufrirá una multa de cincuenta a doscientas cuotas; y serán responsables de todos los daños y perjuicios que se causaren y si reinciden en dicha falta, serán destituidos del empleo u oficio. Dicha sanción será impuesta en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
@@ -359,7 +359,7 @@ El Juez o Magistrado dictará las medidas que sean conducentes, para tal efecto.
 
 Las copias certificadas de constancias judiciales serán autorizadas por el secretario que las expida. De igual manera serán autorizadas las obtenidas en el Tribunal Virtual.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 41.
 
@@ -381,7 +381,7 @@ II.- Auxilio de la fuerza pública.
 
 III.- Cateo por orden escrita;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 IV.- Arresto hasta por treinta y seis horas.
 
@@ -427,7 +427,7 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 Asimismo, tratándose de exhortos y despachos entre tribunales del Estado, podrán enviarse mediante el sistema Tribunal Virtual, certificándose en la misma forma que lo prevé el artículo 74 del segundo título especial del libro séptimo de este código. Cuando se hagan por esta vía, las constancias de diligenciación se remitirán de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 49.
 
@@ -571,7 +571,7 @@ Para la validez de la notificación no se requiere el consentimiento del notific
 
 El auto en que se mande hacer la notificación expresará la materia u objeto de la diligencia y la persona o personas con quienes ésta debe practicarse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 68.
 
@@ -601,7 +601,7 @@ Si no se encontrare presente la persona interesada y después de que el notifica
 
 El instructivo a que se refiere el artículo anterior se entregará a los parientes, domésticos o a cualquier otra persona capaz que se encuentre en la casa donde se practique la diligencia. Si no se encontrare persona alguna, si las presentes se negaren a recibirlo o si por cualquier otro motivo no se pudiere cumplir con lo dispuesto anteriormente, el instructivo se entregará al Juez auxiliar, o quien haga sus veces, de la sección respectiva, fijándose una copia del instructivo en la puerta o lugar más visible del domicilio del interesado. Si no existiere Juez Auxiliar o quien haga sus veces, la notificación se efectuará por conducto de la Secretaría del Ayuntamiento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 71.
 
@@ -687,11 +687,11 @@ Las partes podrán designar personas solamente autorizadas para oír notificacio
 
 El Juez, al acordar lo relativo a la autorización a que se refiere este artículo, deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-Así mismo, las partes podrán solicitar la autorización por sí o persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la página electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de Internet del Tribunal Virtual. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el artículo 76 de este Código. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual que se establecen en el Segundo Título Especial del Libro Séptimo de este Código.
+Así mismo, las partes podrán solicitar la autorización por sí o persona autorizada en los términos que establecen los párrafos anteriores, para acceder a la página electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual, lo que les permitirá consultar en forma completa el expediente electrónico e, igualmente, implicará la aceptación del solicitante para que todas las notificaciones de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue la autorización respectiva, se le realicen por vía electrónica. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual. La consulta de expedientes electrónicos, el envío de promociones y notificaciones por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual que se establecen en el Segundo Titulo Especial del Libro Séptimo de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 79.
 
@@ -795,7 +795,7 @@ Sean cuales fueren los trabajos ejecutados y los gastos expensados en el negocio
 
 Las costas por honorarios serán reguladas conforme al arancel respectivo. Si no existiere arancel que regule la profesión de que se trate, los honorarios se fijarán por perito designado por el Juez o Tribunal que conozca del incidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 97.
 
@@ -807,7 +807,7 @@ De esta decisión no habrá recurso alguno.
 
 En trámite incidental y dentro del mismo juicio, los abogados patronos, podrán reclamar a su cliente el cobro de sus honorarios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
 ## TITULO SEGUNDO. DE LAS COMPETENCIAS Y EXCEPCIONES PROCESALES
 
@@ -1091,7 +1091,7 @@ Las competencias entre los jueces menores o locales de las municipalidades perte
 
 Contra la resolución que decida toda competencia no habrá recurso alguno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
 
 ### CAPITULO IV. DE LAS EXCEPCIONES PROCESALES
 
@@ -1433,7 +1433,7 @@ No serán procedentes conforme a la fracción I del artículo 154, las declaraci
 
 El juzgador está obligado a interrogar libremente al declarante con el fin de arribar al conocimiento del acto o hecho que motivó el medio preparatorio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 1984)</small>
 
 ### CAPITULO II. DE LA SEPARACION PROVISIONAL DE LOS CONYUGES
 
@@ -1489,7 +1489,7 @@ En la resolución, el Juez fijará el término que tiene la persona que solicit�
 
 (DEROGADO, P.O. 28 DE ABRIL DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 175.
 
@@ -1531,7 +1531,7 @@ Si el juez que decretó la separación provisional no fuera el que deba conocer 
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2007)</small>
 
 ### CAPITULO II BIS
 
@@ -1541,7 +1541,7 @@ DE LA SEPARACION CAUTELAR DE PERSONAS.
 
 Artículo 180 Bis I.- Toda persona que vaya a promover demanda por conductas que constituyan violencia familiar, puede pedir al Juez la separación cautelar del agredido y el presunto agresor a quien demandará.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 Artículo 180 Bis II.- La separación cautelar de personas, tiene por objeto tutelar la seguridad de las personas sujetas a violencia familiar. Toda separación cautelar decretada con fundamento en este Capítulo, tendrá un carácter prejudicial y provisional, en los siguientes términos:
 
@@ -1769,7 +1769,7 @@ Antes de la ejecución de la providencia precautoria no se admitirá recurso, ex
 
 Ejecutada total o parcialmente la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquélla se dicte, sin perjuicio, en el segundo caso, de concluir la ejecución iniciado el juicio. Si éste debiere seguirse en otro lugar, el Juez aumentará a los tres días señalados uno por cada cien kilómetros, o fracción que exceda de la mitad.
 
-> <small>(REFORMADO, PRIMER PARRAFO P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 203.
 
@@ -1991,7 +1991,7 @@ Las pruebas que cada parte rindiere y las diligencias practicadas con ese objeto
 
 Contra el auto en que se ordene o niegue que el juicio se abra a pruebas, no procede recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 239.
 
@@ -2017,7 +2017,7 @@ VII.- Fotografías, copias fotostáticas, cintas de vídeo, dispositivos de arch
 
 VIII.- Presunciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
 ### CAPITULO III. DE LA CONFESION Y LA DECLARACION DE PARTE
 
@@ -2129,7 +2129,7 @@ Cuando la parte a quien se entregue un exhorto o despacho, para los fines que se
 
 (DEROGADO, P.O. 14 DE ENERO DE 2005)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
 ### CAPITULO IV
 
@@ -2413,7 +2413,7 @@ Los exhibidos con posterioridad en los casos en que la ley lo permita, podrán s
 
 Cuando se impugne la autenticidad de un documento público, podrá pedirse el cotejo con los protocolos o archivos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 303.
 
@@ -2509,7 +2509,7 @@ II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los inter
 
 III.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un término prudente para que lo rindan. Cuando discordaren los peritos, dictaminará el tercero, solo o asociado con los otros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 317.
 
@@ -2661,7 +2661,7 @@ El Juez examinará el interrogatorio conforme el artículo siguiente y señalar�
 
 Los interrogatorios de preguntas y repreguntas deben ser concebidos en términos claros y precisos, sin comprender en una sola hechos (sic) o circunstancias diversos y sin sugerir por sí mismos la respuesta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 330.
 
@@ -2763,7 +2763,7 @@ Cada uno de los litigantes puede presentar hasta cinco testigos, y el juez podr�
 
 El juez tendrá cuidado de calificar los interrogatorios en los términos de este Capítulo y contra sus decisiones a este respecto, no habrá recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2005)</small>
 
 ### CAPITULO IX
 
@@ -2963,7 +2963,7 @@ En el caso de los registros electrónicos generados y publicados en el Tribunal 
 
 Las presunciones legales hacen prueba plena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 385.
 
@@ -3321,7 +3321,7 @@ Si la resolución constare de varias proposiciones, puede consentirse respecto d
 
 La parte que venció puede adherirse a la apelación interpuesta dentro de los tres días siguientes a la admisión del recurso, expresando los razonamientos tendientes a mejorar las consideraciones vertidas por el Juez en la resolución de que se trata. Con dicho escrito se dará vista a la contraria para que en igual plazo manifieste lo que a su derecho corresponda. En este caso la adhesión al recurso sigue la suerte de éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 439.
 
@@ -3409,7 +3409,7 @@ La revisión de las sentencias recaídas en los casos y procedimientos señalado
 
 DE LA EJECUCION DE LAS SENTENCIAS DICTADAS POR EL TRIBUNAL Y POR LOS JUECES DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 453.
 
@@ -3457,7 +3457,7 @@ DE LA EJECUCION DE LAS SENTENCIAS Y DEMAS RESOLUCIONES DICTADAS POR LOS TRIBUNAL
 
 ###### Artículo 459.
 
-Debe ejecutar las sentencias el juzgado que haya conocido del negocio en primera o única instancia.
+Debe ejecutar las sentencias el juzgado que haya conocido del negocio en primera o única instancia, salvo los casos expresamente determinados en la Ley.
 
 > <small>(REFORMADO, P.O. 1º. DE FEBRERO DE 1975)</small>
 
@@ -3471,7 +3471,7 @@ La Sala que haya pronunciado la sentencia, devolverá los autos al inferior, den
 
 Todo lo que en este título se dispone respecto de la ejecución de sentencias, comprende los laudos arbitrales, los convenios y las transacciones extrajudiciales que sean resultado de métodos alternos de solución de conflictos, reconocidas judicialmente en autos, los convenios celebrados en juicio y las transacciones que consten en escritura pública, que por su naturaleza traigan aparejada ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 461 Bis.
 
@@ -3931,7 +3931,7 @@ I.- Si dejare de rendir la cuenta mensual o la presentada no fuere aprobada;
 
 II.- Cuando no haya informado al juzgado el cambio de domicilio;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 III.- Cuando tratándose de bienes muebles, no pusiere en conocimiento del juzgado, dentro de los dos días que sigan a la entrega, el lugar en donde quede constituido el depósito;
 
@@ -4099,7 +4099,7 @@ Con el precio se pagará al acreedor hasta donde alcance, y si hubiere costas pe
 
 El reembargo produce su efecto en lo que resulte líquido del precio del remate después de pagarse el primer embargante, salvo el caso de preferencia de derechos. El reembargante para obtener el remate, en caso de que éste no se haya verificado, puede obligar al primer ejecutante a que continúe su acción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 553.
 
@@ -4217,7 +4217,7 @@ En los incidentes criminales que surjan en negocios civiles, se observará lo di
 
 La sentencia de los incidentes será apelable en los casos en que lo fuere la sentencia en lo principal; pero el recurso sólo será admitido en el efecto devolutivo, salvo que la ley disponga expresamente otra cosa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ### CAPITULO UNICO
 
@@ -4439,13 +4439,13 @@ Los impedimentos del juez en una tercería, ya en razón de competencia o por cu
 
 Cuando en una ejecución se afecten intereses de terceros que no tengan, con el ejecutante o el ejecutado, alguna controversia que pueda influir sobre los intereses de éstos, en virtud de los cuales se ha ordenado la ejecución, la oposición se resolverá por el procedimiento incidental. Tanto el ejecutante como el ejecutado serán solidariamente responsables de los daños y perjuicios que con la ejecución se causaren al tercero, a menos que se demuestre que sólo una de las partes ha sido responsable de la ejecución en bienes de éste, en cuyo caso cesará la solidaridad de la otra.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO DECIMO TERCERO
 
 DIVORCIO POR MUTUO CONSENTIMIENTO.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO UNICO.
 
@@ -4535,7 +4535,7 @@ VII.- El valor de la suerte principal si de ello depende la competencia del Juez
 
 Las promociones en que ambas partes estuvieren de acuerdo serán proveídas de plano y de conformidad, salvo los casos en que alteren el orden público, contravengan alguna disposición legal expresa o afecten derechos de terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 614.
 
@@ -4581,7 +4581,7 @@ En los casos de los artículos anteriores no se admitirá al actor la protesta d
 
 Cuando el actor no tenga a su disposición los documentos en que funde su acción, designará el archivo o lugar en que se encuentran los originales para que a su costa se mande expedir copia de ellos en la forma que prevenga la ley. Se entiende que el actor tiene a su disposición los documentos siempre que legalmente pueda pedir copia autorizada de los originales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 620.
 
@@ -5119,7 +5119,7 @@ Artículo 723 BIS VI.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
 Artículo 723 BIS VII.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 712.
 
@@ -5179,7 +5179,7 @@ El juez, en caso de que decrete la demolición dispondrá que se haga bajo la di
 
 En el juicio de interdicto de que trata este Capítulo, se oirá al Ministerio Público.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO V
 
@@ -5225,7 +5225,7 @@ Desahogadas las pruebas y concluida la fase de alegatos, la sentencia se dictar�
 
 Artículo 732 BIS V.- Contra la sentencia que se dicte procede el recurso de apelación en ambos efectos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 724.
 
@@ -5337,7 +5337,7 @@ Para determinar la cuantía de las cuotas del salario mínimo general, se entend
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
-###### ARTICULO 744.
+###### Artículo 744.
 
 Para determinar la cuantía de los negocios a que se refiere la fracción I del Artículo anterior, se observará lo dispuesto en la primera parte del Artículo 112.
 
@@ -5993,7 +5993,7 @@ En los casos muy urgentes podrá el juez, aún antes de que se cumpla el términ
 
 El interventor no puede deducir en juicio las acciones que por razón de mejoras, manutención y reparación tenga contra la testamentaría o el intestado, sino cuando haya hecho esos gastos con autorización previa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 1997)</small>
 
 ###### Artículo 847.
 
@@ -6183,7 +6183,7 @@ II.- Los legatarios de cantidad, de alimentos, de educación y de pensiones, mie
 
 La resolución que resuelva la adjudicación de bienes hereditarios servirá de título de propiedad, ordenándose por la autoridad judicial su inscripción en el Registro Público de la Propiedad, respecto de bienes susceptibles de registro, ante el cual deberá justificarse el pago de los impuestos que en su caso se generen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 878.
 
@@ -6511,7 +6511,7 @@ Los actos de que tratan los Capítulos siguientes se sujetarán a las reglas que
 
 En los negocios de menores e incapacitados, intervendrán el juez de primera instancia y los demás funcionarios que determina el Código Civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -6523,7 +6523,7 @@ Los actos de jurisdicción voluntaria a que haga mención este Código se sujeta
 
 DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 914.
 
@@ -6647,65 +6647,65 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos por actos de jurisdicción voluntaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO IV
 
 DE LA ADOPCION.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 927.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 928.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 929.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 930.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 931.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 932.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 933.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 934.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO V
 
@@ -6717,25 +6717,25 @@ DE LAS INFORMACIONES AD-PERPETUAM.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 936.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 937.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 938.
 
 (DEROGADO, P.O. 20 DE FEBRERO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 938 Bis.
 
@@ -6887,17 +6887,17 @@ III.- La calificación de la excusa de la patria potestad en los casos a que se 
 
 La mujer menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar su depósito.
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
 # LIBRO QUINTO
 
 DE LOS ASUNTOS DEL ORDEN FAMILIAR.
 
-> <small>(ADICIONADO CON LOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ## TITULO UNICO
 
-> <small>(ADICIONADO CON LOS, ARTICULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
+> <small>(ADICIONADO CON LOS, ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 1977)</small>
 
 ### CAPITULO I
 
@@ -6975,17 +6975,17 @@ La sentencia se pronunciará dentro de los cinco días siguientes. La sentencia 
 
 Ejecutoriada la sentencia, el juez que conoció del asunto remitirá copia de la misma al Director del Registro Civil en el Estado, quien la hará saber al Oficial del Registro civil correspondiente, a fin de que cumplan sin demora con lo dispuesto por el artículo 138 del Código Civil del Estado.
 
-> <small>(ADICIONADO CON SUS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON SUS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 # LIBRO SEXTO
 
 DEL ARBITRAJE.
 
-> <small>(ADICIONADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON SUS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ## TITULO UNICO
 
-> <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO II
 
@@ -7011,7 +7011,7 @@ El arbitraje internacional quedará regulado por los tratados internacionales de
 
 Para los efectos del presente Capítulo se entenderá por arbitraje, el acuerdo por el que las partes deciden someter a este procedimiento todas o ciertas controversias que hayan surgido o puedan surgir entre ellas, respecto de una determinada relación jurídica, contractual o no contractual.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO III
 
@@ -7069,7 +7069,7 @@ Los municipios podrán sujetar al arbitraje los negocios a su cargo que la legis
 
 Puede comprometerse en árbitros la responsabilidad civil que resulte de delito.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO IV
 
@@ -7133,7 +7133,7 @@ Salvo acuerdo en contrario de las partes, el árbitro o árbitros del conocimien
 
 Los honorarios, gastos de funcionamiento y costas de los árbitros serán fijados preferentemente en los términos del artículo 2499 del Código Civil vigente en el Estado de Nuevo León, por convenio de los interesados. A falta de convenio se sujetarán a las disposiciones del Arancel de Abogados vigente en el Estado sin perjuicio de los preceptos relativos de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO V
 
@@ -7149,7 +7149,7 @@ La excepción de incompetencia deberá oponerse a más tardar en el momento de p
 
 El árbitro o árbitros podrán decidir las excepciones a que se hace referencia en el párrafo anterior, desde luego o en el laudo sobre el fondo del asunto. Si antes de emitir laudo sobre el fondo, los árbitros se declaran competentes, cualquiera de las partes dentro de los treinta días siguientes a aquél en que se le notifique esa decisión podrá solicitar al Juez resuelva en definitiva, resolución que será inapelable. Mientras esté pendiente dicha solicitud, el árbitro o árbitros podrán proseguir sus actuaciones y dictar laudo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO VI
 
@@ -7191,7 +7191,7 @@ V.- En las actuaciones arbitrales en que hubiera más de un árbitro toda decisi
 
 Si durante las actuaciones arbitrales las partes llegaren a una transacción que resuelva la controversia, el árbitro dará por terminadas las actuaciones y si lo piden ambas partes, hará constar la transacción en forma de laudo arbitral en los términos que hayan convenido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO VII
 
@@ -7239,7 +7239,7 @@ II.- El árbitro podrá corregir cualquiera de los errores mencionados por su pr
 
 III.- También podrá pedir al árbitro la corrección del laudo, el juez que conozca del trámite para su aprobación y posterior ejecución, en los términos del artículo 461 Bis de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO VIII
 
@@ -7281,7 +7281,7 @@ El procedimiento de nulidad se substanciará incidentalmente, de conformidad con
 
 La resolución no será objeto de recurso alguno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ### CAPITULO I
 
@@ -7339,13 +7339,13 @@ Tratándose de extranjeros, se estará a lo dispuesto en las leyes aplicables.
 
 El documento que contenga el correspondiente convenio, cuando éste sea el resultado de métodos alternos de solución de conflictos, deberá ser presentado ante la autoridad judicial a fin de que, si no se contravienen disposiciones de orden público ni se afectan derechos de terceros, sean reconocidos por ésta y se les dé, respecto de las partes, la misma eficacia y autoridad de cosa juzgada o en su caso de sentencia ejecutoriada, en los términos del artículo 2845 del Código Civil.
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 # LIBRO SEPTIMO
 
 PROCEDIMIENTO ORAL.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO PRIMERO
 
@@ -7361,25 +7361,25 @@ Se sujetarán al procedimiento oral:
 
 I.- Las controversias que se susciten con motivo de arrendamientos o de comodatos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 II.- Las controversias que se susciten con motivo de alimentos, y convivencia y posesión interina de menores, cuando éstas constituyan el objeto de la acción principal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 III.- Las solicitudes de divorcio por un mutuo consentimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -7433,13 +7433,13 @@ Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notif
 
 Las tercerías que surjan dentro del procedimiento oral, se sustanciarán en forma separada, con los mismos trámites y procedimientos de éste, salvo lo dispuesto en el artículo 602 Bis del presente Código.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO SEGUNDO
 
 PRUEBAS.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II
 
@@ -7457,7 +7457,7 @@ La prueba confesional por posiciones podrá ofrecerse desde el escrito de demand
 
 Llegado el momento para el desahogo de la prueba confesional, estando presentes las partes, la oferente formulará oralmente sus posiciones, calificando simultáneamente el Juez de improcedentes aquellas que lo fueren. En caso de que la absolvente no asista, el Juez abrirá el pliego y la tendrá por confesa de las posiciones calificadas de legales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO III
 
@@ -7501,7 +7501,7 @@ El Juez podrá ordenar, de oficio o a petición de parte, confrontaciones de los
 
 Los testigos que hayan declarado podrán ser tachados en la audiencia o en un plazo de tres días contados a partir del desahogo de la prueba, debiendo sustanciarse en forma incidental, suspendiéndose el término para pronunciar sentencia definitiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV
 
@@ -7519,7 +7519,7 @@ Es instrumento público el registro del procedimiento oral; probará el modo en 
 
 Los documentos que presenten las partes deberán ser impugnados durante la etapa de calificación de pruebas en la Audiencia Preliminar. Los presentados con posterioridad, en los casos en que la ley lo permita, deberán serlo durante la audiencia en que se ofrezcan.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I
 
@@ -7605,7 +7605,7 @@ Los honorarios de los peritos de las partes serán pagados por cada una de ellas
 
 No será aplicable al procedimiento oral lo dispuesto en los artículos 310, 313, 316 y 319 de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO TERCERO
 
@@ -7725,7 +7725,7 @@ Igualmente se podrá registrar en cualquiera de los medios citados en el artícu
 
 Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública del Estado obligue a la autoridad a negar el acceso público a la información.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO CUARTO
 
@@ -7755,19 +7755,19 @@ La recusación será admisible hasta antes de la calificación de las pruebas en
 
 Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO QUINTO
 
 PROCEDIMIENTO ORAL GENERAL.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II
 
 REGLAS ESPECIALES.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 1040.
 
@@ -7805,7 +7805,7 @@ Corresponderá seguir el procedimiento respectivo, si la cuestión planteada es 
 
 El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de cinco días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -7855,7 +7855,7 @@ Si asisten las partes, el Juez les propondrá someterse a un método alterno, y 
 
 No acordando las partes someter el conflicto a un método alterno, el Juez procurará la conciliación, haciéndoles saber las conveniencias de llegar a un convenio, y proponiéndoles soluciones a todos o algunos de los puntos controvertidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -7951,7 +7951,13 @@ La impugnación contra las demás resoluciones que se pronuncien durante el proc
 
 Se exceptúa de lo anterior, la apelación en contra de las resoluciones que declaren la improcedencia de la excepción de conexidad de la causa y de la acumulación de autos.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 1064 Bis.
+
+En los asuntos mencionados en las fracciones II, III y V del Artículo 989 de este Código, una vez ejecutoriada la sentencia o convenio y no habiéndose logrado su cumplimiento voluntario, se procederá a su ejecución forzosa de acuerdo con lo dispuesto en la Ley Orgánica del Poder Judicial, y conforme a las reglas establecidas en este Código para tal efecto.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO PRIMERO
 
@@ -7983,7 +7989,7 @@ En el caso de que el contrato de arrendamiento sea otorgado o ratificado ante el
 
 Emplazado el demandado y en caso de que el inmueble se encuentre desocupado, a petición del arrendador, se le dará posesión del inmueble en forma provisional, debiendo continuarse el procedimiento por sus demás etapas hasta su conclusión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCION SEGUNDA
 
@@ -8055,7 +8061,7 @@ En este procedimiento no se admitirá ninguna discusión sobre el derecho a perc
 
 Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental, sin perjuicio de seguirse abonando al acreedor alimentista, durante la sustanciación del incidente, la cantidad asignada conforme al artículo 1071 del presente Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCION TERCERA
 
@@ -8117,23 +8123,23 @@ La sentencia que se pronuncie en los asuntos a que se refieren las fracciones I 
 
 La sentencia se ejecutará, si así se solicita, sin necesidad de fianza, reservándose lo relativo a las costas para cuando se pronuncie la sentencia ejecutoria, con excepción de la sentencia que ordene el cambio de custodia del menor, la cual se ejecutará una vez que quede firme, a fin de salvaguardar el interés superior del menor.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO SEXTO
 
 PROCEDIMIENTOS ORALES ESPECIALES.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU NUMERACION, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO SEGUNDO
 
 DE LA JURISDICCIÓN VOLUNTARIA.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 1082.
 
@@ -8215,15 +8221,15 @@ La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el 
 
 Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta al oficial del registro civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, para los efectos de los artículos 114, 116 y 291 del Código Civil para el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 #### SECCION PRIMERA
 
 PROCEDIMIENTO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8233,7 +8239,7 @@ La solicitud se presentará por escrito y reunirá los requisitos de los Artícu
 
 Si no se reúnen las exigencias previstas en el párrafo anterior, el juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8241,7 +8247,7 @@ Si no se reúnen las exigencias previstas en el párrafo anterior, el juez conce
 
 Cumplidas las exigencias, el juez señalará el día, hora y lugar para una audiencia que se celebrará dentro del plazo de quince días, citando a los promoventes, al Ministerio Público y terceros que deban comparecer.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8249,15 +8255,15 @@ Cumplidas las exigencias, el juez señalará el día, hora y lugar para una audi
 
 En la audiencia a que se refiere el Artículo anterior, los promoventes ratificarán su solicitud; en caso de no hacerlo, ésta quedará sin efectos. Ratificada la solicitud, se desahogarán las pruebas que requieran diligencia especial en el orden que el juez determine, hecho lo cual, el procedimiento quedará en estado de sentencia, misma que se dictará en el acto si fuere posible. En caso contrario, citará a las partes para dictarla dentro del término de tres días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 #### SECCION SEGUNDA
 
 DE LA ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8273,7 +8279,7 @@ III. Alhajas y muebles preciosos;
 
 IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8287,7 +8293,7 @@ La solicitud del tutor se substanciará con el curador y el Ministerio Público.
 
 Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8299,7 +8305,7 @@ La venta de los inmuebles que se ordene en remate, se realizará conforme a lo d
 
 Si en la primera almoneda no hubiere postor, a solicitud del tutor, curador o del Consejo de Tutelas, el juez convocará a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8307,7 +8313,7 @@ Si en la primera almoneda no hubiere postor, a solicitud del tutor, curador o de
 
 Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducta (sic) de comisionista o de comerciante establecido y acreditado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8317,7 +8323,7 @@ El precio de la venta se entregará al tutor si las firmas o garantías prestada
 
 El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8329,7 +8335,7 @@ En este caso, la venta se llevará a cabo fuera de remate a un precio que no baj
 
 Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8337,7 +8343,7 @@ Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de s
 
 Para recibir dinero prestado en nombre del menor o incapacitado, el tutor necesitará la conformidad del curador y del Consejo de Tutelas y después de la autorización judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8345,15 +8351,15 @@ Para recibir dinero prestado en nombre del menor o incapacitado, el tutor necesi
 
 Lo dispuesto en los Artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 #### SECCION TERCERA
 
 DE LA ADOPCION.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8377,7 +8383,7 @@ V. En los casos a que se refiere el Artículo 732 Bis de este Código, deberá a
 
 Tratándose de adopciones de menores abandonados o expósitos acogidos en instituciones públicas o privadas, la asesoría de las instituciones oficiales en la tramitación de las mismas se hará sin costo alguno para los interesados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8393,7 +8399,7 @@ No procederá fijar fecha y hora para la celebración de la audiencia a que se r
 
 (DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8401,15 +8407,15 @@ No procederá fijar fecha y hora para la celebración de la audiencia a que se r
 
 La impugnación de la adopción y su revocación en los casos de los Artículos 401 y 405 fracciones II y III del Código Civil no pueden promoverse en diligencias de jurisdicción voluntaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 #### SECCION CUARTA
 
 CAMBIO DE REGIMEN DE MATRIMONIO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -8421,7 +8427,7 @@ I. Allegar el acta de matrimonio; y
 
 II. Acompañar el convenio en los términos que señala el Código Civil.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 1997)</small>
 
 TITULO ESPECIAL
 
@@ -8439,7 +8445,7 @@ Los Jueces Menores a que se refiere el artículo 94 de la Constitución Polític
 
 En aquellos lugares en que no exista juez menor, conocerá el juez de primera instancia correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 2.
 
@@ -8483,7 +8489,7 @@ Cuando el juez de paz recibiere inhibitoria de otro juzgado del Estado en que se
 
 EMPLAZAMIENTOS Y CITACIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 7.
 
@@ -8491,7 +8497,7 @@ A petición del actor se citará al demandado para que comparezca dentro del ter
 
 Debe llevarse en los juzgados un libro de registro en que se asentarán por días y meses los nombres de actores y demandados y el objeto de las demandas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 8.
 
@@ -8539,7 +8545,7 @@ Los peritos, testigos y en general terceros que no constituyan parte pueden ser 
 
 IDENTIDAD DE LAS PARTES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2005)</small>
 
 ###### Artículo 15.
 
@@ -8717,7 +8723,7 @@ Cuando por motivos especiales fuere necesario hacer constar más de los que cupi
 
 Los jueces no son recusables; pero deben excusarse cuando estén impedidos y en tal caso el negocio pasará al juzgado que determine la Ley Orgánica del Poder Judicial.
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2005)</small>
 
 SEGUNDO TITULO ESPECIAL
 
@@ -8743,7 +8749,9 @@ Para efectos de presentar cualquier tipo de promoción mediante el Tribunal Virt
 
 I. Presentar escrito dirigido a la autoridad que conoce del asunto, debiendo señalar el nombre del usuario y nombre completo con el cual se registró en el Tribunal Virtual, firmada por el representante legal o por cualquiera de las partes;
 
-II. Manifestar claramente su solicitud de presentar promociones vía electrónica y ser notificado de igual forma, como lo indica el artículo 78 de este Código;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+II. Manifestar claramente su solicitud de presentar promociones vía electrónica, como lo indica el Articulo 78 de este Código;
 
 III. Hacer mención expresa del número de expediente en el cual solicita la autorización
 
@@ -8775,7 +8783,9 @@ Página Electrónica: son las pantallas de acceso de los sistemas computacionale
 
 Acción Electrónica: es cualquier consulta, envío de información o interacción que se realicen en las páginas electrónicas del Tribunal Virtual del Poder Judicial del Estado.
 
-Notificación Electrónica: proceso mediante el cual se dan a conocer las actuaciones judiciales realizadas en los procesos civiles, familiares y de jurisdicción concurrente a los usuarios del Tribunal Virtual que así lo hayan solicitado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+Notificación Electrónica: proceso mediante el cual se dan a conocer las actuaciones judiciales realizadas en los procesos civiles, familiares y de jurisdicción concurrente a los usuarios del Tribunal Virtual.
 
 Expediente Electrónico: Es el conjunto de documentos digitalizados, promociones electrónicas y resoluciones realizadas en los sistemas del poder judicial, almacenados en sus bases de datos siendo una copia fiel del expediente físico.
 
@@ -8821,7 +8831,7 @@ Cuando en este título no se encuentre disposición que permita establecer crite
 
 Asimismo, el Tribunal Superior de Justicia establecerá modificaciones en la operación y servicios del Tribunal Virtual, y el Consejo de la Judicatura lo hará en lo relacionado con las políticas de la tecnología informática.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
 De la administración del Tribunal Virtual
 
@@ -8885,15 +8895,17 @@ Cuando por medidas de protección, mantenimiento o fallas técnicas se realice u
 
 La base de datos del Tribunal Virtual se mantendrá actualizada diariamente y su información se considera parte del archivo judicial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
 De la consulta de expedientes electrónicos
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 61.
 
-La consulta de los expedientes electrónicos en forma completa será realizada por los usuarios que autorice cada tribunal en los términos que señala el Código de Procedimientos Civiles del Estado, por lo que cada titular de los diferentes tribunales del Poder Judicial del Estado asignará, según su criterio, uno o varios servidores públicos responsables para autorizar y revocar los usuarios según sea el caso. Para consultar la información de cada expediente se requiere una autorización individual, por lo que no se permitirá un autorización general para diversos asuntos, lo anterior a fin de que quede constancia escrita de la misma en cada uno de los expedientes físicos, sin más limitante que lo señalado por la vigente.
+La consulta de los expedientes electrónicos en forma completa será realizada por los usuarios que autorice cada tribunal en los términos que señala este Código, por lo que cada titular de los diferentes tribunales del Poder Judicial del Estado asignará, según su criterio, uno o varios servidores públicos responsables para autorizar y revocar los usuarios, según sea el caso. Para ello, el secretario deberá levantar una constancia, en la que hará constar el día y la hora a partir de la cual quedó materialmente registrada dicha autorización en el sistema, asentándose, además, el número de expediente, el o los usuarios autorizados para acceder a la consulta electrónica, así como el nombre de la parte que otorga la autorización y, en su caso, su representación. Esta constancia también se levantará cuando se revoque la autorización de cualquier usuario.
+
+Para consultar la información de cada expediente se requiere una autorización individual, por lo que no se permitirá una autorización general para diversos asuntos, lo anterior a fin de que quede constancia escrita de la misma en cada uno de los expedientes físicos, sin más limitante que lo señalado por la ley vigente.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -8955,7 +8967,7 @@ Los usuarios autorizados para la visualización completa de expedientes electró
 
 El administrador del sistema mantendrá una estadística actualizada de la consulta de expedientes en forma general y particular. Igualmente es su responsabilidad generar herramientas para que la consulta a los expedientes electrónicos se realice en las condiciones idóneas para el continuo desarrollo del Tribunal Virtual.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
 Del envío de promociones electrónicas
 
@@ -8997,29 +9009,35 @@ Los secretarios de cada tribunal que se hayan designado para revisar el módulo 
 
 Cuando por fallas técnicas propias del Tribunal Virtual no sea posible enviar promociones a través de este sistema, implicando incumplimiento en los términos judiciales, se hará del conocimiento del tribunal correspondiente en la misma petición sujeta a término quien, antes de acordar lo respectivo, pedirá un reporte al administrador sobre la existencia de esa interrupción en el servicio. Una vez que el administrador confirme o no la interrupción el tribunal resolverá según las circunstancias.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
 De las notificaciones electrónicas
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 76.
 
-El Tribunal Virtual, por su reconocimiento legal, es un medio informativo que produce efectos de notificación judicial a quien lo solicite.
+El Tribunal Virtual, por su reconocimiento legal, es un medio informativo que produce efectos de notificación judicial.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 77.
 
-El usuario que esté facultado para oír y recibir notificaciones podrá solicitar por escrito a la autoridad que ejerce jurisdicción que las resoluciones judiciales que ameriten notificación personal se le hagan a través del Tribunal Virtual, señalando al efecto su nombre de usuario.
+El usuario que solicite la consulta del expediente electrónico por medio del Tribunal Virtual, estará aceptando que todas las notificaciones personales se realicen por vía electrónica, con excepción del emplazamiento y las que impliquen algún mandamiento de ejecución.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 78.
 
-La notificación personal a través del Tribunal Virtual se entiende hecha en el mismo día de publicación de las resoluciones, en virtud de que la replicación y actualización de datos se hará el mismo día en los términos del artículo 68 de este título. Lo anterior se tendrá en cuenta para el cómputo de términos judiciales conforme a las leyes aplicables.
+Las notificaciones personales realizadas electrónicamente a través del Tribunal Virtual se tendrán por legalmente practicadas y surtirán sus efectos en los términos de lo previsto por el artículo 76, ubicado en el Capítulo V, Titulo Primero del Libro Primero de este Código. Lo anterior se tendrá en cuenta para el cómputo de términos judiciales conforme a las leyes aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 78 Bis.
+
+La nulidad de las notificaciones personales hechas por Tribunal (sic) Virtual, se tramitará en la vía incidental conforme al artículo 81, ubicado en el Titulo Primero del Libro Primero de este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
 De los medios de comunicación en el proceso
 
@@ -9035,7 +9053,7 @@ Cuando se ordenen medios de comunicación en procesos llevados ante tribunales d
 
 Una vez generado el medio de comunicación, se enviará y recibirá a través de los módulos que indique el sistema, debiendo certificarse su recepción por el secretario fedatario que corresponda, de la misma forma que las promociones electrónicas. El envío por el sistema generará una constancia con los datos generales del medio de comunicación, mismos que se agregarán al expediente físico para que puedan computarse los términos respectivos. En el caso que para la diligenciación se requiera documentos anexos se prevendrá en ese sentido, radicándose una vez que sean presentados al juzgado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2008)</small>
 
 De los servicios accesorios
 
@@ -9075,7 +9093,7 @@ La información que los tribunales están obligados a entregar al Tribunal Super
 
 El Tribunal Superior de Justicia, autorizará nuevos servicios en el Tribunal Virtual con el fin de presentar la buena marcha de la administración de justicia, así como para cumplir con la transparencia institucional. Conforme a lo anterior, deberá generarse un dictamen por el administrador del sistema sobre la viabilidad del servicio, así como un dictamen presupuestal por el Consejo de la Judicatura, mediante los cuales se obtendrá la decisión de crear o no el nuevo servicio.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2008)</small>
 
 Disposiciones finales
 
@@ -9107,7 +9125,7 @@ EL SECRETARIO GENERAL DE GOBIERNO:
 
 LIC. ARTURO SUAREZ LUNA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1º. DE FEBRERO DE 1975.
 
@@ -9151,7 +9169,7 @@ P.O. 31 DE DICIEMBRE DE 1979.
 
 P.O. 2 DE MARZO DE 1981.
 
-DECRETO 110, QUE REFORMA Y ADICIONAN LOS ARTICULOS 101, 109...
+DECRETO 110, QUE REFORMA Y ADICIONAN LOS ARTÍCULOS 101, 109...
 
 ###### ARTICULO PRIMERO.
 
@@ -9187,13 +9205,13 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 5 DE ENERO DE 1983.
 
-DECRETO NUM. 42, QUE REFORMA LOS ARTICULOS 779 Y 781 DEL CODIGO DE PROCEDIMIENTOS CIVILES VIGENTE EN EL ESTADO.
+DECRETO NÚM. 42, QUE REFORMA LOS ARTÍCULOS 779 Y 781 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES VIGENTE EN EL ESTADO.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 5 DE ENERO DE 1983.
 
-DECRETO NUM. 49, QUE REFORMA A LOS ARTICULOS 939, 940, 941, 942 Y 943 DEL CODIGO DE PROCEDIMIENTOS CIVILES VIGENTE EN EL ESTADO Y SE ADICIONA EL ARTICULO 943-BIS.
+DECRETO NÚM. 49, QUE REFORMA A LOS ARTÍCULOS 939, 940, 941, 942 Y 943 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES VIGENTE EN EL ESTADO Y SE ADICIONA EL ARTÍCULO 943-BIS.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -9223,7 +9241,7 @@ P.O. 24 DE DICIEMBRE DE 1984.
 
 P.O. 26 DE DICIEMBRE DE 1984.
 
-DECRETO NUM. 237, QUE REFORMA LOS ARTICULOS 166, 167, 168, 169...
+DECRETO NÚM. 237, QUE REFORMA LOS ARTÍCULOS 166, 167, 168, 169...
 
 ###### ARTICULO UNICO.
 
@@ -9231,7 +9249,7 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Per
 
 P.O. 26 DE DICIEMBRE DE 1984.
 
-DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
+DECRETO NÚM. 240, QUE REFORMA EL ARTÍCULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -9249,7 +9267,7 @@ P.O. 21 DE ENERO DE 1987.
 
 P.O. 2 DE AGOSTO DE 1991.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 SEGUNDO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -9279,7 +9297,7 @@ Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seg
 
 P.O. 9 DE FEBRERO DE 1996.
 
-DECRETO NUM. 154, QUE REFORMA EL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON, EN SUS ARTICULOS 22, III, FRACCIÓN VIII, 935, 936, 937 Y 938, Y SE ADICIONA UN ARTÍCULO 938 BIS.
+DECRETO NÚM. 154, QUE REFORMA EL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN, EN SUS ARTÍCULOS 22, III, FRACCIÓN VIII, 935, 936, 937 Y 938, Y SE ADICIONA UN ARTÍCULO 938 BIS.
 
 ###### ARTICULO PRIMERO
 
@@ -9291,7 +9309,7 @@ DECRETO NUM. 154, QUE REFORMA EL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE 
 
 P.O. 9 DE FEBRERO DE 1996.
 
-DECRETO NUM. 158, QUE SE REFORMA LOS ARTICULOS 461 Y 462, Y SE ADICIONA UN LIBRO SEXTO, A DENOMINARSE "DEL ARBITRAJE", CON UN TITULO UNICO, CAPITULOS I A VIII, QUE COMPRENDEN LOS ARTICULOS 958 A 988.
+DECRETO NÚM. 158, QUE SE REFORMA LOS ARTÍCULOS 461 Y 462, Y SE ADICIONA UN LIBRO SEXTO, A DENOMINARSE "DEL ARBITRAJE", CON UN TÍTULO ÚNICO, CAPÍTULOS I A VIII, QUE COMPRENDEN LOS ARTÍCULOS 958 A 988.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -9311,7 +9329,7 @@ P.O. 16 DE DICIEMBRE DE 1996.
 
 P.O. 22 DE ENERO DE 1997.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO
 
@@ -9411,7 +9429,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 4 DE JULIO DE 2007.
 
-DECRETO NUM. 101 QUE REFORMA LA FRACCION I DEL ARTICULO 1076.
+DECRETO NÚM. 101 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1076.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -9419,13 +9437,13 @@ Artículo Segundo.- Los procedimientos regulados por las disposiciones que son r
 
 P.O. 4 DE JULIO DE 2007.
 
-DECRETO NUM. 111 QUE REFORMA Y DEROGA DIVERSOS ARTICULOS.
+DECRETO NÚM. 111 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE JULIO DE 2007.
 
-DECRETO NUM. 112 QUE DEROGA LA FRACCION II DEL ARTICULO 950.
+DECRETO NÚM. 112 QUE DEROGA LA FRACCIÓN II DEL ARTÍCULO 950.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -9439,13 +9457,13 @@ Artículo Tercero: Quedan derogadas todas las disposiciones legislativas expedid
 
 P.O. 24 DE NOVIEMBRE DE 2008.
 
-DECRETO NUM. 297, POR EL QUE SE ADICIONA UN ARTICULO 948 BIS, AL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
+DECRETO NUM. 297, POR EL QUE SE ADICIONA UN ARTÍCULO 948 BIS, AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE NOVIEMBRE DE 2008.
 
-DECRETO NUM. 298, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 325, DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEON.
+DECRETO NUM. 298, POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 325, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -9514,3 +9532,19 @@ Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince día
 Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 268, POR EL QUE SE REFORMA EL ARTÍCULO 459 Y SE ADICIONA EL ARTÍCULO 1064 BIS, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor desde el momento en que inicie el funcionamiento de los juzgados de ejecución familiar oral, de acuerdo a lo que se establezca en la Ley Orgánica del Poder Judicial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 278, POR EL QUE SE REFORMAN LOS ARTÍCULOS 25 Y 78 ÚLTIMO PÁRRAFO, DEL LIBRO PRIMERO DE LAS DISPOSICIONES COMUNES A LA JURISDICCIÓN CONTENCIOSA, A LA VOLUNTARIA Y A LA MIXTA DEL TÍTULO PRIMERO REGLAS GENERALES; ASÍ COMO LOS ARTÍCULOS 46 FRACCIÓN II; 48; 61; LOS ARTÍCULO 76; 77; 78; Y SE ADICIONA EL ARTÍCULO 78 BIS AL SEGUNDO TÍTULO ESPECIAL DEL TRIBUNAL VIRTUAL, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las modalidades previstas en el artículo transitorio siguiente.
+
+Segundo.- La notificación personal electrónica a través del Tribunal Virtual no será aplicable en aquellos asuntos ya iniciados, en los cuales se hubiere presentado la solicitud de acceso al Tribunal Virtual para efectos de consulta con anterioridad a la entrada en vigor del presente Decreto. En estos casos, se podrán practicar esta clase de notificaciones sólo cuando el interesado reitere o formule nueva petición de acceso al sistema de (sic) Tribunal Virtual.
+
+Tercero.- Con la única excepción establecida en el anterior Artículo, cualquier solicitud de acceso al Tribunal Virtual que se presente o llegare a presentarse a partir de la entrada en vigor del presente Decreto, quedará sujeta a las consecuencias legales, así como a las reglas previstas para la práctica de las notificaciones personales por vía electrónica.
