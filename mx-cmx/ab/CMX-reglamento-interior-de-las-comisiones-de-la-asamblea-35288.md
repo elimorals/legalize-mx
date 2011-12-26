@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2011-04-18"
+last_updated: "2011-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -534,9 +534,11 @@ Para realizar la votación económica el Secretario manifestará lo siguiente: "
 
 Por su parte, los Diputados integrantes deberán levantar la mano para manifestar su determinación, primero los que estén en "pro" y enseguida los que estén "en contra".
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 49.
 
-Los Diputados integrantes que disientan con la resolución adoptada podrán expresar su parecer por escrito firmado como voto particular cuando así lo estimen necesario. El voto emitido como voto particular, formará parte del dictamen final, integrándose al mismo para los efectos del trámite correspondiente ante el Pleno de la Asamblea.
+Los Diputados integrantes que disientan con la resolución adoptada podrán expresar su parecer por escrito firmado como voto particular cuando así lo estimen necesario. El voto emitido como voto particular, formará parte del dictamen final, integrándose al mismo para los efectos del trámite correspondiente ante el Pleno de la Asamblea o de la Diputación Permanente.
 
 En ningún caso los votos particulares dejarán de formar parte del dictamen de la comisión. El Presidente de la comisión y el Secretario Técnico vigilará el cumplimiento de esta disposición.
 
@@ -699,3 +701,13 @@ G.O. 18 DE ABRIL DE 2011.
 PRIMERO.- El presente decreto entrará en vigor a partir de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor publicidad en el Diario Oficial de la Federación.
+
+G.O. 26 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto de las reformas a la Ley Orgánica, remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
