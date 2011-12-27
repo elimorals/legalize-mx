@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2011-12-15"
+last_updated: "2011-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -101,7 +99,7 @@ Todo ingreso que perciba el Municipio deberá integrarse al acervo común de la 
 
 Las Leyes de ingresos municipales establecerán, anualmente los ingresos ordinarios de naturaleza fiscal que deban recaudarse, así como las tarifas correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -131,7 +129,7 @@ Las Leyes, Reglamentos y demás disposiciones fiscales de alcance general, entra
 
 Las normas de derecho tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 1999)</small>
 
 ###### Art. 15.
 
@@ -141,7 +139,7 @@ El Congreso del Estado aprobará a más tardar al día treinta de noviembre de c
 
 Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingresos respectiva, se tendrá como ley de ingresos aprobada para ese determinado ejercicio fiscal, la ley de ingresos que se hubiere aprobado para el ejercicio fiscal inmediato anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -173,7 +171,7 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 II. Que la vigencia y exigibilidad por cantidad líquida del derecho del crédito cuya preferencia se invoque, se compruebe en forma fehaciente al hacerse valer la reclamación de preferencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ###### Art. 19.
 
@@ -191,7 +189,7 @@ I. El Ayuntamiento;
 
 II. El Presidente Municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -223,7 +221,7 @@ Son atribuciones del Ayuntamiento:
 
 I. Celebrar convenios con los gobiernos Federal y Estatal, para la recaudación y cobro de contribuciones, cuando esto represente un beneficio para la Hacienda Municipal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -321,17 +319,17 @@ XII. Fijar las cuotas o porcentajes que cubrirán los contribuyentes por cualqui
 
 XIII. Las demás que le otorguen otras Leyes o disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. DEROGADO TERCER PARRAFO], P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO TERCER PÁRRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO [N. DE E. DEROGADO CUARTO PARRAFO], P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO CUARTO PÁRRAFO], P.O. 5 DE JULIO DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
@@ -503,9 +501,11 @@ Los interesados directamente en situaciones reales y concretas que planteen cons
 
 Las instancias o peticiones que formulen a las autoridades fiscales deberán ser resueltas en los términos que la Ley fije o, a falta de término establecido, dentro del plazo de 3 meses. El silencio de las autoridades fiscales se considerará como resolución negativa, cuando no den respuesta en el término que corresponda.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### Art. 36.
 
-Las resoluciones favorables a los particulares, excepto la autorización para funcionamiento de giros, no podrán ser revocadas o nulificadas por las autoridades administrativas. Cuando deban ser nulificadas, será necesario promover su nulidad ante el Tribunal de lo Contencioso Administrativo.
+Las resoluciones favorables a los particulares, excepto la autorización para funcionamiento de giros, no podrán ser revocadas o nulificadas por las autoridades administrativas. Cuando deban ser nulificadas, será necesario promover su nulidad ante el Tribunal de lo Administrativo.
 
 ###### Art. 37.
 
@@ -766,6 +766,10 @@ De los requisitos señalados en las fracciones I y II del presente artículo deb
 La Tesorería Municipal de oficio podrá declarar o los particulares podrán solicitar que se declare la prescripción de algún crédito fiscal a su cargo, o que se han extinguido las facultades de las autoridades para determinarlo o liquidarlo.
 
 Para que la Tesorería Municipal pueda llevar a cabo la declaración de la prescripción de algún crédito deberá obrar constancia de que el contribuyente no haya podido ser requerido o no lo puedan localizar en el domicilio del giro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de lo Administrativo.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
 
@@ -1131,7 +1135,7 @@ Dichos beneficios fiscales deberán ser solicitados por los ayuntamientos al Con
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 103.
 
@@ -1215,7 +1219,7 @@ Si del informe apareciese algún crédito fiscal insoluto, la autoridad retendr�
 
 ### CAPITULO VII. Impuesto sobre Transmisiones Patrimoniales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1999)</small>
 
 ###### Art. 112.
 
@@ -1279,6 +1283,10 @@ XIV. bis. (DEROGADA, P.O. 28 DE FEBRERO DE 2004)
 
 XV. Cualquier otro acto o contrato por el que se transmitan bienes inmuebles o derechos sobre los mismos.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+XVI. Las transmisiones que se realicen mediante actos o contratos objeto de este impuesto, por personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en la leye (sic) de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto, o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
+
 Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1999)</small>
@@ -1333,7 +1341,7 @@ XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas,
 
 El impuesto sobre transmisiones patrimoniales se causará y liquidará aplicando la tasa o tarifa que establezca la ley de ingresos de cada municipio a la base determinada conforme a las disposiciones del artículo 114 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 116.
 
@@ -1387,7 +1395,7 @@ c) Descripción de las unidades en condominio, donde se precisen los lotes, depa
 
 IV. Dictamen de opinión de uso del suelo expedido por la dependencia encargada de la planeación urbana de la municipalidad, donde existan planes de desarrollo urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 ###### Art. 120.
 
@@ -1479,7 +1487,7 @@ En la promoción con que se inicie la creación de un Impuesto Extraordinario, e
 
 El objeto, el sujeto, los responsables solidarios, la base, el pago y demás elementos constitutivos del impuesto, se determinarán en el decreto que en su caso expida el Congreso del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 1999)</small>
 
 ### CAPITULO X. Del Impuesto sobre Negocios Jurídicos
 
@@ -1487,7 +1495,7 @@ El objeto, el sujeto, los responsables solidarios, la base, el pago y demás ele
 
 Art. 131 bis. Es objeto de este impuesto:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2000)</small>
 
 I. La realización, celebración o expedición de los actos o contratos relativos a construcción, reconstrucción o ampliación de inmuebles.
 
@@ -1541,6 +1549,10 @@ c) Los contratos de construcción o financiamiento relativos a la edificación o
 
 d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+VII. Las personas físicas o morales a las que se les lleve a cabo una auditoría ambiental por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable, misma que deberá emitir el dictamen técnico respectivo sobre la procedencia de la solicitud para la obtención de estímulos fiscales en actividades de prevención y disminución de la contaminación ambiental, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; o bien, que la dirección o departamento de ecología o medio ambiente del municipio de que se trate, lleve a cabo una inspección ambiental a dichas personas y como resultado de la misma se obtenga la aprobación del municipio respectivo de este estímulo fiscal por actividades de prevención y disminución de la contaminación ambiental, conforme al reglamento de ecología o medio ambiente municipal correspondiente; podrán ser beneficiados en la ley de ingresos correspondiente con la aplicación de una tarifa de factor 0.4 sobre el monto del impuesto o la aplicación de la tarifa que se establezca en la ley de ingresos correspondiente.
+
 Los notarios o quienes hagan sus veces, los registradores y las autoridades, no expedirán testimonios, ni registrarán o darán trámite a actos o contratos en que intervengan, o documentos que se les presenten, hasta que sea pagado el impuesto que se cause.
 
 En todo caso, al margen de la matriz y en los testimonios o en los documentos privados, deberá asentarse la constancia de pago o la que éste no se causa.
@@ -1549,7 +1561,7 @@ No se dará trámite ni se registrará documento alguno si no obra en él dicha 
 
 En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se causará el impuesto como si fuesen puras y simples.
 
-> <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO XI. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
@@ -1717,15 +1729,11 @@ Quedan exentos del pago de este derecho los anuncios que exclusivamente sirvan p
 
 Los titulares de los bienes inmuebles donde se realicen acciones urbanísticas deberán pagar los derechos correspondientes, a efecto de obtener los dictámenes, autorizaciones, aprobaciones, licencias, permisos, aportaciones, incorporaciones y certificaciones que se establecen en la ley en materia de desarrollo urbano y en esta ley, conforme a las tarifas y cuotas que se autoricen en las leyes de ingresos municipales.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 147.
 
-Se aplicará una reducción de cuando menos el cincuenta por ciento de las cuotas y tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas relativas a la vivienda de interés social y popular, promovidas o financiadas por las dependencias, organismos, fideicomisos y fondos públicos para la vivienda.
-
-Se entiende por vivienda de interés social, aquella cuyo valor catastral no exceda de quince salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble.
-
-Se entiende por vivienda popular, aquella cuyo valor catastral no exceda de veinticinco salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble.
+Se aplicará una reducción de cuando menos el cincuenta por ciento de las cuotas y tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas de vivienda promovidas o financiadas por las dependencias, organismos, fideicomisos y fondos públicos para la vivienda.
 
 Se aplicará una reducción de cuando menos el ochenta por ciento en las cuotas o tarifas para determinar los derechos señalados en el artículo anterior, respecto de las acciones urbanísticas que se realicen en bienes inmuebles afectos al Patrimonio Cultural del Estado, encauzados a su conservación y rehabilitación.
 
@@ -1909,7 +1917,7 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 ### CAPITULO II. Bienes Muebles e Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Art. 179.
 
@@ -1939,7 +1947,7 @@ Los actos o contratos que surtan efectos posteriores al período del Ayuntamient
 
 Queda prohibido el subarrendamiento de bienes inmuebles propiedad del Municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1991,7 +1999,7 @@ Los productos a que se refiere este capítulo se cobrarán por metro cuadrado, l
 
 El pago de los productos señalados en este capítulo, se hará por adelantado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2047,11 +2055,11 @@ XIII. Otros no especificados.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Municipio por concepto de Participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso, se celebren o se hayan celebrado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ## TITULO SEXTO. De las Aportaciones Federales para Fines Específicos
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO UNICO
 
@@ -2141,7 +2149,7 @@ Tratándose de giros en los que se realicen actividades en forma eventual o que 
 
 Se entiende por gasto público municipal, el conjunto de las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2153,7 +2161,7 @@ Dichos indicadores de desempeño corresponderán a un índice, medida, cociente 
 
 La elaboración del presupuesto deberá realizarse por cada año calendario, en base a costos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2161,7 +2169,7 @@ La elaboración del presupuesto deberá realizarse por cada año calendario, en 
 
 Las actividades de revisión y evaluación del gasto público municipal, estarán a cargo de la Auditoría Superior y el Congreso del Estado, de conformidad con la Constitución Política y la Ley de Fiscalización Superior y de Auditoría Pública, ambos ordenamientos del Estado de Jalisco.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2185,11 +2193,11 @@ V. Autorizar, previamente, los pagos o erogaciones de fondos que deban hacerse c
 
 VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la preparación del mismo para el ejercicio fiscal siguiente, deberá realizar estudios de carácter presupuestal, con el propósito de formar estadística razonada, respecto al desenvolvimiento de los servicios públicos, y determinar si su costo corresponde a la función que desarrollan, con fines de economía y eficiencia en el ejercicio del gasto público.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO SEGUNDO. Del Presupuesto de Egresos
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. De la Estructura
 
@@ -2201,7 +2209,7 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 208.
 
@@ -2211,7 +2219,7 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 210.
 
@@ -2225,7 +2233,7 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. De la Estimación del Monto
 
@@ -2251,7 +2259,7 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 218.
 
@@ -2281,7 +2289,7 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 Para los efectos de esta Ley, la cuenta pública del Municipio está constituida por los estados contables y financieros, y demás información que muestre el registro de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio del gasto público municipal, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la Hacienda municipal, y en un patrimonio neto, incluyendo el origen y aplicación de los recursos, así como el resultado de las operaciones del Ayuntamiento y los estados detallados de la Deuda Pública Municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2289,7 +2297,7 @@ Para los efectos de esta Ley, la cuenta pública del Municipio está constituida
 
 La revisión de las cuentas públicas anuales que deben presentar los ayuntamientos de la entidad, se realizarán de acuerdo a lo dispuesto por el artículo 35-Bis de la Constitución Política del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2297,7 +2305,7 @@ La revisión de las cuentas públicas anuales que deben presentar los ayuntamien
 
 La Auditoría Superior del Estado, para el cumplimiento de las atribuciones que le confiere la Constitución Política Local, tiene facultades para revisar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones y auditorías y, en general, recabar los elementos de información necesarios, para cumplir con sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)</small>
 
 ###### Art. 225.
 
@@ -2307,7 +2315,7 @@ La revisión no sólo comprenderá la conformidad de ingresos y egresos, sino qu
 
 Si de la revisión aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas de los presupuestos, o no existiere exactitud o justificación en los gastos hechos, o de los ingresos percibidos, se determinarán y fincarán las responsabilidades procedentes, ante la autoridad competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2315,7 +2323,7 @@ Si de la revisión aparecieren discrepancias entre las cantidades gastadas y las
 
 A solicitud de la Auditoría Superior, el encargado de la hacienda municipal informará de los actos, convenios o contratos de los que resulten derechos u obligaciones para el Ayuntamiento, con el objeto de verificar si de sus términos y condiciones, pudieran derivarse daños, en contra de la hacienda pública municipal o impliquen incumplimiento de alguna ley relacionada con la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2323,7 +2331,7 @@ A solicitud de la Auditoría Superior, el encargado de la hacienda municipal inf
 
 El encargado de la hacienda municipal está obligado a proporcionar a la a (sic) Auditoría Superior la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2333,7 +2341,7 @@ Si el encargado de la hacienda municipal se negare a proporcionar la informació
 
 ### CAPITULO II. De la Contabilidad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2353,7 +2361,7 @@ La contabilidad de la Tesorería Municipal se llevará con base acumulativa para
 
 Los sistemas de contabilidad deberán diseñarse y operarse en forma que faciliten la fiscalización de activos, pasivos, ingresos, costos, gastos, avances en la ejecución de los programas y, en general, de manera que permitan medir la eficiencia y eficacia del gasto público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2361,7 +2369,7 @@ Los sistemas de contabilidad deberán diseñarse y operarse en forma que facilit
 
 El encargado de la hacienda municipal suministrará a la Auditoría Superior la información contable, financiera y de cualquiera otra índole que le requiera.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2369,7 +2377,7 @@ El encargado de la hacienda municipal suministrará a la Auditoría Superior la 
 
 La Auditoría Superior determinará la forma y términos en que el encargado de la hacienda municipal deberá llevar a cabo sus registros auxiliares y contabilidad y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada dependencia de hacienda municipal y podrá autorizar sus modificaciones o simplificación y adecuarlas a las disposiciones federales que expida el Congreso de la Unión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2393,7 +2401,7 @@ Para los efectos de esta Ley, incurre en responsabilidad toda persona física o 
 
 Art. 236 bis.- Los Ayuntamientos están obligados a conservar la documentación comprobatoria de su contabilidad de archivos físicos por seis años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2421,7 +2429,7 @@ II. A los particulares; sean personas físicas o morales, cuando aprovechándose
 
 Las responsabilidades que se constituyan a cargo de los servidores públicos, no eximen ni a las empresas privadas ni a los particulares, de sus obligaciones derivadas de la responsabilidad incurrida, cuyo cumplimiento se les exigirá, aún cuando la responsabilidad en que se hubiese incurrido fuese total o parcial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2743,7 +2751,7 @@ VIII. El depositario interventor que tuviere conocimiento de irregularidades en 
 
 Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 1990)</small>
 
 ###### Art. 276.
 
@@ -3103,7 +3111,7 @@ IV. Dentro de los cinco días siguientes de transcurrido el término probatorio,
 
 V. Dicha resolución, invariablemente, deberá ser notificada al interesado y, cuando en ésta se determine la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del Giro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2011)</small>
 
 ###### Art. 316 Bis.
 
@@ -3145,9 +3153,11 @@ Contra la revocación de Licencias, no procederá el Recurso de Reconsideración
 
 ### CAPITULO UNICO. De su Procedencia y Tramitación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### Art. 318.
 
-En contra de los actos y procedimientos precisados en el artículo siguiente, y que emanen de las Autoridades Fiscales Municipales, sólo procederá el recurso administrativo de reconsideración; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este capítulo, o demandar su nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, siguiendo el procedimiento establecido para ese efecto, en la Ley Orgánica del propio Tribunal y en la del Procedimiento Contencioso Administrativo.
+En contra de los actos y procedimientos precisados en el artículo siguiente, y que emanen de las autoridades fiscales municipales, sólo procederá el recurso administrativo de reconsideración; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este capítulo, o demandar su nulidad ante el Tribunal de lo Administrativo, siguiendo el procedimiento establecido para ese efecto en la Ley Orgánica del Poder Judicial y en la Ley de Justicia Administrativa, ambos ordenamientos del Estado de Jalisco.
 
 La resolución que se dicte en el recurso de Reconsideración será también impugnable ante el citado Tribunal.
 
@@ -3169,7 +3179,9 @@ III. En los casos en que las notificaciones se hicieren en contravención a las 
 
 La declaratoria de nulidad de notificación traerá como consecuencia la de las actuaciones posteriores a la notificación anulada, que tengan relación con ella.
 
-Cuando se haya interpuesto algún medio de defensa, ante el Tribunal de lo Contencioso Administrativo, será improcedente la solicitud de nulidad de Notificaciones ante la Autoridad Administrativa, mediante el recurso de reconsideración, y se hará valer mediante ampliación de la demanda respectiva.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Cuando se haya interpuesto algún medio de defensa ante el Tribunal de lo Administrativo, será improcedente la solicitud de nulidad de notificaciones ante la autoridad administrativa, mediante el recurso de reconsideración, y se hará valer mediante ampliación de la demanda respectiva.
 
 ###### Art. 320.
 
@@ -3195,7 +3207,9 @@ VI. La autoridad encargada de resolver el recurso acordará lo que proceda, sobr
 
 VII. Vencido el plazo para la rendición de las pruebas, la Tesorería Municipal dictará resolución en un término, que no excederá de treinta días. El silencio de la autoridad significará que la Resolución es negativa.
 
-El recurrente podrá decidir esperar la Resolución expresa o impugnar la negativa ficta, ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+El recurrente podrá decidir esperar la resolución expresa o impugnar la negativa ficta ante el Tribunal de lo Administrativo.
 
 ###### Art. 321.
 
@@ -3239,7 +3253,7 @@ El Secretario General de Gobierno
 
 Lic. Eugenio Ruiz Orozco
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MARZO DE 1990.
 
@@ -3532,3 +3546,25 @@ P.O. 15 DE DICIEMBRE DE 2011.
 PRIMERO. El presente decreto entrará en vigor a los treinta días de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Noventa días hábiles después de la publicación del presente decreto, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco, emitirá la norma ambiental que establece las especificaciones técnicas para la instalación de sistemas de naturación.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23910/LIX/11, POR EL QUE SE REFORMAN LOS ARTÍCULOS 36, 63, PÁRRAFO TERCERO, 318, PÁRRAFO PRIMERO, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23911/LIX/11, POR EL QUE SE ADICIONAN UNA FRACCIÓN XVI AL ARTÍCULO 112, UNA FRACCIÓN VII AL ARTÍCULO 131-BIS, Y UN QUINTO PÁRRAFO AL ARTÍCULO 147, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Treinta días hábiles después de la publicación del presente decreto, la Secretaría de Medio Ambiente para el Desarrollo Sustentable del Estado de Jalisco emitirá los lineamientos para la expedición de las constancias respectivas a los contribuyentes que acrediten el cumplimiento de los beneficios fiscales implementados en el presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO.
+
+PRIMERO. Los artículos primero y segundo del presente decreto, relativos la (sic) Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
