@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-12-15"
+last_updated: "2011-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO CIVIL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2554,6 +2556,12 @@ El Oficial del Registro Civil, previa identificación de los cónyuges, levantar
 Las personas así divorciadas podrán volver a contraer matrimonio civil transcurrido un año de que se haya levantado el acta de divorcio.
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no surtirá efectos legales, independientemente de las sanciones previstas en las leyes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Art. 405 Ter.
+
+El trámite previsto en el artículo anterior se podrá llevar a cabo mediante método alterno, conforme a la Ley de Justicia Alternativa del Estado de Jalisco.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
 
@@ -18110,5 +18118,9 @@ P.O. 8 DE OCTUBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
