@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-seguridad-social-de-los-servidores-publicos-del-5191"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-20"
-last_updated: "1991-02-22"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
 
-LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
+LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1991.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO VIGÉSIMO SEXTO TRANSITORIO DE LA LEY NÚMERO 912 DE SEGURIDAD SOCIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. 27 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 1988.
 
@@ -33,7 +35,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGESIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, TUVO A BIEN EXPEDIR LA SIGUIENTE:
 
-LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS DEL ESTADO
+LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO
 
 DE GUERRERO.
 
@@ -1335,7 +1337,7 @@ El Secretario de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE FEBRERO DE 1991.
 
@@ -1346,3 +1348,279 @@ Se derogan (sic) los Artículos 51, 52, 53 y 54 de la Ley de Seguridad Social de
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+Primero. Esta Ley entrará en vigor a partir del día primero de enero del año dos mil doce, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SERVIDORES PÚBLICOS GENERACIÓN ACTUAL
+
+Segundo. Los servidores públicos que hayan cotizado al Instituto con anterioridad a la fecha de entrada en vigor de la presente Ley y estén en activo, serán considerados como generación actual.
+
+Tercero. Los servidores públicos de la generación actual, cubrirán al Instituto una cuota obligatoria para el fondo global de pensiones y pagos únicos, consistente en un porcentaje de su sueldo básico de cotización de acuerdo a la tabla siguiente:
+
+Año Cuota
+
+Servidor público
+
+2011 6.00%
+
+2012 7.00%
+
+2013 8.00%
+
+2014 9.00%
+
+2016 10.00%
+
+2017 ó más 11.00%
+
+Dicha cuota se aplicará de la forma que establece el artículo 56 de esta Ley.
+
+Cuarto. Las Entidades Públicas a que se refieren las fracciones I y II del artículo 4 de esta Ley cubrirán al Instituto como aportaciones una cuota obligatoria para el fondo global de pensiones y pagos únicos, consiste en un porcentaje del sueldo básico de cotización de los servidores públicos de acuerdo a la tabla siguiente:
+
+Año Aportación
+
+Instituciones Públicas
+
+2011 6.00%
+
+2012 7.50%
+
+2013 9.00%
+
+2014 10.50%
+
+2015 12.00%
+
+2016 13.50%
+
+2017 15.00%
+
+2018 16.50%
+
+2019 ó más 18.00%
+
+Dicha aportación se aplicará de la forma que establece el artículo 60 de esta Ley.
+
+Quinto. Las pensiones de la generación actual en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, se incrementarán al mismo tiempo y en la misma proporción que los salarios de los activos considerando el sector, entidad u organismo y lugar donde haya prestado sus servicios el servidor público.
+
+Sexto. Los servidores públicos de la generación actual que se jubilen y pensionen posterior a la entrada en vigor de esta Ley, tendrán derecho a una gratificación anual en la misma proporción en que se conceda a los servidores públicos en activo, considerando el sector, entidad u organismo y lugar donde haya prestado sus servicios el servidor público. Dicha gratificación se calculará con base en el número de días que le correspondan de acuerdo con la Pensión que perciban.
+
+Séptimo. Para calcular el monto que corresponde a las pensiones por Jubilación, Vejez, por Causas de Muerte e Invalidez, se tomará en cuenta el sueldo básico que establecen los artículos 55 y 92 de esta Ley. Las pensiones no podrán ser mayores a quince salarios mínimos y ninguna podrá ser inferior a uno punto cinco salario mínimo.
+
+Octavo. A los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, el Seguro por Jubilación a que se refiere el artículo 99 de esta Ley se les otorgará de acuerdo con lo siguiente:
+
+I. Aquellos servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, que cuenten a la fecha de entrada en vigor del presente ordenamiento con al menos veinticinco años de cotización en el caso de las mujeres o treinta años en el caso de los hombres, mantendrán el derecho que les otorga la Ley que se abroga por esta Ley; y
+
+II. Aquellos servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, que no cumplan con los años de cotizaciones establecidas en la fracción anterior, a la entrada en vigor de este ordenamiento para jubilarse, deberán cumplir con el mismo tiempo de cotización señalado en la fracción anterior y además con el requisito de la edad mínima requerida de conformidad con la tabla siguiente:
+
+Años que le faltan al Edad mínima requerida
+
+servidor público para
+
+cumplir los 25 ó 30 de
+
+cotización Hombres Mujeres
+
+2013 Y 2014 51 47
+
+2015 Y 2016 52 48
+
+2017 Y 2018 53 49
+
+2019 Y 2020 54 50
+
+2021 Y 2022 55 51
+
+2023 Y 2024 56 52
+
+2025 Y 2026 57 53
+
+2027 Y 2028 58 54
+
+2029 Y 2030 59 55
+
+2031 Y 2032 60 56
+
+2033 Y 2034 60 57
+
+2035 en adelante 60 58
+
+Noveno. El monto de la Pensión a que se refiere el artículo octavo transitorio de esta Ley, será del cien por ciento del sueldo básico que establece el artículo 92 de esta Ley, el plazo de la Pensión será vitalicio con transmisión a beneficiarios.
+
+Décimo. El Seguro de Vejez a que se refiere el artículo 57 de la Ley que se abroga por esta Ley, aplica para los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley y se otorgará únicamente al cumplir como mínimo quince años de cotización y la edad requerida al momento de entrada en vigor de la presente Ley, de acuerdo con la tabla siguiente:
+
+Años Edad mínima requerida
+
+2013 y 2014 56
+
+2015 y 2016 57
+
+2017 y 2018 58
+
+2019 y 2020 59
+
+2021 en adelante 60
+
+Décimo Primero. El monto de la Pensión a que se refiere el artículo décimo transitorio de esta Ley, para beneficiar a los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley a que se hace referencia en dicho artículo, será un porcentaje del sueldo básico a que se refieren los artículos 55 y 92 de esta Ley, que dependerá de los años de cotización al momento del retiro, de acuerdo con la tabla siguiente:
+
+Años de cotización Porcentaje del sueldo básico
+
+Hombres Mujeres
+
+15 50.00 % 50.00 %
+
+16 53.20 % 55.00 %
+
+17 56.40 % 60.00 %
+
+18 59.60 % 65.00 %
+
+19 62.90 % 70.00 %
+
+20 66.10 % 75.00 %
+
+21 69.30 % 80.00 %
+
+22 72.50 % 85.00 %
+
+23 75.70 % 90.00 %
+
+24 78.90 % 95.00 %
+
+25 82.10 % 100.00 %
+
+26 85.40 % 100.00 %
+
+27 88.60 % 100.00 %
+
+28 91.80 % 100.00 %
+
+29 95.00 % 100.00 %
+
+30 ó más 100.00 % 100.00 %
+
+El plazo de la Pensión será vitalicio con transmisión a beneficiarios de acuerdo con lo establecido en el artículo 115 de esta Ley.
+
+Décimo Segundo. El monto del Seguro por Invalidez a que se refiere el artículo 63 de la Ley que se abroga por esta, para los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, será un porcentaje del sueldo básico a que se refieren los artículos 55 y 92 de esta Ley, que dependerá de los años de cotización al momento de la invalidez de acuerdo con la tabla siguiente:
+
+Años de cotización Porcentaje del sueldo básico
+
+Hombres Mujeres
+
+De 3 a 15 50.00 % 50.00 %
+
+16 53.20 % 55.00 %
+
+17 56.40 % 60.00 %
+
+18 59.60 % 65.00 %
+
+19 62.90 % 70.00 %
+
+20 66.10 % 75.00 %
+
+21 69.30 % 80.00 %
+
+22 72.50 % 85.00 %
+
+23 75.70 % 90.00 %
+
+24 78.90 % 95.00 %
+
+25 82.10 % 100.00 %
+
+26 85.40 % 100.00 %
+
+27 88.60 % 100.00 %
+
+28 91.80 % 100.00 %
+
+29 95.00 % 100.00 %
+
+30 ó más 100.00 % 100.00 %
+
+El plazo de la Pensión será vitalicio con transmisión a beneficiarios de acuerdo con lo establecido en el artículo 115 de esta Ley.
+
+Décimo Tercero. El monto del Seguro por Causa de Muerte a que se refiere el artículo 72 de la Ley que se abroga por ésta, para los beneficiarios del servidor público en transición que no migre al nuevo sistema de beneficio definido previsto en esta Ley, será un porcentaje del sueldo básico a que se refieren los artículos 55 y 92 de esta Ley, que dependerá de los años de cotización al momento del fallecimiento, de acuerdo con la tabla del artículo décimo segundo transitorio. El plazo de la Pensión será vitalicio con transmisión a beneficiarios de acuerdo con lo establecido en el artículo 115 de esta Ley.
+
+Décimo Cuarto. El monto del Seguro por incapacidad por riesgos de trabajo a que se refieren los artículos 68 y 73 fracciones II y III de esta Ley para los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, será del cien por ciento del sueldo básico que venía disfrutando el servidor público al momento de presentarse el riesgo.
+
+Décimo Quinto. Cuando un servidor público en transición que no migre al nuevo sistema de beneficio definido previsto en esta Ley, fallezca a consecuencia de un riesgo de trabajo, el monto de la Pensión que recibirán los familiares, de acuerdo con el artículo 115 de esta Ley, será del cien por ciento del sueldo básico de cotización que venía disfrutando el servidor público al presentarse el riesgo.
+
+Décimo Sexto. El monto del Seguro por fallecimiento, a que se refieren los artículos 114 y 118 de la presente Ley, de un pensionado por Invalidez para beneficiar a los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley será del cien por ciento de la Pensión que venía disfrutando el pensionado al momento del fallecimiento, de acuerdo con lo establecido en el artículo 115 de esta Ley, siempre que el fallecimiento del pensionado sea como consecuencia directa de la causa que originó la incapacidad.
+
+Décimo Séptimo. El monto de la Indemnización Global a que se refiere el artículo 82 de la Ley que se abroga por ésta, para beneficiar a los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley, que se retiren posteriormente a la entrada en vigor de ésta, sin derecho a Pensión por Vejez o Invalidez, estipuladas en los artículos décimo y décimo segundo transitorios, se les otorgará en sus respectivos casos la Indemnización Global estipulada en la Ley que se abroga, equivalente a:
+
+I. El monto total de las cuotas con que hubiere contribuido al Instituto en los términos de esta Ley, si tuviera hasta cinco años de servicios;
+
+II. El monto total de las cuotas que hubiere aportado al Instituto, más dos meses de su último sueldo básico, si tuviere de cinco a nueve años de servicios; y
+
+III. El monto de las cuotas que hubiera aportado en los mismos términos, más tres meses de su último sueldo básico, si hubiera prestado diez o más años de servicios.
+
+Si el servidor público falleciera sin tener derecho a Pensión alguna, la Indemnización Global se entregará a sus familiares derechohabientes, con las condiciones establecidas.
+
+Décimo Octavo. Si el servidor público separado del servicio reingresare y quisiera que el tiempo durante el que trabajó con anterioridad se le compute para efectos de esta Ley, se apegará a lo dispuesto por el artículo 126 de esta Ley e ingresará al nuevo régimen de beneficio definido.
+
+Décimo Noveno. Los servidores públicos en transición que no migren al nuevo sistema de beneficio definido previsto en esta Ley y que con posterioridad a la entrada en vigor de ésta, hayan cumplido con los requisitos de Jubilación como son: tiempo de cotización y edad mínima exigida en los términos estipulados en el artículo octavo transitorios de esta Ley, y que además conserven sus capacidades laborales, así como que no inicien su trámite de Jubilación, tendrán derecho a un estímulo consistente en un porcentaje adicional a su sueldo base de cotización en los términos siguientes:
+
+Años Adicionales de
+
+Servicio Porcentaje
+
+1 5.00%
+
+2 6.00%
+
+3 7.00%
+
+4 8.00%
+
+5 15.00%
+
+6 16.00%
+
+7 17.00%
+
+8 18.00%
+
+9 19.00%
+
+10 o más 20.00%
+
+Dicho estímulo se incrementará anualmente hasta alcanzar un máximo del veinte por ciento del sueldo base de cotización, se calculará quincenalmente y pagará cada seis meses por el Instituto.
+
+Dicho estímulo se incrementará anualmente hasta alcanzar un máximo del veinte por ciento del sueldo base de cotización, se calculará quincenalmente y pagará cada seis meses por el Instituto. (sic)
+
+El estímulo solo se otorgará cuando la pensión a que tenga derecho el servidor público sea inferior a quince salarios mínimos, se pagará en forma separada al sueldo base de cotización y no formará parte del salario cotizable, y se cancelará al momento en que el servidor público cumpla 65 años de edad o pierda la capacidad para desempeñar sus labores, lo que será calificado por su jefe inmediato superior, debiendo dar aviso al Instituto de dicha circunstancia, a fin de que se suspenda el pago.
+
+Vigésimo. Los servidores públicos en transición de la generación actual que pretendan sea reconocida su antigüedad por el Instituto, tienen derecho a optar por el régimen establecido en los artículos transitorios o migrar al nuevo régimen de beneficio definido previsto en esta Ley, y acogerse del beneficio que otorga el artículo 94 de esta Ley, para tal efecto el servidor público deberá tomar la decisión en un término que no exceda de un año contado a partir de la fecha de entrada en vigor de esta Ley.
+
+El servidor público en transición deberá comunicar por escrito al Instituto la opción elegida. En caso de no manifestarse en uno u otro sentido, se entenderá que no migró al nuevo sistema de beneficio definido que establece esta Ley, y estará sujeto a los artículos transitorios correspondientes. El formato que se apruebe para ejercer este derecho deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
+
+La elección del servidor público en transición será definitiva e irrevocable.
+
+JUBILADOS Y PENSIONADOS
+
+Vigésimo Primero. Los Jubilados y Pensionados con anterioridad a la vigencia de esta Ley, tendrán salvaguardados sus derechos, conservarán integra su Pensión en los términos en que hubiese sido concedida.
+
+Las Jubilaciones y Pensiones concedidas con anterioridad a la vigencia de esta Ley, que rebasen el tope salarial al que se refiere el artículo 91 de la presente Ley, conservarán integra su Pensión.
+
+La gratificación anual que reciben los Jubilados y Pensionados de que se trata en este artículo, se conservara en los términos y por los montos en que hasta antes de la entrada en vigor de esta Ley, percibían.
+
+Las Jubilaciones y Pensiones actuales a que se refiere este artículo, con excepción de las concedidas por riesgos de trabajo, serán fijadas por la Junta Directiva del Instituto, pero la máxima no podrá exceder de hasta la suma cotizable en los términos del artículo 55 de esta Ley; dicha cuantía se incrementará en la misma proporción en que se incrementen los salarios del personal en activo.
+
+Para el caso de las de las (sic) transferencias de pensión se precisa que las mismas se efectuarán en los términos establecidos en la Ley que se abroga por ésta, precisando que las prestaciones adyacentes que disfrutará el pensionado no se otorgará al o los beneficiarios.
+
+LOS ORGANISMOS O ENTIDADES PÚBLICAS
+
+Vigésimo Segundo. Los Organismos o Entidades Públicas que por convenio expreso a que se refiere la fracción IV del artículo 1 de la presente Ley, que sean incorporados a su régimen, que a la vigencia de la presente Ley tengan algún convenio previamente suscrito, estén o no al corriente de sus obligaciones, deberán de suscribir el nuevo modelo de convenio de incorporación, el cual establecerá claramente la garantía de afectación de participaciones federales o estatales, para el cumplimiento de entero de aportaciones, cuotas y descuentos que con motivo de esta Ley ordene el Instituto, ajustándose a su regulación respectiva y la de la presente Ley, en un periodo que no exceda de seis meses, en caso contrario se suspenderán los servicios de seguridad social que otorga el Instituto, sin responsabilidad alguna para éste.
+
+Vigésimo Tercero. Aquellos Organismos o Entidades Públicas que al inicio de la vigencia de la presente Ley tengan celebrado algún convenio de incorporación al régimen de seguridad social y que presenten adeudos previamente contraídos, deberán de liquidar los mismos en un plazo que no exceda de sesenta días o suscribir convenio de regularización de adeudos respectivo con el Instituto, en caso de no hacerlo, perderá el derecho de suscribir el nuevo convenio de incorporación sin perjuicio del Instituto.
+
+Vigésimo Cuarto. En un plazo no mayor a seis meses contados a partir de la entrada en vigor de la presente Ley, se deberá expedir por parte del Ejecutivo del Estado un nuevo Reglamento Financiero y un nuevo Reglamento Interior del Instituto, acordes con la misma.
+
+Vigésimo Quinto. El Reglamento Financiero expedido el 29 de noviembre de 2004 y el Reglamento Interno del 29 de Junio de 2005, continuarán vigentes en lo que no se opongan al presente ordenamiento, en tanto se expiden los nuevos reglamentos.
+
+Vigésimo Sexto. Se abroga la Ley de Seguridad Social de los Servidores Públicos del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 105, el 20 de diciembre de 1988, así como todos los ordenamientos que se opongan a la presente Ley.
