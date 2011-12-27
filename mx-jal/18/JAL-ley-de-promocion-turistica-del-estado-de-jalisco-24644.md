@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-turistica-del-estado-de-jalisco-24644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-28"
-last_updated: "2007-01-11"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE PROMOCION TURISTICA DEL ESTADO DE JALISCO
 
-LEY DE PROMOCION TURISTICA DEL ESTADO DE JALISCO
+LEY DE PROMOCIÓN TURÍSTICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -331,9 +331,11 @@ VI. Ser incluidos en los catálogos, directorios y guías turísticas elaborados
 
 VII. Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 27.
 
-Los prestadores de servicios turísticos, a los que se refiere el artículo 4º de la presente Ley, tendrán las siguientes obligaciones:
+Los prestadores de servicios turísticos, a los que se refiriere el artículo 4.° de la presente ley, tendrán las siguientes obligaciones:
 
 I. Colaborar con la política estatal y nacional de fomento turístico, y atender las recomendaciones que para tal efecto haga la Secretaría y las que formulen los Consejos Consultivos de Turismo;
 
@@ -349,9 +351,17 @@ VI. Incluir en sus precios o tarifas de los servicios que ofrecen al turista, el
 
 VII. Proporcionar al turista los bienes o servicios ofrecidos en los términos acordados, exceptuando los casos fortuitos, de fuerza mayor o cuando el turista incumpla con el pago del servicio contratado o contravenga los reglamentos internos de los prestadores de servicios avalados por las Normas Oficiales Mexicanas;
 
-VIII. Implementar las medidas de seguridad en los establecimientos y lugares donde presten sus servicios; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-IX. Las demás que señale el reglamento.
+VIII. Implementar las medidas de seguridad en los establecimientos y lugares donde presten sus servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+IX. Contar con carta menú en escritura tipo Braille con el apoyo de la Secretaría de Turismo del Estado de Jalisco, en los términos del reglamento, así como permitir el acceso a personas con discapacidad visual acompañadas de su perro guía, cuando las condiciones del lugar lo permitan y mostrar los símbolos de accesibilidad relativos, en los establecimientos señalados en los incisos a) y f), fracción IV, del mismo artículo, y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+X. Las demás que señale el reglamento.
 
 ### CAPITULO III. Del Turismo Social
 
@@ -562,3 +572,7 @@ DECRETO 20872 QUE REFORMA DIVERSOS ARTICULOS.
 P.O. 11 DE ENERO DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
