@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2011-03-24"
+last_updated: "2011-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # CODIGO URBANO PARA EL ESTADO DE JALISCO
 
-CODIGO URBANO PARA EL ESTADO DE JALISCO
+CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MARZO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 23486/LIX/11 PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -148,6 +146,10 @@ XVI Asentamiento humano: La radicación de un grupo de personas, con el conjunto
 XVII. Autorización: El acto regulativo mediante el cual se aprueba un plan, programa, proyecto o estudio, para su aplicación o a fin de ejecutar las obras o realizar las acciones urbanísticas objeto del presente ordenamiento;
 
 XVIII. Centro de población: las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+XVIII-Bis. Ciclovía: Todo espacio físico destinado al tránsito de vehículos no motorizados de propulsión humana;
 
 XIX. Código: El Código Urbano para el Estado de Jalisco;
 
@@ -1209,7 +1211,7 @@ La Junta de Coordinación Metropolitana es el órgano intermunicipal de coordina
 
 ###### Artículo 68.
 
-El Instituto Metropolitano de Planeación es el organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propios, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente. La organización, funcionamiento y atribuciones del Instituto son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
+El Instituto Metropolitano de Planeación es el organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio (sic) propios, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente. La organización, funcionamiento y atribuciones del Instituto son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
@@ -1387,9 +1389,17 @@ VII. Las prioridades de inversión en obras de infraestructura y equipamiento es
 
 VIII. Las estrategias, los planteamientos de las mismas, así como todos los demás aspectos que permitan la realización de las acciones previstas en este Programa Estatal;
 
-IX. Los convenios y acciones de inversión pública federal, estatal y municipal, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-X. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa estatal.
+IX. Los convenios y acciones de inversión pública federal, estatal y municipal;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+X. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa estatal, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+XI. La implementación de infraestructura para espacios destinados a ciclovías.
 
 ###### Artículo 91.
 
@@ -1467,9 +1477,17 @@ V. El estudio de los procesos de metropolización entre centros de población de
 
 VI. El estudio de los sistemas de comunicaciones y transporte;
 
-VII. Los programas, estrategias y proyectos de inversión y ejecución, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-VIII. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan.
+VII. Los programas, estrategias y proyectos de inversión y ejecución;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+VIII. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+IX. La implementación de infraestructura para espacios destinados a ciclovías.
 
 ###### Artículo 98.
 
@@ -2079,7 +2097,9 @@ IV. La clasificación de los usos y destinos en función del grado de impacto qu
 
 V. Las normas de control de usos del suelo, indicando los rangos de compatibilidad de los usos permitidos en cada zona;
 
-VI. Las normas de control de densidad de la edificación, aplicables a las acciones de crecimiento, las cuales definirán para cada tipo de zona lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+VI. Las normas de control de densidad de la edificación aplicables a las acciones de crecimiento, las cuales definirán para cada tipo de zona lo siguiente:
 
 a) La superficie mínima del lote;
 
@@ -2093,7 +2113,9 @@ e) La altura máxima u obligatoria de las edificaciones;
 
 f) Las restricciones a las que se sujetará el alineamiento de la edificación;
 
-g) Los espacios mínimos requeridos para estacionamiento dentro del predio;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+g) La necesidad de espacios para estacionamiento dentro del predio y, de haberla, los cajones mínimos requeridos;
 
 h) La densidad máxima de unidades por hectárea, y
 
@@ -4477,7 +4499,7 @@ I Separarse de sus funciones sin haber obtenido la licencia correspondiente, por
 
 II. Reincidir en faltas de probidad en el ejercicio de sus funciones, y
 
-III. Autorizar solicitudes que no cumplan con lo establecido en este Código, en los planes y programas y de desarrollo urbano, o en los reglamentos municipales reglamento de construcción del Municipio que correspondientes. (sic)
+III. Autorizar solicitudes que no cumplan con lo establecido en este Código, en los planes y programas y de desarrollo urbano, o en los reglamentos municipales reglamento de construcción del Municipio que correspondientes (sic).
 
 ###### Artículo 388.
 
@@ -4547,7 +4569,7 @@ El Tribunal de lo Administrativo es competente para decidir en las controversias
 
 ## TRANSITORIOS
 
-Primero.- El presente Decreto entrará en vigor el 1º de enero de 2009, previa publicación en el Periódico Oficial ¡El Estado de Jalisco¡.
+Primero.- El presente Decreto entrará en vigor el 1º de enero de 2009, previa publicación en el Periódico Oficial íEl (sic) Estado de Jaliscoî (sic).
 
 Segundo.- Se abroga la Ley de Desarrollo Urbano del Estado de Jalisco, contenida en el decreto número 15097 de fecha 2 de julio de 1993, publicado en el periódico oficial "El Estado de Jalisco" el 11 de julio de 1993 y sus subsecuentes reformas.
 
@@ -4607,8 +4629,22 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE FEBRERO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO No. 23914/LIX/11, POR EL QUE SE ADICIONAN UNA FRACCIÓN XVIII-BIS AL ARTÍCULO 5.°, UNA FRACCIÓN XI AL ARTÍCULO 90 Y UNA FRACCIÓN IX AL ARTÍCULO 97, TODOS ELLOS DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO No. 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 150, FRACCIÓN VI, INCISO G), DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO.
+
+PRIMERO. Los artículos primero y segundo del presente decreto, relativos (sic) la Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
