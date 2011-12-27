@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-presupuesto-de-egresos-del-estado-de-san-luis-79798"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2011-12-24"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSI, PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SAN LUIS POTOSÍ, PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE DICIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 788 PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2011.</small>
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2010
 
