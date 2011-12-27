@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-belisario-dominguez-70193"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-14"
-last_updated: "2008-10-14"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70193&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2011-12-27"
 
 REGLAMENTO DEL INSTITUTO BELISARIO DOMINGUEZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ESTATUTO PARA LOS SERVICIOS PARLAMENTARIOS, ADMINISTRATIVOS Y TÉCNICOS DEL SENADO DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento proporcionado por el Instituto Belisario Domínguez, aprobado por la Honorable Cámara de Senadores, el martes 14 de octubre de 2008.
 
@@ -375,3 +377,19 @@ Segundo. Se abrogan el Reglamento Interior del IILSEN, de fecha 5 de diciembre d
 Tercero. La Mesa Directiva deberá realizar las acciones necesarias, en el ámbito de su competencia, derivadas de la entrada en vigor de este Reglamento.
 
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- México, D.F., a 14 de octubre de 2008.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Estatuto se publicará en el Diario Oficial de la Federación y entrará en vigor el 1o. de febrero de 2012.
+
+SEGUNDO. La Secretaría General de Servicios Administrativos, con la participación que corresponda de las dependencias y unidades a que se refiere el artículo 5, párrafo 1, de este Estatuto, propondrá a la Mesa las adecuaciones administrativas a que haya lugar, quien las aprobará a más tardar el 31 de Marzo de 2012.
+
+Una vez realizadas las adecuaciones administrativas correspondientes, la Secretaría General de Servicios Administrativos, integrará el proyecto de Manual General de Organización del Senado, con las propuestas que cada dependencia y unidad formulen, que será aprobado por la Mesa a más tardar el 30 de abril de 2012.
+
+TERCERO. A la entrada en vigor del Presente Estatuto, los recursos financieros y materiales asignados, así como el Personal adscrito a la actual Coordinación General de Asuntos Internacionales y Relaciones Parlamentarias, se transferirán al Centro de Estudios Internacionales Gilberto Bosques. El personal conservará íntegramente sus derechos laborales y prestaciones de seguridad social.
+
+La Secretaría General de Servicios Administrativos, con la intervención de las unidades que corresponda, procederán a la realización de las acciones conducentes y realizarán las previsiones presupuestales necesarias, para garantizar el adecuado funcionamiento del Centro.
+
+CUARTO. Se abroga el Reglamento Interno del Instituto Belisario Domínguez, así como los acuerdos y disposiciones administrativas que se opongan a lo establecido en el Presente Estatuto.
