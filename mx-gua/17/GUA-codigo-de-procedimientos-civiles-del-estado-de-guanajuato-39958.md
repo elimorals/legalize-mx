@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2009-09-04"
+last_updated: "2011-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE GUANAJUATO
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -239,7 +239,7 @@ II.- De parte del demandado, por contestar la demanda y por reconvenir al actor,
 
 III.- De parte de cualquiera de los interesados, cuando desista de una competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1989)</small>
 
 ###### Art. 30.
 
@@ -417,7 +417,7 @@ Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimie
 
 Si el impedimento está comprendido en cualquiera de las dieciséis primeras fracciones del artículo 41, la resolución en que el juez o magistrado se declare impedido será irrecurrible, y pasará el negocio a quien corresponda conforme a la Ley Orgánica del Poder Judicial. En igual caso, si se tratare de impedimento del secretario, propondrá su excusa al juez o magistrado, quien en su resolución determinará quién deba substituir a aquél en el negocio. Entre tanto se resuelve la excusa, quedará en suspenso el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 47.
 
@@ -541,9 +541,13 @@ Todo juez y magistrado, actuará con secretario en funciones o con el que sea ha
 
 Secretario.
 
-###### Art. 62.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En todo acto de que deba dejarse constancia en autos, intervendrá el secretario y lo autorizará con su firma; hecha excepción de los encomendados a otros funcionarios y de las audiencias de conciliación en los asuntos de divorcio, en las cuales intervendrá sólo en el momento de levantarse el acta respectiva, para asentar el resultado de aquélla.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 62.
+
+En todo acto de que deba dejarse constancia en autos, intervendrá el secretario y lo autorizará con su firma, con excepción de los encomendados a otros funcionarios.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1996)</small>
 
@@ -561,9 +565,13 @@ Los secretarios cuidarán de que los expedientes sean exactamente foliados al ag
 
 El secretario guardará, con la seguridad debida, bajo su responsabilidad, los documentos originales que presenten los interesados. Al expediente se agregarán copias cuidadosamente cotejadas y autorizadas por el mismo secretario, sin perjuicio de que, a petición verbal de cualesquiera de los interesados, se le muestren los originales.
 
-###### Art. 66.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los secretarios son responsables de los expedientes, libros y documentos que existan en el juzgado y archivo correspondiente. Cuando, por disposición de la ley o del juez, deba entregar alguno de los mencionados objetos a otro funcionario o empleado, recabará recibo para su resguardo. En este caso, la responsabilidad pasará a la persona que lo reciba.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 66.
+
+Los secretarios son responsables de los expedientes, libros, documentos y registros de control electrónicos que existan en el juzgado y archivo correspondiente. Cuando, por disposición de la ley o del juez, deba entregar alguno de los mencionados objetos a otro funcionario o empleado, recabará recibo para su resguardo. En este caso, la responsabilidad pasará a la persona que lo reciba.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1996)</small>
 
@@ -581,7 +589,7 @@ Nunca, ni por orden judicial, entregará el secretario los expedientes a las par
 
 La frase "dar vista" o "correr traslado" sólo significa que los autos quedan en la secretaría para que se impongan de ellos los interesados, o que se entreguen las copias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1996)</small>
 
 #### SECCION TERCERA.
 
@@ -817,6 +825,12 @@ Si el pliego que contenga las posiciones se presentare cerrado, deberá guardars
 
 El que haya de absolver posiciones será citado personalmente, mediando un término cuando menos de tres días antes del señalado para la celebración de la audiencia de desahogo de la probanza, sin contar el de la citación ni el señalado para la propia audiencia, bajo apercibimiento de que, si dejare de comparecer sin justa causa, será tenido por confeso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Cuando el absolvente haya señalado como domicilio para recibir notificaciones la dirección electrónica del sistema informático del Poder Judicial, la citación se realizará por este medio.
+
 ###### Art. 108.
 
 Si el citado a absolver posiciones comparece, el tribunal abrirá el pliego, e impuesto de ellas, las calificará, y aprobará sólo las que se ajusten a lo dispuesto en el artículo 102.
@@ -879,11 +893,13 @@ En caso de enfermedad debidamente comprobada del que deba declarar, el tribunal 
 
 Cuando el emplazamiento se haya hecho por edictos y el juicio se siga en rebeldía, la citación para absolver posiciones, se hará publicando la determinación por dos veces consecutivas en el Periódico Oficial del Estado y por dos veces seguidas en uno de los diarios de mayor circulación en el Partido Judicial o en uno del más próximo si no existieran diarios en aquél. En igual forma se notificará la sentencia definitiva, en cuyo caso sólo se publicarán los puntos resolutivos.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Art. 122.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-Si el que debe absolver las posiciones estuviere ausente, aún cuando tenga domicilio señalado para recibir notificaciones, se librará el correspondiente exhorto o despacho, acompañando, en sobre cerrado y sellado, el pliego en que consten las preguntas. En este caso, se abrirá el pliego y, calificadas las preguntas, se sacará copia de las que fueren aprobadas, la cual se guardará en el secreto del tribunal, debidamente autorizada, remitiéndose el original con el exhorto o despacho, para que se haga el examen al tenor de las posiciones que hubiere aprobado el tribunal del juicio. Si el interesado ignorare el lugar en que se encuentre el absolvente, la citación se hará por edictos y además, en el domicilio señalado.
+###### Artículo 122.
+
+Si el que debe absolver las posiciones estuviere ausente, aun cuando tenga domicilio o dirección electrónica del sistema informático del Poder Judicial señalada para recibir notificaciones, se librará el correspondiente exhorto o despacho, acompañando, en sobre cerrado y sellado, el pliego en que consten las posiciones. En este caso, se abrirá el pliego y. calificadas las posiciones, se sacará copia de las que fueren aprobadas, la cual se guardará en el secreto del tribunal, debidamente autorizada, remitiéndose el original con el exhorto o despacho, para que se haga el examen al tenor de las posiciones que hubiere aprobado el tribunal del juicio. Si el interesado ignorare el lugar en que se encuentre el absolvente, la citación se hará por edictos y además, en el domicilio señalado.
 
 ###### Art. 123.
 
@@ -1035,7 +1051,7 @@ Si fueren más de dos los litigantes, nombrarán un perito los que sostuvieren u
 
 Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el tribunal designará uno de entre los que propongan los interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 1989)</small>
 
 ###### Art. 149.
 
@@ -1263,7 +1279,7 @@ En el acto del examen de un testigo o dentro de los tres días siguientes, puede
 
 Al valorar la prueba testimonial, el tribunal apreciará las justificaciones relativas a las circunstancias a que se refiere el artículo anterior, ya sea que éstas hayan sido alegadas, o que aparezcan de autos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO VII.. Fotografías, notas taquigráficas, y en general, todos aquellos elementos aportados por los descubrimientos de la ciencia
 
@@ -1515,6 +1531,12 @@ Resoluciones Judiciales.
 
 En los casos en que no haya prevención especial de la ley, las resoluciones judiciales sólo expresarán el tribunal que las dicte, el lugar, la fecha y sus fundamentos legales, con la mayor brevedad y la determinación judicial, y se firmarán por el juez o magistrado que corresponda, siendo autorizadas, en todo caso, por el secretario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Para efectos de notificación, serán firmadas electrónicamente cuando el interesado haya señalado como domicilio para oír notificaciones la dirección electrónica del sistema informático del Poder Judicial. Las firmas electrónicas certificadas contendrán los requisitos previstos en la Ley sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios.
+
 ###### Art. 225.
 
 Las resoluciones judiciales son decretos, autos o sentencias: decretos, si se refieren a simples determinaciones de trámite; autos, cuando decidan cualquier punto dentro del negocio, y sentencias, cuando decidan el fondo del negocio.
@@ -1573,7 +1595,7 @@ Pedida la revocación se dará vista a las demás partes, por término de tres d
 
 Del auto que decida sobre la revocación no habrá ningún recurso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 ENERO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 ENERO DE 1985)</small>
 
 ### CAPITULO II.
 
@@ -1668,6 +1690,12 @@ En el escrito en que el apelante interponga el recurso, expresará los agravios 
 ###### Art. 248.
 
 Interpuesta la apelación en tiempo hábil, el Tribunal la admitirá en el efecto que corresponda sin substanciación alguna si procede legalmente y, notificará a las partes para que ocurra al Tribunal de Apelación a defender sus derechos, requiriéndolas a efecto de que señalen domicilio para oír notificaciones en el lugar de residencia del Tribunal de Apelación y ordenando correr traslado a la contraparte del escrito de agravios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Las partes podrán señalar como domicilio para recibir notificaciones la dirección electrónica del sistema informático del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -1775,7 +1803,7 @@ Al interponer el recurso, el recurrente observará lo dispuesto por el Artículo
 
 El juez, sin substanciación alguna y sin suspender los procedimientos en el negocio, resolverá si da entrada o no al recurso, y, en caso afirmativo, acordará la expedición de un testimonio, en que se insertarán, además del auto que ordene su expedición y las notificaciones del mismo, el auto apelado y sus notificaciones, el que haya negado la admisión del recurso y sus notificaciones, las constancias que el tribunal señale como conducentes, las que hubiere designado el recurrente y las que, dentro de los dos días siguientes a la notificación del auto que ordene la expedición, señalen las demás partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 267.
 
@@ -1788,6 +1816,12 @@ El testimonio se remitirá dentro del término de cinco días.
 ###### Art. 268.
 
 En el auto a que se refiere el Artículo 266, mandará notificar a las partes para que ocurran ante el Supremo Tribunal de Justicia a defender sus derechos, requiriéndolos a efecto de que señalen domicilio para oír notificaciones en el lugar de residencia de éste, y correrá traslado a la contraparte del escrito de agravios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Las partes podrán señalar como domicilio para recibir notificaciones la dirección electrónica del sistema informático del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1985)</small>
 
@@ -1836,6 +1870,12 @@ Formalidades Judiciales.
 ###### Art. 275.
 
 Las actuaciones judiciales y promociones pueden efectuarse en una forma cualquiera, siempre que la ley no haya previsto una especial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de las actuaciones judiciales podrán ser realizadas mediante el uso de medios electrónicos siempre que contenga la Firma Electrónica Certificada autorizada, en los casos previstos por este Código.
 
 ###### Art. 276.
 
@@ -1899,7 +1939,7 @@ Cuando no quepa en el documento la relación que previene el párrafo anterior, 
 
 De la entrega se asentará razón en autos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO II.. Tiempo y lugar en que han de verificarse los actos procesales
 
@@ -2031,6 +2071,12 @@ Las Salas del Supremo Tribunal pueden, en todo caso, encomendar la práctica de 
 
 Los exhortos y despachos que manden dirigir las autoridades judiciales del Estado se expedirán el siguiente día al en que cause estado el acuerdo que los prevenga, a menos de determinación judicial en contrario, sin que en ningún caso el término fijado pueda exceder de diez días.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Estas comunicaciones podrán ser realizadas mediante el uso de medios electrónicos, cuando no se contravenga alguna disposición de este Código.
+
 ###### Art. 308.
 
 Los exhortos y despachos que reciban las autoridades judiciales del Estado se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los tres días siguientes, a no ser que lo que haya de practicarse exija necesariamente mayor tiempo, en cuyo caso el juez fijará el que crea conveniente.
@@ -2063,17 +2109,25 @@ Las notificaciones, citaciones y emplazamientos, se efectuarán, lo más tarde, 
 
 La resolución en que se mande hacer una notificación, citación o emplazamiento, expresará el objeto de la diligencia y los nombres de las personas con quienes ésta deba practicarse.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Art. 314.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-Todos los litigantes, en el primer escrito o en la primera diligencia judicial en que intervengan, deben designar domicilio ubicado en la población en que está ubicado el tribunal, para que se les hagan las notificaciones que deban ser personales. Igualmente deben señalar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o a las que les interese que se notifique, por la intervención que deban tener en el asunto.
+###### Artículo 314.
 
-###### Art. 315.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial en que intervengan, deben designar domicilio en la población en que está ubicado el tribunal, para que se les hagan las notificaciones que deban ser personales; o bien, podrán señalar como domicilio la dirección electrónica del sistema informático del Poder Judicial, en la que se hubiesen inscrito como usuarios.
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte del artículo anterior, las notificaciones personales se le harán conforme a las reglas para las notificaciones que no deben ser personales.
+Igualmente deben señalar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan o las que les interese que se notifique, por la intervención que deban tener en el asunto.
 
-Si faltare a la segunda parte del mismo artículo, no se hará notificación alguna a la persona o personas contra quienes promueva o a las que le interese que sean notificadas, mientras no se subsane la omisión, a menos que las personas indicadas ocurran espontáneamente al tribunal, a notificarse.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 315.
+
+Cuando un litigante no señale domicilio para oír notificaciones en los términos del artículo anterior, las notificaciones personales se le harán conforme a las reglas para las notificaciones que no deben ser personales. Lo mismo se hará si habiendo señalado como domicilio la dirección electrónica del sistema informático del Poder Judicial, no realizare los trámites correspondientes para tener acceso a éste.
+
+Si dejare de cumplir con el segundo párrafo del artículo anterior, no se hará notificación alguna a la persona o personas contra quienes promueva o a las que le interese que sean notificadas, mientras no se subsane la omisión, a menos que las personas indicadas ocurran espontáneamente al tribunal, a notificarse.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -2108,6 +2162,20 @@ IV.- En los casos de requerimiento, a la persona que deba cumplirlo; y
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
 V.- En los demás casos en que la ley expresamente lo disponga.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 318-A.
+
+Las notificaciones personales se practicarán por medios electrónicos a través de un mensaje de datos, cuando las partes o los interesados hayan señalado como domicilio para oír notificaciones la dirección electrónica del sistema informático del Poder Judicial.
+
+Para tener acceso a la dirección electrónica del sistema mencionado, los interesados deberán hacer el trámite que al efecto establezca el Consejo del Poder Judicial.
+
+La notificación se realizará por el secretario, deberá contener los datos de identificación del expediente y las partes, así como el contenido íntegro de la resolución notificada, y se tendrá por practicada a partir del acuse de recibo electrónico que genere el sistema. El secretario deberá asentar la razón en el expediente de tal circunstancia.
+
+Las notificaciones electrónicas se deberán practicar en días y horas hábiles.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -2261,7 +2329,7 @@ Cuando se demande a una persona moral, cuya representación corresponda, por dis
 
 Emplazamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 336.
 
@@ -2497,7 +2565,7 @@ Los autos que en segunda instancia resuelvan un incidente no admiten recurso alg
 
 Las resoluciones incidentales no surten efecto alguno más que en el juicio en que hayan sido dictadas, a no ser que la resolución se refiera a varios juicios, caso en el cual surtirá efectos en todos ellos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ## TITULO TERCERO.. Suspensión, interrupción y extinción de la instancia y del proceso
 
@@ -2553,7 +2621,7 @@ En caso de muerte de la parte, la interrupción cesará tan pronto como se acred
 
 Es aplicable al caso de interrupción, lo dispuesto por el artículo 378.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO III.. Extinción de la instancia y del proceso
 
@@ -3327,7 +3395,7 @@ De todo embargo de bienes raíces se tomará razón en el Registro de Hipotecas 
 
 Cuando el secuestro recaiga sobre dinero en efectivo, se hará el depósito en el Fondo Auxiliar para la Impartición de Justicia. Si recae sobre alhajas, a costa del ejecutante se hará el depósito en caja de seguridad bancaria y si no existe en el lugar institución que otorgue este servicio, en el lugar más próximo donde se otorgue. El certificado de depósito en el Fondo Auxiliar de Impartición de Justicia, se guardará en el secreto del tribunal y no se entregará lo depositado, sino en virtud de orden escrita del juez de los autos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 491.
 
@@ -3725,7 +3793,7 @@ Ejecutará personalmente las funciones del cargo, a menos que tuviere que desemp
 
 No puede ser síndico el pariente del concursado o del juez dentro del cuarto grado de consanguinidad o del segundo, de afinidad, ni su amigo, ni su socio, ni el enemigo, ni con quien tenga comunidad de intereses.
 
-> <small>(F. DE E., P.O 8 DE MARZO DE 1934)</small>
+> <small>(F. DE E., P.O. 8 DE MARZO DE 1934)</small>
 
 El que se halle en alguno de estos casos deberá excusarse y ser substituído inmediatamente.
 
@@ -4055,7 +4123,7 @@ Hecha la declaración de herederos, de acuerdo con los artículos precedentes, e
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que, en su defecto, se nombre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 608.
 
@@ -4487,7 +4555,7 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un notario, de acuerdo con lo que se establece en este capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 1981)</small>
 
 ### CAPITULO IX.
 
@@ -4615,105 +4683,71 @@ Hechas las publicaciones que ordena el Código Civil, podrán los interesados oc
 
 Divorcio por mutuo consentimiento.
 
-###### Art. 696.
+###### Artículo 696.
 
-Cuando ambos cónyuges convengan en divorciarse voluntariamente, deberán ocurrir al tribunal competente, presentando una copia certificada del acta del matrimonio y de las de nacimiento de sus hijos menores.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+###### Artículo 697.
 
-###### Art. 697.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Presentada la solicitud, citará el juez a los cónyuges y al representante del Ministerio Público, a una junta que se efectuará dentro de los quince días siguientes, contados a partir de la presentación de la demanda. La junta tendrá por objeto que los cónyuges ratifiquen la demanda y, en su caso, el convenio relativo a la custodia de los hijos menores o incapaces y a los alimentos. Si no se anexa convenio y éste fuere necesario porque existan hijos menores o incapaces, no podrá citarse a la junta hasta que los promoventes cumplan el requisito, para lo cual el juez los requerirá a fin de que lo satisfagan en un término de ocho días.
+###### Artículo 698.
 
-Celebrada la junta, el juez citará a los cónyuges a oír resolución definitiva, la que deberá emitirse dentro de los cinco días siguientes a la fecha de celebración de la misma.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-###### Art. 698.
+###### Artículo 699.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+###### Artículo 700.
 
-###### Art. 699.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-En la junta de que trata el artículo 697, deben comparecer personalmente los cónyuges.
+###### Artículo 701.
 
-###### Art. 700.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-La sentencia que decrete o niegue el divorcio por mutuo consentimiento es apelable en ambos efectos.
-
-###### Art. 701.
-
-Ejecutoriada la sentencia de divorcio el tribunal mandará remitir copia de ella a la oficina del Registro Civil de su jurisdicción, a la del lugar en que el matrimonio se haya efectuado y a las de los lugares de nacimiento de los divorciados.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ## TÍTULO CUARTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO ÚNICO. Guarda y custodia de menores y ejercicio de la patria potestad
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+###### Artículo 701-A.
 
-###### Art. 701-A.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Los jueces de partido resolverán los asuntos relacionados con la guarda y custodia de menores y el ejercicio de la patria potestad, siguiendo el procedimiento que se regula en este capítulo, el cual no será aplicable a los casos de divorcio, alimentos o de pérdida de la patria potestad.
+###### Artículo 701-B.
 
-En todos los asuntos a que se refiere este artículo y siempre que se afecten derechos de menores, los jueces están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+###### Artículo 701-C.
 
-###### Art. 701-B.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-El juez que conozca de este procedimiento deberá dar intervención legal al Ministerio Público.
+###### Artículo 701-D.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-###### Art. 701-C.
+###### Artículo 701-E.
 
-Quien desee plantear una controversia sobre derechos relativos a la guarda y custodia de menores o al ejercicio de la patria potestad, deberá formular demanda por escrito exponiendo de manera breve y concisa los hechos de que se trate. Al escrito se acompañarán los documentos que sirvan para acreditar la personalidad y el carácter del promovente y los demás que éste estime conveniente. En el mismo escrito de demanda, se ofrecerán las demás pruebas para desahogarse en la audiencia a que se refiere el artículo 701-F.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+###### Artículo 701-F.
 
-###### Art. 701-D.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Recibida la demanda, el juez le dará entrada y ordenará correr traslado a la parte demandada, la que deberá contestar en la forma y condiciones establecidas en el artículo anterior, dentro del término de cinco días.
+###### Artículo 701-G.
 
-La demanda se desechará de plano si no se acredita con documental pública el derecho del demandado referente al ejercicio de la patria potestad o a la guarda y custodia de menores.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+###### Artículo 701-H.
 
-###### Art. 701-E.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Una vez que transcurra el término concedido a la parte demandada para que la conteste, el juez citará a la audiencia de conciliación, desahogo de pruebas y alegatos prevista en este capítulo, la que deberá celebrarse dentro de los quince días que sigan al auto que la ordene.
-
-Si el demandado no contesta la demanda en término, el juez lo tendrá por confeso de los hechos, salvo prueba en contrario, en el mismo auto en que señale fecha y hora para la audiencia.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
-
-###### Art. 701-F.
-
-Las partes deberán acudir personalmente a la audiencia de conciliación, desahogo de pruebas y alegatos, sin perjuicio de su derecho a asistirse por abogado patrono o mandatario judicial. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de la Representación Gratuita en materia civil, la que deberá acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
-
-Iniciada la audiencia, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio. Si las partes se niegan a convenir, el juez procederá al desahogo de pruebas. Las partes deberán asistir con sus testigos, con sus peritos o con los elementos o instrumentos pertinentes para el desahogo de sus pruebas. Concluida la recepción de las pruebas, las partes rendirán en el mismo acto, alegatos verbalmente o por escrito, si así conviene a su interés. Al terminar la etapa de alegatos, el juez declarará concluida la audiencia y citará a las partes para oír resolución.
-
-El desahogo y valoración de las pruebas que se aporten en la audiencia se hará conforme a lo dispuesto en este Código, en lo que no se oponga a lo previsto en este capítulo.
-
-Si la parte actora no concurre a la audiencia se entenderá que se desiste de sus pretensiones, con todas sus consecuencias jurídicas. Si quien no concurre es el demandado, también sin justa causa, se le tendrá allanándose a la solicitud del demandante siempre que con ello no se lesionen derechos de los menores, pues en caso contrario el juez deberá dar cauce a la audiencia en lo conducente, para resolver el problema planteado conforme a derecho. Si no asistiere ninguna de las partes de manera injustificada, el juez dará por terminado el procedimiento y ordenará su archivo como asunto definitivamente concluido.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
-
-###### Art. 701-G.
-
-La sentencia se pronunciará dentro de los cinco días siguientes a la celebración de la audiencia de conciliación, desahogo de pruebas y alegatos.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
-
-###### Art. 701-H.
-
-La sentencia que se pronuncie en este procedimiento será apelable en ambos efectos.
-
-> <small>(REFORMADA SU NUMERACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ## TITULO QUINTO.
 
@@ -4763,11 +4797,11 @@ III.- Si la sentencia de primer instancia fuere declaratoria de estado, proveer�
 
 IV.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ## TITULO SEXTO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO.
 
@@ -5083,111 +5117,57 @@ Cuando, del examen de la cuenta, resulten motivos graves para sospechar dolo, fr
 
 Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos.
 
-###### Art. 720.
+###### Artículo 720.
 
-Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes: 1a. Bienes raíces; 2a. Derechos reales; 3a. Alhajas y muebles preciosos, y 4a. Acciones de compañías industriales o mercantiles, cuyo valor exceda de cinco mil pesos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-###### Art. 721.
+###### Artículo 721.
 
-Para decretar la venta de bienes se necesita que, al pedirse, se expresen el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Si fuere el tutor quien solicitare la venta, debe proponer, al hacer la promoción, las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
+###### Artículo 722.
 
-La solicitud del tutor se substanciará en forma de incidente con el curador y el Ministerio Público. La sentencia que se dicte es apelable en ambos efectos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Los peritos que se designen para hacer el avalúo serán nombrados por el juez.
+###### Artículo 723.
 
-###### Art. 722.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Respecto de las alhajas y muebles preciosos, el juez determinará si conviniere o no la subasta, atendiendo en todo a la utilidad que resulte al menor; si se decreta, se hará por conducto del monte de piedad; de lo contrario, se procederá conforme al artículo 545.
+###### Artículo 724.
 
-El remate de los inmuebles se hará conforme a los artículos 516 y siguientes, y en él no podrá admitirse postura que baje de las dos tercias partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del tutor o curador, a una junta, dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+###### Artículo 725.
 
-###### Art. 723.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta, y por conducto de corredor titulado, y, si no lo hay, de comerciante establecido y acreditado.
+###### Artículo 726.
 
-###### Art. 724.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-El precio de la venta se entregará al tutor, si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
+###### Artículo 727.
 
-El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
-
-###### Art. 725.
-
-Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán, los que ejercen la patria potestad, la autorización judicial en los mismos términos señalados en el artículo 721. El incidente se substanciará con el Ministerio Público y con un tutor especial que, para el efecto, nombre el juez desde las primeras diligencias. La base de la primera almoneda, si es bien raíz, será el precio fijado por los peritos, y la postura legal no será menor de los dos tercios de ese precio.
-
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
-
-###### Art. 726.
-
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la conformidad del curador y la autorización judicial.
-
-> <small>(F. DE E., P.O. 8 DE MARZO DE 1934)</small>
-
-###### Art. 727.
-
-Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
 ### CAPITULO IV.
 
 Adopción.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+###### Artículo 728.
 
-###### Art. 728.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-El que pretenda adoptar a alguna persona deberá acreditar las exigencias de los artículos 448 y 451 del Código Civil.
+###### Artículo 729.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-En la promoción inicial deberá manifestarse el tipo de adopción que se promueva, el nombre, edad y domicilio del menor o incapacitado, y el nombre, edad y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, así como, el nombre y domicilio de la institución de asistencia o beneficencia que lo haya acogido, debiendo recabar, en este último caso, los antecedentes del menor o del incapacitado.
+###### Artículo 729-A.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Al momento de la presentación de la solicitud, el juez deberá imponer a el o los solicitantes de los deberes que genera la adopción, a efecto de que ratifiquen su intención de adoptar. El juez tendrá la facultad de recabar todo tipo de prueba necesaria y agilizar su desahogo, para mejor proveer.
+###### Artículo 730.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
-
-En caso de querer variar el nombre del adoptado, en los términos del artículo 462 del Código Civil se expresará en dicha promoción, el nuevo nombre que se pretende asignar.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
-
-Presentada la promoción y dentro de los tres días siguientes, se citará a quien ejerce la patria potestad o tutela sobre el menor o incapacitado, a fin de que otorgue su consentimiento en los términos del artículo 452 del Código Civil, así como para que manifieste la situación jurídica del menor o incapacitado que se pretende adoptar.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
-
-Se solicitará a la Procuraduría en Materia de Asistencia Social haga las investigaciones y valoraciones correspondientes a efecto de constatar si la adopción solicitada por los adoptantes es benéfica para el menor o incapacitado, debiendo rendir un informe al Juez en el término de cinco días; en caso de no rendirlo se le tendrá por conforme con la adopción.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
-
-Dentro del plazo de tres días se señalará día y hora para que tenga verificativo el desahogo de la prueba testimonial, en que habrá de acreditarse la solvencia moral y económica así como la reconocida probidad del o los adoptantes.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
-
-En caso de oposición, se estará a lo dispuesto por el artículo 708 de este Código.
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
-
-###### Art. 729.
-
-Rendidas las justificaciones que se exigen en el artículo anterior, el Tribunal resolverá dentro del tercer día, debiendo remitir la resolución judicial y el duplicado del expediente relativo al Oficial del Registro Civil para los efectos correspondientes de los artículos 88, 458 y 464 del Código Civil.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2008)</small>
-
-###### Art. 729-A.
-
-Cuando el adoptante o los adoptantes soliciten la conversión de la adopción simple a plena, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los cinco días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público o de la Procuraduría en Materia de Asistencia Social, así como a quien habrá de otorgar su consentimiento en los términos del artículo 464-J del Código Civil para el Estado de Guanajuato, luego de la cual se resolverá lo conducente en un término de tres días posteriores a dicha audiencia.
-
-###### Art. 730.
-
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal, para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el Código Civil.
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
 ### CAPITULO V.
 
@@ -5255,7 +5235,7 @@ II.- El poseedor con título bastante para transferir el dominio;
 
 III.- El usufructuario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 738.
 
@@ -5271,7 +5251,7 @@ IV.- El sitio donde están y donde deben colocarse las señales, y, si éstas no
 
 V.- Los planos y demás documentos que vengan a servir para la diligencia, y designación de un perito por parte del promovente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 739.
 
@@ -5279,7 +5259,7 @@ Hecha la promoción, el juez o el notario público, mandará hacerla saber a los
 
 Si fuere necesario identificar alguno o algunos de los puntos de deslinde, los interesados podrán presentar dos testigos de identificación, cada uno, a la hora de la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Art. 740.
 
@@ -5341,17 +5321,17 @@ En ambos casos no son necesarias formalidades de ninguna clase, asentándose sol
 
 Los actos de jurisdicción voluntaria que no estén especialmente reglamentados, se sujetarán a las disposiciones del Capítulo I de este Título.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
 
 # LIBRO QUINTO.
 
 Del Procedimiento Sumario.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ## TITULO UNICO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ### CAPITULO I.
 
@@ -5379,7 +5359,7 @@ IV.- Los juicios que versen sobre el pago o aseguramiento de alimentos.
 
 En los juicios sumarios regirán las normas aplicables al procedimiento ordinario, con las modificaciones que se contienen en este Título.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ### CAPITULO II.
 
@@ -5417,7 +5397,7 @@ La sentencia que cause ejecutoria hará plena fe contra toda persona ajena al pr
 
 Es Juez competente para decidir sobre la rectificación, el del partido judicial a que corresponda el lugar en que se extendió el acta respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ### CAPITULO III.
 
@@ -5493,7 +5473,7 @@ De la cancelación de las inscripciones hipotecarias.
 
 (DEROGADO, P.O. 13 DE AGOSTO DE 2004)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO V. Del juicio en materia de arrendamiento inmobiliario
 
@@ -5561,11 +5541,13 @@ La audiencia se desahogará concurran o no las partes.
 
 Desahogada la audiencia a que se refiere el artículo anterior, el Juez señalará día y hora para la recepción de las probanzas aportadas por las partes, dando curso al procedimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2009)</small>
 
 ### CAPÍTULO SEXTO (SIC). Del pago o aseguramiento de alimentos
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+###### Artículo 770.
+
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
 ###### Art. 770.
 
@@ -5573,43 +5555,1515 @@ Para decretar alimentos en favor de quien tenga derecho de exigirlos, bastará a
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
 
-###### Art. 771.
+###### Artículo 771.
 
-Presentada la demanda, se correrá traslado al deudor alimentario por un término de tres días para que produzca su contestación.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Las pruebas deberán anunciarse o presentarse junto con los escritos de demanda y de contestación de la misma, según corresponda.
+###### Artículo 772.
 
-En el auto que admita la demanda y cuando no se haya decretado en una medida precautoria, el juez fijará de oficio una pensión provisional, contra la cual no se admitirá recurso alguno. Para la determinación de la pensión provisional, se observará lo establecido en el artículo 402 de este Código.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Dentro de los tres días siguientes, agotado el plazo para formular la contestación, se celebrará una audiencia de desahogo de pruebas y formulación de alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+###### Artículo 773.
 
-Cuando las partes tengan que rendir prueba testimonial, deberán anunciarla mencionando los nombres de los testigos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-Si las partes solicitan el envío de oficio para pedir informes sobre el ingreso o bienes del deudor alimentario se ordenará que aquéllos se envíen de inmediato, con los apercibimientos de ley, para que puedan tenerse a la vista en la audiencia de desahogo de pruebas y formulación de alegatos.
+###### Artículo 774.
 
-Concluida la audiencia de desahogo de pruebas y formulación de alegatos, la sentencia se pronunciará dentro de los cinco días siguientes.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Art. 772.
+> <small>(ADICIONADO CON TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-La sentencia que decrete los alimentos, fijará la pensión correspondiente que deberá ministrarse siempre por adelantado. La sentencia respectiva, indicará siempre en sus partes considerativa y resolutiva, que el monto de la pensión podrá modificarse en su cuantía, previo el procedimiento respectivo, para que esté ajustada permanentemente a las necesidades del acreedor alimentario y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia, deberá hacerse personalmente del conocimiento de las partes, al ser notificada la sentencia respectiva.
+# LIBRO SEXTO. DE LOS JUICIOS ORALES
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Art. 773.
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-Notificada la sentencia se comunicará sin demora a la persona física o moral de quien perciba el ingreso el deudor alimentario, para que se haga entrega de la misma al que exige los alimentos.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-El embargo trabado para garantizar el pago de la pensión provisional, se tendrá por definitivo, pudiendo ampliarse el mismo y procederse, de ser el caso, al remate para cubrirse el pago de las pensiones provisionales adeudadas y de la fijada en la sentencia y subsecuentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. De los Principios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 775.
+
+En el procedimiento oral se observarán los principios de inmediación, continuidad, concentración, colaboración y abreviación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 776.
+
+El juzgador velará durante el proceso por el respeto a la privacidad de las partes y especialmente de los niños, niñas, adolescentes e incapaces.
+
+Con ese objetivo podrá prohibir la difusión de datos, imágenes o cualquier contenido, referidos al proceso o a las partes; o disponer, mediante resolución fundada, que todas o algunas de las actuaciones del procedimiento se realicen en forma reservada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 777.
+
+Las peticiones de las partes serán formuladas oralmente durante las audiencias, salvo lo dispuesto en este Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 778.
+
+Durante el desarrollo de las audiencias, el juez proveerá de inmediato y oralmente, toda cuestión que le sea planteada, salvo lo dispuesto en este Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 779.
+
+Quienes no puedan hablar, oír o no entiendan o hablen el idioma español, intervendrán en las audiencias con apoyo de intérprete, el cual se designará de entre los que aparezcan en la lista de peritos autorizada por el Consejo del Poder Judicial del Estado o, en su defecto, por asociaciones o instituciones públicas o privadas. El intérprete permanecerá al lado del interesado durante toda la audiencia.
+
+Los interesados desde su escrito de demanda o contestación, deberán hacer saber al juez la necesidad de que se les designe un intérprete para que se provea lo conducente para su intervención en la audiencia respectiva.
+
+Inmediatamente después de haber aceptado desempeñar su función, los intérpretes serán advertidos de las penas en que incurren los falsos declarantes y sobre su obligación de traducir o interpretar fielmente lo dicho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 780.
+
+El juzgador tendrá las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho proceda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 781.
+
+En cualquier etapa del proceso, inclusive en segunda instancia hasta antes de dictar sentencia, las partes podrán conciliar sus intereses si la naturaleza del asunto lo permite, el convenio se someterá a la aprobación del juez o magistrado.
+
+Durante el procedimiento y en la resolución del conflicto, se buscarán alternativas orientadas a mitigar la confrontación entre las partes, privilegiando las soluciones acordadas por ellas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 782.
+
+La recusación no suspende el procedimiento.
+
+Recibida la recusación, se resolverá de plano por quien deba decidirla.
+
+Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
+
+No serán causa de recusación las manifestaciones, opinión o propuesta que el juez haya externado para lograr la conciliación de las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. De las Audiencias
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 783.
+
+Las partes asistirán a las audiencias del procedimiento por sí, o a través de sus representantes. En los juicios orales ordinarios el representante deberá contar con facultades expresas para conciliar, transigir y suscribir el convenio correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 784.
+
+En los asuntos que su naturaleza lo permita, antes del inicio de las audiencias, se abrirá una fase previa de conciliación a la que deberán asistir personalmente las partes, sin perjuicio de que sean asistidas por abogado, en la cual el tribunal por conducto del personal especializado del Centro Estatal de Justicia Alternativa, procurará que lleguen a acuerdos para la solución de su conflicto. La fase previa de conciliación será reservada directamente con las partes materiales y dirigida por el conciliador.
+
+En cualquier etapa del procedimiento el juez propiciará y procurará la conciliación entre las partes para que logren un acuerdo que solucione el conflicto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 785.
+
+Las audiencias serán presididas por el juez. Toda intervención de quienes participen en ellas se efectuará oralmente.
+
+El juez dirigirá el debate, conducirá el desahogo de las pruebas, exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión; podrá impedir que las alegaciones se desvíen hacia aspectos inconducentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes se excedieren,
+
+El juez contará con las más amplias facultades para mantener el orden durante el debate. Asimismo, podrá limitar el acceso a un número determinado de personas, impedir la entrada y ordenar la salida de aquéllas que se presenten en condiciones inapropiadas con la formalidad de la audiencia.
+
+Quienes asistan deberán permanecer en silencio mientras no estén autorizados para intervenir, debiendo responder de forma respetuosa a las preguntas que se les formulen.
+
+En las salas de audiencias, queda prohibido a las partes y a los asistentes utilizar equipos de telefonía y captura de audio, video o imágenes en cualquier formato.
+
+Para hacer cumplir sus determinaciones el juez podrá hacer uso de las correcciones disciplinarias y medios de apremio previstos en este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 786.
+
+El juez declarará el inicio y término de cada una de las etapas de la audiencia, y se tendrán por precluidos los derechos procesales que debieron ejercitarse en cada una de ellas.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 787.
+
+Las audiencias del procedimiento se llevarán a cabo en etapas sucesivas hasta su conclusión. El juez podrá suspender el desarrollo de la audiencia por razones de absoluta necesidad por un plazo de hasta diez días, de acuerdo con el motivo de la suspensión, en cuyo caso, comunicará oralmente la fecha y hora de su continuación, lo que se tendrá como notificación y citación debidamente practicadas.
+
+El juez procurará que todas las cuestiones que hayan dado origen a la suspensión de la audiencia se desahoguen en la fecha fijada para su reanudación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 788.
+
+Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá decretar recesos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 789.
+
+Las audiencias se registrarán por medios electrónicos, que permitan garantizar la fidelidad, autenticidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes, de acuerdo a la ley, tuvieren derecho a ello.
+
+Al inicio de las audiencias el secretario del juzgado hará constar oralmente en el registro a que hace referencia el párrafo anterior, la fecha, hora y lugar de realización, el nombre de los servidores públicos del juzgado, y demás personas que intervendrán.
+
+Al término de las audiencias el juez y el secretario asentarán su firma electrónica certificada en el medio de almacenamiento electrónico, óptico o de cualquier otra tecnología en el que conste el desarrollo de la audiencia. Si para la grabación de la audiencia se utilizara más de un medio de almacenamiento, se firmará electrónicamente cada uno de ellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 790.
+
+En caso de que los medios de almacenamiento en los que consten las audiencias se dañen, el juez ordenará su reposición a través de los registros con que cuente el Poder Judicial o, en su defecto, se procederá en los términos del artículo 66 BIS de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 791.
+
+Al concluir las audiencias, se levantará acta que deberá contener:
+
+I.- El lugar, fecha, hora de inicio y término y número de expediente al que corresponda;
+
+II.- El nombre de quienes intervinieron y la constancia de la inasistencia de los que debieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III.- Identificación del medio de almacenamiento electrónico, óptico o de cualquier otra tecnología en el que conste el desarrollo de la audiencia;
+
+IV.- La relación sucinta de lo actuado en la audiencia; y
+
+V.- Las firmas del juez, del secretario y, la de las partes si desean hacerlo.
+
+De igual forma, si por cualquier circunstancia se suspendiera la audiencia, se levantará acta en cada ocasión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 792.
+
+Cuando las partes soliciten copia simple de la grabación de audio y video, se acompañarán los medios de almacenamiento apropiados para que les sea proporcionada, de acuerdo a las herramientas tecnológicas de que disponga el tribunal.
+
+Se considera copia certificada de la actuación el medio de almacenamiento electrónico, óptico o de cualquier otra tecnología en el que conste el desarrollo de la audiencia, que contenga las firmas electrónicas certificadas del juez y el secretario, previo pago de los derechos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 793.
+
+En el tribunal estarán disponibles las herramientas tecnológicas y personal de auxilio necesarios para que las partes tengan acceso al contenido de las audiencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 794.
+
+En caso de que una audiencia en distinto proceso, se prolongue y llegue la hora señalada para la verificación de otra, las partes y personas que deban comparecer, permanecerán en el juzgado hasta que se termine aquélla, acorde al orden de audiencias a verificarse, salvo que el juez determine lo contrario, proveyendo lo conducente y notificándoles en ese momento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 795.
+
+Cuando se involucren derechos relacionados con niños, niñas, adolescentes o incapaces, desde el auto admisorio de la demanda, se dará intervención al Ministerio Público, para que, de ser necesario, formule pedimentos tendientes a garantizar los derechos de aquéllos. Para ese efecto, le será personalmente notificado dicho auto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 796.
+
+En el procedimiento oral, cuando sea en beneficio de niños, niñas, adolescentes o incapaces, el juez deberá suplir la deficiencia de la queja. Asimismo, podrá ordenar el desahogo de cualquier medio probatorio.
+
+En todos los asuntos en que se vean involucrados derechos de niños, niñas, adolescentes e incapaces, el juez en función de la edad y madurez de éstos, deberá oírlos directamente, en un entorno que propicie la manifestación libre y espontánea de sus opiniones.
+
+En cualquier etapa del proceso, para conocer y decidir algún punto de la controversia, el juez se podrá auxiliar de personal profesional técnico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. De los Actos Procesales en General
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 797.
+
+Los tribunales de acuerdo a las herramientas tecnológicas de que dispongan, podrán formar una carpeta electrónica con la copia digitalizada de todas las promociones y actuaciones que conformen el juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 798.
+
+Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el juez y registradas por el tribunal por medios electrónicos de grabación de audio y video.
+
+Las que se realicen fuera del partido judicial se harán constar a través de los medios de que disponga el tribunal exhortado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 799.
+
+La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta hasta antes de que el juez pronuncie la sentencia. La del emplazamiento, podrá reclamarse en cualquier momento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 800.
+
+En el juicio oral, además de los supuestos señalados en el presente Libro, sólo el emplazamiento, la citación para la audiencia preliminar y la sentencia, serán notificados personalmente a las partes; las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto a quienes estén presentes o debieron haberlo estado, sin necesidad de formalidad alguna.
+
+Las demás resoluciones se notificarán a las partes conforme a las reglas de las notificaciones no personales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 801.
+
+En todo lo no previsto en este Libro, regirán las disposiciones contenidas en los Libros Primero y Segundo de este Código, en cuanto no se opongan a las disposiciones de los juicios civiles orales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. De los Medios Probatorios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 802.
+
+En los juicios orales las partes podrán ofrecer los medios de prueba que se encuentran reconocidos en este Código, con las modalidades que para su ofrecimiento, preparación y desahogo se prevén en este Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 803.
+
+En la prueba confesional por absolución de posiciones, las mismas se formularán en la audiencia de juicio, para lo cual el absolvente deberá acudir al tribunal para el desahogo de la prueba, sin que resulte aplicable lo dispuesto por el artículo 122 de este Código.
+
+Cuando el emplazamiento se haya hecho por edictos y el juicio se siga en rebeldía, la citación para absolver posiciones se hará por lista.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 804.
+
+Llegado el momento para el desahogo de la prueba confesional, la oferente formulará oralmente sus posiciones si se encontrare presente el absolvente. El juez desechará aquéllas que resultaren improcedentes.
+
+De no acudir la oferente, sin causa justificada, se declarará desierta la prueba.
+
+En caso de que la absolvente no asistiere, también sin justa causa, previa solicitud de la oferente, se tendrán por confesos los hechos en que se sustentó la demanda o las excepciones, según corresponda.
+
+En ambos supuestos la causa justificada de inasistencia deberá demostrarse al día siguiente de la audiencia, la que se suspenderá para tal efecto. En la reanudación de la misma, el juez valorará las circunstancias particulares y tendrá o no por justificada la inasistencia. Esta resolución será irrecurrible.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 805.
+
+Al ofrecerse la prueba testimonial se proporcionará el nombre y apellidos de las personas que tengan conocimiento de los hechos debatidos.
+
+Cuando el oferente manifieste su imposibilidad por sí mismo de hacer que se presenten, expondrá las razones que tenga para ello y proporcionará el domicilio de sus testigos. En caso de que el juez lo estime justificado ordenará la citación por el tribunal.
+
+Los testigos serán citados por lo menos con tres días de anticipación al día en que deban declarar, apercibiéndoles que en caso de no acudir se hará uso de la fuerza pública para hacerles comparecer.
+
+Si no se lograre la comparecencia del testigo se declarará desierto el desahogo de su testimonio. La misma declaración procederá en caso de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, imponiéndose al oferente una multa de uno a treinta días de salario mínimo general vigente en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 806.
+
+Sólo en el acto del examen de un testigo pueden las partes atacar el dicho de aquél, por cualquier circunstancia que en su concepto afecte su credibilidad, cuando no haya sido ya expresada en su declaración.
+
+Para ello las partes podrán formular al testigo preguntas tendientes a demostrar su credibilidad o la falta de ella, la existencia de vínculos con alguna de las partes que afectaren o pudieren afectar su imparcialidad, o algún otro defecto de idoneidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 807.
+
+Al proponerse la prueba pericial deberá el oferente dar a conocer el nombre de su perito y la clase de pericial de que se trate con el cuestionario a dictaminar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 808.
+
+En la etapa de admisión y preparación de pruebas de la audiencia preliminar, la parte contraria podrá adicionar por escrito el cuestionario y deberá designar perito de su parte.
+
+De no cumplir con lo anterior precluirá su derecho y la prueba se desahogará con el dictamen que se rinda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 809.
+
+Una vez admitida la prueba pericial los peritos designados deberán comparecer a aceptar y protestar el cargo, en la misma etapa de la audiencia preliminar. Los peritos deberán exhibir su título o cédula profesional, si la ciencia, arte, técnica u oficio requieren título para su ejercicio.
+
+En caso de no comparecer, no aceptar el cargo o no exhibir el título o cédula profesional, se aplicará lo dispuesto en el segundo párrafo del artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 810.
+
+Los peritos deberán emitir su dictamen cinco días antes de la audiencia de juicio, por escrito, con la finalidad de que las partes se impongan de su contenido.
+
+En la audiencia de juicio expondrán verbalmente las conclusiones de sus dictámenes y responderán las preguntas y repreguntas que les formulen las partes. El juez desechará aquéllas que considere improcedentes, determinación que será irrecurrible.
+
+El juez podrá formular las preguntas que estime pertinentes, para aclarar el contenido de los dictámenes.
+
+En caso de no asistir los peritos designados por las partes se les tendrá por no rendido su dictamen, y serán responsables de los perjuicios que se causen a la parte por la que hubieren sido nombrados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 811.
+
+Cuando los dictámenes exhibidos resulten substancialmente contradictorios, de tal modo que el juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia, de entre la lista de peritos autorizada por el Consejo del Poder Judicial del Estado o, en su defecto, por peritos de asociaciones o instituciones púbicas (sic) o privadas; y una vez desahogados los demás medios probatorios, suspenderá la audiencia de juicio para que se rinda el citado peritaje.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 812.
+
+El perito tercero será notificado para que dentro del plazo de tres días presente escrito en el que acepte y proteste el cargo conferido, señalando el monto de sus honorarios, los cuales deberán ser autorizados por el juez y cubiertos por ambas partes en igual proporción.
+
+El perito tercero deberá rendir por escrito su peritaje en la audiencia de juicio, en la forma y términos del artículo 810 de este Código. En el supuesto de que no acepte el cargo o no rinda el dictamen, el juez designará otro perito. De no rendir el dictamen encomendado el juez le impondrá como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 813.
+
+En la etapa de admisión de pruebas de la audiencia preliminar, se presentará y resolverá la recusación de peritos propuesta por las partes y, en la audiencia de juicio, lo relativo al perito tercero en discordia.
+
+De resultar procedente la recusación, la parte interesada propondrá nuevo perito y en caso de que se trate del perito tercero, el juez hará nueva designación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO V. De las Medidas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 814.
+
+Además de las medidas previstas en los artículos 401 de este Código y, 336 y 336-A del Código Civil para el Estado de Guanajuato, en los juicios orales que contemple el presente Libro, el juez, de oficio o a petición de parte, en cualquier etapa del procedimiento, podrá decretar las medidas cautelares que estime procedentes para la protección de los derechos de los niños, niñas, adolescentes e incapaces, cuando se encontraren amenazados o vulnerados.
+
+La audiencia prevista en el artículo 408 de este Código, en aquella medida que se solicite antes de iniciar el juicio, se llevará a cabo por el juez conforme a las disposiciones que para el desarrollo de las audiencias contempla el presente Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 815.
+
+Contra la resolución en que se otorgue alguna medida, no cabrá recurso alguno, pero se aplicará lo dispuesto en el artículo 839 de este Código.
+
+La resolución que niegue la medida será apelable.
+
+En la medida de separación de cónyuges, tratándose de la acción de divorcio, no procederá la inconformidad a que se refiere el artículo 410-B de este Código, pero su otorgamiento podrá ser revisado en la audiencia preliminar a petición de la parte que no la hubiere promovido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO VI. De los Incidentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 816.
+
+Los incidentes, cualquiera que sea su naturaleza, se tramitarán verbalmente en las audiencias, dándose vista a la contraria para que en el mismo acto manifieste lo que a su derecho convenga. Si las partes no promovieren pruebas, ni el juez las estimare necesarias, se resolverá de inmediato.
+
+Si el incidente se origina en un hecho anterior a una audiencia, sólo podrá interponerse hasta la conclusión de la misma.
+
+Los incidentes que surjan después de celebradas las audiencias o en ejecución de sentencia, se tramitarán conforme a las disposiciones comunes para el procedimiento oral especial; debiendo correr traslado con la demanda incidental por tres días a las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 817.
+
+Al plantearse el incidente se ofrecerán las pruebas, las cuales se desahogarán en la propia audiencia cuando ello sea posible. En caso contrario, se suspenderá la misma por lo que se refiere a la incidencia planteada, señalándose día y hora para su continuación en la que se recibirán las pruebas admitidas, acto seguido se resolverá por el juez el fondo de la cuestión incidental.
+
+Cuando el incidente se refiera a actos sucedidos en la propia audiencia, no se admitirán más pruebas que la documental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 818.
+
+Los incidentes que no guarden relación inmediata con el negocio principal, serán desechados de plano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 819.
+
+Los incidentes no suspenderán el trámite del juicio en lo principal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO VII. Disposiciones Complementarias
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN PRIMERA. De los Tribunales de Juicios Orales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 820.
+
+El tribunal que conozca de juicios orales, podrá integrarse por uno o varios jueces, y contará con la estructura administrativa que se determine en la Ley Orgánica del Poder Judicial del Estado.
+
+En el tribunal que se conforme por varios jueces, éstos ejercerán unipersonalmente la potestad jurisdiccional en las etapas del procedimiento en que tengan intervención. El que conozca de la audiencia de juicio, deberá ser quien emita la sentencia, salvo causa justificada. En las demás etapas podrán intervenir indistintamente cualquiera de sus integrantes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. De los Centros de Convivencia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 821.
+
+El juez podrá decretar que la convivencia entre los menores y las personas que tengan reconocido ese derecho, se realice con la participación del Sistema para el Desarrollo Integral de la Familia del Estado y de los municipios, o bien, a través de los centros especializados, que para tal fin establezcan.
+
+Los encargados de los centros de convivencia se coordinarán con el juez, a fin de que la determinación judicial se cumpla en sus términos, y podrán realizar propuestas de modificación a la misma, velando siempre por el beneficio del menor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ORAL ORDINARIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. De la materia del Procedimiento Oral Ordinario
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 822.
+
+Se tramitarán por el procedimiento oral ordinario, las controversias que se susciten con motivo de:
+
+I.- Nulidad de matrimonio;
+
+II.- Guarda, custodia y convivencia de niños, niñas y adolescentes;
+
+III.- Acciones de divorcio necesario;
+
+IV.- Alimentos;
+
+V.- Reconocimiento, desconocimiento y contradicción de paternidad, así como la posesión del estado de hijo; y
+
+VI.- Pérdida y suspensión de la patria potestad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. Demanda, Contestación y Reconvención
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 823.
+
+La demanda, la reconvención y contestación a éstas, se regularán por lo previsto en los Capítulos I, II y III del Título Primero, Libro Segundo de este Código, en lo que no se oponga al presente Libro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 824.
+
+En la demanda, reconvención y contestación a éstas se ofrecerán las pruebas respectivas.
+
+Tratándose de pruebas para acreditar excepciones procesales, el demandado deberá precisar las que se ofrezcan para tal efecto, para lo cual no se admitirán más que la documental y la pericial.
+
+Las pruebas que no se ofrezcan en los escritos de demanda, reconvención y contestación a éstas, no serán admitidas aunque su ofrecimiento se realice posteriormente, sin perjuicio de lo dispuesto por los artículos 333 y 340 de este Código.
+
+Las excepciones supervenientes se podrán hacer valer hasta en la audiencia de juicio antes de la etapa de alegatos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 825.
+
+Admitida la demanda, el juez ordenará emplazar al demandado y le correrá traslado, a fin de que dentro del plazo de nueve días ocurra a producir su contestación por escrito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 826.
+
+Transcurrido el plazo fijado, contestada o no la demanda, se citará a la audiencia preliminar, para que se celebre dentro de los diez días siguientes. En los casos de que proceda la fase de conciliación previa, se citará a la misma y, una vez concluida se iniciará la audiencia preliminar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 827.
+
+En caso de allanamiento del demandado, el juez citará a las partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de cinco días, siempre que con ello no se lesionen derechos de niños, niñas, adolescentes, incapaces o terceros, pues en caso contrario deberá dar cauce a la audiencia preliminar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. De la Audiencia Preliminar
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 828.
+
+la audiencia preliminar se desarrollará en las siguientes etapas procesales:
+
+I.- Enunciación de la litis;
+
+II.- Sanción del convenio por el juez, en caso de conciliación de las partes;
+
+III.- Depuración del procedimiento en la que se admitirán y desahogarán las pruebas ofrecidas en relación con las excepciones procesales y cosa juzgada;
+
+IV.- Admisión y preparación de pruebas para la audiencia del juicio;
+
+V.- Revisión de las medidas provisionales, de aseguramiento y precautorias ya decretadas, y decisión sobre las solicitadas en la audiencia; y
+
+VI.- Citación para la audiencia de juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 829.
+
+La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes, sin perjuicio de las consecuencias procesales que ello conlleve.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 830.
+
+Declarada abierta la audiencia preliminar, las partes precisarán sucintamente sus pretensiones, excepciones y defensas, respectivamente. El juez enunciará la litis.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 831.
+
+Enunciada la litis, y en el supuesto de que por la naturaleza del asunto la conciliación fuere posible, el personal especializado del Centro Estatal de Justicia Alternativa, dará cuenta al juez del resultado de la conciliación previa a la audiencia, haciéndole saber en su caso los términos de los acuerdos a que hubieren llegado las partes.
+
+El juez describirá oralmente de manera precisa y detallada todos y cada uno de los acuerdos asumidos por las partes, y una vez manifestada su conformidad, el juez los aprobará en cuanto no sean contrarios a derecho, elevando el convenio a la categoría de cosa juzgada.
+
+En el supuesto de que el convenio incluya todas las cuestiones controvertidas, concluirá la audiencia y el juicio oral.
+
+Si las partes sólo logran conciliar parcialmente sus diferencias, el juez aprobará el convenio, continuando la audiencia y el juicio con las cuestiones que no hubieren sido objeto de acuerdo.
+
+Las partes no podrán invocar, en ninguna etapa procesal, manifestación, dato y en general antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo de las propuestas de conciliación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 832.
+
+Si no se lograra la conciliación o subsisten puntos litigiosos, el juez resolverá en su caso, sobre las excepciones procesales y la cosa juzgada con el fin de depurar el proceso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 833.
+
+Cuando se declare fundada la falta de personalidad y ésta fuere subsanable, las partes podrán acreditarla al inicio de la audiencia de juicio, de no hacerse así, si se trata de la del actor, se dará por terminado el juicio oral; si se tratare del demandado, se le tendrá por no contestada la demanda y seguirá el juicio en su rebeldía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 834.
+
+La acumulación de juicios orales podrá decretarse de oficio o a petición de parte, hasta la etapa de depuración del procedimiento de la audiencia preliminar.
+
+Las partes deberán exhibir la prueba documental que acredite fehacientemente que se encuentra en trámite otro procedimiento.
+
+La acumulación se sustanciará oralmente y se resolverá en la misma audiencia. La resolución que se emita será irrecurrible.
+
+Cuando los juicios se encuentren en diferentes tribunales, la acumulación se promoverá ante el juzgado en el que se tramita el segundo juicio. El tribunal que decida la acumulación enviará los autos o la carpeta electrónica al que conozca del juicio más antiguo. Si éste se opusiere a la acumulación, la parte interesada ocurrirá al tribunal superior común a fin de que determine el que deba conocer.
+
+Recibidos los autos por dicho tribunal, citará a las partes a la audiencia de alegatos, que se efectuará dentro del tercer día, en la cual pronunciará su resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 835.
+
+No obstante que se reunieren los supuestos a que alude el artículo 75 de este Código, no procederá la acumulación de juicios sujetos a procedimientos distintos; dándose por concluido el segundo procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 836.
+
+Las pruebas deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados. Las partes, cuando el juez así lo requiera, deberán señalar en la audiencia preliminar, de manera precisa, los hechos que pretendan acreditar con cada medio de prueba ofrecido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 837.
+
+El juez procederá a pronunciarse respecto de la admisión de las pruebas, y podrá excluir aquéllas que fueren impertinentes o sobreabundantes. Asimismo, tendrá por desahogadas las que por su naturaleza lo permitan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 838.
+
+Las partes tendrán a su cargo la oportuna preparación de las pruebas admitidas, bajo el apercibimiento que de no hacerlo se declararán desiertas.
+
+Si las partes solicitan informes de autoridades o particulares, sí así procediere, el juez ordenará su envío inmediato, con los apercibimientos de ley, para que pueda tenerlos a la vista en la audiencia de juicio.
+
+En esta etapa deberá realizarse la objeción de documentos. Si se ofrecieren pruebas para acreditarla, las que fueran admitidas se desahogarán en la propia audiencia cuando ello sea posible, caso contrario, se desahogarán en la audiencia de juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 839.
+
+Las medidas provisionales, de aseguramiento y precautorias decretadas con anterioridad, serán revisadas de oficio o a petición de parte y, en su caso, modificadas en la audiencia a que se refiere el presente Capítulo.
+
+Si las medidas se solicitaren en la audiencia, el juez resolverá en ella atendiendo, en lo conducente, a las disposiciones que conforme a su naturaleza resulten aplicables. Si se ofrecieren y admitieren pruebas, se desahogarán en la propia audiencia.
+
+Las resoluciones que recaigan en la revisión y la concesión de medidas en la audiencia preliminar serán irrecurribles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 840.
+
+El juez fijará fecha y hora para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro de los quince días siguientes a la audiencia preliminar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 841.
+
+En la audiencia preliminar cuando no se hubieren ofrecido pruebas o las ofrecidas se tengan por desahogadas por su propia naturaleza, el juez continuará en su caso, con la etapa a que se refiere la fracción V del artículo 828 de este Código, y dará por concluida la audiencia e iniciará la de juicio, la que se desarrollará a partir de la etapa de alegatos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. De la Audiencia de Juicio
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 842.
+
+La audiencia de juicio se desarrollará de la siguiente manera:
+
+I.- El día y hora señalados, el juez se constituirá en la sala de audiencias del juzgado correspondiente, verificará por conducto del secretario la presencia de las partes, testigos, peritos e intérpretes que deban participar en la audiencia, así como la existencia de las cosas que deban exhibirse y de los documentos que hayan sido presentados por las partes; se cerciorará que los peritos y testigos permanezcan separados entre sí mientras sean llamados a declarar; hecho lo anterior declarará abierta la audiencia de juicio;
+
+II.- Abierta la audiencia, se recibirán los medios de prueba, de preferencia, en el orden que fueron ofrecidos. Así como los relativos a la objeción de documentos.
+
+El juez dejará de recibir las pruebas que no se encuentren debidamente preparadas por las partes, declarándose desiertas. No se desahogarán las pruebas en las que para tal efecto deba estar presente el oferente, perdiendo el derecho para hacerlo.
+
+Cuando se hayan solicitado informes de autoridades o particulares que no se hayan rendido, el juez impondrá los medios de apremio que procedan y, en caso de que a su juicio resulten necesarios para la decisión del asunto, les requerirá para que a la brevedad los rindan;
+
+III.- Desahogadas las probanzas, se formularán verbalmente alegatos, para lo cual se les concederá la palabra, primero al actor y después al demandado, por un tiempo prudente a juicio del juez, sin exceder de quince minutos, sin derecho a réplica: y
+
+IV.- Enseguida el juez en la propia audiencia emitirá la sentencia por escrito y explicará brevemente su contenido. En aquellos asuntos que por su complejidad lo requiera, la sentencia podrá emitirse dentro del plazo de diez días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 843.
+
+En los asuntos en los que hubiere conciliación de las partes se aplicará en lo conducente lo dispuesto por el artículo 831 de este Código.
+
+Si subsistieran puntos litigiosos se desahogarán únicamente las pruebas pertinentes a la cuestión que no hubiere sido objeto de acuerdo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO V. Disposiciones Especiales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN PRIMERA. Guarda, Custodia y Convivencia de Niños, Niñas y Adolescentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 844.
+
+Cuando la controversia se refiera exclusivamente sobre derechos relativos a la guarda, custodia y convivencia de niños, niñas y adolescentes, se aplicarán las siguientes disposiciones:
+
+I.- La demanda se desechará de plano si no se acredita con documental pública el derecho del demandado referente al ejercicio de la patria potestad o a la guarda y custodia de los niños, niñas y adolescentes; y
+
+II.- Las partes deberán acudir personalmente a la fase previa de conciliación y audiencia preliminar, sin perjuicio de su derecho a asistirse por abogado patrono o mandatario judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 845.
+
+Las controversias que se susciten con motivo de una sentencia emitida previamente en un procedimiento oral o escrito, relativa al cambio de guarda, custodia y convivencia de niños, niñas y adolescentes, deberán tramitarse por el procedimiento oral ordinario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. Cambio de Vía en Divorcio Necesario
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 846.
+
+En los asuntos relacionados con divorcio necesario, desde la fase de conciliación previa a la audiencia preliminar y hasta la etapa de alegatos de la audiencia de juicio, las partes conjunta y verbalmente, podrán solicitar el cambio de vía, siempre que expresen su voluntad de disolver su vínculo matrimonial por mutuo consentimiento.
+
+De ser posible, presentarán o concertarán en la propia audiencia, el convenio a que se refiere el artículo 857 de este Código. En caso contrario, se concederá a las partes un plazo de tres días para que lo presenten, suspendiendo la audiencia respectiva.
+
+En la audiencia o reanudada ésta, el juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan. De encontrarlo ajustado a la ley y de estar garantizados los derechos de los niños, niñas, adolescentes e incapaces, el juez en los términos de la fracción IV del artículo 842 de este Código, dictará resolución disolviendo el vínculo matrimonial, aplicando las disposiciones para el divorcio por mutuo consentimiento.
+
+La sentencia que decrete el divorcio será irrecurrible, la que lo niegue es apelable en ambos efectos.
+
+Si por cualquier causa no se llegare a un convenio, se continuará con la audiencia respectiva a partir de la etapa en que hubiese sido suspendida.
+
+La solicitud de cambio de vía no constituye perdón tácito en relación a los hechos del divorcio necesario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 847.
+
+No procederá el cambio de vía en aquellos asuntos en que además del divorcio se controvierta la pérdida de la patria potestad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN TERCERA. De los Alimentos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 848.
+
+En el auto que admita la demanda y cuando no se haya decretado en una medida precautoria, el juez fijará de oficio una pensión alimenticia provisional, contra la cual no se admitirá recurso alguno. Para la determinación y cumplimiento de la pensión provisional, se observará lo establecido en el artículo 402 de este Código.
+
+Si no se cumpliere con la ministración de la pensión provisional fijada se manifestará así al juez del conocimiento, abriéndose el incidente respectivo conforme al Capítulo Sexto del Título Primero del presente Libro. El pago sólo se acreditará con prueba documental, de lo contrario se entregarán de inmediato los frutos, productos, ganancias o ingresos que generen los bienes embargados o intervenidos y, en caso de que no se produzcan, se procederá al remate de dichos bienes, aplicándose en lo conducente las disposiciones del Capítulo Séptimo del Título Sexto del Libro Segundo, de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 849.
+
+La sentencia que decrete los alimentos, se comunicará sin demora a la persona física o moral de quien perciba el ingreso el deudor alimentario, para que se haga entrega de la misma al que exige los alimentos.
+
+El embargo trabado para garantizar el pago de la pensión provisional, se tendrá por definitivo, pudiendo ampliarse el mismo y procederse, de ser el caso, al remate para cubrir el pago de las pensiones provisionales adeudadas y la que se fije en la sentencia.
 
 La pensión provisional se seguirá otorgando hasta en tanto no se haga efectiva la sentencia condenatoria.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Art. 774.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-La sentencia en que se nieguen los alimentos será apelable en ambos efectos y la que los concede sólo en el efecto devolutivo.
+###### Artículo 850.
+
+La sentencia que niegue los alimentos será apelable en ambos efectos y la que los conceda sólo en el efecto devolutivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 851.
+
+Las controversias que se susciten con motivo de una sentencia emitida previamente en un procedimiento oral o escrito, relativas al aumento, disminución, cancelación y suspensión de pensión alimenticia, deberán tramitarse por el procedimiento oral ordinario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO TERCERO. DEL PROCEDIMIENTO ORAL ESPECIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. Del Procedimiento Oral Especial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 852.
+
+Se tramitarán en el procedimiento oral especial los asuntos relativos a:
+
+I.- Divorcio por mutuo consentimiento;
+
+II.- Enajenación y transacción de derechos patrimoniales de niños, niñas, adolescentes, incapaces y ausentes;
+
+III.- Adopción; y
+
+IV.- Restitución internacional de menores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. Disposiciones Comunes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 853.
+
+Las solicitudes contendrán, en lo conducente, los requisitos que para la demanda establece el artículo 331 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 854.
+
+Los interesados deberán ofrecer desde la solicitud inicial las pruebas que sirvan para demostrar su pretensión.
+
+Radicada la solicitud el juez se pronunciará sobre la admisión de las pruebas ofrecidas y citará personalmente a la audiencia de juicio, la cual deberá celebrarse dentro de los diez días siguientes. La oportuna preparación de las pruebas correrá a cargo del solicitante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 855.
+
+La audiencia de juicio, con excepción de lo dispuesto en el artículo 886, contendrá las siguientes etapas:
+
+I.- Desahogo de pruebas;
+
+II.- Alegatos; y
+
+III.- Sentencia.
+
+En esta audiencia se aplicarán, en lo conducente, las disposiciones relativas al desahogo de pruebas y alegatos previstas en la audiencia de juicio de los procedimientos orales ordinarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 856.
+
+Concluida la etapa de alegatos, el juez emitirá la sentencia por escrito y expondrá brevemente su contenido. Excepcionalmente podrá emitirse dentro del plazo de cinco días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. Divorcio por Mutuo Consentimiento
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 857.
+
+En la solicitud de divorcio por mutuo consentimiento los cónyuges deberán presentar el acta de matrimonio, las actas de nacimiento de los promoventes y de sus hijos menores. Asimismo, acompañarán el convenio relativo a la custodia de los hijos menores o incapaces, y a los alimentos en su caso.
+
+Si no se anexa el convenio y éste fuere necesario porque existan hijos menores o incapaces, no podrá citarse a la audiencia de juicio. El juez los requerirá para que lo exhiban en un término no mayor de tres días, de no hacerlo la solicitud se tendrá por no interpuesta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 858.
+
+A la audiencia de juicio deben comparecer personalmente los cónyuges quienes ratificarán su solicitud y, en su caso, el convenio a que se refiere el artículo anterior. Si alguno o ambos cónyuges no asisten, se entenderá que se desisten de su pretensión.
+
+El juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan en la propia audiencia. De encontrarlo ajustado a la ley y de estar garantizados los derechos de menores e incapaces el juez dictará sentencia aprobando el convenio y disolviendo el vínculo matrimonial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 859.
+
+El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 860.
+
+La sentencia que decrete el divorcio por mutuo consentimiento será irrecurrible, la que lo niegue es apelable en ambos efectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 861.
+
+Ejecutoriada la sentencia de divorcio el tribunal mandará remitir copia de ella a la oficina del Registro Civil de su jurisdicción, a la del lugar en que el matrimonio se haya efectuado y a las de los lugares de nacimiento de los divorciados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. Enajenación y Transacción de Derechos Patrimoniales de Niños, Niñas, Adolescentes, Incapaces y Ausentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 862.
+
+Será necesaria licencia judicial para la venta de los bienes que pertenezcan a niños, niñas, adolescentes o incapaces, y correspondan a las clases siguientes:
+
+I.- Bienes raíces;
+
+II.- Derechos reales;
+
+III.- Alhajas y muebles preciosos; y
+
+IV.- Títulos valor de sociedades mercantiles y cualquier instrumento de inversión, cuyos valores excedan de cinco mil pesos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 863.
+
+Para decretar la venta de bienes se necesita que, al pedirse, se expresen el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga y, que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 864.
+
+Cuando la solicitud la realicen quienes ejercen la patria potestad, la autorización judicial se substanciará con el Ministerio Público y con un tutor especial que, para el efecto, nombre el juez desde el auto de radicación.
+
+Si fuere el tutor quien solicitare la venta, el procedimiento se sustanciará con la asistencia del curador, además del Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 865.
+
+Al hacer la promoción los interesados deberán proponer, las bases del remate en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
+
+El perito que se designe para hacer el avalúo será nombrado por el juez, en la propia sentencia.
+
+La base de la primera almoneda, si es bien raíz, será el precio fijado por el perito, y la postura legal no será menor de las dos terceras partes de ese precio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 866.
+
+Respecto de las alhajas y muebles preciosos, el juez determinará si conviniere o no la subasta, atendiendo en todo a la utilidad que resulte al niño, niña, adolescente o incapaz; si se decreta, se hará por conducto del Monte de Piedad o institución análoga; de lo contrario, se procederá conforme al artículo 545 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 867.
+
+El remate de los inmuebles se hará conforme a los artículos del 516 al 545, y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
+
+Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del interesado, a una junta, dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 868.
+
+Para la venta de títulos valor de sociedades mercantiles e instrumentos de inversión, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en el mercado el día de la venta, y por conducto de corredor público, si no lo hay, de comerciante establecido y acreditado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 869.
+
+En tratándose de la solicitud promovida por el tutor, el precio de la venta se entregará al mismo, si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 870.
+
+El juez señalará un término prudente al tutor o a quien ejerza la patria potestad para que justifique la inversión del precio de la enajenación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 871.
+
+Para gravar los bienes inmuebles de los niños, niñas, adolescentes o incapaces o consentir la extinción de derechos reales, serán aplicables en lo conducente las condiciones previstas en el presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 872.
+
+Para recibir dinero prestado en nombre de los niños, niñas, adolescentes o incapaces, necesita el tutor la conformidad del curador y la autorización judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 873.
+
+Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, niños, niñas, adolescentes o incapaces.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO V. Adopción
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 874.
+
+El que pretenda adoptar a alguna persona deberá acreditar las exigencias de los artículos 448 y 451 del Código Civil para el Estado de Guanajuato.
+
+En la promoción inicial deberá manifestar el tipo de adopción que se promueva; el nombre, edad y domicilio del niño, niña, adolescente o incapaz; el nombre, edad y domicilio de quienes ejerzan sobre él la patria potestad o la tutela; y, el nombre y domicilio de la institución de asistencia o beneficencia que lo haya acogido, debiendo anexar el certificado de idoneidad, así como los antecedentes de la persona ó adoptar.
+
+Si el promovente no presenta el certificado de idoneidad, pero acredita que cumplió con los requisitos ante el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, para su obtención, y éste no se lo ha expedido dentro del plazo de treinta días anteriores a la presentación de la promoción, el juez requerirá a dicho Sistema para que en un plazo no mayor de quince días lo presente.
+
+De igual forma, deberá ofrecer prueba testimonial y documental para acreditar los antecedentes del menor o incapacitado y que la adopción es benéfica para el adoptado.
+
+En el auto de radicación el juez ordenará citar a la audiencia de juicio a quien ejerce la patria potestad o tutela sobre la persona a adoptar, a el o los solicitantes de la adopción y al Ministerio Público.
+
+A la audiencia podrá citarse a un representante del órgano colegiado del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato establecido para atender el tema de adopción.
+
+El juez citará a la audiencia al adolescente a adoptar si tuviere más de catorce años, para recabar su consentimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 875.
+
+En la audiencia de juicio el juez deberá imponer a el o los solicitantes de los deberes que genera la adopción, a efecto de que ratifiquen su intención de adoptar.
+
+El juez hará saber a quienes ejercen la patria potestad o tutela sobre el niño, niña. adolescente o incapaz, la necesidad de que otorguen su consentimiento con la adopción conforme al artículo 452 del Código Civil para el Estado de Guanajuato, imponiéndoles de las consecuencias que ello conlleva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 876.
+
+Cumplidos los requisitos que se exigen en este Capítulo, el juez pronunciará la sentencia que corresponda. Ejecutoriada la resolución judicial que autorice la adopción se remitirá al Oficial del Registro Civil las (sic) constancia en los términos de los artículos 88, 458 y 464 del Código Civil para el Estado de Guanajuato según corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 877.
+
+Cuando el procedimiento se refiera al cambio de la adopción simple a plena que soliciten el adoptante o los adoptantes, el juez citará a los solicitantes y a quien habrá de otorgar su consentimiento en los términos del artículo 464-J del Código Civil para el Estado de Guanajuato, a la audiencia de juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 878.
+
+Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a la audiencia de juicio, en la que resolverá conforme a lo dispuesto en el Código Civil para el Estado de Guanajuato.
+
+Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al Ministerio Público. Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pueden rendirse toda clase de pruebas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO VI. De la Restitución Internacional de Menores
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 879.
+
+El procedimiento que regula este Capítulo tiene por objeto garantizar la restitución inmediata de menores que teniendo su residencia habitual en otro país, fueren trasladados o retenidos ilícitamente en el Estado; así como hacer efectivos los derechos de visita y convivencia que se hubieren decretado en otro país signante del Convenio o la Convención Internacional de la materia.
+
+Se entiende por Convenio al Convenio Sobre los Aspectos Civiles de la Sustracción Internacional de Menores y por Convención Internacional a la Convención Interamericana sobre Restitución Internacional de Menores.
+
+Para los efectos de este procedimiento, se considera menor a toda persona que no ha alcanzado la edad de dieciséis años.
+
+Se considera que el traslado o retención de un menor es ilícito en los supuestos que señalen el Convenio o la Convención Internacional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 880.
+
+A la solicitud de restitución, no le serán aplicables los requisitos que para la demanda prevé el artículo 331 de este Código.
+
+El juez, al recibir la solicitud de restitución por parte de la autoridad central de nuestro país, verificará que se satisfagan los requisitos siguientes:
+
+I.- Que quien solicite la restitución haya acreditado ante la autoridad central del país requirente, que ejercía individual o conjuntamente, los derechos de custodia o guarda del menor, inmediatamente antes de ocurrir su traslado o retención ilegal;
+
+II.- Información relativa a la identidad del solicitante, del menor y de la persona que se alega que ha sustraído o retenido al menor;
+
+III.- La fecha de nacimiento del menor, cuando sea posible obtenerla;
+
+IV.- Los motivos en que se basa el solicitante para reclamar la restitución del menor;
+
+V.- Toda la información disponible relativa a la localización del menor y la identidad de la persona con la que se supone que está el menor; y
+
+VI.- La solicitud podrá ir acompañada o complementada por documentación que acredite los derechos de custodia o de visita, tales como:
+
+a) Copia auténtica de toda decisión o acuerdo judicial o administrativo pertinentes; y
+
+b) Certificación o declaración jurada expedida por una autoridad central o por otra autoridad competente del país donde el menor tenga su residencia habitual o por una persona calificada con respecto al derecho vigente en esta materia de dicho país.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 881.
+
+Tratándose del procedimiento para hacer efectivos los derechos de visita y convivencia que se hubieren decretado en otro país signante del Convenio o la Convención Internacional de la materia, se aplicarán en lo conducente los requisitos señalados en el artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 882.
+
+Si no se satisfacen los requisitos necesarios para dar trámite a la solicitud de restitución, se devolverá la misma a la autoridad central mexicana, señalando las deficiencias que contenga la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 883.
+
+En el procedimiento a que se refiere el presente Capítulo el juez podrá adoptar las medidas siguientes:
+
+I.- Localizar al menor trasladado o retenido de manera ilícita; y
+
+II.- En caso de que exista riesgo de ocultación o traslado del menor por alguno de los padres, tutores o por terceras personas, podrá:
+
+a) Prohibir la salida del menor del territorio nacional, sin autorización judicial previa;
+
+b) Solicitar a la autoridad competente el no expedir el pasaporte al menor o retenerlo si ya se hubiere expedido;
+
+c) Asegurar la custodia o guarda provisional del menor atendiendo a las circunstancias y condiciones particulares del caso; y
+
+d) Cualquier otra tendiente a evitar el ocultamiento o cambio furtivo de domicilio del menor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 884.
+
+Admitida la solicitud se ordenará correr traslado en forma personal al sustractor, retenedor o la persona que ejerza materialmente la custodia del menor, para que en el término de tres días dé contestación por escrito, en la que ofrecerá en su caso las pruebas que estime pertinentes.
+
+En caso de oposición, sólo podrá hacer valer las excepciones que limitativamente señalen el Convenio o la Convención Internacional.
+
+Asimismo, no se admitirán incidentes ni reconvenciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 885.
+
+Si en la contestación se ofrecieren pruebas, el juez se pronunciará sobre su admisión o desechamiento y citará a la audiencia única de conciliación y juicio, la que deberá celebrarse dentro de los diez días siguientes.
+
+La preparación y desahogo de pruebas corre a cargo del oferente.
+
+Transcurrido el término concedido sin que haya sido contestada la solicitud, o contestada no ofreciere pruebas, el juez de igual forma citará a la audiencia referida en el primer párrafo de este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 886.
+
+La audiencia única de conciliación y juicio contendrá las siguientes etapas:
+
+I.- Conciliación en la que se procurará la restitución voluntaria del menor;
+
+II.- Ofrecimiento y admisión de pruebas del solicitante en su caso;
+
+III.- Desahogo de pruebas;
+
+IV.- Alegatos; y
+
+V.- Sentencia.
+
+En esta audiencia el juez deberá escuchar la opinión del menor con edad y grado de madurez suficiente para tener en cuenta su opinión.
+
+La audiencia se celebrará con o sin la asistencia de los interesados. La ausencia del Ministerio Público, no implicará el diferimiento o suspensión de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 887.
+
+Si comparece el requerido y accediere a la restitución voluntaria del menor, el juez dará por concluido el procedimiento y ordenará su entrega a la persona o institución que determine.
+
+Si no se lograre la restitución voluntaria, el juez procederá al desahogo de pruebas, aplicando en lo conducente, las disposiciones relativas al desahogo de pruebas previstas en la audiencia de juicio de los procedimientos orales ordinarios.
+
+Concluida la recepción de las pruebas, se pasará a la etapa de alegatos y sentencia conforme a las reglas previstas para la audiencia de juicio oral especial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 888.
+
+En esta clase de procedimientos no habrá lugar a la condenación en costas procesales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 889.
+
+En este procedimiento únicamente la sentencia en la que se decida sobre si procede o no la restitución es recurrible, a través del recurso de apelación en ambos efectos, que se hará valer en el término de tres días.
+
+El trámite y la substanciación del recurso de apelación se sujetará a las disposiciones del Capítulo Segundo del Título Sexto del Libro Primero de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 890.
+
+En caso de que se apele la sentencia, se notificará a la autoridad central para que a su vez lo haga del conocimiento del solicitante y de la autoridad central del país solicitante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO CUARTO. DE LOS RECURSOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO. Recursos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 891.
+
+Las resoluciones que se emitan dentro de los juicios orales serán impugnables a través del recurso de revocación, apelación o denegada apelación, según corresponda, los que se tramitarán y sustanciarán conforme a las disposiciones del Título Sexto del Libro Primero de este Código, con excepción de las reglas especiales previstas en el presente Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 892.
+
+Los decretos y autos pronunciados en las audiencias que no se contemplen como revocables o apelables en el presente Capítulo, serán irrecurribles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 893.
+
+Dentro de las audiencias en los juicios orales, el recurso de revocación sólo procede en contra de las siguientes resoluciones:
+
+I.- La que no admita prueba; y
+
+II.- La que declare o niegue tener por confesa a alguna de las partes.
+
+La revocación deberá plantearse oralmente expresando los agravios, dentro de la etapa de la audiencia en que se hubiere pronunciado la resolución recurrida. El juez dará vista a la contraria para que en el acto la desahogue y resolverá sin más trámite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 894.
+
+Dentro de la audiencia en los juicios orales la apelación sólo procede en contra de:
+
+I.- El auto que resuelva sobre excepciones procesales y cosa juzgada;
+
+II.- Los autos que resuelvan incidentes de nulidad de actuaciones y notificaciones y el de recusación de peritos;
+
+III.- Las sentencias o resoluciones que pongan fin al juicio; y
+
+IV.- La determinación que niegue alguna medida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 895.
+
+La apelación debe interponerse ante el tribunal que haya pronunciado la resolución, dentro de los siguientes plazos:
+
+I.- Cinco días siguientes al en que surta efectos su notificación, tratándose de sentencias;
+
+II.- Tres días siguientes al en que surta efectos su notificación, si se tratare de cualquier otra resolución dictada fuera de las audiencias preliminar y de juicio; y
+
+III.- En la propia audiencia, dentro de la etapa en que la resolución se hubiere pronunciado.
+
+Los agravios se formularán por escrito. En los supuestos de las fracciones I y II se expresarán al interponerse el recurso. En el caso de la fracción III se expresarán dentro de los tres días siguientes a que se haya pronunciado la resolución. Si no se presenta el escrito de agravios, el juez declarará desierto el recurso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 896.
+
+La denegada apelación debe interponerse dentro de los siguientes plazos:
+
+I.- Tres días siguientes al en que surta efectos la notificación del acuerdo denegatorio, en aquellas resoluciones que se hayan pronunciado fuera de las audiencias preliminar y de juicio; y
+
+II.- En la propia audiencia, dentro de la etapa en que se hubiere pronunciado el acuerdo denegatorio.
+
+Los agravios se formularán por escrito. En el supuesto de la fracción I se expresarán al interponerse el recurso. En el caso de la fracción II se expresarán dentro de los tres días siguientes a que se haya pronunciado la resolución. Si no se presenta el escrito de agravios, el juez declarará desierto el recurso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 897.
+
+Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial, o por una violación procesal, siempre que se haya expresado como agravio y que haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores, se estime necesario el desahogo de medios probatorios.
 
 ## TRANSITORIOS.
 
@@ -5641,7 +7095,7 @@ El Secretario Gral. del Gobierno,
 
 Lic. Ramón Santoyo.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE JUNIO DE 1952.
 
@@ -5661,7 +7115,7 @@ Segundo.- Este decreto entrará en vigor a partir de la fecha de su publicación
 
 P.O. 23 DE AGOSTO DE 1959.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
 
 P.O. 16 DE JUNIO DE 1968.
 
@@ -5857,9 +7311,9 @@ Una vez que se instale el Juzgado mixto de primera instancia de nueva creación,
 
 P.O. 11 DE FEBRERO DE 1997.
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
-EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 P.O. 1 DE ABRIL DE 1997.
 
@@ -5934,3 +7388,31 @@ Artículo Tercero. Los juicios actualmente en trámite que tengan por objeto el 
 P.O. 4 DE SEPTIEMBRE DE 2009.
 
 Artículo Único. El presente Decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial para el Estado de Guanajuato.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Decreto iniciará su vigencia previa su publicación en el Periódico Oficial del Gobierno del Estado, en la forma y fecha dispuestas en los artículos transitorios siguientes.
+
+Articulo Segundo. La reforma a los artículos 62, 66, 107. 122, 224, 248, 268, 275, 307, 314, 315 y 318-A del Código de Procedimientos Civiles para el Estado de Guanajuato, y la del segundo párrafo del artículo 5 de la Ley sobre Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, entrarán en vigor de manera progresiva por partidos judiciales:
+
+I. El 1 de agosto de 2012 en Celaya, Cortazar, Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato, Irapuato, León, Salamanca, San Francisco del Rincón, San Miguel de Allende y Silao.
+
+II. El 1 de enero de 2013 en el resto de los partidos judiciales establecidos por el Consejo del Poder Judicial.
+
+Artículo Tercero. La incorporación en el sistema procesal civil de los juicios orales en materia familiar a que se refiere el Libro Sexto que se adiciona al Código de Procedimientos Civiles, será progresiva, por partidos judiciales:
+
+I. El 1 de agosto de 2012 en Guanajuato.
+
+II. El 1 de enero de 2013 en Celaya, Irapuato y Salamanca.
+
+III. El 1 de septiembre de 2013 en León.
+
+IV. El 1 de marzo de 2014 en el resto del Estado de acuerdo a la distribución que determine el Consejo del Poder Judicial, la que podrá ser por región o por partido.
+
+En las fechas y partidos judiciales referidos, quedarán derogados los preceptos que se determinan en el Artículo Primero del presente Decreto.
+
+Artículo Cuarto. Los juicios de divorcio por mutuo consentimiento; guarda y custodia de menores y ejercicio de la patria potestad; enajenación de bienes de menores e incapacitados y transacción acerca de sus derechos; adopción; y del pago o aseguramiento de alimentos; que se encuentren actualmente en trámite, continuarán substanciándose conforme a las reglas con las que hayan sido admitidos.
+
+Artículo Quinto. Las reformas y adiciones sobre los juicios orales sólo serán aplicables a los nuevos procedimientos que se inicien a partir de su entrada en vigor.
+
+Artículo Sexto. Los centros de convivencia a que se refiere la Sección Segunda del Capítulo VII del Título Primero del Libro Sexto del presente Código, estarán en funcionamiento a la entrada en vigor las presentes reformas y adiciones, conforme a su disponibilidad presupuestaria.
