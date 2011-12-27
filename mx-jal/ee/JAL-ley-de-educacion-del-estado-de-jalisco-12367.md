@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2011-12-15"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE ENERO Y 21 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -89,11 +89,11 @@ La educación preescolar, primaria y secundaria podrá cursarse tanto en las esc
 
 El Gobierno del Estado está obligado a prestar y promover servicios educativos con el fin de que la población pueda cursar la educación preescolar, primaria, secundaria y media superior, además procurará en lo posible capacitar para el trabajo. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 7o.
 
-La educación que imparta el estado de Jalisco, sus municipios y sus organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3º. de la Constitución Federal y en la Ley General de Educación, los siguientes:
+La educación que impartan el Estado de Jalisco, sus municipios y sus organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3°. de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
 
@@ -125,9 +125,9 @@ X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimi
 
 XI.- Impulsar la educación física y la práctica del deporte escolar;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud. Educar para la paternidad responsable y el conocimiento integral de la sexualidad, sin menoscabo de la libertad y del respeto absoluto de la dignidad humana;
+XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia, sobre la preservación de la salud, la planificación familiar, la paternidad responsable, y el conocimiento integral de la sexualidad, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
 XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza;
 
@@ -145,13 +145,17 @@ XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través d
 
 XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones (sic) que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
+XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adicciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
 
-(ADICIONADA, P.O. 22 DE ABRIL DE 2006) (F. DE E., P.O. 30 DE DICIEMBRE DE 2006)
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el Estado de Jalisco;
+XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el estado de Jalisco, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+XXI.- Divulgar el desarrollo económico, cultural y social de las diversas regiones del estado, en particular en aquellas regiones donde el grado de migración social es alto o muy alto, fomentando la concientización del estudiante como parte de una sociedad jalisciense en constante crecimiento, buscando generar un sentido de pertenencia y confianza en el estado.
 
 ###### ARTICULO 8o.
 
@@ -351,9 +355,15 @@ XXXI. Difundir los derechos de las niñas, los niños y adolescentes, así como 
 
 > <small>(ADICIONADA, P.O. 23 DE ENERO DE 2007)</small>
 
-XXXII.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos y su familia, el consumo de alimentos con alto valor nutricional, así como establecer lineamientos generales para evitar la venta de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas; y
+XXXII.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos y su familia, el consumo de alimentos con alto valor nutricional, así como establecer lineamientos generales para evitar la venta de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas; y (sic)
 
-XXXIII.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+XXXIII.- Elaborar los principios y las metodologías para fomentar la cultura educativa científica en la educación básica.
+
+En el caso de que una obra científica o tecnológica sea reconocida como innovadora, coadyuvar y asesorar en el registro de la invención su procedimiento, metodología y patente, reconociendo la participación del profesor, el alumno y el plantel escolar, y
+
+XXXIV.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
@@ -399,15 +409,15 @@ VII.- Establecer y sostener servicios de vigilancia escolar;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los Consejos Escolares, la realización de programas de educación para la salud y mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
+VIII. Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los Consejos Escolares, la realización de programas de educación para la salud y mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-IX.- Promover y coordinar con los Consejos Municipales de Participación Social en la Educación y los Consejos Escolares, la realización de programas de educación en fomento de acciones de participación, coordinación y difusión de la cultura de protección civil y la emergencia escolar, y
+IX. Promover y coordinar con los Consejos Municipales de Participación Social en la Educación y los Consejos Escolares, la realización de programas de educación en fomento de acciones de participación, coordinación y difusión de la cultura de protección civil y la emergencia escolar, y
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
-X.- Todas aquellas que en forma específica les asignen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Local y las disposiciones de la presente Ley.
+X. Todas aquellas que en forma específica les asignen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Local y las disposiciones de la presente Ley.
 
 ###### ARTICULO 20.
 
@@ -1920,5 +1930,17 @@ P.O. 17 DE MAYO DE 2011.
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO No. 23912/LIX/11 POR EL QUE SE REFORMA EL ARTÍCULO 7° DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 23923/LIX/11, POR EL QUE SE ADICIONA LA FRACCIÓN XXXIII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN, DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
