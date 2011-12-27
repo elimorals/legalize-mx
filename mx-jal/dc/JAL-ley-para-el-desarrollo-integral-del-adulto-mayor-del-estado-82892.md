@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2011-10-18"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -147,27 +145,59 @@ VII. Participación: la inserción de los adultos mayores en todos los órdenes 
 
 I. De la integridad, dignidad y preferencia:
 
-a) A una vida libre, sin violencia, con respecto a la integridad sexual, maltrato físico o mental, con la finalidad de asegurarles respeto a su integridad física y psicoemocional;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-b) A la protección contra toda forma de explotación, del aislamiento y la marginación;
+a) El respeto de sus derechos humanos estipulados por los organismos correspondientes nacionales e internacionales, mediante los tratados y convenciones internacionales;
 
-c) A recibir protección y buen trato por parte de la familia, de las instituciones públicas y privadas y de la sociedad en general;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-d) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos, entre estos el de elegir su lugar de residencia, preferentemente cerca de sus familiares, hasta el último momento de su existencia;
+b) A no ser objeto de discriminación alguna, por lo que la observancia a sus derechos se hará sin distinción;
 
-e) A contar con espacios libres de barreras arquitectónicas para el fácil acceso y desplazamiento;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-f) A recibir un trato preferencial, digno y apropiado en relación con prestaciones y servicios en cualquier procedimiento que desahoguen ante las autoridades municipales y estatales;
+c) Gozar, en igualdad de circunstancias, de oportunidades para mejorar sus capacidades, con el propósito de que ello facilite el ejercicio de sus derechos, respetando su heterogeneidad;
 
-g) A recibir representación, asesoría y asistencia jurídica en forma gratuita cuando no tengan los medios necesarios para hacerlo, ya sea en los procedimientos administrativos o judiciales en la materia en que sean parte y por los organismos o autoridades competentes, según sea el caso, y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-h) A recibir la atención adecuada por las instituciones públicas y privadas y de la sociedad en general, para no ser discriminados por su edad, raza, color o condición social.
+d) A una vida con calidad, libre y sin violencia o maltrato físico o mental, con la finalidad de asegurarle respeto a su integridad física, psicoemocional y sexual;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+e) A la protección contra toda forma de explotación, del aislamiento y la marginación
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+f) A recibir protección por parte de la familia y la sociedad, así como de las instituciones estatales y municipales;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+g) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos, entre estos el de elegir su lugar de residencia, preferentemente cerca de sus familiares, hasta el último momento de su existencia;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+h) A contar con espacios libres de barreras arquitectónicas, para el fácil acceso y desplazamiento;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+i) A recibir un trato preferencial, digno y apropiado en relación con prestaciones y servicios en cualquier procedimiento que desahoguen ante las autoridades municipales y estatales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+j) A recibir representación, asesoría y asistencia jurídica en forma gratuita cuando no tengan los medios necesarios para hacerlo, ya sea en los procedimientos administrativos o judiciales en la materia en que sean parte y por los organismos o autoridades competentes, según sea el caso, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+k) A recibir la atención adecuada por las instituciones públicas y privadas y de la sociedad en general, para no ser discriminados por su edad, raza, color o condición social.
 
 II. De la salud, la alimentación y la familia:
 
 a) A tener acceso a los satisfactores necesarios, considerando: alimentos, bienes, servicios, salud y condiciones humanas o materiales para su atención integral, en especial las que prestan las instituciones del sistema estatal de salud;
 
 b) A tener acceso preferente a los servicios de salud, de conformidad con el párrafo tercero del artículo 4.° constitucional, con el objeto de que gocen cabalmente del derecho a su bienestar físico, mental y psicoemocional;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+En el acceso a los servicios de salud, gozarán de calidad, calidez, paciencia y tolerancia en la atención en los diversos niveles del sector salud, particularmente en gerontología y geriatría;
 
 c) A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
 
@@ -177,49 +207,151 @@ e) A recibir una atención médica integral con calidad a través de acciones de
 
 f) A disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sean judicialmente declarados incapaces, y
 
-g) A recibir todos los servicios de la cartilla médica para control de su salud, en forma gratuita por parte de las instituciones públicas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+g) Contar con una cartilla médica para el control de su salud, y como parte del paquete preventivo integral. Esta deberá ser expedida por los Servicios de Salud de manera gratuita;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+h) A vivir en el seno de una familia o mantener relaciones personales solidarias y contacto directo con ella, aun en caso de estar separados, a menos que el adulto mayor no lo desee o que medie causa de enfermedad grave, contagiosa o mental que requiera de su internamiento en instituciones especializadas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+i) A vivir con decoro y dignidad, en un ambiente emocional afectivo en sus hogares con el respeto por parte de su familia, autoridades y de la sociedad en general;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+j) A acceder a una alimentación adecuada a sus circunstancias y capacidades, así como a los satisfactores necesarios para ello, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+k) A recibir apoyos en materia alimenticia cuando carezca de medios propios para ello.
 
 III. Del trabajo:
 
-a) A seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-b) A formar parte de las bolsas de trabajo de las instituciones oficiales y particulares;
+a) Gozar de igualdad de oportunidades en el acceso al trabajo o en otras opciones que les permitan un ingreso propio y un desempeño productivo;
 
-c) A recibir capacitación para desempeñarse en actividades laborales acordes con su edad y capacidad;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-d) A acceder a las oportunidades de empleo en áreas especiales en las que pueda desarrollarse dentro de las fuentes de trabajo, con horarios accesibles, de acuerdo con las prestaciones de ley y con salarios dignos.
+b) Decidir libremente sobre su actividad laboral, y a seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
 
-e) A mejorar su nivel de vida y recibir reducciones de impuestos tanto estatales como municipales, de acuerdo con lo establecido por las leyes de la materia.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+c) A formar parte de las bolsas de trabajo de las instituciones oficiales y particulares;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+d) A recibir capacitación para desempeñarse en actividades laborales acordes con su edad y capacidad;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+e) A acceder a las oportunidades de empleo en áreas especiales en las que pueda desarrollarse dentro de las fuentes de trabajo, con horarios accesibles, de acuerdo con las prestaciones de ley y con salarios dignos; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+f) A mejorar su nivel de vida y recibir reducciones de impuestos tanto estatales como municipales, de acuerdo con lo establecido por las leyes de la materia.
 
 IV. De la asistencia social:
 
-a) A ser sujetos de programas de asistencia social en caso de desempleo, discapacidad o pérdida de sus medios de subsistencia;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-b) A ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;
+a) A ser beneficiarios de programas de asistencia social cuando se encuentren en situación de riesgo, vulnerabilidad, desamparo, desempleo, discapacidad o pérdida de sus medios de subsistencia;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+b) A ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades; así como de aquellos otros apoyos que les permitan el libre desplazamiento en espacios laborales, comerciales, oficiales, recreativos y de transporte;
 
 c) A ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, si se encuentran en situación de riesgo o desamparo;
 
-d) A recibir descuentos en servicios públicos, así como en el consumo de bienes y servicios en las negociaciones y organismos afiliados a los programas de apoyo al adulto mayor;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-e) A mejorar su nivel de vida y recibir condonaciones de impuestos tanto estatales como municipales, de acuerdo con lo establecido por las leyes de la materia, y
+d) A decidir libremente el ingreso a una casa hogar o albergue, así como el ejercicio pleno de sus derechos en casos de internamientos involuntarios;
 
-f) A estar informados de las condonaciones y descuentos a que tengan derecho, y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+e) A disfrutar de los servicios públicos con perspectiva de género y con calidad y calidez, en igualdad de circunstancias que cualquier otro ciudadano;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+f) A recibir descuentos en servicios públicos, así como en el consumo de bienes y servicios en las negociaciones y organismos afiliados a los programas de apoyo al adulto mayor;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+g) A mejorar su nivel de vida y recibir condonaciones de impuestos tanto estatales como municipales, de acuerdo con lo establecido por las leyes de la materia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+h) A estar informados de las condonaciones y descuentos a que tengan derecho, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+i) A gozar de las acciones de turismo social, de conformidad con lo establecido en la Ley de Promoción Turística del Estado de Jalisco.
 
 V. De la participación:
 
-a) A participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su entorno;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+a) A participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su entorno y bienestar;
 
 b) A asociarse y conformar organizaciones de adultos mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector;
 
 c) A participar en los procesos productivos de educación y capacitación de su comunidad;
 
-d) A participar en la vida cívica, cultural y recreativa de su comunidad;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+d) A participar en la vida cívica, cultural, deportiva y recreativa de su comunidad;
 
 e) A formar parte de los diversos órganos de representación y consulta ciudadana;
 
 f) A recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al estado, y
 
-g) A formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+g) A formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+h) A contar con instalaciones e infraestructura inmobiliaria; así como con establecimientos destinados al cuidado, atención, enseñanza y entretenimiento de las personas adultas mayores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+VI. De los principios jurídicos:
+
+a) Al disfrute pleno de sus derechos, con perspectiva de género y sin discriminación ni distinción alguna, sea cual fuere su condición personal;
+
+b) A recibir un trato digno y apropiado en los procedimientos judiciales en que intervengan bajo cualquier carácter;
+
+c) A contar con asesoría jurídica gratuita por parte de las instituciones del Estado y de los municipios, así como con un representante legal cuando sea necesario; especialmente en la protección de su patrimonio personal y familiar, y
+
+d) Decidir, con capacidad de ejercicio, sobre la tutela de su persona y bienes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+VII. A la educación y la información:
+
+a) A recibir educación de conformidad con lo establecido en artículo 3.° de la Constitución Política de los Estados Unidos Mexicanos;
+
+b) A que las instituciones educativas, públicas y privadas estatales y municipales promuevan la inclusión en sus planes y programas de estudios de los adultos mayores, abonando a su capacitación y desarrollo, y
+
+c) Recibir información sobre las instituciones públicas cuya función es la de implementar programas para su atención integral y para la proyección de un plan de vida a futuro con calidad y productividad.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 6.
+
+°-Bis. El Estado promoverá las adecuaciones urbanísticas y arquitectónicas acordes con las necesidades de este sector de la población, así como campañas de difusión en materia de educación vial.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 6.
+
+°-Ter. Además de los derechos enunciados, las personas adultas mayores de setenta años de edad en adelante con una residencia de cuando menos tres años ininterrumpidos en el estado, recibirán una pensión económica equivalente a la mitad del salario mínimo mensual vigente en la zona metropolitana de Guadalajara, excepto aquellos que reciban una pensión o ayuda económica, de igual o superior monto al establecido en este ordenamiento, ya sean federales, estatales o municipales. Para el caso de las personas que reciban una pensión o ayuda económica menor a la que se establece en este ordenamiento, el Ejecutivo entregará una cantidad para que se iguale el monto.
+
+La forma como se hará valer la pensión económica, la verificación de la residencia, la elaboración y actualización permanente del padrón de beneficiarios y demás requisitos y procedimientos necesarios para el ejercicio del derecho establecido en este artículo, se fijarán en su reglamento y de acuerdo con el Presupuesto de Egresos correspondiente al ejercicio fiscal de que se trate.
+
+El titular del Poder Ejecutivo del Estado de Jalisco deberá incluir en el Proyecto de Presupuesto de Egresos del Estado de Jalisco la asignación que garantice, efectivamente, el derecho a la pensión económica a que se refiere el presente artículo.
 
 ###### Artículo 7.
 
@@ -1098,3 +1230,13 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+PRIMERO. El titular del Poder Ejecutivo estatal, conforme al Presupuesto de Egresos del Estado de Jalisco de cada ejercicio, a partir del 2012, proveerá en la esfera de su competencia de todos los elementos necesarios a fin de garantizar el derecho a la pensión a que se refiere el presente decreto.
+
+SEGUNDO. El Poder Ejecutivo adecuará el reglamento o acuerdos correspondientes para el cumplimento de las disposiciones contenidas en el presente decreto en un plazo no mayor a ciento veinte días naturales contados a partir del inicio de la vigencia del presente decreto.
+
+TERCERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
