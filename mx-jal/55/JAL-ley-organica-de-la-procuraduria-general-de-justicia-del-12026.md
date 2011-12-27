@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2011-08-13"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -249,17 +249,27 @@ III. Concertar acciones con instituciones de asistencia médica y social, públi
 
 IV. Otorgar, en coordinación con otras instituciones competentes, la atención que requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 9º.
 
-Las atribuciones en materia de servicios a la comunidad, comprenden:
+Las atribuciones en materia de servicios a la comunidad comprenden:
 
 I. Promover y desarrollar programas de colaboración comunitaria para mejorar el desempeño de la Institución;
 
 II. Proporcionar orientación jurídica a los miembros de la comunidad, para el mejor ejercicio de sus derechos;
 
-III. Promover acciones que mejoren la atención a la comunidad por parte de los servidores públicos de la Procuraduría, y
+III. Promover acciones que mejoren la atención a la comunidad por parte de los servidores públicos de la Procuraduría, y (sic)
 
 IV. Brindar información general sobre sus atribuciones y servicios, así como realizar foros públicos para optimizar los resultados de sus funciones y servicios en torno a la procuración de justicia.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+V. Contar con una base de estadística estatal que contenga información respecto de las denuncias de robo, sustracción y tráfico de infantes. Dicha base deberá ser actualizada quincenalmente, debiendo ser publicada de manera clara y sencilla, procurando en todo momento la fácil consulta y ubicación por parte (sic) los usuarios. Adicionalmente, se deberán publicar las imágenes de cada uno de los niños robados, sustraídos o traficados para que la comunidad misma pueda participar en la pronta ubicación de éstos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+La Base de Estadística Estatal sobre el Robo, Sustracción y Tráfico de Infantes podrá ser ampliada y mejorada conforme a los acuerdos de colaboración de estadística celebrados por la entidad, tanto con la Federación como con otras entidades federativas u organizaciones civiles.
 
 ###### Artículo 10.
 
@@ -782,3 +792,7 @@ P.O. 13 DE AGOSTO DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de las dependencias correspondientes, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento del presente decreto, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor de este decreto, de lo cual informará al Congreso del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
