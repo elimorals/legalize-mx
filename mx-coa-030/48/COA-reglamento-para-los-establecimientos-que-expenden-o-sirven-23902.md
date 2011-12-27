@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-los-establecimientos-que-expenden-o-sirven-2390
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-19"
-last_updated: "2010-12-21"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SALTILLO, COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de febrero de 2002.
 
@@ -91,11 +91,25 @@ Se entiende por bebidas alcohólicas, aquellas que determina la Ley General de S
 
 Además del Presidente Municipal son autoridades para los efectos de este Reglamento las siguientes dependencias o unidades administrativas:
 
-I.- Tesorería Municipal;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-II.- Dirección de Servicios Concesionados; y
+I. R. Ayuntamiento;
 
-III.- Subdirección de Alcoholes.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+II. Comisión competente;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+III. Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+IV. Dirección de Policía Preventiva Municipal, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+V. Coordinación de Alcoholes.
 
 El Reglamento Interior del Municipio de Saltillo, este Reglamento y las disposiciones que en ejercicio de sus facultades expida el Ayuntamiento o el Presidente Municipal, determinarán las atribuciones específicas de las autoridades antes señaladas y la forma de delegarlas. Las autoridades a que se refiere este artículo podrán auxiliarse de otras dependencias municipales para el cumplimiento de sus atribuciones.
 
@@ -125,9 +139,11 @@ II.- Cumplir con las normas de salud, alcoholes, higiene, desarrollo urbano, seg
 
 III.- Cumplir con las obligaciones hacendarias municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 6.
 
-Los establecimientos en donde se expendan o sirvan bebidas alcohólicas se clasifican, para efectos de la obtención de la licencia y de su funcionamiento en:
+Los establecimientos en donde se expendan y/o sirvan bebidas alcohólicas se clasifican, para efectos de la obtención de la licencia y de su funcionamiento en:
 
 I.- Abarrotes.- Establecimiento donde se expenden preponderantemente mercancías comestibles, en el cual se pueden vender bebidas fermentadas, destiladas y/o licores en envase cerrado;
 
@@ -181,7 +197,9 @@ La venta a que se refiere las fracciones VI, VII, VIII, IX, XII, XIII, XIV. XVI,
 
 Los establecimientos que cuenten con licencia de Agencia, Sub Agencia, Mayorista y Vinoteca, podrán distribuir a domicilio sus productos, pero necesariamente tendrán que realizarlo en los horarios permitidos y con vehículos plenamente identificados.
 
-La Dirección de Servicios Concesionados expedirá anualmente un acuerdo que establecerá el monto mínimo de inventario en bienes comestibles que deberán tener los negocios que tengan licencia de abarrotes, abarrotes (sic), y minisuper.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+La Coordinación de Alcoholes expedirá anualmente un acuerdo que establecerá el monto mínimo de inventario en bienes comestibles que deberán tener los negocios que tengan licencia de abarrotes, abarrotes 1 y minisuper.
 
 Los establecimientos podrán contar con el personal femenino necesario para brindar el servicio que ofrecen en razón de una por cada cuatro mesas que existan en el lugar.
 
@@ -211,37 +229,43 @@ Los establecimientos previstos en el artículo 6 de este ordenamiento deberán, 
 
 ### CAPÍTULO TERCERO. DEL FUNCIONAMIENTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 10.
 
-Los establecimientos que conforme a este Reglamento tengan licencia para la venta de bebidas alcohólicas, se sujetarán a los siguientes horarios:
+Los establecimientos que conforme a este reglamento tengan licencia para la venta de bebidas alcohólicas, se sujetarán a los siguientes horarios:
 
-I.- Lugares que cuenten con licencias para Bar y Cantina, Clubes Social o Deportivos, Hotel y Motel, Ladies Bar, Restaurante, Fonda, Taquería y Lonchería, Restaurante Bar y Salones de Juego, podrán vender bebidas alcohólicas de las 09:00 a las 03:00 horas del día siguiente, de lunes a sábado. Los lugares distintos a cantina, bar y ladies bar que sólo admiten público de las 09:00 a las 03:00 horas del día siguiente, podrán ofrecer otros servicios y vender y servir otros productos distintos a los de contenido alcohólico fuera de los horarios antes señalados;
+I. De 10:00 horas a 02:00 horas del día siguiente, de lunes a sábado, aquellos lugares que cuenten con licencias para bar y cantina, club social o deportivo, hotel y motel, ladies bar, restaurante, fonda, taquería y lonchería, restaurante bar y salones de juego;
 
-II.- Lugares que cuenten con licencias para Abarrotes, Abarrotes 1, Depósito, Expendio, Minisuper y Supermercado podrán funcionar de las 09:00 a las 22:30 horas, de lunes a sábado;
+II. De 10:00 horas a 22:30 horas, de lunes a sábado, los lugares que cuenten con licencias para abarrotes, abarrotes 1, depósito, expendio, minisuper y supermercado;
 
-III.- Lugares que cuenten con licencias para Agencia, Sub Agencia, Mayorista y Vinoteca podrán tener atención al público y venta directa de las 9:00 a las 20:00 horas, pero podrán repartir utilizando sus vehículos de las 7:00 a las 22:30 horas, con excepción de los domingos, en los cuales no podrán ofrecer sus servicios; esta fracción se refiere únicamente a la venta en mayoreo a otros comercios.
+III. De las 10:00 a las 22:30 horas aquellos lugares que cuenten con licencia para agencia, sub agencia, mayorista y vinoteca, con atención al público y venta directa; pero sólo podrán realizar el reparto utilizando sus vehículos de las 09:00 a las 18:00 horas, con excepción de los domingos, en los cuales no podrán realizar reparto;
 
-IV.- Lugares que cuenten con licencia para Estadios o similares y Centros Sociales, podrán vender o servir durante el desarrollo del evento, en un período no mayor de cinco horas las que deberán estar siempre comprendidas entre las 10:00 y las 03:00 horas del día siguiente;
+IV. De las 10:00 horas a las 02:00 del día siguiente los lugares que cuenten con licencia para estadios o similares y centros sociales, podrán vender o servir durante el desarrollo del evento, en un período no mayor de cinco horas comprendido dentro del horario señalado:
 
-V.- Lugares que cuenten con licencia para Centros Nocturnos, podrán vender o servir bebidas alcohólicas de las 20:00 a las 03:00 horas del día siguiente contando con una hora de tolerancia a partir del cierre de venta de bebidas para el desalojo y desocupación del lugar de lunes a sábado; y
+V. De las 10:00 horas a las 02:00 horas del día siguiente, de lunes a sábado, aquellos lugares que cuenten con licencia para centros nocturnos, podrán vender o servir bebidas alcohólicas; y
 
-VI.- Lugares que cuenten con licencia en la Zona de Tolerancia podrán vender o servir bebidas alcohólicas de las 10:00 a las 05:00 horas del día siguiente, de lunes a sábado.
+VI. De las 10:00 a las 02:00 horas del día siguiente, de lunes a sábado, los lugares que cuenten con licencia en la zona de tolerancia, podrán vender o servir bebidas alcohólicas.
 
-Los establecimientos a que se refiere este Reglamento podrán abrir antes del horario señalado para surtir mercancías, organizar labores administrativas o de limpieza, quedando prohibida la venta de bebidas alcohólicas y el ingreso de clientes fuera de los horarios establecidos.
+Los establecimientos a los que se refiere este reglamento podrán abrir antes del horario señalado para surtir mercancías, organizar labores administrativas o de limpieza. Los clubes sociales, deportivos, hoteles, moteles, restaurantes, fondas, taquerías, loncherías, restaurantes bar y salones de juego, podrán permitir el ingreso de clientes fuera de los horarios establecidos, pero en ese tiempo bajo ningún motivo podrán venderse o servirse bebidas alcohólicas.
 
-Por disposición del Cabildo a propuesta del Presidente Municipal o de la Comisión de Alcoholes, se podrán disminuir los horarios en áreas o zonas de la ciudad para mejorar la seguridad, imagen urbana o garantizar la tranquilidad de los vecinos.
+Por disposición del Cabildo, a propuesta del Presidente Municipal o de la Comisión de Alcoholes, se podrán disminuir los horarios en áreas o zonas de la ciudad para mejorar la seguridad, imagen urbana o garantizar la tranquilidad de los vecinos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 11.
 
 Por lo que respecta al día domingo, se autoriza a vender o servir bebidas alcohólicas, en la siguiente forma:
 
-I.- En los establecimientos que cuenten con licencias para Clubes Social o Deportivo, Hotel y Motel, Restaurante y Fonda, Restaurante Bar y Salones de Juego, se podrá expender o servir según sea el caso de las 09:00 hasta las 23:00 horas;
+I. En los establecimientos que cuenten con licencias para clubes social o deportivo, hotel y motel, restaurante y fonda, restaurante bar y salones de juego, se podrá expender o servir, según sea el caso, de las 10:00 a las 22:00 horas, dicha venta será limitada a tres bebidas por persona y tendrá que ser acompañada de alimentos preparados.
 
-II.- En los establecimientos que cuenten con licencias para Estadios o similares se podrá expender durante el desarrollo del evento y en los horarios autorizados en el artículo anterior;
+II. En los establecimientos que cuenten con licencia para estadios o similares, se podrá expender durante el desarrollo del evento bajo el criterio de la fracción IV del artículo anterior: y
 
-III.- De las 0:00 a las 03:00 horas en los casos que señalan las fracciones I, IV, y V del artículo anterior y de las 0:00 a las 05:00 horas en el supuesto señalado en la fracción VI del citado artículo; y
-
-IV.- En el mes de diciembre y enero con motivo de las fiestas navideñas y el inicio de un nuevo año el Ayuntamiento con el voto calificado de sus integrantes podrá autorizar la apertura de algunos de los giros que señala este Reglamento.
+III. En los establecimientos que cuenten con licencias para abarrotes, abarrotes 1, minisuper y supermercado, podrán vender bebidas alcohólicas de las 10:00 a las 12:00 horas.
 
 ###### ARTÍCULO 12.
 
@@ -257,9 +281,11 @@ Los establecimientos señalados en las fracciones I, II, VII, XII. XIII, XV, XVI
 
 Los propietarios de los establecimientos son responsables de mantener el orden en el interior de los mismos, evitar actos inmorales o la comisión de ilícitos debiendo hacer del conocimiento de la autoridad responsable cualquiera de las circunstancias anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 14.
 
-Los servidores públicos de las dependencias a que se refiere el artículo 3 de este ordenamiento, en el ejercicio de sus funciones, tendrán acceso libre a los establecimientos regulados por este Reglamento para realizar labores de inspección y vigilancia. La resistencia para evitar éstas será motivo de arresto y clausura.
+Los servidores públicos de las dependencias a que se refiere el artículo 3 de este ordenamiento, en el ejercicio de sus funciones tendrán acceso libre a los establecimientos regulados por este reglamento para realizar labores de inspección y vigilancia, la resistencia para evitar éstas será motivo de arresto y clausura.
 
 Al momento de realizar la visita el servidor publico deberá:
 
@@ -285,17 +311,25 @@ f).- Señalamiento de los artículos aplicables al caso concreto y la sanción q
 
 g).- Apartado de observaciones en el que se incluirán las manifestaciones que haga la persona con quien se entiende la visita, si así lo desea.
 
-h).- Mención del día y hora en el que el infractor deberá comparecer ante la Dirección de Servicios Concesionados para la individualización de la sanción.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+h).- Mención del día y hora en el que el infractor deberá comparecer ante la Coordinación de Alcoholes para la individualización de la sanción; y
 
 i).- Nombre y firma de las personas que participaron en la diligencia y en caso de que se nieguen a firmar, asentar esta circunstancia en el acta.
 
 V.- Una vez levantada y, en su caso, firmada el acta, se le entregará copia de la misma a la persona con quien se entienda la diligencia; en caso de no aceptarla se dejará fija en la puerta haciendo constar tal circunstancia;
 
-VI.- Para proceder a la individualización de la sanción el infractor estará obligado a acudir en forma personal el día y hora que la autoridad señale a la Dirección de Servicios Concesionados donde se calificará con o sin su presencia la infracción; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-VII.- El levantamiento de las actas estará a cargo exclusivamente de los inspectores adscritos a la Dirección de Servicios Concesionados.
+VI.- Para proceder a la individualización de la sanción, el infractor estará obligado a acudir en forma personal el día y hora que la autoridad señale a la Coordinación de Alcoholes, donde se calificará con o sin su presencia la infracción; y
 
-Considerando la gravedad de la infracción a las disposiciones de este Reglamento, la autoridad que realice la diligencia podrá suspender de inmediato el servicio que presta el establecimiento hasta en tanto la Dirección de Servicios Concesionados emita la resolución definitiva.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+VII.- El levantamiento de las actas estará a cargo exclusivamente de los elementos de la Policía Preventiva Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Considerando la gravedad de la infracción a las disposiciones de este reglamento, la autoridad que realice la diligencia podrá suspender de inmediato el servicio que presta el establecimiento, hasta en tanto la Coordinación de Alcoholes emita la resolución definitiva.
 
 ###### ARTÍCULO 15.
 
@@ -343,9 +377,11 @@ En los casos de las fracciones II y III de este articulo, el Ayuntamiento, a tra
 
 Para la venta de bebidas alcohólicas en cualquiera de las modalidades que señala este ordenamiento es requisito indispensable contar con la licencia correspondiente, la que se tendrá que refrendar en el mes de enero de cada año. La autoridad municipal contará con un plazo de treinta días hábiles para entregar la respectiva constancia, en caso de no hacerlo traerá consigo responsabilidad a los funcionarios que incumplan con esta determinación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde a la Comisión de Alcoholes, al Director de Servicios Concesionados y al Subdirector de Alcoholes, conocer y resolver sobre las solicitudes de licencia, así como los refrendos para la venta de bebidas con contenido alcohólico.
+La Comisión competente y la Coordinación de Alcoholes, conocerán y resolverán sobre las solicitudes de licencia, así como los refrendos para la venta de bebidas con contenido alcohólico.
 
 Las solicitudes serán resueltas por escrito en un término de treinta días hábiles. La autoridad deberá fundar y motivar el acuerdo que emita independientemente de su sentido.
 
@@ -359,7 +395,9 @@ La autoridad que expida las licencias para la comercialización de las bebidas a
 
 Para obtener licencia en cualquiera de las modalidades que señala este ordenamiento se requiere:
 
-I. Presentar solicitud en los formatos que al efecto elabore la Dirección de Servicios Concesionados en los que se deberá señalar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+I. Presentar solicitud en los formatos que al efecto elabore la Coordinación de Alcoholes en los que se deberá señalar:
 
 a) Nombre, firma y domicilio de la persona jurídica que hace el pedimento y de la persona física que será responsable de su funcionamiento; y
 
@@ -445,9 +483,11 @@ IV.- Mantener las instalaciones en los términos que señalen las disposiciones 
 
 V.- Cumplir con las obligaciones fiscales de carácter municipal relacionadas con su establecimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 29.
 
-Está prohibido para quienes venden o sirven en cualquiera de las modalidades productos con contenido alcohólico lo siguiente:
+Está prohibido, para quienes venden y/o sirven, en cualquiera de las modalidades, productos con contenido alcohólico, lo siguiente:
 
 I.- Hacerlo sin la licencia correspondiente o cuando no cuente con el refrendo a que obliga este Reglamento;
 
@@ -467,7 +507,9 @@ VIII.- Servir bebidas para que sean consumidas en el exterior del establecimient
 
 IX.- Las demás que señale este Reglamento o que signifiquen el incumplimiento de algún otro ordenamiento federal, estatal o municipal.
 
-Corresponderá al Cabildo con mayoría calificada de sus dos terceras partes autorizar, de manera excepcional y cuando se trate de fiestas tradicionales de la comunidad, mediante dictamen fundado y motivado, la venta, preparación y consumo señalados en la fracción VII de este artículo. Este permiso causará el pago de derechos al municipio en los términos de la Ley de Ingresos, la Dirección de Servicios Concesionados vigilará la calidad de los productos y cuidará que se respeten los principios que señala el artículo 4 de este Reglamento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Corresponderá al Cabildo con mayoría calificada de sus dos terceras partes autorizar, de manera excepcional y cuando se trate de fiestas tradicionales de la comunidad, mediante dictamen fundado y motivado, la venta, preparación y consumo señalados en la fracción VII de este artículo. Este permiso causará el pago de derechos al municipio en los términos de la Ley de Ingresos, la Coordinación de Alcoholes vigilará la calidad de los productos y cuidará que se respeten los principios que señala el artículo 4 de este reglamento.
 
 ### CAPITULO SEXTO. DE LAS OBLIGACIONES DE QUIENES ADQUIERAN BEBIDAS ALCOHÓLICAS
 
@@ -485,9 +527,11 @@ Las personas que conduzcan vehículos, tiene la obligación de no ingerir bebida
 
 ### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 33.
 
-La Dirección de Servicios Concesionados podrá imponer las siguientes sanciones:
+La Dirección de Policía y Preventiva (sic) Municipal a través de su Coordinación de Alcoholes podrá imponer las siguientes sanciones:
 
 I.- Multa hasta con doscientos días de salario mínimo al expendedor que sea sorprendido por primera vez cometiendo las siguientes infracciones:
 
@@ -549,7 +593,7 @@ Cualquier otra violación a este ordenamiento distinta a las señaladas en este 
 
 ###### ARTÍCULO 35.
 
-La Dirección de la Policía Preventiva Municipal, al conocer de conductas que representen violaciones a este Reglamento deberá hacer del conocimiento de la Dirección de Servicios Concesionados tal situación, para que en el sitio se constituya el personal autorizado y levante las actas correspondientes, de conformidad con el artículo 14 de este ordenamiento.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 36.
 
@@ -619,7 +663,7 @@ La calificación a que se refiere el artículo 39 de este Reglamento corresponde
 
 ###### ARTÍCULO OCTAVO.
 
-La Dirección de Servicios Concesionados, conocerá del Recurso de Inconformidad hasta en tanto se establezcan los Juzgados Municipales.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
 
 ATENTAMENTE
 
@@ -636,3 +680,21 @@ P.O. 21 DE DICIEMBRE DE 2010.
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en la Gaceta Municipal, independientemente de que se haga lo propio en el Periódico Oficial del Estado.
 
 SEGUNDO. Túrnese a la Secretaría del Ayuntamiento para los efectos legales a los que haya lugar.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+ACUERDO 103/24/11, POR EL QUE SE REFORMA EL REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS, PARA EL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, independientemente de su publicación en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Policía Preventiva Municipal, conocerá del recurso de inconformidad hasta en tanto se establezcan los juzgados municipales.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+ACUERDO 107/24/11, POR EL QUE SE REFORMAN LOS ARTÍCULO 10 Y 11 DEL REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS, PARA EL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA.
+
+TRANSITORIO. La presenta (sic) reforma entrará en vigor el día primero de febrero del año 2012.
