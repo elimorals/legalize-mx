@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-12-22"
+last_updated: "2011-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -61,7 +61,9 @@ Los delitos continuados y los permanentes iniciados fuera del Estado y que se si
 
 Este código se aplicará a las personas físicas penalmente responsables, sean nacionales o extranjeras, con las excepciones que se establezcan en las Leyes Especiales.
 
-La conducta antisocial de los infractores, menores de dieciocho años, se regirá de acuerdo con lo establecido por la Ley de Readaptación Juvenil.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+La conducta antisocial de los infractores, menores de dieciocho años, se regirá de acuerdo con lo establecido por la Ley de Justicia Integral para Adolescentes del Estado de Jalisco.
 
 Cuando se cometa un delito no previsto en este Código, pero sí en otra Ley Especial, se aplicará ésta, observando las disposiciones conducentes de este Código.
 
@@ -143,7 +145,7 @@ V.- Los que induzcan dolosamente a otro a cometerlo;
 
 VI.- Los que dolosamente con conocimiento del delito, presten auxilio a otro para su comisión;
 
-VII.- Los que con posteridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito; y
+VII.- Los que con posterioridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito; y
 
 VIII.- Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
 
@@ -369,6 +371,12 @@ La multa que se impusiere como sanción es independiente de la reparación del d
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá sustituirla, total o parcialmente por prestación de jornadas de trabajo en favor de la comunidad; cada jornada de trabajo saldará un día multa.
 
+El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas, o de asistencia social, o instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que representen la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+
+La extensión de la jornada de trabajo será fijada por el juez tomando en cuenta las circunstancias del caso. Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante.
+
+En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional de las jornadas de trabajo prestadas en favor de la comunidad, o al tiempo de prisión que el reo hubiere cumplido tratándose de la multa sustitutiva de la pena privativa de libertad, caso en el cual la equivalencia será a razón de un día multa por un día de prisión.
+
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Este tipo de sanción se aplicará solamente cuando el tipo penal lo señale expresamente y además, en aquellos en que la multa sea consecuencia de conmutación.
@@ -519,7 +527,7 @@ Dentro de los límites fijados por la Ley, los jueces y Tribunales aplicarán la
 
 ###### Art. 41.
 
-Para la aplicación de las sanciones penales se tendrá en cuenta:
+Para a aplicación de las sanciones penales se tendrá en cuenta:
 
 I. La naturaleza de la acción u omisión, los medios empleados para ejecutarla, la gravedad del daño causado y el peligro corrido;
 
@@ -609,11 +617,17 @@ Cuando un solo hecho pueda ser considerado bajo dos figuras delictivas distintas
 
 Los delitos culposos se sancionarán con prisión de tres días a ocho años y suspensión hasta de dos años para ejercer profesión u oficio; en su caso, inhabilitación hasta por tres años, para manejar vehículos, motores, maquinaria o elementos relacionados con el trabajo, cuando el delito se haya cometido al usar alguno de esos instrumentos.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+Si se causare por culpa grave homicidio, en el que concurra cualquiera de las circunstancias señaladas en la fracción III del presente artículo, se aplicará la sanción de cuatro años un mes a diez años de prisión. Si se causare por culpa grave homicidio, en el que concurran dos o más de las circunstancias señaladas en las fracciones I, II, IV, V y VI de este artículo o las lesiones señaladas en las fracciones IV o V del artículo 207 de este código, se aplicará la sanción de tres a diez años de prisión. En cualquiera de estos casos se aplicará la inhabilitación para manejar hasta por un tiempo igual al de la duración de la pena privativa de la libertad.
+
+Sin embargo, ello no les impedirá el derecho al beneficio de libertad caucional, ya que sólo para este efecto, se estará a la pena que señala el primer párrafo del presente artículo.
+
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Si se causaren por culpa grave homicidio o las lesiones señaladas en las fracciones IV o V del artículo 207 de este Código, se aplicará la sanción de tres a diez años de prisión e inhabilitación para manejar hasta por un tiempo igual al de la duración de la pena privativa de la libertad.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Se considera culpa grave en los homicidios o lesiones a que se refiere el párrafo anterior, si se cometen con motivo del tránsito de vehículos y se dé una de las siguientes circunstancias:
 
@@ -775,7 +789,7 @@ En los casos señalados en el artículo anterior, el juez o la autoridad ejecuto
 
 La pena de prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuesto en los artículos 40 y 41 de este Código, en los términos siguientes:
 
-I. Por trabajo en favor de la comunidad o semilibertad, cuando la pena impuesta no exceda de cuatro años;
+I. Por trabajo en favor de la comunidad o semilibertad, cuando la pena puesta no exceda de cuatro años;
 
 II. Por tratamiento de libertad si la prisión no excede de tres años; o
 
@@ -1275,7 +1289,7 @@ Se impondrán de tres meses a dos años de prisión, destitución del cargo o em
 
 ###### Art. 118.
 
-El reo suspenso en su profesión u oficio o inhabilitado para ejercerlos, o el que esté en el manejo de vehículos, motores o maquinaria, que quebrante su condena, pagará una multa por el importe de veinte a ochenta días de salario. En caso de reincidencia, se le impondrán de veinte a cuarenta jornadas de trabajo a favor de la comunidad.
+El reo suspenso en su profesión u oficio o inhabilitado para ejercerlos, o el que esté en el manejo de vehículos, motores o maquinaria, que quebrante su condena, pagará una multa por el importe de veinte a ochenta días de salario. En caso de reincidencia, se le impondrán de veinte a cuarenta jornadas de trabajo en favor de la comunidad.
 
 ### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo público
 
@@ -1607,12 +1621,6 @@ Se impondrán de dos a cinco años de prisión y multa por el importe de cien a 
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2004)</small>
 
-Art. 143 BIS.- Al que sin autorización y de manera dolosa, copie, modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días de multa.
-
-Las penas previstas en este artículo se incrementarán en una mitad cuando el sujeto pasivo del delito sea una entidad pública o institución que integre el sistema financiero.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
 ###### Art. 142.
 
 Se impondrán de uno a seis meses de prisión al que provoque públicamente a cometer algún delito o haga apología de éste o de algún vicio, si el delito no se ejecutare; si se ejecuta se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
@@ -1710,6 +1718,14 @@ Cuando la revelación punible sea hecha por cualquier servidor público que pres
 ### CAPITULO I. Delito de abogados, patronos y litigantes
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+
+###### Art. 143 Bis.
+
+Al que sin autorización y de manera dolosa, copie, modifique, destruya o provoque pérdida de información contenida en sistemas o equipos de informática, se le impondrán de seis meses a cuatro años de prisión y de cien a seiscientos días de multa.
+
+Las penas previstas en este artículo se incrementarán en una mitad cuando el sujeto pasivo del delito sea una entidad pública o institución que integre el sistema financiero.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO II. Responsabilidad médica
 
@@ -2191,7 +2207,7 @@ Al responsable de este delito se le impondrán de tres meses a tres años de pri
 
 ### CAPITULO IV. Substracción, Robo y Tráfico de Menores
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 162.
 
@@ -2399,7 +2415,7 @@ Este delito lo comete, quien obligue o induzca a una persona a pedir dinero, cos
 
 (REFORMADO, P.O. 14 DE ABRIL DE 2001) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
-Al autor de este delito se le impondrán de tres a siete años de prisión, y multa por el equivalente de cien a quinientos días de salario mínimo y de cien a quinientas jornadas de trabajo en favor de la comunidad.
+Al autor de este delito se le impondrán de tres a siete años de prisión, y multa por el equivalente de cien a quinientos días de salario mínimo y de cien a quinientas jornadas de trabajo a favor de la comunidad.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2539,35 +2555,39 @@ Se impondrán de dos a seis años de prisión al que exponga en una casa de exp�
 
 ###### Art. 179.
 
-Se impondrá de dos a seis años de prisión al que substraiga a un menor de doce años, sin causa justificada o sin orden de autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin voluntad de éste.
+Se impondrán de dos a seis años de prisión al que sustraiga a un menor de dieciocho años, sin causa justificada o sin orden de autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin voluntad de éste. Si la víctima de este delito es un menor de doce años de edad, al responsable se le impondrá una pena de cuatro a doce años de prisión.
 
 Cuando el delito lo efectúen los padres, abuelos o bisabuelos que no ejerzan la patria potestad, o terceros, por encargo de alguno de éstos, la sanción será de seis meses a dos años de prisión. En este caso el delito solo se perseguirá a petición del legítimo representante de la parte ofendida.
 
 En cualquier supuesto, si se pone espontáneamente en libertad al menor, o se devuelve, antes de formuladas las conclusiones y sin causarle algún daño, la sanción será de tres meses a un año de prisión.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-El robo de infante lo comete el que se apodere de un menor de quince años de edad de cualquier sexo, sin derecho y sin consentimiento de sus padres o de quienes legítimamente lo tengan en su poder con el fin de segregarlo del medio familiar que le es propio. Este delito se castigará con pena de cinco a veinte años de prisión.
+El robo de infante lo comete el que se apodere de un menor de dieciocho años de edad de cualquier sexo, sin derecho y sin consentimiento de sus padres o de quienes legítimamente lo tengan en su poder, con el fin de segregarlo del medio familiar que le es propio. Este delito se castigará con pena de siete a veintidós años de prisión.
 
 Si el menor es restituido a su familia o a la autoridad, espontáneamente, dentro de los quince días a partir de la fecha de la substracción y sin causarle perjuicio, solamente se aplicará al responsable la sanción de seis meses a cuatro años de prisión.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 ###### Art. 179 Bis.
 
-Al ascendiente que ejerza la patria potestad o al que tenga a su cargo la custodia de un menor de 14 años, aunque ésta no haya sido declarada, que ilegítimamente lo entregue a otro para su custodia, a cambio de un beneficio económico, se le aplicará pena de prisión de 2 a 8 años y multa por el importe de 20 a 100 días de salario.
+Al ascendiente que ejerza la patria potestad o al que tenga a su cargo la custodia de un menor de dieciocho años, aunque ésta no haya sido declarada, que ilegítimamente lo entregue a otro para su custodia a cambio de un beneficio económico, se le aplicará pena de prisión de cuatro a diez años y multa por el importe de cuarenta a ciento veinte días de salario.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-La misma pena a que se refiere el párrafo anterior, se le impondrá a quien reciba al menor y también al tercero que lleve a cabo la entrega de éste a cambio de un beneficio económico. Si el tercero a que se hace mención tiene carácter de directivo de algún organismo a quien corresponda la custodia del menor, se le aplicará además la pena de destitución y la inhabilitación definitiva para ocupar un cargo similar o en su caso suspensión en el ejercicio de su profesión u oficio hasta por ocho años.
+La misma pena a que se refiere el párrafo anterior, se les impondrá a quien reciba al menor y también al tercero que lleve a cabo la entrega de éste a cambio de un beneficio económico. Si el tercero a que se hace mención tiene carácter de directivo de algún organismo a quien corresponda la custodia del menor, se le aplicarán además la pena de destitución y la inhabilitación definitiva para ocupar un cargo similar o en su caso suspensión en el ejercicio de su profesión u oficio hasta por diez años.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1984)</small>
 
 Si la entrega del menor se hace sin la finalidad de obtener un beneficio económico, la pena que se aplicará a los responsables, será de 1 a 3 años de prisión.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 1984)</small>
+
 Si se acredita que quien recibió al menor, lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, la pena se le reducirá hasta la cuarta parte de la prevista en el párrafo anterior. Tal reducción beneficiará a todos los que participaron en la comisión del delito, si no actuaron con la finalidad de obtener un beneficio económico. En este caso, sólo se procederá por querella o denuncia de parte interesada.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-Cuando por consecuencia del tráfico del menor, éste resultare afectado en su integridad física por extraerle algún miembro u órgano, se aplicará como sanción una pena de seis a diez años de prisión, independientemente de las que pudieran resultar por la comisión de cualquier otro delito.
+Cuando por consecuencia del tráfico del menor, éste resultare afectado en su integridad física por extraerle algún miembro u órgano, se aplicará como sanción una pena de ocho a doce años de prisión, independientemente de las que pudieren resultar por la comisión de cualquier otro delito.
 
 ### CAPITULO III. Homicidio
 
@@ -3191,7 +3211,7 @@ Si con motivo de un delito de tránsito, fallecen o resultan lesionados los ocup
 
 ###### Art. 223.
 
-Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida al cónyuge o a cualquier ascendiente o descendiente consanguíneo en línea recta o colateral hasta en cuarto grado, hermano, concubina o concubinario, adoptante o adoptado, sabiendo el delincuente esta relación.
+Se impondrán de veinticinco a cuarenta y cinco años de prisión al que dolosamente prive de la vida al cónyuge o a cualquier ascendiente o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, hermano, concubina o concubinario, adoptante o adoptado, sabiendo el delincuente esta relación.
 
 ### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
@@ -3464,8 +3484,6 @@ II. De siete años seis meses a trece años de prisión y multa por el importe d
 III. De nueve a quince años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando el valor de lo robado exceda del monto de mil días de salario;
 
 IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
-
-En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito; y
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 1998)</small>
 
@@ -4007,7 +4025,7 @@ II. Vote más de una vez en una misma elección;
 
 III. Haga proselitismo o presione a los electores el día de la jornada electoral, en el interior de las casillas o en el lugar en el que se encuentren formados los electores;
 
-IV. Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+IV. Obstaculice o infiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
 
 V. Recoja sin causa prevista por la ley de la materia, credenciales de elector de los ciudadanos;
 
@@ -4017,7 +4035,7 @@ VII. Viole dolosamente el secreto del voto;
 
 VIII. Vote o pretenda votar con una credencial de la que no sea titular;
 
-IX. El día de la elección, organice la reunión y traslado de votantes con el objeto de llevarlos a votar e influir en el sentido de su voto;
+IX. El día de la elección, organice la reunión y traslade de votantes con el objeto de llevarlos a votar e influir en el sentido de su voto;
 
 X. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales; las altere o destruya sin autorización del órgano electoral respectivo;
 
@@ -4295,7 +4313,7 @@ Se impondrá pena de uno a tres años de prisión y multa de doscientos a dos mi
 
 ###### Art. 293.
 
-Se impondrá pena de un año a nueve años de prisión y multa por el equivalente de cien a tres mil días de salario mínimo general vigente, al que ilícitamente realice actividades de exploración, extracción y procesamiento de minerales y sustancias geológicas que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación, siempre y cuando se genere un daño grave o irreversible en el ecosistema.
+Se impondrá pena de un año a nueve años de prisión y multa por el equivalente de cien a tres mil días salario mínimo general vigente, al que ilícitamente realice actividades de exploración, extracción y procesamiento de minerales y sustancias geológicas que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación, siempre y cuando se genere un daño grave o irreversible en el ecosistema.
 
 Para efectos de este Título, un daño ambiental se considerará irreversible cuando con las tecnologías y conocimientos disponibles, no fuere posible recuperar el ambiente para volverlo al estado anterior al hecho punible.
 
@@ -4349,7 +4367,7 @@ No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del 
 
 Se impondrán de uno a cinco años de prisión y multa por el importe equivalente de cincuenta a mil días de salario mínimo diario general vigente en la ciudad de Guadalajara, a quien:
 
-I. Incumpla las resoluciones definitivas del Instituto de Información Pública del Estado, dictadas en:
+l. Incumpla las resoluciones definitivas del Instituto de Información Pública del Estado, dictadas en:
 
 a) Los recursos de revisión de solicitudes de información;
 
@@ -4930,3 +4948,21 @@ IV. Emitir o actualizar conforme a este decreto y remitir al Instituto para su a
 V. Analizar y reclasificar en su caso, la información pública en su poder, de acuerdo con la ley, los lineamientos generales y sus criterios generales de clasificación, dentro de los treinta días naturales siguientes a la autorización de éstos últimos por parte del Instituto.
 
 QUINTO. Los asuntos en materia de información pública, cuyo trámite haya iniciado durante la vigencia de la Ley de Transparencia e Información Pública del Estado de Jalisco, seguirán rigiéndose por la misma hasta su conclusión.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO No. 23913/LIX/11, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4° DEL CÓDIGO PENAL DEL ESTADO DE JALISCO.
+
+UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO No. 23922/LIX/11, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 48 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+DECRETO No. 23934/LIX/11, POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 179 Y LOS PÁRRAFOS PRIMERO, SEGUNDO Y QUINTO DEL ARTÍCULO 179 BIS DEL CÓDIGO PENAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
