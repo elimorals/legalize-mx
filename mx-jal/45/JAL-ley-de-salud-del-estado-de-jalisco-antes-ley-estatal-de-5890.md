@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2011-05-05"
+last_updated: "2011-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -73,7 +73,7 @@ VII. El desarrollo de la enseñanza, la investigación científica y tecnológic
 
 XXVIII. Promover los principios de equidad y no discriminación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 3.
 
@@ -189,7 +189,7 @@ II. La Secretaría de Salud Jalisco y el organismo público descentralizado Serv
 
 III. Los Ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 5.
 
@@ -341,7 +341,7 @@ VII. Propiciar el desarrollo de las comunidades indígenas a partir de la instru
 
 VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 15.
 
@@ -391,7 +391,7 @@ XVI. Asegurar a los pueblos y comunidades indígenas el acceso efectivo a los se
 
 XVII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 16.
 
@@ -399,7 +399,7 @@ La Secretaría de Salud Jalisco promoverá la participación en el Sistema Estat
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 17.
 
@@ -595,7 +595,7 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 La Secretaría de Salud Jalisco será la autoridad que tome las medidas y realice las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 31.
 
@@ -647,7 +647,7 @@ La Secretaría de Salud Jalisco ejercerá el control sanitario de los establecim
 
 El Gobierno del Estado, por conducto de la Secretaría del Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria, que permita prevenir, controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona que los utiliza.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 #### SECCION SEXTA. De la prevención y control del dolor
 
@@ -699,7 +699,7 @@ Las autoridades sanitarias estatales realizarán actividades de vigilancia epide
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
 
@@ -879,7 +879,7 @@ Para la mayor eficacia de las acciones preventivas y de control de accidentes, c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2004)</small>
 
 #### SECCION CUARTA. De las Enfermedades de la Mujer
 
@@ -1009,9 +1009,9 @@ II. La atención del niño y la vigilancia de su crecimiento y desarrollo, inclu
 
 III. La promoción de la integración y el bienestar familiar;
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-IV. La información a la mujer, sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna, y
+IV. La información a la mujer sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna, para lo cual se informará a la mujer embarazada que puede practicarse gratuitamente examen de VIH en las instituciones del Sector Salud, a fin de prevenir la salud de los infantes desde su gestación, siendo el resultado del examen confidencial, y
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1051,7 +1051,7 @@ IV. El establecimiento de programas de información y sensibilización, adecuado
 
 V. Las demás que coadyuven a la protección de la salud materno-infantil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 67.
 
@@ -1099,7 +1099,7 @@ La prevención de las enfermedades mentales tiene carácter prioritario. Se basa
 
 Para los efectos del párrafo anterior se consideran como factores y causas que afectan la salud mental entre otros, los biológicos, psicológicos y socio culturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
 
 ###### Art. 73.
 
@@ -1139,7 +1139,7 @@ II. La organización, operación y supervisión de instituciones públicas, soci
 
 La prestación de servicios de salud mental deberá ser integral e incluirá actividades de medicina preventiva, curativa, de rehabilitación y reinserción social, sujetándose a lo dispuesto por el Reglamento de la Ley General de Salud y las Normas Oficiales Mexicanas aplicables para la Prestación de Servicios de Atención Médica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 75.
 
@@ -1557,7 +1557,7 @@ La Dirección o el órgano administrador de los establecimientos brindarán los 
 
 Los integrantes del Comité Hospitalario correspondiente elaborarán los lineamientos para su funcionamiento y deberán dar aviso, semestralmente, a la Secretaría de Salud de las opiniones que emitan, a fin de que ésta elabore criterios y guías éticas para la atención médica.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO XII. De los usuarios de los servicios de salud y participación de la comunidad
 
@@ -1673,11 +1673,11 @@ Se concede acción popular para denunciar, ante las autoridades sanitarias del E
 
 La acción popular podrá ejercitarse por cualquiera persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
 ### CAPITULO XIII. De la Disposición de Organos y Tejidos de Seres Humanos
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
 #### SECCION SEGUNDA. Del consejo estatal de trasplantes de órganos y tejidos
 
@@ -1797,7 +1797,7 @@ En caso de que el posible donador cuente con algún documento que acredite la ca
 
 d) Informará al Procurador General de Justicia del Estado de las circunstancias del proceso de donación, para que aquél manifieste su anuencia o inconformidad para la donación. El ministerio público notificará a la institución hospitalaria la decisión del Procurador.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2002)</small>
 
 #### SECCION TERCERA. Del Registro Estatal de Trasplantes
 
@@ -1907,7 +1907,7 @@ XVIII. Las demás que le otorgue la presente Ley y otras disposiciones legales a
 
 Artículo 104. N. El Consejo de Trasplantes contará con la colaboración de un Comité Técnico que integrarán profesionales peritos en la materia de trasplantes, que designarán las instituciones de salud señaladas en el Artículo 104-J.
 
-El Comité Técnico coadyuvará para la mejor realización de! Programa Estatal de Trasplante, aprobará y mantendrá actualizado el manual de procedimientos técnico-administrativos, contará con las funciones que le señale el Reglamento Interior del Consejo de Trasplantes y procurará el intercambio de experiencias entre las instituciones de salud que realicen trasplantes.
+El Comité Técnico coadyuvará para la mejor realización del Programa Estatal de Trasplante, aprobará y mantendrá actualizado el manual de procedimientos técnico-administrativos, contará con las funciones que le señale el Reglamento Interior del Consejo de Trasplantes y procurará el intercambio de experiencias entre las instituciones de salud que realicen trasplantes.
 
 El Secretario Técnico cuidará que se respeten las políticas que establezcan las autoridades nacionales y estatales respecto a la asignación de órganos y tejidos provenientes de personas que perdieron la vida.
 
@@ -1933,7 +1933,7 @@ El Consejo de Trasplantes, los Comités Internos de Trasplantes de los estableci
 
 El Consejo de Trasplantes para un mejor cumplimiento de sus objetivos, a través de su cuerpo de gobierno, podrá determinar la integración y trabajo de comisiones, permanentes o transitorias, las cuales se regirán por lo establecido en el Reglamento Interior del propio Consejo de Trasplantes.
 
-(REFORMADA SU DENOMINACION, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
+(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
 #### SECCION CUARTA. De la Participación Social
 
@@ -1945,7 +1945,7 @@ El Consejo de Trasplantes deberá contar con un Registro Estatal de Trasplantes 
 
 El Consejo de Trasplantes vigilará la correcta aplicación del Reglamento Estatal de Asignaciones y Distribución de Órganos y Tejidos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE JUNIO DE 1999)</small>
 
 #### SECCION PRIMERA. Del servicio social de los pasantes
 
@@ -2125,7 +2125,7 @@ Las autoridades sanitarias del Estado, sin perjuicio de la competencia que sobre
 
 Para la coordinación de acciones y programas se integra la Comisión Interinstitucional para la Formación de Recursos Humanos para la Salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 116.
 
@@ -2139,7 +2139,7 @@ III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro 
 
 IV. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud, en actividades docentes o técnicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 117.
 
@@ -2225,7 +2225,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO UNICO. De su captación y suministro
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 1990)</small>
 
 ###### Art. 125.
 
@@ -2247,7 +2247,7 @@ Los establecimientos que presten servicios de salud y los profesionales, técnic
 
 ### CAPITULO UNICO. De los programas contra las adicciones
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
 #### SECCION SEGUNDA. Programa para la prevención del alcoholismo y el abuso de bebidas alcohólicas
 
@@ -2303,7 +2303,7 @@ El Consejo Estatal para la Prevención de Adicciones, y las autoridades sanitari
 
 Las autoridades jurisdiccionales y administrativas del Gobierno del Estado darán apoyo institucional para propiciar la reinserción social integral de los adictos rehabilitados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -2329,7 +2329,7 @@ VIII. Fomentar la participación comunitaria y la coordinación con las autorida
 
 Todos los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y a la libre voluntad del farmacodependiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -2361,7 +2361,7 @@ A los establecimientos que vendan o utilicen substancias inhalantes que no se aj
 
 #### SECCION SEGUNDA. Clasificación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO
 
@@ -2417,7 +2417,7 @@ La "regulación sanitaria" comprende la autorización, vigilancia, aplicación d
 
 La Secretaría de Salud Jalisco emitirá los ordenamientos, criterios y lineamientos de carácter técnico para establecer normas oficiales a las que quedarán sujetos tanto el control sanitario como la regulación sanitaria en materia de salubridad local.
 
-> <small>(DEROGADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 137.
 
@@ -2443,7 +2443,7 @@ Todo cambio de propietario, de razón o denominación social de un establecimien
 
 Los criterios y lineamientos técnicos a que se refiere el artículo 136 y la información que se estime de interés general, serán publicadas en el Periódico Oficial El Estado de Jalisco.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 140.
 
@@ -2551,11 +2551,11 @@ Cuando los edificios, construcciones o terrenos representen un peligro por su in
 
 Cuando se contravengan algunas de las disposiciones anteriores o las del Reglamento respectivo, la autoridad sanitaria competente podrá, previo el cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO IV. De los Cementerios, Crematorios, Funerarias y Criptas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 156.
 
@@ -2639,7 +2639,7 @@ II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho hora
 
 (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO VII. Del agua potable, alcantarillado, tratamiento y disposición final de aguas residuales
 
@@ -2691,7 +2691,7 @@ Los proyectos para la implantación de alcantarillado y de plantas de tratamient
 
 Queda prohibido que los desechos, líquidos o lodos que conduzca el alcantarillado y que generen las plantas de tratamiento de aguas residuales sean vertidos directa o indirectamente, en forma continua o intermitente en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO VIII. De los establos, granjas, zahúrdas y demás establecimientos de cría o explotación de animales
 
@@ -2793,7 +2793,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta le
 
 (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO XV. De los medios de transporte público de transporte (sic)
 
@@ -2811,7 +2811,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta le
 
 (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO XVII. De la comercialización y venta de alimentos y bebidas en la vía pública
 
@@ -2819,7 +2819,7 @@ Art. 199 A. (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 Art. 199 B. (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO XIX (SIC). De los centros antirrábicos
 
@@ -2909,7 +2909,7 @@ Las autoridades sanitarias del Estado Expedirán las autorizaciones respectivas,
 
 Quedan exceptuadas del pago de derechos las dependencias del Gobierno Estatal, de los Municipios, los establecimientos educativos del sector público y las instituciones de asistencia social privada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 203.
 
@@ -2921,7 +2921,7 @@ Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo acti
 
 Las autorizaciones sanitarias podrán revalidarse de conformidad con los términos que al efecto fijen las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 205.
 
@@ -2931,7 +2931,7 @@ La Secretaría de Salud Jalisco recibirá aviso de funcionamiento para la operac
 
 Las autorizaciones en materia de salubridad general se sujetarán a lo dispuesto por la Ley General de Salud y sus disposiciones complementarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 206.
 
@@ -2963,17 +2963,17 @@ III. No requieren autorización sanitaria, pero requieren de aviso de funcionami
 
 El aviso de funcionamiento deberá sujetarse a lo dispuesto por el artículo 207 de este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 207.
 
 Los permisos sanitarios se otorgarán por la autoridad sanitaria estatal o municipal, conforme a lo dispuesto por esta ley y a los acuerdos de coordinación que al efecto se celebren.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3123,7 +3123,7 @@ La vigilancia sanitaria se llevará a cabo mediante visitas de verificación ins
 
 Las autoridades sanitarias competentes podrán encomendar a sus verificadores, además actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refiere el artículo 232 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 227.
 
@@ -3237,7 +3237,7 @@ III. Si existiera peligro de invasión de dichos padecimientos, en el Estado.
 
 El Ejecutivo del Estado, por conducto de la Secretaría de Salud Jalisco (sic), podrá ordenar o proceder a la vacunación de animales que puedan convertirse en transmisores de enfermedades o que pongan en riesgo la salud de las personas, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 238.
 
@@ -3603,7 +3603,7 @@ El Secretario General de Gobierno
 
 Lic. Héctor F. Castañeda Jiménez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE ABRIL DE 1990.
 
@@ -3623,7 +3623,7 @@ TERCERO.- El Consejo Estatal de Transplantes de Organos y Tejidos, aprobará su 
 
 P.O. 12 DE AGOSTO DE 1999.
 
-DECRETO NUMERO 17975.
+DECRETO NÚMERO 17975.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Jalisco.
 
@@ -3631,7 +3631,7 @@ SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a
 
 P.O. 12 DE AGOSTO DE 1999.
 
-DECRETO NUMERO 17974.
+DECRETO NÚMERO 17974.
 
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3701,7 +3701,7 @@ P.O. 24 DE JULIO DE 2004.
 
 P.O. 28 DE SEPTIEMBRE DE 2004.
 
-DECRETO 20591 QUE REFORMA ARTICULOS 14 Y 15 DE LA LEY ESTATAL DE SALUD
+DECRETO 20591 QUE REFORMA ARTÍCULOS 14 Y 15 DE LA LEY ESTATAL DE SALUD
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -3709,13 +3709,13 @@ SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulac
 
 P.O. 28 DE SEPTIEMBRE DE 2004.
 
-DECRETO 20592 QUE ADICIONA DOS PARRAFOS A LA FRACCION I DEL ARTICULO 60 DE LA LEY ESTATAL DE SALUD
+DECRETO 20592 QUE ADICIONA DOS PÁRRAFOS A LA FRACCIÓN I DEL ARTÍCULO 60 DE LA LEY ESTATAL DE SALUD
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 7 DE OCTUBRE DE 2004.
 
-DECRETO NO. 20605 QUE ADICIONA EL ARTICULO 18 TER A LA LEY ESTATAL DE SALUD.
+DECRETO NO. 20605 QUE ADICIONA EL ARTÍCULO 18 TER A LA LEY ESTATAL DE SALUD.
 
 PRIMERO.- El presente decreto entrará en vigor a los 120 días naturales de haber sido publicado en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3723,7 +3723,7 @@ SEGUNDO.- La Secretaría de Salud Jalisco deberá emitir las disposiciones y lin
 
 P.O. 7 DE OCTUBRE DE 2004.
 
-DECRETO 20606 QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY ESTATAL DE SALUD
+DECRETO 20606 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE SALUD
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3790,3 +3790,7 @@ P.O. 27 DE ENERO DE 2011.
 P.O. 5 DE MAYO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor a los 90 días de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
