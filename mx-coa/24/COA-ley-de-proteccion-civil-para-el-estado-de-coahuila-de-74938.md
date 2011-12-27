@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2011-05-10"
+last_updated: "2011-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -356,6 +356,14 @@ En caso de riesgo y sin perjuicio de la emisión de la declaratoria de emergenci
 ###### ARTÍCULO 17.
 
 La Subsecretaría podrá elaborar programas especiales de protección civil, tratándose de grupos sociales específicos, tales como discapacitados, personas adultas mayores, jóvenes, menores de edad y demás grupos vulnerables en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+En estos programas, en forma especial y preponderante, se deberá redimensionar la acción pública para que en toda política, donde se vean involucrados los derechos de los menores de edad, se atienda su interés superior, el cual exige medidas de protección reforzada.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
+La normatividad referente a la seguridad de los menores en los centros a los que eventualmente acceden, tales como hospitales, centros educativos, escuelas, centros de recreación y, muy especialmente, guarderías y estancias infantiles, entre otros, deberá atender a las más altas exigencias que demanda la protección de la integridad física de los menores.
 
 ###### ARTÍCULO 18.
 
@@ -1224,3 +1232,9 @@ Una vez cumplido el plazo previsto en el artículo que antecede, se otorgará un
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente Iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las dependencias responsables de la materia, deberán revisar, y en su caso actualizar, sus programas y reglamentos relativos a la protección civil de los menores de edad en los centros a que se refiere el artículo 17 en su párrafo tercero, atendiendo a las más altas exigencias de los mismos, procurando tomar en cuenta las consideraciones contenidas en la materia de protección civil, en el Dictamen Final del Expediente 1/2009 de la Facultad de Investigación, emitido por el Pleno de la Suprema Corte de Justicia de la Nación.
