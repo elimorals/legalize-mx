@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-69090"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-17"
-last_updated: "2010-03-09"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN, PUBLICADO EN LA G.O. DE 28 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de junio de 2009.
 
@@ -2421,8 +2423,22 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE MARZO DE 2010.
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Finanzas y Planeación, publicado en la Gaceta Oficial del estado el 17 de junio de 2009.
+
+TERCERO. La Secretaría expedirá en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Reglamento, el Manual General de Organización.
+
+CUARTO. En tanto se expidan los Manuales de Organización, de Procedimientos, de Servicios al Público y demás manuales administrativos, el Secretario estará facultado para resolver los asuntos que dichos Manuales deben regular.
+
+QUINTO. En lo relativo al Impuesto Sobre Tenencia, hasta el 31 de diciembre de 2011, se estará a lo dispuesto en la normatividad federal y los convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos respectivos, a partir del 1 de enero de 2012, se estará a lo dispuesto en la normatividad Estatal aplicable.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
