@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-de-seguridad-publica-del-estado-de-69314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-21"
-last_updated: "2011-07-22"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de julio de 2009.
 
@@ -1077,7 +1077,9 @@ VIII. Proponer al personal en activo y aspirantes a ingresar al Instituto, previ
 
 IX. Establecer la profesionalización de los integrantes de los cuerpos de Seguridad Pública municipales;
 
-X Designar al director de Seguridad Pública o su equivalente, a propuesta del presidente municipal y conforme a los requisitos y procedimientos establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+X. Designar al Director de Seguridad Pública Municipal o su equivalente, a partir de la propuesta de terna que realice el Presidente Municipal, eligiendo al Director en votación calificada en sesión de Cabildo;
 
 XI. Establecer mecanismos para que la ciudadanía pueda denunciar irregularidades en la prestación y desarrollo del servicio; y,
 
@@ -2582,3 +2584,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Cuando se refiera en la Ley de Ejecución de Sanciones Penales del Estado de Michoacán de Ocampo, a las funciones del Director de Prevención y Readaptación Social, se entenderá que estas le corresponden al Subsecretario de Prevención y Reinserción Social del Gobierno del Estado de Michoacán de Ocampo.
 
 TERCERO. Los actuales servidores públicos que laboran en las Instituciones de Seguridad Pública, con la entrada en vigor del presente Decreto de reformas, adiciones y derogaciones de la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, continuarán en el ejercicio de sus actuales cargos, los que serán homologados a los términos de esta Ley, sin demérito de que derivado de las evaluaciones que se les realicen, se determine su continuidad o no, en dicho cargo.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° primero de enero del 2012, dos mil doce, y previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
