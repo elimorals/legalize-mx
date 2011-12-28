@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2010-12-28"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATAN
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -435,9 +435,11 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 41.
 
-Las licencias de funcionamiento que expida la Tesorería Municipal serán gratuitas, excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas, mismas contribuciones que se señalan en el Capítulo III del Título IV de esta ley.
+El cobro de derechos por las licencias de funcionamiento que expida la Tesorería Municipal, serán de acuerdo a las tarifas establecidas en el artículo 90 y 90-A de esta propia Ley de Hacienda.
 
 Dichas licencias tendrán una duración de un año, con excepción de las expedidas por la administración municipal, en su último año de gobierno que concluirán el último día del período constitucional.
 
@@ -545,9 +547,11 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a 
 
 DE LA TARIFA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 47.
 
-El impuesto predial se causará de acuerdo con la siguiente tarifa:
+El impuesto predial se determinará aplicando al valor catastral la siguiente tarifa:
 
 Por predios urbanos y rústicos con o sin construcción.
 
@@ -592,6 +596,62 @@ A la cantidad que exceda del límite inferior le será aplicado el factor determ
 Impuesto predial Rústico: $ 10.00 por hectárea.
 
 Todo predio destinado a la producción agropecuaria pagara 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Para el cálculo del impuesto predial con base en el valor catastral, se tomará la siguiente:
+
+TABLA DE VALORES CATASTRALES DE TERRENO Y CONSTRUCCION
+
+COLONIA O CALLE TRAMO ENTRE $ POR M2
+
+CALLE Y CALLE
+
+#### SECCIÓN 1. DE LA CALLE 7 A LA 25 22 26 $5.00
+
+DE LA CALLE 22 A LA 26 7 25 $5.00
+
+RESTO DE LA SECCION $4.00
+
+#### SECCIÓN 2. DE LA CALLE 25 A LA CALLE 29 22 26 $5.00
+
+DE LA CALLE 22 A LA CALLE 26 25 29 $5.00
+
+RESTO DE LA SECCION $4.00
+
+#### SECCION 3. DE LA CALLE 25 A LA CALLE 29 26 32 $5.00
+
+DE LA CALLE 26 A LA CALLE 32 25 29 $5.00
+
+RESTO DE LA SECCION $4.00
+
+#### SECCION 4. DE LA CALLE 13 A LA CALLE 25 26 32 $5.00
+
+DE LA CALLE 26 A LA CALLE 32 13 25 $5.00
+
+RESTO DE LA SECCION $4.00
+
+TODAS LAS COMISARIAS $4.00
+
+RÚSTICOS POR HECTÁREA $ POR HECTAREA
+
+BRECHA $100.00 $100.00
+
+CAMINO BLANCO $350.00 $350.00
+
+CARRETERA $450.00 $450.00
+
+VALORES UNITARIOS AREA CENTRO AREA MEDIA PERIFERIA
+
+DE COSTRUCCION.
+
+TIPO $ POR M2 $ POR M2 $ POR M2
+
+CONCRETO $500.00 $400.00 $ 300.00
+
+DE PRIMERA
+
+ECONOMICO $400.00 $ 300.00 $ 200.00
 
 ###### Artículo 48.
 
@@ -1217,29 +1277,35 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 DE LOS SUJETOS
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 88.
 
-Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento que se establece en el presente Capítulo, todas aquellas personas físicas o morales que deseen abrir o tengan en operación al público, establecimientos en los que se expendan bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
+Quedarán obligados al pago de los derechos para la obtención de la licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público:
 
-1.- Restaurantes.
+I.- Establecimientos en los que se expendan bebidas alcohólicas.
 
-2.- Bares.
+II.- Establecimientos o locales comerciales y/o de servicios en general.
 
-3.- Hoteles.
+Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento que se establece en el presente capítulo, todas aquellas personas físicas o morales que deseen abrir o tengan en operación al público, establecimientos en los que se expendan bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
 
-4.- Discotecas.
+I.- Restaurantes.
 
-5.- Salones de baile.
+II.- Bares.
 
-6.- Supermercados.
+III.- Hoteles.
 
-7.- Vinaterías.
+IV.- Discotecas.
 
-8.- Expendios de cerveza
+V.- Salones de baile.
 
-9.- Salón Cerveza.
+VI.- Supermercados.
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+VII.- Vinaterías.
+
+VIII.- Expendios de cerveza
+
+IX.- Salón cerveza.
 
 Asimismo, se podrá otorgar permisos y autorizaciones de tipo eventual que se establezcan en esta Ley.
 
@@ -1249,7 +1315,9 @@ DE LA VIGENCIA
 
 Las licencias de funcionamiento que se expidan por cualquiera de los conceptos anteriores tendrán una vigencia anual y deberá de revalidarse durante los meses de enero y febrero de cada año o dentro de los dos primeros meses del período constitucional del gobierno municipal que corresponda.
 
-Cuando una licencia de funcionamiento se expida dentro de los primeros dos meses del último año de ejercicio o dentro de los dos primeros meses del primer año de ejercicio de una administración municipal, la tarifa de la revalidación se reducirá en un 50 por ciento.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Cuando una licencia de funcionamiento se expida dentro de los primeros dos meses del último año de ejercicio o dentro de los dos primeros meses del primer año de ejercicio de una administración municipal, la tarifa de la revalidación se reducirá en un 10 %.
 
 Para que la Tesorería Municipal este en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en el Artículo 41 de esta Ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
 
@@ -1259,21 +1327,135 @@ TARIFA
 
 La tarifa de los derechos para la obtención de la Licencias (sic) de Funcionamiento de los establecimientos que se señalan en el Artículo 88 de esta Ley, serán los siguientes:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-I.- Por apertura de expendios $ 12,000.00
+I.- Por apertura de expendios $ 15,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-II.- Por apertura de mini súper y/o
+II.- Por apertura de mini súper y/o restaurante $ 12,000.00
 
-Restaurante $ 10,000.00
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 28 DE DICIEMBRE DE 2011)</small>
 
 III.- Por permisos eventuales $ 500.00
 
-> <small>(DEROGADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-IV.- Por revalidación $ 800.00
+IV.-Por revalidación $ 1,000.00
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Por el otorgamiento de permisos con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrará $ 1,000.00 por día.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 90-A.
+
+El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales comerciales o de servicios que no expendan bebidas alcohólicas, se realizará con base en las siguientes tarifas:
+
+GIRO EXPEDICIÓN RENOVACION
+
+Comercial o de Servicios $ $
+
+I.- Farmacias, boticas y similares 500.00 200.00
+
+II.- Carnicerías, pollerías y pescadería 200.00 100.00
+
+III.- Panaderías y tortillerías 200.00 100.00
+
+IV.- Expendio de refresco 200.00 100.00
+
+V.- Fábrica de jugos embolsados 200.00 100.00
+
+VI.- Expendio de refrescos naturales 200.00 100.00
+
+VII.- Compra/venta de oro y plata 200.00 100.00
+
+VIII.- Taquerías, loncherías y fonda 200.00 100.00
+
+IX.- Taller de expendio de alfarerías 200.00 100.00
+
+X.- Talleres y expendios de zapaterías 200.00 100.00
+
+XI.- Tlapalerías 500.00 200.00
+
+XII.- Compra/venta de materiales de
+
+Construcción 500.00 200.00
+
+XIII.- Tiendas, tendejones y miscelánea 200.00 100.00
+
+XIV.- Bisutería 200.00 100.00
+
+XV.- Compra/venta de motos y refaccionarias 500.00 200.00
+
+XVI.- Papelerías y centros de copiado 200.00 100.00
+
+XVII.- Hoteles, hospedajes 500.00 200.00
+
+XVIII.- Peleterías Compra/venta de sintéticos 200.00 100.00
+
+XIX.- Terminales de taxis, autobuses y triciclos 200.00 100.00
+
+XX.- Ciber-café y centros de cómputo 200.00 100.00
+
+XXI.- Estética unisex y peluquerías 200.00 100.00
+
+XXII.- Talleres mecánicos 200.00 100.00
+
+XXIII.- Talleres de torno y herrería en general 200.00 100.00
+
+XXIV.- Fábrica de cajas 200.00 100.00
+
+XXV.- Tienda de ropa y almacenes 500.00 200.00
+
+XXVI.- Florerías y funerarias 200.00 100.00
+
+XXVII.- Bancos 1,500.00 500.00
+
+XXVIII.- Puestos de venta de revistas, periódicos 200.00 100.00
+
+y casetes
+
+XXIX.- Videoclubs en general 200.00 100.00
+
+XXX.- Carpinterías 200.00 100.00
+
+XXXI.- Bodega de refrescos 200.00 100.00
+
+XXXII.- Consultorios y clínicas 200.00 100.00
+
+XXXIII.- Paleterías y dulcerías 200.00 100.00
+
+XXXIV.- Negocios de telefonía celular 200.00 100.00
+
+XXXV.- Cinema 200.00 100.00
+
+XXXVI.- Talleres de reparación eléctrica 200.00 100.00
+
+XXXVII.- Escuelas particulares y academias 200.00 100.00
+
+XXXVIII.- Expendios de alimentos balanceados 200.00 100.00
+
+XXXIX.- Gaseras 650.00 100.00
+
+XL.- Gasolineras 1,700.00 800.00
+
+XLI.- Mudanzas 200.00 100.00
+
+XLII.- Oficinas de servicio de sistemas 600.00 200.00
+
+de televisión
+
+XLIII.- Fábrica de hielo 200.00 100.00
+
+XLIV.- Centros de foto estudio y grabación 200.00 100.00
+
+XLV.- Despachos contables y jurídicos 200.00 100.00
+
+XLVI.- Compra/venta de frutas y legumbres 200.00 100.00
+
+XLVII.- Otros no especificados 200.00 100.00
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1369,11 +1551,21 @@ TARIFA
 
 La tarifa de este derecho será el siguiente:
 
-I.- Toma domestica $ 15.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-II.- Toma comercial $ 20.00
+I.- Por toma doméstica $ 25.00
 
-III.- Toma industrial $ 30.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II.- Por toma comercial $ 50.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+III.- Por toma industria (sic) $ 100.00
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+IV.- Por toma para planta purificadora $ 200.00
 
 PAGO
 
@@ -1383,11 +1575,11 @@ PAGO
 
 El pago de este derecho deberá efectuarse mensualmente en la caja de la Tesorería Municipal o en el domicilio de los contribuyentes a través de una persona que el Ayuntamiento designe para tal efecto.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 103.
 
-El pago por contratación y conexión de tomas nuevas será de $480.00 cuando incluya materiales y de $180.00 sin materiales.
+El pago por contratación y conexión de tomas nuevas será de $ 550.00 cuando incluya materiales y de $ 250.00 sin materiales.
 
 Solamente quedarán exentos del pago de este derecho los bienes de dominio público de la Federación, Estado y municipios.
 
@@ -1413,15 +1605,25 @@ TARIFA
 
 Los derechos por este servicio se pagarán conforme a las siguientes tarifas:
 
-I.- Locatarios de frutas y verduras $ 60.00 mensual.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-II.- Mesetas de frutas y verduras $ 30.00 mensual.
+I.- Locatarios de frutas y verduras $20.00 semanal.
 
-II.- Locatarios que venden carnes
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II.- Mesetas de frutas y verduras $ 15.00 semanal.
+
+III.- Locatarios que venden carnes
 
 a) De Vacuno $ 5.00 diario.
 
-b) De Porcino $ 2.50 diario.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+b) De porcino $ 3.00 diario.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+c) De pollo $ 2.00 diario
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1469,13 +1671,17 @@ I.- Inhumaciones en fosas y criptas
 
 a) Por temporalidad de 3 años $ 1,300.00
 
-b) Adquirida a Perpetuidad $ 2,700.00
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+b) Adquirida a perpetuidad $ 4,000.00
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 c) Derecho de inhumación general $100.00
 
-II.- Adquisición de osarios a perpetuidad (1 m2) $ 1,000.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II.- Adquisición de osarios a perpetuidad (1 m2) $ 1,500.00
 
 III.- Permiso de construcción de cripta o bóveda
 
@@ -2274,3 +2480,15 @@ TRANSITORIO:
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día 1 de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Esta (sic) decreto entrará en vigor el día primero de enero del año dos mil doce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+TRANSITORIO DEL DECRETO:
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
