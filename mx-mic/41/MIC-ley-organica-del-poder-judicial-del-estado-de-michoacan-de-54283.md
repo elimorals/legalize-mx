@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-de-5428
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-02-15"
-last_updated: "2008-06-03"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el jueves 15 de febrero de 2007.
 
@@ -427,11 +427,15 @@ VIII. De los conflictos que con motivo de excusas y recusaciones sin causa se su
 
 IX. De las excusas y recusaciones con causa de los titulares de otras salas, tanto en asuntos de derecho civil, mercantil y familiar, en orden ascendente. Si se trata del Magistrado de la Sala Civil con el número ordinal más alto, conocerá el de la Sala Civil que inicie la numeración ordinal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-Las salas penales conocerán, por turno, conforme al orden en que se reciba cada expediente:
+Las salas penales conocerán, por turno, conforme al orden rn (sic) que se reciba cada expediente:
 
-I. De los recursos de apelación y de queja contra las resoluciones que en asuntos penales dicten los jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+I. De los recursos de apelación y de queja contra las resoluciones que en asuntos penales dicten los jueces de Primera Instancia; así como de los recursos de apelación contra las resoluciones emitidas por los jueces de Ejecución de Sanciones Penales;
 
 II. Del recurso de revisión contra sentencias penales que hayan causado ejecutoria; y,
 
@@ -515,9 +519,11 @@ En cada uno de los distritos judiciales habrá el número de juzgados de Primera
 
 Los juzgados de Primera Instancia conocerán de todos los negocios de carácter contencioso que no sean de la competencia de los juzgados menores o comunales. El Consejo determinará las materias de que conocerá cada uno de los juzgados de Primera Instancia, pudiendo determinar la existencia de juzgados mixtos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 42.
 
-Los juzgados de Primera Instancia que conozcan de la materia civil serán competentes para los asuntos siguientes:
+Los Juzgados de Primera Instancia que conozcan de la materia civil serán competentes para los asuntos siguientes:
 
 I. Los actos prejudiciales, providencias precautorias y de jurisdicción voluntaria, no relacionadas con el derecho familiar;
 
@@ -531,9 +537,11 @@ V. Las acciones reales o personales sobre bienes muebles, cuando no deban conoce
 
 VI. Los de carácter contencioso, común o concurrente, cuya competencia no sea del conocimiento exclusivo de los juzgados de lo familiar;
 
-VII. Los de jurisdicción común o concurrente relativos a concursos, quiebras y suspensión de pagos;
+VII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
 
-VIII. Los de jurisdicción concurrente en materia mercantil que no deban conocer los juzgados menores en razón de la cuantía;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+VIII. Los de juridicción (sic) concurrente en materia mercantil que no deban de conocer los juzgados menores o comunales en razón de la cuantía; así como de los juicios ordianrios (sic) orales, de los que conocerán con independencia del importe de la suerte principal que se reclame. En este último caso, el Consejo determinará, en atención al presupuesto y a la carga laboral, la creación de juzgados de primera instancia de oralidad mercantil;
 
 IX. Los interdictos, excepto los relacionados con la posesión del estado civil;
 
@@ -663,9 +671,39 @@ Los jueces especializados en adolescentes deberán cumplir con requisitos sufici
 
 Los jueces especializados deberán someterse para su ingreso a concurso de oposición de conformidad con lo establecido en esta Ley y el reglamento específico; durarán en su encargo tres años.
 
-### CAPÍTULO CUARTO. JUZGADOS MENORES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO QUINTO. JUZGADOS COMUNALES
+### CAPÍTULO TERCERO BIS. JUZGADOS DE EJECUCIÓN DE SANCIONES PENALES
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 55 Bis.
+
+Los juzgados de ejecución de sanciones penales tendrán la competencia que señala la Ley de Ejecución de Sanciones Penales del Estado de Michoacán de Ocampo; su número y circunscripción territorial serán determinados por el Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 55 Ter.
+
+Los juzgados de ejecución de sanciones penales se integrarán por un juez y el demás personal que determine el Consejo, atendiendo a la naturaleza de la función, a las necesidades del servicio y de acuerdo al presupuesto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 55 Quáter.
+
+Son atribuciones de los jueces de ejecución de sanciones penales:
+
+I. Tener a su cargo el personal que determine el Consejo y poner en conocimiento de éste las irregularidades cometidas por aquél; y,
+
+II. Desempeñar las demás funciones que les confieran las leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Artículo 55 Quintus. Los jueces de ejecución de sanciones penales deberán cumplir con los requisitos suficientes de especialización en la materia, conforme a los criterios de formación que establezca el Consejo, además de los señalados por el Artículo 88 de la Constitución.
+
+Los jueces de ejecución penales deberán someterse para su ingreso a concurso de oposición, de conformidad con lo establecido en esta Ley y el reglamento específico; durarán en su encargo tres años.
+
+### CAPÍTULO CUARTO. JUZGADOS MENORES
 
 ###### Artículo 56.
 
@@ -677,7 +715,9 @@ Los juzgados menores con sede en las ciudades de Apatzingán, Hidalgo, La Piedad
 
 I. En materia civil los juicios civiles cuya cuantía no exceda de mil veces el salario mínimo general vigente en el Estado. Se exceptúan las cuestiones del orden familiar, propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versen sobre estado y condición de las personas; y de las diligencias de consignación, incluso las de pensión alimenticia;
 
-II. En materia mercantil de los juicios mercantiles cuya cuantía no exceda de mil veces el salario mínimo general vigente en el Estado; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II. En materia mercantil de los juicios mercantiles cuya cuantía no exceda de mil veces el salario mínimo general vigente en el Estado, con excepción de los juicios ordinarios orales, cuya, competencia corresponde a los juzgados de primera instancia en materia civil o mercantil, en los términos dispuestos por esta Ley; y,
 
 III. En materia penal de los delitos que tengan como sanción apercibimiento; caución de no ofender; pena alternativa; multa, cuando ésta no exceda del importe de cien días de salario mínimo general vigente en el momento y lugar en que se cometió el delito, prisión; y, cuando ésta no exceda de tres años, excepto de los delitos previstos y sancionados por los artículos 105, 116 y 117 del Código Penal del Estado. Además de la diligencia de exhortos, requisitorias o despachos que reciban y sean de su competencia; y, de los demás asuntos que les encomienden las leyes.
 
@@ -687,7 +727,9 @@ Los juzgados menores de las ciudades no contemplados en el artículo anterior, t
 
 I. En materia civil de los juicios civiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado. Se exceptúan las cuestiones del orden familiar, propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versan sobre estado y condición de las personas; y, de las diligencias de consignación, incluso las de pensión alimenticia;
 
-II. En materia mercantil de los juicios mercantiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II. En materia mercantil de los juicios mercantiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado, con excepción de los juicios ordinarios orales, cuya competencia corresponde a los juzgados de primera instancia en materia civil o mercantil, en los términos dispuestos por esta Ley; y,
 
 III. En materia penal de los delitos que tengan como sanción: apercibimiento; caución de no ofender; pena alternativa; y, multa, cuando ésta no exceda del importe de treinta días de salario mínimo general vigente en el momento y lugar en que se cometió el delito; prisión, cuando ésta no exceda de un año. Además de la diligencia de exhortos, requisitorias o despachos que reciban y sean de su competencia; y de los demás asuntos que les encomienden las leyes.
 
@@ -719,9 +761,7 @@ II. Los demás servidores públicos que determine el Consejo del Poder Judicial.
 
 Estos últimos servidores públicos tendrán, en lo conducente, las mismas facultades y obligaciones que sus homólogos de un Juzgado de Primera Instancia.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL CONSEJO
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+### CAPÍTULO QUINTO. JUZGADOS COMUNALES
 
 ###### Artículo 62.
 
@@ -761,7 +801,9 @@ VIII. De la mediación y conciliación de conflictos en materia familiar, siempr
 
 Los jueces comunales, dentro de su jurisdicción mercantil, tendrán competencia para conocer y resolver:
 
-I. De los juicios mercantiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+I. De los juicios mercantiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado, con excepción de los juicios ordinarios orales, cuya competencia corresponde a los juzgados de primera instancia en materia civil o mercantil, en los términos dispuestos por esta Ley; y,
 
 II. De la mediación y conciliación de conflictos en materia mercantil que no excedan de lo señalado en la fracción I del artículo 63.
 
@@ -821,7 +863,9 @@ Estos últimos servidores públicos tendrán, en lo conducente, las mismas facul
 
 ## TÍTULO CUARTO. CONSEJO DEL PODER JUDICIAL
 
-### CAPÍTULO SEGUNDO. ATRIBUCIONES DEL CONSEJO DEL PODER JUDICIAL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 71.
 
@@ -867,7 +911,7 @@ VII. Cerrada la votación, el Comité realizará el cómputo de los votos y decl
 
 Los Consejeros, con excepción del Presidente del Consejo, rendirán protesta ante el Congreso del Estado. Concluidos los procedimientos de elección o designación se notificará al Congreso, quien los convocará para este efecto. Rendida la protesta, el Congreso informará al Presidente del Consejo.
 
-### CAPÍTULO TERCERO. PRESIDENTE DEL CONSEJO DEL PODER JUDICIAL
+### CAPÍTULO SEGUNDO. ATRIBUCIONES DEL CONSEJO DEL PODER JUDICIAL
 
 ###### Artículo 77.
 
@@ -965,7 +1009,7 @@ XLII. Las resoluciones deberán publicarse en el Sistema Morelos, incluyendo los
 
 XLIII. Las demás que le confiera esta Ley y otros ordenamientos.
 
-### CAPÍTULO CUARTO. COMISIONES DEL CONSEJO DEL PODER JUDICIAL
+### CAPÍTULO TERCERO. PRESIDENTE DEL CONSEJO DEL PODER JUDICIAL
 
 ###### Artículo 78.
 
@@ -1011,7 +1055,7 @@ XIX. Informar al Gobernador y al Congreso de las vacantes que se produzcan en el
 
 XX. Las demás que le confieran las leyes y reglamentos.
 
-### CAPÍTULO QUINTO. COMISIÓN DE ADMINISTRACIÓN
+### CAPÍTULO CUARTO. COMISIONES DEL CONSEJO DEL PODER JUDICIAL
 
 ###### Artículo 79.
 
@@ -1035,7 +1079,7 @@ En todos aquellos casos en que no es posible la resolución de un asunto en comi
 
 Las comisiones someterán al Consejo los proyectos y acuerdos que formulen, conforme a sus atribuciones, para los efectos correspondientes.
 
-### CAPÍTULO SEXTO. COMISIÓN DE CARRERA JUDICIAL
+### CAPÍTULO QUINTO. COMISIÓN DE ADMINISTRACIÓN
 
 ###### Artículo 83.
 
@@ -1043,7 +1087,7 @@ La Comisión está encargada de controlar, dirigir, y vigilar, las funciones de 
 
 El Sistema Morelos de Informática Judicial tendrá la organización y funciones que determine el reglamento.
 
-### CAPÍTULO SÉPTIMO. COMISIÓN DE VIGILANCIA Y DISCIPLINA
+### CAPÍTULO SEXTO. COMISIÓN DE CARRERA JUDICIAL
 
 ###### Artículo 84.
 
@@ -1053,7 +1097,7 @@ La Comisión tendrá bajo su cargo la investigación, la compilación de la juri
 
 El Consejo expedirá el Reglamento del Instituto de la Judicatura.
 
-### CAPÍTULO OCTAVO. SECRETARIOS DEL CONSEJO
+### CAPÍTULO SÉPTIMO. COMISIÓN DE VIGILANCIA Y DISCIPLINA
 
 ###### Artículo 85.
 
@@ -1073,7 +1117,7 @@ Corresponde a la Comisión de Vigilancia, por conducto de su Presidente, formula
 
 Los jueces de Primera Instancia enviarán oportunamente a la Comisión de Vigilancia y Disciplina, para los efectos de la responsabilidad oficial, los procesos penales concluidos por resolución que no haya sido recurrida. Los expedientes se remitirán al Archivo Judicial, si previo el estudio respectivo, se determina que no existe falta qué sancionar.
 
-### CAPÍTULO PRIMERO. INSTITUTO DE LA JUDICATURA
+### CAPÍTULO OCTAVO. SECRETARIOS DEL CONSEJO
 
 ###### Artículo 89.
 
@@ -1139,7 +1183,7 @@ XI. Las demás que señale el Consejo, las leyes y reglamentos.
 
 ## TÍTULO QUINTO. ÓRGANOS INTERNOS
 
-### CAPÍTULO SEGUNDO. CONTRALORÍA INTERNA
+### CAPÍTULO PRIMERO. INSTITUTO DE LA JUDICATURA
 
 ###### Artículo 93.
 
@@ -1163,7 +1207,7 @@ VIII. La conservación del acervo bibliográfico y del archivo histórico; y,
 
 IX. Las demás que el Consejo, la Comisión y el reglamento le señalen.
 
-### CAPÍTULO TERCERO. ARCHIVO JUDICIAL
+### CAPÍTULO SEGUNDO. CONTRALORÍA INTERNA
 
 ###### Artículo 94.
 
@@ -1195,7 +1239,7 @@ Cuando derivado del ejercicio de las funciones de la Contraloría, se presuma la
 
 El reglamento interior determinará los procedimientos y demás atribuciones que le correspondan a la Contraloría Interna.
 
-### CAPÍTULO CUARTO. ARCHIVO HISTÓRICO
+### CAPÍTULO TERCERO. ARCHIVO JUDICIAL
 
 ###### Artículo 97.
 
@@ -1225,13 +1269,13 @@ Los expedientes depositados en el Archivo Judicial y que carezcan de valor hist�
 
 Los expedientes de los juicios o procesos concluidos que no se encuentren en ninguno de los supuestos establecidos en el artículo anterior serán analizados por una comisión de especialistas, quienes realizarán un dictamen de cada expediente, en el que determinarán cuáles son susceptibles de ser destruidos, por carecer de valor histórico.
 
-### CAPÍTULO QUINTO. SISTEMA MORELOS DE INFORMÁTICA JUDICIAL
+### CAPÍTULO CUARTO. ARCHIVO HISTÓRICO
 
 ###### Artículo 102.
 
 La organización y funcionamiento del Archivo Histórico dependerá de la Comisión de Administración; y, le corresponderá la conservación de los documentos que de acuerdo con la Ley de la materia, tengan un interés para el Estado por haberse asentado en éstos un precedente judicial con valor histórico.
 
-### CAPÍTULO PRIMERO. CARRERA JUDICIAL
+### CAPÍTULO QUINTO. SISTEMA MORELOS DE INFORMÁTICA JUDICIAL
 
 ###### Artículo 103.
 
@@ -1251,7 +1295,7 @@ IV. El mantenimiento de las redes y equipos de cómputo a fin de apoyar el desem
 
 ## TÍTULO SEXTO. PROCEDIMIENTOS
 
-### CAPÍTULO SEGUNDO. CONCURSO DE OPOSICIÓN
+### CAPÍTULO PRIMERO. CARRERA JUDICIAL
 
 ###### Artículo 105.
 
@@ -1289,7 +1333,7 @@ IX. Escribiente.
 
 En el caso de los jueces menores, tendrán como categoría para la Carrera Judicial la de Secretario de Acuerdos de Juzgado y, en el caso de los Jueces Comunales, la de Secretario Proyectista de Juzgado.
 
-### CAPÍTULO TERCERO. ADSCRIPCIÓN Y RATIFICACIÓN
+### CAPÍTULO SEGUNDO. CONCURSO DE OPOSICIÓN
 
 ###### Artículo 109.
 
@@ -1323,7 +1367,7 @@ IV. La trayectoria profesional del aspirante.
 
 Tratándose de concursos de oposición con relación a puestos de base, además de los integrantes de la Comisión de Carrera judicial, participarán con derecho a voz dos representantes sindicales.
 
-### CAPÍTULO PRIMERO. PERSONAL DEL PODER JUDICIAL
+### CAPÍTULO TERCERO. ADSCRIPCIÓN Y RATIFICACIÓN
 
 ###### Artículo 112.
 
@@ -1343,7 +1387,7 @@ Para la ratificación de jueces se estará a lo dispuesto en los artículos 87 y
 
 ## TÍTULO SÉPTIMO. PERSONAL DEL PODER JUDICIAL
 
-### CAPÍTULO SEGUNDO. AUSENCIAS, LICENCIAS, SUSTITUCIONES Y RENUNCIAS
+### CAPÍTULO PRIMERO. PERSONAL DEL PODER JUDICIAL
 
 ###### Artículo 116.
 
@@ -1401,7 +1445,7 @@ Los jueces del Estado, al quedar firmes las sentencias mencionadas en el artícu
 
 La falta de este aviso no exime al servidor público suspendido de la obligación de presentarse a reanudar sus labores en los términos que señala esta Ley.
 
-### CAPÍTULO TERCERO. IMPEDIMENTOS
+### CAPÍTULO SEGUNDO. AUSENCIAS, LICENCIAS, SUSTITUCIONES Y RENUNCIAS
 
 ###### Artículo 126.
 
@@ -1519,7 +1563,7 @@ En el caso de que el Secretario no sea Licenciado en Derecho, sólo podrá ser a
 
 Las renuncias de los magistrados se presentarán ante el Congreso para que resuelva lo conducente. Las de los jueces y servidores públicos del Poder Judicial se presentarán ante el Consejo, el que calificará y resolverá lo procedente.
 
-### CAPÍTULO CUARTO. VACACIONES Y DÍAS INHÁBILES
+### CAPÍTULO TERCERO. IMPEDIMENTOS
 
 ###### Artículo 144.
 
@@ -1561,7 +1605,7 @@ XVII. Haber sido Agente del Ministerio Público, perito, testigo, apoderado, pat
 
 XVIII. Cualquier otra análoga a las anteriores.
 
-### CAPÍTULO PRIMERO. SUJETOS
+### CAPÍTULO CUARTO. VACACIONES Y DÍAS INHÁBILES
 
 ###### Artículo 145.
 
@@ -1583,7 +1627,7 @@ El Consejo dictará los acuerdos necesarios para que no se suspendan las diligen
 
 ## TÍTULO OCTAVO. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL
 
-### CAPÍTULO SEGUNDO. CAUSAS DE RESPONSABILIDAD
+### CAPÍTULO PRIMERO. SUJETOS
 
 ###### Artículo 149.
 
@@ -1599,7 +1643,7 @@ El Consejo informará al Congreso inmediatamente cuando conozca de hechos fundad
 
 El Consejo conocerá y resolverá imponiendo, en su caso, las sanciones correspondientes a los servidores públicos del Poder Judicial, cuando incurran en causas de responsabilidad, dando vista al Ministerio Público en caso de probable delito.
 
-### CAPÍTULO TERCERO. SANCIONES
+### CAPÍTULO SEGUNDO. CAUSAS DE RESPONSABILIDAD
 
 ###### Artículo 152.
 
@@ -1667,7 +1711,7 @@ XVIII. Intervenir en los resultados de los concursos de oposición y ejercer pre
 
 XIX. Las demás que determine la ley.
 
-### CAPÍTULO CUARTO. PROCEDIMIENTO ADMINISTRATIVO DE RESPONSABILIDAD
+### CAPÍTULO TERCERO. SANCIONES
 
 ###### Artículo 154.
 
@@ -1703,7 +1747,7 @@ Siempre que se impongan sanciones, se informará por escrito al área administra
 
 Las resoluciones sobre sanciones determinadas por el Consejo no serán recurribles.
 
-### CAPÍTULO QUINTO. EXCITATIVAS DE JUSTICIA
+### CAPÍTULO CUARTO. PROCEDIMIENTO ADMINISTRATIVO DE RESPONSABILIDAD
 
 ###### Artículo 160.
 
@@ -1730,6 +1774,8 @@ V. Con los elementos recabados la Comisión presentará por conducto de su Presi
 ###### Artículo 162.
 
 Para la valoración de pruebas se aplicará supletoriamente el Código de Procedimientos Penales; en caso de tratarse de un trabajador de base o sindicalizado se estará a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios.
+
+### CAPÍTULO QUINTO. EXCITATIVAS DE JUSTICIA
 
 ###### Artículo 163.
 
@@ -1892,3 +1938,7 @@ P.O. 3 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
