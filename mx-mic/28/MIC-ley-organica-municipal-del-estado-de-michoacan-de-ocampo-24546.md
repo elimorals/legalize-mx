@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2011-11-11"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -302,6 +302,22 @@ Zinapécuaro Zinapécuaro de Figueroa
 Ziracuaretiro Ziracuaretiro
 
 Zitácuaro Heróica Zitácuaro
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+De la División Política y Clasificación Municipal
+
+Artículo 3° bis. Los municipios del Estado de Michoacán se clasificarán para su mejor tratamiento administrativo, financiero, social, político y de asignación de derechos y obligaciones en:
+
+Municipios Urbanos, son los que tienen más de setenta mil habitantes, cuentan con instituciones de educación media superior y superior de carácter público o privado; Instituciones de Salud Pública de segundo nivel o más; infraestructura urbana suficiente en las áreas de transporte, energía, sanitaria, telecomunicaciones y de usos varios como vivienda, comercio; industria, salud, educación y recreación.
+
+Municipios Semiurbanos, los que tienen más de cuarenta mil habitantes y menos de setenta mil; cuentan con instituciones de educación media superior de carácter público o privado; Instituciones de Salud Pública de Primer Nivel; infraestructura urbana media en las áreas de transporte, energía, sanitaria, telecomunicaciones y de usos varios como vivienda, comercio, industria, salud, educación y recreación.
+
+Municipios en desarrollo o rurales, los que tienen menos de cuarenta mil habitantes;
+
+El número de habitantes se tomará del último censo ó conteo de población del INEGI; a petición del Ayuntamiento el Congreso del Estado podrá reclasificar a los municipios considerando otros índices de desarrollo diferente al poblacional.
+
+La clasificación municipal planteada en este artículo podrá servir de base en los planes y programas, estatales y municipales, así como para los lineamientos de cualquier ley o decreto emitido por la legislatura local.
 
 ###### Artículo 4º.
 
@@ -634,6 +650,10 @@ XIV. Integrar comisiones de trabajo para el estudio y atención de los servicios
 XV. Conceder fundadamente a sus miembros licencias hasta por dos meses y hasta por seis meses a los empleados municipales;
 
 XVI. Aprobar, en su caso, los nombramientos y remociones del Secretario del Ayuntamiento, del Tesorero Municipal y del Titular del Comité de Desarrollo Integral de la Familia a propuesta del Presidente Municipal;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XVI bis. Designar al Director de Seguridad Pública Municipal o su equivalente, a partir de la propuesta de terna que realice el Presidente Municipal, eligiendo al Director en votación calificada en sesión de Cabildo.
 
 XVII. Proponer, y aprobar en su caso, el nombramiento y remoción del Contralor Municipal; y,
 
@@ -1387,15 +1407,19 @@ XVII. Las demás que le confiera ésta u otras leyes, reglamentos y acuerdos del
 
 ### Capítulo VII. De los Auxiliares de la Administración Pública Municipal
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 60.
 
-El Gobierno y la administración municipal en las poblaciones fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden, propietarios y suplentes, que serán electos por Plebiscito.
+La administración municipal en las poblaciones fuera de la cabecera municipal, estará a cargo de los jefes de tenencia y encargados del orden en sus comunidades, quienes dependerán jerárquicamente en lo político y administrativo del Presidente Municipal.
 
-Los suplentes cubrirán las faltas temporales menores de 60 días de sus respectivos propietarios y las mayores se cubrirán por nueva elección.
+Una Tenencia podrá contar con una o más encargaturas del orden, el encargado de cada una de ellas será electo por plebiscito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 61.
 
-Los jefes de tenencia y los encargados del orden, funcionarán en sus respectivas demarcaciones como delegados de los ayuntamientos y de manera especial de los Presidentes y Síndicos y tendrán las siguientes funciones:
+Los jefes de tenencia y encargados del orden, funcionarán en sus respectivas demarcaciones como auxiliares de los ayuntamientos y tendrán las siguientes funciones:
 
 I. Coadyuvar en la ejecución de los programas, proyectos y acciones que realice el Ayuntamiento, en el ámbito territorial de su competencia;
 
@@ -1405,9 +1429,9 @@ III. Supervisar la prestación de los servicios públicos y proponer las medidas
 
 IV. Cuidar el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad las acciones que requieren de su intervención;
 
-V. Organizar, operar y actualizar el Padrón de Habitantes de su demarcación y remitirlo al Presidente Municipal en el primer mes del año;
+V. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
 
-VI. Expedir gratuitamente los certificados para acreditar la insolvencia en los casos de inhumación y supervisar, en el ámbito de su competencia, que se cumplan las disposiciones relativas al Registro Civil;
+VI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
 
 VII. Vigilar el cumplimiento de las disposiciones reglamentarias que expida el Ayuntamiento y reportar a la autoridad correspondiente, las violaciones que haya a los mismos;
 
@@ -1415,25 +1439,65 @@ VIII. Cumplir y ejecutar los acuerdos, órdenes y citatorios del Ayuntamiento, d
 
 IX. Promover ante las autoridades competentes, la limpieza y el aseo de los sitios públicos y el buen estado de los caminos vecinales y carreteras;
 
-X. Procurar que en sus respectivas demarcaciones se establezcan centros educativos, vigilando el cumplimiento de los preceptos de la enseñanza obligatoria, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+X. Vigilar y dar cuenta al Ayuntamiento de la falta de cumplimiento a los preceptos de la enseñanza obligatoria de conformidad con las disposiciones aplicables, procurando el establecimiento de centros educativos dentro de su demarcación;
 
 XI. Informar a las autoridades municipales y de protección civil sobre siniestros, epidemias o cualquier otro evento que ponga en riesgo la seguridad de la población;
 
-XII. Aprehender, en su caso, a los delincuentes poniéndolos a disposición de la autoridad competente de la cabecera municipal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XII. Colaborar con las autoridades correspondientes en la preservación de la seguridad pública.
 
 XIII. Auxiliar en todo lo que requiera al Presidente Municipal para el mejor cumplimiento de sus funciones; y,
 
-XIV. Desempeñar todas las demás funciones que les encomienden esta Ley, los reglamentos municipales y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XIV. Informar anualmente al Ayuntamiento sobre el estado general que guarde la administración de la tenencia y del avance del Plan Municipal de Desarrollo en su jurisdicción, un mes antes de la fecha límite para la presentación del informe anual del Presidente Municipal.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XV. Desempeñar todas las demás funciones que les encomienden esta Ley, los reglamentos municipales y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Artículo 61 bis. A propuesta del Jefe de Tenencia respectivo, el Presidente Municipal designará un secretario administrativo en cada tenencia para apoyar las actividades del Jefe de Tenencia y tendrán las siguientes funciones:
+
+I. Fomentar la participación ciudadana en los programas de beneficio social;
+
+II. Organizar, operar y actualizar el archivo administrativo e histórico de la Tenencia;
+
+lII. Elaborar las certificaciones sobre actos y resoluciones de competencia de la Tenencia, debiendo recabar la firma del jefe de tenencia;
+
+IV. Coadyuvar en la elaboración de los informes administrativos anuales para presentar al Ayuntamiento;
+
+V. Elaborar los certificados para acreditar la insolvencia en los casos de inhumación y supervisar, en el ámbito de su competencia, que se cumplan las disposiciones relativas al Registro Civil, debiendo recabar la firma del Jefe de Tenencia;
+
+VI. Cumplir y ejecutar los acuerdos, órdenes y citatorios del jefe de Tenencia, del Ayuntamiento, del Presidente Municipal, del Síndico o de los Jueces Municipales; y,
+
+VII. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 62.
 
-Funcionará un jefe en cada una de las tenencias, y un encargado del orden en cada uno de los centros de población que haya en el municipio.
+Funcionará un jefe en cada una de las tenencias, y un encargado del orden en cada uno de los centros de población.
 
-Los plebiscitos se verificarán con la asistencia de los ciudadanos que sean vecinos de la tenencia o centro de población, cuya reunión será presidida por un representante del Presidente Municipal, que procurará que el recuento de votos se haga con escrupulosidad para cerciorarse de los resultados efectivos de la elección.
+El Secretario del Ayuntamiento emitirá convocatoria para elegir a los auxiliares administrativos de cada Tenencia dentro de los 60 días posteriores a la instalación del Ayuntamiento. Una vez emitida la convocatoria, los ciudadanos interesados deberán inscribirse de acuerdo a las bases establecidas en la misma.
+
+El Jefe de tenencia será electo en votación será libre y secreta, sancionada por una comisión especial, creada por el Ayuntamiento para cada una de las tenencias, integrada de manera plural con un regidor de cada una de las fuerzas políticas que integran el cabildo y por el Secretario del Ayuntamiento como fedatario.
+
+La elección se llevará a cabo a más tardar dentro de los 90 días posteriores a la instalación del Ayuntamiento: Los jefes de Tenencia serán electos por el mismo periodo que el Ayuntamiento en funciones y no podrán ser electos para el periodo inmediato.
+
+Se requerirá credencial para votar expedida por el Instituto Federal Electoral que corresponda la sección en la que se está sufragando.
+
+Tratándose de comunidades indígenas así reconocidas por la Comisión Nacional de los Pueblos Indígenas se podrá recurrir a formas de elección según usos y costumbres.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 63.
 
-Los jefes de tenencia y los encargados del orden, recibirán la remuneración que marque el Presupuesto de Egresos, durarán en su cargo tres años y no podrán ser electos para el periodo inmediato.
+Los jefes de tenencia, los encargados del orden y los Secretarios administrativos recibirán la remuneración que marque el Presupuesto de Egresos y se pagará directamente por la Tesorería Municipal.
 
 ###### Artículo 64.
 
@@ -1443,11 +1507,15 @@ Los jefes de manzana auxiliarán a las autoridades municipales en el cumplimient
 
 Los jefes de manzana podrán designar auxiliares para el desempeño de sus funciones, con aprobación del Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 65.
 
-Para ser jefe de tenencia, encargado del orden y jefe de manzana o auxiliar, se requiere ser vecino de la respectiva circunscripción, tener un modo honesto de vivir y contar con una instrucción por lo menos elemental, dependerán jerárquicamente en lo político y administrativo del Presidente Municipal.
+Para ser Jefe de Tenencia, Secretario de la Tenencia, Encargado del Orden y Jefe de Manzana o auxiliar, se requiere ser mayor de edad, vecino de la respectiva circunscripción, tener un modo honesto de vivir y contar con una instrucción de por lo menos educación básica.
 
-Podrán nombrarse auxiliares de la Hacienda Municipal en las poblaciones que así lo ameríten, a juicio del Presidente Municipal, previa aprobación del Ayuntamiento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, 28 DE DICIEMBRE DE 2011)</small>
+
+Los Auxiliares de la Administración Municipal no podrán contravenir las instrucciones del Presidente Municipal o del Ayuntamiento según sea el caso; ni podrán convenir con el estado, la federación, otros municipios o entidades públicas o privadas ni particulares por cuenta propia, sino únicamente a través del Ayuntamiento. Deberán dar seguimiento cabal a los Planes de Desarrollo Municipal y cumplir con los lineamientos del manual de presupuesto y gasto público.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2009)</small>
 
@@ -2686,3 +2754,27 @@ P.O. 11 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO, 384 POR EL QUE SE ADICIONA UNA FRACCIÓN XVI BIS AL ARTÍCULO 32, APARTADO A), DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+PRIMERO. El presente Decreto entrará en vigor el día 1° primero de enero del 2012, dos mil doce, y previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 419, POR EL QUE SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 63 Y 65; Y SE ADICIONAN LOS ARTÍCULOS 3° BIS Y 61 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Jefes de Tenencia que en la fecha de instalación de los Ayuntamientos electos para el periodo 2012-2015 no hayan cumplido el periodo indicado en el artículo 62 de esta Ley, por única ocasión continuarán en el cargo hasta su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+Los Jefes de Tenencia y encargados del orden terminarán su encargo el mismo día que el Ayuntamiento en funciones, debiendo permanecer en el mismo hasta que el nuevo Ayuntamiento realice la sustitución correspondiente.
