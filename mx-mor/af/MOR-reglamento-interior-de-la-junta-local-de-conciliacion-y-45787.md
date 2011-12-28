@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-junta-local-de-conciliacion-y-45787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-10"
-last_updated: "2005-08-10"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL EL 28 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de agosto de 2005.
 
@@ -694,3 +696,11 @@ TERCERO.- El Presidente de la Junta deberá realizar las gestiones necesarias an
 El presente reglamento fue aprobado por el Pleno de la Junta Local de Conciliación y Arbitraje del Estado de Morelos en sesión solemne celebrada en la ciudad de Cuernavaca, Morelos, el día 30 de junio del año dos mil cinco.
 
 El Licenciado Joaquín Sedano Tapía, Secretario General de Acuerdos de la Junta Local de Conciliación y Arbitraje del Estado de Morelos y Secretario del Pleno de la propia Junta CERTIFICA: Que la presente copia, constante de 25 hojas, concuerda fielmente con el original del Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Estado de Morelos aprobado por e Pleno en su sesión que tuvo verificativo el día 30 de junio del año dos mil cinco.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Junta Local de Conciliación y Arbitraje del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" numero 4406 de fecha diez de agosto del 2005 y las demás disposiciones de rango igual o inferior que se opongan al presente Reglamento.
+
+TERCERO. Los Manuales de Organización y de Políticas y procedimientos deberán emitirse en un plazo máximo de sesenta días naturales contados a partir de la emisión del presente Reglamento.
