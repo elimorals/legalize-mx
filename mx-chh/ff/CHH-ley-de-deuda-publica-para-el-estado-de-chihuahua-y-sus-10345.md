@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-deuda-publica-para-el-estado-de-chihuahua-y-sus-10345"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "2011-05-11"
+last_updated: "2011-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 1994.
 
@@ -163,11 +163,11 @@ Las Entidades que menciona el artículo 2o. de esta Ley, deberán publicar, dent
 
 El Ejecutivo del Estado y los municipios enviarán al Congreso del Estado los contratos que celebren al amparo de las autorizaciones de endeudamiento solicitados a fin de facilitarle el cumplimiento de las funciones de fiscalización que le atribuye la Constitución del Estado y las leyes secundarias.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-La Secretaría de Finanzas y Administración es la dependencia del Ejecutivo facultada para aplicar en la esfera administrativa, la presente Ley, así como para regular su debido cumplimiento.
+La Secretaría de Hacienda es la dependencia del Ejecutivo facultada para aplicar en la esfera administrativa, la presente Ley, así como para regular su debido cumplimiento.
 
 ### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANOS DE DEUDA PUBLICA
 
@@ -225,11 +225,11 @@ En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. 
 
 III.- Las demás facultades que le confiera la Constitución Política del Estado y leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-Corresponde al Ejecutivo del Estado, en materia de deuda pública, por conducto de la Secretaría de Finanzas y Administración:
+Corresponde al Ejecutivo del Estado en materia de deuda pública, por conducto de la Secretaría de Hacienda:
 
 I.- Evaluar las necesidades y capacidad de endeudamiento del Estado, y demás entidades a que se refiere el artículo 2o. de esta Ley, así como asesorarlas en materia de deuda pública, con excepción de las municipales a quienes solo podrá asesorarlas previa solicitud de las mismas;
 
@@ -249,9 +249,9 @@ V.- Con la autorización del Congreso del Estado, afectar en garantía o como fu
 
 En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Inversión Pública a Largo Plazo, de conformidad con la ley de la materia.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VI.- Autorizar a los organismos descentralizados del Estado, empresas de participación estatal mayoritaria y fideicomisos, para gestionar y contratar financiamientos ajustándose a sus presupuestos, a las disposiciones de esta ley y a las leyes que los regulen, en cuyo caso la iniciativa de decreto correspondiente se tramitará a través de la Secretaría de Finanzas y Administración;
+VI.- Autorizar a los organismos descentralizados del Estado, empresas de participación estatal mayoritaria y fideicomisos, para gestionar y contratar financiamientos ajustándose a sus presupuestos, a las disposiciones de esta Ley y a las leyes que los regulen, en cuyo caso la iniciativa de decreto correspondiente se tramitará a través de la Secretaría de Hacienda.
 
 VII.- Establecer en el proyecto de presupuesto de egresos que el Ejecutivo envíe al Congreso del Estado, las previsiones correspondientes a amortizaciones de capital, de intereses y demás accesorios derivados de las operaciones de endeudamiento contraídas por el Gobierno del Estado;
 
@@ -367,25 +367,25 @@ El Estado y los municipios solo podrán realizar operaciones de conversión de d
 
 Tratándose de las solicitudes de endeudamiento de los municipios y de sus organismos descentralizados, fideicomisos y empresas de participación mayoritaria, el Congreso del Estado podrá autorizar al Ejecutivo a que se constituya en aval o responsable solidario de dichas obligaciones, siempre que los municipios afecten las participaciones que les correspondan en ingresos federales y estatales.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 31.
 
-En cualquier caso en que alguna de las entidades señaladas en las fracciones II a V del artículo 2o., requiera el aval o la garantía solidaria del Estado, deberá formularse solicitud por escrito a la Secretaría de Finanzas y Administración, acompañando la información que permita determinar su capacidad de pago y de endeudamiento, a (sic) necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos del crédito, así como el plan de amortización correspondiente, indicando claramente los recursos que se utilizarán para el pago de los financiamientos y las garantías correspondientes, que serán preferentemente los que se deriven de las obras que se realicen o de los servicios que se presten.
+En cualquier caso en que alguna de las entidades señaladas en las fracciones II a V del artículo 2o., requiera el aval o la garantía solidaria del Estado, deberá formularse solicitud por escrito a la Secretaría de Hacienda, acompañando la información que permita determinar su capacidad de pago y de endeudamiento, la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos del crédito, así como el plan de amortización correspondiente, indicando claramente los recursos que se utilizarán para el pago de los financiamientos y las garantías correspondientes, que serán preferentemente los que se deriven de las obras que se realicen o de los servicios que se presten.
 
-Efectuado lo anterior, los municipios deberán acompañar a la iniciativa de decreto correspondiente el acuerdo aprobatorio emitido por la dependencia del Ejecutivo citada, respecto al otorgamiento del aval o constitución de responsabilidad solidaria, con garantía de las participaciones federales del Estado. Las solicitudes a que se refiere este artículo, tratándose de organismos descentralizados pertenecientes al sector municipal, se presentarán a la Secretaría de Finanzas y Administración, por conducto del municipio correspondiente.
+Efectuado lo anterior, los municipios deberán acompañar a la iniciativa de decreto correspondiente el acuerdo aprobatorio emitido por la dependencia del Ejecutivo citada, respecto al otorgamiento del aval o constitución de responsabilidad solidaria, con garantía de las participaciones federales del Estado. Las solicitudes a que se refiere este artículo, tratándose de organismos descentralizados pertenecientes al sector municipal, se presentarán a la Secretaría de Hacienda, por conducto del municipio correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 32.
 
-Si de la evaluación que realice la Secretaría de Finanzas y Administración se desprende que la capacidad de pago o de endeudamiento de la entidad de que se trate es insuficiente, o el proyecto que se pretende financiar no corresponde a una inversión pública productiva, se negará el aval o la garantía solidaria del Estado, salvo que los recursos del crédito que se pretende obtener se destinen a reparar los daños causados por desastres naturales.
+Si de la evaluación que realice la Secretaría de Hacienda se desprende que la capacidad de pago o de endeudamiento de la entidad de que se trate es insuficiente, o el proyecto que se pretende financiar no corresponde a una inversión pública productiva, se negará el aval o la garantía solidaria del Estado, salvo que los recursos del crédito que se pretende obtener se destinen a reparar los daños causados por desastres naturales.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 33.
 
-El Estado, por conducto de la Secretaría de Finanzas y Administración, podrá otorgar créditos a las entidades a que se refieren las fracciones II a V del artículo 2o. de esta Ley, siempre y cuando se restituya su importe y el respectivo costo financiero, dentro de un plazo que no exceda de doce meses a partir de su otorgamiento. Tratándose de municipios deberá estarse al plazo establecido en el artículo 23 de esta Ley.
+El Estado, por conducto de la Secretaría de Hacienda podrá otorgar créditos a las entidades a que se refieren las fracciones II a V del artículo 2o. de esta Ley, siempre y cuando se restituya su importe y el respectivo costo financiero, dentro de un plazo que no exceda de doce meses a partir de su otorgamiento. Tratándose de municipios deberá estarse al plazo establecido en el artículo 23 de esta Ley.
 
 ###### ARTICULO 34.
 
@@ -401,9 +401,9 @@ Las operaciones de crédito público realizadas en contravención a las disposic
 
 Cada una de las entidades a que se refiere el artículo 2o. de esta Ley, deberá llevar un control interno de sus operaciones de crédito público, por medio de un registro.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Asimismo, la Secretaría de Finanzas y Administración deberá llevar un registro central de deuda pública estatal.
+Asimismo, la Secretaría de Hacienda deberá llevar un registro central de deuda pública estatal.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -419,9 +419,9 @@ En los registros mencionados anteriormente se asentarán al menos los siguientes
 
 I.- El número progresivo que corresponda;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-II.- La autorización del Congreso del Estado, de la Secretaría de Finanzas y Administración, del Ayuntamiento de que se trate o del órgano público que deba darlo;
+II.- La autorización del Congreso del Estado, de la Secretaría de Hacienda, del Ayuntamiento de que se trate o del órgano público que deba darlo;
 
 III.- El organismo u organismos con quienes se contrato, los plazos, las tasas de interés y las garantías que se otorgaron;
 
@@ -556,3 +556,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
