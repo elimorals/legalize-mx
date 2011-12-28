@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2010-12-28"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -515,7 +515,7 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 47.
 
@@ -879,7 +879,7 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 69.
 
@@ -903,7 +903,7 @@ El pago de este impuesto se sujetará a lo siguiente:
 
 a) Tratándose de contribuyentes eventuales y si se pudiera determinar o calcular previamente el monto del ingreso, el pago se efectuará antes de la realización de la diversión o espectáculo respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 b) Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Tesorería Municipal, del 10% del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate, el pago del impuesto se efectuará al término del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo, o bien, reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
 
@@ -1117,7 +1117,7 @@ Es objeto de este derecho, el transporte, matanza, guarda en corrales, peso en b
 
 Los derechos por los servicios de Rastro se causarán de conformidad con lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 DE LA MATANZA FUERA DE LOS RASTROS PÚBLICOS
 
@@ -1143,7 +1143,7 @@ El objeto de estos derechos está constituido por los servicios que presta el Ca
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa, tasada en salarios mínimos vigentes en el estado de Yucatán:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 95.
 
@@ -1261,7 +1261,7 @@ El derecho por el uso del relleno sanitario del Municipio de Motul, para los rec
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO VIII. DERECHOS POR LICENCIAS Y PERMISOS
 
@@ -1335,7 +1335,7 @@ II.- Pagar anualmente el derecho correspondiente a la renovación, dentro de los
 
 III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en salarios mínimos para su cobro:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Con el objeto de fomentar el desarrollo empresarial, comercial, industrial y de servicios, entre los ciudadanos e incentivar sus inversiones, toda aquella persona física o moral, que demuestre fehacientemente su vecindad en este municipio, por ese simple hecho gozará del 50% de descuento en el pago de las tarifas descritas en la tabla anterior.
 
@@ -1413,31 +1413,33 @@ VIII.- Vehículos que promocionen propaganda
 
 eventual 0.20 diariamente
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO IX. DERECHOS POR SERVICIO DE PANTEONES
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 120.
 
-Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa en salarios mínimos:
+Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa en salarios mínimos vigentes en el Estado de Yucatán:
 
 I.- Por renta de bóvedas del Ayuntamiento
 
-por un período de 2 años 3.5
+por un período de 2 años 14.11
 
 II.- Por empadronamiento 1
 
-III.- Por uso de fosa común 1
+III.- Por uso de fosa común 2
 
-IV.- Cambio de concesionario 1
+IV.- Cambio de concesionario 5.29
 
 V.- Por construcción y remodelación
 
-por metro cuadrado. 0.070
+por metro cuadrado. .5
 
-VI.- Por inhumación 3.5
+VI.- Por inhumación 7.05
 
 VII.- Por exhumación 1
 
@@ -1455,7 +1457,7 @@ IX.- Por concesión de terreno de
 
 X.- Por concesión de terreno en las
 
-comisaría (sic) de Ucí y Kini de
+comisarías de Ucí y Kini de
 
 2.40 por 1.20 metros 32
 
@@ -1463,21 +1465,33 @@ XI.- Por concesión de terreno en las
 
 comisaría (sic) de Ucí y Kini de
 
-1.00 por 1.00 metros 16
+2.40 por 1.20 metros 16
 
 XII.- Por servicios en las demás comisarías se pagará:
 
 a) Por inhumación 2
 
-b) Por exhumación 1/2
+b) Por exhumación .5
 
 c) Por uso de la fosa común 1
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+XIII.- Derecho de mantenimiento de áreas comunes por
+
+concesión a perpetuidad se pagará anualmente por fosa 1
+
+b) (sic) Por exhumación .5
+
+c) Por uso de la fosa común 1
+
+XIII.- Derecho de mantenimiento de áreas comunes por
+
+concesión a perpetuidad se pagará anualmente por fosa (sic) 1
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO X. DERECHOS POR SERVICIOS DE VIGILANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 121.
 
@@ -1493,7 +1507,7 @@ III.- Por hora o fracción por cada elemento 0.75
 
 El pago de este derecho se hará al momento de solicitar el servicio.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO XI. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
@@ -1563,7 +1577,7 @@ XXV. EXÁMENES PRENUPCIALES 10
 
 Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipo para proporcionar servicios de televisión por cable, pagando a la Tesorería del H. Ayuntamiento una cuota de $ 25,000.00
 
-> <small>(ADICIONADO CON LA SECCION Y LOS ARTICULOS QUE LO INTEGRAN, D.O. 24 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE ENERO DE 2006)</small>
 
 ### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -1595,7 +1609,7 @@ IV.- Por la información solicitada grabada
 
 en diskete $ 15.00
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO XIII. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
@@ -1639,13 +1653,13 @@ Los ingresos que se perciban por el derecho a que se refiere la presente Secció
 
 ### CAPÍTULO ÚNICO. DE LOS SUJETOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 110], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 110], D.O. 28 DE ENERO DE 2005)
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
 ### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
 
-(REUBICADO [N. DE E. ANTES ARTICULO 122], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 123.
 
@@ -1661,7 +1675,7 @@ En el caso de edificios sujetos a régimen de propiedad en condominio, el import
 
 DE LA CLASIFICACIÓN
 
-(REUBICADO [N. DE E. ANTES ARTICULO 111], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 111], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 124.
 
@@ -1683,7 +1697,7 @@ VII.- Cualesquiera otras obras distintas de las anteriores que se lleven a cabo 
 
 DEL OBJETO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 112], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 112], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 125.
 
@@ -1691,7 +1705,7 @@ El objeto de la contribución de mejoras, es el beneficio diferencial que obteng
 
 DE LA CUOTA UNITARIA
 
-(REUBICADO [N. DE E. ANTES ARTICULO 113], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 113], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 126.
 
@@ -1715,7 +1729,7 @@ DE LA BASE PARA LA DETERMINACIÓN DEL IMPORTE DE LAS OBRAS DE
 
 PAVIMENTACION Y CONSTRUCCIÓN DE BANQUETAS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 114], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 114], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 127.
 
@@ -1739,7 +1753,7 @@ El monto de la contribución, se determinará, multiplicando la cuota unitaria q
 
 DE LAS DEMÁS OBRAS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 115], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 115], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 128.
 
@@ -1749,7 +1763,7 @@ En el caso de predios interiores beneficiados el importe de la cuota unitaria se
 
 DE LAS OBRAS DE LOS MERCADOS MUNICIPALES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 116], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 116], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 129.
 
@@ -1757,7 +1771,7 @@ También están obligados al pago de las contribuciones a que se refiere este ca
 
 DE LA BASE
 
-(REUBICADO [N. DE E. ANTES ARTICULO 117], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 117], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 130.
 
@@ -1765,7 +1779,7 @@ La base para calcular esta contribución es el costo unitario de las obras, que 
 
 TASA
 
-(REUBICADO [N. DE E. ANTES ARTICULO 118], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 118], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 131.
 
@@ -1773,7 +1787,7 @@ La tasa será el porcentaje que se convenga entre los beneficiados y la autorida
 
 DE LA CAUSACIÓN
 
-(REUBICADO [N. DE E. ANTES ARTICULO 119], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 119], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 132.
 
@@ -1781,7 +1795,7 @@ Las contribuciones de mejoras a que se refiere este capítulo se causarán indep
 
 DE LA ÉPOCA Y LUGAR DE PAGO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 120], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 120], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 133.
 
@@ -1791,7 +1805,7 @@ Transcurrido el plazo mencionado en el párrafo anterior, sin que se hubiere efe
 
 DE LA FACULTAD PARA DISMINUIR LA CONTRIBUCIÓN
 
-(REUBICADO [N. DE E. ANTES ARTICULO 121], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 121], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 134.
 
@@ -1801,7 +1815,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 130], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 130], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 135.
 
@@ -1817,7 +1831,7 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 123], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 123], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 136.
 
@@ -1829,7 +1843,7 @@ Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párraf
 
 DE LA EXPLOTACIÓN
 
-(REUBICADO [N. DE E. ANTES ARTICULO 124], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 124], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 137.
 
@@ -1837,7 +1851,7 @@ Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser ex
 
 DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 125], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 125], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 138.
 
@@ -1845,19 +1859,19 @@ Corresponderá al municipio, el 75% del producto obtenido, por la venta en públ
 
 DE LOS PRODUCTOS FINANCIEROS
 
-(REUBICADO [N. DE E. ANTES ARTICULO 126], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 126], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 139.
 
 El municipio percibirá productos derivados de las inversiones financieras que realice transitoriamente con motivo de la percepción de ingresos extraordinarios o períodos de alta recaudación. Dichos depósitos deberán hacerse eligiendo la alternativa que sin poner en riesgo los recursos del municipio, represente mayor rendimiento financiero y permita disponibilidad de los mismos en caso de urgencia.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 127], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 127], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 140.
 
 Corresponde al Tesorero Municipal realizar las inversiones financieras previa aprobación del Presidente Municipal, en aquellos casos en que los depósitos se hagan por plazos mayores de tres meses naturales.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 128], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 128], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 141.
 
@@ -1865,7 +1879,7 @@ Los recursos que se obtengan por rendimiento de inversiones financieras en insti
 
 DE LOS DAÑOS
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 129], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 129], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 142.
 
@@ -1875,13 +1889,13 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ### CAPÍTULO I. GENERALIDADES
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 136], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 136], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 143.
 
 De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los convenios de Colaboración Administrativa en Materia Fiscal Federal, el Municipio de Motul, Yucatán, tendrá derecho a percibir los ingresos derivados del cobro de multas administrativas, impuestos por autoridades federales no fiscales. Estas multas tendrá (sic) el carácter de aprovechamientos y se actualizarán en los términos de las disposiciones respectivas.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 131], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 131], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 144.
 
@@ -1893,7 +1907,7 @@ PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN,
 
 ORDENAMIENTO APLICABLE
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 132], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 132], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 145.
 
@@ -1903,7 +1917,7 @@ En todo caso, la autoridad fiscal municipal deberá señalar en los mandamientos
 
 DE LOS GASTOS DE EJECUCIÓN
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 110], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 110], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 146.
 
@@ -1919,7 +1933,7 @@ Cuando el 3% del importe del crédito omitido, fuere inferior al importe de un s
 
 DE LOS GASTOS EXTRAORDINARIOS DE EJECUCIÓN
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 134], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 134], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 147.
 
@@ -1935,7 +1949,7 @@ d).- Gastos del certificado de libertad de gravamen.
 
 DE LA DISTRIBUCIÓN
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 135], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 135], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 148.
 
@@ -1971,7 +1985,7 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 DE LOS RESPONSABLES
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 137], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 137], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 149.
 
@@ -1983,13 +1997,13 @@ Son responsables de la comisión de las infracciones previstas en esta ley, las 
 
 DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS EMPLEADOS
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 138], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 138], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 151.
 
 Los funcionarios y empleados públicos, que en ejercicio de sus funciones, conozcan hechos u omisiones que entrañen o puedan entrañar infracciones a la presente ley, lo comunicarán por escrito al Tesorero Municipal, para no incurrir en responsabilidad, dentro de los tres días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 139], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 139], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 152.
 
@@ -2009,7 +2023,7 @@ f).- La ocupación de la vía pública, con el objeto de realizar alguna activid
 
 g).- La matanza de ganado fuera de los rastros públicos municipales, sin obtener la licencia o la autoridad respectiva.
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 140], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 140], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 153.
 
@@ -2059,7 +2073,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 28 DE ENERO DE 2005.
 
@@ -2118,3 +2132,15 @@ TRANSITORIO:
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día 1 de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil doce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+TRANSITORIO DEL DECRETO:
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
