@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2011-05-11"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
+LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -73,9 +73,9 @@ III. Poder Ejecutivo,
 
 A los poderes mencionados en el artículo anterior, se les denominará genéricamente en la presente ley como "entidades" y salvo mención expresa, se entenderá por "dependencias" a las unidades de la administración centralizada y por "organismos", las unidades de la administración paraestatal.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Para efectos de esta ley, a la Secretaría de Finanzas y Administración se le denominará indistintamente por su nombre o como "La Secretaría".
+Para efectos de esta ley, a la Secretaría de Hacienda se le denominará indistintamente por su nombre o como "La Secretaría".
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
 
@@ -85,19 +85,19 @@ La programación, presupuestación y evaluación del Gasto Público se apegará 
 
 La evaluación del resultado de los programas presupuestarios se realizará basada en los principios de verificación del grado de cumplimiento de metas y objetivos, cimentados en indicadores que permitan conocer el impacto social de los programas gubernamentales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 6.
 
-La Secretaría de Planeación y Evaluación regulará la programación y la evaluación del gasto público, y comprenderá los objetivos, estrategias y metas a realizar, de acuerdo con el Plan Estatal de Desarrollo que para tal efecto emita el Ejecutivo.
+La Secretaría de Hacienda regulará la programación y la evaluación del gasto público, y comprenderá los objetivos, estrategias y metas a realizar, de acuerdo con el Plan Estatal de Desarrollo que para tal efecto emita el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 La Secretaría integrará los programas operativos anuales en el proyecto de presupuesto; la formulación del proyecto de presupuesto, el registro contable y control financiero del ejercicio del gasto público, y la elaboración de la cuenta pública del Gobierno del Estado, dictando las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-El control del ejercicio de los recursos públicos y la evaluación de los resultados de la aplicación del presupuesto, del gasto público y del avance de los programas de las dependencias y los organismos, se efectuarán por conducto de la Secretaría, la Secretaría de Planeación y Evaluación y la Secretaría de la Contraloría, en el ámbito de sus respectivas competencias. La evaluación a que se refiere el segundo párrafo del artículo anterior, estará a cargo de la Secretaría de Planeación y Evaluación.
+El control del ejercicio de los recursos públicos y la evaluación de los resultados de la aplicación del presupuesto, del gasto público y del avance de los programas de las dependencias y los organismos, se efectuarán por conducto de la Secretaría de Hacienda y la Secretaría de la Contraloría, en el ámbito de sus respectivas competencias. La evaluación a que se refiere el segundo párrafo del artículo anterior, estará a cargo de la Secretaría.
 
 Si el Congreso dejare de expedir oportunamente el presupuesto de egresos, continuará rigiendo el presupuesto que hubiere estado vigente el año anterior.
 
@@ -203,17 +203,17 @@ Las entidades deberán elaborar su anteproyecto de Presupuesto con base en progr
 
 La programación debe ser un proceso permanente y sistemático, y el instrumento que permita ordenar y racionalizar las acciones y optimizar los recursos, para el logro de los objetivos del Gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 18.
 
-Los programas operativos anuales, sean éstos de inversión o de operación, que formulen las dependencias y los organismos, se sujetarán a un proceso coordinado y normado por la Secretaría de Planeación y Evaluación, en el que se dictarán las normas, políticas y lineamientos a seguir, a más tardar el quince de agosto de cada año.
+Los programas operativos anuales, sean éstos de inversión o de operación, que formulen las dependencias y los organismos, se sujetarán a un proceso coordinado y normado por la Secretaría de Hacienda, en el que se dictarán las normas, políticas y lineamientos a seguir, a más tardar el quince de agosto de cada año.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 19.
 
-Los programas operativos anuales de las dependencias y los organismos deberán ser analizados y compatibilizados por la Secretaría de Planeación y Evaluación, con el apoyo que se requiera del Comité de Planeación para el Desarrollo del Estado, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Estatal de Desarrollo y de los programas de mediano plazo que de él se deriven, en los términos de las leyes relativas.
+Los programas operativos anuales de las dependencias y los organismos deberán ser analizados y compatibilizados por la Secretaría de Hacienda, con el apoyo que se requiera del Comité de Planeación para el Desarrollo del Estado, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Estatal de Desarrollo y de los programas de mediano plazo que de él se deriven, en los términos de las leyes relativas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -581,13 +581,17 @@ V.- Cumplir con las demás disposiciones aplicables, y
 
 VI.- Expedir los nombramientos por cada ejercicio fiscal.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 58.
 
-La Secretaría, mantendrá actualizados sus registros por lo que respecta a plazas, empleos y compromisos de los pagos respectivos, así como de las personas o instituciones que disfruten de becas, subsidios y los pagos correspondientes.
+La Secretaría de Hacienda mantendrá actualizados sus registros por lo que respecta a plazas, empleos y compromisos de los pagos respectivos, así como de las personas o instituciones que disfruten de becas, subsidios y los pagos correspondientes.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 El Ejecutivo Estatal verificará la forma en que se invertirán los subsidios que otorgue a los Municipios, Instituciones o particulares, quienes deberán proporcionar a la Secretaría, en el ámbito de su respectiva competencia, la información respecto a la aplicación de los mismos.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
 Quienes manejen o efectúen Gasto Público Estatal, en los términos del párrafo anterior, deberán proporcionar a la Secretaría la información que le solicite y permitirle a su personal la práctica de visitas y revisiones para verificar el cumplimiento de las obligaciones que establece esta Ley y demás disposiciones que se expidan con base en la misma.
 
@@ -1164,3 +1168,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
