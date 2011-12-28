@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2011-10-22"
+last_updated: "2011-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-LEY DE EDUCACION DEL ESTADO DE TABASCO
+LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -75,9 +75,9 @@ Artículo 7 La educación que impartan el Estado, los Municipios y los organismo
 
 Artículo 8 La educación que imparta el Estado, será gratuita. Las donaciones destinadas a la educación en ningún caso se entenderán como contraprestaciones del servicio educativo. En el caso de los padres de familia, no podrá condicionarse al mencionado donativo la inscripción o el acceso de sus hijos o pupilos al servicio educativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Artículo 9 La educación que impartan el Estado, los Municipios, los organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrán, además de los fines establecidos en el párrafo segundo del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
+Artículo 9 La educación que impartan el Estado y los municipios, los organismos descentralizados y los particulares, con autorización o con reconocimiento de validez oficial de estudios, tendrá, además de los fines establecidos por el párrafo segundo del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
 I.- Transformarse y transformar su entorno, para romper inercias e innovar procesos, recuperar la tradición y darle una nueva dimensión de porvenir;
 
@@ -117,11 +117,13 @@ XIV.- Orientar a la población sobre la preservación de la salud, los beneficio
 
 XV.- Concientizar y comprometer a la sociedad en acciones para la protección, aprovechamiento racional de los recursos naturales y el mejoramiento del medio ambiente, a fin de preservar el equilibrio ecológico de la entidad;
 
-XVI.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+XVI.- Siendo el agua recurso vital para el desarrollo de nuestro Estado, se impulsará el establecimiento de una cultura de protección y uso racional del mismo.
 
-XVII.- Formar al educando para incorporarse a la vida económica y social del Estado y del país, y en su oportunidad desarrollar una actividad productiva que permita asimismo al trabajador, estudiar;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XVII.- Promover en la población del Estado, el establecimiento de una cultura en materia de protección civil, con el fin de que la misma se encuentre preparada ante la presencia de desastres o contingencias que pongan en peligro su seguridad, pudiendo así mitigar los efectos negativos que estos producen.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2009)</small>
 
@@ -869,17 +871,27 @@ Artículo 96 La educación a que se refiere la presente Ley tendrá las modalida
 
 #### Sección XII. DE LA EDUCACIÓN AMBIENTAL
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Artículo 96 Bis La educación ambiental en el Estado, tiene los siguientes objetivos:
+Artículo 96 Bis La educación ambiental en el estado, tiene los siguientes objetivos:
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 I. Desarrollar una comprensión integral del ambiente en sus múltiples y complejas relaciones, que involucre los aspectos ecológicos, psicológicos, legales, sociales, económicos, científicos, culturales y éticos de la problemática ambiental y la preservación del ambiente.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
 II. Fomentar la participación individual o colectiva en la preservación ambiental, como un valor inseparable del ejercicio ciudadano.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 III. La toma de conciencia sobre la problemática ambiental en todos los niveles educativos.
 
-IV. La generación de conocimientos ambientales en todos los campos disciplinarios y garantizar su difusión.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+IV. El agua y demás recursos de nuestra rica naturaleza, en cuanto que somos trópico húmedo, son vitales para el desarrollo sustentable de nuestro Estado, por lo que se impulsará el establecimiento de una educación ambiental y cultura de la protección y uso racional de los mismos.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 V. Las demás que señalen las leyes aplicables.
 
@@ -1498,3 +1510,9 @@ P.O. 22 DE OCTUBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
