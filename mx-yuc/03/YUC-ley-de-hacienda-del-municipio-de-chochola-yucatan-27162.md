@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-chochola-yucatan-27162"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2008-12-27"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -45,9 +45,11 @@ LEY DE HACIENDA DEL MUNICIPIO DE CHOCHOLA, YUCATÁN
 
 La presente Ley es de orden público y tiene por objeto establecer las contribuciones y demás ingresos que percibirá la Hacienda Pública del Municipio de Chocholá, así como regular las obligaciones y derechos que en las materias administrativa y fiscal municipal tendrán las autoridades y los sujetos a que se refiere la propia Ley.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 2.
 
-El Ayuntamiento de Chocholá, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo percibirá, por conducto de su hacienda, los ingresos que por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios se establecen en esta Ley y en la Ley de Ingresos del Municipio de Chocholá, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado de Yucatán y en la Ley Orgánica de los Municipios.
+El Ayuntamiento de Chocholá, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo percibirá, por conducto de su hacienda, los ingresos que por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones, aportaciones e ingresos extraordinarios se establecen en esta Ley y en la Ley de Ingresos del Municipio de Chocholá, Yucatán, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado de Yucatán y en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ### CAPITULO II. DE LAS DISPOSICIONES FISCALES MUNICIPALES
 
@@ -83,9 +85,11 @@ La ignorancia de las leyes y de las demás disposiciones fiscales de observancia
 
 ### CAPITULO III. DE LOS RECURSOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 8.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Cuando se traten de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal del Estado o en su defecto en el Código Fiscal de la Federación.
 
@@ -93,9 +97,11 @@ En este caso los recursos que se promuevan se tramitarán y resolverán, en la f
 
 ### CAPITULO IV. DE LAS GARANTIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 9.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
 
 Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios (recargos y las multas) causados, así como los que generen en los doce meses siguientes a su otorgamiento.
 
@@ -203,9 +209,11 @@ Las Aportaciones son los recursos que la federación transfiere a las haciendas 
 
 INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 20.
 
-Los Ingresos Extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
+Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueran aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán y en la Constitución Política del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
 
 ### CAPITULO VII. DE LOS CREDITOS FISCALES
 
@@ -235,9 +243,11 @@ DE LOS SUJETOS OBLIGADOS Y DE LOS OBLIGADOS SOLIDARIOS
 
 Las personas domiciliadas dentro o fuera del territorio municipal o que tuvieren bienes o celebren actos dentro del espacio geográfico en que se ubique el municipio de Chocholá, Yucatán, están obligados a contribuir para los gastos públicos del municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente Ley, en el Código Fiscal del Estado y en los Reglamentos Municipales que correspondan.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-Para los efectos de esta Ley se entenderá por territorio municipal, el área geográfica que, para cada uno de los municipios del Estado señala, la Ley Orgánica de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley Orgánica.
+Para los efectos de esta Ley, se entenderá por territorio municipal, el área geográfica que, para cada uno de los municipios del Estado señala, la Ley de Gobierno de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley.
 
 ###### ARTÍCULO 25.
 
@@ -401,13 +411,19 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales administrativas
 
 ### CAPITULO II. DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 40.
 
-Las licencias de funcionamiento que expida la Tesorería Municipal, serán gratuitas, excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expidan bebidas alcohólicas.
+El cobro de derechos por las licencias de funcionamiento que expida la Tesorería Municipal, serán de acuerdo a las tarifas establecidas en el artículo 81 y 81-A de esta Ley de Hacienda.
 
-Dichas licencias tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del periodo constitucional de la administración municipal que la expidió.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias, o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias.
+Dichas licencias tendrán una vigencia de un año y deberán revalidarse en los meses de enero y febrero de cada año.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias, o autorizaciones de otras dependencias municipales, estatales o federales.
 
 En ningún caso la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
 
@@ -983,27 +999,15 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 ### CAPITULO III. DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 79.
 
-Quedarán obligados al pago de los derechos para la obtención de la Licencia de Funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público, establecimientos en los que se expendan bebidas alcohólicas tales como, los que de manera enunciativa pero no limitativa se relacionan a continuación:
+Quedarán obligados al pago de los derechos para la obtención de la licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público:
 
-1.- Restaurantes
+I.- Establecimientos en los que se expendan bebidas alcohólicas.
 
-2.- Bares
-
-3.- Hoteles
-
-4.- Discotecas
-
-5.- Salones de Baile
-
-6.- Supermercados
-
-7.- Vinaterías
-
-8.- Expendios de Cerveza
-
-9.- Salón Cerveza.
+II.- Establecimientos o locales comerciales y/o de servicios en general.
 
 DE LA VIGENCIA
 
@@ -1017,9 +1021,229 @@ Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de 
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 81.
 
-La tarifa que se pagará para la obtención de la Licencia de funcionamiento será para su apertura de 525 salarios mínimos vigentes en el Estado de Yucatán a la fecha de la autorización; para la revalidación será de 25 salarios mínimos vigentes y para el permiso eventual 16 salarios mínimos vigentes.
+Para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, se cobrará una cuota de acuerdo a las siguientes tarifas:
+
+I.- Vinatería o licorería $ 20,000.00
+
+II.- Expendio de cerveza $ 20,000.00
+
+III.- Supermercados con
+
+área de bebidas alcohólicas $ 20,000.00
+
+IV.- Centros nocturnos y/o video bares $ 20,000.00
+
+V.- Cantinas y bares $ 20,000.00
+
+VI.- Discotecas y clubes sociales $ 20,000.00
+
+VII.- Salones de baile, billar o boliche $ 20,000.00
+
+VIII.- Restaurantes, hoteles y moteles $ 20,000.00
+
+IX.- Centros recreativos, deportivos
+
+y salón (sic) cerveza $ 20,000.00
+
+Para el otorgamiento de la revalidación anual de las licencias de estos establecimientos se pagará una cuota anual de $ 2,500.00.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 81-A.
+
+El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales comerciales o de servicios que no expendan bebidas alcohólicas, se realizará con base en las siguientes tarifas:
+
+GIRO EXPEDICIÓN RENOVACIÓN
+
+Comercial o de Servicios $ $
+
+I.- Farmacias, boticas
+
+y similares 330.00 120.00
+
+II.- Carnicerías, pollerías
+
+y pescaderías 220.00 60.00
+
+III.- Panaderías y tortillerías 170.00 55.00
+
+IV.- Expendio de refrescos 335.00 125.00
+
+V.- Fábrica de jugos
+
+embolsados 335.00 125.00
+
+VI.- Expendio de refrescos
+
+naturales 220.00 60.00
+
+VII.- Compra/Venta de oro
+
+y plata 600.00 200.00
+
+VIII.- Taquerías, loncherías
+
+y fondas 160.00 65.00
+
+IX.- Taller de expendio
+
+de alfarerías 160.00 65.00
+
+X.- Talleres y expendios
+
+de zapaterías 200.00 70.00
+
+XI.- Tlapalerías 250.00 80.00
+
+XII.- Compra/Venta de
+
+materiales de Construcción 600.00 350.00
+
+XIII.- Tiendas, Tendejones
+
+y misceláneas 160.00 55.00
+
+XIV.- Bisutería 230.00 60.00
+
+XV.- Compra/venta de motos
+
+y refaccionarias 340.00 120.00
+
+XVI.- Papelerías y centros
+
+de copiado 230.00 60.00
+
+XVII.- Hoteles, Hospedajes 650.00 350.00
+
+XVIII.- Peleterías Compra/venta
+
+de sintéticos 550.00 180.00
+
+XIX.- Terminales de taxis,
+
+autobuses y triciclos 330.00 120.00
+
+XX.- Ciber Café y centros
+
+de cómputo 330.00 120.00
+
+XXI.- Estética unisex y
+
+peluquerías 170.00 50.00
+
+XXII.- Talleres mecánicos 300.00 100.00
+
+XXIII.- Talleres de torno y
+
+herrería en genera (sic) 210.00 50.00
+
+XXIV.- Fábrica de cajas 315.00 105.00
+
+XXV.- Tienda de ropa y
+
+almacenes 300.00 150.00
+
+XXVI.- Florerías y funerarias 315.00 105.00
+
+XXVII.- Bancos 600.00 350.00
+
+XXVIII.- Puestos de venta
+
+de revistas, periódicos y
+
+casetes 210.00 50.00
+
+XXIX.- Videoclubs en
+
+general 315.00 105.00
+
+XXX.- Carpinterías 315.00 105.00
+
+XXXI.- Bodega de refrescos 1,050.00 350.00
+
+XXXII.- Consultorios y clínicas 350.00 150.00
+
+XXXIII.- Paleterías y dulcerías 210.00 52.50
+
+XXXIV.- Negocios de telefonía
+
+celular 600.00 350.00
+
+XXXV.- Cinema 1,000.00 500.00
+
+XXXVI.- Talleres de
+
+reparación eléctrico 330.00 170.00
+
+XXXVII.- Escuelas
+
+particulares y academias 600.00 300.00
+
+XXXVIII.- Salas de fiestas
+
+y plazas de toros 600.00 300.00
+
+XXXIX.- Expendios de
+
+alimentos balanceados 315.00 105.00
+
+XL.- Gaseras 650.00 350.00
+
+XLI.- Gasolineras 1,700.00 800.00
+
+XLlI.- Mudanzas 315.00 105.00
+
+XLIII.- Oficinas de servicio
+
+de sistemas de televisión 600.00 300.00
+
+XLlV.- Fábrica de hielo 315.00 105.00
+
+XLV.- Centros de foto
+
+estudio y grabación 315.00 105.00
+
+XLVI.- Despachos
+
+contables y jurídicos 315.00 105.00
+
+XLVII.- Compra/venta de
+
+frutas y legumbres 315.00 210.00
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 81-B.
+
+El cobro de derechos por el otorgamiento de licencias o permisos para la instalación de anuncios de toda índole, se realizará con base en las siguientes cuotas:
+
+I.- Por su posición o ubicación:
+
+Clasificación de los anuncios
+
+a) De fachadas, muros, y bardas $ 35.00 por m2.
+
+II.- Por su duración:
+
+a) Anuncios temporales: duración
+
+que no exceda los setenta días $ 15.00 por m2.
+
+b) Anuncios permanentes: anuncios pintados, placas denominativas, fijados en cercas y muros, cuya duración exceda los setenta días $ 70.00 por m2.
+
+III.- Por su colocación: Hasta por 30 días
+
+a) Colgantes $ 15.00 por m2.
+
+b) De azotea $ 15.00 por m2.
+
+c) Pintados $ 35.00 por m2.
+
+En el caso que no se retiren los anuncios al vencimiento del plazo concedido se cobrará una multa del 50% del permiso concedido más los gastos que le ocasione al Ayuntamiento el retirarlo.
 
 ###### ARTÍCULO 82.
 
@@ -1035,21 +1259,45 @@ En todo caso, la Tesorería antes de aplicar las sanciones que establece este ar
 
 Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio Factor Salario Mínimo
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-a) Certificaciones y constancias expedidas
+Servicio $
 
-por el Ayuntamiento 0.25
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-b) Formas oficiales impresas 0.25
+a) Certificaciones y constancias
 
-c) Permisos para luz y sonido y bailes 1.5 por hora
+expedidas por el Ayuntamiento 16.0
 
-d) Permisos para Verbenas y Kermeses 9.0 por día
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Para la expedición del certificado de estar al corriente en el pago del impuesto predial, se requerirá el anexo del recibo de pago de este derecho, que emite la Universidad Autónoma de Yucatán.
+b) Formas oficiales impresas 16.00
 
-e) El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno la matanza de ganado en los domicilios particulares, previo el cumplimiento de los requisitos que determina la Ley de Salud del Estado de Yucatán y su Reglamento.
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+c) Permisos para luz y sonido
+
+y bailes 1,000.00
+
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+d) Permisos para verbenas
+
+y kermeses 500.00
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+e) Para la expedición del certificado de estar al corriente en el pago del impuesto predial 16.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+f) Por cada copia simple del UMAIP 1.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+g) Por cada copia certificada
+
+del UMAIP 3.00
 
 En todo caso se requerirá la licencia de salud correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, la sanción fijada por la autoridad se duplicará y el Presidente Municipal hará del conocimiento de la Secretaria de Salud aquélla circunstancia para que la dependencia estatal resuelva lo conducente.
 
@@ -1079,13 +1327,17 @@ La base para determinar el monto de los derechos, por el uso o aprovechamiento d
 
 DE LA TARIFA Y EL PAGO
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 87.
 
-Los derechos establecidos en este capítulo, serán pagados diariamente a razón de 0.10 veces el salario mínimo por metro cuadrado concesionado u ocupado; excepto cuando se trate de locales en los mercados municipales en los que la tarifa será de 0.97 salarios mínimos mensuales.
+Los derechos establecidos en este capítulo, cuando se trate de locales en mercados municipales, serán pagados semanalmente a razón de $ 5.00 por metro cuadrado y dependiendo del número de días que trabajen.
 
-De igual manera pagarán estos derechos los comerciantes que tengan puestos fijos o semifijos y los ambulantes, aún cuando sus actividades sean esporádicas y se lleven a cabo vías plazas y parques públicos.
+De igual manera pagarán estos derechos los comerciantes que tengan puestos fijos o semifijos y los ambulantes, aun cuando sus actividades sean esporádicas y se lleven a cabo vías (sic) plazas y parques públicos.
 
-En este último caso, el pago deberá realizarse cada vez que se solicite la asignación de los lugares o espacios a la autoridad municipal y conforme a la tarifa de 25 salarios mínimos por metro cuadrado por día.
+En este último caso, el pago deberá realizarse cada vez que se solicite la asignación de los lugares o espacios a la autoridad municipal y conforme a la tarifa de $5.00 metro cuadrado por día.
+
+El derecho por uso de baños del mercado municipal será de $ 2.00
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1117,13 +1369,17 @@ Los derechos por los servicios de rastro se causarán de conformidad con lo sigu
 
 SERVICIO TARIFA
 
-II. Por matanza de ganado.
+II (SIC). Por matanza de ganado.
 
 Por cada cabeza de ganado:
 
-a).- Vacuno 2 Salarios mínimos
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-b).- Porcino 1 Salario mínimo
+a).- Vacuno $ 90.00
+
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+b).- Porcino $ 50.00
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Chocholá deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley General de Salud y su Reglamento. Esta disposición es de orden público e interés social.
 
@@ -1153,13 +1409,19 @@ Servirá de base el cobro de este derecho.
 
 I.- Tratándose del servicio de recolección de basura, la periodicidad y forma en que se preste el servicio.
 
-II.- La superficie total del predio que deba limpiarse, a solicitud del propietario.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II.- Por la limpieza de lotes y terrenos baldíos.
 
 DE LA TARIFA
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 96.
 
-La tarifa que se pagará 0.125 del salario mínimo en el caso de la fracción I. En el caso señalada en la fracción II del artículo anterior la tarifa será de 0.5 del salario mínimo por metro cuadrado.
+La tarifa que se pagará será una cuota de $ 10.00 mensual.
+
+Tratándose de limpieza de lotes baldíos la cuota será de $ 300.00
 
 DEL PAGO
 
@@ -1169,7 +1431,9 @@ El pago de las tarifas mencionadas se hará:
 
 La señalada en la fracción I del artículo 95 mensualmente.
 
-La señalada en la fracción II del artículo 95 el 50% al inicio de los trabajos y el 50% a la conclusión de los mismos.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+La señalada en la fracción II del artículo 95 será por cada ocasión.
 
 ### CAPITULO VIII. DERECHOS POR SERVICIOS DE AGUA
 
@@ -1178,6 +1442,14 @@ La señalada en la fracción II del artículo 95 el 50% al inicio de los trabajo
 Son sujetos obligados al pago de estos derechos las personas físicas o morales que hagan uso de este servicio, ya sea que se preste directamente por el Ayuntamiento o por conducto de un organismo descentralizado, de conformidad con lo siguiente.
 
 0.120 del salario mínimo por toma por mes.
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+I.- Consumo $ 10.00 por toma por mes.
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II.- Contratación $ 150.00 por toma
 
 ### CAPITULO IX. DERECHOS POR SEGURIDAD PUBLICA
 
@@ -1197,21 +1469,31 @@ Los derechos a que se refiere este capítulo se causarán y pagarán de conformi
 
 Inhumación
 
-a) Niño 2.5 Salarios Mínimos
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-b) Adulto 2.5 Salarios Mínimos
+a) Niño $300.00
+
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+b) Adulto $ 300.00
 
 Exhumación
 
-a) Niño 2.5 Salarios Mínimos
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-b) Adulto 2.5 Salarios Mínimos
+a) Niño $ 200.00
 
-Por el uso de Bóveda a perpetuidad 40 Salarios Mínimos
+> <small>(REFORMADO EN SU MONTO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Fosa 17 Salarios Mínimos
+b) Adulto $ 200.00
 
-Osario 05 Salarios Mínimos
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Por el uso de Bóveda a perpetuidad
+
+Fosa $ 3,500.00
+
+Osario $1,000.00
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
@@ -1548,3 +1830,9 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Esta (sic) decreto entrará en vigor el día primero de enero del año dos mil doce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
