@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-presupuesto-de-egresos-del-estado-de-campeche-para-84575
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84575&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 27 de diciembre de 2011.
 
@@ -744,3 +744,9 @@ Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campech
 > <small>N. DE E. VÉASE ANEXO 18.D: PRESUPUESTO POR PROGRAMAS PRESUPUESTARIOS PARA RESULTADOS PROGRAMAS INCORPORADOS POR EJES DE DESARROLLO, EN EL P.O. 27 DE DICIEMBRE DE 2011, PÁGINA 122.</small>
 
 > <small>N. DE E. VÉASE ANEXO 18.E: PRESUPUESTO POR PROGRAMAS PRESUPUESTARIOS, EN EL P.O. 27 DE DICIEMBRE DE 2011, PÁGINAS DE LA 123 A LA 126.</small>
+
+Anexo Complementario del Decreto Número 195 relativo a la Ley de Presupuesto de Egresos del Estado de Campeche para el Ejercicio Fiscal 2012, publicado en el Periódico Oficial del Estado, de fecha 27 de Diciembre de 2011, Tercera Época, Año XXI No. 4905
+
+> <small>N. DE E. VÉASE MATRIZ DE INDICADORES (MIR), EN EL P.O. 28 DE DICIEMBRE DE 2011, PÁGINAS 1 A LA 118.</small>
+
+> <small>N. DE E. VÉASE INDICADORES DE GASTO, EN EL P.O. 28 DE DICIEMBRE DE 2011, PÁGINAS 119 A LA 128.</small>
