@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-10185"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "2007-08-23"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE PROTECCION CIVIL
 
-LEY DE PROTECCION CIVIL
+LEY DE PROTECCIÓN CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 23 de diciembre de 1993.
 
@@ -584,3 +586,21 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número 61, publicado en el número 89 del Periódico Oficial del Estado, el 23 de Diciembre de 1993.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Protección Civil deberá sesionar en un plazo no mayor de noventa días naturales a partir del día siguiente a la publicación de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones reglamentarias de la presente Ley las expedirá el Ejecutivo del Estado dentro de un plazo que no exceda de seis meses.
