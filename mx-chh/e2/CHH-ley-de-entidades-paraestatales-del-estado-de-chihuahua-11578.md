@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2010-07-28"
+last_updated: "2011-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -97,11 +97,11 @@ Corresponderá a los titulares de las dependencias encargadas de la coordinació
 
 Las unidades de apoyo y asesoría directamente adscritas al titular del Ejecutivo no podrán fungir como coordinadoras de sector, salvo en el caso del Comité para la Planeación del Desarrollo del Estado de Chihuahua.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 8º.
 
-La Secretaría de Finanzas y Administración será miembro en los órganos de gobierno y, en su caso, de los comités técnicos de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tenga relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y a las disposiciones relativas en la materia.
+La Secretaría de Hacienda será miembro en los órganos de gobierno y, en su caso, de los comités técnicos de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y a las disposiciones relativas en la materia.
 
 Los representantes de las dependencias y de las entidades paraestatales, en las sesiones de los órganos de gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta ley, particularmente el artículo 61 y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
 
@@ -111,19 +111,19 @@ Las entidades paraestatales deberán enviar con una antelación no menor de cinc
 
 Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, a través de la dependencia coordinadora de sector, la información y datos que les soliciten, así como los que les requieran las dependencias del ejecutivo estatal y el H. Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Para el cumplimiento de lo anteriormente establecido, la dependencia coordinadora de sector, conjuntamente con las Secretarías de Finanzas y Administración y de la Contraloría, en el ámbito de sus respectivas competencias, harán compatibles los requerimientos de información que se demanden a las entidades paraestatales racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la dependencia coordinadora de sector, conjuntamente con las Secretarías de Hacienda y de la Contraloría, en el ámbito de sus respectivas competencias, harán compatibles los requerimientos de información que se demanden a las entidades paraestatales racionalizando los flujos de información.
 
 ###### Artículo 10.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto y de los fines y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control y evaluación establecidos en la presente ley y en lo que no se oponga a ésta a los demás que se relacionen con la Administración Pública.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-La Secretaría de Finanzas y Administración publicará anualmente en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública Estatal, así como sus estados financieros.
+La Secretaría de Hacienda publicará anualmente en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública Estatal, así como sus estados financieros.
 
 ###### Artículo 12.
 
@@ -171,13 +171,11 @@ El estatuto orgánico deberá inscribirse en el Registro Público de Organismos 
 
 En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación. La ley o decreto de creación respectivo deberá fijar la forma y términos de su extinción y liquidación. La extinción del organismo será comunicada al Congreso del Estado, mediante formal iniciativa, a fin de que proceda a abrogar la ley o decreto de creación. Para tal efecto, el Ejecutivo deberá proporcionar al Congreso toda la información relativa al procedimiento de liquidación y extinción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Finanzas y Administración, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquél. Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad.
-
-La fusión o escisión de organismos descentralizados deberá ser aprobada por el Congreso del Estado.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, y de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquél. Así mismo, podrá proponer su fusión o escisión, cuando su actividad combinada o separada redunde en un incremento de eficiencia y productividad.
 
 ###### Artículo 16.
 
@@ -249,11 +247,11 @@ Para acreditar la personalidad y facultades, según el caso, de los miembros del
 
 #### SECCION SEGUNDA. DEL REGISTRO PUBLICO DE ORGANISMOS DESCENTRALIZADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 23.
 
-Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Finanzas y Administración.
+Los organismos descentralizados deberán inscribirse en el Registro Público respectivo que llevará la Secretaría de Hacienda.
 
 Los coordinadores generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
@@ -271,9 +269,9 @@ IV. Los nombramientos y sustituciones del coordinador general y en su caso de lo
 
 V. Los poderes generales y sus revocaciones;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VI. El acuerdo de la Secretaría de Finanzas y Administración, previa opinión de la Secretaría de la Contraloría y de la dependencia coordinadora de sector, en su caso, que señale las bases de la fusión, escisión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
+VI. El acuerdo de la Secretaría de Hacienda, previa opinión de la Secretaría de la Contraloría y de la dependencia coordinadora de sector, en su caso, que señale las bases de la fusión, escisión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
 
 VII. Los demás documentos o actos que determine el reglamento de este ordenamiento.
 
@@ -305,11 +303,11 @@ Las empresas en que participe de manera mayoritaria el Gobierno Estatal o una o 
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación mercantil o civil aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto que se señala en el artículo 28, o su funcionamiento no resultare ya conveniente desde el punto de vista de las finanzas públicas del Estado, la Secretaría de Finanzas y Administración, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, así como de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la enajenación de la participación estatal o, en su caso, su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Estatal, se procederá en los términos que se disponen en el artículo 71 de esta ley.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto que se señala en el artículo 28, o su funcionamiento no resultare ya conveniente desde el punto de vista de las finanzas públicas del Estado, la Secretaría de Hacienda, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, así como de la Secretaría de la Contraloría, propondrá al Ejecutivo Estatal la enajenación de la participación estatal o, en su caso, su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública Estatal, se procederá en los términos que se disponen en el artículo 71 de esta ley.
 
 En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos representativos del capital de los que sea titular el Gobierno Estatal.
 
@@ -347,9 +345,9 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 La fusión, escisión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y en la legislación correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica, oyendo la opinión de la Secretaría de la Contraloría, y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas y Administración, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión, escisión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica, oyendo la opinión de la Secretaría de la Contraloría, y de conformidad a las normas establecidas al respecto por la Secretaría de Hacienda, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión, escisión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. DE LAS EMPRESAS PROPIEDAD DEL ESTADO
 
@@ -383,11 +381,11 @@ Los comités técnicos y los directores generales de los fideicomisos públicos 
 
 Para los efectos de su relación con las dependencias y demás entidades de la administración pública estatal, así como con los Poderes del Estado, los directores generales de los fideicomisos tendrán el carácter de coordinadores generales de los mismos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 44.
 
-El Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, quien será el fideicomitente único de la administración pública estatal centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al comité técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior. Lo mismo se observará, por conducto de los coordinadores generales, en aquellos fideicomisos en que funjan como fideicomitentes entidades de la administración pública paraestatal.
+El Ejecutivo Estatal, a través de la Secretaría de Hacienda, quien será el fideicomitente único de la administración pública estatal centralizada, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al comité técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior. Lo mismo se observará, por conducto de los coordinadores generales, en aquellos fideicomisos en que funjan como fideicomitentes entidades de la administración pública paraestatal.
 
 Las obligaciones establecidas en esta ley a cargo de las instituciones que funjan como fiduciarias en los fideicomisos que constituya la Administración Pública, en lo que no se oponga a la legislación federal aplicable, siempre serán asumidas por éstas de manera convencional en los instrumentos en que se formalice la operación. Cuando el instrumento carezca de este requisito, el Ejecutivo deberá abstenerse de celebrar el contrato, salvo autorización especial del Congreso del Estado.
 
@@ -449,31 +447,31 @@ El programa institucional de la entidad paraestatal se elaborará para los térm
 
 Los presupuestos de la entidad se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas, aplicándose en lo conducente lo dispuesto por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 54.
 
-En la formulación de sus presupuestos, las entidades paraestatales se sujetarán a los lineamientos generales que en materia de gasto se establezcan en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, así como a los lineamientos específicos que definan en el ámbito de su competencia las Secretarías de Finanzas y Administración, de Planeación y Evaluación y la dependencia coordinadora de sector.
+En la formulación de sus presupuestos, las entidades paraestatales se sujetarán a los lineamientos generales que en materia de gasto se establezcan en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, así como a los lineamientos específicos que definan en el ámbito de su competencia la Secretaría de Hacienda y la dependencia coordinadora de sector.
 
 ###### Artículo 55.
 
 Las entidades paraestatales manejarán y erogarán sus recursos propios por medio de sus órganos.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-Por lo que toca a la percepción de subsidios y transferencias, los recibirán a través de la Secretaría de Finanzas y Administración en los términos que se fijen anualmente en los presupuestos de egresos del Estado, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+Por lo que toca a la percepción de subsidios y transferencias, los recibirán a través de la Secretaría de Hacienda en los términos que se fijen anualmente en los presupuestos de egresos del Estado, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 56.
 
-Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas y Administración; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con bancos nacionales, o con cualquier otro intermediario financiero. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Hacienda; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con bancos nacionales, o con cualquier otro intermediario financiero. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 57.
 
-El coordinador general o equivalente de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 61 de esta ley; una vez aprobado, remitirá a la Secretaría de Finanzas y Administración la parte correspondiente a la suscripción de créditos para su autorización por parte del H. Congreso del Estado, en los términos de la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás disposiciones legales aplicables y se registrará en los términos de la ley correspondiente.
+El coordinador general o equivalente de la entidad paraestatal someterá el programa financiero para su autorización al órgano de gobierno respectivo con la salvedad a que se refiere la fracción II del artículo 61 de esta ley; una vez aprobado, remitirá a la Secretaría de Hacienda la parte correspondiente a la suscripción de créditos para su autorización por parte del H. Congreso del Estado, en los términos de la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás disposiciones legales aplicables y se registrará en los términos de la ley correspondiente.
 
 ###### Artículo 58.
 
@@ -499,9 +497,9 @@ I. Establecer, en congruencia con los programas sectoriales, las políticas gene
 
 II. Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua y demás legislación aplicable;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-III. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal, así como observar las disposiciones de la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y los lineamientos que dicte la Secretaría de Finanzas y Administración en materia financiera, de conformidad con la legislación aplicable;
+III. Aprobar la concertación de los préstamos para el financiamiento de la entidad paraestatal, así como observar las disposiciones de la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y los lineamientos que dicte la Secretaría de Hacienda en materia financiera, de conformidad con la legislación aplicable;
 
 IV. Aprobar anualmente, previo informe de los comisarios, los dictámenes de las auditorias practicadas, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;
 
@@ -509,21 +507,21 @@ V. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta ley, las 
 
 VI. Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma. Aprobar asimismo y, en su caso, el estatuto orgánico tratándose de organismos descentralizados;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VII. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, los convenios de fusión con otras entidades o de escisión;
+VII. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, los convenios de fusión con otras entidades o de escisión;
 
 VIII. Autorizar la creación de comités y subcomités de apoyo;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-IX. Nombrar y remover, a propuesta del coordinador general, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, de conformidad con el Presupuesto de Egresos del Estado y a las políticas y lineamientos en la materia establecidas por la Secretaría de Finanzas y Administración, así como a lo establecido en los estatutos de la entidad;
+IX. Nombrar y remover, a propuesta del coordinador general, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, de conformidad con el Presupuesto de Egresos del Estado y a las políticas y lineamientos en la materia establecidas por la Secretaría de Hacienda, así como a lo establecido en los estatutos de la entidad;
 
 X. Nombrar y remover a propuesta de su presidente, entre personas ajenas a la entidad, al secretario, quien podrá ser miembro o no del mismo; así como designar o remover a propuesta del coordinador general de la entidad al prosecretario del citado órgano de gobierno, quien podrá ser o no miembro de dicho órgano o de la entidad;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-XI. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal a través de la Secretaría de Finanzas y Administración;
+XI. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal a través de la Secretaría de Hacienda;
 
 XII. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la ley considere como del dominio público del Estado;
 
@@ -531,9 +529,9 @@ XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el coord
 
 XIV. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, de acuerdo con las instrucciones de la dependencia coordinadora del sector correspondiente; y,
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-XV. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas y Administración y a la Secretaría de la Contraloría por conducto de la dependencia coordinadora de sector.
+XV. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y a la Secretaría de la Contraloría por conducto de la dependencia coordinadora de sector.
 
 ###### Artículo 62.
 
@@ -625,11 +623,11 @@ En aquellos casos en los que el órgano de gobierno, consejo de administración 
 
 En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario público que se designe por la Contraloría del Estado oyendo la opinión de la dependencia coordinadora del sector.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 71.
 
-La enajenación de títulos representativos del capital social, propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las instituciones nacionales de crédito de acuerdo con la normatividad federal y estatal aplicable. En su defecto, la enajenación de los títulos se llevará a cabo mediante subasta pública, de acuerdo a los lineamientos que para tal efecto establezcan conjuntamente la Secretaría de Finanzas y Administración y la Secretaría de la Contraloría; las que deberán vigilar el debido cumplimiento de lo dispuesto en este artículo.
+La enajenación de títulos representativos del capital social, propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las instituciones nacionales de crédito de acuerdo con la normatividad federal y estatal aplicable. En su defecto, la enajenación de los títulos se llevará a cabo mediante subasta pública, de acuerdo a los lineamientos que para tal efecto establezcan conjuntamente la Secretaría de Hacienda y la Secretaría de la Contraloría; las que deberán vigilar el debido cumplimiento de lo dispuesto en este artículo.
 
 ## TRANSITORIOS
 
@@ -794,3 +792,9 @@ P.O. 28 DE JULIO DE 2010.
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y. en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
