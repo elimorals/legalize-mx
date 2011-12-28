@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-57986"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-24"
-last_updated: "2011-03-01"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 24 de diciembre de 2007.
 
@@ -71,29 +71,41 @@ III. Consejo: El órgano de opinión, consulta y colaboración de la Comisión E
 
 IV. Constitución: La Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-V. Derechos Humanos: El conjunto de facultades y prerrogativas inherentes al ser humano, que le corresponden por su propia naturaleza, indispensables para asegurar su pleno desarrollo dentro de la sociedad;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VI. Ejecutivo: Él Gobernador del Estado;
+V. Consulta pública: Es el procedimiento por el cual el Congreso, emitirá convocatoria dirigida a la sociedad civil, a las universidades, organismos sociales, colegios de profesionistas y a la sociedad en general, con la finalidad de allegarse de propuestas de aspirantes a Presidente o Consejero de la Comisión Estatal de los Derechos Humanos.
 
-VII. Ley: La Ley de la Comisión Estatal de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+VI. Derechos Humanos: El conjunto de facultades y prerrogativas inherentes al ser humano, que le corresponden por su propia naturaleza, indispensables para asegurar su pleno desarrollo dentro de la sociedad;
 
-VIII. Presidente: Presidente de la Comisión Estatal de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-IX. Sector Público: Los Poderes Legislativo. Ejecutivo, incluida la administración centralizada y paraestatal, Judicial, Organismos Autónomos y la administración municipal y paramunicipal;
+VIl. Ejecutivo: El Gobernador del Estado;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-X. Reglamento: El Reglamento de la Comisión Estatal de los Derechos Humanos;
+VIII. Ley: La Ley de la Comisión Estatal de los Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-XI. Visitador Regional: El Visitador adscrito a una región en particular; y,
+IX. Presidente: Presidente de la Comisión Estatal de los Derechos Humanos;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-XII. Servidor Público: Son los miembros, funcionarios y empleados que desempeñen cualquier cargo o comisión en un Poder u organismo público.
+X. Sector Público: Los Poderes Legislativo, Ejecutivo, incluida la administración centralizada y paraestatal, Judicial, Organismos Autónomos y la administración municipal y paramunicipal;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XI. Reglamento: El Reglamento de la Comisión Estatal de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XII. Visitador Regional: El Visitador adscrito a una región en particular; y,
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+XIII. Servidor Público: Son los miembros, funcionarios y empleados que desempeñen cualquier cargo o comisión en un Poder u organismo público.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -101,7 +113,9 @@ XII. Servidor Público: Son los miembros, funcionarios y empleados que desempeñ
 
 La Comisión tiene su sede y domicilio legal en la ciudad de Morelia, Michoacán.
 
-Tendrá competencia para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los asuntos sustantivos de organismos y autoridades electorales, jurisdiccionales y laborales, salvo cuando los actos u omisiones de estas autoridades constituyan, por si mismos, la violación a un derecho humano.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Tendrá competencia para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los asuntos sustantivos de organismos y autoridades electorales, jurisdiccionales, salvo cuando los actos u omisiones de estas autoridades constituyan, por si mismos, la violación a un derecho humano.
 
 ###### Artículo 5.
 
@@ -255,9 +269,13 @@ La Comisión podrá solicitar la colaboración de la Comisión Nacional de los D
 
 ### Capítulo Quinto. Elección y Duración del Presidente
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 11.
 
-El Presidente de la Comisión, durará en su encargo cuatro años y podrá ser reelecto por una sola vez, observando el procedimiento para la designación inicial.
+El Presidente de la Comisión, durará en su encargo cuatro años, su nombramiento se ajustará al procedimiento de consulta pública señalado por esta Ley. Podrá ser reelecto por una sola vez, observando el procedimiento para la designación inicial.
+
+Para la reelección del Presidente, éste deberá renunciar a su cargo, al menos treinta días antes de concluir el período por el que fue electo.
 
 ###### Artículo 12.
 
@@ -267,7 +285,9 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Contar con un reconocido prestigio y solvencia moral;
 
-III. Contar con cédula profesional de licenciado en derecho, con antigüedad mínima de cinco años;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+III. Contar con cédula profesional de licenciado en derecho o profesión afín, con antigüedad mínima de cinco años;
 
 IV. Haber residido en el Estado durante los últimos tres años al día de la designación;
 
@@ -433,11 +453,13 @@ II. Cuatro consejeros ciudadanos; y,
 
 III. Un Secretario Técnico; que será el Secretario Ejecutivo de la misma Comisión, el cual tendrá voz en las sesiones del Consejo, más no voto.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 21.
 
-Los diputados integrantes de las Comisiones de Dictamen de Derechos Humanos y Justicia del Congreso, previa auscultación a los sectores sociales, propondrán al Pleno del Congreso del Estado a los candidatos propietarios y suplentes a ocupar el encargo de Consejero, quienes serán electos por mayoría de los diputados presentes.
+Los diputados integrantes de las Comisiones de Dictamen de Derechos Humanos y Justicia del Congreso, previa consulta pública, propondrán al Pleno del Congreso del Estado a los candidatos propietarios y suplentes a ocupar el encargo de Consejero, quienes serán electos por mayoría de los diputados presentes.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 Los consejeros durarán dos años en su encargo, y pueden ser reelectos por una sola ocasión. Tendrán carácter honorario.
 
@@ -461,11 +483,11 @@ En el supuesto previsto en la fracción I, la Comisión deberá informar al Cong
 
 En los casos a que se refieren las fracciones IV, V y VI, el Congreso del Estado, previa garantía de audiencia que se otorgue a los consejeros ciudadanos resolverá lo procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 22.
 
-Los requisitos que deben cumplir las personas que aspiren a ser miembros del Consejo, son los siguientes:
+Los requisitos que deben observar las personas que aspiren a ser miembros del Consejo, son los siguientes:
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -481,17 +503,19 @@ III. Distinguirse por su servicio, interés y participación en la defensa, difu
 
 IV. No ser dirigente o candidato de partido político alguno;
 
-V. No estar al servicio del sector público o de la administración pública federal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VI. No haber sido servidor público de primer nivel en la administración pública estatal, durante el año previo a su elección; y,
+V. No desempeñar ningún cargo o comisión como servidor público.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VIl. No ser ministro de ningún culto religioso o miembro activo de las fuerzas armadas del país; y,
+VI. No ser ministro de ningún culto religioso o miembro activo de las fuerzas armadas del país; y,
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VIII. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un procedimiento de queja del que haya derivado recomendación.
+VII. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un procedimiento de queja del que haya derivado recomendación.
+
+VIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
 
 ### Capítulo Octavo. Atribuciones del Consejo
 
@@ -1077,13 +1101,17 @@ VI. Inhabilitación de 1 a 6 años para el ejercicio de empleos, cargos o comisi
 
 Tratándose del Presidente en todos los casos se dará vista al Congreso.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 52.
 
-Los funcionarios y empleados que integren la Comisión, serán trabajadores de confianza debido a la naturaleza de las funciones que desempeñan y sus relaciones laborales se regirán por la Ley Federal del Trabajo y sus condiciones generales de trabajo.
+Los funcionarios y empleados que integren la Comisión, serán trabajadores de confianza.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 Se establecerá un sistema de Servicio Profesional de Carrera a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia de la gestión pública para beneficio de la sociedad.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 Podrán integrarse al Servicio Civil de Carrera cuyos lineamientos se determinarán en el Reglamento.
 
@@ -1377,11 +1405,13 @@ Concluido el término para el desahogo de pruebas, la Comisión deberá resolver
 
 Aquéllas quejas que por su naturaleza requieran una ampliación de término para ser resueltas por la Comisión, el plazo podrá extenderse hasta diez días naturales, previa aprobación del Presidente.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 88.
 
-Cuando una recomendación o acuerdo de conciliación no sea aceptada o cumplido, por la autoridad responsable, o habiéndola aceptado sea omiso en su cumplimiento, el Congreso del Estado, a petición de la Comisión, puede solicitar su comparecencia a efecto de que justifique su negativa u omisión.
+Todo servidor público está obligado a dar cumplimiento y a responder las recomendaciones que le presente la Comisión.
+
+Cuando una recomendación no sea aceptada o un acuerdo de conciliación no sea cumplido por la autoridad responsable, o habiéndola aceptado, sea omisa en su cumplimiento, ésta deberá fundar, motivar y hacer pública su negativa, el Congreso del Estado, a petición de la Comisión, podrá solicitar su comparecencia a efecto de que justifique su negativa u omisión.
 
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -1448,3 +1478,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las quejas que se encuentran en trámite hasta antes de la entrada en vigor de estas reformas, seguirán substanciándose con el procedimiento de la Ley anterior.
 
 TERCERO. La Comisión tendrá noventa días para emitir los reglamentos emanados de estas reformas, a partir de su entrada en vigor.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Comisión Estatal de los Derechos Humanos contará con el término de seis meses, a partir de la entrada en vigor del presente Decreto, para aprobar el Reglamento, lineamientos, manuales y procedimientos relativos al funcionamiento del Servicio Profesional de Carrera.
