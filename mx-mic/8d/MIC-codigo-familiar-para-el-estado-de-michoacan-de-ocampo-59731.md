@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2011-03-23"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO FAMILIAR PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO FAMILIAR PARA EL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -3877,9 +3877,11 @@ III. Con la muerte del ausente; y,
 
 IV. Con la posesión provisional.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 666.
 
-Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
+Cada seis meses, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
 
 ###### Artículo 667.
 
@@ -3891,21 +3893,27 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 ### Capítulo II. De la declaración de ausencia
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 669.
 
-Pasados dos años desde el día en que haya sido nombrado el representante habrá acción para pedir la declaración de ausencia.
+Pasado un año desde el día en que haya sido nombrado el representante habrá acción para pedir la declaración de ausencia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 670.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuviere ninguna noticia suya, o desde la fecha en que se hayan tenido las últimas.
+En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia si no pasados dos años, que se contarán desde la desaparición del ausente, si en este período no se tuviere ninguna noticia suya, o desde la fecha en que se hayan tenido las últimas.
 
 ###### Artículo 671.
 
 Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 672.
 
-Pasados dos años, que se contarán del modo establecido en el artículo 670, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 657, 658 y 659.
+Pasado un año, que se contarán del modo establecido en el artículo 670, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se tendrá por terminado el poder y se nombrará nuevo representante de acuerdo a lo dispuesto por este Código.
 
 ###### Artículo 673.
 
@@ -3919,21 +3927,27 @@ III. Los que tengan algún derecho u obligación que dependa de la vida, muerte 
 
 IV. El Ministerio Público.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 674.
 
-Si el Juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial del Estado y en los principales del último domicilio del ausente, y la remitirá a los cónsules, conforme al artículo 650.
+Si el Juez encuentra fundada la demanda, dispondrá que se publique un extracto de la misma, durante tres meses, con intervalos de quince días, en el Periódico Oficial del Estado y en los principales periódicos del último domicilio del ausente, y la remitirá a los cónsules, conforme al artículo 650.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 675.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará formalmente la ausencia.
+Pasado un mes desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará formalmente la ausencia.
 
 ###### Artículo 676.
 
 Si hubiere algunas noticias u oposición, el Juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 674 y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo Juez crea oportunos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 677.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+La declaración de ausencia se publicará dos veces en los periódicos mencionados, con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán un año después de la declaración de ausencia, por una sola ocasión hasta que se declare la presunción de muerte.
 
 ###### Artículo 678.
 
@@ -4035,11 +4049,19 @@ Si el cónyuge presente no fuere heredero ni tuviere bienes propios, tendrá der
 
 ### Capítulo V. De la presunción de muerte del ausente
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 700.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido dos años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+Para que proceda la presunción de muerte respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, o derivado de la probable comisión de un delito, bastará que hayan transcurrido seis meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Artículo 700 bis. La presunción de muerte, debe declararse por el Juez del último domicilio que el ausente haya tenido, acreditándose previamente que se ignora el paradero del desaparecido y que se han hecho las posibles diligencias para averiguarlo.
+
+El juez de oficio o a petición de cualquier persona que demuestre interés en ello, podrá solicitar la incorporación de otros elementos probatorios para declarar la ausencia.
 
 ###### Artículo 701.
 
@@ -4077,9 +4099,17 @@ IV. Con la sentencia que cause ejecutoria, en el caso del artículo 704.
 
 En el caso de la fracción II del artículo anterior, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 708.
 
-Dictada la sentencia de presunción de muerte se liquidará cualquier copropiedad que exista entre el presunto muerto y su cónyuge.
+La sentencia de presunción de muerte de un ausente casado bajo el régimen de sociedad conyugal habilita al cónyuge supérstite para disponer del derecho que legalmente le corresponda, y podrá contraer nuevas nupcias.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Artículo 708 bis. Toda declaración de muerte, expresará la fecha a partir de la cual se presuma sucedida, en términos de lo que establece el presente capítulo.
+
+Los efectos de la declaración, se retrotraen al momento en que se produjo el acontecimiento que hizo presumir la muerte, o se tuvieron las últimas noticias del desaparecido.
 
 ###### Artículo 709.
 
@@ -4120,6 +4150,10 @@ Por causa de ausencia no se suspenden los términos que fija la Ley para prescri
 ###### Artículo 717.
 
 El Ministerio Público velará por los intereses del ausente, será oído en todo juicio que tenga relación con él y en declaraciones de ausencia y presunción de muerte.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+En caso de que, el que haya sido declarado ausente o presuntamente muerto, apareciere, podrá ejercitar la acción legal correspondiente, para reclamar los daños y perjuicios que el representante o los poseedores, hayan causado por abuso en el ejercicio de sus facultades, culpa o negligencia.
 
 ## Título Décimo Sexto. Del patrimonio de familia
 
@@ -6340,3 +6374,7 @@ P.O. 23 DE MARZO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
