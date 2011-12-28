@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2009-10-28"
+last_updated: "2011-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -447,11 +447,15 @@ I. Secretaría General de Gobierno;
 
 II. Secretaría de Fomento Social;
 
-III. Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-IV. Secretaría de Planeación y Evaluación;
+III. Secretaría de Hacienda;
 
-V. Procuraduría General de Justicia;
+IV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+V. Fiscalía General del Estado;
 
 VI. Junta de Asistencia Social Privada;
 
@@ -915,13 +919,17 @@ El Consejo Directivo se integrará por:
 
 I. Quien ocupe la titularidad de la Secretaría de Fomento Social;
 
-II. Quien ocupe la titularidad de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+II. Quien ocupe la titularidad de la Secretaría de Hacienda;
 
 III. Quien ocupe la titularidad de la Dirección General del organismo estatal para la asistencia social pública;
 
-IV. Quien ocupe la titularidad de la Secretaría de Planeación y Evaluación;
+IV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
 
-V. Quien ocupe la titularidad de la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+V. Quien ocupe la titularidad de la Secretaría de Educación, Cultura y Deporte.
 
 VI. Cuatro personas representantes de las instituciones de asistencia social privada, que serán designadas conforme a la función predominantemente prestada por la institución, atendiendo a los siguientes rubros: personas menores de edad, en situación de discapacidad, adultas mayores y salud o desarrollo comunitario, y
 
@@ -1216,3 +1224,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de mayo del año dos mil nueve.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
