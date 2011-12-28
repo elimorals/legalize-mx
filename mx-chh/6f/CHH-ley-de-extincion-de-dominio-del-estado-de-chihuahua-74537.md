@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-extincion-de-dominio-del-estado-de-chihuahua-74537"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-07"
-last_updated: "2011-11-12"
+last_updated: "2011-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-LEY DE EXTINCION DE DOMINIO DEL ESTADO DE CHIHUAHUA
+LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 7 de abril de 2010.
 
@@ -193,9 +193,13 @@ III. La intervención en la administración o en caja de las sociedades;
 
 IV. Tratándose de muebles, el depósito con vigilancia de la autoridad en el lugar en el que disponga el Tribunal, quien decretará las medidas necesarias para su conservación, a cargo de la Dirección de Ejecución de Penas y Medidas de Seguridad. Tratándose de inmuebles, de igual manera se decretará la vigilancia de la autoridad y las medidas necesarias para su conservación;
 
-V. Tratándose de dinero, este podrá ser administrado por la Secretaría de Finanzas y Administración, pudiendo abrir cuenta especial que genere rendimientos; en caso de que se declare extinguido el dominio, los bienes pasarán al Estado, en caso contrario, se entregarán a su dueño, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-VI. El arrendamiento de los bienes, celebrando contratos que mantengan la productividad y su valor, siendo la Secretaría de Finanzas y Administración quien se hará cargo de estos actos.
+V. Tratándose de dinero, este podrá ser administrado por la Secretaría de Hacienda, pudiendo abrir cuenta especial que genere rendimientos; en caso de que se declare extinguido el dominio, los bienes pasarán al Estado, en caso contrario, se entregarán a su dueño, y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+VI. El arrendamiento de los bienes, celebrando contratos que mantengan la productividad y su valor, siendo la Secretaría de Hacienda quien se hará cargo de estos actos.
 
 ###### Artículo 13.
 
@@ -209,11 +213,13 @@ Recurso de apelación en medidas cautelares.
 
 Contra la resolución que ordene o niegue el otorgamiento de las medidas cautelares procederá el recurso de apelación que se admitirá, en su caso, sólo en el efecto devolutivo.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 15.
 
 Anotaciones en el Registro Público de la Propiedad.
 
-Tanto las medidas cautelares que se tomen, como la demanda, deberán ser anotados en el Registro Público de la Propiedad. En todos los casos, la Secretaría de Finanzas y Administración deberá ser notificada de cualquier medida cautelar o levantamiento de cualquier acto que implique variación en la situación de bienes sujetos a acción de extinción de dominio. En la anotación correspondiente se insertará la leyenda: “Bien sujeto a juicio de extinción de dominio”.
+Tanto las medidas cautelares que se tomen, como la demanda, deberán ser anotados en el Registro Público de la Propiedad. En todos los casos, la Secretaría de Hacienda deberá ser notificada de cualquier medida cautelar o levantamiento de cualquier acto que implique variación en la situación de bienes sujetos a acción de extinción de dominio. En la anotación correspondiente se insertará la leyenda: "Bien sujeto a juicio de extinción de dominio".
 
 ###### Artículo 16.
 
@@ -229,7 +235,9 @@ El demandado o afectado por la medida cautelar no podrá transmitir la posesión
 
 Bienes sujetos a diversos actos jurídicos previos.
 
-Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos, así como a la Secretaría de Finanzas y Administración y al Registro Público de la Propiedad correspondiente. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición de la autoridad judicial que conozca de la acción de extinción de dominio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos, así como a la Secretaría de Hacienda y al Registro Público de la Propiedad correspondiente. Los bienes continuarán en custodia de quien se haya designado para ese fin, y a disposición de la autoridad judicial que conozca de la acción de extinción de dominio.
 
 De levantarse el embargo, intervención, secuestro o aseguramiento previos, quien los tenga bajo su custodia, los entregará al Tribunal que conozca de la acción de extinción de dominio.
 
@@ -267,11 +275,13 @@ II. El demandado, que será el dueño, quien se ostente o comporte como tal, o a
 
 III. El o los terceros afectados, que será todo aquel que se considere afectado por la acción de extinción de dominio y acredite tener un interés jurídico sobre los bienes materia de la acción de extinción de dominio.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 21.
 
-Vista a la Secretaría de Finanzas y Administración.
+Vista a la Secretaría de Hacienda.
 
-En todos los casos en que se inicie acción de extinción de dominio, se dará vista a la Secretaría de Finanzas y Administración para los efectos señalados en esta Ley.
+En todos los casos en que se inicie acción de extinción de dominio, se dará vista a la Secretaría de Hacienda para los efectos señalados en esta Ley.
 
 ###### Artículo 22.
 
@@ -641,9 +651,13 @@ Ejecución de sentencia y adjudicación de bienes.
 
 Una vez que cause ejecutoria la sentencia que resuelva la extinción del bien, el Tribunal ordenará su ejecución y la aplicación de los bienes a favor del Estado, en los términos de la presente Ley y del Código Administrativo.
 
-Los bienes sobre los que sea declarada la extinción de dominio o el producto de la enajenación de los mismos serán adjudicados al Gobierno del Estado y puestos a disposición para su destino final a través de la Secretaría de Finanzas y Administración. Las acciones, partes sociales o cualquier título que represente una parte alícuota del capital social o patrimonio de la sociedad o asociación de que se trate, no computarán para considerar a las emisoras como entidades paraestatales.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
-La Secretaría de Finanzas y Administración no podrá disponer de los bienes, aun y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de éstos por sus efectos probatorios, siempre que dicho auto o resolución haya sido notificado previamente a dicha Secretaría.
+Los bienes sobre los que sea declarada la extinción de dominio o el producto de la enajenación de los mismos serán adjudicados al Gobierno del Estado y puestos a disposición para su destino final a través de la Secretaría de Hacienda. Las acciones, partes sociales o cualquier título que represente una parte alícuota del capital social o patrimonio de la sociedad o asociación de que se trate, no computarán para considerar a las emisoras como entidades paraestatales.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría de Hacienda no podrá disponer de los bienes, aun y cuando haya sido decretada la extinción de dominio, si en alguna causa penal se ha ordenado la conservación de éstos por sus efectos probatorios, siempre que dicho auto o resolución haya sido notificado previamente a dicha Secretaría.
 
 Para efectos de la actuación de esa Secretaría en su carácter de mandatario, cuando haya contradicción entre dos o más sentencias, prevalecerá la sentencia que se dicte en el procedimiento de extinción de dominio, salvo que esta última se pronuncie sobre la inexistencia del hecho ilícito.
 
@@ -657,17 +671,21 @@ En caso de que el dictado de sentencia penal que ordene pagar reparación del da
 
 La reclamación de créditos sobre los bienes cuyo dominio ha sido extinto a favor del Estado, se tramitarán de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 58.
 
 Remanentes del valor de los bienes.
 
-Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del artículo 57, se depositarán por la Secretaría de Finanzas y Administración en el Fondo a que se refiere el artículo 71 de esta Ley.
+Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del artículo 57, se depositarán por la Secretaría de Hacienda en el Fondo a que se refiere el artículo 71 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 59.
 
 Determinación judicial.
 
-Para efecto de lo señalado en el artículo 57, la Secretaría de Finanzas y Administración estará a lo que el juez determine, siempre que exista cantidad líquida suficiente, derivada del procedimiento de extinción de dominio correspondiente.
+Para efecto de lo señalado en el artículo 57, la Secretaría de Hacienda estará a lo que el juez determine, siempre que exista cantidad líquida suficiente, derivada del procedimiento de extinción de dominio correspondiente.
 
 ### CAPÍTULO VI. DE LOS RECURSOS
 
@@ -834,3 +852,9 @@ El presente Decreto entrará en vigor a los quince días siguientes de su public
 ###### ARTÍCULO SEGUNDO.
 
 Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
+
+P.O. 28 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
