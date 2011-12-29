@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2009-12-31"
+last_updated: "2011-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -59,27 +59,29 @@ Cuando en este Código se mencione a la Secretaría, se entenderá que se refier
 
 Asimismo, cuando se mencione el Reglamento Interior, se entenderá que se refiere al Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán; y cuando se mencione la Ley, se referirá a la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 3o.
 
-Son contribuciones las cantidades que en dinero deben enterar las personas físicas y morales, al Estado, para cubrir el gasto público, las que se clasifican en: Impuestos, Derechos y Contribuciones Especiales y se definen como sigue:
+Son contribuciones las cantidades que en dinero deben enterar las personas físicas y morales, al Estado, para cubrir el gasto público, las que se clasifican en: Impuestos, Derechos, Contribuciones de mejoras y se definen como sigue:
 
-I.- Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo;
+I. Impuestos son las contribuciones establecidas en Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las aportaciones de seguridad social, contribuciones de mejoras y derechos;
 
-II.- Derechos son las contribuciones establecidas en la Ley, por recibir los servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados; y
+II. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados, cuando se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas; y,
 
-III.- Contribuciones Especiales son las establecidas en la ley o decreto, a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+III. Contribuciones de Mejoras son las establecidas en la ley o decreto legislativo correspondiente o el documento y normativa respectiva, en su caso, a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
+Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código, son accesorios de las contribuciones por concepto de Impuestos y Derechos, y participan de la naturaleza de éstas.
 
 ###### ARTICULO 4o.
 
 Productos son las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 5o.
 
-Aprovechamientos son los ingresos que percibe el Estado, por funciones de derecho público distintos de las contribuciones, de sus accesorios, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
+Aprovechamientos son los ingresos que percibe el Estado, por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
 Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código que se aplique en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
@@ -87,9 +89,17 @@ Los recargos, las sanciones, los honorarios, los gastos de ejecución y la indem
 
 Los honorarios y gastos de ejecución a que se refiere el último párrafo del articulo tercero de este Código y el párrafo anterior, serán distribuidos entre el personal de la Secretaria, conforme al reglamento respectivo; asimismo, será distribuible conforme a dicho reglamento, el 50% de las multas que establece este Código.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 5o-A.
+
+Ingresos por ventas de bienes y servicios: son recursos propios que obtienen las diversas entidades que conforman el sector paraestatal y gobierno central por sus actividades de producción y/o comercialización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 6o.
 
-Participaciones son los ingresos provenientes de impuestos, derechos, productos, contribuciones especiales y aprovechamientos federales o municipales que el Estado tenga derecho a percibir conforme a las leyes o convenios respectivos.
+Participaciones son los ingresos provenientes de impuestos, derechos, productos, contribuciones de mejoras y aprovechamientos federales o municipales, que el Estado tenga derecho a percibir conforme a las leyes o convenios respectivos, incluyendo los recursos destinados a la ejecución de programas federales a través del Estado, mediante la reasignación de responsabilidades y recursos presupuestarios, en los términos de los convenios que celebre el Gobierno Federal con éste.
 
 ###### ARTICULO 7o.
 
@@ -1084,6 +1094,32 @@ III. Con el equivalente del 50% al 75% de las sanciones a que se refieren las sa
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Las multas a que se refiere el presente artículo, deberán cubrirse conjuntamente con el cumplimiento de la presentación y/o exhibición de las declaraciones previamente requeridas por la autoridad fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 68-A.
+
+Son infracciones a las disposiciones fiscales relacionadas con el Impuesto Sobre Tenencia o Uso de Vehículos:
+
+I. No presentar el aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el Artículo 33-A de la Ley de Hacienda del Estado de Michoacán de Ocampo;
+
+II. No pagar el Impuesto Sobre Tenencia o Uso de Vehículos en el plazo señalado en el Artículo 33-B de la Ley de Hacienda del Estado de Michoacán de Ocampo;
+
+III. Pagar el Impuesto en otra entidad federativa, cuando la persona física o moral, se encuentre domiciliada en el Estado; y,
+
+IV. No presentar la información en los términos a que se refiere el artículo 33-Y de la Ley de Hacienda del Estado de Michoacán de Ocampo, o no presentarla dentro del plazo previsto en dicho artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 68-B.
+
+A quien cometa las infracciones a las disposiciones fiscales señaladas en el artículo anterior, se impondrán las multas siguientes:
+
+I. Del equivalente de 10 a 15 días de salario mínimo vigente en el Estado, a las personas que se coloquen en el supuesto de las comprendidas en las fracciones I y III;
+
+II. Del equivalente de 17 a 25 días de salario mínimo vigente en el Estado, a las personas que se coloquen en el supuesto de la comprendida en la fracción II; y,
+
+III. Del equivalente de 774 a 1,150 días de salario mínimo vigente en el Estado, a las personas que se coloquen en el supuesto de la comprendida en la fracción IV.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2004)</small>
 
@@ -2224,3 +2260,13 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, entrará en vigor el día 1° primero de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1º primero de enero de 2012, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo.
