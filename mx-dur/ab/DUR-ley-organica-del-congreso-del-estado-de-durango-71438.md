@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2011-11-10"
+last_updated: "2011-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -404,6 +404,14 @@ III. Para dejar de asistir por motivos personales hasta dos sesiones en un mes; 
 IV. Para dejar de asistir, cuando por razones de salud se vea impedido de acudir a la sesión, hasta por tres semanas consecutivas en un mes.
 
 Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor. De igual forma, sólo se podrá otorgar permiso a cinco diputados, como máximo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor o enfermedad, debiendo, el ausente hacer llegar al Presidente de la Mesa Directiva, la justificación médica por escrito; cuando la falta tuviere otra naturaleza, deberá, por escrito, exponer las razones de la inasistencia, ante la Mesa Directiva. Sólo se podrá otorgar permiso a cinco diputados, como máximo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Las faltas de asistencia a las reuniones de las comisiones legislativas, sólo serán justificadas por el Presidente de las mismas cuando medie causa de fuerza mayor inevitable o enfermedad; en este caso, se observará lo dispuesto en el párrafo anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
@@ -1113,11 +1121,13 @@ Para el despacho de los asuntos de su incumbencia, las comisiones se reunirán m
 
 Cualquier miembro del Congreso puede asistir, sin derecho a voto, a las reuniones de trabajo de las comisiones y exponer libremente en ellas su parecer sobre el asunto en estudio.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 103.
 
-La Comisión rendirá sus dictámenes al pleno legislativo, a más tardar treinta días después de que se hayan turnado los asuntos; y con aprobación de la misma, se podrá prorrogar por un período igual, dando aviso oportuno al Presidente del Congreso.
+La Comisión rendirá sus dictámenes al Pleno legislativo a más tardar sesenta días después de que se hayan turnado los asuntos; con la aprobación de la misma se podrá prorrogar por treinta días más, dando aviso oportuno al Presidente de la Mesa Directiva.
+
+Cualquier miembro de la Legislatura podrá formular excitativa a las comisiones a efecto de que dictaminen un asunto en lo particular; en este caso, y una vez vencidos los plazos a los que se refiere el párrafo anterior, el Presidente de la Mesa Directiva formulará prevención al Presidente de la comisión legislativa, a efecto de que proceda a rendir informe dentro de los tres días hábiles siguientes, respecto de las razones que imperaron para no dictaminar en forma oportuna; dicho informe será hecho del conocimiento del Pleno para que resuelva si ha lugar o no a implementar medidas que permitan la dictaminación del asunto en trámite, dentro de un plazo máximo de cinco días hábiles. Si existiere nuevamente reiteración de la dilación, el Presidente de la Mesa Directiva de la Legislatura, sustituirá al Presidente de la comisión dictaminadora, respecto del asunto de que se trate.
 
 ###### Artículo 104.
 
@@ -2651,9 +2661,9 @@ Ninguno de los procedimientos previstos en el presente título podrá efectuarse
 
 En ningún caso procederá la dispensa de trámites de los procedimientos aludidos en el párrafo anterior y los casos no previstos se resolverán conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en el Código de Procedimientos Penales o el Código Procesal Penal, en su caso.
 
-### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINSITRATIVA (SIC)
+### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 #### SECCIÓN PRIMERA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
@@ -2711,13 +2721,19 @@ Decretada la suspensión temporal o revocación del mandato de uno o más de los
 
 En relación con lo dispuesto en el artículo 55, fracción XXXIII, inciso b) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 282.
 
-En los términos que dispone el artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Durango, el Congreso se encuentra facultado para solventar el procedimiento de responsabilidad administrativa a los servidores públicos que dicha disposición legal alude; del mismo modo, lo hará respecto de los servidores públicos de los organismos autónomos por disposición de la ley y de los servidores públicos del Congreso.
+En los términos que disponen los artículos 50 y 55 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, el Congreso se encuentra facultado para solventar el procedimiento de responsabilidad administrativa a los servidores públicos municipales de elección popular y aplicar las sanciones que esta última disposición legal alude; del mismo modo, lo hará respecto de los servidores públicos de los organismos autónomos por disposición de la ley y de los servidores públicos del Congreso.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
 
 Dentro de su competencia constitucional, en el caso de incumplimiento u omisión de recomendaciones emitidas por la Comisión Estatal de Derechos Humanos, el Congreso, por conducto de la comisión respectiva, citará a comparecer a los servidores, públicos involucrados a efecto de que se sirvan justificar las razones de su conducta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+En los procedimientos de responsabilidad administrativa, el Congreso conocerá de los procedimientos que deban fincarse conforme a la fracción III del artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, en contra de los servidores públicos a los que se refieren los párrafos anteriores por las conductas que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio público y en materia de derechos humanos que deban observar en el cumplimiento de sus cargos.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
 
@@ -2725,7 +2741,7 @@ Dentro de su competencia constitucional, en el caso de incumplimiento u omisión
 
 Los Servidores Públicos señalados en el artículo anterior, serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-En los términos que establece la fracción III del Artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el Congreso conocerá de los procedimientos de responsabilidad administrativa interpuestos en contra de los servidores públicos mencionados en el párrafo anterior por las conductas que afecten la legalidad, honradez, lealtad, imparcialidad, eficiencia en el servicio público y en materia de materia (sic) de derechos humanos, que deban observar en el cumplimiento de sus cargos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 En el procedimiento administrativo de responsabilidades se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, esta ley y demás disposiciones aplicables.
 
@@ -2769,9 +2785,11 @@ En el caso de responsabilidades administrativas se aplicará la Ley de Responsab
 
 Si las sanciones fueren de sanción económica, inhabilitación, destitución o suspensión, y el servidor público perteneciere a los Poderes Ejecutivo o Judicial, el Congreso en vía de moción de censura, propondrá la imposición de las medidas sancionatorias al órgano que corresponda, previa notificación al Titular del Poder que corresponda.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Artículo 287 (sic).- Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Entidad de Auditoria Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
+###### Artículo 289.
+
+Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Entidad de Auditoria Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
 
 T R A N S I T O R I O S
 
@@ -2864,3 +2882,9 @@ PRIMERO. El presente decreto entrará en vigor el día de aprobación por el Ple
 SEGUNDO. El Congreso del Estado, por conducto de la Gran Comisión, expedirá el Acuerdo Parlamentario que regule el funcionamiento del Sistema, en un plazo no mayor a 60 días hábiles a partir de su aprobación.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+PRIMERO. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan las disposiciones legales, reglamentarias, y administrativas, en lo que se opongan al presente decreto.
