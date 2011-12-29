@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2011-04-20"
+last_updated: "2011-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -62,21 +62,29 @@ La presente Ley es de orden público e interés general y tiene por objeto regul
 
 La presente Ley es de observancia obligatoria para las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno del Distrito Federal.
 
-Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos se realice con base en criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, transparencia, control, rendición de cuentas, con una perspectiva que fomente la equidad de género y con un enfoque de respeto a los derechos humanos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos se realice con base en criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, rendición de cuentas, con una perspectiva que fomente la equidad de género y con un enfoque de respeto a los derechos humanos.
 
 La Contraloría General del Distrito Federal, la Contaduría Mayor de Hacienda de la Asamblea Legislativa y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo, fiscalizarán y vigilarán en el ámbito de sus respectivas competencias, el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las disposiciones legales que las facultan.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 2.
 
-Para efectos de esta Ley, se entenderá por:
+Para efectos de esta Ley, se entenderá por: Administración Pública: Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal;
 
-Administración Pública: Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal;
+Adecuaciones Presupuestarias: Modificaciones que se realizan durante el ejercicio fiscal a las estructuras presupuestales aprobadas por la Asamblea, así como a los calendarios presupuestales autorizados, siempre que permitan un mejor cumplimiento de los objetivos, metas y resultados de las vertientes de gasto aprobadas en el presupuesto;
 
-Adecuaciones Presupuestarias: Modificaciones que se realizan durante el ejercicio fiscal a las estructuras presupuestales aprobadas por la Asamblea o a los calendarios presupuestales autorizados, siempre que permitan un mejor cumplimiento de los objetivos, metas y resultados de las Subfunciones aprobadas en el presupuesto;
+Analítico de Claves Presupuestales: Es el listado que muestra la desagregación del Gasto Público de la Administración Pública a nivel de capítulo y concepto, partida y partida genérica.
+
+Analítico de Plazas: El cual integra el desglose, separación y clasificación de las plazas presupuestarias que tiene asignadas una entidad de la Administración Pública.
 
 Anteproyectos de Presupuesto: Estimaciones que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades de la Administración Pública efectúan de las erogaciones necesarias para el desarrollo de sus programas, para que con base en éstos la Secretaría, integre, elabore y consolide el Proyecto de Presupuesto de Egresos;
 
 Asamblea: Asamblea Legislativa del Distrito Federal;
+
+Catálogo de Dependencias y Unidades Responsables: El cual se identificará plenamente con su respectiva clave.
 
 Código: Código Fiscal del Distrito Federal;
 
@@ -148,6 +156,8 @@ Oficialía: Oficialía Mayor del Gobierno del Distrito Federal;
 
 Presupuesto Autorizado: Asignaciones presupuestarias anuales comprendidas en el Decreto autorizadas por la Asamblea;
 
+Presupuesto basado en Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
+
 Presupuesto Comprometido: Provisiones de recursos que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades constituyen con cargo a su presupuesto, para atender los compromisos derivados de cualquier acto y/o instrumento jurídico, tales como las reglas de operación de los programas, otorgamiento de subsidios, aportaciones a fideicomisos u otro concepto que signifique una obligación, compromiso o potestad de realizar una erogación;
 
 Presupuesto Devengado: Reconocimiento de las obligaciones de pago por parte de las Unidades Responsables del Gasto a favor de terceros que se deriven por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, por mandato de tratados, leyes o decretos y por resoluciones y sentencias definitivas;
@@ -158,13 +168,9 @@ Presupuesto Modificado: Presupuesto que resulta de aplicar las adecuaciones pres
 
 Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efectivo de la obligación;
 
-Presupuesto por Resultados: Estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores;
-
 Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
 
-Programa Delegacional: Programas de desarrollo de las demarcaciones territoriales del Distrito Federal;
-
-Programa General: Programa General de Desarrollo del Distrito Federal. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
+Programa Delegacional: Programas de desarrollo de las demarcaciones territoriales del Distrito Federal; Programa General: Programa General de Desarrollo del Distrito Federal. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
 
 Programa Operativo: Programa Operativo de la Administración Pública del Distrito Federal referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas delegacionales para la asignación de recursos presupuestales;
 
@@ -188,11 +194,11 @@ Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada c
 
 Sistema de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
 
-Subfunción: Conjunto de actividades relacionadas entre sí en las que se ejercen recursos para el logro del objetivo que les da sentido y dirección, a fin de alcanzar un resultado específico en beneficio de una población objetivo a través de una unidad responsable del gasto;
-
-Tesorería: Tesorería del Distrito Federal, y
+Tesorería: Tesorería del Distrito Federal, y (sic)
 
 Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
+
+Vertiente de gasto: Conjunto de actividades relacionadas entre sí en las que se ejercen recursos para el logro del objetivo que les da sentido y dirección, a fin de alcanzar un resultado específico en beneficio de una población objetivo a través de una unidad responsable del gasto;
 
 ###### ARTÍCULO 3.
 
@@ -214,7 +220,9 @@ I. Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su int
 
 II. Será responsabilidad exclusiva de las unidades administrativas y de los servidores públicos competentes, manejar, administrar y ejercer sus presupuestos sujetándose a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en esta Ley, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
 
-Asimismo, elaborarán sus calendarios presupuestales y deberán comunicarlos a la Secretaría a más tardar el 31 de enero del ejercicio fiscal correspondiente, los cuales estarán en función de la capacidad financiera del Distrito Federal;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, elaborarán sus calendarios presupuestales y deberán comunicarlos a la Secretaría a más tardar el 31 de enero del ejercicio fiscal correspondiente, los cuales estarán en función de la capacidad financiera del Distrito Federal y deberán ser publicados en la Gaceta a más tardar dentro de los 10 días hábiles siguientes a la fecha de su comunicación.
 
 III. Autorizar las adecuaciones a sus presupuestos para el mejor cumplimiento de sus programas, previa aprobación de su órgano competente y de acuerdo con la normatividad correspondiente, sin exceder sus presupuestos autorizados y cumpliendo con las metas y objetivos de sus programas operativos;
 
@@ -278,9 +286,11 @@ El uso de los medios de identificación electrónica producirá los mismos efect
 
 Los servidores públicos de las Unidades Responsables del Gasto están obligados a llevar un estricto control de los medios de identificación electrónica, así como de cuidar la seguridad y protección de los equipos y sistemas electrónicos, la custodia de la documentación comprobatoria y justificatoria y en su caso, de la confidencialidad de la información en ellos contenida.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 9.
 
-La Secretaría y la Contraloría deberán establecer programas, políticas y directrices para promover la eficiencia y eficacia en la gestión pública, tomando en consideración un enfoque en materia de equidad de género y derechos humanos, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y reduzcan gastos de operación.
+La Secretaría y la Contraloría en el ámbito de su competencia deberán establecer programas, políticas y directrices para promover la eficiencia y eficacia en la gestión pública, tomando en consideración un enfoque en materia de equidad de género y derechos humanos, a través de acciones que modernicen y mejoren la prestación de los servicios públicos, promuevan la productividad en el desempeño de las funciones de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y reduzcan gastos de operación.
 
 ###### ARTÍCULO 10.
 
@@ -392,7 +402,9 @@ El Jefe de Gobierno, por conducto de la Secretaría, podrá autorizar erogacione
 
 Los excedentes que resulten de los Ingresos Propios de las Entidades, se destinarán a aquellas que los generen.
 
-Las ampliaciones presupuestales que autorice la Secretaría serán para fines específicos y no podrán reorientarse a proyectos distintos para los que fueron aprobados, por lo que en caso de incumplimiento del programa o proyecto, se procederá a efectuar la reducción líquida presupuestal correspondiente, justificando las causas que impidieron la ejecución de los programas y proyectos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Las ampliaciones presupuestales que a través de la Secretaría autorice el Jefe de Gobierno serán para fines específicos y no podrán reorientarse a proyectos distintos para los que fueron aprobados, por lo que en caso de incumplimiento del programa o proyecto, se procederá a efectuar la reducción líquida presupuestal correspondiente, justificando las causas que impidieron la ejecución de los programas y proyectos.
 
 ###### ARTÍCULO 20.
 
@@ -404,29 +416,29 @@ En el caso de que la contingencia represente una reducción que supere el 5% de 
 
 Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de esta Ley deberán coadyuvar al cumplimiento de las normas de disciplina y de equilibro presupuestarios a que se refiere el presente artículo y el artículo 5 de esta Ley, a través de ajustes en sus respectivos presupuestos. Asimismo, deberán reportar los ajustes realizados en el informe trimestral y en la Cuenta Pública.
 
-En el caso de reducciones a los presupuestos de las Delegaciones, el Jefe de Gobierno a través de la Secretaría, comunicará a los titulares de las mismas, las reducciones que correspondan para que éstos manifiesten lo conducente dentro de los 5 días siguientes a la fecha de comunicación. En caso de que durante dicho plazo el titular de la Delegación respectiva no se manifieste, la Secretaría procederá a su aplicación.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Para el caso de las Delegaciones, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee el Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 21.
 
-En el ejercicio de sus presupuestos, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados por la Secretaría, los cuales serán anuales con base mensual y estarán en función de la capacidad financiera del Distrito Federal.
+En el ejercicio de sus presupuestos, las Dependencias, Órganos Desconcentrados y Entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados por la Secretaría, los cuales serán anuales con base mensual y estarán en función de la capacidad financiera del Distrito Federal.
 
-Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades remitirán a la Secretaría sus proyectos de calendarios en los términos y plazos establecidos por el Reglamento.
+Las Dependencias, Órganos Desconcentrados y Entidades remitirán a la Secretaría sus proyectos de calendarios en los términos y plazos establecidos por el Reglamento.
 
 La Secretaría autorizará los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos de los Programas, dando prioridad a los programas sociales y de infraestructura.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-En el caso de las Delegaciones se instrumentarán reuniones de conciliación durante los primeros 20 días naturales del mes de enero de cada ejercicio, para determinar los calendarios presupuestales anuales.
+En el caso de las Delegaciones, la Secretaría y éstas en el ámbito de sus respectivas competencias analizarán, elaborarán, determinarán y autorizarán los calendarios presupuestales anuales.
 
 La Secretaría queda facultada para elaborar los calendarios de presupuesto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuando no le sean presentados en los términos que establezca el Reglamento.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
 Los calendarios de presupuesto deberán comunicarse por la Secretaría a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades durante el mes de enero del ejercicio fiscal a que corresponda.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
 Queda prohibido a las Unidades Responsables de Gasto, contraer compromisos que rebasen el monto de sus presupuestos autorizados o efectuar erogaciones que impidan el cumplimiento de acuerdo con sus actividades institucionales aprobadas.
+
+Los calendarios de presupuesto deberán publicarse en la Gaceta Oficial del Distrito Federal.
 
 ###### ARTÍCULO 22.
 
@@ -444,7 +456,9 @@ Las reglas de carácter general para la integración de los Anteproyectos de Pre
 
 La programación y presupuestación del gasto público comprende:
 
-I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados contenidos en los programas sectoriales que se derivan del Programa General y, en su caso, de las directrices que el Jefe de Gobierno expida en tanto se elabore dicho Programa;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. Las actividades que deberán realizar las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para dar cumplimiento a los objetivos, políticas, estrategias, prioridades, metas y resultados con base en indicadores de desempeño, contenidos en los programas sectoriales que se derivan del Programa General y, en su caso, de las directrices que el Jefe de Gobierno expida en tanto se elabore dicho Programa;
 
 II. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para el desarrollo de las actividades señaladas en la fracción anterior, y
 
@@ -454,9 +468,15 @@ III. Las actividades y sus respectivas previsiones de gasto público correspondi
 
 La programación y presupuestación anual del gasto público se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para cada ejercicio fiscal y con base en:
 
-I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y
+I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y (sic)
 
-II. Las políticas de gasto público que determine el Jefe de Gobierno, a través de la Secretaría.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+II. Las políticas de gasto público que determine el Jefe de Gobierno, a través de la Secretaría. y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+III. La evaluación de los avances logrados en el cumplimiento de los objetivos y metas del Programa General y los avances sectoriales con base al Sistema de Evaluación del Desempeño, las metas y avances físicos financieros del ejercicio fiscal anterior y los pretendidos para el siguiente ejercicio.
 
 El anteproyecto se elaborará por Dependencia, Órgano Desconcentrado, Delegación y Entidad estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores necesarios para medir su cumplimiento.
 
@@ -470,13 +490,13 @@ Asimismo, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades d
 
 La Secretaría queda facultada para formular los Anteproyectos de Presupuesto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuando no le sean presentados en los plazos que al efecto se les hubiesen señalado o cuando no se apeguen a los criterios presupuestales de eficiencia y eficacia previstos en la legislación aplicable, así como a las previsiones de ingresos comunicados.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
-La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, comunicándoles a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, los ajustes que habrán de realizar a los mismos en función de la cifra definitiva proyectada de ingresos, de conformidad con el Reglamento.
+La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, comunicándoles a las Dependencias, Órganos Desconcentrados, y Entidades, los ajustes que habrán de realizar a los mismos en función de la cifra definitiva proyectada de ingresos, de conformidad con el Reglamento.
 
-Para cumplir lo anterior, la Secretaría acordará los ajustes con las Delegaciones, durante los primeros 20 días naturales del mes de enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del Programa de Gobierno Delegacional y la aplicación del marco normativo y procedimental.
+Para el caso de las Delegaciones, la Secretaría se coordinará con éstas a efecto de acordar los ajustes planteados durante los primeros 20 días naturales del mes de Enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del programa de Gobierno Delegacional y la aplicación del marco normativo y procedimental.
 
 ###### ARTÍCULO 28.
 
@@ -508,15 +528,15 @@ Los Jefes Delegacionales determinarán su Programa de Inversión con base en las
 
 Los programas sociales que implementen las Delegaciones deberán coordinarse con el Sector Central con el fin de unificar padrones de beneficiarios para evitar su duplicidad con el propósito de maximizar el impacto económico y social de los mismos. Para materializar lo anterior, las Delegaciones deberán observar lo dispuesto en el artículo 102 de esta Ley.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-En caso de que la Asamblea apruebe recursos adicionales para las Delegaciones a los propuestos por la Secretaría, se contendrán en un Anexo específico dentro del Presupuesto de Egresos donde se detallen los proyectos o acciones a realizar para el ejercicio fiscal que corresponda.
+> <small>(DEROGADO SEXTO PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-La Secretaría solicitará a las Delegaciones remitan la información sobre el ejercicio de los recursos señalados en el párrafo anterior, con el objeto de incorporarlos en un capítulo especial del Informe de Avance Trimestral que se envía a la Asamblea.
+ARTÍCULO 29 BIS.- En caso de que la Asamblea apruebe recursos adicionales para las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno del Distrito Federal, a los propuestos por la Secretaría, se contendrán en un Anexo específico dentro del Presupuesto de Egresos donde se detallen los proyectos o acciones a realizar para el ejercicio fiscal que corresponda.
 
-ARTÍCULO 29 BIS.- (DEROGADO, G.O. 20 DE ABRIL DE 2011)
+La Secretaría elaborará un formato de seguimiento del ejercicio de los recursos a los que se refiere el párrafo anterior, a efecto de que las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno del Distrito Federal informen sobre los avances de su ejercicio. La información se incorporará en un capítulo especial del Informe de Avance Trimestral que envía la Secretaría a la Asamblea.
 
 ### CAPÍTULO II. De los Aspectos Generales de los Programas
 
@@ -578,9 +598,11 @@ La Asamblea deberá aprobar dichas iniciativas a más tardar el 20 de diciembre 
 
 Cuando por alguna situación extraordinaria, al iniciar el ejercicio fiscal del año siguiente no exista una Ley de Ingresos y/o Decreto aprobado, con el propósito de no interrumpir la prestación de los servicios públicos, en tanto no se aprueben, la Secretaría procederá a actualizar, conforme a las disposiciones del artículo 18 del Código, del ejercicio fiscal del año anterior, en cuanto al gasto mínimo de operación y la ejecución de obras en proceso.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 39.
 
-A toda proposición por parte de la Asamblea de aumento o creación de Subfunciones, conceptos o partidas al proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso o la cancelación y/o suspensión de otras Subfunciones, si con tal proposición se altera el equilibrio presupuestal.
+A toda proposición por parte de la Asamblea de aumento o creación de vertientes de gasto, conceptos o partidas al proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso o la cancelación y/o suspensión de otras vertientes de gasto, si con tal proposición se altera el equilibrio presupuestal.
 
 ###### ARTÍCULO 40.
 
@@ -618,15 +640,21 @@ El proyecto de Presupuesto de Egresos se integrará con los siguientes elementos
 
 I. Exposición de Motivos en la que señalen los efectos económicos y sociales que se pretenden lograr;
 
-II. El gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables de Gasto que el propio presupuesto señale.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-III. Descripción clara de las Subfunciones, resultados y subresultados que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
+II. El gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados, la clasificación por tipo de gasto y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables de Gasto que el propio presupuesto señale;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+III. Descripción clara de las vertientes de gasto, resultados y subresultados que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
 
 IV. Descripción del presupuesto con enfoque de equidad de género, derechos humanos y sustentabilidad; este último se contendrá en un Anexo específico de las actividades institucionales del Resultado correspondiente que realicen las Unidades Responsables del Gasto;
 
 V. La identificación expresa de las actividades institucionales que se llevarán a cabo para el cumplimiento de los resultados contenidos en el presupuesto de las Unidades Responsables del Gasto, precisando los recursos involucrados para su obtención;
 
-VI. Explicación y comentarios de las Subfunciones consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+VI. Explicación y comentarios de las vertientes de gasto consideradas como prioritarias, así como las obras y adquisiciones cuya ejecución abarque dos o más ejercicios fiscales;
 
 VII. Estimación de los ingresos y de los gastos del ejercicio fiscal para el que se propone;
 
@@ -636,9 +664,23 @@ IX. Los montos de endeudamiento propuestos al Congreso de la Unión;
 
 X. Los proyectos de Presupuesto de Egresos de los Órganos Autónomos especificando los montos de los recursos públicos que sometan a consideración de la Asamblea;
 
-XI. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-XII. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa.
+XI. Los montos de los recursos públicos que correspondan a los Órganos de Gobierno;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+XII.- Analítico de Claves Presupuestales;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+XIII.- Analítico de plazas;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+XIV.- Catálogo de dependencias y unidades responsables, y
+
+XV. En general, toda la información presupuestal que se considere útil para sustentar el proyecto en forma clara y completa.
 
 La Secretaría podrá solicitar a las Unidades Responsables del Gasto toda la información que considere necesaria para la elaboración del Presupuesto de Egresos a que se refiere este capítulo, respetando la autonomía presupuestaria y de gestión de los Órganos de Gobierno y Autónomos, conforme a esta Ley.
 
@@ -654,11 +696,15 @@ En el año en que termina su encargo, el Jefe de Gobierno saliente deberá elabo
 
 El Presupuesto de Egresos será el que contenga el Decreto que apruebe la Asamblea a iniciativa del Jefe de Gobierno, para expensar, durante el periodo de un año contado a partir del 1° de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 44.
 
-Los titulares de las Unidades Responsables del Gasto y los servidores públicos encargados de su administración, serán los responsables del manejo y aplicación de los recursos, del cumplimiento de los calendarios presupuestales autorizados, metas y de las Subfunciones contenidas en el presupuesto autorizado; de que se cumplan las disposiciones legales vigentes para el ejercicio del gasto; de que los compromisos sean efectivamente devengados, comprobados y justificados; de la guarda y custodia de los documentos que los soportan; de llevar un estricto control de los medios de identificación electrónica y de llevar el registro de sus operaciones conforme a las disposiciones aplicables en la materia, con sujeción a los capítulos, conceptos y partidas del clasificador por objeto del gasto que expida la Secretaría.
+Los titulares de las Unidades Responsables del Gasto y los servidores públicos encargados de su administración, serán los responsables del manejo y aplicación de los recursos, del cumplimiento de los calendarios presupuestales autorizados, metas y de las vertientes de gasto contenidas en el presupuesto autorizado; de que se cumplan las disposiciones legales vigentes para el ejercicio del gasto; de que los compromisos sean efectivamente devengados, comprobados y justificados; de la guarda y custodia de los documentos que los soportan; de llevar un estricto control de los medios de identificación electrónica y de llevar el registro de sus operaciones conforme a las disposiciones aplicables en la materia, con sujeción a los capítulos, conceptos y partidas del clasificador por objeto del gasto que expida la Secretaría.
 
-Las Unidades Responsables del Gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Las Unidades Responsables del Gasto deberán contar con sistemas de control presupuestario que promuevan la programación, presupuestación, ejecución, registro e información del gasto de conformidad con los criterios establecidos en el párrafo tercero del artículo 1 de esta Ley, así como que contribuyan al cumplimiento de los objetivos y metas aprobados en el Presupuesto de Egresos.
 
 La Secretaría emitirá las reglas de carácter general para los procedimientos del ejercicio presupuestal, con apego a lo dispuesto en esta Ley.
 
@@ -693,6 +739,10 @@ La Secretaría, en casos excepcionales, podrá autorizar que las Dependencias, �
 ###### ARTÍCULO 47.
 
 El ejercicio del presupuesto se sujetará estrictamente a los montos y calendarios presupuestales aprobados, así como a las disponibilidades de la hacienda pública, los cuales estarán en función de la capacidad financiera del Distrito Federal. En el ejercicio del gasto público, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán de cumplir con esta Ley, quedando facultada la Secretaría para no reconocer adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas en contravención a lo dispuesto en este artículo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+La Secretaria instrumentará lo que corresponda a efecto de que los pagos a proveedores, prestadores de servicios contratistas o cualquier otro beneficiario, se lleven a cabo en un máximo de 20 días naturales, contados a partir de la fecha en que sea ingresada al sistema la solicitud de trámite de la Cuenta por Liquidar Certificada, o bien dentro de las fechas limites de cierre que para el efecto emita la Secretaria.
 
 ###### ARTÍCULO 48.
 
@@ -812,9 +862,11 @@ El manejo financiero de los recursos recibidos por concepto de transferencias y 
 
 ### CAPÍTULO II. De la Ministración, el Pago y la Concentración de Recursos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 62.
 
-La Secretaría atenderá las solicitudes de pago o de fondos que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades autoricen con cargo a sus presupuestos para el financiamiento de sus Subfunciones, en razón de sus disponibilidades financieras y conforme al calendario presupuestal previamente aprobado.
+La Secretaría atenderá las solicitudes de pago o de fondos que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades autoricen con cargo a sus presupuestos para el financiamiento de sus vertientes de gasto, en razón de sus disponibilidades financieras y conforme al calendario presupuestal previamente aprobado.
 
 Por lo que hace a los órganos de gobierno y autónomos, la Secretaría ministrará los fondos autorizados por la Asamblea, conforme el calendario financiero previamente aprobado, en términos de lo dispuesto en esta Ley.
 
@@ -876,45 +928,31 @@ De no cumplir con los requisitos antes señalados, dichos compromisos se pagará
 
 Para el caso de que las estimaciones de ingresos no se cumplan, la Secretaría determinará el registro presupuestal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 71.
 
 Los recursos remanentes de los ejercicios anteriores serán considerados ingresos para todos los efectos y deberán destinarse a mejorar el balance fiscal y/o a la disminución del saldo neto de la deuda pública acumulada, excepto los remanentes federales ya que tienen un fin específico.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
 De la misma manera, los recursos derivados de economías en el pago de servicios de la deuda pública, deberán aplicarse a disminuir el saldo neto de la misma.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+No es aplicable lo dispuesto en este artículo, tratándose de recursos presupuestales aprobados por la Asamblea expresamente con el carácter de aportaciones al patrimonio propio de los Fideicomisos Públicos, tampoco de los recursos afectos al cumplimiento de sus fines, ni en el caso de los recursos transferidos a los Órganos de Gobierno Legislativo y Judicial.
 
-Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserven fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserve fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
 De los remanentes a los que se refieren los párrafos anteriores, se destinará una cantidad equivalente al 20% del total para el Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+A efecto de acceder a los recursos de dicho fondo, la Secretaría de Salud del Distrito Federal informará a la Asamblea sobre la presencia de una contingencia sanitaria, o bien, sobre situaciones que a su juicio ameriten realizar acciones para prevenirla.
 
-A efecto de acceder a los recursos de dicho Fondo, la Secretaría de Salud del Distrito Federal informará a la Asamblea sobre la presencia de una contingencia sanitaria, o bien, sobre situaciones que a su juicio ameriten realizar acciones para prevenirla.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
-
-En caso de que alguna dependencia de la Administración Pública del Distrito Federal distinta a la señalada en el presente artículo identifique circunstancias que puedan derivar en una contingencia sanitaria, deberán dar aviso a la Secretaría de Salud remitiendo un informe detallado que justifique la necesidad de aplicar recursos de dicho Fondo para la prevención o atención de esa situación.
-
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+En caso de que alguna dependencia de la Administración Pública del Distrito Federal distinta a la señalada en el presente artículo identifique circunstancias que puedan derivar en una contingencia sanitaria, deberán dar aviso a la Secretaría de Salud remitiendo un informe detallado que justifique la necesidad de aplicar recursos de dicho Fondo para la Prevención o Atención de esa situación.
 
 La Asamblea por conducto de las Comisiones de Presupuesto y Cuenta Pública y de Salud y Asistencia Social, deberá emitir la opinión respectiva para la utilización de los recursos solicitados, de acuerdo a la suficiencia presupuestal del Fondo mencionado.
 
-> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
-
 El destino de los recursos al que se refiere el presente artículo respecto al Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal, no excluye la asignación de presupuesto específico aprobado por la Asamblea, las reasignaciones que la Secretaría de Salud realice dentro de su presupuesto autorizado, incluso, los recursos que provengan de cualquier otro programa, fondo federal o del sector privado y no podrán destinarse a fines distintos.
 
-Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros cinco días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
+Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2010)</small>
-
-Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. El servidor público que incumpla con esta prohibición, será sancionado en los términos del Capítulo II del Título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Queda prohibido realizar erogaciones, así como constituir o participar en fideicomisos, mandatos o análogos, al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. El servidor público que incumpla con esta prohibición, será sancionado en los términos del capítulo II del título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 De los movimientos que se efectúen en los términos de este artículo, el Jefe de Gobierno informará a la Asamblea en cada Informe Trimestral y al rendir la Cuenta Pública.
 
@@ -936,7 +974,9 @@ Los interesados reintegrarán en todo caso las cantidades anticipadas que no hub
 
 Para cada ejercicio fiscal, la Asamblea deberá aprobar en el Decreto una partida presupuestal específica que será destinada a cumplimentar las resoluciones definitivas pronunciadas por los órganos jurisdiccionales competentes.
 
-En caso de que la partida presupuestal referida, autorizada por la Asamblea para cada ejercicio fiscal, fuere insuficiente para darles cumplimiento a las resoluciones definitivas, el Jefe de Gobierno, por conducto de la Secretaría, podrá solicitar a la Asamblea una ampliación a la partida correspondiente para cumplimentar dichas resoluciones. La Asamblea, para autorizar la ampliación deberá tomar en cuenta que no se afecten las Subfunciones del Presupuesto de Egresos y lo permitan las condiciones económicas de la hacienda pública.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+En caso de que la partida presupuestal referida, autorizada por la Asamblea para cada ejercicio fiscal, fuere insuficiente para darles cumplimiento a las resoluciones definitivas, el Jefe de Gobierno, por conducto de la Secretaría, podrá solicitar a la Asamblea una ampliación a la partida correspondiente para cumplimentar dichas resoluciones. La Asamblea, para autorizar la ampliación deberá tomar en cuenta que no se afecten las vertientes de gasto del Presupuesto de Egresos y lo permitan las condiciones económicas de la hacienda pública.
 
 ###### ARTÍCULO 74.
 
@@ -972,13 +1012,15 @@ II. Los calendarios presupuestales autorizados, y
 
 III. Ampliaciones y reducciones líquidas al Presupuesto de Egresos.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 77.
 
-Las adecuaciones presupuestarias, se realizarán siempre que permitan un mejor cumplimiento de los objetivos y metas de las Subfunciones a cargo de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, mismas que tomarán en cuenta:
+Las adecuaciones presupuestarias, se realizarán siempre que permitan un mejor cumplimiento de los objetivos y metas de las vertientes de gasto a cargo de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, mismas que tomarán en cuenta:
 
 I. El resultado de la evaluación que realicen respecto del cumplimiento de los objetivos y metas que lleven a cabo mensualmente, y
 
-II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de las Subfunciones.
+II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de las vertientes de gasto.
 
 ###### ARTÍCULO 78.
 
@@ -986,13 +1028,19 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que para el
 
 Las adecuaciones que presenten las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a través del sistema electrónico o de manera impresa, deberán cumplir con los requisitos que establezca el Reglamento.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+La Secretaria otorgará las autorizaciones de las adecuaciones, en un máximo de diez días naturales, a partir de que sean solicitadas en el sistema electrónico, o bien remitir de manera oficial en este mismo plazo, los motivos por los que no se procede la adecuación, conforme a la normatividad vigente.
+
 Las autorizaciones que emita la Secretaría utilizando los medios de identificación electrónica que se establezcan conforme a este precepto en sustitución de la firma autógrafa, producirán los mismos efectos que las leyes otorgan a las autorizaciones de las adecuaciones presupuestarias con firma autógrafa.
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que utilicen el sistema electrónico aceptarán en la forma que se prevea en las disposiciones que emita la Secretaría las consecuencias y alcance probatorio de los medios de identificación electrónica y deberán conservar los archivos electrónicos que se generen en los plazos que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 79.
 
-El Jefe de Gobierno, por conducto de la Secretaría, podrá modificar el contenido orgánico y financiero de las Subfunciones de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades incluidas en el Presupuesto de Egresos cuando por razones de interés social, económico o de seguridad pública, lo considere necesario.
+El Jefe de Gobierno, por conducto de la Secretaría, podrá modificar el contenido orgánico y financiero de las vertientes de gasto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades incluidas en el Presupuesto de Egresos cuando por razones de interés social, económico o de seguridad pública, lo considere necesario.
 
 Si como consecuencia de dicha modificación el Jefe de Gobierno, por conducto de la Secretaría, instruye a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a tramitar adecuaciones presupuestarias y no lo hicieren, la Secretaría aplicará dichas adecuaciones y las notificará a las mismas. En el caso de las Delegaciones, tendrán 3 días para hacerlo o manifestar lo que a su derecho corresponda. En caso contrario la Secretaría las aplicará por su cuenta.
 
@@ -1000,21 +1048,23 @@ De igual forma actuará la Secretaría para el caso que por disposición legal s
 
 Cuando el ajuste alcance o rebase en forma acumulada el 10% del presupuesto anual asignado a cada Dependencia, Órgano Desconcentrado, Delegación y Entidad, el Jefe de Gobierno, por conducto de la Secretaría, deberá solicitar la opinión de la Asamblea para que ésta manifieste lo conducente, informando en un capítulo especial del Informe de Avance Trimestral, la conciliación de las modificaciones realizadas, explicando a detalle los fundamentos, motivos y razonamientos de tales ajustes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 80.
 
-Los Órganos Autónomos y de Gobierno, a través de sus respectivas unidades de administración, previa autorización de su órgano competente, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de las Subfunciones a su cargo, siempre y cuando, emitan las normas aplicables.
+Los Órganos Autónomos y de Gobierno, a través de sus respectivas unidades de administración, previa autorización de su órgano competente, podrán autorizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de las vertientes de gasto a su cargo, siempre y cuando, emitan las normas aplicables.
 
 Dichas adecuaciones, deberán ser informadas al Jefe de Gobierno, por conducto de la Secretaría, para efectos de la integración de los Informes Trimestrales y de la Cuenta Pública.
 
 ### CAPÍTULO IV. De la Disciplina Presupuestaria
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 81.
 
-Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como los Órganos Autónomos y de Gobierno sin menoscabo de su autonomía, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de las Subfunciones aprobadas en el Decreto de Presupuesto de Egresos.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como los Órganos Autónomos y de Gobierno sin menoscabo de su autonomía, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de las vertientes de gasto aprobadas en el Decreto de Presupuesto de Egresos.
 
-Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las Subfunciones prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose de los Órganos Autónomos y de Gobierno.
+Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las vertientes de gasto prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose de los Órganos Autónomos y de Gobierno.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1184,7 +1234,9 @@ No se permitirán traspasos de recursos que en cualquier forma afecten las asign
 
 Procederá la transferencia de asignaciones presupuestales a otras Delegaciones o al sector central, tratándose de readscripciones de plazas de base y cuando la propia Delegación solicite transferir sus recursos.
 
-### CAPÍTULO VI. De los Subsidios, donativos, apoyos y ayudas
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO VI. De los Subsidios, Donativos, Apoyos y Ayudas
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1230,19 +1282,13 @@ Los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Enti
 
 Se exceptúa de lo anterior los subsidios, apoyos o ayudas que se otorguen excepcionalmente, a personas físicas o morales siempre que medie autorización previa del titular de las Dependencias, Órganos Desconcentrados, Delegaciones o Entidades en las que se justifique la procedencia del otorgamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 98.
 
-El Jefe de Gobierno, previa autorización de la Asamblea, podrá autorizar subsidios con cargo al Presupuesto de Egresos. Dichos subsidios sólo se aprobarán para la consecución de los objetivos de los programas contenidos en el presupuesto señalado o bien, cuando se considere de beneficio social y para el pago de las contribuciones establecidas en los capítulos I, II, III, IV, V, VIII y IX en sus secciones Primera, Tercera, Cuarta, Quinta y Octava, del Título Tercero del Libro Primero del Código.
+El Jefe de Gobierno, previa autorización de la Asamblea, podrá autorizar subsidios con cargo al Presupuesto de Egresos. Dichos subsidios sólo se aprobarán para la consecución de los objetivos de las vertientes de gasto contenidos en el presupuesto señalado o bien, cuando se considere de beneficio social y para el pago de las contribuciones establecidas en los capítulos I, II, III, IV, V, VI, VIII y IX en sus secciones Primera, Tercera, Cuarta, Quinta y Octava, del Título Tercero del Libro Primero del Código.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-La aprobación a que se refiere el párrafo anterior y el acuerdo de carácter general a que se refiere el artículo 96, no será necesaria en caso de resoluciones individuales.
-
-Dicha solicitud de autorización deberá resolverse durante los 15 días hábiles a la presentación de la misma, por la Asamblea, o cuando ésta se encuentre en receso por la Comisión de Gobierno, pasados los cuales de no negarse se considerará aprobada.
-
-El Jefe de Gobierno informará a la Asamblea del ejercicio de las resoluciones otorgadas en apego a este artículo, en cada Informe Trimestral y al rendir la Cuenta Pública.
+La autorización a que se refiere el párrafo anterior y el acuerdo de carácter general a que se refiere el artículo 96, no será necesaria en caso de resoluciones individuales.
 
 ###### ARTÍCULO 99.
 
@@ -1288,6 +1334,36 @@ En el caso de que el Comité de Planeación del Desarrollo no apruebe la creaci�
 
 La Contraloría en el ámbito de su competencia verificará que el gasto a que se refiere este artículo guarde congruencia con lo dispuesto en esta Ley y en el Presupuesto de Egresos para el Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 102 BIS.- En un anexo del Presupuesto de Egresos se deberán señalar los programas de beneficio social, a través de los cuales se otorguen subsidios, especificando las respectivas reglas de operación con el objeto de cumplir lo previsto en el tercer párrafo del articulo 1 de esta Ley; asimismo, se deberá especificar la Dependencia, Órgano Desconcentrado, Delegación o Entidad que tendrá a su cargo la operación de cada programa.
+
+Asimismo, el Consejo de Evaluación para la emisión de los lineamientos a que se refiere el párrafo quinto del artículo 102 de esta Ley, deberá considerar entre otros parámetros los siguientes:
+
+a) El cuerpo de las reglas de operación deberá contener los lineamientos, metodologías, procedimientos, manuales, formatos, modelos de convenio, convocatorias y cualesquiera de naturaleza análoga;
+
+b) Deberán establecer los criterios de selección de los beneficiarios, instituciones o localidades objetivo.
+
+Estos deben ser precisos, definibles, mensurables y objetivos;
+
+c) Debe describirse completamente el mecanismo de selección o asignación, con reglas claras y consistentes con objetivos de política del programa, para ello deberán anexar un diagrama de flujo del proceso de selección;
+
+d) Para todos los tramites deberá especificarse textualmente el nombre del trámite que indique la acción a realizar;
+
+e) Se deberán establecer los casos o supuestos que dan derecho a realizar el trámite;
+
+f) Debe definirse la forma de realizar el trámite;
+
+g) Sólo podrán exigirse los datos y documentos anexos estrictamente necesarios para tramitar la solicitud y acreditar si el potencial beneficiario cumple con los criterios de elegibilidad;
+
+h) Se deberán definir con precisión los plazos que tiene el supuesto beneficiario, para realizar el tramite, así como el plazo de prevención y el plazo máximo de resolución de la autoridad, y (sic)
+
+i) Se deberán especificar las unidades administrativas ante quienes se realiza el tramite o, en caso, si hay algún mecanismo alterno.
+
+j) Las reglas de operación deberán ser simples y precisas con el objeto de facilitar la eficiencia y la eficacia en la aplicación de los recursos y en la operación de los programas.
+
+Las evaluaciones se realizaran conforme al programa anual que al efecto establezca el Consejo.
+
 ###### ARTÍCULO 103.
 
 La Secretaría de Desarrollo Social a través del Consejo de Evaluación deberá coordinar el estudio de las características y necesidades de los programas de beneficio social, a cargo de las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades, con el propósito de establecer el mecanismo o instrumento más adecuado para el otorgamiento y ejercicio del beneficio o ayuda, por parte de los beneficiarios.
@@ -1302,7 +1378,9 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que reciban
 
 ## TÍTULO CUARTO. Inversiones a Largo Plazo
 
-### CAPÍTULO I. Del presupuesto plurianual
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. Del Presupuesto Plurianual
 
 ###### ARTÍCULO 105.
 
@@ -1334,7 +1412,9 @@ Una vez determinados los mínimos de operación, éstos, dentro de la presentaci
 
 De igual forma, podrán gozar de asignaciones plurianuales aquellos programas integrales que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales del Distrito Federal, siempre y cuando, el Jefe de Gobierno, por conducto de la Secretaría proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
 
-### CAPÍTULO II. De prestación de servicios a largo plazo y arrendamientos a largo plazo
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO II. De prestación de Servicios a Largo Plazo y Arrendamientos a Largo Plazo
 
 ###### ARTÍCULO 108.
 
@@ -1342,9 +1422,11 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades en los proy
 
 En los procedimientos de adjudicación y formalización de los contratos de prestación de servicios a largo plazo, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán apegarse a lo establecido en la Ley de Adquisiciones para el Distrito Federal y su Reglamento.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 109.
 
-Los recursos relacionados con los pagos que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades como contraprestación por los servicios recibidos al amparo de un contrato de prestación de servicios a largo plazo o para arrendamientos de largo plazo se registrarán como gasto corriente y tendrán preferencia respecto a otras previsiones de naturaleza similar.
+Los recursos relacionados con los pagos que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades como contraprestación por los servicios recibidos al amparo de un contrato de prestación de servicios a largo plazo o para arrendamientos de largo plazo se registrarán conforme a lo previsto en el Clasificador por Objeto del Gasto del Distrito Federal y tendrán preferencia respecto a otras previsiones de naturaleza similar.
 
 ###### ARTÍCULO 110.
 
@@ -1382,15 +1464,25 @@ La evaluación financiera y presupuestal de los proyectos de coinversión corres
 
 ## TÍTULO QUINTO. De la evaluación del gasto
 
-### CAPÍTULO ÚNICO. Del Control y Evaluación de los Ingresos
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO. De la evaluación de los ingresos y egresos
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 116.
 
-El control y la evaluación de los ingresos se basarán en esta Ley, en la Ley General y la normatividad que emita el CONAC.
+El control y la evaluación de los ingresos y egresos se basarán en esta Ley, en la Ley General y la normatividad aplicable.
 
 ###### ARTÍCULO 117.
 
 La Contraloría deberá elaborar e instrumentar un programa de revisión a efecto de vigilar que los objetivos y metas en materia de ingresos se cumplan, informando de ello trimestralmente a la Asamblea.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 117 BIS.- La Secretaría realizará la evaluación económica de los ingresos y egresos en función de los calendarios presupuestarios y mediante el informe trimestral que remitan las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades.
+
+La evaluación se realizará a través de la revisión del avance del cumplimiento de los objetivos y metas presupuestales, tomando como referencia las mediciones previstas en el artículo 135 de esta Ley, a fin de conocer el resultado de la aplicación de los recursos presupuestales, generando la información para atender en su caso lo previsto en el artículo 49 de la Ley de Coordinación Fiscal.
 
 ###### ARTÍCULO 118.
 
@@ -1416,7 +1508,9 @@ III. Un reporte de los ingresos en especie en que se determine si correspondiero
 
 # LIBRO SEGUNDO. DE LA CONTABILIDAD GUBERNAMENTAL
 
-## TÍTULO PRIMERO. De la contabilidad
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO PRIMERO. De la Contabilidad
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -1424,19 +1518,25 @@ III. Un reporte de los ingresos en especie en que se determine si correspondiero
 
 La contabilidad gubernamental se sujetará a las disposiciones de la Ley General, para lo cual observará los criterios generales de armonización que al efecto se emitan, así como las normas y lineamientos para la generación de información financiera.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 122.
 
-El desarrollo y operación de los sistemas de contabilidad, así como la emisión de la normatividad en la materia, para efectos administrativos, estarán a cargo de la Secretaría.
+El desarrollo y operación del sistema contable para las Dependencias, Órganos Desconcentrados y Delegaciones, así como la emisión de la normatividad contable para efectos administrativos, estarán a cargo de la Secretaría.
 
-El desarrollo y operación de los sistemas de contabilidad, en caso de los Órganos de Gobierno y Autónomos, estarán a cargo de su órgano competente.
+El desarrollo y operación de los sistemas de contabilidad de las Entidades, estará a cargo de las mismas y se requerirá la autorización del plan de cuentas por parte de la Secretaría.
+
+El desarrollo y operación de los sistemas de contabilidad de los Órganos de Gobierno y Autónomos, estarán a cargo de su órgano competente.
 
 ###### ARTÍCULO 123.
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, suministrarán a la Secretaría con la periodicidad que ésta lo determine, la información presupuestal, programática, contable y financiera que requiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 124.
 
-La información financiera, presupuestal, programática y contable que emane de los registros de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública del Distrito Federal y someterlos a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
+La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Delegaciones y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública del Distrito Federal y someterlos a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
 
 La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, será consolidada por la Secretaría.
 
@@ -1446,9 +1546,13 @@ Los Órganos Autónomos y de Gobierno remitirán oportunamente los estados finan
 
 La contabilidad de las operaciones deberá estar respaldada por los documentos justificantes y comprobatorios originales.
 
-Será responsabilidad de los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como de los servidores públicos encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los libros, registros e información relativa, en términos de las disposiciones aplicables.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Los Órganos Autónomos y de Gobierno, definirán al interior las responsabilidades para dar cumplimiento a esta disposición.
+Será responsabilidad de los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como de los servidores públicos encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los registros auxiliares e información relativa, y en el caso de las Entidades, de sus libros de contabilidad, en términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Los Órganos Autónomos y de Gobierno, definirán al interior las responsabilidades para dar cumplimiento a esta disposición, en los términos que aplique la presente Ley, así como la Ley General.
 
 ###### ARTÍCULO 126.
 
@@ -1456,19 +1560,23 @@ Será responsabilidad de las Unidades Responsables de Gasto la confiabilidad de 
 
 ### CAPÍTULO II. De los Catálogos de Cuentas y del Registro Contable de las Operaciones
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 127.
 
-El catálogo de cuentas deberá permitir la armonización de la información contable del Distrito Federal, en los términos de la normatividad aplicable.
+El plan de cuentas deberá permitir la armonización de la información contable del Distrito Federal, en los términos de la normatividad aplicable.
 
 ###### ARTÍCULO 128.
 
 Las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, consolidarán y contabilizarán dichas operaciones en el Sector Central, para lo cual deberán ajustarse a las disposiciones que en esta materia establece la Ley para las Dependencias y Órganos Desconcentrados.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 129.
 
-La Secretaría, Entidades, Órganos de Gobierno y Autónomos contabilizarán las operaciones financieras y presupuestales en sus libros principales de contabilidad, que serán en su caso los denominados diario y mayor. Cuando el Sistema electrónico emita de forma impresa dichos libros, éstos tendrán la misma validez.
+La Secretaría, Entidades, Órganos de Gobierno y Autónomos contabilizarán las operaciones financieras y presupuestales en sus libros principales de contabilidad, que serán en su caso los denominados diario, mayor e inventarios y balances. Cuando el Sistema electrónico emita de forma impresa dichos libros, éstos tendrán la misma validez.
 
-La contabilización de las operaciones financieras y presupuestales deberá efectuarse dentro de los treinta días siguientes a la fecha de su realización y tendrán que estar respaldadas por los documentos comprobatorios y justificativos originales.
+La contabilización de las operaciones financieras y presupuestales tendrá que efectuarse dentro de los treinta días siguientes a la fecha de su realización y tendrán que estar respaldadas por los documentos comprobatorios y justificativos originales.
 
 ###### ARTÍCULO 130.
 
@@ -1480,11 +1588,15 @@ La observancia de esta Ley, en materia de contabilidad, no releva a las Dependen
 
 La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Distrito Federal y, en su oportunidad, producirá los estados financieros que se requieran para su integración en la Cuenta Pública del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 132.
 
-La Secretaría establecerá un sistema de contabilidad de fondos y valores del Distrito Federal, con base en la normatividad aplicable, a fin de:
+La Secretaría preverá que en el sistema contable se realice el registro de fondos y valores del Distrito Federal, con base en la normatividad aplicable, a fin de:
 
-I. Captar diariamente la información del ingreso, administración de fondos y valores y del egreso efectuado para proceder a su contabilización;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. Captar la información del ingreso, administración de fondos y valores y del egreso efectuado para proceder a su contabilización;
 
 II. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones, y
 
@@ -1494,15 +1606,19 @@ III. Aportar los elementos que permitan determinar la responsabilidad de los ser
 
 Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Distrito Federal, deberán registrarse en el sistema de contabilidad a que se refiere el presente Título.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 134.
 
-La Secretaría, al recibir las cuentas comprobadas procederá a su revisión, análisis, integración y control, para estar en posibilidad de formular los estados financieros y demás informes contables que requiera la misma Secretaría, para efectos de la Cuenta Pública del Distrito Federal.
+La Secretaría por conducto de la unidad administrativa responsable de concentrar los fondos y valores propiedad o al cuidado del Distrito Federal, formulará las cuentas comprobadas y registrará los asientos que correspondan en el sistema contable, para efectos de la Cuenta Pública del Distrito Federal.
 
 ## TÍTULO SEGUNDO. De la Cuenta Pública del Distrito Federal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 135.
 
-Las Unidades Responsables del Gasto deberán rendir a la Secretaría el Informe Trimestral a que se refiere el Estatuto, dentro de los 15 días naturales siguientes de concluido cada trimestre, que contenga información cuantitativa y cualitativa sobre la ejecución de sus presupuestos aprobados y la evaluación de los mismos. Los criterios para la integración de la información serán definidos por la Secretaría y comunicados por ésta antes de la conclusión del periodo a informar.
+Las Unidades Responsables del Gasto deberán remitir a la Secretaría el Informe Trimestral a que se refiere el Estatuto, dentro de los 15 días naturales siguientes de concluido cada trimestre, que contenga información cuantitativa y cualitativa sobre la ejecución de sus presupuestos aprobados y la evaluación de los mismos. Los criterios para la integración de la información serán definidos por la Secretaría y comunicados por ésta antes de la conclusión del periodo a informar.
 
 En la información cuantitativa y cualitativa las Unidades Responsables del Gasto harán referencia a los siguientes aspectos:
 
@@ -1528,7 +1644,9 @@ La información a la que se refiere este artículo, será responsabilidad del ti
 
 Las Dependencias, Órganos Desconcentrados y Delegaciones deberán proporcionar a la Secretaría la siguiente información:
 
-I. Mensualmente, dentro de los primeros diez días del mes siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. Mensualmente, dentro de los primeros diez días del mes siguiente.
 
 a) Conciliación del ejercicio presupuestal, y
 
@@ -1538,9 +1656,13 @@ II. Mensualmente, dentro de los primeros cinco días del mes siguiente, el repor
 
 III. Mensualmente, dentro de los primeros siete días del mes siguiente, el reporte correspondiente al cumplimiento de obligaciones del Gobierno del Distrito Federal, relacionadas con la declaración informativa sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-IV. Trimestralmente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
-a) Información sobre el avance de metas por Subfunciones. En caso de desviaciones a las metas se deberán especificar las causas que las originen;
+IV. Trimestralmente
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+a) Información sobre el avance de metas por vertientes de gasto. En caso de desviaciones a las metas se deberán especificar las causas que las originen;
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1610,7 +1732,9 @@ II. Trimestralmente:
 
 a) Estado de endeudamiento;
 
-b) Información sobre el avance de metas, por Subfunciones en especial prioritarios, estratégicos y multisectoriales. En caso de desviaciones a las metas, se deberán especificar las causas que las originen;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
+b) Información sobre el avance de metas, por vertientes de gasto en especial prioritarias, estratégicas y multisectoriales. En caso de desviaciones a las metas, se deberán especificar las causas que las originen;
 
 c) Información sobre la ejecución de los recursos por subsidios, ayudas, donaciones y aportaciones autorizados y ministrados a instituciones, personas físicas o morales, especificando importes, causas y finalidades de las erogaciones, e
 
@@ -1622,9 +1746,11 @@ La información a que se refiere este artículo deberá contar con la aprobació
 
 En caso de que la Secretaría no reciba la información o la que reciba no cumpla con la forma y plazos establecidos por ésta, la podrá solicitar directamente a las Entidades coordinadas.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 138.
 
-Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que participen en la realización de Subfunciones prioritarias reportarán trimestralmente a la Secretaría dentro de los primeros quince días del mes siguiente, las realizaciones financieras y de metas a nivel de programa y actividad institucional que tengan a su cargo, conforme a los requerimientos que para el efecto establezca la Secretaría.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que participen en la realización de vertientes de gasto prioritarias reportarán trimestralmente a la Secretaría dentro de los primeros quince días del mes siguiente, las realizaciones financieras y de metas a nivel de programa y actividad institucional que tengan a su cargo, conforme a los requerimientos que para el efecto establezca la Secretaría.
 
 ###### ARTÍCULO 139.
 
@@ -1714,11 +1840,11 @@ Los titulares de las Entidades, así como los de sus órganos encargados del man
 
 Las Entidades que lleven a cabo el registro de sus operaciones financieras y presupuestales en sistemas electrónicos deberán suministrar la información requerida por la Secretaría para la integración de la Cuenta Pública, en la forma y medios por ella señalados.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 145.
 
-La Secretaría agrupará, cuando sea necesario, la información que le proporcionen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para efectos de consolidación y presentación de la Cuenta Pública.
-
-Asimismo, la Secretaría para efectos de consolidación presupuestal, estados financieros y presentación de la Cuenta Pública, podrá determinar los ajustes requeridos al presupuesto modificado de cierre.
+La Secretaría agrupará, cuando sea necesario, la información armonizada contablemente que le proporcionen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para efectos de consolidación y presentación de la Cuenta Pública. Asimismo, la Secretaría para efectos de consolidación presupuestal, estados financieros y presentación de la Cuenta Pública, podrá determinar los ajustes requeridos al presupuesto modificado de cierre.
 
 # LIBRO TERCERO. DE LAS RESPONSABILIDADES
 
@@ -1797,3 +1923,19 @@ G.O. 20 DE ABRIL DE 2011.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 29 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del 1º de enero de 2012
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+TERCERO.- Los recursos remanentes del ejercicio fiscal 2011, correspondientes a las Entidades, así como a los Fideicomisos Públicos, se considerarán ingresos propios, por lo que no les será aplicable lo dispuesto en el artículo 71 del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 30 de diciembre de 2010.
+
+CUARTO.- La Secretaría deberá integrar al Proyecto de Presupuesto un apartado que contenga la conciliación de vertientes de gasto respecto de subfunciones.
+
+Deberá publicar trimestralmente:
+
+- La conciliación trimestral de vertientes de gasto y subfunciones.
+
+- Y a partir de la cuenta pública de 2012 deberán anexar un apartado con dicha conciliación.
