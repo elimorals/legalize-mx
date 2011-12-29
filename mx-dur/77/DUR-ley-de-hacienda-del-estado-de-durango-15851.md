@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2011-12-13"
+last_updated: "2011-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -241,9 +241,9 @@ I. Las Entidades Federativas y los Municipios, excepto sus organismos descentral
 
 II. Las Instituciones de Beneficencia reconocidas por el Gobierno Estatal y Federal.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-III. Las instituciones de Educación Pública mediante las cuales el Estado o los Municipios proporcionen el servicio público de educación de manera directa en los términos de la ley respectiva, salvo lo dispuesto en la fracción I de este artículo.
+III.- Las instituciones de Educación pública mediante las cuales la Federación, el Estado o los Municipios y sus organismos descentralizados proporcionen el servicio público de educación en los términos de la ley respectiva.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -327,11 +327,13 @@ Para los efectos de este artículo, no formarán parte de la base gravable, el v
 
 Cuando los servicios de hospedaje incluyan servicios accesorios, tales como transporte, alimentación, uso de Instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen de tal forma que permitan acreditar la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde en su totalidad a servicios de hospedaje.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 22.
 
 El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 2.0%.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 23.
 
@@ -342,8 +344,6 @@ Se entiende por traslado del impuesto, el cobro o cargo que los contribuyentes d
 El prestador deberá realizar el pago del impuesto en la oficina recaudadora que corresponda a su domicilio fiscal en el Estado, o bien, en la oficina autorizada correspondiente, a más tardar el día 17 del mes siguiente a aquél en que se prestó el servicio, en las formas que para tal efecto apruebe la Secretaría de Finanzas y de Administración, si se elige la opción de pago vía Internet en línea, el impuesto se tendrá por pagado una vez que sea validado por el sistema.
 
 Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto causado.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 24.
 
@@ -3630,3 +3630,7 @@ El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administrac
 ###### ARTÍCULO TERCERO.
 
 Se derogan los apartados relativos al cobro de derechos por la expedición de permisos para circular sin placas, contenidos en el Titulo Tercero de las Leyes de Ingresos para el Ejercicio Fiscal 2012 de los Municipios de Canatlán, Canelas, Coneto de Comonfort, Cuencamé, El Oro, General Simón Bolívar, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, El Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis de Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Tlahualilo y Topia.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto, entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno Constitucional del Estado de Durango.
