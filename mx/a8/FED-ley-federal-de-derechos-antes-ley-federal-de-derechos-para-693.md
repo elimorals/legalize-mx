@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2011-12-15"
+last_updated: "2011-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1981-12-30"
 ---
 # LEY FEDERAL DE DERECHOS -ANTES LEY FEDERAL DE DERECHOS PARA EL EJERCICIO FISCAL DE 1982-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELANEA FISCAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2011.
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
 
@@ -237,7 +239,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Expedición de copias
 
@@ -245,13 +247,13 @@ Certificadas de documentos,
 
 por cada hoja tamaño carta
 
-u oficio $13.69 $14
+u oficio $15.35 $15
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 Asimismo se pagará el derecho que se estipula en esta fracción, por la expedición de copias certificadas que sean solicitadas al Tribunal Federal de Justicia Fiscal y Administrativa.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -259,27 +261,27 @@ II.- Reposición de constancias
 
 O duplicados de las mismas,
 
-Así como de calcomanías $116.10 $116
+Así como de calcomanías $130.16 $130
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Compulsa de documentos,
 
-por hoja $8.04 $8
+por hoja $9.01 $9
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 IV.- Copias de planos certificados,
 
-por cada una $83.78 $84
+por cada una $93.93 $94
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Legalización de firmas $377.82 $378
+V.- Legalización de firmas $423.57 $424
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -291,7 +293,7 @@ constancias distintas de la (sic)
 
 señaladas en las fracciones
 
-que anteceden $116.10 $116
+que anteceden $130.16 $130
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -403,25 +405,45 @@ Por el cambio de característica migratoria dentro de la calidad de no inmigrant
 
 Por la expedición del documento migratorio que acredita la condición de estancia se pagarán derechos conforme a las siguientes cuotas:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 I. Visitante sin permiso para realizar actividades remuneradas $295.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Visitante con permiso para realizar actividades remuneradas $2,350.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 III. Visitante Regional $295.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 IV. Visitante Trabajador Fronterizo $295.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Visitante con fines de adopción $2,280.00
 
 VI. Residente Temporal:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 a). Hasta un año $3,130.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Dos años $4,690.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 c). Tres años $5,940.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 d). Cuatro años $7,040.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII. Residente Permanente $3,815.00
 
@@ -433,6 +455,8 @@ No pagarán los derechos por servicios migratorios a que se refieren las fraccio
 
 El pago del derecho previsto en las fracciones I y II de este artículo deberá efectuarse a la salida del territorio nacional tratándose de extranjeros que arriben al país vía aérea.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -442,6 +466,8 @@ El pago del derecho previsto en las fracciones I y II de este artículo deberá 
 Por la recepción y estudio de la solicitud y, en su caso, la autorización del cambio de condición de estancia se pagará el derecho conforme a la cuota de $1,000.00
 
 El pago a que se refiere este artículo será sin perjuicio del derecho que corresponda por el otorgamiento de la nueva condición de estancia a adquirir en términos del artículo 8o. de esta Ley.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -481,7 +507,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -497,7 +523,7 @@ internacionales que abandonen el
 
 territorio nacional, se cobrará la
 
-cuota de $52.44 $52
+cuota de $58.79 $59
 
 El derecho de servicios migratorios a que se refiere el presente artículo se pagará a la salida de pasajeros de vuelos internacionales.
 
@@ -509,9 +535,15 @@ El derecho de servicios migratorios a que se refiere el presente artículo se pa
 
 Por la recepción y estudio de la solicitud y, en su caso, la expedición de certificados, permisos o autorizaciones, se pagarán derechos conforme a las siguientes cuotas:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 I. Certificados en los que se haga constar la situación migratoria $320.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 II. Permiso de salida y regreso al país $320.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Autorización para realizar actividades remuneradas a Residente Temporal
 
@@ -537,7 +569,7 @@ ajuste ajuste
 
 I.- En puertos marítimos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -549,7 +581,7 @@ en embarcaciones cargueras, al
 
 desembarque y despacho,
 
-respectivamente $4,464.95 $4,465
+respectivamente $5,005.66 $5,006
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -557,21 +589,21 @@ respectivamente $4,464.95 $4,465
 
 b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1. De 1 a 500 personas $2,899.06 $2,899
+1. De 1 a 500 personas $3,129.25 $3,129
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2. De 501 a 1000 personas $3,764.32 $3,764
+2. De 501 a 1000 personas $4,063.21 $4,063
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-3. De 1001 a 1500 personas $4,482.43 $4,482
+3. De 1001 a 1500 personas $4,838.33 $4,838
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-4. De 1501 personas, en adelante $5,097.91 $5,098
+4. De 1501 personas, en adelante $5,502.68 $5,503
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -581,7 +613,7 @@ Cuando el servicio migratorio extraordinario en puertos marítimos se preste a e
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente, los servicios migratorios se tengan que proporcionar en días y horas inhábiles o en lugares distintos a las oficinas migratorias.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- En aeropuertos
 
@@ -593,7 +625,7 @@ de pasajeros en vuelos de
 
 fletamento, al ingreso y a la
 
-salida del país $1,409.21 $1,409
+salida del país $1,521.10 $1,521
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -673,33 +705,33 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Certificado de licitud de título $2,177.70 $2,178
+I.- Certificado de licitud de título $2,441.42 $2,441
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Certificado de licitud de
 
-contenido $2,722.22 $2,722
+contenido $3,051.88 $3,052
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Duplicado de certificado de
 
-licitud de título $1,088.70 $1,089
+licitud de título $1,220.54 $1,221
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Duplicado de licitud de
 
-contenido $1,360.88 $1,361
+contenido $1,525.68 $1,526
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Registro de cambio de
 
-editor responsable $1,939.47 $1,939
+editor responsable $2,174.34 $2,174
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -719,7 +751,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 19-A.
 
@@ -733,7 +765,7 @@ pagará el derecho de publicaciones
 
 por octavo de plana, conforme a la
 
-cuota de $1,372.95 $1,373
+cuota de $1,539.21 $1,539
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -753,6 +785,8 @@ Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la
 
 #### SECCION CUARTA. Servicios de Cinematografía, Televisión y Radio
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-C.
@@ -769,11 +803,15 @@ ajuste ajuste
 
 I. Por la supervisión, clasificación y autorización de cada material cinematográfico en cualquier formato o modalidad:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 a). Avance publicitario $595.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -782,6 +820,8 @@ a). Avance publicitario $595.00
 b). Película destinada a
 
 exhibición pública $4,765.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Los contribuyentes podrán optar por pagar el derecho a que se refiere este inciso por cada minuto de duración de la película conforme a la cuota de $53.00
 
@@ -831,7 +871,7 @@ ajuste ajuste
 
 I.- Por el trámite y estudio y, en su caso, la autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -841,9 +881,9 @@ programación, en más del
 
 50% de su tiempo, esté en
 
-el supuesto de esta fracción $7,518.01 $7,518
+el supuesto de esta fracción $8,428.44 $8,428
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -857,7 +897,7 @@ de derechos de explotación
 
 comercial, que no corresponda
 
-al supuesto del inciso anterior $751.68 $752
+al supuesto del inciso anterior $842.71 $843
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -865,7 +905,7 @@ al supuesto del inciso anterior $751.68 $752
 
 II. Tratándose de programas de concurso:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Por el trámite y estudio y, en
 
@@ -873,21 +913,21 @@ su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $933.79 $934
+de programa de concurso $1,046.87 $1,047
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1. Horario ordinario de servicio $750.00
+1. Horario ordinario de servicio $840.83 $841
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2. Fuera de horario ordinario de servicio $1,050.00
+2. Fuera de horario ordinario de servicio $1,177.16 $1,177
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -897,7 +937,7 @@ en su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $933.79 $934
+extranjero $1,046.87 $1,047
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -907,11 +947,11 @@ V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a) Películas, por cada una $1,373.24 $1,373
+a) Películas, por cada una $1,539.54 $1,540
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b) Telenovelas y teleteatros
 
@@ -919,11 +959,11 @@ grabados destinados a su
 
 exhibición en televisión, por
 
-capítulo $830.84 $831
+capítulo $931.45 $931
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c) Series filmadas, por capítulo $612.50 $612
+c) Series filmadas, por capítulo $686.67 $687
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -935,15 +975,15 @@ VIII.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por la primera hora $238.61 $239
+a).- Por la primera hora $267.51 $268
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por cada hora o fracción
 
-adicional $119.28 $119
+adicional $133.72 $134
 
 Para efectos de esta fracción se entiende como horario ordinario el de 9:00 a 18:00 horas.
 
@@ -957,7 +997,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el trámite y estudio y, en
 
@@ -969,7 +1009,7 @@ en México, de programación
 
 originada, desarrollada o
 
-proveniente del extranjero $410.51 $411
+proveniente del extranjero $460.22 $460
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -977,7 +1017,7 @@ proveniente del extranjero $410.51 $411
 
 II. Tratándose de programas de concurso:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Por el trámite y estudio y, en
 
@@ -985,21 +1025,21 @@ su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $933.79 $934
+de programa de concurso $1,046.87 $1,047
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1. Horario ordinario de servicio $750.00
+1. Horario ordinario de servicio $840.83 $841
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2. Fuera de horario ordinario de servicio $1,050.00
+2. Fuera de horario ordinario de servicio $1,177.16 $1,177
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el trámite y estudio y, en
 
@@ -1007,7 +1047,7 @@ su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $933.79 $934
+extranjero $1,046.87 $1,047
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -1019,7 +1059,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 19-G.
 
@@ -1029,7 +1069,7 @@ apostillamiento de documentos
 
 públicos federales, por cada
 
-documento $551.19 $551
+documento $617.94 $618
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1055,23 +1095,23 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el estudio y trámite de
 
 la solicitud de concesión en
 
-territorio insular $1,272.80 $1,273
+territorio insular $1,426.94 $1,427
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la expedición de la
 
-concesión en territorio insular $2,545.79 $2,546
+concesión en territorio insular $2,854.09 $2,854
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1111,7 +1151,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1121,9 +1161,9 @@ documentos de identidad y
 
 viaje con validez hasta por un
 
-año $408.99 $410
+año $458.52 $460
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1133,9 +1173,9 @@ documentos de identidad y
 
 viaje con validez mayor a un
 
-año y hasta por tres años $849.84 $850
+año y hasta por tres años $952.76 $955
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1145,33 +1185,33 @@ documentos de identidad y
 
 viaje con validez mayor a
 
-tres años y hasta por seis años $1,168.53 $1,170
+tres años y hasta por seis años $1,310.04 $1,310
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Pasaportes ordinarios
 
 con validez hasta por diez
 
-años $1,796.97 $1,795
+años $2,014.58 $2,015
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Pasaportes oficiales con
 
-validez hasta por un año $338.52 $340
+validez hasta por un año $379.51 $380
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Pasaportes oficiales con
 
-validez hasta por dos años $338.52 $340
+validez hasta por dos años $379.51 $380
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por el refrendo de
 
-pasaportes oficiales $203.03 $205
+pasaportes oficiales $227.62 $230
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1207,37 +1247,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Actuaciones matrimoniales $563.51 $565
+I.- Actuaciones matrimoniales $631.75 $630
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Legalización de firmas o
 
-Sellos $478.46 $480
+Sellos $536.40 $535
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Visas de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Certificados de análisis, de
 
 libre venta, de origen y médicos,
 
-por cada uno $574.14 $575
+por cada uno $643.67 $645
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Ordinarias en pasaportes
 
-extranjeros $478.46 $480
+extranjeros $536.40 $535
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -1249,7 +1289,7 @@ Los derechos por la expedición de las visas ordinarias en pasaportes extranjero
 
 IV.- Expedición de certificados de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Constitución de sociedades
 
@@ -1263,43 +1303,43 @@ de pasavantes o patentes
 
 provisionales de navegación, por
 
-cada uno $2,403.08 $2,405
+cada uno $2,694.09 $2,695
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Matrícula consular a
 
-mexicanos, por cada una $361.56 $360
+mexicanos, por cada una $405.34 $405
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Importación de psicotrópicos
 
-y estupefacientes $819.17 $820
+y estupefacientes $918.37 $920
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Copia certificada de actas del
 
-registro civil, por cada una $170.07 $170
+registro civil, por cada una $190.67 $190
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De los que se expiden a
 
-petición de parte, por cada uno $818.69 $820
+petición de parte, por cada uno $917.83 $920
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- Lista de menaje de casa
 
-a mexicanos $1,252.75 $1,255
+a mexicanos $1,404.46 $1,405
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- Lista de menaje de casa a
 
-extranjeros $1,678.23 $1,680
+extranjeros $1,881.46 $1,880
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1325,55 +1365,55 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la renuncia de derechos
 
-Hereditarios $1,520.52 $1,520
+Hereditarios $1,704.65 $1,705
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Generales o especiales
 
-otorgados por personas físicas $1,520.52 $1,520
+otorgados por personas físicas $1,704.65 $1,705
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Generales o especiales
 
-otorgados por personas morales $2,286.11 $2,285
+otorgados por personas morales $2,562.96 $2,565
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por cada testamento
 
-público abierto $3,891.75 $3,890
+público abierto $4.363.04 $4,365
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la expedición de
 
 subsecuentes testimonios,
 
-por hoja $95.65 $95
+por hoja $107.23 $105
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la recepción de cada
 
-testamento ológrafo $1,945.83 $1,945
+testamento ológrafo $2,181.47 $2,180
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por cada testamento
 
-público cerrado $531.64 $530
+público cerrado $596.02 $595
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por las autorizaciones
 
@@ -1383,15 +1423,15 @@ que ejerzan la patria potestad
 
 o la tutela sobre menores o
 
-incapaces $584.78 $585
+incapaces $655.60 $655
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por otras certificaciones
 
 distintas a las señaladas en el
 
-artículo 22 de esta Ley $150.60 $150
+artículo 22 de esta Ley $168.84 $170
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
@@ -1505,7 +1545,7 @@ I.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
 II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1513,13 +1553,13 @@ III.- Por el examen de cada solicitud
 
 de permiso a que se refieren las
 
-fracciones IV, V, y VII $287.96 $290
+fracciones IV, V, y VII $322.83 $325
 
 IV.- Para la celebración de contratos u obtención de concesiones:
 
 a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Obtención de concesiones
 
@@ -1527,7 +1567,7 @@ del Gobierno Federal o de los
 
 gobiernos de las Entidades
 
-Federativas o de los Municipios $5,074.56 $5,075
+Federativas o de los Municipios $5,689.09 $5,690
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1535,7 +1575,7 @@ Federativas o de los Municipios $5,074.56 $5,075
 
 V.- Por la expedición de permisos para la constitución de fideicomisos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por los permisos para
 
@@ -1543,9 +1583,9 @@ constituir fideicomisos a que
 
 se refiere el artículo 11 de la
 
-Ley de Inversión Extranjera $10,454.26 $10,455
+Ley de Inversión Extranjera $11,720.27 $11,720
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Para la modificación de
 
@@ -1553,9 +1593,9 @@ los permisos para la constitución
 
 de los fideicomisos a que se
 
-refiere el inciso anterior $4,703.61 $4,705
+refiere el inciso anterior $5,273.22 $5,275
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por la solicitud extemporánea
 
@@ -1567,15 +1607,17 @@ de fideicomiso, de conformidad
 
 con lo dispuesto en la Ley de
 
-Inversión Extranjera $5,125.41 $5,125
+Inversión Extranjera $5,746.10 $5,745
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Para los demás casos no
 
 señalados en los incisos
 
-anteriores $345.41 $345
+anteriores $387.24 $385
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1593,7 +1635,7 @@ exploración y explotación
 
 de minas o aguas en el
 
-territorio nacional $5,074.56
+territorio nacional $5,689.09 $5,690
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1605,7 +1647,7 @@ VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Por la presentación de
 
@@ -1621,13 +1663,13 @@ extranjeros en zona
 
 restringida, destinados a
 
-fines no residenciales $711.63 $710
+fines no residenciales $797.81 $800
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XI.- Por la presentación extemporánea de los siguientes avisos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De uso del permiso para
 
@@ -1637,23 +1679,23 @@ o asociaciones y de cambio
 
 de denominación o razón
 
-social $1,410.44 $1,410
+social $1,581.24 $1,580
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De liquidación, fusión o
 
-escisión de sociedades $1,410.44 $1,410
+escisión de sociedades $1,581.24 $1,580
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De modificación de la
 
 cláusula de exclusión por la
 
-de admisión de extranjeros $1,410.44 $1,410
+de admisión de extranjeros $1,581.24 $1,580
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De aviso de adquisición de
 
@@ -1665,17 +1707,17 @@ admisión de extranjeros en zona
 
 restringida, destinados a fines no
 
-residenciales. $5,470.82 $5,470
+residenciales. $6,133.34 $6,135
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIV.- Los no especificados
 
-en las fracciones anteriores $345.41 $345
+en las fracciones anteriores $387.24 $385
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1691,9 +1733,9 @@ ajuste ajuste
 
 I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por expedición $200.64 $200
+a).- Por expedición $224.94 $225
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1703,13 +1745,13 @@ b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Por la recepción, estudio y, en
 
 su caso, expedición de la carta de
 
-naturalización $3,538.32 $3,540
+naturalización $3,966.81 $3,965
 
 b). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -1721,13 +1763,13 @@ c). (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 III. En las cartas de naturalización a que se refiere la fracción II del Apartado B del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20, fracciones II y III de la Ley de Nacionalidad:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Por la recepción, estudio y,
 
 en su caso, expedición de cada
 
-carta de naturalización $1,247.52 $1,250
+carta de naturalización $1,398.59 $1,400
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1775,7 +1817,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Por el estudio y trámite de la
 
@@ -1795,9 +1837,9 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $21,493.94 $21,494
+sociedades de inversión: $24,096.86 $24,097
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Por la autorización para la
 
@@ -1815,9 +1857,9 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $221,052.94 $221,053
+sociedades de inversión: $247,822.45 $247,822
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Por la autorización para la
 
@@ -1831,9 +1873,9 @@ de inversión de capitales o de
 
 sociedades de inversión de
 
-objeto limitado: $193,516.51 $193,517
+objeto limitado: $216,951.36 $216,951
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV. Por el estudio y trámite de
 
@@ -1843,9 +1885,9 @@ sociedades inmobiliarias y
 
 empresas de servicios auxiliares
 
-o complementarios: $21,493.94 $21,494
+o complementarios: $24,096.86 $24,097
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Por el estudio y trámite de
 
@@ -1855,17 +1897,17 @@ la constitución y operación de
 
 una institución calificadora de
 
-valores: $19,032.98 $19,033
+valores: $21,337.87 $21,338
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI. Por la autorización de una
 
 institución calificadora de
 
-valores: $221,052.94 $221,053
+valores: $247,822.45 $247,822
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII. Por el estudio y trámite de
 
@@ -1879,9 +1921,9 @@ renta variable, en instrumentos
 
 de deuda, de capitales y de objeto
 
-limitado: $17,738.92 $17,739
+limitado: $19,887.10 $19,887
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII. Por el estudio y trámite de
 
@@ -1889,25 +1931,25 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-uniones de crédito: $19,032.96 $19,033
+uniones de crédito: $21,337.85 $21,338
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX. Por la autorización para la
 
 constitución y operación de
 
-uniones de crédito: $195,742.51 $195,743
+uniones de crédito: $219,446.93 $219,447
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X. Por cualquier certificación que
 
 se expida relativa al Registro
 
-Nacional de Valores: $370.23 $370
+Nacional de Valores: $415.06 $415
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XI. Por el estudio y trámite de
 
@@ -1921,9 +1963,9 @@ las Federaciones a que se
 
 refiere la Ley de Ahorro y
 
-Crédito Popular $29,565.12 $29,565
+Crédito Popular $33,145.46 $33,145
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XII. Por el estudio y trámite
 
@@ -1945,7 +1987,7 @@ de Integración Financiera Rural
 
 a que se refiere la Ley de
 
-Ahorro y Crédito Popular $17,739.07 $17,739
+Ahorro y Crédito Popular $19,887.27 $19,887
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1953,7 +1995,7 @@ Ahorro y Crédito Popular $17,739.07 $17,739
 
 El derecho a que se refiere esta fracción se pagará también por el estudio y trámite de la solicitud y, en su caso, autorización para realizar operaciones de ahorro y préstamo, de sociedades cooperativas de ahorro y préstamo a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII. Por el estudio y trámite de
 
@@ -1961,17 +2003,17 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-casas de bolsa: $19,032.96 $19,033
+casas de bolsa: $21,337.85 $21,338
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIV. Por la autorización para
 
 la constitución y operación de
 
-casas de bolsa: $276,000.00
+casas de bolsa: $309,423.60 $309,424
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XV. Por el estudio y trámite de la
 
@@ -1983,9 +2025,9 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $19,032.96 $19,033
+con valores: $21,337.85 $21,338
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVI. Por la autorización para la
 
@@ -1995,9 +2037,9 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $195,742.51 $195,743
+con valores: $219,446.93 $219,447
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVII. Por el estudio y trámite de la
 
@@ -2005,17 +2047,17 @@ solicitud de autorización para la
 
 constitución y operación de
 
-proveedores de precios: $19,032.96 $19,033
+proveedores de precios: $21,337.85 $21,338
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVIII. Por la autorización para la
 
 constitución y operación de
 
-proveedores de precios: $195,742.51 $195,743
+proveedores de precios: $219,446.93 $219,447
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIX. Por el estudio y trámite de la
 
@@ -2023,9 +2065,9 @@ solicitud para obtener el
 
 reconocimiento como organismo
 
-autorregulatorio: $27,600.00
+autorregulatorio: $30,942.36 $30,942
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XX. Por el estudio y trámite de
 
@@ -2035,9 +2077,9 @@ el establecimiento de oficinas de
 
 representación de entidades
 
-financieras del exterior: $16,560.00
+financieras del exterior: $18,565.42 $18,565
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXI. Por la autorización para la
 
@@ -2047,27 +2089,27 @@ sociedades de inversión de renta
 
 variable, en instrumentos de deuda,
 
-de capitales y de objeto limitado: $34,138.07 $34,138
+de capitales y de objeto limitado: $38,272.19 $38,272
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXII. Por la autorización para el
 
 inicio de operaciones de casas de
 
-bolsa: $849,840.00
+bolsa: $952,755.62 $952,756
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXIII. Por el estudio y trámite de la solicitud de autorización para la constitución y operación de instituciones de banca múltiple: $34,000.00
+XXIII. Por el estudio y trámite de la solicitud de autorización para la constitución y operación de instituciones de banca múltiple: $38,117.40 $38,117
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXIV. Por la autorización para la constitución y operación de instituciones de banca múltiple: $500,000.00
+XXIV. Por la autorización para la constitución y operación de instituciones de banca múltiple: $560,550.00 $560,550
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXV. Por la autorización para el inicio de operaciones de instituciones de banca múltiple: $1,600,000.00
+XXV. Por la autorización para el inicio de operaciones de instituciones de banca múltiple: $1,793,760.00 $1,793,760
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2079,19 +2121,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Solicitud de inscripción o
 
 actualización de la misma y/o
 
-autorización de oferta pública: $15,707.89 $15,708
+autorización de oferta pública: $17,610.12 $17,610
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 93 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en el Registro Nacional de Valores.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Solicitud de autorización de
 
@@ -2101,7 +2143,7 @@ de promoción, comercialización o
 
 publicidad sobre valores, dirigida
 
-al público en general: $15,707.89 $15,708
+al público en general: $17,610.12 $17,610
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2127,23 +2169,47 @@ a). Tratándose de acciones:
 
 1. Emitidas por Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.7 al millar del capital contable de la emisora sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.7 al millar del capital
+
+contable de la emisora
+
+sin que los derechos a
+
+pagar por este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 2. Emitidas por Sociedades Anónimas Promotoras de Inversión Bursátil:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.35 al millar del capital contable de la emisora sin que los derechos a pagar por este concepto excedan de: $1,250,000.00
+0.35 al millar del capital
+
+contable de la emisora
+
+sin que los derechos a
+
+pagar por este concepto
+
+excedan de: $1,401,375.00 $1,401,375
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.7 al millar del capital contable de la emisora sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.7 al millar del capital
+
+contable de la emisora
+
+sin que los derechos a
+
+pagar por este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2151,25 +2217,59 @@ b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus t
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.7 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.7 al millar sobre el
+
+monto emitido sin
+
+que los derechos a
+
+pagar por este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- Con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.5 al millar del monto emitido sin que los derechos a pagar en el primer año contado a partir de la obtención de la autorización por programa excedan de: $700,000.00
+0.5 al millar del monto
+
+emitido sin que los
+
+derechos a pagar en
+
+el primer año contado
+
+a partir de la obtención
+
+de la autorización por
+
+programa
+
+excedan de: $784,770.00 $784,770
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.27 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $700,000.00
+0.27 al millar del monto
+
+emitido por tipo de valor y
+
+en proporción a su plazo
+
+sin que los derechos a
+
+pagar por este concepto
+
+en un ejercicio
+
+excedan de: $784,770.00 $784,770
 
 c). Tratándose de acciones de sociedades de inversión:
 
@@ -2183,39 +2283,85 @@ c). Tratándose de acciones de sociedades de inversión:
 
 d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluyendo casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.5 al millar respecto al monto total de las primas de emisión sin que los derechos a pagar excedan de: $2,500,000.00
+0.5 al millar respecto al
+
+monto total de las primas
+
+de emisión sin que los
+
+derechos a pagar
+
+excedan de: $2,802,750.00 $2,802,750
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 e). Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.7 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.7 al millar sobre el
+
+monto emitido sin que
+
+los derechos a pagar por
+
+este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 f). Tratándose de valores emitidos por las entidades federativas y municipios, así como por los organismos descentralizados de las entidades federativas o municipios o valores fiduciarios en los que dichas personas morales actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.7 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.7 al millar sobre el
+
+monto emitido sin que
+
+los derechos a pagar
+
+por este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 g). Tratándose de certificados, pagarés y otros valores emitidos o garantizados por el Gobierno Federal, en términos del artículo 93 de la Ley del Mercado de Valores, por tipo de valor:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.27 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $700,000.00
+0.27 al millar del monto
+
+emitido por tipo de valor y
+
+en proporción a su plazo
+
+sin que los derechos a
+
+pagar por este concepto en
+
+un ejercicio
+
+excedan de: $784,770.00 $784,770
 
 h). Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.27 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $700,000.00
+0.27 al millar del monto
+
+emitido por tipo de valor y
+
+en proporción a su plazo sin
+
+que los derechos a pagar
+
+por este concepto en un ejercicio
+
+excedan de: $784,770.00 $784,770
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2225,29 +2371,129 @@ i). Tratándose de emisores de valores que mantengan inscritos valores de los se
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.35 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de $2,500,000.00
+0.35 al millar sobre
+
+el monto emitido sin
+
+que los derechos a
+
+pagar por este
+
+concepto
+
+excedan de $2,802,750.00 $2,802,750
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.27 al millar del monto emitido sin que los derechos a pagar por año excedan de: $700,000.00
+0.27 al millar del monto
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+emitido sin que los
 
-j). Tratándose de emisoras de valores que al momento de obtener la autorización del programa de emisiones de corto plazo mantengan inscritos exclusivamente valores de los señalados en el inciso b), numeral 2, de esta fracción en sustitución de la cuota de inscripción o ampliación señalada en dicho inciso, por las emisiones con vigencia igual o menor a un año efectuadas o no al amparo de cada programa, 0.27 al millar del monto emitido sin que los derechos a pagar por este concepto excedan de: $700,000.00
+derechos a pagar por año
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+excedan de: $784,770.00 $784,770
 
-k). Tratándose de la inscripción o ampliación de títulos de crédito que representen acciones inscritas en el Registro Nacional de Valores, se pagará una cuota de 0.3 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+j). Tratándose de emisoras
 
-l). Tratándose de la inscripción o ampliación de valores fiduciarios sobre bienes distintos de acciones, cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores, se pagará una cuota de 0.27 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $700,000.00
+de valores que al momento
+
+de obtener la autorización del
+
+programa de emisiones de
+
+corto plazo mantengan inscritos
+
+exclusivamente valores de los
+
+señalados en el inciso b),
+
+numeral 2, de esta fracción
+
+en sustitución de la cuota de
+
+inscripción o ampliación señalada
+
+en dicho inciso, por las
+
+emisiones con vigencia igual
+
+o menor a un año efectuadas
+
+o no al amparo de cada
+
+programa, 0.27 al millar del
+
+monto emitido sin que los
+
+derechos a pagar por este
+
+concepto
+
+excedan de: $784,770.00 $784,770
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+k). Tratándose de la
+
+inscripción o ampliación
+
+de títulos de crédito que
+
+representen acciones inscritas
+
+en el Registro Nacional
+
+de Valores, se pagará una
+
+cuota de 0.3 al millar sobre
+
+el monto emitido sin que
+
+los derechos a pagar por
+
+este concepto
+
+excedan de: $2,802,750.00 $2,802,750
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+l). Tratándose de la
+
+inscripción o ampliación
+
+de valores fiduciarios
+
+sobre bienes distintos
+
+de acciones, cuyo activo
+
+principal se encuentre
+
+respaldado por valores
+
+inscritos en el Registro
+
+Nacional de Valores, se
+
+pagará una cuota de 0.27
+
+al millar sobre el monto
+
+emitido sin que los
+
+derechos a pagar
+
+por este concepto
+
+excedan de: $784,770.00 $784,770
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2257,15 +2503,31 @@ m). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.9 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.9 al millar sobre el
+
+monto emitido sin que
+
+los derechos a pagar por
+
+este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no, al amparo de cada programa:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.65 al millar sobre el monto emitido sin que los derechos a pagar por año excedan de: $700,000.00
+0.65 al millar sobre el
+
+monto emitido sin que
+
+los derechos a pagar por
+
+año
+
+excedan de: $784,770.00 $784,770
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2275,27 +2537,91 @@ n). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.45 al millar del monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
+0.45 al millar del monto
+
+emitido sin que los
+
+derechos a pagar por
+
+este concepto
+
+excedan de: $2,802,750.00 $2,802,750
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuados o no, al amparo de cada programa:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.35 al millar del monto emitido, sin que los derechos a pagar por año excedan de: $700,000.00
+0.35 al millar del monto
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+emitido, sin que los
 
-ñ). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de fideicomisos sobre bienes distintos de acciones, de corto plazo, en los que el fideicomitente o fideicomisario al momento de obtener la autorización del programa de emisión de corto plazo mantenga inscritos exclusivamente valores de los señalados en el inciso b), numeral 2, de esta fracción, por las emisiones con vigencia igual o menor a un año efectuadas o no al amparo de cada programa, 0.35 al millar del monto emitido sin que los derechos a pagar por año excedan de: $700,000.00
+derechos a pagar por año
+
+excedan de: $784,770.00 $784,770
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+ñ). Tratándose de títulos
+
+fiduciarios y demás valores
+
+emitidos al amparo de
+
+fideicomisos sobre bienes
+
+distintos de acciones, de
+
+corto plazo, en los que el
+
+fideicomitente o fideicomisario
+
+al momento de obtener la
+
+autorización del programa
+
+de emisión de corto plazo
+
+mantenga inscritos
+
+exclusivamente valores
+
+de los señalados en el
+
+inciso b), numeral 2, de
+
+esta fracción, por las emisiones
+
+con vigencia igual o
+
+menor a un año
+
+efectuadas o no al
+
+amparo de cada programa,
+
+0.35 al millar del monto
+
+emitido sin que los derechos
+
+a pagar por año
+
+excedan de: $784,770.00 $784,770
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 III.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV. Inscripción preventiva de acciones en el Registro Nacional de Valores: $10,000.00
+IV. Inscripción preventiva
+
+de acciones en el
+
+Registro Nacional de
+
+Valores: $11,211.00 $11,211
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2337,7 +2663,7 @@ a). El resultado de multiplicar 0.135636 al millar por el valor de los certifica
 
 b). El resultado de multiplicar 1.350500 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte de
 
@@ -2345,7 +2671,7 @@ conformidad con lo previsto
 
 en esta fracción, en ningún
 
-caso podrá ser inferior a: $276,000.00
+caso podrá ser inferior a: $309,423.60 $309,424
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2365,11 +2691,11 @@ b). El resultado de multiplicar 7.034000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.090500 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $276,000.00
+caso será inferior a $309,423.60 $309,424
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2385,11 +2711,11 @@ a). El resultado de multiplicar 0.275887 al millar, por el valor del total de lo
 
 b). El resultado de multiplicar 0.021500 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $5,311,500.00
+caso será inferior a $5,954,722.65 $5,954,723
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2405,11 +2731,11 @@ a). El resultado de multiplicar 0.128561 al millar, por el valor del total de pa
 
 b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $3,186,900.00
+caso será inferior a $3,572,833.59 $3,572,834
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2447,11 +2773,11 @@ a). El resultado de multiplicar 4.000000 al millar, por el valor de su capital c
 
 b). El resultado de multiplicar 18.750000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas, las cuales serán equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos. En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $424,920.00
+caso será inferior a $476,377.81 $476,378
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2471,11 +2797,11 @@ b). El resultado de multiplicar 8.363500 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.138800 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $276,000.00
+caso será inferior a $309,423.60 $309,424
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2489,17 +2815,19 @@ Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello 
 
 a). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $63,706.92 63,707
+caso será inferior a $71,421.83 $71,422
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $2.500,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
+IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $2,587,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos totales;
 
@@ -2507,15 +2835,17 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito total menos las reservas preventivas.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $20,000.00 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $20,696.00 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $15,000,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
+X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $15,522,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos;
 
@@ -2523,19 +2853,21 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $20,000.00 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $20,696.00 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,080,000.00, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,117,584.00, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $20,000.00.
+La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $22,422.00.
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en el Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
@@ -2557,11 +2889,11 @@ b). El resultado de multiplicar 0.149700 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.003890 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $531,150.00
+caso será inferior a $595,472.27 $595,472
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2581,11 +2913,11 @@ b). El resultado de multiplicar 0.243000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte, en ningún
 
-caso será inferior a $169,968.00
+caso será inferior a $190,551.12 $190,551
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2593,9 +2925,9 @@ XIV. Financiera Rural:
 
 La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Una cuota de $1,773,907.20 $1,773,907
+a). Una cuota de $1,988,727.36 $1,988,727
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2613,9 +2945,9 @@ XV. Fideicomisos Públicos:
 
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Una cuota de $1,724,389.17 $1,724,389
+a). Una cuota de $1,933,212.70 $1,933,213
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2627,9 +2959,9 @@ XVI. Instituto del Fondo Nacional para el Consumo de los Trabajadores:
 
 El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Una cuota de: $1,609,773.31 $1,609,773
+a). Una cuota de: $1,804,716.86 $1,804,717
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2641,9 +2973,9 @@ XVII. Instituto del Fondo Nacional de la Vivienda para los Trabajadores:
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Una cuota de: $1,609,773.31 $1,609,773
+a). Una cuota de: $1,804,716.86 $1,804,717
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2667,7 +2999,7 @@ b). El resultado de multiplicar 0.257000 al millar, por el valor de su cartera v
 
 c). El resultado de multiplicar 0.014910 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte de
 
@@ -2675,7 +3007,7 @@ conformidad con lo previsto
 
 en esta fracción en ningún caso
 
-podrá ser inferior a: $531,150.00
+podrá ser inferior a: $595,472.27 $595,472
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2685,7 +3017,7 @@ XIX. Sociedades Controladoras de Grupos Financieros:
 
 Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.008129 al millar por el total del activo del balance general consolidado con subsidiarias.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte de
 
@@ -2693,7 +3025,7 @@ conformidad con lo previsto
 
 en esta fracción, en ningún caso
 
-podrá ser inferior a: $772,800.00
+podrá ser inferior a: $866,386.08 $866,386
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2703,9 +3035,9 @@ XX. Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los 
 
 El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Una cuota de $1,561,947.00
+a). Una cuota de $1,751,098.78 $1,751,099
 
 b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
 
@@ -2739,9 +3071,25 @@ I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 II. Bolsas de Futuros y Opciones:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para tales efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará la cuota $3,000,000.00
+Cada entidad que pertenezca
+
+al sector de Bolsas de Futuros
+
+y Opciones, entendiéndose
+
+para tales efectos a las
+
+entidades que cuenten con
+
+autorización para constituirse
+
+y operar como tales en
+
+términos de las disposiciones
+
+aplicables, pagará la cuota $3,238,200.00 $3,238,200
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2749,9 +3097,25 @@ Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendié
 
 III. Bolsas de Valores:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para tales efectos a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará la cuota de $7,500,000.00
+Cada entidad que pertenezca
+
+al sector de Bolsas de Valores,
+
+entendiéndose para tales
+
+efectos a las entidades que
+
+cuenten con la concesión
+
+para constituirse y operar
+
+como tales en términos
+
+de la legislación aplicable,
+
+pagará la cuota de $8,095,500.00 $8,095,500
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2759,9 +3123,25 @@ Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para 
 
 IV. Cámaras de Compensación:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose para tales efectos a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, pagará la cuota de $2,500,000.00
+Cada entidad que pertenezca
+
+al sector de Cámaras de
+
+Compensación, entendiéndose
+
+para tales efectos a las
+
+sociedades que cuenten
+
+con la autorización correspondiente
+
+en términos de la legislación
+
+aplicable, pagará la
+
+cuota de $2,698,500.00 $2,698,500
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2769,15 +3149,29 @@ Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndo
 
 V. Contrapartes Centrales:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose para tales efectos a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará la cuota de $2,500,000.00
+Cada entidad que pertenezca
+
+al sector de Contrapartes
+
+Centrales, entendiéndose para
+
+tales efectos a las sociedades
+
+que cuenten con la concesión
+
+correspondiente en términos de
+
+la legislación aplicable, pagará
+
+la cuota de $2,698,500.00 $2,698,500
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VI. Empresas de Servicios Complementarios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca
 
@@ -2797,13 +3191,41 @@ disposiciones aplicables, o en la
 
 realización de su objeto, pagará la
 
-cantidad de: $95,412.60 $95,413
+cantidad de: $106,967.07 $106,967
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-VII. Cada sociedad que pertenezca al sector de centros cambiarios, transmisores de dinero o sociedades financieras de objeto múltiple no reguladas a que se refiere la Ley General de Organizaciones y Actividades Auxiliares del Crédito, pagarán por concepto de supervisión del cumplimiento de las disposiciones establecidas en el artículo 95 Bis de la citada ley, la cuota de $30,000.00
+VII. Cada sociedad que pertenezca
+
+al sector de centros
+
+cambiarios, transmisores de
+
+dinero o sociedades financieras
+
+de objeto múltiple no reguladas
+
+a que se refiere la Ley
+
+General de Organizaciones
+
+y Actividades Auxiliares del
+
+Crédito, pagarán por
+
+concepto de supervisión del
+
+cumplimiento de las disposiciones
+
+establecidas en el artículo
+
+95 Bis de la citada ley,
+
+la cuota de $30,000.00
 
 VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -2815,7 +3237,7 @@ X. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 XI. Instituciones Calificadoras de Valores:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca
 
@@ -2833,7 +3255,7 @@ y sean autorizadas en términos
 
 de la Ley del Mercado de Valores,
 
-deberá pagar: $441,643.79 $441,644
+deberá pagar: $495,126.85 $495,127
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2841,15 +3263,31 @@ deberá pagar: $441,643.79 $441,644
 
 XII. Instituciones para el Depósito de Valores:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valores, entendiéndose para tales efectos a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará la cuota de $4,500,000.00
+Cada entidad que pertenezca
+
+al sector de Instituciones para
+
+el Depósito de Valores,
+
+entendiéndose para tales
+
+efectos a las sociedades
+
+que cuenten con la concesión
+
+correspondiente en términos
+
+de la legislación aplicable,
+
+pagará la cuota de $4,857,300.00 $4,857,300
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XIII. Sociedades que administran sistemas para facilitar las operaciones con valores:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca al
 
@@ -2863,13 +3301,13 @@ valores, autorizadas en términos
 
 de la Ley del Mercado de Valores
 
-pagará la cantidad de: $359,493.31 $359,493
+pagará la cantidad de: $403,027.95 $403,028
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIV. Oficinas de Representación de Entidades Financieras del Exterior:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca al
 
@@ -2881,13 +3319,13 @@ Financieras del Exterior, pagará
 
 por cada una de las Entidades
 
-que represente la cantidad de: $58,780.25 $58,780
+que represente la cantidad de: $65,898.54 $65,899
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 XV. Operadores del Mercado de Futuros y Opciones:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca al
 
@@ -2895,7 +3333,7 @@ sector de Operadores del Mercado
 
 de Futuros y Opciones, pagará la
 
-cantidad de: $82,068.05 $82,068
+cantidad de: $92,006.49 $92,006
 
 Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
 
@@ -2909,7 +3347,7 @@ Tratándose de instituciones de crédito o casas de bolsa que actúen simultáne
 
 XVI. Organismos Autorregulatorios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Cada asociación gremial de
 
@@ -2929,9 +3367,9 @@ organismo autorregulatorio
 
 bancario o del mercado de
 
-valores, pagará la cantidad de: $380,303.40 $380,303
+valores, pagará la cantidad de: $426,358.14 $426,358
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Los organismos
 
@@ -2971,19 +3409,33 @@ de crédito, así como de sus
 
 apoderados, pagarán la cantidad
 
-de: $1,062,300.00
+de: $1,190,944.53 $1,190,945
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-XVII. El Fondo de Protección de Sociedades Financieras Populares y de Protección a sus Ahorradores a que se refiere la Ley de Ahorro y Crédito Popular pagará la cuota de:..... $20,000.00
+XVII. El Fondo de Protección
+
+de Sociedades Financieras
+
+Populares y de Protección a
+
+sus Ahorradores a que se
+
+refiere la Ley de Ahorro y
+
+Crédito Popular pagará la
+
+cuota de: $20,696.00 $20,696
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVIII. Proveedores de Precios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca
 
@@ -2993,7 +3445,7 @@ autorizados en términos de la Ley
 
 del Mercado de Valores
 
-pagará: $543,357.95 $543,358
+pagará: $609,158.60 $609,159
 
 XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3001,7 +3453,7 @@ XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 XX. Sociedades de Información Crediticia:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca
 
@@ -3019,7 +3471,7 @@ a las Sociedades de Información
 
 Crediticia, pagará la cantidad
 
-de: $1,009,185.00
+de: $1,131,397.30 $1,131,397
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3027,17 +3479,17 @@ XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Que actúen como
 
-referenciadoras: $37,180.50 $37,180
+referenciadoras: $41,683.06 $41,683
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Que actúen como
 
-integrales: $74,361.00
+integrales: $83,366.12 $83,366
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3049,25 +3501,25 @@ XXII. Sociedades Operadoras de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). De renta variable y
 
 de inversión en instrumentos
 
-de deuda: $74,722.18 $74,722
+de deuda: $83,771.04 $83,771
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). De capitales o de
 
-objeto limitado: $63,514.92 $63,515
+objeto limitado: $71,206.58 $71,207
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIII. Sociedades Valuadoras de Acciones de Sociedades de Inversión:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca
 
@@ -3083,11 +3535,11 @@ carácter se refiere la Ley de
 
 Sociedades de Inversión,
 
-pagará la cantidad de $726.61 $727
+pagará la cantidad de
 
-por cada Fondo valuado.
+por cada Fondo valuado. $814.60 $815
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 La cuota que resulte de
 
@@ -3095,19 +3547,19 @@ conformidad con lo previsto en
 
 esta fracción, en ningún caso
 
-podrá ser inferior a $30,496.23 $30,496
+podrá ser inferior a $34,189.32 $34,189
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIV. Socios Liquidadores:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cada entidad que pertenezca al
 
 sector de Socios Liquidadores
 
-pagará la cantidad de: $515,333.33 $515,333
+pagará la cantidad de: $577,740.20 $577,740
 
 Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
 
@@ -3131,79 +3583,159 @@ a). Con sólo acciones inscritas:
 
 1. Emitidas por sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.3 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $400,000.00
+0.3 al millar respecto al capital
+
+contable sin que los derechos
+
+a pagar por este concepto
+
+excedan de: $448,440.00 $448,440
 
 2. Emitidas por sociedades Anónimas Promotoras de Inversión Bursátil:
 
 i). Que se encuentren en cumplimiento del programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.1 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $120,000.00
+0.1 al millar respecto al capital
+
+contable sin que los derechos
+
+a pagar por este concepto
+
+excedan de: $134,532.00 $134,532
 
 ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.2 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $240,000.00
+0.2 al millar respecto al capital
+
+contable sin que los derechos
+
+a pagar por este concepto
+
+excedan de: $269,064.00 $269,064
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.3 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $400,000.00
+0.3 al millar respecto al capital
+
+contable sin que los derechos a
+
+pagar por este concepto
+
+excedan de: $448,440.00 $448,440
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.9595 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de: $300,000.00
+0.9595 al millar respecto al
+
+monto en circulación de cada
+
+emisión, sin que los derechos a
+
+pagar por este concepto
+
+excedan de: $336,330.00 $336,330
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 c). Con acciones y títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Por acciones, la cuota señalada en la fracción I, inciso a), numerales 1 a 3, de este artículo, según corresponda y 0.6396 al millar respecto al monto en circulación de cada emisión de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles sin que los derechos a pagar por este concepto excedan de: $120,000.00
+Por acciones, la cuota señalada
+
+en la fracción I, inciso a), numerales
+
+1 a 3, de este artículo, según
+
+corresponda y 0.6396 al millar
+
+respecto al monto en circulación
+
+de cada emisión de títulos de
+
+crédito o valores inscritos que
+
+otorguen a sus titulares derechos
+
+de crédito, de propiedad o de
+
+participación, sobre bienes o
+
+derechos muebles o inmuebles
+
+sin que los derechos a pagar por
+
+este concepto excedan de: $134,532.00 $134,532
 
 d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.9595 al millar, respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $300,000.00
+0.9595 al millar, respecto al
+
+monto en circulación de cada
+
+emisión sin que los derechos a
+
+pagar por este concepto
+
+excedan de: $336,330.00 $336,330
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 e). Títulos de crédito que representen acciones:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.5116 al millar, respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $80,000.00
+0.5116 al millar, respecto al
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+monto en circulación de
 
-f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $80,000.00, por cada emisión.
+cada emisión sin que los
+
+derechos a pagar por este
+
+concepto excedan de: $89,688.00 $89,688
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $89,688.00, por cada emisión.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 g). Títulos fiduciarios cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-0.5116 al millar respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $80,000.00
+0.5116 al millar respecto al
+
+monto en circulación de
+
+cada emisión sin que los
+
+derechos a pagar por este
+
+concepto excedan de: $89,688.00 $89,688
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo bajo la modalidad de listado previo pagarán $10,000.00 por inscripción preventiva.
+III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo bajo la modalidad de listado previo pagarán $11,211.00 por inscripción preventiva.
 
 No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
@@ -3435,11 +3967,15 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 III. Las sociedades controladoras de grupos financieros $550,000.00 anuales.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3447,7 +3983,7 @@ III. Las sociedades controladoras de grupos financieros $550,000.00 anuales.
 
 IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $30,000.00 anuales.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por los servicios de
 
@@ -3455,9 +3991,9 @@ inspección y vigilancia que
 
 se prestan a los intermediarios
 
-de reaseguro cuota mensual $6,147.27 $6,147
+de reaseguro cuota mensual $6,891.70 $6,892
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por los servicios de
 
@@ -3467,7 +4003,7 @@ se prestan a las oficinas de
 
 representación de reaseguradoras
 
-extranjeras cuota mensual $3,688.36 $3,688
+extranjeras cuota mensual $4,135.02 $4,135
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3479,15 +4015,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la autorización provisional
 
 proporcionada a agentes de
 
-seguros personas físicas $1,492.50 $1,492
+seguros personas físicas $1,673.24 $1,673
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la autorización definitiva a
 
@@ -3495,25 +4031,25 @@ agentes de seguros personas físicas
 
 para actuar por cuenta propia con
 
-vigencia de tres años $2,347.29 $2,347
+vigencia de tres años $2,631.55 $2,632
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el refrendo trianual de las
 
 autorizaciones definitivas a agentes
 
-personas físicas $1,228.10 $1,228
+personas físicas $1,376.82 $1,377
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización a
 
 agentes de seguros personas
 
-morales $7,463.61 $7,464
+morales $8,367.45 $8,367
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la autorización para ejercer la
 
@@ -3523,17 +4059,17 @@ de seguros persona moral para
 
 intervenir en el asesoramiento y
 
-contratación de seguros $2,347.29 $2,347
+contratación de seguros $2,631.55 $2,632
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por el refrendo trianual de la
 
 autorización a que se refiere la
 
-fracción anterior $1,228.10 $1,228
+fracción anterior $1,376.82 $1,377
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por la autorización para
 
@@ -3541,9 +4077,9 @@ ejercer la actividad de agente
 
 mandatario de instituciones de
 
-seguros $115.14 $115
+seguros $129.08 $129
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por la presentación del
 
@@ -3557,13 +4093,29 @@ seguros persona física o
 
 apoderado de agente de
 
-seguros persona moral $536.10 $536
+seguros persona moral $601.02 $601
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-IX.- Por la presentación de una sola prueba del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de seguros persona física o apoderado de agente de seguros persona moral.....$300.00
+IX.- Por la presentación de
+
+una sola prueba del examen
+
+de acreditación de la
+
+capacidad técnica, para
+
+ejercer la actividad de agente
+
+de seguros persona física
+
+o apoderado de agente de
+
+seguros persona moral $310.44 $310
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3575,15 +4127,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la autorización
 
 definitiva como intermediario
 
-de reaseguro. $7,463.67 $7,464
+de reaseguro. $8,367.52 $8,368
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la autorización para
 
@@ -3595,15 +4147,15 @@ de reaseguro, para intervenir
 
 en el asesoramiento y contratación
 
-de reaseguro $2,347.29 $2,347
+de reaseguro $2,631.55 $2,632
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el refrendo quinquenal
 
 de la autorización a que se refiere
 
-la fracción anterior $1,228.10 $1,228
+la fracción anterior $1,376.82 $1,377
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -3621,7 +4173,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Por el examen de acreditación
 
@@ -3639,9 +4191,9 @@ que ofrezcan al público las
 
 instituciones y sociedades
 
-mutualistas de seguros $1,084.67 $1,085
+mutualistas de seguros $1,216.02 $1,216
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Por el examen de acreditación
 
@@ -3657,9 +4209,9 @@ calcular y registrar las
 
 instituciones y sociedades
 
-mutualistas de seguros $1,084.67 $1,085
+mutualistas de seguros $1,216.02 $1,216
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Por el examen de acreditación
 
@@ -3679,13 +4231,13 @@ constituir las instituciones y
 
 sociedades mutualistas de
 
-seguros $1,084.67 $1,085
+seguros $1,216.02 $1,216
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 30-D.
 
@@ -3703,7 +4255,7 @@ de promoción o venta de productos
 
 de seguros, se pagarán derechos
 
-conforme a la cuota de: $474.72 $475
+conforme a la cuota de: $532.21 $532
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3723,11 +4275,15 @@ II.- Las demás personas y entidades sujetas a la inspección y vigilancia de la
 
 Las cuotas determinadas conforme al presente artículo deberán manifestarse a la Secretaría de Hacienda y Crédito Público dentro de los primeros 15 días de cada bimestre. Al presentarse dichas manifestaciones, exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 III. Las sociedades controladoras de grupos financieros $550,000.00 anuales.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3745,7 +4301,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la autorización definitiva a
 
@@ -3753,23 +4309,23 @@ agentes de fianzas personas físicas
 
 para actuar por cuenta propia con
 
-vigencia de tres años $2,347.29 $2,347
+vigencia de tres años $2,631.55 $2,632
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el refrendo trianual de las
 
 autorizaciones definitivas a agentes
 
-personas físicas $1,228.10 $1,228
+personas físicas $1,376.82 $1,377
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la autorización a agentes de
 
-fianzas personas morales $7,462.87 $7,463
+fianzas personas morales $8,366.62 $8,367
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización para ejercer
 
@@ -3779,25 +4335,25 @@ agente de fianzas persona moral
 
 para intervenir en el asesoramiento
 
-y contratación de fianzas $2,347.29 $2,347
+y contratación de fianzas $2,631.55 $2,632
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por el refrendo trianual de la
 
 autorización a que se refiere la
 
-fracción anterior $1,228.10 $1,228
+fracción anterior $1,376.82 $1,377
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la autorización provisional
 
 proporcionada a agentes de fianzas
 
-personas físicas $1,493.49 $1,493
+personas físicas $1,674.35 $1,674
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por la autorización para
 
@@ -3805,9 +4361,9 @@ ejercer la actividad de agente
 
 mandatario de instituciones de
 
-fianzas $115.14 $115
+fianzas $129.08 $129
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por la presentación del
 
@@ -3821,13 +4377,31 @@ persona física o apoderado de
 
 agente de fianzas persona
 
-moral $536.10 $536
+moral $601.02 $601
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-IX.- Por la presentación de una sola prueba del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de fianzas persona física o apoderado de agente de fianzas persona moral.....$300.00
+IX.- Por la presentación de
+
+una sola prueba del examen
+
+de acreditación de la
+
+capacidad técnica, para
+
+ejercer la actividad de
+
+agente de fianzas persona
+
+física o apoderado de
+
+agente de fianzas
+
+persona moral $310.44 $310
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3839,7 +4413,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el examen de acreditación
 
@@ -3857,9 +4431,9 @@ soportar la adecuada operación
 
 de los productos que ofrezcan
 
-al público $1,084.67 $1,085
+al público $1,216.02 $1,216
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el examen de acreditación
 
@@ -3873,9 +4447,9 @@ técnicas, que deben calcular y
 
 registrar las instituciones de
 
-fianzas $1,084.67 $1,085
+fianzas $1,216.02 $1,216
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el examen de acreditación
 
@@ -3891,7 +4465,7 @@ las reservas de carácter técnico, que
 
 deben constituir las instituciones
 
-de fianza $1,084.67 $1,085
+de fianza $1,216.02 $1,216
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3909,7 +4483,7 @@ de fianza $1,084.67 $1,085
 
 Las Administradoras de Fondos para el Retiro, las instituciones públicas que realicen funciones similares a éstas, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Las Administradoras de
 
@@ -3943,11 +4517,11 @@ Instituto de Seguridad y Servicios
 
 Sociales de los Trabajadores del
 
-Estado, $60,732.33 $60,732
+Estado, $68,087.02 $68,087
 
 por concepto de cuota anual y
 
-adicionalmente $0.1389 anuales
+adicionalmente $0.1557 anuales
 
 por cada mil pesos del saldo total
 
@@ -3957,13 +4531,13 @@ cesantía en edad avanzada y
 
 vejez.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Las Sociedades de Inversión
 
 Especializadas de Fondos
 
-para el Retiro $57,608.23 $57,608 cuota anual.
+para el Retiro $64,584.59 $64,585 cuota anual.
 
 El pago de las cuotas anuales a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra.
 
@@ -3973,13 +4547,13 @@ Para los efectos de la cuota anual adicional de $0.1258 a que se refiere la frac
 
 Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.1258, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Las Empresas Operadoras
 
 de la Base de Datos Nacional
 
-SAR $1,773,907.20 $1,773,907
+SAR $1,988,727.36 $1,988,727
 
 por cada Administradora de
 
@@ -3990,6 +4564,8 @@ cada institución pública que
 realice funciones similares.
 
 El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro o institución pública que realice funciones similares durante el año calendario, el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4013,7 +4589,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 34.
 
@@ -4039,7 +4615,7 @@ Fondos para el Retiro, pagará
 
 derechos conforme a la
 
-cuota de: $88,695.36 $88,695
+cuota de: $99,436.37 $99,436
 
 ###### ARTICULO 34-A.
 
@@ -4079,15 +4655,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por la inscripción en el
 
 registro del despacho de
 
-mercancías $4,234.78 $4,235
+mercancías $4,747.61 $4,748
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por la autorización de depósito
 
@@ -4101,9 +4677,9 @@ industria automotriz terminal o
 
 manufacturera de vehículos de
 
-autotransporte $8,606.20 $8,606
+autotransporte $9,648.41 $9,648
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por la autorización para
 
@@ -4113,9 +4689,9 @@ mercancías del territorio
 
 nacional por lugar distinto al
 
-autorizado $8,332.97 $8,333
+autorizado $9,342.09 $9,342
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por la concesión o
 
@@ -4127,9 +4703,9 @@ almacenaje y custodia de
 
 mercancías de comercio
 
-exterior $45,080.16 $45,080
+exterior $50,539.37 $50,539
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- Por la autorización para
 
@@ -4139,21 +4715,21 @@ descarga, estiba, acarreo y
 
 trasbordo de mercancías en
 
-el recinto fiscal $8,606.20 $8,606
+el recinto fiscal $9,648.41 $9,648
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- Por la autorización de
 
-apoderado aduanal $6,830.32 $6,830
+apoderado aduanal $7,657.47 $7,657
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- Por la autorización de
 
-dictaminador aduanero $6,830.32 $6,830
+dictaminador aduanero $7,657.47 $7,657
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- Por la autorización para la
 
@@ -4163,9 +4739,9 @@ por tuberías, ductos, cables
 
 u otros medios de
 
-conducción $7,513.35 $7,513
+conducción $8,423.22 $8,423
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 i).- Por la autorización de
 
@@ -4175,17 +4751,17 @@ para locales destinados
 
 a exposiciones internacionales
 
-de mercancías $4,098.18 $4,098
+de mercancías $4,594.47 $4,594
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 j).- Por la inscripción en el
 
 Registro de empresas
 
-transportistas $4,508.00
+transportistas $5,053.92 $5,054
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 k).- Por la autorización para
 
@@ -4195,9 +4771,9 @@ fiscal para la exposición y
 
 ventas de mercancías
 
-extranjeras y nacionales $37,525.81 $37,526
+extranjeras y nacionales $42,070.19 $42,070
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I).- Por la habilitación de
 
@@ -4213,39 +4789,75 @@ estratégico y la autorización
 
 o prórroga para su
 
-administración: $51,853.42 $51,853
+administración: $58,132.87 $58,133
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 m).- Por la inscripción en el
 
 registro de empresas
 
-certificadas $19,445.03 $19,445
+certificadas $21,799.82 $21,800
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 n).- Por la autorización de
 
 mandatario de agente
 
-aduanal $6,569.11 $6,569
+aduanal $7,364.63 $7,365
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-ñ).- Por la autorización para destinar mercancías al régimen de recinto fiscalizado estratégico $17,880.00
+ñ).- Por la autorización para
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+destinar mercancías al
 
-o).- Por la autorización para prevalidar electrónicamente los datos contenidos en los pedimentos $6,040.00
+régimen de recinto
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+fiscalizado estratégico $20,045.27 $20,045
 
-p).- Por la autorización para el procesamiento electrónico de datos necesarios para llevar a cabo el control de la importación temporal de remolques, semiremolques y portacontenedores $6,040.00
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+o).- Por la autorización para
 
-q).- Por la autorización para que dentro de los recintos fiscalizados, las mercancías en ellos almacenadas puedan ser objeto de elaboración, transformación o reparación $6,040.00
+prevalidar electrónicamente
+
+los datos contenidos
+
+en los pedimentos $6,771.44 $6,771
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+p).- Por la autorización para
+
+el procesamiento electrónico de
+
+datos necesarios para llevar a
+
+cabo el control de la
+
+importación temporal de
+
+remolques, semiremolques
+
+y portacontenedores $6,771.44 $6,771
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+q).- Por la autorización para
+
+que dentro de los recintos
+
+fiscalizados, las mercancías
+
+en ellos almacenadas puedan
+
+ser objeto de elaboración,
+
+transformación o
+
+reparación $6,771.44 $6,771
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4307,25 +4919,25 @@ ajuste ajuste
 
 I.- Por cada quinientos kilogramos o fracción y durante:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Los primeros quince días
 
-naturales $8.61 $9
+naturales $9.65 $10
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Los siguientes treinta días
 
-naturales $16.79 $17
+naturales $18.82 $19
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- El tiempo que transcurra después
 
 de vencido el plazo señalado en el
 
-inciso anterior $27.20 $27
+inciso anterior $30.49 $30
 
 II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
 
@@ -4343,7 +4955,7 @@ d) Las que por su naturaleza deban conservarse en refrigeración, en cuartos est
 
 e) Los animales vivos.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Los equipajes o efectos
 
@@ -4351,7 +4963,7 @@ personales de pasajeros, por
 
 cada cien kilogramos o fracción,
 
-diariamente $13.98 $14
+diariamente $15.67 $16
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4437,7 +5049,7 @@ I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del i
 
 II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Tratándose de
 
@@ -4467,7 +5079,7 @@ Maquiladora y de
 
 Servicios de Exportación
 
-IMMEX): $222.90 $223
+IMMEX): $249.89 $250
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4495,7 +5107,7 @@ como en los retornos
 
 respectivos $222.90 $223.00
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- En el caso de operaciones de
 
@@ -4525,13 +5137,13 @@ las disposiciones aplicables no tengan
 
 valor en aduana, por cada
 
-operación. $222.90 $223
+operación. $249.89 $250
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- En las operaciones de
 
-exportación $223.50 $224
+exportación $250.57 $251
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4541,45 +5153,45 @@ Cuando la exportación de mercancías se efectúe mediante pedimento consolidado
 
 También se pagará este derecho por cada operación en que se utilice el pedimento complementario del pedimento de exportación o retorno de mercancías.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Tratándose de las efectuadas
 
-por los Estados extranjeros $218.58 $219
+por los Estados extranjeros $245.05 $245
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De tránsito interno $222.90 $223
+a).- De tránsito interno $249.89 $250
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De tránsito internacional $211.68 $212
+b).- De tránsito internacional $237.31 $237
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De extracción del régimen de
 
-depósito fiscal para retorno $222.90 $223
+depósito fiscal para retorno $249.89 $250
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- La parte II de los pedimentos
 
 de importación; exportación o
 
-tránsito $222.90 $223
+tránsito $249.89 $250
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- Por cada rectificación
 
-de pedimento $222.90 $223
+de pedimento $240.60 $241
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Del 8 al millar, sobre el valor
 
@@ -4587,7 +5199,7 @@ que tenga el oro para los efectos
 
 del impuesto general de importación,
 
-sin exceder de la cuota de $2,362.04 $2,362
+sin exceder de la cuota de $2,648.08 $2,648
 
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
@@ -4645,7 +5257,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el examen para aspirante
 
@@ -4653,31 +5265,31 @@ a agente aduanal, apoderado
 
 aduanal o dictaminador
 
-aduanero $6,949.14 $6,949
+aduanero $7,790.68 $7,791
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de la patente de
 
-agente aduanal $13,896.22 $13,896
+agente aduanal $15,579.05 $15,579
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III.- Por el examen para aspirante a mandatario de agente aduanal:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Correspondiente a la
 
-etapa de conocimientos $3,394.89 $3,395
+etapa de conocimientos $3,806.01 $3,806
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Correspondiente a la
 
-etapa psicotécnica $3,394.89 $3,395
+etapa psicotécnica $3,806.01 $3,806
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el estudio y aprobación
 
@@ -4687,13 +5299,13 @@ las sociedades o asociaciones
 
 que exploten la patente
 
-de agente aduanal $11,034.04 $11,034
+de agente aduanal $12,370.26 $12,370
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 52.
 
@@ -4713,7 +5325,7 @@ arancelaria, establecidas en la Ley
 
 Aduanera, se pagarán por cada
 
-muestra analizada, la cuota de: $3,065.07 $3,065
+muestra analizada, la cuota de: $3,436.25 $3,436
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
@@ -4771,7 +5383,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 53-G.
 
@@ -4787,13 +5399,13 @@ entre partes relacionadas, se
 
 pagarán derechos conforme a la
 
-cuota de $10,024.10 $10,024
+cuota de $11,238.02 $11,238
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 53-H.
 
@@ -4807,7 +5419,7 @@ el artículo anterior, se pagarán
 
 derechos conforme a la
 
-cuota de $2,004.72 $2,005
+cuota de $2,247.49 $2,247
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4825,17 +5437,17 @@ cuota de $2,004.72 $2,005
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 53-K.
 
-Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $0.3078 por cada uno.
+Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $0.3451 por cada uno.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 53-L.
 
-Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $1.13 por cada uno.
+Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $1.27 por cada uno.
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
@@ -4873,21 +5485,21 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso, con base en la capacidad de autoabastecimiento, cogeneración, pequeña producción, producción independiente, exportación e importación de energía eléctrica solicitada, de conformidad con las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Hasta 10 MW: $76,860.48 $76,860
+a). Hasta 10 MW: $86,168.28 $86,168
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Mayor a 10 y hasta 50 MW: $100,301.71 $100,302
+b). Mayor a 10 y hasta 50 MW: $112,448.25 $112,448
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Mayor a 50 y hasta 200 MW: $148,314.67 $148,315
+c). Mayor a 50 y hasta 200 MW: $166,275.58 $166,276
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d). Mayor a 200 MW: $627,324.82 $627,325
+d). Mayor a 200 MW: $703,293.86 $703,294
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4895,25 +5507,25 @@ d). Mayor a 200 MW: $627,324.82 $627,325
 
 II. Por la supervisión de los permisos de energía eléctrica, se pagará anualmente el derecho de supervisión, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Hasta 3 MW $14,000.00
+a). Hasta 3 MW $15,111.60 $15,112
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Mayor a 3 y hasta 10 MW $76,740.00
+b). Mayor a 3 y hasta 10 MW $82,833.16 $82,833
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Mayor a 10 y hasta 50 MW $189,276.00
+c). Mayor a 10 y hasta 50 MW $204,304.51 $204,305
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d). Mayor a 50 y hasta 200 MW $312,772.00
+d). Mayor a 50 y hasta 200 MW $337,606.10 $337,606
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e). Mayor a 200 MW $951,265.00
+e). Mayor a 200 MW $1,026,795.44 $1,026,795
 
 III. Por la modificación de los títulos de permiso de energía eléctrica, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -4921,7 +5533,7 @@ a). El 50 por ciento de la cuota establecida en la fracción I del presente art�
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV. Por el análisis, evaluación y,
 
@@ -4937,9 +5549,9 @@ organismos a cargo de la
 
 prestación del servicio público
 
-de energía eléctrica anualmente: $552,134.69 $552,135
+de energía eléctrica anualmente: $618,998.20 $618,998
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Aprobación o modificación de
 
@@ -4951,7 +5563,7 @@ actividades reguladas en términos
 
 de la Ley de la Comisión Reguladora
 
-de Energía: $11,042.21 $11,042
+de Energía: $12,379.42 $12,379
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4969,67 +5581,141 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, almacenamiento o transporte de gas natural, de conformidad con las siguientes cuotas:
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Permisos de distribución de gas natural $512,348.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+a). Permisos de distribución
 
-b). Permisos de transporte de gas natural para usos propios en su modalidad de sociedades de autoabastecimiento $311,459.00
+de gas natural $553,028.43 $553,028
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Permisos de transporte de gas natural de acceso abierto $512,348.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+b). Permisos de transporte de gas
 
-d). Permisos de transporte de gas natural para usos propios $253,868.00
+natural para usos propios en su
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+modalidad de sociedades de
+
+autoabastecimiento $336,188.84 $336,189
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+c). Permisos de transporte de
+
+gas natural de acceso
+
+abierto $553,028.43 $553,028
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+d). Permisos de transporte de
+
+gas natural para usos
+
+propios $274,025.12 $274,025
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e). Tratándose de permisos para
 
 el almacenamiento de gas
 
-natural: $3,312,734.16 $3,312,734
+natural: $3,713,906.27 $3,713,906
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f). Tratándose de permisos de
 
 almacenamiento de gas natural
 
-para usos propios: $128,930.64 $128,931
+para usos propios: $144,544.14 $144,544
 
 II. Por la supervisión de los permisos de gas natural, se pagará anualmente el derecho, conforme a las siguientes cuotas:
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Permisos de distribución de gas natural $405,277.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+a). Permisos de distribución
 
-b). Permisos de transporte de gas natural de acceso abierto $367,708.00
+de gas natural $437,455.99 $437,456
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Permisos de almacenamiento de gas natural $493,183.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+b). Permisos de transporte de
 
-d). Permisos de transporte de gas natural para usos propios $144,471.00
+gas natural de acceso abierto $396,904.02 $396,904
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e). Permisos de almacenamiento de gas natural para usos propios $93,863.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+c). Permisos de almacenamiento
 
-f). Permisos de transporte de gas natural para usos propios en su modalidad de sociedades de autoabastecimiento $187,032.00
+de gas natural $532,341.73 $532,342
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III. Por la modificación del permiso de distribución, transporte o almacenamiento de gas natural que por concepto de la revisión periódica al término de cada periodo de cinco años realice la Comisión Reguladora de Energía, de conformidad a las disposiciones legales aplicables $343,411.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+d). Permisos de transporte de
+
+gas natural para usos propios $155,942.00 $155,942
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+e). Permisos de almacenamiento de
+
+gas natural para usos propios $101,315.72 $101,316
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+f). Permisos de transporte de
+
+gas natural para usos
+
+propios en su modalidad de
+
+sociedades de
+
+autoabastecimiento $201,882.34 $201,882
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+III. Por la modificación del permiso
+
+de distribución, transporte o
+
+almacenamiento de gas
+
+natural que por concepto de
+
+la revisión periódica al término
+
+de cada periodo de cinco años
+
+realice la Comisión Reguladora de
+
+Energía, de conformidad a las
+
+disposiciones legales
+
+aplicables $370,677.83 $370,678
 
 IV. Por la modificación de los títulos de permiso de gas natural, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -5053,21 +5739,39 @@ Se pagarán derechos en materia de gas licuado de petróleo por los servicios qu
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del permiso para la distribución, el almacenamiento y el transporte de gas licuado de petróleo por medio de ductos, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Permisos para la distribución de gas licuado de petróleo por medio de ductos $503,844.00
+a). Permisos para la distribución de gas
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+licuado de petróleo por
 
-b). Permisos para el transporte de gas licuado de petróleo por medio de ductos $503,844.00
+medio de ductos $543,849.21 $543,849
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Permisos para el transporte de gas licuado de petróleo por ductos para autoconsumo $190,402.00
+b). Permisos para el transporte de
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+gas licuado de petróleo por medio
 
-d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta de suministro o depósito $503,844.00
+de ductos $543,849.21 $543,849
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+c). Permisos para el transporte de
+
+gas licuado de petróleo por ductos
+
+para autoconsumo $205,519.92 $205,520
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+d). Permisos para el almacenamiento
+
+de gas licuado de petróleo mediante
+
+planta de suministro
+
+o depósito $543,849.21 $543,849
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5075,21 +5779,37 @@ d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta 
 
 II. Por la supervisión de los permisos en materia de gas licuado de petróleo, se pagará anualmente el derecho de supervisión conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Permisos para la distribución de gas licuado de petróleo por medio de ductos $405,277.00
+a). Permisos para la distribución de gas
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+licuado de petróleo por medio
 
-b). Permisos para el transporte de gas licuado de petróleo por medio de ductos $367,708.00
+de ductos $437,455.99 $437,456
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Permisos para el transporte de gas licuado de petróleo por ductos para autoconsumo $144,471.00
+b). Permisos para el transporte de gas
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+licuado de petróleo por medio
 
-d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta de suministro o depósito $493,166.00
+de ductos $396,904.02 $396,904
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+c). Permisos para el transporte de gas
+
+licuado de petróleo por ductos
+
+para autoconsumo $155,942.00 $155,942
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+d). Permisos para el almacenamiento de
+
+gas licuado de petróleo mediante planta
+
+de suministro o depósito $532,323.38 $532,323
 
 III. Por la modificación de los títulos de permiso de gas licuado de petróleo, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -5105,17 +5825,25 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 Por la supervisión de la operación y el mantenimiento de las actividades de transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos, así como de los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, Petróleos Mexicanos y sus organismos subsidiarios pagarán anualmente derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Por las terminales de almacenamiento y recepción $493,166.00
+I. Por las terminales de almacenamiento
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+y recepción $532,323.38 $532,323
 
-II. Por los ductos interconectados a las terminales de almacenamiento y recepción $397,708.00
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+II. Por los ductos interconectados
 
-III. Por otros sistemas de transporte por medio de ductos $144,471.00
+a las terminales de almacenamiento
+
+y recepción $429,286.02 $429,286
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+III. Por otros sistemas de transporte
+
+por medio de ductos $155,942.00 $155,942
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5125,13 +5853,37 @@ III. Por otros sistemas de transporte por medio de ductos $144,471.00
 
 Por el análisis y, en su caso, la expedición de la resolución sobre las propuestas de Petróleos Mexicanos y sus organismos subsidiarios, dichos organismos pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Respecto de los términos y condiciones de las ventas de primera mano del gas, del combustóleo y de los petroquímicos básicos $495,275.00
+I. Respecto de los términos y condiciones
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+de las ventas de primera mano del gas,
 
-II. Respecto de los términos y condiciones del transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos; así como los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, o que forman parte integral de las terminales de importación o distribución de dichos productos $504,464.00
+del combustóleo y de los petroquímicos
+
+básicos $534,599.84 $534,600
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+II. Respecto de los términos y condiciones
+
+del transporte y distribución por medio
+
+de ductos de los productos que se obtengan
+
+de la refinación del petróleo y de los
+
+petroquímicos básicos; así como los
+
+sistemas de almacenamiento que se
+
+encuentren directamente vinculados a
+
+éstos, o que forman parte integral de
+
+las terminales de importación o distribución
+
+de dichos productos $544,518.44 $544,518
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5145,7 +5897,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el otorgamiento del
 
@@ -5163,9 +5915,9 @@ mediante el sistema de
 
 calidad de la línea de
 
-producción $4,944.43 $4,944
+producción $5,543.20 $5,543
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el análisis de la solicitud y,
 
@@ -5177,9 +5929,9 @@ de Gas Licuado de Petróleo, con
 
 excepción de los otorgados por la
 
-Comisión Reguladora de Energía $17,899.58 $17,900
+Comisión Reguladora de Energía $20,067.22 $20,067
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la modificación de las
 
@@ -5193,13 +5945,13 @@ análisis de cada solicitud y, en
 
 su caso, el otorgamiento de
 
-autorizaciones $1,308.96 $1,309
+autorizaciones $1,467.48 $1,467
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Tratándose de la autorización para instalar bodegas de distribución adicionales, se pagarán derechos por cada solicitud, independientemente del número de bodegas que se incluyan en la misma.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por los servicios de
 
@@ -5213,27 +5965,81 @@ en el ramo del Petróleo,
 
 pagarán derechos por
 
-hora de verificación $715.90 $716
+hora de verificación $802.60 $803
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Por el estudio y trámite y, en su caso, la obtención del registro como empresa con equipo certificado, taller de equipos de carburación o centros de destrucción $1,175.00
+V.- Por el estudio y trámite y, en su caso,
+
+la obtención del registro como empresa
+
+con equipo certificado, taller de equipos
+
+de carburación o centros de destrucción $1,317.29 $1,317
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 60.
 
-Por el análisis de la solicitud y, en su caso, por el otorgamiento de aprobaciones que emita la Secretaría de Energía, como Unidades de Verificación, Laboratorios de Pruebas u Organismos de Certificación, para el cumplimiento de las normas oficiales mexicanas, se pagarán derechos por cada solicitud, independientemente del número de aprobaciones emitidas, con la siguiente cuota:…..$3,157.00
+Por el análisis de la solicitud y,
+
+en su caso, por el otorgamiento de
+
+aprobaciones que emita la Secretaría
+
+de Energía, como Unidades de
+
+Verificación, Laboratorios de Pruebas u
+
+Organismos de Certificación, para el
+
+cumplimiento de las normas oficiales
+
+mexicanas, se pagarán derechos por
+
+cada solicitud, independientemente del
+
+número de aprobaciones emitidas,
+
+con la siguiente cuota: $3,539.31 $3,539
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 61.
 
-Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Energía, para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos en las normas oficiales mexicanas a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización se pagarán derechos con la siguiente cuota:…..$1,950.00
+Por el análisis
+
+de la solicitud y, en su caso,
+
+la autorización que emita la
+
+Secretaría de Energía, para utilizar
+
+o aplicar materiales, equipos,
+
+procesos, métodos de prueba,
+
+mecanismos, procedimientos o
+
+tecnologías alternativos en las
+
+normas oficiales mexicanas a que
+
+se refiere el artículo 49 de la Ley
+
+Federal sobre Metrología y
+
+Normalización se pagarán derechos
+
+con la siguiente cuota: $2,186.15 $2,186
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5253,17 +6059,41 @@ Por el análisis de la solicitud y, en su caso, la autorización que emita la Se
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 61-D.
 
-Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso o autorización, de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, se pagarán derechos conforme a la cuota de: $50,000.00
+Por el análisis, evaluación de la
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+solicitud y, en su caso, la expedición del título de
+
+permiso o autorización, de recuperación y
+
+aprovechamiento de gas asociado a los
+
+yacimientos de carbón mineral, se pagarán
+
+derechos conforme a la cuota de: $55,070.00 $55,070
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 61-E.
 
-Por la recepción y análisis de la solicitud y, en su caso, por la expedición de permisos para la producción, almacenamiento, transporte y comercialización de bioenergéticos, se pagarán derechos, por cada uno, conforme a la cuota de $10,848.00
+Por la recepción y análisis de
+
+la solicitud y, en su caso, por la expedición de
+
+permisos para la producción, almacenamiento,
+
+transporte y comercialización de bioenergéticos,
+
+se pagarán derechos, por cada uno,
+
+conforme a la cuota de $11,709.33 $11,709
 
 Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
 
@@ -5291,7 +6121,7 @@ Tratándose de solicitudes para la autorización de prórroga, transferencia y m
 
 Por el estudio, trámite y resolución de cada solicitud de concesión o asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Rango de Superficie
 
@@ -5307,19 +6137,19 @@ Excedente del
 
 Límite Inferior
 
-1 30 $443.41 $7.21
+1 30 $497.11 $8.08
 
-31 100 $671.46 $13.41
+31 100 $752.77 $15.03
 
-101 500 $1,646.32 $32.58
+101 500 $1,845.69 $36.53
 
-501 1000 $15,371.97 $42.48
+501 1000 $17,233.52 $47.62
 
-1,001 5,000 $42,818.30 $2.5723
+1,001 5,000 $48,003.60 $2.8838
 
-5,001 50,000 $54,348.65 $1.8437
+5,001 50,000 $60,930.27 $2.0670
 
-50,001 en adelante $137,790.24 $1.7002
+50,001 en adelante $154,476.64 $1.9061
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -5341,6 +6171,8 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -5350,6 +6182,8 @@ II. Reducción, división,
 identificación o unificación
 
 de superficie $2,000.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5365,6 +6199,8 @@ separación de éstas a
 
 uno o más de ellos $1,000.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
@@ -5374,6 +6210,8 @@ IV. Expedición de duplicado
 del título de concesión o
 
 asignación minera $500.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5391,17 +6229,31 @@ de peritos mineros $500.00
 
 Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las siguientes cuotas:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 I. Inscripción de actos, contratos o convenios relativos a la transmisión de la titularidad de concesiones mineras o de los derechos que de ellas deriven $1,000.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Cancelación de las inscripciones relativas a los actos, contratos o convenios a que alude la fracción anterior $500.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 III. Inscripción de Sociedades mineras $2,000.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV. Inscripción de las modificaciones estatutarias de dichas sociedades $1,000.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 V. Avisos notariales preventivos $500.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 VI. Anotaciones preventivas para interrumpir la cancelación de las inscripciones de contratos o convenios sujetos a temporalidad $500.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII. Revisión de la documentación que consigne las correcciones o aclaraciones requeridas para la inscripción o cancelación de los actos, contratos o convenios mencionados en las fracciones anteriores $500.00
 
@@ -5423,17 +6275,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 I. Por cada plano a escala 1:50,000 que corresponda a las hojas topográficas del Instituto Nacional de Estadística y Geografía $3,000.00
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 II. Por cada porción de las hojas anteriores de 5 minutos de latitud y de longitud $500.00
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5495,7 +6353,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Suscripción o adquisición de
 
@@ -5511,9 +6369,9 @@ o adquisiciones con regulación
 
 específica y en las que la inversión
 
-extranjera participe en más del 49% $5,045.53 $5,046
+extranjera participe en más del 49% $5,656.54 $5,657
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Constitución de fideicomisos
 
@@ -5523,9 +6381,9 @@ virtud de los cuales se deriven
 
 derechos en favor de la inversión
 
-extranjera $5,045.53 $5,046
+extranjera $6,656.54 $5,657
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por afectación de acciones
 
@@ -5537,9 +6395,9 @@ neutra, o la emisión de series
 
 especiales de acciones neutras
 
-por parte de sociedades mexicanas $4,894.36 $4,894
+por parte de sociedades mexicanas $5,487.07 $5,487
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Entrada a nuevos campos de
 
@@ -5549,9 +6407,9 @@ requiera resolución favorable de la
 
 Comisión Nacional de Inversiones
 
-Extranjeras $968.32 $968
+Extranjeras $1,085.58 $1,086
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Autorización para la inscripción
 
@@ -5563,9 +6421,9 @@ Propiedad y el Comercio, o para
 
 su establecimiento en la República
 
-Mexicana $1,417.13 $1,417
+Mexicana $1,588.74 $1,589
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Replanteamiento a resoluciones
 
@@ -5573,17 +6431,17 @@ específicas o autorizaciones y
 
 exención de cumplimiento de
 
-programas y compromisos $4,847.11 $4,847
+programas y compromisos $5,434.10 $5,434
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Reconsideraciones o
 
 revisiones de resoluciones
 
-específicas $580.92 $581
+específicas $651.27 $651
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por recepción, estudio o
 
@@ -5595,21 +6453,21 @@ que se presenten sobre la
 
 legislación aplicable en materia
 
-de inversión extranjera $486.43 $486
+de inversión extranjera $545.34 $545
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por la primera prórroga $486.43 $486
+a).- Por la primera prórroga $545.34 $545
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por la segunda y ulteriores
 
-prórrogas $973.03 $973
+prórrogas $1,090.86 $1,091
 
 X.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -5635,7 +6493,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 73-A.
 
@@ -5647,7 +6505,7 @@ uso de las marcas y contraseñas
 
 oficiales, se pagarán derechos
 
-conforme a la cuota de: $448.20 $448
+conforme a la cuota de: $502.48 $502
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5673,7 +6531,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 73-F.
 
@@ -5697,7 +6555,7 @@ de verificación, se pagará el
 
 derecho de normas conforme
 
-a la cuota de $472.22 $472
+a la cuota de $529.41 $529
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -5751,7 +6609,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Por el trámite y estudio de
 
@@ -5761,9 +6619,9 @@ como prestador del servicio
 
 de certificación para la emisión
 
-de certificados digitales $36,242.94 $36,243
+de certificados digitales $40,631.96 $40,632
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Por la acreditación como
 
@@ -5771,9 +6629,9 @@ prestador del servicio de
 
 certificación para la emisión
 
-de certificados digitales $173,671.88 $173,672
+de certificados digitales $194,703.54 $194,704
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Por el cese voluntario
 
@@ -5783,13 +6641,13 @@ de certificación para la
 
 emisión de certificados
 
-digitales $127,305.35 $127,305
+digitales $142,722.03 $142,722
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Por el trámite y estudio de
 
@@ -5807,9 +6665,9 @@ mensajes de datos u otros
 
 servicios adicionales relativos
 
-a la firma electrónica $18,218.45 $18,218
+a la firma electrónica $20,424.70 $20,425
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI. Por la acreditación de un
 
@@ -5825,7 +6683,7 @@ mensajes de datos u otros
 
 servicios adicionales relativos
 
-a la firma electrónica $111,860.19 $111,860
+a la firma electrónica $125,406.46 $125,406
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEPTIMA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -5951,7 +6809,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada certificado fitosanitario
 
@@ -5959,9 +6817,9 @@ para la movilización nacional de
 
 productos y subproductos vegetales
 
-sujetos a regulación fitosanitaria $75.01 $75
+sujetos a regulación fitosanitaria $84.09 $84
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada certificado zoosanitario
 
@@ -5971,9 +6829,9 @@ animales vivos, productos y
 
 subproductos animales, sujetos a
 
-regulación zoosanitaria $75.01 $75
+regulación zoosanitaria $84.09 $84
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por cada certificado fitosanitario
 
@@ -5981,9 +6839,9 @@ internacional para la exportación
 
 de vegetales, sus productos y
 
-subproductos $375.78 $376
+subproductos $421.29 $421
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por cada certificado zoosanitario
 
@@ -5997,9 +6855,9 @@ farmacéuticos, biológicos y
 
 alimenticios para uso en animales
 
-y consumo por éstos $375.78 $376
+y consumo por éstos $421.29 $421
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por cada certificado fitosanitario
 
@@ -6007,9 +6865,9 @@ internacional para la importación de
 
 vegetales, sus productos y
 
-subproductos $1,620.41 $1,620
+subproductos $1,816.64 $1,817
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por cada certificado zoosanitario
 
@@ -6023,9 +6881,9 @@ químicos, farmacéuticos, biológicos
 
 y alimenticios para uso en animales
 
-y consumo por éstos $1,620.41 $1,620
+y consumo por éstos $1,816.64 $1,817
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por cada certificación de la
 
@@ -6037,9 +6895,9 @@ Federal, cuando sea realizada
 
 por la Comisión Nacional de
 
-Sanidad Agropecuaria $14,789.93 $14,790
+Sanidad Agropecuaria $16,580.99 $16,581
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por la certificación
 
@@ -6061,7 +6919,7 @@ tratamiento cuarentenario,
 
 centros de acopio de granos y
 
-semillas regulados $726.66 $727
+semillas regulados $814.66 $815
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6089,13 +6947,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el dictamen técnico de
 
 efectividad biológica de plaguicidas
 
-agrícolas o pecuarios $1,816.72 $1,817
+agrícolas o pecuarios $2,036.72 $2,037
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -6115,31 +6973,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-I. Personas Físicas: Médico Veterinario Responsable o Tercero Especialista $626.38
+I. Personas Físicas: Médico
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+Veterinario Responsable o
 
-II.- Organismos de certificación $66,410.34 $66,410
+Tercero Especialista $626.38 $626
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+II.- Organismos de certificación $74,452.63 $74,453
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Unidades de verificación:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Personas físicas $626.38 $626
+a).- Personas físicas $702.23 $702
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Personas morales $5,072.12 $5,072
+b).- Personas morales $5,686.35 $5,686
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Laboratorios de pruebas $2,004.72 $2,005
+IV.- Laboratorios de pruebas $2,247.49 $2,247
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6149,11 +7013,27 @@ V. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 86-D
 
-1.- Por el estudio y análisis de la solicitud y, en su caso, la autorización para funcionar como laboratorio zoosanitario para diagnóstico o laboratorio zoosanitario de constatación, se pagarán derechos conforme a la cuota de $4,990.00
+1.- Por el estudio
+
+y análisis de la solicitud y, en
+
+su caso, la autorización para
+
+funcionar como laboratorio
+
+zoosanitario para diagnóstico
+
+o laboratorio zoosanitario de
+
+constatación, se pagarán derechos
+
+conforme a la cuota de $5,386.21 $5,386
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6165,13 +7045,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la expedición del formato
 
 de requisitos técnico-fitosanitarios
 
-para importación $250.49 $250
+para importación $280.82 $281
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -6183,7 +7063,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 86-G.
 
@@ -6205,7 +7087,7 @@ el derecho por inspección
 
 veterinaria oficial, conforme
 
-a la cuota de $983.53 $984
+a la cuota de $1,102.64 $1,103
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -6227,35 +7109,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio y trámite de la
 
 solicitud de protección de derechos
 
-del obtentor $11,778.37 $11,778
+del obtentor $13,204.73 $13,205
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de la
 
-constancia de presentación $626.38 $626
+constancia de presentación $702.23 $702
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la expedición del
 
-título del obtentor $5,763.76 $5,764
+título del obtentor $6,461.75 $6,462
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el reconocimiento
 
-del derecho de prioridad $626.38 $626
+del derecho de prioridad $702.23 $702
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Por cambio de denominación $1,591.25 $1,591
+V.- Por cambio de denominación $1,783.95 $1,784
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6267,29 +7149,33 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el registro de sucesión de
 
-los derechos de protección $1,113.70 $1,114
+los derechos de protección $1,248.57 $1,249
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada copia certificada del
 
-Título $318.07 $318
+Título $356.59 $357
 
-REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Por el registro de la transmisión total o parcial del derecho $585.00
+REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+III.- Por el registro de la transmisión
+
+total o parcial del derecho $631.45 $631
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Copia de la caracterización de
 
-la variedad protegida $318.11 $318
+la variedad protegida $356.63 $357
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la presentación de
 
@@ -6297,13 +7183,13 @@ correcciones e información
 
 adicional por causa imputable
 
-al usuario. $206.69 $207
+al usuario. $231.72 $232
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 89.
 
@@ -6317,7 +7203,7 @@ de cualquier especie, se pagará el
 
 derecho del obtentor, conforme a
 
-la cuota de: $2,458.04 $2,458
+la cuota de: $2,755.71 $2,756
 
 ###### ARTICULO 89-A.
 
@@ -6339,19 +7225,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la expedición de certificado
 
 de origen para exportación, por
 
-cada uno $276.98 $277
+cada uno $310.52 $311
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de certificados
 
-de calidad, por etiqueta $1.0892
+de calidad, por etiqueta $1.2211
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6359,17 +7245,17 @@ de calidad, por etiqueta $1.0892
 
 III.- Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Autorización $7,518.01 $7,518
+a).- Autorización $8,428.44 $8,428
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por refrendo anual $3,758.93 $3,759
+b).- Por refrendo anual $4,214.14 $4,214
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el estudio de la solicitud y,
 
@@ -6377,15 +7263,31 @@ en su caso, la inscripción en el
 
 catálogo de variedades factibles
 
-de certificación $230.98 $231
+de certificación $258.95 $259
 
-(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Por la expedición del certificado internacional de calidad de semilla, por etiqueta $3.00
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+V.- Por la expedición del
 
-VI.- Por la expedición de certificado internacional de calidad, para semilla finalmente no certificada $300.00
+certificado internacional de
+
+calidad de semilla,
+
+por etiqueta $3.24 $3
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Por la expedición
+
+de certificado internacional
+
+de calidad, para semilla
+
+finalmente no certificada $323.82 $324
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6401,51 +7303,159 @@ VI.- Por la expedición de certificado internacional de calidad, para semilla fi
 
 Por la expedición de cada certificado de sanidad acuícola, se pagará el derecho de certificación de sanidad acuícola, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Para importación de especies acuáticas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $1,700.00
+I. Para importación de especies
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+acuáticas, sus productos y
 
-II. Para exportación de especies acuáticas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $500.00
+subproductos, así como de
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+productos biológicos, químicos,
 
-III. Para tránsito internacional de especies acuáticas, sus productos y subproductos, así como productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $415.00
+farmacéuticos o alimenticios para
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+uso o consumo de
 
-IV. Para movilización de especies acuícolas vivas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $400.00
+dichas especies $1,834.98 $1,835
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V. Para establecimientos en operación en los que se produzcan, procesen, comercialicen, transporten y almacenen, productos y subproductos acuícolas, así como productos químicos, biológicos, farmacéuticos y alimenticios para el uso o consumo de dichas especies $2,200.00
+II. Para exportación de especies
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+acuáticas, sus productos y
 
-VI. Para uso y aplicación de antibióticos, medicamentos veterinarios, aditivos y demás sustancias químicas a los organismos de cultivo $970.00
+subproductos, así como de
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+productos biológicos, químicos,
 
-VII. Para introducción de especies acuícolas vivas a un cuerpo de agua de jurisdicción federal $400.00
+farmacéuticos o alimenticios para
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+uso o consumo de dichas
 
-VIII. Para instalaciones en las que se realicen actividades acuícolas $2,200.00
+especies $539.70 $540
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX. Para especies acuáticas vivas capturadas de poblaciones naturales que se destinen a la acuacultura $400.00
+III. Para tránsito internacional
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+de especies acuáticas, sus
 
-X. Para unidades de cuarentena $2,200.00
+productos y subproductos, así como
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+productos biológicos, químicos,
+
+farmacéuticos o alimenticios
+
+para uso o consumo de
+
+dichas especies $447.95 $448
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+IV. Para movilización de especies
+
+acuícolas vivas, sus productos y
+
+subproductos, así como de
+
+productos biológicos, químicos,
+
+farmacéuticos o alimenticios para
+
+uso o consumo de dichas
+
+especies $431.76 $432
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+V. Para establecimientos en
+
+operación en los que se produzcan,
+
+procesen, comercialicen, transporten
+
+y almacenen, productos y subproductos
+
+acuícolas, así como productos químicos,
+
+biológicos, farmacéuticos y alimenticios
+
+para el uso o consumo de dichas
+
+especies $2,374.68 $2,375
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+VI. Para uso y aplicación de
+
+antibióticos, medicamentos
+
+veterinarios, aditivos y demás
+
+sustancias químicas a los
+
+organismos de cultivo $1,047.02 $1,047
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+VII. Para introducción de especies
+
+acuícolas vivas a un cuerpo de
+
+agua de jurisdicción
+
+federal $431.76 $432
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+VIII. Para instalaciones en las que se
+
+realicen actividades
+
+acuícolas $2,374.68 $2,375
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+IX. Para especies acuáticas vivas
+
+capturadas de poblaciones naturales
+
+que se destinen a la
+
+acuacultura $431.76 $432
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+X. Para unidades de cuarentena $2,374.68 $2,375
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90-B.
 
-Por el estudio de la solicitud y, en su caso, la expedición del certificado de libre venta o de origen o de regulación vigente para empresas y productos regulados, para especies acuáticas, sus productos y subproductos, productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies, se pagarán derechos, por cada uno, conforme a la cuota de $400.00
+Por el estudio
+
+de la solicitud y, en su caso, la expedición
+
+del certificado de libre venta o de origen
+
+o de regulación vigente para empresas
+
+y productos regulados, para especies
+
+acuáticas, sus productos y subproductos,
+
+productos biológicos, químicos, farmacéuticos
+
+o alimenticios para uso o consumo de
+
+dichas especies, se pagarán derechos,
+
+por cada uno, conforme a la
+
+cuota de $431.76 $432
 
 ###### ARTICULO 90-C.
 
@@ -6473,21 +7483,57 @@ Por el estudio de la solicitud y, en su caso, la expedición del certificado de 
 
 Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $41,681.00
+I. Por el permiso de liberación
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+experimental al ambiente
 
-II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $41,681.00
+de organismos genéticamente
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+modificados, incluyendo
 
-III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $41,681.00
+su importación $44,990.47 $44,990
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota de $12,990.00
+II. Por el permiso de liberación
+
+al ambiente en programa
+
+piloto de organismos
+
+genéticamente modificados,
+
+incluyendo su
+
+importación $44,990.47 $44,990
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+III. Por el permiso de
+
+liberación comercial al
+
+ambiente de organismos
+
+genéticamente modificados,
+
+incluyendo su
+
+importación $44,990.47 $44,990
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+Tratándose de la solicitud de
+
+reconsideración de resolución
+
+negativa de cada permiso a que
+
+se refiere este artículo, se pagar
+
+la cuota de $14,021.41 $14,021
 
 ###### ARTICULO 90-G.
 
@@ -6511,7 +7557,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 91.
 
@@ -6531,7 +7577,7 @@ y asignatarios, se pagará el
 
 derecho de verificación, por cada
 
-visita, conforme a la cuota de $7,106.46 $7,106
+visita, conforme a la cuota de $7,967.05 $7,967
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -6555,31 +7601,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la documentación
 
 inherente a la solicitud para obtener
 
-uno o más títulos de concesión $26,664.98 $26,665
+uno o más títulos de concesión $29,894.11 $29,894
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición del título de
 
-concesión, por cada uno $19,172.99 $19,173
+concesión, por cada uno $21,494.84 $21,495
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el estudio de la solicitud de
 
-prórroga del título de concesión $10,949.14 $10,949
+prórroga del título de concesión $12,275.08 $12,275
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización de prórroga
 
-de concesión $8,605.61 $8,606
+de concesión $9,647.75 $9,648
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6591,7 +7637,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud
 
@@ -6599,27 +7645,27 @@ y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $30,344.94 $30,345
+a la misma $34,019.71 $34,020
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición del título
 
-de concesión $34,319.28 $34,319
+de concesión $38,475.34 $38,475
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el estudio de la solicitud
 
 de prórroga del título de
 
-concesión $21,441.77 $21,442
+concesión $24,038.37 $24,038
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización de
 
-prórroga de concesión $18,176.27 $18,176
+prórroga de concesión $20,377.42 $20,377
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -6631,13 +7677,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por el estudio $10,722.03 $10,722
+I.- Por el estudio $12,020.47 $12,020
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por la autorización $4,924.66 $4,925
+II.- Por la autorización $5,521.04 $5,521
 
 No pagarán este derecho las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para investigación.
 
@@ -6651,7 +7697,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud y
 
@@ -6659,25 +7705,25 @@ de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $25,102.64 $25,103
+a la misma $28,142.57 $28,143
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición del título de
 
-concesión $16,493.78 $16,494
+concesión $18,491.18 $18,491
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el estudio de la solicitud de
 
-prórroga del título de concesión $8,826.77 $8,827
+prórroga del título de concesión $9,895.69 $9,896
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización de prórroga
 
-de concesión $8,247.63 $8,248
+de concesión $9,246.42 $9,246
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6689,7 +7735,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud
 
@@ -6697,27 +7743,27 @@ y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $30,760.20 $30,760
+a la misma $34,485.26 $34,485
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición del título de
 
-Concesión $34,475.17 $34,475
+Concesión $38,650.11 $38,650
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el estudio de la solicitud
 
 de prórroga del título de
 
-concesión $18,176.27 $18,176
+concesión $20,377.42 $20,377
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización de prórroga
 
-de concesión $18,176.27 $18,176
+de concesión $20,377.42 $20,377
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6729,67 +7775,67 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $6,048.87 $6,049
+primeramente designados $6,781.39 $6,781
 
 II.- Por cambio en la titularidad de las concesiones:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $27,097.75 $27,098
+a).- Por el estudio $30,379.29 $30,379
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $10,048.64 $10,049
+b).- Por la autorización $11,265.53 $11,266
 
 III.- Por cambio en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $15,403.92 $15,404
+a).- Por el estudio $17,269.33 $17,269
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $6,849.17 $6,849
+b).- Por la autorización $7,678.60 $7,679
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IV.- Por el estudio y, en su caso, autorización para prestar un servicio adicional:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $11,496.44 $11,496
+a).- Por el estudio $12,888.66 $12,889
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $3,605.11 $3,605
+b).- Por la autorización $4,041.69 $4,042
 
 V.- Por ampliación al área de cobertura de la red:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio. $9,956.37 $9,956
+a).- Por el estudio. $11,162.09 $11,162
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización. $3,605.11 $3,605
+b).- Por la autorización. $4,041.69 $4,042
 
 VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio. $8,939.73 $8,940
+a).- Por el estudio. $10,022.33 $10,022
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización. $3,605.11 $3,605
+b).- Por la autorización. $4,041.69 $4,042
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por el estudio de prórrogas,
 
@@ -6801,31 +7847,31 @@ el título de concesión y, en su
 
 caso, por la autorización de las
 
-prórrogas. $2,730.06 $2,730
+prórrogas. $3,060.67 $3,061
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VIII.- Por cambio de razón social o cambio en la titularidad de acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $5,783.09 $5,783
+a).- Por el estudio $6,483.42 $6,483
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $1,845.27 $1,845
+b).- Por la autorización $2,068.73 $2,069
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IX.- Por el estudio y autorización de otras modificaciones de los títulos de concesión, no consideradas en las fracciones anteriores:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $8,735.32 $8,735
+a).- Por el estudio $9,793.17 $9,793
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $3,522.69 $3,523
+b).- Por la autorización $3,949.29 $3,949
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6837,7 +7883,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud
 
@@ -6845,23 +7891,23 @@ y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $17,400.63 $17,401
+a la misma $19,507.85 $19,508
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por la expedición del permiso $19,368.69 $19,369
+II.- Por la expedición del permiso $21,714.24 $21,714
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el estudio de la solicitud
 
-de prórroga del permiso $13,769.96 $13,770
+de prórroga del permiso $15,437.50 $15,438
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización de
 
-prórroga del permiso $11,537.83 $11,538
+prórroga del permiso $12,935.06 $12,935
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6873,51 +7919,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $7,730.57 $7,731
+primeramente designados $8,666.74 $8,667
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $13,582.69 $13,583
+a).- Por el estudio $15,227.55 $15,228
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $4,593.47 $4,593
+b).- Por la autorización $5,149.74 $5,150
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del permisionario:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $2,716.40 $2,716
+a).- Por el estudio $3,045.36 $3,045
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $919.61 $920
+b).- Por la autorización $1,030.97 $1,031
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por ampliación al área de cobertura de los servicios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $11,720.79 $11,721
+a).- Por el estudio $13,140.18 $13,140
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $5,394.98 $5,395
+b).- Por la autorización $6,048.31 $6,048
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por el estudio de prórrogas
 
@@ -6927,7 +7973,7 @@ obligaciones establecidas en el
 
 permiso y, en su caso, por la
 
-autorización de las prórrogas $1,606.25 $1,606
+autorización de las prórrogas $1,800.77 $1,801
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -6939,17 +7985,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la autorización de modificaciones
 
-que requieran estudio técnico $5,283.60 $5,284
+que requieran estudio técnico $5,923.44 $5,923
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la autorización de modificaciones
 
-que no requieran estudio técnico $1,883.66 $1,884
+que no requieran estudio técnico $2,111.77 $2,112
 
 ###### ARTICULO 100-A.
 
@@ -6965,17 +8011,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud y de
 
 la documentación técnica administrativa
 
-y legal inherente a la misma $10,825.04 $10,825
+y legal inherente a la misma $12,135.95 $12,136
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por la expedición del permiso $4,949.50 $4,949
+II.- Por la expedición del permiso $5,548.88 $5,549
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6987,51 +8033,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el registro de representantes o
 
 apoderados, después de los
 
-primeramente designados $4,621.77 $4,622
+primeramente designados $5,181.47 $5,181
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $13,582.69 $13,583
+a).- Por el estudio $15,227.55 $15,228
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $4,593.47 $4,593
+b).- Por la autorización $5,149.74 $5,150
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Por cambio en la escritura constitutiva del permisionario:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $3,648.08 $3,648
+a).- Por el estudio $4,089.86 $4,090
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $919.61 $920
+b).- Por la autorización $1,030.97 $1,031
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV. Por cambio en las características técnicas y de operación del permiso de la estación terrena transmisora:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $3,932.87 $3,933
+a).- Por el estudio $4,409.14 $4,409
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $1,600.49 $1,600
+b).- Por la autorización $1,794.31 $1,794
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Por el estudio de prórrogas solicitadas
 
@@ -7039,7 +8085,7 @@ para el cumplimiento de obligaciones
 
 establecidas en el permiso y, en su caso,
 
-por la autorización de las prórrogas. $1,606.25 $1,606
+por la autorización de las prórrogas. $1,800.77 $1,801
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7065,25 +8111,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud
 
-de asignación $4,736.33 $4,736
+de asignación $5,309.90 $5,310
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el otorgamiento del título
 
-de asignación $5,708.41 $5,708
+de asignación $6,399.70 $6,400
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la autorización de
 
 modificaciones o ampliaciones
 
-al título de asignación $3,380.79 $3,381
+al título de asignación $3,790.20 $3,790
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -7219,7 +8265,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 120.
 
@@ -7243,7 +8289,7 @@ entrada en vigor de la Ley Federal de
 
 Telecomunicaciones, se pagará la
 
-cuota de $7,620.79 $7,621
+cuota de $8,543.67 $8,544
 
 ###### ARTICULO 120-A.
 
@@ -7275,97 +8321,97 @@ ajuste ajuste
 
 I.- Modificación del sistema:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $13,989.55 $13,990
+a).- Por el estudio $15,683.68 $15,684
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $2,257.54 $2,258
+b).- Por la autorización $2,530.93 $2,531
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Generación de nuevos canales:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $3,223.29 $3,223
+a).- Por el estudio $3,613.63 $3,614
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $972.03 $972
+b).- Por la autorización $1,089.74 $1,090
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $3,504.17 $3,504
+a).- Por el estudio $3,928.52 $3,929
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $1,167.94 $1,168
+b).- Por la autorización $1,309.38 $1,309
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $1,868.64 $1,869
+primeramente designados $2,094.93 $2,095
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por cambio en la titularidad de las concesiones, traspasos, arrendamientos o cesión de derechos en los títulos de concesión:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $7,479.20 $7,479
+a).- Por el estudio $8,384.93 $8,385
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $807.91 $808
+b).- Por la autorización $905.75 $906
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $5,918.42 $5,918
+a).- Por el estudio $6,635.14 $6,635
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $1,888.44 $1,888
+b).- Por la autorización $2,117.13 $2,117
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Ampliación del sistema de otra población:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por el estudio $11,367.57 $11,368
+a).- Por el estudio $12,744.18 $12,744
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la autorización $3,471.47 $3,471
+b).- Por la autorización $3,891.87 $3,892
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por la autorización de prórroga de la concesión:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por el estudio de la solicitud de
 
-prórroga del título de concesión $14,017.64 $14,018
+prórroga del título de concesión $15,715.18 $15,715
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por la autorización de prórroga del
 
-título de concesión $4,672.48 $4,672
+título de concesión $5,238.32 $5,238
 
 ###### ARTICULO 123-A.
 
@@ -7409,23 +8455,23 @@ ajuste ajuste
 
 I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por el estudio de la solicitud y
 
 de la documentación inherente
 
-a la misma $5,011.96 $5,012
+a la misma $5,618.91 $5,619
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por expedición del título de
 
-concesión $9,344.93 $9,345
+concesión $10,476.60 $10,477
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por el estudio de la
 
@@ -7433,37 +8479,37 @@ documentación solicitada con
 
 motivo de la expedición del
 
-título de concesión $2,505.91 $2,506
+título de concesión $2,809.38 $2,809
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Equipo de transmisión principal
 
-o auxiliar $3,738.87 $3,739
+o auxiliar $4,191.65 $4,192
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Frecuencia $6,229.87 $6,230
+b).- Frecuencia $6,984.31 $6,984
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Potencia $6,229.87 $6,230
+c).- Potencia $6,984.31 $6,984
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d).- Ubicación de los estudios $1,557.36 $1,557
+d).- Ubicación de los estudios $1,745.96 $1,746
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- Ubicación de la planta
 
-transmisora $6,229.87 $6,230
+transmisora $6,984.31 $6,984
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- Para instalar y operar un equipo
 
@@ -7471,41 +8517,41 @@ complementario de zona de sombra
 
 de estaciones de radiodifusoras en
 
-FM $3,535.95 $3,536
+FM $3,964.15 $3,964
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- Horario de operación de estaciones
 
-de radio moduladas en amplitud $3,114.73 $3,115
+de radio moduladas en amplitud $3,491.92 $3,492
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- Por estudio de mediciones de
 
-intensidad de campo $54,529.56 $54,530
+intensidad de campo $61,133.09 $61,133
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-i).- Distintivo de llamada $1,557.19 $1,557
+i).- Distintivo de llamada $1,745.77 $1,746
 
 j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 k).- Escritura constitutiva de sociedades
 
-mercantiles $4,672.24 $4,672
+mercantiles $5,238.05 $5,238
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 l).- Representante o apoderado
 
 legal después del primeramente
 
-aceptado $1,868.64 $1,869
+aceptado $2,094.93 $2,095
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 m).- Titularidad de acciones o partes
 
@@ -7513,15 +8559,15 @@ sociales y de aportaciones integrantes
 
 del capital social de sociedades
 
-mercantiles $3,114.73 $3,115
+mercantiles $3,491.92 $3,492
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 n).- Titularidad de los derechos de
 
-concesión $3,114.73 $3,115
+concesión $3,491.92 $3,492
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el otorgamiento de prórroga
 
@@ -7533,9 +8579,9 @@ así como para cumplir con la
 
 documentación fijada en dichas
 
-autorizaciones $7,269.91 $7,270
+autorizaciones $8,150.30 $8,150
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el estudio y revisión del
 
@@ -7545,13 +8591,13 @@ cada estación que esté incluida
 
 en la concesión que se solicita
 
-refrendar $7,357.65 $7,358
+refrendar $8,248.66 $8,249
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la expedición del título del
 
-refrendo de la concesión $7,357.65 $7,358
+refrendo de la concesión $8,248.66 $8,249
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7563,17 +8609,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio técnico y legal
 
-de la solicitud $3,738.87 $3,739
+de la solicitud $4,191.65 $4,192
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de la
 
-Autorización $6,229.94 $6,230
+Autorización $6,984.39 $6,984
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -7589,91 +8635,91 @@ ajuste ajuste
 
 I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por el estudio de la solicitud y
 
 de la documentación inherente a
 
-la misma $5,011.96 $5,012
+la misma $5,618.91 $5,619
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por la expedición del título de
 
-concesión $7,357.65 $7,358
+concesión $8,248.66 $8,249
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por el estudio de la documentación
 
 solicitada con motivo de la expedición
 
-del título de concesión $2,505.91 $2,506
+del título de concesión $2,809.38 $2,809
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Cambio de equipo transmisor
 
-principal o auxiliar $7,009.30 $7,009
+principal o auxiliar $7,858.13 $7,858
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Cambio de canal $9,344.97 $9,345
+b).- Cambio de canal $10,476.65 $10,477
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Cambio de potencia radiada
 
-aparente $9,344.97 $9,345
+aparente $10,476.65 $10,477
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Cambio de ubicación de los
 
-estudios $2,336.04 $2,336
+estudios $2,618.93 $2,619
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- Cambio de ubicación de la
 
-planta transmisora $9,344.97 $9,345
+planta transmisora $10,476.65 $10,477
 
 f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- Por estudio de mediciones de
 
-intensidad de campo $54,529.56 $54,530
+intensidad de campo $61,133.09 $61,133
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-h).- Distintivo de llamada $2,335.95 $2,336
+h).- Distintivo de llamada $2,618.83 $2,619
 
 i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 j).- Escritura constitutiva de
 
-sociedades mercantiles $7,008.66 $7,009
+sociedades mercantiles $7,857.41 $7,857
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 k).- Representante o apoderado
 
 legal, después del primeramente
 
-aceptado $2,335.95 $2,336
+aceptado $2,618.83 $2,619
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 l).- Titularidad de acciones o partes
 
@@ -7681,15 +8727,15 @@ sociales y de aportaciones integrantes
 
 del capital social de sociedades
 
-mercantiles $4,672.24 $4,672
+mercantiles $5,238.05 $5,238
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 m).- Titularidad de los derechos
 
-de concesión $4,672.24 $4,672
+de concesión $5,238.05 $5,238
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el otorgamiento de prórroga
 
@@ -7699,9 +8745,9 @@ técnicas autorizadas, así como para
 
 cumplir con la documentación fijada en
 
-dichas autorizaciones $7,272.41 $7,272
+dichas autorizaciones $8,153.10 $8,153
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el estudio de cada solicitud y de
 
@@ -7715,9 +8761,9 @@ zona de sombra o un canal adicional
 
 para las transmisiones de la televisión
 
-digital terrestre $3,835.81 $3,836
+digital terrestre $4,300.33 $4,300
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la revisión del cumplimiento de
 
@@ -7725,13 +8771,13 @@ obligaciones por cada estación que esté
 
 incluida en la concesión que se pretende
 
-refrendar $9,089.32 $9,089
+refrendar $10,190.04 $10,190
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la expedición del título de
 
-refrendo de la concesión $9,089.32 $9,089
+refrendo de la concesión $10,190.04 $10,190
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7743,17 +8789,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio técnico y legal de
 
-la solicitud $3,738.87 $3,739
+la solicitud $4,191.65 $4,192
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de la
 
-autorización $4,906.69 $4,907
+autorización $5,500.89 $5,501
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7765,15 +8811,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el estudio de la solicitud y
 
 de la documentación inherente a
 
-la misma $4,954.29 $4,954
+la misma $5,554.25 $5,554
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el estudio de la solicitud y
 
@@ -7783,7 +8829,7 @@ misma, por modificación al
 
 circuito de enlace estudio-planta
 
-o control remoto $3,656.06 $3,656
+o control remoto $4,098.81 $4,099
 
 ###### ARTICULO 127.
 
@@ -7833,11 +8879,11 @@ o control remoto $3,656.06 $3,656
 
 Por el otorgamiento del permiso para la instalación y operación de estaciones de radiodifusión sonora y de televisión, se pagará el 50% de los derechos establecidos en los artículos 124 y 125 de esta Ley, según corresponda.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 131.
 
-Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones…..$638.23 $638
+Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones $660.44 $660
 
 ###### ARTICULO 132.
 
@@ -7897,27 +8943,27 @@ ajuste ajuste
 
 A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- De conmutadores hasta
 
-de 30 líneas $3,675.15 $3,675
+de 30 líneas $4,120.21 $4,120
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De equipo transreceptor de
 
 radioenlace de hasta 30 canales
 
-o 2 megabits por segundo (mbps) $5,495.23 $5,495
+o 2 megabits por segundo (mbps) $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De conmutadores de 31
 
-hasta 60 líneas $6,406.88 $6,407
+hasta 60 líneas $7,182.75 $7,183
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- De equipo transreceptor de
 
@@ -7925,15 +8971,15 @@ radioenlace de más de 30 y hasta
 
 60 canales o 2x2 megabits por
 
-segundo (mbps) $9,593.62 $9,594
+segundo (mbps) $10,755.41 $10,755
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- De conmutadores de 61
 
-hasta 120 líneas $11,873.51 $11,874
+hasta 120 líneas $13,311.39 $13,311
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- De equipo transreceptor de
 
@@ -7941,15 +8987,15 @@ radioenlace de más de 60 y hasta
 
 120 canales o 4x2 megabits por
 
-segundo (mbps) $17,803.18 $17,803
+segundo (mbps) $19.959.15 $19,959
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- De conmutadores de 121
 
-hasta 240 líneas $17,348.13 $17,348
+hasta 240 líneas $19,448.99 $19,449
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- De equipo transreceptor de
 
@@ -7957,191 +9003,191 @@ radioenlace de más de 120 y hasta
 
 240 canales u 8x2 megabits por
 
-segundo (mbps) $26,001.55 $26,002
+segundo (mbps) $29,150.34 $29,150
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- De conmutadores de
 
-más de 240 líneas $28,738.06 $28,738
+más de 240 líneas $32,218.24 $32,218
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- De equipo transreceptor de radio
 
 enlace de más de 240 canales o de más
 
-de 8x2 megabits por segundo (mbps) $43,096.78 $43,097
+de 8x2 megabits por segundo (mbps) $48,315.80 $48,316
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XI.- De centrales telefónicas públicas $51,525.87 $51,526
+XI.- De centrales telefónicas públicas $57,764.65 $57,766
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XII.- De centrales telefónicas
 
-privadas digitales $11,873.51 $11,874
+privadas digitales $13,311.39 $13,311
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- De estaciones terrenas
 
-transreceptoras maestras $28,738.06 $28,738
+transreceptoras maestras $32,218.24 $32,218
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIV.- De estaciones terrenas
 
-transreceptoras remotas $11,873.51 $11,874
+transreceptoras remotas $13,311.39 $13,311
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XV.- De estaciones terminales
 
-móviles terrestres por satélite $9,599.99 $9,600
+móviles terrestres por satélite $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XVI.- De equipo terminal satelital $5,495.23 $5,495
+XVI.- De equipo terminal satelital $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVII.- De ruteadores de baja y
 
-mediana capacidad $8,150.57 $8,151
+mediana capacidad $9,137.60 $9,138
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVIII.- De ruteadores de
 
-alta capacidad $28,738.06 $28,738
+alta capacidad $32,218.24 $32,218
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIX.- De conmutadores y multilíneas
 
-digitales de baja y mediana capacidad $8,150.57 $8,151
+digitales de baja y mediana capacidad $9,137.60 $9,138
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XX.- De conmutadores y multilíneas
 
-digitales de alta capacidad $28,738.06 $28,738
+digitales de alta capacidad $32,218.24 $32,218
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXI.- De multiplexores digitales
 
-de baja y mediana capacidad $11,793.95 $11,794
+de baja y mediana capacidad $13,222.20 $13,222
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXII.- De multiplexores digitales
 
-de alta capacidad $11,873.51 $11,874
+de alta capacidad $13,311.39 $13,311
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXIII.- De terminal de datos $9,599.99 $9,600
+XXIII.- De terminal de datos $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXIV.- De transreceptores de
 
-facsímiles y de facsímil-modem $5,495.23 $5,495
+facsímiles y de facsímil-modem $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXV.- De teléfonos analógicos
 
-alámbricos y accesorios telefónicos $5,495.23 $5,495
+alámbricos y accesorios telefónicos $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXVI.- De teléfonos inalámbricos,
 
 digitales, celulares y sistemas
 
-personales de comunicación $5,495.23 $5,495
+personales de comunicación $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXVII.- De módem $5,495.23 $5,495
+XXVII.- De módem $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXVIII.- De equipo de fibra óptica $17,803.18 $17,803
+XXVIII.- De equipo de fibra óptica $19,959.15 $19,959
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXIX.- De centrales celulares $13,031.34 $13,031
+XXIX.- De centrales celulares $14,609.44 $14,609
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXX.- De estación base celular $9,599.99 $9,600
+XXX.- De estación base celular $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXXI.- De equipo transreceptor
 
-monocanal base $9,599.99 $9,600
+monocanal base $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXXII.- De equipo transreceptor
 
-monocanal móvil $5,495.23 $5,495
+monocanal móvil $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXXIII.- De equipo transreceptor
 
-monocanal portátil $2,337.08 $2,337
+monocanal portátil $2,620.10 $2,620
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXXIV.- De equipo repetidor fijo $9,599.99 $9,600
+XXXIV.- De equipo repetidor fijo $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXXV.- De equipo receptor terminal $5,495.23 $5,495
+XXXV.- De equipo receptor terminal $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXXVI.- De equipo transmisor terminal $5,495.23 $5,495
+XXXVI.- De equipo transmisor terminal $6,160.70 $6,161
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXXVII.- De equipo de
 
 radiocomunicación que emplea
 
-la técnica de espectro disperso $5,649.54 $5,650
+la técnica de espectro disperso $6,333.70 $6,334
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXXVIII.- De equipo conmutador
 
 telefónico privado con acceso
 
-inalámbrico $9,599.99 $9,600
+inalámbrico $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXXIX.- De equipos multilíneas $9,599.99 $9,600
+XXXIX.- De equipos multilíneas $10,762.55 $10,763
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XL.- Otros equipos no contemplados
 
-en este apartado $4,863.58 $4,864
+en este apartado $5,452.56 $5,453
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Por la expedición de un certificado de homologación definitivo, con antecedentes de homologación y el solicitante presente pruebas fehacientes del funcionamiento del equipo, estipulado en el proceso de homologación vigente, avaladas por dos peritos en telecomunicaciones o por un laboratorio autorizado por la autoridad competente, se pagará el equivalente al 50% de las cuotas establecidas según el producto a homologar establecido en este apartado.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Por la primera o segunda renovación
 
@@ -8153,9 +9199,9 @@ modificado las características técnicas
 
 y operativas autorizadas, se pagará la
 
-cuota de: $2,306.08 $2,306
+cuota de: $2,585.35 $2,585
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Por la expedición de una ampliación a un
 
@@ -8165,7 +9211,7 @@ definitivo, cuando el equipo no cambie de
 
 normatividad y se trate del mismo equipo
 
-homologado, se pagará la cuota de: $2,306.08 $2,306
+homologado, se pagará la cuota de: $2,585.35 $2,585
 
 ###### ARTICULO 139.
 
@@ -8199,17 +9245,17 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Expedición $1,131.14 $1,131
+a).- Expedición $1,268.12 $1,268
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Revalidación $579.04 $579
+b).- Revalidación $649.16 $649
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Modificaciones $579.04 $579
+c).- Modificaciones $649.16 $649
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -8221,19 +9267,19 @@ a).- Expedición:
 
 1.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- Permiso para operar estaciones
 
-de servicio de aficionados $1,131.14 $1,131
+de servicio de aficionados $1,268.12 $1,268
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- Permiso para instalar y operar
 
 estaciones repetidoras del servicio
 
-de aficionados $1,131.14 $1,131
+de aficionados $1,268.12 $1,268
 
 b).- Revalidación:
 
@@ -8241,41 +9287,41 @@ b).- Revalidación:
 
 1. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2. Permiso para operar estaciones
 
-del servicio de aficionados $579.04 $579
+del servicio de aficionados $649.16 $649
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3. Permiso para instalar y operar
 
 estaciones repetidoras del servicio
 
-de aficionados $579.04 $579
+de aficionados $649.16 $649
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Modificaciones $579.04 $579
+c).- Modificaciones $649.16 $649
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 V.- Constancia de registro de profesional técnico responsable y de radioperadores (sic) de estaciones radioeléctricas civiles:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Expedición $1,366.60 $1,367
+a).- Expedición $1,532.10 $1,532
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Revalidación $696.78 $697
+b).- Revalidación $781.16 $781
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Responsiva, por cada estación
 
-o red pública $696.78 $697
+o red pública $781.16 $781
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8291,27 +9337,27 @@ ajuste ajuste
 
 I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Radiodifusión $6,378.22 $6,378
+a).- Radiodifusión $7,150.62 $7,151
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Servicios privados por cada
 
-transreceptor fijo $1,163.57 $1,164
+transreceptor fijo $1,304.48 $1,304
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Servicios privados por cada
 
-transreceptor móvil $387.61 $388
+transreceptor móvil $434.55 $435
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Medición de los parámetros técnicos
 
-de la señal de televisión $7,758.79 $7,759
+de la señal de televisión $8,698.38 $8,698
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -8375,7 +9421,7 @@ A. Por los servicios relacionados con la expedición de:
 
 I.- Permisos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Para la operación y explotación
 
@@ -8423,7 +9469,9 @@ carga y pasaje en sus diversas modalidades;
 
 para operar servicios transfronterizos de
 
-turismo, por permiso. $475.40 $475
+turismo, por permiso. $532.97 $533
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8431,7 +9479,7 @@ turismo, por permiso. $475.40 $475
 
 Cuando los permisos a que se refiere el presente inciso sean solicitados a través de medios electrónicos, por permiso $173.00
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Para la construcción, operación
 
@@ -8439,39 +9487,39 @@ y explotación de terminales de
 
 pasajeros del autotransporte federal,
 
-por permiso. $1,510.18 $1,510
+por permiso. $1,693.06 $1,693
 
 II.- Autorizaciones:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Para la cesión de derechos y
 
 obligaciones establecidos en los
 
-permisos, por trámite. $1,590.60 $1,591
+permisos, por trámite. $1,783.22 $1,783
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Para el traslado de mancuernas,
 
 tricuernas, cuatricuernas y
 
-pentacuernas, por permiso. $1,402.57 $1,403
+pentacuernas, por permiso. $1,572.42 $1,572
 
 c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1.- Central. $9,128.52 $9,129
+1.- Central. $10,233.98 $10,234
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2.- Individual. $1,627.26 $1,627
+2.- Individual. $1,824.32 $1,824
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Expedición o reposición de
 
@@ -8485,17 +9533,17 @@ diversas modalidades, servicios
 
 auxiliares y de arrendamiento, por
 
-placa. $650.43 $650
+placa. $729.20 $729
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Expedición de calcomanía
 
 de identificación vehicular, por
 
-calcomanía. $105.26 $105
+calcomanía. $118.01 $118
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Expedición o revalidación de la
 
@@ -8509,17 +9557,17 @@ en sus diversas modalidades,
 
 servicios auxiliares y de arrendamiento,
 
-por tarjeta. $377.25 $377
+por tarjeta. $422.93 $423
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Por la modificación o reposición
 
-de la tarjeta de circulación, por tarjeta. $151.37 $151
+de la tarjeta de circulación, por tarjeta. $169.70 $170
 
 B. Canje de placas metálicas y calcomanías de identificación:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Canje de placas metálicas y
 
@@ -8531,9 +9579,9 @@ carga, pasajeros, turismo, servicios
 
 auxiliares, arrendamiento y traslado,
 
-por vehículo. $1,326.89 $1,327
+por vehículo. $1,487.58 $1,488
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Canje de placa metálica y
 
@@ -8541,47 +9589,65 @@ calcomanía de identificación para
 
 remolque y semirremolque, por
 
-vehículo. $661.08 $661
+vehículo. $741.14 $741
 
 C. Licencias para conducir:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Expedición. $334.68 $335
+a).- Expedición. $375.21 $375
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Expedición de categoría
 
-adicional de licencia. $106.44 $106
+adicional de licencia. $119.33 $119
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d).- Renovación. $202.23 $202
+d).- Renovación. $226.72 $227
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e).- Duplicado. $202.23 $202
+e).- Duplicado. $226.72 $227
 
 Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
 
 D. Servicios diversos:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-I. Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares, por unidad; alta de vehículo automotor, remolque o semirremolque y automóvil para uso particular en el registro de arrendamiento, por vehículo $488.42
+I. Alta de vehículo automotor, remolque
+
+o semirremolque en el permiso de
+
+los servicios de autotransporte federal
+
+y servicios auxiliares, por unidad;
+
+alta de vehículo automotor, remolque
+
+o semirremolque y automóvil para uso
+
+particular en el registro de arrendamiento,
+
+por vehículo $547.57 $548
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo o unidad $177.00
 
 II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Suscripción de convenio anual
 
@@ -8593,25 +9659,25 @@ las empresas fabricantes y
 
 distribuidoras de vehículos nuevos y
 
-empresas trasladistas, por convenio. $106.44 $106
+empresas trasladistas, por convenio. $119.33 $119
 
 IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por el pago de la renta mensual
 
-de placas de traslado, por vehículo. $529.81 $530
+de placas de traslado, por vehículo. $593.97 $594
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Expedición o reposición de placa
 
 metálica de identificación de traslado,
 
-por vehículo. $643.33 $643
+por vehículo. $721.24 $721
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por el otorgamiento de cada
 
@@ -8623,7 +9689,7 @@ entregue a los centros de verificación
 
 de emisiones contaminantes de los
 
-vehículos de pasaje y carga. $11.82 $12
+vehículos de pasaje y carga. $13.25 $13
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8633,7 +9699,7 @@ VI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 VII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por el estudio y, en su caso,
 
@@ -8641,7 +9707,7 @@ aprobación de la instalación de
 
 unidades de verificación o laboratorios
 
-de prueba, por unidad. $904.69 $905
+de prueba, por unidad. $1,014.25 $1,014
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -8653,37 +9719,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Expedición de permiso para
 
-transporte privado, por permiso. $1,354.08 $1,354
+transporte privado, por permiso. $1,518.06 $1,518
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Expedición de la tarjeta de
 
 circulación para el transporte
 
-privado, por tarjeta. $793.53 $794
+privado, por tarjeta. $889.63 $890
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Reposición o modificación de la
 
 tarjeta de circulación para el transporte
 
-privado, por tarjeta. $242.44 $242
+privado, por tarjeta. $271.80 $272
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Revalidación de la tarjeta de
 
 circulación para el transporte privado,
 
-por tarjeta. $650.43 $650
+por tarjeta. $729.20 $729
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Alta de vehículo automotor,
 
@@ -8691,7 +9757,9 @@ remolque o semirremolque en el
 
 permiso de transporte privado de
 
-personas o carga, por vehículo. $488.42 $488
+personas o carga, por vehículo. $547.57 $548
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8699,15 +9767,15 @@ personas o carga, por vehículo. $488.42 $488
 
 Cuando los permisos a que se refiere la presente fracción sean solicitados a través de medios electrónicos, por vehículo $177.00
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Permiso para el transporte de
 
 materiales peligrosos y sus residuos,
 
-por permiso. $1,477.07 $1,477
+por permiso. $1,655.94 $1,656
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Permiso especial por un año
 
@@ -8715,9 +9783,9 @@ para el tránsito de grúas industriales
 
 del servicio privado, por vehículo, por
 
-permiso. $475.40 $475
+permiso. $532.97 $533
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Permiso por un solo viaje para
 
@@ -8727,7 +9795,7 @@ de objetos voluminosos o de gran
 
 peso, con exceso de peso o dimensión,
 
-por permiso. $452.94 $453
+por permiso. $507.79 $508
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -8755,7 +9823,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por extensión de horario de los
 
@@ -8763,9 +9831,9 @@ servicios de control de tránsito aéreo,
 
 por cada minuto o fracción, conforme
 
-a la cuota de $9.97 $10
+a la cuota de $11.18 $11
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por extensión de horario de los
 
@@ -8773,7 +9841,7 @@ servicios de información de vuelo,
 
 por cada minuto o fracción,
 
-conforme a la cuota de $9.97 $10
+conforme a la cuota de $11.18 $11
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -8841,17 +9909,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada concesión de
 
-Aeropuertos $25,060.41 $25,060
+Aeropuertos $28,095.23 $28,095
 
-a).- Por su modificación $3,132.46 $3,132
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+a).- Por su modificación $3,511.80 $3,512
 
 II.- Por cada permiso de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Construcción de aeródromos de
 
@@ -8867,9 +9937,9 @@ privado; helipuertos de servicio
 
 privado con contrato con terceros o
 
-hidroaeródromos $6,265.00 $6,265
+hidroaeródromos $7,023.69 $7,024
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Explotación de aeródromos de
 
@@ -8885,9 +9955,9 @@ privado; helipuertos de servicio
 
 privado con contrato con terceros o
 
-hidroaeródromos $6,265.00 $6,265
+hidroaeródromos $7,023.69 $7,024
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Ampliación o remodelación de la
 
@@ -8905,49 +9975,49 @@ de servicio privado; helipuertos de
 
 servicio privado con contrato con
 
-terceros o hidroaeródromos $6,265.00 $6,265
+terceros o hidroaeródromos $7,023.69 $7,024
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por la modificación de los permisos
 
-a que se refiere esta fracción $3,132.46 $3,132
+a que se refiere esta fracción $3,511.80 $3,512
 
 III.- Por cada permiso de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Construcción y explotación de
 
-aeródromos de servicio comunitario $626.38 $626
+aeródromos de servicio comunitario $702.23 $702
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Modificación a los aeródromos
 
-de servicio comunitario $250.49 $250
+de servicio comunitario $280.82 $281
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De uso privado $3,132.46 $3,132
+a).- De uso privado $3,511.80 $3,512
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De uso público $12,530.14 $12,530
+b).- De uso público $14,047.54 $14,048
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Para aviones agrícolas 1,252.90 $1,253
+c).- Para aviones agrícolas 1,404.63 $1,405
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Para aerostatos, aviones
 
-ultraligeros u otros análogos $1,252.90 $1,253
+ultraligeros u otros análogos $1,404.63 $1,405
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la autorización de extensión de
 
@@ -8957,7 +10027,7 @@ cada media hora o fracción con
 
 tolerancia de cinco minutos posteriores
 
-a la media hora $375.78 $376
+a la media hora $421.29 $421
 
 Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
@@ -8987,19 +10057,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por verificación mayor o verificación
 
 a las condiciones de concesiones
 
-y permisos $5,024.29 $5,024
+y permisos $5,632.73 $5,633
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por verificación menor $1,002.29 $1,002
+II.- Por verificación menor $1,123.67 $1,124
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la certificación a las
 
@@ -9007,9 +10077,9 @@ verificaciones efectuadas por las
 
 unidades de verificación
 
-establecidas por terceros $5,011.96 $5,012
+establecidas por terceros $5,618.91 $5,619
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por verificación menor a los
 
@@ -9029,7 +10099,7 @@ concesionarios y permisionarios en
 
 especial a las aeronaves, sus partes
 
-y refacciones $318.13 $318
+y refacciones $356.66 $357
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9041,7 +10111,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 156.
 
@@ -9059,7 +10129,7 @@ determinación de sitio y certificación
 
 periódica o especial se pagarán
 
-derechos conforme a la cuota de $70,420.01 $70,420
+derechos conforme a la cuota de $78,947.87 $78,948
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9077,27 +10147,27 @@ ajuste ajuste
 
 I.- Por la expedición de la capacidad y licencia o permiso para:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Personal de vuelo $1,002.29 $1,002
+a).- Personal de vuelo $1,123.67 $1,124
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Personal de tierra $751.68 $752
+b).- Personal de tierra $842.71 $843
 
 II.- Por la revalidación de licencia al:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Personal de vuelo $501.04 $501
+a).- Personal de vuelo $561.72 $562
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Personal de tierra $375.78 $376
+b).- Personal de tierra $421.29 $421
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Por reposición de la licencia $375.78 $376
+III.- Por reposición de la licencia $421.29 $421
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9117,25 +10187,25 @@ ajuste ajuste
 
 I.- Por la expedición de los siguientes certificados:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De aeronavegabilidad $1,252.90 $1,253
+a).- De aeronavegabilidad $1,404.63 $1,405
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De matrícula $1,252.90 $1,253
+b).- De matrícula $1,404.63 $1,405
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De aeronavegabilidad o matrículas
 
-de aeronaves agrícolas $751.68 $752
+de aeronaves agrícolas $842.71 $843
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De aeronavegabilidad o matrícula
 
@@ -9145,33 +10215,33 @@ u otros análogos, cuando operen fuera
 
 de las áreas geográficas autorizadas
 
-a sus clubes $751.68 $752
+a sus clubes $842.71 $843
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de certificados de
 
-homologación por emisión de ruido $751.68 $752
+homologación por emisión de ruido $842.71 $843
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la renovación o reposición
 
 del certificado de aeronavegabilidad
 
-o matrícula $1,252.90 $1,253
+o matrícula $1,404.63 $1,405
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la asignación de marcas de
 
 nacionalidad y matrícula con siglas
 
-especiales $16,398.64 $16,399
+especiales $18,384.52 $18,385
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9187,13 +10257,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Concesión $25,060.41 $25,060
+I.- Concesión $28,095.23 $28,095
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Permiso $12,530.14 $12,530
+II.- Permiso $14,047.54 $14,048
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9201,21 +10271,21 @@ II.- Permiso $12,530.14 $12,530
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo, así como aquellos que son parte de la Secretaría de Comunicaciones y Transportes.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Autorización $626.38 $626
+III.- Autorización $702.23 $702
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Permiso de aeronaves para
 
-uso agrícola $6,265.00 $6,265
+uso agrícola $7,023.69 $7,024
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Autorización de clubes aéreos
 
-y de aeromodelismo $1,252.90 $1,253
+y de aeromodelismo $1,404.63 $1,405
 
 Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
@@ -9223,7 +10293,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 160.
 
@@ -9233,13 +10303,15 @@ de cada certificado de aprobación
 
 tipo, se pagarán derechos conforme
 
-a la cuota de $1,252.90 $1,253
+a la cuota de $1,404.63 $1,405
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Por el otorgamiento de autorización
 
 de vuelos de traslado, se pagarán
 
-derechos conforme a la cuota de $751.68 $752
+derechos conforme a la cuota de $842.71 $843
 
 por cada vuelo.
 
@@ -9251,13 +10323,21 @@ por cada vuelo.
 
 Por los servicios relacionados con los exámenes de conocimientos de aviación civil, para los permisos de formación o capacitación, así como para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Por el examen para el permiso de formación o capacitación, por cada uno $700.00
+I. Por el examen para el permiso de formación
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+o capacitación, por cada uno $784.77 $785
 
-II. Por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, por cada uno $1,550.00
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+II. Por los exámenes para la obtención,
+
+convalidación y recuperación de licencias y
+
+certificados de capacidad,
+
+por cada uno $1,737.71 $1,738
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9267,13 +10347,23 @@ No se pagarán los derechos a que se refiere este artículo cuando los servicios
 
 #### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 162.
 
-Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de $349.93
+Por la expedición de
+
+certificados de inscripción y no
+
+inscripción en el Registro Público
+
+Marítimo Nacional se pagará
+
+la cuota de $392.31 $392
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9299,41 +10389,41 @@ ajuste ajuste
 
 I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta de 50 toneladas $474.11 $474
+a).- Hasta de 50 toneladas $531.52 $532
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De más de 50 hasta 500 toneladas $948.60 $949
+b).- De más de 50 hasta 500 toneladas $1,063.48 $1,063
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 500 hasta
 
-5,000 toneladas $1,660.40 $1,660
+5,000 toneladas $1,861.47 $1,861
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 5,000 hasta
 
-15,000 toneladas $2,372.25 $2,372
+15,000 toneladas $2,659.53 $2,660
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De 15,000.01 hasta
 
-25,000.00 toneladas $5,931.06 $5,931
+25,000.00 toneladas $6,649.31 $6,649
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De 25,000.01 hasta
 
-50,000.00 toneladas $8,303.49 $8,303
+50,000.00 toneladas $9,309.04 $9,309
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-g).- De más 50,000.01 toneladas $9,489.83 $9,490
+g).- De más 50,000.01 toneladas $10,639.05 $10,639
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -9341,127 +10431,129 @@ II.- Por la expedición, revalidación o reposición del certificado de matrícu
 
 a).- Tratándose de embarcaciones para tráfico de recreo:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $474.11 $474
+de arqueo $531.52 $532
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $712.09 $712
+brutas de arqueo $798.32 $798
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $948.31 $948
+brutas de arqueo $1,063.15 $1,063
 
 b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $236.07 $236
+de arqueo $264.66 $265
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $356.00
+brutas de arqueo $399.11 $399
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $474.11 $474
+brutas de arqueo $531.52 $532
 
 c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $356.00
+de arqueo $399.11 $399
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $474.11 $474
+brutas de arqueo $531.52 $532
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $712.09 $712
+brutas de arqueo $798.32 $798
 
 d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $350.55 $351
+de arqueo $393.00 $393
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $584.93 $585
+brutas de arqueo $655.77 $656
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $819.30 $819
+brutas de arqueo $918.52 $919
 
 e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- De 20.01 hasta 100 toneladas
 
-brutas de arqueo $964.09 $964
+brutas de arqueo $1,080.84 $1,081
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De 100.01 hasta 500 toneladas
 
-brutas de arqueo $1,147.03 $1,147
+brutas de arqueo $1,285.94 $1,286
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De 500.01 hasta 5,000 toneladas
 
-brutas de arqueo $1,328.41 $1,328
+brutas de arqueo $1,489.28 $1,489
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 4.- De 5,000.01 hasta 15,000 toneladas
 
-brutas de arqueo $1,580.59 $1,581
+brutas de arqueo $1,772.00 $1,772
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 5.- De 15,000.01 hasta 25,000
 
-toneladas brutas de arqueo $4,393.10 $4,393
+toneladas brutas de arqueo $4,925.10 $4,925
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 6.- De 25,000.01 hasta 50,000
 
-toneladas brutas de arqueo $6,150.02 $6,150
+toneladas brutas de arqueo $6,894.79 $6,895
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 7.- De más de 50,000.01 toneladas
 
-brutas de arqueo $7,029.42 $7,029
+brutas de arqueo $7,880.68 $7,881
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011, PARA QUEDAR DE LA SIGUIENTE FORMA “Para el caso de las embarcaciones de hasta 10 metros de eslora sin cubierta corrida, destinadas a la pesca ribereña, se pagará la cuota de $89.15 $89."</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9469,105 +10561,105 @@ f). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta 500 toneladas $6.9011
+a).- Hasta 500 toneladas $7.7368
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De 500.01 hasta 1,000 toneladas $5.7057
+b).- De 500.01 hasta 1,000 toneladas $6.3967
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De 1,000.01 hasta 5,000 toneladas $4.7407
+c).- De 1,000.01 hasta 5,000 toneladas $5.3148
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De 5,000.01 hasta 15,000
 
-toneladas $3.5541
+toneladas $3.9845
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e).- De 15,000.01 en adelante $2.3674
+e).- De 15,000.01 en adelante $2.6541
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta de 5 toneladas $94.54 $95
+a).- Hasta de 5 toneladas $105.99 $106
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 5 hasta 10
 
-toneladas $165.72 $166
+toneladas $185.79 $186
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 10 hasta 20
 
-toneladas $236.83 $237
+toneladas $265.51 $266
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De 20.01 hasta 100.00
 
-toneladas $592.78 $593
+toneladas $664.57 $665
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De 100.01 hasta 500.00
 
-toneladas $711.38 $711
+toneladas $797.53 $798
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De 500.01 hasta 1,000.00
 
-toneladas $948.60 $949
+toneladas $1,063.48 $1,063
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- De 1,000.01 hasta 5,000.00
 
-toneladas $1,660.40 $1,660
+toneladas $1,861.47 $1,861
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- De 5,000.01 hasta 15,000.00
 
-toneladas $2,134.86 $2,135
+toneladas $2,393.39 $2,393
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 i).- De 15,000.01 hasta 25,000.00
 
-toneladas $2,846.69 $2,847
+toneladas $3,191.42 $3,191
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 j).- De 25,000.01 hasta 50,000.00
 
-toneladas $3,558.47 $3,558
+toneladas $3,989.40 $3,989
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 k).- De más de 50,000.01
 
-toneladas $4,744.74 $4,745
+toneladas $5,319.33 $5,319
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por la revisión de los cálculos de arqueo y de la marca de máxima carga o francobordo:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Hasta 1,000 toneladas brutas
 
-de arqueo $2.2448
+de arqueo $2.5166
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 1,000 hasta 5,000
 
@@ -9577,9 +10669,9 @@ la cuota señalada en el inciso
 
 anterior, y por cada una o fracción
 
-de las excedentes $1.3443
+de las excedentes $1.5071
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 5,000 hasta 15,000
 
@@ -9589,9 +10681,9 @@ la cuota señalada en el inciso anterior
 
 y por cada una o fracción de las
 
-excedentes $1.1187
+excedentes $1.2542
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 15,000 toneladas, por
 
@@ -9599,35 +10691,35 @@ las primeras 15,000, la cuota señalada
 
 en el inciso anterior y por cada una o
 
-fracción de las excedentes $0.8940
+fracción de las excedentes $1.0023
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VI.- Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por tonelada bruta o fracción de registro internacional:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta 500 toneladas $25.81 $26
+a).- Hasta 500 toneladas $28.94 $29
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De 500.01 hasta 1,000 toneladas $21.40 $21
+b).- De 500.01 hasta 1,000 toneladas $23.99 $24
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De 1,000.01 hasta 5,000 toneladas $17.95 $18
+c).- De 1,000.01 hasta 5,000 toneladas $20.12 $20
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De 5,000.01 hasta 15,000
 
-toneladas $13.47 $13
+toneladas $15.10 $15
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e).- De 15,000.01 en adelante $8.96 $9
+e).- De 15,000.01 en adelante $10.05 $10
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por la expedición del permiso
 
@@ -9635,7 +10727,7 @@ especial para tráfico de pasaje-ros (sic),
 
 a partir de 2 toneladas por tonelada
 
-bruta de arqueo o fracción $6.07 $6
+bruta de arqueo o fracción $6.81 $7
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9645,7 +10737,7 @@ VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Por la expedición de autorización
 
@@ -9653,21 +10745,21 @@ para la extracción, remoción o
 
 reflotación de embarcaciones,
 
-aeronaves o artefactos navales $3,635.14 $3,635
+aeronaves o artefactos navales $4,075.36 $4,075
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XII.- Por la autorización para el
 
 desguace de embarcaciones o
 
-artefactos navales $5,054.42 $5,054
+artefactos navales $5,666.51 $5,667
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- Por autorizar el embarque de
 
@@ -9677,7 +10769,7 @@ mexicanas y, en su caso, por la
 
 renovación de autorización, por cada
 
-técnico $840.11 $840
+técnico $941.85 $942
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9709,7 +10801,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Concesión de bienes sujetos al
 
@@ -9723,9 +10815,9 @@ a la construcción, operación y
 
 explotación de terminales marinas
 
-e instalaciones portuarias $42,978.34 $42,978
+e instalaciones portuarias $48,183.02 $48,183
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Permiso para la prestación de
 
@@ -9737,13 +10829,13 @@ atracaderos, botaderos y demás
 
 similares en las vías generales de
 
-comunicación por agua $10,916.96 $10,917
+comunicación por agua $12,239.00 $12,239
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Autorización para la construcción
 
-de obras marítimas y de dragado $34,244.78 $34,245
+de obras marítimas y de dragado $38,391.82 $38,392
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9777,7 +10869,7 @@ ajuste ajuste
 
 I.- Cruceros turísticos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Embarcaciones menores de
 
@@ -9785,73 +10877,73 @@ pasajeros equipadas para brindar
 
 servicios de pernocta, descanso y
 
-recreativos a bordo y en puerto $12,163.51 $12,164
+recreativos a bordo y en puerto $13,636.51 $13,637
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Embarcaciones de 500 hasta
 
-1,000 unidades de arqueo bruto $25,432.79 $25,433
+1,000 unidades de arqueo bruto $28,512.70 $28,513
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Embarcaciones de 1,000.01
 
 hasta 5,000.00 unidades de
 
-arqueo bruto $33,726.76 $33,727
+arqueo bruto $37,811.07 $37,811
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Embarcaciones de más de
 
-5,000.01 unidades de arqueo bruto $39,255.63 $39,256
+5,000.01 unidades de arqueo bruto $44,009.49 $44,009
 
 II.- Transporte de pasajeros:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Embarcaciones cuya capacidad sea
 
-hasta 3.5 unidades de arqueo bruto $540.56 $541
+hasta 3.5 unidades de arqueo bruto $606.02 $606
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de
 
-arqueo bruto $1,081.13 $1,081
+arqueo bruto $1,212.05 $1,212
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $2,162.27 $2,162
+unidades de arqueo bruto $2,424.12 $2,424
 
 III.- Turismo náutico:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Embarcaciones cuya capacidad
 
 sea hasta 3.5 unidades de arqueo
 
-bruto $1,105.76 $1,106
+bruto $1,239.67 $1,240
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de
 
-arqueo bruto $2,211.53 $2,212
+arqueo bruto $2,479.35 $2,479
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $3,869.55 $3,870
+unidades de arqueo bruto $4,338.15 $4,338
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9861,7 +10953,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 168-C.
 
@@ -9875,7 +10967,7 @@ que se incluyan hasta cinco
 
 embarcaciones, se pagará la cuota
 
-anual de $2,402.09 $2,402
+anual de $2,692.98 $2,693
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -9899,65 +10991,65 @@ ajuste ajuste
 
 I.- Por reconocimiento:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta 10 toneladas $63.71 $64
+a).- Hasta 10 toneladas $71.43 $71
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 10 y hasta 20
 
-toneladas $127.53 $128
+toneladas $142.97 $143
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 20 y hasta 50
 
-toneladas $510.59 $511
+toneladas $572.42 $572
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 50 y hasta 75
 
-toneladas $1,595.73 $1,596
+toneladas $1,788.97 $1,789
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De más de 75 y hasta 100
 
-toneladas $1,914.95 $1,915
+toneladas $2,146.85 $2,147
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De más de 100 y hasta 200
 
-toneladas $2,872.48 $2,872
+toneladas $3,220.34 $3,220
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- De más de 200 y hasta 300
 
-toneladas $3,510.80 $3,511
+toneladas $3,935.96 $3,936
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- De más de 300 y hasta 500
 
-toneladas $5,106.68 $5,107
+toneladas $5,725.10 $5,725
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 i).- De más de 500 y hasta 1,000
 
-toneladas $7,021.74 $7,022
+toneladas $7,872.07 $7,872
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 j).- De más de 1,000 y hasta 2,000
 
-toneladas $8,298.45 $8,298
+toneladas $9,303.39 $9,303
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 k).- De más de 2,000 toneladas brutas
 
@@ -9967,7 +11059,7 @@ cuota señalada en el inciso anterior,
 
 y por cada una o fracción de las
 
-excedentes $2.0732
+excedentes $2.32 $2
 
 Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
@@ -9979,81 +11071,81 @@ II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 III.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- En barcos hasta de 100
 
-toneladas $2,086.38 $2,086
+toneladas $2,339.04 $2,339
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- En barcos de más de 100 hasta
 
-500 toneladas $2,781.89 $2,782
+500 toneladas $3,118.78 $3,119
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- En barcos de más de 500 hasta
 
-1,000 toneladas $3,477.50 $3,478
+1,000 toneladas $3,898.63 $3,899
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- En barcos de 1,000 a 5,000
 
-toneladas $4,520.87 $4,521
+toneladas $5,068.35 $5,068
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- En barcos de 5,000 a 10,000
 
-toneladas $5,564.18 $5,564.00
+toneladas $6,238.00 $6,238
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- En barcos de más de 10,000
 
-toneladas $6,955.29 $6,955
+toneladas $7,797.58 $7,798
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- En barcos hasta de 100
 
-toneladas $695.19 $695
+toneladas $779.38 $779
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- En barcos de más de 100 hasta
 
-500 toneladas $1,390.76 $1,391
+500 toneladas $1,559.18 $1,559
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- En barcos de más de 500 hasta
 
-1,000 toneladas $2,434.13 $2,434
+1,000 toneladas $2,728.90 $2,729
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- En barcos de 1,000 a 5,000
 
-toneladas $3,477.50 $3,478
+toneladas $3,898.63 $3,899
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- En barcos de 5,000 a 10,000
 
-toneladas $4,868.70 $4,869
+toneladas $5,458.30 $5,458
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- En barcos de más de 10,000
 
-toneladas $6,259.77 $6,260
+toneladas $7,017.83 $7,018
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -10061,15 +11153,15 @@ V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 VI.- Por el reconocimiento total a una embarcación en construcción o en reparación o modificación para verificar su estado de avance y el cumplimiento de las especificaciones y normas que le son aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Hasta 50 toneladas brutas
 
 de arqueo comprendiendo 3
 
-inspecciones parciales. $4,636.69 $4,637
+inspecciones parciales. $5,198.19 $5,198
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 50 hasta 100
 
@@ -10077,9 +11169,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 3 inspecciones
 
-parciales $6,955.29 $6,955
+parciales $7,797.58 $7,798
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 100 hasta 200
 
@@ -10087,9 +11179,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $9,273.92 $9,274
+parciales $10,396.99 $10,397
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 200 hasta 300
 
@@ -10097,9 +11189,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $11,592.45 $11,592
+parciales $12,996.30 $12,996
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De más de 300 hasta 500
 
@@ -10107,9 +11199,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $13,911.10 $13,911
+parciales $15,595.73 $15,596
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De más de 500 hasta 1000
 
@@ -10117,9 +11209,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $18,548.11 $18,548
+parciales $20,794.29 $20,794
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 g).- De más de 1000 hasta 5000
 
@@ -10127,9 +11219,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $23,185.28 $23,185
+parciales $25,993.02 $25,993
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- De más de 5000 hasta 15000
 
@@ -10137,9 +11229,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 5 inspecciones
 
-parciales $27,822.49 $27,822
+parciales $31,191.79 $31,192
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 i).- De más de 15000 hasta 25000
 
@@ -10147,9 +11239,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 5 reparaciones
 
-parciales $34,778.31 $34,778
+parciales $38,989.96 $38,990
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 j).- De más de 25000 hasta 50000
 
@@ -10157,11 +11249,11 @@ toneladas brutas de arqueo,
 
 comprendiendo 6 inspecciones
 
-parciales $57,963.91 $57,964
+parciales $64,983.34 $64,983
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $2.3133 por cada tonelada o fracción excedente.
+k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $2.5934 por cada tonelada o fracción excedente.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -10177,51 +11269,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Señales en escolleras $1,817.52 $1,818
+I.- Señales en escolleras $2,037.62 $2,038
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Señales en faros $7,270.47 $7,270
+II.- Señales en faros $8,150.92 $8,151
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Señales en muelles 1,817.52 $1,818
+III.- Señales en muelles $2,037.62 $2,038
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Señales en atracaderos y peines
 
-de marinas turísticas $1,817.52 $1,818
+de marinas turísticas $2,037.62 $2,038
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Señales de enfilaciones $3,635.14 $3,635
+V.- Señales de enfilaciones $4,075.36 $4,075
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VI.- Señales flotantes $1,453.96 $1,454
+VI.- Señales flotantes $1,630.03 $1,630
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VII.- Señales diurnas $1,817.52 $1,818
+VII.- Señales diurnas $2,037.62 $2,038
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VIII.- Señales laterales fijas $1,453.96 $1,454
+VIII.- Señales laterales fijas $1,630.03 $1,630
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX.- Señales acústicas $2,726.27 $2,726
+IX.- Señales acústicas $3,056.42 $3,056
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-X.- Señales radioeléctricas $4,362.22 $4,362
+X.- Señales radioeléctricas $4,890.48 $4,890
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XI.- Otras señales $4,907.56 $4,908
+XI.- Otras señales $5,501.87 $5,502
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -10233,35 +11325,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- De más de 3 hasta 20 unidades
 
-de arqueo bruto $202.85 $203
+de arqueo bruto $227.42 $227
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De más de 20 hasta 100 toneladas
 
-brutas de arqueo $305.60 $306
+brutas de arqueo $342.61 $343
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De más de 100 hasta 500 toneladas
 
-brutas de arqueo $501.04 $501
+brutas de arqueo $561.72 $562
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- De más de 500 hasta 1,000
 
-toneladas brutas de arqueo $1,019.79 $1,020
+toneladas brutas de arqueo $1,143.29 $1,143
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- De más de 1,000 toneladas
 
-brutas de arqueo $2,039.78 $2,040
+brutas de arqueo $2,286.80 $2,287
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -10293,41 +11385,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Hasta 200 unidades de arqueo bruto $3,798.71 $3,799
+I.- Hasta 200 unidades de arqueo bruto $4,258.73 $4,259
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De más de 200 hasta 300
 
-unidades de arqueo bruto $4,144.06 $4,144
+unidades de arqueo bruto $4,645.91 $4,646
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De más de 300 hasta
 
-1000 unidades de arqueo bruto $5,870.86 $5,871
+1000 unidades de arqueo bruto $6,581.82 $6,582
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- De más de 1000 hasta
 
-5000 unidades de arqueo bruto $6,906.96 $6,907
+5000 unidades de arqueo bruto $7,743.39 $7,743
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- De más de 5000 hasta 10000
 
-unidades de arqueo bruto $10,360.48 $10,360
+unidades de arqueo bruto $11,615.13 $11,615
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- De más de 10000 unidades
 
-de arqueo bruto $13,814.02 $13,814
+de arqueo bruto $15,486.90 $15,487
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por la revisión del protocolo de la
 
@@ -10337,7 +11429,7 @@ sistemas y equipamiento, pruebas de
 
 mar y tirón a punto fijo, se pagará por
 
-cada embarcación $1,223.41 $1,223
+cada embarcación $1,371.56 $1,372
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -10349,41 +11441,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Hasta 200 unidades de arqueo
 
-Bruto $3,798.71 $3,799
+Bruto $4,258.73 $4,259
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De más de 200 hasta 300
 
-unidades de arqueo bruto $4,144.06 $4,144
+unidades de arqueo bruto $4,645.91 $4,646
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De más de 300 hasta 1000
 
-unidades de arqueo bruto $5,870.86 $5,871
+unidades de arqueo bruto $6,581.82 $6,582
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- De más de 1000 hasta
 
-5000 unidades de arqueo bruto $6,906.96 $6,907
+5000 unidades de arqueo bruto $7,743.39 $7,743
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- De más de 5000 hasta
 
-10000 unidades de arqueo bruto $10,360.48 $10,360
+10000 unidades de arqueo bruto $11,615.13 $11,615
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- De más de 10000 unidades
 
-de arqueo bruto $13,814.02 $13,814
+de arqueo bruto $15,486.90 $15,487
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -10395,23 +11487,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Dique menor de 150 metros de
 
-eslora $13,814.02 $13,814
+eslora $15,486.90 $15,487
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Dique de 150 metros o más de
 
-Eslora $20,721.11 $20,721
+Eslora $23,230.44 $23,230
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 170-D.
 
@@ -10431,7 +11523,9 @@ para los equipos contra incendio de
 
 las embarcaciones, se pagarán derechos,
 
-conforme a la cuota de: $22,351.23 $22,351
+conforme a la cuota de: $25,057.96 $25,058
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Por el análisis de la solicitud y, en su
 
@@ -10443,7 +11537,7 @@ en el certificado otorgado, se pagará el
 
 derecho por cada persona, conforme a la
 
-cuota de: $1,170.78 $1,171
+cuota de: $1,312.56 $1,313
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -10455,13 +11549,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por persona moral $17,357.66 $17,358
+I.- Por persona moral $19,459.67 $19,460
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por persona física $1,590.91 $1,591
+II.- Por persona física $1,783.57 $1,784
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10481,119 +11575,119 @@ ajuste ajuste
 
 I.- Por la revisión de la evaluación de protección:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De más de 10 hasta 200 unidades
 
-de arqueo bruto $3,022.74 $3,023
+de arqueo bruto $3,388.79 $3,389
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 200 hasta 500 unidades
 
-de arqueo bruto $3,767.78 $3,768
+de arqueo bruto $4,224.06 $4,224
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $4,506.90 $4,507
+de arqueo bruto $5,052.69 $5,053
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $6,419.17 $6,419
+unidades de arqueo bruto $7,196.53 $7,197
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $8,960.59 $8,961
+unidades de arqueo bruto $10,045.72 $10,046
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $14,844.05 $14,844
+de arqueo bruto $16,641.66 $16,642
 
 II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De más de 10 hasta 200 unidades
 
-de arqueo bruto $3,282.91 $3,283
+de arqueo bruto $3,680.47 $3,680
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 200 hasta 500
 
-unidades de arqueo bruto $4,103.63 $4,104
+unidades de arqueo bruto $4,600.58 $4,601
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 500 hasta 1,000
 
-unidades de arqueo bruto $4,897.17 $4,897
+unidades de arqueo bruto $5,490.22 $5,490
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $6,977.37 $6,977
+unidades de arqueo bruto $7,822.33 $7,822
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $9,741.11 $9,741
+unidades de arqueo bruto $10,920.76 $10,921
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $16,144.92 $16,145
+de arqueo bruto $18,100.07 $18,100
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
 
 III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De más de 10 y hasta 200
 
-unidades de arqueo bruto $3,078.32 $3,078
+unidades de arqueo bruto $3,451.10 $3,451
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De más de 200 y hasta 500
 
-unidades de arqueo bruto $3,835.19 $3,835
+unidades de arqueo bruto $4,299.63 $4,300
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De más de 500 y hasta 1,000
 
-unidades de arqueo bruto $4,588.51 $4,589
+unidades de arqueo bruto $5,144.18 $5,144
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- De más de 1,000 y hasta 5,000
 
-unidades de arqueo bruto $6,536.25 $6,536
+unidades de arqueo bruto $7,327.79 $7,328
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- De más de 5,000 y hasta
 
-10,000 unidades de arqueo bruto $9,122.62 $9,123
+10,000 unidades de arqueo bruto $10,227.37 $10,227
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $15,111.32 $15,111
+de arqueo bruto $16,941.30 $16,941
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -10607,99 +11701,99 @@ ajuste ajuste
 
 I.- Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por empresa $6,928.88 $6,929
+a).- Por empresa $7,767.97 $7,768
 
 b).- Por buque:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- De 10 hasta 200 unidades
 
-de arqueo bruto $2,529.60 $2,530
+de arqueo bruto $2,835.93 $2,836
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De más de 200 hasta 500
 
-unidades de arqueo bruto $3,363.32 $3,363
+unidades de arqueo bruto $3,770.62 $3,771
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De más de 500 hasta 1,000
 
-unidades de arqueo bruto $4,025.58 $4,026
+unidades de arqueo bruto $4,513.08 $4,513
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 4.- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $5,018.97 $5,019
+unidades de arqueo bruto $5,626.77 $5,627
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 5.- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $7,150.03 $7,150
+unidades de arqueo bruto $8,015.90 $8,016
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 6.- De más de 10,000 unidades
 
-de arqueo bruto $9,956.35 $9,956
+de arqueo bruto $11,162.06 $11,162
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
 
 II.- Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por empresa $19,038.76 $19,039
+a).- Por empresa $21,344.35 $21,344
 
 b).- Por buque:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- De más de 10 y hasta 200
 
-unidades de arqueo bruto $3,078.32 $3,078
+unidades de arqueo bruto $3,451.10 $3,451
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- De más de 200 y hasta 500
 
-unidades de arqueo bruto $3,835.19 $3,835
+unidades de arqueo bruto $4,299.63 $4,300
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- De más de 500 y hasta 1,000
 
-unidades de arqueo bruto $4,588.51 $4,589
+unidades de arqueo bruto $5,144.18 $5,144
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 4.- De más de 1,000 y hasta 5,000
 
-unidades de arqueo bruto $6,536.25 $6,536
+unidades de arqueo bruto $7,327.79 $7,328
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 5.- De más de 5,000 y hasta 10,000
 
-unidades de arqueo bruto $9,122.62 $9,123
+unidades de arqueo bruto $10,227.37 $10,227
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 6.- De más de 10,000 unidades
 
-de arqueo bruto $15,111.32 $15,111
+de arqueo bruto $16,941.30 $16,941
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 170-I.
 
@@ -10713,7 +11807,7 @@ dispositivos y medios de salvamento,
 
 por cada tipo, se pagará anualmente
 
-el derecho conforme a la cuota de: $2,288.34 $2,288
+el derecho conforme a la cuota de: $2,565.46 $2,565
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -10735,15 +11829,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Expedición y reposición de
 
 Libretas de mar e identidad
 
-Marítima $242.12 $242
+Marítima $271.44 $271
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Títulos profesionales al
 
@@ -10751,9 +11845,9 @@ Personal de la marina mercante
 
 nacional, tanto de cubierta
 
-como de máquinas $727.04 $727
+como de máquinas $815.08 $815
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Certificados de competencia
 
@@ -10761,35 +11855,35 @@ para mandar embarcaciones, tanto
 
 en el departamento de cubierta como
 
-en el de máquinas $484.59 $485
+en el de máquinas $543.27 $543
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Certificados de competencia
 
 especial para mandar o laborar
 
-en buques especializados $969.54 $970
+en buques especializados $1,086.95 $1,087
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Documento oficial para poder ejercer como tripulante a bordo de las embarcaciones mercantes mexicanas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Personal subalterno $484.59 $485
+a).- Personal subalterno $543.27 $543
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Personal titulado $727.04 $727
+b).- Personal titulado $815.08 $815
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Expedición de refrendos de
 
 títulos a oficialidad de la marina
 
-mercante $363.36 $363
+mercante $407.36 $407
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -10807,13 +11901,13 @@ ajuste ajuste
 
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Navegación de Altura $6,453.48 $6,453
+a).- Navegación de Altura $7,235.00 $7,235
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Navegación de Cabotaje $4,609.41 $4,609
+b).- Navegación de Cabotaje $5,167.61 $5,168
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10823,7 +11917,7 @@ c).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 d).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de la
 
@@ -10833,7 +11927,7 @@ como Agente Naviero
 
 General o Agente Naviero
 
-Protector $13,123.35 $13,123
+Protector $14,712.59 $14,713
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -10873,7 +11967,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Estudios técnicos de planos,
 
@@ -10889,9 +11983,9 @@ jurisdicción federal, por cada 100
 
 metros o fracción que exceda de
 
-dicha longitud $1,765.90 $1,766
+dicha longitud $1,979.75 $1,980
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Estudios técnicos de planos,
 
@@ -10905,7 +11999,7 @@ subterráneos o aéreos que
 
 atraviesen carreteras y puentes
 
-de jurisdicción federal $1,765.90 $1,766
+de jurisdicción federal $1,979.75 $1,980
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
@@ -10917,7 +12011,7 @@ proyecto, supervisión y autorización
 
 de obras para paradores 1% sobre el costo total de la obra.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por el estudio técnico
 
@@ -10941,191 +12035,191 @@ derechos de vía de carreteras,
 
 puentes o vías férreas, por
 
-kilómetro o fracción $1,055.48 $1,055
+kilómetro o fracción $1,183.30 $1,183
 
 VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Proyecto a realizar en
 
-terreno plano $17,291.66 $17,292
+terreno plano $19,385.68 $19,386
 
 b).- Proyecto a realizar en terreno de lomerío con:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1.- Geometría en corte $19,045.89 $19,046
+1.- Geometría en corte $21,352.35 $21,352
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2.- Geometría en terraplén $20,800.10 $20,800
+2.- Geometría en terraplén $23,318.99 $23,319
 
 c).- Proyecto a realizar en terreno montañoso con:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1.- Geometría en corte $22,554.33 $22,554
+1.- Geometría en corte $25,285.66 $25,286
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2.- Geometría en terraplén $24,308.60 $24,309
+2.- Geometría en terraplén $27,252.37 $27,252
 
 VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Con superficie total del proyecto
 
-hasta 3,000 M2 $40,597.96 $40,598
+hasta 3,000 M2 $45,514.37 $45,514
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Con superficie total del proyecto
 
-hasta 5,000 M2 $48,366.76 $48,367
+hasta 5,000 M2 $54,223.97 $54,224
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Con superficie total del proyecto
 
-hasta 10,000 M2 $56,636.69 $56,637
+hasta 10,000 M2 $63,495.39 $63,495
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Con superficie mayor a los
 
 10,000 M2, por cada 1,000 M2
 
-adicionales $1,628.79 $1,629
+adicionales $1,826.04 $1,826
 
 VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por obras desarrolladas en un
 
-tramo de 1 Km. de longitud $17,291.66 $17,292
+tramo de 1 Km. de longitud $19,385.68 $19,386
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por obras desarrolladas en un tramo
 
-no mayor de 5 Km. de longitud $20,800.10 $20,800
+no mayor de 5 Km. de longitud $23,318.99 $23,319
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por obras desarrolladas en un tramo
 
-no mayor de 20 Km. de longitud $24,308.60 $24,309
+no mayor de 20 Km. de longitud $27,252.37 $27,252
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por obras desarrolladas en un tramo
 
 mayor de 20 Km., por cada kilómetro
 
-adicional $250.49 $250
+adicional $280.82 $281
 
 IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km. $3,508.34 $3,508
+no mayor de 1 Km. $3,933.20 $3,933
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km. $7,016.80 $7,017
+no mayor de 5 Km. $7,866.53 $7,867
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km. $8,520.44 $8,520
+no mayor de 20 Km. $9,552.27 $9,552
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Proyecto comprendido en un tramo
 
 mayor de 20 Km., por kilómetro
 
-adicional $250.49 $250
+adicional $280.82 $281
 
 X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km $3,508.34 $3,508
+no mayor de 1 Km $3,933.20 $3,933
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km $5,713.66 $5,714
+no mayor de 5 Km $6,405.58 $6,406
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km $8,520.44 $8,520
+no mayor de 20 Km $9,552.27 $9,552
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Proyecto comprendido en un tramo
 
 mayor de 20 Km., por kilómetro
 
-adicional $250.49 $250
+adicional $280.82 $281
 
 XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Con superficie total del proyecto
 
-no mayor de 100 M2 $19,045.89 $19,046
+no mayor de 100 M2 $21,352.35 $21,352
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Con superficie total del proyecto
 
-mayor de 100 M2 $26,814.65 $26,815
+mayor de 100 M2 $30,061.90 $30,062
 
 XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km $3,508.34 $3,508
+no mayor de 1 Km $3,933.20 $3,933
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km $7,016.80 $7,017
+no mayor de 5 Km $7,866.53 $7,867
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km $8,520.44 $8,520
+no mayor de 20 Km $9,552.27 $9,552
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Proyecto comprendido en un
 
 tramo mayor de 20 Km., por
 
-kilómetro adicional $250.49 $250
+kilómetro adicional $280.82 $281
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- Por revisión, permiso y
 
@@ -11139,7 +12233,7 @@ original o que requiera
 
 modificación en los caminos
 
-y puentes de cuota $5,262.57 $5,263
+y puentes de cuota $5,899.87 $5,900
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -11155,25 +12249,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Subterráneas $1,308.97 $1,309
+I.- Subterráneas $1,467.49 $1,467
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Aéreos $1,308.97 $1,309
+II.- Aéreos $1,467.49 $1,467
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- A nivel $1,794.04 $1,794
+III.- A nivel $2,011.30 $2,011
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- A desnivel $4,461.16 $4,461
+IV.- A desnivel $5,001.41 $5,001
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Pasos superiores $8,874.21 $8,874
+V.- Pasos superiores $9,948.88 $9,949
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -11185,29 +12279,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Laderas o escapes $1,794.04 $1,794
+I.- Laderas o escapes $2,011.30 $2,011
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Espuelas hasta 1,000 metros $2,666.82 $2,667
+II.- Espuelas hasta 1,000 metros $2,989.77 $2,990
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Cortas vías $1,308.97 $1,309
+III.- Cortas vías $1,467.49 $1,467
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Patios y terminales $8,874.21 $8,874
+IV.- Patios y terminales $9,948.88 $9,949
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Vías particulares $4,364.19 $4,364
+V.- Vías particulares $4,892.69 $4,893
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VI.- Levantamientos de vías $4,364.19 $4,364
+VI.- Levantamientos de vías $4,892.69 $4,893
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -11219,31 +12313,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Arrendamientos $1,308.97 $1,309
+I.- Arrendamientos $1,467.49 $1,467
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Enajenaciones $1,308.97 $1,309
+II.- Enajenaciones $1,467.49 $1,467
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Donaciones $1,794.04 $1,794
+III.- Donaciones $2,011.30 $2,011
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Permutas $1,790.89 $1,791
+IV.- Permutas $2,007.77 $2,008
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Construcciones de edificios $4,364.19 $4,364
+V.- Construcciones de edificios $4,892.69 $4,893
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 172-D.
 
@@ -11253,7 +12347,7 @@ autorización para operar el
 
 transporte multimodal, se
 
-pagará la cuota de $2,362.04 $2,362
+pagará la cuota de $2,648.08 $2,648
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -11265,35 +12359,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para la prestación de servicios
 
-auxiliares, por cada uno $7,518.01 $7,518
+auxiliares, por cada uno $8,428.44 $8,428
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para construir accesos, cruzamientos
 
 e instalaciones marginales en el derecho
 
-de vía de las vías férreas $7,518.01 $7,518
+de vía de las vías férreas $8,428.44 $8,428
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Para instalar anuncios y señales
 
 publicitarias en el derecho de vía,
 
-por anuncio o señal publicitaria $6,377.20 $6,377
+por anuncio o señal publicitaria $7,149.48 $7,149
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Para construir y operar
 
-puentes sobre vías férreas $15,036.17 $15,036
+puentes sobre vías férreas $16,857.05 $16,857
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por el otorgamiento de permisos
 
@@ -11305,15 +12399,15 @@ almacenaje y transbordo que se
 
 ejecuten en el derecho de vía de las
 
-vías férreas $9,251.56 $9,252
+vías férreas $10,371.92 $10,372
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por asignación de inicial y
 
 número, o matrícula al equipo
 
-ferroviario $470.86 $471
+ferroviario $527.88 $528
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -11325,13 +12419,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por la expedición $501.04 $501
+I.- Por la expedición $561.72 $562
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por la revalidación $501.04 $501
+II.- Por la revalidación $561.72 $562
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11343,13 +12437,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por verificación especial a los
 
-concesionarios e vías férreas $1,754.12 $1,754
+concesionarios e vías férreas $1,966.54 $1,967
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la verificación técnica
 
@@ -11363,29 +12457,29 @@ del servicio público de transporte
 
 ferroviario, por cada unidad
 
-tractiva o de arrastre $751.68 $752
+tractiva o de arrastre $842.71 $843
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por la expedición de la
 
-constancia de aprobación $150.22 $150
+constancia de aprobación $168.41 $168
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por verificación para la
 
 construcción o reconstrucción
 
-de obras ferroviarias $1,754.12 $1,754
+de obras ferroviarias $1,966.54 $1,967
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la verificación de las
 
 instalaciones de los servicios
 
-auxiliares $1,616.90 $1,617
+auxiliares $1,812.71 $1,813
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11405,19 +12499,19 @@ ajuste ajuste
 
 I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por la expedición del título $1,754.12 $1,754
+a).- Por la expedición del título $1,966.54 $1,967
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por la reposición del título $1,252.90 $1,253
+b).- Por la reposición del título $1,404.63 $1,405
 
 II.- Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
 
 a).- Por la expedición del título:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Hasta 100 De más de De más de
 
@@ -11433,11 +12527,11 @@ paraestatales de la
 
 Administración Pública
 
-Federal $626.38 $876.94 $1,127.59
+Federal $702.23 $983.14 $1,264.14
 
-2.- Particulares exclusivamente $2,756.51 $5,262.57 $7,768.66
+2.- Particulares exclusivamente $3,090.32 $5,899.87 $8,709.44
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la autorización para la
 
@@ -11445,11 +12539,11 @@ cesión total o parcial de derechos
 
 y obligaciones establecidos en las
 
-concesiones o permisos $1,503.48 $1,503
+concesiones o permisos $1,685.55 $1,686
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Por prórroga de la vigencia $1,754.12 $1,754
+IV.- Por prórroga de la vigencia $1,966.54 $1,967
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11461,17 +12555,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Manuales de sistemas de control
 
-de tránsito $6,383.38 $6,383
+de tránsito $7,156.41 $7,156
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 172-K.
 
@@ -11481,13 +12575,13 @@ del permiso para construir, instalar
 
 y operar terminales interiores de carga,
 
-se pagará la cuota de $11,775.45 $11,775
+se pagará la cuota de $13,201.46 $13,201
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 172-L.
 
@@ -11497,13 +12591,13 @@ para el inicio de la operación de
 
 terminales interiores de carga, se
 
-pagará la cuota de $9,849.30 $9,849
+pagará la cuota de $11,042.05 $11,042
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 172-M.
 
@@ -11539,13 +12633,13 @@ número de tarifas o reglas de aplicación
 
 contenidas en la misma, conforme a la
 
-cuota de: $749.97 $750
+cuota de: $840.79 $841
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 172-N.
 
@@ -11557,7 +12651,7 @@ derechos derivados de la concesión
 
 del sistema ferroviario, se pagará la
 
-cuota de $12,636.10 $12,636
+cuota de $14,166.33 $14,166
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -11679,7 +12773,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 176-A.
 
@@ -11705,7 +12799,7 @@ sobre monumentos artísticos,
 
 por pieza, conforme a la
 
-cuota de: $35.90 $36
+cuota de: $40.25 $40
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11721,11 +12815,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Expedición de cédula individual
 
-de registro de objeto $10.51 $11
+de registro de objeto $11.78 $12
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11735,7 +12829,7 @@ Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones 
 
 II.- Permisos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De exportación de reproducciones
 
@@ -11747,9 +12841,9 @@ Instituto Nacional de Antropología e
 
 Historia, sin límite de objetos y por
 
-cada operación $93.22 $93
+cada operación $104.51 $105
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De exportación de reproducción
 
@@ -11757,19 +12851,19 @@ autorizada, cuando éstas carezcan
 
 de sello, marca o registro por unidad
 
-de empaque $934.24 $934
+de empaque $1,047.38 $1,047
 
 III.- Dictámenes
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a) Para determinar que un objeto
 
 o lote es reproducción, por unidad
 
-o empaque hasta veinticinco objetos $141.09 $141
+o empaque hasta veinticinco objetos $158.18 $158
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b) Para establecer delimitación de
 
@@ -11777,7 +12871,7 @@ inmuebles privados con monumentos
 
 y zonas arqueológicas, a petición de
 
-parte $235.63 $236
+parte $264.16 $264
 
 ###### ARTICULO 178.
 
@@ -11807,7 +12901,7 @@ I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- Permisos.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De exportación temporal
 
@@ -11823,11 +12917,11 @@ de la prima de seguro o garantía
 
 que proceda por el valor del
 
-monumento histórico o artístico $311.20 $311
+monumento histórico o artístico $348.89 $349
 
 b).- De exportación de reproducciones a persona física o moral:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Cuando los objetos tengan sello,
 
@@ -11839,23 +12933,23 @@ e Historia y de Bellas Artes y Literatura,
 
 sin límite de objetos y por cada
 
-operación $93.22 $93
+operación $104.51 $105
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- Cuando carezcan de sello, marca
 
 o registro por unidad de empaque,
 
-hasta 25 objetos $934.24 $934
+hasta 25 objetos $1,047.38 $1,047
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el dictamen para certificar el
 
 carácter histórico o artístico de un bien
 
-mueble o inmueble $93.22 $93
+mueble o inmueble $104.51 $105
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11885,31 +12979,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Recepción, examen, estudio y, en su caso, registro de cada obra literaria o artística, o de una obra derivada o versión $177.00
+I. Recepción, examen, estudio y, en su caso, registro de cada obra literaria o artística, o de una obra derivada o versión $198.43 $198
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II. Recepción, examen, estudio y, en su caso, registro de las características gráficas y distintivas de cada obra $177.00
+II. Recepción, examen, estudio y, en su caso, registro de las características gráficas y distintivas de cada obra $198.43 $198
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III. Recepción, examen, estudio y, en su caso, registro de cada fonograma, videograma o libro $177.00
+III. Recepción, examen, estudio y, en su caso, registro de cada fonograma, videograma o libro $198.43 $198
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV. Búsqueda y expedición de cada constancia de antecedentes o datos de registro o de inscripción $126.00
+IV. Búsqueda y expedición de cada constancia de antecedentes o datos de registro o de inscripción $141.26 $141
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Recepción, examen, estudio y,
 
 en su caso, inscripción de cada
 
-convenio o contrato $930.67 $931
+convenio o contrato $1,043.37 $1,043
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Inscripción de cada poder
 
@@ -11921,9 +13015,9 @@ de Autor, cuando la representación
 
 conferida abarque todos los asuntos
 
-del mandante $930.67 $931
+del mandante $1,043.37 $1,043
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Recepción, examen y estudio de
 
@@ -11937,9 +13031,9 @@ o extinga derechos patrimoniales
 
 de autor y, en su caso, inscripción de
 
-la anotación marginal correspondiente $1,395.25 $1,395
+la anotación marginal correspondiente $1,564.21 $1,564
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Recepción, examen, estudio
 
@@ -11949,9 +13043,9 @@ acta, documento, escritura y
 
 estatutos de las sociedades de
 
-gestión colectiva $1,395.25 $1,395
+gestión colectiva $1,564.21 $1,564
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- Recepción, examen, estudio y,
 
@@ -11959,9 +13053,9 @@ en su caso, inscripción de cada
 
 convenio o contrato celebrado por
 
-las sociedades de gestión colectiva $1,234.54 $1,235
+las sociedades de gestión colectiva $1,384.04 $1,384
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Inscripción de cada poder especial
 
@@ -11971,19 +13065,29 @@ de gestión colectiva para el cobro de
 
 percepciones derivadas de los derechos
 
-de autor o derechos conexos $587.00
+de autor o derechos conexos $658.09 $658
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XI.- Inscripción de cada poder que
 
 autorice la gestión individual de
 
-derechos patrimoniales $1,169.32 $1,169
+derechos patrimoniales $1,310.92 $1,311
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XII.- Por la recepción y estudio del escrito de queja dentro del procedimiento de avenencia y, en su caso, por la realización de la primera audiencia en el procedimiento de avenencia $324.00
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XII.- Por la recepción y estudio del escrito
+
+de queja dentro del procedimiento de
+
+avenencia y, en su caso, por la realización
+
+de la primera audiencia en el
+
+procedimiento de avenencia $363.24 $363
 
 Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
@@ -11991,7 +13095,7 @@ Tratándose de las subsecuentes audiencias, por la celebración de cada una se p
 
 XIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIV.- Solicitud y dictamen de reservas
 
@@ -11999,9 +13103,9 @@ de derechos al uso exclusivo de títulos
 
 de publicaciones o difusiones
 
-periódicas $1,403.18 $1,403
+periódicas $1,573.11 $1,573
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XV.- Solicitud y dictamen de la
 
@@ -12009,9 +13113,9 @@ renovación de reservas de derechos
 
 al uso exclusivo de títulos de
 
-publicaciones o difusiones periódicas $736.56 $737
+publicaciones o difusiones periódicas $825.76 $826
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVI.- Solicitud y dictamen de reservas
 
@@ -12025,9 +13129,9 @@ nombres artísticos, denominaciones
 
 de grupos artísticos o promociones
 
-publicitarias $2,771.43 $2,771
+publicitarias $3,107.05 $3,107
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVII.- Solicitud y dictamen de la
 
@@ -12041,13 +13145,13 @@ humanos de caracterización,
 
 nombres artísticos y denominaciones
 
-de grupos artísticos $1,449.32 $1,449
+de grupos artísticos $1,624.83 $1,625
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres o denominaciones de publicaciones o difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos $148.00
+XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres o denominaciones de publicaciones o difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos $165.92 $166
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIX.- Solicitud de análisis y búsqueda
 
@@ -12059,9 +13163,9 @@ de caracterización, personajes ficticios
 
 o simbólicos, o promociones
 
-publicitarias $238.61 $239
+publicitarias $267.51 $268
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XX.- Solicitud y dictamen de
 
@@ -12069,7 +13173,7 @@ anotaciones marginales en los
 
 expedientes de reservas de derechos
 
-al uso exclusivo $736.56 $737
+al uso exclusivo $825.76 $826
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12077,7 +13181,11 @@ al uso exclusivo $736.56 $737
 
 XXI. Respecto del Número Internacional Normalizado del Libro (ISBN):
 
-a). Por el otorgamiento del ISBN $152.00
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+a). Por el otorgamiento del ISBN $170.41 $170
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Por la expedición de cada certificado o constancia $123.00
 
@@ -12091,7 +13199,7 @@ XXII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 XXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXIV.- Recepción, examen, estudio y,
 
@@ -12103,9 +13211,9 @@ de cualquier acto o instrumento que
 
 tenga por efecto la revocación del
 
-poder otorgado, previamente inscrito $1,302.95 $1,303
+poder otorgado, previamente inscrito $1,460.74 $1,461
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXV.- Solicitud, dictamen y, en su
 
@@ -12113,15 +13221,17 @@ caso, expedición de la autorización
 
 de apoderado para la gestión individual
 
-de derechos patrimoniales $1,372.95 $1,373
+de derechos patrimoniales $1,539.21 $1,539
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXVI. Solicitud de práctica de visita de inspección a establecimientos comerciales a petición de parte $551.00
+XXVI. Solicitud de práctica de visita de inspección a establecimientos comerciales a petición de parte $617.73 $618
 
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
 Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12141,13 +13251,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Registro de colegio de
 
-Profesionistas $6,352.35 $6,352
+Profesionistas $7,121.62 $7,122
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Registro de establecimiento
 
@@ -12157,75 +13267,75 @@ para expedir títulos profesionales,
 
 diplomas de especialidad o grados
 
-académicos $6,352.35 $6,352
+académicos $7,121.62 $7,122
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Revalidación de título profesional,
 
 de diploma de especialidad y de grado
 
-académico $1,270.11 $1,270
+académico $1,423.92 $1,424
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Registro de título profesional,
 
 de diploma de especialidad y de
 
-grado académico $634.91 $635
+grado académico $711.80 $712
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Expedición de autorización para
 
-el ejercicio de una especialidad $636.48 $636
+el ejercicio de una especialidad $713.56 $714
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Expedición de autorización
 
 para constituir un colegio de
 
-profesionistas $634.93 $635
+profesionistas $711.82 $712
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 VII.- Enmiendas al registro profesional:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- En relación con colegios de
 
-profesionistas $634.93 $635
+profesionistas $711.82 $712
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- En relación con establecimiento
 
-educativo $634.93 $635
+educativo $711.82 $712
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- En relación con título profesional
 
-o grado académico $126.68 $127
+o grado académico $142.02 $142
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Inscripción de asociado a un
 
 colegio de profesionistas que no
 
-figuren en el registro original $24.97 $25
+figuren en el registro original $27.99 $28
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- En relación con Federaciones
 
-de Colegios de Profesionistas $765.80 $766
+de Colegios de Profesionistas $858.54 $859
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 f).- Inscripción de asociado a una
 
@@ -12233,25 +13343,25 @@ Federación de Colegios de
 
 Profesionistas que no figure en el
 
-registro original $765.80 $766
+registro original $858.54 $859
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Expedición de duplicado de
 
 cédula o de autorización para el
 
-ejercicio de una especialidad $254.96 $255
+ejercicio de una especialidad $285.84 $286
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- Expedición de cédula profesional
 
 con efectos de patente o de cédula
 
-de grado académico $253.70 $254
+de grado académico $284.42 $284
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Expedición de autorización
 
@@ -12259,23 +13369,23 @@ provisional para ejercer por estar
 
 el título profesional en trámite o
 
-para ejercer como pasante $253.70 $254
+para ejercer como pasante $284.42 $284
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XI.- Consultas de archivo $115.74 $116
+XI.- Consultas de archivo $129.76 $130
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XII.- Constancias de antecedentes
 
-Profesionales $252.15 $252
+Profesionales $282.69 $283
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- Registro de Federación de
 
-Colegios de Profesionistas $8,512.03 $8,512
+Colegios de Profesionistas $9,542.84 $9,543
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12299,13 +13409,13 @@ ajuste ajuste
 
 I.- Por solicitud, estudio y resolución del trámite de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Reconocimiento de validez
 
-oficial de estudios de tipo superior $7,159.42 $7,159
+oficial de estudios de tipo superior $8,026.43 $8,026
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Cambios a cada plan y
 
@@ -12313,9 +13423,9 @@ programa de estudio de tipo
 
 superior con reconocimiento
 
-de validez oficial $3,094.42 $3,094
+de validez oficial $3,469.15 $3,469
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Cambio o ampliación de domicilio,
 
@@ -12325,9 +13435,9 @@ adicional, respecto de cada plan de
 
 estudios con reconocimiento de
 
-validez oficial $2,704.78 $2,705
+validez oficial $3,032.33 $3,032
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por solicitud, estudio y resolución
 
@@ -12339,9 +13449,9 @@ primaria, secundaria, normal y
 
 demás para la formación de
 
-maestros, sea cual fuere la modalidad $781.40 $781
+maestros, sea cual fuere la modalidad $876.03 $876
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por solicitud, estudio y resolución
 
@@ -12353,91 +13463,91 @@ superior o equivalente y de formación
 
 para el trabajo, sea cual fuere la
 
-modalidad $781.40 $781
+modalidad $876.03 $876
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Acreditación y certificación a
 
 estudiantes de preparatoria abierta,
 
-por examen $48.90 $49
+por examen $54.82 $55
 
 V.- Exámenes profesionales o de grado:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a) De tipo superior $155.20 $155
+a) De tipo superior $173.99 $174
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De tipo medio superior $77.89 $78
+b).- De tipo medio superior $87.32 $87
 
 VI.- Exámenes a título de suficiencia:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a) De educación primaria $30.68 $31
+a) De educación primaria $34.40 $34
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De educación secundaria y de
 
 educación media superior,
 
-por materia $17.45 $17
+por materia $19.56 $20
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De tipo superior, por materia. $57.20 $57
+c).- De tipo superior, por materia. $64.13 $64
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Del Instituto Nacional de Bellas
 
-Artes y Literatura, por materia $74.74 $75
+Artes y Literatura, por materia $83.79 $84
 
 e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 VII.- Exámenes extraordinarios, por materia:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De educación secundaria y de
 
-educación media superior $14.24 $14
+educación media superior $15.96 $16
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De tipo superior $57.22 $57
+b).- De tipo superior $64.15 $64
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Del Instituto Nacional de
 
-Bellas Artes y Literatura $45.22 $45
+Bellas Artes y Literatura $50.70 $51
 
 VIII.- Otorgamiento de diploma, título o grado:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De tipo superior $151.01 $151
+a).- De tipo superior $169.30 $169
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- De educación secundaria y
 
-de educación media superior $36.52 $37
+de educación media superior $40.94 $41
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- De capacitación para el trabajo
 
-industrial $24.95 $25
+industrial $27.97 $28
 
 IX.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Por la solicitud de acreditación
 
@@ -12447,83 +13557,83 @@ cada certificado de competencia
 
 ocupacional en capacitación para el
 
-trabajo industrial $407.35 $407
+trabajo industrial $456.68 $457
 
 XI.- Expedición de duplicado de certificados de terminación de estudios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De educación básica y de educación
 
-media superior $36.52 $37
+media superior $40.94 $41
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De tipo superior $114.72 $115
+b).- De tipo superior $128.61 $129
 
 XII.- Por solicitud de revalidación de estudios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De educación básica $24.94 $25
+a).- De educación básica $27.96 $28
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De educación media-superior $250.49 $250
+b).- De educación media-superior $280.82 $281
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De educación superior $751.68 $752
+c).- De educación superior $842.71 $843
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De educación básica y
 
-educación media superior $9.46 $9
+educación media superior $10.61 $11
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De tipo superior $30.03 $30
+b).- De tipo superior $33.67 $34
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Del Instituto Nacional de Bellas
 
-Artes y Literatura $30.03 $30
+Artes y Literatura $33.67 $34
 
 XIV.- Por solicitud de equivalencia de estudios:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De educación básica $24.94 $25
+a).- De educación básica $27.96 $28
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De educación media-superior $250.49 $250
+b).- De educación media-superior $280.82 $281
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De educación superior $751.68 $752
+c).- De educación superior $842.71 $843
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De educación superior $60.37 $60
+a).- De educación superior $67.68 $68
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De educación media superior $26.98 $27
+b).- De educación media superior $30.25 $30
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De educación secundaria $25.87 $26
+c).- De educación secundaria $29.00 $29
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d).- De educación primaria $5.72 $6
+d).- De educación primaria $6.41 $6
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -12541,53 +13651,55 @@ XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XIX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F DEL 29 DE DICIEMBRE DE 2011, PARA QUEDAR DE LA SIGUIENTE FORMA “XX.- Expedición de duplicado de certificados de aptitud: a).- De locutor…..$436.00…$436. b).- De cronista o comentarista…$717.93…$718.”</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXI.- Consultas o constancias de
 
-Archivo $116.10 $116
+Archivo $130.16 $130
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXII.- Cambio de carrera $61.78 $62
+XXII.- Cambio de carrera $69.26 $69
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXIII.- Dictamen psicopedagógico
 
-para cambio de carrera $93.06 $93
+para cambio de carrera $104.33 $104
 
 XXIV.- Inscripción:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- En curso de verano $124.09 $124
+a).- En curso de verano $139.12 $139
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- En curso de regularización $124.09 $124
+b).- En curso de regularización $139.12 $139
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Cursos de capacitación para el
 
-trabajo industrial $358.01 $358
+trabajo industrial $401.37 $401
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXV.- Materias libres para alumnos
 
-Inscritos $57.35 $57
+Inscritos $64.30 $64
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXVI.- Expedición de duplicado de
 
-credencial de la preparatoria abierta $28.75 $29
+credencial de la preparatoria abierta $32.23 $32
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12613,7 +13725,7 @@ A. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Certificados y títulos de
 
@@ -12623,9 +13735,9 @@ que no provengan del Fondo
 
 de Apoyo para los Núcleos
 
-Agrarios sin Regularizar $94.38 $94
+Agrarios sin Regularizar $105.81 $106
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Títulos de dominio pleno de colonias,
 
@@ -12633,51 +13745,67 @@ siempre y cuando no provengan del
 
 Programa de Regularización de
 
-Colonias $94.31 $94
+Colonias $105.73 $106
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Títulos de propiedad de
 
-origen parcelario $179.72 $180
+origen parcelario $201.48 $201
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-C. Por la reposición de certificados parcelarios o de derechos sobre tierras de uso común; así como de certificados de derechos agrarios, por cada uno $94.31
+C. Por la reposición de certificados
+
+parcelarios o de derechos sobre
+
+tierras de uso común; así como
+
+de certificados de derechos
+
+agrarios, por cada uno $105.73 $106
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 D.- Por la expedición de otros documentos:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Constancias $94.31 $94
+I.- Constancias $105.73 $106
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Oficios informativos sobre
 
-ubicación de predios $123.48 $123
+ubicación de predios $138.43 $138
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Listado de ejidatarios o comuneros
 
-con derechos vigentes $181.59 $182
+con derechos vigentes $203.58 $204
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-IV. Listados prediales referenciados a carta catastral, por cada hoja tamaño carta u oficio $47.04
+IV. Listados prediales referenciados
+
+a carta catastral, por cada hoja
+
+tamaño carta u oficio $52.74 $53
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12695,19 +13823,27 @@ I. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-III. Por las anotaciones preventivas, su rectificación o cancelación, así como por la cancelación o rectificación de las inscripciones $47.04
+III. Por las anotaciones preventivas,
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+su rectificación o cancelación,
+
+así como por la cancelación o
+
+rectificación de las inscripciones $52.74 $53
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la expedición de copias
 
 certificadas de cada plano tamaño
 
-carta u oficio $13.17 $13
+carta u oficio $14.76 $15
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12795,29 +13931,29 @@ VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 VIII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- Expedición de certificados de libertad
 
-o existencia de gravámenes $223.50 $224
+o existencia de gravámenes $250.57 $251
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Expedición de certificados de inscripción
 
-de propiedad federal $372.90 $373
+de propiedad federal $418.06 $418
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XI.- Expedición de certificados de
 
-no inscripción federal $372.90 $373
+no inscripción federal $418.06 $418
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- Expedición de listados computarizados
 
@@ -12825,21 +13961,21 @@ de los inmuebles incorporados al Sistema
 
 Nacional de Información Inmobiliaria,
 
-por hoja $18.23 $18
+por hoja $20.44 $20
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIV.- Expedición de copia certificada
 
-de folio real $500.92 $501
+de folio real $561.58 $562
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XV.- Expedición de copia certificada
 
-de documento inscrito $375.78 $376
+de documento inscrito $421.29 $421
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVI.- Asiento en el folio real de
 
@@ -12851,15 +13987,15 @@ datos equivocados o cualquier otra
 
 que no constituya novación del
 
-contrato $182.65 $183
+contrato $204.77 $205
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XVII.- Otros tipos de asientos
 
 registrales en libros o en folio real
 
-que soliciten particulares $500.92 $501
+que soliciten particulares $561.58 $562
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -12879,31 +14015,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por recepción y estudio de solicitudes
 
 de concesión o permiso sobre inmuebles
 
-del dominio público $2,659.67 $2,660
+del dominio público $2,981.76 $2,982
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por recepción y estudio de solicitudes
 
 de enajenación de inmuebles de la
 
-Federación $726.86 $727
+Federación $814.88 $815
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por otorgamiento o prórroga de
 
 concesión o permiso sobre bienes de
 
-dominio público de la Federación $1,329.76 $1,330
+dominio público de la Federación $1,490.79 $1,491
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por recepción y estudio de solicitudes
 
@@ -12917,9 +14053,9 @@ humanos áridos o cremados en
 
 templos de propiedad federal o sus
 
-anexidades $9,043.20 $9,043
+anexidades $10,138.33 $10,138
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por aprobación del proyecto de
 
@@ -12931,9 +14067,9 @@ humanos áridos o cremados en templos
 
 de propiedad federal o sus
 
-anexidades $4,521.54 $4,522
+anexidades $5,069.10 $5,069
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la recepción, estudio y, en su
 
@@ -12945,7 +14081,7 @@ modificación, ampliación, adaptación
 
 o reparación dentro de inmuebles de
 
-propiedad federal $5,647.77 $5,648
+propiedad federal $6,331.71 $6,332
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -12989,23 +14125,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Por el otorgamiento o autorización de
 
 sustitución de concesiones para la
 
-pesca comercial $8,184.71 $8,185
+pesca comercial $9,175.88 $9,176
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II.- Por la expedición de permisos para:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- La pesca comercial $746.08 $746
+a).- La pesca comercial $836.43 $836
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Para realizar los trabajos pesqueros
 
@@ -13013,9 +14149,9 @@ necesarios para fundamentar la solicitud
 
 de las concesiones de pesca
 
-comercial $447.50 $447
+comercial $501.69 $502
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- La pesca de fomento a personas
 
@@ -13025,7 +14161,7 @@ social sea la captura, comercialización
 
 o transformación de productos
 
-pesqueros $448.42 $448
+pesqueros $502.72 $503
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13033,25 +14169,25 @@ pesqueros $448.42 $448
 
 III.- Por el otorgamiento de permiso para:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Instalar artes de pesca fija, en
 
-aguas de jurisdicción federal $449.87 $450
+aguas de jurisdicción federal $504.35 $504
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- La recolección del medio natural
 
-de reproductores $713.36 $713
+de reproductores $799.75 $800
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- La transferencia de permisos
 
-de pesca comercial $724.35 $724
+de pesca comercial $812.07 $812
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Desembarcar productos pesqueros
 
@@ -13059,27 +14195,27 @@ frescos, enhielados o congelados en
 
 puertos mexicanos, por embarcaciones
 
-extranjeras $448.42 $448
+extranjeras $502.72 $503
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por el otorgamiento de una
 
-concesión para acuacultura comercial $10,941.07 $10,941
+concesión para acuacultura comercial $12,266.03 $12,266
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la expedición de permiso para
 
-acuacultura de fomento $5,632.56 $5,633
+acuacultura de fomento $6,314.66 $6,315
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por el otorgamiento de permiso
 
-para acuacultura didáctica $1,905.60 $1,906
+para acuacultura didáctica $2,136.37 $2,136
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por el otorgamiento de
 
@@ -13087,7 +14223,7 @@ autorización para la sustitución de
 
 titular de los derechos de la concesión
 
-acuícola $1,406.41 $1,406
+acuícola $1,576.73 $1,577
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13123,7 +14259,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 191-C.
 
@@ -13137,7 +14273,7 @@ viaje hasta de 60 días, se pagará
 
 el derecho de pesca, conforme a la
 
-cuota de $2,495.44 $2,495
+cuota de $2,797.64 $2,798
 
 ###### ARTICULO 191-D.
 
@@ -13167,7 +14303,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada título de asignación o
 
@@ -13175,9 +14311,9 @@ concesión para explotar, usar o
 
 aprovechar aguas nacionales
 
-incluyendo su registro $2,744.59 $2,745
+incluyendo su registro $3,076.96 $3,077
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada permiso de descarga
 
@@ -13187,9 +14323,9 @@ de procesos industriales a un
 
 cuerpo receptor, incluyendo su
 
-registro $3,758.93 $3,759
+registro $4,214.14 $4,214
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por cada permiso de descarga
 
@@ -13197,9 +14333,9 @@ de aguas residuales, distintas a las
 
 que prevé la fracción anterior,
 
-incluyendo su registro $1,252.90 $1,253
+incluyendo su registro $1,404.63 $1,405
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por cada prórroga o modificación,
 
@@ -13219,9 +14355,9 @@ profundización, sustitución de usuarios,
 
 relocalización o reposición de pozos,
 
-punto o calidad de descarga o plazo $1,403.54 $1,404
+punto o calidad de descarga o plazo $1,573.51 $1,574
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por cada transmisión de títulos de
 
@@ -13229,7 +14365,7 @@ concesión y permisos de descarga
 
 cuando se modifiquen las características
 
-del título $2,529.75 $2,530
+del título $2,836.10 $2,836
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13247,7 +14383,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada título de concesión para
 
@@ -13255,9 +14391,9 @@ la extracción de materiales de cauces,
 
 vasos y depósitos de propiedad
 
-nacional $1,162.72 $1,163
+nacional $1,303.53 $1,304
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada título de concesión para
 
@@ -13269,9 +14405,9 @@ así como esteros, zonas federales y
 
 demás bienes nacionales regulados por
 
-la Ley de Aguas Nacionales $1,163.36 $1,163
+la Ley de Aguas Nacionales $1,304.24 $1,304
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por cada permiso para la construcción
 
@@ -13287,9 +14423,9 @@ pozos para uso de aguas del subsuelo
 
 o para la construcción de obras en zona
 
-federal $3,551.92 $3,552
+federal $3,982.06 $3,982
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por cada título de concesión para
 
@@ -13299,9 +14435,9 @@ infraestructura hidráulica federal,
 
 incluyendo la prestación de los
 
-servicios respectivos $3,738.11 $3,738
+servicios respectivos $4,190.80 $4,191
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la prórroga o modificación,
 
@@ -13317,7 +14453,7 @@ uso o aprovechamiento, sustitución de
 
 usuario, ubicación o plazo, por cada
 
-uno $1,403.54 $1,404
+uno $1,573.51 $1,574
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -13339,7 +14475,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la expedición del certificado de
 
@@ -13347,9 +14483,9 @@ calidad del agua, a que se refieren
 
 las fracciones V del artículo 224 y
 
-IV del artículo 282, por cada uno $3,633.82 $3,634
+IV del artículo 282, por cada uno $4,073.88 $4,074
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición del certificado
 
@@ -13359,7 +14495,7 @@ totales de aguas salobres, a que se
 
 refiere la fracción VI del artículo 224,
 
-por cada uno $3,633.82 $3,634
+por cada uno $4,073.88 $4,074
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -13379,7 +14515,7 @@ I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la constancia de búsqueda
 
@@ -13389,13 +14525,13 @@ antecedentes registrales, a cargo de
 
 la Comisión Nacional del Agua, por
 
-cada una $269.16 $269
+cada una $301.76 $302
 
 Los usuarios que utilicen la página electrónica de la Comisión Nacional del Agua en internet o utilicen el equipo de cómputo que ponga a disposición del público en general dicha Comisión, para consultar los antecedentes registrales que obran en el Registro Público de Derechos de Agua, no estarán obligados al pago del derecho.
 
 Por los servicios a que se refiere esta fracción, no se pagará el derecho establecido en la fracción IV de este artículo.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la expedición de certificados
 
@@ -13403,9 +14539,9 @@ o constancias de las inscripciones o
 
 documentos que obren en el Registro
 
-Público, por cada uno $137.01 $137
+Público, por cada uno $153.60 $154
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la emisión de mapas con
 
@@ -13413,7 +14549,7 @@ información registral, a cargo de
 
 la Comisión Nacional del Agua,
 
-por cada uno $216.71 $217
+por cada uno $242.95 $243
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -13491,33 +14627,33 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el otorgamiento de la
 
-concesión, anualmente $2,908.09 $2,908
+concesión, anualmente $3,260.26 $3,260
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el otorgamiento de permiso,
 
-por cada uno $283.32 $283
+por cada uno $317.63 $318
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta 500 metros $363.36 $363
+a).- Hasta 500 metros $407.36 $407
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De 501 a 1000 metros $454.17 $454
+b).- De 501 a 1000 metros $509.17 $509
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De 1001 en adelante $508.76 $509
+c).- De 1001 en adelante $570.37 $570
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -13531,19 +14667,19 @@ IV.- Por el otorgamiento de permisos para prestadores de servicios turísticos, 
 
 a).- Por unidad de transporte terrestre:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1.- Motorizada $302.65 $303
+1.- Motorizada $339.30 $339
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2.- No motorizada $60.19 $60
+2.- No motorizada $67.48 $67
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 b).- Por unidad de transporte acuática, subacuática o anfibia:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 1.- Embarcaciones hasta de 12
 
@@ -13553,9 +14689,9 @@ vehículos o aparatos sumergibles
 
 o anfibios, tablas de oleaje y sus
 
-equivalentes $302.65 $303
+equivalentes $339.30 $339
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 2.- Embarcaciones mayores de 12
 
@@ -13563,9 +14699,9 @@ metros de eslora, incluyendo
 
 vehículos o aparatos sumergibles
 
-o anfibios y sus equivalentes $6,058.46 $6,058
+o anfibios y sus equivalentes $6,792.14 $6,792
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 3.- Motocicletas acuáticas y
 
@@ -13575,15 +14711,15 @@ motorizados equivalentes,
 
 diferentes a los enunciados en los
 
-numerales 1 y 2 de este inciso $425.46 $425
+numerales 1 y 2 de este inciso $476.98 $477
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Otros vehículos distintos a los
 
 señalados en los incisos
 
-anteriores $151.01 $151
+anteriores $169.30 $169
 
 d).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -13597,7 +14733,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 194-C
 
@@ -13611,7 +14747,7 @@ Naturales Protegidas, se pagará el
 
 derecho conforme a la siguiente
 
-cuota $90.63 $91
+cuota $101.61 $102
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -13627,7 +14763,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la recepción, estudio de la
 
@@ -13659,7 +14795,7 @@ cualquier otro depósito de aguas
 
 marítimas, se pagará el derecho
 
-conforme a la siguiente cuota $1,759.57 $1,760
+conforme a la siguiente cuota $1,972.65 $1,973
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -13669,7 +14805,7 @@ La anterior disposición es aplicable a los establecimientos permanentes. En el 
 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Rango de Superficie
 
@@ -13681,37 +14817,37 @@ por m2 excedente
 
 del límite inferior
 
-0.01 500.00 $1,210.40 $0.0000
+0.01 500.00 $1,356.98 $1,357
 
-500.01 1,000.00 $1,210.40 $3.3895
+500.01 1,000.00 $1,356.98 $1,357
 
-1,000.01 2,500.00 $2,905.62 $2.5310
+1,000.01 2,500.00 $3,257.49 $3,257
 
-2,500.01 5,000.00 $6,703.40 $1.3702
+2,500.01 5,000.00 $7,515.18 $7,515
 
-5,000.01 10,000.00 $10,131.36 $0.8729
+5,000.01 10,000.00 $11,358.27 $11,358
 
-10,000.01 15,000.00 $14,500.08 $0.6711
+10,000.01 15,000.00 $16,256.04 $16,256
 
-15,000.01 20,000.00 $17,861.34 $0.5852
+15,000.01 20,000.00 $20,024.35 $20,024
 
-20,000.01 25,000.00 $20,791.06 $0.5062
+20,000.01 25,000.00 $23,308.86 $23,309
 
-25,000.01 50,000.00 $23,326.49 $0.4202
+25,000.01 50,000.00 $26,151.33 $26,151
 
-50,000.01 100,000.00 $33,859.92 $0.2323
+50,000.01 100,000.00 $37,960.36 $37,960
 
-100,000.01 150,000.00 $45,533.36 $0.1758
+100,000.01 150,000.00 $51,047.45 $51,047
 
-150,000.01 En adelante $54,363.41 $0.1175
+150,000.01 En adelante $60,946.82 $60,947
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la cesión de la concesión
 
-entre particulares $3,952.31 $3,952
+entre particulares $4,430.93 $4,431
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -13747,7 +14883,7 @@ A. (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 B. Por la expedición de permisos, autorizaciones y certificados:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el trámite y, en su caso,
 
@@ -13759,13 +14895,13 @@ biológico de flora y fauna silvestres,
 
 terrestres y acuáticas realizada en
 
-el país por extranjeros $12,061.48 $12,061
+el país por extranjeros $13,522.13 $13,522
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 Las personas que realicen colecta científica en el país, bajo algún convenio con el Gobierno Federal o con alguna institución mexicana, así como con investigadores mexicanos registrados en el sistema nacional de investigadores, no pagarán los derechos a que se refieren las fracciones I y III de este apartado.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la recepción y trámite de
 
@@ -13793,9 +14929,9 @@ Flora Silvestres de la que México
 
 forma parte, cualquiera que sea
 
-su resolución $425.05 $425
+su resolución $476.52 $477
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Para colecta de material parental
 
@@ -13815,15 +14951,15 @@ Silvestres, de la que México forma
 
 parte, para su reproducción o
 
-propagación $505.85 $506
+propagación $567.11 $567
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la autorización de colecta
 
 de recursos biológicos con fines de
 
-utilización en biotecnología $12,222.17 $12,222
+utilización en biotecnología $13,702.27 $13,702
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
@@ -13839,11 +14975,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada solicitud de registro
 
-en materia de vida silvestre $331.20 $331
+en materia de vida silvestre $371.31 $371
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13851,7 +14987,7 @@ en materia de vida silvestre $331.20 $331
 
 No se pagará el derecho que se establece en esta fracción cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, de mascotas y aves de presa, de prestadores de servicios en materia de vida silvestre, así como de colecciones científicas o museográficas públicas o privadas.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por el trámite y, en su caso,
 
@@ -13861,17 +14997,17 @@ prestadores de servicios de
 
 aprovechamiento en caza
 
-deportiva $919.32 $919
+deportiva $1,030.65 $1,031
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la expedición de cintillo
 
-de aprovechamiento cinegético $213.12 $213
+de aprovechamiento cinegético $238.93 $239
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13879,13 +15015,13 @@ de aprovechamiento cinegético $213.12 $213
 
 IV.- Por la expedición o reposición de cada licencia de caza deportiva:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). De modalidad anual $413.91 $414
+a). De modalidad anual $464.03 $464
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). De modalidad indefinida $1,287.00
+b). De modalidad indefinida $1,442.86 $1,443
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -13899,21 +15035,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Distrito Federal, México, Morelos,
 
-Puebla, Tlaxcala, Hidalgo y Querétaro $14.82 $15
+Puebla, Tlaxcala, Hidalgo y Querétaro $16.61 $17
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Jalisco, Michoacán, Aguascalientes,
 
 Guanajuato, Nuevo León, San Luis
 
-Potosí y Zacatecas $19.98 $20
+Potosí y Zacatecas $22.40 $22
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Baja California, Baja California Sur,
 
@@ -13925,13 +15061,13 @@ Tabasco, Guerrero, Oaxaca, Chiapas,
 
 Campeche, Yucatán, Quintana Roo y
 
-Sinaloa $24.94 $25
+Sinaloa $27.96 $28
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por supervisión anual, por
 
-Hectárea $7.32 $7
+Hectárea $8.21 $8
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -13949,7 +15085,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la recepción, evaluación
 
@@ -13957,39 +15093,39 @@ y, en su caso, el otorgamiento
 
 de la resolución del informe
 
-preventivo $8,680.32 $8,680
+preventivo $9,731.51 $9,732
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 II.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación de impacto ambiental, en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). $23,342.98 $23,343
+a). $26,169.81 $26,170
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). $46,687.06 $46,687
+b). $52,340.86 $52,341
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). $70,031.14 $70,031
+c). $78,511.91 $78,512
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 III.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación del impacto ambiental, en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). $30,547.68 $30,548
+a). $34,247.00 $34,247
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). $61,094.26 $61,094
+b). $68,492.77 $67,493
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). $91,640.83 $91,641
+c). $102,738.53 $102,739
 
 IV.- (DEROGADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -14005,7 +15141,7 @@ El pago de los derechos de las fracciones II y III de este artículo se hará co
 
 V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la evaluación y
 
@@ -14015,13 +15151,13 @@ modificación de proyectos
 
 autorizados en materia de
 
-impacto ambiental $6,254.80 $6,255
+impacto ambiental $7,012.26 $7,012
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por la evaluación de la
 
@@ -14043,7 +15179,7 @@ Ambiente en Materia de
 
 Evaluación del Impacto Ambiental,
 
-se pagará la cuota de: $2,869.00 $2,869
+se pagará la cuota de: $3,216.44 $3,216
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14053,21 +15189,21 @@ se pagará la cuota de: $2,869.00 $2,869
 
 Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $20,610.00
+I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $22,246.43 $22,246
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $20,610.00
+II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $22,246.43 $22,246
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $20,610.00
+III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $22,246.43 $22,246
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota $17,775.00
+Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota $19,186.34 $19,186
 
 ###### ARTICULO 194-J.
 
@@ -14087,27 +15223,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,000 metros cúbicos $3,740.24 $3,740
+hasta 1,000 metros cúbicos $4,193.18 $4,193
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De más de 1,000 metros cúbicos
 
-hasta 5,000 metros cúbicos $5,111.66 $5,112
+hasta 5,000 metros cúbicos $5,730.68 $5,731
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- De más de 5,000 metros
 
-cúbicos en adelante $6,545.43 $6,545
+cúbicos en adelante $7,338.08 $7,338
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -14143,25 +15279,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,500 metros cúbicos $2,365.21 $2,365
+hasta 1,500 metros cúbicos $2,651.64 $2,652
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De más de 1,500 metros cúbicos
 
-hasta 3,000 metros cúbicos $3,193.03 $3,193
+hasta 3,000 metros cúbicos $3,579.71 $3,580
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- De más de 3,000 metros cúbicos $4,139.12 $4,139
+IV.- De más de 3,000 metros cúbicos $4,640.37 $4,640
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -14197,31 +15333,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Hasta 1 hectárea $810.39 $810
+I. Hasta 1 hectárea $908.53 $909
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. De más de 1 hectárea hasta
 
-10 hectáreas $1,122.07 $1,122
+10 hectáreas $1,257.95 $1,258
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. De más de 10 hectáreas hasta
 
-50 hectáreas $2,368.82 $2,369
+50 hectáreas $2,655.68 $2,656
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV. De más de 50 hectáreas
 
-hasta 200 hectáreas $4,737.64 $4,738
+hasta 200 hectáreas $5,311.37 $5,311
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V. De más de 200 hectáreas $7,231.13 $7,231
+V. De más de 200 hectáreas $8,106.82 $8,107
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -14231,7 +15367,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 194-N.
 
@@ -14253,13 +15389,13 @@ hectáreas o, en su caso, en sustitución
 
 de vegetación nativa, se pagará la
 
-cuota de $5,111.66 $5,112
+cuota de $5,730.68 $5,731
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 194-N
 
@@ -14271,7 +15407,7 @@ modificación del Registro Forestal
 
 Nacional, se pagarán derechos, por
 
-cada uno, conforme a la cuota de $311.69 $312
+cada uno, conforme a la cuota de $349.44 $349
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -14283,7 +15419,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la expedición de cada
 
@@ -14293,15 +15429,29 @@ importación de productos y
 
 subproductos forestales fuera de
 
-la región y franja fronteriza $935.07 $935
+la región y franja fronteriza $1,048.31 $1,048
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-II. Por la verificación de la calidad sanitaria de los embarques y, en su caso, la expedición de cada certificado fitosanitario internacional para la exportación o la reexportación de materias primas o productos forestales $748.05
+II. Por la verificación de la calidad
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+sanitaria de los embarques y, en
+
+su caso, la expedición de cada
+
+certificado fitosanitario
+
+internacional para la exportación
+
+o la reexportación de materias
+
+primas o productos forestales $838.64 $839
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la emisión del dictamen técnico
 
@@ -14311,13 +15461,13 @@ muestras entomológicas o patológicas
 
 detectadas en productos y/o subproductos
 
-forestales de importación $1,059.74 $1,060
+forestales de importación $1,188.07 $1,188
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 194-N
 
@@ -14333,7 +15483,7 @@ transformación de materias primas
 
 forestales, se pagará el derecho
 
-conforme a la cuota de $1,371.42 $1,371
+conforme a la cuota de $1,537.50 $1,537
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -14345,19 +15495,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por colecta de recursos biológicos
 
 forestales con fines biotecnológicos
 
-comerciales $11,007.74 $11,008
+comerciales $12,340.78 $12,341
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por colecta de recursos biológicos
 
-forestales con fines científicos $1,264.07 $1,264
+forestales con fines científicos $1,417.15 $1,417
 
 III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -14379,19 +15529,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la recepción y evaluación de
 
-solicitud de licencia $1,870.12 $1,870
+solicitud de licencia $2,096.59 $2,097
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Actualización de la licencia de
 
 funcionamiento o de la licencia
 
-ambiental $935.07 $935
+ambiental $1,048.31 $1,048
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -14427,55 +15577,55 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Operación de unidades para la
 
 recolección y transporte de residuos
 
-peligrosos $2,963.96 $2,964
+peligrosos $3,322.90 $3,323
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Instalación y operación de centros
 
 de acopio y almacenamiento de
 
-residuos peligrosos $2,962.37 $2,962
+residuos peligrosos $3,321.11 $3,321
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Instalación y operación de sistemas
 
 de reciclaje o coprocesamiento de
 
-residuos peligrosos $1,870.12 $1,870
+residuos peligrosos $2,096.59 $2,097
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV. Instalación y operación de sistemas
 
 de reutilización de residuos
 
-peligrosos $1,870.12 $1,870
+peligrosos $2,096.59 $2,097
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Instalación y operación de
 
 sistemas de tratamiento de residuos
 
-peligrosos $4,882.67 $4,883
+peligrosos $5,473.96 $5,474
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI. Instalación y operación de
 
 sistemas de incineración de
 
-residuos peligrosos $39,356.34 $39,356
+residuos peligrosos $44,122.39 $44,122
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII. Instalación y operación de
 
@@ -14483,13 +15633,13 @@ sistemas para el confinamiento
 
 o disposición final de residuos
 
-peligrosos $64,804.31 $64,804
+peligrosos $72,652.11 $72,652
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII. Prestación de servicios de
 
-manejo de residuos peligrosos $4,631.08 $4,631
+manejo de residuos peligrosos $5,191.90 $5,192
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -14511,17 +15661,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para importar residuos peligrosos
 
 o residuos que no tienen características
 
-de peligrosidad $1,503.42 $1,503
+de peligrosidad $1,685.48 $1,685
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Para exportar residuos peligrosos $706.32 $706
+II.- Para exportar residuos peligrosos $791.86 $792
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -14531,7 +15681,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 194-T
 
@@ -14547,7 +15697,7 @@ actividades altamente riesgosas,
 
 pagarán el derecho, conforme a la
 
-cuota de $1,847.06 $1,847
+cuota de $2,070.74 $2,071
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -14559,39 +15709,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Estudio de riesgo Nivel 0 $853.61 $854
+I.- Estudio de riesgo Nivel 0 $956.98 $957
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Estudio de riesgo Nivel 1 $1,305.63 $1,306
+II.- Estudio de riesgo Nivel 1 $1,463.74 $1,464
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Estudio de riesgo Nivel 2 $1,933.56 $1,934
+III.- Estudio de riesgo Nivel 2 $2,167.71 $2,168
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Estudio de riesgo Nivel 3 $2,653.06 $2,653
+IV.- Estudio de riesgo Nivel 3 $2,974.35 $2,974
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental se pagará el 50% de la cuota establecida en las fracciones del presente artículo.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 194-T
 
-4.- Por la recepción, análisis y, en su caso, autorización de la solicitud para importar plaguicidas, nutrientes vegetales y sustancias o materiales tóxicos o peligrosos, así como para exportar materiales peligrosos, se pagará la cuota de:…..$1,000.00
+4.- Por la recepción, análisis y, en su caso, autorización de la solicitud para importar plaguicidas, nutrientes vegetales y sustancias o materiales tóxicos o peligrosos, así como para exportar materiales peligrosos, se pagará la cuota de:…..$1,034.80 $1,035
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 194-T
 
-5.- Por la recepción, análisis y, en su caso, registro de cada plan de manejo o de condiciones particulares de manejo de residuos peligrosos, de grandes generadores, se pagará la cuota de $500.00
+5.- Por la recepción, análisis y, en su caso, registro de cada plan de manejo o de condiciones particulares de manejo de residuos peligrosos, de grandes generadores, se pagará la cuota de $560.55 $561
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -14615,23 +15767,25 @@ ajuste ajuste
 
 I. Pasivo ambiental:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Por volumen de suelo hasta por 1000 m³ $1,000.00
+a). Por volumen de suelo hasta por 1000 m³ $1,121.10 $1,121
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Por metro cúbico adicional $1.50
+b). Por metro cúbico adicional $1.68
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-El monto del derecho a que se refiere esta fracción no podrá exceder de $35,000.00
+El monto del derecho a que se refiere
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+esta fracción no podrá exceder de $39,238.50 $39,238
 
-II. Emergencia ambiental $1,062.30 $1,062
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+II. Emergencia ambiental $1,190.94 $1,191
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tratándose de la solicitud de
 
@@ -14639,7 +15793,7 @@ autorización para la transferencia
 
 de sitios contaminados se pagará
 
-la cuota de $3,186.90 $3,187
+la cuota de $3,572.83 $3,573
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -14655,7 +15809,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la verificación del cumplimiento
 
@@ -14689,9 +15843,9 @@ reutilización, el reciclaje, el
 
 co-procesamiento o el tratamiento de
 
-los mismos $480.42 $480
+los mismos $538.60 $539
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la verificación del cumplimiento
 
@@ -14721,9 +15875,9 @@ o incineración de los mismos en el país
 
 importador, o bien, sea distinto al comercio
 
-o la industrialización $128.80 $129
+o la industrialización $144.40 $144
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la constancia de cumplimiento
 
@@ -14733,9 +15887,9 @@ envolturas, tarimas y embalajes de
 
 madera que se importan como soporte
 
-de mercancías $133.55 $134
+de mercancías $149.72 $150
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la expedición del acta para
 
@@ -14753,33 +15907,35 @@ marinas de jurisdicción federal,
 
 que acrediten la debida instalación
 
-de los excluidores, por cada acta $1,340.40 $1,340
+de los excluidores, por cada acta $1,502.72 $1,503
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la expedición de la constancia
 
 de no daño ambiental en la zona federal
 
-marítimo terrestre $3,179.90 $3,180
+marítimo terrestre $3,564.99 $3,565
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la revisión, evaluación y, en su
 
 caso, certificación de vehículos nuevos
 
-en planta, por cada vehículo $15.54 $16
+en planta, por cada vehículo $17.42 $17
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por la revisión, evaluación y
 
 certificación excepcional de vehículos
 
-nuevos, por cada vehículo $333.14 $333
+nuevos, por cada vehículo $373.48 $373
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 VIII.- Por el análisis de la solicitud y,
 
@@ -14805,7 +15961,7 @@ derechos por cada solicitud,
 
 independientemente del número de
 
-aprobaciones emitidas $11,968.77 $11,969
+aprobaciones emitidas $13,418.19 $13,418
 
 Las unidades de verificación que soliciten la aprobación para ser consideradas auditores ambientales dentro del Programa Nacional de Auditoría Ambiental, no pagarán los derechos a que se refiere esta fracción. Dichas unidades de verificación deberán pagar el referido derecho cuando pretendan obtener la aprobación para evaluar la conformidad de una norma oficial mexicana expedida por la Secretaría de Medio Ambiente y Recursos Naturales.
 
@@ -14823,13 +15979,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Personas físicas $10,370.68 $10,371
+I.- Personas físicas $11,626.57 $11,627
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Personas morales $15,556.02 $15,556
+II.- Personas morales $17,439.85 $17,440
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -14842,6 +15998,8 @@ Los ingresos que se obtengan por la recaudación de los derechos contenidos de l
 ###### ARTICULO 194-X.
 
 Cuando los solicitantes, con base en el artículo 109-Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y conforme a los lineamientos de carácter general que emita la Secretaría de Medio Ambiente y Recursos Naturales, presenten una solicitud única para dos o más trámites o servicios establecidos de la Sección Quinta a la Sección Novena del presente Capítulo para la autorización de un proyecto, sólo pagarán el derecho más alto que corresponda a los trámites y servicios solicitados.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14873,35 +16031,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Televisión e Internet $18,440.00
+a). Televisión e Internet $19,081.71 $19,082
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Cine, video en lugares públicos
 
 cerrados y en medios de transporte
 
-público $2,368.82 $2,369
+público $2,655.68 $2,656
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Radio $1,683.11 $1,683
+c).- Radio $1,886.93 $1,887
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d).- Prensa $561.04 $561
+d).- Prensa $628.98 $629
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e). Folletos, catálogos, carteles y otros
 
-medios similares $386.49 $386
+medios similares $433.29 $433
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-f).- Anuncios en exteriores $2,992.19 $2,992
+f).- Anuncios en exteriores $3,354.54 $3,355
 
 Los derechos que se establecen en esta fracción, se pagarán por cada tipo de mensaje que comprenda la autorización que se otorgue, según el medio publicitario que se utilice de los señalados en los incisos de esta fracción.
 
@@ -14921,21 +16079,21 @@ II.- (DEROGADA. D.O.F. 13 DE NOVIEMBRE DE 2008)
 
 III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, o por cada solicitud de visita de verificación sanitaria en el extranjero para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Por fábrica o laboratorio $63,187.00
+a). Por fábrica o laboratorio $70,838.95 $70,839
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Por almacén de depósito y distribución $20,470.00
+b). Por almacén de depósito y distribución $22,948.92 $22,949
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Por farmacia o botica $997.40 $997
+c).- Por farmacia o botica $1,118.19 $1,118
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d).- Droguerías $2,493.49 $2,493
+d).- Droguerías $2,795.45 $2,795
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14953,7 +16111,7 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por cada solicitud y, en su caso,
 
@@ -14963,7 +16121,7 @@ establecimientos de atención médica
 
 donde se practiquen actos quirúrgicos
 
-u obstétricos, por cada uno: $14,572.80 $14,573
+u obstétricos, por cada uno: $16,337.57 $16,338
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -14989,15 +16147,15 @@ ajuste ajuste
 
 I.- Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Medicamento genérico $53,608.00
+a). Medicamento genérico $60,099.93 $60,100
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Medicamento molécula nueva $95,854.00
+b). Medicamento molécula nueva $107,461.92 $107,462
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la solicitud y, en su caso,
 
@@ -15009,21 +16167,21 @@ vitamínicos, se pagará por cada
 
 uno el derecho conforme a la
 
-cuota de $12,747.60 $12,748
+cuota de $14,291.33 $14,291
 
 III.- Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Clase I $7,967.25 $7,967
+a). Clase I $8,932.08 $8,932
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Clase II $11,685.30 $11,685
+b). Clase II $13,100.39 $13,100
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Clase III $14,872.20 $14,872
+c). Clase III $16,673.22 $16,673
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15031,31 +16189,31 @@ c). Clase III $14,872.20 $14,872
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, según la categoría toxicológica que le corresponda, y nutrientes vegetales, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Categoría toxicológica 1 $53,217.22 $53,217
+a). Categoría toxicológica 1 $59,661.83 $59,662
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Categoría toxicológica 2 $44,347.68 $44,348
+b). Categoría toxicológica 2 $49,718.18 $49,718
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Categoría toxicológica 3 $31,168.68 $31,169
+c). Categoría toxicológica 3 $34,943.21 $34,943
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d). Categoría toxicológica 4 $22,469.49 $22,469
+d). Categoría toxicológica 4 $25,190.55 $25,191
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e). Categoría toxicológica 5…..$15,713.00
+e). Categoría toxicológica 5….. $16,259.81 $16,260
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-f). Nutrientes vegetales $4,990.89 $4,991
+f). Nutrientes vegetales $5,164.57 $5,165
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la solicitud y, en su caso,
 
@@ -15063,9 +16221,9 @@ el registro de cada producto que
 
 contenga sustancias tóxicas de alto
 
-y mediano riesgo para la salud $5,855.91 $5,856
+y mediano riesgo para la salud $6,565.06 $6,565
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la solicitud y, en su caso,
 
@@ -15073,7 +16231,7 @@ el registro de cada producto que
 
 contenga sustancias tóxicas de
 
-bajo riesgo para la salud $1,170.88 $1,171
+bajo riesgo para la salud $1,312.67 $1,313
 
 Por las modificaciones de la razón o denominación social o de propietario, de los registros señalados en las fracciones anteriores de este artículo, se pagará el 50% del derecho de registro que corresponda.
 
@@ -15087,35 +16245,35 @@ Por otras modificaciones, renovación o prórroga que se soliciten a los registr
 
 VII. Por la solicitud y, en su caso, el otorgamiento de cada permiso para la importación de plaguicidas, según la categoría toxicológica que le corresponda, y de nutrientes vegetales y de sustancias tóxicas, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Categoría toxicológica 1 $19,956.46 $19,956
+a). Categoría toxicológica 1 $22,373.19 $22,373
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Categoría toxicológica 2 $10,136.11 $10,136
+b). Categoría toxicológica 2 $11,363.59 $11,364
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Categoría toxicológica 3 $4,363.62 $4,364
+c). Categoría toxicológica 3 $4,892.05 $4,892
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d). Categoría toxicológica 4 $1,685.21 $1,685
+d). Categoría toxicológica 4 $1,889.29 $1,889
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e). Categoría toxicológica 5…..$1,207.00
+e). Categoría toxicológica 5….. $1,249.00 $1,249
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-f). Nutrientes vegetales $2,988.04 $2,988
+f). Nutrientes vegetales $3,092.02 $3,092
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-g). Sustancias tóxicas $2,968.60 $2,969
+g). Sustancias tóxicas $3,071.91 $3,072
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por la solicitud y, en su caso,
 
@@ -15123,15 +16281,23 @@ expedición de la licencia sanitaria de
 
 Bancos de Sangre, se pagará el derecho
 
-conforme a la cuota de $8,278.23 $8,278
+conforme a la cuota de $9,280.72 $9,281
 
 Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 75% del derecho que corresponda.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX.- Por cada solicitud y, en su caso, autorización del permiso de importación para suplementos alimenticios, se pagará el derecho conforme a la cuota de: $3,400.00
+IX.- Por cada solicitud y, en su caso,
+
+autorización del permiso de
+
+importación para suplementos
+
+alimenticios, se pagará el derecho
+
+conforme a la cuota de: $3,811.74 $3,812
 
 Por las modificaciones o prórrogas que se soliciten a los permisos señalados en esta fracción, se pagará el 75% del derecho que corresponda.
 
@@ -15139,21 +16305,21 @@ Por las modificaciones o prórrogas que se soliciten a los permisos señalados e
 
 X.- Por la solicitud y, en su caso, expedición de la licencia sanitaria para:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Establecimientos con disposición
 
-de órganos, tejidos y células $7,948.80 $7,949
+de órganos, tejidos y células $8,911.40 $8,911
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b). Bancos de órganos, tejidos y células $7,948.80 $7,949
+b). Bancos de órganos, tejidos y células $8,911.40 $8,911
 
 Por la modificación a la licencia sanitaria a que se refiere esta fracción, se pagará el 75% de la cuota del derecho que corresponda conforme a los incisos anteriores.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XI.- Por cada solicitud y, en su caso,
 
@@ -15167,13 +16333,13 @@ modificación a la apariencia física
 
 mediante tatuajes, perforación o
 
-micropigmentación $3,643.20 $3,643
+micropigmentación $4,084.39 $4,084
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 Por la modificación o prórrogas de la tarjeta de control sanitario señalados en esta fracción, se pagará el 75% de la cuota del derecho que corresponda.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XII.- Por cada solicitud y, en su caso,
 
@@ -15191,9 +16357,9 @@ de alimentos para consumo humano
 
 o que se destinen a una finalidad de
 
-salud pública o a la biorremediación. $165,600.00
+salud pública o a la biorremediación. $185,654.16 $185,654
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- Por la expedición de cada
 
@@ -15205,7 +16371,7 @@ derecho de certificados, para libre
 
 venta o para exportación conforme
 
-a la cuota de $2,227.34 $2,227
+a la cuota de $2,304.85 $2,305
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -15231,7 +16397,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada solicitud de visita de
 
@@ -15257,11 +16423,11 @@ intervengan en su elaboración,
 
 por tipo de producto, se pagará la
 
-cuota de $1,745.45 $1,745
+cuota de $1,956.82 $1,957
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de $5,978.00
+II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de $6,701.94 $6,702
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15275,15 +16441,15 @@ Quedan exceptuados del pago del derecho establecido en esta fracción, las insti
 
 III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Constatación de destrucción $1,765.61 $1,766
+a).- Constatación de destrucción $1,979.43 $1,979
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Enfajillamiento, sello y lacre
 
-con fines de exportación $1,765.61 $1,766
+con fines de exportación $1,979.43 $1,979
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -15297,31 +16463,31 @@ ajuste ajuste
 
 I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De alto riesgo sanitario $5,928.56 $5,929
+a).- De alto riesgo sanitario $6,646.51 $6,647
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De riesgo medio sanitario $3,952.31 $3,952
+b).- De riesgo medio sanitario $4,430.93 $4,431
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De riesgo bajo sanitario $1,975.98 $1,976
+c).- De riesgo bajo sanitario $2,215.27 $2,215
 
 II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- De alto riesgo sanitario $1,185.49 $1,185
+a).- De alto riesgo sanitario $1,329.05 $1,329
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- De riesgo medio sanitario $987.75 $988
+b).- De riesgo medio sanitario $1,107.37 $1,107
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- De riesgo bajo sanitario $790.19 $790
+c).- De riesgo bajo sanitario $885.88 $886
 
 ###### ARTICULO 195-D
 
@@ -15341,47 +16507,47 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Libre venta para exportación de
 
-insumos para la salud $1,431.84 $1,432
+insumos para la salud $1,605.24 $1,605
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- De transportes, de riesgo alto
 
 o medio, directo o indirecto, para
 
-la salud humana $1,580.75 $1,581
+la salud humana $1,772.18 $1,772
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- De transportes de riesgo bajo,
 
 directo o indirecto, para la salud
 
-humana $790.19 $790
+humana $885.88 $886
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Sobre pozos de agua para
 
 abastecimiento privado, para
 
-determinar su calidad sanitaria $4,200.11 $4,200
+determinar su calidad sanitaria $4,708.74 $4,709
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Sobre la calidad sanitaria
 
 fisicoquímica y bactereológica del
 
-agua de uso y consumo humano $1,975.98 $1,976
+agua de uso y consumo humano $2,215.27 $2,215
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Sobre las condiciones sanitarias
 
@@ -15393,25 +16559,25 @@ consumo humano o industrial, que
 
 utilicen como fuente de abastecimiento
 
-los pozos de carácter privado $5,928.56 $5,929
+los pozos de carácter privado $6,646.51 $6,647
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Equipos e instalaciones para el
 
 proceso del agua para uso y consumo
 
-humano e industrial $3,952.31 $3,952
+humano e industrial $4,430.93 $4,431
 
 IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Por cada certificado de buenas
 
 prácticas de fabricación o de
 
-manufactura de insumos para la salud $1,344.30 $1,344
+manufactura de insumos para la salud $1,507.09 $1,507
 
 ###### ARTICULO 195-F.
 
@@ -15431,11 +16597,13 @@ ajuste ajuste
 
 I.- De alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como por las materias primas y aditivos que intervengan en su elaboración:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por cada solicitud de permiso de importación $3,400.00
+a).- Por cada solicitud de permiso
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+de importación $3,811.74 $3,812
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por cada solicitud de prórroga,
 
@@ -15445,17 +16613,17 @@ modificación relacionada con el
 
 permiso sanitario previo de
 
-importación $636.33 $636
+importación $713.39 $713
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por el muestreo de los productos
 
 señalados en el permiso sanitario
 
-previo de importación $1,510.22 $1,510
+previo de importación $1,693.11 $1,693
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por cualquier otra modalidad
 
@@ -15463,7 +16631,7 @@ relacionada con la autorización
 
 sanitaria previa de importación
 
-no especificada $226.86 $227
+no especificada $254.33 $254
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15471,65 +16639,73 @@ no especificada $226.86 $227
 
 II.- De materias primas y productos terminados de medicamentos que no sean o contengan estupefacientes o psicotrópicos:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por cada solicitud del permiso sanitario de importación de materia prima $3,525.00
+a).- Por cada solicitud del
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+permiso sanitario de
 
-b).- Por cada solicitud del permiso sanitario de importación de producto terminado $3,525.00
+importación de materia prima $3,951.88 $3,952
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+b).- Por cada solicitud del
+
+permiso sanitario de
+
+importación de producto terminado $3,951.88 $3,952
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 c).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $212.70 $213
+importación $238.46 $238
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- De materias primas y productos terminados de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, y productos higiénicos:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por cada solicitud del permiso
 
 sanitario de importación en materia
 
-prima $1,505.04 $1,505
+prima $1,687.30 $1,687
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por cada solicitud del permiso
 
 sanitario de importación de producto
 
-terminado $1,505.04 $1,505
+terminado $1,687.30 $1,687
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por cada solicitud del permiso
 
-sanitario de importación para donación $212.70 $213
+sanitario de importación para donación $238.46 $238
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $212.70 $213
+importación $238.46 $238
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De materia prima y producto
 
@@ -15537,19 +16713,19 @@ terminado de medicamentos que
 
 sean o contengan estupefacientes
 
-o sustancias psicotrópicas $1,505.04 $1,505
+o sustancias psicotrópicas $1,687.30 $1,687
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario
 
-previo de exportación $212.70 $213
+previo de exportación $238.46 $238
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15557,21 +16733,37 @@ previo de exportación $212.70 $213
 
 V.- De materias primas y productos terminados de medicamentos que sean o contengan estupefacientes o psicotrópicos:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a). Por cada solicitud del permiso sanitario de importación de materia prima $6,866.00
+a). Por cada solicitud del permiso
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+sanitario de importación de
 
-b). Por cada solicitud del permiso sanitario de importación de producto terminado $6,866.00
+materia prima $7,697.47 $7,697
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c). Por cada solicitud del permiso sanitario de importación para uso personal $193.00
+b). Por cada solicitud del permiso
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+sanitario de importación de
 
-d). Por la modificación o prórroga en el permiso sanitario de importación $193.00
+producto terminado $7,697.47 $7,697
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+c). Por cada solicitud del
+
+permiso sanitario de
+
+importación para uso personal $216.27 $216
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+d). Por la modificación o
+
+prórroga en el permiso
+
+sanitario de importación $216.37 $216
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -15583,7 +16775,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada uno de los trámites de
 
@@ -15593,9 +16785,9 @@ análisis de laboratorio, así como por
 
 cualquier otra modalidad relacionada
 
-y no especificada $726.86 $727
+y no especificada $814.88 $815
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- En caso de certificados que
 
@@ -15603,15 +16795,15 @@ requieran de muestreo para análisis
 
 de laboratorio se pagará
 
-adicionalmente $1,180.23 $1,180
+adicionalmente $1,323.16 $1,323
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la corrección o modificación
 
 de un certificado expedido y que se
 
-encuentre vigente $545.10 $545
+encuentre vigente $611.11 $611
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
@@ -15625,7 +16817,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por los servicios de trámite de
 
@@ -15639,9 +16831,9 @@ fármacos o medicamentos que
 
 contengan estupefacientes o
 
-psicotrópicos $1,340.40 $1,340
+psicotrópicos $1,502.72 $1,503
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la solicitud de liberación
 
@@ -15657,7 +16849,7 @@ biotecnológicos, hemoderivados
 
 o antibióticos, se pagará por
 
-cada solicitud de liberación $1,359.84 $1,360
+cada solicitud de liberación $1,524.52 $1,525
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -15665,21 +16857,21 @@ III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios de insumos para la salud, con motivo de pérdida, robo o extravío, se pagará conforme a la siguiente cuota:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por la reposición de cada
 
-licencia sanitaria $518.53 $519
+licencia sanitaria $581.32 $581
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por la reposición de cada
 
-registro sanitario $1,037.05 $1,037
+registro sanitario $1,162.64 $1,163
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por el servicio de trámite de
 
@@ -15695,9 +16887,9 @@ sanitario, se pagará por cada
 
 solicitud de protocolo de
 
-investigación $3,957.67 $3,958
+investigación $4,436.94 $4,437
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por cada solicitud de
 
@@ -15705,7 +16897,7 @@ autorización de la clave
 
 alfanumérica de remedios
 
-herbolarios, se pagará $3,024.33 $3,024
+herbolarios, se pagará $3,390.58 $3,391
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15723,21 +16915,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por la expedición $5,746.64 $5,747
+I.- Por la expedición $6,442.56 $6,443
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la corrección del certificado
 
-sanitario $236.01 $236
+sanitario $264.59 $265
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por cualquier otra modalidad
 
-no especificada $236.01 $236
+no especificada $264.59 $265
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -15749,13 +16941,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- De cesión de derechos de autorizaciones
 
-sanitarias entre personas físicas $97.26 $97
+sanitarias entre personas físicas $109.04 $109
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De cesión de derechos de
 
@@ -15763,7 +16955,7 @@ autorizaciones sanitarias entre
 
 personas morales o entre personas
 
-físicas y morales $487.67 $488
+físicas y morales $546.73 $547
 
 III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
@@ -15777,21 +16969,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por dictamen provisional $3,064.77 $3,065
+I.- Por dictamen provisional $3,435.91 $3,436
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por dictamen definitivo, incluida
 
-la visita de inspección y vigilancia $13,792.32 $13,792
+la visita de inspección y vigilancia $15,462.57 $15,463
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por dictamen anual, incluida la
 
-visita de inspección y vigilancia $9,194.40 $9,194
+visita de inspección y vigilancia $10,307.84 $10,308
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -15803,15 +16995,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada solicitud y, en su caso,
 
 la expedición de licencia sanitaria
 
-de Servicios de Transfusión $715.68 $716
+de Servicios de Transfusión $802.35 $802
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la solicitud de permiso de
 
@@ -15819,15 +17011,15 @@ internación o salida de unidades de
 
 sangre, componentes y células
 
-progenitoras hematopoyéticas $434.27 $434
+progenitoras hematopoyéticas $486.86 $487
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la solicitud de autorización de
 
 ingresos de sangre y
 
-hemocomponentes $550.94 $551
+hemocomponentes $617.66 $618
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -15837,7 +17029,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
@@ -15851,13 +17043,13 @@ para potabilización de agua tipo
 
 doméstico, se pagarán derechos
 
-conforme a la cuota de $3,240.84 $3,241
+conforme a la cuota de $3,633.31 $3,633
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
@@ -15871,13 +17063,13 @@ bivalvos y de las especies que se
 
 cultivan o cosechan, se pagarán
 
-derechos conforme a la cuota de $9,430.83 $9,431
+derechos conforme a la cuota de $10,572.90 $10,573
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
@@ -15891,13 +17083,13 @@ Programa Mexicano de Sanidad de
 
 Moluscos Bivalvos, se pagarán derechos
 
-conforme a la cuota de $9,346.57 $9,347
+conforme a la cuota de $10,478.44 $10,478
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
@@ -15909,13 +17101,13 @@ Mexicano de Sanidad de Moluscos
 
 Bivalvos, se pagarán derechos
 
-conforme a la cuota de $10,759.57 $10,760
+conforme a la cuota de $12,062.55 $12,063
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
@@ -15925,7 +17117,7 @@ de cumplimiento a la Norma Oficial
 
 Mexicana, se pagarán derechos
 
-conforme a la cuota de $2,096.16 $2,096
+conforme a la cuota de $2,350.00 $2,350
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -15937,15 +17129,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la licencia sanitaria para
 
 servicios urbanos de fumigación y
 
-control de plagas $3,402.87 $3,403
+control de plagas $3,814.96 $3,815
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la licencia sanitaria para
 
@@ -15953,9 +17145,9 @@ establecimientos que fabrican
 
 sustancias tóxicas o peligrosas
 
-para la salud $10,007.70 $10,008
+para la salud $11,219.63 $11,220
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la licencia sanitaria para
 
@@ -15965,13 +17157,13 @@ formulan, mezclan o envasan
 
 plaguicidas y nutrientes
 
-vegetales $15,944.93 $15,945
+vegetales $17,875.86 $17,876
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
-9.- Por la solicitud y, en su caso, expedición de licencia sanitaria para establecimientos que utilicen fuentes de radiación para fines médicos o de diagnóstico, se pagarán derechos conforme a la cuota de…..$4,576.06 $4,576
+9.- Por la solicitud y, en su caso, expedición de licencia sanitaria para establecimientos que utilicen fuentes de radiación para fines médicos o de diagnóstico, se pagarán derechos conforme a la cuota de…..$5,130.22 $5,130
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15991,13 +17183,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por la expedición $1,950.99 $1,951
+I.- Por la expedición $2,187.25 $2,187
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por la modificación $1,069.47 $1,069
+II.- Por la modificación $1,198.98 $1,199
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -16009,19 +17201,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por la expedición $8,478.04 $8,478
+I.- Por la expedición $9,504.73 $9,505
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por la modificación $6,902.98 $6,903
+II.- Por la modificación $7,738.93 $7,739
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-K
 
@@ -16037,7 +17229,7 @@ determinadas como de alto riesgo, se
 
 pagarán derechos conforme a la cuota
 
-de $3,104.71 $3,105
+de $3,480.69 $3,481
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -16123,95 +17315,95 @@ ajuste ajuste
 
 I.- Por la inscripción de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Establecimiento de alimentos
 
-y bebidas $634.08 $634
+y bebidas $710.87 $711
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Transportación turística $686.30 $686
+b).- Transportación turística $769.41 $769
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Agencias de viajes $507.20 $507
+c).- Agencias de viajes $568.62 $569
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Establecimiento de hospedaje,
 
 campamentos y paradores de casas
 
-rodantes $895.36 $895
+rodantes $1,003.79 $1,004
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e).- Operadores de marinas turísticas $1,343.15 $1,343
+e).- Operadores de marinas turísticas $1,505.81 $1,506
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-f).- Guías de turistas $372.91 $373
+f).- Guías de turistas $418.07 $418
 
 g).- (DEROGADO D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- Empresas de sistemas de intercambio
 
-de servicios turísticos $505.36 $505
+de servicios turísticos $566.56 $567
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 i).- Operadoras turísticas de
 
-buceo $373.05 $373
+buceo $418.23 $418
 
 II.- Por la reposición de comprobantes de inscripción:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Establecimientos de alimentos
 
-y bebidas $410.22 $410
+y bebidas $459.90 $460
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Transportación turística $238.45 $238
+b).- Transportación turística $267.33 $267
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Agencias de viajes $283.30 $283
+c).- Agencias de viajes $317.61 $318
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 d).- Establecimientos de hospedaje,
 
 campamentos y paradores de casas
 
-rodantes $671.36 $671
+rodantes $752.66 $753
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 e).- Operadores de marinas
 
-turísticas $746.08 $746
+turísticas $836.43 $836
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-f).- Guías de turistas $223.50 $224
+f).- Guías de turistas $250.57 $251
 
 g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 h).- Empresas de sistemas de intercambio
 
-de servicios turísticos $283.30 $283
+de servicios turísticos $317.61 $318
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-i).- Operadoras turísticas de buceo $221.83 $222
+i).- Operadoras turísticas de buceo $248.69 $249
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -16223,47 +17415,47 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Establecimientos de alimentos
 
-y bebidas $634.08 $634
+y bebidas $710.87 $711
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Transportación turística $686.30 $686
+II.- Transportación turística $769.41 $769
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Agencias de viajes $511.46 $511
+III.- Agencias de viajes $573.40 $573
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Establecimientos de hospedaje,
 
 campamentos y paradores de
 
-casas rodantes $895.36 $895
+casas rodantes $1,003.79 $1,004
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Operadores de marinas turísticas $1,492.50 $1,492
+V.- Operadores de marinas turísticas $1,673.24 $1,673
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VI.- Guías de turistas $372.91 $373
+VI.- Guías de turistas $418.07 $418
 
 VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Empresas de sistemas de
 
-intercambio de servicios turísticos $510.04 $510
+intercambio de servicios turísticos $571.81 $572
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX.- Operadoras turísticas de buceo $373.05 $373
+IX.- Operadoras turísticas de buceo $418.23 $418
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -16301,7 +17493,7 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para la fabricación de armas de fuego,
 
@@ -16309,47 +17501,47 @@ cartuchos, cartuchos de fuego central,
 
 armas deportivas o municiones esféricas
 
-de plomo $5,453.03 $5,453
+de plomo $6,113.39 $6,113
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para la fabricación, importación
 
-y exportación de partes de escopeta $5,453.03 $5,453
+y exportación de partes de escopeta $6,113.39 $6,113
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Para la compra y consumo de
 
 cartuchos industriales, de salva o
 
-deportivos $5,453.03 $5,453
+deportivos $6,113.39 $6,113
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Para talleres dedicados a la
 
-reparación de armas de fuego o gas $5,370.34 $5,370
+reparación de armas de fuego o gas $6,020.69 $6,021
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- De importación o exportación de
 
 armas, cartuchos y elementos
 
-constitutivos $3,773.99 $3,774
+constitutivos $4,231.02 $4,231
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para la compra de cartuchos
 
 deportivos a los expendios
 
-autorizados $583.78 $584
+autorizados $654.48 $654
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la ampliación de vigencia
 
@@ -16357,15 +17549,15 @@ de un permiso ordinario de
 
 importación o exportación de armas
 
-y municiones $1,699.22 $1,699
+y municiones $1,905.00 $1,905
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la modificación de un permiso
 
 ordinario de importación o exportación
 
-de armas y municiones $1,785.60 $1,786
+de armas y municiones $2,001.84 $2,002
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -16373,19 +17565,19 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para la importación o exportación
 
-de armas y cartuchos $3,388.03 $3,388
+de armas y cartuchos $3,798.32 $3,798
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para la compra-venta, donación
 
-o permuta de armas o cartuchos $85.04 $85
+o permuta de armas o cartuchos $95.34 $95
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Para la importación o exportación
 
@@ -16393,21 +17585,21 @@ temporal de armas de fuego y
 
 cartuchos, con fines cinegéticos
 
-o de tiro $683.02 $683
+o de tiro $765.73 $766
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Para la transportación de armas:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Hasta por tres armas $314.70 $315
+a).- Hasta por tres armas $352.81 $353
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por cada arma adicional $104.66 $105
+b).- Por cada arma adicional $117.33 $117
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la ampliación de vigencia de
 
@@ -16415,15 +17607,15 @@ un permiso extraordinario de
 
 importación o exportación de armas
 
-y municiones $1,699.22 $1,699
+y municiones $1,905.00 $1,905
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la modificación de un permiso
 
 extraordinario de importación o
 
-exportación de armas y municiones $1,785.60 $1,786
+exportación de armas y municiones $2,001.84 $2,002
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -16431,13 +17623,13 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el permiso para coleccionista
 
-o museo de armas de fuego $2,731.46 $2,731
+o museo de armas de fuego $3,062.24 $3,062
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la autorización para la adquisición
 
@@ -16447,71 +17639,71 @@ al enriquecimiento de una colección o
 
 de un museo, e inscripción en el mismo
 
-permiso $250.49 $250
+permiso $280.82 $281
 
 E.- Por el trámite de cada registro:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por el registro inicial para organizador
 
-cinegético o criador de fauna silvestre $6,881.49 $6,881
+cinegético o criador de fauna silvestre $7,714.84 $7,715
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por su revalidación $3,520.85 $3,521
+a).- Por su revalidación $3,947.22 $3,947
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Anual para club o asociación de
 
-deportistas de tiro y cacería $5,092.17 $5,092
+deportistas de tiro y cacería $5,708.83 $5,709
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por el registro de un arma
 
-de fuego $34.97 $35
+de fuego $39.20 $39
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la expedición de cada
 
-constancia de registro $107.61 $108
+constancia de registro $120.64 $121
 
 F.- Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 
 I.- Por la expedición de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Licencia particular individual $1,648.81 $1,649
+a).- Licencia particular individual $1,848.48 $1,848
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Licencia particular colectiva $25,621.78 $25,622
+b).- Licencia particular colectiva $28,724.58 $28,725
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-c).- Licencia oficial colectiva $13,910.95 $13,911
+c).- Licencia oficial colectiva $15,595.57 $15,596
 
 II.- Por la revalidación de:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Licencia particular individual $1,648.81 $1,649
+a).- Licencia particular individual $1,848.48 $1,848
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Licencia particular colectiva $25,621.78 $25,622
+b).- Licencia particular colectiva $28,724.58 $28,725
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la modificación de licencia
 
-particular colectiva u oficial colectiva $1,939.56 $1,940
+particular colectiva u oficial colectiva $2,174.44 $2,174
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por baja de armamento de las
 
@@ -16519,15 +17711,15 @@ licencias oficiales colectivas y
 
 particulares colectivas, por robo,
 
-extravío o destrucción $3,889.71 $3,890
+extravío o destrucción $4,360.75 $4,361
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por baja de personal de las
 
 licencias oficiales colectivas y
 
-particulares colectivas $3,560.51 $3,561
+particulares colectivas $3,991.69 $3,992
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -16545,15 +17737,15 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para la compra, almacenamiento y
 
 consumo o compra-consumo de
 
-materiales explosivos $10,084.25 $10,084
+materiales explosivos $11,305.45 $11,305
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para la fabricación de explosivos
 
@@ -16563,9 +17755,9 @@ con éstos, así como para la adquisición
 
 y almacenamiento de materia prima
 
-y productos terminados $10,084.25 $10,084
+y productos terminados $11,305.45 $11,305
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Para la compra-venta, compra-consumo
 
@@ -16573,9 +17765,9 @@ o almacenamiento de explosivos o
 
 sustancias químicas relacionadas
 
-con éstos $10,282.20 $10,282
+con éstos $11,527.37 $11,527
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Para la compra, almacenamiento
 
@@ -16583,9 +17775,9 @@ y consumo de sustancias químicas en
 
 la fabricación y venta de artificios
 
-pirotécnicos $1,460.91 $1,461
+pirotécnicos $1,637.83 $1,638
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por intervenciones para importación
 
@@ -16593,9 +17785,9 @@ o exportación de armas, municiones,
 
 explosivos y sustancias químicas, a
 
-partir de la segunda intervención $233.94 $234
+partir de la segunda intervención $262.27 $262
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Por la inspección para el reinicio de
 
@@ -16605,39 +17797,39 @@ suspendido a solicitud del interesado,
 
 se pagará el derecho conforme a la
 
-cuota de $3,032.19 $3,032
+cuota de $3,399.39 $3,399
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para la compra de material explosivo
 
-o sustancias químicas $887.02 $887
+o sustancias químicas $994.44 $994
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- De importación o exportación de
 
 explosivos o sustancias químicas
 
-relacionadas con éstos $3,443.18 $3,443
+relacionadas con éstos $3,860.15 $3,860
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por su modificación $3,443.18 $3,443
+a).- Por su modificación $3,860.15 $3,860
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para la compra-consumo, importación
 
 o exportación de material explosivo o
 
-sustancias químicas $10,084.25 $10,084
+sustancias químicas $11,305.45 $11,305
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la modificación a un permiso
 
@@ -16645,13 +17837,13 @@ extraordinario de importación o
 
 exportación de explosivos o sustancias
 
-químicas relacionados con éstos $3,443.18 $3,443
+químicas relacionados con éstos $3,860.15 $3,860
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Para la compra-venta de artificios
 
-Pirotécnicos $887.02 $887
+Pirotécnicos $994.44 $994
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -16663,7 +17855,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la expedición de cada permiso
 
@@ -16673,25 +17865,25 @@ de explosivos, sustancias químicas
 
 relacionadas con éstos, artificios,
 
-armamento o municiones $10,242.13 $10,242
+armamento o municiones $11,482.45 $11,482
 
 II.- Por el trámite de autorización:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- De libros de compras y ventas
 
 a personas físicas o morales con
 
-permiso general $132.69 $133
+permiso general $148.76 $149
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Para cambio de razón social a
 
-un permiso general $1,528.51 $1,529
+un permiso general $1,713.61 $1,714
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la autorización para modificar
 
@@ -16701,7 +17893,7 @@ sus condiciones, por ubicación, técnica
 
 de trabajo u otro motivo que no afecte
 
-la clase de producción permitida $10,154.38 $10,154
+la clase de producción permitida $11,384.08 $11,384
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -16717,27 +17909,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por el permiso para salir del país $145.23 $145
+I.- Por el permiso para salir del país $162.82 $163
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por corrección de los datos base
 
-de la cartilla $145.23 $145
+de la cartilla $162.82 $163
 
 IV.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por expedición de duplicado
 
-de cartilla $145.23 $145
+de cartilla $162.82 $163
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la elaboración de oficios,
 
@@ -16745,7 +17937,7 @@ cuando siendo mayor de 40 años
 
 no obtuvo la cartilla del Servicio
 
-Militar Nacional $285.57 $286
+Militar Nacional $320.15 $320
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -16767,35 +17959,45 @@ ajuste ajuste
 
 I.- Por el estudio y trámite de la solicitud para la autorización o para su revalidación:
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 a).- Para prestar servicios de
 
-seguridad privada en los bienes $12,530.14 $12,530
+seguridad privada en los bienes $14,047.54 $14,048
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 b).- Para prestar los servicios de
 
 seguridad privada en el traslado
 
-de bienes o valores $12,325.43 $12,325
+de bienes o valores $13,818.04 $13,818
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 c).- Para prestar los servicios
 
-de seguridad privada a personas $12,530.14 $12,530
+de seguridad privada a personas $14,047.54 $14,048
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 d).- Para prestar los servicios
 
 de sistemas de prevención y
 
-responsabilidades $11,673.30 $11,673
+responsabilidades $13,086.94 $13,087
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 e).- Para prestar los servicios de
 
@@ -16803,19 +18005,19 @@ seguridad de la información y por
 
 cualquier actividad vinculada
 
-con los servicios de seguridad privada $11,673.30 $11,673
+con los servicios de seguridad privada $13,086.94 $13,087
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 f).- (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por la expedición de la autorización
 
-o de su revalidación $3,759.48 $3,759
+o de su revalidación $4,214.75 $4,215
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por la inscripción de cada
 
@@ -16825,9 +18027,9 @@ que se refiere este artículo, en el
 
 Registro Nacional del Personal de
 
-Seguridad Público (sic) $125.62 $126
+Seguridad Público (sic) $140.83 $141
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por la inscripción de cada arma de
 
@@ -16837,9 +18039,9 @@ físicas o morales a que se refiere este
 
 artículo, en el Registro Nacional de
 
-Empresas de Seguridad Privada $38.11 $38
+Empresas de Seguridad Privada $42.73 $43
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por la consulta de antecedentes
 
@@ -16853,9 +18055,9 @@ cuentan las instituciones que
 
 presten los servicios de seguridad
 
-privada, por cada integrante $37.40 $37
+privada, por cada integrante $41.93 $42
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la modificación de la
 
@@ -16863,9 +18065,9 @@ autorización o, en su caso,
 
 de la revalidación, a que se
 
-refiere este artículo $2,207.51 $2,208
+refiere este artículo $2,474.84 $2,475
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Por la expedición de cada
 
@@ -16873,25 +18075,25 @@ cédula de identificación del
 
 personal, con el registro asignado
 
-en su inscripción $35.49 $35
+en su inscripción $39.79 $40
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Por cambio de
 
-representante legal $5,587.20 $5,587
+representante legal $6,263.81 $6,264
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- Por cambio en la titularidad de
 
-las acciones o partes sociales $5,587.20 $5,587
+las acciones o partes sociales $6,263.81 $6,264
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-X
 
@@ -16907,13 +18109,13 @@ de armas de fuego a empleados
 
 federales, se pagarán derechos
 
-conforme a la siguiente cuota $327.68 $328
+conforme a la siguiente cuota $367.36 $367
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 195-X
 
@@ -16931,11 +18133,13 @@ el servicio de seguridad privada,
 
 porten armas de fuego, se pagarán
 
-derechos conforme a la cuota de $3,381.46 $3,381
+derechos conforme a la cuota de $3,790.95 $3,791
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Por la modificación de la
 
-opinión respectiva $3,381.46 $3,381
+opinión respectiva $3,790.95 $3,791
 
 > <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -16981,7 +18185,7 @@ ajuste ajuste
 
 I.- Por el aprovechamiento de la vegetación arbórea:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a) Maderas, por metro cúbico rollo fustal
 
@@ -16989,9 +18193,9 @@ sin corteza autorizado de: caoba, cedro
 
 rojo, primavera, fresno, nogal, guayacán
 
-y otras especies similares $2,012.65 $2,013
+y otras especies similares $2,256.38 $2,256
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b) Maderas, por metro cúbico rollo
 
@@ -17001,25 +18205,25 @@ canshan, barí, jobo, chacáguanacastle,
 
 ceiba, bojón, cedrillo y especies
 
-similares $379.20 $379
+similares $425.12 $425
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-e) Chicle, por tonelada autorizada $5,227.89 $5,228
+e) Chicle, por tonelada autorizada $5,860.99 $5,861
 
 II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a) De ganado mayor $12.66 $13
+a) De ganado mayor $14.19 $14
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b) De ganado menor $6.11 $6
+b) De ganado menor $6.85 $7
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17035,7 +18239,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 197-A.
 
@@ -17047,7 +18251,7 @@ y zona federal de los ríos, se pagará el
 
 derecho de aprovechamiento forestal
 
-conforme a la cuota de $109.66 $110
+conforme a la cuota de $122.94 $123
 
 por metro cúbico de rollo de árbol
 
@@ -17071,7 +18275,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por persona, por día, por cada
 
@@ -17085,7 +18289,7 @@ capacidad de carga de
 
 conformidad con la siguiente
 
-lista: $50.00
+lista: $53.97 $54
 
 - Parque Nacional Cabo Pulmo
 
@@ -17129,7 +18333,7 @@ lista: $50.00
 
 - Reserva de la Biosfera Bahía de los Ángeles, canales de Ballenas y Salsipuedes
 
-(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por las demás Áreas Naturales
 
@@ -17137,11 +18341,11 @@ Protegidas no enlistadas en la
 
 fracción I, por persona, por día,
 
-por Área Natural Protegida: $25.00
+por Área Natural Protegida: $26.99 $27
 
 No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Las personas podrán optar
 
@@ -17151,7 +18355,7 @@ refiere este artículo, por persona,
 
 por año, para todas las Áreas
 
-Naturales Protegidas: $260.00
+Naturales Protegidas: $280.64 $281
 
 La obligación del pago de los derechos previstos en las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
@@ -17175,9 +18379,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- $50.00
+I.- $53.97 $54
 
 por día, por persona,
 
@@ -17231,7 +18435,7 @@ con la siguiente lista:
 
 - Reserva de la Biosfera Calakmul
 
-(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por las demás Áreas Naturales
 
@@ -17239,13 +18443,13 @@ Protegidas terrestres no enlistadas
 
 en la fracción anterior, por persona,
 
-por día: $25.00
+por día: $26.99 $27
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No pagarán el derecho establecido en esta fracción las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
 
-(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Se podrá optar por pagar el derecho
 
@@ -17253,7 +18457,7 @@ a que se refiere este artículo, por persona,
 
 por año, para todas las Áreas Naturales
 
-Protegidas a una cuota de: $260.00
+Protegidas a una cuota de: $280.64 $281
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -17291,7 +18495,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 199.
 
@@ -17319,7 +18523,7 @@ o fracción del barco,
 
 por cada viaje hasta de 60
 
-días, conforme a la cuota de $2,118.63 $2,119
+días, conforme a la cuota de $2,375.20 $2,375
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -17355,115 +18559,115 @@ REGISTRO DE LA
 
 EMBARCACIÓN
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- ABULÓN $598.84
+I.- ABULÓN $671.36
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- SARGAZO $80.04 $2,167.60
+II.- SARGAZO $89.73 $2,430.10
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- ALGAS MARINAS $3,683.75 $2,167.60
+III.- ALGAS MARINAS $4,129.85 $2,430.10
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- ALMEJAS $503.58 $2,167.60
+IV.- ALMEJAS $564.56 $2,430.10
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- ANCHOVETA $54.98
+V.- ANCHOVETA $61.64
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VI.- CALAMAR $81.59
+VI.- CALAMAR $91.47
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VII.- CAMARÓN DE ALTAMAR $37.44
+VII.- CAMARÓN DE ALTAMAR $41.97
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- CAMARÓN DE AGUAS
 
-PROTEGIDAS $77.54
+PROTEGIDAS $86.93
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX.- CANGREJO $65.00
+IX.- CANGREJO $72.87
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-X.- CARACOL $273.01
+X.- CARACOL $306.07
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XI.- ERIZO $1,257.90
+XI.- ERIZO $1,410.23
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XII.- JAIBA $42.46
+XII.- JAIBA $47.60
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIII.- ESPECIES MARINAS
 
-DE ESCAMA $54.98
+DE ESCAMA $61.64
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XIV.- ESPECIES DE ESCAMA
 
-DE AGUA DULCE $27.40
+DE AGUA DULCE $30.72
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XV.- LANGOSTA $260.46
+XV.- LANGOSTA $292.00
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XVI.- LANGOSTINO $42.46
+XVI.- LANGOSTINO $47.60
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XVII.- OSTIÓN $54.98
+XVII.- OSTIÓN $61.64
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XVIII.- PICUDOS $47.45
+XVIII.- PICUDOS $53.20
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XIX.- PULPO $155.24 $210.37
+XIX.- PULPO $174.04 $235.85
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XX.- SARDINA $54.98
+XX.- SARDINA $61.64
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXI.- TIBURÓN $13.79
+XXI.- TIBURÓN $15.46
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XXII.- TÚNIDOS $37.44
+XXII.- TÚNIDOS $41.97
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXIII.- OTRAS PESQUERÍAS
 
-MARINAS $49.99 $210.37
+MARINAS $56.04 $235.85
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXIV.- OTRAS PESQUERÍAS
 
-DE AGUA DULCE $27.40 $210.37
+DE AGUA DULCE $30.72 $235.85
 
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 XXVI.- Por la extracción de larvas
 
@@ -17473,7 +18677,7 @@ natural, para abastecer unidades
 
 de producción acuícola, se pagará
 
-la cuota de $576.22
+la cuota de $646.00
 
 por cada millón de organismos
 
@@ -17495,23 +18699,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por un día $98.32 $98
+I.- Por un día $110.23 $110
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por una semana $246.47 $246
+II.- Por una semana $276.32 $276
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Por un mes $369.77 $370
+III.- Por un mes $414.55 $415
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Por un año $493.17 $493
+IV.- Por un año $552.89 $553
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Para excursiones de pesca
 
@@ -17521,7 +18725,7 @@ extranjero, por cada integrante y
 
 por viaje de más de tres días y
 
-hasta por un año $701.56 $702
+hasta por un año $786.52 $787
 
 En este último caso, si son menores a tres días, se pagará la cuota señalada por día, multiplicada por el número de días de viaje.
 
@@ -17533,27 +18737,33 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 ### CAPITULO III. Puerto y Atraque
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011, MISMA QUE SEÑALA UNA CUOTA CON AJUSTE DE $6.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200.
 
-Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $4.98, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $5.58, por unidad de arqueo bruto o fracción.
 
 Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011, MISMA QUE SEÑALA UNA CUOTA CON AJUSTE DE $2.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200-A.
 
-Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $2.20, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $2.47, por unidad de arqueo bruto o fracción.
 
 Tratándose de las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos o terminales de uso público fuera de puerto habilitado, siguientes al primero.
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011, MISMA QUE SEÑALA UNA CUOTA CON AJUSTE DE $2.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 201.
 
-Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $1.58, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $1.77, por unidad de arqueo bruto o fracción.
 
 Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
@@ -17573,21 +18783,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por embarcación comercial $0.49
+I.- Por embarcación comercial $0.55
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por yate $0.31
+II.- Por yate $0.35
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Por embarcación arrejerada $0.21
+III.- Por embarcación arrejerada $0.24
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Por embarcación local comercial $0.33
+IV.- Por embarcación local comercial $0.37
 
 Para los efectos de este artículo, se entiende por embarcación comercial cualquiera que se destine a la realización de actos de comercio; por yate, toda embarcación que esté destinada exclusivamente al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro; por embarcación arrejerada, aquella que únicamente utiliza el muelle para ser amarrada, por lo que no atraca en el mismo, o bien sólo hace contacto con él con su proa o su popa por hallarse en posición perpendicular al muelle; y por embarcación local comercial, la que opera únicamente en un puerto y está registrada en el mismo.
 
@@ -17659,17 +18869,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Mercancías de exportación $4.71 $5
+I.- Mercancías de exportación $5.28 $5
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Mercancías de importación $10.16 $10
+II.- Mercancías de importación $11.39 $11
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Mercancías de tráfico de cabotaje $2.43 $2
+III.- Mercancías de tráfico de cabotaje $2.72 $3
 
 El derecho a que se refiere la fracción I de este artículo se pagará dentro de los cinco días siguientes a aquél en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo se pagará dentro de los cinco días siguientes a aquél en que se realice la descarga de las mercancías correspondientes a cada conocimiento de embarque; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los cinco días siguientes a aquél en que se realice la carga o la descarga de las mercancías amparadas por cada conocimiento de embarque.
 
@@ -17683,19 +18893,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- En instalaciones no dedicadas
 
 exclusivamente al servicio de
 
-pasajeros $23.69 $24
+pasajeros $26.56 $27
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- En instalaciones exclusivas
 
-para pasajeros $35.68 $36
+para pasajeros $40.00 $40
 
 Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
 
@@ -17783,7 +18993,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 211-A.
 
@@ -17807,7 +19017,7 @@ de mares actuales, en forma natural o
 
 artificial. El derecho se calculará
 
-aplicando la cantidad de $1.5592
+aplicando la cantidad de $1.7480
 
 por cada tonelada enajenada de sal
 
@@ -17821,7 +19031,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 ###### ARTICULO 211-B.
 
@@ -17849,7 +19059,7 @@ terrestre para la explotación de
 
 salinas, por cada metro cuadrado,
 
-la cantidad de $0.0965
+la cantidad de $0.1082
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -17989,41 +19199,41 @@ ajuste ajuste
 
 A.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, por cada metro cúbico:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Zona de disponibilidad 1 $18.2894
+I.- Zona de disponibilidad 1 $20.5042
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Zona de disponibilidad 2 $14.6310
+II.- Zona de disponibilidad 2 $16.4028
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Zona de disponibilidad 3 $12.1924
+III.- Zona de disponibilidad 3 $13.6689
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- Zona de disponibilidad 4 $10.0589
+IV.- Zona de disponibilidad 4 $11.2770
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Zona de disponibilidad 5 $7.9248
+V.- Zona de disponibilidad 5 $8.8845
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VI.- Zona de disponibilidad 6 $7.1623
+VI.- Zona de disponibilidad 6 $8.0297
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VII.- Zona de disponibilidad 7 $5.3909
+VII.- Zona de disponibilidad 7 $6.0437
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VIII.- Zona de disponibilidad 8 $1.9153
+VIII.- Zona de disponibilidad 8 $2.1472
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX.- Zona de disponibilidad 9 $1.4354
+IX.- Zona de disponibilidad 9 $1.6092
 
 Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso.
 
@@ -18051,21 +19261,21 @@ c).- Concesionada a colonias constituidas como personas morales que por concesi�
 
 Para los efectos del uso de agua potable, se considerará:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 1 a 6 $362.32
+Zona de disponibilidad 1 a 6 $406.20
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 7 $168.72
+Zona de disponibilidad 7 $189.15
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 8 $84.26
+Zona de disponibilidad 8 $94.46
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 9 $41.94
+Zona de disponibilidad 9 $47.02
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -18079,85 +19289,85 @@ Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que
 
 En aquellos casos en que el consumo no exceda de los volúmenes a que se refiere el párrafo anterior, se aplicarán las siguientes tarifas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 1 a 6 $362.32
+Zona de disponibilidad 1 a 6 $406.20
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 7 $168.72
+Zona de disponibilidad 7 $189.15
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 8 $84.26
+Zona de disponibilidad 8 $94.46
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 9 $41.94
+Zona de disponibilidad 9 $47.02
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 1 a 6 $724.63
+Zona de disponibilidad 1 a 6 $812.38
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 7 $337.44
+Zona de disponibilidad 7 $378.30
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 8 $168.52
+Zona de disponibilidad 8 $188.93
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 9 $83.91
+Zona de disponibilidad 9 $94.07
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Generación Hidroeléctrica $3.8446
+II.- Generación Hidroeléctrica $4.3102
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Acuacultura:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 1 a 6 $2.9863
+Zona de disponibilidad 1 a 6 $3.3479
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 7 $1.4706
+Zona de disponibilidad 7 $1.6487
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 8 $0.6915
+Zona de disponibilidad 8 $0.7752
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 9 $0.3284
+Zona de disponibilidad 9 $0.3682
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Balnearios y centros recreativos:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 1 a 6 $10.4031
+Zona de disponibilidad 1 a 6 $11.6629
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 7 $5.1252
+Zona de disponibilidad 7 $5.7459
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 8 $2.4128
+Zona de disponibilidad 8 $2.7050
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 9 $1.1473
+Zona de disponibilidad 9 $1.2862
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -18167,9 +19377,9 @@ Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de
 
 C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Zona de disponibilidad 1 a 9 $0.1295
+Zona de disponibilidad 1 a 9 $0.1452
 
 Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
 
@@ -18263,9 +19473,9 @@ I.- El costo comprobado de los aparatos de medición y los gastos de su instalac
 
 A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del aparato de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- $2.1306
+II.- $2.3886
 
 por cada metro cúbico de agua
 
@@ -18859,7 +20069,7 @@ ajuste ajuste
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cuando se trate de bienes
 
@@ -18879,7 +20089,7 @@ anualmente por metro
 
 cuadrado de superficie,
 
-la siguiente cuota $2.2650
+la siguiente cuota $2.5393
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -18893,9 +20103,9 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV.- De $0.0357
+IV.- De $0.0400
 
 anual por metro cuadrado,
 
@@ -18911,9 +20121,9 @@ comprendidos en los artículos
 
 113 y 114 de la Ley de Aguas Nacionales.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- De $2.2971
+V.- De $2.5753
 
 anual por metro cuadrado,
 
@@ -18939,9 +20149,9 @@ en los artículos 113 y 114 de la
 
 Ley de Aguas Nacionales.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VI.- De $2.3027
+VI.- De $2.5816
 
 anual por metro cuadrado
 
@@ -18951,9 +20161,9 @@ consista en la realización
 
 de actividades pesqueras.
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-VII.- De $0.0907
+VII.- De $0.1017
 
 anual por metro cuadrado,
 
@@ -18967,25 +20177,25 @@ de actividades de acuacultura.
 
 VIII.- Por instalaciones de telecomunicación:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- En espacios cerrados, por cada
 
 metro cuadrado o fracción,
 
-mensualmente $526.69 $527
+mensualmente $590.47 $590
 
 b).- En espacios abiertos, mensualmente:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-1.- Por cada antena instalada $253.38 $253
+1.- Por cada antena instalada $284.06 $284
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-2.- Por cada torre instalada $526.69 $527
+2.- Por cada torre instalada $590.47 $590
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por el uso del derecho de vía de
 
@@ -18999,9 +20209,9 @@ de redes públicas de
 
 telecomunicaciones, anualmente,
 
-por cada kilómetro o fracción $381.76 $382
+por cada kilómetro o fracción $427.99 $428
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- Por los espacios dentro de
 
@@ -19015,7 +20225,7 @@ expendedoras de bienes o servicios,
 
 se pagará por metro cuadrado o
 
-fracción, por cada mes $212.70 $213
+fracción, por cada mes $238.46 $238
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -19025,7 +20235,7 @@ El derecho a que se refiere esta fracción, se efectuará anticipadamente median
 
 El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Por el depósito de restos humanos
 
@@ -19033,33 +20243,33 @@ X.- Por el depósito de restos humanos
 
 en templos de propiedad federal o sus
 
-anexidades, por cada depósito $616.93 $617
+anexidades, por cada depósito $691.64 $692
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XI.- Por el uso o goce de postes, torres o ductos, o bienes similares, propiedad de organismos públicos descentralizados, para la instalación de cableado de redes de telecomunicaciones, anualmente:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a). Por cada poste, torre o bienes
 
 similares que se use, por cada cable
 
-instalado: $55.20 $55
+instalado: $61.88 $62
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b). Por cada ducto, por cada kilómetro
 
 o fracción de kilómetro que se use, por
 
-cada cable instalado: $607.20 $607
+cada cable instalado: $680.73 $681
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c). Por cada registro que se use, por
 
-cada cable instalado: $38.64 $39
+cada cable instalado: $43.32 $43
 
 Para los efectos de esta fracción, se entiende por cable instalado a la unidad compuesta por cable de suspensión de acero, cable coaxial y/o fibra óptica y sus accesorios.
 
@@ -19115,7 +20325,7 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Zonas Usos
 
@@ -19137,33 +20347,33 @@ bola
 
 ($ /m2) ($ /m2) ($ /m2)
 
-ZONA I $0.26 $0.105 $0.96
+ZONA I $0.29 $0.118 $1.08
 
-ZONA II $0.62 $0.105 $2.03
+ZONA II $0.70 $0.118 $2.28
 
-ZONA III $1.36 $0.105 $4.16
+ZONA III $1.52 $0.118 $4.66
 
-ZONA IV $2.10 $0.105 $6.27
+ZONA IV $2.35 $0.118 $7.03
 
-ZONA V $2.82 $0.105 $8.42
+ZONA V $3.16 $0.118 $9.44
 
-ZONA VI $4.39 $0.105 $12.66
+ZONA VI $4.92 $0.118 $14.19
 
-ZONA VII $5.85 $0.105 $16.90
+ZONA VII $6.56 $0.118 $18.95
 
-ZONA VIII $11.05 $0.105 $31.82
+ZONA VIII $12.39 $0.118 $35.67
 
-ZONA IX $14.77 $0.105 $42.45
+ZONA IX $16.56 $0.118 $47.59
 
-ZONA X $29.64 $0.105 $84.99
+ZONA X $33.23 $0.118 $95.28
 
 ZONA XI Subzona A
 
-$13.38 $0.095 $48.06
+$15.00 $0.107 $53.88
 
 Subzona B
 
-$26.85 $0.095 $96.22
+$30.10 $0.107 $107.87
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -19241,21 +20451,21 @@ ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quinta
 
 1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Material $ /M3
 
-Grava $11.26
+Grava $12.62
 
-Arena $11.26
+Arena $12.62
 
-Arcillas y limos $8.16
+Arcillas y limos $9.15
 
-Materiales en greña $8.80
+Materiales en greña $9.87
 
-Piedra bola $9.72
+Piedra bola $10.90
 
-Otros $3.37
+Otros $3.78
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -19405,41 +20615,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Zona 1 $/M3
 
 Estados de Baja California, Guanajuato, Sinaloa, Sonora, Tabasco, Veracruz y Zacatecas:
 
-Grava $17.45
+Grava $19.56
 
-Arena $17.45
+Arena $19.56
 
-Arcillas y Limos $13.71
+Arcillas y Limos $15.37
 
-Materiales en Greña $13.71
+Materiales en Greña $15.37
 
-Piedra $14.96
+Piedra $16.77
 
-Otros $6.24
+Otros $7.00
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Zona 2
 
 Los Estados no comprendidos en la fracción anterior y el Distrito Federal:
 
-Grava $11.22
+Grava $12.58
 
-Arena $11.22
+Arena $12.58
 
-Arcillas y Limos $8.73
+Arcillas y Limos $9.79
 
-Materiales en Greña $8.73
+Materiales en Greña $9.79
 
-Piedra $9.97
+Piedra $11.18
 
-Otros $3.74
+Otros $4.19
 
 El derecho por extracción de materiales se pagará previamente, mediante declaración que se presente en las oficinas que autorice el Servicio de Administración Tributaria.
 
@@ -19503,15 +20713,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Anuncios publicitarios que tienen
 
 una superficie total hasta de 50 metros
 
-cuadrados $4,192.44 $4,192
+cuadrados $4,700.14 $4,700
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Anuncios publicitarios que tienen
 
@@ -19519,11 +20729,11 @@ una superficie total de más de 50
 
 metros cuadrados y de hasta 75
 
-metros cuadrados $6,288.78 $6,289
+metros cuadrados $7,050.35 $7,050
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Señales informativas $6,288.02 $6,288
+III.- Señales informativas $7,049.50 $7,049
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -19571,31 +20781,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Borrego Cimarrón $368,837.77 $368,838
+I.- Borrego Cimarrón $413,504.02 $413,504
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Venado Bura en Sonora
 
-o Cola Blanca texano $35,478.14 $35,478
+o Cola Blanca texano $39,774.54 $39,775
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- Puma $13,660.64 $13,661
+III.- Puma $15,314.94 $15,315
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Venado Bura Cola Blanca en
 
-el resto del país y Temazate $10,928.51 $10,929
+el resto del país y Temazate $12,251.95 $12,252
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V.- Faisán de Collar $6,830.32 $6,830
+V.- Faisán de Collar $7,657.47 $7,657
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Patos, palomas, codornices,
 
@@ -19603,33 +20813,33 @@ cercetas, gansos, perdiz, tinamú,
 
 branta negra del pacífico y otras
 
-aves, por lote $20,104.28 $20,104
+aves, por lote $22,538.91 $22,539
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VII.- Guajolote Silvestre
 
-y Pavo Ocelado $4,098.18 $4,098
+y Pavo Ocelado $4,594.47 $4,594
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VIII.- Zorra gris y otros
 
-pequeños mamíferos $4,098.18 $4,098
+pequeños mamíferos $4,594.47 $4,594
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IX.- Gato Montés $2,732.12 $2,732
+IX.- Gato Montés $3,062.98 $3,063
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 X.- Jabalí (de collar, labios
 
-blancos, europeo) $2,732.12 $2,732
+blancos, europeo) $3,062.98 $3,063
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-XI.- Borrego Audat o Berberisco $683.02 $683
+XI.- Borrego Audat o Berberisco $765.73 $766
 
 XII.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -19679,11 +20889,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Por persona, por día: $25.00
+I. Por persona, por día: $26.99 $27
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Se podrá optar por pagar el derecho
 
@@ -19699,7 +20909,7 @@ propiedad de la Nación y en los centros
 
 para la conservación e investigación
 
-de la vida silvestre: $260.00
+de la vida silvestre: $280.64 $281
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -19767,15 +20977,15 @@ ajuste ajuste
 
 I.- Para redes que cuenten con estaciones base o repetidoras:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-a).- Por cada estación base $6,904.05 $6,904
+a).- Por cada estación base $7,740.13 $7,740
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por cada estación repetidora $10,356.14 $10,356
+b).- Por cada estación repetidora $11,610.27 $11,610
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para quienes únicamente cuenten
 
@@ -19785,11 +20995,11 @@ red, se pagará por todos los equipos
 
 móviles, portátiles o terminales de
 
-radiocomunicación privada de usuario $4,542.15 $4,542
+radiocomunicación privada de usuario $5,092.20 $5,092
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por cada frecuencia asignada a
 
@@ -19797,7 +21007,7 @@ nivel nacional, no importando la
 
 cantidad de estaciones bases,
 
-móviles o fijas $925,537.96 $925,538
+móviles o fijas $1,037,620.61 $1,037,621
 
 a).- Por frecuencia asignada a nivel
 
@@ -19805,9 +21015,9 @@ regional, se pagará por Entidad
 
 Federativa, sin importar la cantidad
 
-de estaciones bases, móviles o fijas $44,783.76 $44,784
+de estaciones bases, móviles o fijas $50,207.07 $50,207
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por los sistemas de alta frecuencia H.F.,
 
@@ -19817,9 +21027,9 @@ frecuencia, tomando como mínimo dos
 
 horas diarias, por equipo terminal base
 
-o móvil $971.55 $972
+o móvil $1,089.20 $1,089
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI.- Por la autorización provisional
 
@@ -19827,7 +21037,7 @@ que no exceda de seis meses, se
 
 pagará diariamente por cada
 
-frecuencia $74.22 $74
+frecuencia $83.21 $83
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
@@ -19835,19 +21045,19 @@ VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- En sistemas que operen en
 
-periodos de hasta seis meses $2,219.12 $2,219
+periodos de hasta seis meses $2,487.86 $2,488
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- En sistemas que operen en
 
-periodos superiores a seis meses $4,438.30 $4,438
+periodos superiores a seis meses $4,975.78 $4,976
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IX.- Para el servicio privado móvil
 
@@ -19859,7 +21069,7 @@ cada frecuencia sin importar el
 
 número de bases, móviles
 
-y repetidores $9,088.16 $9,088
+y repetidores $10,188.74 $10,189
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -19875,7 +21085,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada megahertz utilizado en
 
@@ -19883,9 +21093,9 @@ territorio nacional para prestar
 
 servicios de telecomunicaciones en
 
-la banda C: $73.45 $73
+la banda C: $82.34 $82
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada megahertz utilizado
 
@@ -19893,7 +21103,7 @@ en territorio nacional para prestar
 
 servicios de telecomunicaciones
 
-en la banda Ku: $112.37 $112
+en la banda Ku: $125.98 $126
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en la (sic) fracciones I y II anteriores, según corresponda.
 
@@ -19921,7 +21131,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada megahertz utilizado en
 
@@ -19929,9 +21139,9 @@ territorio nacional para prestar
 
 servicios de telecomunicaciones en
 
-la banda C: $73.45 $73
+la banda C: $82.34 $82
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada megahertz utilizado
 
@@ -19939,7 +21149,7 @@ en territorio nacional para prestar
 
 servicios de telecomunicaciones
 
-en la banda Ku: $112.37 $112
+en la banda Ku: $125.98 $126
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en las fracciones I y II anteriores, según corresponda.
 
@@ -19971,7 +21181,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada frecuencia que utilice
 
@@ -19983,9 +21193,9 @@ y de estaciones móviles remotas
 
 de estaciones de radiodifusión en
 
-A.M. y F.M. $5,295.32 $5,295
+A.M. y F.M. $5,936.58 $5,937
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada frecuencia que utilice
 
@@ -19997,9 +21207,9 @@ y de estaciones móviles remotas de
 
 estaciones de radiodifusión de
 
-televisión $10,591.00
+televisión $11,873.57 $11,874
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por cada frecuencia que se utilice
 
@@ -20011,9 +21221,9 @@ servicios públicos de radio restringido
 
 con señal digitalizada o de sistemas
 
-de música continua $5,452.84 $5,453
+de música continua $6,113.18 $6,113
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- Por cada frecuencia que se
 
@@ -20025,7 +21235,7 @@ servicios públicos de televisión
 
 restringida, sistemas de televisión por
 
-cable o televisión de alta definición $10,905.78 $10,906
+cable o televisión de alta definición $12,226.47 $12,226
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -20043,7 +21253,7 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 Por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, para prestar el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, se pagará por cada megahertz concesionado, la cuota que corresponda de conformidad con la tabla siguiente:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Entidad Federativa Cuota por cada
 
@@ -20053,69 +21263,69 @@ concesionado o
 
 permisionado
 
-Aguascalientes $1,825.32
+Aguascalientes $2,046.37
 
-Baja California $7,829.78
+Baja California $8,777.97
 
-Baja California Sur $1,055.34
+Baja California Sur $1,183.14
 
-Campeche $1,006.69
+Campeche $1,128.60
 
-Coahuila $3,760.11
+Coahuila $4,215.46
 
-Colima $969.42
+Colima $1,086.82
 
-Chiapas $2,564.41
+Chiapas $2,874.96
 
-Chihuahua $7,412.93
+Chihuahua $8,310.64
 
-Distrito Federal $27,342.18
+Distrito Federal $30,653.32
 
-Durango $2,097.00
+Durango $2,350.95
 
-Guanajuato $6,015.80
+Guanajuato $6,744.31
 
-Guerrero $2,009.80
+Guerrero $2,253.19
 
-Hidalgo $1,599.08
+Hidalgo $1,792.73
 
-Jalisco $11,934.27
+Jalisco $13,379.51
 
-Estado de México $23,321.66
+Estado de México $26,145.91
 
-Michoacán $4,139.96
+Michoacán $4,641.31
 
-Morelos $2,144.30
+Morelos $2,403.97
 
-Nayarit $1,183.78
+Nayarit $1,327.14
 
-Nuevo León $11,073.15
+Nuevo León $12,414.11
 
-Oaxaca $1,902.09
+Oaxaca $2,132.43
 
-Puebla $5,396.57
+Puebla $6,050.09
 
-Querétaro $1,722.98
+Querétaro $1,931.63
 
-Quintana Roo $2,186.14
+Quintana Roo $2,450.88
 
-Sinaloa $5,546.81
+Sinaloa $6,218.53
 
-San Luis Potosí $2,577.30
+San Luis Potosí $2,889.41
 
-Sonora $6,256.94
+Sonora $7,014.66
 
-Tabasco $1,852.76
+Tabasco $2,077.13
 
-Tamaulipas $5,399.59
+Tamaulipas $6,053.48
 
-Tlaxcala $1,023.29
+Tlaxcala $1,147.21
 
-Veracruz $10,699.56
+Veracruz $11,995.28
 
-Yucatán $1,524.79
+Yucatán $1,709.44
 
-Zacatecas $1,291.40
+Zacatecas $1,447.79
 
 En los casos en que el área de cobertura no abarque la totalidad del territorio de una entidad federativa, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla anterior corresponda a la entidad federativa en la que la concesión autorice prestar los servicios, por la proporción que represente la población total del área en la que la concesión autorice prestar los servicios entre la población total de la entidad federativa. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población derivados de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -20153,7 +21363,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Para el servicio de radiotelefonía
 
@@ -20161,9 +21371,9 @@ celular, por cada frecuencia asignada,
 
 concesionada o permisionada y por
 
-cada región $4,627.50 $4,628
+cada región $5,187.89 $5,188
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para el servicio de radiotelefonía
 
@@ -20171,9 +21381,9 @@ móvil convencional, por cada frecuencia
 
 asignada, concesionada o permisionada
 
-y por sistema $4,627.50 $4,628
+y por sistema $5,187.89 $5,188
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- Por los servicios de radiolocalización
 
@@ -20187,13 +21397,13 @@ pagarán derechos por frecuencia
 
 asignada, concesionada o permisionada,
 
-y por sistema $4,627.50 $4,628
+y por sistema $5,187.89 $5,188
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV.- En servicio móvil especializado
 
@@ -20203,13 +21413,13 @@ pagará el derecho por frecuencia
 
 asignada, concesionada o permisionada,
 
-y por sistema $501.04 $501
+y por sistema $561.72 $562
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V.- Por el servicio de radiocomunicación
 
@@ -20217,7 +21427,7 @@ móvil aeronáutica, por cada frecuencia
 
 asignada, concesionada o permisionada,
 
-y por estación base $566.76 $567
+y por estación base $635.39 $635
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -20239,7 +21449,7 @@ De 1850 MHz a 1910 MHz
 
 De 1930 MHz a 1990 MHz
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tabla B
 
@@ -20255,7 +21465,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora $2,807.13
+Colorado del estado de Sonora $3,147.07
 
 Todos los municipios de Sinaloa
 
@@ -20263,7 +21473,7 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis Río
 
-Colorado $416.13
+Colorado $466.52
 
 Todos los municipios de los estados
 
@@ -20273,7 +21483,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca del estado de Coahuila $1,767.46
+Viesca del estado de Coahuila $1,981.50
 
 Todos los municipios de los estados
 
@@ -20285,7 +21495,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro
 
-y Viesca $8,791.07
+y Viesca $9,855.67
 
 Todos los municipios de los estados
 
@@ -20303,7 +21513,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $3,414.25
+Villa Hidalgo $3,827.72
 
 Todos los municipios de
 
@@ -20323,19 +21533,19 @@ María de los Angeles, Teocaltiche,
 
 Villa Guerrero y Villa Hidalgo del estado
 
-de Jalisco $1,424.45
+de Jalisco $1,596.95
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla,
 
-Tlaxcala y Veracruz $243.34
+Tlaxcala y Veracruz $272.81
 
 Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $164.48
+Tabasco y Yucatán $184.40
 
 Todos los municipios de los estados
 
@@ -20343,7 +21553,7 @@ de Hidalgo, Morelos y Estado de
 
 México, y todas las delegaciones del
 
-Distrito Federal $12,786.32
+Distrito Federal $14,334.74
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -20371,7 +21581,7 @@ De 929 MHz a 932 MHz
 
 De 940 MHz a 941 MHz
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tabla B
 
@@ -20387,7 +21597,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora $14,285.79
+Colorado del estado de Sonora $16,015.80
 
 Todos los municipios de Sinaloa
 
@@ -20395,7 +21605,7 @@ y todos los de Sonora, excepto el
 
 municipio de San Luis Río
 
-Colorado $12,093.54
+Colorado $13,558.07
 
 Todos los municipios de los estados
 
@@ -20405,7 +21615,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca del estado de Coahuila $3,231.15
+Viesca del estado de Coahuila $3,622.44
 
 Todos los municipios de los estados
 
@@ -20417,7 +21627,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca $5,709.49
+Viesca $6,400.91
 
 Todos los municipios de los estados
 
@@ -20433,9 +21643,9 @@ Moreno, Mezquitic, Ojuelos de Jalisco,
 
 Santa María de los Angeles,
 
-Teocaltiche, Villa de Guerrero y
+Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $8,419.71
+Villa Hidalgo $9,439.34
 
 Todos los municipios de
 
@@ -20455,19 +21665,19 @@ Jalisco, Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo del estado de Jalisco $4,065.29
+Villa Hidalgo del estado de Jalisco $4,557.60
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla, Tlaxcala
 
-y Veracruz $6,914.03
+y Veracruz $7,751.32
 
 Todos los municipios de los estados de
 
 Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $3,381.72
+Tabasco y Yucatán $3,791.25
 
 Todos los municipios de los estados de
 
@@ -20475,7 +21685,7 @@ Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del Distrito
 
-Federal $11,694.53
+Federal $13,110.74
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla mencionada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla B. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -20509,7 +21719,7 @@ De 896 MHz a 901 MHz
 
 De 935 MHz a 940 MHz
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tabla B
 
@@ -20523,7 +21733,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora $1,903.61
+Colorado del estado de Sonora $2,134.14
 
 Todos los municipios de Sinaloa
 
@@ -20531,7 +21741,7 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis Río
 
-Colorado $282.19
+Colorado $316.36
 
 Todos los municipios de los estados
 
@@ -20541,7 +21751,7 @@ municipios Francisco I. Madero,
 
 Matamoros, San Pedro, Torreón y
 
-Viesca del estado de Coahuila $1,198.57
+Viesca del estado de Coahuila $1,343.72
 
 Todos los municipios de los estados
 
@@ -20551,7 +21761,7 @@ con excepción de los municipios de
 
 Francisco I. Madero, Matamoros,
 
-San Pedro, Torreón y Viesca $5,961.51
+San Pedro, Torreón y Viesca $6,683.45
 
 Todos los municipios de los estados
 
@@ -20567,7 +21777,7 @@ Mezquitic, Ojuelos de Jalisco, Santa
 
 María de los Angeles, Teocaltiche, Villa
 
-Guerrero y Villa Hidalgo $2,315.31
+Guerrero y Villa Hidalgo $2,595.69
 
 Todos los municipios de
 
@@ -20585,19 +21795,19 @@ Ojuelos de Jalisco, Santa María de
 
 los Angeles, Teocaltiche, Villa Guerrero
 
-y Villa Hidalgo del estado de Jalisco $965.96
+y Villa Hidalgo del estado de Jalisco $1,082.94
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla,
 
-Tlaxcala y Veracruz $165.01
+Tlaxcala y Veracruz $184.99
 
 Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $111.55
+Tabasco y Yucatán $125.06
 
 Todos los municipios de los estados
 
@@ -20605,13 +21815,15 @@ de Hidalgo, Morelos y Estado de
 
 México, y todas las delegaciones del
 
-Distrito Federal $8,670.80
+Distrito Federal $9,720.83
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la Tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la Tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -20629,7 +21841,7 @@ De 1710 MHz a 1770 MHz
 
 De 2110 MHz a 2170 MHz
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tabla B
 
@@ -20645,7 +21857,7 @@ Baja California, Baja California Sur
 
 y el municipio de San Luis Río Colorado
 
-del estado de Sonora $2,807.13
+del estado de Sonora $3,030.02
 
 Todos los municipios de Sinaloa
 
@@ -20653,7 +21865,7 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis
 
-Río Colorado $416.13
+Río Colorado $449.17
 
 Todos los municipios de los
 
@@ -20665,7 +21877,7 @@ Matamoros, San Pedro,
 
 Torreón y Viesca del
 
-estado de Coahuila $1,767.46
+estado de Coahuila $1,907.80
 
 Todos los municipios de los
 
@@ -20677,7 +21889,7 @@ con excepción de los municipios
 
 de Francisco I. Madero, Matamoros,
 
-Torreón, San Pedro y Viesca $8,791.07
+Torreón, San Pedro y Viesca $9,489.08
 
 Todos los municipios de los
 
@@ -20697,7 +21909,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $3,414.25
+Villa Hidalgo $3,685.34
 
 Todos los municipios de
 
@@ -20719,19 +21931,19 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo del estado de Jalisco $1,424.45
+Villa Hidalgo del estado de Jalisco $1,537.55
 
 Todos los municipios de los
 
 Estados de Guerrero, Oaxaca,
 
-Puebla, Tlaxcala y Veracruz $243.34
+Puebla, Tlaxcala y Veracruz $262.66
 
 Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $164.48
+Tabasco y Yucatán $177.54
 
 Todos los municipios de los estados
 
@@ -20739,7 +21951,7 @@ de Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del
 
-Distrito Federal $12,786.32
+Distrito Federal $13,801.55
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -20757,7 +21969,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por cada estación terminal de
 
@@ -20765,9 +21977,9 @@ cada enlace multicanal o por cada
 
 punto extremo del mismo o antena
 
-y por cada repetidor $4,628.66 $4,629.00
+y por cada repetidor $5,189.19 $5,189
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- En cada canal de radiofrecuencia
 
@@ -20779,9 +21991,9 @@ canales telefónicos o de capacidad
 
 equivalente para cualquier otro tipo
 
-de señales de telecomunicaciones $4,628.66 $4,629
+de señales de telecomunicaciones $5,189.19 $5,189
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III.- En cada canal de radiofrecuencia
 
@@ -20791,7 +22003,7 @@ canales telefónicos o de capacidad
 
 equivalente para cualquier otro tipo
 
-de señales de telecomunicaciones $4,628.66 $4,629
+de señales de telecomunicaciones $5,189.19 $5,189
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -20815,15 +22027,15 @@ ajuste ajuste
 
 I.- Por telefonía rural comunal:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por cada estación base
 
-o repetidor $944.69 $945
+o repetidor $1,059.09 $1,059
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-b).- Por estación terminal $354.13 $354
+b).- Por estación terminal $397.02 $397
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -20833,19 +22045,19 @@ Tratándose de los servicios de telefonía rural proporcionados por los gobierno
 
 II.- Para servicios de voz o datos en sistemas punto a punto o punto a multipunto:
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 a).- Por nodo, se pagará por cada
 
-frecuencia $4,847.11 $4,847
+frecuencia $5,434.10 $5,434
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 b).- Por cada estación fija, se pagará
 
-por cada frecuencia $2,423.20 $2,423
+por cada frecuencia $2,716.65 $2,717
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 c).- Por frecuencia asignada a nivel
 
@@ -20853,11 +22065,11 @@ regional se pagará por entidad
 
 federativa, sin importar la cantidad
 
-de estaciones o nodos $44,783.88 $44,784
+de estaciones o nodos $50,207.21 $50,207
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-d).- Por cada estación fija remota $2,423.20 $2,423
+d).- Por cada estación fija remota $2,716.65 $2,717
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -20869,13 +22081,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por cada estación terminal $4,849.11 $4,849
+I.- Por cada estación terminal $5,436.34 $5,436
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por cada canal telefónico $9,698.57 $9,699
+II.- Por cada canal telefónico $10,873.07 $10,873
 
 ###### ARTICULO 246.
 
@@ -21687,41 +22899,41 @@ ajuste ajuste
 
 Concesiones y asignaciones mineras Cuota por hectárea
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Durante el primer y segundo año
 
-de vigencia $5.08
+de vigencia $5.70
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Durante el tercero y cuarto año
 
-de vigencia $7.60
+de vigencia $8.52
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 III. Durante el quinto y sexto año
 
-de vigencia $15.72
+de vigencia $17.62
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 IV. Durante el séptimo y octavo
 
-año de vigencia $31.62
+año de vigencia $35.45
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 V. Durante el noveno y décimo
 
-año de vigencia $63.22
+año de vigencia $70.88
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 VI. A partir del décimo primer
 
-año de vigencia $111.27
+año de vigencia $124.74
 
 La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará considerando la parte proporcional que le corresponda con base en las mismas.
 
@@ -22307,7 +23519,7 @@ II. El resultado obtenido se multiplicará por el volumen trimestral de aguas re
 
 III. Para obtener el monto correspondiente por cada contaminante que rebase los límites máximos permisibles, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, por la cuota en pesos por kilogramo que corresponda, de acuerdo con la siguiente Tabla:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 TABLA II
 
@@ -22317,11 +23529,11 @@ Tipo de Cuerpo Receptor
 
 contaminante Tipo “A” Tipo “B” Tipo “C”
 
-Demanda Química $0.3137 $0.3508 $0.3691
+Demanda Química $0.3517 $0.3933 $0.4138
 
 de Oxígeno
 
-Sólidos Suspendidos $0.5388 $0.6022 $0.6340
+Sólidos Suspendidos $0.6040 $0.6751 $0.7108
 
 Totales
 
@@ -22621,23 +23833,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Áreas tipo AAA $50.99 $51
+Áreas tipo AAA $57.16 $57
 
-$169.97 después
+$190.55 después
 
 del horario
 
 normal
 
-Áreas tipo AA $48.87 $49
+Áreas tipo AA $54.79 $55
 
-Áreas tipo A $41.43 $41
+Áreas tipo A $46.45 $46
 
-Áreas tipo B $37.18 $37
+Áreas tipo B $41.68 $42
 
-Áreas tipo C $30.81 $31
+Áreas tipo C $34.54 $35
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -22693,9 +23905,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- $35.48 $35
+I.- $39.78 $40
 
 mensuales por cada metro cuadrado
 
@@ -22711,9 +23923,9 @@ comerciales y el espacio no exceda de
 
 El pago del derecho a que se refiere esta fracción, se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- $21.29 $21
+II.- $23.87 $24
 
 por cada metro cuadrado o fracción
 
@@ -22733,9 +23945,9 @@ exteriores de cualquier tipo.
 
 El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III.- $5,913.02 $5,913
+III.- $6,629.09 $6,629
 
 por evento cultural de hasta cuatro
 
@@ -22775,29 +23987,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Recinto tipo 1: $38.64 $39
+Recinto tipo 1: $43.32 $43
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Recinto tipo 2: $33.12 $33
+Recinto tipo 2: $37.13 $37
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Recinto tipo 3: $27.60 $28
+Recinto tipo 3: $30.94 $31
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Recinto tipo 4: $22.08 $22
+Recinto tipo 4: $24.75 $25
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Recinto tipo 5: $16.56 $17
+Recinto tipo 5: $18.57 $19
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-Recinto tipo 6: $11.04 $11
+Recinto tipo 6: $12.38 $12
 
 Para los efectos de este artículo se consideran:
 
@@ -22839,17 +24051,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I. Museo Nacional de Culturas
 
-Populares $10.62 $11
+Populares $11.91 $12
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Museo Nacional de los Ferrocarriles
 
-Mexicanos $10.62 $11
+Mexicanos $11.91 $12
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
@@ -22865,9 +24077,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. $34.14 $34
+I. $38.27 $38
 
 mensuales por cada metro cuadrado
 
@@ -22881,9 +24093,9 @@ comerciales y el espacio no exceda de
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II. $33.99 $34
+II. $38.11 $38
 
 por cada metro cuadrado o fracción
 
@@ -22901,9 +24113,9 @@ previa celebración de un convenio.
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-III. $20.48 $20
+III. $22.96 $23
 
 por cada metro cuadrado o fracción
 
@@ -22919,9 +24131,9 @@ de instalaciones realizado en
 
 espacios exteriores de cualquier tipo.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-IV. $5,689.68 $5,690
+IV. $6,378.70 $6,379
 
 por evento de hasta cuatro horas de
 
@@ -22933,7 +24145,7 @@ realizado en espacios cerrados, tales
 
 como salas y aulas.
 
-(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tratándose de eventos de hasta cuatro
 
@@ -22945,11 +24157,11 @@ y accesorios, realizado en auditorios,
 
 vestíbulos, teatros experimentales y
 
-foros al aire libre, por cada uno $15,000.00
+foros al aire libre, por cada uno $16,816.50 $16,816
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-V. $26,557.50 $26,557
+V. $29,773.61 $29,774
 
 por evento de hasta cuatro horas de
 
@@ -22977,17 +24189,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por la reproducción fotográfica,
 
 dibujo o ilustración, a cualquier
 
-escala, por pieza $1,342.62 $1,343
+escala, por pieza $1,505.21 $1,505
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-II.- Por toma de molde, por pieza $3,580.65 $3,581
+II.- Por toma de molde, por pieza $4,014.27 $4,014
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -22999,19 +24211,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Reproducción fiel del monumento
 
 independientemente de la escala y
 
-materiales $1,477.07 $1,477
+materiales $1,655.94 $1,656
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Reproducción basada en una
 
-versión libre del monumento $2,954.50 $2,955
+versión libre del monumento $3,312.29 $3,312
 
 Se exceptúa del pago de los derechos establecidos en este artículo a la producción artesanal, cuando el artesano cuente con el reconocimiento y registro otorgados por la autoridad competente.
 
@@ -23029,11 +24241,11 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Por día $7,685.67 $7,686
+I.- Por día $8,616.40 $8,616
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Por cada 30 minutos o fracción de
 
@@ -23049,13 +24261,13 @@ derechos por el uso o reproducción
 
 señalados en el artículo 288-E
 
-de esta Ley $480.24 $480
+de esta Ley $538.40 $538
 
 III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
 
 B. Tomas fotográficas:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Por día en zona arqueológica, museo,
 
@@ -23063,7 +24275,7 @@ o monumento del patrimonio nacional
 
 bajo custodia de los institutos
 
-competentes $3,842.79 $3,843
+competentes $4,308.15 $4,308
 
 II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
 
@@ -23081,21 +24293,21 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I. Por día $7,395.37 $7,395
+I. Por día $8,290.95 $8,291
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II. Por día, cuando se trata de
 
-locaciones $47,803.50 $47,803
+locaciones $53,592.50 $53,593
 
 El cobro de este derecho es independiente a los que se causen por el uso o aprovechamiento de los inmuebles.
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-B. Tratándose de tomas fotográficas $3,697.64 $3,698 por día.
+B. Tratándose de tomas fotográficas $4,145.42 $4,145 por día.
 
 No pagarán los derechos establecidos en este artículo las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
 
@@ -23109,7 +24321,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 I.- Instituciones públicas dedicadas
 
@@ -23117,15 +24329,15 @@ a la promoción, enseñanza o
 
 investigación de la cultura, la ciencia
 
-o el arte, por fotografía $236.13 $236
+o el arte, por fotografía $264.73 $265
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Para instituciones o personas
 
 distintas de las señaladas en la fracción
 
-anterior, por fotografía $354.31 $354
+anterior, por fotografía $397.22 $397
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -23141,17 +24353,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
-I.- Impreso de 1 a 1000 ejemplares $147.47 $147
+I.- Impreso de 1 a 1000 ejemplares $165.33 $165
 
-(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 II.- Impreso de 1001 ejemplares en
 
 adelante o publicado en soporte
 
-filmado, videograbado o digital $442.84 $443
+filmado, videograbado o digital $496.47 $496
 
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
@@ -23175,19 +24387,19 @@ El derecho a que se refiere este artículo se calculará conforme a lo siguiente
 
 I.- Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Cuotas por kilómetro volado
 
 Aeronaves según envergadura Cuota
 
-Grandes $6.22
+Grandes $6.97
 
-Medianas $4.15
+Medianas $4.65
 
-Pequeñas Tipo B $1.44
+Pequeñas Tipo B $1.61
 
-Pequeñas Tipo A $0.18
+Pequeñas Tipo A $0.20
 
 El cálculo de los kilómetros volados se realizará de acuerdo a la distancia ortodrómica, conforme a lo siguiente:
 
@@ -23207,33 +24419,33 @@ Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aer
 
 II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Tipo de aeronaves Cuota
 
 Con envergadura de hasta 10.0 metros
 
-y helicópteros $82.78
+y helicópteros $92.80
 
 Con envergadura de más de 10.0 metros
 
-y hasta 11.1 metros $118.26
+y hasta 11.1 metros $132.58
 
 Con envergadura de más de 11.1 metros
 
-y hasta 16.7 metros $177.39
+y hasta 16.7 metros $198.87
 
 III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
 Aeronaves según envergadura Cuota
 
-Grandes $14,294.14
+Grandes $16,025.16
 
-Medianas $9,537.71
+Medianas $10,692.73
 
-Pequeñas Tipo B $3,287.65
+Pequeñas Tipo B $3,685.78
 
 Lo dispuesto en este artículo, es independiente del pago por los servicios de extensión de horario a que se refiere el artículo 150-C de esta Ley.
 
@@ -27562,3 +28774,7 @@ D.O.F. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 
 SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 2011.
+
+LA RESOLUCIÓN DE ACTUALIZACIONES A LA MISCELÁNEA FISCAL PARA 2012 CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
