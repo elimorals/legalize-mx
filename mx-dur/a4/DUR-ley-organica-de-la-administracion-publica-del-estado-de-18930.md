@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2011-07-11"
+last_updated: "2011-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -309,7 +309,11 @@ VII. Revisar los anteproyectos de ley, reglamentos y cualquier otro ordenamiento
 
 VIII. Revisar y vigilar el marco jurídico general de las leyes y disposiciones legales vigentes en el Estado, y proponer las reformas necesarias para su adecuación;
 
-IX. Publicar el Periódico Oficial del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+IX. Publicar el Periódico Oficial del Gobierno del Estado y administrar los talleres gráficos del Estado;
 
 X. Elaborar anualmente el calendario cívico que regirá en la Entidad y organizar los actos cívicos del Gobierno del Estado;
 
@@ -495,7 +499,9 @@ LVII. Administrar y asegurar la conservación y mantenimiento del patrimonio del
 
 LVIII. Coordinar y supervisar en conjunto con las dependencias interesadas, entidades y organismos paraestatales la emisión de publicaciones oficiales del Ejecutivo del Estado;
 
-LIX. Administrar los talleres gráficos del Estado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -1936,3 +1942,15 @@ P.O. 11 DE JULIO DE 2011.
 Primero.- El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, e iniciará su vigencia en el momento que entren en vigor las reformas constitucionales relacionadas con la materia de este Decreto.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Este decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+TERCERO.- El Titular del Poder Ejecutivo deberá expedir el reglamento de esta Ley, en un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor de esta Ley.
+
+CUARTO.- El Titular del Poder Ejecutivo dispondrá lo necesario a efecto de transferir los bienes y recursos de los talleres gráficos de la Secretaría de Finanzas y de Administración a la Secretaría General de Gobierno.
+
+QUINTO.- La Secretaría General de Gobierno se subrogará en todos los derechos y obligaciones que correspondan a la Secretaría de Finanzas y Administración en lo que corresponda a la administración de los talleres gráficos del Estado.
