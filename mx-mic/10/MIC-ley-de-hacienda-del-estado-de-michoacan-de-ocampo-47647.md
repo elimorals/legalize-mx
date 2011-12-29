@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-47647"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2009-12-31"
+last_updated: "2011-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre de 2005.
 
@@ -243,7 +243,9 @@ El acreditamiento a que se refiere el párrafo anterior, podrá efectuarse siemp
 
 Los obligados al pago de este impuesto, además de las obligaciones señaladas en otros artículos de este capítulo, tienen las siguientes:
 
-I. Inscribirse en la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades objeto de este impuesto, proporcionando copia de la solicitud de inscripción en el Registro Federal de Contribuyentes, presentada ante la Secretaría de Hacienda y Crédito Público, en que conste la información relacionada con su identidad, domicilio, nombre comercial y ubicación de cada establecimiento y en general sobre los demás datos que permitan su identificación precisa, para los efectos de este impuesto, debiendo presentar asimismo, copia de la cédula de identificación fiscal que le haya sido expedida;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. Inscribirse en la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades objeto de este impuesto, proporcionando copia de la solicitud de inscripción en el Registro Federal de Contribuyentes, presentada ante la Secretaría de Hacienda y Crédito Público, en que conste la información relacionada con su identidad, domicilio, nombre comercial y ubicación de cada establecimiento y en general sobre los demás datos que permitan su identificación precisa, para los efectos de este impuesto, debiendo presentar asimismo, copia de la cédula de identificación fiscal que le haya sido expedida; así como copia del acta constitutiva donde conste el nombre del representante legal de la persona moral. En caso de no estar especificado en dicha acta, anexar copia del poder notarial expedido al representante legal, así como copia fotostática legible del documento donde conste el Número de Registro Patronal, expedido por el Instituto Mexicano del Seguro Social.
 
 II. Presentar ante las mismas oficinas a que se refiere el párrafo anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes.
 
@@ -251,7 +253,7 @@ Para efectos de lo dispuesto en esta fracción, se aplicarán supletoriamente la
 
 III. Presentar los avisos, datos, documentos e informes que le sean requeridos por la autoridad fiscal, en relación con este impuesto, en los términos que se señalen en el documento respectivo; y,
 
-Registrar en la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, cada operación de prestación de servicios por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso.
+IV. Registrar en la contabilidad que están obligados a llevar conforme al Código Fiscal de la Federación y su Reglamento, por cada uno de los establecimientos, cada operación de prestación de servicios por la que se deba pagar este impuesto y sus características, relacionándolas con la documentación comprobatoria, de tal forma que se pueda identificar claramente la base y el impuesto que corresponda en cada caso.
 
 ###### Artículo 19.
 
@@ -419,7 +421,9 @@ Los obligados al pago de este impuesto, además de las obligaciones señaladas e
 
 I. Inscribirse en el Registro Estatal de Contribuyentes, a través de la oficina recaudadora que corresponda a su domicilio, dentro de los 30 días siguientes a la fecha de iniciación de las actividades, mediante la presentación de la forma que al efecto autorice la Secretaría de Finanzas y Administración, debiendo adjuntar a la misma, copia de la solicitud de inscripción al Registro Federal de Contribuyentes, de la Secretaría de Hacienda y Crédito Público, en la que conste la información relacionada con su identidad, que podrá comprender, entre otros datos, nombre, denominación o razón social, actividad, domicilio o ubicación de cada establecimiento u oficina central cuando se trate de instituciones oficiales y en general los demás datos que permitan su identificación precisa para los efectos de este impuesto.
 
-Asimismo, deberán presentar copia de la cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Asimismo, deberán presentar copia de la cédula de identificación fiscal expedida por la Secretaría de Hacienda y Crédito Público; así como copia del acta constitutiva donde conste el nombre del representante legal de la persona moral. En caso de no estar especificado en dicha acta, anexar copia del poder notarial expedido al representante legal, así como copia fotostática legible del documento donde conste el Número de Registro Patronal, expedido por el Instituto Mexicano del Seguro Social;
 
 II. Presentar ante la misma oficina a la que se refiere la fracción anterior, dentro del plazo señalado, los avisos de cambio de denominación o razón social, de domicilio o ubicación de establecimientos u oficinas, de suspensión o reanudación de actividades, de apertura o cierre de establecimientos, de liquidación o apertura de sucesión y de cancelación en el Registro Federal de Contribuyentes.
 
@@ -439,11 +443,9 @@ La recaudación que se obtenga de la aplicación de este impuesto, se destinará
 
 El Ejecutivo del Estado al presentar la Cuenta Pública informará al Congreso del Estado respecto del monto obtenido por la recaudación de este impuesto así como de su aplicación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES, SUBSECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-### CAPÍTULO V. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS
+### CAPÍTULO V. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -461,9 +463,13 @@ Están obligadas al pago del impuesto estatal sobre tenencia o uso de vehículos
 
 El impuesto referido, corresponde a aquellos vehículos de año modelo definido en este Capítulo; así como el posterior al de aplicación de la Ley de Ingresos del Estado y los de hasta nueve años anteriores al de aplicación de dicha Ley.
 
-Cuando las personas físicas y morales, que durante el Ejercicio Fiscal vigente, trasladen su domicilio al Estado de Michoacán; que sean tenedoras o usuarias de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, y que consecuentemente hayan pagado el impuesto sobre tenencia o uso de vehículos correspondiente en esa otra entidad federativa, no estarán obligadas a realizar dicho pago.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Lo establecido en el párrafo anterior, procederá únicamente por lo que se refiere al ejercicio fiscal en que las personas físicas y morales hayan pagado dicho impuesto, antes de trasladarse al Estado de Michoacán; en caso de no haberlo realizado, deberán pagar el correspondiente al presente ejercicio fiscal y los posteriores, en esta Entidad Federativa, mostrando como mínimo, de uno a tres pagos, según el año modelo del automóvil.
+Cuando las personas físicas y morales, que durante el Ejercicio Fiscal vigente, trasladen su domicilio al Estado de Michoacán; que sean tenedoras o usuarias de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, y que consecuentemente hayan pagado el impuesto sobre tenencia o uso de vehículos correspondiente en esa otra entidad federativa, o estén exentas de dicho Impuesto no estarán obligadas a realizar dicho pago.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+Lo establecido en el párrafo anterior, procederá únicamente por lo que se refiere al Ejercicio Fiscal en que las personas físicas y morales hayan pagado dicho impuesto, antes de trasladarse al Estado de Michoacán; en caso de no haberlo realizado, deberán pagar el correspondiente al presente ejercicio fiscal y los posteriores, en esta Entidad Federativa, mostrando como mínimo, de uno a tres comprobantes originales de los pagos correspondientes, según el año modelo del automóvil, o en su caso precisar bajo protesta de decir verdad que en el lugar de residencia anterior, se encontraban exentos del citado impuesto, al efecto de que la autoridad respectiva pueda verificar la existencia de la normativa aplicable.
 
 Las personas físicas y morales tenedoras o usuarias de vehículos, sujetas al pago de este impuesto, que cambien su lugar de residencia, ya sea en el interior del Estado, o que cambien de otra entidad federativa al Estado de Michoacán, deberán presentar aviso de cambio de domicilio, en los primeros 15 días hábiles, posteriores a dicho cambio.
 
@@ -471,29 +477,45 @@ Lo señalado en el párrafo anterior se debe de realizar, independientemente de 
 
 Para los efectos de esta impuesto, se presume que el propietario es tenedor o usuario del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33-B.
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
+Los contribuyentes pagarán el impuesto por año de calendario durante los cinco primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 El impuesto se pagará en las oficinas recaudadoras que la Secretaría de Finanzas y Administración del Estado autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. También se puede realizar dicho pago a través de los medios electrónicos en los sitios de Internet o en las sucursales de las instituciones financieras autorizadas por ésta.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público, o en la Secretaría de Finanzas y Administración. Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro federal o estatal de contribuyentes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Los importadores ocasionales efectuarán el pago de este impuesto, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado, o en el caso de importación temporal, al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo segundo de este artículo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 Las personas físicas o morales cuya actividad sea la enajenación al público de vehículos nuevos o importados, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de la Ley de Ingresos del Estado, se pagará la contribución correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Dicho impuesto se pagará simultáneamente, con los derechos que establece el artículo 36 de la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 Las infracciones que se cometan por los contribuyentes del impuesto a que se refiere este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 El contribuyente que con posterioridad a la fecha de pago del impuesto a que se refiere este Capítulo, compruebe que realizó algún pago indebido en exceso, podrá solicitar la devolución de la cantidad pagada indebidamente.
 
@@ -635,9 +657,7 @@ Los contribuyentes comprobarán el pago del impuesto con el original de la forma
 
 #### SECCIÓN SEGUNDA. BASE Y TASA PARA AUTOMÓVILES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33-J.
 
@@ -649,9 +669,9 @@ TARIFA
 
 Limite Limite Cuota Tasa para
 
-inferior superior fija aplicarse al
+inferior superior fija aplicarse sobre
 
-$ excedente
+$ $ $ el excedente
 
 del límite
 
@@ -677,35 +697,29 @@ III. Tratándose de automóviles de más de diez años modelo anterior al de apl
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33-K.
 
-Tratándose (sic) automóviles nuevos Pick Up, destinados al transporte de pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+Tratándose de automóviles nuevos Pick Up, destinados al transporte de pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
 TARIFA
 
 Limite Limite Cuota Tasa para
 
-inferior superior fija aplicarse al
+inferior superior fija aplicarse sobre
 
-$ excedente
+$ $ $ el excedente
 
 del límite
 
 inferior %
 
-0.01 250,000.00 0.00 0.245
+0.01 500,000.00 0.00 0.245
 
-250,000.01 400,000.00 612.50 1.00
+500,000.01 En adelante 1,225.00 0.60
 
-400,000.01 600,000.00 2,112.50 3.00
-
-600,000.01 En adelante 8,112.50 8.70
-
-Tratándose de automóviles blindados referidos en este artículo, la tarifa anterior se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
+Tratándose de automóviles blindados referidos en este artículo, la tarifa anterior se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían (sic) que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
 
 Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
 
@@ -799,15 +813,17 @@ No se pagará el impuesto en los términos de lo dispuesto por esta Sección, po
 
 #### SECCIÓN CUARTA. BASE Y TASA PARA AUTOMÓVILES ELÉCTRICOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33-P.
 
-Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Para los efectos de este artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la Secretaría de Finanzas y Administración.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Tratándose de los vehículos antes señalados, de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
 
@@ -971,9 +987,7 @@ SUBSECCIÓN CUARTA
 
 MOTOCICLETAS DE FABRICACIÓN NACIONAL O IMPORTADAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 33- W.
 
@@ -1003,7 +1017,7 @@ Años de antigüedad Factor de depreciación
 
 9 0.1
 
-A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 33-R de esta Ley.
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 33-N de esta Ley.
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
@@ -1023,7 +1037,9 @@ Cuando las autoridades fiscales embarguen precautoriamente vehículos por tenenc
 
 El Estado percibirá el 95% del producto neto de la enajenación de los vehículos que les hayan sido otorgados en los términos del párrafo anterior, siempre y cuando éstos estén inutilizados permanentemente para la circulación. Dicha enajenación se hará conforme a las reglas de carácter general que establezca la Secretaría de Hacienda y Crédito Público.
 
-El registro estatal vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial del Estado, que serán como mínimo: marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, número de chasis, número de placas y año fiscal que cubre el impuesto a que se refiere esta Ley, así como los datos correspondientes al contribuyente: nombre o razón social, domicilio, código postal y, en su caso, el Registro Estatal o Federal de Contribuyentes. El registro estatal vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+El Registro Estatal Vehicular a que se refiere el artículo 42 de esta Ley, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial del Estado, que serán como mínimo: marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, número de chasis, número de placas y año fiscal que cubre el impuesto a que se refiere este Capítulo, así como los datos correspondientes al contribuyente: nombre o razón social, domicilio, código postal y, en su caso, el Registro Estatal o Federal de Contribuyentes. El Registro Estatal Vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general o por cualquier otra dependencia federal, entidad federativa con quien se suscriba el convenio respectivo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1033,13 +1049,29 @@ El registro estatal vehicular a que se refiere el primer párrafo de este artíc
 
 Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, domiciliados en el Estado de Michoacán tendrán la obligación de proporcionar a la Secretaría de Hacienda y Crédito Público, y a la Secretaría de Finanzas y Administración del Estado, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale la Secretaría de Finanzas y Administración, mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada Municipio.
 
-## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 33-Z.
+
+Se constituye un programa para establecer un subsidio del 100% en el pago del Impuesto Sobre Tenencia o Uso de Vehículos en beneficio de las personas físicas y morales sujetas de este Impuesto, que se encuentren al corriente en todas las Contribuciones Estatales y Federales Coordinadas, y además cumplan con las disposiciones reglamentarias que al efecto emita y publique la Secretaria de Finanzas y Administración del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 33
+
+AA. Tratándose de las contribuciones por concepto de Impuestos a que se refiere el presente Título, que no hayan sido cubiertas en la fecha o dentro del plazo fijado por esta Ley, se causarán accesorios por concepto de multas y recargos de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
 ### CAPÍTULO UNICO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-Las contribuciones especiales que se establezcan a cargo de las personas que se beneficien de manera especial con alguna obra o servicio público y que sean destinadas a cubrir los gastos que requieran la propia obra o servicio de que se trate, se regularán de acuerdo a lo que establezca el decreto legislativo correspondiente.
+Las contribuciones de mejoras que se establezcan a cargo de las personas físicas y morales que se beneficien de manera directa con alguna obra o servicio público, que sean destinadas a cubrir los gastos que requieran la propia obra o servicio de que se trate, se regularán de acuerdo a lo que establezca el decreto legislativo correspondiente o el documento y normativa respectiva, en su caso.
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
@@ -1259,6 +1291,12 @@ e) Los acusados, para que surtan sus efectos en los procesos penales que se les 
 
 f) Los obreros, para asuntos laborales.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 45-A.
+
+Tratándose de las contribuciones por concepto de Derechos a que se refiere el presente Título, que no hayan sido cubiertas en la fecha o dentro del plazo fijado por esta Ley, se causarán accesorios por concepto de multas y recargos de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
+
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO UNICO
@@ -1434,3 +1472,19 @@ El presente Decreto entrará en vigor el día 1° primero de enero de 2010, prev
 ###### ARTÍCULO SEGUNDO.
 
 La adición de los artículos 33-A al 33-Y, mediante los cuales se crea el impuesto estatal sobre tenencia o uso de vehículos, entrarán en vigor a partir del 1° primero de enero del año 2012.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1° primero de enero de 2012, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas físicas y morales tenedoras o usuarias de vehículos de año modelo 2012 adquiridos a partir del 1° de enero de dicho año y de años posteriores, pagarán las contribuciones correspondientes conforme lo establece la Ley de Hacienda del Estado de Michoacán de Ocampo, en el Capítulo relativo al Impuesto Sobre Tenencia o Uso de Vehículos.
+
+ARTÍCULO SEGUNDO (SIC). Los vehículos de las personas físicas y morales tenedoras o usuarias de éstos, registrados conforme a lo establecido por la Ley del Impuesto Sobre Tenencia o Uso de Vehículos Federal, hasta el 31 de diciembre del año 2011, así como los adquiridos a partir del 1° de enero del año 2012, pasarán a formar parte del Registro Estatal Vehicular referido en esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo.
