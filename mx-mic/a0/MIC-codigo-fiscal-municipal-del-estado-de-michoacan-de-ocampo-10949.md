@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-municipal-del-estado-de-michoacan-de-ocampo-10949
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-25"
-last_updated: "2009-12-31"
+last_updated: "2011-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 25 de agosto de 1997.
 
@@ -55,17 +55,19 @@ Las personas que de conformidad con la ley no estén obligadas a pagar contribuc
 
 Cuando en este Código se mencione a "la Tesorería", se entenderá que se refiere a la Tesorería Municipal; cuando se mencione a "Organismos", se entenderá que se refiere a los organismos operadores municipales para la prestación del servicio de agua potable, alcantarillado y saneamiento y cuando se mencione a "la Ley", se referirá a la Ley de Hacienda Municipal del Estado de Michoacán.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-Son contribuciones las cantidades que en dinero deben enterar las personas físicas y morales al Municipio, para cubrir el gasto público, las que se clasifican en: Impuestos, Derechos y Contribuciones Especiales y se definen como sigue:
+###### ARTICULO 3°.
 
-I.- Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
+Son contribuciones las cantidades que en dinero deben enterar las personas físicas y morales, al Municipio, para cubrir el gasto público, las que se clasifican en: Impuestos, Derechos, Contribuciones de mejoras y se definen como sigue:
 
-II.- Derechos son las contraprestaciones establecidas en Ley por pago a los municipios, por los servicios de carácter administrativo prestados directamente o a través de organismos descentralizados que se constituyan para tales efectos.
+I. Impuestos son las contribuciones establecidas en Ley, que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las contribuciones de mejoras y derechos;
 
-III.- Contribuciones Especiales son las que se establezcan en ley o decreto, a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas e indirecta por servicios públicos.
+II. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Municipio, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados, cuando se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas; y,
 
-Los recargos, las multas, los honorarios y los gastos de ejecución así como la indemnización a que se refiere el sexto párrafo del artículo 20 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
+III. Contribuciones de Mejoras son las establecidas en la Ley o Decreto Legislativo correspondiente o el documento y normativa respectiva, en su caso, a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+
+Los recargos, las multas, los honorarios, los gastos de ejecución y la indemnización a que se refiere el último párrafo del artículo 20 de este Código, son accesorios de las contribuciones por concepto de Impuestos y Derechos, y participan de la naturaleza de éstas.
 
 ###### ARTICULO 4º.
 
@@ -620,8 +622,6 @@ I. Se opongan u obstáculicen la iniciación o desarrollo de las facultades de c
 II. No presenten la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos que acrediten el cumplimiento de las disposiciones fiscales.
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1934,6 +1934,16 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO PRIMERO.
 
 La presente Ley, entrará en vigor el día 1° de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta a los Ayuntamientos del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1° de enero de 2012, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO SEGUNDO.
 
