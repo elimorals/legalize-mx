@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-de-la-fraccion-vii-del-articulo-55-de-la-7212
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2009-12-24"
+last_updated: "2011-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY REGLAMENTARIA DE LA FRACCION VII DEL ARTICULO 55 DE LA CONSTITUCION POLITICA PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-LEY REGLAMENTARIA DE LA FRACCION VII DEL ARTICULO 55 DE LA CONSTITUCION POLITICA PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
+LEY REGLAMENTARIA DE LA FRACCIÓN VII DEL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -47,9 +47,13 @@ LEY REGLAMENTARIA DE LA FRACCIÓN VII DEL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍ
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es Reglamentaria de la fracción VII del artículo 55 de la Constitución Política para el Estado Libre y Soberano de Durango y tiene por objeto establecer las condecoraciones y el procedimiento a través del cual el H. Congreso del Estado premie y reconozca la conducta, actos u obras de las personas e instituciones que se hagan merecedoras a ello.
+La presente Ley es Reglamentaria de la fracción VII del artículo 55 de la Constitución Política del Estado Libre y Soberano de Durango, y tiene por objeto establecer los reconocimientos, premios, condecoraciones y el procedimiento a través del cual el Honorable Congreso del Estado premie y reconozca la conducta, actos u obras de las personas, fechas históricas, acontecimientos relevantes e instituciones que se hagan merecedoras a ello.
+
+Las fechas históricas y acontecimientos relevantes, que se pretendan inscribir en el Muro de Honor y con ello recibir un reconocimiento, deberán referirse a eventos de trascendencia que hayan influido en el desarrollo político, social, deportivo, económico y cultural del Estado de Durango o del país.
 
 ###### ARTÍCULO 2.
 
@@ -59,15 +63,19 @@ Las condecoraciones, premios y reconocimientos previstos en esta Ley se otorgar�
 
 Las condecoraciones se otorgarán exclusivamente a los ciudadanos duranguenses, por nacimiento o residencia, excepción hecha de las condecoraciones Guadalupe Victoria, Francisco Villa, Francisco Zarco y Francisco Castillo Nájera, las que podrán ser otorgadas a cualquier nacional o extranjero.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 4.
 
-Los reconocimientos se podrán otorgar en los términos previstos en esta Ley a los ciudadanos o instituciones que con su actuar hayan dado prestigio al estado de Durango, o contribuido significativamente al desarrollo político, económico, social o cultural de Durango o de la Nación.
+Los reconocimientos se podrán otorgar en los términos previstos en esta Ley, a los ciudadanos ya sea considerados como personas físicas o en grupo, a las personas morales, a las instituciones, a las fechas históricas y acontecimientos relevantes, que con su actuar hayan dado prestigio al Estado de Durango, o contribuido significativamente al desarrollo político, económico, social o cultural de Durango o de la Nación.
 
 ###### ARTÍCULO 5.
 
 Los reconocimientos podrán consistir en:
 
-I. La inscripción del nombre del ciudadano o institución homenajeada en el Muro de Honor del salón de Sesiones del H. Congreso del Estado. Para ser objeto de este reconocimiento se estará en todo momento sujeto al procedimiento señalado en el capitulo III de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+I. La inscripción del nombre del ciudadano; grupo de personas; de la institución; la fecha histórica y del acontecimiento relevante, homenajeado en el Muro de Honor del Salón de Sesiones del Honorable Congreso del Estado. Para ser objeto de este reconocimiento, se estará en todo momento sujeto al procedimiento señalado en el Capítulo Tercero de esta Ley;
 
 II. El otorgamiento de un diploma especial a las personas con un mérito civil o heroico relevante. Para ser objeto de este reconocimiento se estará en todo momento sujeto al procedimiento señalado en el capitulo IV de esta Ley.
 
@@ -143,9 +151,11 @@ II. A los extranjeros en reconocimiento a sus acciones cívicas, por sus producc
 
 La condecoración Francisco González de la Vega se concederá a quienes constituyan, en su comunidad, respetables ejemplos de dignidad cívica por su diligente cumplimiento de la Ley, la firme y serena defensa de los derechos propios y de los demás, el respeto a las instituciones públicas y en general, por su relevante comportamiento ciudadano.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-La condecoración José Guadalupe Aguilera se otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el acervo científico o tecnológico del país o del Estado, en el campo de las ciencias, la tecnología o la innovación en todas sus ramas.
+La condecoración José Guadalupe Aguilera se otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el acervo científico o tecnológico del país o del Estado, en el campo de las ciencias, la tecnología o la innovación en todas sus ramas; así como a la enseñanza de los valores humanos y aportaciones docentes en beneficio de la niñez y juventud duranguense durante su etapa de formación.
 
 ###### ARTÍCULO 14.
 
@@ -205,13 +215,17 @@ La aprobación de la propuesta para otorgar una condecoración deberá realizars
 
 ### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO PLENARIO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 26.
 
-En el Salón de Sesiones del Congreso se dispondrá de un espacio al que se le denominará Muro de Honor, destinado a inscribir con letras doradas el nombre de la persona que hayan (sic) fallecido o de las instituciones que hayan contribuido de manera decidida al desarrollo de la entidad, que hayan contribuido en grado excelso a las artes, al desarrollo científico o tecnológico con aportaciones en beneficio de la humanidad, que hayan destacado por su quehacer intelectual en el desarrollo de las ciencias y las artes de México y el mundo; y/o que hayan destacado por su participación en los procesos históricos que han conformado la nación o el estado.
+En el Salón de Sesiones del Congreso se dispondrá de un espacio al que se le denominará Muro de Honor, destinado a inscribir con letras doradas fechas históricas, acontecimientos relevantes, el nombre de la o las personas que hayan fallecido, de instituciones que hayan contribuido de manera decidida al desarrollo de la entidad, que hayan contribuido en grado excelso a las artes (sic), al desarrollo científico o tecnológico con aportaciones en beneficio de la humanidad, que hayan destacado por su quehacer intelectual en el desarrollo de las ciencias y las artes de México y el mundo; y/o que hayan destacado por su participación en los procesos históricos que han conformado la nación o el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
-Para ser considerada una propuesta para su inscripción en el Muro de Honor se estará a lo siguiente:
+Para ser considerado una propuesta para su inscripción en el Muro de Honor, se estará a lo siguiente:
 
 I. Para inscribir el nombre de una persona se deberá:
 
@@ -228,6 +242,20 @@ a) Tener cuando menos cincuenta años de haber sido fundada en el Estado.
 b) Contar con la anuencia de su máxima autoridad de gobierno interior.
 
 c) Presentar justificación que demuestre los meritos de la institución y su contribución al desarrollo económico, científico, cultural o educativo de la Nación o de la entidad, para que merezca ser recordada permanentemente, acompañándola de los documentos probatorios que se estimen pertinentes, en su caso, se indicará la naturaleza de otras pruebas o testimonios y los lugares donde puedan recabarse.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+III. Para inscribir fechas históricas o acontecimientos relevantes, deberá:
+
+a) Tratarse de una fecha o acontecimiento que la propia comunidad reconoce como trascendental en la vida política, social, económica, cultural e histórica, deportiva del Estado o del País.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+IV. Para que proceda inscribirse a un grupo de personas, deberá:
+
+a) Comprender a un número indeterminado de personas, todas participantes con el mismo fin u objetivo, pudiendo ser en tiempos y lugares diferentes, y
+
+b) Que por su número, no sea posible físicamente inscribir a todas las personas.
 
 ###### ARTÍCULO 28.
 
@@ -257,9 +285,11 @@ Para el estudio de las propuestas que se presenten al Pleno del Congreso, se des
 
 La aprobación de la iniciativa correspondiente deberá realizarse por mayoría calificada del Pleno.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 33.
 
-El acto de develación del nombre de un personaje o una institución en el Muro de Honor del Congreso del Estado se verificará en Sesión Solemne que para el efecto se convoque.
+El acto de develación del nombre de un personaje, fecha histórica, acontecimiento relevante, grupo de personas o una institución en el Muro de Honor del Congreso del Estado, se verificará en Sesión Solemne que para el efecto se convoque.
 
 ### CAPÍTULO CUARTO. DE LOS RECONOCIMIENTOS ESPECIALES
 
@@ -313,9 +343,11 @@ El lugar para la imposición de las condecoraciones señaladas en los incisos IV
 
 En un mismo evento especial se podrán otorgar dos o más condecoraciones a personas distintas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 45.
 
-Cuando se acuerde inscribir el nombre de una persona o una institución en el Muro de Honor del H. Congreso del Estado, el Presidente de la Gran Comisión, acordará la fecha de la Ceremonia Solemne para lo que se estará a lo siguiente:
+Cuando se acuerde inscribir el nombre de una persona, fecha histórica, acontecimiento relevante, grupo de personas o una institución en el Muro de Honor del Congreso del Estado, el Presidente de la Gran Comisión, acordará la fecha de la Ceremonia Solemne, para lo que se estará a lo siguiente:
 
 I. Tratándose de personas:
 
@@ -335,13 +367,27 @@ b) Cuando no se alcance un acuerdo, se consultara en segunda instancia al inicia
 
 En una misma Ceremonia Solemne se podrán develar los nombres de dos o más personas o instituciones, siempre y cuando así se haya convocado en términos de la Ley Orgánica del H. Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 47.
 
-El orden del día de la Sesión Solemne deberá contemplar cuando menos, Honores a la Bandera, la lectura del Decreto que acuerda la inscripción con letras doradas del nombre del homenajeado en el Muro de Honor del H. Congreso del Estado; la intervención del Presidente de la Mesa Directiva del H. Congreso, la Intervención de un representante de la familia del homenajeado, o de un representante de la institución homenajeada según sea el caso, y la develación del nombre del homenajeado en el Muro de Honor.
+El orden del día de la Sesión Solemne deberá contemplar cuando menos:
+
+I.- Honores a la Bandera;
+
+II.- Lectura del Decreto que acuerda la inscripción con letras doradas en el Muro de Honor del Congreso del Estado;
+
+III.- Intervención del Presidente de la Mesa Directiva del Congreso;
+
+IV.- Intervención de un representante de la institución homenajeada o de la familia del homenajeado, de ser el caso, y
+
+V.- La develación del nombre del homenajeado, fecha histórica, acontecimiento relevante, grupo de personas o institución homenajeada en el Muro de Honor.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 48.
 
-La entrega de los reconocimientos especiales a que se refiere el Capítulo IV se llevará a cabo en evento especial en la fecha y hora que determine el Presidente de la Mesa Directiva Gran Comisión, en el que deberán participar sus Secretarios, así como los integrantes de la Gran Comisión. Tratándose de periodos de receso deberán presidir el acto los integrantes de la Comisión Permanente, quienes actuaran en nombre del Congreso del Estado.
+La entrega de los reconocimientos especiales a que se refiere el Capítulo Cuarto de esta Ley, se llevará a cabo en evento especial, en la fecha y hora que determine el Presidente de la Mesa Directiva, en el que deberán participar sus secretarios, así como los integrantes de la Gran Comisión. Tratándose de periodos de receso, deberán presidir el acto los integrantes de la Comisión Permanente, quienes actuarán en nombre del Congreso del Estado.
 
 ###### ARTÍCULO 49.
 
@@ -472,3 +518,29 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+DECRETO No. 244 SE REFORMAN LOS ARTÍCULOS 1, 4, 5, 26, 27, 33 Y 45.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2011.
+
+DECRETO No. 250 SE REFORMA EL ARTÍCULO 13.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
