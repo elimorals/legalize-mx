@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2011-10-28"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -63,7 +63,7 @@ En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscale
 
 ## TITULO II. IMPUESTOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO I. Impuesto Predial
 
@@ -159,7 +159,7 @@ En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscale
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO II. Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio
 
@@ -221,7 +221,7 @@ En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscale
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 42.
 
@@ -355,7 +355,7 @@ El impuesto se causará y pagará mensualmente en razón de los ingresos gravabl
 
 Para los efectos del pago de este impuesto, regirán las tasas que señala la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 1977)</small>
 
 ###### ARTICULO 56.
 
@@ -483,13 +483,13 @@ III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere,
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 72.
 
 Los causantes del Impuesto sobre Actividades Mercantiles e Industriales en el Estado de Baja California deberán observar las siguientes medidas de control de sus ingresos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 I.- Expedir diariamente facturas, notas de venta o cintas de máquina registradora que comprueben la totalidad de sus ingresos provenientes de sus operaciones. El documento fuente de contabilización deberá llenar los siguientes requisitos:
 
@@ -551,7 +551,7 @@ En los casos de compras de mercancías facturadas en el extranjero, éstas deber
 
 En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Planeación y Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 73.
 
@@ -561,7 +561,7 @@ I.- Presentar para su autorización, ante la Recaudación de Rentas del Estado, 
 
 II.- Conservar copia de los contratos, facturas y recibos de cobranzas que originan las ventas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 III.- Llevar un registro por cada operación, que consigne como mínimo los siguientes datos:
 
@@ -649,7 +649,7 @@ Las personas físicas o morales que mantengan o hayan tenido relaciones mercanti
 
 Son actividades mercantiles o industriales eventuales, aquellas que se realizan esporádicamente o en forma evidentemente transitoria, así como las que por su propia naturaleza o características deban durar por un término menor de tres meses.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 86.
 
@@ -717,27 +717,27 @@ Cuando se solicite la suspención (sic) provisional o definitiva de orden de cla
 
 ### CAPITULO IV. Impuesto Sobre Producción Agropecuaria
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 97.
 
 Es objeto del Impuesto Sobre Producción Agropecuaria, la producción agrícola, avícola y ganadera que se obtenga en el Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 98.
 
 Son causantes de este impuesto las personas físicas, morales o unidades económicas cuya actividad consista en la producción agrícola, avícola o ganadera.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 99.
 
 El impuesto se causará y pagará de acuerdo con las bases, tasas o cuotas que señale la Ley de Ingresos.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 1974)</small>
 
 ###### ARTICULO 100.
 
@@ -751,7 +751,7 @@ II.- Ante la primera autoridad fiscal competente que requiera su pago.
 
 III.- Tratándose de producción avícola, deberá efectuarse el pago en forma mensual presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
@@ -759,7 +759,7 @@ III.- Tratándose de producción avícola, deberá efectuarse el pago en forma m
 
 Por los productos en consignación, tránsito, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 (REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
 
@@ -767,15 +767,15 @@ Por los productos en consignación, tránsito, depósito o cualquier otra forma 
 
 Son solidariamente responsables de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que adquieran, operen, manejen o refaccionen los productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos correspondientes han sido cubiertos, y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al veinte de cada mes.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 103.
 
 Todo tenedor de productos gravados por este impuesto, está obligado a comprobar el pago del impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 1974)</small>
 
 ###### ARTICULO 104.
 
@@ -793,7 +793,7 @@ III.- Tratándose de producción ganadera presentar declaración mensual de movi
 
 IV.- Cumplir las que señale esta Ley y demás disposiciones fiscales relativas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -807,7 +807,7 @@ Tratándose de productos agrícolas de procedencia ejidal, que se produzcan en e
 
 II.- A presentar a la Recaudación de Rentas de su jurisdicción, dentro de los días comprendidos del primero al veinte de cada mes, una declaración de los productos adquiridos o recibidos durante el mes anterior, enterando el importe del impuesto retenido en las formas autorizadas por la Secretaría de Finanzas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 106.
 
@@ -815,27 +815,27 @@ Queda exceptuada del pago de este Impuesto, la producción ejidal del Estado, en
 
 ### CAPITULO V. Impuesto Sobre Venta de Productos Agropecuarios
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 107.
 
 Son objeto del Impuesto Sobre Venta de Productos Agropecuarios, las operaciones por las cuales se trasmita el dominio de los productos agrícolas, avícolas o ganaderos que por primera vez se realicen o surtan sus efectos dentro del Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 108.
 
 Son causantes de este Impuesto las personas físicas, morales o unidades económicas que efectúen operaciones en las que se trasmita el dominio de productos agrícolas, avícolas y ganaderos, que se realicen o surtan sus efectos dentro del Estado. No son causantes de este impuesto los sujetos del Impuesto sobre Producción Agropecuaria.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 109.
 
 El Impuesto se causará con base en las operaciones por las cuales se trasmita el dominio de productos agrícolas, avícolas y ganaderos, y se pagará de acuerdo con la tarifa que señale la Ley de Ingresos.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 110.
 
@@ -849,7 +849,7 @@ II.- Ante la primera autoridad fiscal que requiera de pago.
 
 III.- Mediante declaración mensual presentada los días comprendidos del 1o. al 10 de cada mes.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
 
@@ -857,7 +857,7 @@ III.- Mediante declaración mensual presentada los días comprendidos del 1o. al
 
 Por los productos en consignación, en tránsito, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -865,13 +865,13 @@ Por los productos en consignación, en tránsito, depósito o cualquier otra for
 
 Son solidariamente responsables del pago de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que adquieran, operen, manejen o refaccionen productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos han sido cubiertos y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al veinte de cada mes.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 113.
 
 Todo tenedor está obligado a comprobar el pago del Impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del Impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -893,7 +893,7 @@ IV.- Presentar una declaración mensual de movimiento de productos agropecuarios
 
 V.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales relativas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -901,13 +901,13 @@ V.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales rel
 
 1.- Las operaciones que grava este impuesto no son objeto del de actividades mercantiles e industriales a que se refiere el Capítulo III de esta Ley.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
 ### CAPITULO VI. Impuesto Sobre Despepite de Algodón
 
 ###### ARTICULO 115.- N.
 
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 116.
 
@@ -915,11 +915,11 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 ###### ARTICULO 117.- N.
 
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 118.- N.
 
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -929,17 +929,17 @@ Los causantes de este impuesto deberán pagarlo mensualmente dentro de los días
 
 ###### ARTICULO 120.- N.
 
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 120
 
-1.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+1.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 (SIC)
 
 Impuesto Sobre Adquisición de Algodón
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -947,19 +947,19 @@ Impuesto Sobre Adquisición de Algodón
 
 Son objeto del Impuesto Sobre Adquisición de Algodón las operaciones de compra-venta de algodón en pluma y semilla de algodón que se realicen en el Estado, que surtan efectos dentro de él o que se celebren respecto de estos Artículos, producidos en el Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 122.
 
 Son sujetos de este Impuesto las personas físicas, morales o unidades económicas que adquieran algodón en pluma y semilla de algodón.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 123.
 
 Este Impuesto se causará con base en el precio de la operación de adquisición de algodón en pluma y el volumen de semilla de algodón adquirida, y se pagará conforme a la tasa que fije la Ley de Ingresos del Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 (REFORMADO, P.O. 31 DE ENERO DE 1976) (F. DE E., P.O. 20 DE MARZO DE 1976)
 
@@ -967,7 +967,7 @@ Este Impuesto se causará con base en el precio de la operación de adquisición
 
 Los causantes del impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme a las compras efectuadas en el mes inmediato anterior, mediante la presentación de una declaración ante la Recaudación de Rentas correspondiente en las formas autorizadas por la Secretaría de Finanzas.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -975,13 +975,13 @@ Los causantes del impuesto deberán pagarlo mensualmente dentro de los días del
 
 Son retenedores y responsables solidarios del pago de este impuesto, los despepitadores de algodón, los molinos de semilla y cualesquiera otra persona física o moral o unidad económica que intervenga directa o indirectamente en las operaciones de compra-venta de algodón y semilla de algodón.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACION DEL SIGUIENTE ARTICULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 11, SE SUSPENDE LA APLICACIÓN DEL SIGUIENTE ARTÍCULO, P.O. 31 DE DICIEMBRE DE 1980.</small>
 
 ###### ARTICULO 126.
 
 El Ejecutivo del Estado fijará el precio oficial para la compra-venta de algodón en sus diversas calidades, cuando no se conozca el precio de la operación o los precios estipulados en el contrato de compraventa no correspondan a los reales del mercado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO VIII. Impuesto Sobre Servicios de Hospedaje
 
@@ -1169,7 +1169,7 @@ II.- El equipo y las instalaciones que se utilicen en el espectáculo público.
 
 ### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 144.
 
@@ -1197,7 +1197,7 @@ Para efectos de este impuesto, se considera como Operaciones Similares, todas aq
 
 Son sujetos de este impuesto, las personas físicas o morales que celebren las operaciones mencionadas en el Artículo anterior, que no estén gravadas por el Impuesto sobre Actividades Mercantiles e Industriales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 146.
 
@@ -1235,37 +1235,37 @@ Los bienes transmitidos o adquiridos, quedan afectos preferentemente al pago del
 
 Este Impuesto se regulará por las disposiciones que al efecto señala la Ley del Impuesto Sobre Alcoholes y Bebidas Alcohólicas vigentes en el Estado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DEL PRECEPTO LEGAL QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DEL PRECEPTO LEGAL QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
 ### CAPITULO XIII. Impuesto Sobre Compraventa de Alcohol y Bebidas Alcohólicas
 
 ###### ARTICULO 151.- N.
 
-DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1981.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1981.</small>
 
 ### CAPITULO XIV. Impuesto Sobre Arrendamiento y Subarrendamiento de Bienes Inmuebles
 
 ###### ARTICULO 151
 
-1.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+1.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-2.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+2.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-3.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+3.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-4.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+4.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-5.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+5.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -1281,9 +1281,9 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 ###### ARTICULO 151
 
-8.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+8.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR FUE OMISO AL SEÑALAR EL TEXTO DEL PRESENTE ARTICULO, TODA VEZ QUE POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84 DE FECHA 31 DE DICIEMBRE DE 1981, FUE SUSPENDIDA TOTALMENTE SU APLICACION.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE EL LEGISLADOR FUE OMISO AL SEÑALAR EL TEXTO DEL PRESENTE ARTÍCULO, TODA VEZ QUE POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84 DE FECHA 31 DE DICIEMBRE DE 1981, FUE SUSPENDIDA TOTALMENTE SU APLICACIÓN.</small>
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -1291,7 +1291,7 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 9.-... (Sic)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 I.- Empadronarse en la Secretaría de Planeación y Finanzas, por conducto de la Oficina Recaudadora correspondiente, dentro de los quince días siguientes a aquel en que celebre su primer contrato de arrendamiento, haciendo uso de las formas aprobadas.
 
@@ -1311,11 +1311,11 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 ###### ARTICULO 151
 
-11.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+11.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 ###### ARTICULO 151
 
-12.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1981.
+12.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 84, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1981.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1331,7 +1331,7 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 13.- Es objeto de este impuesto, la realización de pagos por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección o dependencia de un tercero.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 151
 
@@ -1397,7 +1397,7 @@ Para los efectos de este impuesto, se considera previsión social, las erogacion
 
 19.- Este Impuesto se enterará en efectivo mediante declaración que presentarán los contribuyentes o responsables solidarios según sea el caso, a más tardar los días veinticinco, del mes siguiente al período correspondiente en que hagan o reciban los pagos base del gravamen, o de los meses de abril, julio, octubre y enero del año siguiente, tratándose de pagos trimestrales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 151
 
@@ -1491,7 +1491,7 @@ V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser pre
 
 28.- De los ingresos que obtenga el causante mensualmente, se considerará ingreso exento para los efectos del pago de este Impuesto, la cantidad equivalente hasta el doble del salario mínimo general mensual vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 151
 
@@ -1517,57 +1517,57 @@ Para practicar la estimación a que se refiere la Fracción II de este Artículo
 
 El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el período revisado.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
 ### CAPITULO XVI. Impuesto Sobre Productos de Capitales
 
 ###### ARTICULO 151
 
-30.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+30.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-31.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+31.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-32.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+32.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-33.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+33.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-34.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+34.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-35.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+35.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-36.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+36.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-37.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+37.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-38.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+38.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-39.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+39.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-40.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+40.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 151
 
-41.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+41.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1595,7 +1595,7 @@ Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estad
 
 Son sujetos de este impuesto, quienes causen los impuestos y derechos a que se refiere el Artículo 152.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 156.
 
@@ -1609,7 +1609,7 @@ III.- Los Impuestos a cargo de los ejidatarios.
 
 IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petróleo destinados al consumo del Estado.
 
-V.- El Impuesto Sobre Hospedaje.
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -1623,29 +1623,29 @@ VII.- Los derechos que se causen por los servicios prestados por los Organismos 
 
 VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACION DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE LA APLICACIÓN DE LOS PRECEPTOS LEGALES QUE ESTABLECE EL SIGUIENTE IMPUESTO ESTATAL, P.O. 31 DE DICIEMBRE DE 1979.</small>
 
 ### CAPITULO XVIII. Impuesto para la Educación Media y Superior Sobre Adquisición de Bienes y Servicios
 
 ###### ARTICULO 156
 
-1.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+1.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-2.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+2.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-3.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+3.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-4.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+4.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 ###### ARTICULO 156
 
-5.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+5.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2000)</small>
 
@@ -1655,9 +1655,9 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ###### ARTICULO 156
 
-7.- N. DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACION, P.O. 31 DE DICIEMBRE DE 1979.
+7.- N. DE E. POR DISPOSICIÓN DEL ARTÍCULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTALMENTE SU APLICACIÓN, P.O. 31 DE DICIEMBRE DE 1979.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 1992)</small>
 
 ### CAPITULO XIX. Del Impuesto sobre Loterias, Rifas, Sorteos, Juegos Permitidos y Concursos
 
@@ -1713,7 +1713,7 @@ Tratándose de las personas que obtengan premios derivados o relacionados con la
 
 Tratándose de las personas que organicen juegos con apuestas permitidas se considerará como valor de las mismas la cantidad que se cobre o reciba por el billete o boleto que permita la participación o apuesta, deduciéndose únicamente a dicha base gravable el valor del premio que se obtenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 156
 
@@ -1749,7 +1749,7 @@ VI.- Proporcionar, cuando así lo solicite el interesado, constancia de retenci�
 
 14.- Quienes celebren loterías, rifas, sorteos, juegos permitidos con apuestas y concursos de toda clase en forma accidental por los que deban pagar el impuesto en los términos de este Capítulo, presentarán declaraciones en las oficinas autorizadas dentro de los cinco días siguientes a aquel en que se celebren dichos eventos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
@@ -1759,7 +1759,9 @@ a).- Vehículos de personas físicas y morales tenedoras o usuarias, que estén 
 
 b).- Vehículos de personas físicas y morales tenedoras o usuarias, considerados caros o de lujo conforme a lo establecido en este Capítulo.
 
-Para efectos de este impuesto, se considerarán vehículos caros o de lujo, aquellos cuyo valor determinado en base a este capítulo sea de doscientos sesenta mil pesos o más.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Para efectos de este impuesto, se considerarán vehículos caros o de lujo, aquellos cuyo valor determinado en base a este capítulo sea de quinientos mil pesos o más.
 
 Para efectos de esta Ley, se presume que el propietario de un vehículo es tenedor o usuario del mismo, cuando:
 
@@ -2141,6 +2143,132 @@ Los que tengan más de un establecimiento, deberán presentar la información a 
 
 32.- Los importes señalados en este capítulo, se actualizarán anualmente en los meses de enero, considerando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del penúltimo año. La Secretaría de Planeación y Finanzas publicara los importes actualizados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+33.- Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, llevada a cabo en territorio del Estado de Baja California, excepto cerveza.
+
+Para efecto de este Capítulo, se considerarán bebidas con contenido alcohólico aquellas definidas con tal carácter en la Ley del Impuesto Especial Sobre Producción y Servicios.
+
+Se entiende que la venta se efectúa en territorio del Estado, si en él se lleva a cabo la entrega material de las bebidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+34.- Son sujetos de este impuesto, las personas físicas o morales que realicen en territorio del Estado de Baja California la venta final en envase cerrado de bebidas con contenido alcohólico, excepto cerveza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+35.- La base del impuesto es el precio percibido por la venta de las bebidas señaladas en el artículo 156-33, sin incluir los impuestos al valor agregado ni especial sobre producción y servicios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+36.- El impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo en su caso precios oficiales. Por lo que el impuesto no deberá trasladarse o señalarse en forma expresa y por separado a las personas que adquieran las bebidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+37.- Los contribuyentes del presente impuesto, pagarán el mismo, sin que proceda acreditamiento alguno contra dicho pago.
+
+Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+38.- El impuesto se calculará mensualmente y se enterará al Estado a más tardar el día 25 del mes siguiente a aquél al que corresponda el pago. Los pagos mensuales se realizarán en los términos que para el pago de contribuciones se establecen en el Código Fiscal del Estado, y tendrán el carácter de definitivos.
+
+ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+39.- Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el artículo 156-33, a quienes a su vez venderán en envase cerrado las citadas bebidas, estarán obligados a llevar un registro mensual de estas personas, debiendo recabar de ellos y conservar una copia del registro ante el Estado de la obligación a que se refiere el artículo 156-42 fracción IV.
+
+Quienes no cumplan con la obligación señalada en el párrafo anterior, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas por ellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+40.- Para los efectos de este impuesto, también se considerará venta final, el faltante de inventario o el consumo propio de las bebidas referidas en el artículo 156-33.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+41.- El impuesto se causa en el momento en el que se perciban los ingresos derivados de la venta y sobre el monto de lo pagado. Cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+42.- Los contribuyentes de este impuesto tienen, además de las obligaciones señaladas en este capítulo y en las demás disposiciones fiscales, las siguientes:
+
+I. Llevar contabilidad de conformidad con el Código Fiscal del Estado, y conforme a las Reglas de Carácter General que en su caso emita la Secretaría de Planeación y Finanzas. Asimismo, se deberán identificar las operaciones por las que deba pagarse este impuesto.
+
+II. Presentar las declaraciones relativas al impuesto previsto en el presente capítulo. Si un contribuyente tuviera varios establecimientos en el Estado, presentará una declaración por cada establecimiento, o bien una concentrada por todo el Estado.
+
+III. Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas.
+
+IV. Registrar la obligación de pago del presente impuesto y los establecimientos en los que se realicen las actividades gravadas, ante la Recaudación de Rentas del Estado respectiva, dentro de los 15 días siguientes a que inicie operaciones o a que empiece a enajenar las bebidas señaladas en el artículo 156-33.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO XXI. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+43.- L a (sic) tasa del impuesto será del 4.5 por ciento sobre el ingreso percibido por la venta de las bebidas objeto de este impuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+44.- No se causará por la presente contribución el impuesto adicional para la educación media y superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 156
+
+45.- De la recaudación obtenida por concepto de este impuesto, corresponderá el 20% a los Municipios del Estado, distribuyéndose en proporción a la recaudación del mismo obtenida en cada uno de los Municipios en el ejercicio fiscal anterior. En virtud de ello, este impuesto no se considerará para la determinación de las participaciones a que se refiere el artículo 7° de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7º BIS de la citada ley.
+
 ## TITULO III. DERECHOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
@@ -2237,15 +2365,15 @@ IV.- Expropiaciones.
 
 V.- Aportaciones extraordinarias de los Entes Públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2005)</small>
 
 ## TÍTULO NOVENO. DE LOS ESTIMULOS Y LAS EXENCIONES DE PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 172.
 
-Los jubilados, pensionados e indigentes mayores de sesenta años, personas viudas en situación de indigencia mayores de cincuenta años, personas con discapacidad, personas que tengan a su cargo un familiar con alguna discapacidad, y empresas, quedarán exentas del pago de contribuciones a que se refiere este Título, en los términos y condiciones que en el mismo se establecen.
+Los jubilados, pensionados e indigentes mayores de sesenta años, personas viudas en situación de indigencia mayores de cincuenta años, personas con discapacidad, personas que tengan a su cargo un familiar con alguna discapacidad, Madres Jefas de Familia, y empresas, quedarán exentas del pago de contribuciones a que se refiere este Título, en los términos y condiciones que en el mismo se establecen.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -2275,11 +2403,15 @@ IV.- Empresa: La definida como tal en la Ley de Fomento a la Competitividad y De
 
 V.- Personas que tengan a su cargo un familiar con alguna discapacidad: Las personas que acrediten tener a su cargo y sostenimiento económico a un familiar discapacitado en los términos de la fracción III, residan en el mismo domicilio y se encuentren registradas como responsables en la credencial o constancia oficial con la que se acredite la discapacidad; además que su parentesco sea consanguíneo hasta el cuarto grado; por afinidad hasta el segundo grado ó civil, debidamente acreditados. El Sistema Estatal para el Desarrollo Integral de la Familia, expedirá la constancia de estudio socioeconómico para acreditar que sus ingresos no rebasan el equivalente a 5 veces el salario mínimo diario general vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI.- Madres Jefas de Familia: Madres de familia, sin cónyuge o pareja en aptitud de trabajar, que son el único sostén del hogar, con hijo o hijos menores de edad y cuyos ingresos no excedan de 5 veces el salario mínimo diario general vigente en el Estado. Para acreditar esta condición el Sistema Estatal para el Desarrollo Integral de la Familia, expedirá la constancia correspondiente previo estudio socioeconómico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 173.
 
-Las exenciones que este Título otorga a los jubilados y pensionados, así como a las personas con discapacidad que realicen alguna actividad económicamente activa, siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente en el Estado, personas que tengan a su cargo un familiar con alguna discapacidad, serán del 50% del monto del crédito fiscal de las contribuciones reguladas por esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
+Las exenciones que este Título otorga a los jubilados y pensionados, así como a las personas con discapacidad que realicen alguna actividad económicamente activa, siempre que sus ingresos no excedan de 5 veces el salario mínimo diario general vigente en el Estado, personas que tengan a su cargo un familiar con alguna discapacidad, así como las Madres Jefas de Familia, serán del 50% del monto del crédito fiscal de las contribuciones reguladas por esta Ley, que a continuación se detallan y, se otorgarán dentro de los lineamientos siguientes:
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -2311,7 +2443,7 @@ VI.- DERECHOS POR LA LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y CERTIF
 
 VII.- IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 174.
 
@@ -2425,7 +2557,7 @@ La Secretaría de Planeación y Finanzas, considerando la opinión de la Comisi�
 
 La vigencia de este estímulo fiscal, iniciará a partir de que la autoridad competente, después de seguir el procedimiento respectivo, determine la procedencia de la exención, de acuerdo a lo establecido en el artículo 15 de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 179.
 
@@ -2559,7 +2691,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 
 P.O. 10 DE MARZO DE 1974.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 31 DE AGOSTO DE 1974.
 
@@ -2591,7 +2723,7 @@ CUARTO: La vigencia del presente Decreto empezará a partir del día siguiente a
 
 P.O. 20 DE JUNIO DE 1975.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 31 DE ENERO DE 1976.
 
@@ -2609,7 +2741,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación e
 
 P.O. 10 DE MAYO DE 1976.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 20 DE AGOSTO DE 1976.
 
@@ -2799,7 +2931,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 
 P.O. 22 DE DICIEMBRE DE 2000.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 9 DE NOVIEMBRE DE 2001.
 
@@ -2923,11 +3055,11 @@ P.O. 27 DE AGOSTO DE 2010.
 
 P.O. 31 DE DICIEMBRE DE 2010.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto tendrá vigencia del día primero de enero al 31 de diciembre del año dos mil once, por lo que el presente impuesto estatal se considerará establecido a partir de dicha fecha.
-
-En virtud de lo anterior, de conformidad con lo establecido en el segundo párrafo del artículo cuarto transitorio del Decreto que reforma diversas disposiciones fiscales, publicado en el Diario Oficial de la Federación de fecha 21 de diciembre de 2007, a partir del primero de enero de dos mil once se suspenderá la aplicación del impuesto contenido en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2947,12 +3079,44 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 
 P.O. 28 DE OCTUBRE DE 2011.
 
-DECRETO No. 101 POR EL QUE SE APRUEBA LA REFORMA Y ADICION A LOS ARTICULOS 172, 173, 174, 177 Y 179 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 101 POR EL QUE SE APRUEBA LA REFORMA Y ADICIÓN A LOS ARTÍCULOS 172, 173, 174, 177 Y 179 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 28 DE OCTUBRE DE 2011.
 
-DECRETO No. 108 POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 180 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 108 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 180 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+DECRETO No. 168 POR EL QUE REFORMAN LOS ARTÍCULOS 156, 156-15, PRIMERO TRANSITORIO DEL DECRETO No. 18, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA EL DIA 31 DE DICIEMBRE DE 2010, 172 Y 173 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el
+
+Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+DECRETO No. 169 POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA EL CAPÍTULO XXI DEL TÍTULO SEGUNDO, Y LOS ARTÍCULOS 156-33, 156-34, 156-35, 156-36, 156-37, 156-38, 156-39, 156-40, 156-41, 156-42, 156-43, 156-44 Y 156-45, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de febrero del año dos mil doce.
+
+###### ARTÍCULO SEGUNDO.
+
+Los pagos de este impuesto relativos a los dos primeros meses de vigencia del mismo, podrán presentarse por esta única ocasión en forma bimestral, dentro de los 25 días del mes siguiente a que termine dicho bimestre.
+
+###### ARTÍCULO TERCERO.
+
+Para efecto de la distribución a los Municipios, durante el 2012, del fondo derivado de este impuesto a que se refiere el artículo 156-45, se considerará para esta única ocasión la recaudación del Impuesto sobre Remuneraciones al Trabajo Personal del Ejercicio Fiscal 2011.
+
+###### ARTÍCULO CUARTO.
+
+Las personas que a la entrada en vigor del presente Decreto lleven a cabo las actividades señaladas en el artículo 156-34, deberán presentar el alta a que se refiere la fracción IV del artículo 156-42, a más tardar el 30 de marzo de 2012.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
