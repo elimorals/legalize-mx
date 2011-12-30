@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2011-10-06"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -447,9 +447,9 @@ XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
 
-> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXXVIII. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y transporte.
+XXXVIII. Coordinar, dirigir y vigilar la política en materia de transporte y otorgar, rescatar, revertir o revocar, conforme a la ley de la materia, concesiones, permisos, autorizaciones o licencias a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento y los servicios auxiliares de transporte;
 
 > <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
 
@@ -473,11 +473,11 @@ XLIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
 De la Secretaría de Seguridad Pública
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, y tránsito, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -509,7 +509,9 @@ IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar inf
 
 X. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
-XI. (DEROGADA, G.O. 1 DE JULIO DE 2005)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XI. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y la aplicación de las disposiciones de la ley de la materia, relativas a la circulación de vehículos por las vías públicas y áreas o zonas privadas con acceso al público, comprendidas dentro del Estado que no sean de competencia federal, así como el estacionamiento de vehículos y los servicios auxiliares de tránsito;
 
 XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
 
@@ -2350,3 +2352,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La adecuación del Reglamento interior de la Dependencia aludida en el presente decreto, se deberá efectuar en un término de treinta días a partir del inicio de vigencia del mismo.
 
 Tercero. Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 30 DE DICIEMBRE DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 328 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Con pleno respeto a los derechos laborales de quienes integran los recursos humanos del Instituto Veracruzano del Transporte, así como sus recursos materiales y financieros, se transfieren a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave. En un plazo no mayor a treinta días naturales, se efectuarán las modificaciones reglamentarias necesarias para la creación del área o unidad administrativa responsable de las funciones en esta materia.
+
+Artículo Tercero. Los recursos humanos, materiales y financieros afectos al servicio público de tránsito, asignados presupuestalmente a la Dirección General de Tránsito y Transporte de la Secretaría de Gobierno, se transfieren a la Secretaría de Seguridad Pública, quedando los destinados a la prestación del servicio público del transporte adscritos a la Dirección General de Transporte que por este Decreto se crea y que formará parte de la estructura orgánica de la Secretaría de Gobierno.
+
+Artículo Cuarto. El personal del Instituto Veracruzano del Transporte y de la Dirección General de Tránsito y Transporte que por razón de este Decreto cambia de adscripción, conservará sus derechos laborales.
+
+Artículo Quinto. La Secretaría de Gobierno, en coordinación con las Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación, de forma inmediata realizarán los trámites administrativos conducentes y las acciones necesarias para dar cumplimiento a lo dispuesto en este Decreto.
+
+Artículo Sexto. A la brevedad posible, la Secretaría de Gobierno y la Secretaría de Seguridad Pública propondrán al titular del Poder Ejecutivo del Estado sus respectivos proyectos de modificación a los Reglamentos Interiores que rigen a cada dependencia.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
