@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2011-02-07"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
+REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -65,7 +65,9 @@ VI. Coordinación General: la Coordinación General de Comunicación Social del 
 
 VII. Dependencias: las relacionadas en el artículo 22 del Código de la Administración Pública de Yucatán;
 
-VIII. Directores: los titulares de las direcciones de las dependencias, así como los titulares de los órganos desconcentrados mencionados en este Reglamento;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Directores: los titulares de las direcciones de las dependencias, así como los titulares de las direcciones de las entidades que constituyen la administración pública paraestatal relacionadas en el artículo 4 del Código;
 
 IX. Entidades: las relacionadas en el artículo 4 del Código;
 
@@ -111,6 +113,10 @@ De conformidad con el artículo 6 del Código, las dependencias, para el logro d
 
 Las dependencias contarán con los departamentos y áreas que establezcan los titulares, dentro de su ámbito de competencia, mediante acuerdos administrativos que deberán ser publicados en el Diario Oficial del Gobierno del Estado, previa autorización del Titular del Poder Ejecutivo, a través de la Oficialía Mayor y la Secretaría de Planeación y Presupuesto, y con sujeción a la disponibilidad presupuestaria.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las atribuciones conferidas a los titulares de los departamentos o áreas se entenderán otorgadas a los superiores jerárquicos a los cuales se encuentren adscritos las unidades administrativas correspondiente (sic).
+
 ###### Artículo 8.
 
 Además de las direcciones y unidades administrativas contempladas en la estructura orgánica a que se refiere el artículo anterior, las dependencias tendrán un órgano de control interno dependiente de la Secretaría de la Contraloría General, con las atribuciones establecidas en el artículo 546 de este Reglamento y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
@@ -139,7 +145,9 @@ II. Hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones que 
 
 III. Fijar, dirigir y controlar la política de su Dependencia, coordinar la planeación, vigilancia y evaluación de la operación de las unidades administrativas que la integran, de conformidad con las políticas estatales, objetivo y metas que determine el Titular del Poder Ejecutivo;
 
-IV. Nombrar y remover a los subsecretarios, subcontralores, directores y demás personal de su Dependencia, salvo en aquellos casos en que el Código o alguna ley aplicable establezca lo contrario;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Nombrar y remover a los subsecretarios, subconsejeros, subcontralores, directores y demás personal de su Dependencia, salvo en aquellos casos en que el Código o alguna ley aplicable establezca lo contrario;
 
 V. Levantar, al tomar posesión de su encargo, un inventario de los bienes que se encuentren en poder de su Dependencia, con la intervención de la Oficialía Mayor y de la Secretaría de la Contraloría General del Estado para verificar y certificar su exactitud;
 
@@ -175,15 +183,25 @@ XX. Aprobar y remitir a la Dependencia o autoridad correspondiente, los anteproy
 
 XXI. Delegar la representación legal de su Dependencia en mandatarios generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán y revocar dichos mandatos;
 
-XXII. Delegar facultades a servidores públicos subalternos, o en su caso distribuir las correspondientes a una o más áreas, a otras diversas de la propia Dependencia, mediante el acuerdo correspondiente, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXIII. Crear con el acuerdo del Titular del Poder Ejecutivo, las unidades o instancias desconcentradas de la Dependencia a su cargo, para una mejor atención de las funciones y atribuciones encomendadas a la misma.
+XXII. Delegar facultades a servidores públicos subalternos, o en su caso distribuir las correspondientes a una o más áreas, a otras diversas de la propia Dependencia, mediante el oficio correspondiente;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXIII. Crear, previo acuerdo del Titular del Poder Ejecutivo, las unidades o instancias desconcentradas de la Dependencia a su cargo, para una mejor atención de las funciones y atribuciones encomendadas a la misma, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXIV. Recibir daciones en carácter de pago provenientes de deudores diversos a cargo de su Dependencia.
 
 Apartado B. Delegables:
 
 I. Formular y mantener actualizada la documentación legal de la Dependencia a su cargo, los programas operativos anuales, manuales de operación y procedimientos, así como el de servicios a la ciudadanía y demás análogos respecto de su competencia;
 
-II. Expedir certificaciones de los documentos que obren en los archivos a su disposición;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Expedir certificaciones de los documentos que obren en los archivos de la Dependencia a su cargo;
 
 III. Intervenir y suscribir los actos, contratos y convenios que se refieran a la Dependencia que les corresponda;
 
@@ -215,9 +233,21 @@ XVI. Actuar como órgano de consulta y asesoría de las dependencias y entidades
 
 XVII. Auxiliar a las autoridades federales en lo relativo a la materia de su competencia, conforme a la legislación aplicable;
 
-XVIII. Expedir información conforme a la normatividad aplicable en materia de información pública, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XIX. Emitir los lineamientos para aplicar el sistema de correspondencia y archivo de su Dependencia.
+XVIII. Expedir información conforme a la normatividad aplicable en materia de información pública;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIX. Emitir los lineamientos para aplicar el sistema de correspondencia y archivo de su Dependencia;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XX. Recibir donaciones de bienes muebles e inmuebles a favor del Poder Ejecutivo del Gobierno del Estado, y reportarlos a la Oficialía Mayor para los trámites correspondientes, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXI. Promover y vigilar que los servidores públicos de la Dependencia a su cargo, cumplan con las leyes y reglamentos aplicables al desempeño de sus funciones.
 
 ### CAPÍTULO III. De las facultades y obligaciones generales de los subsecretarios, subcontralores y subconsejeros
 
@@ -231,7 +261,9 @@ II. Acordar con el Titular los asuntos de su competencia y la ejecución de los 
 
 III. Acordar con los directores o titulares de las unidades de su adscripción los asuntos que sean competencia de cada una de ellas, así como coordinar la planeación y operación de las mismas;
 
-IV. Ejercer las facultades que el Titular de su Dependencia le delegue y suplirlo durante sus ausencias temporales como encargado del despacho, conforme a lo establecido en este Reglamento o mediante acuerdo escrito otorgado por aquél;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Ejercer las facultades que el Titular de su Dependencia le delegue y suplirlo durante sus ausencias temporales como encargado del despacho, conforme a lo establecido en este Reglamento o, en su caso, mediante oficio otorgado por aquél;
 
 V. Apoyar y coordinar la ejecución de los programas de las unidades administrativas a su cargo, así como evaluar sus resultados y presentar al Secretario los informes que requiera;
 
@@ -247,11 +279,15 @@ X. Turnar los informes que los directores o titulares de las unidades administra
 
 XI. Proporcionar la información y cooperación técnica que le sea solicitada por otras dependencias o entidades del Poder Ejecutivo, previo acuerdo del Titular;
 
-XII. Expedir, conforme a las políticas establecidas por el Titular, certificaciones de constancias que obren en los expedientes relativos a los asuntos de su competencia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Expedir certificaciones de constancias que obren en los expedientes, relativos a los asuntos de su competencia;
 
 XIII. Coordinarse con el Titular para la elaboración de los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos, presupuestos y demás disposiciones jurídicas o administrativas de su competencia;
 
-XIV. Revisar y validar las propuestas de las direcciones y demás áreas en materia de anteproyectos de leyes, reglamentos, decretos y acuerdos para someterlas a consideración del Secretario;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIV. Revisar y autorizar las propuestas de las direcciones y demás áreas adscritas a su cargo, en materia de anteproyectos de leyes, reglamentos, decretos, acuerdos, formatos y demás documentación, que deba ser publicada conforme a la legislación aplicable para someterlas a consideración del Titular;
 
 XV. Presentar al Titular de la Dependencia propuestas de nombramiento, de sanción o de separación del cargo de sus subalternos;
 
@@ -343,17 +379,23 @@ XXVIII. Las demás que le señalen este Reglamento y otras disposiciones legales
 
 ### CAPÍTULO V. De las facultades y obligaciones generales de los titulares de las áreas jurídicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 15.
 
-Corresponde a los titulares de las áreas jurídicas de las dependencias de la Administración Pública Estatal las siguientes facultades y obligaciones:
+Corresponde a los titulares de las áreas jurídicas de las dependencias de la Administración Pública Estatal, el ejercicio de las siguientes facultades y obligaciones:
 
 I. Atender, dirigir, coordinar y supervisar los asuntos jurídicos de la Dependencia;
 
-II. Proporcionar asistencia jurídica al Titular de la Dependencia en los actos que así lo requieran;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Proporcionar asistencia jurídica al Titular de la Dependencia para la realización de los actos que deban ser atendidos;
 
 III. Brindar apoyo técnico jurídico al Titular y en su caso formular los proyectos de ley, reglamentos, acuerdos, manuales de organización, de procedimientos y de servicios al público y demás disposiciones normativas en la materia competencia de la Dependencia;
 
-IV. Elaborar y emitir opinión acerca de la procedencia jurídica y legal de los instrumentos jurídicos que la Dependencia celebre con las diversas dependencias y entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales, así como visarlos y someterlos a la consideración del Titular;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Elaborar y emitir opinión acerca de la procedencia legal de los instrumentos jurídicos de la Dependencia que le sean turnados, relativos a la celebración de actos con las diversas dependencias y entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales;
 
 V. Coordinar sus actuaciones con la Consejería Jurídica, ajustar sus actividades a las políticas y lineamientos que ésta determine en materia legal;
 
@@ -361,11 +403,15 @@ VI. Informar bimestralmente al Consejero Jurídico acerca de los asuntos que con
 
 VII. Representar legalmente a la Dependencia y al Titular, ante los tribunales estatales o federales en los procedimientos, juicios o asuntos litigiosos de cualquier materia o naturaleza en que la Dependencia sea parte o tenga interés jurídico, contestando las demandas interpuestas contra resoluciones o actos de las direcciones o unidades administrativas de la misma; así como ejercitar las acciones, excepciones y defensas que correspondan en los juicios que se tramiten ante los tribunales competentes;
 
-VIII. Compilar la normatividad interna de la Dependencia y la jurisprudencia en las materias que sean de su competencia y difundirla entre las diversas direcciones y unidades administrativas de la misma, así como también proponer los cambios que resulten adecuados a dicha normatividad;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Compilar la normatividad interna de la Dependencia y la jurisprudencia en las materias que sean de su competencia y difundir la que considere relevante entre las diversas direcciones y unidades administrativas de la misma, así como también proponer los cambios que resulten adecuados a dicha normatividad;
 
 IX. Conocer y substanciar los recursos administrativos que se interpongan contra actos y resoluciones de la Dependencia, así como del Titular, de las direcciones o de cualquier otro servidor público o unidad administrativa de la misma, y proponer los proyectos de resolución que correspondan;
 
-X. Llevar el registro de los acuerdos, contratos, convenios y demás actos jurídicos de los que deriven derechos y obligaciones a cargo de la Secretaría;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+X. Llevar el registro de los acuerdos, contratos, convenios y demás actos jurídicos de los que tenga conocimiento y de los que deriven derechos y obligaciones a cargo de la Dependencia.
 
 XI. Estudiar y, en su caso, intervenir en las reclamaciones y litigios que puedan afectar a la Dependencia, así como también promover en representación de la misma, los juicios y procedimientos necesarios y dar la atención que proceda a las notificaciones o resoluciones de carácter judicial o administrativo que se hagan o impongan a la propia dependencia;
 
@@ -379,43 +425,67 @@ XV. Asesorar al Titular o la persona que éste designe, en los diferentes Comit�
 
 XVI. Vigilar que las direcciones de su Secretaría cumplan con la normatividad vigente en la ejecución de sus proyectos, programas y procedimientos administrativos;
 
-XVII. Asesorar a las direcciones y unidades administrativas en los levantamientos de constancias y actas administrativas y en su caso, en la aplicación de sanciones al personal de su Secretaría;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVIII. Elaborar el dictamen de los asuntos en que la Secretaría deba allanarse de las demandas interpuestas por los particulares y transigir en las controversias materia de su competencia, en los juicios en los que tenga la representación de la Secretaría;
+XVII. Asesorar, previa solicitud por escrito, a las direcciones y unidades administrativas en los levantamientos de constancias y actas administrativas y, en su caso, en la aplicación de sanciones al personal de la Dependencia;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Elaborar y someter a consideración del Titular, el dictamen de los asuntos en que la Dependencia deba allanarse de las demandas interpuestas por los particulares y transigir en las controversias materia de su competencia, en los juicios en los que tenga la representación de la Dependencia;
 
 XIX. Abstenerse de interponer los recursos que procedan cuando así convenga a los intereses de la Dependencia;
 
-XX. Designar a servidores públicos con el carácter de delegados en los juicios en que intervenga de conformidad con las leyes de la materia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXI. Tramitar y proporcionar copias certificadas de las constancias que obren en los archivos de su Secretaría, cuando deban ser exhibidas ante las autoridades judiciales o del trabajo, en cualquier procedimiento, proceso o averiguación;
+XX. Designar a servidores públicos con el carácter de delegados o mandatarios, y otorgarles el poder correspondiente para que intervengan en los juicios y revocar la delegación o mandato, de conformidad con las leyes de la materia;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXI. Obtener y proporcionar copias certificadas de las constancias que obren en los archivos de la Dependencia, cuando deban ser exhibidas en cualquier procedimiento, proceso o averiguación, ante las autoridades judiciales o del trabajo;
 
 XXII. Rendir los informes que sean solicitados a la Secretaría por las autoridades jurisdiccionales, administrativas y de derechos humanos y coordinar con las unidades administrativas el cumplimiento de las resoluciones dictadas por dichas autoridades;
 
-XXIII. Coadyuvar con la Consejería Jurídica en los procedimientos que se sigan ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXIV. Coadyuvar con la Consejería Jurídica en los procedimientos, recursos o juicios que se sigan ante cualquier clase de autoridad administrativa o jurisdiccional, para tal efecto, podrá presentar denuncias o querellas y demandas e interponer y desistirse de toda clase de recursos o juicios, incluidos el de amparo, otorgar perdón y transigir en árbitros y ejercitar acciones, oponer excepciones y defensas, ofrecer y objetar pruebas, tachar testigos, formular y absolver posiciones;
+XXIII. Coadyuvar con la Consejería Jurídica en los procedimientos que se sigan ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios del Poder Judicial;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXIV. Coadyuvar con la Consejería Jurídica en los procedimientos, recursos o juicios que se sigan ante alguna autoridad administrativa o jurisdiccional, en la presentación de denuncias o querellas y demandas, así como en la interposición y desistimientos de toda clase de recursos o juicios, incluidos el de amparo; el otorgamiento del perdón y transigir en árbitros; en el ejercicio de acciones, oposición de excepciones y defensas, ofrecimiento y objeción de pruebas, la tacha testigos (sic), la formulación y absolución de posiciones y la suscripción de convenios judiciales de pago;
 
 XXV. Integrar los comités y grupos de trabajo interinstitucionales a los que sean convocados por la Consejería Jurídica, para atender los asuntos de la competencia de su Dependencia o Entidad, o bien, de diversos asuntos legales necesarios para la buena marcha de la Administración Pública Estatal;
 
 XXVI. Ser enlace ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo, para obtener la información pública que obre en los archivos de la dependencia;
 
-XXVII. Auxiliar a los departamentos administrativos de su Dependencia en los procedimientos de licitación y adjudicación de contratos, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXVIII. Participar en los procesos de actualización y adecuación del orden jurídico que rige el funcionamiento de la Dependencia.
+XXVII. Auxiliar a los departamentos administrativos de su Dependencia en los procedimientos de licitación y adjudicación de contratos;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXVIII. Participar en los procesos de actualización y adecuación del orden jurídico que rige el funcionamiento de la Dependencia, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXIX. Visar contratos y convenios para acompañar la firma del Titular de la Dependencia, cuando éste así lo solicite; (sic)
 
 ### CAPÍTULO VI. De las suplencias
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-Los titulares de las dependencias serán suplidos en sus ausencias, por quien señale este Reglamento o por el Subsecretario, Subcontralor, Subconsejero o Director que, mediante acuerdo escrito, determine el titular de la Dependencia.
+Los titulares de las dependencias serán suplidos en sus ausencias temporales, por quien señale este Reglamento o, en su caso, por el Subsecretario, Subcontralor, Subconsejero o Director que determine mediante oficio el titular de la Dependencia.
 
 ###### Artículo 17.
 
 Los subsecretarios, subcontralores y subconsejeros se suplirán entre sí, conforme el orden en que se encuentran relacionados en este Reglamento.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
-Los directores y los titulares de las unidades administrativas serán suplidos por los servidores públicos jerarquía inmediata inferior que designen los mismos.
+Los directores y los titulares de las unidades administrativas de las dependencias serán suplidos en sus ausencias temporales, por los servidores públicos jerarquía inmediata inferior que designe mediante oficio el titular de la Dirección o Unidad.
 
 ###### Artículo 19.
 
@@ -443,7 +513,9 @@ b) Unidad de Proyectos Especiales;
 
 c) Unidad de Políticas Institucionales, y
 
-d) Unidad de Administración.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+d) Dirección de Administración y Finanzas.
 
 II. Secretaría Particular;
 
@@ -607,17 +679,59 @@ XVIII. Administrar y controlar el sistema interno de informática y comunicació
 
 XIX. Las demás que le asigne el Jefe del Despacho del Gobernador y Secretario Técnico, de conformidad a las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 26.
 
-El Titular de la Unidad de Administración tendrá las siguientes facultades y obligaciones:
+El Titular de la Dirección de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
 I. Elaborar el anteproyecto de presupuesto anual del Despacho del Gobernador y turnarlo al Jefe del Despacho del Gobernador y Secretario Técnico;
 
 II. Llevar el control de los recursos materiales, humanos y financieros asignados al Despacho del Gobernador;
 
-III. Llevar el control de la correspondencia que se reciba en el Despacho del Gobernador y turnarla a las unidades administrativas correspondientes, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IV. Las demás que le asigne el Jefe del Despacho del Gobernador y Secretario Técnico, de conformidad a las disposiciones legales aplicables.
+III. Llevar el control de la correspondencia que se reciba en el Despacho del Gobernador y turnarla a las unidades administrativas correspondientes;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Proponer al Secretario Técnico las medidas administrativas que estime convenientes, para la organización y control del Despacho del Gobernador;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Proponer políticas de racionalidad y eficiencia para el suministro de los recursos materiales y servicios generales;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Llevar el registro de las operaciones financieras, el registro contable y el control del presupuesto, tanto para gasto corriente como para proyectos y programas, acorde a los lineamientos establecidos para tal efecto;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Gestionar el pago de los compromisos adquiridos y servicios que contraten las unidades administrativas del Despacho del Gobernador, de acuerdo a la disponibilidad presupuestal;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Tramitar la contratación y llevar el control del recurso humano del Despacho del Gobernador, apegándose a la normatividad aplicable vigente;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Coordinarse con la Consejería Jurídica, en los asuntos de materia laboral que se susciten en este Despacho del Gobernador;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+X. Adquirir los recursos materiales y suministros solicitados por las secretarías, unidades administrativas y órganos desconcentrados del Despacho del Gobernador, así como controlar y vigilar el buen uso y conservación de los mismos; aplicando políticas de racionalidad y eficiencia; de acuerdo a las disposiciones presupuestales;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XI. Observar el cumplimento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, así como otras disposiciones relativas a la materia;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Vigilar y aplicar el cumplimento de las normas y procedimientos que emitan las autoridades competentes facultadas para normar a este Despacho del Gobernador en materia administrativa, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Las demás que le asigne el Jefe del Despacho del Gobernador y Secretario Técnico, de conformidad a las disposiciones legales aplicables.
 
 ###### Artículo 27.
 
@@ -781,9 +895,17 @@ a) Consejo Estatal de Seguridad Pública;
 
 b) Unidad Estatal de Protección Civil;
 
-c) Dirección de Prevención y Readaptación Social, y
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-d) Centro Especializado en la Aplicación de Medidas para Adolescentes.
+c) Dirección de Ejecución, Prevención y Reinserción Social;
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+d) Centro Especializado en la Aplicación de Medidas para Adolescentes, y
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+e) Centro Estatal de Evaluación y Control de Confianza.
 
 II. Subsecretaría de Gobierno y Desarrollo Político:
 
@@ -821,11 +943,13 @@ II. El Centro Estatal de Desarrollo Municipal, el cual coordinará sus funciones
 
 III. La Oficina del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, la cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública;
 
-> <small>(F. DE E., D.O. 26 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 IV. El Centro Especializado en la Aplicación de Medidas para Adolescentes, el cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública, y
 
-V. (DEROGADA, D.O. 23 DE FEBRERO DE 2009) (F. DE E., D.O. 26 DE FEBRERO DE 2009)
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. El Centro Estatal de Evaluación y Control de Confianza, la cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública.
 
 ###### Artículo 39.
 
@@ -861,11 +985,11 @@ XIII. Vigilar que las subsecretarías y las unidades administrativas cumplan con
 
 Apartado B. Delegables.
 
-I. Expedir, por acuerdo del Gobernador del Estado, las licencias, concesiones y permisos que no estén asignados específicamente a otras dependencias del Poder Ejecutivo;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, D.O. 23 DE FEBRERO DE 2009)</small>
+I. Expedir, por acuerdo del Gobernador del Estado, las licencias, concesiones y permisos que no estén asignados específicamente a otras dependencias del Poder Ejecutivo, y
 
-II. Conducir las relaciones del Ejecutivo del Estado con el Tribunal de lo Contencioso Administrativo, y
+II. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 III. Guardar la relación que conforme a las normas jurídicas aplicables deba tener el Poder Ejecutivo del Estado o esta Secretaría con las autoridades especializadas en justicia para adolescentes.
 
@@ -877,13 +1001,19 @@ I. Participar en el Consejo Estatal de Seguridad Pública y ejecutar las accione
 
 II. Coordinar con la Unidad de Protección Civil la implementación de los mecanismos para la determinación y ejecución de las acciones de prevención, auxilio y reestablecimiento (sic) para la salvaguarda de las personas, sus bienes, el entorno y el funcionamiento de los servicios necesarios, en los casos de alto riesgo, emergencia o desastre;
 
-III. Participar conjuntamente con la Dirección de Prevención y Readaptación Social en la planeación y organización de la política criminológico-readaptativa, tanto en materia de prevención del delito como en lo que atañe al tratamiento del delincuente y la ayuda a la víctima;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Participar conjuntamente con la Dirección de Ejecución, Prevención y Reinserción Social en la planeación y organización de la política criminológico- readaptativa, tanto en materia de prevención del delito como en lo que atañe al tratamiento del delincuente y la ayuda a la víctima;
 
 IV. Coadyuvar en la vigilancia de la ejecución de las sanciones impuestas por las autoridades judiciales en materia penal y las medidas que se deben aplicar a los adolescentes, conforme a las atribuciones del Ejecutivo del Estado previstas en la normatividad aplicable;
 
-V. Procurar el cumplimiento de sistemas de Readaptación Social que permita a los sentenciados su readaptación y capacitación para la convivencia armónica, posterior al cumplimiento de la sanción privativa de libertad;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Tramitar, previa opinión del Director de Prevención y Readaptación Social, ante el Gobernador el beneficio de la libertad anticipada y los demás establecidos en la Ley de Ejecución de Sanciones del Estado de Yucatán, y
+V. Procurar el cumplimiento de sistemas de Reinserción Social que permita a los sentenciados su reinserción y capacitación para la convivencia armónica, posterior al cumplimiento de la sanción privativa de libertad, y
+
+VI. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 VII. Las demás que le encomienden otras disposiciones normativas aplicables.
 
@@ -895,9 +1025,11 @@ El Consejo Estatal de Seguridad Pública tendrá las atribuciones que le confier
 
 La Dirección de la Unidad Estatal de Protección Civil tendrá las atribuciones que le confieren la Ley de Protección Civil del Estado de Yucatán y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 43.
 
-Al Director de Prevención y Readaptación Social le corresponde el despacho de los siguientes asuntos:
+Al Director de Ejecución, Prevención y Reinserción Social le corresponde el despacho de los siguientes asuntos:
 
 I. Planear, organizar, coordinar y dirigir la política criminológico-readaptativa que, de acuerdo a la ley de la materia, corresponda a esta Secretaría, tanto en lo que se refiere a la prevención del delito como en lo que atañe al tratamiento del delincuente y la ayuda a la víctima;
 
@@ -905,27 +1037,43 @@ II. Vigilar la ejecución de las sanciones impuestas por las autoridades judicia
 
 III. Establecer y mantener actualizado el Registro Estatal de Procesados y Sentenciados;
 
-IV. Organizar y vigilar el cumplimiento de sistemas de Readaptación Social que permita a las personas puestas a disposición del Ejecutivo del Estado su readaptación y capacitación para la convivencia armónica, posterior al cumplimiento de la sanción privativa de libertad;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-V. Vigilar la operación y administración de los Centros de Readaptación Social del Estado;
+IV. Organizar y vigilar el cumplimiento de sistemas de Reinserción Social que permita a las personas puestas a disposición del Ejecutivo del Estado, su reinserción y capacitación para la convivencia armónica, posterior al cumplimiento de la sanción privativa de libertad;
 
-VI. Seleccionar y capacitar, de acuerdo a los criterios establecidos en el Sistema Penitenciario Nacional, al personal de los Centros de Readaptación Social;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VII. Distribuir, trasladar, custodiar, vigilar y dar tratamiento a las personas privadas de su libertad por orden de los tribunales del Estado, desde el momento de su ingreso a los Centros de Readaptación Social;
+V. Vigilar la operación y administración de los Centros de Reinserción Social del Estado;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Seleccionar y capacitar, de acuerdo a los criterios establecidos en el Sistema Penitenciario Nacional, al personal de los Centros de Reinserción Social;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Distribuir, trasladar, custodiar, vigilar y dar tratamiento a las personas privadas de su libertad por orden de los tribunales del Estado, desde el momento de su ingreso a los Centros de Reinserción Social;
 
 VIII. Aplicar los sustitutivos de prisión que dicten las autoridades judiciales en sentencias ejecutoriadas;
 
-IX. Elaborar y ejecutar los planes y programas relacionados con el Sistema Penitenciario del Estado;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-X. Opinar ante el superior inmediato, respecto de las solicitudes que presenten los sentenciados para la obtención del beneficio de libertad anticipada, cuando éstas sean procedentes, y demás establecidos en la Ley de Ejecución de Sanciones del Estado de Yucatán;
+IX. Elaborar los planes y programas relacionados con el Sistema Penitenciario del Estado, y
 
-XI. Notificar las resoluciones negativas que se emitan en relación a las solicitudes de que trata la fracción que antecede, y
+X. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+
+XI. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 XII. Las demás que le encomienden otras disposiciones normativas aplicables.
 
 ###### Artículo 44.
 
 El Centro Especializado en la Aplicación de Medidas para Adolescentes tendrá las atribuciones que le confieren la Ley de Justicia para Adolescentes del Estado de Yucatán, su Reglamento y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 44 Bis.
+
+El Centro Estatal de Evaluación y Control de Confianza, tendrá las atribuciones que le confieren su Decreto de Creación, su Reglamento y las demás disposiciones legales aplicables.
 
 ###### Artículo 45.
 
@@ -947,11 +1095,11 @@ VII. Fungir como vínculo entre la Secretaría General de Gobierno y las organiz
 
 VIII. Formular planes y programas, en materia agraria, competencia de la Secretaría General de Gobierno y establecer contacto permanente con ejidatarios, campesinos, comuneros y cooperativistas, a fin de conocer sus problemas y, en su caso, proponer soluciones a los mismos en vía administrativa;
 
-IX. Vigilar, en el ámbito de competencia de la Secretaría General de Gobierno, la aplicación de las disposiciones legales en materia electoral y de los convenios relativos;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, D.O. 23 DE FEBRERO DE 2009)</small>
+IX. Vigilar, en el ámbito de competencia de la Secretaría General de Gobierno, la aplicación de las disposiciones legales en materia electoral y de los convenios relativos, y
 
-X. Auxiliar al Secretario General en la conducción de las relaciones del Poder Ejecutivo del Estado, con el Tribunal de lo Contencioso Administrativo del Estado, y
+X. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 XI. Las demás que le encomienden otras disposiciones normativas aplicables.
 
@@ -1167,9 +1315,17 @@ IV. Apoyar el desarrollo institucional de los municipios que lo soliciten, en el
 
 V. Establecer y validar la metodología en la elaboración y actualización de procesos y esquemas de calidad de las dependencias y entidades del Poder Ejecutivo;
 
-VI. Normar e implementar el Sistema de Servicio Civil de Carrera en la Administración Pública Estatal, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VII. Las demás que otras disposiciones legales aplicables establezcan.
+VI. Normar e implementar el Sistema de Servicio Civil de Carrera en la Administración Pública Estatal;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Integrar, organizar, administrar y vigilar el funcionamiento del Padrón de Trámites y Servicios Estatales, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Las demás que otras disposiciones legales aplicables establezcan.
 
 ###### Artículo 60.
 
@@ -1395,27 +1551,45 @@ Para el ejercicio de las atribuciones que le confiere el Código y el despacho d
 
 I. Despacho del Consejero Jurídico, al cual se adscribe la Secretaría Técnica;
 
-II. Subconsejería de Legislación y Normatividad, a la que se adscribe la Dirección del Diario Oficial del Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Subconsejería de Legislación y Normatividad;
+
+a) Dirección del Diario Oficial del Gobierno del Estado de Yucatán, y
+
+b) Dirección de Proyectos y Estudios Normativos.
 
 III. Subconsejería de Servicios Legales y Vinculación Institucional;
 
 a) Dirección de Contratos, Licitaciones y Procedimientos;
 
-b) Dirección de Servicios Legales;
+b) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 c) Dirección de Vinculación Institucional;
 
-d) Dirección del Registro Público de la Propiedad y del Comercio;
+d) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
-e) Dirección del Catastro;
+e) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 f) (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, D.O. 7 DE FEBRERO DE 2011)
 
-g) Dirección del Archivo Notarial, y
+g) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 h) Dirección del Registro Civil.
 
-IV. Dirección de Administración y Finanzas.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Secretario Ejecutivo de la Comisión para la Implementación de la Reforma Penal y de Justicia del Estado, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Dirección de Administración y Finanzas.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 70 Bis.
+
+La Consejería Jurídica contará con el organismo desconcentrado denominado Instituto de Defensa Pública del Estado de Yucatán, con la estructura orgánica y funciones que establezca la normatividad específica del propio organismo.
 
 ###### Artículo 71.
 
@@ -1497,6 +1671,40 @@ V. Informar al Consejero Jurídico, por conducto del Subconsejero de Legislació
 
 VI. Las demás que establezcan la Ley del Diario Oficial del Gobierno del Estado de Yucatán, este Reglamento y otras disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 74 Bis.
+
+Al Director de Proyectos y Estudios Normativos le corresponde el despacho de los siguientes asuntos:
+
+l. Suplir las ausencias temporales del Subconsejero de Legislación y Normatividad y representarlo cuando éste así lo considere;
+
+II. Planear, organizar, dirigir, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a la Dirección a su cargo;
+
+III. Proponer las políticas internas, lineamientos y criterios que normarán el funcionamiento de la Dirección a su cargo;
+
+IV. Formular los proyectos de manual de organización y procedimientos de la Consejería;
+
+V. Proponer la creación o modificación de las disposiciones jurídicas que regulan los ámbitos de competencia de la Consejería, para el mejor desempeño de sus funciones;
+
+VI. Acordar y resolver los asuntos de competencia de las unidades administrativas que integran la dirección a su cargo;
+
+VII. Formular y revisar los anteproyectos de leyes, reglamentos, decretos, acuerdos y circulares que le sean encomendados por el Subconsejero de Legislación y Normatividad;
+
+VIII. Preparar dictámenes y opiniones respecto de los proyectos a que se refiere la fracción anterior;
+
+IX. Establecer un archivo de los documentos elaborados y revisados señalando su trámite e incidencias relevantes;
+
+X. Estudiar y proponer al Subconsejero de Legislación y Normatividad, los ajustes técnico-jurídicos para la actualización y simplificación del orden jurídico estatal;
+
+XI. Realizar las acciones necesarias para mantener actualizada la biblioteca especializada en legislación y normatividad y prestar la asistencia documental y bibliográfica requerida por las demás unidades de la Consejería;
+
+XII. Elaborar informes que contengan datos y estadísticas sobre la presentación y trámite de las iniciativas de ley o decreto en el Congreso del Estado;
+
+XIII. Coordinar el apoyo técnico-jurídico que la Subconsejería de Legislación y Normatividad preste a los municipios del Estado en la elaboración de sus bandos y demás reglamentos, siempre que lo soliciten, y
+
+XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
 ###### Artículo 75.
 
 Al Subconsejero de Servicios Legales y Vinculación Institucional le corresponde el despacho de los siguientes asuntos:
@@ -1571,15 +1779,7 @@ XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales 
 
 ###### Artículo 77.
 
-Al Director de Servicios Legales le corresponde el despacho de los siguientes asuntos:
-
-I. Dirigir, coordinar y vigilar el cumplimiento de las obligaciones de los titulares de las áreas jurídicas del Registro Público de la Propiedad y del Comercio, del Catastro, del Archivo Notarial y del Registro Civil;
-
-II. Intervenir y brindar asesoría en los asuntos de carácter legal a los directores del Registro Público de la Propiedad y del Comercio, del Catastro, del Archivo Notarial y del Registro Civil;
-
-III. Dar seguimiento a las instrucciones que gire el Consejero Jurídico o el Subconsejero de Servicios Legales y Vinculación Institucional, a los Directores del Registro Público de la Propiedad y del Comercio, del Catastro, del Archivo Notarial y del Registro Civil;
-
-IV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 78.
 
@@ -1605,43 +1805,11 @@ IX. Las demás que establezcan este Reglamento y otras disposiciones legales apl
 
 ###### Artículo 79.
 
-Al Director del Registro Público de la Propiedad y del Comercio le corresponde el despacho de los siguientes asuntos:
-
-I. Realizar las inscripciones o cancelaciones de actos jurídicos o convenios que sean solicitados conforme a derecho y expedir las constancias necesarias para acreditar la situación jurídica de los inmuebles o actos de comercio registrados;
-
-II. Inscribir notas preventivas al margen de las partidas de inscripción de inmuebles, previa orden de la autoridad competente, en los términos que determine el reglamento correspondiente;
-
-III. Auxiliar a los organismos, oficinas e instituciones públicas que requieran datos contenidos en los libros o documentos bajo resguardo de la Dirección, y
-
-IV. Las demás que le encomienden el Código Civil y la Ley del Notariado ambos del Estado de Yucatán, el Reglamento Interior del Registro Público de la Propiedad y del Comercio, este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 80.
 
-Al Director del Catastro le corresponde el despacho de los siguientes asuntos:
-
-I. Realizar la localización de predios, la asignación de claves, valuación, revaluación y demás operaciones catastrales en los municipios que no cuenten con su propio catastro;
-
-II. Integrar y mantener actualizado el padrón catastral de la propiedad inmueble en el Estado, así como el plano catastral de cada uno de los municipios;
-
-III. Elaborar conjuntamente con los municipios, las tablas de valores y de factores de incremento o demérito respecto de terrenos y edificaciones, en los términos de las disposiciones legales aplicables cuando estos no tengan su propio catastro;
-
-IV. Ratificar o rectificar los datos catastrales proporcionados por los propietarios respecto de sus predios en los municipios que no cuenten con su propio catastro;
-
-V. Intervenir en el deslinde y descripción de los perímetros divisorios para apoyar la determinación de los límites del territorio del Estado y de sus municipios;
-
-VI. Autorizar deslindes, levantamientos, cálculos topográficos, trazos y rectificación de áreas, en el ámbito de su competencia;
-
-VII. Proporcionar asesoría técnica en materia de topografía a los núcleos agrarios y a las dependencias y entidades que lo soliciten;
-
-VIII. Emitir, por conducto de su personal técnico en materia de topografía, los dictámenes periciales que se le requiera;
-
-IX. Resolver las consultas planteadas por los particulares en relación con la aplicación de las tablas de valores catastrales en materia de su competencia;
-
-X. Establecer los sistemas del registro catastral y del archivo de documentos catastrales, relativos a los bienes inmuebles del Estado;
-
-XI. Previa solicitud, asesorar y apoyar a los ayuntamientos en la ejecución de sus trabajos cuando éstos ejerzan su función catastral, en los términos de los convenios que se celebren con el Poder Ejecutivo del Estado, y
-
-XII. Las demás que le confieran la Ley del Catastro del Estado de Yucatán y su Reglamento, este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 81.
 
@@ -1649,25 +1817,7 @@ XII. Las demás que le confieran la Ley del Catastro del Estado de Yucatán y su
 
 ###### Artículo 82.
 
-Al Director del Archivo Notarial le corresponde el despacho de los siguientes asuntos:
-
-I. Resguardar los avisos de disposiciones testamentarias enviadas por los notarios públicos;
-
-II. Responder a jueces y notarios públicos sobre la existencia o inexistencia de testamento de los autores de sucesiones que conozcan en el ejercicio de sus funciones;
-
-III. Registrar y resguardar testamentos ológrafos;
-
-IV. Asesorar a los escribanos públicos en el ejercicio de sus funciones;
-
-V. Resguardar los avisos del otorgamiento de instrumentos jurídicos y las copias de los mismos, autorizados por escribanos públicos;
-
-VI. Resguardar los libros del protocolo con sus respectivos apéndices, de las notarías públicas cuyos titulares hayan fallecido, renunciado a su notaría o hayan dejado de ser notarios públicos;
-
-VII. Expedir copias certificadas de instrumentos jurídicos que obren en el Archivo Notarial conforme la normatividad aplicable;
-
-VIII. Recibir las solicitudes e implementar el curso de capacitación y el examen previo al nombramiento de escribanos públicos, y
-
-IX. Las demás que establezcan la Ley del Notariado del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 83.
 
@@ -1682,6 +1832,12 @@ III. Colaborar con las autoridades federales correspondientes para la adopción 
 IV. Autorizar, con la supervisión de la Dirección de Administración y Finanzas, el otorgamiento de las concesiones para el uso a perpetuidad de lotes y bóvedas en los cementerios de jurisdicción Estatal, y
 
 V. Las demás que le encomienden, el Código del Registro Civil, el Código Civil, ambos del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 83 Bis.
+
+El Secretariado Ejecutivo de la Comisión para la Implementación de la Reforma Penal y de Justicia del Estado, tendrá las facultades y obligaciones, que establece su Decreto de creación.
 
 ###### Artículo 84.
 
@@ -1813,11 +1969,23 @@ VII. Coordinarse con las dependencias, organismos descentralizados y municipios,
 
 VIII. Proponer al Secretario medidas para mejorar el Sistema de Coordinación Fiscal del Estado;
 
-IX. Resolver los asuntos referentes a las atribuciones de esta Secretaría en materia de su competencia, excepto los que estén asignados expresamente a otra unidad administrativa y los que correspondan al Secretario;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Resolver los asuntos referentes a las atribuciones de esta Secretaría en materia de su competencia.
 
 X. Asistir, en representación del Secretario, a las distintas sesiones de los órganos de gobierno de las entidades paraestatales de la Administración Pública, y
 
 XI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+A la Subsecretaría de Hacienda le estarán adscritas las direcciones de: Ingresos; Auditoría y Fiscalización; Contabilidad Gubernamental y Administración; Egresos; Jurídica; Informática; y la Unidad de Calidad y Enlace de Comunicación. Asimismo podrá auxiliarse del personal que resulte necesario para el cumplimiento de sus funciones, previo acuerdo del Titular y de conformidad a la disposición presupuestal autorizada.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 90 Bis.
+
+Además de los asuntos que le confiere el artículo anterior, el Subsecretario podrá ejercer las facultades establecidas en los artículos 91, 92, 93, 94, 95, 97 y 99 de este Reglamento, no obstante que originalmente corresponden a los titulares de las demás unidades administrativas mencionadas en el artículo 88 del mismo.
 
 ###### Artículo 91.
 
@@ -1915,9 +2083,25 @@ XLV. Establecer lineamientos y mantener actualizado el registro de trámites fis
 
 XLVI. Solicitar a las instituciones bancarias y a las organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas e inversiones a nombre de los contribuyentes, de los responsables solidarios o demás obligados, y solicitar el levantamiento de dicho embargo, cuando así proceda;
 
-XLVII. Enviar a los contribuyentes comunicados y en general realizar, en el ámbito de su competencia, las acciones necesarias para promover el cumplimiento voluntario y oportuno del pago de sus créditos fiscales, sin que por ello se considere el inicio de facultades de comprobación, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XLVIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+XLVII. Enviar a los contribuyentes comunicados y en general, realizar en el ámbito de su competencia las acciones necesarias para promover el cumplimiento voluntario y oportuno del pago de sus créditos fiscales, sin que por ello se considere el inicio de facultades de comprobación;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XLVIII. Determinar y distribuir los fondos de las aportaciones federales y las participaciones que correspondan a los municipios de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XLIX. Elaborar los informes sobre la distribución de las aportaciones federales y participaciones que correspondan a los municipios, para su publicación en el Diario Oficial del Gobierno del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+L. Participar en las reuniones del Comité Técnico del Fondo para la vigilancia, administración, mantenimiento, preservación y limpieza de la Zona Federal Marítimo Terrestre, así como dar seguimiento al pago de los recursos que por este concepto se enteren a los municipios, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+LI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 Las facultades establecidas en este Artículo, también serán ejercidas por el Director de Ingresos en materia fiscal federal, de conformidad y en los casos que deriven de lo establecido en el Convenio de Colaboración Administrativa en Materia Fiscal Federal vigente y los que se celebren.
 
@@ -2117,7 +2301,7 @@ IV. Invertir los recursos de la Administración Pública Estatal, de conformidad
 
 V. Transferir los fondos de aportaciones federales de conformidad con la legislación aplicable;
 
-VI. Determinar y distribuir los fondos de las aportaciones federales y las participaciones que correspondan a los municipios de conformidad con la legislación aplicable;
+VI. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 VII. Custodiar los valores, fianzas y documentos que correspondan al área de su competencia;
 
@@ -2129,7 +2313,7 @@ X. Coordinarse con las calificadoras financieras y realizar las gestiones necesa
 
 XI. Dictaminar y proponer el otorgamiento de aval del Estado para garantizar el cumplimiento de las obligaciones contraídas por el Poder Ejecutivo, sus dependencias y entidades paraestatales y los municipios por conducto de sus ayuntamientos y entidades paramunicipales de conformidad a la legislación de la materia, así como afectar las participaciones en los casos procedentes;
 
-XII. Elaborar los informes sobre la distribución de las aportaciones federales y participaciones que correspondan a los municipios, para su publicación en el Diario Oficial del Gobierno del Estado de Yucatán;
+XII. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 XIII. Establecer y mantener actualizado el registro de las obligaciones financieras constitutivas de deuda pública de conformidad con la ley de la materia;
 
@@ -2467,7 +2651,9 @@ XVI. Asesorar a los coordinadores de subcomités y a sus secretarios técnicos e
 
 XVII. Formular las bases para la integración del proyecto del Programa Operativo Anual de la Administración Pública del Estado;
 
-XVIII. Orientar la formulación de los programas operativos anuales de manera que contribuyan al cumplimiento de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas que de él deriven;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Orientar la formulación de los programas operativos anuales de manera que contribuyan al cumplimiento de los objetivos y prioridades del Plan Estatal de Desarrollo y los programas que de él deriven, así como crear los mecanismos, instrumentos, metodologías, lineamientos o criterios para incorporar el enfoque de resultados en la programación;
 
 XIX. Coordinar la evaluación trimestral del Programa Operativo Anual a partir de los resultados de las actividades de las dependencias y entidades de la Administración Pública del Estado;
 
@@ -2479,9 +2665,13 @@ XXII. Participar en la integración de la Cuenta Pública Anual del Gobierno del
 
 XXIII. Coordinar operativamente el Sistema de Información Estadística y Geográfica del Estado, con la participación de los tres órdenes de gobierno, conforme los convenios celebrados y la normatividad aplicable;
 
-XXIV. Promover, desarrollar y participar en la actualización de los Servicios Estatales de Estadística y de Información Geográfica del Gobierno del Estado, cuidando su vinculación y congruencia con el sistema nacional en la materia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXV. Formular la normatividad en materia de estadística e información geográfica para someterla a la aprobación del órgano competente para emitirla;
+XXIV. Promover, desarrollar y participar en la actualización de los Servicios Estatales de Estadística y de Información Geográfica del Gobierno del Estado, cuidando su vinculación y congruencia con el sistema nacional en la materia, así como elaborar las metodologías, lineamientos, guías o procedimientos para integrar, diseminar y almacenar la información estadística y geográfica de la Administración, a partir de censos, encuestas o el aprovechamiento para fines estadísticos de los registros administrativos;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXV. Formular la normatividad en materia de estadística e información geográfica para someterla a la aprobación del órgano competente para emitirla y establecer los mecanismos, instrumentos, metodologías, lineamientos o criterios para mejorar la calidad de la información estadística y geográfica;
 
 XXVI. Coordinar las tareas interinstitucionales y formular los procedimientos para operar los Sistemas de Información Estadística y Geográfica y de Seguimiento y Evaluación del Gobierno del Estado;
 
@@ -2503,9 +2693,13 @@ XXXIV. Promover la instalación y operación de centros de consulta de libros, p
 
 XXXV. Vigilar la actualización, conservación y uso del acervo documental del Coplade;
 
-XXXVI. Coordinar el Sistema de Evaluación del Estado y formular los procedimientos para operarlo;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXXVII. Establecer los lineamientos, desarrollar y administrar el Sistema de Indicadores del Estado de Yucatán, compuesto por los subsistemas de Indicadores de Desarrollo del Estado y de Desempeño de la Administración Pública, con la participación de las entidades y organismos de gobierno;
+XXXVI. Coordinar el Sistema de Seguimiento y Evaluación del Desempeño Estado y formular los procedimientos para operarlo, mediante la integración y seguimiento de los indicadores de desempeño;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXXVII. Establecer mecanismos, metodologías, lineamientos o criterios para desarrollar y administrar el Sistema de Indicadores del Estado de Yucatán, compuesto por los subsistemas de Indicadores de Desarrollo del Estado y de Desempeño de la Administración Pública, con la participación de las entidades y organismos de gobierno;
 
 XXXVIII. Elaborar el diagnóstico socio-económico del Estado y analizar su evolución y tendencias, para coadyuvar en la formulación de las políticas económica y social del Poder Ejecutivo del Estado;
 
@@ -2517,17 +2711,33 @@ XLI. Formular los anteproyectos de leyes, decretos, reglamentos y demás disposi
 
 XLII. Llevar el control de la documentación presentada por las entidades paraestatales;
 
-XLIII. Dirigir el Registro de Organismos Descentralizados, en la forma que determine este Reglamento;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XLIII. Dirigir el Registro de Entidades Paraestatales, en la forma que determine este Reglamento;
 
 XLIV. Autorizar el registro de creación, modificación o de extinción de las entidades paraestatales;
 
-XLV. Suministrar al Titular de esta Secretaría todos los datos e informes que le solicitare en relación a la información asentada en el Registro de Organismos Descentralizados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XLV. Suministrar al Titular de esta Secretaría todos los datos e informes que le solicite, en relación con la información asentada en el Registro de Entidades Paraestatales;
 
 XLVI. Expedir certificaciones de las inscripciones y registro de los organismos paraestatales, así como la cancelación de las inscripciones en los casos de extinción, una vez concluida su liquidación;
 
-XLVII. Publicar anualmente en el Diario Oficial del Gobierno del Estado de Yucatán, dentro de los primeros 15 días naturales del mes de enero, la relación de entidades paraestatales registradas que obre en el Registro de Organismos Descentralizados, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XLVIII. Los demás que le atribuyan otras disposiciones legales y reglamentarias y los que le asigne el Secretario.
+XLVII. Publicar anualmente en el Diario Oficial del Gobierno del Estado de Yucatán, dentro de los primeros 15 días naturales del mes de enero, la relación de entidades paraestatales registradas que obre en el Registro de Entidades Paraestatales;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XLVIII. Coordinar la programación anual, establecer los mecanismos, lineamientos, guías o criterios conducentes a identificar y mantener actualizada la oferta de programas y actividades institucionales;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XLIX. Coordinar o realizar evaluaciones en el marco del sistema; integrar, actualizar y dar seguimiento a los resultados y recomendaciones que resulten de las evaluaciones, para lo cual emitirá las metodologías, lineamientos, guías o criterios conducentes, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+L. Los demás que le atribuyan otras disposiciones legales y reglamentarias y los que le asigne el Secretario.
 
 ###### Artículo 107.
 
@@ -3323,7 +3533,9 @@ i) Celebrar transacciones judiciales y extrajudiciales, y
 
 j) Realizar cuantos actos sean procedentes en defensa de los intereses de esta Secretaría.
 
-III. Representar a esta Secretaría ante el Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado de Yucatán y cualquier otra autoridad jurisdiccional o administrativa de trabajo, con las facultades y en términos de los artículos 11 y 692 de la Ley Federal del Trabajo, aplicable supletoriamente, y sus correlativos de la Ley de los Trabajadores al Servicio del Estado de Yucatán, en las controversias que se susciten entre esta Dependencia y sus trabajadores; y ejercer dicha representación durante el proceso. En ejercicio de esta representación podrá:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Representar a esta Secretaría ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios del Poder Judicial y cualquier otra autoridad jurisdiccional o administrativa de trabajo, con las facultades y en términos de los artículos 11 y 692 de la Ley Federal del Trabajo, aplicable supletoriamente, y sus correlativos de la Ley de los Trabajadores al Servicio del Estado de Yucatán, en las controversias que se susciten entre esta Dependencia y sus trabajadores; y ejercer dicha representación durante el proceso. En ejercicio de esta representación podrá:
 
 a) Comparecer a todas las etapas del proceso laboral, inclusive la de conciliación, demanda y excepciones, pruebas, y cualesquiera otras del procedimiento jurisdiccional,
 
@@ -7493,13 +7705,19 @@ II. Subsecretaría de Fomento a la Inversión y Comercio Exterior:
 
 a) Dirección de Comercio Internacional, y
 
-b) Dirección de Promoción.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+b) Dirección de Promoción Industrial
 
 III. Subsecretaría de Planeación y Proyectos Estratégicos: de la cual dependerá la Dirección de Planeación, Análisis y Evaluación de Proyectos;
 
-IV. Dirección de Administración y Finanzas;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-V. Dirección Jurídica, y
+IV. Dirección de Administración y Finanzas, y
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Dirección Jurídica.
 
 VI. (DEROGADA, D.O. 23 DE FEBRERO DE 2009)
 
@@ -7521,7 +7739,9 @@ VI. Promover la creación del Sistema Estatal de Información y Análisis Econó
 
 VII. Diseñar las políticas generales para mejorar la competitividad, a través de procedimientos administrativos ágiles que faciliten la inversión productiva en el Estado;
 
-VIII. Crear y coordinar el Registro Estatal de Trámites y Servicios, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Organizar y vigilar el funcionamiento del Módulo de Ventanilla Universal, y
 
 IX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -7605,11 +7825,17 @@ V. Coordinar la integración de los expedientes crediticios que serán presentad
 
 VI. Coordinar, con la Dirección Jurídica, la firma de los contratos y documentos crediticios, así como el ejercicio de la acción legal por incumplimiento de los mismos;
 
-VII. Evaluar la aplicación de los créditos otorgados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII. Controlar la información de los expedientes crediticios;
+VII. Comprobar la aplicación de los créditos otorgados;
 
-IX. Coordinar y evaluar la recuperación de la cartera de los créditos otorgados, identificándola por tipo de fondo de financiamiento, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Resguardar la información de los expedientes crediticios hasta su liquidación;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Coordinar la recuperación de la cartera de los créditos otorgados, identificándola por tipo de fondo de financiamiento, y
 
 X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -7617,29 +7843,47 @@ X. Las demás que le otorguen este Reglamento y otras disposiciones normativas a
 
 El Subsecretario de Fomento a la Inversión y Comercio Exterior tendrá las siguientes facultades y obligaciones:
 
-I. Promover al Estado en el ámbito regional, nacional e internacional a través de programas permanentes, con objeto de que los inversionistas puedan conocer las ventajas que ofrece el Estado de Yucatán y la capacidad laboral de sus habitantes;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+l. Promover al Estado en el ámbito regional, nacional e internacional a través de programas permanentes de promoción, con objeto de que los inversionistas conozcan las ventajas competitivas que ofrece el Estado de Yucatán y la capacidad de sus recursos humanos;
 
 II. Seleccionar personas y lugares adecuados para promover las diversas áreas de la actividad económica en el Estado;
 
-III. Coadyuvar en la gestión de apoyos que diversas unidades administrativas del Poder Ejecutivo realicen ante los gobiernos federal, estatal y municipales y ante las instituciones de crédito, apoyos en materia administrativa para que los inversionistas instalen empresas en el Estado;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IV. Asesorar a los inversionistas que pretendan instalar empresas en el Estado, con información en materia de comercio exterior;
+III. Coadyuvar en la gestión de apoyos e incentivos para facilitar la instalación de nuevas empresas en el Estado;
 
-V. Coadyuvar para la comercialización en los mercados internacionales, de bienes y servicios que se producen en el Estado;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Fomentar las condiciones adecuadas para la inversión nacional y extranjera;
+IV. Asesorar en materia de Comercio Exterior a los inversionistas que pretendan instalar empresas en el Estado;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Coadyuvar en la comercialización de bienes y servicios producidos en el Estado en los mercados internacionales;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Crear y fomentar las condiciones adecuadas para la atracción de inversiones nacionales y extranjeras;
 
 VII. Impulsar el desarrollo de unidades económicas en materia de comercio exterior;
 
-VIII. Promover, en coordinación con los gobiernos federal y municipales, actividades en materia de comercio exterior;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IX. Proporcionar a los inversionistas, estudios, estadísticas y análisis de los proyectos de inversión con los que cuente esta Secretaría;
+VIII. Promover y realizar, en coordinación con los gobiernos federal y municipales, actividades en materia de comercio exterior;
 
-X. Promover la inversión para el desarrollo económico sustentable de las empresas y para el crecimiento de los municipios;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Asesorar a los inversionistas con información, estudios y estadísticas, para la elaboración y realización de proyectos de inversión;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+X. Promover la inversión para el desarrollo económico sustentable del Estado, de las empresas y para el crecimiento de los municipios;
 
 XI. Promover el aprovechamiento adecuado de los recursos naturales de la entidad;
 
-XII. Colaborar en la ejecución de proyectos de inversionistas locales, nacionales o extranjeros del sector empresarial, y en la instalación de empresas factibles y convenientes para el desarrollo del Estado;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Colaborar en la ejecución de proyectos de inversionistas locales, nacionales o extranjeros del sector comercial e industrial, y en la instalación de empresas factibles y convenientes para el desarrollo del Estado;
 
 XIII. Promover la instalación de empresas altamente productivas, especialmente aquellas que aporten un mayor valor agregado;
 
@@ -7671,23 +7915,41 @@ IX. Apoyar a las empresas yucatecas en la promoción de sus productos, mediante 
 
 X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 482.
 
-El Director de Promoción tendrá las siguientes facultades y obligaciones:
+El Director de Promoción Industrial tendrá las siguientes facultades y obligaciones:
 
 I. Proponer políticas, programas y estrategias en materia de promoción a la inversión en el Estado;
 
-II. Coadyuvar a la gestión de apoyos a los inversionistas en los requerimientos administrativos del gobierno federal, estatal o municipales o de las instituciones de crédito para la instalación de empresas en el Estado;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-III. Difundir los programas de promoción a la inversión en el Estado;
+II. Colaborar con los inversionistas en la gestión de apoyos que realicen ante los gobiernos federal, estatal o municipal, en cuanto al cumplimiento de los requerimientos administrativos que sean necesarios para la instalación o expansión de empresas en el Estado;
 
-IV. Promover la cultura del comercio electrónico en el medio local, como una herramienta eficiente para acceder a mercados nacionales e internacionales;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-V. Integrar los estudios, estadísticas y análisis de los proyectos de inversión con los que cuente esta Secretaría;
+III. Vincular a los inversionistas con los sectores educativos y empresarial regionales;
 
-VI. Promocionar los diferentes financiamientos o apoyos que se puedan otorgar, así como los incentivos fiscales creados para la atracción de inversión, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+IV. Promocionar a nivel regional, nacional e internacional las ventajas competitivas del Estado, los proyectos de inversión con los que cuente esta Secretaria, así como los apoyos e incentivos creados para fomentar la inversión;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Apoyar a la industria del Estado en su promoción, a través de la participación conjunta en ferias y eventos nacionales e internacionales;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Integrar en herramientas promocionales, los estudios, estadística y análisis de los proyectos de inversión con los que cuente esta Secretaria;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Promover el desarrollo de las Tecnologías de la Información en el Estado como un sector estratégico, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 483.
 
@@ -7711,7 +7973,7 @@ VIII. Participar en la operación de sistemas de información estadística y an�
 
 IX. Colaborar en el desarrollo integral sustentable, equitativo, planificado, de largo plazo y sustentable, de las distintas regiones y actividades productivas;
 
-X. Apoyar en el desarrollo de las zonas en condiciones económicas desfavorables, integrándolas a programas estratégicos de desarrollo regional;
+X. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 XI. Participar en la planeación de políticas y acciones de fomento y desarrollo económico, con la participación del Consejo Estatal Consultivo para el Desarrollo Económico; de conformidad con los planes federal, regional, estatal y municipal, así como de los ordenamientos jurídicos en la materia y los acuerdos internacionales;
 
@@ -7721,7 +7983,7 @@ XIII. Identificar y sugerir la aplicación de proyectos internacionales de éxit
 
 XIV. Coadyuvar en el desarrollo de la competitividad para el fomento económico, e impulsar proyectos elaborados conjuntamente con organismos empresariales y universidades;
 
-XV. Contribuir al establecimiento de nuevas empresas en el Estado;
+XV. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 XVI. Coordinar la evaluación de las acciones y actividades de las áreas de esta Secretaría, con objeto de procurar la consecución de las metas y objetivos establecidos en los programas operativos anuales y en los planes y programas rectores vigentes;
 
@@ -7749,7 +8011,9 @@ V. Participar en la planeación de políticas y acciones de fomento y desarrollo
 
 VI. Contribuir al establecimiento de un marco regulatorio que sustente, garantice y facilite la inversión productiva en las diversas fases;
 
-VII. Apoyar a las diversas direcciones de esta Secretaría respecto a la información económica, la relativa a la cuenta pública y los Programas Operativos Anuales, así como diseñar los reportes ejecutivos que le sean solicitados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Apoyar a las diversas direcciones de esta Secretaría respecto a la información estadística y económica, la relativa a la cuenta pública, informes trimestrales y los Programas Operativos Anuales, así como diseñar los reportes ejecutivos que le sean solicitados;
 
 VIII. Recopilar e integrar los datos para la elaboración de los proyectos y programas de esta Secretaría, así como de los informes de actividades que rinde la misma, que permitan evaluar periódicamente las actividades realizadas;
 
@@ -7767,11 +8031,21 @@ XIV. Integrar la información que esta Secretaría necesita proporcionar anualme
 
 XV. Integrar la información económica que será utilizada en el Plan Estatal de Desarrollo;
 
-XVI. Monitorear y evaluar semestralmente las labores de esta Secretaría para verificar que se hubieran realizado de acuerdo al Plan Estatal de Desarrollo;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVII. Coadyuvar en la planeación y operación de los sistemas de información estadística y de análisis económico que sean de interés para el Estado, y
+XVI. Monitorear y evaluar anualmente las labores de esta Secretaría para verificar que se hubieran realizado de acuerdo al Plan Estatal de Desarrollo;
 
-XVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVII. Coadyuvar en la planeación y operación de los sistemas de información estadística y de análisis económico que sean de interés para el Estado;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Coadyuvar en la planeación y operación de los sistemas de información estadística y de análisis económico que sean de interés para el Estado, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 485.
 
@@ -8947,7 +9221,9 @@ b) Dirección de Inspección de Obra Pública.
 
 2. Jefatura de de (sic) Supervisión de Obra Pública, Zona Estatal.
 
-c) Dirección de Normatividad, Quejas y Responsabilidades.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+c) Dirección de Normatividad y Responsabilidades.
 
 1. Jefatura de Normatividad en Obras Públicas y Adquisiciones;
 
@@ -8956,6 +9232,10 @@ c) Dirección de Normatividad, Quejas y Responsabilidades.
 3. Jefatura de Capacitación y Seguimiento a Auditorías, y
 
 4. Jefatura de Asuntos Contenciosos.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+5. Jefatura de Inconformidades, Sanciones y Conciliaciones
 
 II. Subcontralor del Sector Estatal y Paraestatal:
 
@@ -8989,7 +9269,9 @@ a) Jefe del Departamento de Contabilidad.
 
 b) Jefe del Departamento de Informática.
 
-Además esta Secretaría contará con la Unidad de Acceso a la Información Pública la cual tendrá carácter de Órgano Desconcentrado.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Además esta Secretaría contará con la Unidad de Acceso a la Información Pública y con el Instituto Estatal de Combate a la Corrupción los cuales tendrán el carácter de Órganos Desconcentrados.
 
 ###### Artículo 525.
 
@@ -9011,13 +9293,17 @@ VII. Establecer los lineamientos y políticas que orienten la colaboración que 
 
 VIII. Elaborar y someter a la consideración del Titular del Poder Ejecutivo el Programa Anual de Control y Auditoría de las dependencias y entidades;
 
-IX. Resolver el recurso de revocación que se promueva en contra de las resoluciones definitivas derivadas de procedimientos de responsabilidades que emita la Dirección de Normatividad, Quejas y Responsabilidades;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Resolver el recurso de revocación que se promueva en contra de las resoluciones definitivas derivadas de procedimientos de responsabilidades que emita la Dirección de Normatividad y Responsabilidades;
 
 X. Autorizar el establecimiento de medios de comunicación electrónica para el ejercicio de las facultades que le otorgan a la Contraloría las leyes, reglamentos y demás disposiciones aplicables;
 
 XI. Vigilar que las unidades administrativas de la Contraloría cumplan con las normas de control, evaluación y fiscalización aplicables, de acuerdo a la normatividad correspondiente;
 
-XII. Turnar a la unidad administrativa competente para su investigación, los asuntos relativos a los actos, omisiones o conductas de los servidores públicos que pudieran constituir responsabilidades administrativas, para la aplicación de las sanciones que correspondan en los términos que señale la Ley, proveyendo lo necesario para interponer las denuncias correspondientes ante el Ministerio Público, por conducto de las unidades administrativas facultadas para tal efecto;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Turnar a la unidad administrativa de auditoría competente para su investigación, las quejas y denuncias relativos a los actos, omisiones o conductas de los servidores públicos de las dependencias y entidades que pudieran constituir responsabilidades administrativas, instruyendo, en su caso, lo necesario para que se interpongan las denuncias correspondientes ante el Ministerio Público competente, por conducto de las unidades administrativas facultadas para tal efecto;
 
 XIII. Designar al personal que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades;
 
@@ -9031,19 +9317,31 @@ XVII. Participar en las funciones de control y evaluación asignadas al Comité 
 
 XVIII. Opinar, previamente a su expedición, respecto de las reglas de carácter general que dicten las dependencias y entidades en los asuntos en los que el Código y las leyes les confieran competencia a la Contraloría;
 
-XIX. Turnar a la unidad administrativa competente para su investigación, los asuntos relativos a los actos, omisiones o conductas de los servidores públicos que pudieran constituir responsabilidades administrativas, para la aplicación de las sanciones que correspondan en los términos que señale la Ley, proveyendo lo necesario para interponer las denuncias correspondientes ante el Ministerio Público, por conducto de las unidades administrativas facultadas para tal efecto;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIX. Emplear los medios de apremio establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán para el cumplimiento de sus atribuciones;
 
 XX. Requerir en el ámbito de su competencia a las dependencias y entidades que hayan sido objeto de auditorías o acciones de auditoría y fiscalización acordadas con la Secretaría de la Función Pública, la Auditoría Superior de la Federación, o de manera directa, la información, documentación o acciones necesarias, para solventar las cédulas o pliegos de observaciones respectivos dentro de los términos otorgados;
 
-XXI. Solicitar, por sí o por conducto de la Dirección de Normatividad, Quejas y Responsabilidades, a los servidores públicos, licitantes, proveedores, prestadores de servicios y contratistas que tengan relación con los actos y contratos que realicen las dependencias y entidades, la información y documentación necesaria para el cumplimiento de las atribuciones otorgadas a la Contraloría;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXI. Solicitar, por sí o por conducto de la Dirección de Normatividad y Responsabilidades, a los servidores públicos, licitantes, proveedores, prestadores de servicios y contratistas que tengan relación con los actos y contratos que realicen las dependencias y entidades, la información y documentación necesaria para el cumplimiento de las atribuciones otorgadas a la Contraloría;
 
 XXII. Convocar, designar y facultar a los servidores públicos que participen en los actos de los procedimientos de contratación, y en su caso, adjudicar;
 
 XXIII. Contratar, ejercer los actos para suspender, terminar anticipadamente y rescindir los contratos que celebre la Contraloría en materia de adquisiciones, arrendamientos, servicios y obra pública, de conformidad con las disposiciones legales aplicables;
 
-XXIV. Ordenar, las auditorías a las dependencias y entidades de conformidad al Programa Anual de Auditorías y Revisones (sic); y cuando la situación lo requiera, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXV. Las demás que le otorgan las leyes de Responsabilidades de los Servidores Públicos; de Obra Pública y Servicios Conexos; de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, todas del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
+XXIV. Ordenar, las auditorías a las dependencias y entidades de conformidad al Programa Anual de Auditorías y Revisiones; y cuando la situación lo requiera;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXV. Solicitar a dependencias y entidades del ámbito federal, estatal y municipal y a las personas físicas o morales del sector social y privado, la información que se requieran (sic) para el cumplimiento de las facultades de la Contraloría; y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXVI. Las demás que le otorgan las leyes de Responsabilidades de los Servidores Públicos; de Obra Pública y Servicios Conexos; de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, todas del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 526.
 
@@ -9069,7 +9367,9 @@ V. Turnar a la autoridad competente los expedientes relativos a las investigacio
 
 VI. Emitir las recomendaciones procedentes a los entes auditados cuando los informes derivados de la práctica de auditorías así lo establezcan;
 
-VII. Requerir a las dependencias y entidades las acciones para solventar los pliegos de observaciones que se formulen con motivo de auditorías o acciones de fiscalización acordadas con la Secretaría de la Función Pública, la Auditoría Superior de la Federación o de manera directa, solicitando la información, documentación o acciones necesarias para tal efecto, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Requerir a las dependencias y entidades las acciones para solventar los pliegos de observaciones que se formulen con motivo de auditorías o acciones de fiscalización practicadas de manera directa, conjunta o actuando como enlace con la Secretaría de la Función Pública, la Auditoría Superior de la Federación o cualquier otro ente de fiscalización, solicitando la información, documentación o acciones necesarias para tal efecto, actuando como enlace en las mismas, y
 
 VIII. Las demás que le confiera el Titular de la Contraloría, este Reglamento y otras disposiciones legales aplicables.
 
@@ -9079,9 +9379,13 @@ Al Director de Programas Federales le corresponde el despacho de los siguientes 
 
 I. Sugerir a su superior jerárquico la celebración de acuerdos de coordinación con los gobiernos municipales para impulsar la instrumentación o fortalecimiento de los subsistemas municipales de control y evaluación de la gestión pública; así como los términos de los citados convenios;
 
-II. Promover en los grupos sociales beneficiarios de los programas federales, actitudes y conductas propias de un ambiente de orden y disciplina, con apego al marco legal y a la normatividad correspondiente;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-III. Planear, programar y organizar la capacitación para los integrantes de los Consejos de Colaboración Municipal y de los órganos que determinen los cabildos de los ayuntamientos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, dentro del marco del Programa de Contraloría Social, para el cumplimiento eficaz de sus funciones y mejor capacidad de gestión en sus comunidades;
+II. Planear, programar y organizar la promoción en los grupos sociales beneficiarios de los programas federales, actitudes y conductas propias de un ambiente de orden y disciplina, con apego al marco legal y a la normatividad correspondiente;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Planear, programar y organizar la capacitación para los integrantes de los Consejos de Colaboración Municipal y de los órganos que determinen los cabildos de los ayuntamientos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, dentro del marco del Programa Anual de Trabajo de Contraloría Social suscrito con la Federación y con base a los lineamientos que al efecto emita la Secretaría de la Función Pública, para el cumplimiento eficaz de sus funciones y mejor capacidad de gestión en sus comunidades;
 
 IV. Crear las estrategias y acciones a fin de promover la participación de los ciudadanos en acciones de contraloría social de los programas previstos en el Convenio de Desarrollo Social y proponerlas a su superior jerárquico para su implementación;
 
@@ -9099,11 +9403,15 @@ IX. Elaborar el proyecto de informe que el Subcontralor deba rendir al Secretari
 
 X. Elaborar e integrar el Programa Anual de Auditorías y Revisiones a las dependencias y entidades en relación con los programas y acciones realizados con cargo a recursos federales, tanto los que se pacten en el programa convenido con la Secretaría de la Función Pública, como los previstos en los convenios de reasignación de recursos entre la Federación y el Estado, así como los demás programas y acciones que se apliquen; y ponerlo a consideración de su superior a fin de que éste gestione lo necesario para su aprobación, además informarle sobre los avances del mismo, y de las actividades que desempeñan las unidades administrativas de esta Dirección;
 
-XI. Formular y establecer los sistemas de control y vigilancia de las obras ejecutadas con recursos federales;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XI. Proponer los sistemas de control y vigilancia de las obras ejecutadas con recursos federales;
 
 XII. Promover entre las dependencias y entidades, que el cumplimiento de las acciones y programas federales se realice con estricto apego a los principios de legalidad, honradez, imparcialidad y eficiencia, así como a la normatividad vigente;
 
-XIII. Coordinar las acciones que lleven a cabo los órganos de control interno en las dependencias y entidades, para la mejor ejecución de los programas federales;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Coordinar, cuando así se requiera, las acciones que lleven a cabo los órganos de control interno en las dependencias y entidades, para la mejor ejecución de los programas federales;
 
 XIV. Dar seguimiento al cumplimiento de las normas, procedimientos, programas y políticas que regulen el ejercicio del gasto federal;
 
@@ -9113,7 +9421,9 @@ XVI. Turnar a su superior, los expedientes relativos a las investigaciones y aud
 
 XVII. Identificar incongruencias, desviaciones y omisiones que, sin ser delitos o constituir responsabilidades, se presenten en la ejecución de los programas federales que se apliquen en el Estado y elaborar propuestas de adecuación a los mismos, que garanticen una mejor operación;
 
-XVIII. Realizar, cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales, así como designar a las personas que habrán de realizarlas;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Realizar, cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales, así como las auditorías convenidas mediante Acuerdos de Coordinación y de Colaboración celebrados con la Federación, en cumplimiento a los términos del Acuerdo y con base a las políticas y normas que para tal efecto se establezcan, así como designar a las personas que habrán de realizarlas;
 
 XIX. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y entidades que se refieran a acciones o programas con cargo a recursos federales, y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a los entes auditados o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
 
@@ -9131,17 +9441,27 @@ XXIV. Proponer a su superior para su aprobación, los programas, guías e instru
 
 XXV. Dar seguimiento a las observaciones determinadas en las visitas realizadas por los órganos internos de control a las dependencias y entidades, y que se refieran a recursos federales, hasta su total solventación;
 
-XXVI. Llevar el control de los asuntos turnados a la Dirección de Normatividad, Quejas y Responsabilidades y darles seguimiento hasta su resolución definitiva, y (sic)
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXVII. Dictaminar sobre las opiniones que corresponden emitir a esta Secretaría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deba rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Así como la modificación o simplificación del funcionamiento del sistema y los procedimientos de contabilidad de cada Entidad a que se refiere el Artículo 36 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, en relación con programas federales, y
+XXVI. Llevar el control de los asuntos turnados a la Dirección de Normatividad y Responsabilidades y darles seguimiento hasta su resolución definitiva;
 
-XXVIII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XXVII. Dictaminar sobre las opiniones que corresponden emitir a esta Secretaría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deba rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Así como la modificación o simplificación del funcionamiento del sistema y los procedimientos de contabilidad de cada Entidad a que se refiere el Artículo 36 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, en relación con programas federales, y (sic)
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXVIII. Actuar como enlace en los procesos de la auditoría y coordinar el seguimiento a las observaciones determinadas en las auditorías realizadas por la Auditoría Superior de la Federación sobre el ejercicio de recursos federales, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXIX. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 528.
 
 A la Jefatura de Auditoría le corresponde el despacho de los siguientes asuntos:
 
-I. Realizar en forma directa cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+l. Realizar en forma directa cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales aplicables, así como las convenidas mediante Acuerdos de Coordinación y de Colaboración celebrados con la Federación en cumplimiento a los términos del Acuerdo y con base a las políticas y normas que para tal efecto se establezcan;
 
 II. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y entidades que se refieran a acciones o programas con cargo a recursos federales, y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a los entes auditados o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
 
@@ -9157,7 +9477,9 @@ VII. Formular los dictámenes técnicos y contables, opiniones e informes que le
 
 VIII. Asesorar técnicamente en asuntos de su competencia a los servidores públicos de la Contraloría;
 
-IX. Proponer a la superioridad el establecimiento de los sistemas de control y vigilancia de las obras ejecutadas con recursos federales, los fondos y valores federales, así como evaluar sus resultados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Proponer a la superioridad el establecimiento de los sistemas de control y vigilancia de las obras ejecutadas con recursos federales, así como evaluar los resultados de los programas federales auditados;
 
 X. Dar seguimiento al cumplimiento de las normas, procedimientos, programas y políticas que regulen el ejercicio del gasto federal;
 
@@ -9169,9 +9491,17 @@ XIII. Proporcionar los resultados y evaluaciones de las actividades de la Direcc
 
 XIV. Formular y proponer a su superior, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes a la Jefatura a su cargo;
 
-XV. Proporcionar la información, datos o cooperación técnica que le sea requerida internamente o por otras dependencias y entidades, de acuerdo con las políticas y normas que establezca el Secretario, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVI. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables.
+XV. Proporcionar la información, datos o cooperación técnica que le sea requerida internamente o por otras dependencias y entidades, de acuerdo con las políticas y normas que establezca el Secretario;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVI. Actuar como enlace en los procesos de la auditoría y dar seguimiento a las observaciones determinadas en las auditorías realizadas por la Auditoría Superior de la Federación sobre el ejercicio de recursos federales; y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 529.
 
@@ -9179,11 +9509,15 @@ A la Jefatura de la Contraloría Social le corresponde el despacho de los siguie
 
 I. Promover en los grupos sociales beneficiarios de los programas federales, actitudes y conductas propias de un ambiente de orden y disciplina, con apego al marco legal y a la normatividad correspondiente;
 
-II. Capacitar y asesorar a los integrantes de los consejos de colaboración municipal y de los órganos que determinen los cabildos de los ayuntamientos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, dentro del marco del Programa de Contraloría Social, para el cumplimiento eficaz de sus funciones y mejor capacidad de gestión en sus comunidades; asimismo, esta asesoría se podrá extender a todos los miembros de los consejos y comités;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Capacitar y asesorar a los integrantes de los consejos de colaboración municipal y de los órganos que determinen los cabildos de los ayuntamientos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán, dentro del marco del Programa Anual de Trabajo de Contraloría Social suscrito con la Federación y con base a los lineamientos que al efecto emita la Secretaría de la Función Pública, para el cumplimiento eficaz de sus funciones y mejor capacidad de gestión en sus comunidades; asimismo, esta asesoría se podrá extender a todos los miembros de los consejos y comités;
 
 III. Establecer estrategias y formas de difusión, a fin de promover la participación en acciones de contraloría social de los programas establecidos y proponerlas a su superior jerárquico para su implementación;
 
-IV. Tramitar, controlar y dar seguimiento a las peticiones, sugerencias, reconocimientos, quejas y denuncias relacionadas con los programas federales;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Tramitar, controlar y dar seguimiento a las sugerencias, reconocimientos, quejas y denuncias relacionadas con los programas federales y las que remita la Secretaría de la Función Pública;
 
 V. Proponer a su superior inmediato la resolución de los asuntos relevantes, cuya tramitación se encuentre dentro del área de su competencia, y
 
@@ -9195,21 +9529,31 @@ Al Director de Inspección de Obra Pública le corresponde el despacho de los si
 
 I. Informar trimestralmente al inmediato superior sobre los resultados de las acciones relevantes, avances de los programas y demás actividades propias de esta Dirección;
 
-II. De manera coordinada con la unidad administrativa correspondiente o autónomamente en caso de ser necesario, formular y someter a la aprobación de su superior jerárquico, los programas, guías e instructivos, normas políticas y procedimientos, en los términos de las disposiciones legales y administrativas aplicables a los aspectos de planeación, programación, inicio, desarrollo, conclusión, control y fiscalización de las obras públicas que se realicen por las dependencias y entidades;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. De manera coordinada con la unidad administrativa correspondiente o autónomamente en caso de ser necesario, formular y someter a la aprobación de su superior jerárquico, los programas, guías e instructivos, normas políticas y procedimientos, en los términos de las disposiciones legales y administrativas aplicables a los aspectos de planeación, programación, inicio, desarrollo, conclusión y control de las auditorias a obra pública que se realicen a las dependencias y entidades;
 
 III. Vigilar que las dependencias y entidades den cumplimiento a las disposiciones que regulan la realización de las obras públicas, tanto en el aspecto de su ejecución material, como en sus aspectos administrativos de planeación, contratación presupuestación, previstos en las disposiciones federales o estatales, según sean aplicables;
 
-IV. Fiscalizar selectivamente las obras que realicen las dependencias y entidades;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Revisar selectivamente las obras que realicen las dependencias y entidades de la Administración Pública Estatal en cualquier momento de su ejecución, para constatar la correcta aplicación de los recursos públicos comprometidos conforme los programas Federales y las disposiciones jurídicas en materia de obra pública;
 
 V. Analizar, comprobar y opinar sobre el contenido de los informes, que en materia de obra pública ejecutada con recursos federales transferidos o con los propios del Estado, le presenten a la Contraloría, las dependencias y entidades ejecutoras;
 
 VI. Implementar, determinar y proponer los requerimientos mínimos de información que deberán enviar a la Contraloría las dependencias y entidades, para mantener un adecuado seguimiento a los aspectos de planeación, programación, presupuestación, contratación, ejecución y control de las obras públicas que se realizan con recursos federales transferidos o con los propios del estado, señalando el contenido, uso que tendrá dicha información, periodicidad, medios de envío y formatos que se deberán utilizar;
 
-VII. Coordinar y vigilar que los procesos de supervisión e inspección física de las obras públicas, que realizan las dependencias y entidades con recursos federales y los propios del estado, se lleven al (sic) cabo conforme a las disposiciones jurídicas aplicables y en caso de existir irregularidades, se emitan por escrito las observaciones y las recomendaciones pertinentes;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII. Vigilar permanentemente la correcta integración, actualización y control de los inventarios de los expedientes producto de la totalidad de las acciones referente de las Obras Públicas, que realizan las dependencias y entidades;
+VII. Coordinar y vigilar mediante la supervisión e inspección física que las obras públicas, en proceso de ejecución y terminadas que realizan las dependencias y entidades con recursos federales y los propios del estado, se lleven a cabo conforme a las disposiciones jurídicas aplicables y en caso de existir irregularidades, se emitan por escrito las observaciones y las recomendaciones pertinentes;
 
-IX. Participar en los actos del proceso de entrega-recepción de las obras públicas y acciones ejecutadas por las dependencias y entidades, con recursos federales o estatales, con el fin de verificar la calidad, el apego a las normas o especificaciones de los trabajos contratados y ejecutados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Vigilar permanentemente la correcta integración, actualización y control de los inventarios de los expedientes producto de la totalidad de las acciones de esta Dirección y sus Jefaturas referente de las Obras Públicas, que realizan las dependencias y entidades;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Participar en los actos del proceso de recepción de las obras públicas y acciones ejecutadas por las dependencias y entidades, con recursos federales o estatales, con el fin de verificar la calidad, el apego a las normas o especificaciones de los trabajos contratados y ejecutados;
 
 X. Promover la capacitación permanente del personal a su cargo, para su desarrollo profesional, actualización tecnológica, mejora continua en sus funciones, así como promover la certificación técnica del personal supervisor en cuanto a los procedimientos y normatividad en materia de verificación y control de la obra pública;
 
@@ -9221,17 +9565,37 @@ XIII. Requerir, cuando lo estime conveniente para el cumplimiento de sus funcion
 
 XIV. Participar e intervenir cuando así se requiera en los procesos de conciliación en materia de obra pública, para dar seguimiento, evaluar y emitir observaciones vinculatorias;
 
-XV. Coordinar los procesos de Auditoría y Verificación que se llevan al (sic) cabo a las dependencias y entidades en relación a las obras públicas y acciones derivadas de programas estatales con aplicación de recursos propios del estado o transferidos, así como de programas federalizados previstos en el Presupuesto de Egresos de la Federación, convenios y demás instrumentos de coordinación celebrados con la Secretaría de la Función Pública, así como vigilar se de cumplimiento de las metas que se determinen en la aplicación de estos recursos, conforme a las reglas de operación establecidas para estos programas y las disposiciones jurídicas aplicables en materia de obra pública;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVI. Vigilar que las acciones de Integración de resultados de auditorías y verificaciones mencionadas en la fracción anterior, se realicen conforme a la normatividad establecida, así como informar al Subcontralor de Programas Federales, acerca de las revisiones realizadas a los procesos de planeación, programación, presupuestación y ejecución de obras y acciones financiadas total o parcialmente con recursos federales;
+XV. Coordinar los procesos de Auditoría y Verificación que se llevan a cabo a las dependencias y entidades en relación a las obras públicas y acciones derivadas de programas Estatales con aplicación de recursos propios del estado o transferidos, así como de programas federalizados previstos en el Presupuesto de Egresos de la Federación, convenios y demás instrumentos de coordinación celebrados con la Secretaría de la Función Pública, así como designar al personal que ha de realizar esos procesos y vigilar se dé cumplimiento de las metas que se determinen en la aplicación de estos recursos, conforme a las reglas de operación establecidas para estos programas y las disposiciones jurídicas aplicables en materia de obra pública;
 
-XVII. Coordinar la participación en los actos de los procedimientos de contratación de las obras públicas que realizan las dependencias y entidades con recursos federales transferidos o los propios del estado, vigilando que cumplan con las disposiciones jurídicas en materia de obra pública y haciendo las recomendaciones pertinentes tanto durante la celebración de los actos, como posterior a su realización;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVIII. Asesorar, en materia de inspección y seguimiento de obra pública, así como establecer estrecha coordinación del flujo de información y documentación;
+XVI. Vigilar que las acciones de Integración de resultados de auditorías y verificaciones mencionadas en la fracción anterior, se realicen conforme a la normatividad establecida, así como informar al Subcontralor de Programas Federales, acerca de los mismos;
 
-XIX. Turnar al Director de Normatividad, Quejas y Responsabilidades, los informes y documentación de los resultados de las observaciones provenientes de auditorías, fiscalizaciones, revisiones, supervisiones y actas circunstanciadas en materia de obra pública para efecto de que se revisen y emitan las presuntas sanciones jurídico-administrativas correspondientes, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XX. Las demás que le confieran este Reglamento y otras las (sic) disposiciones legales aplicables.
+XVII. Coordinar, cuando se le solicite, la participación en los actos de los procedimientos de contratación de las obras públicas que realizan las dependencias y entidades con recursos federales transferidos o los propios del estado, vigilando que cumplan con las disposiciones jurídicas en materia de obra pública y haciendo las recomendaciones pertinentes tanto durante la celebración de los actos, como posterior a su realización;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVIII. Asesorar a las dependencias y entidades ejecutoras de la Administración Pública Estatal, en materia de inspección y seguimiento de obra pública, así como establecer estrecha coordinación del flujo de información y documentación;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIX. Turnar al Director de Normatividad y Responsabilidades, los informes y documentación de los resultados de las observaciones provenientes de auditorías, fiscalizaciones, revisiones, supervisiones y actas circunstanciadas en materia de obra pública para efecto de que se revisen y emitan las presuntas sanciones jurídico-administrativas correspondientes;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XX. Designar al personal supervisor que en su caso, lleve a cabo las inspecciones de campo durante el proceso de Ejecución y Recepción de la Obra Pública, que realizan las dependencias y entidades, con el fin de verificar que cumplan de conformidad con lo establecido en el contrato y se apeguen a las normas y especificaciones aplicables;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXI. Proponer al Secretario de la Contraloría General los anteproyectos de lineamientos a que hace referencia la Ley de Obra Pública y Servicios Conexos en materia de mecanismos de evaluación de puntos y porcentajes y ajustes de costos, así como la forma y términos en que se deberá enviar a la Contraloría la información relativa a los contratos con el objeto de verificar los aspectos técnicos y la calidad de las obras y servicios conexos; y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXII. Las demás que le confieran este Reglamento y otras las (sic) disposiciones legales aplicables.
 
 ###### Artículo 531.
 
@@ -9275,7 +9639,9 @@ III. Evaluar el desempeño de las labores del personal adscrito a su área y pro
 
 IV. Realizar la supervisión y verificación del avance físico de la obra pública que lleven al cabo las dependencias y entidades con recursos presupuestales autorizados previamente, conforme a las disposiciones legales aplicables en la materia;
 
-V. Vigilar que los procesos de supervisión de las obras públicas que realizan las dependencias y entidades con recursos federales transferidos y los propios del estado se lleven al (sic) cabo conforme a las disposiciones jurídicas aplicables en materia de obra pública y en caso de existir irregularidades, emitir de manera escrita las observaciones y las recomendaciones pertinentes;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Vigilar que la supervisión de las obras públicas en proceso de ejecución que realizan las dependencias y entidades con recursos federales transferidos y los propios del estado se lleven a cabo conforme a las disposiciones jurídicas aplicables en materia de obra pública y en caso de existir irregularidades, emitir de manera escrita las observaciones y las recomendaciones pertinentes;
 
 VI. Integrar y mantener actualizado, durante el ejercicio correspondiente, el inventario de obras realizadas con recursos estatales y el de las obras que se ejecuten con fondos transferidos por la federación;
 
@@ -9285,55 +9651,95 @@ VIII. Participar, cuando así se solicite o se lo ordene su superior jerárquico
 
 IX. Elaborar y mantener actualizado el inventario de los expedientes de obras supervisadas por dependencia o entidad ejecutora, identificando las que fueron realizadas con recursos estatales y federales;
 
-X. Elaborar el Informe Trimestral de resultados de las acciones relevantes, así como de la información requerida por el inmediato superior acerca de las actividades propias de la jefatura, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XI. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables.
+X. Elaborar el Informe Trimestral de resultados de las acciones relevantes, así como de la información requerida por el inmediato superior acerca de las actividades propias de la jefatura;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XI. Designar al personal supervisor que en su caso, lleve a cabo verificaciones durante el proceso de ejecución de las obras públicas que realicen las dependencias y entidades, con el fin de verificar que las mismas se hayan ejecutado de conformidad con los contratos celebrados, y su apego a las normas y especificaciones aplicables, y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables; (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 533.
 
-El Director de Normatividad, Quejas y Responsabilidades, le corresponde el despacho de los siguientes asuntos:
+El Director de Normatividad y Responsabilidades, le corresponde el despacho de los siguientes asuntos:
 
-I. Ordenar de oficio, derivado de una queja o denuncia, o en virtud de irregularidades detectadas durante las acciones de auditorías y fiscalización, la práctica de investigaciones respecto de la conducta de servidores públicos de la Secretaría y de las dependencias y entidades, que pudiera implicar inobservancia de las obligaciones previstas por la Ley de la materia y demás disposiciones legales aplicables en el ejercicio de sus facultades;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-II. Brindar asesoría a los órganos de control interno, cuando lo soliciten, respecto a los aspectos legales relativos a los procedimientos de contratación de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos;
+l. Solicitar a las unidades administrativas competentes de la Contraloría y a las dependencias y entidades la práctica de investigaciones, para contar con elementos tendientes a dictaminar la procedencia de las quejas y denuncias y resolver los procedimientos disciplinarios que se instauren;
 
-III. Iniciar, resolver y dar por concluidos los procedimientos disciplinarios que se instauren a los servidores públicos y personas que desempeñen un empleo, cargo o comisión en las dependencias y entidades, por incumplimiento de las obligaciones previstas en la Ley de la materia y demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Solicitar información y documentación a la unidad administrativa competente y emitir observaciones a las constancias documentales que obren en el expediente técnico, cuando no se encuentren sustentadas las observaciones hechas y debidamente integradas las evidencias y pruebas que acrediten las presuntas irregularidades detectadas en las auditorías, investigaciones, visitas e inspecciones, a efecto de que sean subsanadas o se determine, en su caso, la improcedencia de iniciar un procedimiento administrativo;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Iniciar y resolver los procedimientos disciplinarios que se instauren a las personas, que en ejercicio de sus funciones como servidores públicos, desempeñen o hayan desempeñado un empleo, cargo o comisión en las dependencias y entidades, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben observar en el servicio público;
 
 IV. Designar al personal que podrá realizar las diligencias, requerimientos, citaciones y notificaciones a que haya lugar, expidiendo las constancias de identificación respectivas;
 
-V. Determinar e imponer a los servidores públicos y personas que desempeñen un empleo, cargo o comisión en las dependencias y entidades, las sanciones que competan a la Contraloría, de acuerdo a lo dispuesto en la Ley de la materia y demás disposiciones legales aplicables, cuando derivado de las quejas, denuncias, investigaciones, auditorías y acciones de fiscalización a que se refiere la propia Ley, se determinen responsabilidades administrativas y, en su caso, llevar al cabo las acciones que procedan para garantizar el cobro de las sanciones económicas que llegaren a imponerse a los servidores públicos con motivo de la infracción cometida;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Participar, en los actos de apertura de proposiciones de los procedimientos de contratación de obra pública, servicios conexos, enajenaciones, adquisiciones y prestación de servicios relacionados con bienes muebles, verificando que se cumpla con la normatividad respectiva, hacer las recomendaciones y observaciones que considere de manera fundada y motivada y comisionar al personal a su cargo para tal efecto;
+V. Imponer y ordenar la aplicación de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán a las personas que desempeñen o hayan desempeñado un empleo, cargo o comisión en la Administración Pública Estatal, aplicando la sanción en forma directa en el caso de inhabilitación temporal, cuando derivado de las quejas, denuncias, investigaciones, auditorías y acciones de fiscalización, se determinen responsabilidades administrativas dentro del procedimiento disciplinario;
 
-VII. Participar en representación de la Contraloría y conforme a su ámbito de competencia, en los comités de adquisiciones y de obra pública de las dependencias y entidades, conforme a las disposiciones legales aplicables en la materia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII. Resolver, y en su caso, imponer las sanciones económicas y administrativas, competencia de la Contraloría, que correspondan a los licitantes o licitadores, proveedores, prestadores de servicios y contratistas en los términos de las disposiciones legales en materia de obra pública y servicios conexos, así como ordenar su exclusión del registro de contratistas o padrón de proveedores correspondiente;
+VI. Participar, por sí o a través del personal adscrito o que designe, en los actos de apertura de proposiciones y en su caso, en los demás actos de los procedimientos de contratación de proyectos para la prestación de servicios, obra pública, servicios conexos, enajenaciones, adquisiciones y prestación de servicios relacionados con bienes muebles, así como de enajenaciones de bienes muebles haciendo las recomendaciones y observaciones que considere de manera fundada y motivada;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Participar en representación de la Contraloría y conforme a su ámbito de competencia, en los comités de adquisiciones y de obra pública de las dependencias y entidades, emitiendo opiniones debidamente sustentadas tendientes al cumplimiento de las disposiciones legales aplicables en la materia;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Iniciar, conocer y resolver los procedimientos, y en su caso, imponer las sanciones económicas y administrativas, competencia de la Contraloría, que correspondan a los licitantes o licitadores, proveedores, prestadores de servicios, contratistas e inversionistas proveedores en los términos de las disposiciones legales en materia de obra pública y servicios conexos y de proyectos de prestación de servicios, así como ordenar su exclusión del registro de contratistas o padrón de proveedores correspondiente;
 
 IX. Coordinar la actualización y registro de servidores públicos y el de proveedores y contratistas que hayan sido sancionados;
 
 X. Turnar a los órganos de control interno, respectivamente, las resoluciones así como los expedientes relativos a las investigaciones y auditorías que se hubieren practicado, cuando de las mismas se derivaren responsabilidades en las que aquéllos deban imponer las sanciones disciplinarias determinadas en los términos de la Ley de la materia;
 
-XI. Expedir y, en su caso, negar de manera fundada y motivada, las constancias de no inhabilitación y de compatibilidad de empleos, de conformidad con la Ley de la materia y demás disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XII. Diseñar los mecanismos, procedimientos y formatos para la recepción, control, seguimiento, análisis, investigación y resolución de las quejas y denuncias, así como las que regulen el proceso de responsabilidades de los servidores públicos del Estado de Yucatán, que se realicen en esta Secretaría, así como los que se lleven en los Órganos de Control Interno;
+XI. Expedir las constancias que acrediten la no existencia del registro de inhabilitación, o en su caso, la situación en la que se encuentren en el registro de servidores públicos sancionados las personas que pretendan desempeñar un empleo, cargo o comisión en el servicio público, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y los convenios que se celebren con la Federación, Entidades Federativas y municipios;
 
-XIII. Atender, dictaminar sobre la procedencia y resolver las quejas y denuncias, respecto a la actuación de los servidores públicos de las dependencias y entidades y de la Contraloría;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XIV. Admitir, requerir información y documentación y suscribir en representación de la Contraloría, los convenios que se celebren y dar por concluidos los procedimientos de conciliación que deriven de las quejas que los contratistas interpongan por presuntos incumplimientos en los contratos que se celebren al amparo de la Ley en materia de obra pública;
+XII. Emplear los medios de apremio establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán para el cumplimiento de sus atribuciones;
 
-XV. Admitir, requerir información, dar vista a los terceros perjudicados y resolver las inconformidades que se presenten en contra de los actos de los procedimientos de contratación en materia de obras públicas y servicios conexos, adquisiciones y arrendamientos de bienes muebles y prestación de servicios regulados por las disposiciones legales aplicables en el ámbito estatal, y previa la celebración del Convenio con la Secretaría de la Función Pública, en el ámbito de aplicación de las disposiciones legales aplicables del ámbito federal;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Dictaminar sobre la procedencia de no instaurar procedimientos disciplinarios que deriven de la remisión de auditorías, investigaciones, quejas y denuncias, respecto a la actuación de las personas que en el ejercicio de sus funciones como servidores públicos desempeñen o hayan desempeñado un empleo, cargo o comisión en las dependencias y entidades;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIV. Admitir las quejas que los contratistas interpongan por presuntos incumplimientos en los contratos que se celebren al amparo de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán, requerir información y documentación, proponer la fecha de celebración de las audiencias participando en estas, suscribir en representación de la Contraloría los convenios que se (sic) celebren las partes y dar por concluidos los procedimientos de conciliación;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XV. Admitir, requerir información, dar vista a los terceros perjudicados y resolver las inconformidades que se presenten en contra de los actos de los procedimientos de contratación en materia de proyectos de prestación de servicios, obras públicas y servicios conexos, adquisiciones y arrendamientos de bienes muebles y prestación de servicios regulados por las disposiciones legales aplicables en el ámbito estatal, y previa la celebración del Convenio con la Secretaría de la Función Pública, en el ámbito de aplicación de las disposiciones legales aplicables del ámbito federal;
 
 XVI. Promover la capacitación del personal de la Contraloría, y cuando se solicite, de las dependencias y entidades, en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios y obra pública;
 
-XVII. Fundamentar las opiniones que corresponden emitir a la Contraloría en el ámbito de su competencia, cuando se lo soliciten las unidades administrativas respectivas, en cuanto se refieran a los manuales de procedimientos que propongan los titulares de las dependencias y entidades, que tengan relación con la aplicación de recursos federales;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVII. Demandar la destitución o proceder a la suspensión respecto de servidores públicos sancionados en representación de la Contraloría cuando el superior jerárquico que debiera aplicar la sanción respectiva no lo haga;
 
 XVIII. Fijar, sistematizar, unificar, proponer y difundir los criterios de interpretación y de aplicación de las leyes y de otras disposiciones legales que le competa realizar a la Contraloría;
 
 XIX. Formular, revisar y someter a la consideración de su superior, los anteproyectos de leyes, reglamentos, decretos y acuerdos de su competencia;
 
-XX. Representar legalmente al Secretario y al Subcontralor de Programas Federales en los procedimientos administrativos y jurisdiccionales en que se requiera su intervención y que se encuentren dentro del ámbito de su competencia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXI. Asesorar jurídicamente, dentro de su ámbito de competencia, a las unidades administrativas de la Subcontraloría de Programas Federales, y actuar como órgano de consulta y realizar los estudios e investigaciones jurídicos que requiera en el ejercicio de sus facultades esta Subcontraloría;
+XX. Representar legalmente al Secretario y al Subcontralor de Programas Federales en los procedimientos administrativos y jurisdiccionales que se encuentren dentro del ámbito de competencia de esta Dirección;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXI. Asesorar y actuar como órgano consultivo jurídico de las unidades administrativas de la Subcontraloría de Programas Federales;
 
 XXII. Compilar y promover la difusión de las normas jurídicas relacionadas con las funciones de la Contraloría, Subcontraloría de Programas Federales y esta Dirección, así como de las publicaciones de su interés en el Diario Oficial de la Federación y del Diario Oficial del Gobierno del Estado de Yucatán;
 
@@ -9351,17 +9757,25 @@ XXVIII. Solicitar al juez penal correspondiente la inhabilitación de los servid
 
 XXIX. Solicitar a la autoridad competente respecto a las sanciones económicas derivadas de responsabilidades administrativas, proceda a la ejecución y embargo precautorio de los bienes de los presuntos responsables, a efecto de garantizar el cobro de la restitución de los recursos en concepto del lucro obtenido o daños y perjuicios causados;
 
-XXX. Instrumentar y suscribir los informes previos y justificados en los juicios de amparo e interponer toda clase de recursos o medios impugnativos, así como actuar en los juicios en que la Contraloría sea parte en cuanto a programas federales se refiere e intervenir en el cumplimiento de las resoluciones respectivas, en su ámbito de competencia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXX. Suscribir los informes previos y justificados, ofrecer pruebas y alegatos e interponer toda clase de recursos o medios de impugnación en los juicios de amparo en el que se le señale como autoridad responsable o en representación del Secretario de la Contraloría General y del Subcontralor de Programas Federales por actos que sean materia federal;
 
 XXXI. Coordinarse con la Procuraduría General de la República para la investigación de los delitos del orden federal que se detectaren en las acciones operativas de la Contraloría, coadyuvando en representación de la misma en los procedimientos penales, políticos y administrativos correspondientes;
 
-XXXII. Devolver el dictamen y el expediente técnico a la unidad administrativa competente, cuando no se encuentren debidamente integradas las evidencias que acrediten las presuntas irregularidades detectadas en las auditorías, visitas e inspecciones a efecto de que sean subsanadas y remitidas nuevamente o se determine lo conducente;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXXIII. Contestar informes, demandar, denunciar, querellarse, allanarse, desistirse, desahogar pruebas, interponer recursos y otorgar perdón en materia penal;
+XXXII. Brindar asesoría a los órganos de control interno, cuando lo soliciten, respecto a los aspectos legales relativos a los procedimientos de contratación de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXXIII. Contestar informes del orden jurídico, demandar, denunciar, querellarse, allanarse, desistirse, desahogar pruebas, interponer recursos y otorgar perdón en materia penal por actos cometidos por personas o servidores públicos que administren, apliquen o sean beneficiados en forma indebida con recursos federales;
 
 XXXIV. Intervenir con el carácter de tercero perjudicado y de los recursos y demás medios de impugnación que procedan;
 
-XXXV. Contestar demandas, realizar promociones de trámite, rendir pruebas y alegatos, promover recursos dentro de los juicios contenciosos administrativos, civiles, laborales y mercantiles en que la Contraloría sea parte;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXXV. Contestar demandas, realizar promociones de trámite, rendir pruebas y alegatos, promover recursos e incidentes dentro de los juicios contenciosos administrativos que se promuevan en contra de actos emitidos por esta Dirección y por las resoluciones de recursos de revocación que resuelva el Secretario promovidos en contra de los referidos actos o que tengan relación con la Subcontraloría de Programas Federales, y
 
 XXXVI. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
@@ -9369,31 +9783,53 @@ XXXVI. Las demás que le confieran este Reglamento y otras disposiciones legales
 
 Al Jefe de Normatividad en Obras Públicas y Adquisiciones le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Director de Normatividad, Quejas y Responsabilidades, lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría en el ámbito de su competencia de conformidad a las disposiciones que le confieren la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles; la Ley de Obra Pública y Servicios Conexos; el Presupuesto de Egresos del Gobierno del Estado, todos de esta Entidad Federativa y otras disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-II. Proponer al Director de Normatividad, Quejas y Responsabilidades, los criterios de interpretación que para efectos administrativos corresponda de las Leyes de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con bienes muebles y de Obra Pública y Servicios Conexos del Estado de Yucatán; asesorar, capacitar y dar orientación a los servidores públicos de las dependencias y entidades y unidades administrativas de la Contraloría; así como recibir y compilar la información que dichas dependencias y entidades deban remitir a la Contraloría en esas materias, en los términos de las normas vigentes;
+I. Proponer al Director de Normatividad y Responsabilidades, lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría en el ámbito de su competencia de conformidad a las disposiciones que le confieren la Ley de Proyectos Para la Prestación de Servicios, Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles; la Ley de Obra Pública y Servicios Conexos; el Presupuesto de Egresos del Gobierno del Estado, vigentes en el Estado y otras disposiciones legales aplicables;
 
-III. Proponer al Director de Normatividad, Quejas y Responsabilidades, la forma y términos en el que las dependencias y entidades de la Administración Pública Estatal, deban remitir la información relativa a los procedimientos de adquisiciones y obra pública, en los términos de las normas aplicables;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Proponer al Director de Normatividad y Responsabilidades, los criterios de interpretación que para efectos administrativos corresponda de las Leyes de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con bienes muebles, de Obra Pública y Servicios Conexos del Estado de Yucatán y de Proyectos Para la Prestación de Servicios; asesorar, capacitar y dar orientación a los servidores públicos de las dependencias y entidades y unidades administrativas de la Contraloría; así como recibir y compilar la información que dichas dependencias y entidades deban remitir a la Contraloría en esas materias, en los términos de las normas vigentes;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Proponer al Director de Normatividad y Responsabilidades, la forma y términos en el que las dependencias y entidades de la Administración Pública Estatal, deban remitir la información relativa a los procedimientos de contratación de adquisiciones, arrendamientos y servicios, obra pública y de proyectos para la prestación de servicios, en los términos de las normas aplicables;
 
 IV. Ejercer las atribuciones que la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, confieren a la Secretaría de la Función Pública, previa formalización que se haga del convenio respectivo, y que no le estén expresamente asignadas a otra unidad administrativa;
 
-V. Someter a consideración del Director de Normatividad, Quejas y responsabilidades, en el ámbito de su competencia, la conveniencia de solicitar la práctica de investigaciones, visitas e inspecciones, respecto de la conducta de servidores públicos de la Contraloría y de las dependencias y entidades, que pudieran implicar inobservancia de las obligaciones previstas en las disposiciones legales aplicables en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obra pública y servicios conexos;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Previo acuerdo con el Director de Normatividad, Quejas y Responsabilidades, remitir a la Jefatura de Quejas y Responsabilidades, la documentación e información que conozca en el desempeño de sus funciones y que pudiere implicar una presunta responsabilidad de quienes desempeñen un empleo, cargo o comisión en la Administración Pública Estatal, en las materias de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos;
+V. Someter a consideración del Director de Normatividad y Responsabilidades, en el ámbito de su competencia, la conveniencia de solicitar la práctica de investigaciones, visitas e inspecciones, respecto de la conducta de servidores públicos de la Contraloría y de las dependencias y entidades, que pudieran implicar inobservancia de las obligaciones previstas en las disposiciones legales aplicables en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obra pública y servicios conexos y de proyectos para la prestación de servicios;
 
-VII. Representar a la Contraloría, en los actos de los procedimientos de contratación por licitación pública e invitación a cuando menos tres personas en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obras públicas y servicios conexos, así como de enajenaciones de bienes muebles; y en los comités que se establezcan en las dependencias y entidades de la Administración Pública Estatal y comisionar al personal para tal efecto;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII. Emitir recomendaciones a quienes presidan los actos de los procedimientos de contratación por licitación pública e invitación, así como a los titulares de las dependencias y entidades en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obras públicas y servicios conexos que realicen;
+VI. Previo acuerdo con el Director de Normatividad y Responsabilidades, proponer la procedencia de solicitar a las unidades administrativas de la Contraloría que lleven a cabo auditorías e investigaciones, o en su caso, remitir a la Jefatura de Quejas y Responsabilidades, la documentación e información que conozca en el desempeño de sus funciones y que pudiere implicar una presunta responsabilidad de quienes desempeñen un empleo, cargo o comisión en la Administración Pública Estatal, en las materias de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos y de proyectos para la prestación de servicios;
 
-IX. Compilar, clasificar y sistematizar las leyes, jurisprudencias, reglamentos, acuerdos y demás normas que se relacionen con el funcionamiento y atribuciones de la Contraloría a efecto de divulgar los criterios de interpretación y de emitir lineamientos que normen el régimen jurídico de la misma;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-X. Participar en el trámite de las inconformidades que presenten los participantes en contra de los actos realizados en cualquier etapa o fase de los procedimientos de contratación en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, así como de obra pública y servicios conexos, llevando las diligencias, requerimientos, citaciones y notificaciones a que haya lugar, emitiendo las directrices necesarias para reponer actuaciones irregulares cuando así proceda;
+VII. Representar a la Contraloría, en los actos de los procedimientos de contratación por licitación pública e invitación a cuando menos tres personas en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obras públicas y servicios conexos, y de proyectos para la prestación de servicios, así como de enajenaciones de bienes muebles; y en los comités que se establezcan en las dependencias y entidades de la Administración Pública Estatal y comisionar al personal para tal efecto;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Emitir recomendaciones a quienes presidan los actos de los procedimientos de contratación por licitación pública e invitación, en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obras públicas y servicios conexos, de proyectos para la prestación de servicios y de enajenación de bienes muebles, que realicen las dependencias y entidades y proponer las opiniones que por escrito emita la Contraloría;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Compilar, clasificar y sistematizar las leyes, jurisprudencias, reglamentos, acuerdos y demás normas que se relacionen con las materias de obras públicas, servicios conexos y adquisiciones y arrendamientos de bienes muebles y prestación de servicios, a efecto de divulgar los criterios de interpretación y de emitir lineamientos que normen el régimen jurídico de la misma;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+X. Emitir opiniones cuando así se le solicite para resolver las inconformidades que presenten los participantes en contra de los actos realizados en cualquier etapa o fase de los procedimientos de contratación en materia de proyectos para la prestación de servicios, adquisiciones y arrendamientos de bienes muebles y prestación de servicios, así como de obra pública y servicios conexos;
 
 XI. Emitir recomendaciones a la Oficialía Mayor y a la Secretaría de Obras Públicas, respecto al cumplimiento de las disposiciones legales y normativas relacionadas con el padrón de proveedores y registro de contratistas;
 
-XII. Darle trámite a las quejas que promuevan los contratistas y llevar, por sí o por conducto de los Órganos de Control Interno, las audiencias del procedimiento de conciliación previsto en la Ley en materia de Obra Pública, así como de presuntos incumplimientos por parte de las dependencias y entidades a los contratos celebrados;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XIII. Llevar a cabo la capacitación jurídica en materia de obra pública, servicios conexos; adquisiciones y arrendamientos de bienes muebles, así como en la prestación de servicios, y
+XII. Proponer cuando así se le solicite opiniones relacionadas con casos concretos que se susciten en los procedimientos de conciliación previsto en la Ley en materia de Obra Pública, así como de presuntos incumplimientos por parte de las dependencias y entidades, así como de licitantes, proveedores, contratistas e inversionistas proveedores a los compromisos adquiridos tanto en los procedimientos de contratación, como de los contratos celebrados por las dependencias y entidades;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Proponer proyectos de iniciativas de reformas a la Leyes de Proyectos para la Prestación de Servicios, de Obra Pública y Servicios Conexos, y de Adquisiciones arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, de reglamentos en estas materias, así como de lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría, y
 
 XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
@@ -9401,39 +9837,59 @@ XIV. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 Al Jefe de Quejas y Responsabilidades le corresponde el despacho de los siguientes asuntos:
 
-I. Tramitar los procedimientos disciplinarios derivados de las quejas y denuncias e investigaciones formuladas con motivo del incumplimiento de las obligaciones de los servidores públicos de las dependencias y entidades, o en virtud de irregularidades detectadas durante las acciones de auditoría y fiscalización, llevando las diligencias, requerimientos, citaciones y notificaciones a que haya lugar y actuar igualmente en los procedimientos que por acuerdo de atracción determine, deba conocer directamente en los términos de la Ley en materia de responsabilidades de los servidores públicos;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-II. Citar al presunto responsable dentro del procedimiento disciplinario a que se refiere la Ley en materia de responsabilidades de los servidores públicos, para que manifieste lo que a su derecho convenga;
+I. Tramitar los procedimientos disciplinarios derivados de las quejas y denuncias, auditorías e investigaciones formuladas con motivo del incumplimiento de las obligaciones de las personas, que en ejercicio de sus funciones como servidores públicos desempeñen un empleo, cargo o comisión en las dependencias y entidades, llevando las diligencias, requerimientos, citaciones y notificaciones a que haya lugar;
 
-III. Citar al denunciante o al quejoso para la ratificación de la denuncia o la queja presentada en contra de servidores públicos por presuntas violaciones a lo dispuesto en la Ley de la materia, así como verificar la veracidad de dicha queja o denuncia;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Citar al presunto responsable dentro del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, para que manifieste lo que a su derecho convenga y presente pruebas y alegatos;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Llevar a cabo el análisis y valoración de las observaciones y evidencias que obren en los expedientes formados con motivo de las quejas y denuncias, investigaciones y auditorías, así como la admisión y valoración de los argumentos y pruebas presentados por las personas sujetas a procedimientos disciplinarios;
 
 IV. Solicitar información y documentación a las unidades administrativas de la Contraloría, a las dependencias y entidades relacionadas con las investigaciones, quejas, denuncias y auditorías respecto a la conducta de servidores públicos;
 
-V. Proponer al Director de Normatividad, Quejas y Responsabilidades el acuerdo de inicio del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Proponer al Director de Normatividad, Quejas y Responsabilidades los dictámenes sobre la procedencia de iniciar los procedimientos disciplinarios que deriven de las quejas, denuncias, investigaciones y auditorías;
+V. Proponer al Director de Normatividad y Responsabilidades el acuerdo de inicio y la resolución del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Proponer al Director de Normatividad y Responsabilidades los dictámenes sobre la procedencia de no iniciar los procedimientos disciplinarios que deriven de las quejas, denuncias, investigaciones y auditorías;
 
 VII. Levantar y suscribir las actas administrativas relativas al desahogo de las audiencias a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, así como las relativas a las comparecencias que hagan los presuntos responsables en el procedimiento disciplinario a que se refiere la citada ley;
 
-VIII. Emitir los acuerdos que decidan cualquier trámite dentro del procedimiento disciplinario y llevar a cabo, con el auxilio del personal adscrito debidamente acreditado, las actuaciones, diligencias y notificaciones que requiera la instrucción de los procedimientos de conformidad a la ley en materia de responsabilidades de los servidores públicos;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Emitir los acuerdos que decidan cualquier trámite dentro del procedimiento disciplinario y llevar a cabo, con el auxilio del personal adscrito debidamente acreditado, las actuaciones, diligencias y notificaciones que requiera la instrucción de los procedimientos de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
 
 IX. Disponer dentro del procedimiento disciplinario la práctica de investigaciones y citar a otra u otras audiencias cuando no se cuente con elementos suficientes para proponer la resolución respectiva;
 
-X. Proponer a su superior, la suspensión temporal a los presuntos responsables, de sus cargos, empleos o comisiones, en los términos de la Ley de la materia, si de las constancias se desprenden elementos que hagan necesaria esta medida y si así conviene para la conducción o continuación de las investigaciones dentro del procedimiento disciplinario;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XI. Elaborar los proyectos de resolución y proponer, en su caso, la imposición de sanciones administrativas a servidores públicos de las dependencias y entidades, incluida esta Secretaría, por incumplimiento de las obligaciones a que se refiere la Ley de la materia, y emitida la resolución correspondiente notificarla a los interesados por sí o por conducto del personal adscrito debidamente designado y acreditado;
+X. Proponer a su superior, la suspensión temporal a los presuntos responsables, de sus cargos, empleos o comisiones, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, si de las constancias se desprenden elementos que hagan necesaria esta medida y si así conviene para la conducción o continuación de las investigaciones dentro del procedimiento disciplinario;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XI. Elaborar los proyectos de resolución y proponer, en su caso, la imposición de sanciones administrativas a servidores públicos de las dependencias y entidades, incluida esta Secretaría, por incumplimiento de las obligaciones a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, y emitida la resolución correspondiente notificarla a los interesados por sí o por conducto del personal adscrito debidamente designado y acreditado;
 
 XII. Llevar, controlar, coordinar, vigilar, actualizar y supervisar el Registro de Servidores Públicos Sancionados, así como expedir las constancias de inhabilitación o de no inhabilitación, y de antecedentes sancionatorios;
 
 XIII. Promover la celebración o actualización de los convenios con los municipios en materia de registro de servidores públicos sancionados y llevar a cabo acciones para promover el intercambio de información en esa materia con el Gobierno Federal, o con los otros poderes del Estado;
 
-XIV. De manera coordinada con la unidad administrativa que determine su superior o el Secretario, ordenar las investigaciones, visitas de inspección y auditorías que de acuerdo con la Ley de la materia procedan, en relación con las quejas y denuncias que se presenten contra los servidores públicos a fin de allegarse los elementos necesarios para la determinación de responsabilidades;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIV. De manera coordinada con la unidad administrativa que determine su superior o el Secretario, solicitar las investigaciones, visitas de inspección periciales y auditorías a fin de allegarse los elementos necesarios para la determinación de responsabilidades;
 
 XV. Establecer programas preventivos en materia de responsabilidades de los servidores públicos y emitir reglas que orienten el debido desempeño de los mismos, a fin de propiciar una plena vocación del servicio público en beneficio de la colectividad, asesorar y conocer sobre las acciones específicas que en dicha materia establezcan las dependencias y entidades;
 
 XVI. Solicitar, dentro del ámbito de su competencia, a las áreas competentes de auditoría de esta Secretaría, previo acuerdo de su superior jerárquico, informes, auditorías, dictámenes y demás documentación que requiera cuando sea necesario para la resolución de una queja o denuncia que conozca contra algún servidor público;
 
-XVII. Proponer al Director de Normatividad, Quejas y Responsabilidades la devolución del dictamen y el expediente técnico a la unidad administrativa competente, cuando no se encuentren debidamente integradas las evidencias que acrediten las presuntas irregularidades detectadas en las auditorías, visitas e inspecciones a efecto de que sean subsanadas y remitidas nuevamente o se determine lo conducente, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVII. Proponer al Director de Normatividad y Responsabilidades la necesidad de solicitar información y documentación, o en su caso, las observaciones a las constancias documentales que obren en el expediente técnico a la unidad administrativa competente, cuando no se encuentren debidamente integradas las evidencias que acrediten las presuntas irregularidades detectadas en las auditorías, visitas e inspecciones a efecto de que sean subsanadas o se determine la improcedencia de iniciar el procedimiento disciplinario, y
 
 XVIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
@@ -9459,37 +9915,89 @@ I. Apoyar y asesorar jurídicamente en materia penal a las áreas de auditoría 
 
 II. Analizar y estudiar las observaciones que arrojen cada uno de los procesos de revisión y auditoría, llevados a cabo por las áreas de auditoría de la Subcontraloría de Programas Federales, emitiendo los criterios para la implementación de las acciones legales correspondientes que pueden derivar en responsabilidad penal;
 
-III. Elaborar los proyectos de denuncia de los actos de servidores y ex servidores públicos, que pudieran ser de carácter delictivo, que se deriven de los resultados y observaciones de las auditorías, de las investigaciones administrativas, de los procedimientos de responsabilidades de tipo administrativo o de cualquier otra índole, que sean competencia de la Dirección de Normatividad, Quejas y Responsabilidades;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IV. Brindar apoyo al Director de Normatividad, Quejas y Responsabilidades, para su presentación ante la autoridad ministerial investigadora del fuero federal, coadyuvando con esta autoridad para la debida integración y seguimiento de la averiguación previa respectiva, hasta su consignación ante la autoridad judicial correspondiente;
+III. Elaborar los proyectos de denuncias y querellas por los actos de servidores y ex servidores públicos, que pudieran ser de carácter delictivo, que se deriven de los resultados y observaciones de las auditorías e investigaciones administrativas relacionadas con la aplicación de recursos federales;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Representar a la Contraloría ante la autoridad ministerial investigadora del fuero federal, coadyuvando con esta autoridad para la debida integración y seguimiento de la averiguación previa respectiva, hasta su consignación ante la autoridad judicial correspondiente;
 
 V. Dar seguimiento a las causas penales que se hubieren iniciado; promover la coadyuvancia ante la autoridad judicial competente, así como realizar todas las diligencias y actuaciones que se requieran dentro de la Averiguación Previa o el Proceso Judicial, en el ámbito de su competencia;
 
-VI. Proponer al Director de Normatividad, Quejas y Responsabilidades la aplicación de la inhabilitación de servidores públicos prevista en el ámbito penal en contra de los que resultaren penalmente responsables;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VII. Llevar a cabo las acciones de coordinación con el personal de la Secretaría de la Función Pública y de la Auditoría Superior de la Federación, en términos del convenio de coordinación federación-estado, en lo concerniente a responsabilidades de servidores y ex servidores públicos que pudieran ser sujetos a sanciones penales;
+VI. Demandar la destitución en representación de la Contraloría y participar en las audiencias que se realicen ofreciendo pruebas y alegatos y proceder a la suspensión respecto de servidores públicos sancionados cuando el superior jerárquico no lo haga;
 
-VIII. Estar a disposición del Director de Normatividad, Quejas y Responsabilidades, y de la Subcontraloría de Programas Federales, para dar seguimiento de cualquier asunto contencioso que sea competencia de éstos, en términos de las funciones y atribuciones que establece este Reglamento;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IX. Asesorar a las áreas de la Subcontraloría de Programas Federales en relación a aspectos de carácter legal, normativo y en su caso, de tipo contencioso;
+VII. Llevar a cabo las acciones de coordinación con el personal de la Secretaría de la Función Pública y de la Auditoría Superior de la Federación, en términos del convenio que se celebre en lo concerniente a responsabilidades de servidores y ex servidores públicos que pudieran ser sujetos a sanciones penales;
 
-X. Proponer al Director de Normatividad, Quejas y Responsabilidades, los proyectos de: contestación, los informes, las demandas, denuncias, querellas, allanarse, desistirse, desahogar pruebas, interponer recursos y otorgar perdón;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XI. Elaborar y proponer los informes previos y justificados que en los juicios de amparo deba rendir la Contraloría o sus áreas administrativas que sean señalados como autoridades responsables;
+VIII. Dar seguimiento de cualquier asunto contencioso que sea competencia de la Subcontraloría de Programas Federales y de la Dirección de Normatividad y Responsabilidades, en términos de las funciones y atribuciones que establece este Reglamento y las demás disposiciones jurídicas aplicables;
 
-XII. Elaborar y proponer las promociones en las que la Contraloría deba intervenir con el carácter de tercero perjudicado y de los recursos y demás medios de impugnación que procedan;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XIII. Proponer al Director de Normatividad, Quejas y Responsabilidades los escritos de requerimientos de información que se lleven a cabo para atender asuntos contenciosos;
+IX. Asesorar a las áreas adscritas a la Subcontraloría de Programas Federales en relación a aspectos de tipo contencioso de su competencia;
 
-XIV. Elaborar y proponer las contestaciones de demandas, las promociones de trámite, para rendir pruebas y alegatos y de promoción de recursos dentro de los juicios contenciosos administrativos, civiles, laborales y mercantiles en que la Contraloría sea parte;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XV. Llevar a cabo e instruir los procedimientos y proponer al Director de Normatividad, Quejas y Responsabilidades las sanciones que procedan a los licitantes, licitadores, proveedores, prestadores de servicio y contratistas que infrinjan las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, o que no solventen las observaciones formuladas dentro del término conferido por la Contraloría o sus unidades administrativas;
+X. Elaborar los proyectos de contestación, informes, las demandas, denuncias, querellas, y demás promociones y representar a la Contraloría para allanarse, desistirse, ofrecer y desahogar pruebas, manifestar alegatos, interponer recursos y otorgar perdón en los asuntos de orden contencioso que sean competencia de la Dirección de Normatividad y Responsabilidades;
 
-XVI. Recibir, tramitar y proponer los acuerdos y resoluciones de las inconformidades que presenten los participantes en contra de los actos realizados en cualquier etapa o fase de los procedimientos de contratación en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, así como de obra pública y servicios conexos, llevando las diligencias, requerimientos, citaciones y notificaciones a que haya lugar, emitiendo las directrices necesarias para reponer actuaciones irregulares cuando así procedan;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVII. Instruir, los recursos de revocación que interpongan los servidores públicos de las dependencias, entidades y esta Contraloría, en contra de las resoluciones que afecten a los mismos, así como proponer los proyectos de resolución a dichos recursos, y
+XI. Elaborar y suscribir en representación de la Contraloría los informes previos y justificados que en los juicios de amparo que (sic) sean competencia de las unidades administrativas de la Subcontraloría de Programas Federales;
 
-XVIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Elaborar y suscribir en representación de la Dirección de Normatividad y Responsabilidades y del Secretario las alegaciones en las que la Contraloría deba intervenir con el carácter de tercero perjudicado en los juicios contenciosos y de amparo y de los recursos y demás medios de impugnación que procedan dentro del ámbito de competencia de los actos que emita la propia Dirección;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Proponer al Director de Normatividad y Responsabilidades los escritos de requerimientos de información que se lleven a cabo para atender asuntos contenciosos;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIV. Instruir, los recursos de revocación que interpongan los servidores públicos de las dependencias, entidades y esta Contraloría, en contra de las resoluciones emitidas por la Dirección de Normatividad y Responsabilidades, así como proponer los proyectos de resolución a dichos recursos; y
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+XVI. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+
+XVII. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+
+XVIII. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 537 Bis.
+
+Al Jefe de Inconformidades, Sanciones y Conciliación le corresponde el despacho de los siguientes asuntos:
+
+l. Instruir y suscribir los acuerdos de trámite de los mismos de los procedimientos administrativos de imposición de las sanciones a los licitantes, licitadores, proveedores, prestadores de servicio y contratistas que infrinjan las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
+
+II. Solicitar a los licitantes o licitadores, proveedores, contratistas e inversionistas proveedores los datos e informes relacionados con los procedimientos de contratación y cumplimiento de los contratos y pedidos que se celebren;
+
+III. Llevar a cabo las visitas e inspecciones que estime pertinente a contratistas por si o en coordinación con personal de la Contraloría para verificar el cumplimiento de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
+
+IV. Analizar y proponer al Director de Normatividad y Responsabilidades la procedencia de solicitar a las autoridades competentes la suspensión o cancelación del registro de contratistas o padrón de proveedores de bienes y servicios, llevando a cabo la tramitación respectiva en representación de la Contraloría;
+
+V. Recibir las promociones, de las inconformidades que presenten los participantes en contra de los actos realizados en cualquier etapa o fase de los procedimientos de contratación en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, de obra pública y servicios conexos y de proyectos de prestación de servicios admitiendo los procedimientos y las pruebas que se ofrezcan y llevando a cabo las diligencias, requerimientos, citaciones y notificaciones a que haya lugar para su substanciación, emitiendo las directrices necesarias para reponer actuaciones irregulares cuando así procedan;
+
+VI. Proponer al Director de Normatividad y Responsabilidades la resolución de las inconformidades para su firma;
+
+VII. Elaborar y proponer al Director de Normatividad y Responsabilidades las contestaciones de demanda de los juicios contenciosos y los informes y escritos de comparecencia para formular alegatos que deriven de los procedimientos de imposición de sanciones a licitantes, proveedores y contratistas, así como de las inconformidades que se promuevan al amparo de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Proyectos para la Prestación de Servicios;
+
+VIII. Substanciar los procedimientos de conciliación que promuevan los contratistas al amparo de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y de la y (sic) actuar en representación de la Contraloría en las audiencias que se celebren, haciendo las citaciones y requiriendo la información y documentación necesaria;
+
+IX. Solicitar cuando así lo requiera o considere a la Jefatura de Normatividad en Obras Públicas y Adquisiciones la opinión de los asuntos que se sometan en los procedimientos de conciliación a que se hace referencia en el párrafo anterior;
+
+X. Elaborar los proyectos de convenios que serán puestos a disposición de las partes en los procedimientos de conciliación y proponer la conclusión de los mismos, y
+
+XI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 538.
 
@@ -10057,9 +10565,17 @@ XXXI. Establecer, controlar y evaluar el Programa Interno de Protección Civil p
 
 XXXII. Promover el establecimiento de prácticas administrativas que contribuyan a mejorar la calidad de los procesos y servicios de las unidades administrativas de la Contraloría y de sus órganos desconcentrados;
 
-XXXIII. Designar al servidor público, encargado provisionalmente del despacho de los asuntos, en el caso de vacantes de los titulares de las unidades administrativas adscritas a su competencia, y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXXIV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XXXIII. Designar al servidor público, encargado provisionalmente del despacho de los asuntos, en el caso de vacantes de los titulares de las unidades administrativas adscritas a su competencia;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXXIV. Administrar los medios de difusión y comunicación electrónica en términos de lo dispuesto en la Ley de Obra Pública y Servicios Conexos del Estado Yucatán (sic), y
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXXV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 550.
 
@@ -10103,7 +10619,9 @@ VII. Las demás que le confieran este Reglamento y otras disposiciones legales a
 
 Al Director General de la Unidad de Acceso a la Información Pública del Poder Ejecutivo del Estado le corresponde el despacho de los asuntos que le encomiendan la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, su Reglamento, el Decreto de Creación de la Unidad, este Reglamento y otras disposiciones legales aplicables.
 
-## TÍTULO XIX. COORIDINACIÓN (SIC) GENERAL DE COMUNICACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO XIX. COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones de la Coordinación General de Comunicación Social
 
@@ -10277,13 +10795,41 @@ IV. Las demás que le confieran este Reglamento y otras disposiciones legales ap
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones De la Secretaría del Trabajo y Previsión Social
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
-
 ###### Artículo 562 Bis.
+
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+###### Artículo 562 Ter.
+
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+###### Artículo 562 Quáter.
+
+(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Quintus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Sextus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Séptimus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Octavus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Novenus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Décimus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Undécimus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+Artículo 562 Duodécimus. (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 563.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría del Trabajo y Previsión Social contará con la siguiente estructura administrativa:
 
-I. Unidad de Administración y Finanzas;
+l. Unidad de Administración y Finanzas;
 
 II. Unidad de Previsión Social;
 
@@ -10301,13 +10847,13 @@ a) Servicio Nacional de Empleo, Yucatán, y
 
 b) Junta Local de Conciliación y Arbitraje.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 562 Ter.
+###### Artículo 564.
 
 Los titulares de las unidades de la Secretaría, en lo general, tendrán las facultades y obligaciones siguientes:
 
-I. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, así como los que le encomiende el Titular;
+l. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, así como los que le encomiende el Titular;
 
 II. Expedir, conforme a las políticas establecidas por el Titular, certificaciones de constancias que obren en los expedientes relativos a los asuntos de su competencia;
 
@@ -10331,15 +10877,15 @@ XI. Participar en la integración de la cuenta pública e informe de gobierno, a
 
 XII. Las demás que le señalen este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 562 Quáter.
+###### Artículo 565.
 
 El Secretario tendrá las siguientes facultades y obligaciones:
 
 I. Dirigir y coordinar la instalación y funcionamiento de las comisiones que se formen para regular las relaciones obrero patronales, así como vigilar su funcionamiento, en los términos establecidos por la legislación aplicable;
 
-II. Conducir las relaciones del Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje y con el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado;
+II. Conducir las relaciones del Ejecutivo del Estado con la Junta Local de Conciliación y Arbitraje;
 
 III. Conocer y someter a la consideración del Titular del Poder Ejecutivo del Estado, los programas estatales de empleo, capacitación, productividad y competitividad, y disponer lo necesario para su cumplimiento;
 
@@ -10365,11 +10911,13 @@ XIII. Desempeñar las comisiones y funciones que el Gobernador del Estado le con
 
 XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Artículo 562 Quintus. Al Titular de la Unidad de Administración y Finanzas le corresponde el despacho de los siguientes asuntos:
+###### Artículo 566.
 
-I. Programar, organizar y controlar el suministro y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría;
+Al Titular de la Unidad de Administración y Finanzas le corresponde el despacho de los siguientes asuntos:
+
+l. Programar, organizar y controlar el suministro y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría;
 
 II. Integrar, en coordinación con las demás unidades administrativas, los anteproyectos de presupuesto de ingresos y egresos de la Secretaría y someterlos a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado;
 
@@ -10397,11 +10945,13 @@ XIII. Integrar y mantener actualizados, con la participación de las demás unid
 
 XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Artículo 562 Sextus. Al Titular de la Unidad de Previsión Social le corresponde el despacho de los siguientes asuntos:
+###### Artículo 567.
 
-I. Promover, en el Estado, acciones para el bienestar físico, social y cultural de los trabajadores y sus familias, en los renglones de orientación ocupacional, y recreación, cultura y deporte, de acuerdo a los lineamientos establecidos en materia de previsión social en la legislación aplicable;
+Al Titular de la Unidad de Previsión Social le corresponde el despacho de los siguientes asuntos:
+
+l. Promover, en el Estado, acciones para el bienestar físico, social y cultural de los trabajadores y sus familias, en los renglones de orientación ocupacional, y recreación, cultura y deporte, de acuerdo a los lineamientos establecidos en materia de previsión social en la legislación aplicable;
 
 II. Colaborar con las autoridades federales competentes, en materia de previsión social, de acuerdo a las disposiciones legales y al convenio de colaboración que, en su caso, se suscriba;
 
@@ -10427,9 +10977,11 @@ XII. Recibir y turnar a la Delegación Federal del Trabajo la documentación rel
 
 XIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Artículo 562 Séptimus. Al Titular de la Unidad Jurídica y de Inspección del Trabajo le corresponde el despacho de los siguientes asuntos:
+###### Artículo 568.
+
+Al Titular de la Unidad Jurídica y de Inspección del Trabajo le corresponde el despacho de los siguientes asuntos:
 
 I. Acordar con el Secretario y mantenerlo permanentemente informado de los asuntos que por disposición legal le correspondan, así como del desempeño de las comisiones y funciones especiales que le confieran;
 
@@ -10437,9 +10989,9 @@ II. Otorgar, conforme a lo dispuesto en la legislación aplicable, autorizacione
 
 a) El certificado médico de aptitud física para el trabajo u ocupación;
 
-b) La solicitud de practica de exámenes médicos periódicos, y
+b) La solicitud de práctica de exámenes médicos periódicos, y
 
-c) La constancia de estudios;
+c) La constancia de estudios.
 
 III. Elaborar los proyectos de creación, modificación o desaparición de unidades administrativas de la Secretaría;
 
@@ -10455,9 +11007,11 @@ VIII. Poner en conocimiento de la Unidad de Previsión Social las necesidades ob
 
 IX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Artículo 562 Octavus. Al Titular de la Unidad Estadística Laboral e Informática le corresponde el despacho de los siguientes asuntos:
+###### Artículo 569.
+
+Al Titular de la Unidad Estadística (sic) Laboral e Informática le corresponde el despacho de los siguientes asuntos:
 
 I. Actualizar permanentemente la información estadística que le competa a la Secretaría;
 
@@ -10487,11 +11041,13 @@ XIII. Proponer las modificaciones en materia de informática que procuren el inc
 
 XIV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Artículo 562 Novenus. Al Titular de la Unidad de Empleo y Productividad Laboral le corresponde el despacho de los siguientes asuntos:
+###### Artículo 570.
 
-I. Investigar, desarrollar y divulgar métodos, técnicas y sistemas dirigidos al examen, diagnóstico y mejoramiento de los niveles de calidad y productividad de los centros de trabajo;
+Al Titular de la Unidad de Empleo y Productividad Laboral le corresponde el despacho de los siguientes asuntos:
+
+l. Investigar, desarrollar y divulgar métodos, técnicas y sistemas dirigidos al examen, diagnóstico y mejoramiento de los niveles de calidad y productividad de los centros de trabajo;
 
 II. Coadyuvar con las demás unidades de la Secretaría en el diseño, promoción e instrumentación de cursos y programas dirigidos a la formación especializada de recursos humanos para la organización y ejecución del proceso capacitador y para el mejoramiento de la calidad y productividad de los centros de trabajo;
 
@@ -10505,7 +11061,7 @@ VI. Compilar, difundir y promover las mejores prácticas del programa en materia
 
 VII. Fomentar la colaboración con instituciones de educación superior, organismos y entidades de los sectores público, privado y social, para el análisis y estudio de temas laborales de interés general, con el fin de fomentar la productividad, la innovación laboral, la calidad y el empleo;
 
-VIII. Promover y dar seguimiento a los acuerdos generados a través de las instancias de dialogo y concertación con los sectores productivos, para fomentar el empleo, la productividad y la innovación laboral;
+VIII. Promover y dar seguimiento a los acuerdos generados a través de las instancias de diálogo y concertación con los sectores productivos, para fomentar el empleo, la productividad y la innovación laboral;
 
 IX. Coadyuvar con las demás unidades de la Secretaría en la modernización de las organizaciones sindicales, a través del desarrollo y ejecución de programas de formación sindical que promuevan la nueva cultura laboral y propicien la productividad y la competitividad;
 
@@ -10525,7 +11081,7 @@ XVI. Identificar perfiles de capacidad laboral para diseñar, promover, instrume
 
 XVII. Diseñar, promover, instrumentar, impartir, evaluar y dar seguimiento a cursos y programas dirigidos a la formación especializada de instructores para la organización y ejecución de procesos de capacitación y adiestramiento en las empresas;
 
-XVIII. Desarrollar políticas públicas orientadas a mejorar las relaciones y ambiente aborales, a través del diseño, promoción y difusión de modelos y programas de innovación laboral y someterlas a consideración del Secretario;
+XVIII. Desarrollar políticas públicas orientadas a mejorar las relaciones y ambiente laborales, a través del diseño, promoción y difusión de modelos y programas de innovación laboral y someterlas a consideración del Secretario;
 
 XIX. Elaborar y promover estrategias para apoyar al sector productivo en su organización interna, procesos y en el desarrollo del capital humano;
 
@@ -10537,17 +11093,23 @@ XXII. Dar seguimiento a las acciones de vinculación educación-empresa, a fin d
 
 XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Artículo 562 Décimus. La Junta Local de Conciliación y Arbitraje del Estado y el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, dependerán administrativamente de la Secretaría, sin perjuicio de su autonomía jurisdiccional y tendrán las atribuciones que les confieren la Ley Federal del Trabajo y la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán, respectivamente, y demás disposiciones legales aplicables.
+###### Artículo 571.
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+La Junta Local de Conciliación y Arbitraje del Estado, dependerá administrativamente de la Secretaría, sin perjuicio de su autonomía jurisdiccional y tendrán las atribuciones que les confieren la Ley Federal del Trabajo y demás disposiciones legales aplicables.
 
-Artículo 562 Undécimus. El Servicio Nacional de Empleo, Yucatán, tendrá las atribuciones que le confiere su Decreto de creación y las que establezcan otras disposiciones legales aplicables, en los términos que le señalen el Titular de la Secretaría, con base en el Código de la Administración Pública de Yucatán. Su Titular dependerá administrativamente del Secretario.
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, D.O. 23 DE FEBRERO DE 2009)</small>
+###### Artículo 572.
 
-Artículo 562 Duodécimus. A la Procuraduría Local de la Defensa del Trabajo le corresponde el despacho de los siguientes asuntos:
+El Servicio Nacional de Empleo, Yucatán, tendrá las atribuciones que le confieren su Decreto de creación y las que establezcan otras disposiciones legales aplicables, en los términos que le señalen el Titular de la Secretaría, con base en el Código de la Administración Pública de Yucatán. Su Titular dependerá administrativamente del Secretario.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 573.
+
+A la Procuraduría Local de la Defensa del Trabajo le corresponde el despacho de los siguientes asuntos:
 
 I. Conciliar los intereses de las partes obrera y patronal en las juntas de avenio que se realicen fuera de proceso, de las que deberá levantar actas que serán suscritas por los interesados;
 
@@ -10557,33 +11119,771 @@ III. Interponer los recursos ordinarios y extraordinarios procedentes para la de
 
 IV. Las demás que le confieran la Ley Federal del Trabajo, y otras disposiciones normativas aplicables.
 
-###### Artículo 563.
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO XXI. SECRETARÍA DE LA CULTURA Y LAS ARTES
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO I. De la organización, facultades y obligaciones del personal de la Secretaría de la Cultura y las Artes
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 574.
+
+Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría de la Cultura y las Artes contará con la siguiente estructura:
+
+I. Despacho del Secretario:
+
+a) Secretaría Técnica y de Vinculación, y
+
+b) Unidad de Asesores Artísticos.
+
+II. Subsecretaría de la Cultura y las Artes;
+
+III. Dirección de Administración y Finanzas;
+
+IV. Dirección de Promoción y Difusión Cultural;
+
+V. Dirección de Proyectos y Evaluación;
+
+VI. Dirección de Desarrollo Cultural y Artístico;
+
+VII. Dirección de Asuntos y Servicios Jurídicos, y
+
+VIII. Dirección de Normatividad y Políticas Culturales.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 575.
+
+El Secretario de la Cultura y las Artes tendrá las siguientes facultades y obligaciones:
+
+l. Establecer, dirigir y controlar la política de la Secretaría y la del sector Cultura, Artes y Tradiciones, de conformidad con la legislación aplicable, con los objetivos, estrategias y prioridades de los planes, nacional y estatal, de desarrollo y con los lineamientos que el Gobernador del Estado expresamente le señale;
+
+II. Proponer al Titular del Poder Ejecutivo del Estado, los proyectos de iniciativas de leyes o decretos, reglamentos, acuerdos, circulares y órdenes, sobre los asuntos de la competencia de la Secretaría y del sector respectivo;
+
+III. Aprobar la organización y funcionamiento de la Secretaría, así como también adscribir las direcciones y demás unidades administrativas que las necesidades del servicio requiera, ajustándose al presupuesto autorizado;
+
+IV. Proponer al titular del Poder Ejecutivo del Estado, la creación, supresión o modificación de las unidades administrativas de la Secretaría;
+
+V. Establecer las comisiones internas que se estimen necesarias para el adecuado funcionamiento de la Secretaría y proponer a la Secretaría de Planeación la creación de plazas;
+
+VI. Expedir el manual de organización general de la Secretaría, así como también aquellos manuales de procedimientos y de servicios al público, necesarios para el mejor funcionamiento de la misma;
+
+VII. Acordar el nombramiento de los servidores públicos de mandos superiores de la Secretaría y ordenar su expedición y resolver sobre la remoción de éstos;
+
+VIII. Reubicar o remover al personal técnico, administrativo y de apoyo, conforme a las necesidades y requerimientos de la Secretaría;
+
+IX. Acordar con el Subsecretario los asuntos de su competencia y supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
+
+X. Coordinar el establecimiento y operación de los programas internos de protección civil de la Secretaría, y de atención a los refugios en caso de fenómenos naturales;
+
+XI. Designar a los representantes de la Secretaría en las comisiones, consejos, órganos de gobierno, instituciones y entidades paraestatales en los que la Secretaría participe y establecer los lineamientos conforme a los cuales estos representantes deban actuar;
+
+XII. Suscribir toda clase de acuerdos, convenios y contratos con organismos, artísticos, culturales, recreativos, educativos y científicos nacionales o extranjeros, públicos o privados, que en materia de arte y cultura permitan fomentar y desarrollar esquemas de cooperación para el financiamiento de las actividades sustantivas de la Secretaria;
+
+XIII. Proponer al Titular del Ejecutivo del Estado las bases reglamentarias para el manejo, administración y funcionamiento de un Fondo Estatal para la Cultura y las Artes, que tenga por objeto canalizar los recursos de aportaciones, subsidios, donaciones, herencias o legados de origen público o privado, nacionales o extranjeras para el desarrollo de objetivos de fomento, promoción, gestión y difusión cultural y artística bajo los principios de transparencia, certidumbre, inclusión y participación social;
+
+XIV. Establecer las condiciones necesarias para procurar el equilibrio geográfico y social de la oferta en los servicios y bienes culturales que proporciona el Estado a través de la Secretaría;
+
+XV. Promover la vinculación y participación de los sectores público, social y privado en la preservación y salvaguarda del patrimonio cultural, en el fomento a la cultura y en la promoción de las artes;
+
+XVI. Estimular y apoyar a los integrantes de la comunidad artística, artesanal y creadores de la Entidad, a través de políticas y proyectos para su promoción, difusión, capacitación y desarrollo, que les permita contribuir al fortalecimiento de la cultura y alcanzar mejores condiciones de vida en los aspectos materiales y financieros;
+
+XVII. Establecer mecanismos de vinculación y difusión de la cultura del Estado con las organizaciones y las personas yucatecas residentes en el exterior;
+
+XVIII. Coordinar y promover acciones conjuntas en materia de cultura y artes, con los municipios del Estado, con otras Entidades de la República Mexicana, y con países y organizaciones internacionales;
+
+XIX. Promover, coordinar y, en su caso, realizar actos de reconocimiento a todos aquellos yucatecos destacados que hayan contribuido directa o indirectamente al desarrollo cultural, científico y artístico del Estado, de la Nación o de la comunidad internacional;
+
+XX. Promover la interacción de la cultura y sus valores con la educación, la ecología y medio ambiente, el turismo, el desarrollo urbano, el desarrollo social y la seguridad pública, entre otras;
+
+XXI. Emitir las disposiciones que considere pertinentes para procurar la adecuada operación, desarrollo y retroalimentación de los Consejos Consultivos de participación ciudadana que se establezcan en la Secretaría;
+
+XXII. Autorizar e impulsar el establecimiento de los mecanismos necesarios para coadyuvar en la profesionalización del personal y la modernización de los servicios y funciones de la Secretaría;
+
+XXIII. Expedir los acuerdos secretariales que estime convenientes para la mejor organización y funcionamiento de la Secretaría, y
+
+XXIV. Las demás que le otorguen este Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 576.
+
+El Secretario Técnico y de Vinculación tendrá las siguientes facultades y obligaciones:
+
+l. Proporcionar servicios de logística al Secretario;
+
+II. Fungir como enlace informativo entre los titulares de las diferentes áreas de la Secretaría, a efecto de dar a conocer las instrucciones que emita el Secretario;
+
+III. Organizar y coordinar la audiencia, correspondencia, agenda y archivo del Secretario;
+
+IV. Custodiar los documentos que requiere el Secretario para el ejercicio de sus funciones;
+
+V. Organizar la logística de las reuniones de trabajo del Secretario;
+
+VI. Recibir y asistir a las autoridades de cultura, funcionarios y la ciudadanía en general que acude al Despacho de la Secretaría con fines de consulta o labores oficiales;
+
+VII. Supervisar, coordinar y evaluar el trabajo del personal adscrito a la Secretaría Técnica y de Vinculación;
+
+VIII. Acordar con el Secretario el despacho, gestión, trámite y respuesta de los asuntos encomendados así como mantenerlo informado de las actividades que se realicen al respecto;
+
+IX. Proponer y acordar con los titulares de las unidades administrativas de la Secretaría, el procedimiento para obtener el acuerdo del Secretario, con la finalidad de facilitar la toma de decisiones, en función a la información y propuesta que se presente;
+
+X. Controlar y efectuar el seguimiento de los asuntos planteados al Secretario, así como los acuerdos que él mismo turne a las demás áreas de la Secretaría a fin de que se cumplan en los términos señalados;
+
+XI. Establecer y coordinar acciones de vinculación con organismos públicos y privados para el cumplimiento de los fines de la Secretaría;
+
+XII. Coordinar y dar seguimiento a la operación y desarrollo de los proyectos especiales que le encomiende el Secretario, así como evaluar el resultado de los mismos;
+
+XIII. Promover la vinculación con las dependencias y organismos del Gobierno Estatal y Federal, que ofrecen servicios relacionados con la cultura y las artes, en un marco de mutua cooperación que favorezca la adecuada planeación de la oferta de servicios culturales que brinda la Secretaría, y
+
+XIV. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 577.
+
+Los integrantes de la Unidad de Asesores Artísticos tendrán las siguientes facultades y obligaciones:
+
+I. Asesorar y apoyar al Secretario en el análisis y dictamen de los asuntos de índole artístico que les sean solicitados, así como proponer alternativas y/o soluciones en relación al contenido y desarrollo de programas, proyectos, exposiciones, integración de jurados para concursos y otras actividades artístico-culturales;
+
+II. Asesorar y orientar al Secretario en los análisis y revisiones de planes, programas y proyectos relevantes que pudieran generar un alto impacto social, artístico y cultural en el Estado;
+
+III. Participar en la planeación anual de actividades culturales de la Secretaría, especialmente en relación a las áreas artísticas, previendo las necesidades y expectativas de la comunidad de artistas, creadores y promotores culturales del Estado;
+
+IV. Recomendar y asesorar al Secretario sobre las acciones a seguir en materia de mantenimiento, conservación y restauración del patrimonio artístico de la Secretaría, y
+
+V. Las demás que establezcan este Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 578.
+
+El Subsecretario de la Cultura y las Artes tendrá las siguientes facultades y obligaciones:
+
+l. Acordar con el Secretario el despacho de los asuntos de la Subsecretaría y de las unidades administrativas adscritas a su cargo y responsabilidad;
+
+II. Cumplir y hacer cumplir los acuerdos del Secretario y auxiliarlo en el ejercicio de sus facultades;
+
+III. Proponer, diseñar e implementar, previo acuerdo del Secretario, las políticas de desarrollo cultural del Estado;
+
+IV. Planear, programar, organizar, controlar, dirigir y evaluar las actividades de la Subsecretaría y de las unidades administrativas a ella adscritas, conforme a los lineamientos que determine el Secretario, así como coordinarse con las demás unidades administrativas de la Secretaría, para conseguir el mejor desempeño de las mismas;
+
+V. Recibir en acuerdo a los titulares de las unidades administrativas de su área y a cualquier otro servidor público de la Secretaría, así como conceder audiencias al público;
+
+VI. Someter a la consideración del Secretario, previa asesoría de la Dirección de Asuntos y Servicios Jurídicos, los anteproyectos de reglamentos, acuerdos, decretos, convenios, contratos y demás ordenamientos de su competencia y los relacionados con las unidades administrativas adscritas a su responsabilidad;
+
+VII. Establecer los objetivos, políticas, planes y programas de trabajo de las unidades administrativas a su cargo, así como vigilar su cumplimiento;
+
+VIII. Desempeñar las funciones y comisiones que el Secretario le delegue o encomiende, y mantenerlo informado del desarrollo de las mismas;
+
+IX. Proporcionar la información, datos, estadísticas y asesoría técnica que le sea requerida por los ayuntamientos, otras dependencias y entidades de los gobiernos, Federal y Estatal, de acuerdo a las normas y políticas establecidas por el Secretario;
+
+X. Supervisar con el apoyo de la Dirección de Asuntos y Servicios Jurídicos, el cumplimiento de las normas, políticas y procedimientos que rijan a las unidades administrativas que de él dependan y demás disposiciones que regulen los asuntos y actividades de su competencia;
+
+XI. Proponer al Secretario las medidas necesarias para el mejoramiento operativo y funcional de las unidades administrativas a su cargo;
+
+XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que por delegación de facultades o por suplencia le correspondan;
+
+XIII. Establecer comunicación y coordinarse con otras dependencias y entidades de las administraciones públicas federal, estatal y municipal, con las que se tenga interés de acuerdo a su ámbito de competencia, para obtener un mejor desempeño en el ejercicio de sus atribuciones;
+
+XIV. Coordinar la elaboración de los informes que deban rendirse al Gobernador del Estado, incluyendo los correspondientes a los resultados de las evaluaciones periódicas que se practiquen a las unidades administrativas de la Secretaría, sobre el desarrollo de sus programas, proyectos y actividades conforme a los lineamientos que establezca el Secretario;
+
+XV. Diseñar, en coordinación con la Dirección de Asuntos y Servicios Jurídicos y la Dirección de Normatividad y Políticas Culturales, los esquemas normativos que regulen las actividades de cada una de las unidades administrativas que dependan de la Subsecretaría;
+
+XVI. Difundir y promover el uso de materiales didácticos, culturales y artísticos, en todos los niveles educativos;
+
+XVII. Recibir, analizar, coordinar y controlar las solicitudes sobre estímulos y becas que realicen los estudiantes, en las diferentes materias artísticas y culturales que atiende la Secretaría, a través de sus centros de educación artística formal y no formal;
+
+XVIII. Promover la elaboración de proyectos de formación, fomento, investigación, difusión y divulgación en el área de arte y cultura;
+
+XIX. Sugerir y proponer al Secretario anteproyectos de leyes, decretos, acuerdos y reglamentos que normen el incremento, inclusión, rescate, registro, conservación, destino, operación y uso de los bienes muebles e inmuebles que integran el patrimonio artístico y cultural del Estado;
+
+XX. Fomentar la coordinación y cooperación entre la Secretaría y otras instancias del Sector Público estatal, paraestatal y federal, en la realización de proyectos y programas en el ámbito de su competencia;
+
+XXI. Convenir, acordar, promover y fomentar en el ámbito de su competencia, previo acuerdo del Secretario, la participación de la Secretaría en los programas federales y estatales en los sectores público y privado;
+
+XXII. Diseñar e instrumentar políticas de fomento y estímulo a la participación de la sociedad civil, iniciativa privada y sector social, en los programas relativos al ámbito de su competencia;
+
+XXIII. Promover e instrumentar en el Estado, la descentralización de la actividad artística y cultural;
+
+XXIV. Coordinar la integración y operación del programa interno de protección civil en las unidades administrativas a su cargo, y
+
+XXV. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 579.
+
+El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
+
+l. Dirigir a las áreas administrativas de la Secretaría, en la operación de los recursos que le sean autorizados por el Gobierno Estatal, durante el ejercicio presupuestal correspondiente, conforme a las normas y procedimientos establecidos al respecto;
+
+II. Coordinar, dirigir y supervisar la acción y gestión de los departamentos adscritos al área de su competencia, en lo relativo a sus responsabilidades y funciones que le corresponden;
+
+III. Determinar conjuntamente con la Dirección de Normatividad y Políticas Culturales, y someter a la consideración del Secretario, el anteproyecto de presupuesto y la estructura programática de la Secretaría;
+
+IV. Integrar, gestionar y supervisar la aplicación eficiente del presupuesto estatal y la estructura programática de la Secretaría;
+
+V. Formular la propuesta anual de gestión de recursos financieros de los programas y proyectos de la Secretaría, para su inclusión en las diferentes vertientes y fuentes de financiamiento, llevando los trámites y seguimiento respectivo;
+
+VI. Conocer los avances de los recursos ejercidos por capítulo del gasto del presupuesto autorizado;
+
+VII. Analizar y gestionar con instancias internas o externas, cualquier solicitud o necesidad en materia de la administración de recursos humanos, materiales y financieros;
+
+VIII. Proponer al Secretario el establecimiento de las directrices que estime convenientes, así como las normas y criterios para vigilar la correcta aplicación de los recursos humanos, materiales y financieros, conforme a las disposiciones legales y reglamentarias vigentes que correspondan;
+
+IX. Dar seguimiento a la aplicación de los lineamientos, políticas y procedimientos para la administración de los recursos estatales, así como del ejercicio del presupuesto de egresos anual autorizado de los diferentes centros de costos de la Secretaría, de acuerdo a la normatividad aplicable;
+
+X. Administrar el Fondo Estatal para la Cultura y las Artes, con objeto de canalizar los recursos adicionales que el Poder Ejecutivo obtenga, para el desarrollo de los objetivos culturales, a través de los convenios que celebre con la Federación y demás organizaciones públicas, sociales y privadas, nacionales e internacionales;
+
+XI. Vigilar la aplicación de los lineamientos normativos y disposiciones para la asignación, utilización, aseguramiento, conservación y mantenimiento de los bienes muebles e inmuebles, a cargo de la Secretaría emitidos por la Oficialía Mayor;
+
+XII. Supervisar, validar y autorizar en general los informes que se requieran para evaluar y medir la aplicación del ejercicio del presupuesto autorizado;
+
+XIII. Validar y autorizar la documentación soporte de los gastos y sus trámites correspondientes;
+
+XIV. Conducir conjuntamente con la Dirección de Normatividad y Políticas Culturales, la implementación y seguimiento de los procesos que conlleva la certificación del Sistema de Gestión de Calidad de la norma ISO vigente y sus modificaciones;
+
+XV. Conducir las acciones y coordinar a las diferentes unidades administrativas para dar cumplimiento al Programa Interno de Protección Civil;
+
+XVI. Suscribir los documentos, convenios y contratos relativos al ejercicio de sus atribuciones y aquellos que le sean delegados por el Secretario y/o Subsecretario;
+
+XVII. Participar en los grupos técnicos y de trabajo, así como asistir a comités y reuniones en el ámbito de su competencia, y
+
+XVIII. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+Para el cumplimiento de sus atribuciones, la Dirección de Administración y Finanzas contará con los Departamentos de Administración de Recursos Humanos, Recursos Financieros, Contabilidad, Informática y Sistemas, Recursos Materiales y Adquisiciones, Servicios Generales, y Organización y Métodos, que funcionarán en la forma que establezcan los manuales correspondientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 580.
+
+El Director de Promoción y Difusión Cultural tendrá las siguientes facultades y obligaciones:
+
+I. Planear y organizar programas en los que intervienen creadores, productores, directores y grupos culturales de las diversas disciplinas artísticas, favoreciendo su participación en festivales, exposiciones, conferencias y presentaciones, con el fin de consolidar los valores de la cultura yucateca, nacional y universal;
+
+II. Instrumentar mecanismos para el impulso y programación de toda clase de actividades que promuevan la creatividad artística y sus distintos tipos de manifestaciones;
+
+III. Coordinar los esfuerzos para incentivar la creación cultural, la promoción y apoyo a los creadores y artistas yucatecos, asociaciones y entidades culturales;
+
+IV. Coordinar el funcionamiento y programación de actividades de los teatros a cargo de la Secretaría, así como supervisar la adecuada administración de los recursos materiales y humanos asignados a los mismos;
+
+V. Proponer e impulsar estrategias para dinamizar la creación de industrias culturales relacionadas con el teatro, la danza, la música, el folclore y las artes audiovisuales así como su modernización y profesionalización;
+
+VI. Promover acciones que contribuyan a fomentar la cooperación cultural con entidades públicas y privadas, tanto en el ámbito nacional como internacional;
+
+VII. Supervisar la integración y elaboración de un registro de entidades, asociaciones culturales, organizaciones artísticas así como del padrón de integrantes de la comunidad artística del Estado;
+
+VIII. Ejecutar programas para plantear, diseñar y aplicar políticas públicas culturales que permitan a la comunidad yucateca la reafirmación de su identidad, a través del respeto de tradiciones y festividades;
+
+IX. Mantener una estrecha comunicación con las unidades administrativas a su cargo con el fin de prever y facilitar los recursos necesarios para el mejor desempeño de sus funciones así como para el cumplimiento de sus objetivos;
+
+X. Establecer mecanismos de control, seguimiento y evaluación para el cumplimiento de los objetivos, metas y alcances del plan de trabajo, proyectos, programas y/o acciones que corresponden a las unidades administrativas bajo su cargo;
+
+XI. Coordinar con el Secretario, el Subsecretario y demás áreas de la Institución, las necesidades de logística, recursos financieros, materiales, humanos y lo demás que se requiera para la realización de los eventos locales, regionales o internacionales cuya organización le sea encomendada;
+
+XII. Recibir y someter a consideración del Secretario y del Subsecretario las solicitudes de apoyo para la participación de artistas individuales y grupales de las diferentes disciplinas, incluidos los apoyos logísticos, de espacios culturales y de intercambios que se reciban de Instituciones educativas, ayuntamientos, sociedad civil y demás organizaciones;
+
+XIII. Implementar mecanismos y estrategias de difusión y divulgación de las actividades artísticas y culturales que realiza la Secretaría, con el propósito de que la sociedad las conozca y participe en ellas;
+
+XIV. Coordinar y supervisar que los responsables de las áreas a su cargo elaboren sus respectivos programas;
+
+XV. Coordinar la elaboración del Programa Operativo Anual de la Dirección para su integración al anteproyecto de presupuesto de la Secretaría, y
+
+XVI. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+Para el cumplimiento de sus atribuciones, la Dirección de Promoción y Difusión Cultural contará con los departamentos de Programación y Festivales, Técnico, y Divulgación Cultural, que funcionarán en la forma que establezcan los manuales correspondientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 581.
+
+El Director de Proyectos y Evaluación tendrá las siguientes facultades y obligaciones:
+
+I. Proponer al Secretario las estrategias y los mecanismos de gestión de recursos federales, viables de aplicar en las posibles fuentes de financiamiento para los proyectos de la Secretaría;
+
+II. Difundir, informar y promover entre las diversas áreas operativas, los proyectos federales generados en los convenios así como las distintas oportunidades de cooperación nacional e internacional, que pudieran aprovecharse para el financiamiento de nuevos proyectos;
+
+III. Promover la creación y la operación de mecanismos y estrategias que permitan incrementar la capacidad de la Secretaría para generar proyectos culturales de alto impacto social;
+
+IV. Impulsar la elaboración de proyectos de acuerdo a las necesidades de desarrollo de la Secretaría y a los lineamientos establecidos por el Secretario;
+
+V. Promover en las diferentes áreas operativas de la Secretaría, la observancia y cumplimiento de las políticas y lineamientos normativos que regulen la operación, desarrollo, ejecución, control y evaluación de los proyectos federales;
+
+VI. Brindar asesoría y apoyo a las áreas para la formulación y correcta aplicación de mecanismos que permitan la evaluación del cumplimiento de los objetivos y metas establecidos en sus proyectos;
+
+VII. Proporcionar asesoría y apoyo técnico a las distintas áreas de la Secretaría, para que reporten oportunamente el avance y cumplimiento de las metas establecidas en los proyectos, con el propósito de integrar y remitir de manera oportuna los informes requeridos por las autoridades correspondientes, así como los que se soliciten de manera extraordinaria;
+
+VIII. Elaborar y presentar trimestralmente al Subsecretario, los informes sobre la evaluación de avances programáticos de los proyectos en operación;
+
+IX. Participar en la supervisión y control presupuestal de los recursos financieros aprobados a la Secretaría, en el Presupuesto de Egresos de la Federación, en coordinación con la Dirección de Administración y Finanzas;
+
+X. Dar seguimiento a la aplicación de los recursos asignados a los proyectos federales en operación;
+
+XI. Controlar y vigilar que los recursos autorizados para los diversos proyectos federales, sean aplicados por las áreas con sujeción a los lineamientos, normas y procedimientos vigentes y las disposiciones de racionalidad, austeridad y disciplinas presupuestarias establecidas por la Secretaría;
+
+XII. Proponer y aplicar las disposiciones y criterios que en materia de control presupuestal, deban observarse en la celebración de los contratos y convenios con la Federación, cuyo importe afecte el presupuesto de recursos federales autorizados a los proyectos de la Secretaría;
+
+XIII. Proponer a la Dirección de Administración y Finanzas para su validación, las modificaciones que requiera el presupuesto de la Secretaría, con el propósito de eficientar la aplicación de los recursos federales asignados y propiciar el adecuado cumplimiento de las metas y objetivos planteados en los proyectos en operación;
+
+XIV. Coordinar, conjuntamente con la Dirección de Administración y Finanzas, la realización de los trámites ante las instancias federales correspondientes para la autorización de las modificaciones, transferencias y ampliaciones presupuestales al calendario del gasto requeridas e informar oportunamente al Secretario;
+
+XV. Calendarizar, de acuerdo a sus proyectos, los presupuestos federales autorizados a las distintas áreas operativas de la Secretaría, con el fin de establecer un control presupuestal conforme a los ingresos esperados;
+
+XVI. Elaborar el Programa Operativo Anual de la Dirección;
+
+XVII. Participar en la elaboración de la base documental respecto a temas presupuestarios federales para las comparecencias del Secretario ante el H. Congreso del Estado;
+
+XVIII. Integrar la información que por norma se proporciona a las diferentes instancias sobre los avances programático-presupuestales, cumplimiento de metas y el ejercicio de los recursos autorizados para los proyectos federales, y
+
+XIX. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+Para el cumplimiento de sus atribuciones, la Dirección de Proyectos y Evaluación contará con los departamentos de Proyectos y Evaluación, que funcionarán en la forma que establezcan los manuales correspondientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 582.
+
+El Director de Desarrollo Cultural y Artístico tendrá las siguientes facultades y obligaciones:
+
+l. Coordinar y organizar el desempeño de las labores encomendadas a las áreas administrativas de apoyo técnico y operativo adscritas a la Dirección a su cargo;
+
+II. Gestionar los respaldos, permisos y apoyos interinstitucionales necesarios para la eficaz realización de los programas y eventos artísticos y culturales, programados por las áreas administrativas a su cargo;
+
+III. Formular opiniones e informes que le sean solicitados por el Secretario o Subsecretario, o por cualquier Dependencia, unidad administrativa, y los Órganos Desconcentrados de la Administración Pública Estatal, en aquellos asuntos que resulten de su competencia;
+
+IV. Establecer y mantener contacto y vínculos con la comunidad artística, grupos culturales, académicos y la comunidad intelectual, así como con organismos e instituciones de educación superior que coadyuven a promover las políticas culturales de la Secretaría;
+
+V. Coadyuvar al cumplimiento de los convenios y acuerdos celebrados con instituciones culturales, previamente autorizados por el Secretario;
+
+VI. Coordinarse con las demás Direcciones de la Secretaría, a fin de coadyuvar al desarrollo de proyectos y al cumplimiento de convenios y/o acuerdos establecidos con las instituciones culturales;
+
+VII. Analizar los proyectos de actividades culturales y artísticas propuestos por personas, grupos, asociaciones e instituciones, para determinar su viabilidad y, en su caso, su atención y organización correspondiente;
+
+VIII. Promover, establecer e impulsar, en coordinación con la Dirección de Promoción y Difusión Cultural, la vinculación con instituciones públicas, privadas y organismos no gubernamentales que coadyuven al desarrollo de programas culturales destinados a grupos de población vulnerable;
+
+IX. Coadyuvar al fortalecimiento de la educación artística, así como promover actividades en bibliotecas públicas y museos, y apoyar exposiciones artísticas y eventos de interés cultural;
+
+X. Fomentar e impulsar, en coordinación con la Dirección de Promoción y Difusión Cultural, la presentación de las distintas expresiones artísticas como la danza, el teatro, la música, las artes plásticas y la literatura entre otras, tanto en espacios públicos alternativos como en espacios culturales formales;
+
+XI. Promover, apoyar e impulsar las tareas de preservación, promoción y difusión del patrimonio artístico e histórico del Estado, de conformidad con los programas establecidos y la normatividad aplicable;
+
+XII. Coadyuvar con las demás direcciones en la sistematización de la información de los proyectos generados, a fin de garantizar la aplicación adecuada de los lineamientos de la política cultural establecidos por el Secretario;
+
+XIII. Contribuir y promover acciones para la preservación y mejoramiento de la infraestructura cultural a cargo de la Secretaría, así como para la creación de nuevos espacios que permitan incrementar la dinámica y el desarrollo cultural en todos los municipios del Estado;
+
+XIV. Promover la celebración de convenios de colaboración con organismos e instituciones públicas, de iniciativa privada y organismos no gubernamentales, a fin de sumar esfuerzos y recursos orientados a la promoción y desarrollo de los programas culturales de la Secretaría;
+
+XV. Impulsar programas que fomenten la creatividad y el establecimiento de proyectos de participación alternativos, innovadores e incluyentes, que estimulen la investigación, el análisis y el desarrollo de estrategias para promover las artes y la cultura del Estado;
+
+XVI. Fomentar, impulsar y fortalecer los procesos y mecanismos para la descentralización de los bienes y servicios culturales, que brinda la Secretaría hacia todas las regiones y municipios del Estado;
+
+XVII. Colaborar con la Dirección de Proyectos y Evaluación en las tareas de formulación de proyectos especiales de carácter artístico y cultural solicitados por el Secretario, así como en la revisión y evaluación de los que presenten a consideración de la Secretaría los ciudadanos, agrupaciones, instituciones y organismos no gubernamentales;
+
+XVIII. Supervisar el funcionamiento de los centros culturales que se encuentran adscritos a la Dirección, a fin de garantizar que en la realización de sus actividades culturales se fomente la creatividad y se contribuya al desarrollo integral y armónico de la población usuaria, y
+
+XIX. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+Para el cumplimiento de sus atribuciones, la Dirección de Desarrollo Cultural y Artístico contará con los Departamentos de Educación y Fomento Artístico, Música, Danza, Teatro, Fomento Literario y Promoción Editorial, Patrimonio Cultural, Artes Visuales, Descentralización de Bienes y Servicios Culturales, Desarrollo Artístico y Cultural de los Jóvenes, del Sistema Estatal de Orquestas Juveniles, que funcionarán en la forma que establezcan los manuales correspondientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 583.
+
+El Director de Asuntos y Servicios Jurídicos tendrá las siguientes facultades y obligaciones:
+
+l. Elaborar y revisar los instrumentos jurídicos que la Secretaría celebre con las diversas Dependencias y Entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales, así como visarlos y someterlos a la consideración del Secretario;
+
+II. Registrar y llevar el control los (sic) contratos, convenios, acuerdos y demás actos jurídicos de los que se generen derechos y obligaciones a cargo de la Secretaría;
+
+III. Participar en los procesos de actualización y adecuación del orden jurídico que rige el funcionamiento de la Secretaría;
+
+IV. Atender y llevar los juicios, finiquitos y citatorios laborales;
+
+V. Intervenir en el levantamiento de actas circunstanciadas por abandono de empleo y de responsabilidad, en su caso, por hechos atribuidos a los trabajadores de la Dependencia;
+
+VI. Verificar que los procesos de adquisiciones, arrendamiento y servicios se realicen dentro del marco legal, asesorando en lo respectivo a los distintos comités y subcomités;
+
+VII. Vigilar el cumplimiento de la normatividad aplicable a los bienes inmuebles, asignados a la Secretaría y los que reciba en comodato;
+
+VIII. Registrar ante el Instituto Nacional del Derecho de Autor la producción cultural de la Secretaría;
+
+IX. Orientar a los artistas e interesados sobre los formatos y requisitos para los trámites establecidos en la Ley Federal del Derecho de Autor y su Reglamento; para este fin contará con una ventanilla de atención a la comunidad artística y público en general;
+
+X. Participar, conjuntamente con la Dirección de Normatividad y Políticas Culturales, en la elaboración y/o modificación de la reglamentación Interna y opinar sobre las modificaciones y adiciones a éste;
+
+XI. Atender las solicitudes de acceso a la información pública formuladas a la Secretaría y requerir a las áreas involucradas la información solicitada, y
+
+XII. Las demás que le confiera el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+Para el cumplimiento de sus atribuciones, el Director de Asuntos y Servicios Jurídicos contará con los Departamentos de Asuntos Legales, Laborales y de Contratos, Convenios, Derechos Humanos y Transparencia, que funcionarán en la forma que establezcan los manuales correspondientes.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 584.
+
+El Director de Normatividad y Políticas Culturales tendrá las siguientes facultades y obligaciones:
+
+I. Promover la coordinación interinstitucional e intersectorial para la realización de estudios y proyectos orientados al desarrollo de normas y políticas que vinculen la cultura con el desarrollo humano;
+
+II. Realizar estudios especiales que permitan posicionar a la Secretaría en el ámbito cultural tanto local como nacional;
+
+III. Promover la creación de procesos de mejora continua, que conduzcan hacia la cultura del servicio de excelencia, el trabajo en equipo y la innovación en las áreas que conforman la Secretaría;
+
+IV. Coordinar y documentar los procesos que conlleva la certificación del Sistema de Gestión de Calidad de la norma ISO vigente y sus modificaciones y coadyuvar en la continuidad de los mismos;
+
+V. Fomentar, facilitar y evaluar la implantación de sistemas relacionados con modelos de aseguramiento de la calidad en las áreas de la Secretaría;
+
+VI. Establecer y difundir la utilización y aplicación de indicadores de Gestión y de Resultados en las Direcciones y áreas de la Secretaría;
+
+VII. Facilitar apoyo metodológico en la realización de estudios técnicos especializados en la medición y mejoramiento de la satisfacción de usuarios en el servicio, el entorno laboral y la productividad en las áreas de la Secretaría;
+
+VIII. Formular los lineamientos para la elaboración y registro de los manuales normativos internos, así como otros documentos que permitan la mejoría en la realización de las actividades de las áreas que conforman la Secretaría;
+
+IX. Participar en la instrumentación y establecimiento de los lineamientos y criterios básicos para la integración de los programas anuales de trabajo de las distintas unidades administrativas, así como de los mecanismos para integrar el Programa Operativo Anual de la Secretaría;
+
+X. Integrar y elaborar el anteproyecto de presupuesto y el Programa Operativo Anual correspondiente a los proyectos de desarrollo cultural;
+
+XI. Procesar y consolidar la información sobre las acciones culturales y organizacionales que realiza la Secretaría y establecer datos estadísticos que permitan retroalimentar a las áreas;
+
+XII. Proponer a la Dirección de Administración y Finanzas los lineamientos metodológicos y normativos para que elabore, actualice y trámite ante la Secretaría de Planeación y Presupuesto y la Oficialía Mayor, la autorización del Organigrama General de la Secretaría, así como los particulares de cada área;
+
+XIII. Elaborar, en coordinación con la Dirección de Administración y Finanzas, el diagnóstico de necesidades de capacitación y a partir de éste, el programa de capacitación de la Secretaría y coordinar su aplicación para el personal;
+
+XIV. Realizar los estudios necesarios para evaluar y proponer ajustes o modificaciones a las políticas, planes y programas de la Institución;
+
+XV. Formar parte de los comités que se establezcan para el mejoramiento normativo y de las políticas públicas de la Secretaría;
+
+XVI. Elaborar y presentar para su autorización, el plan de trabajo y programa operativo anual de la Dirección, contribuyendo así a la integración del programa general de la Secretaría;
+
+XVII. Colaborar y participar en la operación de actividades que se realicen en el marco del Programa Interno de Protección Civil de la Secretaría, y
+
+XVIII. Las demás que establezcan el Código de la Administración Pública de Yucatán, este Reglamento y otras disposiciones aplicables.
+
+Para el cumplimiento de sus atribuciones, la Dirección de Normatividad y Políticas Culturales contará con los Departamentos de Mejoras y Procesos Institucionales, Normatividad y Estudios Especiales, y Análisis de Políticas Institucionales, que funcionarán en la forma que establezcan los manuales correspondientes.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES PARAESTATALES
+
+### CAPÍTULO II. Del Fondo Estatal para la Cultura y las Artes
+
+(FONECULTA)
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 585.
+
+La Secretaría contará con un Fondo Estatal para la Cultura y las Artes (FONECULTA), que se encargará de canalizar los recursos complementarios que se obtengan a través de los convenios e instrumentos jurídicos que celebre con la federación y demás organizaciones públicas, sociales o privadas, nacionales o internacionales, para el desarrollo de sus objetivos culturales.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 586.
+
+El FONECULTA tiene por objeto complementar el desarrollo de programas y proyectos de beneficio social de carácter cultural, que incluyan acciones de fomento, promoción, difusión y capacitación de artistas y creadores, tanto en lo individual como en lo colectivo.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 587.
+
+Para el cumplimiento de los objetivos culturales, el Gobierno del Estado podrá disponer, a través de la Secretaría de Planeación y Presupuesto, recursos que permitan apoyar el funcionamiento del FONECULTA.
+
+La Secretaría de Hacienda enviará al Fondo con oportunidad, los recursos, subsidios y donativos etiquetados para cultura, que remita el Gobierno Federal; así como aquellos de otra procedencia canalizados para fines culturales.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 588.
+
+Para asegurar la transparente, eficiente y oportuna utilización de los recursos, el FONECULTA tendrá un Comité Técnico que estará conformado por:
+
+l. El Secretario de la Cultura y las Artes, quien lo presidirá y sus ausencias serán suplidas por quien designe;
+
+II. Un Secretario Técnico, designado por el Secretario;
+
+III. El Director de Administración y Finanzas;
+
+IV. El Director de Proyectos y Evaluación;
+
+V. El Director de Desarrollo Cultural y Artístico;
+
+VI. El Director de Promoción y Difusión Cultural, y
+
+VII. Un Contralor Social.
+
+Los integrantes del Comité antes señalados tendrán derecho a voz y voto.
+
+El Director de Asuntos y Servicios Jurídicos fungirá como Secretario de Actas y Acuerdos con derecho a voz y será el encargado de redactar el acta de las sesiones y vigilar el cumplimiento de los acuerdos tomados.
+
+El Presidente, por sí o a través del Secretario de Actas y Acuerdos, deberá convocar a las sesiones ordinarias o extraordinarias del Comité, con la orden del día adjunta a la convocatoria respectiva.
+
+El Presidente podrá invitar a las sesiones del Comité Técnico a representantes estatales y de otras instituciones públicas, privadas o sociales, para evaluar la viabilidad de un proyecto cultural o el impacto de un estudio en el sector o región correspondiente.
+
+Los integrantes del Comité Técnico a que se refieren las fracciones II a VII de este artículo, deberán designar a sus respectivos suplentes.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 589.
+
+El Comité Técnico sesionará válidamente con la asistencia de al menos de la mitad más uno de sus integrantes y sus acuerdos serán tomados por mayoría de votos de los miembros presentes con derecho a voto. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 590.
+
+Son facultades y obligaciones del Comité Técnico:
+
+I. Aprobar el proyecto del programa y presupuesto anuales del FONECULTA que deberá elaborar el Director de Administración y Finanzas de la Secretaría;
+
+II. Autorizar los calendarios de presupuesto y metas, con base en el programa y presupuesto anuales definitivos elaborados por el Director de Administración y Finanzas de la Secretaría;
+
+III. Aprobar los Manuales de Servicios y de Procedimientos del FONECULTA;
+
+IV. Aprobar las Reglas de Operación y de Organización del FONECULTA;
+
+V. Asegurar que el FONECULTA cumpla con el objetivo de financiar proyectos, iniciativas, eventos y actividades de carácter artístico y cultural, que sean congruentes con las políticas y objetivos culturales del Estado;
+
+VI. Implementar mecanismos y estrategias, con base en las prioridades del Estado, para detonar proyectos culturales de alto impacto en sus diferentes regiones;
+
+VII. Destinar los recursos del FONECULTA para los fines establecidos en este Capítulo;
+
+VIII. Mantener un registro de personas atendidas y beneficiadas con los recursos del FONECULTA;
+
+IX. Atender las observaciones y recomendaciones que resulten de auditorías practicadas por las instancias fiscalizadoras del Gobierno Estatal y Federal, así como instrumentar las medidas preventivas y correctivas en los plazos estipulados, e informar al Secretario sobre la situación que guardan las mismas;
+
+X. Sesionar, de acuerdo al calendario y la orden del día contenida en la convocatoria emitida, y
+
+XI. Dar seguimiento y supervisar los estudios y proyectos aprobados.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 591.
+
+El Comité Técnico, a través de los mecanismos internos que apruebe, vigilará permanentemente que el uso, manejo y destino de los recursos ministrados, se lleven a cabo conforme a lo establecido en este Reglamento y demás normatividad aplicable.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 592.
+
+Los proyectos, iniciativas, eventos y actividades de carácter artístico y cultural que financie el FONECULTA deberán ser congruentes con las políticas y objetivos culturales del Estado.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 593.
+
+Podrán ser sujetos de los apoyos que otorga el FONECULTA, las personas físicas o morales de los diversos sectores vinculados con la cultura y las artes del Estado, que presenten proyectos de carácter viable y sustentable. En el caso de personas morales, deberán estar legalmente constituidas y establecidas en el Estado de Yucatán.
+
+Los apoyos del FONECULTA serán determinados con base en un diagnóstico elaborado y analizado por el Comité Técnico, el que decidirá respecto de su otorgamiento, independientemente del tipo de apoyo de que se trate.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 594.
+
+El Secretario de Cultura y las Artes emitirá y publicará en el Diario Oficial del Gobierno del Estado, los lineamientos, criterios y requisitos para la operación del FONECULTA.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 595.
+
+La Secretaría contará un organismo auxiliar denominado Patronato del Fondo Estatal para la Cultura y las Artes, el cual tendrá por objeto:
+
+l. Vigilar la administración, procurar el incremento de los recursos del Fondo Estatal para la Cultura y las Artes, a que se refiere la fracción XXXVI del artículo 47 Ter del Código de la Administración Pública de Yucatán, y
+
+II. Coadyuvar con la Secretaría en el fomento, organización y desarrollo de actividades culturales y artísticas, y en la preservación del patrimonio cultural del Estado.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO III. Del Patronato del Fondo Estatal para la Cultura y las Artes
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 596.
+
+El Patronato tendrá las siguientes atribuciones:
+
+l. Vigilar la administración del Fondo, e informar al Secretario de la Cultura y las Artes sobre la aplicación de sus recursos ordinarios y extraordinarios;
+
+II. Apoyar la (sic) Secretaría en la elaboración de proyectos y programas que permitan incrementar los recursos del Fondo;
+
+III. Manejar fondos especiales, operar recursos financieros en las sociedades de crédito y rentabilidad, con objeto de realizar transacciones que permitan acrecentar los recursos del Fondo;
+
+IV. Presentar al Secretario de la Cultura y las Artes, los estados financieros dentro de los tres primeros meses a partir de la fecha en que concluya un ejercicio presupuestal;
+
+V. Apoyar al (sic) Secretaria en todos los aspectos que se relacionen con los recursos del Fondo;
+
+VI. Definir los cargos que por sus características requieran fianza, y el monto de ella;
+
+VII. Organizar subastas, rifas, emisión de bonos, eventos artísticos de recuperación económica y toda clase de gestiones ante dependencias y entidades públicas y privadas que lo auxilien en el cumplimiento de sus funciones, de conformidad con las disposiciones legales y reglamentarias aplicables, y
+
+VIII. Las demás que le confieran otras disposiciones legales y reglamentarias, y las que le encomiende el Secretario de la Cultura y las Artes para el cumplimiento de su objeto.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 597.
+
+El Patronato se integrará de la siguiente manera:
+
+I. Un Presidente, que será nombrado por Gobernador, a propuesta del Secretario de la Cultura y las Artes;
+
+II. Un Secretario, que será el Secretario de la Cultura y las Artes;
+
+III. Un Tesorero, que será nombrado por el Secretario de la Cultura y las
+
+Artes, y
+
+IV. Los siguientes Vocales:
+
+a) Vocal Primero, un representante de la Cámara Nacional de Comercio y Servicios Turísticos de Mérida;
+
+b) Vocal Segundo, un representante de los órganos que agrupan a los industriales;
+
+c) Vocal Tercero, un representante de las agrupaciones agrícolas y ganaderas del Estado;
+
+d) Vocal Cuarto, un representante de las Sociedades Nacionales de Crédito que operen en el Estado;
+
+e) Vocal Quinto, un representante de la Secretaría de Planeación y Presupuesto, y
+
+f) Siete vocales más designados por el Presidente, y seleccionados entre personas que hayan demostrado su interés de participar en la preservación y fomento de la cultura del Estado.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 598.
+
+Los miembros del Patronato durarán en su cargo tres años, pudiendo ser reelectos por un período inmediato más.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 599.
+
+Los cargos de los miembros del Patronato son de carácter honorario, por tanto, no recibirán retribución alguna por el desempeño de los mismos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INETGRAN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 600.
+
+La Secretaría contará con un Consejo Consultivo para la Cultura y las Artes, el cual será un órgano colegiado de asesoría y consulta que apoyará y auxiliará al Patronato con sus dictámenes, recomendaciones y opiniones sobre los aspectos y materias en que sea requerido.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 601.
+
+El Consejo Consultivo, tendrá entre sus objetivos fundamentales el de asesorar y auxiliar en materia de programas, políticas culturales y fomento de las expresiones artísticas.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 602.
+
+El Consejo Consultivo se integrará con un número no mayor de veinte personas, con arraigo en la entidad, reconocida presencia social, solvencia moral y profesional en los campos de la cultura, las artes y la investigación.
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 603.
+
+El Consejo Consultivo estará integrado por:
+
+I. Un Presidente, que será designado por el Gobernador;
+
+II. Un Secretario Ejecutivo, que será el Secretario;
+
+III. Un Vocal Técnico, que será el presidente del Patronato del Fondo Estatal para la Cultura y las Artes, y
+
+IV. Vocales, representantes de asociaciones o sociedades civiles dedicadas a la promoción y difusión cultural y artística, así como los que tengan conocimientos profesionales o que practiquen alguna disciplina cultural ó artística.
+
+Los vocales a que se refieren las fracciones IV de este artículo, serán nombrados por el Secretario.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 604.
+
+Los miembros del Consejo Consultivo durarán en su cargo tres años y podrán ser ratificados para un segundo período inmediato, y pasando un tercero podrán ser de nuevo integrantes del Consejo bajo el mismo señalamiento y conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 605.
+
+Los cargos del Consejo Consultivo serán honoríficos y por lo tanto quienes lo integren no recibirán retribución alguna por el desempeño de los mismos.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 606.
+
+Las sesiones ordinarias del Consejo Consultivo se celebrarán bimestralmente, y las extraordinarias en casos de asuntos urgentes, a solicitud de su Presidente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 607.
+
+El Consejo Consultivo tendrá las siguientes facultades:
+
+l. Conocer la política cultural establecida por la Secretaría;
+
+II. Conocer y opinar, cuando así se le solicite, sobre el programa anual de actividades y proyectos de la Secretaría;
+
+III. Formular recomendaciones sobre los programas de la Secretaría cuando lo considere necesario;
+
+IV. Asesorar al Secretario en aquellas funciones, facultades o atribuciones, así como en los programas específicos en los que se solicite su opinión;
+
+V. Analizar en sus reuniones ordinarias el desarrollo de los distintos programas que realice la Secretaría;
+
+VI. Apoyar a la Secretaría para llevar a cabo programas dirigidos a elevar la calidad de los servicios culturales, artísticos y técnicos;
+
+VII. Informar al Secretario sobre los distintos movimientos culturales y artísticos que se desarrollen en el Estado;
+
+VIII. Asesorar y apoyar a las unidades administrativas de la Secretaría para el cumplimiento de sus funciones, cuando se solicite su intervención;
+
+IX. Auxiliar y asesorar en la resolución de eventualidades que se susciten en el desarrollo de los programas y funcionamiento de la Secretaría;
+
+X. Colaborar con la Secretaría en el diseño y elaboración de programas que contribuyan al cumplimiento de sus objetivos;
+
+XI. Auxiliar a la Secretaría en la integración de jurados y grupos colegiados, y
+
+XII. Las demás que le encomiende el Secretario y las que establezcan otras disposiciones aplicables.
+
+# LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+
+> <small>(REFORMADA SU DENOMINACION, D.O. 24 DE AGOSTO DE 2010)</small>
+
+### CAPÍTULO IV. Del Consejo Consultivo para la Cultura y las Artes
+
+> <small>(REFORMADO Y REUBICADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 608.
 
 Para efectos de este Libro se entenderá por:
 
-I. Acta: documento escrito en el que se hacen constar los acuerdos adoptados durante la sesión correspondiente, firmado por quienes en ella intervinieron.
+l. Acta: documento escrito en el que se hacen constar los acuerdos adoptados durante la sesión correspondiente, firmado por quienes en ella intervinieron.
 
 II. Carpeta: conjunto de documentos consistente en: convocatoria de la sesión, orden del día, informes y demás escritos inherentes a la sesión.
 
 III. Comisario: es el participante en quién recaen las funciones de vigilancia y supervisión de la Entidad; de conformidad al Código de la Administración Pública de Yucatán. El Comisario Titular y su suplente son designados por el Secretario de la Contraloría.
 
-IV. Miembro propietario: persona integrante del Órgano de Gobierno de la Entidad que cuenta con designación o nombramiento en calidad de Titular.
+IV. Entidad paraestatal: Las que con tal carácter determina el Código de la Administración Pública de Yucatán.
 
-V. Suplente: persona designada para cubrir las inasistencias del miembro propietario.
+V. Órgano de Gobierno: La Junta de Gobierno, el Consejo de Administración, el Comité Técnico u otro de naturaleza análoga, de una Entidad Paraestatal.
 
-VI. Participante: persona que interviene en alguna sesión del Órgano de Gobierno sin ser miembro integrante del mismo.
+VI. Miembro propietario: persona integrante del Órgano de Gobierno de la Entidad que cuenta con designación o nombramiento en calidad de Titular.
 
-VII. Sesión Ordinaria: es la que se realiza de conformidad al calendario aprobado por el propio Órgano de Gobierno.
+VII. Suplente: persona designada para cubrir las inasistencias del miembro propietario.
 
-VIII. Sesión Extraordinaria: la que puede realizarse en cualquier tiempo y que se convocará bajo cualquiera de las dos circunstancias siguientes: ya sea por convocatoria de quien preside la Sesión o por la solicitud de al menos un tercio del total de los miembros propietarios del Órgano.
+VIII. Participante: persona que interviene en alguna sesión del Órgano de Gobierno sin ser miembro integrante del mismo.
+
+IX. Sesión Ordinaria: es la que se realiza de conformidad al calendario aprobado por el propio Órgano de Gobierno.
+
+X. Sesión Extraordinaria: la que puede realizarse en cualquier tiempo y que se convocará bajo cualquiera de las dos circunstancias siguientes: ya sea por convocatoria de quien preside la Sesión o por la solicitud de al menos un tercio del total de los miembros propietarios del Órgano.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 24 DE AGOSTO DE 2010)</small>
 
-###### Artículo 564.
+### CAPÍTULO I. Disposiciones generales
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 609.
 
 La administración de las entidades paraestatales estará a cargo de:
 
-I. Una Junta de Gobierno o su equivalente, que se integrará al menos con los siguientes miembros propietarios:
+l. Una Junta de Gobierno o su equivalente, que se integrará al menos con los siguientes miembros propietarios:
 
 a) Presidente: el Gobernador del Estado o la persona que éste designe;
 
@@ -10597,27 +11897,41 @@ e) Vocal: Coordinador Sectorial.
 
 II. Un Director General o su equivalente.
 
-> <small>(ADICIONADO, D.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 564 Bis.
+###### Artículo 610.
 
-El Director General o su equivalente, será designado por el Gobernador del Estado y durará en su encargo un período de cuatro años, pudiendo ser designado por un período más como máximo. Al término de su período, la persona que ocupe el cargo de Director General o su equivalente, permanecerá en funciones hasta en tanto se designe a quien deba sustituirlo.
+El Director General o su equivalente, será designado por el Gobernador del Estado, durará en su encargo un período de cuatro años y podrá ser reelecto hasta por un período más.
 
-###### Artículo 565.
+Al término de su período, la persona que ocupe el cargo de Director General o su equivalente, permanecerá en funciones hasta en tanto se designe a quien deba sustituirlo.
+
+### CAPÍTULO II. De la administración de las entidades paraestatales
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 611.
 
 Cada miembro propietario deberá nombrar por escrito a un suplente con nivel jerárquico inmediato inferior al de él o, al menos, con rango de Director, al que acreditará ante el Órgano de Gobierno, excepto el Gobernador del Estado, quien será suplido en los términos del Código de la Administración Pública de Yucatán.
 
-###### Artículo 566.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-En caso de que el miembro propietario decida cambiar a la persona que deba suplirlo, deberá remitir al Secretario de Actas y Acuerdos, con al menos veinticuatro horas de anticipación a la fecha de la sesión, el nombre y cargo de quien lo suplirá.
+###### Artículo 612.
 
-###### Artículo 567.
+En caso de que el miembro propietario decida cambiar a la persona que deba suplirlo, deberá remitir al Secretario de Actas y Acuerdos el nombre y cargo de quien lo suplirá, con al menos veinticuatro horas de anticipación a la fecha de la sesión.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 613.
 
 Al entrar en funciones y durante el tiempo que duren éstas, los suplentes tendrán las mismas facultades y obligaciones que los miembros propietarios a los que suplan.
 
-###### Artículo 568.
+### CAPÍTULO III. De la Suplencia de los miembros propietarios del Órgano de Gobierno
 
-En los términos del Código de la Administración Pública de Yucatán son atribuciones de los Órganos de Gobierno las siguientes:
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 614.
+
+En los términos del Código de la Administración Pública de Yucatán son atribuciones de la Junta de Gobierno o su equivalente, las siguientes:
 
 I. Aprobar el programa anual de austeridad, racionalidad y disciplina presupuestal;
 
@@ -10633,25 +11947,33 @@ VI. Estudiar, revisar y en su caso aprobar los proyectos de inversión que sean 
 
 VII. Verificar que los nombramientos del personal del siguiente nivel inferior jerárquico al del Director General, se realicen con apego a la normatividad aplicable;
 
-VIII. Adoptar, en su caso, las medidas procedentes con base en los informes que emita el Comisario y; (sic)
+VIII. Adoptar, en su caso, las medidas procedentes con base en los informes que emita el Comisario;
 
 IX. Aprobar, evaluar y dar seguimiento al Programa Operativo Anual (POA) presentado por el Director General;
 
 X. Conocer la actualización periódica de los indicadores que permitan medir y evaluar la gestión de la Entidad y recomendar el establecimiento de estándares de desempeño para cada ejercicio, en los cuales se evalúen los resultados obtenidos contra los planeados;
 
-XI. Promover las acciones para solucionar las deficiencias encontradas en el dictamen externo, correspondiente a los estados financieros o presupuestales, según el caso, y
+XI. Promover las acciones para solucionar las deficiencias encontradas en el dictamen externo, correspondiente a los estados financieros o presupuestales, según el caso;
 
-XII. Proponer un código de ética o conducta, con el propósito de reforzar la integridad y valores institucionales.
+XII. Aprobar la cancelación parcial o total de adeudos a cargo de terceros y a favor de la entidad paraestatal, cuando fuere notoria la imposibilidad práctica de su cobro, con apego en las normas y bases aprobadas para tal efecto, y
 
-###### Artículo 569.
+XIII. Aprobar un código de ética o conducta, con el propósito de reforzar la integridad y valores institucionales.
 
-El Presidente del Órgano de Gobierno tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-I. Presidir las sesiones del Órgano de Gobierno;
+### CAPÍTULO IV. De las atribuciones del Órgano de Gobierno
 
-II. Participar con voz y voto en las sesiones del Órgano de Gobierno. En caso de empate, emitir voto de calidad;
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-III. Someter las propuestas de acuerdos a la consideración y votación de los miembros del Órgano de Gobierno;
+###### Artículo 615.
+
+El Presidente de la Junta de Gobierno o su equivalente tendrá las siguientes facultades y obligaciones:
+
+l. Presidir las sesiones de la Junta de Gobierno o su equivalente;
+
+II. Participar con voz y voto en las sesiones Junta (sic) de Gobierno o su equivalente. En caso de empate, emitir voto de calidad;
+
+III. Someter las propuestas de acuerdos a la consideración y votación de los miembros Junta (sic) de Gobierno o su equivalente
 
 IV. Promover y vigilar el cumplimiento de los acuerdos adoptados en sesiones, de conformidad con los plazos establecidos y las responsabilidades asignadas;
 
@@ -10659,89 +11981,119 @@ V. Proponer la celebración de sesiones extraordinarias;
 
 VI. Proponer la participación de invitados en las sesiones, y
 
-VII. Poner a consideración del Órgano de Gobierno, la Orden del Día de las sesiones.
+VII. Poner a consideración Junta (sic) de Gobierno o su equivalente, la Orden del
 
-###### Artículo 570.
+Día de las sesiones.
+
+### CAPÍTULO V. De las facultades y obligaciones del Presidente de la Junta de Gobierno o su equivalente
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 616.
 
 Son facultades y obligaciones del Secretario de Actas y Acuerdos:
 
-I. Elaborar el proyecto de la Orden del Día;
+l. Elaborar el proyecto de la Orden del Día;
 
-II. Convocar a los integrantes del Órgano de Gobierno y, en su caso, a los participantes invitados, por instrucción del Presidente;
+II. Convocar a los integrantes de la Junta de Gobierno o su equivalente y, en su caso, a los participantes invitados, por instrucción del Presidente;
 
-III. Elaborar y remitir a los miembros del Órgano de Gobierno el proyecto del acta de la sesión;
+III. Elaborar y remitir a los miembros de la Junta de Gobierno o su equivalente el proyecto del acta de la sesión;
 
-IV. Una vez aprobado el proyecto de acta, recabar las firmas de los miembros del Órgano de Gobierno;
+IV. Una vez aprobado el proyecto de acta, recabar las firmas de los miembros de la Junta de Gobierno o su equivalente;
 
-V. Levantar y asentar las actas en el libro respectivo y responsabilizarse de su resguardo;
+V. Levantar y asentar las actas y responsabilizarse de su resguardo;
 
 VI. Integrar la carpeta de las sesiones ordinarias y extraordinarias, revisar que se anexen los documentos correspondientes, y verificar su resguardo;
 
-VII. Cerciorarse que se realicen las inscripciones correspondientes en el Registro de Organismos Descentralizados;
-
-> <small>(REFORMADA, D.O. 24 DE AGOSTO DE 2010)</small>
+VII. Cerciorarse que se realicen las inscripciones correspondientes en el Registro de Entidades Paraestatales;
 
 VIII. Encargarse de los trámites de protocolización ante Notario Público del acta de la sesión, cuando así corresponda, y
 
 IX. Validar, solicitar y custodiar la acreditación de los miembros y participantes de la sesión.
 
-###### Artículo 571.
+### CAPÍTULO VI. De las facultades y obligaciones del Secretario de Actas y Acuerdos
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 617.
 
 Son facultades y obligaciones del Comisario:
 
-I. Participar con voz, pero sin derecho a voto, en las sesiones del Órgano de Gobierno;
+l. Participar con voz, pero sin derecho a voto, en las sesiones de la Junta de Gobierno o su equivalente;
 
 II. Proponer acuerdos para crear y fortalecer los mecanismos de control presupuestal, control interno y autoevaluación, que promuevan la racionalidad, la optimización y la transparencia en el uso de los recursos;
 
-III. Dar seguimiento al cumplimiento de los acuerdos emanados del Órgano de Gobierno;
+III. Dar seguimiento al cumplimiento de los acuerdos emanados del (sic) Junta de Gobierno o su equivalente;
 
 IV. Requerir a la Entidad la información y todo tipo de documentos que le sirvan para la realización de sus funciones;
 
 V. Informar a la Secretaría de la Contraloría General de los acuerdos que se adopten en las sesiones de los órganos de gobierno;
 
-VI. Presentar al Órgano de Gobierno y a la Secretaría de la Contraloría General, un informe anual de la gestión de la Entidad, y
+VI. Presentar a la Junta de Gobierno o su equivalente y a la Secretaría de la Contraloría General, un informe anual de la gestión de la Entidad, y
 
 VII. Las demás que le establezcan este Reglamento y otras disposiciones aplicables.
 
-###### Artículo 572.
+### CAPÍTULO VII. De las facultades y obligaciones del Comisario
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 618.
 
 Son facultades y obligaciones de los Vocales:
 
-I. Participar con voz y voto en las sesiones del Órgano de Gobierno;
+l. Participar con voz y voto en las sesiones de la Junta de Gobierno o su equivalente;
 
-II. Proponer y promover acuerdos orientados al logro de los objetivos de la Entidad;
+II. Proponer y promover acuerdos orientados al logro de los objetivos de la
+
+Entidad;
 
 III. Plantear la celebración de sesiones extraordinarias cuando, por la importancia o urgencia de los asuntos, así se requiera;
 
-IV. Solicitar la intervención de invitados en las sesiones del Órgano de Gobierno para orientar a los miembros a tomar las decisiones óptimas en la resolución de los diversos asuntos, y
+IV. Solicitar la intervención de invitados en las sesiones de la Junta de Gobierno o su equivalente, para orientar a los miembros a tomar las decisiones óptimas en la resolución de los diversos asuntos, y
 
 V. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-###### Artículo 573.
+### CAPÍTULO VIII. Facultades y obligaciones de los Vocales
 
-Corresponde al Director General de la entidad o su equivalente, elaborar y presentar al Órgano de Gobierno en la primera sesión del año, el proyecto de calendario para la celebración de las sesiones ordinarias de los Órganos de Gobierno.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-## TÍTULO ÚNICO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO DE LAS ENTIDADES PARAESTATALES
+#### SECCIÓN PRIMERA. Del calendario de sesiones
 
-### CAPÍTULO I. Disposiciones generales
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 574.
+###### Artículo 619.
+
+Corresponde al Director General de la entidad o su equivalente, elaborar y presentar al Órgano de Gobierno en la primera sesión del año, el proyecto de calendario para la celebración de las sesiones ordinarias de la Junta de Gobierno o su equivalente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 620.
 
 El calendario que aprueben los órganos de gobierno, de conformidad con lo establecido en el Código, sólo podrá modificarse por causas de fuerza mayor o por solicitud de la mayoría de sus miembros o de su Presidente.
 
-###### Artículo 575.
+#### SECCIÓN SEGUNDA. De las convocatorias
 
-Las convocatorias deberán ser firmadas por el Presidente del Órgano de Gobierno o por el Secretario de Actas y Acuerdos y contendrán la especificación del día, hora y lugar en que se llevará a efecto la sesión.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 576.
+###### Artículo 621.
+
+Las convocatorias deberán ser firmadas por el Presidente de la Junta de Gobierno o su equivalente o por el Secretario de Actas y Acuerdos y contendrán la especificación del día, hora y lugar en que se llevará a efecto la sesión.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 622.
 
 En su caso, el Secretario de Actas y Acuerdos hará los trámites conducentes ante las dependencias o entidades correspondientes, a efecto de obtener la documentación conducente para la acreditación de los miembros.
 
-###### Artículo 577.
+#### SECCIÓN TERCERA. De la Orden del Día
 
-La Orden del Día de las sesiones del Órgano de Gobierno, deberá contener, en lo general, lo siguiente:
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-I. Lista de Asistencia y declaración de quórum legal;
+###### Artículo 623.
+
+La Orden del Día de las sesiones de la Junta de Gobierno o su equivalente, deberá contener, en lo general, lo siguiente:
+
+l. Lista de Asistencia y declaración de quórum legal;
 
 II. Lectura y aprobación, en su caso, de la Orden del Día;
 
@@ -10755,101 +12107,129 @@ VI. Propuesta de acuerdos al Órgano de Gobierno, y
 
 VII. Asuntos Generales.
 
-###### Artículo 578.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 624.
 
 Además de lo establecido en el artículo anterior, en la Orden del Día deberá incluirse, de acuerdo a la sesión de que se trate, lo siguiente:
 
 I. Primera sesión del año:
 
-a) Informe de gestión del Titular de la Entidad correspondiente al ejercicio del año anterior;
+a) Informe de gestión del Titular de la Entidad correspondiente al ejercicio del año anterior, y
 
-b) Presentación y aprobación, en su caso, del presupuesto para el ejercicio del año en curso, y
+b) Presentación y aprobación, en su caso, del presupuesto para el ejercicio del año en curso.
 
-c) Presentación y aprobación, en su caso, del calendario de sesiones.
+II. Segunda sesión del año: Opinión del Comisario sobre el informe anual de gestión presentado por el Titular de la Entidad;
 
-II. Segunda sesión del año:
+III. Tercera sesión del año: Presentación y aprobación, en su caso, de los estados financieros dictaminados al 31 de diciembre del ejercicio anterior, e informe de los comisarios sobre los mismos, y
 
-a) Opinión del Comisario sobre el informe anual de gestión presentado por el Titular de la Entidad;
+IV. Cuarta sesión del año:
 
-b) Presentación y aprobación, en su caso, de los estados financieros dictaminados al 31 de diciembre del ejercicio anterior, e informe de los comisarios sobre los mismos, y
+a) Presentación y aprobación, en su caso, del anteproyecto del presupuesto para el ejercicio del año siguiente, y
 
-III. Cuarta sesión del año: la presentación y aprobación, en su caso, del anteproyecto del presupuesto para el ejercicio del año siguiente.
+b) Presentación y aprobación, en su caso, del calendario de sesiones.
 
-###### Artículo 579.
+#### SECCIÓN CUARTA. Del desarrollo de las sesiones
 
-Para la celebración de las sesiones ordinarias, la Convocatoria deberá ir acompañada de la Orden del Día y demás documentos de la carpeta correspondiente, la cual deberá ser enviada por el Secretario de Actas y Acuerdos con una anticipación no menor de cinco días hábiles.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 580.
+###### Artículo 625.
 
-Para la celebración de las sesiones extraordinarias, la Convocatoria deberá ir acompañada de la Orden del Día, la cual deberá ser enviada por el Secretario de Actas y Acuerdos con una anticipación de veinticuatro horas.
+Para la celebración de las sesiones ordinarias, la Convocatoria deberá ir acompañada de la Orden del Día y demás documentos en la carpeta correspondiente, la cual deberá ser enviada por el Secretario de Actas y Acuerdos con una anticipación no menor de cinco días hábiles a la fecha de la sesión.
 
-###### Artículo 581.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-La información de las sesiones ordinarias que será analizada y discutida por el Órgano de Gobierno, será referente a los asuntos del período comprendido entre una sesión ordinaria y otra.
+###### Artículo 626.
+
+Para la celebración de las sesiones extraordinarias, la Convocatoria deberá ir acompañada de la Orden del Día, la cual deberá ser enviada por el Secretario de Actas y Acuerdos con una anticipación de veinticuatro horas a la fecha de la sesión.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 627.
+
+La información de las sesiones ordinarias que será analizada y discutida por la Junta de Gobierno o su equivalente, será referente a los asuntos del período comprendido entre una sesión ordinaria y otra.
 
 En el caso de las sesiones extraordinarias, la información correspondiente sólo comprenderá los asuntos señalados en la Orden del Día.
 
-###### Artículo 582.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 628.
 
 Las carpetas relativas a las sesiones deberán contar con un folio progresivo y serán clasificadas conforme a las disposiciones legales aplicables.
 
-###### Artículo 583.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 629.
 
 Con el propósito de verificar la existencia del quórum legal para el desarrollo de la sesión, el Secretario de Actas y Acuerdos deberá verificar y asentar en el Acta la asistencia de los miembros del Órgano de Gobierno.
 
 La lista de los miembros asistentes, en la que se registrará el nombre completo, el cargo o puesto desempeñado, la firma autógrafa y el señalamiento que distinga a los miembros propietarios de los suplentes y de los demás participantes de conformidad con las acreditaciones correspondientes, se anexará al Acta.
 
-###### Artículo 584.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 630.
 
 Para la validez de las reuniones del Órgano de Gobierno se requiere de un quórum de asistencia de, por lo menos, la mitad más uno de sus miembros.
 
-### CAPÍTULO II. De la administración de las entidades paraestatales
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O. 24 DE AGOSTO DE 2010)</small>
+###### Artículo 631.
 
-###### Artículo 585.
+En el caso de que no se reúna el quórum requerido en el Artículo anterior, el Secretario de Actas y Acuerdos levantará constancia del hecho y convocará nuevamente a sesión, la cual se llevará a cabo con el número de miembros que asista.
 
-En el caso de que no se reúna el quórum requerido en el Artículo anterior, el Secretario de Actas y Acuerdos levantará constancia del hecho y convocará nuevamente a sesión, la cual se llevará al (sic) cabo con el número de miembros que asista.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 586.
+###### Artículo 632.
 
-Todos los miembros del Órgano de Gobierno deberán emitir su voto y sus resoluciones se tomarán por mayoría.
+Todos los miembros la Junta de Gobierno o su equivalente deberán emitir su voto y sus resoluciones se tomarán por mayoría.
 
-###### Artículo 587.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Para dar seguimiento a la toma de decisiones del Órgano de Gobierno, el Secretario de Actas y Acuerdos registrará en el Acta, los acuerdos que se adopten, los cuales deberán relacionarse en orden consecutivo e identificarse de conformidad al número de sesión y el carácter de la misma.
+###### Artículo 633.
 
-###### Artículo 588.
+Para dar seguimiento a la toma de decisiones la (sic) Junta de Gobierno o su equivalente, el Secretario de Actas y Acuerdos registrará en el Acta, los acuerdos que se adopten, los cuales deberán relacionarse en orden consecutivo e identificarse de conformidad al número de sesión y el carácter de la misma.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 634.
 
 El apartado correspondiente al seguimiento de acuerdos deberá contener un resumen del acuerdo original y las principales acciones que se han efectuado para su cumplimiento.
 
-###### Artículo 589.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-El Secretario de Actas y Acuerdos remitirá a los miembros del Órgano el proyecto del Acta, en un plazo no mayor de diez días hábiles, contados a partir de la fecha de celebración de la sesión. El envío podrá ser por medio impreso o electrónico.
+###### Artículo 635.
 
-Los miembros del Órgano contarán con un plazo no mayor de cinco días hábiles a partir del siguiente a su recepción, para revisar el proyecto del Acta y remitir sus observaciones al Secretario de Actas y Acuerdos.
+El Secretario de Actas y Acuerdos remitirá a los miembros del Órgano de Gobierno el proyecto del Acta, en un plazo no mayor de diez días hábiles, contados a partir de la fecha de celebración de la sesión. El envío podrá ser por medio impreso o electrónico.
 
-De no recibirse observaciones en el plazo señalado, dicho proyecto se tendrá por aceptado, salvo prórroga solicitada por escrito, dirigido al Secretario de Actas y Acuerdos.
+Los miembros del Órgano de Gobierno contarán con un plazo no mayor de cinco días hábiles a partir del siguiente a su recepción, para revisar el proyecto del Acta y remitir sus observaciones al Secretario de Actas y Acuerdos, en cuyo caso se consideraran y se enviaran nuevamente a los miembros del Órgano en un plazo no mayor de dos días hábiles.
 
-###### Artículo 590.
+En caso de no recibirse observaciones por parte de los miembros del Órgano de Gobierno en un plazo no mayor de cinco días hábiles a partir del siguiente a su recepción, el proyecto se tendrá por aceptado, salvo prórroga solicitada por escrito, dirigido al Secretario de Actas y Acuerdos.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 636.
 
 Las actas deberán estar foliadas y serán firmadas en todas las páginas de manera autógrafa por los integrantes del Órgano de Gobierno.
 
-###### Artículo 591.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 637.
 
 Las actas de las sesiones serán clasificadas por el Secretario de Actas y Acuerdos, de conformidad con lo previsto en la Ley de Acceso a la Información Pública para el Estado y Municipios de Yucatán y, en su caso, en los términos de las disposiciones legales aplicables.
 
-###### Artículo 592.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-El Director General o su equivalente de la Entidad deberá presentar de manera trimestral y anual al Órgano de Gobierno, informes sobre la aplicación de los recursos y los resultados obtenidos, el cual deberá contener lo siguiente:
+###### Artículo 638.
 
-I. Diagnóstico que permita identificar la problemática que prevalecía en el ámbito de acción de la Entidad al inicio del período sujeto a informe, de acuerdo con el propósito fundamental que justifica su existencia;
+El Director General o su equivalente de la Entidad deberá presentar de manera trimestral y anual a la Junta de Gobierno o su equivalente, informes sobre la aplicación de los recursos y los resultados obtenidos, el cual deberá contener lo siguiente:
+
+l. Diagnóstico que permita identificar la problemática que prevalecía en el ámbito de acción de la Entidad al inicio del período sujeto a informe, de acuerdo con el propósito fundamental que justifica su existencia;
 
 II. Resumen de actividades;
 
-III. Comportamiento financiero y programático-presupuestal;
+III. Comportamiento financiero y programático-presupuestal, en los términos de la legislación aplicable;
 
-a) Sintetizar la evolución de la situación financiera de la entidad en el período que se informa, y explicar los motivos de las modificaciones más importantes con respecto de la registrada inicialmente;
+a) Sintetizar la evolución de la situación financiera de la entidad en el período que se informa, y explicar los motivos de las modificaciones más importantes con respecto de la registrada inicialmente.
 
 b) Variación que se suscite en la ejecución del Programa Operativo Anual;
 
@@ -10883,15 +12263,19 @@ Al hacer la descripción de las mejoras y ventajas deberá establecerse su relac
 
 VI. Perspectivas.
 
-###### Artículo 593.
+### CAPÍTULO IX. De las políticas de operación
 
-La desincorporación de las entidades paraestatales de la Administración Pública Estatal, se llevará al (sic) cabo con base en lo señalado en el Código de la Administración Pública de Yucatán.
+###### Artículo 639.
 
-###### Artículo 594.
+La desincorporación de las entidades paraestatales de la Administración Pública Estatal, se llevará a cabo con base en lo señalado en el Código de la Administración Pública de Yucatán, mediante la disolución, liquidación, extinción, fusión, enajenación u otra forma similar.
 
-Para el caso de la extinción de un organismo descentralizado, el Órgano de Gobierno designará un responsable quién deberá:
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-I. Levantar el inventario de los bienes, obligaciones y procesos en trámite inherentes al organismo;
+###### Artículo 640.
+
+Para el caso de la extinción de un organismo descentralizado, la Junta de Gobierno establecerá los lineamientos para el desarrollo de la extinción y designará un responsable quién deberá:
+
+l. Levantar el inventario de los bienes, obligaciones y procesos en trámite inherentes al organismo;
 
 II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de extinción y, cuando proceda, los anuales intermedios;
 
@@ -10901,11 +12285,11 @@ IV. Verificar que se formalice la entrega-recepción de los bienes y recursos re
 
 V. Aplicar las demás disposiciones legales propias del proceso de extinción.
 
-La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al Órgano de Gobierno el avance del proceso.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 595.
+###### Artículo 641.
 
-Para el caso de la extinción de un Fideicomiso Público que conforme al Código reúna las características de entidad paraestatal, la Secretaría de Planeación y Presupuesto, o a indicación de ésta, el Comité Técnico de que se trate, emitirá los lineamientos conforme a los cuales se llevará al (sic) cabo el proceso de extinción.
+Para el caso de la extinción de un Fideicomiso Público que conforme al Código reúna las características de entidad paraestatal, la Secretaría de Planeación y Presupuesto, o a indicación de ésta, el Comité Técnico de que se trate, emitirá los lineamientos conforme a los cuales se llevará a cabo el proceso de extinción.
 
 Cuando en el proceso a que se refiere el párrafo anterior deba resolverse sobre adeudos en que sea notoria la imposibilidad práctica de su cobro, el Comité Técnico como Órgano de Gobierno del Fideicomiso, emitirá los criterios para su cancelación, e informará de ello al fideicomitente.
 
@@ -10913,25 +12297,27 @@ La extinción de los fideicomisos se formalizará mediante la firma del convenio
 
 En el caso de que el Comité Técnico no hubiere sesionado durante el año anterior a la fecha en que se autorice la extinción del fideicomiso, la Dependencia Coordinadora de Sector, con base en las propuestas que formule la fiduciaria someterá a la aprobación de la Secretaría de Planeación y Presupuesto como fideicomitente único de la Administración Pública Estatal, las acciones que deba adoptar con respecto a la extinción del fideicomiso.
 
-### CAPÍTULO III. De la Suplencia de los miembros propietarios del Órgano de Gobierno
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 596.
+###### Artículo 642.
 
-Para el proceso de liquidación de una Empresa de Participación Estatal Mayoritaria, el Órgano de Gobierno designará un responsable quien deberá:
+Para el proceso de liquidación de una Empresa de Participación Estatal Mayoritaria, el Consejo de Administración establecerá los lineamientos para el desarrollo de la liquidación y designará un responsable quien deberá
 
-I. Informar a las Secretarías, de Hacienda, de Planeación y Presupuesto, de la Contraloría General del Estado y a la Dependencia Coordinadora de Sector sobre el avance y estado que guarde el proceso;
+l. Informar a las Secretarías, de Hacienda, de Planeación y Presupuesto, de la Contraloría General del Estado y a la Dependencia Coordinadora de Sector sobre el avance y estado que guarde el proceso;
 
 II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de liquidación y, cuando proceda, los anuales intermedios, y
 
 III. Verificar que se formalice la entrega-recepción de los bienes y recursos respectivos.
 
-La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al Órgano de Gobierno el avance del proceso.
+La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al Titular de la dependencia cabeza de sector el avance del proceso.
 
-###### Artículo 597.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-En cuanto a la fusión de entidades paraestatales, el Órgano de Gobierno designará un responsable, quien deberá:
+###### Artículo 643.
 
-I. Levantar el inventario de los bienes de la Entidad fusionante y someter al dictamen del auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado los últimos estados financieros;
+En cuanto a la fusión de entidades paraestatales, la Junta de Gobierno o equivalente establecerá los lineamientos para el desarrollo de la fusión y designará un responsable, quien deberá:
+
+l. Levantar el inventario de los bienes de la Entidad fusionante y someter al dictamen del auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado los últimos estados financieros;
 
 II. Informar a la Dependencia Coordinadora del Sector y a las secretarías de Hacienda, de Planeación y Presupuesto y de la Contraloría General del Estado sobre los avances y estado que guarda el proceso, y
 
@@ -10939,37 +12325,65 @@ III. Verificar que se formalice la entrega-recepción de los bienes y recursos r
 
 La persona designada como responsable para realizar las actividades señaladas en las fracciones anteriores deberá informar al Órgano de Gobierno el avance del proceso.
 
-###### Artículo 598.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Las entidades paraestatales que entren en proceso de escisión deberán afectar sus registros contables de tal manera que reflejen en la entidad escindente los importes de activo, pasivo y capital con los que decida (sic) seguir operando o bien, que se extinga y en el caso de las escindidas, los que hayan recibido para llevar al cabo su actividad.
+###### Artículo 644.
 
-###### Artículo 599.
+Las entidades paraestatales que entren en proceso de escisión deberán afectar sus registros contables de tal manera que reflejen en la entidad escindente los importes de activo, pasivo y capital con los que decidan seguir operando o bien, que se extinga y en el caso de las escindidas, los que hayan recibido para llevar al cabo su actividad.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 645.
 
 Para la venta de los títulos representativos del capital social que sean propiedad del Gobierno del Estado o de una o más entidades paraestatales, en los términos del artículo 123 del Código, la Secretaría de Hacienda procederá a la designación, en su caso, del organismo financiero que será el responsable de practicar la enajenación respectiva. Corresponderá a dicho organismo realizar la evaluación técnico financiera de la entidad de que se trate, tomando en consideración los estados financieros dictaminados por el Auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado, con objeto de determinar las mejores condiciones de venta.
 
-###### Artículo 600.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 646.
 
 Una vez concluido el proceso de desincorporación de una entidad, la Dependencia Coordinadora Sectorial lo informará a la Secretaría de Planeación y Presupuesto, en un plazo no mayor de treinta días naturales, para los efectos de que esté actualizada la publicación periódica que se realice de la relación de entidades que conforman el sector paraestatal de la administración pública estatal.
 
-###### Artículo 601.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Para el Registro de Organismos Públicos Descentralizados a que se refiere el Código de la Administración Pública de Yucatán, se deberá cumplir con los requisitos previstos en el mismo y presentar la documentación siguiente:
+### CAPÍTULO XI. Del Registro de las Entidades Paraestatales
 
-I. Original y copia certificada del documento, oficio o contrato que deba registrarse;
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-II. En el caso de decretos, deberá presentarse un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado, y
+### CAPÍTULO X. De la desincorporación de las entidades paraestatales
 
-III. El oficio de solicitud en original y copia, firmados por el Director General de la Entidad Paraestatal.
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 602.
+###### Artículo 647.
 
-Para la cancelación de las inscripciones en el Registro de Organismos Públicos Descentralizados se deberá:
+Para el Registro de Entidades Paraestatales a que se refiere el Código de la Administración Pública de Yucatán, se deberá cumplir con los requisitos previstos en el mismo y presentar la documentación siguiente:
 
-I. Presentar un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado el acto, y
+l. Original y copia certificada del documento, oficio o contrato que deba registrarse;
 
-II. Remitir el oficio de solicitud en original y copia, firmados por el Director General de la Entidad Paraestatal que se cancela.
+II. En el caso de decretos, deberá presentarse un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado;
 
-###### Artículo 603.
+III. La escritura constitutiva o instrumento jurídico por el que se formaliza la entidad paraestatal, así como sus modificaciones y reformas, y
+
+IV. El oficio de solicitud en original y copia, firmados por el Director General de la Entidad Paraestatal.
+
+La Secretaría de Planeación y Presupuesto y la Secretaría de la Contraloría General, podrán requerir en cualquier tiempo la (sic) Junta de Gobierno o equivalente o al Director General o equivalente de la entidad paraestatal, cualquier documento o información que sea necesaria para integrar debidamente el registro de la misma.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 648.
+
+Para la cancelación de las inscripciones en el Registro de Entidades Paraestatales se deberá:
+
+l. Presentar un ejemplar del Diario Oficial del Gobierno del Estado de Yucatán en que se hubiere publicado el acto;
+
+II. Original y copia del documento del mandato del proceso de desincorporación de la Entidad y de la documentación sustento del proceso, y
+
+III. Remitir el oficio de solicitud en original y copia, firmados por el Titular de la Dependencia Coordinadora de Sector de la Entidad Paraestatal que se cancela.
+
+#### SECCIÓN ÚNICA. De la Constancia del Registro
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 649.
 
 El original del documento o acto ya registrado se devolverá al solicitante en un término máximo de cinco días hábiles, contados a partir de su presentación, llevará un sello que contendrá:
 
@@ -10979,37 +12393,7 @@ II. El tipo de documento o acto;
 
 III. El número de folio registral que le corresponda, y
 
-IV. La firma del Director del Registro de Organismos Descentralizados del Estado.
-
-# LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
-
-> <small>(REFORMADA SU DENOMINACION, D.O. 24 DE AGOSTO DE 2010)</small>
-
-### CAPÍTULO IV. De las atribuciones del Órgano de Gobierno
-
-### CAPÍTULO V. De las facultades y obligaciones del Presidente del Órgano de Gobierno
-
-### CAPÍTULO VI. De las facultades y obligaciones del Secretario de Actas y Acuerdos
-
-### CAPÍTULO VII. De las facultades y obligaciones del Comisario
-
-### CAPÍTULO VIII. Facultades y obligaciones de los Vocales
-
-### CAPÍTULO IX. De las políticas de operación
-
-### CAPÍTULO X. De la desincorporación de las entidades paraestatales
-
-### CAPÍTULO XI. Del Registro de los Organismos Descentralizados
-
-#### SECCIÓN PRIMERA. Del calendario de sesiones
-
-#### SECCIÓN SEGUNDA. De las convocatorias
-
-#### SECCIÓN TERCERA. De la Orden del Día
-
-#### SECCIÓN CUARTA. Del desarrollo de las sesiones
-
-#### SECCIÓN ÚNICA. De la Constancia del Registro
+IV. La firma del Director de la Unidad Responsable a la que está adscrito el Registro de Entidades Paraestatales.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -11208,3 +12592,9 @@ D.O. 7 DE FEBRERO DE 2011.
 PRIMERO. Este Reglamento entrará en vigor el día primero de marzo del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO. Se deroga el inciso f) de la fracción III del artículo 70 y el artículo 81, ambos del Reglamento del Código de la Administración Pública de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán, mediante Decreto Número 945 del Poder Ejecutivo del Estado, el día 7 de julio de 2008.
+
+D.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de las disposiciones relativas a la Secretaría de la Cultura y las Artes que entrarán en vigor el primero de enero del año dos mil doce y de la Consejería Jurídica del Poder Ejecutivo, que entrarán en vigor a partir del quince de enero del año dos mil doce.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en este Decreto.
