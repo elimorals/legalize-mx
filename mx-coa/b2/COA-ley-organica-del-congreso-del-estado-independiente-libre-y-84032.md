@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2011-11-25"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -445,15 +445,21 @@ El Pleno del Congreso no puede abrir sus períodos de sesiones ni ejercer sus fu
 
 Para que una disposición del Congreso se tenga como legítima es necesario que sea aprobada por mayoría de votos de los Diputados presentes, excepto en aquellos casos en que la ley exija mayor número.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 46.
 
-Las resoluciones del Congreso tendrán el carácter de ley, decreto o acuerdo.
+Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o voto de confianza.
 
 Es materia de ley, toda resolución que otorgue derechos o imponga obligaciones a la generalidad de personas.
 
 Es materia de decreto, toda resolución que otorgue o imponga obligaciones a algunas personas.
 
 Son materia de acuerdo, las resoluciones que tome el Pleno o la Diputación Permanente y que no tengan carácter de ley o decreto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Son materia de voto de confianza, las resoluciones que tome el Pleno del Congreso en relación con la solicitud a que se refiere la fracción XVII de (sic) artículo 9 de la Ley Orgánica de la Administración Pública del Estado.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA DEL PLENO DEL CONGRESO SU INTEGRACIÓN, DURACIÓN, ELECCIÓN Y ATRIBUCIONES
 
@@ -1605,6 +1611,40 @@ VII. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han resid
 
 Las iniciativas presentadas por el Ejecutivo, el Tribunal Superior, los Ayuntamientos, el Instituto Electoral y de Participación Ciudadana y el Instituto Coahuilense de Acceso a la Información Pública, pasarán, desde luego, a comisión. Las de los diputados se sujetarán a la presente ley y a los acuerdos tomados por el Pleno.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+El Gobernador del Estado, podrá acudir al Congreso del Estado para presentar personalmente Iniciativas de Ley o Decreto.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Para la recepción de las Iniciativas de Ley o Decreto que presente personalmente el Gobernador del Estado de Coahuila de Zaragoza, se observará lo que se establece a continuación:
+
+I.- El Gobernador del Estado, podrá presentar personalmente las Iniciativas de Ley o Decreto, acudiendo al Congreso del Estado, sin ocurrir ante el Pleno o ante Comisiones.
+
+En este caso, se celebrará una reunión especial a la que serán convocados los integrantes de la Legislatura y, en la cual, el Gobernador del Estado podrá hacer inicialmente una exposición general para dar a conocer y explicar a los Legisladores y, en su caso, a los representantes de los distintos medios de información, los motivos, el sentido, y los principales aspectos de la iniciativa o iniciativas que serán presentadas.
+
+Al concluir su exposición, el Gobernador del Estado hará la entrega de la iniciativa o iniciativas que se presenten en la mencionada reunión, y, una vez formalizada su recepción, se informará al Pleno del Congreso sobre su presentación, para que sea turnada a la Comisión que corresponda y se continúe con el trámite legislativo de la misma, conforme a lo establecido en la Ley Orgánica del Congreso del Estado.
+
+Para la celebración de la reunión antes referida, será necesario que previamente se informe sobre la fecha y hora consideradas para la presentación de las iniciativas, lo cual deberá hacerse cuando menos 24:00 horas antes de la que se proponga o señale para su realización, a fin de que se pueda hacer oportunamente la convocatoria correspondiente.
+
+II.- El Gobernador del Estado, podrá presentar personalmente las Iniciativas de Ley o Decreto, acudiendo al Congreso del Estado, para ocurrir ante la Comisión o Comisiones competentes en la materia a que estén referidas las iniciativas, a fin de cumplir con lo señalado.
+
+En este caso, será necesario que las iniciativas se envíen al Congreso del Estado cuando menos 24:00 horas antes de la que se proponga o señale para su presentación, a fin de que se pueda convocar oportunamente a la Comisión o Comisiones ante las cuales se debe hacer la presentación, mediante un citatorio que deberá contener un orden del día y al que se debe acompañar el documento o los documentos que serán presentados ante las Comisiones.
+
+En las reuniones de Comisión o Comisiones, que se celebren para el efecto antes señalado, el Gobernador del Estado podrá hacer inicialmente una exposición general para dar a conocer y explicar a los integrantes de la Comisión o Comisiones que corresponda, los motivos, el sentido y los principales aspectos de la iniciativa o iniciativas que serán presentadas, con la posibilidad de que los legisladores que concurran a la reunión, puedan formular preguntas exclusivamente relacionadas con el tema de las iniciativas.
+
+Al concluirse la exposición inicial y, en su caso, la formulación de preguntas, el Gobernador del Estado podrá hacer la entrega de un ejemplar de la iniciativa o iniciativas que se presenten en la mencionada reunión, y, una vez recibidos estos documentos, se informará al Pleno del Congreso sobre su presentación y recepción, para que se formalice el turno a la Comisión o Comisiones que corresponda y se continúe con el trámite legislativo de las iniciativas presentadas, conforme a lo establecido en la Ley Orgánica del Congreso del Estado.
+
+III. El Gobernador del Estado, podrá acudir a una sesión ordinaria del Congreso del Estado, para presentar personalmente Iniciativas de Ley o Decreto ante el Pleno de la Legislatura.
+
+En este caso, cuando el Gobernador del Estado tenga la intención de acudir a una sesión para presentar personalmente Iniciativas de Ley o Decreto, será necesario que se informe al Congreso del Estado lo anterior, cuando menos 24:00 horas antes de la fijada para la celebración de la sesión a la que considera asistir el Ejecutivo del Estado para el electo antes señalado, con el fin de que se pueda incluir este asunto en el orden del día de dicha sesión.
+
+En la sesión a la que acuda el Gobernador del Estado para cumplir con lo antes señalado, se le concederá la palabra conforme a lo programado en el orden del día y en su intervención dará cuenta de la iniciativa o iniciativas que tenga considerado presentar, haciendo una exposición general para dar a conocer y explicar a los integrantes de la Legislatura, los motivos, el sentido y los principales aspectos de la iniciativa o iniciativas que se presenten, sin que su intervención pueda dar lugar a preguntas o comentarios por parte de los legisladores.
+
+Al concluir su intervención, el Gobernador del Estado entregará al Presidente de la Mesa Directiva del Congreso del Estado, la iniciativa o iniciativas presentadas en la sesión, para que se disponga su turno a la Comisión o Comisiones que corresponda y se continúe con el trámite legislativo de dichas iniciativas, conforme a lo establecido en la Ley Orgánica del propio Congreso del Estado.
+
+Por otra parte, cuando el Gobernador del Estado acuda a una sesión del Congreso del Estado, para presentar personalmente iniciativas de Ley o Decreto ante el Pleno de la Legislatura, conforme a lo establecido en la Ley Orgánica del Congreso del Estado, la Presidencia de la Mesa Directiva dispondrá que se forme una Comisión de Protocolo para recibir y despedir al Ejecutivo Estatal, al arribar y retirarse del Recinto del Congreso del Estado.
+
 ###### ARTÍCULO 146.
 
 Las iniciativas presentadas por los sujetos a que se refiere la fracción VII del artículo 144 de esta ley, se dictaminarán por la comisión correspondiente.
@@ -1741,11 +1781,13 @@ Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso d
 
 En los casos de urgente u obvia resolución, determinada por el voto de la mayoría de los legisladores del Congreso que estén presentes, se podrá, a pedimento de alguno de sus miembros, dar curso a las proposiciones o proyectos y ponerlos a discusión inmediatamente después de su lectura.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 164.
 
-Las resoluciones del Pleno del Congreso, para que tengan validez, deberán ser aprobadas por la mayoría de los Diputados presentes, salvo aquellas que constitucionalmente requieran de votación especial; y no tendrán otro carácter que el de ley, decreto o acuerdo.
+Las resoluciones del Pleno del Congreso, para que tengan validez, deberán ser aprobadas por la mayoría de los Diputados presentes, salvo aquellas que constitucionalmente requieran de votación especial; y no tendrán otro carácter que el de ley, decreto, acuerdo o voto de confianza.
 
-Las leyes o decretos se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos se firmarán por los dos Secretarios, sin perjuicio de que también lo pueda hacer el Presidente, y se comunicarán también al Ejecutivo, para su conocimiento y, en su caso, para su publicación y observancia.
+Las leyes, decretos y votos de confianza se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos se firmarán por los dos Secretarios, sin perjuicio de que también lo pueda hacer el Presidente, y se comunicarán también al Ejecutivo, para su conocimiento y, en su caso, para su publicación y observancia.
 
 ###### ARTÍCULO 165.
 
@@ -2021,11 +2063,23 @@ Si hubiere empate en las votaciones que no se refieran a elección de personas, 
 
 Los trámites a que se refiere este capítulo no son dispensables.
 
-### CAPÍTULO ÚNICO. INTEGRACIÓN, FUNCIONES Y ATRIBUCIONES DE LA JUNTA DE GOBIERNO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV BIS. DEL VOTO DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 206 BIS. Para dar trámite a la solicitud que se establece en la fracción XVII, del artículo 9 de la Ley Orgánica de la Administración Pública el Congreso se sujetará al siguiente procedimiento:
+
+Una vez que el Gobernador del Estado hubiere remitido la solicitud de voto de confianza al Congreso, éste último deberá determinar la fecha para una sesión del Pleno del Congreso, en la que se realizara un debate en el que intervendrán el Ejecutivo del Estado, los Grupos Parlamentarios y los diputados representantes de partidos políticos, que integren la legislatura respectiva.
+
+La fecha que se designe para la realización del debate a que hace mención el párrafo anterior no podrá ser antes de las setenta y dos horas posteriores a la presentación de la solicitud.
+
+Habiéndose efectuado el debate, el Congreso del Estado contará con un plazo de veinticuatro horas para determinar si otorga o no el voto de confianza al asunto sometido a debate.
 
 ## TÍTULO SÉPTIMO. JUNTA DE GOBIERNO
 
-### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DE SERVICIOS FINANCIEROS, PARLAMENTARIOS Y ADMINISTRATIVOS
+### CAPÍTULO ÚNICO. INTEGRACIÓN, FUNCIONES Y ATRIBUCIONES DE LA JUNTA DE GOBIERNO
 
 ###### ARTÍCULO 207.
 
@@ -2177,7 +2231,7 @@ A las reuniones de la Junta de Gobierno, también asistirá, sin voz y sin voto,
 
 ## TÍTULO OCTAVO. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA
 
-### CAPÍTULO ÚNICO. DE LAS FUNCIONES
+### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DE SERVICIOS FINANCIEROS, PARLAMENTARIOS Y ADMINISTRATIVOS
 
 ###### ARTÍCULO 225.
 
@@ -2317,7 +2371,7 @@ IX. Las demás que les encomienden los titulares de los órganos legislativos, p
 
 ## TÍTULO NOVENO. DEL INSTITUTO DE INVESTIGACIONES JURÍDICAS Y PARLAMENTARIAS
 
-### CAPÍTULO ÚNICO. DE LA INSTITUCIONALIZACIÓN DEL SERVICIO CIVIL DE CARRERA
+### CAPÍTULO ÚNICO. DE LAS FUNCIONES
 
 ###### ARTÍCULO 233.
 
@@ -2379,7 +2433,7 @@ El Instituto de Investigaciones Jurídicas y Parlamentarias, contará con las á
 
 ## TÍTULO DÉCIMO. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPÍTULO ÚNICO. DEL DIARIO DE DEBATES Y DE LA GACETA PARLAMENTARIA
+### CAPÍTULO ÚNICO. DE LA INSTITUCIONALIZACIÓN DEL SERVICIO CIVIL DE CARRERA
 
 ###### ARTÍCULO 239.
 
@@ -2417,7 +2471,7 @@ La información confidencial para la protección de datos personales, se regirá
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA DIFUSIÓN E INFORMACIÓN LEGISLATIVA
 
-### CAPÍTULO I. DEL INFORME DEL ESTADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
+### CAPÍTULO ÚNICO. DEL DIARIO DE DEBATES Y DE LA GACETA PARLAMENTARIA
 
 ###### ARTÍCULO 247.
 
@@ -2467,7 +2521,7 @@ IV. Otros documentos que determine la Junta de Gobierno.
 
 ## TÍTULO DÉCIMO TERCERO. DE LAS RELACIONES INTERINSTITUCIONALES DEL PODER LEGISLATIVO
 
-### CAPÍTULO II. DEL NOMBRAMIENTO DE GOBERNADOR INTERINO Y PROVISIONAL Y DE LA ELECCIÓN DE GOBERNADOR SUSTITUTO Y OTROS FUNCIONARIOS
+### CAPÍTULO I. DEL INFORME DEL ESTADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
 ###### ARTÍCULO 254.
 
@@ -2479,7 +2533,7 @@ Para ese efecto, la Junta de Gobierno formulará una propuesta sobre los servido
 
 El Fiscal General presentará la cuenta de actividades de la Fiscalía General, en el mes en el que se cite a los titulares de las dependencias de la administración pública centralizada a la glosa del informe anual de gobierno; cuidando siempre que la presentación, sea posterior al informe del Gobernador; lo anterior de conformidad con lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza.
 
-### CAPÍTULO III. DEL CEREMONIAL
+### CAPÍTULO II. DEL NOMBRAMIENTO DE GOBERNADOR INTERINO Y PROVISIONAL Y DE LA ELECCIÓN DE GOBERNADOR SUSTITUTO Y OTROS FUNCIONARIOS
 
 ###### ARTÍCULO 255.
 
@@ -2553,7 +2607,7 @@ Es facultad del Congreso o de la Diputación Permanente, otorgar o negar la apro
 
 Igualmente, ratificar, el nombramiento del Fiscal General del Estado y de aquellos otros titulares de la administración pública estatal que presente el Ejecutivo del Estado.
 
-### CAPÍTULO ÚNICO. DEL PÚBLICO ASISTENTE A LAS SESIONES
+### CAPÍTULO III. DEL CEREMONIAL
 
 ###### ARTÍCULO 269.
 
@@ -2580,6 +2634,8 @@ Durante los recesos la protesta se rendirá ante la Diputación Permanente, seg�
 Cuando algún funcionario, representante diplomático o persona de relieve se presente en el Congreso a invitación de éste, se nombrará una Comisión que lo reciba a las puertas de la misma y lo acompañe hasta el lugar donde deba tomar asiento, que podrá ser en los palcos bajos, en las curules de los diputados o bien, en el estrado que ocupa la Presidencia.
 
 ## TÍTULO DECIMO CUARTO. DISPOSICIONES COMPLEMENTARIAS
+
+### CAPÍTULO ÚNICO. DEL PÚBLICO ASISTENTE A LAS SESIONES
 
 ###### ARTÍCULO 273.
 
@@ -2632,3 +2688,17 @@ DIPUTADA SECRETARIA
 ESTHER QUINTANA SALINAS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 572, POR EL QUE SE REFORMA EL ARTICULO 145 DE (SIC) LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+DECRETO NÚMERO 573, POR EL QUE SE MODIFICAN EL ARTÍCULO 164, EL PRIMER PÁRRAFO DEL ARTÍCULO 46; Y SE ADICIONAN UN QUINTO PÁRRAFO AL ARTÍCULO 46, UN CAPÍTULO IV BIS Y EL ARTÍCULO 206 BIS A (SIC) LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
