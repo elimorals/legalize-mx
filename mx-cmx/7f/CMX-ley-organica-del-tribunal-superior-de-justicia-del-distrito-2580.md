@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2011-06-17"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1996-01-09"
 ---
 # LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -142,7 +142,7 @@ Los nombramientos de los Magistrados al Tribunal Superior de Justicia del Distri
 
 ###### Artículo 7o.
 
-Para que surtan efectos los nombramientos a que se refiere el artículo anterior, se sujetarán a la aprobación de la Asamblea Legislativa del Distrito Federal, la cual deberá otorgar o negar la aprobación dentro del improrrogable plazo de quince días, contados desde que se reciba en la propia Asamblea el oficio respectivo de la autoridad correspondiente. Para computar dicho plazo, el oficio que contenga la designación de los servidores públicos se remitirá a la Asamblea Legislativa del Distrito Federal con una copia, a fin de que en ésta, el Oficial Mayor o quien haga sus veces, asiente razón de recibo con la fecha correspondiente.
+Para que surtan efectos los nombramientos a que se refiere el artículo anterior, se sujetarán a la aprobación de la Asamblea Legislativa del Distrito Federal, la cual deberá otorgar o negar la aprobación dentro del improrrogable plazo de quince días, contados desde que se reciba en la propia Asamblea el oficio respectivo de la autoridad correspondiente. Para computar dicho plazo, el oficio que contenga la designación de los servidores públicos se remitirá a la Asamblea de Legislativa del Distrito Federal con una copia, a fin de que en ésta, el Oficial Mayor o quien haga sus veces, asiente razón de recibo con la fecha correspondiente.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3688,9 +3688,13 @@ TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura del Dis
 
 CUARTO.-Se derogan todas aquéllas disposiciones que se opongan al presente Decreto.
 
-QUINTO.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 27 de enero de 2012.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-SEXTO.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto del presente decreto.
+Quinto.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71Bis, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 1 de enero de 2013; con excepción del artículo 72 de la Ley Orgánica del Tribunal superior de Justicia del Distrito Federal, que entrará en vigor el 27 de enero de 2012.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Sexto.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto de este decreto.
 
 G.O. 16 DE JUNIO DE 2011.
 
@@ -3705,3 +3709,9 @@ G.O. 17 DE JUNIO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor el día diecinueve de junio de dos mil once.
 
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+G.O. 30 DE DICIEMBRE DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
