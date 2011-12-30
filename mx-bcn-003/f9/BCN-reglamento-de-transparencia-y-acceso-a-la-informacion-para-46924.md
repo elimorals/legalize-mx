@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4692
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-28"
-last_updated: "2011-12-16"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,9 @@ REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL MUNICIPIO DE TECA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO QUE APRUEBA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL EL 16 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO. (REPUBLICADO, P.O. 30 DE DICIEMBRE DE 2011)
+
+> <small>N. DE E. EL ACUERDO PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2011, ES UNA REIMPRESIÓN DEL ACUERDO PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2011.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de octubre de 2005.
 
