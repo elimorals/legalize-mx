@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-transporte-publico-del-estado-de-baja-22986"
 country: "mx"
 rank: "ley_general"
 publication_date: "2001-11-09"
-last_updated: "2010-07-23"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-LEY GENERAL DE TRANSPORTE PUBLICO DEL ESTADO DE BAJA CALIFORNIA
+LEY GENERAL DE TRANSPORTE PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -84,6 +84,30 @@ Transporte público intermunicipal.- Servicio de transporte público que se real
 Usuario: Persona física o moral que utiliza los servicios de transporte público.
 
 Pasajero: Persona física que es transportada de un lugar a otro, en un vehículo destinado al servicio público, mediante el pago directo de la tarifa.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 2 BIS.- En el Estado de Baja California los usuarios del trasporte (sic) público tienen derecho a:
+
+I.- A viajar con seguridad, calidad e higiene en el servicio relativas al vehículo y conductor del servicio;
+
+II.- A recibir del conductor un trato digno y respetuoso;
+
+III.- A que se cubra todo el recorrido de la ruta autorizada;
+
+IV.- A la seguridad de la frecuencia en los horarios autorizados;
+
+V.- Al respeto a las tarifas autorizadas, incluyendo las tarifas preferenciales para estudiantes, adultos mayores de 60 años y personas con discapacidad;
+
+VI.- A recibir boleto con seguro del viajero;
+
+VII.- Al ascenso y descenso en las paradas autorizadas;
+
+VIII.- A que se destinen espacios exclusivos para personas con discapacidad;
+
+IX.- A que se acondicionen para el ascenso y descenso de personas con discapacidad; y
+
+X.- A realizar quejas ante la autoridad que corresponda cuando se sienta agraviado en sus derechos.
 
 ###### ARTICULO 3.
 
@@ -523,11 +547,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE JUNIO DE 2002.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 P.O. 21 DE FEBRERO DE 2003.
 
@@ -556,3 +580,7 @@ P.O. 30 DE ABRIL DE 2010.
 P.O. 23 DE JULIO DE 2010.
 
 ÚNICO,- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial de Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
