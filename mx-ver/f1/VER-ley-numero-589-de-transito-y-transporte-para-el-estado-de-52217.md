@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2011-05-31"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NÚMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 589 DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -65,15 +65,31 @@ Se declaran de orden e interés público la planeación, ordenación y reglament
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Concesión: Título por el que el Estado otorga la prestación del servicio de transporte público a una persona física o moral;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-II. Concesionario: Al titular de la concesión para prestar el servicio de transporte público;
+I. Concesión: Título por el que el Estado otorga a una persona física o moral la prestación del servicio de transporte público, o de un servicio público relacionado con la materia de tránsito;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Concesionario: A la persona física o moral titular de una concesión para prestar el servicio de transporte público, o un servicio público relacionado con la materia de tránsito;
 
 III. Consejo: Al Consejo Técnico Estatal del Transporte;
 
-IV. Dirección: A la Dirección General de Tránsito y Transporte del Estado;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-V. Director: Al Director General de Tránsito y Transporte del Estado;
+IV. Dirección de Tránsito: A la Dirección General de Tránsito del Estado;
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV Bis. Dirección de Transporte: A la Dirección General de Transporte del Estado;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Director de Tránsito: Al Director General de Tránsito del Estado;
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V Bis. Director de Transporte: Al Director General de Transporte del Estado;
 
 VI. Estado: El de Veracruz de Ignacio de la Llave;
 
@@ -81,7 +97,7 @@ VI. Estado: El de Veracruz de Ignacio de la Llave;
 
 VI Bis. Estado de ebriedad: El que presenta una persona cuando ha ingerido alcohol en una cantidad tal que lo exhala en más de 0.4 (cero punto cuatro) miligramos por litro, o lo tiene en su sangre en proporción mayor a 0.8 (cero punto ocho) gramos por litro;
 
-VII. Instituto: Al Instituto Veracruzano del Transporte;
+VII. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2011)
 
 VIII. Ley: A la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave;
 
@@ -101,11 +117,25 @@ XIV. Ruta: El recorrido autorizado para la prestación del servicio de transport
 
 XIV Bis. Salario: El salario mínimo general vigente en la capital del estado;
 
-XV. Secretaría: A la Secretaría de Gobierno del Estado;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVI. Secretario: Al titular de la Secretaría;
+XV. Secretaría de Gobierno: A la Secretaría de Gobierno del Poder Ejecutivo del Estado;
 
-XVII. Servicios Auxiliares: Todos los conexos al tránsito y al transporte;
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XV Bis. Secretaría de Seguridad Pública: A la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVI. Secretario de Gobierno: Al titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVI Bis. Secretario de Seguridad Pública: Al titular de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XVII. Servicios Auxiliares: Todos los conexos al tránsito o al transporte, según corresponda;
 
 XVIII. Servicio de transporte particular: El que se utiliza para el traslado de personas, animales o cosas, sin retribución alguna y en vehículos adecuados al fin de que se trate;
 
@@ -173,33 +203,65 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Gobierno;
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II Bis. El Secretario de Seguridad Pública;
+
 III. El Secretario de Finanzas y Planeación;
 
-IV. El Director General de Tránsito y Transporte del Estado; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-V. Los servidores públicos dependientes de la Dirección.
+IV. El Director de Tránsito;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. El Director de Transporte; y
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Los servidores públicos dependientes de las Direcciones de Tránsito o de Transporte, que con fundamento en la Ley ordenan la ejecución, ejecutan o emiten actos administrativos susceptibles de exigirse mediante el uso de la fuerza pública; (sic)
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
-El Secretario tendrá, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, las siguientes:
+El Secretario de Gobierno, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes:
 
-I. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito y transporte;
+I. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de transporte;
 
-II. Implementar los programas de la materia, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
+II. Implementar los programas de transporte, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
 
-III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de tránsito y transporte, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
+III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de transporte, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
 
-IV. Autorizar la transferencia de la titularidad de las concesiones en todas las modalidades;
+IV. Autorizar la transferencia de la titularidad de las concesiones de transporte en todas las modalidades;
 
-> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público en todas sus modalidades y servicios conexos;
 
-V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público en todas sus modalidades;
+VI. Acordar la creación de coordinaciones y delegaciones regionales de Transporte;
 
-VI. Acordar la creación de Coordinaciones Regionales de Tránsito y Transporte;
+VII. Tramitar, por conducto de la Dirección de Transporte, los recursos administrativos que le competan en su materia; y
 
-VII. Tramitar, por conducto de la Dirección, los recursos administrativos que le competan en materia de tránsito y transporte; y
+VIII. Las demás que establezcan esta Ley y la legislación aplicable.
 
-VIII. Las demás que establezcan esta Ley y su Reglamento.
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 11 Bis.
+
+El Secretario de Seguridad Pública, además de las facultades que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes:
+
+I. Ejecutar los acuerdos que el Gobernador del Estado dicte en materia de tránsito;
+
+II. Implementar los programas en materia de tránsito, en los términos de las disposiciones legales vigentes y de los acuerdos emitidos por el Titular del Poder Ejecutivo del Estado;
+
+III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios en materia de tránsito, con dependencias u organismos de los sectores público, privado y social, así como con los Ayuntamientos, en los términos que establezcan las leyes;
+
+IV. Autorizar las tarifas a que se sujetará la prestación delos (sic) servicios públicos de su competencia, en términos de las disposiciones aplicables;
+
+V. Acordar la creación de coordinaciones y delegaciones regionales de Tránsito;
+
+VI. Tramitar, por conducto de la Dirección de Tránsito, los recursos administrativos que le competan en su materia; y
+
+VII. Las demás que establezcan esta Ley y la legislación aplicable.
 
 ###### Artículo 12.
 
@@ -209,7 +271,9 @@ El Secretario de Finanzas y Planeación tendrá, además de las atribuciones que
 
 I. Proveer, de conformidad con lo que dispongan esta Ley y su Reglamento, así como la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interior de la Secretaría de Finanzas y Planeación, el Presupuesto aprobado y demás normatividad aplicable, la expedición y entrega de los instrumentos de servicio de control vehicular, así como expedir calcomanías específicas para identificar los vehículos utilizados en el servicio de transporte particular para personas con discapacidad. Las placas de circulación y calcomanías con transponder o chip con que se doten a los vehículos deberán contar con las medidas de seguridad que permitan su rápida identificación;
 
-II. Mantener actualizado el padrón vehicular estatal, en los términos que dispongan las leyes, e informar al respecto a la Dirección, a la conclusión del ejercicio mensual;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Mantener actualizado el padrón vehicular estatal, en los términos que dispongan las leyes, e informar al respecto a las Direcciones de Tránsito y a la de Transporte, a la conclusión del ejercicio mensual;
 
 III. Diseñar y emitir los formatos para el control vehicular, conforme a los lineamientos y normatividad correspondientes;
 
@@ -217,83 +281,117 @@ IV. Recaudar los conceptos tributarios en materia de tránsito y transporte a qu
 
 V. Las demás que establezcan esta Ley y su Reglamento.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
-La Dirección tendrá a su cargo, en lo conducente, la aplicación y cumplimiento de esta Ley, su Reglamento y demás ordenamientos aplicables.
+Las Direcciones de Tránsito y la de Transporte, en su (sic) respectivos ámbitos de competencia, tendrán a su cargo, la aplicación y cumplimiento de esta Ley, su Reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-Son atribuciones del Director las siguientes:
+Son facultades del Director de Transporte, las siguientes:
 
-I. Controlar y supervisar las actividades en materia de tránsito y transporte;
+I. Controlar y supervisar las actividades en materia de transporte;
 
-II. Ejecutar los programas en la materia, en términos de la legislación vigente y de los acuerdos emitidos por el Secretario;
+II. Ejecutar los programas de su competencia, en términos de ley y conforme a los actos administrativos que emita el Secretario de Gobierno;
 
-III. Proponer al Secretario los programas relativos a la protección de los peatones, conductores, operarios y usuarios de los servicios de transporte particular y público, así como aquellos que se refieran a la vigilancia del tránsito en las vías públicas;
+III. Proponer al Secretario de Gobierno los programas relativos a la protección de los peatones, conductores, operarios y usuarios de los servicios de transporte particular y público;
 
-IV. Proponer al Secretario las medidas que considere necesarias para optimizar los servicios de tránsito y transporte a que se refieren la presente Ley y su Reglamento;
+IV. Proponer al Secretario de Gobierno las medidas que considere necesarias para optimizar los servicios de transporte a que se refieren la presente Ley y su Reglamento;
 
-V. Proponer al Secretario la creación de Coordinaciones Regionales de Tránsito y Transporte, en puntos estratégicos del Estado;
+V. Proponer al Secretario de Gobierno la creación de coordinaciones y delegaciones regionales de Transporte, en puntos estratégicos del Estado;
 
-VI. Establecer sistemas de escalafón, estímulos y recompensas al personal de la Dirección, con base en el desempeño de sus actividades;
+VI. Establecer sistemas de escalafón, estímulos y recompensas al personal de la Dirección de Transporte, con base en el desempeño de sus actividades;
 
-VII. Proponer al Secretario el diseño y aplicación de programas de capacitación, adiestramiento, actualización y especialización dirigidos al personal de la Dirección;
+VII. Proponer al Secretario de Gobierno el diseño y aplicación de programas de capacitación, adiestramiento, actualización y especialización dirigidos al personal de la Dirección;
+
+VIII. Proporcionar la información que se le solicite, en los términos de la ley de la materia;
+
+IX. Autorizar el servicio de transporte particular a que se refieren esta Ley y su Reglamento;
+
+X. Vigilar que se cumplan los requisitos establecidos en esta Ley en el proceso de tramitación de concesiones para la prestación del servicio de transporte público en todas sus modalidades;
+
+XI. Otorgar, modificar, suspender o revocar, por acuerdo del Secretario, el ejercicio de una concesión, en los términos previstos por esta Ley, su Reglamento y demás disposiciones de la materia;
+
+XII. Autorizar, previo pago de los derechos respectivos, a personas físicas o morales la prestación del servicio público de estacionamiento de vehículos, en inmuebles particulares, o modificar, suspender o revocar, en los términos de esta Ley, su Reglamento y demás disposiciones de la materia;
+
+XIII. Autorizar escuelas de manejo de vehículos, de conformidad con esta Ley, su Reglamento y demás disposiciones de la materia;
+
+XIV. Vigilar el cumplimiento de las disposiciones contenidas en la presente Ley y su Reglamento, y ordenar visitas de inspección, designando a los servidores públicos que habrán de practicarlas;
+
+XV. Imponer las sanciones que sean aplicables por contravención a las disposiciones de esta Ley y su Reglamento, en materia de transporte;
+
+XVI. Resolver, de conformidad con lo establecido en el Código de Procedimientos Administrativos para el Estado, los recursos que se interpongan en contra de la aplicación de las disposiciones contenidas en esta Ley y su Reglamento, en materia de transporte;
+
+XVII. Ejecutar los mandamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten;
+
+XVIII. En coordinación con la Secretaría de Salud del Estado de Veracruz, operar y administrar el servicio de medicina preventiva en el transporte, realizando exámenes médicos a conductores del servicio de transporte público, con cargo a los concesionarios o permisionarios;
+
+XIX. Proponer al Secretario de Gobierno, la designación o remoción de los servidores públicos que integren la plantilla del personal de la Dirección de Transporte;
+
+XX. Representar legalmente, por sí o mediante apoderado legal, a la Dirección de Transporte, a las coordinaciones y delegaciones dependientes de la misma, y ejercer cualquier acción en contra de terceros, en los casos en que se vean afectados los bienes muebles e inmuebles que tienen bajo su resguardo;
+
+XXI. Expedir las licencias de conducir en cualquiera de sus tipos y llevar su registro, así como emitir tarjetones de identificación a conductores de vehículos del transporte público; y
+
+XXII. Las demás que le confieran esta Ley y legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 14 Bis.
+
+Son facultades del Director de Tránsito las siguientes:
+
+I. Controlar y supervisar las actividades en materia de tránsito;
+
+II. Ejecutar los programas de tránsito, en términos de ley y de los actos administrativos que emita el Secretario de Seguridad Pública;
+
+III. Proponer al Secretario de Seguridad Pública los programas relativos a la vigilancia del tránsito en las vías públicas;
+
+IV. Proponer al Secretario de Seguridad Pública las medidas que considere necesarias para optimizar los servicios de tránsito a que se refieren la presente Ley y su Reglamento;
+
+V. Proponer al Secretario de Seguridad Pública la creación de coordinaciones y delegaciones regionales de Tránsito, en puntos estratégicos del Estado;
+
+VI. Establecer sistemas de escalafón, estímulos, recompensas y régimen disciplinario al personal de la Dirección de Tránsito, con base en el desempeño de sus actividades;
+
+VII. Proponer al Secretario de Seguridad Pública el diseño y aplicación de programas de capacitación, adiestramiento, actualización y especialización dirigidos al personal de la Dirección de Tránsito;
 
 VIII. Elaborar estadísticas sobre infracciones y accidentes automovilísticos que sucedan en las vías públicas de competencia estatal;
 
-IX. Vigilar, en coordinación con la Secretaría de Finanzas y Planeación, la actualización de los registros, archivos y controles de la dependencia a su cargo, relativos a la expedición de las placas metálicas, tarjetas de circulación, licencias para conducir y demás datos sobre los vehículos y conductores;
+IX. Vigilar, en coordinación con la Secretaría de Finanzas y Planeación, la actualización de los registros, archivos y controles del área a su cargo, relativos a la expedición de las placas metálicas, tarjetas de circulación y demás datos sobre los vehículos y conductores;
 
 X. Proporcionar información sobre el registro, en los términos que establezcan la presente Ley y su Reglamento;
 
-XI. Autorizar el servicio de transporte particular a que se refieren esta Ley y su Reglamento;
+XI. Otorgar, modificar, suspender o revocar, por acuerdo del Secretario de Seguridad Pública, el ejercicio de una concesión de prestación de servicios relacionados, en los términos previstos por esta Ley, su Reglamento y demás disposiciones de la materia;
 
-XII. Vigilar que se cumplan los requisitos establecidos en esta Ley en el proceso de tramitación de concesiones para la prestación del servicio de transporte público en el Estado, en todas sus modalidades;
+XII. Vigilar el cumplimiento de las disposiciones contenidas en la presente Ley y su Reglamento, y ordenar visitas de inspección en los casos que sea necesario, designando a los servidores públicos que habrán de practicarlas;
 
-XIII. Suspender, por acuerdo del Secretario, el ejercicio de una concesión, en los términos previstos por esta Ley, su Reglamento y demás disposiciones de la materia;
+XIII. Imponer las sanciones que sean aplicables por contravención a las disposiciones de esta Ley y su Reglamento, en materia de tránsito;
 
-XIV. Autorizar, previo pago de los derechos respectivos, a personas físicas o morales la prestación del servicio público de estacionamiento de vehículos, en inmuebles particulares, en los términos de esta Ley, su Reglamento y demás disposiciones de la materia;
+XIV. Resolver, de conformidad con lo establecido en el Código de Procedimientos Administrativos para el Estado, los recursos que se interpongan en contra de la aplicación de las disposiciones contenidas en esta Ley y su Reglamento, en materia de tránsito;
 
-XV. Autorizar escuelas de manejo de vehículos, de conformidad con esta Ley, su Reglamento y demás disposiciones de la materia;
+XV. Ejecutar los mandamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten;
 
-XVI. Vigilar el cumplimiento de las disposiciones contenidas en la presente Ley y su Reglamento, y ordenar visitas de inspección, designando a los servidores públicos que habrán de practicarlas;
+XVI. Proponer al Secretario de Seguridad Pública, la designación o remoción de los servidores públicos que integren la plantilla del personal de la Dirección de Tránsito;
 
-XVII. Imponer las sanciones que sean aplicables por contravención a las disposiciones de esta Ley y su Reglamento;
+XVII. Representar legalmente, por sí o mediante apoderado legal, a la Dirección de Tránsito, a las coordinaciones y delegaciones dependientes de la misma y ejercer cualquier acción en contra de terceros, en los casos en que se vean afectados los bienes muebles e inmuebles que tienen bajo su resguardo; y
 
-XVIII. Resolver, de conformidad con lo establecido en el Código de Procedimientos Administrativos para el Estado, los recursos que se interpongan en contra de la aplicación de las disposiciones contenidas en esta Ley y su Reglamento;
+XVIII. Las demás que le confieran esta Ley, su Reglamento y otros ordenamientos.
 
-XIX. Ejecutar los m/andamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten; y (sic)
-
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-XX. En coordinación con la Secretaría de Salud del Estado de Veracruz, operar y administrar el servicio de medicina preventiva en el transporte, realizando exámenes médicos a conductores del servicio de transporte público, con cargo a los concesionarios o permisionarios;
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-XXI. Previo acuerdo del Ejecutivo del Estado o del secretario, designar o remover a los servidores públicos que integren la plantilla del personal de la Dirección;
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-XXII. La expedición de licencias de conducir en cualquiera de sus tipos, así como la emisión de tarjetones de identificación a conductores de vehículos del transporte público;
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-XXIII. Por sí o mediante apoderado legal, representar legalmente a la Dirección, a las Delegaciones dependientes de la misma y ejercer cualquier acción en contra de terceros, en los casos en que se vean afectados los bienes muebles e inmuebles que tienen bajo su resguardo; y
-
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
-
-XXIV. Las demás que le confieran esta Ley, su Reglamento y otros ordenamientos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 15.
 
-El personal de la Dirección que desempeñe trabajo, funciones o actividades de las materias que regula esta Ley y su Reglamento, se regirá por lo señalado en las disposiciones siguientes:
+El personal de las Direcciones de Tránsito y de la de Transporte que desempeñe trabajo, funciones o actividades de las materias que regula esta Ley y su Reglamento, se regirá por lo señalado en las disposiciones siguientes:
 
-I. Formará parte de los cuerpos de seguridad pública del Estado y será de confianza, sin perjuicio de lo que establezcan otros ordenamientos legales;
+I. Tendrán el carácter de auxiliares de la función de seguridad pública del Estado y, para todos los efectos laborales y administrativos, el personal operativo será considerado de confianza, y se sujetará los exámenes de evaluación y control de confianza, sin perjuicio de lo que establezcan otros ordenamientos legales;
 
-II. Tendrá atribuciones operativas y administrativas, de acuerdo con las necesidades del servicio. Para estos efectos, se entenderá por personal operativo el nombrado para prestar sus servicios en las vías públicas en donde la Dirección esté a cargo del servicio y, por personal administrativo, el nombrado para realizar trabajos propios del manejo interno de las oficinas;
+II. Contarán con atribuciones operativas y administrativas de acuerdo con las necesidades del servicio y, para estos efectos, se entenderá por personal operativo al nombrado para prestar sus servicios en las vías públicas y ejercer actos de autoridad, y por personal administrativo el nombrado para realizar trabajos propios del manejo interno y trámites de las oficinas;
 
 III. Las plazas vacantes del personal administrativo serán cubiertas, previa selección y capacitación de los aspirantes, en los términos que disponga el Reglamento y demás normatividad aplicable;
 
-IV. Deberá participar en los cursos de capacitación, adiestramiento, actualización y especialización que imparta la Dirección por sí o a través del Instituto;
+IV. Asistir a los cursos de capacitación, adiestramiento, actualización y especialización que les imparta, en sus respectivos ámbitos de competencia, la Dirección de Tránsito o la de Transporte;
 
 V. Los ascensos del personal operativo y administrativo, se otorgarán a quienes aprueben los cursos de capacitación y actualización que para al efecto se impartan. En ningún caso se concederá un ascenso a quien no satisfaga los requisitos que señale la dependencia;
 
@@ -301,9 +399,9 @@ VI. El salario del personal será fijado en el presupuesto de egresos que corres
 
 VII. La jornada de trabajo del personal operativo se establecerá en atención a las necesidades del servicio y, las del personal administrativo, de acuerdo con los horarios de oficina; y
 
-VIII. Su conducta se basará en los principios de legalidad, eficiencia, profesionalismo y honradez. La Dirección establecerá normas de conducta del personal, así como las que se requieran para la mejor realización de sus funciones, las cuales deberán contener disposiciones relativas a:
+VIII. Su conducta se basará en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos. La Dirección de Tránsito y la de Transporte establecerán normas de conducta del personal a ellas adscrito, así como las que se requieran para la mejor realización de sus funciones, las cuales deberán contener disposiciones relativas a:
 
-a) Clasificación de los grados jerárquicos;
+a) Grados jerárquicos;
 
 b) Reconocimientos y estímulos;
 
@@ -313,17 +411,21 @@ d) Faltas; y
 
 e) Sanciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-El personal operativo de la Dirección está facultado para conocer de las infracciones que cometan a esta Ley y su Reglamento, los conductores de vehículos, concesionarios o cualquier otra persona, así como, en su caso, elaborar las actas en las que conste la infracción para el efecto de la sanción correspondiente.
+El personal operativo de la Dirección de Tránsito y de la de Transporte, conforme a su ámbito de competencia, está facultado para conocer de las infracciones que cometan a esta Ley y su Reglamento, los conductores de vehículos, concesionarios o cualquier otra persona, así como, en su caso, elaborar las actas en las que conste la infracción, para imponer la sanción correspondiente.
 
 Asimismo, deberá conservar el orden, preservar la tranquilidad pública y cuidar que se cumplan y apliquen las disposiciones de esta Ley y su Reglamento.
 
 ### Capítulo IV. Autoridades Municipales
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 17.
 
-Los Ayuntamientos tendrán a su cargo el servicio público de Tránsito y podrán convenir con el Estado la prestación directa por éste, o coordinada con el municipio, en ambos casos a través de la Dirección.
+Conforme a lo dispuesto por la Constitución Federal y la del Estado, así como las leyes que de ambas deriven, los Ayuntamientos tendrán a su cargo el servicio público de Tránsito, pero podrán convenir con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de éste servicio, o bien lo presten o ejerzan coordinadamente por el Estado y el propio Ayuntamiento.
 
 ###### Artículo 18.
 
@@ -339,123 +441,39 @@ Cuando los municipios presten directamente el servicio público de tránsito deb
 
 ### Capítulo V. Organismos Auxiliares
 
-> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 19.
 
-Son auxiliares en materia de tránsito y transporte las corporaciones de Seguridad Pública del Estado, la Secretaría de Salud del Estado, el Instituto, el Consejo y los Patronatos de Educación Vial.
+Son auxiliares en materia de tránsito y transporte las corporaciones de seguridad pública del Estado, la Secretaría de Salud del Estado, el Consejo y los Patronatos de Educación Vial.
+
+> <small>(DEROGADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ### Capítulo VI. Instituto Veracruzano del Transporte
 
 ###### Artículo 20.
 
-Se crea el Instituto Veracruzano del Transporte como Organismo Público Descentralizado, sectorizado a la Secretaría, como órgano técnico especializado en materia de Transporte Público y auxiliar de las autoridades de Tránsito, con personalidad jurídica y patrimonio propios, con domicilio en la capital del Estado y las atribuciones siguientes:
-
-I. Participar en la formulación del plan sectorial en materia de transporte público y vialidad;
-
-II. Fungir como órgano de asesoría y consulta en lo relativo a la discusión, análisis y solución de la problemática del servicio de transporte público;
-
-III. Participar en la elaboración de proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones relacionadas con los asuntos de su competencia;
-
-IV. Expedir las normas generales estatales de carácter técnico, relativas a las características del transporte;
-
-> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
-
-V. En coordinación con el Instituto de Capacitación para el Trabajo de Veracruz, o con cualquier institución de capacitación pública o privada que cuente con los programas correspondientes, debidamente certificados por la institución respectiva, implementar e impartir cursos de capacitación a los operarios y conductores de transporte público y particular, así como al personal al servicio de la administración pública estatal o municipal;
-
-VI. Elaborar, organizar e implementar planes y programas académicos en materia de transporte y vialidad;
-
-VII. Realizar estudios sobre reordenamiento vial, semaforización y los que sean necesarios en el Estado, que permitan mediante su aplicación agilizar la circulación, prevenir accidentes y modernizar el transporte público;
-
-VIII. Regular y certificar los planes, programas y responsables de la enseñanza de las escuelas para la conducción de vehículos en el Estado;
-
-IX. Asesorar a las empresas de transporte en materia de gestión de la demanda del servicio y la seguridad vial;
-
-X. En términos de lo dispuesto por su junta de gobierno, prestar asesoría técnica en materia de transporte y vialidad;
-
-XI. (DEROGADA, G.O. 18 DE OCTUBRE DE 2010)
-
-XII. Promover y fomentar la cultura vial en el Estado; y
-
-XIII. Las demás análogas a las anteriores que le permitan cumplir con su objeto.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 21.
 
-El patrimonio del Instituto estará constituido por:
-
-I. Los activos que le asigne el Gobierno del Estado;
-
-II. Las aportaciones federales, estatales, municipales o intermunicipales que se realicen en su favor;
-
-III. Los ingresos por la prestación de servicios;
-
-IV. Los créditos que obtenga para el cumplimiento de sus fines;
-
-V. Las donaciones, herencias, legados que reciba y demás aportaciones de los particulares, así como los subsidios y adjudicaciones a su favor;
-
-VI. Los remanentes, frutos, utilidades, productos, intereses y ventas que obtenga de su patrimonio; y
-
-VII. Los demás bienes y derechos que adquiera por cualquier título legal.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 22.
 
-La Junta de Gobierno es la autoridad máxima del Instituto, designará a los servidores públicos en las dos jerarquías inferiores al Director General del mismo y se integrará de la manera siguiente:
-
-I. El Gobernador del Estado, como Presidente;
-
-II. El Secretario, como Vicepresidente;
-
-III. Los Secretarios de Seguridad Pública, de Finanzas y Planeación y de Comunicaciones, como Vocales;
-
-IV. El Director, como Vocal;
-
-V. El Contralor General del Estado, como Comisario; y
-
-VI. Un Secretario Ejecutivo designado por el Presidente de la Junta.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 23.
 
-La Junta de Gobierno del Instituto tendrá las facultades siguientes:
-
-I. Vigilar el cumplimiento de los objetivos del organismo y de las disposiciones de esta Ley;
-
-II. Analizar y aprobar, en su caso, el presupuesto anual de egresos y la estimación de ingresos para el año, que someta a su consideración el Director General del Instituto;
-
-III. Analizar y aprobar, en su caso, los programas que le presente el Director General del Instituto;
-
-IV. Analizar y aprobar, en su caso, el balance general anual y los dictámenes sobre estados financieros auditados que le presente el Director General del Instituto;
-
-V. Aprobar el Reglamento Interior y los Manuales de Organización, de procedimientos y de atención al público que le sean sometidos a su consideración por el Director General del Instituto;
-
-VI. Aprobar la estructura organizacional del Instituto y las modificaciones que procedan;
-
-VII. Aprobar la enajenación, permuta, o baja de los bienes del organismo, en términos de las disposiciones legales aplicables;
-
-VIII. Fijar y ajustar los precios de bienes y servicios que produzca o preste el Instituto; y
-
-IX. Las demás análogas a las anteriores que sean compatibles con su naturaleza y las que dispongan otras leyes.
-
-Las atribuciones señaladas en las fracciones II a VIII son indelegables.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 24.
 
-El Director General del Instituto será designado por el Gobernador del Estado y tendrá, además de las atribuciones que determine el Reglamento Interior del mismo, las siguientes:
-
-I. Representar legalmente al Instituto, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
-
-II. Presentar a la Junta de Gobierno, para su aprobación, las acciones de planeación y programación del Instituto;
-
-III. Elaborar el programa operativo anual del Instituto y someterlo a la aprobación de la Junta de Gobierno;
-
-IV. Ejecutar el programa operativo anual aprobado;
-
-V. Ejecutar los acuerdos de la Junta de Gobierno; y
-
-VI. Establecer convenios de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos del Instituto.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 ###### Artículo 25.
 
-El órgano de vigilancia del Instituto será su contraloría interna, misma que informará de sus actividades a la Junta de Gobierno a través del Comisario. Son atribuciones de la contraloría la revisión y fiscalización de la administración del Instituto con transparencia, eficiencia y eficacia y serán determinadas de manera particular en el Reglamento Interior del Instituto.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 ### Capítulo VII. Consejos Técnicos del Transporte
 
@@ -469,13 +487,17 @@ El Consejo podrá intervenir en los conflictos de carácter individual o colecti
 
 El objeto de este Consejo será beneficiar a los usuarios del servicio de transporte público, como órgano de vinculación administrativa entre el Gobierno del Estado y los transportistas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 28.
 
-El Consejo se integrará por representantes por cada una de las modalidades y submodalidades del transporte previstas en el artículo 118 de esta ley.
+El Consejo se integrará por representantes por cada una de las modalidades y submodalidades del transporte previstas en esta ley.
 
 Para su mejor funcionamiento, el Consejo podrá contar con los Consejos Técnicos Regionales por cada una de las modalidades del transporte, en los que se atenderán los asuntos relativos al ámbito territorial que les corresponda y estarán integrados por no más de cinco representantes de los concesionarios.
 
-El Gobierno del Estado, por conducto de la Dirección, designará un representante ante el Consejo para que participe con voz pero sin voto en sus sesiones.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+El Gobierno del Estado, por conducto de la Dirección de Transporte, designará un representante ante el Consejo para que participe con voz pero sin voto en sus sesiones.
 
 ###### Artículo 29.
 
@@ -491,11 +513,13 @@ Las autoridades de tránsito fomentarán, de manera permanente, la preparación 
 
 En los términos que disponga la normatividad aplicable, las autoridades de Tránsito y Transporte se coordinarán con la Secretaría de Educación del Estado y con las dependencias gubernamentales federales, estatales y municipales, así como con instituciones del sector privado o social, para implementar programas de educación vial que se incluyan también en la educación básica.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 31.
 
-Las autoridades de tránsito promoverán la creación de patronatos que impulsen la educación vial permanente, así como la colaboración de padres de familia y estudiantes para la conformación de escuadrones viales, que coadyuvarán en la difusión y aplicación de las reglas de prevención de accidentes de tránsito y en el conocimiento de la presente Ley, su Reglamento y demás disposiciones legales aplicables, a fin de que los conductores y peatones conozcan y ejerzan sus obligaciones y derechos.
+Las autoridades de tránsito y las de transporte promoverán la creación de patronatos que impulsen la educación vial permanente, así como la colaboración de padres de familia y estudiantes para la conformación de escuadrones viales, que coadyuvarán en la difusión y aplicación de las reglas de prevención de accidentes de tránsito y en el conocimiento de la presente Ley, su Reglamento y demás disposiciones legales aplicables, a fin de que los conductores y peatones conozcan y ejerzan sus obligaciones y derechos.
 
-Los patronatos deberán coordinarse con el Instituto para la realización de sus actividades.
+Los patronatos deberán coordinarse con la Dirección de Tránsito y con la de Transporte para la realización de sus actividades.
 
 ## TÍTULO SEGUNDO. TRÁNSITO Y VIALIDAD
 
@@ -697,13 +721,13 @@ Los montos amparados por la póliza a que se refiere este artículo, en los caso
 
 En los casos de vehículos del servicio de transporte público, los montos de las pólizas deben amparar por lo menos, en concepto de daños a terceros y sus bienes, nueve mil días de salario y por pasajero, mil quinientos salarios.
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Los transportistas del estado, para dar cumplimiento a lo previsto en el presente artículo, en vez de adquirir pólizas de seguro, podrán constituir fondos de garantía, por empresa o asociación, cuyos montos en ningún caso serán inferiores a cien mil días de salario. Al efecto, exhibirán ante la Dirección un informe mensual con el estado de cuenta del fondo de garantía.
+Los transportistas del Estado, para dar cumplimiento a lo previsto en el presente artículo, en vez de adquirir pólizas de seguro, podrán constituir fondos de garantía, por empresa o asociación, cuyos montos en ningún caso serán inferiores a cien mil días de salario. Al efecto, exhibirán ante la Dirección de Transporte un informe mensual con el estado de cuenta del fondo de garantía.
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Ninguna unidad vehicular circulará en los caminos de jurisdicción estatal, sin póliza de responsabilidad o amparada por el fondo de garantía correspondiente. La Dirección retirará de la circulación, para su depósito en el corralón, cualquier unidad que circule sin la póliza de garantía o sin estar comprendida en un fondo de garantía, en los términos prescritos en el presente artículo y sólo entregará la unidad a su propietario tan luego que haya satisfecho dicho requisito.
+Ninguna unidad vehicular circulará en los caminos de jurisdicción estatal, sin póliza de responsabilidad o amparada por el fondo de garantía correspondiente. La Dirección de Transporte retirará de la circulación, para su depósito en el corralón, cualquier unidad que circule sin la póliza de garantía o sin estar comprendida en un fondo de garantía, en los términos prescritos en el presente artículo y sólo entregará la unidad a su propietario tan luego que haya satisfecho dicho requisito.
 
 > <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -715,7 +739,9 @@ Los gastos generados por concepto de arrastre y corralón, derivados por el env�
 
 Los vehículos contarán con los dispositivos esenciales para prevenir y controlar la emisión de ruidos y gases que ocasionen contaminación ambiental conforme a las leyes federal y estatal de la materia, las disposiciones reglamentarias y normas oficiales que de ellas deriven.
 
-La Dirección coadyuvará en la vigilancia de esta disposición con las autoridades competentes.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La Dirección de Tránsito y la de Transporte coadyuvarán en la vigilancia de esta disposición con las autoridades competentes.
 
 ###### Artículo 48.
 
@@ -735,19 +761,25 @@ Las autoridades estatales en materia ambiental se coordinarán con las autoridad
 
 Las autoridades de tránsito y transporte no permitirán la circulación de vehículos que rebasen los límites permisibles de contaminación, hasta en tanto no los habiliten y sean aprobados en su funcionamiento por los centros de verificación autorizados por las autoridades estatales en materia ambiental, aplicando las sanciones a que se hubieren hecho acreedores en términos de las disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 51.
 
-La Dirección exigirá que todos los vehículos destinados al servicio de transporte público porten el engomado de verificación vehicular, como requisito para acreditar la revista anual del transporte público.
+La Dirección de Transporte exigirá que todos los vehículos destinados al servicio de transporte público porten el engomado de verificación vehicular, como requisito para acreditar la revista anual del transporte público.
 
 Las autoridades de tránsito y transporte remitirán a la autoridad estatal en materia ambiental, el mismo día de la infracción, el número de folio del engomado del vehículo que contamine ostensiblemente, para que proceda en contra del centro de verificación vehicular en términos de la Ley Estatal de Protección Ambiental.
 
-La Dirección, para el cumplimiento de las atribuciones que le otorga este artículo, se coordinará con las autoridades municipales de tránsito.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La Dirección de Tránsito y la de Transporte, para el cumplimiento de las funciones que les otorga este artículo, se coordinarán con las autoridades municipales de tránsito.
 
 ### Capítulo VI. Licencias y Permisos para Conducir
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 52.
 
-Para la conducción de cualquier vehículo de motor, se requiere obtener y portar la licencia o permiso que para tal fin expida la Dirección, de acuerdo con las modalidades, requisitos y vigencia que señalen esta Ley y su Reglamento.
+Para la conducción de cualquier vehículo de motor, se requiere obtener y portar la licencia o permiso que para tal fin expida la Dirección de Transporte, de acuerdo con las modalidades, requisitos y vigencia que señalen esta Ley y su Reglamento.
 
 ###### Artículo 53.
 
@@ -789,7 +821,9 @@ La licencia de motorista tipo "E" autoriza a su titular a conducir vehículos de
 
 Para obtener la licencia de conducir en cualquiera de las categorías señaladas en las fracciones II a IV del artículo anterior, el interesado deberá cubrir los siguientes requisitos:
 
-I. Presentar la solicitud correspondiente en los formatos que al efecto expida la Dirección;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+I. Presentar la solicitud correspondiente en los formatos que al efecto expida la Dirección de Transporte;
 
 II. Ser de nacionalidad mexicana; si se trata de extranjeros, acreditar su legal estancia en el país;
 
@@ -799,7 +833,9 @@ IV. Acreditar el pago de los derechos correspondientes;
 
 V. Saber leer y escribir;
 
-VI. Aprobar el examen teórico-práctico que al efecto aplique la Dirección por sí o a través de quien ésta autorice;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Aprobar el examen teórico-práctico que al efecto aplique la Dirección de Transporte por sí o a través de quien ésta autorice;
 
 VII. Aprobar el examen médico con el que se demuestre poseer cualidades físicas y mentales para conducir;
 
@@ -811,11 +847,11 @@ X. Los demás que señale el Reglamento.
 
 Para el otorgamiento de licencias a personas residentes en municipios que presten directamente el servicio de tránsito, los solicitantes acreditarán no tener infracciones pendientes de pago, mediante la constancia que expida dicha autoridad.
 
-> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 56.
 
-Para obtener la licencia de conducir en la categoría de chofer tipo" A", el interesado deberá, además de reunir los requisitos señalados en el artículo anterior, haber cumplido veintiún años de edad y aprobar los exámenes toxicológicos que aplique la Dirección conjuntamente con la Secretaría de Salud del Estado. También, para mantener la vigencia de esa licencia, deberá actualizar su capacitación, aprobando cada dos años el curso que en materia vial imparta el Instituto.
+Para obtener la licencia de conducir en la categoría de chofer tipo "A", el interesado deberá, además de reunir los requisitos señalados en el artículo anterior, haber cumplido veintiún años de edad y aprobar los exámenes toxicológicos que aplique la Dirección de Transporte conjuntamente con la Secretaría de Salud del Estado. También, para mantener la vigencia de esa licencia, deberá actualizar su capacitación, aprobando cada dos años el curso que en materia vial imparta la Dirección de Transporte.
 
 ###### Artículo 57.
 
@@ -841,9 +877,11 @@ Cuando el titular de una licencia, por prescripción médica, deba usar lentes, 
 
 Los propietarios de vehículos automotores que permitan que éstos sean conducidos por quienes carezcan de licencia serán solidariamente responsables de las infracciones que con los mismos se cometan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 61.
 
-La Dirección suspenderá una licencia para conducir a su titular, hasta por seis meses, en los siguientes casos:
+La Dirección de Transporte suspenderá una licencia para conducir a su titular, hasta por seis meses, en los siguientes casos:
 
 I. Por la comisión de tres infracciones, en el plazo de un año, a la presente Ley o a su Reglamento;
 
@@ -865,9 +903,11 @@ VIII. Por conducir un vehículo automotor, distinto a la categoría para la que 
 
 IX. Por resolución judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 62.
 
-La Dirección cancelará la vigencia de una licencia para conducir, en los siguientes casos:
+La Dirección de Transporte cancelará la vigencia de una licencia para conducir, en los siguientes casos:
 
 I. Cuando se cause la muerte de una persona, imprudencial o intencionalmente, con motivo de la conducción de un vehículo;
 
@@ -917,9 +957,11 @@ II. Por expirar el plazo por el que fue otorgada.
 
 La renovación o reposición de una licencia procederá en los casos y previo cumplimiento de los requisitos que establezcan la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 66.
 
-La Dirección podrá expedir permisos para conducir vehículos de motor, que tendrán una vigencia temporal, de conformidad con las disposiciones del Reglamento de esta Ley.
+La Dirección de Transporte podrá expedir permisos para conducir vehículos de motor, que tendrán una vigencia temporal, de conformidad con las disposiciones del Reglamento de esta Ley.
 
 Los permisos tendrán una duración no mayor de 180 días y serán renovables. En ningún caso se otorgarán a menores de 16 años.
 
@@ -931,7 +973,9 @@ Los permisos se cancelarán cuando el titular del mismo cometa una infracción a
 
 Las personas que conduzcan un vehículo en la vía pública obligatoriamente deberán portar:
 
-I. La licencia o el permiso vigentes expedidos por la Dirección;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+I. La licencia o el permiso vigentes expedidos por la Dirección de Transporte;
 
 > <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -941,9 +985,9 @@ II. La tarjeta de circulación que acredite el registro del vehículo ante la au
 
 III. En los vehículos, las placas metálicas autorizadas, con las medidas de seguridad acordadas por la autoridad que las expide, y los engomados correspondientes o, en su caso, el permiso temporal para circular sin ellos, colocados en los lugares que determine el Reglamento de esta Ley; y
 
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IV. Cuando se trate de conductores de vehículos del servicio de transporte público de pasajeros, además de los requisitos anteriores, también portarán la tarjeta anual de identificación que expedirá la Dirección a quienes hayan aprobado los exámenes toxicológicos que aplicará en coordinación con la Secretaría de Salud del Estado, previo pago de los derechos que por dicho trámite se generen.
+IV. Cuando se trate de conductores de vehículos del servicio de transporte público de pasajeros, además de los requisitos anteriores, también portarán la tarjeta anual de identificación que expedirá la Dirección de Transporte a quienes hayan aprobado los exámenes toxicológicos que aplicará en coordinación con la Secretaría de Salud del Estado, previo pago de los derechos que por dicho trámite se generen.
 
 ###### Artículo 68.
 
@@ -981,9 +1025,9 @@ A los conductores de vehículos de transporte público les queda prohibido abast
 
 Los conductores, propietarios de vehículos y la empresa aseguradora, en términos de lo dispuesto por el artículo 46 de esta Ley, están solidariamente obligados a responder por los daños y perjuicios causados a terceros en su persona y patrimonio.
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Cuando se cometa el delito de homicidio o el de lesiones previstas en las fracciones de la IV a la VI del artículo 137 del Código Penal, la Dirección de Tránsito y Transporte del Estado retendrá el vehículo que haya intervenido en el accidente para garantizar el pago, y lo pondrá sin demora a disposición de la autoridad competente, para la determinación de la responsabilidad procedente.
+Cuando se cometa el delito de homicidio o el de lesiones previstas en las fracciones de la IV a la VI del artículo 137 del Código Penal, la Dirección de Tránsito o la de Transporte del Estado retendrán el vehículo que haya intervenido en el accidente para garantizar el pago, y lo pondrán sin demora a disposición de la autoridad competente, para la determinación de la responsabilidad procedente.
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1035,7 +1079,9 @@ Queda prohibido a conductores de vehículos de servicio social u oficial hacer u
 
 Los propietarios, conductores u operadores de vehículos en circulación y los usuarios de la vía pública se abstendrán de realizar todo acto que constituya un peligro para las personas o sus bienes.
 
-Para la realización de eventos deportivos y desplazamientos de caravanas de vehículos o peatones en las vías públicas, los organizadores informarán oportunamente por escrito a la Dirección o, en su caso, a la autoridad municipal competente.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Para la realización de eventos deportivos y desplazamientos de caravanas de vehículos o peatones en las vías públicas, los organizadores informarán oportunamente por escrito a la Dirección de Tránsito o, en su caso, a la autoridad municipal competente.
 
 ###### Artículo 78.
 
@@ -1079,9 +1125,11 @@ Los vehículos registrados en otro país podrán circular libremente en la vía 
 
 Los vehículos destinados a la prestación del servicio de transporte público circularán por las rutas autorizadas en la concesión y los taxis lo harán en su jurisdicción, siempre que se acredite la vigencia de dicha concesión, mediante el uso de las placas, la tarjeta de circulación y los engomados respectivos, pudiendo hacerlo en otras vías públicas por causas justificadas.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 86.
 
-La Dirección, respecto de vehículos que presten el servicio de transporte público de pasajeros, en todas sus modalidades, determinará el cupo máximo de personas que puedan ser transportadas y las condiciones en que deba hacerse el viaje.
+La Dirección de Transporte, respecto de vehículos que presten el servicio de transporte público de pasajeros, en todas sus modalidades, determinará el cupo máximo de personas que puedan ser transportadas y las condiciones en que deba hacerse el viaje.
 
 ###### Artículo 87.
 
@@ -1089,9 +1137,11 @@ Los vehículos sólo podrán ser retirados de la circulación en la vía públic
 
 ### Capítulo IX. Parada y Estacionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 88.
 
-Las paradas del transporte público serán fijadas por la Dirección, escuchando la opinión, en su caso, de las autoridades municipales, cuando éstas tengan a su cargo el servicio de tránsito.
+Las paradas del transporte público serán fijadas en forma coordinada por la Dirección de Transporte y la de Tránsito, escuchando la opinión, en su caso, de las autoridades municipales, cuando éstas tengan a su cargo el servicio de tránsito.
 
 La autoridad que tenga a su cargo el servicio de tránsito señalará los lugares de la vía pública en donde se podrán estacionar los vehículos.
 
@@ -1111,9 +1161,11 @@ Los conductores tomarán las precauciones necesarias para garantizar la segurida
 
 ### Capítulo X. Estacionamiento de Vehículos en Inmuebles Particulares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 91.
 
-Para la prestación del servicio al público de estacionamiento de vehículos en inmuebles particulares, se requiere autorización de la Dirección, conforme a lo dispuesto en esta Ley y su Reglamento.
+Para la prestación del servicio al público de estacionamiento de vehículos en inmuebles particulares, se requiere autorización de la Dirección de Tránsito, conforme a lo dispuesto en esta Ley y su Reglamento.
 
 Las condiciones que hicieron posible obtener la autorización no podrán ser modificadas por el particular, sin el previo consentimiento por escrito de la autoridad que la otorgó.
 
@@ -1159,13 +1211,17 @@ Las autoridades de tránsito y transporte supervisarán los estacionamientos y s
 
 ### Capítulo XI. Accidentes de Tránsito
 
-> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 96.
 
-Cuando en un accidente de tránsito en la vía pública tomare conocimiento de los hechos cualquier autoridad, deberá comunicarlo, de inmediato, a la de tránsito.
+Cuando en un accidente de tránsito en la vía pública tomare conocimiento de los hechos cualquier autoridad, deberá comunicarlo, de inmediato, a la Dirección de Tránsito y a la de Transporte.
+
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 La autoridad que tomare conocimiento del accidente deberá preservar los indicios para los efectos legales correspondientes y una vez que hubiere tomado conocimiento del mismo, deberá despejar la vía para que exista fluidez en su circulación. En todo caso, la intervención se hará sin crear peligro para peatones, conductores ni pasajeros, tomando las providencias necesarias a fin de señalar y proteger el lugar del accidente.
+
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 En los casos en que las partes que intervinieron en un accidente no convinieren respecto a la forma de pago de los daños causados, no habiendo lesionados, se entregará una copia del parte a cada uno de los que en dicho evento intervinieron y se dejarán a salvo sus derechos, para los efectos de que sus aseguradoras resuelvan lo procedente, en un plazo no mayor de 30 días, bien sea entre ellas o, en su defecto, acudan a la instancia civil que corresponda.
 
@@ -1175,7 +1231,9 @@ En los casos en que las partes que intervinieron en un accidente no convinieren 
 
 Si en un accidente de tránsito resultaren personas con lesiones de las previstas en las fracciones IV, V y VI del artículo 137 del Código Penal y se presumiere que alguno de los conductores manejaba en estado de ebriedad o bajo el influjo de estupefacientes o sustancias nocivas a la salud, la autoridad que conozca del caso solicitará de inmediato la intervención de un médico legista.
 
-En los casos en que no se actualice la hipótesis anterior, la certificación del estado de embriaguez del conductor y de las lesiones de menor grado será realizada por el médico de apoyo de la Dirección.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+En los casos en que no se actualice la hipótesis anterior, la certificación del estado de embriaguez del conductor y de las lesiones de menor grado será realizada por el médico de apoyo de la Dirección de Tránsito.
 
 > <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -1235,9 +1293,11 @@ Las autoridades de tránsito llevarán un control estadístico, debidamente porm
 
 ### Capítulo XII. Escuelas de Enseñanza para Conducir Vehículos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 104.
 
-La Dirección autorizará el establecimiento de escuelas de enseñanza para conducir vehículos, previo cumplimiento de las disposiciones relativas señaladas en el Reglamento.
+La Dirección de Transporte autorizará el establecimiento de escuelas de enseñanza para conducir vehículos, previo cumplimiento de las disposiciones relativas señaladas en el Reglamento.
 
 Otorgada la autorización, no podrán modificarse las condiciones que permitieron a su titular obtenerla, sin el previo consentimiento por escrito de la autoridad que la otorgó.
 
@@ -1251,7 +1311,9 @@ I. Contar con vehículos apropiados para la enseñanza de conducir, que tengan l
 
 II. Contar con póliza de seguro de cobertura amplia, que garantice la reparación de los daños que se pudieran ocasionar a terceros;
 
-III. Supervisar que los responsables de impartir la enseñanza de manejo, además de contar con la licencia de conducir que establezcan esta Ley y su Reglamento, aprueben los exámenes técnicos y físicos que las autoridades dispongan, así como los cursos de capacitación que imparta el Instituto;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Supervisar que los responsables de impartir la enseñanza de manejo, además de contar con la licencia de conducir que establezcan esta Ley y su Reglamento, aprueben los exámenes técnicos y físicos que las autoridades dispongan, así como los cursos de capacitación que imparta la Dirección de Transporte;
 
 IV. Sujetarse a las tarifas, horarios, zonas y demás condiciones de carácter técnico que señalen las autoridades de tránsito y transporte;
 
@@ -1267,15 +1329,19 @@ La autorización a que se refiere el artículo 104 de esta Ley tendrá vigencia 
 
 A las escuelas de enseñanza para conducir vehículos que acumulen tres sanciones pecuniarias se les podrá suspender la autorización hasta por tres meses y, en caso de reincidencia, la suspensión será definitiva.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 108.
 
-La Dirección supervisará las escuelas de enseñanza para conducir vehículos, a fin de verificar que cumplan con las disposiciones previstas en esta Ley y su Reglamento, de igual manera, aplicará las sanciones a que se hagan acreedores quienes infrinjan sus disposiciones.
+La Dirección de Transporte supervisará las escuelas de enseñanza para conducir vehículos, a fin de verificar que cumplan con las disposiciones previstas en esta Ley y su Reglamento, de igual manera, aplicará las sanciones a que se hagan acreedores quienes infrinjan sus disposiciones.
 
 ### Capítulo XIII. Registro y Control
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 109.
 
-La Dirección, en coordinación con la Secretaría de Finanzas y Planeación del Estado, llevará un registro en el que se integrará información sobre:
+La Dirección de Transporte, en coordinación con la Secretaría de Finanzas y Planeación del Estado, llevarán un registro en el que se integrará información sobre:
 
 I. Licencias de conducir;
 
@@ -1287,11 +1353,13 @@ IV. Autorizaciones; y
 
 V. Los demás registros que sean necesarios a juicio de ambas autoridades.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 110.
 
-La información sobre los registros a que se refiere el artículo anterior sólo será proporcionada por la Dirección, en términos de la Ley de la materia.
+La información sobre los registros a que se refiere el artículo anterior sólo será proporcionada por la Dirección de Transporte, en términos de la Ley de la materia.
 
-Cuando la información sea solicitada por una autoridad competente, ésta deberá formular su solicitud de manera formal y por escrito, y la Dirección tendrá la obligación de proporcionarla.
+Cuando la información sea solicitada por una autoridad competente, ésta deberá formular su solicitud de manera formal y por escrito, y la Dirección de Transporte tendrá la obligación de proporcionarla.
 
 ## TÍTULO TERCERO. TRANSPORTE
 
@@ -1315,9 +1383,11 @@ Se considera servicio de transporte particular el que se presta sin ánimo de lu
 
 Se exceptúa de lo dispuesto en el párrafo anterior el traslado de carga que, por su naturaleza, requiera autorización especial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 113.
 
-El servicio de transporte particular que requiere autorización de la Dirección es:
+El servicio de transporte particular que requiere autorización de la Dirección de Transporte es:
 
 I. Cuando se trate de personas:
 
@@ -1337,15 +1407,19 @@ c). El transporte que (sic) agricultores, mineros, comerciantes, industriales, c
 
 No se considerará servicio de carga el que, de manera eventual, realice el propietario de un automóvil respecto de sus enseres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 114.
 
-Los permisos para la realización del servicio de transporte particular de personas, animales o cosas se otorgarán por la Dirección.
+Los permisos para la realización del servicio de transporte particular de personas, animales o cosas se otorgarán por la Dirección de Transporte.
 
 La vigencia de las autorizaciones, así como los requisitos para su otorgamiento, se regularán en el Reglamento.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 115.
 
-La Dirección podrá suspender, en cualquier momento, la autorización para el servicio de transporte particular de personas, animales o cosas, cuando se haga mal uso de ella o deje de satisfacerse alguno de los requisitos exigidos para su expedición, de conformidad con lo dispuesto en esta Ley y su Reglamento.
+La Dirección de Transporte podrá suspender, en cualquier momento, la autorización para el servicio de transporte particular de personas, animales o cosas, cuando se haga mal uso de ella o deje desatisfacerse (sic) alguno de los requisitos exigidos para su expedición, de conformidad con lo dispuesto en esta Ley y su Reglamento.
 
 ### Capítulo III. Servicio de Transporte Público
 
@@ -1391,13 +1465,17 @@ c) Especializado, el que se otorga en una localidad específica de un municipio 
 
 III. De rural mixto carga-pasaje, aquel que se otorga en uno o más municipios determinados, exclusivamente en zonas rurales, caminos vecinales, terracerías y brechas, con ruta fija.
 
-Las disposiciones de esta Ley se aplicarán, en lo conducente, a las modalidades de transporte público que surgieren por la necesidad de la población y que resulten distintas a las enunciadas en este artículo y corresponderá a la Dirección establecer las condiciones de operación respectivas.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las disposiciones de esta Ley se aplicarán, en lo conducente, a las modalidades de transporte público que surgieren por la necesidad de la población y que resulten distintas a las enunciadas en este artículo y corresponderá a la Dirección de Transporte establecer las condiciones de operación respectivas.
 
 ###### Artículo 119.
 
 Las características y requisitos para prestar el servicio de transporte público en las modalidades señaladas en el artículo anterior se especificarán en el Reglamento.
 
-La Dirección podrá modificar las rutas en las que se preste el servicio de transporte público de pasajeros concesionado, de acuerdo con los estudios que realice sobre las necesidades de los usuarios. Las extensiones de ruta formarán parte de las concesiones otorgadas.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La Dirección de Transporte podrá modificar las rutas en las que se preste el servicio de transporte público de pasajeros concesionado, de acuerdo con los estudios que realice sobre las necesidades de los usuarios. Las extensiones de ruta formarán parte de las concesiones otorgadas.
 
 ###### Artículo 120.
 
@@ -1439,9 +1517,11 @@ Con la salvedad que señala el artículo 130 de esta Ley, se prohíbe prestar el
 
 Queda prohibido prestar el servicio de transporte público en una modalidad distinta a aquella para la cual se expidió la concesión; la infracción a esta norma es causa de revocación definitiva de la concesión.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 123.
 
-Las concesiones para la prestación del servicio de transporte público se otorgarán mediante acto público a personas físicas de nacionalidad mexicana y a personas morales constituidas por éstas, de acuerdo a las leyes mexicanas, siempre que lo soliciten al titular de la Dirección y cumplan con los requisitos y condiciones que señalen esta Ley y su Reglamento.
+Las concesiones para la prestación del servicio de transporte público se otorgarán mediante acto público a personas físicas de nacionalidad mexicana y a personas morales constituidas por éstas, de acuerdo a las leyes mexicanas, siempre que lo soliciten al titular de la Dirección de Transporte y cumplan con los requisitos y condiciones que señalen esta Ley y su Reglamento.
 
 ###### Artículo 124.
 
@@ -1449,9 +1529,11 @@ Las concesiones de transporte público se otorgarán por tiempo indefinido.
 
 En el caso de las concesiones para prestar el servicio de transporte público de pasajeros en su modalidad de rural mixto carga-pasaje, la vigencia de la concesión estará sujeta a la persistencia de la necesidad que originó su otorgamiento.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 125.
 
-Para el otorgamiento de concesiones para prestar el servicio de transporte público de pasajeros en su modalidad de rural mixto carga-pasaje y previa la formulación del estudio socioeconómico y técnico que realice la Dirección, el titular de la concesión cuya vigencia haya expirado, tendrá preferencia a que se le otorgue otra en la modalidad que corresponda, para la misma localidad y municipio.
+Para el otorgamiento de concesiones para prestar el servicio de transporte público de pasajeros en su modalidad de rural mixto carga-pasaje y previa la formulación del estudio socioeconómico y técnico que realice la Dirección de Transporte, el titular de la concesión cuya vigencia haya expirado, tendrá preferencia a que se le otorgue otra en la modalidad que corresponda, para la misma localidad y municipio.
 
 ###### Artículo 126.
 
@@ -1487,17 +1569,23 @@ Las concesiones a que se refiere esta Ley únicamente podrán ser otorgadas en g
 
 No se considerará usufructo o arrendamiento la contratación de operarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 129.
 
-En los casos en que, de manera inmediata, deba satisfacerse una demanda extraordinaria de transporte público, el Secretario podrá extender permisos temporales, que no excederán de treinta días, en cuyo supuesto los vehículos cumplirán con los requisitos establecidos en esta Ley.
+En los casos en que, de manera inmediata, deba satisfacerse una demanda extraordinaria de transporte público, el Secretario de Gobierno podrá extender permisos temporales, que no excederán de treinta días, en cuyo supuesto los vehículos cumplirán con los requisitos establecidos en esta Ley.
 
-Dichos permisos dejarán de surtir sus efectos cuando cese la demanda extraordinaria que lo motivó, calificada por el Secretario, debiéndose notificar a los interesados, por conducto de la Dirección.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Dichos permisos dejarán de surtir sus efectos cuando cese la demanda extraordinaria que lo motivó, calificada por el Secretario, debiéndose notificar a los interesados, por conducto de la Dirección de Transporte.
 
 Los permisos a que se refiere este artículo no otorgan más derechos que los por ellos amparados y no podrán ser transferidos a terceros. Cuando se incurra en alguno de los supuestos de suspensión o revocación de concesiones contenidos en la presente Ley, los permisos se cancelarán de manera definitiva.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 130.
 
-Cuando de manera extraordinaria un concesionario de transporte público de pasajero en la modalidad de urbano, suburbano o foráneo, preste un servicio especial fuera de su ruta, deberá remitir aviso a la Dirección o a la autoridad de tránsito y transporte más cercana, el acuse de dicho aviso tendrá los efectos del permiso para prestar el servicio, el reglamento de esta Ley establecerá los plazos y condiciones correspondientes.
+Cuando de manera extraordinaria un concesionario de transporte público de pasajero en la modalidad de urbano, suburbano o foráneo, preste un servicio especial fuera de su ruta, deberá remitir aviso a la Dirección de Transporte o a la autoridad de transporte más cercana, el acuse de dicho aviso tendrá los efectos del permiso para prestar el servicio, el reglamento de esta Ley establecerá los plazos y condiciones correspondientes.
 
 ### Capítulo V. Obligaciones de Concesionarios y Permisionarios
 
@@ -1525,15 +1613,17 @@ IX. Cumplir con las disposiciones aplicables en materia de protección al ambien
 
 X. Inscribirse en el Registro de Transporte Público;
 
-XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría; y (sic)
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría de Gobierno;
 
-XII. Proporcionar a la Dirección los padrones de los operadores de las unidades concesionadas, con la periodicidad que indique el Reglamento;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+XII. Proporcionar a la Dirección de Transporte los padrones de los operadores de las unidades concesionadas, con la periodicidad que indique el Reglamento;
 
-XIII. Verificar ante la Dirección y exigir a todo conductor de unidad del servicio del transporte público que cuente con licencia para conducir tipo "A" expedida por la Dirección; así mismo, constatar que los conductores de sus unidades del servicio público de transporte hayan recibido y cursado debidamente la capacitación que en materia vial imparta el Instituto: y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Verificar ante la Dirección de Transporte y exigir a todo conductor de unidad de servicio de transporte público que cuente con licencia para conducir tipo "A"; asimismo, constatar que los conductores de sus unidades del servicio público de transporte hayan recibido y cursado debidamente la capacitación que en materia vial imparta la Dirección de Transporte; y
 
 > <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
 
@@ -1541,17 +1631,19 @@ XIV. Las demás que establezcan esta Ley y las disposiciones aplicables en la ma
 
 ### Capítulo VI. Suspensión, Terminación y Revocación de las Concesiones
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 132.
 
-La Dirección podrá suspender de uno a tres meses los derechos derivados de una concesión, cuando:
+La Dirección de Transporte podrá suspender de uno a tres meses los derechos derivados de una concesión, cuando:
 
 I. Se altere la tarifa establecida para la prestación del servicio de transporte público de que se trate;
 
 II. Se deje de cumplir con alguna de las características señaladas en la concesión, así como con las obligaciones señaladas en esta Ley y su Reglamento;
 
-III. Se deje de prestar el servicio por más de treinta días naturales sin causa justificada o, habiéndola, no se hubiese comunicado por escrito a la Dirección;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Se deje de prestar el servicio por más de treinta días naturales sin causa justificada o, habiéndola, no se hubiese comunicado por escrito a la Dirección de Transporte;
 
 > <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
 
@@ -1565,7 +1657,9 @@ VI. Se altere la documentación que ampare la concesión o cualquiera de los doc
 
 VII. Se cometa un delito con el vehículo autorizado para prestar el servicio de transporte público: pero si se trata del delito de lesiones a que se refieren las fracciones IV a VI del artículo 137 del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, la suspensión temporal será de seis a doce meses;
 
-VIII. Se niegue, sin causa justificada, previo apercibimiento de la Dirección, la prestación del servicio concesionado a cualquier persona que lo solicite;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Se niegue, sin causa justificada, previo apercibimiento de la Dirección de Transporte, la prestación del servicio concesionado a cualquier persona que lo solicite;
 
 IX. Se obstruyan las vías públicas con los vehículos con que se preste el servicio de transporte público;
 
@@ -1599,7 +1693,9 @@ IV. Desaparición del objeto o de la finalidad de la concesión;
 
 V. Liquidación o quiebra; y
 
-VI. Fallecimiento del titular, cuando las personas con derecho a heredar no procedan a notificar el hecho a la Dirección, en el término de los sesenta días naturales siguientes.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Fallecimiento del titular, cuando las personas con derecho a heredar no procedan a notificar el hecho a la Dirección de Transporte, en el término de los sesenta días naturales siguientes.
 
 ###### Artículo 134.
 
@@ -1655,7 +1751,7 @@ El Gobierno del Estado, por conducto de la Secretaría, tendrá en todo tiempo e
 
 Para cumplir con lo previsto en el párrafo anterior, se estará al procedimiento que señale el Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### Capítulo VI Bis. Requisa
 
@@ -1671,11 +1767,11 @@ II. Cuando prevalezca el deterioro de la calidad, seguridad, oportunidad, perman
 
 Al efecto, el Gobierno podrá utilizar el personal que estuviere encargado de la operación de las unidades de transporte público requisadas, con pleno respeto a sus derechos laborales. La requisa se mantendrá mientras subsistan las condiciones que la motivaron.
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 137 Ter.
 
-El Gobierno del Estado podrá indemnizar a los concesionarios afectados hasta en un cincuenta por ciento de los daños que la requisa les hubiere causado. La indemnización se cubrirá con base en el avalúo que practique la Dirección General de Tránsito y Transporte, dentro de un plazo máximo de noventa días contado a partir del siguiente a aquel en que hubiere sido dejada sin efecto la medida. Si los concesionarios no estuvieren de acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efectos de determinar el monto de la misma.
+El Gobierno del Estado podrá indemnizar a los concesionarios afectados hasta en un cincuenta por ciento de los daños que la requisa les hubiere causado. La indemnización se cubrirá con base en el avalúo que practique la Dirección de Transporte, dentro de un plazo máximo de noventa días contado a partir del siguiente a aquel en que hubiere sido dejada sin efecto la medida. Si los concesionarios no estuvieren de acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efectos de determinar el monto de la misma.
 
 ### Capítulo VII. Tarifas del Transporte Público
 
@@ -1683,11 +1779,11 @@ El Gobierno del Estado podrá indemnizar a los concesionarios afectados hasta en
 
 Tarifa es el precio que el usuario paga por los servicios de transporte público que se le prestan.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 139.
 
-El Gobierno del Estado, por conducto de la Secretaría, fijará, revisará y, en su caso, modificará las tarifas conforme a las cuales se prestará el servicio de transporte público de pasajeros, conforme al estudio técnico a que se refiere el artículo 142 de la presente Ley.
+El Gobierno del Estado, por conducto de la Secretaría de Gobierno, fijará, revisara y, en su caso, modificará las tarifas, conforme a las cuales se prestará el servicio de transporte público de pasajeros, conforme al estudio técnico a que se refiere el artículo 142 de la presente Ley.
 
 Cuando se trate de la modalidad de taxi y el usuario solicite los servicios para transportarse fuera de la localidad o requiera el servicio por un tiempo determinado, la tarifa se fijará en forma convencional.
 
@@ -1715,9 +1811,11 @@ El Consejo Técnico Estatal del Transporte integrará, al final de cada ejercici
 
 Las tarifas se aplicarán uniformemente a todas las personas que hagan uso de los vehículos que presten el servicio de transporte público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 144.
 
-Los usuarios del servicio de transporte público de pasajeros podrán solicitar ante la Dirección que se establezcan descuentos especiales a adultos mayores, personas con capacidades diferentes y estudiantes, para rutas o zonas determinadas. La Dirección realizará el análisis y estudio económico y contable para juzgar su procedencia y monto.
+Los usuarios del servicio de transporte público de pasajeros podrán solicitar ante la Dirección de Transporte que se establezcan descuentos especiales a adultos mayores, personas con capacidades diferentes y estudiantes, para rutas o zonas determinadas. La Dirección de Transporte realizará el análisis y estudio económico y contable para juzgar su procedencia y monto.
 
 Los niños menores de tres años viajarán sin costo alguno.
 
@@ -1751,19 +1849,25 @@ Sólo los vehículos en modalidades de taxi, escolar y para personal de empresas
 
 Para la construcción o habilitación de terminales, deberán cumplirse las disposiciones relativas a desarrollo urbano y protección al ambiente que correspondan y se procurarán las condiciones de accesibilidad para personas con capacidades diferentes, de la tercera edad y mujeres en período de gestación.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 151.
 
-La Dirección determinará los lugares destinados a las paradas de ascenso y descenso en la vía pública, procurando que cuenten con cobertizo, la señalización correspondiente y la accesibilidad para personas con capacidades diferentes, de la tercera edad y mujeres en período de gestación.
+La Dirección de Transporte en coordinación con la Dirección de Tránsito determinarán los lugares destinados a las paradas de ascenso y descenso en la vía pública, procurando que cuenten con cobertizo, la señalización correspondiente y la accesibilidad para personas con capacidades diferentes, de la tercera edad y mujeres en período de gestación.
 
 ### Capítulo IX. Registro de Transporte Público
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 152.
 
-La Dirección tendrá a su cargo el Registro de Transporte Público, a fin de controlar y ordenar éste servicio mediante la inscripción de los actos relacionados con la prestación del mismo; el otorgamiento, transmisión, suspensión, terminación y revocación de concesiones y permisos; así como los demás datos relativos a los concesionarios, representantes legales y mandatarios de personas morales autorizadas o concesionarias del servicio de transporte público; a los vehículos destinados al servicio y, en su caso, a los operarios.
+La Dirección de Transporte tendrá a su cargo el Registro de Transporte Público, a fin de controlar y ordenar éste servicio mediante la inscripción de los actos relacionados con la prestación del mismo; el otorgamiento, transmisión, suspensión, terminación y revocación de concesiones y permisos; así como los demás datos relativos a los concesionarios, representantes legales y mandatarios de personas morales autorizadas o concesionarias del servicio de transporte público; a los vehículos destinados al servicio y, en su caso, a los operarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 153.
 
-La Dirección ordenará el funcionamiento del Registro, para lo cual deberá:
+La Dirección de Transporte ordenará el funcionamiento del Registro, para lo cual deberá:
 
 I. Recibir los documentos para la inscripción, previo al registro correspondiente, vigilando que se cubran las contribuciones respectivas a la Secretaría de Finanzas y Planeación;
 
@@ -1783,11 +1887,15 @@ VIII. Expedir las certificaciones que le sean requeridas; y
 
 IX. Actualizar a través de revisiones periódicas los datos contenidos en el Registro.
 
-La Dirección podrá utilizar la tecnología que considere pertinente para el mejor funcionamiento del Registro.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La Dirección de Transporte podrá utilizar la tecnología que considere pertinente para el mejor funcionamiento del Registro.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 154.
 
-La Dirección podrá establecer en las Coordinaciones Regionales de Tránsito y Transporte, o en los municipios en que así se estime conveniente, mesas para la recepción de la documentación que haya de inscribirse o para realizar revisiones periódicas.
+La Dirección de Transporte podrá establecer en las coordinaciones y delegaciones de Transporte, o en los municipios en que así se estime conveniente, mesas para la recepción de la documentación que haya de inscribirse o para realizar revisiones periódicas.
 
 ###### Artículo 155.
 
@@ -1903,9 +2011,13 @@ IV. La reincidencia.
 
 La persona que, en un término de seis meses, reincida en alguna de las faltas previstas en esta Ley y su Reglamento, podrá ser sancionada con el doble de multa que corresponda. Las autoridades de tránsito y transporte recogerán la licencia de conducir al infractor.
 
-La Dirección podrá suspender los efectos de la licencia hasta por tres meses, de acuerdo con el procedimiento establecido en el Reglamento.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Las autoridades municipales que presten el servicio público de tránsito, cuando con motivo de sus funciones recojan licencias de conducir, informarán mensualmente a la Dirección sobre las licencias retenidas y, en caso de que éstas no hayan sido recogidas por su titular, le serán remitidas para los efectos legales conducentes.
+La Dirección de Transporte podrá suspender los efectos de la licencia hasta por tres meses, de acuerdo con el procedimiento establecido en el Reglamento.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las autoridades municipales que presten el servicio público de tránsito, cuando con motivo de sus funciones recojan licencias de conducir, informarán mensualmente a la Dirección de Transporte sobre las licencias retenidas y, en caso de que éstas no hayan sido recogidas por su titular, le serán remitidas para los efectos legales conducentes.
 
 > <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1951,7 +2063,9 @@ Queda exceptuada de este procedimiento la aplicación de multas que deriven de u
 
 Para la aplicación y ejecución de las sanciones de suspensión, revocación o cancelación de licencias, autorizaciones, permisos o concesiones, según corresponda, así como de multas que deriven de una visita de inspección, se deberá seguir el siguiente procedimiento:
 
-I. Se notificará personalmente al infractor o mediante correo certificado, en el domicilio que registró ante la Dirección, la infracción cometida, la sanción que pretende aplicarse y la indicación de que, a partir de la recepción de la notificación, cuenta con diez días hábiles improrrogables para formular los alegatos y presentar las pruebas que en su defensa juzgue convenientes; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+I. Se notificará personalmente al infractor o mediante correo certificado, en el domicilio que registró ante la Dirección de Tránsito o la de Transporte, según corresponda, la infracción cometida, la sanción que pretende aplicarse y la indicación de que, a partir de la recepción de la notificación, cuenta con diez días hábiles improrrogables para formular los alegatos y presentar las pruebas que en su defensa juzgue convenientes; y
 
 II. Dentro del término de quince días hábiles, contado a partir de la recepción de los alegatos y pruebas a los que se refiere la fracción anterior, o finalizado el plazo que la misma indica sin que éstos se hubieren presentado, la autoridad dictará, debidamente fundada y motivada, la resolución que corresponda, notificándola personalmente al infractor si se encuentra presente o en el domicilio del mismo; en caso de no obedecerla se adoptarán las medidas necesarias para la ejecución.
 
@@ -2048,3 +2162,19 @@ G.O. 31 DE MAYO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2011.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Con pleno respeto a los derechos laborales de quienes integran los recursos humanos del Instituto Veracruzano del Transporte, así como sus recursos materiales y financieros, se transfieren a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave. En un plazo no mayor a treinta días naturales, se efectuarán las modificaciones reglamentarias necesarias para la creación del área o unidad administrativa responsable de las funciones en esta materia.
+
+Artículo Tercero. Los recursos humanos, materiales y financieros afectos al servicio público de tránsito, asignados presupuestalmente a la Dirección General de Tránsito y Transporte de la Secretaría de Gobierno, se transfieren a la Secretaría de Seguridad Pública, quedando los destinados a la prestación del servicio público del transporte adscritos a la Dirección General de Transporte que por este Decreto se crea y que formará parte de la estructura orgánica de la Secretaría de Gobierno.
+
+Artículo Cuarto. El personal del Instituto Veracruzano del Transporte y de la Dirección General de Tránsito y Transporte que por razón de este Decreto cambia de adscripción, conservará sus derechos laborales.
+
+Artículo Quinto. La Secretaría de Gobierno, en coordinación con las Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación, de forma inmediata realizarán los trámites administrativos conducentes y las acciones necesarias para dar cumplimiento a lo dispuesto en este Decreto.
+
+Artículo Sexto. A la brevedad posible, la Secretaría de Gobierno y la Secretaría de Seguridad Pública propondrán al titular del Poder Ejecutivo del Estado sus respectivos proyectos de modificación a los Reglamentos Interiores que rigen a cada dependencia.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
