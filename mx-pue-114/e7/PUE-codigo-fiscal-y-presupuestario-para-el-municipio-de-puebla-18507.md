@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2010-12-10"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 ---
 # CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
+CÓDIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -3083,15 +3083,19 @@ Son también ingresos financieros los que obtiene el Municipio en su carácter d
 
 Son ingresos fiscales, los que se derivan de la aplicación de leyes de naturaleza fiscal que imponen a los contribuyentes una obligación de pago por concepto de contribuciones o aprovechamientos, o que pueden ser cobrados a través del Procedimiento Administrativo de Ejecución, para ser destinados al gasto público, así como los ingresos que obtiene el Municipio derivados de aportaciones o participaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 167.
 
-Las contribuciones se clasifican en impuestos, derechos y aportaciones de mejoras, las que se definen de la siguiente manera:
+Las contribuciones se clasifican en impuestos, derechos y contribuciones de mejoras, las que se definen de la siguiente manera:
 
 I. Impuestos son las contribuciones establecidas en la ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho, prevista por la misma y que sean distintas a los derechos;
 
 II. Son derechos, las contribuciones establecidas en la ley por el uso o aprovechamiento de los bienes del dominio público del Municipio, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, incluso cuando se presten por organismos. También son derechos las contribuciones a cargo de los organismos o particulares, por prestar servicios públicos a cargo del Municipio; y
 
-III. Las aportaciones de mejoras son las que el poder público fija a quienes, independientemente de la utilidad general colectiva, obtengan beneficios diferenciales particulares, derivados de obras públicas en los términos de las leyes respectivas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Las contribuciones de mejoras son las que el poder público fija a quienes, independientemente de la utilidad general colectiva, obtengan beneficios diferenciales particulares, derivados de obras públicas en los términos de las leyes respectivas.
 
 Los recargos, sanciones, los gastos de ejecución y las indemnizaciones a que se refiere el artículo 42 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
@@ -3127,11 +3131,11 @@ Para determinar el monto a pagar por concepto de contribuciones, productos o apr
 
 Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más conceptos de ingreso, deberá considerar, en todo caso, la cuota sin ajuste que corresponda a cada concepto, y sólo a la suma de los mismos se aplicará el ajuste al que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 175.
 
-Se concede los derechos previstos en la Ley de Ingresos del Municipio y demás ordenamientos o acuerdos de orden tributario, que se generen por la prestación de servicios a cargo de las dependencias y entidades, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda. Para tal efecto se entiende por:
+Se concede la exención de los derechos previstos en la Ley de Ingresos del Municipio y demás ordenamientos o acuerdos de orden tributario, que se generen por la prestación de servicios a cargo de las dependencias y entidades, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría de la Comisión de Vivienda del Estado de Puebla, para tal efecto se entiende por:
 
 Vivienda de interés social.- Aquélla cuyo valor al término de su edificación, no exceda del resultado de multiplicar por quince el salario mínimo general vigente en el Estado de Puebla, elevado al año.
 
@@ -3139,7 +3143,9 @@ Vivienda de interés popular.- Aquélla cuyo valor al término de su edificació
 
 Esta disposición es aplicable, sólo en el caso de que el Municipio, suscriba convenio con el Estado.
 
-En el caso de que las autoridades fiscales, en el ejercicio de su (sic) facultades de comprobación, corroboren que los bienes materia de exención, no fueron destinados a la edificación o adquisición de vivienda de interés social o popular, determinarán y cobrarán el crédito fiscal correspondiente, sin perjuicio de la imposición de las sanciones que correspondan.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+En el caso de que las autoridades fiscales, en el ejercicio de sus facultades de comprobación, corroboren que en el precio final de venta de los bienes inmuebles materia de esta exención no se aplico este beneficio fiscal a favor del consumidor final o los bienes materia de exención, no fueron destinados a la edificación o adquisición de vivienda de interés social o popular, determinarán y cobrarán el crédito fiscal correspondiente, sin perjuicio de la imposición de las sanciones que correspondan.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -3367,7 +3373,9 @@ El enajenante también será responsable solidario con el contribuyente, respect
 
 OBJETO. Es objeto del Impuesto Sobre Diversiones y Espectáculos Públicos, la explotación de cualquier diversión o espectáculo público que se realice en forma eventual o habitual en el Municipio.
 
-Por diversión o espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, deportiva o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Quedan incluidos en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, los juegos mecánicos, las conferencias y eventos especiales, si para el acceso se paga alguna cantidad. Las conferencias u eventos especiales organizados con la finalidad de divulgación científica, cultural o de captación de recursos para fines altruistas no causarán este impuesto, en todo caso la autoridad fiscal de corroborar que no fueron organizados con tal finalidad, determinarán y cobrarán el crédito fiscal correspondiente.
 
 Quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga alguna cantidad.
 
@@ -3457,9 +3465,25 @@ II. El equipo y las instalaciones que se utilicen en la diversión o espectácul
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, CONCURSOS, JUEGOS CON APUESTA Y APUESTAS PERMITIDAS DE TODA CLASE
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 203.
 
-OBJETO. Es objeto de este impuesto, la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y la obtención de los premios correspondientes.
+OBJETO. Es objeto de este impuesto, la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos, concursos, y la obtención de los premios correspondientes.
+
+Es también objeto de este impuesto la explotación comercial de juegos con apuestas y apuestas permitidas de toda clase atendiendo a lo siguiente:
+
+I. Billar, dominó, dados, juegos de azar, ajedrez, damas y juegos electrónicos, excepto cuando se trate de torneos gratuitos, lo cual se notificará y comprobará previamente ante la Tesorería Municipal;
+
+II. Juegos mecánicos, electromecánicos o electrónicos, videojuegos, bingos, máquinas tragamonedas, ruletas electrónicas, juegos de azar, electrónicos y similares;
+
+III. Apuestas sobre peleas de gallos, carreras de caballos, de galgos, corridas de toros, novilladas, jaripeos y similares;
+
+IV. Apuestas sobre toda clase de eventos deportivos, tales como futbol soccer, futbol americano, basquetbol, béisbol, box, lucha o similares;
+
+V. Apuestas sobre carreras de automóviles, motocicletas y demás similares; y
+
+VI. Los demás juegos, apuestas, juegos con apuestas o actividades que por su naturaleza sean similares a estos.
 
 ###### Artículo 204.
 
@@ -3469,13 +3493,21 @@ SUJETOS. Son sujetos de este impuesto, las personas físicas, morales o unidades
 
 BASE. Es base gravable de este impuesto:
 
-I. El importe total de los boletos o billetes de participación vendidos; y
+I. El importe total de los boletos o billetes de participación vendidos; y (sic)
 
 II. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Tratándose de las apuestas establecidas en las fracciones I a IV del artículo anterior, el importe de la apuesta jugada.
 
 Si los premios consisten en bienes distintos al dinero, se tendrá como base del impuesto, el valor que señalen a dichos bienes los organizadores.
 
 Si la Tesorería considera que el valor a que se refiere el párrafo anterior, no es el que realmente le corresponde, ordenará que se valúen los bienes en cuestión, por medio de peritos y el valor así determinado será la base gravable.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Respecto de la fracción III, para el control de las apuestas o juegos con apuestas deberá entregarse ticket, contraseña o similar en el que se contenga la apuesta o el premio por esta.
 
 ###### Artículo 206.
 
@@ -3485,9 +3517,15 @@ TASA. Este impuesto se causará y pagará, aplicando a la base gravable determin
 
 ÉPOCA Y LUGAR DE PAGO. En el caso de la percepción de ingresos por la venta de boletos para la realización de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, este impuesto se deberá pagar en la Tesorería, a más tardar el día hábil siguiente a aquél en que se efectúen los eventos a que se refiere el artículo 203 de este Código.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Respecto de los lugares donde habitualmente se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y toda clase de apuestas permitidas, el impuesto se causará mensualmente por cada establecimiento en que se celebren los juegos permitidos los primeros cinco días de cada mes, siempre y cuando no se trate de los supuestos contenidos en las fracciones III, IV y V del artículo 203 del presente ordenamiento, en cuyo caso el impuesto se pagará conforme al párrafo que antecede.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 208.
 
-RESPONSABLES SOLIDARIOS. Son responsables solidarios del pago de este impuesto, las personas físicas, morales o unidades económicas sin personalidad jurídica, que promuevan u organicen loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, respecto de la obligación de retener y enterar el impuesto que corresponda a cargo de quienes obtienen premios derivados de dichos eventos.
+RESPONSABLES SOLIDARIOS. Son responsables solidarios del pago de este impuesto, las personas físicas, morales o unidades económicas sin personalidad jurídica, que promuevan u organicen loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, así como los propietarios o arrendatarios de los establecimientos donde tenga acceso el público, en que se practiquen los juegos a que se refiere este Capítulo respecto de la obligación de retener y enterar el impuesto que corresponda a cargo de quienes obtienen premios derivados de dichos eventos.
 
 ###### Artículo 209.
 
@@ -3501,21 +3539,31 @@ II. Presentar a favor de la Tesorería dentro del plazo señalado en la fracció
 
 Dicha garantía deberá ser al menos, por un importe igual al total de la emisión de boletos o billetes de participación;
 
-III. Dar aviso a la Tesorería por escrito a más tardar dos días hábiles anteriores a aquél señalado para efectuar los eventos de referencia, de cualquier modificación que se haga a los términos establecidos para la realización de los mismos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Los promotores de espectáculos públicos, así como los propietarios o arrendatarios de bienes inmuebles donde se realicen dichos eventos, y en los que además, por su naturaleza implique la celebración de toda clase de juegos o apuestas por parte de los asistentes deberán dar aviso por escrito a la Tesorería por lo menos quince días hábiles anteriores a la realización del evento, señalando el mecanismo mediante el cual llevarán el control de las apuestas;
 
 IV. Otorgar toda clase de facilidades a los inspectores o interventores comisionados por la Tesorería para que desempeñen adecuadamente su cometido, proporcionándoles los documentos, datos e informes que se requieran para la determinación de este impuesto; y
 
 V. Retener y enterar el impuesto que corresponda, conforme a los artículos 205 y 207 de este Código, el día hábil siguiente al de la entrega de los premios, entretanto no se cancelarán las garantías otorgadas.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+En el caso de las fracciones III a VI del artículo 203 deberán presentar el ticket, contraseña o similar que en su caso contenga la apuesta de que se trate.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 210.
 
-NO CAUSACIÓN. Están exentos del pago de este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, y los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+NO CAUSACIÓN. Están exentos del pago de este impuesto los Partidos Políticos en los términos de la legislación electoral correspondiente, cuyo objeto sea la obtención de recursos para destinarlos a la consecución de sus fines legales. En todo caso la autoridad fiscal de corroborar que no son organizados los eventos mencionados o destinados los recursos económicos obtenidos con dicha finalidad, determinarán y cobrarán el crédito fiscal correspondiente.
 
-El Presidente podrá conceder mediante acuerdo la reducción o condonación del impuesto a que este Capítulo se refiere, cuando los productos de los eventos de referencia se destinen íntegramente para fines de asistencia o de instrucción pública.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 211.
 
-OTROS. La Tesorería podrá establecer una cantidad fija como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en los artículos 205, 206 y 207 de este Código o cuando no se compense el sostenimiento de su interventor.
+OTROS. La Tesorería podrá nombrar personal adscrito a su responsabilidad para vigilar el cumplimiento de las obligaciones fiscales, a cargo de los sujetos del impuesto y podrá establecer una cantidad fija como impuesto, cuando no sea posible su determinación y pago en la forma y términos establecidos en los artículos 205, 206 y 207 de este Código o cuando no se compense el sostenimiento de su interventor.
+
+La Tesorería podrá impedir la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase a que se refiere este Capítulo cuando no se pague el impuesto en términos de Ley o cuando se impida a las autoridades fiscales cumplir el desempeño de sus atribuciones legales.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS PRESTADOS POR LAS DEPENDENCIAS Y ENTIDADES MUNICIPALES
 
@@ -3861,9 +3909,11 @@ I. Los servicios que se presten en Industrial de Abasto Puebla o en los lugares 
 
 II. El registro de fierros o marcas para el ganado así como su renovación anual por unidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 248.
 
-Son sujetos de este derecho, las personas físicas o morales que habitualmente o accidentalmente se dediquen a la introducción y compraventa de ganado en pie, en canal, en embutidos y similares en el Municipio, los que deberán registrar las operaciones que efectúen ante la administración de Industrial de Abasto Puebla o en los lugares autorizados, para cuyo caso se llevará un libro de registro, sin perjuicio del cumplimiento de los requisitos sanitarios.
+Son sujetos de este derecho, las personas físicas o morales que prestan el servicio en los lugares autorizados por la autoridad correspondiente y/o aquellas que habitual o eventualmente se dediquen a la introducción y compraventa de ganado en pie, en canal, en embutidos y similares en el Municipio, los que deberán registrar las operaciones que efectúen ante la administración de Industrial de Abasto Puebla, para cuyo caso se llevará un libro de registro, sin perjuicio del cumplimiento de los requisitos sanitarios.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -3875,21 +3925,27 @@ Es base de este derecho, cada animal en pie considerado por cabeza, y tratándos
 
 En el caso de registro de fierros o marcas, así como por su renovación, se cobrará por unidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 250.
 
-El pago de este derecho se efectuará previo al pago del servicio.
+El pago de este derecho se efectuará en Industrial de Abasto Puebla, previo a la prestación u otorgamiento del servicio.
 
 Industrial de Abasto Puebla, no será responsable por la suspensión de los servicios que presta o retrasos de los mismos, cuando éstos sean causados por fallas mecánicas, falta de energía eléctrica, captación de agua o circunstancias fortuitas no imputables al organismo, tampoco será responsable por mermas, utilidades o pérdidas comerciales supuestas.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 251.
 
-Son objeto de estos derechos, los servicios de inhumación y exhumación de cadáveres o restos humanos, construcciones de cripta o gaveta, ampliaciones de fosas, construcción, reconstrucción, demolición, mantenimiento o modificaciones de monumentos, excavación, depósito de restos en osario, derechos por incineración prestados por panteones particulares autorizados por el Ayuntamiento.
+Es objeto de estos derechos, los servicios de inhumación y exhumación de cadáveres o restos humanos, construcciones de cripta o gaveta, ampliaciones de fosas, construcción, reconstrucción, demolición, mantenimiento o modificaciones de monumentos, excavación, depósito de restos en osario y derechos por incineración prestados por los panteones municipales incluidos los de las Juntas Auxiliares, y los particulares autorizados por el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 252.
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que establece este capítulo.
+Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que brinden los panteones municipales, así como aquellas que sean poseedoras o administradoras de los panteones particulares autorizados por el Ayuntamiento.
 
 ### CAPÍTULO X
 
@@ -3991,19 +4047,35 @@ VII. El almacenaje en inmuebles del Ayuntamiento, de bienes muebles adjudicados 
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere este Capítulo.
 
-### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS DE SUPERVISIÓN SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 265.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
+Son objeto de este derecho, la prestación de los Servicios de Supervisión sobre la explotación de bancos de mármoles, canteras, pizarras, basaltos, cal, calizas, tezontle, tepetate y sus derivados, arena, grava y otros materiales similares ubicados en el Municipio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 266.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
+Son sujetos de este derecho, las personas físicas o morales que sean propietarias, poseedoras, usufructuarias, concesionarias y en general quienes bajo cualquier título realicen la extracción del material a que se refiere este Capítulo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 267.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
+Es base gravable la superficie y el tipo de material del banco sujeto a la supervisión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 267 Bis.
+
+Tiempo, forma y lugar de pago.- Los derechos a que se refiere este capítulo se causarán anualmente y se pagarán en forma previa a la prestación del servicio, que podrá darse en una o varias visitas, según lo determine la autoridad correspondiente, debiendo hacerse el pago en las oficinas recaudadoras de la Tesorería Municipal o en los lugares habilitados por ésta, para el cobro de la contribución.
+
+El pago de este derecho podrá hacerse en cualquier época del año, siempre que la supervisión se realice por lo menos una vez dentro de este periodo de tiempo.
 
 ### CAPÍTULO XV. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
@@ -4169,27 +4241,47 @@ III. Las licencias que para eventos esporádicos se expidan con el carácter de 
 
 Son sujetos de estos derechos, las personas físicas o morales que sean propietarios o poseedores de establecimientos o locales cuyo giro implique la enajenación o expendio de bebidas alcohólicas realizada total o parcialmente con el público en general.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO XVIII. ESTACIONAMIENTO DE VEHÍCULOS
+### CAPÍTULO XVIII. DE LOS DERECHOS POR SERVICIO DE ESTACIONAMIENTO, DE SUPERVISIÓN A LOS PRESTADORES AUTORIZADOS DEL SERVICIO Y SUSTITUTIVOS DEL SERVICIO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 274 Ter 1.
 
-Es objeto del presente Capítulo normar el servicio público de estacionamiento, la recepción, custodia, protección y devolución de vehículos automotores, y regular el estacionamiento en la vía pública del Municipio.
+Es objeto de este derecho la recepción, custodia, protección y devolución de vehículos automotores en estacionamientos públicos autorizados por el H. Ayuntamiento del Municipio de Puebla, en términos de la legislación aplicable, así como el estacionamiento de vehículos automotores en lugares autorizados de la vía pública y la supervisión de lugares públicos autorizados del Municipio.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+Igualmente es objeto de este derecho el servicio de supervisión que realice la autoridad municipal a la recepción, guarda, custodia, protección y devolución de vehículos automotores, que realizan las negociaciones autorizadas para funcionar como estacionamientos públicos.
+
+También se considera objeto de este derecho, todo edificio o construcción cualquiera que sea su uso, el número de niveles plantas o pisos cuya construcción, adaptación, cambio de giro o de situación jurídica se realice a partir del año 2012 y no cuenten con los cajones suficientes para el estacionamiento de vehículos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 274 Ter 2.
 
-El servicio de estacionamiento y guarda de vehículos en el Municipio de Puebla, podrá ser prestado directamente por el H. Ayuntamiento del Municipio de Puebla, y por los particulares que obtengan del mismo, la licencia correspondiente.
+Son sujetos del pago de este derecho, los propietarios y/o poseedores de vehículos que hagan uso de espacios autorizados para estacionamiento en vía pública o lugares públicos.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+También son sujetos de este derecho los particulares autorizados que presten el servicio de recepción, guarda, custodia, protección y devolución de vehículos automotores.
+
+Igualmente son sujetos de estos derechos las personas físicas o morales propietarios o poseedores de edificios o construcciones ubicadas en el territorio del Municipio de Puebla; cuya construcción, adaptación, cambio de giro o de situación jurídica se realicen a partir de 2012.
+
+Son responsables solidarios los servidores públicos, peritos en construcción a cuyo cargo esté la autorización, regularización o responsabilidad del inicio o conclusión de la construcción o funcionamiento de edificios o locales que no cuenten con los cajones suficientes para el estacionamiento de vehículos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 274 Ter 3.
 
-Para la obtención de las licencias que autoricen la prestación del servicio público de estacionamiento y guarda de vehículos, así como su regulación, se estará a lo dispuesto en el Capítulo 24 denominado ESTACIONAMIENTOS, del Título Único, del Libro Cuarto del Código Reglamentario para el Municipio de Puebla.
+La base gravable de este derecho es el tiempo de ocupación específica que se haga de los cajones de estacionamiento en las zonas autorizadas de la vía pública o lugares públicos, de acuerdo con la tarifa que se disponga en la Ley de Ingresos o en el dictamen de cabildo que corresponda; los medios de verificación de dichas circunstancias se establecerá en el Título relativo del Código Reglamentario del Municipio de Puebla.
+
+Para los particulares prestadores del servicio de recepción, guarda, custodia, protección y devolución de vehículos automotores en los lugares autorizados, la base gravable de este derecho serán las cantidades captadas al día por cada cajón de estacionamiento disponible para la prestación del servicio en los lugares autorizados, conforme a las tasas y tarifas que se especifiquen en la Ley de Ingresos.
+
+La obtención de licencias que autoricen la prestación del servicio de estacionamiento, recepción custodia, protección y devolución de vehículos automotores, así como su regulación, se realizara en términos de lo dispuesto en el Capítulo 24 denominado ESTACIONAMIENTOS, del Título Único, del Libro Cuarto del Código Reglamentario para el Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 274 Ter 4.
+
+Forma de pago, la que se establezca en la Ley de Ingresos y/o acuerdo de cabildo.
 
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005) (REUBICADO, P.O. 29 DE DICIEMBRE DE 2006)
 
@@ -6512,3 +6604,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- La aplicación de las disposiciones de este Decreto relacionadas a la aplicación de la Ley General de Contabilidad Gubernamental, dependerán del cumplimiento de los plazos y cargas a que se refieren los diversos transitorios del Decreto que crea el referido ordenamiento federal.
 
 CUARTO.- Para efectos de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Sector Público Estatal y Municipal, deberá entenderse que en los casos en que las asociaciones público privadas involucren esquemas complejos de financiamiento público, la intervención congresional será para los efectos de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, lo que implica la afectación de futuras partidas presupuestales destinadas a la amortización de la deuda, en los casos en que no se relacionen operaciones de financiamiento, regirá el principio de libertad de gasto, y por ende, será la mayoría calificada del Cabildo el único requisito exigible para la validez de las asociaciones.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
