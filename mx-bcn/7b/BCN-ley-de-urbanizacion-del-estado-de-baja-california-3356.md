@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "2010-04-30"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
+LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -123,7 +123,9 @@ Tratándose de extrema pobreza, por incapacidad física, temporal o permanente d
 
 El Ejecutivo del Estado, en los términos del párrafo anterior, podrá otorgar subsidios para el pago de las contribuciones de mejoras a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles.
 
-Tratándose de pensionados, jubilados, indigentes mayores de sesenta años y discapacitados que acrediten tal calidad y reúnan los requisitos establecidos en el Título noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, y discapacitados que realicen alguna actividad económicamente productiva y que obtengan ingresos de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y los indigentes mayores de sesenta años o discapacitados que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad. En la misma forma Presidente Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Tratándose de pensionados, jubilados, indigentes mayores de sesenta años; discapacitados que acrediten tal calidad; padre o madre jefe de familia, así como personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad y reúnan los requisitos establecidos en el Título noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, personas con discapacidad, padre o madre jefe de familia y personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad, que realicen alguna actividad económicamente productiva y que obtengan ingresos diarios de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y los indigentes mayores de sesenta años o discapacitados que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad. En la misma forma el Presidente Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
 
 ###### ARTICULO 10.
 
@@ -1324,3 +1326,7 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al Artículo Cuarto del pr
 P.O. 30 DE ABRIL DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, Órgano de Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
