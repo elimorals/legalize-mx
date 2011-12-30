@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-40101"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-18"
-last_updated: "2004-06-18"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 18 de junio de 2004.
 
@@ -761,9 +761,11 @@ Si quien no cumpla sus obligaciones fuese un ocupante no propietario, el Adminis
 
 Los condóminos cubrirán independientemente el Impuesto Predial de su propiedad exclusiva y la parte que les corresponda de los bienes en común o de copropiedad, así como los demás impuestos, contribuciones o derechos de que en razón del condominio sean causantes por sí mismos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 67.
 
-Las controversias que se susciten con motivo de la interpretación y aplicación de la presente Ley, del Reglamento del Condominio, de la escritura constitutiva, de las traslativas de dominio, de las resoluciones de la asamblea, así como de las demás disposiciones legales aplicables, serán sometidas al arbitraje, si lo prevé el Reglamento del Condominio o lo acuerdan las partes, ante las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento correspondiente o a los tribunales competentes, en juicio sumario, salvo que se establezca una vía distinta en cualquier otro ordenamiento. Cuando se trate de ejercitar acciones por incumplimiento de pago por concepto de cuotas de mantenimiento, administración y fondo de reserva, y extraordinarias, no será necesario que se siga el procedimiento arbitral y podrá ejercerse la vía ejecutiva civil en los términos del Artículo 63 de la presente Ley.
+Las controversias que se susciten con motivo de la interpretación y aplicación de la presente Ley, del Reglamento del Condominio, de la escritura constitutiva, de las traslativas de dominio, de las resoluciones de la asamblea, así como de las demás disposiciones legales aplicables, podrán ser sometidas al arbitraje ante las Oficialías Conciliadoras y Calificadoras Municipales del Ayuntamiento correspondiente o a los tribunales competentes, en juicio sumario, salvo que se establezca una vía distinta en cualquier otro ordenamiento. Cuando se trate de ejercitar acciones por incumplimiento de pago por concepto de cuotas de mantenimiento, administración y fondo de reserva, y extraordinarias, no será necesario que se siga el procedimiento arbitral y podrá ejercerse la vía ejecutiva civil en los términos del Artículo 63 de la presente Ley.
 
 ###### ARTÍCULO 68.
 
@@ -996,3 +998,9 @@ EUGENIO ELORDUY WALTHER
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado" (sic).
