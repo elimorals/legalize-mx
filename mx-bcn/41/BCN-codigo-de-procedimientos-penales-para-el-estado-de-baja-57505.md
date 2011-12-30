@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2011-07-01"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1531,7 +1531,7 @@ Para la imposición de medidas cautelares, se podrá escuchar la opinión del ó
 
 Delitos graves y principio de proporcionalidad.- No se podrá decretar una medida cautelar cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido y la sanción probable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1551,25 +1551,29 @@ IV.- Los previstos en los artículos 203, 208 fracciones I y II, 208 bis párraf
 
 V.- Contra el libre desarrollo de la personalidad, previstos en los artículos 261 párrafo segundo, 262, 262 ter, 264 y 265 del Código Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
 VI.- El delito de Peculado previsto en el artículo 299 fracción III del Código Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII.-Trata de personas prevista en los artículos 10 y 11 de la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Baja California.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Previo a la imposición del Juez de la prisión preventiva de oficio, deberá otorgar al imputado la posibilidad de que rinda declaración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Tratándose de otros delitos, podrá aplicarse la prisión preventiva u otras medidas cautelares, siempre que resulten procedentes de conformidad con las disposiciones de este título.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -4746,3 +4750,7 @@ P.O. 27 DE MAYO DE 2011.
 P.O. 1 DE JULIO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los Municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado, publicado el 19 de octubre de 2007 en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
