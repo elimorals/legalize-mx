@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2009-12-29"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -63,19 +63,31 @@ CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-La Hacienda Pública del Estado de Guerrero, para cubrir el gasto público y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal las contribuciones y participaciones en ingresos federales que establezcan las leyes respectivas y los convenios de coordinación hacendaria que se hayan suscrito o que se suscriban para tales efectos.
+La Hacienda Pública del Estado de Guerrero, para cubrir el gasto público y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal, las contribuciones, productos aprovechamientos y participaciones en ingresos federales que establezcan las leyes respectivas y los convenios de coordinación hacendaria que se hayan suscrito o que se suscriban para tales efectos.
 
 Ninguna contribución podrá recaudarse si no está prevista en las Leyes de Hacienda y de Ingresos del Estado.
 
-###### ARTICULO 2o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Los ingresos del Estado por concepto de contribuciones se clasificarán en ordinarios y extraordinarios.
+###### ARTÍCULO 2o.
 
-I.- Son ingresos ordinarios del Estado los siguientes: los impuestos, derechos, productos, aprovechamientos y participaciones, que se regularán por las leyes fiscales respectivas o en su defecto por este Código y supletoriamente por el derecho común;
+Las contribuciones se clasifican en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos, las que se definen de la siguiente manera:
 
-II.- Son ingresos extraordinarios los empréstitos, subsidios y los que decrete el Congreso del Estado.
+I. Impuestos: son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II, III y IV de este artículo.
+
+II. Aportaciones de seguridad social: son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Estado.
+
+III. Contribuciones de mejoras: son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+
+IV. Derechos: son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en Ley.
+
+Cuando sean organismos descentralizados los que proporcionen la seguridad social a que hace mención la fracción II, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
+
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del Artículo 35 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
 
 ###### ARTICULO 3o.
 
@@ -91,17 +103,17 @@ II.- La Ley de Hacienda;
 
 III.- La Ley de Ingresos;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IV.- La Ley número 255 del Presupuesto, de Egresos y la Contabilidad Gubernamental del Estado de Guerrero;
+IV. Ley Número 454 de Presupuesto y Disciplina Fiscal del Estado de Guerrero.
 
 V.- El Presupuesto de Egresos;
 
 VI.- Los convenios de coordinación fiscal que celebre el Estado con la Federación y municipios;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VII.- La Ley número 251, que crea el Sistema Estatal de Coordinación Fiscal y establece las Bases, Montos y Plazos a los que se sujetarán las participaciones federales;
+VII.- Ley Número 427 del Sistema de Coordinación Hacendaria del Estado de Guerrero.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -117,11 +129,11 @@ Las normas de derecho tributario que establezcan cargas a los particulares y las
 
 ###### ARTICULO 6o.
 
-Son impuestos las prestaciones en dinero o en especie que la ley fija con carácter general y obligatorio a cargo de todos aquellos sujetos cuya situación coincida con la que la ley señale como hecho generador del crédito fiscal, para cubrir los gastos públicos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 7o.
 
-Son derechos las contraprestaciones establecidas por el Poder Público, conforme a la ley en pago de servicios.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 8o.
 
@@ -181,9 +193,11 @@ El Estado tendrá derecho a percibir las participaciones que se le otorguen en i
 
 Son ingresos derivados de la coordinación hacendaria los que perciba el Estado como consecuencia de la adhesión al Sistema Nacional de Coordinación Fiscal, de conformidad con las disposiciones de este Código, de los convenios, acuerdos o declaratorias que al efecto se celebren o realicen y se regularán además, por lo que en su caso disponga la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Son autoridades fiscales del Estado:
+Son autoridades fiscales del Estado de Guerrero, las cuales tendrán competencia dentro del territorio del Estado conforme al artículo 5 de la Constitución Política del Estado de Guerrero.
 
 I.- El Gobernador del Estado;
 
@@ -199,25 +213,37 @@ IV.- El Procurador Fiscal;
 
 V.- El Coordinador General de Catastro;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI.- Los Directores Generales de la Subsecretaría de Ingresos;
+VI.- Los Directores Generales de Recaudación y de Fiscalización de la Subsecretaría de Ingresos;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VII.- Los jefes de departamento de la Sub´Secretaría de Ingresos;
+VII.- Los Jefes de Departamento de las Direcciones Generales de Recaudación, de Fiscalización y de la Coordinación General de Catastro de las Subsecretaría de Ingresos;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Los administradores fiscales estatales, y (sic)
+VIII.- Los Administradores y Agentes Fiscales Estatales;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IX.- Los agentes fiscales estatales;
+IX.- Los Coordinadores y Auditores Fiscales Estatales;
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 X.- Los subadministradores fiscales estatales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las autoridades fiscales del Estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero, el Reglamento Interior de la Secretaría de Finanzas y Administración del Estado y las Leyes Fiscales del Estado, cumpliendo con los requisitos que para tal efecto se señalen.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 11
+
+BIS.- Las autoridades fiscales del estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, los artículos 4o y 5o de la Constitución Política del Estado Libre y Soberano de Guerrero y demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Guerrero número 433, y en el Reglamento Interior de la Secretaria de Finanzas y Administración del Gobierno del Estado de Guerrero, cumpliendo con los requisitos que para tal efecto se señalen.
+
+Para el trámite y resolución de los asuntos dentro de las facultades y atribuciones que les confiere a las autoridades fiscales Estatales el presente Código, se considerará competencia territorial en donde se ejercerán las facultades de las Coordinaciones Fiscales Estatales de la Dirección General de Fiscalización dependiente de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, será la que corresponda conforme a este al Código.
 
 ###### ARTICULO 12.
 
@@ -651,9 +677,11 @@ La determinación de los créditos fiscales y de las bases para su liquidación,
 
 Para determinar las contribuciones se considerarán, inclusive las fracciones del peso. No obstante lo anterior, los contribuyentes al efectuar su pago, el monto se ajustará para que las que contengan cantidad que incluya de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior, y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 41.
 
-La Secretaría de Finanzas y Administración, sus dependencias directas y órganos fiscales, tendrán las funciones en relación con las diversas materias tributarias, que determinen la Ley Orgánica de la Administración Pública del Estado, el Reglamento Interior de la Secretaría de Finanzas y Administración, el presente Código, la Ley de Ingresos, la Ley de Hacienda del Estado, la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Deuda Pública, Decreto del Presupuesto de Egresos Anual, así como el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y demás disposiciones de orden fiscal.
+La Secretaría de Finanzas y Administración, sus dependencias directas y órganos fiscales, tendrán las funciones en relación con las diversas materias tributarias, que determinen la Ley Orgánica de la Administración Pública del Estado, el Reglamento Interior de la Secretaría de Finanzas y Administración, el presente Código, la Ley de Ingresos, la Ley de Hacienda del Estado, la Ley de Presupuesto y Disciplina Fiscal del Estado de Guerrero, el Decreto del Presupuesto de Egresos, así como el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, y demás disposiciones de orden fiscal.
 
 ###### ARTICULO 42.
 
@@ -1071,7 +1099,7 @@ XII.- Las demás que dispongan las leyes.
 
 Los sujetos que tengan obligación de presentar declaraciones, manifestaciones y avisos, deberán hacerlo en las formas que al efecto apruebe la Secretaría de Finanzas y Administración y de proporcionar los datos e informes que en dichas formas se requieran.
 
-Cuando se presenten declaraciones mensuales para el entero de contribuciones estatales, en el caso de que éstas deban presentarse en ceros, no se presentarán las siguientes declaraciones hasta que exista cantidad a pagar.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 Si se tiene que declarar más de una obligación pero en alguna de ellas no hay cantidad a pagar, se deberá anotar "0" en el renglón de la obligación en que se dé dicho supuesto.
 
@@ -1515,9 +1543,9 @@ XIII.- Para la presentación del dictamen se deberá exhibir la siguiente docume
 
 El texto de la documentación, así como los anexos que integran el dictamen, deberán adecuarse a lo establecido en las reglas de carácter general que al efecto se publiquen.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XIV.- Deberá contener la opinión respecto del cumplimiento de las disposiciones fiscales que derivan de las contribuciones a que se refiere el último párrafo de la fracción II de este articulo, con apego a las normas de auditoría generalmente aceptadas y procedimientos de auditoría que se consideren necesarios para conocer la situación del contribuyente.
+XIV.- El Contador Público calculará el impuesto sobre remuneraciones al trabajo personal aplicando la tasa que establece la Ley de Hacienda del Estado, en cada uno de los meses del período sujeto a dictamen. Dicho impuesto deberá compararse con el impuesto pagado por el contribuyente dictaminado y, en su caso, establecer las diferencias.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1551,9 +1579,9 @@ c). Se hará mención expresa de que se verificó el cálculo y entero de las co
 
 5). Las omisiones conocidas en la revisión efectuada por el Contador Público, deberán pagarse antes de la entrega del dictamen anexando fotocopias legibles de estos pagos en el cuadernillo del dictamen o, en el caso de no haberlas pagado, informar de las mismas a las autoridades fiscales.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVII.- El Contador Público designado por el contribuyente que haya suscrito el aviso para dictaminar el cumplimiento de las obligaciones fiscales, se encuentra obligado a formular dicho dictamen salvo que tenga incapacidad física o impedimento legal para hacerlo.
+XVII.- El Contador Público calculará el Impuesto sobre la prestación de servicios de hospedaje aplicando la tasa que establece la Ley de Hacienda del Estado, en cada uno de los meses del período sujeto a dictamen. Dicho impuesto deberá compararse con el impuesto pagado por el contribuyente dictaminado y, en su caso, establecer las diferencias.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1905,11 +1933,17 @@ XV.- No conservar los libros, documentos y correspondencia que les sean dejados 
 
 XVI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes; de cuarenta a ciento veinte días de salario mínimo general vigente en la zona "A";
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 XVII.- No pagar en forma total o parcial las contribuciones dentro de los plazos señalados por las leyes fiscales, y sea descubierto por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
 
-a).- El 50% de las contribuciones omitidas actualizadas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la omisión;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-b).- El 100% de las contribuciones omitidas actualizadas, en los demás casos;
+a).- El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la omisión.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+b).- El 100% de las contribuciones omitidas, en los demás casos.
 
 Si las autoridades fiscales determinan una omisión mayor que la considerada por el contribuyente para calcular la multa en los términos del inciso a) de esta fracción, aplicarán el porciento que corresponda en los términos del inciso b) sobre el remanente no pagado de las contribuciones.
 
@@ -3274,3 +3308,9 @@ P.O. 29 DE DICIEMBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil diez.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general y efectos legales procedentes.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de enero del año dos mil doce.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
