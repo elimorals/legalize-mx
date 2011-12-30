@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2010-12-30"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -91,7 +91,9 @@ Tratándose de derechos en los que se establezcan fecha límite de pago, cuando 
 
 Las personas físicas y las morales, pagarán los derechos que se establecen en esta Ley en las oficinas que autorice la Secretaría.
 
-El pago de los derechos deberá hacerse por el contribuyente, previamente a la prestación de los servicios, con independencia del momento de su causación.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+El pago de los derechos deberá hacerse por el contribuyente, previamente a la prestación de los servicios, con independencia del momento de su causación; excepto en los casos que la propia Autoridad Hacendaria lo determine mediante reglas de carácter general que para tal efecto emita.
 
 Los servidores públicos encargados de la prestación de los servicios, serán responsables de la vigilancia del pago y, en su caso, del cobro y entero de los derechos previstos en esta Ley.
 
@@ -159,7 +161,7 @@ Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas
 
 ## Título Segundo. De los Derechos
 
-> <small>(REFORMADO, SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo I. Derechos por Servicios que Presta el Instituto de la Consejería y de Asistencia Legal
 
@@ -999,7 +1001,9 @@ a) Tratándose de predios de interés social. 2.0
 
 b) En los demás casos. 3.0
 
-III. Por la verificación de avalúos efectuados por peritos autorizados por la Secretaría de Hacienda; de conformidad con el valor del inmueble objeto del avalúo, de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Por la verificación de avalúos efectuados por peritos autorizados por el Instituto de la Consejería Jurídica y de Asistencia Legal; de conformidad con el valor del inmueble objeto del avalúo, de acuerdo a lo siguiente:
 
 a) De $00.001.00 hasta $ 100,000 4.0
 
@@ -1129,15 +1133,13 @@ o fracción adicional. 5.0
 
 Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 XII. Información de coordenadas geográficas
 
-de puntos monumentados de la red
+de puntos monumentados de la red geodésica
 
-geodésica estatal por punto, así como la
-
-lectura de las estaciones base para corrección
-
-diferencial GPS en forma digital por hora. 2.0
+estatal por punto. 2.0
 
 XIII. Establecimiento de puntos monumentados
 
@@ -1331,13 +1333,15 @@ I. Registro por 1 (uno) año. 6.0
 
 II. Revalidación anual del registro. 50.0
 
-III. Aplicación de examen a aspirantes
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-para estar inscritos en el padrón de profesionistas
+III. Aplicación de examen a aspirantes para
+
+estar inscritos en el padrón de profesionistas
 
 especializados en materia de levantamientos
 
-topográficos catastrales. 80.0
+topográficos catastrales. 8.0
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1615,7 +1619,9 @@ Para la expedición de la constancia de funcionamiento a que se refieren las fra
 
 Se aplicará un descuento del 50% en las tarifas de los derechos contemplados en el presente artículo en sus fracciones III a la VII, para aquellos contribuyentes que realicen el pago dentro de los cuarenta y cinco días del primer y segundo semestre, para quienes lo realicen fuera del plazo establecido, el descuento a aplicar será del 20% sobre la tarifa semestral, y se le aplicarán los accesorios correspondientes por la mora de acuerdo a la norma aplicable; salvo disposición en contrario.
 
-Para efecto de que los contribuyentes se hagan acreedores a las reducciones contempladas en el párrafo anterior, es requisito indispensable que estos regularicen los adeudos generados por la omisión de sus contribuciones hasta el Ejercicio Fiscal 2010 y que venían tributando bajo el artículo 36 de la Ley Estatal de Derechos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Para efecto de que los contribuyentes se hagan acreedores a las reducciones contempladas en el párrafo anterior, es requisito indispensable que estos regularicen los adeudos generados por la omisión de sus contribuciones hasta el Ejercicio Fiscal 2011, que venían tributando bajo el artículo 36 de la Ley Estatal de Derechos, así como el artículo 20 B, vigente hasta el 31 de diciembre de 2010 de la misma Ley.
 
 Los contribuyentes que hayan realizado el pago de los derechos contemplados en el presente artículo en su totalidad, podrán solicitar la devolución del excedente sujetándose a lo establecido en los artículos 51 y 81 del Código de la Hacienda Pública para el Estado de Chiapas.
 
@@ -1679,6 +1685,8 @@ interés y garantía prendaría, a través
 
 de las llamadas Casas de Empeño. 550.0
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 IV. Revalidación del permiso para la apertura,
 
 instalación y funcionamiento del establecimiento
@@ -1689,7 +1697,7 @@ celebración de contratos de mutuo con interés
 
 y garantía prendaria, a través de las llamadas
 
-Casas de Empeño. 30.0
+Casas de Empeño. 550.0
 
 > <small>(F. DE E., P. O. 20 DE ENERO DE 2010)</small>
 
@@ -1822,6 +1830,10 @@ y vehículos similares con motor. 14.0
 c) Placas de bicicletas y vehículos similares
 
 sin motor. 2.0
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+d) Placa de bicicleta con carro anexo. 14.0
 
 > <small>(F. DE E., P. O. 20 DE ENERO DE 2010)</small>
 
@@ -2043,13 +2055,95 @@ que conste de original, duplicado y triplicado. 6.0
 
 ### Capítulo V. Derechos por Servicios que Presta la Secretaría de Seguridad y Protección Ciudadana
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 30.
 
-Los derechos por servicios que presta la Dirección de Policía Auxiliar y de Servicios Privados de Seguridad, se causarán por cada uno de los conceptos de la siguiente forma:
+Por los servicios que presta la Secretaría de Seguridad y Protección Ciudadana, en materia de seguridad privada, a los particulares en el Estado, causarán y se pagarán por cada uno de ellos los siguientes derechos:
 
-Servicio Tarifa
+SERVICIO TARIFA
+
+S.M.D.V.E.
+
+I. Estudio y trámite de la solicitud e integración
+
+del expediente de la autorización o su
+
+revalidación, para la prestación de servicios de
+
+seguridad privada. 50.0
+
+II. Por la inscripción de cada persona que
+
+preste los servicios de seguridad privada,
+
+en el Registro Nacional del Personal de
+
+Seguridad Pública. 1.0
+
+III. Por la consulta de antecedentes policiales
+
+de cada persona en el Registro Nacional
+
+del Personal de Seguridad Pública, respecto
+
+del personal con que cuentan las instituciones
+
+que presten los servicios de seguridad privada. 1.0
+
+IV. Por la expedición de cada cédula de
+
+identificación del personal, con el registro
+
+asignado en su inscripción. 1.0
+
+V. Por la autorización o su revalidación anual,
+
+para prestar el servicio en la modalidad de
+
+vigilancia y custodia de lugares o establecimientos
+
+y en general de toda clase de inmuebles. 100.0
+
+VI. Por la autorización o su revalidación anual,
+
+para prestar el servicio en la modalidad de la
+
+protección, vigilancia o custodia de personas. 100.0
+
+VII. Por la autorización o revalidación anual,
+
+para prestar el servicio en la modalidad de
+
+la custodia de bienes muebles y valores. 100.0
+
+VIII. Por la autorización o revalidación anual,
+
+para prestar el servicio en la modalidad
+
+del establecimiento y operación de sistemas
+
+y equipos de seguridad. 100.0
+
+IX. Por la autorización o revalidación anual,
+
+para prestar los servicios en las demás
+
+actividades que se relacionen directamente
+
+con servicios de seguridad privada. 100.0
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+#### Sección Primera. Derechos por servicios que presta la Coordinación General de Servicios Estratégicos de Seguridad
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 30-A.
+
+Los derechos por servicios que presta la Coordinación General de Servicios Estratégicos de Seguridad, se causarán por cada uno de los conceptos de la siguiente forma:
+
+SERVICIO TARIFA
 
 S.M.D.V.E.
 
@@ -2057,33 +2151,63 @@ I. Servicio armado por elemento de 12 horas,
 
 de lunes a sábado, por mes. 156.0
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+Cuando el servicio referido en la fracción
 
-Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
+anterior comience a presentarse posterior
+
+al primer día de cada mes, siempre que no
+
+rebase de un periodo de 30 días, se cobrarán
+
+6.0 S.M.D.V.E., por cada día proporcionado.
 
 II. Servicio armado por elementos de 12 horas,
 
 de lunes a domingo, por mes. 175.0
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+Cuando el servicio referido en la fracción
 
-Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
+anterior comience a prestarse posterior al
 
-III. Servicio desarmado por elemento de 12
+primer día de cada mes, siempre que no
 
-horas, de lunes a sábado por mes. 142.0
+rebase de un periodo de 30 días, se cobrarán
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+6.0 S.M.D.V.E., por cada día de servicio
 
-Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
+proporcionado.
 
-IV. Servicio desarmado por elemento de 12
+III. Servicio desarmado por elemento de 12 horas,
 
-horas, de lunes a domingo, por mes. 160.0
+de lunes a sábado por mes. 142.0
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+Cuando el servicio referido en la fracción
 
-Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
+anterior comience a prestarse posterior al
+
+primer día de cada mes, siempre que no
+
+rebase de un periodo de 30 días, se cobrarán
+
+6.0 S.M.D.V.E., por cada día de servicio
+
+proporcionado.
+
+IV. Servicio desarmado por elemento de 12 horas,
+
+de lunes a domingo, por mes. 160.0
+
+Cuando el servicio referido en la fracción
+
+anterior comience a prestarse posterior al
+
+primer día de cada mes, siempre que no
+
+rebase de un periodo de 30 días, se cobrarán
+
+6.0 S.M.D.V.E., por cada día de servicio
+
+proporcionado.
 
 V. Servicio armado a instituciones de banca
 
@@ -2101,255 +2225,23 @@ por elemento de 24 horas, de lunes a sábado,
 
 por mes. 260.0
 
-VII. Servicio extraordinario armado o
+VII. Servicio extraordinario armado o desarmado
 
-desarmado por elemento de 12 horas. 20.0
+por elemento de 12 horas. 20.0
 
-VIII. Servicio de 6 rondines en turno de
+VIII. Servicio de 6 rondines en turno de 12 horas,
 
-12 horas, con patrulla. 20.0
+con patrulla. 20.0
 
-IX. Servicio de patrulla establecida, en turno
+IX. Servicio de patrulla establecida,
 
-de 12 horas. 45.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Artículo 30 A.- Por los servicios que presta la Dirección de Policía Auxiliar y de Servicios Privados de Seguridad, los particulares en el Estado causarán y pagarán por servicios de seguridad, por seguridad privada que realicen los particulares en el Estado se causarán y pagarán por cada uno de los servicios los siguientes derechos:
-
-SERVICIO TARIFA
-
-S.M.D.V.E.
-
-I. Estudio y trámite de la solicitud e integración
-
-del expediente de la autorización o su
-
-revalidación, para la prestación de servicios de
-
-seguridad privada. 50.0
-
-II. Por la inscripción de cada persona que preste
-
-los servicios de seguridad privada, en el
-
-Registro Nacional del Personal de Seguridad
-
-Pública. 1.0
-
-III. Por la consulta de antecedentes policiales
-
-de cada persona en el Registro Nacional
-
-del Personal de Seguridad· Pública, respecto
-
-del personal con que cuentan las instituciones
-
-que presten los servicios de seguridad privada. 1.0
-
-IV. Por la expedición de la constancia de aptitud
-
-de salud física (examen médico). 1.0
-
-V. Por la expedición de la constancia
-
-de aptitud mental (examen psicológico). 1.0
-
-VI. Por la expedición de la constancia de
-
-curso de capacitación aplicado en el
-
-Centro Único de Capacitación Policiaca
-
-de Investigación y Preventiva del Estado
-
-de Chiapas. 10.0
-
-VII. Por la expedición de cada cédula de
-
-identificación del personal, con el registro
-
-asignado en su inscripción. 1.0
-
-VIII. Por la autorización o su revalidación
-
-anual, para prestar el servicio en la modalidad
-
-de vigilancia y custodia de lugares o
-
-establecimientos y en general de toda
-
-clase de inmuebles. 100.0
-
-IX. Por la autorización o su revalidación
-
-anual, para prestar el servicio en la
-
-modalidad de la protección, vigilancia
-
-o custodia de personas. 100.0
-
-X. Por la autorización o revalidación anual,
-
-para prestar el servicio en la modalidad
-
-de la custodia de bienes muebles y valores. 100.0
-
-XI. Por la autorización o revalidación anual,
-
-para prestar el servicio en la modalidad
-
-del establecimiento y operación de sistemas
-
-y equipos de seguridad. 100.0
-
-XII. Por la autorización o revalidación anual,
-
-para prestar los servicios en las demás
-
-actividades que se relacionen directamente
-
-con servicios de seguridad privada. 100.0
-
-#### Sección Primera. Derechos por Servicios que Presta la Dirección de La Policía Auxiliar y de servicios Privados de Seguridad
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+en turno de 12 horas. 45.0
 
 #### Sección Segunda. Servicios que Presta la Dirección de Tránsito
 
 ###### Artículo 31.
 
-Por los servicios que presta la Dirección de Tránsito se causarán por cada uno de los conceptos o servicios los siguientes derechos:
-
-Servicio Tarifa
-
-S.M.D.V.E.
-
-I. Por expedición de licencias por 2 años:
-
-a) Chofer para servicio público. 14.0
-
-b) Chofer. 13.0
-
-c) Automovilista. 11.0
-
-d) Motociclista. 5.0
-
-II. Por expedición de licencia por 3 años:
-
-a) Chofer para servicio público. 20.0
-
-b) Chofer. 19.0
-
-c) Automovilista. 13.0
-
-d) Motociclista. 7.0
-
-III. Por expedición de licencia por 4 años:
-
-a) Chofer para servicio público. 27.0
-
-b) Chofer. 26.0
-
-c) Automovilista. 17.0
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
-
-d) Motociclista. 8.0
-
-IV. Por expedición de licencia por 5 años:
-
-a) Chofer para servicio público. 33.0
-
-b) Chofer. 32.0
-
-c) Automovilista. 21.0
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2008)</small>
-
-d) Motociclista. 11.0
-
-V. Por reexpedición de licencias por 2 años:
-
-a) Chofer para servicio público. 11.0
-
-b) Chofer. 10.0
-
-c) Automovilista. 7.0
-
-d) Motociclista. 4.0
-
-VI. Por reexpedición de licencias por 3 años:
-
-a) Chofer para servicio público. 13.0
-
-b) Chofer. 12.0
-
-c) Automovilista. 11.0
-
-d) Motociclista. 5.0
-
-VII. Por reexpedición de licencias por 4 años
-
-a) Chofer para servicio público. 16.0
-
-b) Chofer. 15.0
-
-c) Automovilista. 13.0
-
-d) Motociclista. 7.0
-
-VIII. Por reexpedición de licencias por 5 años
-
-a) Chofer para servicio público. 20.0
-
-b) Chofer. 19.0
-
-c) Automovilista. 17.0
-
-d) Motociclista. 8.0
-
-IX. Por la utilización de servicio (sic) oficiales de
-
-depósito y custodia de vehículos accidentados,
-
-infraccionados por orden judicial, por día. 0.3
-
-X. Por arrastre de vehículos automotores en
-
-tramos carreteros de jurisdicción estatal en los
-
-casos de automóviles, camiones y camiones (sic)
-
-hasta 8 toneladas; por kilómetro. 0.8
-
-XI. Por la expedición de constancias de
-
-antigüedad de licencia de manejo, por expedición
-
-de constancia de no infracción. 2.0
-
-XII. Por la expedición de constancias por
-
-revisión mecánica para vehículos particulares. 2.0
-
-XIII. Por expedición de permisos provisionales para
-
-circular sin placas ni tarjeta de circulación para
-
-vehículos nacionales por una sola vez y hasta
-
-por 15 días. 11.0
-
-XIV. Por impartición de cursos de manejo por
-
-30 horas. 19.0
-
-XV. Por reposición de licencia por pérdida o
-
-extravío. 3.0
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2377,43 +2269,137 @@ sector social, para integrar sus unidades
 
 internas de protección civil (ocho horas). 25.0
 
-II. Curso básico de protección civil, 10 hrs
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-completas, con 2 instructores, durante
+II. Por cursos sobre temas de prevención de desastres que se imparten en la Escuela de Protección Civil:
 
-5 días y máximo 25 personas. 150.0
+a) Curso especializado de análisis de riesgos. 17.0
 
-III. Curso básico de protección civil,
+b) Curso de detección de atmósfera explosiva. 11.0
 
-por hora aislada. 24.0
+c) Curso de detección de hidrocarburos en agua. 11.0
 
-IV. Curso básico de protección civil individual,
+d) Curso de eventos adversos de origen natural
 
-con 1 instructor, durante 5 hrs. 96.0
+y socialmente construido. 11.0
 
-V. Instructor adicional para impartición de
+e) Curso de manejo integral de riesgo de desastres. 28.0
 
-curso básico. 23.0
+f) Curso de planeación y diseño de escenarios
 
-VI. Curso especializado, 15 hrs completas,
+y simulacros. 17.0
 
-con 4 instructores y máximo 20 personas. 435.0
+g) Curso de planes de contingencias. 28.0
 
-VII. Instructor adicional para impartición
+h) Curso de prevención y combate de incendios
 
-de curso básico. 44.0
+perimetrales y forestales. 18.0
 
-VIII. Expedición de copias certificadas,
+i) Curso de prevención y combate de
 
-de expedientes existentes en
+incendios urbanos. 22.0
 
-los archivos del Instituto, hasta 20 hojas. 6.5
+j) Curso de pruebas de calidad del agua. 11.0
 
-Por hoja adicional se cobrará $5.00.
+k) Curso de quema prescrita. 28.0
 
-IX. Por la emisión de dictamen de
+l) Curso de señalética de la protección civil. 7.0
 
-evaluación de riesgos. 50.0
+m) Curso especializado sobre hospital
+
+seguro ante desastres. 28.0
+
+n) Curso para especialista en rescate de montaña. 55.0
+
+ñ) Curso sobre atlas de riesgos. 28.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Por cursos sobre temas de respuesta a emergencias de desastres que se impartes (sic) en la Escuela de Protección Civil:
+
+a) Curso de administración de refugios temporales. 11.0
+
+b) Curso de atención del primer respondiente
+
+de Protección Civil. 55.0
+
+c) Curso de búsqueda y rescate en estructura
+
+colapsada y confinados. 28.0
+
+d) Curso de desgasificación de autotanques. 11.0
+
+e) Curso de evacuación de inmuebles. 18.0
+
+f) Curso de introducción a búsqueda y rescate. 13.0
+
+g) Curso de introducción a los primeros auxilios. 19.0
+
+h) Curso de manejo de crisis. 11.0
+
+i) Curso de manejo de extintores para conato
+
+de incendios 7.0
+
+j) Curso de manejo prehospitalario. 83.0
+
+k) Curso de primeros auxilios psicológicos. 12.0
+
+l) Curso de psicología del desastre. 17.0
+
+m) Curso de riesgos químicos. 18.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV. Por cursos sobre temas de recuperación de desastres que se imparten en la Escuela de Protección Civil:
+
+a) Curso de evaluación socioeconómica del
+
+impacto de los desastres. 28.0
+
+b) Curso de recuperación psicosocial. 17.0
+
+c) Curso de restauración de suelos
+
+degradados por incendios. 28.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V. Por curso de capacitación a Perito
+
+Dictaminador de Riesgo. 35.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Por el registro y licencia expedida
+
+al Perito Dictaminador de Riesgo. 142.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Por la revalidación anual de la
+
+Licencia expedida al Perito Dictaminador
+
+de Riesgo. 71.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII. Por la validación y registro de
+
+dictamen de riesgo elaborado por
+
+Perito Dictaminador de Riesgo. 20.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX. Por la expedición de copias certificadas,
+
+de expedientes existentes en los archivos
+
+del Instituto, hasta 20 hojas. 6.5
+
+Por hoja adicional se cobrará $5.00
 
 > <small>(F. DE E., P. O. 20 DE ENERO DE 2010)</small>
 
@@ -2421,25 +2407,91 @@ X. Registro de asesoría y capacitación
 
 en materia de protección civil. 160.0
 
-XI. Por las características propias del
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-documento, mayor información,
+XI. Por la expedición de:
 
-visita de campo y técnica de gabinete.
+a) Opinión Técnica sobre predios de
 
-a) Opinión técnica. 25.0
+0.01 a 1.00 hectáreas. 25.0
 
-b) Dictamen de seguridad. 50.0
+b) Opinión Técnica sobre predios de
 
-c) Dictamen de riesgo. 75.0
+1.01 a 5.00 hectáreas. 33.00
 
-XII. Visitas de inspección.
+c) Opinión Técnica sobre predios de
 
-a) Solicitud de la parte interesada. 20.0
+5.01 a 10.00 hectáreas. 100.0
 
-XIII. Dictamen.
+d) Opinión Técnica sobre predios de
 
-a) Plan de contingencias. 20.0
+10.01 a 20.00 hectáreas. 175.0
+
+e) Opinión Técnica sobre predios de
+
+20.01 a 50.00 hectáreas. 400.0
+
+f) Opinión Técnica sobre predios de
+
+50.01 a más hectáreas. 450.0
+
+g) Dictamen de seguridad en inmuebles de
+
+0.01 a 20.00 metros cuadrados. 60.0
+
+h) Dictamen de seguridad en inmuebles de
+
+20.01 a 50.00 metros cuadrados. 100.0
+
+i) Dictamen de seguridad en inmuebles de
+
+50.01 a 100.00 metros cuadrados. 125.0
+
+j) Dictamen de seguridad en inmuebles de
+
+100.01 a 200.00 metros cuadrados. 150.0
+
+k) Dictamen de seguridad en inmuebles de
+
+200.01 a más metros cuadrados. 175.0
+
+l) Dictamen de riesgo en predios de
+
+0.01 a 1.00 hectáreas. 50.0
+
+m) Dictamen de riesgo en predios de
+
+1.01 a 5.00 hectáreas. 75.0
+
+n) Dictamen de riesgo en predios de
+
+5.01 a 10.00 hectáreas. 150.0
+
+ñ) Dictamen de riesgo en predios de
+
+10.01 a 20.00 hectáreas. 300.0
+
+o) Dictamen de riesgo en predios de
+
+20.01 a 50.00 hectáreas. 750.0
+
+p) Dictamen de riesgo en predios de
+
+50.01 a más hectáreas. 900.0
+
+q) Dictamen de riesgo químico. 300.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XII. Por la realización de visita de inspección
+
+a solicitud de la parte interesada. 20.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIII. Por la emisión de dictamen del Plan
+
+de Contingencia. 20.0
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2447,23 +2499,73 @@ a) Plan de contingencias. 20.0
 
 #### Sección Cuarta. Derechos por Servicios que Presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+###### Artículo 32-A.
 
-Artículo 32 A.- Por los servicios que presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
+Por los servicios que presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
 
-S E R V I C I O T A R I F A
+SERVICIO TARIFA
 
 S.M.D.V.E.
 
-I. Reclutamiento y Selección de personal. 6.1
+I. Reclutamiento y selección de personal:
 
-II. Capacitación Externa (por persona). 15.3
+a) Examen de selección de aspirantes
 
-III. Expedición de Constancias de
+a formar parte de las Instituciones de
 
-Capacitación de Formación Policial. 1.2
+Seguridad Pública, incluye Constancia
+
+de aptitud, Certificado Médico y Psicológico. 6.0
+
+b) Examen al personal de seguridad privada
+
+(incluye Certificado Psicológico de Salud Mental
+
+y Certificado Médico de No Impedimento Físico). 6.0
+
+c) Reexpedición de Certificado Psicológico
+
+de Salud Mental. 2.0
+
+d) Reexpedición de Certificado Médico de
+
+No Impedimento Físico. 2.0
+
+II. Curso de Capacitación:
+
+a) Curso de Formación Inicial. 16.0
+
+b) Curso de Formación Inicial
+
+(incluye capacitación, hospedaje, alimentación,
+
+material didáctico). 236.0
+
+c) Curso de Inducción Policial. 8.0
+
+d) Curso de homologación de conocimientos
+
+básicos de la función policial. 15.5
+
+e) Formación continua (Curso de actualización). 8.0
+
+f) Formación continua (Curso de actualización,
+
+incluye capacitación, hospedaje, alimentación,
+
+material didáctico). 67.0
+
+III. Expedición de constancias:
+
+a) Expedición de Constancia de Capacitación. 2.0
+
+b) Expedición de Constancia de Estudios. 1.0
+
+c) Expedición de Credencial de Estudiante. 0.5
+
+IV. Reexpedición de Constancias de Capacitación. 5.0
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2629,6 +2731,10 @@ XVI. Por pago de derechos por la integración
 
 de expediente para solicitar una concesión. 6.0
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Todos y cada uno de los conceptos con sus respectivos derechos antes referidos, se causarán por cada unidad de manera particular sin efectos genéricos.
+
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Segunda. Servicios que Presta la Dirección del Registro y Control del Transporte
@@ -2719,17 +2825,15 @@ del recibo del cobro anterior por concepto
 
 de expedición de permiso de zona. 8.0
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-IX. Por la expedición de permiso para
+IX. Por expedición de permisos para la explotación
 
-la explotación del servicio público de
+del servicio público de transporte, en la modalidad
 
-transporte, en la modalidad de
+de transporte especial, tipo bicicletas, bicicleta con
 
-transporte especial, tipo bicicleta, triciclo
-
-y motocicleta. 8.0
+carro anexo, triciclos y motocicleta. 8.0
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2797,15 +2901,15 @@ de paso o penetración de transporte federal
 
 de pasaje. 6.0
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XVII. Revalidación anual de permiso para
+XVII. Revalidación anual de permiso para la
 
-la prestación de servicio de transporte
+prestación de servicio de transporte especial,
 
-especial, efectuado en bicicleta o triciclo
+efectuado en bicicleta, bicicleta con carro
 
-con carro anexo y motocicleta. 6.0
+anexo, o triciclo con carro anexo y motocicleta. 6.0
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2850,6 +2954,160 @@ operador de transporte público de transporte. 2.0
 II. Por reposición del certificado de aptitud de
 
 operador de servicio público de transporte. 3.0
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+#### Sección Cuarta. Derechos por Servicios que presta la Dirección de la Policía de Tránsito
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Artículo 33 C.- Por los servicios que presta la Dirección de la Policía de Tránsito se causarán por cada uno de los conceptos o servicios los siguientes derechos:
+
+SERVICIO TARIFA
+
+S.M.D.V.E.
+
+I. Por expedición de licencias con vigencia permanente:
+
+a) Chofer para servicio público. 68.0
+
+b) Chofer. 68.0
+
+c) Automovilista. 60.0
+
+d) Motociclista. 30.0
+
+II. Por reposición de licencia por pérdida o extravío.
+
+a) Chofer para servicio público. 68.0
+
+b) Chofer. 68.0
+
+c) Automovilista. 60.0
+
+d) Motociclista. 30.00
+
+III. Por expedición de licencias por 2 años:
+
+a) Chofer para servicio público. 14.0
+
+b) Chofer. 13.0
+
+c) Automovilista. 11.0
+
+d) Motociclista. 5.0
+
+IV. Por expedición de licencia por 3 años:
+
+a) Chofer para servicio público. 20.0
+
+b) Chofer. 19.0
+
+c) Automovilista. 13.0
+
+d) Motociclista. 7.00
+
+V. Por expedición de licencia por 4 años:
+
+a) Chofer para servicio público. 27.0
+
+b) Chofer. 26.0
+
+c) Automovilista. 17.0
+
+d) Motociclista. 8.0
+
+VI. Por expedición de licencia por 5 años:
+
+a) Chofer para servicio público. 33.0
+
+b) Chofer. 32.0
+
+c) Automovilista. 21.0
+
+d) Motociclista. 11.0
+
+VII. Por reexpedición de licencias por 2 años:
+
+a) Chofer para servicio público. 11.0
+
+b) Chofer. 10.0
+
+c) Automovilista. 7.0
+
+d) Motociclista. 4.0
+
+VIII. Por reexpedición de licencias por 3 años:
+
+a) Chofer para servicio público. 13.0
+
+b) Chofer. 12.0
+
+c) Automovilista. 11.0
+
+d) Motociclista. 5.0
+
+IX. Por reexpedición de licencias por 4 años:
+
+a) Chofer para servicio público. 16.0
+
+b) Chofer. 15.0
+
+c) Automovilista. 13.0
+
+d) Motociclista. 7.0
+
+X. Por reexpedición de licencias por 5 años:
+
+a) Chofer para servicio público. 20.0
+
+b) Chofer. 19.0
+
+c) Automovilista. 17.0
+
+d) Motociclista. 8.0
+
+XI. Por reposición de licencia por pérdida
+
+o extravío, de las contempladas en las
+
+fracciones III a la X, del presente artículo. 3.0
+
+XII. Por la utilización de servicio (sic) oficiales
+
+de depósito y custodia de vehículos accidentados,
+
+infraccionados por orden judicial, por día. 0.3
+
+XIII. Por arrastre de vehículos automotores en
+
+tramos carreteros de jurisdicción estatal en los
+
+casos de automóviles, camiones y camiones
+
+hasta 8 toneladas; por kilómetro. 0.8
+
+XIV. Por la expedición de constancias de
+
+antigüedad de licencia de manejo, por expedición
+
+de constancia de no infracción. 2.0
+
+XV. Por la expedición de constancias por
+
+revisión mecánica para vehículos particulares. 2.0
+
+XVI. Por expedición de permisos provisionales
+
+para circular sin placas ni tarjeta de circulación
+
+para vehículos nacionales por una sola vez y
+
+hasta por 15 días. 11.0
+
+XVII. Por impartición de cursos de manejo
+
+por 30 horas. 19.0
 
 ### Capítulo VII. Derechos por Servicios que Presta la Secretaría de Educación
 
@@ -3091,6 +3349,12 @@ estudios del tipo superior con fines
 
 académicos. 5.1
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXVI. Por el registro de colegios de
+
+profesionistas en el Estado. 110.5
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
@@ -3159,6 +3423,12 @@ para el trabajo en computación, en cada
 
 ciclo escolar. 40.0
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Por las visitas de inspección a centros
+
+educativos del nivel superior en el Estado. 50.0
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo VIII. Derechos por Servicios que Presta la Secretaría de Salud
@@ -3181,9 +3451,13 @@ II. Por Visita de Verificación Sanitaria para
 
 el cambio de domicilio, por cada establecimiento. 10.0
 
-El pago del derecho por expedición de Licencia para Venta de Bebidas Alcohólicas, Deberá cubrirse al momento de solicitar la expedición de la constancia de inscripción señalada en las fracciones III a la VII del articulo 20-B de esta Ley, lo cual será requisito indispensable para que la Secretaría de Salud del Estado otorgue de la licencia, con independencia de que el contribuyente cumpla con los demás requisitos que las leyes aplicables y la autoridad sanitaria le impongan.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-La autorización que la autoridad sanitaria conceda al contribuyente para la expedición de la constancia de funcionamiento señalada en las fracciones I y II del artículo 20-B de esta Ley, se sujetará a los requisitos que las leyes aplicables o la autoridad impongan; dicha autorización no tendrá costo, pero deberá presentarse al momento de efectuar el entero de los conceptos antes señalados.
+El pago del derecho por expedición de Licencia para Venta de Bebidas Alcohólicas, deberá cubrirse al momento de solicitar la expedición de la constancia de inscripción señalada en las fracciones III a la VII del artículo 18 B de esta Ley, lo cual será requisito indispensable para que la Secretaría de Salud del Estado otorgue la licencia, con independencia de que el contribuyente cumpla con los demás requisitos que las leyes aplicables y la autoridad sanitaria le impongan.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La autorización que la autoridad sanitaria conceda al contribuyente para la expedición de la constancia de funcionamiento señalada en las fracciones I y II del artículo 18 B de esta Ley, se sujetará a los requisitos que las leyes aplicables o la autoridad impongan; dicha autorización no tendrá costo, pero deberá presentarse al momento de efectuar el entero de los conceptos antes señalados.
 
 ###### Artículo 37.
 
@@ -3221,13 +3495,11 @@ de parte. 22.0
 
 IV. Destrucción de productos. 22.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009) (F. DE E., P. O. 20 DE ENERO DE 2010)
+V. Autorización de expedición por cada
 
-V. Autorización de expedición por cada litro de
-
-control de estupefacientes o psicotrópicos. 4.0
+libro de control de estupefacientes o psicotrópicos. 4.0
 
 VI. Autorización para utilizar recetarios
 
@@ -3351,23 +3623,9 @@ El monto de las cuotas citadas, se determinarán atendiendo a las condiciones so
 
 ### Capítulo IX. Derechos por los Servicios que Presta la Secretaría de Turismo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 41.
 
-Los servicios que presta la Secretaría de Turismo, se cobrarán de acuerdo a lo siguiente:
-
-SERVICIO TARIFA
-
-S.M.D.V.E.
-
-I. Por expedición de certificado de calidad turística. 140.0
-
-II. Por la revalidación anual de certificado de
-
-calidad turística. 70.0
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3455,155 +3713,151 @@ por los solicitantes. 2.0
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-### Capítulo XII. Derechos por Servicios que presta la Secretaría de Medio Ambiente, Vivienda e Historia Natural
+### Capítulo XII. Derechos por Servicios que presta la Secretaría de Medio Ambiente, e Historia Natural
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 44.
 
-Por los servicios que presta la Secretaría de Medio Ambiente, Vivienda e Historia Natural, causarán y pagarán por cada uno los siguientes derechos:
+Por los servicios que presta la Secretaría de Medio Ambiente e Historia Natural, causarán y pagarán por cada uno los siguientes derechos:
 
 SERVICIO TARIFA
 
 S.M.D.V.E.
 
-I. Evaluación del Informe Preventivo de
+I. Evaluación del Informe Preventivo
 
-Impacto Ambiental. 100.0
+de Impacto Ambiental. 110.0
 
 II. Evaluación del Manifiesto de Impacto
 
-Ambiental Modalidad General. 225.0
+Ambiental Modalidad General. 247.5
 
-III. Evaluación del Estudio de Riesgo. 175.0
+III. Evaluación del Estudio de Riesgo. 192.5
 
 IV. Evaluación del Manifiesto de Impacto
 
 Ambiental para Fraccionamientos, Unidades
 
-Habitacionales y Nuevos Centros de Población. 250.0
+Habitacionales y Nuevos Centros de Población. 275.0
 
 V. Actualización de las Resoluciones en materia
 
-de Impacto y Riesgo Ambiental a que se
+de Impacto y Riesgo Ambiental a que se refieren
 
-refieren las fracciones anteriores a excepción
+las fracciones anteriores a excepción de bancos
 
-de bancos de material. 80.0
+de material. 88.0
 
-VI. Evaluación del informe preventivo
+VI. Evaluación del informe preventivo modalidad
 
-modalidad extracción de materiales pétreos. 75.0
+extracción de materiales pétreos. 82.5
 
-VII. Evaluación del informe preventivo para
+VII. Evaluación del informe preventivo para la
 
-la continuación del aprovechamiento
+continuación del aprovechamiento de materiales
 
-de materiales pétreos de proyectos
-
-autorizados. 50.0
+pétreos de proyectos autorizados. 55.0
 
 VIII. Autorización para la extracción y procesamiento de minerales o sustancias que constituyen depósitos de naturaleza semejante a los componentes de los terrenos por metro cúbico.
 
-a) Materiales aluviales: arena y grava. 0.040
+a) Materiales aluviales: arena y grava. 0.044
 
 b) Piedra caliza, arcilla, tezontle, pomacita
 
-y grava roja. 0.050
+y grava roja. 0.055
 
-c) Otros que constituyan depósitos de
+c) Otros que constituyan depósitos de naturaleza
 
-naturaleza semejante a los
+semejante a los componentes del suelo. 0.055
 
-componentes del suelo. 0.050
+IX. Por la licencia de funcionamiento de fuentes
 
-IX. Por la licencia de funcionamiento de
+fijas de emisiones a la atmósfera. 165.0
 
-fuentes fijas de emisiones a la atmósfera. 150.0
+X. Refrendo anual de la licencia de funcionamiento
 
-X. Refrendo anual de la licencia de
+de fuentes fijas de emisiones a la atmósfera. 82.5
 
-funcionamiento de fuentes fijas
+XI. Evaluación del manifiesto para generadores
 
-de emisiones a la atmósfera. 75.0
+de residuos sólidos no peligrosos. 110.0
 
-XI. Evaluación del manifiesto para
+XII. Expedición de exención de la presentación
 
-generadores de residuos sólidos
+de los estudios en materia de impacto y/o riesgo
 
-no peligrosos. 100.0
+ambiental. 132.0
 
-XII. Expedición de exención de la
+XIII. Inscripción al Registro de Prestadores de
 
-presentación de los estudios en
+Servicios ambientales del Gobierno del Estado
 
-materia de impacto y/o riesgo ambiental. 120.0
+de Chiapas. 110.0
 
-XIII. Inscripción al Registro de Prestadores
+XIV. Por el refrendo anual de la inscripción al
 
-de Servicios ambientales del Gobierno del
+Registro de Prestadores de Servicios Ambientales
 
-Estado de Chiapas. 100.0
+del Gobierno del Estado de Chiapas. 82.5
 
-XIV. Por el refrendo anual de la inscripción
+XV. Actualización de la licencia de funcionamiento
 
-al Registro de Prestadores
-
-de Servicios Ambientales del Gobierno
-
-del Estado de Chiapas. 75.0
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
-
-XV. Actualización de la licencia de
-
-funcionamiento de fuentes fijas de emisiones
-
-a la atmósfera. 75.0
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+de fuentes fijas de emisiones a la atmósfera. 82.5
 
 XVI. Refrendo anual del registro de generadores de residuos no peligrosos.
 
-a) Pequeños generadores 25.0
+a) Pequeños generadores. 27.5
 
-b) Grandes generadores 50.0
+b) Grandes generadores 55.0
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
-
-XVII. Expedición de opiniones técnicas. 100.0
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+XVII. Expedición de opiniones técnicas 110.0
 
 XVIII. Servicios de análisis fisicoquímicos
 
 (Demanda química de oxígeno, demanda
 
-bioquímica de oxígeno, fósforo total, sólidos
+bioquímica de oxígeno, fósforo total,
 
-en todas sus formas, grasas y aceites, nitritos
+sólidos en todas sus formas, grasas y aceites,
 
-y nitratos). 36.0
+nitritos y nitratos). 39.6
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+XIX. Servicios de análisis fisicoquímicos
 
-XIX. Servicios de análisis fisicoquímicos (Grasas y aceites, demanda bioquímica de oxígeno y demanda química de oxígeno). 5.5 por número de parámetros.
+(Grasas y aceites, demanda bioquímica de
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+oxígeno y demanda química de oxígeno). 6.05
 
-XX. Servicio de análisis fisicoquímicos (Fósforo, sólidos en todas sus formas nitritos y nitratos). 4.0 por número de parámetros.
+Por número de parámetros.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+XX. Servicio de análisis fisicoquímicos
 
-XXI. Servicios de análisis fisicoquímicos (Nitritos, nitratos, dureza total, sólidos disueltos totales, sustancias activas al azul de metileno y turbiedad). 4.0 por número de parámetros.
+(Fósforo, sólidos en todas sus formas nitritos
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+y nitratos). 4.4
 
-XXII. Servicio de análisis de metales pesados, incluidos en la NOM-001- SEMERNAT-1996 y NOM-127- SSA1-1994, 6.5 por número de metales.
+Por número de parámetros.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+XXI. Servicios de análisis fisicoquímicos
+
+(Nitritos, nitratos, dureza total, sólidos disueltos
+
+totales, sustancias activas al azul de metileno
+
+y turbiedad). 4.4
+
+Por número de parámetros.
+
+XXII. Servicio de análisis de metales pesados,
+
+incluidos en la NOM-001-SEMERNAT-1996 y
+
+NOM-127-SSA1-1994. 7.15
+
+Por número de metales.
 
 XXIII. Servicio de análisis cromatográfico
 
@@ -3611,33 +3865,43 @@ XXIII. Servicio de análisis cromatográfico
 
 clordano, lindano, hexaclorobenceno,
 
-hetacloro y epóxido de heptacloro, metoxicloro). 22.0
+hetacloro y epóxido de heptacloro, metoxicloro). 24.2
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+XXIV. Servicio de análisis microbiológico
 
-XXIV. Servicio de análisis microbiológico.
+(Coniformes fecales y coniformes totales). 7.15
 
-(Coniformes fecales y coniformes totales). 6.5
+XXV. Servicio de análisis barrido cromatográfico. 20.35
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-XXV. Servicio de análisis barrido cromatográfico. 18.5
+### Capítulo XIII. Derechos por servicios que presta el Poder Judicial del Estado
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2010)</small>
-
-### Capítulo XIII. Derechos por servicios que presta el Tribunal Superior de Justicia del Estado
-
-> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 45.
 
-Ppor los servicios que presta el Tribunal Superior de Justicia del Estado:
+Por los servicios que presta el Poder Judicial del Estado de Chiapas:
 
 SERVICIO TARIFA
 
 S.M.D.V.E.
 
-I. Por la Expedición de Constancias de No Antecedentes Penales. 4.0
+I. Por la Expedición de Constancias
+
+de No Antecedentes Penales. 4.0
+
+II. Por la Expedición de Constancias
+
+de no Inhabilitación. 1.5
+
+III. Por la Expedición de Constancia
+
+de No deudor alimentario. 2.0
+
+IV. Por la Expedición de Copias Certificadas. 2.0
+
+V. Por otros servicios contemplados dentro de las leyes y reglamentos vigentes en el Estado de Chiapas, los montos de los mismos serán determinados por el Consejo de la Judicatura del Poder Judicial del Estado y publicados en el Periódico Oficial.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3685,13 +3949,11 @@ Recuperados. 1.5
 
 ### Capítulo XVI. Otros Derechos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
 
-Tratándose de los servicios que presten los Poderes Judicial, Legislativo y Ejecutivo, así como los organismos autónomos, pagarán y causarán por cada uno, los siguientes derechos:
+Tratándose de los servicios que presten los Poderes Legislativo y Ejecutivo, así como los organismos autónomos, pagarán y causarán por cada uno, los siguientes derechos:
 
 SERVICIO TARIFA
 
@@ -3818,3 +4080,13 @@ P.O. 30 DE DICIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero de dos mil once.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del dos mil doce.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
