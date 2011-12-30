@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-tribunal-de-lo-contencioso-administrativo-48709"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-20"
-last_updated: "2006-01-20"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA EN MATERIA DE ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA EN MATERIA DE ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA, EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de enero de 2006.
 
@@ -414,3 +416,13 @@ LIC. CLAUDIA GOMEZ TORRES
 SECRETARIA GENERAL DE ACUERDOS
 
 RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO.- Se abroga el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Baja California en Materia de Acceso a la Información Pública de fecha 12 de diciembre de 2005, publicado en el Periódico Oficial del Estado del 20 de enero del año 2006.
+
+TERCERO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California, en el boletín informativo del tribunal y en su portal de internet.
