@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2010-12-31"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
+LEY DE HACIENDA DEL ESTADO DE GUERRERO, NÚMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -435,19 +435,17 @@ En los casos en que no se garantice el pago del impuesto, los interventores debe
 
 La oficina recaudadora podrá nombrar interventores para cada uno de los espectáculos y diversiones en las distintas funciones, pagando los organizadores los honorarios correspondientes por dicha intervención, el equivalente a 10 salarios mínimos diarios, por cada uno de ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 20.
 
-Se exceptúan del pago de este Impuesto las funciones de cine y cursos y congresos educativos; así como las representaciones teatrales, que se realicen con propósitos culturales, siempre que no persigan finalidades lucrativas y que tengan reconocimiento oficial y de enseñanza.
+No se pagará el Impuesto en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+I. Las funciones de cine, cursos y congresos educativos; así como las representaciones teatrales, que se realicen con propósitos culturales siempre que no persigan finalidades lucrativas y que tengan reconocimiento oficial y de enseñanza. Las instituciones de asistencia, de beneficencia pública o privada con residencia en el Estado, que cuente con registro oficial de la Federación o del Estado, y que cumpla con los requisitos establecidos en la Ley número 33 de Instituciones de Asistencia Privada para el Estado de Guerrero, que acrediten por lo menos un año de residencia en el Estado, que tengan autorización del Servicio de Administración Tributaría para recibir donativos y sin fines de lucro, así como también que han realizado obras o programas sociales en el Estado.
 
-Las instituciones de asistencia, de beneficencia pública o privada con residencia en el Estado, que cuenten con registro oficial de la Federación o del Estado, y que cumplan con los requisititos establecidos en la Ley de Instituciones Privadas para el Estado de Guerrero, que acrediten por lo menos un año de residencia en el Estado, que tengan autorización del Servicio de Administración Tributaria para recibir donativos y sin fines de lucro, así como también que han realizado obras o programas sociales en el Estado, que organicen espectáculos públicos deberán solicitar por escrito a la Secretaría de Finanzas y Administración, la exención del pago del impuesto dentro de los 10 días anteriores a la fecha de la realización del mismo, anexando copia legible del o los contratos celebrados con los representantes de los participantes en el evento y presentar su debida constitución autorizada por las leyes en la materia.
+II. Partidos Políticos y Organizaciones Políticas, si la gestión se hace por cuenta de terceros, la exención se otorgará solo por porcentaje que reciba del promotor, debiéndose exhibir los contratos correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-En el caso de exención para el pago de este impuesto que soliciten los Partidos Políticos u Organizaciones Políticas, deberá exhibirse ante la Secretaria de Finanzas y Administración del Estado el boletaje y propaganda del evento de que se trate, a fin de dejar constancia en el expediente que se integre con motivo de la autorización; si la gestión de exención se hace por cuenta de terceros, la autorización se otorgará sólo por el porcentaje que reciba del promotor, debiéndose exhibir los contratos correspondientes.
+III. La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
 ### CAPITULO IV
 
@@ -469,21 +467,25 @@ La causación del impuesto a que se refiere el párrafo anterior, se dará al mo
 
 No se considera premio, el reintegro correspondiente al billete que permitió participar en loterías, rifas, sorteos, concursos de toda clase, y apuestas sobre juegos permitidos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 23.
 
-El impuesto sobre loterías, rifas, sorteos, concursos de toda clase y apuestas sobre juegos permitidos, se causará de acuerdo con las siguientes:
+El impuesto sobre loterías, rifas, sorteos, concursos de toda clase y apuestas sobre juegos permitidos, se causará de acuerdo con las siguientes tasas:
 
-T A S A S
+TASAS
 
-I. Por loterías, rifas, sorteos y concursos de toda clase, que efectúen instituciones de beneficencia pública y educativas, sobre el total de billetes o boletos vendidos 5%
+I.- 5% en los siguientes casos, por loterías, rifas, sorteos y concursos de toda clase:
 
-Tratándose de loterías, rifas, sorteos y concursos de toda clase, organizados fuera del Estado, sobre el valor total de boletos vendidos en nuestra Entidad 5%
+a) Cuando se efectúen por instituciones de beneficencia pública y educativa, sobre el total de billetes o boletos vendidos.
 
-II. Por loterías, rifas, sorteos, concursos de toda clase y apuestas sobre juegos permitidos para fines distintos de lo señalado en la fracción que antecede, sobre el valor nominal total de billetes, boletos vendidos o monto de la apuesta, se aplicará una tasa del 10%
+b) Cuando se efectúen fuera del Estado, sobre el valor total de los boletos vendidos en nuestra Entidad.
 
-Por loterías, rifas, sorteos y concursos de toda clase, ocasionales en que no se emitan billetes o boletos, sobre el importe individual de suscripción 10%
+II.- 10% por loterías, rifas, sorteos, concursos de toda clase y apuestas sobre juegos permitidos:
 
-El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
+a).- Para fines distintos de lo señalado en la fracción I, sobre el valor nominal total de billetes, boletos vendidos o monto de la apuesta.
+
+b).- Por loterías, rifas, sorteos y concursos de toda clase, ocasionales en que no se emitan billetes o boletos, sobre el importe individual de suscripción.
 
 ###### ARTICULO 24.
 
@@ -511,11 +513,7 @@ V.- Los organizadores o promotores de los eventos a que hace alusión el artícu
 
 ###### ARTICULO 26.
 
-Los Organismos Públicos Descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos destinados a la asistencia pública, que celebren loterías, rifas, sorteos y concursos de toda clase, deberán retener y enterar a la Secretaría de Finanzas y Administración el impuesto que se cause. Tratándose de premios en especie, quienes los obtengan deberán enterar al retenedor los recursos necesarios para la retención del impuesto. Asimismo el Organismo Público Descentralizado de que se trate, deberá proporcionar constancia de retención al contribuyente de este impuesto.
-
-Se exceptúan del pago de este impuesto:
-
-La enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos y concursos de toda clase, organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 27.
 
@@ -569,13 +567,11 @@ La Secretaría de Finanzas y Administración se reserva el derecho para practica
 
 ### CAPITULO VI. IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 34.
 
-Es objeto del Impuesto Sobre Remuneraciones al Trabajo Personal, la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado aún cuando éstos tengan su domicilio fuera de la Entidad.
+Es objeto del Impuesto Sobre Remuneraciones al Trabajo Personal, la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, aun cuando quien los eroga tenga su residencia fuera de la Entidad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -591,157 +587,129 @@ A la base gravable para el cálculo de este impuesto le serán deducidos las ero
 
 El impuesto se causará en el momento que se realicen las erogaciones por remuneraciones al trabajo personal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 36.
 
-Son sujetos directos de este impuesto las personas físicas y morales, así como las Asociaciones en Participación que habitual o accidentalmente realicen las erogaciones a que se refiere el artículo anterior.
+Son sujetos de este impuesto las personas físicas y morales, así como las Asociaciones en Participación que habitual o accidentalmente realicen las erogaciones a que se refiere el artículo anterior.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 La federación, el Estado, los municipios, los organismos autónomos, descentralizados, fideicomisos y demás entidades paraestatales y municipales, deberán cubrir el impuesto a su cargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+ARTICULO 36 BIS.- Quienes contraten servicios de contribuyentes residentes fuera del territorio del Estado, para la prestación de mano de obra, tendrán la obligación de retener el impuesto por la mano de obra contratada.
 
-ARTICULO 36 BIS.- Las personas físicas y morales, así como las Asociaciones en Participación que contraten servicios de contribuyentes para la prestación de mano de obra, cuyo domicilio fiscal esté ubicado fuera del Estado de Guerrero, tendrán la obligación de retener el impuesto por la mano de obra contratada, convirtiéndose en sujetos retenedores del impuesto.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Los propietarios de inmuebles que contraten los servicios de personas físicas o morales para la construcción de sus obras, están obligados a informar a la Secretaría de Finanzas y Administración dentro de los 30 días siguientes a la fecha de iniciación de operaciones, el tipo del servicio contraído, debiendo acompañar el aviso de alta de estos últimos efectuado ante la oficina rentística de la jurisdicción en donde se encuentre ubicada la obra; caso contrario, serán responsables solidarios del crédito que se determine para el pago del impuesto a que se refiere este Capítulo.
+Los propietarios de inmuebles que contraten los servicios de personas físicas o morales para obras de construcción, están obligados a informar a la Secretaría de Finanzas y Administración dentro de los 30 días siguientes a la fecha de iniciación de operaciones, el tipo del servicio contratado, debiendo acompañar el aviso a que se refiere la fracción III del artículo 82 del Código Fiscal del Estado de Guerrero número 429. En caso de incumplimiento, serán responsables solidarios del crédito que se determine para el pago del impuesto a que se refiere este Capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Cuando se trate de obras de construcción concluidas y el propietario de las mismas no exhiba la documentación respectiva por concepto de erogaciones mano de obra, se considerará como acto accidental y el pago del impuesto se causará de conformidad aplicando lo que establece el Artículo 37-A de esta misma ley.
+ARTICULO 37 A.- Tratándose de pagos a trabajadores por concepto de edificación de obra, acabados, modificaciones y/o remodelaciones, y no se pueda determinar la base del impuesto de acuerdo a las disposiciones aplicables, dicha base se obtendrá aplicando lo dispuesto en el último párrafo de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-ARTICULO 37 A.- Quienes realicen pagos a trabajadores por concepto de edificación de obra, acabados, modificaciones y/o remodelaciones e incumplan con la obligación puntual del pago de este impuesto, deberán proporcionar a la oficina rentística correspondiente, la base para determinar correctamente la cantidad a pagar y los accesorios legales generados.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 5 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
-
-Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 200 veces el salario mínimos de la Zona Económica “A” elevado al mes, no causarán este impuesto. Tampoco causarán este impuesto, los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto que no exceda de 50 veces el salario mínimo de la Zona Económica “A” elevado al mes. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-Al importe que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente tabla, se le aplicará la tasa vigente a que se refiere el artículo 37-B de esta Ley.
+Dependiendo del tipo de obra de que se trate, la base será la que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente:
 
 TABLA
 
-TIPO DE OBRA COSTO $
+TIPO DE OBRA COSTO POR m2
 
-POR m2
+BARDAS 4.36
 
-BARDAS 261
+BODEGAS 5.80
 
-BODEGAS 347
+CANCHAS DE TENIS 2.42
 
-CANCHA DE TENIS 145
+CASA HABITACIÓN DE INTERÉS SOCIAL 9.71
 
-CASA HABITACION DE INTERES SOCIAL 581
+CASA HABITACIÓN TIPO MEDIO 9.85
 
-CASA HABITACION TIPO MEDIO 589
+CASA HABITACIÓN DE LUJO 15.06
 
-CASA HABITACION DE LUJO 901
+CINES 11.23
 
-CINES 672
+EDIFICIOS HABITACIONALES DE INTERÉS SOCIAL 9.38
 
-EDIFICIOS HABITACIONALES DE INTERES SOCIAL 561
+EDIFICIOS HABITACIONALES TIPO MEDIO 10.92
 
-EDIFICIOS HABITACIONALES TIPO MEDIO 653
+EDIFICIOS HABITACIONALES DE LUJO 16.06
 
-EDIFICIOS HABITACIONALES DE LUJO 961
+EDIFICIOS DE OFICINAS 9.38
 
-EDIFICIOS DE OFICINAS 561
+EDIFICIOS DE OFICINAS Y LOCALES COMERCIALES 12.39
 
-EDIFICIOS DE OFICINAS Y LOCALES COMERCIALES 741
+ESCUELAS DE ESTRUCTURA DE CONCRETO 8.46
 
-ESCUELAS DE ESTRUCTURA DE CONCRETO 506
+ESCUELAS DE ESTRUCTURA METÁLICA 10.16
 
-ESCUELAS DE ESTRUCTURA METALlCA 608
+ESTACIONAMIENTOS 5.47
 
-ESTACIONAMIENTOS 327
+GASOLINERAS 6.47
 
-GASOLINERAS 387
+GIMNASIOS 9.71
 
-GIMNASIOS 581
+HOSPITALES 16.68
 
-HOSPITALES 998
+HOTELES 16.80
 
-HOTELES 1005
+HOTELES DE LUJO 22.62
 
-HOTELES DE LUJO 1353
+LOCALES COMERCIALES 10.08
 
-LOCALES COMERCIALES 603
+NAVES INDUSTRIALES 8.61
 
-NAVES INDUSTRIALES 515
+NAVES PARA FABRICAS, BODEGAS Y/O TALLERES 6.03
 
-NAVES PARA FABRICAS, BODEGAS Y/O TALLERES 361
+PISCINAS 7.67
 
-PISCINAS 459
+REMODELACIONES 9.88
 
-REMODELACIONES 591
+TEMPLOS 9.24
 
-TEMPLOS 553
+URBANIZACIONES 3.34
 
-URBANIZACIONES 200
+VÍAS DE COMUNICACIÓN SUBTERRÁNEAS Y
 
-VIAS DE COMUNICACION SUBTERRANEAS
+CONEXAS 17.12
 
-Y CONEXAS 1024
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTICULO 37 B.- El impuesto se determinará aplicando la tasa del 2%.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 37 B.- El impuesto se determinará aplicando la tasa del 2% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 37 C.- Este impuesto se causará en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diez del mes siguiente a aquél en que se causó el impuesto.
+ARTICULO 37 C.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 38.
 
 Los contribuyentes habituales de este impuesto, además de las obligaciones establecidas en otras disposiciones fiscales, tendrán las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-I.- Elaborar y conservar a disposición de la Secretaría de Finanzas y Administración, documentos en que consten la relación laboral y las remuneraciones correspondientes. Dentro del concepto de documentos a que se refiere esta fracción quedan comprendidos los contratos de trabajo individuales y colectivos, nóminas, listas de raya, recibos de remuneraciones, avisos de altas y bajas de los trabajadores a su servicio y otros de naturaleza análoga.
+I.- Elaborar y conservar a disposición de la Secretaría de Finanzas y Administración, documentos en que consten la relación laboral y las remuneraciones correspondientes. Dentro del concepto de documentos a que se refiere esta fracción quedan comprendidos los contratos de trabajo individuales y colectivos, nóminas, listas de raya, recibos de remuneraciones, avisos de altas, bajas y modificación de salario ante el Instituto Mexicano del Seguro Social de los trabajadores a su servicio y, otros de naturaleza análoga.
 
 II.- Llevar contabilidad y efectuar los registros en la misma de las remuneraciones a que se refiere el artículo 34 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+III.- Inscribirse en el Registro Estatal de Contribuyentes ante las oficinas autorizadas, dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
 
-III.- Inscribirse en el Registro Estatal de Contribuyentes ante las administraciones autorizadas dentro de los treinta días siguientes a la fecha de inicio de sus actividades, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Presentar declaraciones mensuales del pago de este impuesto, disminuyendo, en su caso, el monto de las retenciones que la hubieren efectuado, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago. En los casos en que se cuente con uno más establecimientos o locales el entero se deberá de realizar de forma consolidada, para el caso de que se tenga el domicilio fiscal fuera de la circunscripción territorial del Estado, el entero respecto de la o las sucursales que se tengan dentro del Estado, se deberá de realizar en las oficinas o por los medios autorizados debiendo, en su caso, realizarlo de igual forma.
+IV.- Presentar declaraciones mensuales del pago de este impuesto, disminuyendo, en su caso, el monto de las retenciones que le hubieren efectuado, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago. En los casos en que se cuente con uno o más establecimientos o locales el entero se deberá realizar de forma consolidada.
 
 Los contribuyentes que tributen en el Régimen de Pequeños Contribuyentes de la Ley del Impuesto Sobre la Renta deberán presentar las declaraciones de este impuesto bimestralmente, a más tardar el día 17 del mes de calendario posterior al bimestre que corresponda el pago en las oficinas o por los medios autorizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-V.- Presentar en Los lugares o medios autorizados que le corresponda a la jurisdicción de su domicilio fiscal, los avisos de sus altas y bajas de los trabajadores a su servicio, así como de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, dentro de de los treinta días siguientes a la fecha en que ocurra cualquiera de estas actuaciones.
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -749,35 +717,19 @@ V.- Presentar en Los lugares o medios autorizados que le corresponda a la jurisd
 
 VI.- Inscribir a las personas que contraten para prestar servicios subordinados en el Registro Estatal de Contribuyentes mediante solicitud que presentaran en las Administraciones autorizadas dentro de los 30 días siguientes de su contratación en la forma oficial que al efecto publique la autoridad fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+VII.- Proporcionar a la autoridad fiscal estatal, anualmente durante el mes de marzo, un ejemplar del Anexo 1 de la Declaración Informativa Múltiple o de su equivalente en el futuro, correspondiente al año inmediato anterior, que hayan presentado ante el Servicio de Administración Tributaria.
 
-VII.- Presentar a más tardar el 15 de febrero de cada año, declaración proporcionando información sobre las personas a las que se les hayan efectuado dichos pagos, en la forma oficial que al efecto publique la autoridad fiscal.
+VIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Solicitar a las personas que contraten para prestar servicios subordinados, les proporcionen los datos necesarios a fin de inscribirlas en el Registro Estatal de Contribuyentes, o bien cuando ya hubieran sido inscritas con anterioridad les proporcionen su clave del citado registro.
+ARTICULO 38 A.- Los retenedores de este impuesto deberán enterarlo mediante declaración mensual ante las oficinas autorizadas, a más tardar el día 17 del mes de calendario inmediato posterior al en que se efectuaron las retenciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-Se entenderán por cumplidas las fracciones VI, VII y VIII cuando el obligado presente ante la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, una copia en papel o Disco Magnético de la Declaración Anual Múltiple que los contribuyentes hayan presentado ante el SAT en el mes de febrero. Dicha declaración deberá presentarse durante el mes de marzo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-ARTICULO 38 A.- Los contribuyentes retenedores de este impuesto deberán presentar declaraciones mensuales correspondientes, ante las oficinas o por los medios autorizados, a más tardar el día 17 del mes del calendario inmediato posterior al que corresponda el pago.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-ARTICULO 38 B.- Los contribuyentes sujetos de este impuesto, cuyo nacimiento fiscal derive de la sustitución patronal o la escisión y fusión de sociedades, tendrán la obligación de comunicar este hecho a la Autoridad Estatal, lo cual deberán hacer mediante escrito libre dirigido a la Administración o Agencia Fiscal más cercana, en la que se citará el nombre de la o las personas físicas o morales a quienes se está sustituyendo o que han sido escindidas o fusionadas.
+ARTICULO 38 B.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 39.
 
@@ -833,7 +785,7 @@ d) Indemnizaciones por rescisión o terminación de las relaciones de trabajo.
 
 e) Gastos funerarios.
 
-f) Gastos de representación y viáticos efectiva y directamente erogados por el patrón y debidamente comprobados, en los mismos términos que para deducibilidad requiera la Ley del Impuesto Sobre la Renta.
+f) (DEROGADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -885,15 +837,23 @@ II.- Las erogaciones que efectúen:
 
 a) (DEROGADO, P.O. 18 DE NOVIEMBRE DE 2008)
 
-b) Instituciones de Beneficencia Pública o privada, siempre y cuando realicen actividades de fines asistencia social en cualquier tiempo o formas, así como actividades deportivas, culturales o sociales.
+b) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 c) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2005)
 
 d) Las personas físicas que se dediquen a las actividades agrícolas, ganaderas, silvícolas y de pesca, con ingresos anuales menores de veinte veces el salario mínimo general correspondiente al área geográfica elevado al año.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III.- Los que realicen la edificación de vivienda social progresiva:
+
+a).- Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 200 veces el salario mínimo general de la Zona Económica “A” elevado al mes.
+
+b). Los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando el costo de la obra no exceda un monto de 50 veces el salario mínimo general de la Zona Económica “A” elevado al mes.
+
 ###### ARTICULO 42.
 
-Las infracciones al presente Capítulo serán sancionadas de conformidad con lo previsto por el Código Fiscal del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 ### CAPITULO VII
 
@@ -945,15 +905,15 @@ Para el cobro del impuesto adicional de la recuperación ecológica y forestal d
 
 El presente impuesto adicional no se causará sobre los premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase, previstos por el artículo 22 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 47.
 
-Los impuestos adicionales se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea, estos impuestos causarán recargos de Ley.
+Los impuestos adicionales se pagarán en el mismo acto en que se paguen las contribuciones que constituyen su base.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 47
-
-BIS.- Las personas morales que paguen a personas físicas los conceptos señalados en este Capítulo, serán responsables de llevar a cabo la retención de los impuestos adicionales citados, y enterarlos a más tardar el día 17 del mes inmediato posterior al que corresponda el pago mediante declaración que presentaran en las oficinas o por los medios autorizados.
+ARTICULO 47 BIS.- Cuando deba efectuarse retención de alguna de las contribuciones que constituyen la base de los Impuestos señalados en el presente Capítulo, también de éstos los retenedores deberán efectuar la retención.
 
 ### CAPITULO VIII. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
@@ -965,35 +925,19 @@ Es objeto del Impuesto sobre la Prestación de Servicios de Hospedaje, la percep
 
 Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+Los ingresos que se genere por la recaudación de este Impuesto, será destinado totalmente para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cua-litativamente (sic) los flujos turísticos.
 
-De los ingresos que generen este impuesto, el 62% será destinado para la promoción turística nacional e internacional, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos que determinen los Comités Técnicos de los Fideicomisos de Promoción Turística a los que corresponderá la administración de los recursos recaudados por este impuesto y en los que se integrarán representantes de la Secretaria de Finanzas y Administración del Gobierno del Estado y del Sector Turístico.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-El Gobernador del Estado establecerá mediante acuerdos que se publiquen en el Periódico Oficial del Gobierno del Estado de Guerrero las reglas a las que se sujetará la constitución y, operación de los Fideicomisos.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-El 31% se destinará de acuerdo a lo establecido en la Ley de Ingresos y el Presupuesto de Egresos vigente en el año en curso. El 7% de los ingresos que genere la recaudación de este impuesto, se destinará a la Secretaria de Finanzas y Administración para absorber los gastos de administración del mismo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-Cuando el ingreso de esta contribución derive del ejercicio de facultades de comprobación, se destinare un 30% a la Secretaria de Finanzas y Administración para solventar los gastos extraordinarios de administración por su recuperación, un 40% a la promoción y un 30% para seguridad pública.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-El Gobierno del Estado a través de la Secretaría de Finanzas y Administración, entregará a los Fideicomisos, que se establezcan en los Municipios del Estado los ingresos netos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-Los fideicomisos presentarán en formas semestral, a la Secretaría de Finanzas y Administración en los meses de enero y julio de cada año, su programa operativo anual, así como un informe en el que se indique su situación financiera, los resultados de operación que incluyan el de gestión del periodo respecto de la ocupación, comparado con su programa operativo anual, así como el origen y aplicación de los recursos entregados por el Gobierno del Estado y por los Particulares.
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 49.
 
@@ -1003,9 +947,11 @@ Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente d
 
 Los contribuyentes efectuarán el cobro de este impuesto en el momento que reciban el importe de la contraprestación, o se cobren los demás conceptos que se derivan de la prestación del servicio estipulados en el artículo 50.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 50.
 
-La base para el pago de este impuesto, será el importe de los servicios de hospedaje por el albergue que se cobre a quienes reciban los mismos, incluyendo depósitos, anticipos, intereses y cualquier otro concepto que se derive de la prestación de dicho servicio.
+La base para el pago de este impuesto, será el importe efectivamente cobrado por los servicios a que se refiere el artículo 48 de esta Ley, incluyendo depósitos, anticipos, intereses y cualquier otro concepto que se derive de la prestación de dichos servicios.
 
 No formarán parte de la base gravable de este impuesto, el importe de los servicios correspondientes a alimentación y demás servicios distintos al hospedaje.
 
@@ -1359,7 +1305,7 @@ Por la obtención de ingresos por el otorgamiento del uso o goce temporal de bie
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-ARTICULO.60 Bis B.- A fin de facilitar a los contribuyentes el cumplimiento de sus obligaciones, el Gobierno del Estado podrá convenir el cobro de los impuestos cedulares con la Federación, a través de la Secretaría de Hacienda y Crédito Público, en los términos del artículo 43 de la Ley del Impuesto al Valor Agregado.
+ARTICULO 60 Bis B.- A fin de facilitar a los contribuyentes el cumplimiento de sus obligaciones, el Gobierno del Estado podrá convenir el cobro de los impuestos cedulares con la Federación, a través de la Secretaría de Hacienda y Crédito Público, en los términos del artículo 43 de la Ley del Impuesto al Valor Agregado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1383,15 +1329,17 @@ ARTICULO 60 Bis C.- Para los efectos del presente Capítulo, a falta de disposic
 
 DEL IMPUESTO CEDULAR A LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE INMUEBLES.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 60 Bis D.- Están obligadas al pago de este impuesto las personas físicas que obtengan ingresos por otorgar el uso o goce temporal de bienes inmuebles que se encuentren ubicados en el territorio del Estado de Guerrero.
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
-ARTICULO 60 Bis D.- Están obligadas al pago de este impuesto las personas físicas que obtengan ingresos por otorgar el uso o goce temporal de bienes inmuebles que se encuentren ubicados en el territorio del Estado de Guerrero, con independencia de que el contribuyente tenga su domicilio fiscal fuera del mismo.
-
 Se consideran ingresos por otorgar en uso o goce temporal de bienes inmuebles, los provenientes del arrendamiento o subarrendamiento y en general por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma.
 
-Los contribuyentes no estarán obligados a pagar este impuesto por los ingresos provenientes de contratos de arrendamiento prorrogados por disposición de ley.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 Para los efectos de esta Sección, los ingresos en crédito se declararán y se calcularán el impuesto que les corresponda hasta el año de calendario en el que sean cobrados.
 
@@ -1465,7 +1413,9 @@ ARTICULO 60 Bis H.- Los contribuyentes que obtengan ingresos de los señalados e
 
 I Solicitar su inscripción en el registro estatal de contribuyentes.
 
-II. Llevar contabilidad del conformidad con el Código Fiscal del Estado. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35%.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Llevar contabilidad de conformidad con el Código Fiscal del Estado. No quedan comprendidos en lo dispuesto en esta fracción quienes apliquen la deducción opcional no sujeta a comprobación que establece la Ley del Impuesto sobre la Renta.
 
 III. Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal del Estado, por las contraprestaciones recibidas.
 
@@ -3013,45 +2963,37 @@ Por la participación en el concurso de Licitación Pública para la adquisició
 
 El pago por este Derecho se realizará conforme al Tabulador que publique en el Periódico Oficial del Gobierno del Estado de Guerrero, la Secretaría de Finanzas y Administración.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 99.
 
-Por la expedición de la cédula de perito valuador de bienes inmuebles, para efectos fiscales:
+Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Expedición Inicial 170.0 S.M.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+II.- Refrendo Anual 58.0 S.M.
 
-I.- Expedición Inicial 163.37
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACICON, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-II.- Refrendo Anual 53.39
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 99 Bis.
 
 Para el cobro de los derechos por el servicio de certificación de avalúos con fines fiscales, se tomará como base y se aplicará la siguiente clasificación:
 
-a).- Valor Fiscal de hasta $ 42,400.00 se pagará un salario mínimo del área geográfica “A”.
+a).- Valor Fiscal de hasta $42,400.00 se pagará un salario mínimo del área geográfica “A”.
 
-b).- Valor Fiscal de $ 42,401.00 hasta $ 58,300.00 se determinará y pagará considerando el monto total del avalúa dividido entre $ 42,401. 00 multiplicado por una tarifa de 0.8303 Salarios Mínimos del área geográfica “A”, más $ 9.00.
+b).- Valor Fiscal de $42,401.00 hasta $58,300.00 se determinará y pagará considerando el monto total del avalúo dividido entre $42,401.00 multiplicado por una tarifa de 0.8303 Salarios Mínimos del área geográfica “A”, más $ 11.00.
 
-c).- Valor Fiscal de $ 58,301.00 hasta $ 113,950.00 se determinará y pagará considerando el monto total del avalúo dividiendo entre $ 58,301.00 multiplicado por una tarifa de 0. 8832 Salarios Mínimos del área geográfica “A”, más $ 23.00.
+c).- Valor Fiscal de $58,301.00 hasta $113,950.00 se determinará y pagará considerando el monto total del avalúo dividido entre $58,301.00 multiplicado por una tarifa de 0.8832 Salarios Mínimos del área geográfica “A”, más $27.00.
 
-d).- Valor Fiscal de $ 113,951.00 hasta $ 561,800.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 113,951.00 multiplicado por una tarifa de 1.6087 Salarios Mínimos del área geográfica A, más $ 29.00.
+d).- Valor Fiscal de $113,951.00 hasta $561,800.00 se determinará y pagará considerando el monto total del avalúo dividido entre $113,951.00 multiplicado por una tarifa de 1.6087 Salarios Mínimos del área geográfica “A”, más $34.00
 
-e).- Valor Fiscal de $ 561,801. 00 hasta $ 1´698,650.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 561,801.00 multiplicado por una tarifa de 5.3075 Salarios Mínimos del área geográfica “A”, más $ 168.00.
+e).- Valor Fiscal de $561,801.00 hasta $1´698,650.00 se determinará y pagará considerando el monto total del avalúo dividido entre $561,801.00 multiplicado por una tarifa de 5.3075 Salarios Mínimos del área geográfica “A”, más $196.00
 
-f).- Valor Fiscal de $ 1´698,651.00 hasta $ 4 584,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 1´698,651.00 multiplicado por una tarifa de 14.1323 Salarios Mínimos del área geográfica “A”, más $ 270.00.
+f).- Valor Fiscal de $1´698,651.00 hasta $4´584,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $1´698,651.00 multiplicado por una tarifa de 14.1323 Salarios Mínimos del área geográfica “A”, más $314.00
 
-g).- Valor Fiscal de $ 4´584,501.00 hasta $ 8 718,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $ 4´584,501.00 multiplicado por una tarifa de 24.9872 Salarios Mínimos del área geográfica “A”, más $ 968.00.
+g).- Valor Fiscal de $4´584,501.00 hasta $8´718,500.00 se determinará y pagará considerando el monto total del avalúo dividido entre $4´584,501.00 multiplicado por una tarifa de 24.9872 Salarios Mínimos del área geográfica “A”, más $1,124.00
 
-h).- Valor Fiscal de $ 8´718.501.00 en adelante se determinará y pagará considerando el monto total del avalúo dividido entre $ 8718,501.00 multiplicado por una tarifa de 45.8800 Salarios Mínimos del área geográfica “A”, más $ 1,055.00.
+h).- Valor Fiscal de $8´718.501.00 en adelante se determinará y pagará considerando el monto total del avalúo dividido entre $8´718,501.00 multiplicado por una tarifa de 45.8800 Salarios Mínimos del área geográfica “A”, más $1,225.00
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3124,6 +3066,10 @@ D. Dependencias Federales 103 SMG.
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
 E. Instituciones Extranjeras 206 SMG.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 99 Bis II.- Para el cobro de los derechos por copia certificada del Avalúo de bienes inmuebles con fines fiscales, se aplicará conforme a la siguiente tarifa: 2 Salarios Mínimos Diarios del Área Geográfica “A”.
 
 ###### ARTICULO 100.
 
@@ -3517,6 +3463,10 @@ a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el 
 
 b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones que se suministren en las oficinas rentísticas, las que serán previstas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Formato de avalúo de bienes inmuebles con fines fiscales. 2.0 Salarios Mínimos Diarios del Área Geográfica “A”.
+
 c).- Los particulares que necesiten trabajos de la imprenta solicitarán autorización directamente de la Secretaría de Finanzas y Administración, misma que fijará su costo el cual se pagará en la Oficina Fiscal respectiva, en cuyo recibo indicará la ejecución del trabajo.
 
 d).- Otros.
@@ -3683,15 +3633,2877 @@ h) Otros recurso federalizados
 
 ## TITULO NOVENO. DE LOS INGRESOS DE LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 114.
 
-El Gobierno del Estado a través de las empresas de participación estatal directa, obtendrá los ingresos que derivado de la operación de las mismas, se generen.
+Los Organismos Públicos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a las, cuotas y tarifas que señale su órgano de Gobierno respectivo, y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
+
+Los recursos que recauden deberán ser reportados mensualmente a la Secretaría de Finanzas y Administración del Gobierno Estatal.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 114 Bis.
 
 Para la conversación de los factores a que se refiere esta Ley, cada uno de éstos deberá multiplicarse por el salario mínimo diario vigente determinado por la Comisión Nacional de Salarios Mínimos y publicado en el Diario Oficial de la Federación. El salario mínimo aplicable será el del área geográfica “A”. El producto resultante será la cuota o tarifa a cobrar por cada uno de los conceptos referidos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis I.- Por la prestación de los servicios proporcionados por el Hospital del Niño y la Madre Indígena Guerrerense, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO NIVEL 1 $ NIVEL 2 $ NIVEL 3 $ NIVEL 4 $
+
+CONSULTA
+
+EXTERNA
+
+CONSULTA
+
+GRAL.
+
+(PEDIATRÍA,
+
+M. INTERNA) 0.00 16.00 30.00 53.00
+
+C. ESPECIALIDAD
+
+(G/O, CIRUGÍA Y
+
+NUTRICIÓN) 0.00 35.00 64.00 106.00
+
+C. SUBSEC. DE
+
+ESPEC. 0.00 28.00 50.00 89.00
+
+URGENCIAS 0.00 35.00 64.00 106.00
+
+HOSPIT. DIA CAMA 0.00 60.00 102.00 160.00
+
+DIA INCUBADORA 0.00 28.00 53.00 89.00
+
+OBSERVACIÓN 2 A
+
+12 HORAS 0.00 28.00 50.00 89.00
+
+CIRUGÍA GENERAL
+
+LIPOMAS 0.00 92.00 161.00 258.00
+
+APENDICECTOMÍA 0.00 460.00 781.00 1,208.00
+
+EXTRACCIÓN DE UÑA 0.00 35.00 64.00 106.00
+
+HERNIA UMBILICAL 0.00 352.00 643.00 1,031.00
+
+HERNIA UNGUINAL 0.00 328.00 581.00 922.00
+
+HERNIA CRURAL 0.00 328.00 581.00 922.00
+
+ESTIRPACIÓN (SIC) DE
+
+TUMOR DE PIEL
+
+BENIGNOS 0.00 140.00 248.00 401.00
+
+ODONTOLOGÍA
+
+C. Y PLAN DE
+
+TRATAMIENTO
+
+(C. DENTAL) 0.00 21.00 37.00 58.00
+
+OPERATORIA
+
+OBTURACIÓN CON
+
+RESINA 0.00 21.00 37.00 53.00
+
+OBTURACIÓN CON
+
+AMALGAMA 0.00 15.00 26.00 43.00
+
+RADIOGRAFÍA
+
+PERIADICAL 0.00 10.00 16.00 33.00
+
+APLICACIÓN DE
+
+FLUOR 0.00 0.00 0.00 0.00
+
+EXODONCIA SIMP
+
+P/PZA
+
+(EXTRACCIÓN). 0.00 60.00 112.00 181.00
+
+EXODONCIA MULT
+
+C/REGULARIZA. 0.00 78.00 144.00 218.00
+
+EXODONCIA POR
+
+DISECCIÓN 0.00 131.00 243.00 382.00
+
+DRENAJE DE ACCESO
+
+EN CONSULTA 0.00 64.00 116.00 180.00
+
+EXCINCIÓN DE
+
+NEOPLASTÍA 0.00 256.00 462.00 743.00
+
+CURACIONES
+
+DENTALES 0.00 21.00 37.00 53.00
+
+ODONTOXESIS
+
+(LIMPIEZA)
+
+PROFILAXIS 0.00 39.00 71.00 108.00
+
+PARODONCIA 0.00 21.00 38.00 53.00
+
+RADIOGRAFÍA
+
+OCLUSAL 0.00 16.00 29.00 49.00
+
+GINECO OBSTETRICIA
+
+COLPOCLISIS 0.00 1,116.00 1,523.00 2,031.00
+
+PARTO NORMAL 0.00 350.00 611.00 960.00
+
+CESARIA (SIC) 0.00 504.00 878.00 1,394.00
+
+LEGRADO 0.00 310.00 548.00 877.00
+
+CESARIA (SIC) -
+
+HISTERECTOMIA 0.00 4,469.00 6,092.00 8,124.00
+
+CIRUGÍA MENOR
+
+DENTRO
+
+QUIROFANO 0.00 558.00 761.00 1,165.00
+
+PLASTIA DE
+
+PARED 0.00 1,116.00 1,523.00 2,031.00
+
+LAPARATOMIA
+
+EXPLORADORA 0.00 2,234.00 3,048.00 4,061.00
+
+HISTERECTOMÍA 0.00 359.00 631.00 1,017.00
+
+SALPINGECTOMÍA 0.00 1,116.00 1,523.00 2,031.00
+
+EXCERESIS DE
+
+PDULO MAMARIO
+
+(QUISTE) 0.00 154.00 272.00 428.00
+
+COLPOPERINOGRAFÍA 0.00 341.00 639.00 1,104.00
+
+MIOMECTOMIA (Exéresis
+
+de miomatosis uterina) 0.00 2,234.00 3,048.00 4,061.00
+
+SALPINGO
+
+ORERECTOMÍA 0.00 202.00 318.00 480.00
+
+EXTIRPACIÓN DE
+
+QUISTE DE OVARIO 0.00 330.00 567.00 903.00
+
+PAQUETE GINECO OBSTETRA
+
+PAQ. PARTO
+
+NORMAL 0.00 903.00 1,630.00 2,160.00
+
+PAQ. PARTO
+
+DISTOCITO 0.00 903.00 1,664.00 2,659.00
+
+PAQ. CESAREA 0.00 1,308.00 2,357.00 3,801.00
+
+ESTUDIO
+
+COLPOSCOPICO 0.00 41.00 58.00 78.00
+
+PAQ. LEGRADO 0.00 1,213.00 2,189.00 3,508.00
+
+PAQ. HISTERECOMÍA
+
+ABDOMINAL 0.00 1,084.00 1,963.00 3,176.00
+
+EXTIRPACIÓN DE
+
+POLIPO CERVICAL 0.00 53.00 100.00 181.00
+
+EPISIORRAFÍA
+
+(DESGARRE VAGINAL) 0.00 139.00 246.00 397.00
+
+PAQ.
+
+COLPOPERINEO-
+
+PLASTÍA 0.00 1,066.00 1,971.00 3,263.00
+
+NEONATOLOGÍA
+
+ASPIRACIÓN DE
+
+SECRECIONES 0.00 45.00 60.00 76.00
+
+FOTOTERAPIA POR
+
+DÍA 0.00 23.00 30.00 38.00
+
+USO MONITOR
+
+APNEA POR DÍA 0.00 15.00 20.00 25.00
+
+USO MONITOR
+
+NEONATAL 0.00 38.00 50.00 63.00
+
+PILOROTOMÍA 0.00 1,382.00 1,955.00 2,607.00
+
+LABORATORIO
+
+BIOMETRÍA HEMÁTICA
+
+COMPLETA 0.00 21.00 38.00 53.00
+
+FÓRMULA ROJA 0.00 30.00 60.00 100.00
+
+FÓRMULA BLANCA 0.00 30.00 60.00 100.00
+
+CUENTA
+
+DIFERENCIAL 0.00 8.00 14.00 18.00
+
+GRUPO SANGUINEO
+
+Y FACTOR RH 0.00 16.00 30.00 53.00
+
+VEL.SED.
+
+GLOBULAR 0.00 8.00 14.00 18.00
+
+COOMS DIRECTO 0.00 16.00 30.00 54.00
+
+COOMS INDIRECTO 0.00 28.00 50.00 83.00
+
+PLASMODIUM
+
+(GOTA GRUESA) 0.0 25.00 35.00 40.00
+
+EOSINOFILOS
+
+EN MOCO NASAL 0.00 10.00 16.00 33.00
+
+TIEMPO DE
+
+PROTIMBINA (T.P) 0.00 11.00 20.00 37.00
+
+T. PARCIAL DE
+
+TROBOPLASTINA
+
+(TPT) 0.00 11.00 20.00 35.00
+
+TIEMPO DE
+
+SANGRADO 0.00 14.00 28.00 48.00
+
+TIEMPO DE
+
+CUAGULACIÓN (SIC) 0.00 16.00 29.00 48.00
+
+R. DE
+
+RETICULOCITOS 0.00 11.00 20.00 33.00
+
+QUIMICA SANGUINIA (SIC)
+
+Q.S.P. (GLU. UREA.
+
+A. URICO Y
+
+CREATININA) 0.00 49.00 82.00 140.00
+
+Q.S.C.(GLU. UREA.
+
+A. URICO COLEST.
+
+TRIGLISERIDOS (SIC) ) 0.00 88.00 157.00 265.00
+
+GLUCOSA 0.00 11.00 20.00 33.00
+
+GLUCOSA POST
+
+PANDRIAL 0.00 13.00 21.00 37.00
+
+UREA 0.00 14.00 23.00 37.00
+
+CREATININA 0.00 10.00 16.00 33.00
+
+ACIDO URICO 0.00 14.00 23.00 37.00
+
+COLESTEROL TOTAL 0.00 16.00 33.00 54.00
+
+TRIGLICÉRIDOS 0.00 23.00 42.00 71.00
+
+DEPURACIÓN DE
+
+CREATININA 0.00 20.00 34.00 53.00
+
+ELECTROLITOS X 6 0.00 88.00 165.00 270.00
+
+SODIO (Na) 0.00 11.00 20.00 37.00
+
+POTASIO (K) 0.00 11.00 20.00 37.00
+
+CLORO (Cl) 0.00 11.00 20.00 37.00
+
+CALCIO (Ca) 0.00 18.00 34.00 53.00
+
+MAGNESIO (Mg) 0.00 21.00 38.00 53.00
+
+FOSFORO(P) 0.00 16.00 33.00 53.00
+
+PERFIL HEPÁTICO
+
+BAS.(TGO. TGP. BIL.
+
+FAL.) 0.00 80.00 100.00 120.00
+
+P.H.COMPLET
+
+(TGO. TGP. BIL. FAL.
+
+PT. ALB.CGT) 0.00 154.00 290.00 466.00
+
+BILIRRUBINA TOTAL
+
+(DIRECTA E INDIR) 0.00 14.00 23.00 38.00
+
+TRANSAMI.
+
+GLUTÁMICO AXALA
+
+(TGO) 0.00 16.00 33.00 53.00
+
+TRANSAMI.
+
+GLUTÁMICO PIRUBIC
+
+(TGP) 0.00 16.00 33.00 54.00
+
+PROTEINAS
+
+TOTALES 0.00 29.00 53.00 89.00
+
+ALBUMINA 0.00 11.00 20.00 37.00
+
+FOSFATA ALCALINA 0.00 20.00 38.00 67.00
+
+L.D.H. 0.00 23.00 43.00 68.00
+
+PROTEINAS TOT.
+
+ALBUM. Y RELACIÓN
+
+A/G 0.00 30.00 40.00 50.00
+
+HCG CUANTITA.
+
+(DE GANADO TROFINO
+
+CUANTIF.) 0.00 90.00 110.00 149.00
+
+PERFIL TOXEMICO 0.00 100.00 170.00 170.00
+
+LIPASA 0.00 20.00 35.00 53.00
+
+AMILASA 0.00 20.00 35.00 53.00
+
+CK- MB 0.00 20.00 25.00 30.00
+
+CK 0.00 20.00 25.00 30.00
+
+HIERRO SERICO 0.00 28.00 50.00 83.00
+
+CURVA DE
+
+TOLERANCIA
+
+DE GLUCOSA 3 HRS. 0.00 34.00 60.00 100.00
+
+HDL ( fracción de
+
+colesterol) 0.00 21.00 38.00 54.00
+
+GLOBULINA 0.00 16.00 33.00 54.00
+
+DETER. NIV. SERICOS
+
+CARBAMAZEPINA 0.00 94.00 94.00 94.00
+
+DETER. NIV. SERICOS
+
+ACIDO VALRPROICO 0.00 94.00 94.00 94.00
+
+CGT 0.00 0.00 0.00 33.00
+
+BACTERIOLOGÍA
+
+COPROCULTIVO 0.00 80.00 90.00 100.00
+
+BASILOSCOPIA X1
+
+(BAAR) 0.00 25.00 30.00 40.00
+
+BASILOSCOPIA X3
+
+EN ESPUTO 0.00 80.00 90.00 100.00
+
+UROCULTIVO 0.00 80.00 90.00 100.00
+
+EXUDADO
+
+FARINGEO 0.00 80.00 90.00 100.00
+
+EXUDADO
+
+URETRAL 0.00 80.00 90.00 100.00
+
+EXUDADO
+
+VAGINAL 0.00 80.00 90.00 100.00
+
+CULTIVO DE HERIDAS
+
+Y OTROS FLUIDOS 0.00 90.00 100.00 120.00
+
+HEMOCULTIVO 0.00 0.00 0.00 200.00
+
+CULTIVO GENERAL 0.00 26.00 48.00 72.00
+
+A.C. TOXOPLASMA 0.00 45.00 81.00 123.00
+
+ANTICUERPOS VX
+
+RUBEOLA 0.00 242.00 297.00 403.00
+
+DETERMINACIÓN DE
+
+CITOMEGALOVIRUSCMV
+
+IgC 0.00 54.00 103.00 160.00
+
+INMUNOLOGÍA
+
+REACCIONES
+
+FEBRILES 0.00 20.00 37.00 64.00
+
+PROTEINAS "C"
+
+REACTIVA (PCR) 0.00 16.00 30.00 53.00
+
+FACTOR
+
+REUMATOIDE 0.00 16.00 34.00 53.00
+
+V.D.R.L. 0.00 11.00 20.00 37.00
+
+V.I.H. SIDA 0.00 97.00 146.00 221.00
+
+EXAMEN GENERAL
+
+DE ORINA (EGO) 0.00 11.00 20.00 37.00
+
+PRUEBA EMBAR.
+
+EN SANGRE (PIE) 0.00 43.00 78.00 125.00
+
+ESTUDIO LCR 0.00 47.00 84.00 141.00
+
+ANTIESTRES-
+
+TOLISINAS 0.00 14.00 28.00 48.00
+
+CELULA LE 0.00 25.00 47.00 83.00
+
+ANTI-HEPATITIS
+
+A Y B 0.00 58.00 88.00 132.00
+
+" A" 0.00 0.00 0.00 150.00
+
+"B" 0.00 0.00 0.00 180.00
+
+PROTEINAS EN
+
+ORINA 24 HRS. 0.00 29.00 58.00 91.00
+
+ANTIGENO
+
+PROTATICO 0.00 134.00 258.00 406.00
+
+ANTI-HEPATITIS C 0.00 97.00 146.00 221.00
+
+PARASITOLOGÍA
+
+COPRAPARASITOS-
+
+COPIO X3 (CPX3) 0.00 35.00 50.00 60.00
+
+COPRO UNICO
+
+(C.P.C) 0.00 15.00 20.00 25.00
+
+PH EN HECES 0.00 15.00 25.00 30.00
+
+FROTIS EN MOCO
+
+FECAL 0.00 20.00 25.00 30.00
+
+BUSQUEDA DE
+
+OXIUROS 0.00 20.00 25.00 30.00
+
+BUSQUEDA DE
+
+AMIBA FRESCO (BAF) 0.00 13.00 21.00 37.00
+
+SANGRE OCULTA
+
+EN HECES 0.00 11.00 20.00 37.00
+
+EXAMEN
+
+COPROLÓGICO 0.00 20.00 38.00 64.00
+
+ESTUDIO DE RAYOS X
+
+TELE DE TORX P.A. 0.00 64.00 122.00 203.00
+
+TORAX ASEO 0.00 54.00 106.00 173.00
+
+AP LATERAL DE
+
+COLUMNA (LUMBAR) 0.00 81.00 154.00 248.00
+
+COLUMNA DE
+
+ESTUDIOS
+
+DINÁMICOS 0.00 263.00 488.00 743.00
+
+PELVIS AP 0.00 35.00 66.00 116.00
+
+CRANEO AP Y
+
+LATERAL 0.00 49.00 93.00 165.00
+
+PERFILLOGRAMA
+
+(NARIZ) 0.00 45.00 83.00 164.00
+
+SENOS
+
+PARANASALES
+
+( WATTERS CA WELL) 0.00 60.00 111.00 174.00
+
+LATERAL CUELLO 0.00 35.00 66.00 110.00
+
+AP Y OBLICUA
+
+MANO 0.0 37.00 71.00 125.00
+
+COMPARATIVAS
+
+MANOS 0.00 64.00 122.00 209.00
+
+MUÑECA AP Y
+
+LATERAL 0.00 35.00 66.00 116.00
+
+ANTEBRAZO AP Y
+
+LATERAL
+
+(radio y cubículo) 0.00 38.00 72.00 134.00
+
+CODO AP Y
+
+LATERAL 0.00 29.00 58.00 100.00
+
+CODO
+
+COMPARATIVO 0.00 47.00 87.00 151.00
+
+HOMBRO AP 0.00 45.00 83.00 134.00
+
+HOMBRO
+
+COMPARATIVO 0.00 49.00 93.00 146.00
+
+PIE AP Y OBLICUA 0.00 30.00 59.00 91.00
+
+TOBILLO AP Y
+
+LATERAL 0.00 33.00 63.00 97.00
+
+PIERNA AP Y
+
+LATERAL (TIBIA) 0.00 43.00 81.00 127.00
+
+RODILLA AP Y
+
+LATERAL 0.00 43.00 81.00 127.00
+
+FEMUR AP Y
+
+LATERAL 0.00 58.00 108.00 163.00
+
+EDAD OSEA 0.00 35.00 68.00 111.00
+
+PLACA SIMPLE DE
+
+ABDOMEN 0.00 92.00 171.00 263.00
+
+UROGRAFÍA
+
+ESCRETORA
+
+(Adulto) 0.00 258.00 473.00 721.00
+
+COLON POR
+
+ENEMA 0.00 226.00 416.00 631.00
+
+TRANSITO
+
+INTESTINAL 0.00 234.00 427.00 651.00
+
+CISTOGRAFÍA 0.00 174.00 319.00 488.00
+
+COLONGLOGRAFÍA
+
+PERCUNTANEA 0.00 325.00 595.00 920.00
+
+COLUMNA
+
+VERTEBRAL
+
+CERVICAL 0.00 59.00 110.00 176.00
+
+UROGRAFÍA
+
+ESCRETORA (Infantil) 0.00 199.00 365.00 561.00
+
+MACIZO FACIAL 0.00 45.00 83.00 134.00
+
+ESOFAGOGRAFÍA 0.00 321.00 577.00 920.00
+
+ESTUDIOS DE ULTRASONIDOS
+
+ULTRASONIDO
+
+2 CO FIGURAS 0.00 175.00 316.00 512.00
+
+ULTRASONIDO 1
+
+CO FIGURAS 0.00 125.00 226.00 373.00
+
+AUXILIARES DE TRATAMIENTO
+
+LAVADO GÁSTRICO 0.00 52.00 98.00 165.00
+
+SONDEO VESICAL 0.00 45.00 83.00 141.00
+
+VENOCLISIS
+
+( ONFALOCLISIS) 0.00 52.00 100.00 169.00
+
+INYECCIÓN
+
+INTRAVENOSA 0.00 16.00 30.00 54.00
+
+INYECCIÓN
+
+INTRAMUSCULAR 0.00 10.00 18.00 33.00
+
+VENDAJES
+
+COMPRESIVOS 0.00 30.00 59.00 91.00
+
+RETIRO DE YESO 0.00 16.00 33.00 54.00
+
+LAVADO DE OIDOS 0.00 10.00 16.00 30.00
+
+CURACIONES 0.00 23.00 43.00 76.00
+
+INHALOTERAPIA
+
+POR SESIÓN
+
+(NEVOLUZACIONES) 0.00 10.00 16.00 30.00
+
+COLOCACIÓN Y
+
+RETIRO DE CATETER 0.00 218.00 381.00 595.00
+
+TRAZO TOCOCARDIO-
+
+GRÁFICO 0.00 71.00 125.00 197.00
+
+SERVICIOS DIVERSOS
+
+PICADURA DE
+
+ALACRÁN 0.00 0.00 0.00 250.00
+
+SUTURAS
+
+MENORES 0.00 23.00 43.00 76.00
+
+REPOSICIÓN
+
+CONSTANCIA
+
+NACIMIENTO 0.00 15.00 18.00 20.00
+
+OTROS
+
+AMBULANCIA A
+
+HOSP.GRAL. TLAPA 0.00 0.00 0.00 50.00
+
+REPOSICIÓN DE
+
+CREDENCIAL Y
+
+YOYO 0.00 0.00 0.00 50.00
+
+PEPOSICIÓN (SIC) DE
+
+CREDENCIAL 0.00 0.00 0.00 30.00
+
+YOYO 0.00 0.00 0.00 20.00
+
+TRASLADO A
+
+CHILPANCINGO 0.00 0.00 0.00 3,000.00
+
+TRASLADO A
+
+ACAPULCO 0.00 0.00 0.0 3,400.00
+
+TRASLADO A
+
+MEXICO 0.00 0.00 0.00 3,900.00
+
+TRASLADO A
+
+OLINALÁ 0.00 0.00 0.00 900.00
+
+TRASLADO A
+
+PUEBLA 0.00 0.00 0.00 3,900.00
+
+EXAMENES ESPECIALES
+
+LCR CITOQUIMICO 0.00 30.00 60.00 70.00
+
+LCR CITOLÓGICO 0.00 20.00 50.00 60.00
+
+LCR CULTIVO 0.00 80.00 110.00 120.00
+
+CRISTALOGRAFÍA 0.00 0.00 0.00 30.00
+
+GASOMETRÍA 0.00 20.00 33.00 50.00
+
+ESTUDIO DEL
+
+ASCITIS 0.00 42.00 76.00 125.00
+
+PERFÍL
+
+TIROIDEO 0.00 179.00 331.00 500.00
+
+ESPERMA-
+
+BIOCOPIA 0.00 42.00 76.00 116.00
+
+PERFÍL
+
+HORMONAL 0.00 0.00 0.00 500.00
+
+GASTROENTEROLOGÍA
+
+GASTROTOMÍA 0.00 252.00 418.00 664.00
+
+PIROLOPLASTÍA 0.00 462.00 786.00 1,232.00
+
+CIRUGÍA MENOR DE
+
+RECTO 0.00 115.00 203.00 316.00
+
+PAQ. GASTROENTEROLOGÍA
+
+COLECISTECTOMÍA 0.00 1,389.00 2,537.00 4,159.00
+
+LAPARATOMÍA
+
+EXPLORADORA 0.00 1,283.00 2,328.00 3,855.00
+
+COLECISTECTOMÍA
+
+SIMPLE X
+
+LAPOROSCOPÍA 0.00 2,500.00 4,500.00 8,000.00
+
+COLECISTECTOMÍA
+
+C/EXPLORACIÓN
+
+VÍAS VILIARES (SIC) 0.00 3,500.00 6,000.00 10,000.00
+
+TERAPIA INTENSIVA
+
+DIA ESTANCIA EN
+
+TERAPIA INTEN. 0.00 193.00 346.00 549.00
+
+ELECTRO-
+
+CARDIOGRAMA 0.00 33.00 58.00 89.00
+
+ALIMENTACIÓN
+
+ARTIFICIAL POR DÍA 0.00 52.00 92.00 142.00
+
+TERAPIA PULPAR
+
+INGRESO POR
+
+SANGRES
+
+(POR DONADOR) 0.00 0.00 0.00 489.00
+
+ORTOPEDIA AMPUTACIÓN
+
+DEDO 0.00 77.00 146.00 243.00
+
+PAQ. UROLOGÍA PEDIÁTRICA
+
+CIRCUNCISIÓN 0.00 564.00 1,013.00 1,650.00
+
+ORQUIDOPEXIA
+
+UNILATERAL 0.00 319.00 588.00 964.00
+
+CIRUGÍA PLASTICA
+
+Y RECONSTRUCTIVA
+
+COLGAJOS 0.00 292.00 561.00 915.00
+
+COLUMNA
+
+REDUCCIÓN
+
+QUIRURGICA 0.00 449.00 801.00 1,279.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis II.- Por la prestación de los servicios proporcionados por el Instituto de la Policía Auxiliar del Estado, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+SERVICIOS DE SEGURIDAD: CUOTA MENSUAL
+
+Por un elemento : con servicio
+
+de 12 horas 175.0 SM (ZONA “A”)
+
+(con un día de descanso a la semana)
+
+Por un elemento: alternado con
+
+servicio de 24 horas 350.0 SM (ZONA “A”)
+
+(En este turno se comprende
+
+que son 2 elementos,
+
+mientras uno trabaja, uno descansa).
+
+Días festivos 11.0 SM. (ZONA “A”)
+
+(turno de 12 horas)
+
+Servicio extraordinario
+
+(Descanso Laborado) 11.0 SM. (ZONA “A”)
+
+(Aplica solo para turno de 12 horas).
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis III.- Por la prestación de los servicios proporcionados por la Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO IMPORTE $
+
+Verificación (control de calidad).
+
+Estudio de Suelo 10,248.50
+
+Estudio de concretos 10,186.70
+
+Estudio de asfaltos 10,351.50
+
+Estudios de aceros 10,166.10
+
+Estudio de tabique, piedra para
+
+mampostería, tubería para obras
+
+de drenaje, otros. 7,158.50
+
+Bases
+
+Pago de base de licitación pública
+
+Estatal $3,500.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis IV.- Por la prestación de los servicios proporcionados por la Universidad Tecnológica de la Costa Grande, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO TSU LIC/ING
+
+Inscripción $ 250.00 $ 500.00
+
+Reinscripción anual $ 250.00 $ 500.00
+
+Colegiatura mensual $ 250.00 $ 300.00
+
+Colegiatura mensual
+
+(Periferia) $ 1,000.00
+
+Colegiatura mensual
+
+(Sabatino) $ 250.00 $ 500.00
+
+Credencial inicial
+
+TSU/LIC/ING. $ 20.00 $ 20.00
+
+Reposición de
+
+Credencial $ 50.00 $ 50.00
+
+Examen de admisión
+
+(CENEVAL, EXANI II). $ 150.00
+
+Examen EGETSU
+
+(Alumnos 5to. Cuat.) $ 266.00
+
+Examen extraordinario $ 50.00 $ 50.00
+
+Examen adicional $ 150.00 $ 150.00
+
+Duplicado de certificado $ 50.00 $ 50.00
+
+Cambio de carrera $ 250.00
+
+Trámite de titulación
+
+TSU/LIC/ING. $ 850.00 $ 1,500.00
+
+Constancia de estudios
+
+c/calif. $ 20.00 $ 20.00
+
+Constancia de estudios
+
+s/calif. $ 20.00 $ 20.00
+
+Reposición de Kardex $ 20.00 $ 20.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis V.- Por la prestación de los servicios proporcionados por el Sistema para el Desarrollo Integral de la Familia, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CUOTA
+
+($)
+
+SERVICIO
+
+Inscripción mensualidad
+
+Centros de Capacitación 25.00 50.00
+
+Guardería Popular de Acapulco 100.00 300.00
+
+CONCEPTO cuota de
+
+recuperación $
+
+Canalización y Traslado de Pacientes 50.00
+
+PROGRAMA ALIMENTARIO
+
+CONCEPTO Cuota de
+
+recuperación $
+
+Módulos y Desayunos Escolares Calientes 90.00
+
+Despensas para sujetos Vulnerables 3.00
+
+Despensas Combate a la Desnutrición 10.00
+
+Raciones para menores de cinco años 0.00
+
+Despensas para Familias en Desamparo 0.00
+
+CENTRO DE REHABILITACIÓN
+
+INTEGRAL GUERRERO.
+
+TIPO DE CUOTA CUOTA $
+
+SERVICIO DESDE HASTA
+
+Consultas A-E 4.00 128.00
+
+Estudios A-E 48.00 316.00
+
+Prótesis A-E 12.00 10,986.00
+
+Aparatos
+
+Ortopédicos de
+
+Aluminio Duro y
+
+Mixtos A-E 450.00 9,600.00
+
+Reparaciones de
+
+Prótesis y
+
+Ortesis Única, E 35.00 2,353.00
+
+Colposcopía 1-5, E 30.00 300.00
+
+PRODUCTOS:
+
+CONCEPTO Cuota de
+
+recuperación $
+
+Renta de Auditorio 1,500.00
+
+CONCEPTO cuota de
+
+recuperación $
+
+Lavaderos públicos de San Mateo 3.00
+
+Baños Públicos de San Mateo 2.00
+
+Regaderas Públicas de San Mateo 5.00
+
+APROVECHAMIENTOS:
+
+DESARROLLO COMUNITARIO
+
+CONCEPTO Cuota de recuperación
+
+Huertos Hortícola de Traspatio 20% Costo de Adquisición
+
+Huertos Frutícolas de Traspatio 20% Costo de Adquisición
+
+Viveros de Nopal Verdulero 20% Costo de Adquisición
+
+Granjas Avícolas de Doble Propósito 20% Costo de Adquisición
+
+Paquetes de Aves de Doble Propósito 20% Costo de Adquisición
+
+Mejoramiento de la Vivienda 20% Costo de Adquisición
+
+Granjas de Codorniz 20% Costo de Adquisición
+
+Molino para Nixtamal Eléctricos y
+
+De Gasolina 20% Costo de Adquisición
+
+Estéticas Comunitarias 20% Costo de Adquisición
+
+Pie de Cría de Ganado Porcino 20% Costo de Adquisición
+
+Pie de Cría de Ganado Caprino 20% Costo de Adquisición
+
+Pie de Cría de Ganado Ovino 20% Costo de Adquisición
+
+Paquetes de Materias Primas para
+
+Artesanías y Telares 20% Costo de Adquisición
+
+Reproducción de Plantas
+
+Medicinales 20% Costo de Adquisición
+
+Viveros Comunitarios 20% Costo de Adquisición
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis VI.- Por la prestación de los servicios proporcionados por la Promotora y Administradora de los Servicios de Playa de la Zona Federal Marítimo Terrestre de Zihuatanejo, se aplicarán las siguientes tarifas:
+
+PRODUCTOS:
+
+RENTA DE MOBILIARIO
+
+EN PLAYAS COSTO $
+
+Toldo con 5 sillas 120.00
+
+Sombrilla con 3 sillas 60.00
+
+Sillas 10.00
+
+Camastro 40.00
+
+Mesa 20.00
+
+Baño (Costo por persona). 5.00
+
+Otros productos (renta a particulares). -
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis VII.- Por la prestación de los servicios proporcionados por el Instituto de Vivienda y Suelo Urbano de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+SERVICIO TARIFAS
+
+INSPECCIÓN Y ESTUDIO
+
+SOCIOECONÓMICO $350.00
+
+CONSTANCIA DE NO ADEUDO $330.00
+
+ESCRITURACIÓN (HASTA 200M2) $2,800.00
+
+EXCEDENTE POR METRO $15.00
+
+CESIÓN DE DERECHOS ENTRE
+
+FAMILIARES $3,000.00
+
+CESIÓN DE DERECHOS ENTRE
+
+PARTICULARES $5,000.00
+
+CANCELACIÓN DE CLÁUSULA
+
+DEL PATRIMONIO $5,000.00
+
+FAMILIAR Y DERECHO DEL TANTO
+
+RECTIFICACIÓN DE ESCRITURAS $3,000.00
+
+DE ACUERDO A
+
+LA SUPERFICIE
+
+SUBDIVISIÓN O FUSIÓN
+
+REPLANTEO DE MEDIDAS $350.00
+
+COPIAS DE EXPEDIENTE $300.00
+
+COPIAS DE PLANO GENERAL $100.00
+
+CONSTANCIA DE NO PROPIEDAD $45.00
+
+COMISIÓN POR COBRANZA
+
+(REDONDEO DE LA CIFRA) $ 0.50 A $ 2.0
+
+SEGÚN CONVENIO
+
+FIRMADO POR EL
+
+PROPIETARIO
+
+TRABAJOS DE REGULARIZACIÓN
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis VIII.- Por la prestación de los servicios proporcionados por el Parque Papagayo, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+DOMINGOS MUSICALES "AUDITORIO"
+
+ENTRADA GENERAL
+
+ADULTOS $20.00
+
+NIÑOS $10.00
+
+HORARIO DE 18:00 A 20:00 HORAS
+
+CHAPOTEADEROS PIÑATA
+
+TARIFA POR PERSONA $10.00
+
+MESA CON SILLAS $20.00
+
+SILLAS $5.00
+
+HORARIO DE 10:00 A 18:00 HORAS
+
+ALBERCA INFANTIL
+
+TARIFA POR PERSONA $15.00
+
+MESA CON SILLAS $20.00
+
+SILLAS $5.00
+
+HORARIO DE 10:00 A 20:00 HORAS
+
+PRODUCTOS:
+
+CONCEPTO TARIFA
+
+AUDITORIO
+
+RENTA 3,700.00 POR HORA
+
+ENSAYOS 500.00 POR HORA CON
+
+SONIDO
+
+200.00 CON GRABADORA
+
+100.00 EN OTRA ÁREA
+
+INCLUYE ÁREA DE LÍMPIA, SONIDO, MICROFONOS,
+
+CAMERINOS Y VIGILANCIA PERIMETRAL
+
+CAPACIDAD 600 PERSONAS, MAS IVA
+
+CENTRO SOCIAL
+
+RENTA 2,650.00 POR HORA
+
+ENSAYOS 15,900.00 POR 6 HORAS
+
+500.00 POR HORA
+
+INCLUYE ÁREA DE LÍMPIA, SONIDO, AIRE ACONDICIONADO
+
+MOBILIARIO, HIELERA, MICRÓFONO Y VIGILANCIA PERIMETRAL
+
+CAPACIDAD 300 PERSONAS, MAS IVA
+
+SALÓN DEL LAGO
+
+RENTA 1,300.00 POR HORA
+
+ENSAYOS 300.00 POR HORA
+
+INCLUYE :MOBILIARIO, SONIDO , MICROFONO Y
+
+VIGILANCIA PERIMETRAL
+
+CAPACIDAD 200 PERSONAS, MAS IVA
+
+ÁREA VERDES (SIC) PARA FIESTAS INFANTILES
+
+RENTA 2,100.00 POR 4 HORAS
+
+ENSAYOS 1,600.00 SIN SILLAS
+
+INCLUYE: SONIDO CHICO, MOBILIARIO
+
+VIGILANCIA PERIMETRAL, ACCESORIOS PARA
+
+PIÑATAS Y HIELERA.
+
+CAPACIDAD 60 PERSONAS, MAS IVA
+
+CANCHAS DE BASQUET BOL Y VOLLEY BOL
+
+RENTA 300.00 POR HORA DEL DÍA
+
+400.00 POR HORA DE NOCHE
+
+SIN EQUIPO DE SONIDO, MÁS IVA SI REQUIERE FACTURA
+
+ESTACIONAMIENTOS
+
+LUNES A VIERNES
+
+DE 06:00 A 09:00 $5.00
+
+DE 09:00 A 20:00 $10.00
+
+SABADO, DOMINGO Y FESTIVOS
+
+DE 06:00 A 09:00 HRS . $5.00
+
+DE 09:00 A 20:00 HRS. $10.00
+
+PENSIÓN POR NOCHE
+
+AUTOMÓVIL $70.00
+
+AUTOBÚS $120.00 MÁS IVA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis IX.- Por la prestación de los servicios proporcionados por la Promotora y Administradora de los Servicios de Playa de la Zona Federal Marítimo Terrestre de Acapulco, se aplicarán las siguientes tarifas:
+
+PRODUCTOS:
+
+CONCEPTO PRECIO
+
+UNITARIO($)
+
+SOMBRILLA C/2 SILLAS 40.00
+
+SILLÓN SOLO 10.00
+
+TOLDO 3X3 C/6 SILLAS 85.00
+
+CAMASTRO 30.00
+
+RENIVELACIÓN DE PLAYA 66.00
+
+RECOLECCIÓN DE BASURA 300.00 MENSUALES
+
+UN TAMBO DE 200 LITROS DIARIO
+
+NOTA: LOS PRECIOS INCLUYEN IVA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis X.- Por la prestación de los servicios proporcionados por La “Avispa” Museo Interactivo, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO PRECIO DE
+
+VENTA ($).
+
+PAQUETES
+
+ESCOLARES
+
+CONCEPTO ENTRADA GENERAL
+
+PAQUETE 1 $25.00 NIÑOS Y ADULTOS
+
+MUSEO PAGAN NIÑOS MAYORES DE
+
+2 AÑOS
+
+COMIDA $65.00 NO PAGAN ADULTOS
+
+MAYORES CON CREDENCIAL
+
+ZOOLOGICO DEL INSEN O IGATIPAM
+
+PAQUETE 2 CORTESIA A UN MAESTRO POR GRUPO
+
+MUSEO ESCOLAR DE 30 NIÑOS O MAS
+
+COMIDA $85.00
+
+SUVENIR
+
+NOTA: DE OTROS LUGARES DEL
+
+ESTADO, SE COTIZA EL PRECIO DEL
+
+ZOOLOGICO AUTOBUS Y SE FIJA EL COSTO DEL
+
+PAQUETE, SIN FINES DE LUCRO.
+
+PAQUETE 3
+
+MUSEO $75.00
+
+ESFERAS
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 4
+
+MUSEO
+
+ESFERAS $95.00
+
+SUVENIR
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 5
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA
+
+Y TAXCO) $205.00
+
+MUSEO
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 6
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA Y TAXCO)
+
+MUSEO $225.00
+
+SUVENIR
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 7
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA Y TAXCO)
+
+MUSEO $215.00
+
+ESFERAS
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 8
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA Y TAXCO)
+
+MUSEO $235.00
+
+ESFERAS
+
+SUVENIR
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 9
+
+MUSEO $75.00
+
+ATAQUE DE RISA
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 10
+
+MUSEO
+
+ATAQUE DE
+
+RISA $95.00 ENTRADA GENERAL
+
+SUVENIR $25.00 NIÑOS Y ADULTOS
+
+COMIDA PAGAN NIÑOS MAYORES
+
+DE 2 AÑOS
+
+ZOOLOGICO NO PAGAN ADULTOS
+
+MAYORES CON CREDENCIAL
+
+DEL INSEN O IGATIPAM
+
+PAQUETE 11
+
+TRANSPORTE CORTESIA A UN MAESTRO
+
+(ACAPULCO, POR GRUPO ESCOLAR DE 30
+
+IGUALA Y TAXCO) NIÑOS O MAS
+
+MUSEO $215.00
+
+ATAQUE DE RISA
+
+COMIDA NOTA: DE OTROS LUGARES
+
+DEL ESTADO, SE COTIZA EL
+
+PRECIO DEL AUTOBUS Y SE
+
+FIJA EL COSTO DEL PAQUETE,
+
+SIN FINES DE LUCRO.
+
+ZOOLOGICO
+
+PAQUETE 12
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA Y TAXCO)
+
+MUSEO $235.00
+
+ATAQUE DE RISA
+
+SUVENIR
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 13
+
+MUSEO
+
+ESFERAS $85.00
+
+ATAQUE DE RISA
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 14
+
+MUSEO
+
+ESFERAS $105.00
+
+ATAQUE DE RISA
+
+SUVENIR
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 15
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA Y TAXCO)
+
+MUSEO
+
+ESFERAS $225.00
+
+ATAQUE DE RISA
+
+COMIDA
+
+ZOOLOGICO
+
+PAQUETE 16
+
+TRANSPORTE
+
+(ACAPULCO,
+
+IGUALA Y TAXCO)
+
+MUSEO
+
+ESFERAS $245.00
+
+ATAQUE DE RISA
+
+SUVENIR
+
+COMIDA
+
+ZOOLOGICO
+
+PRODUCTOS:
+
+RENTAS DE INSTALACIONES PARA EVENTOS ESPECIALES
+
+Las Áreas y Servicios disponibles son:
+
+Auditorio con capacidad para 162 personas
+
+Área de Talleres
+
+Área de Juegos
+
+Espacio al aire libre de 150 m2
+
+Salas con capacidad simultanea de 400 personas
+
+Salón de Usos Múltiples para Talleres
+
+Estacionamiento
+
+Servicio de Cafetería
+
+Seguridad
+
+Mantenimiento eléctrico
+
+Apoyo de personal
+
+Requisitos
+
+Apartar la fecha como mínimo 1 mes antes del evento
+
+Realizar el llenado del Contrato de Servicio Apoyo de personal
+
+Cubrir el 50% de anticipo
+
+PAQUETE RENTA DEL AUDITORIO
+
+Capacidad para 162 personas*
+
+Aire acondicionado
+
+Sonido estereofónico
+
+Proyector de acetatos
+
+Proyector de diapositivas
+
+Proyector de películas (DVD Y VHS)
+
+Micrófono de piso con base
+
+Micrófono inalámbrico
+
+Podium
+
+Presídium
+
+Personal de apoyo costo por hora: $ 1,500.00**
+
+Mesa de recepción
+
+PAQUETE DE FIESTAS INFANTILES
+
+PAQUETE No.1
+
+$2,500.00
+
+Para 50 personas. (Por 5 horas)
+
+INCLUYE:
+
+Renta del salón
+
+Mobiliario (sillas y mesas)
+
+Mantelería, cubre manteles, monjas con moños
+
+Mesa de servicio
+
+Sonido ambiental
+
+Polea para piñata
+
+Apoyo en la colocación de la decoración con globos (1 arco y boas).
+
+Recorrido por la sala temporales
+
+Área de juegos para Niños de 1 a 3 años (acompañados de 1 adulto)
+
+Área de juegos para Niños y Papas
+
+Personal de apoyo (1 cuate, 1 persona del sonido, 1 encargado, 1 personal de apoyo en el aseo).
+
+PAQUETE No.2
+
+$4,000.00
+
+Para 100 personas (Por 5 horas)
+
+INCLUYE:
+
+Renta del salón
+
+Mobiliario (sillas y mesas)
+
+Mantelería, cubre manteles, monjas con moños
+
+Mesas de servicio
+
+Sonido ambiental
+
+Polea para piñata
+
+Apoyo en la colocación de la decoración con globos (1 arco y boas).
+
+Recorrido por la sala temporales
+
+Área de juegos para Niños de 1 a 3 años (acompañados de 1 adulto)
+
+Área de juegos para Niños y Papas
+
+Personal de apoyo (2 cuates, 1 persona del sonido, 1 encargado, 2 personas que apoyan en el aseo).
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XI.- Por la prestación de los servicios proporcionados por el Instituto Tecnológico Superior de la Montaña, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO CUOTAS $
+
+DOCUMENTOS GENERALES 2011-2012
+
+CONSTANCIA DE ESTUDIOS CON
+
+CALIFICACIONES 33.00
+
+CONSTANCIA DE ESTUDIOS SIN
+
+CALIFICACIONES 20.00
+
+CONSTANCIA DE LIBERACION DE
+
+INGLES 55.00
+
+CONSTANCIA DE CREDITOS 20.00
+
+CONSTANCIA DE LIBERACION DE
+
+RESIDENCIA PROFESIONAL 66.00
+
+CONSTANCIA DE LIBERACION DEL
+
+SERVICIO SOCIAL 55.00
+
+CREDENCIAL P/ALUMNOS EGRESADOS
+
+(CONSULTA BIBLIOTECA) 200.00
+
+CURSO DE INGLES TRIMESTRAL 550.00
+
+CURSO DE VERANO POR ASIGNATURA 605.00
+
+CURSO DE VERANO: INGLES,
+
+COMPUTACION Y DEPORTE 700.00
+
+DERECHO A EXAMEN ESPECIAL 330.00
+
+DERECHO A EXAMEN GLOBAL 330.00
+
+DONACION P/ADQUISICION DE
+
+LIBRO (REQUISITO DE TITULACION) 350.00
+
+EQUIVALENCIA DE ESTUDIOS
+
+POR ASIGNATURA 22.00
+
+EXAMEN EXTRAORDINARIO 55.00
+
+EXAMEN GLOBAL DE INGLES 440.00
+
+EXPEDICION DE CARTA DE PASANTE 165.00
+
+EXPEDICION DE CERTIFICADOS 165.00
+
+EXPEDICION DE CERTIFICADOS
+
+PARCIALES 220.00
+
+MANUAL DE INDUCCION DE SERVICIO
+
+SOCIAL 33.00
+
+PAGO DE TITULACION
+
+(SOLO TRAMITE DE TITULO Y
+
+LEGALIZACION DE FIRMAS) 2,000.00
+
+PROGRAMA DE ESTUDIOS POR
+
+ASIGNATURA 14.30
+
+REINSCRIPCIONES 550.00
+
+REPOSICION DE CREDENCIALES 66.00
+
+RETIRO DE DOCUMENTOS 33.00
+
+REVISION DE CARDEX 33.00
+
+CURSO PROPEDEUTICO
+
+EXTEMPORANEO 495.00
+
+EXPEDICION FICHA NUEVO INGRESO
+
+(INCLUYE GUIA Y CURSO) 350.00
+
+INSCRIPCION NUEVO INGRESO
+
+(INCLUYE CEDENCIAL (SIC) DE
+
+ESTUDIANTE Y BIBLIOTECA) 650.00
+
+TRAMITE DE TITULO Y CEDULA 3,000.00
+
+SERVICIOS DE COMPUTO
+
+IMPRESIÓN EN HOJAS T/CARTA
+
+Y OFICIO EN NEGRO X HOJA 1.00
+
+IMPRESIÓN EN HOJA BLANCA
+
+T/CARTA Y OFICIO A COLORES
+
+POR X HOJA 3.00
+
+IMPRESIÓN PLANOS DE
+
+0.60 X 0.90 MTS EN COLOR
+
+NEGRO X HOJA 85.00
+
+IMPRESIÓN DE PLANOS DE
+
+0.60 X 0.90 MTS A COLORES
+
+X HOJA 100.00
+
+IMPRESIÓN CARTULINA
+
+0.60 X 0.90 MTS EN COLOR
+
+NEGRO POR X HOJA 60.00
+
+IMPRESIÓN CARTULINA
+
+0.60 X 0.90 MTS EN COLORES
+
+X HOJA 90.00
+
+IMPRESIÓN EN MANTA
+
+3.00 X 1.00 MTS 360.00
+
+IMPRESIÓN EN MANTA
+
+5.00 X 1.00 MTS 480.00
+
+IMPRESIÓN DE PABELLON
+
+3.00 X 1.00 MTS 360.00
+
+IMPRESIÓN EN PABELLON
+
+5.00 X 1.00 MTS 480.00
+
+ACETATOS X HOJA 3.00
+
+DIGITALIZACION DE IMAGEN
+
+X HOJA 4.00
+
+DISKETT 3 1/2 C/U 5.00
+
+RESPALDO DE INFORMACION
+
+EN CD-ROM (NO INCLUYE CD) 16.00
+
+RESPALDO DE INFORMACION
+
+EN CD-ROM (INCLUYE CD) 25.00
+
+RENTA DE CAÑOM (SIC) MULTIMEDIA
+
+X HORA 300.00
+
+MANTENIMIENTO PREVENTIVO
+
+Y CORRECTIVO A EQUIPO DE
+
+COMPUTO 250.00
+
+DISEÑO E INSTALACION DE REDES DE COMPUTADORA
+
+CURSO DE INFORMATICA BASICA
+
+X PERSONA 350.00
+
+CURSO TALLER DE MANTENIMIENTO
+
+DE EQUIPO DE COMPUTO X PERSONA 480.00
+
+CURSO OFFICE 2000 (WORD,
+
+EXCEL, POWERPOINT, PUBLISHER)
+
+X PERSONA 430.00
+
+OTROS SERVICIOS
+
+ESTRUCTURA PARA CASA-HABITACION
+
+(INCLUYE ENTREGA DE PLANO) X M2 20.00
+
+ELABORACION DE LEVANTAMIENTO
+
+TOPOGRAFICO (INCLUYE ALTIMETRIA
+
+Y PLANO) X Ha 3,000.00
+
+ELABORACION DE LEVANTAMIENTO
+
+TOPOGRAFICO (INCLUYE CURVAS DE
+
+NIVEL Y PLANO) X Ha 4,500.00
+
+REALIZACION DE FRACCIONAMIENTO
+
+CON PLANIMETRIA X Ha 6,500.00
+
+REALIZACION DE FRACCIONAMIENTO
+
+CON PLANIMETRIA Y ALTIMETRIA X Ha 7,500.00
+
+PRODUCTOS:
+
+SERVICIOS INTERNOS DE LABORATORIO CIVIL RENTA POR DIA DE:
+
+CINTA METRICA 40.00
+
+CLISIMETRO 50.00
+
+BALIZA METALICA CON NIVEL 30.00
+
+BALIZA DE MADERA 50.00
+
+BRUJULA 50.00
+
+ESTACION TOTAL 450.00
+
+ESTADAL DE MADERA 50.00
+
+FICHA METALICA DE 30 CM. 5.00
+
+MOLDE METALICO P/CILINDROS
+
+DE 15 CM. Y 30 CM. DE ALTURA 80.00
+
+NIVEL 200.00
+
+NIVEL DE MANO 50.00
+
+PLOMADA 30.00
+
+TRANSITO CON PLOMADA 200.00
+
+TRANSITO OPTICO 250.00
+
+TRIPIE DE ALUMINIO 50.00
+
+TRIPIE DE MADERA 40.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XII.- Por la prestación de los servicios proporcionados por la Universidad Politécnica del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO IMPORTE
+
+INSCRIPCIÓN $ 800.00
+
+REINSCRIPCIÓN (CUATRIMESTRE) $ 400.00
+
+CONSTANCIA DE ESTUDIOS SIMPLE $15.00
+
+CONSTANCIA DE ESTUDIOS CON
+
+PROMEDIO $25.00
+
+HISTORIAL ACADÉMICO POR
+
+CUATRIMESTRE $75.00
+
+REPOSICIÓN DE CREDENCIAL $100.00
+
+SANCIÓN POR RETARDO POR DÍA
+
+EN LA DEVOLUCIÓN DE MATERIAL
+
+BIBLIOGRÁFICO $ 5.00
+
+RECURSAMIENTO POR MATERIA $ 200.00
+
+REVALIDACIÓN DE MATERIAS $ 100.00
+
+CONSECIÓN (SIC) COMEDOR (MENSUAL)
+
+ENERO A DICIEMBRE $ 3,000.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XIII.- Por la prestación de los servicios proporcionados por la Universidad Tecnológica de la Región Norte de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO IMPORTE $
+
+Inscripciones 200.00 Pago único
+
+Ingenierías
+
+Colegiaturas 1,200.00 Cuatrimestre
+
+TSU
+
+Colegiaturas 800.00 Cuatrimestre
+
+Examen CENEVAL 110.00 Pago único
+
+Examen EGETSU 200.00 Pago único
+
+Examen extraordinario 50.00
+
+Constancia y boletas 10.00
+
+Cardex 10.00
+
+Duplicado de credencial 10.00
+
+Lockers 50.00 Cuatrimestre
+
+Aportación para libros 200.00 Pago Único
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XIV.- Por la prestación de los servicios proporcionados por el Fideicomiso para el Desarrollo Económico y Social de Acapulco, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO COSTO
+
+CONSTANCIA DE NO
+
+PROPIEDAD $50.00
+
+INSPECCIÓN DE ESTUDIO
+
+SOCIOECONÓMICO $350.00
+
+COSNTANCIA (SIC) DE
+
+NO ADEUDO $330.00
+
+ESCRITURACIÓN (HASTA 200M2) $2,800.00
+
+EXCEDENTE POR METRO
+
+CUADRADO $15.00
+
+CESIÓN DE DERECHOS ENTRE
+
+FAMILIARES $3,000.00
+
+CESIÓN DE DERECHOS ENTRE
+
+PARTICULARES $5,000.00
+
+CANCELACIÓN DE CLÁUSULAS
+
+Y DERECHO AL TANTO $5,000.00
+
+SUBDIVIÓN (SIC) O FUSIÓN $2,000.00
+
+REPLANTEO DE MEDIDAS $550.00
+
+COPIAS DEL EXPEDIENTE $350.00
+
+COPIAS DE PLANO EN GENERAL $300.00
+
+PLANO INDIVIDUAL $100.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XV.- Por la prestación de los servicios proporcionados por el Instituto Tecnológico Superior de la Costa Chica, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO IMPORTE $
+
+SERVICIO ADMINISTRATIVOS Y
+
+ESCOLARES ACRED. CERTIF. Y
+
+CONVALIDACIÓN
+
+CERTIFICADO PARCIAL 600.00
+
+REPOSICIÓN DE CERTIFICADO 840.00
+
+ACTO RECEPCIÓN PROFS. 420.00
+
+TRÁMITE DE TIT. Y CÉDULA 2,040.00
+
+RETIRO DE DOCUMS. ORIGINALES 60.00
+
+CARTA DE PASANTE 120.00
+
+EXPEDICIÓN DE CERTIFICADO 360.00
+
+OTROG. Y EXPED. DE DOCTOS. OFICIALES
+
+CONSTANCIAS
+
+CONSTANCIA SIMPLE SIN
+
+CALIFICACIÓN 30.00
+
+CONSTANCIA CON CALIFICACIONES 48.00
+
+CONSTANCIA D/INGLES
+
+C/CALIFICACIONES 42.00
+
+EXPEDICIÓN DE CREDENCIALES 12.00
+
+REPOSICIONES
+
+PRIMERA REPOSICIÓN DE CREDENCIAL 18.00
+
+SEGUNDA REPOSICIÓN DE
+
+CREDENCIAL 24.00
+
+REPOSICIÓN DE LA CARTA DE SERV. 24.00
+
+REPOSICIÓN DE CARTAS DE
+
+PRACTICAS 24.00
+
+REPOSICIÓN DE DIPLOMAS ESPEC. 24.00
+
+REPOSICIÓN DE CARTAS DE
+
+PASANTES 180.00
+
+EXAMENES
+
+EXAMENES EXTRAORDINARIOS 60.00
+
+EXAMENES ESPECIALES 300.00
+
+DERECHO EXAMEN PROFESIONAL 420.00
+
+EXAMEN DE ADMISIÓN (FICHA) 240.00
+
+EXAMEN ESPECIAL A FORÁNEOS 360.00
+
+EXAMEN GLOBAL 360.00
+
+APORT. Y COOP. VOLUNTARIAS
+
+CUOTAS DE COOP. VOLUNTARIAS
+
+INSC. AGO-2012-ENERO-2013 700.00
+
+REINSC. FEB-JULIO 2012 700.00
+
+REINC. AGO.2012-ENERO-2013 700.00
+
+RECARGOS P/PAGOEXT. 60.00
+
+CURSOS DE INGLES 240.00
+
+CURSOS DE TITULACIÓN 2,400.00
+
+CURSOS DE VERANO 360.00
+
+CURSOS PROPED. P/MAESTRIA 1,500.00
+
+INSC. MAEST. CIENC. D/COMP. 6,000.00
+
+REINSC. MAEST. CIENC. D/COMP. 6,000.00
+
+APORT. Y COOP, DONAC. AL PLANTEL
+
+DONATIVOS DIV. (SALA AUD.) 1,000.00
+
+BIBLIOTECA 500.00
+
+OTROS
+
+IMPRE.(CENTRO DE COMP.) 2,000.00
+
+SERVICIOS GENERALES
+
+ALQUILERES
+
+RENTA DE CAFETERÍA Y OTROS 4,000.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XVI.- Por la prestación de los servicios proporcionados por el Colegio de Estudios Científicos y Tecnológicos del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+> <small>N. DE E. VÉASE TARIFA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PAGINAS DE LA 39 A LA 40.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XVII.- Por la prestación de los servicios proporcionados por el Colegio de Bachilleres del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+> <small>N. DE E. VÉASE TARIFA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PAGINAS DE LA 40 A LA 44.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XVIII.- Por la prestación de los servicios proporcionados por el Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+CONJUNTO TURISTICO JACARANDAS
+
+TARIFAS CON IMPUESTOS INCLUIDOS PARA EL 2012
+
+DERECHOS:
+
+HABITACIONES
+
+HAB. HAB. HAB. HAB.
+
+SENCILLAS DOBLES TRIPLE CUADRUPLE
+
+$ 500. 00 $ 600. 00 790. 00 $ 950. 00
+
+SERVICIO DE LLAMADAS
+
+LLAMADAS LOCALES $ 5. 00
+
+LLAMADAS A CELULAR $7.00
+
+LLAMADAS
+
+INTERNACIONALES $ 7. 00
+
+BOLETOS ALBERCA
+
+ADULTOS $ 30. 00
+
+NIÑOS $ 20. 00
+
+PAQUETES PARA EVENTOS
+
+DESAYUNO $ 94. 00
+
+JUGO O FRUTA
+
+CAFÉ O TE C/ PAN DULCE
+
+PLATILLOS A LEGIR (SIC) CHILAQUILES VERDES
+
+C/ CECINA O POLLO
+
+CHLAQUILES (SIC) ROJOS
+
+C/ CECINA O POLLO
+
+APORREADILLO
+
+HUEVOS SOCORRIDOS
+
+JACARANDAS $ 95. 00 EJECUTIVO$ 95. 00
+
+CAFÉ O TE CAFÉ O TE
+
+PAN TOSTADO PAN TOSTADO
+
+JUGO O FRUTA JUGO DE NARANJA
+
+HUEVOS
+
+MOTULEÑOS ENSALADA DE FRUTA
+
+O APORREADILLO CON YOGURT
+
+GRANOLA Y MIEL
+
+CAMPESINO $ 95. 00
+
+CAFÉ O TE MEXICANO $ 83. 00
+
+PAN TOSTADO CAFÉ O TE
+
+JUGO O FRUTAS PAN TOSTADO
+
+CHILAQUILES CON HUEVO O FRUTAS
+
+CECINAS, POLLO O
+
+HUEVO HUEVOS RANCHEROS
+
+JUNIOR $ 65. 00 CONTINENTAL $65.00
+
+LECHE O
+
+CHOCOMILK CAFÉ, TE O
+
+LECHE
+
+MINE HOTCAKES PAN TOSTADO
+
+GELATINA O JUGO O FRUTAS
+
+JUGO DE NARANJA
+
+HUEVO CON JAMON
+
+LIGHT $ 83. 00
+
+CAFÉ O TE
+
+PAN TOSTADO
+
+JUGO O FRUTA
+
+ENSALADA MIXTA
+
+CON POLLO
+
+DIETETICO $65.00
+
+CAFÉ O TE ULTRA LIGHT $ 83. 00
+
+JUGO DE TORONJA CAFÉ O TE
+
+SANDWICH DE JUGO DE
+
+QUESO PANELA NARANJA
+
+CON GERMINADO ENSALADA DE
+
+DE ALFALFA FRUTAS
+
+CON QUESO
+
+COTTAGE
+
+COMIDAS
+
+PAQUETE 1 $105 PAQUETE 4
+
+ESTOFADO DE MOLE VERDE
+
+POLLO, ENSALADA CON ESPINAZO
+
+DE MELÓN, LECHUGA, DE CERDO Y ARROZ
+
+MACARRON BLANCO
+
+GELATINA DE FLAN
+
+SABORES
+
+AGUA DE FRUTAS AGUA DE FRUTAS
+
+PAQUETE 2 PAQUETE 5
+
+ADOBO DE CERDO FILETE DE PESCADO
+
+CON ARROZ Y A LA VERACRUZANA
+
+FRIJOLES CON ARROZ
+
+GELATINA DE GELATINA DE
+
+SABORES SABORES
+
+AGUA DE FRUTAS AGUA DE FRUTAS
+
+PAQUETE 3 PAQUETE 6
+
+BISTEC A LA PACHUGA (SIC) A LA
+
+MEXICANA CON PLANCHA CON
+
+ARROZ Y FRIJOLES VERDURAS FRESCAS Y
+
+FRIJOLES
+
+FLAN ARROZ CON LECHE
+
+AGUA DE FRUTA AGUA DE FRUTAS
+
+CENAS $ 80, 00
+
+CAFÉ, TE O AGUA
+
+DE FRUTAS
+
+PLATILLOS A ELEGIR
+
+QUESADILLAS
+
+TOSTADAS DE PAPA
+
+ENCHILADAS
+
+CHALUPAS
+
+TACOS DE POLLO
+
+SOPES
+
+SERVICIO DE COFFE BREAK
+
+COFFE BREAK
+
+Incluye café, botellas c/ agua,
+
+galletas y refrescos. $ 61, 00
+
+COFFE BREAK CONTINUO
+
+Incluye café, botellas c/agua,
+
+galletas y refrescos durante
+
+todo el evento. $ 97, 00
+
+> <small>N. DE E. VÉASE TARIFAS DE HOSPEDAJE EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PAGINA 47.</small>
+
+PRODUCTOS:
+
+RENTA DE SALONES
+
+SALON AZUL $ 3, 000,00
+
+Con una capacidad para 100 personas,
+
+es ideal para reuniones de trabajos,
+
+conferencias, talleres y seminarios,
+
+cuenta con aire acondicionado, sonido,
+
+rota folios, pantalla.
+
+SALON EJECUTIVO $ 2,200, 00
+
+Pequeño lugar que se encuentra
+
+ubicado a un costado del Salón Azul,
+
+con una capacidad para 30 personas,
+
+en el disfrutara de un ambiente agradable.
+
+LA CABAÑA $ 4, 000, 00
+
+Un lugar con gran tradición para sus
+
+eventos sociales, recién remodelada,
+
+con una capacidad para 200 personas,
+
+en la que ofrecemos mobiliario y materia
+
+para 100 personas además, de que cuenta
+
+con una barra de servicio y cocineta con
+
+gas integrado.
+
+RENTA DE ALBERCA $ 4, 000, 00
+
+Cuenta con chapoteadero para los más
+
+pequeños de la casa, se encuentra
+
+rodeada de hermosas áreas verdes, donde
+
+usted podrá disfrutar de la tranquilidad
+
+del lugar y contamos con un mobiliario
+
+para 100 personas.
+
+JARDIN ANTURIAS $ 2, 750, 00
+
+Ubicado a un costado de la alberca,
+
+propio para una pequeña recepción
+
+con una capacidad para 60 personas
+
+en el que ofrecemos mobiliario y mantelería.
+
+JARDIN JACARANDAS $ 4, 000, 00
+
+SIN MOBILIARIO
+
+Se encuentra ubicado en la parte
+
+posterior del hotel, ideal para sus
+
+eventos especiales, con una capacidad
+
+para 500 personas, hermoso jardín
+
+en el que disfrutaran de un agradable
+
+ambiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XIX.- Por la prestación de los servicios proporcionados por el Instituto Guerrerense de la Cultura, se aplicarán las siguientes tarifas:
+
+> <small>N. DE E. VÉASE TARIFAS EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PAGINAS DE LA 49 A LA 51.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XX.- Por la prestación de los servicios proporcionados por el Colegio de Educación Profesional Técnica del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CONCEPTO CUOTA
+
+I.- CUOTA ESCOLAR SEMESTRAL (MODULO )
+
+PRIMER SEMESTRE $135.00
+
+SEGUNDO A SEXTO SEMESTRE $120.00
+
+II.- SEGURO ESTUDIANTIL ANUAL $60.00
+
+III.- EXAMEN DE ADMISIÓN $100.00
+
+IV.- ASESORÍAS COMPLEMENTARIAS (POR MODULO)
+
+Intersemestrales $60.00
+
+Semestrales $200.00
+
+V.- RECONOCIMIENTO DE COMPETENCIAS
+
+ADQUIRIDAS DE MANERA AUTODIDACTA,
+
+POR CAPACITACIÓN O EXPERIENCIA EN EL
+
+TRABAJO
+
+Evaluación por módulo $120.00
+
+VI.- EVALUACIÓN CON FINES DE READMISIÓN
+
+Evaluación por módulo $120.00
+
+VII.- TITULACIÓN
+
+Protocolo de Titulación $120.00
+
+Registro de Título y Expedición Definido por la Dir. Gral.
+
+de Cédula Profesional ante de Profesiones
+
+la Dirección General de Para alumnos de 6°
+
+Profesiones semestre
+
+VIII.- EXPEDICIÓN DE CERTIFICADO DE TÉCNICO
+
+AUXILIAR Y TÉCNICO BÁSICO
+
+(solo planes de estudio 2003) $ 120
+
+IX EXAMENES
+
+Exámenes Especiales de
+
+Regularización (Solo para
+
+planes de estudio anteriores
+
+a 2003) $ 120
+
+X REPOSICIÓN DE CREDENCIAL $ 60
+
+XI.- EXPEDICIÓN DE
+
+CERETIFICADOS (SIC) DE
+
+ESTUDIOS $ 120
+
+XII.- EVALUACIÓN Y
+
+CERTICACIÓN (SIC) DE COMPETENCIA
+
+LABORAL $ 180
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXI.- Por la prestación de los servicios proporcionados por el Instituto del Deporte de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+CAMPAMENTO SANTA FE
+
+CONCEPTO TARIFAS
+
+SANITARIOS $2.00
+
+REGADERAS $5.00
+
+ENTRADA $10.00
+
+CABAÑAS $160.00
+
+ACAMPAR $15.00
+
+TOBOGAN $10.00
+
+PRODUCTOS:
+
+UNIDAD DEPORTIVA CHILPANCINGO II
+
+CONCEPTO TARIFAS
+
+Gimnasio de pesas $200.00 Mensualidad
+
+Alberca $200.00 Mensualidad
+
+Salón de usos múltiples :
+
+Silvestre Soto $600.00
+
+Karate Do $1,000.00
+
+Cafetería $6,500.00 Mensualidad
+
+Cancha de Futbol Rápido $200.00 Partido
+
+Consultorio $1,150.00 Mensualidad
+
+Gimnasio de duela $200.00 Hora
+
+Spinning $3,150.00 Mensualidad
+
+Cancha empastada $700.00 Partido
+
+Cancha de tierra $200.00 Partido
+
+Fuente de sodas $4,900.00 Mensualidad
+
+UNIDAD DEPORTIVA ACAPULCO
+
+CONCEPTO TARIFAS
+
+CAMPO DE FUTBOL $1,000.00 POR DÍA
+
+CAMPO DE FUTBOL $1,500.00 POR NOCHE
+
+ALBERCA NIÑO $10.00
+
+ALBERCA ADULTO $15.00
+
+PISTA $5.00
+
+ESTACIONAMIENTO $5.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXII.- Por la prestación de los servicios proporcionados por el Instituto Guerrerense de la Infraestructura Física Educativa, se aplicarán las siguientes tarifas:
+
+> <small>N. DE E. VÉASE TARIFA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINA 54.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXIII.- Por la prestación de los servicios proporcionados por el Consejo Estatal del Cocotero, se aplicarán las siguientes tarifas:
+
+PRODUCTOS:
+
+CONCEPTO UNIDAD CANTIDAD CUOTA O
+
+TARIFA
+
+VENTA DE
+
+PALMA HIBRIDA PIEZA 1 $ 25.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXIV.- Por la prestación de los servicios proporcionados por Radio y Televisión de Guerrero, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+LISTA DE COSTOS PARA PATROCINIOS EN RADIO Y TELEVISION
+
+RADIO
+
+CONCEPTO COSTO
+
+SPOT DE 10 Y 20 SEGUNDOS $57.50
+
+SPOT DE 30 SEGUNDOS $80.50
+
+CAPSULA 1 MINUTO $402.50
+
+ENTREVISTA 5 MINUTOS $1,725.00
+
+MENCIÓN DE CONDUCTORES
+
+(1 MINUTO APROX.) $345.00
+
+TELEVISIÓN
+
+CONCEPTO COSTO
+
+MENCION DE CONDUCTORES $575.00
+
+IMAGEN LOGOTIPO EN PANTALLA $575.00
+
+CINTILLO (20 SEGUNDOS) $402.50
+
+CORTINILLA (5 SEGUNDOS) $345.00
+
+SPOT DE 20 SEGUNDOS $345.00
+
+SPOT DE 30 SEGUNDOS $460.00
+
+REPORTAJE 3 EMISIONES DE 2
+
+MINUTOS $4,600.00
+
+ENTREVISTA (5 MINUTOS) $3,450.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXV.- Por la prestación de los servicios proporcionados por el Instituto Estatal de Cancerología, se aplicarán las siguientes tarifas:
+
+> <small>N. DE E. VÉASE TARIFAS EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 56 A LA 64.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXVI.- Por la prestación de los servicios proporcionados por el Centro Estatal de Oftalmología, se aplicarán las siguientes tarifas:
+
+DERECHOS:
+
+TABULADOR DE CUOTAS
+
+SERVICIO COSTO
+
+CONSULTA $150.00
+
+CONSULTA ESPECIALIDAD $170.00
+
+CAMPOS VISUALES
+
+PACIENTE IEO $700.00
+
+PACIENTE EXTERNO $850.00
+
+CIRUGÍA PTERIGION $3,000.00
+
+CIRUGÍA ESTRABISMO $8,000.00
+
+CIRUGÍA VALVULA DE AMHED $3,500.00
+
+(MAS COSTO DE LA VALVULA
+
+A LA FECHA DE CIRUGÍA)
+
+CIRUGÍA CATARATA EXTRACAPSULAR $8,000.00
+
+CIRUGÍA CATARATA $9,500.00
+
+FACOEMULSIFICACIÓN
+
+CIRUGÍA RETINOPEXIA $11,000.00
+
+CIRUGÍA VITECTROMÍA $14,000.00
+
+CIRIGÍA (SIC) FACO+VITECTOMÍA $15,000.00
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXVII.- Por la prestación de los servicios proporcionados por el Hospital de la Madre y el Niño Guerrerense, se aplicarán las siguientes tarifas:
+
+> <small>N. DE E. VÉASE TARIFA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 65 A LA 69.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 114 Bis XXVIII.- Los demás derechos que se señalen en las cuotas y tarifas, que al efecto se publiquen en el Periódico Oficial del Estado.
+
+Los derechos previstos en los Artículos 114 Bis I al 114 Bis XXVII, se citan de manera enunciativa, más no limitativa.
 
 ## TITULO DECIMO. DISPOSICIONES GENERALES
 
@@ -4672,3 +7484,9 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil once.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de enero del año dos mil doce.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
