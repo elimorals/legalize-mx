@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-integral-de-justicia-para-adolescentes-del-7698
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2011-09-30"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010 Y SU REFORMA PUBLICADA EN EL P.O. 30 DE SEPTIEMBRE DE 2011, QUE ESTABLECEN EL INICIO DE VIGENCIA PROGRESIVA SEGUN CORRESPONDA EL MUNICIPIO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010 Y SUS REFORMAS PUBLICADAS EN EL P.O. 30 DE SEPTIEMBRE DE 2011 Y P.O. DEL 30 DE DICIEMBRE DE 20011, QUE ESTABLECEN EL INICIO DE VIGENCIA PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
 
@@ -809,15 +809,47 @@ El tratamiento en régimen semiabierto no podrá imponerse por un plazo mayor al
 
 Tratamiento en centro de internamiento.- El tratamiento en centro de internamiento es la medida más grave prevista en esta Ley, es de carácter excepcional y cuando no sea posible aplicar ninguna otra. Consiste en la reclusión permanente del adolescente por el tiempo que dure la medida impuesta y debe cumplirse exclusivamente en los centros de internamiento, de los que sólo podrán salir los adolescentes mediante orden escrita de autoridad judicial competente.
 
-El tratamiento en centro de internamiento podrá imponerse hasta por siete años y hasta por diez años por lo que hace a los siguientes delitos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Homicidio calificado, previsto en el Artículo 126 en relación con el 147, sus formas agravadas en razón del parentesco citadas en los artículos 127 y 128 todos del Código Penal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-II.- Violación en su modalidad agravada contenida en el artículo 179 del Código Penal.
+La duración de la medida de tratamiento en centro de internamiento, se fijará teniendo como límites la mitad del mínimo y del máximo de la pena privativa de libertad señalada para la conducta tipificada como delito en las leyes del Estado que resulten aplicables.
 
-III.- Secuestro previsto por los artículos 164, 164 bis fracción l y 165 de Código Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Al ejecutar una medida de tratamiento en centro de internamiento, se deberá computar el período de internamiento preventivo al que hubiere sido sometido el adolescente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Cuando el mínimo o máximo de la pena señalada exceda de quince años, la medida de tratamiento en centro de internamiento se fijará teniendo como límites la tercera parte del mínimo y del máximo de duración de la pena privativa de libertad señalada para la conducta tipificada como delito en las leyes del Estado que resulten aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Cuando con una sola conducta se cometan diversos hechos tipificados como delito, la medida de tratamiento en centro de internamiento se fijará teniendo como límites la mitad o en su caso, la tercera parte del mínimo y del máximo de duración de la pena privativa de libertad que corresponda a la conducta tipificada como delito de mayor penalidad, la cual podrá aumentarse hasta en una cuarta parte pero sin que pueda exceder de quince años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Cuando con pluralidad de conductas se cometan varios hechos tipificados como delito, la medida de tratamiento en centro de internamiento se fijará teniendo como límites la mitad o en su caso, la tercera parte del mínimo y del máximo de duración de la pena que merezca la conducta tipificada como delito de mayor penalidad, la cual podrá aumentarse hasta en una mitad más de las penas que correspondan por cada una de las demás conductas tipificadas como delitos, sin que pueda exceder de quince años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La duración de la medida de tratamiento en centro de internamiento, no podrá ser menor de nueve meses ni mayor de quince años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Al ejecutar una medida de tratamiento en centro de internamiento, se deberá computar el período de internamiento preventivo al que hubiera sido sometido el adolescente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+En el Programa Personalizado de Ejecución, se deberá comprender la participación de los padres, tutores o a falta de éstos los familiares más cercanos del adolescente, con el objeto de lograr la finalidad de la medida de tratamiento en centro de internamiento.
 
 ###### Artículo 92.
 
@@ -1155,8 +1187,16 @@ CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE SEPTIEMBRE DE 2011.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+ÚNICO.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil doce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+
+I. Ensenada, a partir de las cero horas del día tres de mayo del dos mil trece.
+
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil catorce.
