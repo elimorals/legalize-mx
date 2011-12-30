@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3441
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2007-11-21"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE PRESUPUESTO, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2003.
 
@@ -39,19 +39,25 @@ DECRETA:
 
 NÚMERO 279
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MICHOACÁN DE OCAMPO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+LEY DE PRESUPUESTO, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 1°.
 
-La presente Ley tiene por objeto regular la programación, presupuesto, ejercicio, contabilidad, control, vigilancia y evaluación, del Gasto Público Estatal y Municipal, bajo los principios de legalidad, eficiencia, eficacia, calidad en el servicio y economía.
+La presente Ley tiene por objeto regular la programación, presupuesto, ejercicio, contabilidad, control, vigilancia y evaluación, del Gasto Público Estatal y Municipal, bajo los principios de legalidad, eficiencia, eficacia, calidad en el servicio y economía, reconociendo y aplicando lo estipulado en la Ley General de Contabilidad Gubernamental, así como en las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable.
 
 ###### Artículo 2°.
 
 Para los efectos de la presente Ley, se entenderá salvo mención expresa:
 
-I. Ley: La Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+I. Ley: La Ley de Presupuesto, Contabilidad Gubernamental y Gasto Público del Estado de Michoacán de Ocampo;
 
 II. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
@@ -59,11 +65,17 @@ III. Dependencias: Aquellas a las que se refiere el artículo 20 de la Ley Orgá
 
 IV. Entidades: Aquellas a las que se refieren los artículos 7º y 37 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
-V. Organismos Autónomos: El Instituto Electoral del Estado de Michoacán, el Tribunal Electoral de Michoacán, la Universidad Michoacana de San Nicolás de Hidalgo y aquellos que se creen bajo la personalidad jurídica de autónomos, mediante decreto legislativo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI. Secretaría: La Secretaría de Planeación y Desarrollo Estatal;
+V. Organismos Autónomos: El Instituto Electoral del Estado de Michoacán, el Tribunal Electoral del Estado de Michoacán, la Universidad Michoacana de San Nicolás de Hidalgo, el Tribunal de Justicia Administrativa de Michoacán, Comisión Estatal de Arbitraje Médico de Michoacán, Comisión Estatal de Derechos Humanos, Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán; y aquellos que se creen bajo la personalidad jurídica de autónomos, mediante decreto legislativo;
 
-VII. Tesorería: La Tesorería General;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Coordinación de Planeación: La Coordinación de Planeación para el Desarrollo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII. Secretaría: La Secretaría de Finanzas y Administración;
 
 VIII. Municipios: Los ayuntamientos y sus Dependencias y Entidades, conforme a la Ley Orgánica Municipal del Estado de Michoacán de Ocampo
 
@@ -77,35 +89,35 @@ XI. Plantillas de personal: Inventario de plazas autorizadas por la autoridad co
 
 La programación del Gasto Público en el ámbito estatal, se sustentará en el Plan de Desarrollo Integral del Estado de Michoacán, en los programas sectoriales, regionales y especiales que apruebe el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 4°.
 
-La Tesorería, con base en los ingresos disponibles, realizará las actividades de programación y presupuestación del Gasto Público del Gobierno del Estado.
+La Secretaría, con base en los ingresos disponibles, realizará las actividades de programación y presupuestación del Gasto Público del Gobierno del Estado.
 
-Durante el ejercicio del Gasto Público, la Tesorería realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la Secretaría de Contraloría y Desarrollo Administrativo, de acuerdo con lo que señala la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y de la Auditoría Superior de Michoacán, de acuerdo a lo que señala la Ley de Fiscalización Superior del Estado de Michoacán.
+Durante el ejercicio del Gasto Público, la Secretaría realizará las acciones necesarias para su control e igualmente lo hará para su evaluación. Para el ejercicio de esta última función, contará con el apoyo de la Coordinación de Planeación y de la Coordinación de Contraloría, de acuerdo con lo que señala la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo y de la Auditoría Superior de Michoacán, de acuerdo a lo que señala la Ley de Fiscalización Superior del Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 5°.
 
-La Tesorería dictará las disposiciones procedentes a que se sujetarán las dependencias y entidades de la Administración Pública Estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
+La Secretaría dictará las disposiciones procedentes a que se sujetarán las dependencias y entidades de la Administración Pública Estatal, en la elaboración de los proyectos de presupuestos necesarios para el financiamiento de sus programas.
 
-Los programas que contengan nuevos proyectos, fortalecimiento de acciones y todos los de inversión, se deberán someter a la aprobación del Ejecutivo del Estado. Los demás programas deberán contar con la aprobación de los titulares de las dependencias y tratándose de entidades y organismos autónomos, de su órgano de gobierno.
+Los programas que contengan nuevos proyectos, fortalecimiento de acciones y todos los de inversión, se deberán someter a la aprobación del Ejecutivo del Estado por conducto de la Coordinación de Planeación. Los demás programas deberán contar con la aprobación de los titulares de las dependencias y tratándose de entidades y organismos autónomos, de su órgano de gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 6°.
 
-El Ejecutivo del Estado, además de las erogaciones que autorice para el fomento de las actividades económicas, podrá autorizar, por conducto de la Tesorería, la participación estatal en empresas, para aumentar su capital social o bien para adquirirlo todo o parte de éste, siempre y cuando su objeto sea la producción y comercialización de alimentos y granos básicos, actividades forestales, agrícolas, ganaderas, pesqueras y las demás que el Ejecutivo del Estado determine como prioritarias.
+El Ejecutivo del Estado, además de las erogaciones que autorice para el fomento de las actividades económicas, podrá autorizar, por conducto de la Secretaría, la participación estatal en empresas, para aumentar su capital social o bien para adquirirlo todo o parte de éste, siempre y cuando su objeto sea la producción y comercialización de alimentos y granos básicos, actividades forestales, agrícolas, ganaderas, pesqueras y las demás que el Ejecutivo del Estado determine como prioritarias.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 7°.
 
-Sólo se podrán constituir fideicomisos o incrementar la aportación al patrimonio de los existentes, previa autorización del Ejecutivo del Estado, emitida por conducto de la Tesorería, la que en su caso propondrá al Ejecutivo del Estado la modificación o disolución de los mismos cuando así convenga al interés público.
+Sólo se podrán constituir fideicomisos o incrementar la aportación al patrimonio de los existentes, previa autorización del Ejecutivo del Estado, emitida por conducto de la Secretaría, la que en su caso propondrá al Ejecutivo del Estado la modificación o disolución de los mismos cuando así convenga al interés público.
 
-El Ejecutivo del Estado, a través de la Tesorería, será el fideicomitente único en los fideicomisos en que sea parte el Gobierno del Estado o cualquier entidad.
+El Ejecutivo del Estado, a través de la Secretaría, será el fideicomitente único en los fideicomisos en que sea parte el Gobierno del Estado o cualquier entidad.
 
 ###### Artículo 8°.
 
@@ -121,35 +133,49 @@ El Ejecutivo del Estado, por sí o a través de la Comisión de Gasto-Financiami
 
 La Comisión de Gasto-Financiamiento, se integrará con los servidores públicos que establezca el Reglamento y tendrá las atribuciones que el mismo determine.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 11.
 
-La contabilidad de los gobiernos Estatal y municipales, será la fuente para la formulación de la cuenta pública, misma que deberá constituirse con los estados financieros básicos descritos en esta Ley y los informes económicos que determine la Auditoria Superior de Michoacán, en coordinación con la Tesorería y las tesorerías municipales correspondientes.
+La contabilidad gubernamental de los gobiernos Estatal y municipales, será la fuente para la formulación de la cuenta pública, misma que deberá constituirse con los estados financieros elaborados con las características que estipula la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos emitidos por el Consejo Nacional de Armonización Contable, así como en los informes que determine la Auditoría Superior de Michoacán, en coordinación con la Secretaría y las tesorerías municipales correspondientes.
 
 ### CAPÍTULO II. De los Presupuestos de Egresos
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 12.
 
-El Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, será el que contenga el decreto que apruebe el Congreso, a iniciativa del Ejecutivo del Estado, para cubrir durante el período de cada año calendario, el Gasto Público de los Poderes Ejecutivo, Legislativo y Judicial, de las Dependencias, Entidades y Organismos Autónomos.
+El Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, será el que contenga el decreto que apruebe el Congreso, a iniciativa del Ejecutivo del Estado, para cubrir durante el período de cada año calendario, el Gasto Público de los Poderes Ejecutivo, Legislativo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental y las normas y lineamientos del Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
-El Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas, por programas en los que señalen objetivos, metas y techos financieros, de acuerdo a las atribuciones que se derivan de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y en su caso, de la ley, decreto o acuerdo de creación.
+El Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas, por programas en los que señalen objetivos, estrategias, actividades, metas y techos financieros, de acuerdo a las atribuciones que se derivan de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, y en su caso, de la ley, decreto o acuerdo de creación.
 
-Las asignaciones presupuestales en materia de gasto corriente, deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas y partida presupuestal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las asignaciones presupuestales en materia de gasto corriente, deberán realizarse á nivel de unidad programática, unidad responsable de la ejecución de los programas, programa y partida presupuestal.
 
 Las asignaciones presupuestales en materia de inversión pública, deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, programa y partida presupuestal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Tesorería y se enviarán a ésta.
+Los proyectos de presupuesto de los Poderes Legislativo, Ejecutivo y Judicial, de las Dependencias, Entidades y Organismos Autónomos, se elaborarán para cada año calendario, con base en los lineamientos de carácter técnico y financiero que emita la Secretaría y se enviarán a ésta.
 
-La Tesorería, realizará los ajustes que procedan e integrará el Proyecto de Presupuesto de Egresos que se someterá a la consideración del Ejecutivo del Estado, para su envío al Congreso, de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, mismo que lo discutirá con posterioridad a la Ley de Ingresos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La Secretaría, realizará los ajustes que procedan e integrará el Proyecto de Presupuesto de Egresos que se someterá a la consideración del Ejecutivo del Estado, para su envío al Congreso, de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, mismo que lo discutirá con posterioridad a la Ley de Ingresos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 Los proyectos de presupuesto que presenten los Poderes Legislativo y Judicial, que se elaboren de conformidad con los lineamientos de carácter financiero a que se refiere el primer párrafo de este artículo, se integrarán al Proyecto de Presupuesto Egresos que presente el Ejecutivo del Estado al Congreso.
 
-Cuando los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismo autónomos, no presenten su proyecto de presupuesto, la Tesorería propondrá en el proyecto correspondiente únicamente el importe de la asignación autorizada, para el año inmediato anterior.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Cuando los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, no presenten su proyecto de presupuesto, la Secretaría propondrá en el proyecto correspondiente únicamente el importe de la asignación autorizada, para el año inmediato anterior.
 
 ###### Artículo 15.
 
@@ -165,11 +191,11 @@ Los mandos medios y superiores desde el nivel de jefe de departamento o equivale
 
 En cualquier caso, los sueldos y todo ingreso que los servidores públicos perciban por los conceptos señalados en el párrafo anterior, deberán guardar congruencia con la estructura orgánica autorizada y estar sustentados en los principios de racionalidad, austeridad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 16.
 
-La Tesorería, realizará estudios pertinentes con el propósito de formular una política de gasto público razonable respecto al desenvolvimiento de los indicadores de impacto en la sociedad y de contar con criterios financieros, que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado.
+La Secretaría, realizará estudios pertinentes con el propósito de formular una política de gasto público razonable respecto al desenvolvimiento de los indicadores de resultados e impacto en la sociedad y de contar con criterios financieros, que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado.
 
 ###### Artículo 17.
 
@@ -183,7 +209,9 @@ La iniciativa de decreto que contenga el proyecto de Presupuesto de Egresos del 
 
 I. Exposición de motivos en la que se señalen los efectos políticos, económicos y sociales que se pretendan lograr;
 
-II. Descripción de los programas y subprogramas que integran el proyecto de presupuesto de egresos, señalando objetivos y prioridades globales, y las unidades programáticas presupuestarias responsables de su ejecución;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Descripción de los programas y subprogramas que integran el proyecto de presupuesto de egresos, señalando objetivos, estrategias, actividades, indicadores y metas, y las unidades programáticas presupuestarias responsables de su ejecución;
 
 III. Explicación y justificación de los principales programas, en especial de aquellos que abarquen dos o más ejercicios presupuestales;
 
@@ -205,17 +233,19 @@ XI. Toda información que se considere útil para presentar la propuesta en form
 
 Las previsiones de egresos se clasificarán separadamente por unidad programática especial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 19.
 
-El Ejecutivo del Estado publicará, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el presupuesto de egresos aprobado por el Congreso y las Plantilla de personal. También se publicarán las modificaciones al tabulador, que se autoricen en el transcurso del año.
+El Ejecutivo del Estado publicará, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el presupuesto de egresos aprobado por el Congreso y las Plantillas de personal. También se publicarán las modificaciones al tabulador, que se autoricen en el transcurso del año.
 
 ### CAPÍTULO III. Del Ejercicio del Gasto Público Estatal
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 20.
 
-El ejercicio del gasto público con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá ajustarse a la asignación de cada unidad programática presupuestaria, en los términos de lo dispuesto por el artículo 13 de esta Ley, con base en la estacionalidad de los ingresos estimados por la Tesorería.
+El ejercicio del Gasto Público con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá ajustarse a la asignación de cada unidad programática presupuestaria, en los términos de lo dispuesto por el artículo 13 de esta Ley, con base en la estacionalidad de los ingresos estimados por la Secretaría.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2007)</small>
 
@@ -239,25 +269,33 @@ El Gobierno del Estado, realizará erogaciones adicionales a las previstas en el
 
 Estas erogaciones serán independientes de las que se tengan que realizar por concepto de participaciones y aportaciones federales que correspondan a los municipios, en los términos de las disposiciones aplicables y las que se deriven de ingresos destinados a un fin específico.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 25.
 
-Los titulares de las unidades de apoyo del Ejecutivo, de las dependencias, de las entidades; así como los funcionarios y órganos competentes de los organismos autónomos, en el ejercicio del gasto público autorizado, durante el año de calendario a que corresponda el presupuesto, previa autorización de la Tesorería podrán realizar transferencias presupuestales conforme a lo siguiente:
+Los titulares de las unidades de apoyo del Ejecutivo, de las dependencias, de las entidades, así como los funcionarios y órganos competentes de los organismos autónomos, en el ejercicio del gasto público autorizado, durante el año de calendario a que corresponda el presupuesto, previa autorización de la Secretaría podrán realizar transferencias presupuestales conforme a lo siguiente:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 I. Entre partidas de los capítulos de gasto corriente, para otorgar suficiencia a los requerimientos de sus unidades administrativas;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+
 II. De los capítulos de gasto corriente a los capítulos de inversión, con el objeto de fortalecer el desarrollo institucional y la ampliación de metas de los programas de obras y acciones, como producto de los ahorros efectivos respecto de la asignación autorizada;
 
-III. La Tesorería, podrá realizar los movimientos presupuestarios necesarios en la Unidad Programática Presupuestaria de Deuda Pública y Obligaciones Financieras, con el objeto de que se cumpla con los compromisos asumidos; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. La Secretaría, podrá realizar los movimientos presupuestarios necesarios en la Unidad Programática Presupuestaria de Deuda Pública y Obligaciones Financieras, con el objeto de que se cumpla con los compromisos asumidos; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 IV. Dentro de los capítulos de gasto de inversión, los titulares de las unidades programáticas presupuestarias a cuyo cargo esté la ejecución de los programas de inversión en obras y acciones, de acuerdo a las prioridades que determine el Ejecutivo del Estado, podrán realizar transferencias entre programas de la misma dependencia o entidad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 26.
 
-La Tesorería podrá realizar ampliaciones automáticas cuando existan incrementos salariales o en los precios de servicios básicos, de materiales, suministros, servicios generales y servicios de deuda, adicionales al gasto corriente presupuestado por ser indispensables para el cumplimento de las funciones de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos.
+La Secretaría podrá realizar ampliaciones automáticas cuando existan incrementos salariales o en los precios de servicios básicos, de materiales, suministros, servicios generales y servicios de deuda, adicionales al gasto corriente presupuestado por ser indispensables para el cumplimiento de las funciones de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos.
 
 ###### Artículo 27.
 
@@ -267,11 +305,13 @@ Estas reducciones deberán realizarse en forma selectiva, sin afectar los progra
 
 Tratándose de los Poderes Legislativo y Judicial y de los Organismos Autónomos, las reducciones que en su caso se requiera realizar en sus presupuestos, serán definidas por ellos.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 28.
 
-La afectación presupuestal y la ministración de los fondos con cargo al Presupuesto de Egresos del Gobierno del Estado, será autorizada y ejecutada por la Tesorería, con base en los documentos de afectación presupuestaria.
+La afectación presupuestal y la ministración de los fondos con cargo al Presupuesto de Egresos del Gobierno del Estado, será autorizada y ejecutada por la Secretaría, con base en los documentos de afectación presupuestaria.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 Los titulares y demás funcionarios competentes de los Poderes Legislativo, Ejecutivo y Judicial, de las dependencias, entidades y organismos autónomos, serán los responsables de la aplicación y uso de los recursos que ejerzan.
 
@@ -285,15 +325,19 @@ II. Los documentos comprobatorios de la adquisición de bienes y servicios, esta
 
 III. Las erogaciones por concepto de servicios personales, contarán con la nómina, el nombramiento expedido por la autoridad competente o el contrato de prestación de servicios.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 30.
 
-La ministración de los fondos con cargo al presupuesto aprobado para los Poderes Legislativo, Ejecutivo y Judicial y Organismos Autónomos, así como las transferencias que se hagan a los Municipios, podrán realizarse sin que para ello se requiera presenten a la Tesorería la documentación comprobatoria a que se refiere el artículo anterior, sin embargo, ello no las libera de las obligaciones que derivan de esa disposición y del artículo siguiente de esta Ley.
+La ministración de los fondos con cargo al presupuesto aprobado para los Poderes Legislativo, Ejecutivo y Judicial y Organismos Autónomos, así como las transferencias que se hagan a los Municipios, podrán realizarse sin que para ello se requiera presenten a la Secretaría la documentación comprobatoria a que se refiere el artículo anterior, sin embargo, ello no las libera de las obligaciones que derivan de esa disposición y del artículo siguiente de esta Ley.
 
 ###### Artículo 31.
 
 La documentación comprobatoria del ejercicio del gasto se conservará por los Poderes Legislativo, Ejecutivo y Judicial, por las Dependencias, Entidades y Organismos Autónomos, hasta el treinta y uno de diciembre del sexto año posterior al ejercicio fiscal de que se trate.
 
-La documentación comprobatoria de la adquisición de bienes de dominio privado, deberá enviarse a la Oficialía Mayor, para su guarda y custodia, hasta que los bienes de que se trate, sean desincorporados del patrimonio del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La documentación comprobatoria de la adquisición de bienes de dominio privado, deberá enviarse a la Secretaría, para su guarda y custodia, hasta que los bienes de que se trate, sean desincorporados del patrimonio del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -303,9 +347,13 @@ Se autorizarán las ministraciones de fondos con cargo al Presupuesto de Egresos
 
 I. Se ejerza el presupuesto conforme a las disposiciones legales y administrativas respectivas;
 
-II. Los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, a los que se asignan recursos en el Presupuesto de Egresos del Gobierno del Estado, envíen a la Tesorería los informes o documentos que les sean requeridos con relación a la ejecución del mismo y al avance de las metas señaladas en los programas que estén a su cargo; y,
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-III. Cuando del análisis de la ejecución del presupuesto de egresos, que realice la Tesorería, resulte que se cumplió con las metas de los programas establecidos, y no se detecten desviaciones en su ejecución o en la aplicación de los fondos correspondientes.
+II. Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, a los que se asignan recursos en el Presupuesto de Egresos del Gobierno del Estado, envíen a la Secretaría los informes o documentos que les sean requeridos con relación a la ejecución del mismo y al avance de las metas señaladas en los programas que estén a su cargo; y,
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. Cuando del análisis de la ejecución del presupuesto de egresos, que realice la Secretaría, resulte que se cumplió con las metas de los programas establecidos, y no se detecten desviaciones en su ejecución o en la aplicación de los fondos correspondientes.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -313,65 +361,89 @@ III. Cuando del análisis de la ejecución del presupuesto de egresos, que reali
 
 Concluida la vigencia del Presupuesto de Egresos del Gobierno del Estado para cada año, sólo procederá hacer con base en éste, pago por los conceptos efectivamente devengados en el año que corresponda.
 
-Para estos efectos, los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, presentarán a la Tesorería, los documentos de afectación presupuestaria, por gastos devengados en el ejercicio, a más tardar el treinta y uno de diciembre del ejercicio vigente, en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Para estos efectos, los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, presentarán a la Secretaría los documentos de afectación presupuestaria, por gastos devengados en el ejercicio, a más tardar el treinta y uno de diciembre del ejercicio vigente, en los términos de esta Ley.
 
 En caso de incumplimiento, las obligaciones se cubrirán con cargo al presupuesto que se asigne para el año siguiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 34.
 
-Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, que habiendo recibido recursos para el financiamiento de su operación y que al treinta y uno de diciembre no hayan sido devengados, deberán reintegrar el importe disponible a la Tesorería, durante los primeros cinco días hábiles del mes de enero siguiente.
+Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, que habiendo recibido recursos para el financiamiento de su operación y que al treinta y uno de diciembre no hayan sido devengados, deberán reintegrar el importe disponible a la Secretaría, durante los primeros cinco días hábiles del mes de enero siguiente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
-Los Poderes Legislativo, Ejecutivo y Judicial, las dependencias, entidades y organismos autónomos, no podrán contraer obligaciones que comprometan recursos financieros adicionales a los montos que se autoricen en el Presupuesto de Egresos del Gobierno del Estado; no podrán celebrar convenios o contratos que comprometan recursos financieros con cargo a ejercicios futuros, sin contar con la previa autorización de la Tesorería.
+Los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias, Entidades y Organismos Autónomos, no podrán contraer obligaciones que comprometan recursos financieros adicionales a los montos que se autoricen en el Presupuesto de Egresos del Gobierno del Estado; no podrán celebrar convenios o contratos que comprometan recursos financieros con cargo a ejercicios futuros, sin contar con la previa autorización de la Secretaría.
 
-Será indispensable la autorización previa y expresa de la Tesorería, en los casos siguientes:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-I. Para la celebración de convenios o acuerdos de coordinación de acciones entre la Federación, el Gobierno del Estado y los municipios, en los que se comprometan recursos financieros estatales, para lo que será indispensable la comparecencia del Tesorero General; y,
+Será indispensable la autorización previa y expresa de la Secretaría en los casos siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+I. Para la celebración de convenios o acuerdos de coordinación de acciones entre la Federación, el Gobierno del Estado y los municipios, en los que se comprometan recursos financieros estatales para lo que será indispensable la comparecencia del Secretario de Finanzas y Administración; y,
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II. Para la modificación de las proporciones de aportación estatal, que se deriven de los convenios o acuerdos, o cuando el incremento de la aportación de un año para otro, sea superior al incremento medio del Presupuesto de Egresos del Gobierno del Estado, para el año de que se trate.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
 
-Para el ejercicio del Gasto Público, los Poderes Legislativo, Ejecutivo y Judicial, las dependencias y entidades, además de sujetarse a las previsiones de esta Ley, deberán observar las disposiciones que al efecto expida la Tesorería.
+Para el ejercicio del Gasto Público, los Poderes Legislativo, Ejecutivo y Judicial, las Dependencias y Entidades, además de sujetarse a las previsiones de esta Ley, deberán observar las disposiciones que al efecto expida la Secretaría, además de las que emita la Ley General de Contabilidad Gubernamental y las normas y lineamientos del Consejo Nacional de Armonización Contable.
 
-Los Poderes Legislativo y Judicial, y los organismos autónomos del Estado, se sujetarán a las disposiciones de esta Ley y a las administrativas que emitan la Tesorería, que en lo conducente les sean aplicables.
+Los Poderes Legislativo y Judicial y los Organismos Autónomos del Estado, se sujetarán a las disposiciones de esta Ley y a las administrativas que emita la Secretaría, además de, en lo conducente, las impuestas por la Ley General de Contabilidad Gubernamental y el Consejo Nacional de Armonización Contable, que en lo conducente les sean aplicables.
 
-### CAPÍTULO IV. De la Contabilidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. De la Contabilidad Gubernamental
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 37.
 
-La contabilidad de la Hacienda Pública Estatal, consistirá en el registro sistematizado de las operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto, y será llevada por la Tesorería.
+La contabilidad gubernamental de la Hacienda Pública Estatal, consistirá en el registro sistematizado de las Operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto, y será llevada por la Secretaría, observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos del Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 38.
+
+El registro del gasto público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas, programa y partidas, tratándose del gasto corriente.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
-Artículos 38. El registro del gasto público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas y partidas, tratándose del gasto corriente.
-
 Por lo que se refiere al gasto de inversión, el registro del gasto público, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas, programa, obra o acción y partidas.
 
-Lo dispuesto en los dos párrafos que anteceden, se realizará de conformidad con las normas de carácter administrativo que establezca la Tesorería, para la operación del sistema de ejercicio presupuestal y de los sistemas contables de las dependencias y entidades.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Las entidades y los organismos autónomos, llevarán su contabilidad con la amplitud establecida en esta Ley y las normas administrativas que en esta materia expida la Tesorería.
+Lo dispuesto en los dos párrafos que anteceden, se realizará de conformidad con las normas de carácter administrativo que establezca la Secretaría, para la operación del sistema de ejercicio presupuestal y de los sistemas contables de las Dependencias y Entidades.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las Entidades y los Organismos Autónomos, llevarán su contabilidad con la amplitud establecida en esta Ley y las normas administrativas que en esta materia expida la Secretaría, así como las que expida la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable.
 
 Las dependencias y las unidades de apoyo directo del Ejecutivo del Estado, únicamente llevarán registros a que se refiere (sic) los párrafos primero y segundo de este artículo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 39.
 
-En la contabilidad de la Hacienda Pública Estatal, simultáneamente al registro de la afectación presupuestal por amortización de la deuda pública, se registrará el movimiento contable de disminución de pasivo.
+En la contabilidad gubernamental de la Hacienda Pública Estatal, simultáneamente al registro de la afectación presupuestal por amortización de la deuda pública, se registrará el movimiento contable de disminución de pasivo.
 
 ###### Artículo 40.
 
 Los bienes que se adquieran se deben registrar al costo de adquisición o al valor que se determine mediante avalúo, en caso de que sean producto de donación, expropiación o adjudicación. Cuando se enajenen se registrarán al valor que se determine conforme a avalúo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 41.
 
-Los gastos deben ser reconocidos y registrados en el momento en que se devenguen en los términos de esta Ley, y demás disposiciones legales y administrativas aplicables.
-
-Los ingresos deberán ser recibidos y registrados inmediatamente, en los términos de esta Ley y demás disposiciones legales administrativas aplicables.
+La contabilización de las transacciones de gasto se hará conforme a la fecha de su realización, independientemente de la de su pago, y la del ingreso se registrará cuando exista jurídicamente el derecho de cobro, de acuerdo con los momentos contables de los ingresos y de los egresos, establecidos por el Consejo Nacional de Armonización Contable.
 
 ###### Artículo 42.
 
@@ -379,21 +451,29 @@ Los métodos de cuantificación y procedimientos contables, deberán ser los apr
 
 En el supuesto de que existan cambios que afecten la comparabilidad de la información, se establecerá claramente su justificación y el efecto de los mismos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 43.
 
-La contabilidad se llevará con base acumulativa, para determinar costos y facilitar la formulación de los estados financieros y demás informes, que permitan conocer la situación y el resultado de la gestión financiera, así como evaluar el ejercicio del Gasto Público de acuerdo con los programas, objetivos, metas y unidades responsables de su ejecución.
+La contabilidad se llevará con base acumulativa, para determinar costos y facilitar la formulación de los estados financieros y demás informes, que permitan conocer la situación y el resultado de la gestión financiera, así como evaluar el ejercicio del Gasto Público de acuerdo con los programas, objetivos, estrategias, actividades, metas y unidades responsables de su ejecución.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 44.
 
-Para evaluar el cumplimiento de las normas en materia de contabilidad y el ejercicio del gasto público, las dependencias, entidades y organismos autónomos, presentarán los informes que les requiera la Tesorería, en la forma y plazos que se determine.
+Para evaluar el cumplimiento de las normas en materia de contabilidad gubernamental y el ejercicio del Gasto Público, las dependencias, entidades y organismos autónomos, presentarán los informes que les requiera la Secretaría, en la forma y plazos que se determine.
 
-Las entidades y los organismos autónomos, además de los informes específicos que se les requiera, presentarán los estados financieros básicos, en la forma y plazos que se determinen.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las entidades y los organismos autónomos, además de los informes específicos que se les requiera, presentarán los estados financieros, dentro de los diez días naturales posteriores al cierre del mes de que se trate, elaborados con las características que estipula la Ley General de Contabilidad Gubernamental.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 Los Poderes Legislativo y Judicial, presentarán los informes únicamente para efectos de su incorporación en la Cuenta Pública de la Hacienda Estatal, que debe rendirse al Congreso.
 
-### CAPÍTULO V. Del Presupuesto, Contabilidad y Gasto Público, en el Ámbito Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO V. Del Presupuesto, Contabilidad Gubernamental y Gasto Público, en el Ámbito Municipal
 
 ###### Artículo 45.
 
@@ -423,11 +503,15 @@ El Ayuntamiento, a través del Síndico, será el fideicomitente único en los f
 
 Las autoridades municipales, al elaborar sus proyectos de presupuesto de egresos, aplicarán, en lo conducente, las disposiciones contenidas en esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 51.
 
-El presupuesto de egresos municipal se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas, por programas en los que señalen objetivos, metas y techos financieros, de acuerdo a las funciones que se derivan de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, y en su caso, de la ley, decreto o acuerdo de creación.
+El presupuesto de egresos municipal se deberá estructurar por unidad programática presupuestaria, por unidad responsable de los programas, por programas en los que señalen objetivos, estrategias, actividades, metas y techos financieros, de acuerdo a las funciones que se derivan de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, y en su caso, de la Ley, decreto o acuerdo de creación.
 
-Las asignaciones presupuestales en materia de gasto corriente, deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas y partida presupuestal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las asignaciones presupuestales en materia de gasto corriente, deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, programa y partida presupuestal.
 
 Las asignaciones presupuestales en materia de inversión pública, deberán realizarse a nivel de unidad programática, unidad responsable de la ejecución de los programas, programa y partida presupuestal.
 
@@ -439,11 +523,11 @@ En los proyectos de presupuesto que presenten los Municipios, se adjuntarán los
 
 Los tabuladores y plantillas correspondientes, deberán adjuntarse a los presupuestos autorizados que se envíen al Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 53.
 
-Los presupuestos de los municipios, serán aprobados por los ayuntamientos, por lo que respecta al primer año de gestión dentro de los dos primeros meses del año y en el segundo y tercer año de gestión en el mes de diciembre del año anterior al del ejercicio de que se trate; previamente los de las entidades paramunicipales serán aprobados por sus órganos de gobierno.
+Los presupuestos de los municipios, serán aprobados por los ayuntamientos, en el mes de diciembre del año anterior al del ejercicio fiscal de que se trate; previamente los de las entidades paramunicipales serán aprobados por sus órganos de gobierno.
 
 La presentación del proyecto anual de presupuesto de egresos municipal, al Ayuntamiento deberá hacerse en los términos de esta Ley.
 
@@ -481,7 +565,9 @@ I. Entre partidas de los capítulos de gasto corriente, para otorgar suficiencia
 
 II. De los capítulos de gasto corriente a los capítulos de inversión, con el objeto de fortalecer el desarrollo institucional y la ampliación de metas en los programas de obras y acciones, como producto de los ahorros efectivos respecto de la asignación autorizada;
 
-III. La Tesorería, podrá realizar los movimientos presupuestarios necesarios en la Unidad Programática Presupuestaria de Deuda Pública y Obligaciones Financieras, con el objeto de que se cumpla con los compromisos asumidos; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+III. La Tesorería Municipal, podrá realizar los movimientos presupuestarios necesarios en la Unidad Programática Presupuestaria de Deuda Pública y Obligaciones Financieras, con el objeto de que se cumpla con los compromisos asumidos; y,
 
 IV. Dentro del capítulo de gasto de inversión; los titulares de las unidades programáticas presupuestarias a cuyo cargo esté la ejecución de los programas de inversión en obras y acciones, de acuerdo a las prioridades que determine el Presidente Municipal, podrán realizar transferencias entre programas de la misma Dependencia o Entidad.
 
@@ -493,9 +579,11 @@ A la solicitud de autorización para modificación presupuestal, se deberá acom
 
 Dentro de los quince días siguientes a la fecha en que se efectúe la modificación presupuestal, se deberá informar, con toda la documentación relativa, a la Auditoría Superior de Michoacán.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 62.
 
-La documentación comprobatoria del ejercicio del gasto se conservará por los Municipios, hasta el treinta y uno de diciembre del tercer año posterior al ejercicio fiscal de que se trate.
+La documentación comprobatoria del ejercicio del gasto se conservará por los Municipios, hasta el treinta y uno de diciembre del tercer año posterior al ejercicio fiscal de que se trate, en tanto se determine el plazo por el Consejo Nacional de Armonización Contable.
 
 La documentación comprobatoria de la adquisición de bienes de dominio privado, deberá enviarse a la Sindicatura, para su guarda y custodia, hasta que los bienes de que se trate, sean desincorporados del patrimonio municipal.
 
@@ -507,9 +595,11 @@ Los Municipios presentarán los documentos de afectación presupuestaria, por ga
 
 En caso contrario, las obligaciones se cubrirán con cargo al presupuesto que se asigne para el año siguiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 64.
 
-La contabilidad de la Hacienda Pública Municipal, consistirá en el registro sistematizado de las operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto.
+La contabilidad gubernamental de la Hacienda Pública Municipal, consistirá en el registro sistematizado de las operaciones financieras, en las cuentas de activo, pasivo, patrimonio, ingreso, costo y gasto, observándose para tal efecto, y en lo conducente, lo dispuesto por la Ley General de Contabilidad Gubernamental y las normas y lineamientos del Consejo Nacional de Armonización Contable.
 
 ###### Artículo 65.
 
@@ -517,7 +607,9 @@ El registro del Gasto Público Municipal, comprenderá las asignaciones, comprom
 
 Por lo que se refiere al gasto de inversión, el registro del Gasto Público Municipal, comprenderá las asignaciones, compromisos y ejercicio de las partidas presupuestarias por unidad programática presupuestaria, unidad responsable de la ejecución de los programas, programa, obra o acción y partidas.
 
-Los Municipios llevarán su contabilidad con la amplitud establecida en esta Ley y las normas administrativas que en esta materia expida la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Los Municipios llevarán su contabilidad gubernamental con la amplitud establecida en esta Ley y las normas administrativas que en esta materia expida la Tesorería Municipal, así como las que expida la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos que emita el Consejo Nacional de Armonización Contable.
 
 ###### Artículo 66.
 
@@ -527,7 +619,9 @@ Con base en los ingresos disponibles, los Municipios realizarán las actividades
 
 Para la evaluación del ejercicio del Gasto Público, los municipios contarán con el apoyo de la Auditoria Superior de Michoacán, de acuerdo a lo que señala la Ley de Fiscalización Superior del Estado de Michoacán.
 
-Las disposiciones administrativas para la programación, formulación de presupuestos, ejercicio y control del gasto y la contabilidad, serán emitidas por la Auditoria Superior de Michoacán.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Las disposiciones administrativas para la programación, formulación de presupuestos, ejercicio y control del gasto y la contabilidad, serán emitidas por la Auditoría Superior de Michoacán, con base en lo establecido en la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos del Consejo Nacional de Armonización Contable.
 
 Las entidades paramunicipales presentarán a la Tesorería Municipal los informes que les sean requeridos, únicamente para efectos de su incorporación en la Cuenta Pública de la Hacienda Municipal, que debe rendirse al Congreso.
 
@@ -535,9 +629,11 @@ Las entidades paramunicipales presentarán a la Tesorería Municipal los informe
 
 La vigilancia del ejercicio del Gasto Público municipal y de las entidades paramunicipales y Organismos Autónomos, será ejercida internamente conforme a las disposiciones de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y de la Ley de Fiscalización Superior del Estado de Michoacán.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 69.
 
-Las Dependencias, Entidades y Organismos Autónomos municipales, llevarán su contabilidad en los términos de esta Ley, y las normas administrativas que en esta materia expida la Auditoría Superior de Michoacán.
+Las Dependencias, Entidades y Organismos Autónomos municipales, llevarán su contabilidad en los términos de esta Ley, y las normas administrativas que en esta materia expida la Auditoría Superior de Michoacán, con base en lo establecido en la Ley General de Contabilidad Gubernamental y las Normas y Lineamientos del Consejo Nacional de Armonización Contable.
 
 ###### Artículo 70.
 
@@ -545,9 +641,11 @@ Cuando los ayuntamientos reciban recursos provenientes de fuente estatal o feder
 
 ### CAPÍTULO VI. De las Responsabilidades
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 71.
 
-Los titulares y demás funcionarios competentes de las Dependencias, entidades y Organismos Autónomos, estatales y municipales y de los Poderes Legislativo y Judicial, serán los responsables de la observación de esta Ley; en caso de inobservancia, incurrirán en las responsabilidades previstas en la Ley de Fiscalización Superior del Estado de Michoacán y en la Ley de Responsabilidad de los Servidores Públicos del Estado de Michoacán.
+Los titulares y demás funcionarios competentes de las Dependencias, Entidades y Organismos Autónomos, estatales y municipales y de los Poderes Legislativo y Judicial, serán los responsables de la observancia de esta Ley y de la Ley General de Contabilidad Gubernamental; en caso de inobservancia, incurrirán en las responsabilidades previstas en la Ley de Fiscalización Superior del Estado de Michoacán y en la Ley de Responsabilidad de los Servidores Públicos del Estado de Michoacán y las que apliquen en el orden Federal.
 
 ## TRANSITORIOS
 
@@ -634,3 +732,13 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del H. Congreso del Estado de Michoacán de Ocampo.
