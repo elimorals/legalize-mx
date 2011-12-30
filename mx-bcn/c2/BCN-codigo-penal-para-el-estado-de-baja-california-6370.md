@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-12-23"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3093,13 +3093,9 @@ III.- Quien dirija, regentee, patrocine, administre, supervise o financie direct
 
 El sujeto activo de este delito se le impondrá la pena de prisión de ocho a quince años y de mil a dos mil quinientos días multa, así como clausura definitiva de los establecimientos descritos en la fracción III.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
-
 ###### Artículo 265.
 
-Trata de personas menores de dieciocho años de edad o de quienes no tienen la capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo: Comete el delito de trata de persona menor de dieciocho años de edad o quien no tiene la capacidad para comprender el significado del hecho, o quien no tiene capacidad para resistirlo, quien traslade, acoja, ofrezca, promueva, consiga, facilite, entregue o reciba para sí o para un tercero, a una persona, para someterla a explotación sexual, trabajos o servicios forzados, esclavitud o prácticas análogas a la misma, o para la extracción de cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado.
-
-A quien cometa este delito se le impondrá prisión de ocho a quince años de prisión y de mil a dos mil días multa, así como el decomiso de todos los bienes producto de las conductas antes descritas.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 Artículo 265 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
@@ -3149,13 +3145,9 @@ II.- A quien induzca, solicite o reclute a una persona para que con otra, comerc
 
 III.- Quien dirija, patrocine, regentee, administre, supervise o financie directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia dedicados a explotar la prostitución en cualquier forma u obtenga cualquier beneficio de sus productos. Asimismo, se procederá a la clausura definitiva de los establecimientos descritos en esta fracción.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
-
 ###### Artículo 268.
 
-Trata de personas. Comete el delito de trata de personas quien traslade, acoja, ofrezca, promueva, consiga, facilite, entregue o reciba para sí o para un tercero, a una persona, para someterla a explotación sexual, trabajos o servicios forzados, esclavitud o prácticas análogas a la misma, o para la extracción de cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado.
-
-Al sujeto activo de este delito se le impondrá una pena de prisión de cuatro a nueve años y de cuatrocientos a mil días multa, así como el decomiso de todos los bienes producto de las conductas antes descritas.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
@@ -4758,3 +4750,7 @@ P.O. 2 DE DICIEMBRE DE 2011.
 P.O. 23 DE DICIEMBRE DE 2011.
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial de Estado de Baja California.
