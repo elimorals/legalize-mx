@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-organismo-publico-descentralizado-55540
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-11"
-last_updated: "2007-05-11"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE QUERETARO" -SESEQ-
 
-REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE QUERETARO" (SESEQ)
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE QUERÉTARO" (SESEQ)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 11 de mayo de 2007.
 
@@ -95,6 +95,10 @@ IV.- Por un representante de los trabajadores, acreditado a través del Sindicat
 
 V.- Por un representante de la Secretaría de Salud del Gobierno Federal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+La Junta de Gobierno contará con un Secretario Técnico, que será el Subsecretario de Vinculación, Administración y Finanzas de la Secretaría de Salud, el cual estará presente en las sesiones de la Junta y contará con derecho a voz pero sin voto.
+
 La vigilancia interna del organismo quedará a cargo de un Comisario que será designado por la Contraloría Estatal, quien tendrá las funciones de control y fiscalización de los recursos presupuestados.
 
 ###### Artículo 6.
@@ -113,11 +117,31 @@ Las resoluciones de la Junta de Gobierno se adoptarán por mayoría de votos de 
 
 Los acuerdos serán remitidos para su observancia y ejecución al Coordinador General.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 9.
 
-De cada sesión de la Junta de Gobierno, el Secretario Técnico, designado por el titular del organismo con aprobación de la Junta de Gobierno en cada sesión, levantará el acta correspondiente que incluya los asuntos tratados, así como, las resoluciones adoptadas y será firmada por todos los miembros asistentes.
+El Secretario Técnico tendrá las siguientes facultades y obligaciones:
 
-Los acuerdos de la Junta de Gobierno versarán sobre los asuntos incluidos en el orden del día, salvo los que puedan incluirse en asuntos generales que se darán a conocer en la sesión con ese carácter.
+I. Convocar, a petición del Presidente o del Secretario de Salud, a las sesiones de la Junta de Gobierno, integrando el respectivo orden del día y señalando el lugar, fecha y hora para su desahogo;
+
+II. Levantar y mantener bajo su custodia, las actas de sesión que incluya los asuntos tratados, así como las resoluciones adoptadas;
+
+III. Llevar el registro y seguimiento de los acuerdos tomados en las sesiones, resguardando los libros que los contengan;
+
+IV. Verificar que se reúna el quórum requerido para el desarrollo de las sesiones;
+
+V. Auxiliar al Presidente o al Secretario de Salud, en todo aquello que requieran para el desarrollo de las sesiones de la Junta de Gobierno;
+
+VI. Vigilar y revisar la correcta ejecución de los acuerdos tomados por la Junta de Gobierno;
+
+VII. Ser el vínculo de comunicación y coordinación entre la Coordinación General y la Junta de Gobierno para la ejecución de los acuerdos tomados por ésta;
+
+VIII. Ser el vínculo de comunicación y coordinación entre SESEQ y la Secretaría de Salud;
+
+IX. Tener acceso a la información que necesite para el desarrollo de las sesiones, la cual deberá ser proporcionada por la Coordinación General o sus Direcciones, y
+
+X. Coordinar, en forma general, los trabajos necesarios para la organización, desarrollo y ejecución de las sesiones de la Junta de Gobierno.
 
 ### Capítulo III
 
@@ -133,7 +157,7 @@ La Coordinación General estará a cargo de un Coordinador General, quien tendr�
 
 I.- Representar a SESEQ en los asuntos que se deriven de las funciones asignadas a éste;
 
-II.- Convocar a las sesiones ordinarias de la Junta de Gobierno de SESEQ cuando menos con cinco días hábiles de anticipación y las extraordinarias cuando se requieran, cuando menos con veinticuatro horas de anticipación;
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2011)
 
 III.- Nombrar y remover a los servidores públicos de SESEQ hasta el nivel de jefe de departamento y resolver sobre las propuestas que éstos formulen para la designación de su personal de confianza, así como, determinar sus atribuciones, ámbito de competencia y retribuciones con apego al presupuesto aprobado y a consideración de la Junta de Gobierno de SESEQ y demás disposiciones aplicables;
 
@@ -193,15 +217,29 @@ III.- Dirección de Fomento y Regulación Sanitaria;
 
 IV.- Dirección del Régimen Estatal de Protección Social en Salud;
 
-V.- Dirección de Recursos Humanos;
+> <small>(REFORMADA [N. DE E., ADICIONADA], P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VI.- Dirección de Finanzas;
+V.- Dirección General de Recursos Humanos, Finanzas y Planeación;
 
-VII.- Dirección de Planeación;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-VIII.- Jurisdicciones;
+VI.- Dirección de Recursos Humanos;
 
-IX.- Hospitales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VII.- Dirección de Finanzas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Dirección de Planeación;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IX.- Jurisdicciones, y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+X.- Hospitales.
 
 Asimismo, SESEQ contará con una Subdirección de Adquisiciones, la cual dependerá directamente del Coordinador General.
 
@@ -355,11 +393,35 @@ X.- Autorizar previo acuerdo con el Coordinador General, la asignación de recur
 
 XI.- Las demás que le señale este Reglamento, otras disposiciones aplicables y el Coordinador General.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 19 Bis.
+
+Es competencia de la Dirección General de Recursos Humanos, Finanzas y Planeación, en lo subsecuente la Dirección General, lo siguiente:
+
+l. Vigilar, coordinar, organizar, revisar y supervisar el adecuado desempeño de las actividades realizadas por las unidades administrativas que tenga adscritas;
+
+II. Coordinar y organizar la administración de los recursos humanos asignados a SESEQ;
+
+III. Supervisar y organizar la integración, distribución, ejercicio, consolidación y control del programa presupuesto y del programa de inversión de SESEQ, de conformidad con el presupuesto asignado al mismo;
+
+IV. Coordinar y supervisar el proceso de planeación y programación de SESEQ en el ámbito federal, estatal y municipal;
+
+V. Proporcionar la información que le requiera el Coordinador General o el Secretario Técnico de la Junta de Gobierno;
+
+VI. Informar al Coordinador General y al Secretario Técnico de la Junta de Gobierno sobre el desempeño de las unidades administrativas adscritas a su cargo, cuando éstos así lo soliciten, y
+
+VII. Las demás que le señale este Reglamento, otras disposiciones aplicables, el Coordinador General o el Secretario Técnico de la Junta de Gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 20.
 
-Es competencia de la Dirección de Recursos Humanos:
+La Dirección de Recursos Humanos dependerá directamente de la Dirección General, y tendrá como atribuciones las siguientes:
 
-I.- Coordinar y organizar la administración de los recursos humanos asignados a SESEQ, así como, proporcionar las prestaciones sociales conforme a las normas, políticas y procedimientos establecidos en la materia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+I. Proporcionar las prestaciones sociales conforme a las normas, políticas y procedimientos establecidos en la materia;
 
 II.- Dirigir y coordinar la operación y sistematización del pago de remuneraciones al personal de SESEQ y vigilar la aplicación del tabulador de sueldos y catálogo de puestos con base en la normatividad establecida en la materia;
 
@@ -369,27 +431,43 @@ IV.- Elaborar las Actas Administrativas por violaciones a las disposiciones labo
 
 V.- Establecer, impulsar y ejecutar el plan anual de capacitación del personal adscrito a SESEQ; y
 
-VI.- Las demás que le señale este Reglamento, otras disposiciones aplicables y el Coordinador General.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+VI. Las demás que le señale este Reglamento, otras disposiciones aplicables y el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 21.
 
-Es competencia de la Dirección de Finanzas:
+La Dirección de Finanzas dependerá directamente de la Dirección General, y tendrá como atribuciones las siguientes:
 
 I.- Implementar y vigilar la operatividad de los sistemas de control financiero y presupuestal, de activo fijo e inventarios y el sistema integral de contabilidad de conformidad con las normas y lineamientos emitidos en la materia;
 
-II.-·Supervisar y organizar la integración, distribución, ejercicio, consolidación y control del programa-presupuesto y del programa de inversión de SESEQ, de conformidad con el presupuesto asignado al mismo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-III.- Administrar los recursos financieros, humanos y materiales que la Federación asigna al Sistema Estatal de Protección Social en Salud para su funcionamiento operativo;
+II.- Integrar, distribuir, ejercer y controlar, previo acuerdo con el Director General, el programa-presupuesto y el programa de inversión de SESEQ, de conformidad con el presupuesto asignado al mismo;
 
-IV.- Elaborar los informes y estados financieros, y presentarlos al Coordinador General y Directores de área de SESEQ; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-V.- Las demás que le señale este Reglamento, otras disposiciones aplicables y el Coordinador General.
+III.- Administrar los recursos financieros y materiales que la Federación asigna al Sistema Estatal de Protección Social en Salud para su funcionamiento operativo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+IV.- Elaborar los informes y estados financieros, y presentarlos al Director General, y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+V.- Las demás que le señale este Reglamento, otras disposiciones aplicables y el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 22.
 
-Es competencia de la Dirección de Planeación:
+La Dirección de Planeación dependerá directamente de la Dirección General, y tendrá como atribuciones las siguientes:
 
-I.- Coordinar y supervisar el proceso de planeación y programación de SESEQ en el ámbito federal, estatal y municipal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+l.- Llevar a cabo el proceso de planeación y programación de SESEQ en el ámbito federal, estatal y municipal;
 
 II.- Asesorar y dar apoyo técnico en la planeación y programación de los servicios de salud a las áreas de SESEQ;
 
@@ -415,7 +493,9 @@ XII.- Participar en la realización de los concursos de obra, vigilando que se c
 
 XIII.- Realizar el seguimiento y la evaluación de las ampliaciones y remodelaciones, así como la construcción y arrendamiento de unidades médicas autorizadas, y en su caso, proponer las correcciones pertinentes; y
 
-XIV.- Las demás que le señale este Reglamento, otras disposiciones aplicables y el Coordinador General.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XIV. Las demás que le señale este Reglamento, otras disposiciones aplicables y el Director General.
 
 ###### Artículo 23.
 
@@ -486,3 +566,11 @@ Dr. Felipe Rafael Ascencio Ascencio
 Secretario de Salud y Coordinador General de Servicios de Salud del Estado de Querétaro.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
