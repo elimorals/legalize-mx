@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2010-12-31"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -379,7 +381,7 @@ Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del E
 
 Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de enero a octubre, que deberán ser presentadas por sus Titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado, dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 9o.
 
@@ -757,7 +759,7 @@ X.- Las demás que le señale esta Ley, su Reglamento o le encomiende el Preside
 
 ### CAPÍTULO V. DE LA GRAN COMISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 40.
 
@@ -1097,7 +1099,7 @@ El Órgano de Fiscalización Superior del Estado es la unidad de fiscalización,
 
 Dicho Órgano será la autoridad competente para iniciar y sustanciar previo acuerdo del Congreso del Estado, los procedimientos para determinar las responsabilidades administrativas de los servidores públicos que deriven del resultado de la fiscalización superior, en términos de la Ley de la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ### CAPÍTULO XI. DE LA SECRETARÍA GENERAL
 
@@ -1113,7 +1115,7 @@ La administración del Congreso del Estado estará a cargo de un Secretario Gene
 
 El Secretario General dependerá de la Gran Comisión y coordinará sus actividades con la Mesa Directiva del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 62.
 
@@ -1389,7 +1391,7 @@ Dada en el Palacio del Poder Legislativo a los veintinueve días del mes de Juli
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de julio de mil novecientos noventa y nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE AGOSTO DE 2001.
 
@@ -1535,7 +1537,7 @@ Se derogan las disposiciones que se opongan al presente ordenamiento.
 
 P.O. 16 DE ABRIL DE 2010.
 
-DECRETO POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 43 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1545,7 +1547,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE ABRIL DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES XVII A XX DEL ARTICULO 43 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES XVII A XX DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1555,7 +1557,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE ABRIL DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES XIX A XXI DEL ARTICULO 43 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES XIX A XXI DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1582,3 +1584,87 @@ PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Es
 SEGUNDO.- Para efectos de la aplicación de las disposiciones contenidas en el presente Decreto, se deberán observar en lo conducente, lo previsto en los Artículos Transitorios del Decreto que reforma diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el 16 de junio de 2010.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las reformas materia del presente Decreto.
+
+P.O. DE 30 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, expedida el día veintiséis de noviembre de mil novecientos noventa y nueve, publicada en el Periódico Oficial del Estado el día veintiséis del citado mes y año.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento Interior del Congreso del Estado Libre y Soberano de Puebla, continuará aplicándose en lo que no se oponga a la presente Ley y en tanto se expida el nuevo Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+El Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla de la presente Ley, deberá aprobarse dentro de los sesenta días hábiles siguientes a la publicación de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Estatuto del Servicio Profesional de Carrera Legislativa, deberá aprobarse dentro de los ciento ochenta días hábiles siguientes a la publicación de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se modifica la denominación, se amplía la competencia y se crean las siguientes Comisiones Generales:
+
+La Comisión de Comunicaciones y Transportes modificará su denominación y competencia dividiéndose en Comisión de Comunicaciones e Infraestructura y en Comisión de Transportes.
+
+La Comisión de Desarrollo Urbano y Medio Ambiente modificará su denominación y competencia dividiéndose en Comisión de Desarrollo Urbano y en Comisión de Medio Ambiente.
+
+La Comisión de Desarrollo Económico y Turismo modificará su denominación y competencia dividiéndose en Comisión de Desarrollo Económico y en Comisión de Turismo.
+
+Por su parte la Comisión de Gobernación, Justicia y Puntos Constitucionales modificará su denominación y competencia, estableciéndose la Comisión de Gobernación y Puntos Constitucionales, y la Comisión de Procuración y Administración de Justicia.
+
+La Comisión de Hacienda Pública y Patrimonio Estatal y Municipal modificará su denominación, estableciéndose la Comisión de Hacienda y Patrimonio Municipal.
+
+Se crean las Comisiones Generales de Vivienda, Asuntos Metropolitanos, Grupos Vulnerables y Organizaciones No Gubernamentales.
+
+Las Comisiones Generales señaladas empezarán a funcionar con dicha denominación y competencias conforme a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se modifica la denominación, se amplía la competencia y se crean los siguientes Comités:
+
+El Comité de Administración del Patrimonio y de los Recursos Materiales, Técnicos y Humanos; modificará su denominación y competencia, estableciéndose el Comité de Adquisiciones, Arrendamientos y Servicios.
+
+Por su parte los Comités de Archivo y Biblioteca, y de Asuntos Editoriales y Crónica Parlamentaria se fusionan para crear el Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Parlamentaria.
+
+El Comité de Informática modificará su denominación, estableciéndose el Comité de Tecnologías de la información.
+
+Los Comités señalados empezarán a funcionar con dicha denominación y competencias conforme a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+La integración de las Comisiones y Comités a que se refiere esta Ley, deberá ser presentada por la Junta de Gobierno y Coordinación Política ante el Pleno en la segunda sesión que se celebre a partir de la entrada en vigor de la presente Ley.
+
+En el acuerdo de integración de las Comisiones y Comités deberá establecerse el plazo de transición y remisión de la información y documentación de las Comisiones y Comités existentes a los de nueva creación que les correspondan en el ámbito de su competencia.
+
+###### ARTÍCULO DÉCIMO.
+
+Las áreas de nueva creación iniciarán su funcionamiento a partir de la designación y nombramiento de los titulares respectivos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los titulares de los Órganos Técnicos del Congreso del Estado, nombrados en esta Legislatura concluirán sus funciones al término de la LVIII Legislatura o hasta que se nombren los nuevos titulares, con excepción de los funcionarios del Órgano de Fiscalización Superior del Estado de Puebla.
+
+Los Titulares de las Direcciones Generales de Apoyo Parlamentario, Vinculación Institucional e Informática Legislativa; de Comunicación Social; y de Coordinación Administrativa, que a la entrada en vigor de la presente Ley se encuentren en funciones, ocuparán las Direcciones Generales de Servicios Legislativos, de Comunicación Social y Relaciones Públicas; y de Administración y Finanzas, respectivamente, así como de la Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Todos los actos suscritos por la Gran Comisión y que a la entrada en vigor de la presente Ley sigan surtiendo sus efectos legales se entenderán referidos a la Junta de Gobierno y Coordinación Política.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Por única ocasión la Comisión Permanente convocará a los Coordinadores de Grupos y Representantes Legislativos con la finalidad de integrar la Junta de Gobierno y Coordinación Política, con el objeto de que ésta someta a consideración del Pleno la elección del Presidente del Órgano de Gobierno, conforme a lo previsto en la presente Ley.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+La Comisión Permanente, antes de la apertura del primer Periodo Ordinario de Sesiones correspondiente al año de 2012, convocará a los Diputados a sesión previa con la finalidad de elegir a la Mesa Directiva que estará en funciones a partir del día 15 de enero y hasta el 31 de julio de dicho año.
