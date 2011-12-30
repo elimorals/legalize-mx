@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2010-12-31"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -539,9 +539,9 @@ Tratándose de operaciones con inmuebles se acompañarán con el aviso los sigui
 
 a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo determinado por las autoridades catastrales, mismas que aplicarán los valores unitarios de suelo y construcciones vigentes en la fecha de operación.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
-b) Avaluó con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y administración del Gobierno del Estado, a excepción de las adquisiciones de viviendas a través de créditos hipotecarios y dación en pago, que podrán ser de avalúos expedidos por las unidades de valuación a que se refiere la Ley de Transparencia y Fomento a la Competencia en el Crédito Garantizado.
+b) Avalúo con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y Administración del Gobierno del Estado, a excepción de las adquisiciones de viviendas de interés social a través de créditos hipotecarios y dación en pago, que otorguen únicamente los organismos de servicio social que no rebasen hasta un monto de $350,000.00.
 
 c) Certificado de no adeudo predial.
 
@@ -1732,3 +1732,9 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil once.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día primero de enero del año dos mil doce.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
