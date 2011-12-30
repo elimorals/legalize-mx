@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2011-06-24"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE YUCATAN
 
-REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE YUCATAN
+REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 24 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -1237,11 +1235,19 @@ Requisitos administrativos para el tránsito de vehículos
 
 Todo vehículo de combustión, híbrido o mixto o eléctrico, para que pueda transitar en el Estado de Yucatán, deberá cumplir con los requisitos administrativos exigidos para tal efecto, por la Ley y este Reglamento.
 
-Autoridad facultada para expedir los documentos, placas y hologramas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Autoridad facultada para expedir o refrendar los documentos, placas, calcomanías y hologramas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 72.
 
-El Poder Ejecutivo, por conducto de la Secretaria, expedirá los documentos, placas, calcomanías y hologramas necesarios, para que los vehículos de combustión, híbridos o mixtos o eléctricos puedan transitar en el Estado de Yucatán, previo el cumplimiento de los requisitos correspondientes.
+El Poder Ejecutivo, por conducto de la Secretaria, expedirá o refrendará los documentos, placas, calcomanías y hologramas necesarios, para que los vehículos de combustión, híbridos o mixtos o eléctricos puedan transitar en el Estado de Yucatán, previo el cumplimiento de los requisitos correspondientes.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+El refrendo de los documentos administrativos para el tránsito de vehículos a que se refiere el párrafo anterior, extenderá por tres años la vigencia de las placas, calcomanías y documentos, previo el cumplimiento de los requisitos establecidos en este Reglamento.
 
 Las calcomanías, placas y hologramas relativos a los requisitos administrativos para el tránsito de esos vehículos que expida la Secretaría, deberán instalarse en los vehículos en los lugares autorizados para tal efecto en este Reglamento.
 
@@ -1253,11 +1259,13 @@ Se prohíbe la utilización de la tarjeta de circulación, placas, calcomanías 
 
 Cuando se detecte el uso de la tarjeta de circulación, placas, calcomanías u hologramas en vehículos distintos para los cuales fueron expedidos, se procederá a recoger y retenerlos, al igual que el Vehículo, hasta en tanto el propietario acredite con la documentación respectiva la legítima propiedad del mismo.
 
-Acciones prohibidas respecto de los documentos, placas y hologramas
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Acciones prohibidas respecto de los documentos, placas, calcomanías y Hologramas
 
 ###### Artículo 74.
 
-Toda persona que modifique, altere, clone o falsifique los documentos, placas y hologramas que se requieren para transitar en el Estado de Yucatán, serán puestos a disposición del Ministerio Público para los efectos correspondientes.
+Toda persona que modifique, altere, clone o falsifique los documentos, placas, calcomanías y hologramas que se requieren para transitar en el Estado de Yucatán, serán puestos a disposición del Ministerio Público para los efectos correspondientes.
 
 ### CAPÍTULO II. De la tarjeta de circulación
 
@@ -1269,11 +1277,13 @@ Todo vehículo de combustión, híbrido o mixto o eléctrico que transite en el 
 
 La tarjeta de circulación deberá conservarse siempre en buen estado y el conductor del vehículo tiene la obligación de entregarla a los agentes, cuando se la soliciten.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 Expedición de las tarjetas de circulación
 
 ###### Artículo 76.
 
-Las tarjetas de circulación tendrán la misma vigencia que las placas de circulación y se expedirán juntamente con éstas, en los casos de emplacamiento o reemplacamiento, con las excepciones previstas en este Reglamento.
+Las tarjetas de circulación tendrán la misma vigencia que las placas de circulación y se expedirán juntamente con éstas, en los casos de emplacamiento, reemplacamiento o refrendo, con las excepciones previstas en este Reglamento.
 
 Información contenida en la tarjeta de circulación
 
@@ -1475,7 +1485,9 @@ Placas de servicio público
 
 Las placas de servicio público son las destinadas al transporte público de pasajeros o de carga que operan mediante concesión o permiso, en los términos de las leyes en la materia.
 
-#### SECCIÓN TERCERA. Del emplacamiento y reemplacamiento
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN TERCERA. Del emplacamiento, reemplacamiento y refrendo
 
 Requisitos para emplacar un vehículo
 
@@ -1520,6 +1532,14 @@ IV. Tratándose de un vehículo de procedencia extranjera, se deberá acreditar 
 V. Los demás que señalen otras disposiciones aplicables.
 
 La documentación a que se refiere este artículo, deberá presentarse en original y copia legible tamaño carta para su cotejo por la Secretaría y una vez realizado el cotejo, se devolverán los originales, y la Secretaría retendrá las copias respectivas.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Requisitos para refrendar las placas de circulación de un vehículo
+
+###### Artículo 94 Bis.
+
+Para refrendar las placas de circulación de un vehículo en el Estado de Yucatán, el propietario, posesionario o representante legal del mismo, deberá cumplir con los requisitos para reemplacar un vehículo previstos en el artículo 94 de este Reglamento.
 
 #### SECCIÓN CUARTA. De las placas de circulación para vehículos de personas con discapacidad
 
@@ -1649,9 +1669,13 @@ Renovación del holograma que acredita la Póliza de seguro
 
 La renovación del holograma de seguro contra daños a terceros, se realizará de manera anual, al momento de cubrir el impuesto sobre la tenencia o uso de vehículos. Para la expedición de este holograma deberán cubrirse todas las multas, recargos y actualizaciones pendientes por cubrir.
 
-### CAPÍTULO VIII. Del calendario de expedición de documentos, placas, calcomanías y hologramas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-Períodos de expedición de documentos, placas, calcomanías y hologramas
+### CAPÍTULO VIII. Del calendario de expedición o refrendo de documentos, placas, calcomanías y hologramas
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Períodos de expedición o refrendo de documentos, placas, calcomanías y hologramas
 
 ###### Artículo 107.
 
@@ -1659,11 +1683,17 @@ El Poder Ejecutivo, por conducto de la Secretaría, realizará cada tres años e
 
 El cambio de los hologramas que acreditan la verificación de contaminantes y el seguro contra daños a terceros, se realizará de manera anual previo cumplimiento de los requisitos y pago de los derechos correspondientes.
 
-Calendario de expedición de documentos, placas, calcomanías y hologramas
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+El Poder Ejecutivo podrá refrendar la tarjeta de circulación, placas y calcomanía correspondiente a la placa de circulación al vencimiento de sus vigencias, en la forma prevista en el artículo siguiente.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Calendario de expedición o refrendo de documentos, placas, calcomanías y hologramas
 
 ###### Artículo 108.
 
-La Secretaria expedirá en el mes de diciembre del año que corresponda, el calendario de expedición de los documentos, placas, calcomanías y hologramas, así como los plazos y términos para realizar los trámites correspondientes, mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+La Secretaria expedirá en el mes de diciembre del año que corresponda, el calendario de expedición o refrendo de los documentos, placas, calcomanías y hologramas, así como los plazos y términos para realizar los trámites correspondientes, mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ### CAPÍTULO IX. De la inscripción de vehículos
 
@@ -1853,27 +1883,31 @@ III. Para el caso de tutela, deberá ser demostrado a través del documento corr
 
 #### SECCIÓN CUARTA. De las licencias de conducir
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 Vigencia de las licencias de conducir
 
 ###### Artículo 125.
 
-Las licencias de conducir tendrán una vigencia de dos años y podrán ser renovadas previo cumplimiento de los requisitos establecidos en este Reglamento.
+Las licencias de conducir tendrán una vigencia de dos, tres o cinco años, conforme a lo establecido en el artículo 126 siguiente y podrán ser renovadas previo cumplimiento de los requisitos establecidos en este Reglamento.
 
-Clasificación de las licencias de conducir
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Clasificación y vigencia de las licencias de conducir
 
 ###### Artículo 126.
 
 Las licencias de conducir se clasifican de la siguiente manera:
 
-l. Automovilista: autoriza la conducción de automóviles y camionetas con capacidad de hasta 750 kilogramos, siempre que dichos vehículos no estén destinados a la prestación de un servicio público de transporte;
+I. Automovilista: autoriza la conducción de automóviles y camionetas con capacidad de hasta 750 kilogramos, siempre que dichos vehículos no estén destinados a la prestación de un servicio público de transporte. La vigencia de esta licencia podrá ser de 2, 3 ó 5 años;
 
-II. Chofer: autoriza la conducción de toda clase de vehículos de servicio particular de pasaje, carga o que exceda de 750 kilogramos;
+II. Chofer: autoriza la conducción de toda clase de vehículos de servicio particular de pasaje, carga o que exceda de 750 kilogramos. La vigencia de esta licencia podrá ser de 2, 3 ó 5 años;
 
-III. Operador del servicio público de pasaje: autoriza la conducción de vehículos del servicio público de transporte de pasajeros en el Estado, incluyendo los de turismo;
+III. Operador del servicio público de pasaje: autoriza la conducción de vehículos del servicio público de transporte de pasajeros en el Estado, incluyendo los de turismo. La vigencia de esta licencia podrá ser de 2, 3 ó 5 años;
 
-IV. Operador del servicio público de carga: autoriza la conducción de vehículos del servicio público de transporte de carga en el Estado, incluyendo los de arrastre, y
+IV. Operador del servicio público de carga: autoriza la conducción de vehículos del servicio público de transporte de carga en el Estado, incluyendo los de arrastre. La vigencia de esta licencia podrá ser de 2, 3 ó 5 años, y
 
-V. Vehículos menores motorizados: que autoriza a conductores de vehículos de motor de dos, tres o cuatro ruedas, conducido por manubrios.
+V. Vehículos menores motorizados: autoriza a conductores de vehículos de motor de dos, tres o cuatro ruedas, conducido por manubrios. La vigencia de esta licencia podrá ser de 2, 3 ó 5 años.
 
 Vehículo cuya conducción autoriza la licencia de chofer
 
@@ -1929,9 +1963,11 @@ La documentación a que se refiere este artículo, deberá presentarse en origin
 
 Requisitos para obtener la licencia de conducir para personas con discapacidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 129.
 
-La Secretaría podrá expedir a las personas con discapacidad licencia o permiso para conducir vehículos hasta de 2,000 kilogramos, siempre que cumplan con lo dispuesto en el artículo anterior y con los requisitos siguientes:
+La Secretaría podrá expedir a las personas con discapacidad licencia, con una vigencia de 2, 3 ó 5 años, o permiso, con una vigencia de seis meses, para conducir vehículos con capacidad de hasta 750 kilogramos, siempre que cumplan con lo dispuesto en el artículo anterior y con los requisitos siguientes:
 
 I. Entregar una constancia expedida por un médico especialista sobre su discapacidad, que acredite su aptitud para conducir vehículos de combustión, híbridos o mixtos o eléctricos;
 
@@ -2739,7 +2775,9 @@ Los conductores, sin perjuicio de las demás previstas en la Ley y en este Regla
 
 I. Conducir sujetando con ambas manos el control de la dirección del Vehículo y mantener una posición adecuada;
 
-II. Entregar al Agente o Perito la copia de la Póliza de seguro, cuando incurra en un hecho o accidente de tránsito;
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+II. Entregar al Agente o Perito la Póliza de seguro, cuando incurra en un hecho o accidente de tránsito;
 
 III. Iniciar la marcha con precaución y gradualmente, cediendo el paso a los peatones y vehículos que se encuentren en movimiento;
 
@@ -3157,9 +3195,9 @@ II. El Vehículo que circunde en el carril central, tendrá las siguientes opcio
 
 a) Circular al derredor de la glorieta continuando de frente;
 
-b) Circular al derredor de la glorieta, de manera tal que al cambiar de dirección a la izquierda para incorporarse a una calle transversal, deban ceder el paso al Vehículo que transita por el carril contiguo, y
+b) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
-c) Circular al derredor de la glorieta, de manera tal que al cambiar de dirección a la derecha, para incorporarse a una calle transversal, deban ceder el paso al Vehículo que transita por el carril contiguo.
+c) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
 
 III. El Vehículo que circunde en el carril derecho, tendrá las siguientes opciones:
 
@@ -3759,13 +3797,13 @@ Se prohíbe el uso de luces direccionales o de emergencia en casos innecesarios.
 
 ### CAPÍTULO IX. De la carga de los vehículos
 
-Ocupación máxima del Vehículo
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Prohibición de llevar objetos que obstruyan la visibilidad
 
 ###### Artículo 277.
 
-Se prohíbe conducir vehículos con mayor número de personas de las que quepan debidamente sentadas en los asientos.
-
-También queda prohibido llevar bultos u objetos que obstruyan la visibilidad del Conductor al frente, a los lados o en la parte posterior del Vehículo.
+Se prohíbe llevar bultos u objetos que obstruyan la visibilidad del Conductor al frente, a los lados o en la parte posterior del Vehículo.
 
 Carga en vehículos de servicio particular
 
@@ -5083,7 +5121,7 @@ Para transportar materiales u objetos repugnantes a la vista y al olfato será n
 
 I. Llevarlos en dispositivos perfectamente cerrados;
 
-II. Contar con el permiso de la Secretaría, que fijará el horario y derrotero correspondiente, y
+II. Contar con el permiso de la Secretaria, que fijará el horario y derrotero correspondiente, y
 
 III. Sujetará a las disposiciones del permiso correspondiente y a las de la Ley de Salud del Estado vigente.
 
@@ -6978,3 +7016,13 @@ C. LUIS FELIPE SAIDÉN OJEDA
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 > <small>N. DE E. VEASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PAGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.</small>
+
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan a las disposiciones del Reglamento de la Ley de Tránsito y Vialidad del Estado de Yucatán, contenidas en este Decreto.
