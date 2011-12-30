@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2011-07-13"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2783,9 +2783,11 @@ m) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
 n) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
-> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-D. En materia de Tránsito y Transporte:
+D. En materia de Transporte:
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 I. Expedición de Licencia de Chofer, tipo A, para
 
@@ -2799,6 +2801,8 @@ previo examen médico y pericial: 15 salarios mínimos
 
 Canje trianual: 7 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 II. Expedición de Licencia de Chofer, tipo B, para
 
 conducir toda clase de vehículos de motor de
@@ -2811,6 +2815,8 @@ previo examen médico y pericial: 14 salarios mínimos
 
 Canje trianual: 6 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 III. Expedición de Licencia de Automovilista, tipo C,
 
 para conducir únicamente automóviles de servicio
@@ -2820,6 +2826,8 @@ particular, de acuerdo con el Reglamento de la Ley de
 Tránsito y Transporte, previo examen médico pericial: 12 salarios mínimos
 
 Canje trianual: 5 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 IV. Expedición de Licencia de Motociclista, tipo D,
 
@@ -2831,17 +2839,23 @@ y Transporte, previo examen médico y pericial: 8 salarios mínimos
 
 Canje trianual: 4 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 V. Expedición de Licencia de Motorista, para conducir
 
 maquinaria pesada para construcción: 7 salarios mínimos
 
 Canje trianual: 3 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 VI. Expedición de duplicados de cualquier tipo de
 
 licencias de las señaladas en las fracciones anteriores
 
 de este artículo: 4 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 VII. Por la expedición de los siguientes permisos:
 
@@ -2851,17 +2865,7 @@ renovables, a personas mayores de 16 y
 
 menores de 18 años: 6 salarios mínimos
 
-b) Para ocupar zonas para estacionamiento exclusivo
-
-en las vías públicas, cuando éstas resulten necesarias
-
-para la prestación de un servicio público, de acuerdo
-
-con el Reglamento de la Ley de Tránsito y Transporte,
-
-por vehículo: 6 salarios mínimos
-
-Por revalidación anual: 3 salarios mínimos
+b) (DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 c) Para establecer el servicio al público de
 
@@ -2888,6 +2892,8 @@ f) Para establecer escuelas de enseñanza para
 conducir vehículos: 200 salarios mínimos
 
 Por revalidación anual: 50 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 VIII. Por servicios de Transporte Público:
 
@@ -2929,6 +2935,8 @@ croquis correspondiente por concesión
 
 autorizada por el estado: 20 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 IX. Por la prestación de otros servicios:
 
 a) Expedición de constancias, certificados médicos y
@@ -2937,19 +2945,31 @@ documentos de cualquier otra naturaleza: 2 salarios mínimos
 
 b) Expedición de permisos diversos, por día: 2 salarios mínimos
 
-c) Por la utilización de grúas oficiales para el
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-retiro de vehículos accidentados, infraccionados o
+c) Por la utilización de grúas oficiales
 
-por orden judicial, dentro de los límites de la
+para el retiro de vehículos
 
-ciudad de que se trate: 4 salarios mínimos
+4 salarios mínimos
 
-d) Por utilización del servicio oficial de depósito
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-y custodia de vehículos accidentados, infraccionados
+d) Por la utilización de servicio
 
-o por orden judicial, por día: 0.5 salarios mínimos
+oficial de depósito y custodia de
+
+vehículos, conforme a los supuestos
+
+y consecuencias previstas en la Ley
+
+y Reglamento de la Materia.
+
+Por día.
+
+0.5 salario mínimo
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 X. Por el otorgamiento de una concesión o permisos en trámite
 
@@ -2977,6 +2997,8 @@ Tipo "C": 300 salarios mínimos
 
 e) Rural mixto carga-pasaje: 250 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 XI. Por la transferencia, por fallecimiento
 
 del titular, de una concesión para prestar el
@@ -2989,6 +3011,8 @@ suburbano, foráneo, carga, escolar, exclusivo
 
 de turismo o transporte de personal de empresas: 50 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 XII. Por la autorización para prestar el servicio
 
 de depósito y custodia de vehículos, de acuerdo
@@ -2996,6 +3020,8 @@ de depósito y custodia de vehículos, de acuerdo
 con el Reglamento de la Ley de Tránsito y Transporte: 500 salarios mínimos
 
 Revalidación anual: 150 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 XIII. Por la transferencia por cesión de derechos de
 
@@ -3108,6 +3134,38 @@ Por el registro y revalidación anual de los empleados de las prestadoras de ser
 Registro Individual 5 salarios mínimos.
 
 Revalidación individual 5 salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+C. En materia de Tránsito:
+
+I. Por la expedición de permisos para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuando éstas resulten necesarias para la prestación de un servicio público, de conformidad con el Reglamento respectivo.
+
+6 salarios mínimos
+
+Por la revalidación anual.
+
+3 salarios mínimos
+
+II. Por la prestación de los siguientes servicios:
+
+a) Expedición de constancias, certificados médicos y documentos de cualquier naturaleza:
+
+2 salarios mínimos
+
+b) Expedición de permisos diversos, por día:
+
+2 salarios mínimos
+
+c) Por la utilización de grúas oficiales para el retiro de vehículos conforme a los supuestos y consecuencias previstas en la Ley y Reglamento de la Materia:
+
+4 salarios mínimos
+
+d) Por la utilización del servicio social de depósito y custodia de vehículos.
+
+Por día:
+
+0.5 salario mínimo
 
 ### CAPÍTULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACION
 
@@ -6450,3 +6508,9 @@ G.O. 13 DE JULIO DE 2011.
 Artículo primero. El presente decreto entrará en vigor el día primero de enero de dos mil doce.
 
 Artículo segundo. Sólo durante el primer año de entrada en vigor de este decreto, y para efectos de los cálculos relativos al artículo 136M, cuando se haga referencia al impuesto causado en el ejercicio inmediato anterior, se considerará como tal, el impuesto causado en términos de la Ley del Impuesto sobre Tenencia o Uso de Vehículos publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980.
+
+G.O. 30 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
