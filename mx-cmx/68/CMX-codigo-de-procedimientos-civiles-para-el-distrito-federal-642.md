@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2011-06-15"
+last_updated: "2011-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "1932-08-29"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2011.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -10444,9 +10444,13 @@ TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura del Dis
 
 CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Decreto.
 
-QUINTO.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 27 de enero de 2012.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
-SEXTO.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto del presente decreto.
+Quinto.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71Bis, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 1 de enero de 2013; con excepción del artículo 72 de la Ley Orgánica del Tribunal superior de Justicia del Distrito Federal, que entrará en vigor el 27 de enero de 2012.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+Sexto.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto de este decreto.
 
 G.O. 23 DE MAYO DE 2011.
 
@@ -10461,3 +10465,9 @@ Primero. El presente decreto entrará en vigor al día siguiente a su publicaci�
 Segundo. Todos los procesos iniciados con anterioridad a la entrada en vigor a la presente reforma se concluirán conforme a las disposiciones anteriores.
 
 Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 30 DE DICIEMBRE DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
