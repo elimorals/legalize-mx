@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2009-12-31"
+last_updated: "2011-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -41,13 +41,11 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 1o.
 
-La Hacienda Pública de los Municipios del Estado de Michoacán, percibirá en cada Ejercicio Fiscal para cubrir el gasto público y demás obligaciones a su cargo, los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos, aprovechamientos, participaciones en ingresos federales y estatales, aportaciones federales y transferencias por convenio e ingresos extraordinarios que anualmente se establezcan en la Ley de Ingresos para los Municipios del Estado de Michoacán.
+La Hacienda Pública de los Municipios del Estado de Michoacán, percibirá en cada Ejercicio Fiscal para cubrir el gasto público y demás obligaciones a su cargo, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones en ingresos federales y estatales, aportaciones federales y transferencias por convenio e ingresos extraordinarios que anualmente se establezcan en la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
 ###### ARTICULO 2o.
 
@@ -1021,6 +1019,10 @@ Para los efectos del párrafo anterior, los organizadores presentarán a la teso
 
 Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones del Código Fiscal Municipal.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 82 BIS.- Tratándose de las contribuciones por concepto de Impuestos a que se refiere este Título que no hayan sido cubiertas en la fecha o dentro del plazo fijado por esta Ley, se causarán accesorios por concepto de multas y recargos de acuerdo a las tasas que establezca la Ley de Ingresos Municipal.
+
 ## TITULO TERCERO. DE LOS DERECHOS
 
 ### CAPITULO I. POR OCUPACION DE LA VIA PUBLICA Y SERVICIO DE MERCADOS
@@ -1577,6 +1579,10 @@ Los derechos por la prestación de estos servicios se cubrirá en la Tesorería 
 
 Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones contenidas en el Código Fiscal Municipal.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 151 BIS.- Tratándose de las contribuciones por concepto de Derechos a que se refiere este Título que no hayan sido cubiertas en la fecha o dentro del plazo fijado por esta Ley, se causarán accesorios por concepto de multas y recargos de acuerdo a las tasas que establezca la Ley de Ingresos Municipal.
+
 > <small>(ADICIONADO CON ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO XIV. POR LA AUTORIZACION DE HORARIO EXTRAORDINARIO A ESTABLECIMIENTOS QUE REALICEN ACTIVIDADES EMPRESARIALES Y DE PRESTACION DE SERVICIOS
@@ -2086,3 +2092,13 @@ La presente Ley, entrará en vigor el día 1° primero de enero de 2010, previa 
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta del presente Decreto a los Ayuntamientos del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día 1° de enero de 2012, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta a los Ayuntamientos del Estado de Michoacán de Ocampo.
