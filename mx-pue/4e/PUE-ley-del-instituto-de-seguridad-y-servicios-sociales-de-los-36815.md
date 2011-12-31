@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3681
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2005-12-30"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -267,6 +267,10 @@ d) Fallecimiento.
 
 - Ascendencia en primer grado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+e) Cesantía en Edad Avanzada.
+
 2. Pago póstumo.
 
 3. Reintegro del valor de sus aportaciones al fondo de pensiones por separación.
@@ -274,6 +278,18 @@ d) Fallecimiento.
 4. Créditos a corto, mediano y largo plazo.
 
 5. Estancias infantiles.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+6. Créditos Extraordinarios por Desastres Naturales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+7. Servicios Turísticos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+8. Servicios Funerarios.
 
 ###### ARTÍCULO 13.
 
@@ -447,11 +463,11 @@ VI.- En general, vigilar ilimitadamente en cualquier tiempo las operaciones del 
 
 VII.- Informar periódicamente o cuando lo soliciten sus designantes de los actos que realicen en cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 28.
 
-La Junta Directiva sesionará por lo menos una vez al mes en forma ordinaria, y extraordinaria cuantas veces sea necesario. Serán convocadas por el Director General, quién deberá asistir a todas las sesiones.
-
-Las sesiones serán válidas con la asistencia por lo menos de cinco consejeros, tres de los cuales deberán ser representantes del Estado.
+La Junta Directiva sesionará por lo menos una vez cada dos meses en forma ordinaria, y extraordinaria cuantas veces sea necesario. Serán convocadas por el Director General, quien deberá asistir a todas las sesiones.
 
 ###### ARTÍCULO 29.
 
@@ -547,6 +563,10 @@ El Instituto elaborará mensualmente los estados financieros y contables de sus 
 
 La caja y control de los bienes del Instituto será independiente de la contabilidad del Estado. Las Instituciones Públicas que coticen al Instituto tienen derecho a solicitar las auditorias que estimen convenientes, siendo el costo de las mismas por cuenta de los solicitantes.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Las organizaciones sindicales representadas en la Junta Directiva, tienen derecho a solicitar la revisión de las auditorías practicadas por el auditor externo asignado al Instituto.
+
 ### CAPÍTULO IV. DE LAS CUOTAS Y APORTACIONES
 
 ###### ARTÍCULO 37.
@@ -555,13 +575,27 @@ Para los efectos de esta Ley se considera sueldo base, el señalado en el nombra
 
 La base del cálculo para determinar las cuotas y aportaciones, no podrá ser, en ningún caso, inferior al monto diario del salario mínimo vigente en la zona geográfica en la que se encuentra la Ciudad de Puebla, ni superior a los diecisiete salarios mínimos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Cuando el sueldo base sea menor al límite inferior señalado en el párrafo anterior, las Instituciones Públicas cubrirán las cuotas y aportaciones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 38.
 
-Los trabajadores a que se refiere el artículo 3 de esta Ley, deberán cubrir una cuota obligatoria del 9.50 % del sueldo básico mensual que disfrutan, salvo renuncia por escrito porque coticen en otra Institución de Seguridad Social. Esta cuota se aplicará en la siguiente forma:
+Los trabajadores a que se refiere el artículo 3 de esta Ley, deberán cubrir una cuota obligatoria del 13.00% del sueldo básico mensual que disfrutan, salvo renuncia por escrito porque coticen en otra Institución de Seguridad Social.
 
-I.- 4.50% para cubrir los servicios médicos;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-II.- 4.00% para el fondo de pensiones y jubilaciones;
+Esta cuota se aplicará en la siguiente forma:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+I.- 6.50% para cubrir los servicios médicos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Il.- 5.50% para el fondo de pensiones y jubilaciones;
 
 III.- 0.50% para cubrir las prestaciones relativas a préstamos a corto, mediano y largo plazo; y
 
@@ -573,29 +607,47 @@ Los porcentajes señalados en las fracciones I, III y IV incluyen gastos especí
 
 La cuota y aportación que comprende este capítulo por lo que se refiere a jubilados, pensionados y pensionistas del Instituto, se cubrirá en la siguiente forma:
 
-I.- Los jubilados, pensionados y pensionistas deberán enterar una cuota obligatoria del 3.50% del monto de la pensión que disfruten, que se destinará al fondo de pensiones y jubilaciones; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-II.- Las Instituciones Públicas deberán enterar una aportación obligatoria del 8.50% de dicho monto, que se destinará a la prestación de servicios médicos.
+I.- Los jubilados, pensionados y pensionistas deberán enterar una cuota obligatoria del 4.50% del monto de la pensión que disfruten, se destinará al fondo de pensiones y jubilaciones; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+II.- Las Instituciones Públicas deberán enterar una aportación obligatoria del 10.00% de dicho monto, que se destinará a la prestación de servicios médicos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Estarán exentos de la cuota que establece la fracción I del presente artículo, los jubilados, pensionados y pensionistas, que reciban como pensión una cantidad igual o inferior a un Salario Mínimo General que fije la Comisión Nacional de Salarios Mínimos para el área geográfica en la que se encuentra ubicada la Ciudad de Puebla.
 
 ###### ARTÍCULO 40.
 
 Los trabajadores que desempeñen dos o más empleos en las Instituciones Públicas, cubrirán sus cuotas sobre la totalidad de los sueldos básicos que tengan asignados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 41.
 
-Las aportaciones que deberán cubrir las Instituciones Públicas corresponderán al 20.50% del sueldo básico de los trabajadores. Estas aportaciones se aplicarán de la siguiente forma:
+Las aportaciones que deberán cubrir las Instituciones Públicas corresponderán al 26.00% del sueldo básico de los trabajadores. Estas aportaciones se aplicarán de la siguiente forma:
 
-I.- El 5.00% para cubrir las prestaciones de servicios médicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-II.- El 10.00% para el fondo de pensiones y jubilaciones;
+I.- El 10.50% para cubrir las prestaciones de servicios médicos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+II.- El 13.00% para el fondo de pensiones y jubilaciones;
 
 III.- El 0.50% para cubrir las prestaciones relativas a préstamos a corto, mediano y largo plazo; y
 
-IV.- El 5.00% para ser invertido en construcción de vivienda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV.- El 2.00% para el financiamiento de vivienda.
 
 Los porcentajes señalados en las fracciones anteriores incluyen gastos específicos de administración.
 
-Además, para los servicios de atención de las estancias infantiles, las instituciones públicas cubrirán el 50% del costo unitario por cada uno de los hijos de sus trabajadores que hagan uso del servicio. Dicho costo será determinado anualmente por la Junta Directiva.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Además, para los servicios de atención de las Estancias Infantiles, las Instituciones Públicas cubrirán el 50% del costo de cada uno de los hijos de sus trabajadores que hagan uso del servicio. Dicho costo será determinado anualmente por la Junta Directiva.
 
 ###### ARTÍCULO 42.
 
@@ -645,11 +697,15 @@ La constitución de las reservas actuariales será prioritaria sobre las financi
 
 Los remanentes presupuestales anuales que en su caso se presenten, se integrarán a las reservas actuariales, los cuales se sujetarán a los principios de transparencia y publicidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 48.
 
-El Instituto no podrá afectar o disponer de las reservas actuariales para efectos distintos a los de su objeto que es, por su naturaleza, respaldar el otorgamiento de las pensiones.
+Ningún Órgano o Autoridad del Instituto estará facultado para afectar o disponer de los recursos derivados de las cuotas y aportaciones relativas a pensiones y jubilaciones, así como de las reservas actuariales constituidas para el otorgamiento y pago de las mismas.
 
-Los productos generados por la reserva actuarial se podrán utilizar exclusivamente para el pago de las pensiones que esta Ley prevé.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Los productos generados por la reserva actuarial deberán destinarse, exclusivamente para el pago de las pensiones que esta Ley prevé.
 
 Para controlar y dar seguimiento al contenido de este artículo, se establecerán las bases necesarias y suficientes en el reglamento que para tal efecto se expiden.
 
@@ -671,9 +727,11 @@ La contabilidad del Instituto contendrá en forma separada la situación de los 
 
 El régimen financiero que se aplicará para las prestaciones de servicios médicos, incluidas las relativas a los riesgos de trabajo, así como para las prestaciones sociales y culturales, y para el otorgamiento de créditos, será el contemplado en el presupuesto autorizado por la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 53.
 
-Para las pensiones por jubilación, retiro por edad y tiempo de servicios, inhabilitación y fallecimiento, se utilizará el régimen financiero denominado de primas escalonadas, en términos del artículo 100 de ésta Ley.
+El Instituto deberá establecer un estricto régimen financiero, por lo que en ningún caso podrá hacer uso de recursos destinados a una prestación para cubrir las deficiencias o necesidades de otra.
 
 ## TÍTULO TERCERO. DE LAS PRESTACIONES DE CARÁCTER OBLIGATORIO
 
@@ -737,9 +795,11 @@ En el caso de enfermedades no profesionales, los derechohabientes a que se refie
 
 Cuando el trabajador o sus beneficiarios, no acudan o no acepten ser atendidos por los servicios médicos establecidos, de acuerdo con el presente ordenamiento, mediante trámite administrativo se hará constar en el acta correspondiente bajo conformidad de dicho trabajador o beneficiario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 61.
 
-Solo la trabajadora, la pensionada o jubilada y la esposa del trabajador, pensionado o jubilado, o en su caso, la concubina de uno u otro, tendrán derecho a las siguientes prestaciones:
+La trabajadora, la pensionada, la cónyuge o concubina del trabajador o del pensionado y la hija del trabajador o pensionado soltera menor de 18 años que dependa económicamente de éstos, tendrán derecho a las siguientes prestaciones:
 
 I.- Asistencia obstétrica necesaria a partir del día en que los servicios médicos del Instituto certifiquen el estado de su embarazo;
 
@@ -787,9 +847,11 @@ Al ser declarada una incapacidad permanente total se concederá una pensión igu
 
 El sueldo básico integrado por las prestaciones a que se refiere el párrafo anterior, estará sujeto a las cotizaciones establecidas por el artículo 38 de esta Ley, y se tomará en cuenta para la determinación del monto de las demás prestaciones que la misma establece.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 68.
 
-Al declararse una incapacidad permanente parcial o total, se concederá la pensión respectiva con carácter de provisional, por un periodo de dos años. En el transcurso de este lapso, el instituto podrá ordenar y por su parte el afectado tendrá derecho a solicitar la revisión de su incapacidad, con el fin de aumentar, disminuir o revocar la pensión según el caso. Transcurrido el periodo anterior la pensión se considerará como definitiva y su revisión solo podrá hacerse una vez al año, salvo que existieran pruebas de un cambio sustancial en las condiciones de la incapacidad.
+Al declararse una incapacidad permanente parcial o total, se concederá la pensión respectiva con carácter de provisional, por un periodo de cinco años. En el transcurso de este lapso, el Instituto podrá ordenar y por su parte el afectado tendrá derecho a solicitar la revisión de su incapacidad, con el fin de aumentar, disminuir o revocar la pensión según el caso. Transcurrido el periodo anterior la pensión se considerará como definitiva y su revisión sólo podrá hacerse una vez al año, salvo que existieran pruebas de un cambio sustancial en las condiciones de la incapacidad.
 
 El incapacitado está obligado en todo tiempo a someterse a los reconocimientos, tratamientos y demás exámenes médicos que determine el Instituto.
 
@@ -871,13 +933,11 @@ El monto diario mínimo de las pensiones, no podrá ser inferior al salario mín
 
 El monto diario máximo de las pensiones que se otorguen, no podrá ser superior al monto equivalente a diecisiete veces el salario mínimo general que fije la Comisión Nacional de Salarios Mínimos para el área geográfica en la que está ubicada la Ciudad de Puebla, elevado a treinta días.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 80.
 
-La base para el cálculo del monto de la pensión, se considerará en la siguiente forma:
-
-I.- Con el último sueldo percibido, para los trabajadores que durante los tres años anteriores a su retiro hayan desempeñado el mismo empleo; y
-
-II.- Con el promedio de las percepciones que le hayan correspondido a todos los empleos desempeñados, durante los últimos tres años, anteriores a su retiro.
+Para el cálculo del monto de la pensión, se considerará como base el promedio del sueldo base percibido durante los últimos cinco años de servicio.
 
 ###### ARTÍCULO 81.
 
@@ -965,15 +1025,35 @@ Cuando exista la presunción de una desproporción en las percepciones computabl
 
 #### SECCIÓN SEGUNDA. PENSIÓN POR JUBILACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 95.
 
-Tienen derecho a la pensión por jubilación los trabajadores varones con un mínimo de 30 años y las mujeres con un mínimo de 27 años de servicio siempre y cuando hubieren contribuido normalmente al fondo del Instituto a partir de su creación, en el caso de ser derechohabientes fundadores, si no lo son que hubieren contribuido durante todos los años de servicio.
+Tienen derecho a la pensión por jubilación los trabajadores con un mínimo de 30 años de servicio, y cuando menos sesenta y cinco años de edad, siempre y cuando hubieren contribuido durante todos los años de servicio al fondo de pensiones del Instituto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Los trabajadores podrán solicitar la pensión por jubilación anticipada a partir de los 60 años de edad y cuando menos con 30 años de cotización y su beneficio será un porcentaje del monto de la pensión por jubilación a que se refiere el artículo 96 de esta Ley, de acuerdo con la siguiente tabla:
+
+Edad Porcentaje del Beneficio de Jubilación
+
+60 75.00%
+
+61 80.00%
+
+62 85.00%
+
+63 90.00%
+
+64 95.00%
 
 Por lo que respecta a los trabajadores que absorbió el Instituto al momento de su creación, deberán cubrir las cotizaciones que les correspondieran aportar en proporción a los salarios devengados en sus años de servicio y para tal efecto, la Dirección General del Instituto establecerá el procedimiento de pago y el plazo en el que debe de efectuarse.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 96.
 
-La pensión por jubilación dará derecho al trabajador a recibir un monto equivalente al 100% del promedio de su sueldo base, de conformidad con lo establecido en los artículos 77, 78, 79 y 80 de esta Ley y su pago procederá a partir del día siguiente a aquel en que el trabajador cause baja en el servicio.
+La pensión por jubilación dará derecho al trabajador a recibir un monto equivalente del promedio de su sueldo base, que resulte de la aplicación del artículo anterior, de conformidad con lo establecido en los artículos 77, 78, 79 y 80 de esta Ley y su pago procederá a partir del día siguiente a aquel en que el trabajador cause baja en el servicio.
 
 ###### ARTÍCULO 97.
 
@@ -981,49 +1061,57 @@ Para los efectos de antigüedad en el otorgamiento de la pensión por jubilació
 
 #### SECCIÓN TERCERA. PENSIÓN DE RETIRO POR EDAD Y TIEMPO DE SERVICIOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 98.
 
-La pensión de retiro por edad y tiempo de servicios se concederá a los trabajadores que habiendo cumplido 60 años de edad, acrediten ante el Instituto haber laborado cuando menos 15 años y haber cubierto las cuotas correspondientes a este periodo.
+La pensión de retiro por edad y tiempo de servicios se concederá a los trabajadores que habiendo cumplido 65 años de edad, acrediten ante el Instituto haber cotizado cuando menos 15 años.
+
+El beneficio será de acuerdo con el contenido del artículo 100 de esta Ley.
 
 ###### ARTÍCULO 99.
 
 Para el cómputo de los años de servicio será considerando uno solo de los empleos, el de mayor antigüedad, aun cuando el trabajador hubiese desempeñado simultáneamente varios, cualesquiera que fuera (sic), en consecuencia, para dicho cómputo se considerarán por una sola vez, el tiempo durante el cual hayan tenido o tenga el interesado, el carácter de trabajador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 100.
 
-El monto de la pensión se determinará aplicando a las bases señaladas en el artículo 80, los siguientes porcentajes:
+El monto de la pensión se determinará aplicando a la base señalada en el artículo 80, los siguientes porcentajes:
 
-HOMBRES MUJERES
+TRABAJADORES
 
-15 años de servicio 50% 15 años de servicio 57.5%
+Años de servicio Porcentaje de Beneficio
 
-16 años de servicio 52.5% 16 años de servicio 60%
+15 50%
 
-17 años de servicio 55% 17 años de servicio 62.5%
+16 52.50%
 
-18 años de servicio 57.5% 18 años de servicio 65%
+17 55%
 
-19 años de servicio 60% 19 años de servicio 67.5%
+18 57.50%
 
-20 años de servicio 62.5% 20 años de servicio 70%
+19 60%
 
-21 años de servicio 65% 21 años de servicio 72.5%
+20 62.50%
 
-22 años de servicio 67% 22 años de servicio 75%
+21 65%
 
-23 años de servicio 70% 23 años de servicio 80%
+22 67.50%
 
-24 años de servicio 72.5% 24 años de servicio 85%
+23 70%
 
-25 años de servicio 75% 25 años de servicio 90%
+24 72.50%
 
-26 años de servicio 80% 26 años de servicio 95%
+25 75%
 
-27 años de servicio 85%
+26 80%
 
-28 años de servicio 90%
+27 85%
 
-29 años de servicio 95%
+28 90%
+
+29 95%
 
 En el cómputo final, toda fracción de más de 6 meses se computará o considerará como año completo.
 
@@ -1037,11 +1125,57 @@ El trabajador que se separe del servicio después de haber contribuido cuando me
 
 #### SECCIÓN CUARTA. PENSIÓN POR INHABILITACIÓN
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 103.
 
-La pensión por inhabilitación se otorgará al trabajador que quede incapacitado física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si hubieren cotizado al Instituto cuando menos durante 15 años.
+La pensión por inhabilitación se otorgará al trabajador que quede incapacitado física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si hubieren cotizado al Instituto cuando menos durante 10 años.
 
-El derecho al pago de esta pensión comienza a partir del día siguiente de la fecha en que el trabajador cause baja motivada por la inhabilitación. Para calcular el monto de esta pensión, se aplicará la tabla contenida en el artículo 100 de esta Ley.
+El derecho al pago de esta pensión comienza a partir del día siguiente de la fecha en que el trabajador cause baja motivada por la inhabilitación.
+
+El monto de la pensión se determinará aplicando a las bases señaladas en el artículo 80 de esta Ley, los siguientes porcentajes:
+
+Años de servicio Porcentaje de Beneficio
+
+10 40%
+
+11 42%
+
+12 44%
+
+13 46%
+
+14 48%
+
+15 50%
+
+16 52.50%
+
+17 55%
+
+18 57.50%
+
+19 60%
+
+20 62.50%
+
+21 65%
+
+22 67.50%
+
+23 70%
+
+24 72.50%
+
+25 75%
+
+26 80%
+
+27 85%
+
+28 90%
+
+29 o más 95%
 
 ###### ARTÍCULO 104.
 
@@ -1083,9 +1217,11 @@ Si el trabajador no fuera restituido en su empleo o no se le asignara otro, en l
 
 #### SECCIÓN QUINTA. PENSIÓN POR FALLECIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 109.
 
-Cuando ocurra el fallecimiento del trabajador o trabajadora por causas ajenas al servicio, cualquiera que sea su edad y siempre que hubiere cotizado al Instituto por un mínimo de 15 años, así como el de un pensionado, se generan las siguientes prestaciones, según previene esta Ley:
+Cuando ocurra el fallecimiento del trabajador o trabajadora por causas ajenas al servicio, cualquiera que sea su edad y siempre que hubiere cotizado al Instituto por un mínimo de 10 años, así como el de un pensionado, se generan las siguientes prestaciones, según previene esta Ley:
 
 I.- Pensión por viudez;
 
@@ -1094,6 +1230,16 @@ II.- Pensión de orfandad; y
 III.- Pensión a ascendientes en primer grado.
 
 El derecho al pago de estas pensiones, se generará a partir del día siguiente del deceso del trabajador o del pensionado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+El monto de la pensión se determinará aplicando las bases señaladas en el artículo 80 y los porcentajes establecidos en el artículo 103 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 109 Bis.
+
+Los Trabajadores que cumplan setenta años de edad y que hayan cotizado por un mínimo de diez años al Instituto, tendrán derecho a una Pensión por Cesantía en Edad Avanzada, equivalente al monto mensual de mil doscientos pesos moneda nacional, misma que se actualizará anualmente, en el mes de enero, conforme al cambio anualizado del Salario Mínimo General que fije la Comisión Nacional de Salarios Mínimos para el área geográfica en la que se encuentra ubicada la Ciudad de Puebla.
 
 ###### ARTÍCULO 110.
 
@@ -1259,11 +1405,25 @@ Los adeudos contraídos por el trabajador o el pensionado fallecido derivados de
 
 Los créditos a corto plazo podrán otorgarse a quienes hayan cotizado al Instituto por más de un año, conforme a las normas que siguen:
 
-I.- El monto de los préstamos no deberá exceder del importe de tres meses del sueldo básico o pensión del solicitante;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-II.- El solicitante deberá contribuir al fondo de garantía a que se refiere el artículo 128 de esta Ley; y
+I. El monto de los préstamos para el personal activo no deberá exceder del importe de seis meses del sueldo base del solicitante;
 
-III.- El monto del préstamo lo constituirá el capital menos los intereses correspondientes y las demás deducciones que por ley deban aplicarse.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+II. El monto de los préstamos para los pensionados no deberá exceder del importe de tres meses de la pensión del solicitante;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+III. El monto del préstamo lo constituirá el capital menos los intereses correspondientes y las demás deducciones que por Ley deban aplicarse; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV. El trabajador tendrá la posibilidad de reestructurar su crédito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Los intereses y el fondo de garantía derivados de los préstamos deberán destinarse exclusivamente para el otorgamiento de préstamos que esta Ley prevé.
 
 ###### ARTÍCULO 135.
 
@@ -1287,9 +1447,15 @@ La recuperación de los créditos otorgados y sus intereses, se cargarán al fon
 
 #### SECCIÓN TERCERA. CRÉDITOS A MEDIANO PLAZO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 140.
 
-Los créditos a mediano plazo podrán otorgarse a quienes hayan cotizado al Instituto por más de cuatro años y están destinados a resolver un problema económico del trabajador o pensionado y de su familia. El monto de estos créditos se determinará con base a los años de cotización del solicitante y a sus ingresos ordinarios, pero en ningún caso excederá la cantidad correspondiente a 12 veces el sueldo mensual o pensión.
+Los créditos a mediano plazo se otorgarán de conformidad con la disponibilidad financiera del Instituto, a quienes hayan cotizado al mismo por más de cuatro años, en ningún caso excederá la cantidad correspondiente a 12 meses de su sueldo base para los trabajadores activos.
+
+Para los pensionados el monto máximo será el equivalente a 6 meses de su pensión y no deberán exceder los 70 años de edad al momento de solicitarlo.
+
+Los intereses y el fondo de garantía derivados de los préstamos deberán destinarse exclusivamente para el otorgamiento de préstamos que esta Ley prevé.
 
 ###### ARTÍCULO 141.
 
@@ -1299,31 +1465,53 @@ Los créditos a mediano plazo deberán liquidarse en un plazo no mayor de 30 mes
 
 Los créditos a mediano plazo se concederán mediante el otorgamiento de las garantías determinadas en las disposiciones reglamentarias de esta Ley, independientemente de aplicarse lo dispuesto en el artículo 128 de la misma.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 142 Bis.
+
+El Instituto, de conformidad con la disponibilidad financiera, autorizará préstamos extraordinarios para trabajadores o pensionados damnificados por desastres naturales.
+
+Asimismo en términos del párrafo anterior podrá otorgar préstamos para pago de pasivos contraídos por trabajadores, pensionados o pensionistas por concepto de pago de tarjetas de crédito.
+
+Para los efectos de este artículo los préstamos se otorgarán en términos del artículo 134 de esta Ley.
+
+Los intereses y el fondo de garantía derivados de los préstamos, deberán destinarse exclusivamente para el otorgamiento de préstamos que esta Ley prevé.
+
 #### SECCIÓN CUARTA. CRÉDITOS A LARGO PLAZO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 143.
 
-El Instituto adquirirá o construirá habitaciones para ser vendidas a precios módicos a los trabajadores beneficiarios de esta Ley. Los pensionados gozarán de los beneficios de este artículo.
+El Instituto administrará el Fondo de la Vivienda que se integra con las Aportaciones que las Instituciones Públicas realicen para ese concepto.
 
-La enajenación de esta habitación podrá hacerse por medio de venta a plazos con garantía hipotecaria o con reserva de dominio o por medio de contratos de promesa de venta y con las facilidades siguientes:
+El Fondo de la Vivienda tiene por objeto establecer y operar un sistema de financiamiento que permita a los trabajadores obtener créditos con garantía hipotecaria.
 
-I.- El trabajador entrará en posesión de la habitación sin más formalidades que la firma del contrato respectivo;
+Estos préstamos se harán por una sola vez, con los siguientes beneficios:
 
-II.- Pagados el capital e intereses, se otorgará la escritura que proceda;
+l. El trabajador entrará en posesión de la habitación sin más formalidades que la firma del contrato respectivo;
 
-III.- El plazo para cubrir el precio del inmueble, no excederá de quince años;
+II. Pagados el capital e intereses, se otorgará la escritura que proceda;
 
-IV.- Si el trabajador hubiere pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que el Instituto remate en pública subasta el inmueble y que del producto, una vez pagado el crédito insoluto, se le entregue el remanente;
+III. El plazo para cubrir el precio del inmueble, no excederá de veinticinco años; y
 
-V.- Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el inmueble será devuelto al Instituto, rescindiendo el contrato de venta con garantía hipotecaria o de promesa de venta y solo se cobrará al trabajador el importe de las rentas causadas durante el periodo de ocupación de la finca, devolviéndosele la diferencia entre éstas y lo que hubiere abonado a cuenta del precio. Para los efectos de este artículo se fijará desde el otorgamiento de la escritura la renta mensual que se le asigne al inmueble; y
+IV. Los honorarios notariales del crédito concedido por el Instituto para el proceso de escrituración, serán cubiertos en partes iguales por el Instituto y los trabajadores. El pago de los impuestos y gastos adicionales será por cuenta exclusiva de los trabajadores.
 
-VI.- Los honorarios notariales para el otorgamiento de las escrituras serán cubiertos por mitad entre el Instituto y los trabajadores; el pago de los impuestos y gastos adicionales será por cuenta exclusiva de éstos.
+Los pensionados gozarán de los beneficios de esta sección, en los términos que dentro de los lineamientos de esta Ley fije la Junta Directiva por medio de acuerdos generales.
 
-Los pensionados gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta Ley fije la Junta Directiva por medio de acuerdos generales.
+El Instituto podrá celebrar convenios de coordinación y colaboración con Instituciones Públicas o Privadas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 144.
 
-El Instituto estará facultado igualmente para adquirir o urbanizar terrenos destinados a formar unidades de habitación y servicios sociales, en favor de los trabajadores.
+Los recursos del Fondo de la Vivienda se integran con:
+
+l. Las Aportaciones que las Instituciones Públicas enteren al Instituto; y
+
+II. Los rendimientos que se obtengan de las inversiones de los recursos a que se refiere la anterior fracción.
+
+Los intereses derivados de los préstamos hipotecarios deberán destinarse exclusivamente para el otorgamiento de préstamos que esta Ley prevé.
 
 ###### ARTÍCULO 145.
 
@@ -1333,59 +1521,121 @@ Los créditos que se otorguen con cargo al fondo deberán darse por vencidos ant
 
 Los créditos que se otorguen a los trabajadores estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones derivadas de los mismos. El costo de este seguro quedará a cargo del Instituto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 147.
 
-Los trabajadores que hayan contribuido por más de veinticuatro meses al Instituto podrán obtener préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
+Los recursos del Fondo de la Vivienda se destinarán:
 
-Los préstamos se destinarán a los siguientes fines:
+I. Al otorgamiento de créditos a los trabajadores que hayan contribuido por más de dieciocho meses al Instituto.
 
-I.- Adquisición de terrenos en los que deberá construirse la habitación del trabajador;
+El importe de estos créditos deberá aplicarse para los siguientes fines:
 
-II.- Adquisición o construcción de casa que habite el trabajador;
+a) A la adquisición o construcción de vivienda;
 
-III.- Efectuar mejoras o reparaciones de las mismas;
+b) A la reparación, ampliación o mejoramiento de sus habitaciones; y
 
-IV.- Redención de gravámenes que reporten tales inmuebles; y
+c) A los pasivos contraídos por cualquiera de los conceptos anteriores; el Instituto podrá descontar de las percepciones de los trabajadores los créditos que hayan otorgado las entidades financieras que cuenten con la respectiva autorización emitida para tal efecto por la Secretaría de Hacienda y Crédito Público; para aplicarse a los conceptos señalados en los incisos anteriores.
 
-V.- Los pensionados gozarán de los beneficios que establece este artículo.
+II. A cubrir los gastos de administración, operación y vigilancia del Fondo de la Vivienda conforme a esta Ley; y
+
+III. A las demás erogaciones relacionadas con su objeto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 148.
 
-Los préstamos hipotecarios se sujetarán en lo conducente a las condiciones y facilidades que establece el artículo 143 y se cubrirán mediante amortizaciones mensuales que incluirán capital e intereses.
+Los créditos para vivienda se sujetarán en lo conducente a las condiciones y facilidades que establece el artículo 143 y se cubrirán mediante amortizaciones mensuales o quincenales según sea el caso, que incluirán capital e intereses.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 149.
 
-El Instituto formulará tablas para determinar las cantidades amortizables según el sueldo del trabajador, tomando como base que las amortizaciones no deban sobrepasar del 50% del sueldo o sueldos mensuales que el trabajador disfrute y por los cuales se le practiquen los descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional.
+El Instituto formulará tablas para determinar las cantidades que se descuenten a los trabajadores con motivo de los créditos para vivienda a que alude la presente sección, según el sueldo del trabajador, tomando como base que las amortizaciones no deban sobrepasar del 40% del sueldo o sueldos mensuales que el trabajador disfrute y por los cuales se le practiquen los descuentos para el Instituto, sin perjuicio de lo previsto en la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 150.
 
-El préstamo no excederá del 90% del valor comercial del inmueble, fijado por el Instituto.
+El crédito para vivienda cubrirá hasta el 90% del valor comercial del inmueble, fijado por el Instituto.
 
-Cuando el trabajador no estuviere de acuerdo con el avalúo practicado por el Instituto, podrá designar un perito que practique uno nuevo, y en caso de discrepar los peritajes, se podrá nombrar un tercero por ambas partes. La Junta Directiva resolverá en definitiva.
+Cuando el trabajador no estuviere de acuerdo con el avalúo practicado por el Instituto, podrá designar un perito autorizado o acreditado que practique uno nuevo, y en caso de discrepar los peritajes, se podrá nombrar un tercero por ambas partes de cuyos honorarios correrán a cargo de las mismas. La Junta Directiva resolverá en definitiva.
 
 ###### ARTÍCULO 151.
 
 Los préstamos hipotecarios que se otorguen a los trabajadores causarán el interés, que la Junta Directiva con base a las disposiciones reglamentarias al respecto, fije en su momento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 152.
 
-Mediante acuerdo del Instituto y una vez hechos los estudios necesarios, se contratarán seguros de vida que tendrán por objeto liquidar y cancelar los créditos por préstamos hipotecarios o derivados de los contratos a que se refiere el artículo 143 de esta Ley, que se quedaren insolutos en caso de fallecimiento del trabajador a quien éste hubiese designado como beneficiario.
+Mediante acuerdo del Instituto y una vez hechos los estudios necesarios, se contratarán seguros de vida que tendrán por objeto liquidar y cancelar los créditos por préstamos hipotecarios, que quedaren insolutos en caso de fallecimiento del trabajador.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 153.
 
-Si por haber sido cesado el trabajador o por otras causas graves a juicio del Instituto, no pudiere cubrir los abonos provenientes del préstamo hipotecario o del contrato de venta con garantía hipotecaria o con reserva de dominio, podrá concedérsele, previa solicitud y con las condiciones que se estipulen, un lapso de espera de 6 meses al término de los cuales deberá reanudar sus pagos. El adeudo vencido durante el lapso de espera lo pagará en el plazo y con los requisitos que señale la Junta Directiva.
+Cuando un trabajador deje de prestar sus servicios a las Instituciones Públicas sujetas al régimen de beneficios que otorga esta Ley y hubiere recibido un préstamo a cargo del Fondo de la Vivienda, se le otorgará una prórroga sin causa de intereses en los pagos de amortización que tenga que hacer por concepto de capital e intereses. La prórroga tendrá un plazo máximo de seis meses y terminará anticipadamente cuando el trabajador vuelva a prestar servicios en alguna de las Instituciones Públicas.
+
+Para los efectos del párrafo anterior, también se entenderá que un trabajador ha dejado de prestar sus servicios cuando transcurra un periodo mínimo de doce meses sin laborar en ninguna de las Instituciones Públicas por suspensión temporal de los efectos del nombramiento o cese, a menos que exista litigio pendiente sobre la subsistencia de su designación o nombramiento.
+
+Las Instituciones Públicas a que se refiere esta Ley seguirán haciendo los depósitos para el Fondo de la Vivienda, sobre los sueldos de los trabajadores que disfruten licencia por enfermedad en los términos de la normatividad aplicable, así como de los que sufran suspensión temporal de los efectos de su nombramiento conforme a las disposiciones de la Ley, debiendo suspenderse dicho depósito a partir de la fecha en que cese la relación de trabajo.
+
+La existencia del supuesto a que se refiere este artículo deberá comprobarse ante el Instituto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 153 Bis.
+
+El trabajador tendrá el derecho de elegir la vivienda nueva o usada, a la que se aplique el importe del crédito que reciba con cargo al Fondo de la Vivienda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 153 Ter.
+
+Los créditos a que se refiere esta sección se otorgarán mancomunados a los trabajadores, siempre y cuando ambos coticen al Instituto y si existiera acuerdo de los interesados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 153 Quater.
+
+Los trabajadores podrán manifestar expresamente y por escrito su voluntad ante el Instituto en el acto del otorgamiento del crédito o posteriormente, para que en caso de muerte, la adjudicación del inmueble se haga a quien haya designado como beneficiario. Para que proceda el cambio de beneficiario, el trabajador deberá solicitarlo igualmente por escrito acompañado de dos testigos ante el Instituto; una vez presentada dicha solicitud, éste deberá comunicar al trabajador el registro de los nuevos beneficiarios en un plazo no mayor de cuarenta y cinco días naturales. En caso de controversia o falta de beneficiario el Instituto procederá exclusivamente a la liberación del gravamen y se abstendrá de adjudicar el inmueble.
+
+El Instituto solicitará al Instituto Registral y Catastral del Estado de Puebla, efectuar la inscripción de los inmuebles en favor de los beneficiarios, cancelando en consecuencia la que existiere a nombre del trabajador o pensionado con los gravámenes o limitaciones de dominio que hubieren.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTÍCULO 153 Quinquies.
+
+En los casos de trabajadores que a la fecha de pensionarse presenten saldo insoluto en su crédito de vivienda, se descontarán de su pensión los subsecuentes pagos al Fondo de la Vivienda.
 
 ## TÍTULO CUARTO. DE LAS PRESTACIONES SOCIALES Y CULTURALES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 154.
 
-El Instituto, conforme a su disponibilidad presupuestal y financiera, proporcionará las siguientes prestaciones:
+El Instituto podrá contratar o subrogar prestaciones con otros prestadores, en los términos de la Ley y de la normatividad que para el efecto se establezca, sin perjuicio de que los proporcione de manera directa, garantizando en ambos casos, el servicio con calidad y calidez, conforme a su disponibilidad presupuestal y financiera.
 
-I.- Estancias Infantiles; y
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+El Instituto proporcionará las siguientes prestaciones:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+I.- Estancias Infantiles;
 
 II.- Centro de Bienestar Social y Cultural.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+III.- Servicios Turísticos; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV.- Servicios Funerarios.
 
 ###### ARTÍCULO 155.
 
@@ -1431,13 +1681,17 @@ Para lograr los estímulos económicos, el trabajador deberá comprobar su derec
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTÍCULO 163.
 
-Los funcionarios y empleados de las Instituciones Públicas del Estado encargadas de cubrir los sueldos a los trabajadores y en su caso las pensiones, serán responsables civil y penalmente por los actos u omisiones a las disposiciones de esta Ley.
+Los servidores públicos de las Instituciones Públicas serán responsables civil, penal y administrativamente por los actos u omisiones que contravengan las disposiciones de esta Ley y en términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 164.
 
-Si las Instituciones Públicas no realizaran la concentración de fondos al Instituto dentro de los términos que establece esta Ley, cubrirán un interés del 2% mensual.
+Si las instituciones públicas no realizaran la concentración de fondos al Instituto dentro de los términos que establece esta Ley, cubrirán un interés del 5% mensual.
 
 ###### ARTÍCULO 165.
 
@@ -1518,3 +1772,83 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los trabajadores que a la entrada en vigor del presente Decreto se encuentren cotizando al Instituto, podrán ejercer su derecho a obtener una pensión, de conformidad con los supuestos siguientes:
+
+l. Los trabajadores y las trabajadoras con un mínimo de 30 años y de 27 años de cotización, respectivamente, tendrán derecho a la pensión por jubilación, siempre y cuando hubieren cotizado todos los años de servicio al fondo del Instituto, de acuerdo con la siguiente tabla:
+
+Número de años que Edad requerida para acceder a la pensión
+
+faltan para cumplir
+
+con 30 ó 27 años
+
+de servicio Hombres Mujeres
+
+0 50 47
+
+1 51 48
+
+2 52 49
+
+3 53 50
+
+4 54 51
+
+5 55 52
+
+6 56 53
+
+7 57 54
+
+8 58 55
+
+9 59 56
+
+10 o más 60 57
+
+II. La base para el cálculo del monto de la pensión, se considerará en la siguiente forma:
+
+a) Para los trabajadores que al momento de la entrada en vigor del presente Decreto, cumplan con el tiempo de cotización a que se refiere la fracción I del presente Transitorio, se calculará con el último sueldo percibido, si durante los tres años anteriores a su retiro hubieren desempeñado el mismo puesto y nivel;
+
+b) Para los trabajadores que al momento de la entrada en vigor del presente Decreto, cumplan con el tiempo de cotización a que se refiere la fracción I del presente Transitorio, se calculará con el promedio de las percepciones que le hayan correspondido a todos los puestos desempeñados, durante los últimos tres años cotizados, anteriores a su retiro; y
+
+e) En los demás casos, con el promedio de las percepciones que les haya correspondido previa actualización, mediante el Índice Nacional de Precios al Consumidor (INPC), de conformidad con la siguiente tabla:
+
+Número de años que faltan Número de años a promediar
+
+para cumplir con 30 ó 27
+
+años de servicio
+
+1 3 2 o más 5
+
+lII. Para las pensiones de retiro por edad y tiempo de servicios, inhabilitación y fallecimiento, la base para el cálculo del monto de la pensión se calculará con el promedio de las percepciones que le hayan correspondido durante los últimos cinco años cotizados, anteriores a su retiro, previa actualización mediante el índice Nacional de Precios al Consumidor (INPC).
+
+TERCERO.- Para garantizar que esta Ley beneficie a los derechohabientes, así como para asegurar el cumplimiento de sus objetivos y la viabilidad financiera, la Junta Directiva realizará estudios y análisis estadísticos y actuariales cada cuatro años, respecto de los servicios y prestaciones que proporciona el Instituto, y en su caso, realizará las adecuaciones administrativas que correspondan o promoverá ante las instancias competentes las reformas o adiciones legales necesarias.
+
+CUARTO.- Las solicitudes de pensión que cumplan con los requisitos de Ley y que se encuentren en trámite al momento de entrar en vigor el presente Decreto, se resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+QUINTO.- El Instituto deberá adecuar la normatividad interna conforme a lo establecido en el presente Decreto, en un plazo que no excederá de un año.
+
+SEXTO.- A los trabajadores que se encuentren cotizando el régimen del Instituto a la fecha de la entrada en vigor del presente Decreto, deberán cubrir una cuota obligatoria a partir del mes de febrero de 2012 con efectos al primero de enero del 11.25% y a partir del mes de mayo de 2012, en adelante del 13.00% del sueldo base mensual, distribuidos de la siguiente manera:
+
+Prestaciones A partir de febrero A partir de mayo de 2012 2012 en adelante
+
+Servicio médicos (sic) 5.25% 6.50%
+
+Fondo de pensiones
+
+y jubilaciones 5.00% 5.50%
+
+Préstamos a corto
+
+y mediano plazo 0.50% 0.50%
+
+Estancias infantiles 0.50% 0.50%
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
