@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-78860
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-29"
-last_updated: "2010-12-29"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL DE 2011
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2012, PUBLICADA EN EL SUPLEMENTO DEL P.O. 31 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de diciembre de 2010.
 
@@ -264,3 +266,15 @@ ESAÚ HERNÁNDEZ HERRERA.
 EL SECRETARIO DE FINANZAS
 
 ALEJANDRO TELLO CRISTERNA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil doce, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2011 contenida en el Decreto N° 124 publicado el 29 de Diciembre del 2010 en el Suplemento número 2 al 104 del Periódico Oficial, Órgano del Gobierno del Estado.
