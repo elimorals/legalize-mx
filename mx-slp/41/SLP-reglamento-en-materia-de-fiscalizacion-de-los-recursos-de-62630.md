@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-en-materia-de-fiscalizacion-de-los-recursos-de-62630
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-31"
-last_updated: "2008-07-31"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO EN MATERIA DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-REGLAMENTO EN MATERIA DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
+REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS, PUBLICADO EN EL P.O. DE FECHA 31 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de julio de 2008.
 
@@ -1108,3 +1110,15 @@ Lic. Rafael Rentería Armendáriz
 Secretario de Actas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor, una vez aprobado por el Pleno del Consejo Estatal Electoral y de Participación Ciudadana, el día 1° de enero del año 2012.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el "Reglamento en Materia de Fiscalización de los Recursos de los Partidos Políticos", aprobado con fecha 04 de julio del año 2008 por el Pleno del entonces Consejo Estatal Electoral de Participación Ciudadana, con la excepción prevista por el Transitorio Tercero del presente Reglamento.
+
+TERCERO. La presentación de informes y el procedimiento de fiscalización de los gastos del ejercicio fiscal 2011 de los partidos políticos, deberá efectuarse de conformidad con el "Reglamento en Materia de Fiscalización de los Recursos de los Partidos Políticos", aprobado con fecha 04 de julio del año 2008.
+
+CUARTO. Publíquese en el Periódico Oficial del Estado para los efectos legales correspondientes.
