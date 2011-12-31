@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2010-12-29"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -247,23 +247,27 @@ III. Se imposibilite, por cualquier medio de conocimiento de las operaciones de 
 
 DEL OBJETO
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011
+
 ###### ARTICULO 21.
 
-Es objeto de este impuesto, el entero de los impuestos y derechos propios del Estado, así como el del Impuesto Sobre Tenencia o Uso de Vehículos federal.
+Es objeto de este impuesto, el entero de los impuestos y derechos propios del Estado.
 
 DEL SUJETO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE ENERO DE 2003)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011
 
 ###### ARTICULO 22.
 
-Son sujetos del impuesto, los contribuyentes afectos al pago de impuestos o derechos del Estado, así como los del impuesto sobre tenencia o uso de vehículos federal, que realicen el pago en el Estado.
+Son sujetos del impuesto, los contribuyentes afectos al pago de impuestos o derechos del Estado.
 
 DE LA BASE
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 23.
 
-La base de este impuesto será el monto que se cubra por el concepto de impuestos y derechos estatales, y por el del Impuesto Sobre Tenencia o Uso de Vehículos federal.
+La base de este impuesto será el monto que se cubra por el concepto de impuestos y derechos estatales.
 
 DE LA TASA
 
@@ -455,7 +459,9 @@ c) Asociaciones de trabajadores, organismos empresariales que no realicen activi
 
 d) Partidos políticos y asociaciones políticas legalmente reconocidas.
 
-e) Instituciones educativas que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+e) Instituciones educativas públicas.
 
 f) Quienes contraten servicio doméstico para casa-habitación.
 
@@ -495,63 +501,479 @@ VIII. Los sujetos de este impuesto que tengan una o más sucursales dentro del E
 
 DEL OBJETO Y DE LA BASE
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 35.
 
-Es objeto de este impuesto, exclusivamente la tenencia o uso de vehículos automotores cuyos modelos de fabricación correspondan a la década inmediata anterior a la de los modelos por los que se paga el Impuesto Federal Sobre Uso y Tenencia de Vehículos, así como todo tipo de remolques, cualquiera que sea su modelo.
+Es objeto del Impuesto a que se refiere este capítulo, la tenencia o uso de vehículos que se efectué en el Territorio del Estado.
+
+Para efectos de este impuesto se entiende por vehículos, los terrestres y marítimos o fluviales, entre otros, los automóviles, ómnibus, vehículos pick up, camiones, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, vehículos con motor de combustión interna o con motor accionados por hidrógeno, eléctricos, mixtos o híbridos y automóviles blindados.
+
+Así mismo, para efectos de este impuesto, se considera que la tenencia o uso de los vehículos señalados en el párrafo anterior se efectúan dentro de la circunscripción territorial del Estado, en los siguientes casos:
+
+a) Cuando se inscriba en el Registro Vehicular del Estado;
+
+b) Cuando el domicilio fiscal en materia federal del tenedor o usuario del vehículo se localice en el Estado; o,
+
+c) En su defecto, cuando el domicilio del contribuyente se encuentre en el Estado.
+
+Para los efectos de esta Ley se presume que el propietario es el tenedor o usuario del vehículo.
 
 DEL SUJETO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 36.
 
-Están obligados al pago del impuesto establecido en este capítulo, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
+Están obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+Para efectos de este impuesto, la Federación, el Distrito Federal, los Estados, los Municipios, los Organismos Descentralizados o cualquier otra persona física, moral o unidades económicas, deberán pagar el impuesto Sobre Tenencia o Uso de Vehículos que se establece en este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones federales o estatales, o estén exentos de ellos.
 
-Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que el año modelo del vehículo es el de fabricación.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
+ARTICULO 36 BIS.- Para efectos de este Capítulo, se considera por:
 
-Las autoridades competentes no autorizarán registros de vehículos, matrículas, altas o bajas, cambio de placas o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación.
+I. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de este capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+II. Valor total del vehículo: el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Autoridad competente como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+III. Marca: las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
+
+IV. Año Modelo: el año de fabricación o ejercicio automotriz, comprendido por el período entre el primero de octubre del año anterior al 30 de septiembre del año que transcurre.
+
+V. Modelo: Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas, o de plástico que configuran externamente a un vehículo y de las que derivan los diversos modelos.
+
+VI. Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+VII Línea:
+
+a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+
+c) Automóviles con motor de diesel.
+
+d) Camiones con motor de gasolina, gas o diesel
+
+e) Tractores no agrícolas tipo quinta rueda.
+
+f) Autobuses integrales.
+
+g) Automóviles eléctricos e híbridos.
+
+h) Automóviles con motor de uso de biocombustibles.
+
+Para efectos de este Capítulo se entenderá como automóvil híbrido, aquellos automóviles eléctricos, que además cuenten con motor de combustión interna.
+
+VIII. Comerciantes en el ramo de vehículos: A las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+IX. Vehículo: A los automóviles: Ómnibus, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tabla de oleaje con motor, automóviles eléctricos, automóviles híbridos y motocicletas.
+
+X. Índice Nacional de Precios al Consumidor, que aplicará para efectos de este impuesto, el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+
+XI. Factores de actualización, los que determine la Secretaría de Finanzas, mismo que se publicarán en el Periódico Oficial del Gobierno del Estado de Zacatecas, a más tardar en el mes de diciembre de cada año.
+
+DEL CÁLCULO, BASE, TASA, TABLA O TARIFA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 36 TER.- En el caso de vehículos nuevos el impuesto se calculara conforme a lo siguiente:
+
+I. Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresada en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
+
+II. Para los vehículos destinados al transporte de hasta 15 pasajeros y automóviles blindados, así como los vehículos de carga hasta 15 toneladas, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+
+TARIFA
+
+Límite Límite Cuota fija Tasa para
+
+inferior superior $ aplicarse
+
+$ $ sobre el
+
+Excedente
+
+del límite
+
+inferior
+
+%
+
+0.01 526,657.78 0.00 3
+
+526,657.79 1,013,523.64 15,799.73 8.7
+
+1,013,523.65 1,362,288.13 58,157.06 13.3
+
+1,362,288.14 1,711,052.62 104,542.74 16.8
+
+1,711,052.63 En adelante 163,135.16 19.1
+
+III. Tratándose de vehículos nuevos destinados al transporte de más de quince pasajeros o de carga cuyo peso bruto vehicular sea de 15 toneladas o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+IV. Tratándose de vehículos marítimos o fluviales con motor nuevo, entre otros embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total de vehículo de que se trate el 1.5%.
+
+V. En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario correspondiente en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario de acuerdo con el procedimiento que corresponda al tipo de vehículo de que se trate, bajo el criterio de vehículo nuevo.
+
+VI. Tratándose de motocicletas nuevas o usadas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente tarifa:
+
+TARIFA
+
+Límite Límite Cuota fija Tasa para
+
+Inferior superior $ aplicarse
+
+$ $ sobre el
+
+excedente
+
+del límite
+
+inferior
+
+%
+
+0.01 220,600.00 0.00 3
+
+220,600.01 303,459.28 6,619.80 8.7
+
+303,459.29 407,882.92 13,823.33 13.3
+
+407,882.93 en adelante 27,711.67 16.8
+
+Las cantidades establecidas en las tarifas contenidas en artículo, se actualizarán en el mes de enero de cada aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél en que se va aplicar la tarifa, entre el Índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al año de aplicación. Dicho factor se publicará en el Periódico Oficial del Estado, a más tardar el 31 de diciembre de cada año.
+
+El Índice Nacional de Precios al Consumidor que se aplicará para los efectos del párrafo anterior es el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 36 QUATER.- Para la aplicación de este impuesto se entiende por vehículos destinados al transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+VEHÍCULOS USADOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 36 QUINQUIES.- Tratándose de vehículos de fabricación nacional o importada de hasta nueve años de antigüedad, el impuesto se determinará conforme a lo siguiente:
+
+I. Tratándose de vehículos usados de fabricación nacional o importados, a que se refieren (sic) los artículos 36 TER, fracciones I, III, IV y V de este Capítulo, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los año de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+Antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 36 TER de este Capítulo.
+
+II. Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo (sic) anteriores al de este Capítulo, destinados al transporte de hasta quince pasajeros y automóviles blindados, así como los vehículos de carga de hasta 15 toneladas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+Antigüedad Depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere el artículo 36 TER, y al resultado se le aplicará la tarifa a que hace referencia la fracción II, del artículo 36 TER, de este Capítulo.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+III. Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+Antigüedad depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+Años de Factor de
+
+Antigüedad depreciación
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere el artículo 36 TER; al resultado se le aplicará la tasa a que hace referencia la fracción IV, de 1 artículo 36 TER de este Capítulo.
+
+IV. Tratándose de aeronaves y helicópteros de más de diez años de fabricación anteriores al de aplicación de este Capítulo, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE CUOTA
+
+VEHÍCULOS
+
+AERONAVES:
+
+Hélice $ 448.00
+
+Turbohélice 2,480.00
+
+Reacción 3,583.00
+
+HELICÓPTEROS 551.00
+
+V. Tratándose de motocicletas usadas de fabricación nacional o importadas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+Tabla
+
+Años de Factor de
+
+Antigüedad depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+La cantidad obtenida conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere el artículo 36 TER; y al resultado se le aplicará la tarifa a que hace referencia la fracción II, del artículo 36 TER de este Capítulo.
+
+VI. El factor de actualización a que se refiere este articulo se determinará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél en que se va aplicar la tarifa entre el mes de noviembre inmediato anterior al año de adquisición del vehículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Son responsables solidarios del pago de este impuesto:
+Son solidariamente responsables del pago del impuesto sobre tenencia o uso de vehículos establecidos en Capítulo:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
 
-I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera.
+II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+III. Las autoridades estatales, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
-II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que exista en su caso.
+Los contribuyentes comprobarán el pago del impuesto con la forma o recibo oficial original, por medio de la cual lo hayan efectuado.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
+IV. Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto sobre tenencia o uso de vehículos a que se refiere este Capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
 
-III. Las personas que en el ejercicio de sus funciones, autoricen altas o cambios de placas, sin cerciorarse del pago del impuesto.
+De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de la Secretaría de Finanzas.
 
 DEL PAGO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### ARTICULO 38.
 
-El Impuesto Sobre Tenencia o Uso de Vehículos Estatal, se pagará conforme a lo siguiente:
+Tratándose de vehículos usados de más de diez años y hasta veinte años de antigüedad al del año modelo de aplicación de este Capítulo; así como todo tipo de remolques, cualquiera que sea su año modelo, el impuesto se pagará de conformidad a las siguientes cuotas:
 
-Salario Mínimo
+TIPO DE VEHÍCULOS CUOTA
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
+Vehículos de motor 8 cuotas
 
-I. Para los vehículos a que se refiere el artículo 35 de esta Ley: 8 cuotas
+Remolques 2 cuotas
 
-II. Remolques 2 cuotas
+Motocicletas y similares 2 cuotas
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
-
-III. Motocicletas, motonetas y similares 2 cuotas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 39.
 
-El pago de este impuesto deberá efectuarse anualmente dentro de los tres primeros meses del ejercicio al que corresponda el pago o al momento de registrar la unidad en esta Entidad Federativa. El pago se recibirá en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas o Instituciones de Crédito autorizadas.
+Los contribuyentes pagarán por año calendario durante los tres primeros meses de cada año, salvo en el caso de vehículos cuya inscripción al Registro Estatal Vehicular se realice por primera vez, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se realice la inscripción al referido Registro, se solicite permiso provisional para circulación en traslado, o dentro de los quince días siguientes al de enajenación del vehículo; lo que ocurra primero.
+
+El impuesto se pagará en los lugares y medios autorizados por la Secretaría de Finanzas y bajo las modalidades que esta señale para tal efecto.
+
+En caso de que no pueda comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente al mes de adquisición de conformidad con la siguiente tabla:
+
+Mes de Factor aplicable al
+
+adquisición impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+Los contribuyentes tendrán derecho a solicitar la devolución de este impuesto, cuando ocurra la perdida total del vehículo por siniestro. La devolución procederá siempre y cuando la solicitud se efectué dentro de los treinta días hábiles siguientes de la determinación del siniestro por parte de la autoridad o instancia correspondiente, el impuesto a devolver será la parte proporcional del impuesto del ejercicio pagado correspondiente al periodo por el cual no se tuvo o usó el vehículo, iniciado a partir del mes en que ocurrió la pérdida total, hasta el último mes que se tenga cubierto el impuesto; perdida que deberá de comprobarse a las autoridades fiscales.
+
+Cuando se determine la pérdida total del vehículo y no se haya efectuado el pago del impuesto, este se cobrará de acuerdo a los porcentajes establecidos en la siguiente tabla:
+
+Mes de Factor
+
+adquisición aplicable al
+
+impuesto
+
+causado
+
+Enero- 0.08
+
+Febrero
+
+Marzo 0.17
+
+Abril 0.25
+
+Mayo 0.33
+
+Junio 0.42
+
+Julio 0.50
+
+Agosto 0.58
+
+Septiembre 0.67
+
+Octubre 0.75
+
+Noviembre 0.83
+
+Diciembre 0.92
+
+La cantidad que resulte a pagar se le agregará los accesorios legales por cubrir que en su caso corresponda. Cuando la solicitud se efectué después de los 15 días hábiles siguientes de la terminación del siniestro por parte de la autoridad o instancia correspondiente, el monto del impuesto a pagar será igual al importe total que corresponda cubrir por el año fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 39 BIS.- No se pagará el impuesto de tenencia o uso de los siguientes vehículos con antigüedad de hasta diez años de aplicación de la presente Ley:
+
+I. Los importados temporalmente en los términos de la legislación aduanera.
+
+II. Los vehículos de la Federación, Estados y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+III. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
+
+IV. No se pagará el impuesto que establece este Capítulo, en los casos que se acredite haber cubierto un impuesto correspondiente al año de calendario de que se trate en otra entidad federativa que en su momento le correspondió por su circunscripción territorial, cuyo objeto coincida con el de éste Capítulo.
+
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+VI. Cuando un vehículo sea registrado en otra entidad federativa y el propietario presente la documentación que acredite este hecho dentro de los 15 días hábiles siguientes a la realización de este supuesto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 39 TER.- De resultar extemporánea la presentación de la documentación a que hace referencia el artículo 39 BIS fracción VI, deberá cubrir un importe equivalente a 20 veces el salario mínimo vigente en el Estado, por gastos de administración de registro vehicular.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refiere el artículo 39 de este Capítulo, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 39 QUATER.- Los tenedores o usuarios de los artículos a que se refiere (sic) las fracciones I y II del artículo 39 BIS de este Capítulo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 39 QUINQUIES.- Los sujetos al pago de este impuesto tendrán las siguientes obligaciones:
+
+I. Solicitar ante las autoridades fiscales competentes el Registro Estatal Vehicular que corresponda dentro de los plazos y los lugares señalados para tal efecto.
+
+II. Conservar a disposición de las autoridades fiscales, acreditar y exhibir cuando lo soliciten la documentación comprobatoria del pago del impuesto que corresponda; y
+
+III. Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado.
 
 ## TITULO III. DE LOS DERECHOS
 
@@ -625,11 +1047,65 @@ e) Constancias de readaptación y certificaciones
 
 f) Prelibertad 2 cuotas
 
-II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004)
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004; P.O. 31 DE DICIEMBRE DE 2011)
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
 III. Emisión de opinión relativa a juegos y sorteos: 37 cuotas;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV. Por la Dirección de Protección Civil y Bomberos por concepto de:
+
+a) Capacitación en brigadas de protección civil 3 cuotas;
+
+b) Capacitación en prevención y combate contra incendios 90 cuotas;
+
+c) Capacitación en primeros auxilios, evacuación, búsqueda y rescate 60 cuotas;
+
+d) Revisión y autorización del programa interno de protección civil:
+
+Para empresas comerciales 30 cuotas;
+
+Para empresas industriales 90 cuotas:
+
+Para empresas de servicios 60 cuotas;
+
+Para empresas del giro de la minería 270 cuotas;
+
+e) Registro de grupos voluntarios 2 cuotas;
+
+f) Renovación del registro de grupos voluntarios 2 cuotas;
+
+g) Registro de empresas asesoras y capacitadoras 10 cuotas;
+
+h) Registro de instructores independientes 10 cuotas;
+
+i) Registro de empresa de consultoría y estudios de riesgo y vulnerabilidad 10 cuotas;
+
+j) Renovación del registro de empresa (sic) asesoras y capacitadoras 10 cuotas;
+
+k) Renovación del registro de instructores independientes 10 cuotas;
+
+l) Renovación del registro de empresas de consultoría y estudios de riesgo y vulnerabilidad 10 cuotas;
+
+m) Emisión de opinión técnica de no riesgo 20 cuotas;
+
+n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor 20 cuotas;
+
+o) Renovación del registro de operación para prestadores de servicios para distribución y recarga de extinguidores 10 cuotas;
+
+p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro 5 cuotas;
+
+q) Servicio privado de traslado en ambulancia 9 cuotas;
+
+r) Revisión y autorización de programas especiales para eventos masivos 30 cuotas;
+
+s) Análisis de riesgos internos y externos de inmuebles 10 cuotas;
+
+t) Cursos técnicos especializados por persona 10 cuotas;
+
+Quedarán exentos del pago de este servicio, los que la Dirección de Protección Civil y Bomberos preste a Instituciones Públicas.
 
 > <small>(ADICIONADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1013,9 +1489,9 @@ b). Reposición 4 cuotas.
 
 V. Baja de Placas 1 cuota;
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Para aceptar el trámite de baja, una vez iniciado el ejercicio fiscal, deberán estar cubiertos los impuestos tanto federales como estatales por tenencia o uso de vehículos y los derechos de refrendo de tarjeta de circulación, del ejercicio en que se solicite la baja respectiva.
+Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá de estar cubierto el impuesto por tenencia o uso de vehículos y los derechos de refrendo de tarjeta de circulación, del ejercicio en que se solicite la baja respectiva.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -1513,7 +1989,13 @@ una tarifa adicional por documento
 
 equivalente a: 5 cuotas
 
-XV. Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+XV. Solicitud de particulares 2 cuotas;
+
+de elaboración de planos.
+
+XVI. Los conceptos no considerados en el presente artículo se tasarán de acuerdo con su monto equiparable en cuotas de salario mínimo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2071,47 +2553,31 @@ Los servicios que presten por concepto de:
 
 l. Por registro con vigencia de un año en el padrón:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-a) De proveedores 5 cuotas;
+a) De proveedores 7 cuotas;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-b) De contratistas 7 cuotas;
+b) De contratistas 10 cuotas;
 
 II. Por revalidación del registro con vigencia de un año:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-a) De proveedores 3 cuotas;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-b) De contratistas 5 cuotas;
-
-III. Por reposición de la cedula de registro:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 a) De proveedores 5 cuotas;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 b) De contratistas 7 cuotas;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
-IV. Inscripción a concursos de adquisición
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
-por invitación 12 cuotas;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-V. Inscripción a concursos de obra por invitación 22 cuotas;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-VI. Por la expedición de constancia de no inhabilitación 2 cuotas;
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
 
@@ -2363,7 +2829,67 @@ XXVIII. Por solicitud, estudio y resolución del trámite de autorización para 
 
 XXIX. Por solicitud, estudio y resolución de trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial 59 cuotas.
 
-### CAPITULO X. SERVICIOS DE SEGURIDAD PUBLICA Y VIALIDAD
+### CAPÍTULO X. SERVICIOS DE LA SECRETARIA DE SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 63 BIS.- Por los servicios prestados a las empresas de seguridad privada; por concepto de:
+
+I. Expedición de autorizaciones, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+
+a) De vigilancia de inmuebles 250 cuotas,
+
+b) Protección y vigilancia de personas y bienes 250 cuotas.
+
+II. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+
+a) Instalación, mantenimiento y operación de sistemas 300 cuotas.
+
+y equipos de seguridad
+
+III. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+
+a) De traslado y custodia de bienes, fondos y valores 500 cuotas.
+
+IV. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+
+a) Instalación, mantenimiento y venta de sistemas y 150 cuotas.
+
+equipos de seguridad, sin monitoreo
+
+IV (SIC). Expedición de revalidación para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
+
+a) Instalación, mantenimiento y operación de sistemas 250 cuotas.
+
+y equipos de seguridad
+
+VII (SIC). Modificación de la autorización o, en su caso, de la revalidación por la prestación de servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas 100 cuotas.
+
+VIII (SIC). Por cambio de Representante Legal de las 50 cuotas.
+
+empresas prestadoras de servicios de seguridad privada
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ARTICULO 63 TER.- Por los servicios que preste el Poder Judicial del Estado o la Secretaría de Seguridad Pública de Gobierno del Estado, en el ámbito de sus respectivas competencias, derivados del Sistema Penitenciario y de Ejecución de Sanciones, en los términos de lo dispuesto en el Código Procesal Penal para el Estado, por concepto de:
+
+I. - Expedición de certificados de:
+
+a) Remisión parcial de la pena 4 cuotas;
+
+b) Libertad condicional 6 cuotas;
+
+c) Indulto 12 cuotas;
+
+d) Pre-liberación 3 cuotas;
+
+e) Constancia de reinserción social
+
+y certificaciones 1 cuota, y
+
+f) Prelibertad 2 cuotas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 63.
 
@@ -2381,13 +2907,23 @@ a) Adquisiciones, hasta 10 fojas 16 cuotas;
 
 b) Por cada foja adicional $ 35.00; (sic)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+III. Inscripción a concurso de adquisición 12 cuotas;
+
+por invitación.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV. Inscripción a concurso de obra por invitación 22 cuotas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO XI. SERVICIOS DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE
 
 ###### ARTICULO 64.
 
-Los servicios prestados por concepto de:
+Los servicios prestados en materia de Transporte y Tránsito, por concepto de:
 
 I. Por expedición de licencia de manejo, incluido el examen médico para tal efecto:
 
@@ -2493,7 +3029,7 @@ a) Por un día 3 cuotas;
 
 b) Por treinta días 11 cuotas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 65.
 
@@ -2697,9 +3233,11 @@ VIII. Reproducción en plotter 4 cuotas;
 
 IX. Autorización por simulacro de incendio 5 cuotas;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-X. Verificación vehicular 3 cuotas;
+X. Registro de generadores de residuos 5 cuotas.
+
+de manejo especial
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -2829,15 +3367,19 @@ I. Arrendamientos, adjudicaciones, enajenaciones, explotación, uso y aprovecham
 
 II. Venta de impresos oficiales y papel especial para:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-a) Certificación de actas de registro civil $5.50
+a) Certificación de actas de registro civil $7.00;
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 b) Asentamiento de actas de registro civil,
 
 cada juego $18.00
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1. Nacimiento, matrimonio o defunción, cada juego $20.00;
 
 c) Asentamiento de escritura pública $ 2.50;
 
@@ -2858,6 +3400,14 @@ establecimientos con venta de bebidas
 alcohólicas $ 8.40;
 
 h) Formas de permisos provisionales para circular sin placas. 1 cuota;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+i) Hologramas y certificados para Centros de Verificación 1.32 cuotas;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+j) Hoja de rechazo para Centros de Verificación 0.50 cuotas.
 
 III. De capitales y valores del Estado, sus rendimientos;
 
@@ -3080,3 +3630,23 @@ P.O. 29 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil doce, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obligaciones derivadas de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos que se abroga mediante el decreto expedido por el Congreso de la Unión y publicado en fecha 21 de diciembre de 2007, en el Diario Oficial de la Federación, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables, lo anterior con fundamento en el párrafo segundo del artículo cuarto del propio decreto. En la aplicación del Programa "Apoyo de las Familias Zacatecanas", el porcentaje que le corresponde a la Universidad Autónoma de Zacatecas "Francisco García Salinas", será sobre el monto efectivamente enterado a la Secretaría de Finanzas de Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+A partir del 1° de enero del año 2012, de la recaudación que la entidad obtenga del Impuesto Sobre Tenencia o Uso de Vehículos, se participará a los municipios del Estado con un porcentaje del 5% sobre el monto efectivamente enterado a la Secretaría de Finanzas de Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas o morales, propietarias o poseedoras de vehículos automotores cuyo valor de adquisición consignado en factura primordial sea igual o menor a $200,000.00 inscritas en el padrón vehicular estatal, podrán ser susceptibles de apoyo en el pago del Impuesto Sobre Tenencia o Uso de Vehículos por el ejercicio fiscal 2012, siempre y cuando estén al corriente o regularizados de sus obligaciones fiscales estatales y/o impuestos federales coordinados que la entidad recaude y/o administre; que se encuentren al corriente en el pago del Impuesto Predial y en el pago del Derecho de Agua Potable.
+
+Para ser beneficiarios de esta exención, el trámite de pago deberá de efectuarse dentro del periodo del 1° de Enero al 31 de Marzo del 2012.
