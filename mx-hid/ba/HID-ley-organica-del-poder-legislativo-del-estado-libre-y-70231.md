@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2011-09-19"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -721,7 +721,9 @@ V.- Comisión de Educación;
 
 VI.- Comisión de la Niñez, la Juventud, el Deporte y la Familia;
 
-VII.- Comisión de Seguridad Pública y Justicia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+VII.- Comisión de Seguridad Pública, Justicia y de Seguimiento sobre las Agresiones contra Periodistas y Medios de Comunicación;
 
 VIII.- Comisión de Derechos Humanos;
 
@@ -731,7 +733,9 @@ X.- Comisión de Medio Ambiente;
 
 XI.- Comisión de Población y Migración;
 
-XII.- Comisión de Industria, Comercio y Servicios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+XII.- Comisión de Fomento Cooperativo, Economía, Industria, Comercio y Servicios;
 
 XIII.- Comisión de Obras Públicas, Desarrollo Urbano y Vivienda;
 
@@ -747,9 +751,9 @@ XVII.- Comisión de Corrección y Estilo;
 
 XVIII.- Comisión para el Desarrollo Integral de los Pueblos Indígenas;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-XIX.- Comisión de Agricultura, Ganadería y Desarrollo Rural Sustentable;
+XIX.- Comisión de Desarrollo Agropecuario y Recursos Hidráulicos;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -1855,7 +1859,7 @@ IV.- Directores Generales y de Área, Subdirectores, Auditores, Jefes de Departa
 
 ###### ARTÍCULO 205.
 
-La declaración patrimonial, deberá presentarse en los siguientes plazos:
+la declaración patrimonial, deberá presentarse en los siguientes plazos:
 
 I.- La inicial, dentro de los sesenta días hábiles siguientes al inicio de sus funciones;
 
@@ -1935,7 +1939,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE ABRIL DE 2010.
 
@@ -1974,3 +1978,7 @@ P.O. 19 DE SEPTIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+Único.- Envíese al Titular del Poder Ejecutivo para su Publicación en el Periódico Oficial del Estado.
