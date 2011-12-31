@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2009-12-31"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -271,49 +271,37 @@ En ningún caso el impuesto predial anual será inferior a tres días de salario
 
 El Impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Agraria y de la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+###### ARTÍCULO 28°.
 
-###### ARTÍCULO 28º.
+El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causara sobre el valor de la finca e instalaciones a razón de 2.8330 al millar.
 
-El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 2.125 al millar.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
-
-###### ARTÍCULO 29º.
+###### ARTÍCULO 29°.
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+a). A razón de 1.5331 al millar sobre el valor catastral de los predios destinados exclusivamente para el uso de casa habitación, siempre que en ella habite el propietario; en este caso no se aplicara el segundo párrafo del inciso c) de este Artículo.
 
-a). A razón de 1.15 al millar sobre el valor catastral de los predios destinados exclusivamente para el uso de casa habitación, siempre que en ella habite el propietario; en este caso no se aplicará el segundo párrafo del inciso c) de este Articulo.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+b). A razón de 3.0663 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-b). A razón de 2.3 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+c). A razón de 6.1326 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 0.6132 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 12.2652 al millar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+d). A razón del 3.0663 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-c). A razón del 4.6 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un .46 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 9.2 al millar.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-d). A razón del 2.3 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-e). A razón del 1.725 al millar sobre el valor catastral de los predios destinados al alquiler de casa habitación y a los de uso mixto, se entiende por uso mixto aquel que se destina a casa habitación y a cualquier otro previsto por la Ley de manera simultánea. Cuando resulte imposible deslindar la superficie utilizada para un uso específico de los descritos en los incisos a), b), c) o d) que anteceden se aplicará supletoriamente la tasa que corresponde a este inciso.
+e) A razón del 2.2997 al millar sobre el valor catastral de los predios destinados al alquiler de casa habitación y a los de uso mixto, se entiende por uso mixto aquel que se destina a casa habitación y a cualquier otro previsto por la Ley de manera simultánea. Cuando resulte imposible deslindar la superficie utilizada para un uso específico de los descritos en los incisos a), b), c) o d) que anteceden se aplicará supletoriamente la tasa que corresponde a este inciso.
 
 Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno. En ningún caso el impuesto predial anual será inferior a un día de salario mínimo.
 
@@ -4366,3 +4354,13 @@ B.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor el día primero de Enero del año dos mil diez, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+En lo que respecta a las tablas de valores unitarios de suelo, construcción y vialidades especiales, que sirvan de base para el cobro de las contribuciones de la propiedad inmobiliaria en el Municipio de Los Cabos, Baja California Sur, aplicables para el ejercicio fiscal del año dos mil doce, el presente Decreto tendrá vigencia del día primero de enero al treinta y uno de diciembre del año dos mil doce, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que respecta a la reformas a los artículos 28 y 29 incisos a), b), c), d) y e) de la Ley de Hacienda para el Municipio de los Cabos, Baja California Sur, el presente decreto entrara en vigor el día primero de enero del año dos mil doce, previa su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
