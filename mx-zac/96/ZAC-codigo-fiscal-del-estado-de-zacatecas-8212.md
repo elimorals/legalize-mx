@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-8212"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "1998-12-30"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # CODIGO FISCAL DEL ESTADO DE ZACATECAS
 
-CODIGO FISCAL DEL ESTADO DE ZACATECAS
+CÓDIGO FISCAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -219,11 +219,19 @@ Son autoridades fiscales del Estado:
 
 5.- El Jefe del Departamento de Recaudación.
 
-6.- El Jefe del Departamento de Fiscalización.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-7.- El Jefe del Departamento Técnico de Ingresos.
+6.- El Director de Fiscalización.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+7.- El Jefe del Departamento de Vigilancia de Obligaciones.
 
 8.- Los Recaudadores de Rentas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Las Autoridades Fiscales ejercerán su competencia en el territorio del Estado.
 
 ### CAPITULO SEGUNDO. Atribuciones de las Autoridades Fiscales
 
@@ -922,6 +930,10 @@ XX.- No presentar ante las autoridades fiscales cuando éstas lo soliciten, las 
 XXI.- Ejercer el comercio clandestino por más de dos meses sin reunir los requisitos que establecen las leyes fiscales, siempre que no sean comerciantes ambulantes, multa de diez a cien cuotas.
 
 XXII.- Infringir disposiciones fiscales en forma no prevista a en las fracciones anteriores, multa de diez a cien cuotas.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+XXIII. No realizar el pago de tenencia o uso de vehículos, presentarlos fuera del plazo, no cumplir con los requerimientos de las autoridades fiscales para presentarlos o cumplir fuera del plazo establecido en dichos requerimientos, multa de 10 a 40 cuotas de salario mínimo general vigente en el Estado.
 
 ###### ARTICULO 97o.
 
@@ -1866,3 +1878,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE DICIEMBRE DE 1998.
 
 UNICO.- Las presentes adiciones, derogaciones y reformas, entrarán en vigor el día primero de enero de mil novecientos noventa y nueve.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil doce, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
