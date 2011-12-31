@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-6217
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-08"
-last_updated: "2011-06-30"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 31 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADA.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
@@ -1598,3 +1600,35 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se le concede al titular de la Secretaria de Seguridad Pública y las demás Autoridades del Estado un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para que implementen en forma coordinada con la Federación, el Estado y los Municipios, respectivamente, y en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos o secuestrados, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización o rescate.
+
+B.O. 31 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto 1752, mediante el cual se expidió la Ley de Seguridad Pública para el Estado de Baja California Sur, Publicada en el Boletín Oficial del Gobierno del Estado número 36, de fecha 8 de julio del año 2008.
+
+###### ARTÍCULO TERCERO.
+
+Se expedirán las autoridades correspondientes, los reglamentos y disposiciones municipales derivadas del contenido de la presente Ley dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
+
+###### ARTICULO CUARTO.
+
+El Gobernador del Estado, para llevar a cabo las adecuaciones o en su caso, expedir los reglamentos y disposiciones administrativas derivadas del contenido de la presente Ley cuenta con un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá expedir en un plazo que no exceda de 60 días, el Reglamento del Consejo Estatal de Seguridad Pública de Baja California Sur, en el que se contemple la integración y funcionamiento del Comité Administrador del Fondo de Aportaciones par a (sic) la Seguridad Pública y del Consejo de Honor y Justicia.
+
+Entre tanto se da cumplimiento a lo dispuesto en el presente artículo, seguirán vigentes los reglamentos de los órganos señalados en lo que no se opongan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las obligaciones señaladas a los Ministerios Públicos, señaladas en la presente Ley, serán vigentes hasta que se expidan y se aplique el Sistema de Justicia Penal Acusatorio, adversarial y oral.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones Legales que se opongan a la presente Ley.
