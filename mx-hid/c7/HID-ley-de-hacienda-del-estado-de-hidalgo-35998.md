@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2011-04-18"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 23 Y 30 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 67, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2011, SE MODIFICA DE MANERA SUSTANCIAL TODO EL TEXTO DE LA PRESENTE LEY, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL Y SI BIEN, DIVERSOS ARTÍCULOS QUEDARON INTACTOS, SE PRESENTA EL TEXTO APROBADO EN LA FECHA DE REFERENCIA.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 18 DE ABRIL DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -71,235 +73,203 @@ Las contribuciones que se establezcan en la Ley de Ingresos, se norman por las d
 
 La Hacienda Pública del Estado, para el cumplimiento de las funciones que le atribuye el orden jurídico, percibirá las contribuciones federales y estatales a que se refiere el Artículo anterior y los que se encuentren pactados en los Convenios que se hayan suscrito o que se suscriban para tales efectos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 4.
 
-Son objeto de este Impuesto, los ingresos que perciban las personas físicas, dentro del territorio del Estado, derivados de la prestación de servicios médicos profesionales independientes, que requieran título profesional, y otras actividades artístico culturales y deportivas.
+El pago de los impuestos, derechos, aprovechamientos, contribuciones de mejoras y productos se hará en las Instituciones autorizadas, o salvo cuando la Ley disponga expresamente otra cosa, observándose las reglas siguientes:
 
-Para los efectos de este impuesto, se considera percibido el ingreso dentro del Territorio del Estado:
+I.- Los pagos mensuales y bimestrales se efectuarán en los veinte primeros días de cada mes o bimestre en el que se generaron;
 
-I.- Cuando en él se realicen o surtan efectos de hecho o de derecho, las actividades a que se refiere el párrafo primero de este Artículo;
+II.- Fuera de los casos anteriores y a falta de disposición expresa, las demás contribuciones se causarán al efectuarse el acto que causa el tributo o al solicitarse o recibirse el servicio respectivo.
 
-II.- Cuando quien cubra los ingresos gravables resida en el Estado y
-
-III.- Cuando el domicilio de quien ejerza la actividad gravada, se encuentre en el Estado.
-
-DEL SUJETO:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO PRIMERO. DEL IMPUESTO SOBRE HONORARIOS Y OTRAS ACTIVIDADES LUCRATIVAS
 
-DEL OBJETO:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 5.
 
-Son sujetos de este impuesto las personas físicas que realicen las actividades objeto de este impuesto.
+Son objeto de este Impuesto, los ingresos que perciban las personas físicas, dentro del territorio del Estado, derivados de la prestación de servicios médicos profesionales independientes, que requieran título profesional, y otras actividades artístico culturales y deportivas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+Para los efectos de este impuesto, se considera percibido el ingreso dentro del territorio del Estado:
 
-DE LA BASE:
+I.- Cuando en él se realicen o surtan efectos de hecho o de derecho las actividades a que se refiere el párrafo primero de este Artículo;
+
+II.- Cuando quien cubra los ingresos gravables resida en el Estado; y
+
+III.- Cuando el domicilio de quien ejerza la actividad gravada se encuentre en el Estado.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 5], P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 6.
 
-Es base de este impuesto, el monto total de los ingresos a que se refiere el Artículo 4 de esta Ley.
+Son sujetos de este impuesto las personas físicas que realicen las actividades objeto de este impuesto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-La Secretaria de Finanzas del Estado podrá determinar presuntivamente la base de este impuesto, los siguientes casos:
-
-I.- Cuando no se presenten las declaraciones, no lleven los libros de registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-II.- Cuando por los informes o documentos de los que se disponga, se ponga de manifiesto la obtención de un ingreso superior cuando menos en un cinco por ciento, al declarado por el causante, en cualquiera de los bimestres del período declarado; y
-
-III.- Cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-Para la determinación presuntiva de la base del impuesto, se considerarán las actividades realizadas, los honorarios obtenidos de forma usual por servicios similares, los pagos por la renta del local que se ocupe para el ejercicio de su actividad, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como lo dispuesto en el Código Fiscal del Estado en lo conducente.
-
-DE LA TASA:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 7.
 
-Este impuesto se causará y pagará mediante la aplicación de la tasa del 1.6% a la base gravable.
+Es base de este impuesto el monto total de los ingresos a que se refiere el Artículo 4 de esta Ley
 
-I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
+La Secretaría de Finanzas y Administración del Estado podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
 
-II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
+I.- Cuando no se presenten las declaraciones, no lleven los libros de registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo;
 
-DEL PAGO:
+II.- Cuando por los informes o documentos de los que se disponga, se ponga de manifiesto la obtención de un ingreso superior cuando menos en un cinco por ciento, al declarado por el causante, en cualquiera de los bimestres del periodo declarado; y
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+III.- Cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales.
+
+Para la determinación presuntiva de la base del impuesto, se considerarán las actividades realizadas, los honorarios obtenidos de forma usual por servicios similares, los pagos por la renta del local que se ocupe para el ejercicio de su actividad, sueldo y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como lo dispuesto en el Código Fiscal del Estado en lo conducente.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 7], P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 8.
 
-La presentación de declaraciones de este impuesto deberá realizarse, vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera bimestral, a más tardar el día 20 del mes correspondiente por los ingresos percibidos en el bimestre inmediato anterior.
+Este impuesto se causará y pagará mediante la aplicación de la tasa del 1.6% a la base gravable.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet, la declaración en ceros que corresponda.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 8 BIS.- Son responsables solidarios. quienes realicen pagos a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas, dentro de los veinte días siguientes al bimestre al en que se causen.
-
-Los responsables solidarios, deberán cumplir con lo dispuesto en el Artículo 9 del presente capítulo, con excepción de la fracción IV.
-
-DE LAS OBLIGACIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 9.
 
-Los sujetos de este impuesto, están obligados a:
+La presentación de declaraciones de este impuesto deberá realizarse, vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, de manera bimestral, a más tardar el día 20 del mes correspondiente por los ingresos percibidos en el bimestre inmediato anterior.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las instituciones autorizadas por la Secretaría de Finanzas y Administración.
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas en el Centro Regional de Atención al Contribuyente de su jurisdicción, dentro de los quince días hábiles siguientes a la fecha de inicio de sus actividades;
+Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet la declaración en ceros que corresponda.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-II.- Dar aviso al Centro Regional de Atención al Contribuyente de su jurisdicción, en los casos de cambio de domicilio, aumento o disminución de obligaciones, así como, suspensión o cambio de la actividad dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas;
-
-III.- Presentar los avisos, documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este impuesto, dentro de los plazos y en los lugares que ésta señale para el efecto;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-IV.- Expedir recibo por cada ingreso conforme a los requisitos y formalidades que establecen las leyes fiscales aplicables;
-
-V.- Llevar el registro de sus ingresos y conservar la documentación comprobatoria correspondiente, conforme a las disposiciones del Código Fiscal del Estado;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-VI.- Presentar las declaraciones bimestrales con carácter de definitivas y efectuar el pago que corresponda conforme a lo dispuesto por el artículo 7 de este capítulo, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-VII.- Recibir las visitas de inspección y revisión, y proporcionar a las autoridades fiscales comisionadas para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones.
-
-DE LAS EXCEPCIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 10.
 
-No causan este impuesto:
+Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas y Administración, dentro de los veinte días siguientes al bimestre al en que se causen.
 
-I.- Los ingresos que perciban los artesanos y
+Los responsables solidarios, deberán cumplir con lo dispuesto en el Artículo 11 del presente capítulo, con excepción de la fracción IV.
 
-II.- Las personas físicas que causen el impuesto al valor agregado, conforme a la Ley de la materia.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 11.
 
-Es objeto de este impuesto, la adquisición por cualquier título de automóviles, camiones y motocicletas usados, que se realicen dentro del Territorio del Estado, siempre que no cause el impuesto al valor agregado.
+Los sujetos de este impuesto están obligados a:
 
-Son también objeto de este impuesto, las operaciones que se realicen fuera del Territorio Estatal, cuando el vehículo usado de que se trate, sea inscrito en el Padrón Vehicular del Estado de Hidalgo.
+I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración en el Centro Regional de Atención al Contribuyente de su jurisdicción dentro de los quince días hábiles siguientes a la fecha del inicio de sus actividades;
 
-Se entiende por automóviles, camiones y motocicletas usados, los vehículos de cualquier tipo cuya propiedad sea transferida por segunda o ulteriores ocasiones por los medios que establecen las Leyes de la materia, inclusive cuando se pacte con reserva de dominio.
+II.- Dar aviso al Centro Regional de Atención al Contribuyente de su jurisdicción, en los casos de cambio de domicilio, aumento o disminución de obligaciones, así como, suspensión o cambio de la actividad dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+III.- Presentar los avisos, documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este impuesto, dentro de los plazos y en los lugares que éstas señalen para tal efecto;
 
-Se considera efectuada la operación dentro del Estado, por el solo hecho de realizar los trámites de cambio de propietario o matriculación de un vehículo en el padrón del Estado, en cualquiera de los Centros Regionales de Atención al Contribuyente o cuando:
+IV.- Expedir recibo por cada ingreso conforme a los requisitos y formalidades que establecen las leyes fiscales aplicables;
 
-I.- Se transmita total o parcialmente la propiedad del bien;
+V.- Llevar el registro de sus ingresos y conservar documentación comprobatoria correspondiente, conforme a las disposiciones del Código Fiscal del Estado;
 
-II.- Se entregue el bien al adquirente o
+VI.- Presentar las declaraciones bimestrales con carácter de definitivas y efectuar el pago que corresponda conforme a lo dispuesto por el Artículo 8 de este capítulo; y
 
-III.- Se endose la factura o documento que ampare la propiedad.
+VII.- Recibir las visitas de inspección y revisión, y proporcionar a las autoridades fiscales comisionadas para el efecto, todos los informes y documentos que soliciten en el desempeño de sus funciones.
 
-DEL SUJETO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 12.
 
-Son sujetos de este impuesto, las personas físicas o morales que adquieran la propiedad de vehículos usados, por cualquiera de los medios establecidos en el Artículo anterior.
+No causan este impuesto:
 
-DE LA BASE:
+I.- Los ingresos que perciban los artesanos; y
 
-### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE ADQUISICION DE AUTOMOVILES, CAMIONES Y MOTOCICLETAS USADOS QUE SE REALICEN ENTRE PARTICULARES
+II.- Las personas físicas que causen el impuesto al valor agregado, conforme a la Ley de la materia.
 
-DEL OBJETO:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. IMPUESTO SOBRE ADQUISICION DE AUTOMOVILES, CAMIONES Y MOTOCICLETAS USADOS QUE SE REALICEN ENTRE PARTICULARES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-Se considera como base gravable de este Impuesto, la contraprestación pactada por la realización de cualquiera de las operaciones referidas en el Artículo 11 de esta Ley.
+Es objeto de este impuesto, la adquisición por cualquier título de automóviles, camiones y motocicletas usados, que se realicen dentro del territorio del Estado, siempre que no cause el impuesto al valor agregado.
 
-DE LA TASA:
+Son también objeto de este impuesto, las operaciones que se realicen fuera del territorio estatal, cuando el vehículo usado de que se trate, sea inscrito en el padrón vehicular del Estado de Hidalgo.
+
+Se entiende por automóviles, camiones y motocicletas usados, los vehículos de cualquier tipo cuya propiedad sea transferida por segunda o ulteriores ocasiones por los medios que establecen las leyes de la materia, inclusive cuando se pacte con reserva de dominio.
+
+Se considera efectuada la operación dentro del Estado, por el sólo hecho de realizar los trámites de cambio de propietario o matriculación de un vehículo en el padrón del Estado, en cualquiera de los Centros Regionales de Atención al Contribuyente o cuando:
+
+I.- Se transmita total o parcialmente la propiedad del bien;
+
+II.- Se entregue el bien al adquirente; o
+
+III.- Se endose la factura o documento que ampare la propiedad.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 12], P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 14.
 
-Este impuesto se causará y pagará a la tasa de cuatro salarios mínimos vigentes en la zona geográfica del Estado.
+Son sujetos de este impuesto, las personas físicas o morales que adquieran la propiedad de vehículos usados, por cualquiera de los medios establecidos en el Artículo anterior.
 
-DEL PAGO:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 15.
 
-El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará, mediante declaraciones que deberán presentarse en cualquiera de las instituciones bancarias o en las formas autorizadas por la Secretaría de Finanzas o vía internet, dentro de los quince días siguientes al de la fecha en que se realice la operación.
+Se considera como base gravable de este Impuesto, la contraprestación pactada por la realización de cualquiera de las operaciones referidas en el Artículo 13 de esta Ley.
 
-DE LAS OBLIGACIONES:
+(REUBICADO [N. DE E. ANTES ARTÍCULO 14], P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 16.
 
-Para la recaudación de este impuesto, se observarán las siguientes reglas:
+Este impuesto se causará y pagará a la tasa de cuatro salarios mínimos vigentes en la zona geográfica del Estado.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas, los datos y documentos relativos de las operaciones; y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-II.- Los Centros Regionales de Atención al Contribuyente se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas en la que conste el pago efectuado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-Son solidariamente responsables del pago de este impuesto:
+El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará mediante declaraciones que deberán presentarse en cualquiera de las instituciones autorizadas o en las formas autorizadas por la Secretaría de Finanzas y Administración o vía internet, dentro de los quince días siguientes al de la fecha en que se realice la operación.
 
-I.- Los enajenantes;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-II.- Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas; y
-
-III.- Los empleados o funcionarios públicos que autoricen cualesquiera de los trámites referidos en este capítulo, sin haber verificado y exigido el pago de este impuesto.
-
-DE LAS EXCEPCIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 18.
 
-Quedan exceptuadas del pago de este impuesto:
+Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
-I.- Las operaciones sobre vehículos usados adquiridos por personas físicas o morales que trasladen en forma expresa y por separado el impuesto al valor agregado y
+I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas y Administración, los datos y documentos relativos de las operaciones; y
 
-II.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, cuando se demuestre que los vehículos se dedicarán al desempeño de sus funciones de derecho público.
+II.- Los Centros Regionales de Atención al Contribuyente, se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas y Administración en la que conste el pago efectuado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 19.
 
+Son solidariamente responsables del pago de este impuesto.
+
+I.- Los enajenantes;
+
+II.- Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración; y
+
+III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, cuando se demuestre que los vehículos se dedicarán al desempeño de sus funciones de derecho público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 20.
+
+Quedan exceptuadas del pago de este impuesto:
+
+I.- Las operaciones sobre vehículos usados adquiridos por personas físicas o morales que trasladen en forma expresa y por separado el impuesto al valor agregado; y
+
+II.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, cuando se demuestre que los vehículos se dedicarán al desempeño de sus funciones de derecho público.
+
+### CAPITULO TERCERO. DEL IMPUESTO SOBRE NOMINAS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 21.
+
 Son objeto de este impuesto, las erogaciones en efectivo o en especie, que tengan como fin remunerar el trabajo personal subordinado, que se preste dentro del territorio del Estado, independientemente de la designación que se les otorgue y del lugar en que se realicen.
 
-Las erogaciones a que se refiere este Artículo, incluyen las que se efectúen a: Los obreros, empleados de confianza, empleados por honorarios asimilados a sueldos o salarios, directores, gerentes, administradores, representantes, integrantes de consejos directivos, de vigilancia o consultivos, comisarios, intermediarios y demás personal que las reciba de toda clase de empresas y negociaciones.
+Las erogaciones a que se refiere este Artículo incluyen las que se efectúen a: los obreros, empleados de confianza, empleados por honorarios asimilados a sueldos o salarios, directores, gerentes, administradores, representantes, integrantes de consejos directivos, de vigilancia o consultivos, comisarios, intermediarios y demás personal que las reciba, de toda clase de empresas, negociaciones.
 
-Constituyen también, el objeto del impuesto, los rendimientos o anticipos que obtengan los integrantes de sociedades cooperativas de producción o servicios.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+Constituyen también el objeto del impuesto, los rendimientos o anticipos que obtengan los integrantes de sociedades cooperativas de producción o servicios.
 
 Para los efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, todas las contraprestaciones cualesquiera que sean los nombres con los que se les designe, ya sean ordinarias o extraordinarias, en las que se incluyen los pagos realizados por:
 
@@ -313,43 +283,31 @@ IV.- Compensaciones;
 
 V.- Gratificaciones y aguinaldos;
 
-VI.- Primas de antigüedad y
+VI.- Primas de antigüedad; y
 
-VII.- Las comisiones que se paguen a las personas por los servicios que presten a un empleador, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de éste último, por los que no se deba pagar el impuesto al valor agregado.
+VII.- Las comisiones que se paguen a las personas por los servicios que presten a un empleador, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de este último, por las que se deba pagar el impuesto al valor agregado.
 
-DEL SUJETO:
-
-###### ARTICULO 20.
-
-Son sujetos del pago de este impuesto, las personas físicas y morales que realicen los pagos a que se refiere el Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el Territorio del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Finanzas.
-
-DE LA BASE:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-### CAPITULO TERCERO. DEL IMPUESTO SOBRE NOMINAS
-
-DEL OBJETO:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-###### ARTICULO 21.
-
-Es base gravable de este impuesto, el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal subordinado a que se refiere el artículo 19 de esta ley.
-
-DE LA TASA:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 22.
 
-El impuesto se determinará, mediante la aplicación de la base que señala el Artículo anterior a las tasas siguientes:
+Son sujetos del pago de este impuesto, las personas físicas y morales que realicen los pagos a que se refiere el Artículo anterior.
+
+También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el Territorio del Estado.
+
+En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 23.
+
+Es base gravable de este impuesto, el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal subordinado a que se refiere el Artículo 21 de esta ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 24.
+
+El impuesto sobre nóminas se determinará mediante la aplicación de la base que señala el Artículo anterior a las tasas siguientes:
 
 I.- De 1 a 20 trabajadores 0.5%
 
@@ -359,141 +317,99 @@ III.- De 101 trabajadores en adelante 2.0%
 
 En los casos que la planta de trabajadores aumente o disminuya en un sólo mes, se aplicará la tasa que corresponda al número mayor de trabajadores.
 
-DEL PAGO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-###### ARTICULO 23.
+###### ARTICULO 25.
 
 El impuesto, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado; dicho impuesto se enterará a la Autoridad en la siguiente forma:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Los contribuyentes que se encuentren en los supuestos establecidos en el Artículo anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación.
 
-I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
+II.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción o vía Internet, la declaración en ceros que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El pago podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas y Administración en las instituciones autorizadas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-II.- Los contribuyentes que se encuentren en los supuestos establecidos en el Artículo anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación;
+###### ARTICULO 26.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los contribuyentes de este impuesto tienen las obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
 
-III.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet, la declaración en ceros que corresponda.
+II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar las declaraciones correspondientes conforme a lo dispuesto por el Artículo 25 de esta Ley, en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de sus negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
+III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 25 de esta Ley, en las que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
-El pago podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas.
+IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguiente (sic) al en que ocurra el hecho.
 
-DE LAS OBLIGACIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 24.
-
-Los contribuyentes de este impuesto, tienen las obligaciones siguientes:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet, o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar las declaraciones correspondientes conforme a lo dispuesto por el Artículo 23 de esta Ley, en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de las negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-III.- Las personas físicas o morales cuya casa matriz se encuentre ubicada fuera del Territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 23 de esta Ley, en las que se acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Fianzas, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguientes al en que ocurra el hecho.
-
-DE LAS EXCEPCIONES:
-
-###### ARTICULO 25.
+###### ARTICULO 27.
 
 No causarán este impuesto:
 
 I.- Las erogaciones que se cubran por concepto de:
 
-a).- Indemnizaciones derivadas de la rescisión o terminación de las relaciones de trabajo, ya sean de manera voluntaria o por resolución de Autoridad competente;
+a).- Indemnizaciones derivadas de la rescisión o terminación de las relaciones de trabajo, ya sean de manera voluntaria o por resolución de autoridad competente;
 
 b).- Participaciones de los trabajadores en las utilidades de las empresas;
 
-c).- Indemnizaciones por riesgos o enfermedades profesionales, que se otorguen de conformidad con las Leyes o Contratos respectivos;
+c).- Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las leyes o contratos respectivos;
 
-d).- Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía o muerte;
+d).- Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
 e).- Pagos por gastos funerarios;
 
-f).- Aportaciones a las Instituciones de Seguridad Social o de fondos para el retiro, constituidas conforme a las Leyes de la materia;
-
-g).- Contraprestaciones cubiertas a trabajadores domésticos;
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-h).- El fondo de ahorro: Cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa; en los casos que el patrón rebase el monto señalado, éste se pagará de manera proporcional al excedente;
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-i).- Despensas, alimentación y transporte: Cuando en su conjunto no rebasen el 40% del total del salario y se hayan otorgado de manera general a la totalidad de los trabajadores; y
-
-j).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2006)
+f).- Aportaciones a las instituciones de seguridad social o de fondos para el retiro, constituidas conforme a las Leyes de la materia;
 
 II.- Las erogaciones que efectúen:
 
-a).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-b).- Las personas morales, cuando en su Acta Constitutiva conste expresamente que no persiguen fines de lucro, y que promuevan o realicen las actividades siguientes:
+a).- Las personas morales, cuando en su Acta Constitutiva conste expresamente que no persiguen fines de lucro, y que promuevan o realicen las actividades siguientes:
 
 1.- Asistencia social en cualquiera de sus formas;
 
-2.- Sociales legalmente autorizadas que se encuentren debidamente registradas ante las Autoridades Estatales competentes;
+2.- Sociales legalmente autorizadas que se encuentren debidamente registradas ante las autoridades estatales competentes;
 
-3.- Asociaciones de Padres de Familia, constituidas y registradas en los términos del Reglamento Federal de Asociaciones de Padres de Familia y
+3.- Asociaciones de padres de familia, constituidas y registradas en los términos del reglamento federal de asociaciones de padres de familia; o
 
 4.- Asociaciones de Colonos.
 
-c).- Los Partidos o Asociaciones Políticas y Religiosas, constituidos conforme a la Ley de la materia;
+b).- Los partidos o asociaciones políticas y religiosas, constituidos conforme a la Ley de la materia;
 
-d).- Las Uniones o Asociaciones de Agricultores, Ganaderos, Piscicultores, Silvicultores o Comunidades;
+c).- Las uniones o asociaciones de agricultores, ganaderos, piscicultores, silvicultores o comunidades;
 
-e).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
+d).- Las asociaciones rurales de interés colectivo;
 
-f).- Las Asociaciones Rurales de interés colectivo;
+e).- De ejidos;
 
-g).- Los Ejidos;
+f).- Cámaras de comercio e industria, así como los organismos que las reúnan;
 
-h).- Las Cámaras de Comercio e Industria, así como los Organismos que las agrupen;
+g).- Sindicatos obreros y los organismos que los agrupen;
 
-i).- Los Sindicatos Obreros y los Organismos que los agrupen;
+h).- Asociaciones patronales; y
 
-j).- Las asociaciones patronales y
+i).- Colegios de profesionales y los organismos que los agrupen.
 
-k).- Los colegios de profesionales y los organismos que los agrupen.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-###### ARTICULO 26.
-
-Es objeto de este impuesto, el pago que realice el usuario por la obtención de servicios de hospedaje, alojamiento o albergue proporcionado dentro del Territorio del Estado, ya sea de forma permanente o temporal, por personas físicas o morales en hoteles, moteles, albergues, villas, bungalos, paraderos de casas rodantes, casas de huéspedes, ex haciendas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios, bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue.
-
-DEL SUJETO:
-
-###### ARTICULO 27.
-
-Son sujetos al pago de este impuesto, las personas físicas o morales que dentro del Territorio del Estado de Hidalgo, hagan uso de los servicios a que se refiere el Artículo anterior.
-
-DE LA BASE:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO CUARTO. DEL IMPUESTO POR LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-DEL OBJETO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 28.
+
+Es objeto de este impuesto, el pago que realice el usuario por la obtención de servicios de hospedaje, alojamiento o albergue que se proporcione dentro del territorio del Estado, ya sea de forma permanente o temporal, por personas físicas o morales en hoteles, moteles, albergues, villas, bungalós, paraderos de casas rodantes, casas de huéspedes, exhaciendas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 29.
+
+Son sujetos al pago de este impuesto, las personas físicas o morales que dentro del territorio del Estado de Hidalgo hagan uso de los servicios a que se refiere el Artículo anterior.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 28], P.O. 31 DE DICIEMBRE DE 2011)
+
+###### ARTICULO 30.
 
 Es base gravable de este impuesto, el monto total de las contraprestaciones pagadas por los servicios de hospedaje, sin incluir alimentos y demás servicios accesorios.
 
@@ -501,61 +417,49 @@ Se consideran contraprestaciones por la prestación de los servicios a que se re
 
 En los casos de servicios de hospedaje prestados bajo la modalidad de uso de tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
 
-DE LA TASA:
-
-###### ARTICULO 29.
-
-Este impuesto, se pagará y determinará mediante la aplicación de la tasa del 2% a la base gravable.
-
-DEL PAGO:
-
-###### ARTICULO 30.
-
-El impuesto a que se refiere el presente capítulo, se causará en el momento en que se presten los servicios de hospedaje y será retenido por el prestador cuando se reciba el pago de dichos servicios.
-
-Los prestadores del servicio de hospedaje, trasladarán en forma expresa y por separado, el impuesto a las personas que reciban el servicio.
-
-Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-Los prestadores de los servicios a que se refiere este capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
-
-DE LAS OBLIGACIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 31.
 
-Los prestadores de los servicios de hospedaje, están obligados a:
+Este impuesto se pagará y determinará mediante la aplicación de la tasa del 2% a la base gravable.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-I.- Inscribirse en el padrón estatal de contribuyentes de la Secretaría de Finanzas del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma secretaria;
-
-II.- Trasladar el impuesto en forma expresa y por separado, a través de los comprobantes que señala el Código Fiscal del Estado;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-III.- Presentar, vía internet o a través del centro regional de atención al contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas, los avisos relativos a: cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguientes al en que ocurra el hecho;
-
-IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto, por la prestación del servicio de hospedaje;
-
-V.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que reciban o se hagan exigibles y de los comprobantes de pago que expidan;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas, y efectuar los pagos que correspondan conforme a la dispuesto por el Artículo 30 de este capítulo; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz.
-
-DE LAS EXCEPCIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 32.
 
-No se causará el impuesto sobre hospedaje, por el alojamiento prestado en:
+El impuesto a que se refiere el presente capítulo, se causará en el momento en que se presten los servicios de hospedaje y será retenido por el prestador cuando se reciba el pago de dichos servicios.
+
+Los prestadores del servicio de hospedaje trasladarán en forma expresa y por separado, el impuesto a las personas que reciban el servicio.
+
+Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
+
+Los prestadores de los servicios a que se refiere este capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas y Administración aperturadas en las Instituciones autorizadas, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 33.
+
+Los prestadores de los servicios de hospedaje están obligados a:
+
+I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma secretaría;
+
+II.- Trasladar el impuesto en forma expresa y por separado, en los comprobantes que señale el Código Fiscal del Estado;
+
+III.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos relativos a: Cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguientes al en que ocurra el hecho;
+
+IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto por la prestación del servicio de hospedaje;
+
+V.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que reciban o se hagan exigibles y de los comprobantes de pago que expidan;
+
+VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración y efectuar los pagos que correspondan conforme a lo dispuesto por el Artículo 31 de este capítulo;
+
+VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 34.
+
+No se causará el impuesto sobre hospedaje por el alojamiento prestado en:
 
 I.- Hospitales;
 
@@ -571,379 +475,957 @@ VI.- Seminarios;
 
 VII.- Internados;
 
-VIII.- Instituciones de Asistencia o Beneficencia autorizadas por las Leyes correspondientes, ya sean públicas o privadas y
+VIII.- Instituciones de asistencia o beneficencia autorizadas por las Leyes correspondientes, ya sean públicas o privadas; y
 
 IX.- El prestado a estudiantes, cuyo servicio derive de contratos de arrendamiento.
 
-DE LA APLICACION:
-
-###### ARTICULO 33.
-
-El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión del sector turismo de la Entidad.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 34.
-
-Es objeto de este impuesto, el uso o tenencia de vehículos automotores, cuyo año modelo sea mayor de diez años anteriores al Ejercicio Fiscal en curso.
-
-Para los efectos de este artículo, se consideran vehículos automotores: los automóviles, camionetas, minibuses, microbuses, omnibuses, autobuses, camiones, tractores no agrícolas tipo quinta rueda y motocicletas.
-
-Para efectos de este Artículo, la Autoridad Fiscal determinará los años de antigüedad del vehículo con base en el documento oficial que ampare la propiedad.
-
-DEL SUJETO:
+(REUBICADO [N. DE E. ANTES ARTÍCULO 33], P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 35.
 
-Son sujetos del pago de este impuesto, las personas físicas o morales, usuarias o tenedoras de los vehículos de servicio público o privado a que se refiere este capítulo, con domicilio fiscal dentro de la circunscripción territorial del Estado de Hidalgo.
+El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión del sector turismo de la Entidad.
 
-### CAPITULO QUINTO. IMPUESTO ESTATAL SOBRE TENENCIA DE VEHICULOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-DEL OBJETO:
+### CAPÍTULO QUINTO. IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 36.
 
-Son responsables solidarios del pago del impuesto establecido en este capítulo:
+Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales tenedoras o usuarias de los vehículos a que el mismo se refiere, siempre que el Estado de Hidalgo expida placas de circulación en su jurisdicción territorial a dichos vehículos.
 
-I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no estén obligadas al pago de este impuesto;
+Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-II.- Quienes reciban en consignación, comisión o por cualquier otro medio para su enajenación posterior, vehículos por el adeudo del impuesto que en su caso existiera;
-
-III.- Los copropietarios del vehículo y
-
-IV.- Las Autoridades competentes, que autoricen cualquier movimiento que afecte el padrón vehicular, sin haberse cerciorado que no existan adeudos por este impuesto, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-DE LA BASE:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Para efectos de este impuesto, se tomará en consideración para el cálculo de la base gravable, el cilindraje del motor, el año modelo y la capacidad de carga del vehículo de que se trate.
+Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, en las instituciones autorizadas por la Secretaría de Finanzas y Administración, mediante las formas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
 
-DE LA TASA:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 38.
 
-Este impuesto, se pagará conforme a la siguiente tabla:
+El impuesto se pagará en los Centros Regionales de Atención al Contribuyente o en las instituciones autorizadas en las que la Secretaría de Finanzas y Administración, autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las instituciones autorizadas por la Secretaría de Finanzas y Administración, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Hidalgo.
 
-Tarifa expresada en salarios mínimos
+Los contribuyentes del impuesto a que se refiere este Capítulo; no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al registro estatal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
-Vehículos 11 a 15 años 16 a 20 años 21 o más años
+El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley.
 
-antigüedad antigüedad antigüedad
-
-Automóviles 8 cilindros 5 4 3
-
-Automóviles 6 cilindros 4 3 2
-
-Automóviles 4 cilindros 3 2 1
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Automóviles 3 cilindros 2.5 1.5 0.5
-
-Pick-up de 500-1000 kg. 3 2 1
-
-Transporte de carga (más 4 3 2
-
-de 1000 kg)
-
-Transporte de pasajeros 4 3 2
-
-Motocicletas (hasta 500 3 2 1
-
-cm3)
-
-Motocicletas (más 500 8 7 6
-
-cm3)
-
-Automóviles eléctricos 3 2 1
-
-Para efectos del presente Artículo, loas años de antigüedad se calcularán con base en el número de años transcurridos al que se incluirá el año modelo, al que corresponda el vehículo.
-
-DEL PAGO:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 39.
 
-Este impuesto se pagará por ejercicio fiscal, durante los tres primeros meses del año correspondiente, en las sucursales bancarias mediante las formas autorizadas por la Secretaría de Finanzas o vía internet.
+Para los efectos de este Capítulo se considera como:
 
-DE LAS OBLIGACIONES:
+I.- Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
+
+II.- Año Modelo, el año de fabricación o ejercicio automotriz comprendido por el periodo entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
+
+III.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico que configuran externamente a un vehículo y de la que derivan los diversos modelos;
+
+IV.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+V.- Línea:
+
+a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+
+c).- Automóviles con motor diesel.
+
+d).- Camiones con motor de gasolina, gas o diesel.
+
+e).- Tractores no agrícolas tipo quinta rueda.
+
+f).- Autobuses integrales.
+
+g).- Automóviles eléctricos;
+
+VI.- Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
+
+VII.- Vehículo nuevo:
+
+a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b).- El importado definitivamente al País que corresponda al año modelo posterior al de aplicación de este apartado, al año modelo en que se efectúe la importación o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y
+
+VIII.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 40.
 
-Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
+Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de dicha contribución;
 
-I.- Registrarse en el Centro Regional de Atención al Contribuyente correspondiente a su domicilio, dentro de los quince días siguientes a aquél en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas; y (sic)
+II.- Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera;
 
-II.- Presentar las declaraciones y efectuar el pago del impuesto en la forma establecida en el Artículo 39 y conforme a la tarifa establecida en el Artículo 38 del presente capítulo;
+III.- Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo o del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Los copropietarios del vehículo.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Hidalgo.
 
-III.- En caso de alta, baja y/o canje de placas, las mismas serán entregadas a la Autoridad Fiscal.
-
-DE LAS EXCEPCIONES:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 41.
 
-Quedan exceptuados del pago de este impuesto:
+Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el padrón vehicular estatal o dicho vehículo sea registrado en otra Entidad Federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con los requisitos establecidos en las reglas de operación.
 
-I.- Los vehículos importados temporalmente;
+En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
 
-II.- Los vehículos propiedad de los Gobiernos Federal, Estatal y Municipal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, ambulancias, bomberos, transporte de limpias, pipas de agua, servicios funerarios propiedad o posesión de cualquiera de estas Entidades o Instituciones de Beneficencia, normados por la Ley de la materia y
+Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el Artículo 51 del Código Fiscal del Estado de Hidalgo, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
 
-III.- La maquinaria y equipos destinados a actividades agrícolas.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 42.
 
-Es objeto de este impuesto, la obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que celebren los Organismos Públicos Descentralizados de la Administración Pública Federal o Estatal, cuyo objeto social, sea la obtención de recursos para destinarlos a la asistencia pública.
+La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
-DEL SUJETO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 43.
 
-Son sujetos del pago de este impuesto, las personas físicas o morales que obtengan ingresos derivados de premios de loterías, rifas, sorteos y concursos, cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en los eventos les haya sido pagado en el Territorio del Estado de Hidalgo.
+No se causará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
 
-DE LA BASE:
+I.- Los eléctricos utilizados para el transporte público de personas;
+
+II.- Los importados temporalmente, en los términos de la legislación aduanera;
+
+III.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas Entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
+
+IV.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
+
+V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos. Tratándose de automóviles, el impuesto no se causará, siempre que carezcan de placas de circulación;
+
+VI.- Las embarcaciones dedicadas al transporte marítimo;
+
+VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y (sic)
+
+VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+IX.- La maquinaria y equipos destinados a actividades agrícolas.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este Artículo, deberán comprobar ante la Secretaría Finanzas y Administración del Poder Ejecutivo del Estado de Hidalgo que se encuentran comprendidos en dichos supuestos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 44.
+
+Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
+
+I.- Presentar las declaraciones y efectuar el pago del impuesto en la forma y conforme a la (sic) tarifas en el presente Capítulo;
+
+II.- Registrarse en el Centro Regional de Atención al Contribuyente correspondiente a su domicilio, dentro de los quince días siguientes a aquel en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas y Administración; y
+
+III.- En caso de alta, baja y/o canje de placas, las mismas serán entregadas a la Autoridad Fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+APARTADO A
+
+VEHÍCULOS DE DIEZ O MÁS AÑOS MODELO ANTERIOR
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 45.
+
+Los tenedores o usuarios de vehículos cuyo año modelo tenga de diez o más años de antigüedad al Ejercicio Fiscal en curso, previstos en este Artículo, calcularán el impuesto a que se refiere este apartado de acuerdo a lo siguiente:
+
+TABLA
+
+Tarifa expresada en salarios mínimos
+
+Vehículos 10 a 15 años 16 a 20 años 21 o más años
+
+de antigüedad de antigüedad de antigüedad
+
+Automóviles
+
+8 cilindros 5 4 3
+
+Automóviles
+
+6 cilindros 4 3 2
+
+Automóviles
+
+4 cilindros 3 2 1
+
+Automóviles
+
+3 cilindros 2.5 1.5 0.5
+
+Pick-up de 500-
+
+1000 kg. 3 2 1
+
+Transporte de
+
+carga (más de
+
+1000 kg) 4 3 2
+
+Transporte de
+
+pasajeros 4 3 2
+
+Motocicletas
+
+(hasta 500
+
+cm3) 3 2 1
+
+Motocicletas
+
+(más de 500
+
+cm3) 8 7 6
+
+Automóviles
+
+eléctricos 3 2 1
+
+Para efectos de este impuesto se tomará en consideración para el cálculo de la base gravable, el cilindraje del motor, el año modelo y la capacidad de carga del vehículo de que se trate.
+
+Los años de antigüedad se calcularán con base en el número de años transcurridos al que incluirá el año modelo al que corresponda el vehículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 46.
+
+Tratándose de los vehículos previstos en este Artículo, de diez o más años de fabricación anteriores al de aplicación de este apartado, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHÍCULO CUOTA
+
+AERONAVES:
+
+Hélice $448.00
+
+Turbohélice $2,480.00
+
+Reacción $3,583.00
+
+HELICÓPTEROS $551.00
+
+El monto de las cuotas establecidas en este Artículo, se actualizarán con el factor establecido en la Ley de Ingresos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+APARTADO B
+
+VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 47.
+
+En el caso de vehículos nuevos o importados, el impuesto deberá calcularse y enterarse dentro de los 15 días hábiles siguientes a la fecha en que se hubieren adquirido o importado, respectivamente.
+
+Para los efectos del cómputo del plazo a que se refiere el párrafo anterior, salvo prueba en contrario, se presumirá que la fecha de adquisición o la fecha de importación es la asentada en la factura o pedimento de importación que corresponda.
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este capítulo, correspondiente al primer año de calendario, dentro los 15 días hábiles siguientes a la fecha en que se hubiere importado el vehículo, ante las oficinas de la Secretaría de Finanzas y Administración. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el Artículo 57 de esta Ley.
+
+Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el Artículo 57 y el presente Artículo de esta Ley, según sea el caso.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del impuesto a que se refiere este apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Para los efectos de este apartado, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este apartado, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+MES DE FACTOR APLICABLE AL IMPUESTO CAUSADO
+
+ADQUISICIÓN
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 48.
+
+Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN I. AUTOMÓVILES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 49.
+
+Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I.- En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Tasa para aplicarse sobre
+
+Límite Límite Cuota el excedente del límite
+
+inferior superior fija inferior
+
+$ $ $ %
+
+0.01 428,768.31 0.00 3.0
+
+428,768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1,109,080.70 47,347.45 13.3
+
+1,109,080.71 1,393,020.60 85,111.46 16.8
+
+1,393,020.61 En adelante 132,813.36 19.1
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
+
+II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+
+Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para los efectos de este Artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN II. OTROS VEHÍCULOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 50.
+
+En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 51.
+
+Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $8,657.06 para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $9,324.72 para aeronaves de reacción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 52.
+
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 53.
+
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Tasa para aplicarse sobre
+
+Límite Límite Cuota el excedente del límite
+
+Inferior superior fija inferior
+
+$ $ $ %
+
+0.01 220,660.00 0.00 3.0
+
+220,660.01 303,459.28 6,619.80 8.7
+
+303,459.29 407,882.92 13,823.33 13.3
+
+407,882.93 en adelante 27,711.67 16.8
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 54.
+
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 55.
+
+Para los efectos de lo dispuesto en los Artículos 46, 49, 51 y 53 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el Artículo 35 del Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 56.
+
+Las autoridades competentes, para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+#### SECCIÓN III. VEHÍCULOS USADOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 57.
+
+Tratándose de vehículos de fabricación nacional o importados, a que se refieren los Artículos 49 fracción II y 54 de este Capítulo, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 55 de esta Ley.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto a que se refiere este apartado se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I.- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Artículo; y
+
+II.- La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el Artículo 55 de esta Ley; el resultado obtenido se multiplicará por 0.245%.
+
+Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 58.
+
+Tratándose de automóviles de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a).- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b).- La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 55 de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el Artículo 49 de esta Ley.
+
+Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 59.
+
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a).- El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b).- La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 55 de esta Ley; al resultado se le aplicará la tasa a que hace referencia el Artículo 52 de la misma.
+
+Para los efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 60.
+
+Tratándose de motocicletas de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el Artículo 53 de esta Ley.
+
+Para efectos de la depreciación a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO SEXTO. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 61.
+
+Es objeto de este impuesto la obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, que celebren los Organismos Públicos Descentralizados de la Administración Pública Federal y Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 62.
+
+Son sujetos del pago de este impuesto las personas físicas o morales que obtengan ingresos derivados de premios de loterías, rifas, sorteos y concursos de toda clase, cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en los eventos, le haya sido pagado en el territorio del Estado de Hidalgo.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 44], P.O. 31 DE DICIEMBRE DE 2011)
+
+###### ARTICULO 63.
 
 Es base de este impuesto, el monto total de los ingresos obtenidos correspondientes a cada boleto o billete entero, sin deducción alguna.
 
 Cuando el premio obtenido sea en especie, servirá de base del impuesto, el valor con el que se promocione cada uno de los premios, el de facturación o en ausencia de ambos, el de avalúo comercial.
 
-DE LA TASA:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 45.
+###### ARTICULO 64.
 
-Este impuesto, se determinará a la tasa del 4.5% de la base gravable.
+Este impuesto se determinará a la tasa del 4.5% de la base gravable que establece el Artículo anterior.
 
-DEL PAGO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+###### ARTICULO 65.
 
-###### ARTICULO 46.
+Este impuesto se causará en el momento que los Organismos Descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas y Administración o a través de transferencia electrónica de fondos de forma definitiva.
 
-Este impuesto se causará en el momento que los Organismos Descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas o a través de transferencia electrónica de fondos, de forma definitiva.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-DE LAS OBLIGACIONES:
-
-###### ARTICULO 47.
+###### ARTICULO 66.
 
 Quienes entreguen los premios a que se refiere este capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+I.- Solicitar su inscripción vía internet en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado en su carácter de retenedor, mediante las formas autorizadas por la misma Dependencia;
 
-I.- Solicitar su inscripción vía Internet en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas del Estado, en su carácter de retenedor, mediante las formas autorizas por la misma Dependencia;
+II.- Presentar declaraciones mensuales a más tardar el día veinte del mes siguiente a aquel al que corresponda el impuesto causado, en la forma establecida por el Artículo 46 de este Capítulo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+III.- Proporcionar, a las personas a quienes efectúen el pago por los conceptos a que se refiere este Capítulo, constancia de ingreso y retención del impuesto;
 
-II.- Presentar declaraciones mensuales a más tardar el día veinte del mes siguiente a aquél al que corresponda el impuesto causado, en la forma establecida por el artículo 46 de este capítulo;
+IV.- Conservar, de conformidad con lo previsto en el Código Fiscal del Estado, la documentación relacionada con las constancias y retenciones de este impuesto;
 
-III.- Expedir constancia de ingreso y retención del impuesto, a las personas a quienes efectúen el pago por los conceptos a que se refiere este Capítulo;
+V.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios aun cuando estos sean en especie; y
 
-IV.- Conservar la documentación relacionada con las constancias y retenciones del impuesto, de conformidad con lo previsto en el Código Fiscal del Estado y
+VI.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión. Aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
 
-V.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios aun cuando éstos sean en especie.
+(REUBICADO [N. DE E. ANTES ARTÍCULO 48], P.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+###### ARTICULO 67.
 
-VI.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión, aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
+No causan este impuesto las cantidades que se obtengan por concepto de reintegros.
 
-###### ARTICULO 48.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-No causan este impuesto, las cantidades que se obtengan por concepto de reintegros.
+### CAPÍTULO SÉPTIMO. IMPUESTO ADICIONAL PARA LA CONSTRUCCIÓN DE CARRETERAS, SOSTENIMIENTO DE LA ASISTENCIA PÚBLICA Y DEL HOSPITAL DEL NIÑO DIF DEL ESTADO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 49.
+###### ARTICULO 68.
 
-Es objeto de este impuesto, la realización de pagos por concepto de impuestos y derechos que establezcan las Leyes Fiscales del Estado.
+Es objeto de este impuesto la realización de pagos por concepto de impuestos y derechos que establezcan las leyes fiscales del Estado.
 
-DEL SUJETO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 50.
+###### ARTICULO 69.
 
-Son sujetos de este impuesto, los contribuyentes que realicen los pagos señalados en el artículo anterior.
+Son sujetos de este impuesto, los contribuyentes que realicen los pagos señalados en el Artículo anterior.
 
-DE LA BASE:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 51.
+###### ARTICULO 70.
 
 Es base de este impuesto, el monto total de los pagos que efectúen por concepto de impuestos y derechos estatales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+En los casos de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos con exclusión de los que obtengan resolución favorable de subsidio o de excepción de pago por parte de la Secretaria de Finanzas y Administración, conforme a los preceptos legales vigentes.
 
-En los casos de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos con exclusión de los que obtengan resolución favorable de subsidio o de excepción de pago por parte de la Secretaría de Finanzas, conforme a los preceptos legales vigentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-DE LA TASA:
+###### ARTICULO 71.
 
-###### ARTICULO 52.
+Este impuesto se causará y pagará a la tasa del 30%.
 
-Este impuesto, se causará y pagará a la tasa del 30%.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-DEL PAGO:
+###### ARTICULO 72.
 
-###### ARTICULO 53.
+El pago de este impuesto, se efectuará en el momento en que se realicen los pagos de impuestos y derechos a que se refiere el Artículo 68 de este Capítulo.
 
-El pago de este impuesto, se efectuará en el momento en que se realicen los pagos de impuestos y derechos a que se refiere el Artículo 49 de este capítulo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-DE LAS OBLIGACIONES:
+###### ARTICULO 73.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Los sujetos de este impuesto están obligados a enterar de manera conjunta, al momento del pago del impuesto o derecho principal y se pagará mediante declaraciones que deberán presentarse en las formas y ante la (sic) Instituciones Bancarias autorizadas por la Secretaría de Finanzas y Administración o vía internet.
 
-###### ARTICULO 54.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los sujetos de este impuesto, están obligados a enterar de manera conjunta, al momento del pago del impuesto o derecho principal y se pagará mediante declaraciones que deberán presentarse en las formas y ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas o vía internet.
+###### ARTICULO 74.
 
-###### ARTICULO 55.
-
-Los ingresos que se perciban por concepto de este impuesto, se aplicarán en la siguiente forma:
+El ingreso que se percibe por concepto de este impuesto, se aplicará en la siguiente forma:
 
 I.- 66% para la construcción de carreteras;
 
-II.- 17% para el sostenimiento de la Asistencia Pública y
+II.- 17% para el sostenimiento de la Asistencia Pública; y
 
 III.- 17% para el sostenimiento del Hospital del Niño DIF, del Estado.
 
-###### ARTICULO 56.
+### CAPÍTULO PRIMERO. DE LAS DEPENDENCIAS DE LA SECRETARÍA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+## TITULO TERCERO. DE LOS DERECHOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 75.
 
 Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Gobernación, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+I.- Por la certificación de legalidad de firmas
 
-I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas 1 salario mínimo
+de las autoridades Estatales, Municipales y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+Educativas en documentos originales o copias
 
-II.- Por legalización de exhortos derivados de juicios mercantiles y ejecutivos civiles 1.5 salarios mínimos
+certificadas;
 
-III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
+1.5 salarios mínimos.
 
-IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
+II.- Por legalización de exhortos, derivados
 
-V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2010)
+de juicios mercantiles y ejecutivos civiles. 1.5 salarios mínimos.
 
-VI.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
+III.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
 
-a).- Opinión para Paraestatales, Proveedores y Macroindustrias 12 salarios mínimos
+a.- Opinión para Paraestatales, Proveedores
 
-b).- Opinión para mediana industria 6 salarios mínimos
+y Macroindustrias; 13 salarios mínimos
 
-c).- Opinión para macroindustria y Empresas Ejidales 4 salarios mínimos
+b.- Opinión para mediana industria; 8 salarios mínimos.
 
-d).- Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal 2 salarios mínimos
+c.- Opinión para macroindustria y
 
-VII.- Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y en su caso, la identidad del sello o timbre del documento 2 salarios mínimos.
+Empresas Ejidales; 6 salarios mínimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+d.- Opinión para el uso de explosivos
 
-###### ARTICULO 57.
+por una sola vez en obras pequeñas de
+
+carácter Municipal; 6 salarios mínimos.
+
+IV.- Por la inscripción de la apostilla para
+
+Certificar la autenticidad de la firma, la calidad
+
+en que el signatario del documento haya actuado
+
+y, en su caso, la identidad del sello o timbre
+
+del documento. 3 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 76.
 
 Los Derechos por la prestación de servicios del Estado, a través de la Coordinación de Protección Civil, se causarán y pagarán de la forma siguiente:
 
-I.- Por la supervisión y la elaboración de dictámenes técnicos que se practiquen a establecimientos comerciales, industriales, de espectáculos públicos y de servicio instalados o que pretendan instalarse en el Territorio del Estado de 50 a 300 salarios mínimos
+I.- Por la supervisión y la elaboración de
 
-II.- Por la supervisión y la elaboración de dictámenes técnicos de instalaciones de estructuras, antenas, equipos y maquinaria especiales de 50 a 300 salarios mínimos
+dictámenes técnicos que se practiquen a
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+establecimientos comerciales, industriales,
 
-III.- Por la supervisión y elaboración de dictámenes técnicos para la construcción de fraccionamientos, condominios, edificios públicos y asentamientos humanos; de 50 a 300 salarios mínimos
+de espectáculos públicos y de servicio
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+instalados o que pretendan instalarse
 
-IV.- Por la supervisión y elaboración de dictámenes técnicos de seguridad para la instalación de estaciones de servicio (gasolineras) y plantas de almacenamiento de gas L.P., estaciones de carburación, bodega y derivados de petróleo; 275 salarios mínimos
+en el territorio del Estado; 50 a 300 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+II.- Por la supervisión y la elaboración de
 
-V.- Por el Registro Estatal de Consultores en materia de Protección Civil; de 100 a 200 salarios mínimos
+dictámenes técnicos de instalaciones de
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+estructuras, antenas, telefonía celular
 
-VI.- Por la renovación anual del Registro Estatal de Consultores en materia de Protección Civil; y 50 salarios mínimos
+equipos y maquinaria especiales; 50 a 300 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+III.- Por la supervisión y elaboración de
 
-VII.- Por la impartición de cursos de capacitación a personas físicas o morales del sector privado de 10 a 300 salarios mínimos
+dictámenes técnicos para la construcción de
 
-###### ARTICULO 58.
+fraccionamientos, condominios, edificios
 
-Los Derechos por la prestación de los servicios del Registro Público de la Propiedad y del Comercio se causarán y pagarán de la forma siguiente:
+públicos y asentamientos humanos; 50 a 500 salarios mínimos.
+
+IV.- Por la supervisión y elaboración de
+
+Dictámenes técnicos de seguridad para
+
+la instalación de estaciones de servicio
+
+(gasolineras) y plantas de almacenamiento
+
+de gas L.P., estaciones de carburación,
+
+bodega y derivados de petróleo; 275 salarios mínimos.
+
+V.- Por el Registro Estatal de Consultores
+
+en materia de Protección Civil; 100 a 200 salarios mínimos.
+
+VI.- Por la renovación anual del Registro
+
+Estatal de Consultores en materia de
+
+Protección Civil; y (sic) 50 a 100 salarios mínimos.
+
+VII.- Por la impartición de cursos de
+
+capacitación a personas físicas o morales
+
+del sector privado. 200 salarios mínimos.
+
+VIII.- Por la actualización de dictámenes de
+
+Factibilidad; 200 salarios mínimos.
+
+IX.- Por la elaboración de dictamen de
+
+seguridad por unidad de transporte de
+
+materiales peligrosos; 20 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 77.
+
+Los Derechos por la prestación de los servicios del Registro Público de la Propiedad, se causarán y pagarán de la forma siguiente:
 
 I.- Por la inscripción de documentos relativos a la propiedad y posesión originaria de bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+a).- Accesión de terrenos rústicos 3 salarios mínimos.
 
-a) Accesión de terrenos rústicos 3 salarios mínimos
+b).- Accesión de construcciones,
 
-b).- Accesión de construcciones, sobre el valor catastral o de avalúo. Conforme a la tarifa del Artículo 75
+sobre el valor catastral o de avalúo Conforme a la tarifa
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+del Artículo 94.
 
-c) Informaciones posesorias 2 salarios mínimos
+c).- Informaciones posesorias 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+II.- Por inscripción de resoluciones
 
-II.- Por inscripción de resoluciones de apeo y deslinde 3 salarios mínimos
+de apeo y deslinde 3 salarios mínimos.
 
-III.- Por inscripción de aportaciones de bienes inmuebles, se pagará sobre el valor catastral o de avalúo. Conforme a la tarifa del Artículo 75
+III.- Por inscripción de aportaciones de
 
-IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo. 2 salarios mínimos
+bienes inmuebles, se pagará sobre el
 
-V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles. 2 salarios mínimos
+valor catastral o de avalúo Conforme a la tarifa
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+del Artículo 94.
 
-VI.- Por inscripción de contratos de compra-venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, o usucapión, adjudicaciones judiciales y por herencia, así como por cualquier operación que implique transmisión de propiedad, pagarán por cada predio sobre el valor que resulte mayor entre el precio de operación pactado o de avalúo, por cada predio Conforme a la tarifa del Artículo 75;
+IV.- Por la inscripción de propiedad en
 
-VII.- Por la inscripción de resoluciones de información Ad-perpetuam, se pagará sobre el valor de cada predio. Conforme a la tarifa del Artículo 75
+régimen de condominio, se pagará por
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+cada departamento, despacho, vivienda
 
-VIII.- Por la inscripción de inmatriculación se pagará por predio 5 salarios mínimos
+o cualquier otro tipo 2 salarios mínimos.
+
+V.- Por la inscripción de la disolución de
+
+la sociedad conyugal en lo referente a
+
+bienes inmuebles 2 salarios mínimos.
+
+VI.- Por inscripción de contratos de compra-venta,
+
+donación, cesión de derechos, transmisión de
+
+dominio en ejecución de fideicomiso, permuta,
+
+o usucapión, adjudicaciones judiciales y por
+
+herencia, así como por cualquier operación que
+
+implique transmisión de propiedad, pagarán por
+
+cada predio sobre el valor que resulte mayor
+
+entre el precio de operación pactado o de avalúo
+
+por cada predio; Conforme a la tarifa
+
+del Artículo 94
+
+VII.- Por la inscripción de resoluciones de
+
+Información Ad'perpetuam, se pagará
+
+sobre el valor de cada predio Conforme a la tarifa
+
+del Artículo 94
+
+VIII.- Por la inscripción de inmatriculación
+
+se pagará por predio 5 salarios mínimos
 
 IX.- Por inscripción de actos, contratos o convenios por los que se divida, subdivida, lotifique, relotifique o fraccione un predio, se pagará de la manera siguiente:
 
-a).- Cuando se trate de predios ubicados en zonas urbanas residenciales o zonas campestres e industriales, por lote. 4 salarios mínimos
+a).- Cuando se trate de predios ubicados en zonas
 
-b).- En las demás zonas, por lote. 1.5 salarios mínimos
+urbanas residenciales o zonas campestres e
 
-X.- Por inscripción de contratos de compra-venta a plazos con reserva de dominio, se pagará sobre el valor catastral o de avalúo. Conforme a la tarifa del Artículo 75
+industriales, por lote 4 salarios mínimos
 
-XI.- Por inscripción de fusión de predios, se pagará, por cada uno. 1.5 salarios mínimos
+b).- En·las demás zonas, por lote 1.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+X.- Por inscripción de contratos de compra-venta
 
-XII.- Por inscripción de división de copropiedad, se pagará sobre el valor catastral o de avalúo de cada uno de los inmuebles Conforme a la tarifa del artículo 75
+a plazos con reserva de dominio, se pagará sobre
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+el valor catastral o de avalúo Conforme a la tarifa
+
+del Artículo 94
+
+XI.- Por inscripción de fusión de predios, se pagará,
+
+por cada uno 1.5 salarios mínimos
+
+XII.- Por inscripción de división de copropiedad,
+
+se pagará sobre el valor catastral o de avalúo Conforme a la tarifa
+
+de cada uno de los inmuebles del Artículo 94
 
 XIII.- Otros actos inscribibles no previstos 5 salarios mínimos
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 XIV.- Por ratificación de firmas 2 salarios mínimos
 
 Por la cancelación de actos a que se refieren las fracciones VI, VII y X de este Artículo, se pagará el 50% del valor de la inscripción principal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
 Cuando el valor catastral o el valor fiscal del avalúo, del acto que se trate de inscribir, difieran entre sí, se atenderá al mayor para fijar el monto de los derechos que deberán cubrirse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 59], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 59.
+###### ARTICULO 78.
 
-Los derechos generados ante el Registro Público de la Propiedad y del Comercio, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías y obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avió celebrados entre particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía, en el que él o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo con reserva de dominio, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 50% de la tarifa del Artículo 75.
+Los derechos generados ante el Registro Público de la Propiedad, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías y obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avío celebrados entre particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que él o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo con reserva de dominio, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 50 % de la tarifa del artículo 75.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -955,329 +1437,459 @@ En hipotecas para garantizar el crédito principal o refinanciamiento, los adqui
 
 Para efectos del párrafo anterior, se entiende por viviendas de interés social, las financiadas a través de organismos de carácter federal, estatal o municipal autorizados para ello o por Instituciones Bancarias, hasta por un valor equivalente a 186 salarios mínimos vigentes en el Estado, elevados al mes.
 
-###### ARTICULO 60.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 79.
 
 Los derechos por las inscripciones de documentos o actos que sean necesarios como acto previo para la inscripción de títulos traslativos de dominio, se causarán y pagarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+I.- Por cualquier clase de testamento. 4 salarios mínimos.
 
-I.- Por cualquier clase de testamento 4 salarios mínimos
+II.- Por declaración o reconocimiento de herederos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+y por designación, aceptación, discernimiento del
 
-II.- Por declaración o reconocimiento de herederos y por designación, aceptación, discernimiento del cargo de albacea en un sólo documento 4 salarios mínimos
+cargo de albacea en un sólo documento. 4 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+III.- Cuando estos actos se inscriben en documentos
 
-III.- Cuando estos actos se inscriben en documentos separados, se pagará por cada uno 2 salarios mínimos
+separados, se pagará por cada uno. 2 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+IV.- Por sustitución del cargo de albacea 2 salarios mínimos.
 
-IV.- Por sustitución del cargo de albacea 2 salarios mínimos
+V.- Por repudio de herencia 2 salarios mínimos.
 
-V.- Por repudio de herencia. 2 salarios mínimos
+VI.- Por autorización para vender o gravar
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+bienes de menores u otros incapaces 2 salarios mínimos.
 
-VI.- Por autorización para vender o gravar bienes de menores u otros incapaces 2 salarios mínimos
+VII.- Por poderes civiles, substituciones
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+o su revocación 2 salarios mínimos.
 
-VII.- Por poderes civiles, substituciones o su revocación 2 salarios mínimos
+VIII.- Por la inscripción de la Sociedad Conyugal 3 salarios mínimos.
 
-VIII.- Por la inscripción de la Sociedad Conyugal. 3 salarios mínimos
+IX.- Por el depósito de testamento ológrafo 2 salarios mínimos.
 
-IX.- Por el depósito de testamento ológrafo. 2 salarios mínimos
+X.- Por actuaciones judiciales 2 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-X.- Por actuaciones judiciales 2 salarios mínimos
-
-XI.- Por constitución del patrimonio familiar. 3 salarios mínimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+XI.- Por constitución del patrimonio familiar 3 salarios mínimos.
 
 XII.- Otros actos inscribibles no previstos 3 salarios mínimos.
 
-### CAPITULO SEXTO. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-DEL OBJETO:
-
-###### ARTICULO 61.
+###### ARTICULO 80.
 
 Los derechos generados por la inscripción de actos relativos a bienes muebles, se causarán y pagarán de la siguiente manera:
 
-I.- Por actos o contratos que transmitan la propiedad, como las operaciones traslativas de dominio sujetas a condiciones resolutorias, adjudicaciones, aportaciones, compra-venta con reserva de dominio, cuando se determine el valor 50% de la tarifa del Artículo 75
+I.- Por actos o contratos que transmitan la
 
-II.- En los casos de la fracción anterior, cuando no se tenga determinado el valor de la operación 3 salarios mínimos
+propiedad, como las operaciones traslativas
 
-III.- Por inscripción de operaciones que los limiten o graven, como son: Alquiler, cesión de crédito y obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo, conforme al valor de la operación 25% de la tarifa del Artículo 75
+de dominio sujetas a condiciones resolutorias,
 
-IV.- En los casos de la fracción anterior, cuando no se determine el valor de la operación 2 salarios mínimos
+adjudicaciones, aportaciones, compra-venta
 
-V.- Por la ratificación de firmas 2 salarios mínimos
+con reserva de dominio, cuando se determine
 
-VI.- Por otros actos inscribibles no previstos 1 salario mínimo
+el valor 50% de la tarifa
 
-Por cancelación de cualquiera de los actos contenidos en este Artículo, se pagará el 50% del valor de la inscripción.
+del artículo 94.
 
-###### ARTICULO 62.
+II.- En los casos de la fracción anterior,
+
+cuando no se tenga determinado
+
+el valor de la operación 3 salarios mínimos.
+
+III.- Por inscripción de operaciones que los
+
+limiten o graven, como son:
+
+alquiler, cesión de crédito y obligaciones,
+
+embargos, prenda, resoluciones o convenios
+
+judiciales y usufructo, conforme al valor de la
+
+operación 25% de la tarifa
+
+del artículo 94.
+
+IV.- En los casos de la fracción anterior,
+
+cuando no se determine el valor de la operación 2 salarios mínimos.
+
+V.- Por la ratificación de firmas 2 salarios mínimos.
+
+VI.- Por otros actos inscribibles no previstos; 1 salario mínimo.
+
+Por cancelación de cualquiera de los actos
+
+contenidos en este artículo, se pagará el 50% del valor
+
+de la inscripción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 81.
 
 Los derechos generados por la inscripción de actos contenidos en documentos relativos a personas morales, se causarán y pagarán de la manera siguiente:
 
-I.- Por escrituras constitutivas o aumento de capital. 50% de la tarifa del Artículo 75
+I.- Por escrituras constitutivas o aumento
 
-En las sociedades de capital variable se tomará como base el capital suscrito
+de capital en las sociedades de capital
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+variable se tomará como base el capital
 
-II.- En los casos de la fracción anterior, cuando no exista valor determinado 5 salarios mínimos
+suscrito. 50% de la tarifa
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+del artículo 94.
 
-III.- Por actas y estatutos de sociedades cooperativas 5 salarios mínimos
+II.- En los casos de la fracción anterior,
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+cuando no exista valor determinado,
 
-IV.- Por disolución o liquidación de personas morales 5 salarios mínimos
+pagarán. 5 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+III.- Por actas y estatutos de sociedades
 
-V.- La disolución y liquidación cuando conste en un sólo documento 5 salarios mínimos
+cooperativas. 5 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+IV.- Por disolución o liquidación de personas
 
-VI.- La inscripción de actas de asamblea de socios o de junta de administradores 5 salarios mínimos
+morales. 5 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+V.- La disolución y liquidación cuando conste
 
-VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social 5 salarios mínimos
+en un sólo documento. 5 salarios mínimos.
 
-VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado. 2 salarios mínimos
+VI.- La inscripción de actas de asamblea de
 
-IX.- Por la inscripción de emisión de obligaciones, acciones, cédula y certificados de participación, pagarán sobre el importe de la emisión. Conforme a la tarifa del Artículo 75
+socios o de junta de administradores. 5 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+VII.- La inscripción de cualquier modificación
 
-X.- Por la inscripción de revocación o renuncia de poderes 2 salarios mínimos
+al acta constitutiva, siempre que no se refiera
 
-XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2004)
+a un aumento de capital social. 5 salarios mínimos.
 
-XII.- Por la venta, cesión o cualquier acto que signifique transmisión de acciones, se pagará. 25% de la tarifa del Artículo 75
+VIII.- La inscripción de otorgamiento, sustitución o
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+renovación de poderes, por cada apoderado. 2 salarios mínimos.
 
-XIII.- Por cualquier otro título registrable conforme a la Ley 2 salarios mínimos.
+IX.- Por la inscripción de emisión de obligaciones
 
-###### ARTICULO 63.
+acciones, cédula y certificado de participación
+
+pagaran sobre el importe de la emisión. Conforme a la tarifa
+
+del artículo 94.
+
+X.- Por la inscripción de revocación o renuncia
+
+de poderes. 2 salarios mínimos.
+
+XI.- Por la venta sesión o cualquier acto que
+
+signifique transmisión de acciones se pagará
+
+el 25% de la tarifa del artículo 94.
+
+XII.- Por cualquier otro título registrable conforme
+
+a la Ley. 2 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 82.
 
 Los derechos generados por la inscripción de actos o contratos mercantiles, se causarán y pagarán de la siguiente manera:
 
-I.- Por créditos refaccionarios y de habilitación o avío, crédito hipotecario, mutuo, reconocimiento de adeudo o arrendamiento financiero. 50% de la tarifa del Artículo 75
+I.- Por créditos refaccionarios y de habilitación
 
-II.- Por asociación en participación 2 salarios mínimos
+avío, crédito hipotecario mutuo, reconocimiento
 
-III.- Por ratificación de firmas de los contratos comprendidos en este Artículo. 2 salarios mínimos
+de adeudo o arrendamiento financiero. 50% de la tarifa
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+del artículo 94.
 
-IV.- Por cancelación de créditos otorgados por instituciones de crédito. 2 salarios mínimos
+II.- Por asociación en participación. 2 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+III.- Por ratificación de firmas de los contratos
 
-V.- Por inscripción de rectificaciones relativas a inscripciones principales cuando se refiera a modificaciones de plazo de intereses, garantías, datos equivocados, sustitución de adeudos o acreedor o cualesquiera otras que no constituyan novación del contrato 4 salarios mínimos
+comprendidos en este artículo. 2 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+IV.- Por cancelación de créditos otorgados por
 
-VI.- Por otros actos o contratos no previstos 2 salarios mínimos
+instituciones de crédito. 2 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+V.- Por inscripción de rectificaciones relativas a
+
+inscripciones principales cuando se refiera
+
+a modificaciones de plazo de intereses,
+
+garantías, datos equivocados, sustitución de
+
+adeudos o acreedor, o cualesquiera otras que
+
+no constituyan novación del contrato 4 salarios mínimos
+
+VI.- Por otros actos o contratos no previstos. 2 salarios mínimos.
 
 VII.- Por la cancelación de los actos o contratos señalados en este artículo se pagará, el 50% del valor de la inscripción.
 
-###### ARTICULO 64.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 83.
 
 Los derechos generados por la inscripción o anotación de resoluciones judiciales de carácter mercantil, se causarán y pagarán de la manera siguiente:
 
-I.- Por las providencias precautorias. 5 salarios mínimos
+l.- Por las providencias precautorias 5 salarios mínimos
 
-II.- Por suspensión de pagos o declaración de concurso. 2 salarios mínimos
+II.- Por suspensión de pagos o declaración
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+de concursos 2 salarios mínimos
 
-###### ARTICULO 65.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los derechos que se causen por las inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagará 2 salarios mínimos.
+###### ARTICULO 84.
 
-###### ARTICULO 66.
+Los derechos que se causen por las inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagarán 2 salarios mínimos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 85.
 
 Los derechos generados por la expedición de certificaciones, informes y búsqueda de antecedentes registrales, se causarán y pagarán de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+I.- Por la expedición de certificados de inscripción
 
-I.- Por la expedición de certificados de inscripción para efectos de los artículos 1231 y 1232 del Código Civil 2 salarios mínimos
+para efectos de los artículos 1231 y 1232
 
-II.- Por la expedición de certificados de inscripción, sin datos, o de no inscripción, por cada 10 años o fracción. 3 salarios mínimos
+del Código Civil. 2 salarios mínimos.
 
-III.- Por certificados de no propiedad, por cada 10 años o fracción. 3 salarios mínimos
+II.- Por la expedición de certificados de inscripción,
 
-IV.- Por la expedición de certificados de libertad de gravamen. 2 salarios mínimos
+sin datos, o de no inscripción, por cada 10 años
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+o fracción. 3 salarios mínimos.
 
-V.- Por expedición de copias certificadas, por cada 5 hojas o fracción 2 salarios mínimos
+III.- Por certificados de no propiedad, por
 
-VI.- Por certificados de única propiedad, por cada 10 años o fracción. 2 salarios mínimos
+cada 10 años o fracción. 3 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+IV.- Por la expedición de certificados de libertad
 
-VII.- Por informes sobre inscripción o depósito de testamentos 3 salarios mínimos
+de gravamen. 2 salarios mínimos.
 
-VIII.- Por búsqueda de antecedentes regístrales a nombre de persona determinada, por cada 10 años o fracción. 5 salarios mínimos
+V.- Por expedición de copias certificadas, por
 
-IX.- Por cotejo de documentos no autentificados que deban destinarse al apéndice, en su caso, por cada documento. 2 salarios mínimos
+cada 5 hojas o fracción. 2 salarios mínimos.
 
-Por la expedición urgente de certificaciones e informes a que se refieren las fracciones I, IV, V, VII y IX de este Artículo, se pagará el 100% más de los derechos señalados y la expedición se hará dentro de las 24 horas siguientes, sin perjuicio del principio de prelación registral que a otro corresponda.
+VI.- Por certificados de única propiedad,
 
-###### ARTICULO 67.
+por cada 10 años o fracción. 2 salarios mínimos.
 
-Si por cualquier causa el documento se devuelve sin inscripción, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio, se pagarán 2 salarios mínimos.
+VII.- Por informes sobre inscripción o depósito
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+de testamentos 3 salarios mínimos.
 
-### CAPITULO SEPTIMO. DEL IMPUESTO ADICIONAL PARA LA CONSTRUCCION DE CARRETERAS, SOSTENIMIENTO DE LA ASISTENCIA PUBLICA Y DEL HOSPITAL DEL NIÑO D.I.F. DEL ESTADO
+VIII.- Por búsqueda de antecedentes registrales
 
-DEL OBJETO:
+a nombre de persona determinada, por cada 10
 
-###### ARTICULO 68.
+años o fracción 5 salarios mínimos.
 
-Se subsidiará el pago de derechos correspondiente a los servicios prestados por el Registro Público de la Propiedad y del Comercio, hasta el 100%, cuando se originen a favor de:
+IX.- Por cotejo de documentos no autentificados
 
-I.- El Estado y los Municipios.
+que deban destinarse al apéndice, en su caso,
 
-II.- La Beneficencia Pública del Estado y
+por cada documento. 2 salarios mínimos.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Por la expedición urgente de certificaciones e informes a que se refieren las fracciones I, IV, V, VII y IX de este artículo, se pagará el 100% más de los derechos señalados y la expedición se hará dentro de las 24 horas siguientes, sin perjuicio del principio de prelación registral que a otro corresponda.
 
-III.- Los títulos exceptuados por disposición de Ley o por acuerdo del Ejecutivo del Estado, directamente o a través de la Secretaría de Finanzas que corresponda, ya sea por notoria pobreza o cuando se trate de personas físicas o morales que desarrollen proyectos de inversión en los que se generen, por lo menos 20 empleos permanentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 69.
+###### ARTICULO 86.
 
-Por cada inscripción de instrumento otorgado fuera del Territorio del Estado, causará y pagará una cuota adicional del 25% sobre los derechos señalados en este capítulo.
+Si por cualquier causa el documento se devuelve sin inscripción, siempre que no sea causa imputable al Registro Público de la Propiedad, se pagarán 2 salarios mínimos.
 
-###### ARTICULO 70.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los solicitantes, deberán acompañar a los documentos que presenten para su inscripción, las copias que establezca el Reglamento del Registro Público.
+###### ARTICULO 87.
 
-Cuando un documento presentado para su inscripción, se refiera a bienes situados en distintos Distritos, en cada uno de ellos se causarán los derechos correspondientes a los bienes comprendidos dentro de los mismos, hecho el pago total de los bienes inscribibles en uno de los Distritos, surtirá efectos en todos los demás.
+Se subsidiará el pago de derechos correspondiente a los servicios prestados por el Registro Público de la Propiedad, hasta el 100%, cuando se originen a favor de:
 
-###### ARTICULO 71.
+I.- El Estado y los Municipios;
+
+II.- La Beneficencia Pública del Estado; y
+
+III.- Los títulos exceptuados por disposición de Ley o por acuerdo del Ejecutivo del Estado, directamente o a través de la Secretaría de Finanzas y Administración que corresponda, ya sea por notoria pobreza o cuando se trate de personas físicas o morales que desarrollen proyectos de inversión en los que se generen, por lo menos 20 empleos permanentes.
+
+Las excepciones de pago parciales, se cobrarán en los términos de la resolución respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 88.
+
+Por cada inscripción de instrumento otorgado fuera del territorio del Estado, causará y pagará una cuota adicional del 25% sobre los derechos señalados en este capítulo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 89.
+
+Los solicitantes deberán acompañar a los documentos que presenten para su inscripción, las copias que establezca el Reglamento del Registro Público.
+
+Cuando un documento presentado para su inscripción se refiera a bienes situados en distintos distritos, en cada uno de ellos se causarán los derechos correspondientes a los bienes comprendidos dentro de los mismos, hecho el pago total de los bienes inscribibles en uno de los Distritos surtirá efectos en todos los demás.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 90.
 
 Los derechos de inscripción en el Registro de Crédito Agrícola, se causarán y pagarán de la manera siguiente:
 
-I.- Por créditos refaccionarios de habilitación o avío. 1.0 al millar
+I.- Por créditos refaccionarios de habilitación
 
-II.- Por documentos de valor determinado. 1.0 al millar
+o avío. 1.0 al millar.
 
-III.- Por documentos de valor indeterminado. 1 salario mínimo
+II.- Por documentos de valor determinado 1.0 al millar.
 
-IV.- Por la expedición de cualquier tipo de certificaciones. 1 salario mínimo
+III.- Por documentos de valor indeterminado; 1 salario mínimo.
 
-V.- Por cancelación, 0.5 al millar sin que lo cobrado exceda de $50.00. 1 salario mínimo
+IV.- Por la expedición de cualquier tipo de
 
-VI.- Por aclaraciones o rectificaciones no imputables al registro. 1 salario mínimo
+certificaciones, 1 salario mínimo.
 
-VII.- Por ratificación de firmas. 1 salario mínimo
+V.- Por cancelación, 0.5 al millar sin que
 
-###### ARTICULO 72.
+lo cobrado exceda de $50.00; 1 salario mínimo.
 
-Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por Instituciones de Crédito Nacionales o Extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito 25 % de la tarifa del Artículo 75.
+VI.- Por aclaraciones o rectificaciones no
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+imputables al registro; 1 salario mínimo.
 
-###### ARTICULO 73.
+VII.- Por ratificación de firmas 1 salario mínimo.
 
-Para el pago de los derechos generados por el servicio de Registro Público, el encargado de éste, enviará al Centro Regional de Atención al Contribuyente respectivo, la liquidación correspondiente a efecto de que se anote en ella la razón del pago que deberá contener: Nombre de quien lo recibe, fecha, número de partida y cantidad pagada. En los casos de las oficinas registrales ubicadas en el interior del Estado, el pago se realizará en la Institución Bancaria utilizada, la cual deberá acreditar el pago mediante el sello respectivo en la autorización del pago, que deberá contener además de la cantidad pagada, la firma, fecha y nombre de quien lo autoriza.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-En las certificaciones, no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago correspondiente.
+###### ARTICULO 91.
 
-###### ARTICULO 74.
+Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito .25 % de la tarifa del artículo 94.
 
-Para efecto del pago de derechos al Registro Público de la Propiedad y del Comercio, en los que se establezca como referencia salarios mínimos, se tomará como base el salario mínimo diario vigente en el Estado y Distrito Judicial en el momento en que se cause.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE GOBERNACION
+###### ARTICULO 92.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+Para el pago de los derechos generados por el servicio de registro público, el encargado de éste enviará al Centro Regional de Atención al Contribuyente respectivo, la liquidación correspondiente a efecto de que se anote en ella la razón del pago que deberá contener: Nombre de quien lo recibe, fecha, número de partida y cantidad pagada. En los casos de las oficinas registrales ubicadas en el interior del Estado, el pago se realizará en la Institución Bancaria autorizada, la cual deberá acreditar el pago mediante el sello respectivo en la autorización del pago, que deberá contener además de la cantidad pagada, la firma, fecha y nombre de quien lo autoriza.
 
-## TITULO TERCERO. DE LOS DERECHOS
+En las certificaciones no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO PRIMERO BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE SEGURIDAD PUBLICA
+###### ARTICULO 93.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+Para efecto del pago de derechos, al Registro Público de la Propiedad, en los que se establezca como referencia salarios mínimos, se tomará como base el salario mínimo diario vigente en el Estado y distrito judicial en el momento en que se cause.
 
-###### ARTICULO 75.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 94.
 
 Por las inscripciones o anotaciones de los actos en los que se establezca el pago de derechos por tarifa, se hará de la manera siguiente:
 
 I.- Cuando en el acto a inscribir no se determine su valor, se pagarán tres salarios mínimos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
 II.- Cuando los actos a inscribir tengan un valor de hasta cinco salarios mínimos, elevados al año, se pagará el equivalente a cinco salarios mínimos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-III.- Cuando el valor sea superior a cinco salarios mínimos, elevados al año, por cada dos y medio salarios o fracción hasta llegar a cien se pagará el equivalente a diez salarios mínimos más en cada parámetro, y
+III.- Cuando el valor sea superior a cinco salarios mínimos, elevados al año, por cada dos y medio salarios o fracción, hasta llegar a cien se pagará el equivalente a diez salarios mínimos más en cada parámetro; y
 
 IV.- Cuando el valor del acto a inscribir, sea superior a cien salarios mínimos, elevados al año, se pagarán mil pesos más por cada millón excedente.
 
-Para efectos de la cuantificación de los derechos a pagar de acuerdo con la presente tarifa: Se deberá determinar el monto de la operación de conformidad con lo dispuesto en el último párrafo del Artículo 58 de esta Ley, se ubicará en el parámetro correspondiente y se multiplicará, el número de salarios mínimos por 365 días, con lo que se determinará la cantidad a pagar, a la que se sumarán las cantidades que por adicionales resulten procedentes.
+Para efectos de la cuantificación de los derechos a pagar de acuerdo con la presente tarifa: se deberá determinar el monto de la operación de conformidad con lo dispuesto en el último párrafo del artículo 76 de esta Ley, se ubicará en el parámetro correspondiente y se multiplicará, el número de salarios mínimos, por 365 días con lo que se determinará la cantidad a pagar, a la que se sumarán las cantidades que por adicionales resulten procedentes.
 
-###### ARTICULO 76.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los Derechos por la prestación de los servicios del Estado a través de la Dirección del Registro del Estado Familiar, se causarán y pagarán de la siguiente forma:
+###### ARTICULO 95.
 
-I.- Por la expedición de copia certificada de acta. 0.5 salario mínimo
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro del Estado Familiar, se causarán y pagarán de la siguiente forma:
 
-II.- Por la expedición de copia certificada de acta urgente. 1 salario mínimo
+I.- Por la expedición de copia certificada de acta. 0.5 salario mínimo.
 
-III.- Por constancia de inexistencia de Registro en libro. 0.5 salario mínimo
+II.- Por la expedición de copia certificada de
 
-IV.- Por copia fotostática de constancias en libro. 0.5 salario mínimo
+acta urgente. 1 salario mínimo.
 
-V.- Por el procedimiento administrativo de corrección de actas. 3 salarios mínimos
+III.- Por constancia de inexistencia de Registro
 
-VI.- Por inscripción de resolución administrativa. 1 salario mínimo
+en libro. 0.5 salario mínimo.
 
-VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. 2 salarios mínimos
+IV.- Por copia fotostática de constancias
 
-VIII.- Por inscripción de anotación de reconocimientos y adopción. 2 salarios mínimos
+en libro. 0.5 salario mínimo.
 
-IX.- Por la inscripción de capitulaciones matrimoniales. 0.5 salario mínimo
+V.- Por el procedimiento administrativo
 
-X.- Por inscripción de sentencia de divorcio. 2 salarios mínimos
+de corrección de actas. 3 salarios mínimos.
 
-XI.- Por la búsqueda del acta, cuando no se presentan datos del registro, por los tres primeros años. 0.5 salario mínimo
+VI.- Por inscripción de resolución
 
-XII.- Por cada año siguiente del concepto de la fracción anterior. 0.5 salario mínimo
+administrativas 1 salario mínimo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+VII.- Por inscripción de sentencia y juicio
 
-ARTICULO 76 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Coordinación General Jurídica, se causarán y pagarán de la siguiente forma:
+de rectificación, nulidad o reposición
 
-I.- Por derecho a examen para obtener la Constancia de aspirante a Fiat de Notario; 40 salarios mínimos
+de actas. 2 salarios mínimos.
 
-II.- Por solicitud de examen de oposición para encargado de Notario Público o Adscrito; 100 salarios mínimos
+VIII.- Por inscripción de anotación de
 
-III.- Por informe de aviso de testamento; 2.64 salarios mínimos
+reconocimientos y adopción. 2 salarios mínimos.
 
-IV.- Por la expedición de copias certificadas de escrituras existentes en el Archivo General de Notarias:
+IX.- Por la inscripción de capitulaciones
+
+patrimoniales 0.5 salario mínimo.
+
+X.- Por inscripción de sentencia de divorcio 2 salarios mínimos.
+
+XI.- Por la búsqueda del acta, cuando no
+
+se presentan datos del registro,
+
+por los tres primeros años. 0.5 salario mínimo.
+
+XII.- Por cada año siguiente del concepto de
+
+la fracción anterior. 0.5 salario mínimo.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO Y REFORMADO [N. DE E. ANTES ARTÍCULO 76 BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 96.
+
+Los derechos por la prestación de los servicios del Estado, a través de la Coordinación General Jurídica, se causarán y pagarán de la siguiente forma:
+
+I.- Por derecho a examen para obtener la
+
+Constancia de aspirante a Fiat de Notario; 40 salarios mínimos.
+
+II.- Por solicitud de examen de oposición para
+
+encargado de Notario Público o Adscrito; 100 salarios mínimos.
+
+III.- Por informe de aviso de testamento; 2.64 salarios mínimos.
+
+IV.- Por la expedición de copias certificadas
+
+de escrituras existentes en el Archivo
+
+General de Notarias:
 
 a).- Hasta 10 hojas 4.66 salarios mínimos
 
-b).- Hojas subsiguientes $ 10.00 cada una
+b).- Hojas subsiguientes $10.00 cada una
 
 V.- Por la búsqueda de instrumentos notariales:
 
@@ -1289,21 +1901,33 @@ c).- Por quince años 6.2 salarios mínimos
 
 d).- Por veinte años en adelante 7.76 salarios mínimos
 
-VI.- Por expedición de constancias de inscripción o de no inscripción de testamentos; 1 salario mínimo
+VI.- Por expedición de constancias de inscripción
 
-VII.- Por autorización de apertura por libro; 1 salario mínimo
+o de no inscripción de testamentos; 1 salario mínimo.
 
-VIII.- Por incumplimiento de aviso de testamento en términos de la Ley del Notariado para el Estado de Hidalgo; 2 salarios mínimos
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
-IX.- Por presentar libros para cierre fuera del término legal; 2 salarios mínimos
+VIII.- Por incumplimiento de aviso de testamento
 
-X.- Autorización por libro del Patrimonio Inmobiliario Federal; 2 salarios mínimos
+en términos de la Ley del Notariado para el Estado
+
+de Hidalgo; 2 salarios mínimos
+
+IX.- Por presentar libros para cierre fuera del
+
+término legal; 2 salarios mínimos
+
+X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
 XI.- Por registro de patente de Notario Público; 500 salarios mínimos
 
-XII.- Designación de Adscritos para actuar en funciones de Notario en una Notaria Pública; 25 salarios mínimos
+XII.- Designación de Adscritos para actuar en
 
-XIII.- Por autorización de cambio de sellos a notarios; 3 salarios mínimos
+funciones de Notario en una Notaria Pública; 25 salarios mínimos
+
+XIII.- Por autorización de cambio de
+
+sellos a notarios; 3 salarios mínimos
 
 XIV.- Por expedición de Segundos Testimonios;
 
@@ -1315,131 +1939,249 @@ XV.- Por búsqueda de Testamento; 2.64 salarios mínimos
 
 XVI.- Por deposito de testamento Ológrafo; 5 salarios mínimos
 
-XVII.- Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-a).- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos);
+XVII.- Revocación de Testamentos; 2.64 salarios mínimos.
 
-Por una sola vez 3 salarios mínimos
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Por dos veces 6 salarios mínimos
+XVIII.- Por expedición de constancias del expediente
 
-Por tres veces 9 salarios mínimos
+personal de Notarios; 7.76 salarios mínimos.
 
-b).- Por las publicaciones en el Periódico Oficial, hasta media plana. 6 salarios mínimos
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-c).- Por la publicación en el Periódico Oficial, hasta una plana. 12 salarios mínimos
+XIX.- Por expedición de Gestión Notarial: 5.43 salarios mínimos
 
-XVIII.- La suscripción del Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
+a).- Cambios de adscripción transitorios o permanentes;
 
-a).- Por la suscripción durante un año 19 salarios mínimos
+b).- Reubicación de notarías;
 
-b).- Por la suscripción durante seis meses 11 salarios mínimos
+c).- Convenios de asociación;
 
-c).- Por la suscripción durante tres meses 7 salarios mínimos
+d).- Permutas; y
 
-d).- Por la suscripción durante un mes 5 salarios mínimos
+e).- Licencias concedidas.
 
-e).- El costo de un ejemplar a la fecha 1 salario mínimo
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-f).- El costo de un ejemplar atrasado hasta un año 2.5 salarios mínimos
+XX.- Por expedición de copias
 
-g).- El costo de un ejemplar del año inmediato anterior 2 salarios mínimos
+certificadas urgentes; 9.32 salarios mínimos.
 
-h).- Por cada año atrasado, se pagará el costo, mas 1.5 salarios mínimos
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-i).- El costo de cada uno de los tomos de la miscelánea fiscal, Estatal o Municipal 2 salarios mínimos
+XXI.- Por expedición de segundos
 
-XIX.- Por la expedición de copias del Periódico Oficial del Estado:
+testimonios urgentes; 3.32 salarios mínimos.
 
-a).- Por cada hoja simple $4.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-b).- Por cada hoja excedente $2.00
+XXII.- Por autorización de folios; 1.98 salarios mínimos.
 
-c).- Por las primeras cinco hojas certificadas 2 salarios mínimos
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-d).- Por cada hoja excedente $15.00
+XXIII.- Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+a).- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos):
 
-###### ARTICULO 77.
+Por una sola vez 4 salarios mínimos.
+
+Por dos veces 7 salarios mínimos.
+
+Por tres veces 10 salarios mínimos.
+
+b).- Por las publicaciones en el Periódico Oficial,
+
+hasta media plana 7 salarios mínimos
+
+c).- Por la publicación en el Periódico Oficial,
+
+hasta una plana 15 salarios mínimos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+XXIV.- La suscripción del Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
+
+a).- Por la suscripción durante un año 30 salarios mínimos
+
+b).- Por la suscripción durante seis meses 12 salarios mínimos.
+
+c).- Por la suscripción durante tres meses 8 salarios mínimos.
+
+d).- Por la suscripción durante un mes 6 salarios mínimos.
+
+e).- El costo de un ejemplar a la fecha 2 salario (sic) mínimos.
+
+f).- El costo de un ejemplar atrasado hasta un año 3.5 salarios mínimos.
+
+g).- El costo de un ejemplar del año
+
+inmediato anterior 3 salarios mínimos.
+
+h).- Por cada año atrasado, se pagará
+
+el costo, más 2.5 salarios mínimos.
+
+i).- El costo de cada uno de los tomos de la
+
+miscelánea fiscal, Estatal o Municipal 5 salarios mínimos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+XXV.- Por la expedición de copias del Periódico Oficial del Estado:
+
+a).- Por cada hoja simple $5.00
+
+b).- Por cada hoja excedente $3.00
+
+c).- Por las primeras cinco hojas certificadas 3 salarios mínimos
+
+d).- Por cada hoja excedente $16.00
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO I BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO TERCERO. DE LAS DEPENDENCIAS DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 97.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública por conducto de la Coordinación de Seguridad Estatal y la Unidad de Registro y Supervisión de Empresas de Seguridad Privada, se causarán y pagarán de la siguiente forma:
 
-I.- De las Licencias para conducir:
+I.- De las Licencias para conducir.
 
-a).- Expedición de Licencia de Chofer. 5 salarios mínimos
+a).- Expedición de Licencia de Chofer 5 salarios mínimos
 
-b).- Expedición de Licencia de Automovilista. 4 salarios mínimos
+b).- Expedición de Licencia de Automovilista 4 salarios mínimos.
 
-c).- Expedición de Licencia de Motociclista. 3 salarios mínimos
+c).- Expedición de Licencia de Motociclista 3 salarios mínimos
 
-d).- Canje de Licencia de Chofer. 4 salarios mínimos
+d).- Canje de Licencia de Chofer 4 salarios mínimos
 
-e).- Canje de Licencia de Automovilista. 3 salarios mínimos
+e).- Canje de Licencia de Automovilista 3 salarios mínimos
 
-f).- Canje de Licencia de Motociclista. 2 salarios mínimos
+f).- Canje de Licencia de Motociclista 2 salarios mínimos
 
-g).- Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista. 2 salarios mínimos
+g).- Expedición de duplicado de Licencias
 
-h).- El canje extemporáneo de licencias pagará recargos conforme a lo dispuesto por el Artículo 3 de la Ley de Ingresos del Estado
+de Chofer, Automovilista y Motociclista 2 salarios mínimos
 
-i).- Cambio de licencia de automovilista a chofer. 2 salarios mínimos
+h).- El canje extemporáneo de licencias pagará recargos conforme a lo dispuesto por el artículo 3 de la Ley de Ingresos del Estado
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+i).- Cambio de licencia de automovilista a chofer 2 salarios mínimos
 
-j).- Expedición de permiso provisional a menores de edad para conducir. 5 salarios mínimos
+j).- Expedición de permiso provisional a
+
+menores de edad para conducir 5 salarios mínimos
 
 II.- Del arrastre y pensión de vehículos:
 
-a).- Arrastre de grúa dentro del límite urbano. 1.5 salarios mínimos
+a).- Arrastre de grúa dentro del límite urbano 1.5 salarios mínimos
 
-b).- Arrastre de grúa en carreteras Estatales, pagarán por kilómetro. $10.00 por kilómetro
+b).- Arrastre de grúa en carreteras Estatales,
 
-c).- Pensión diaria en el corralón de tránsito. $10.00
+pagarán por kilómetro $ 10.00 por kilometro
+
+c).- Pensión diaria en el corralón de tránsito $10.00
 
 III.- De los permisos provisionales:
 
-a).- Permiso provisional para conducir sin licencia. 2 salarios mínimos
+a).- Permiso provisional para conducir sin
+
+Licencia. 2 salarios mínimos
 
 Los permisos a que se refieren los incisos de esta fracción serán hasta por 30 días.
 
 b).- Los permisos provisionales de carga, se expedirán a:
 
-1.- Los que se encuentren inscritos en la Secretaría de Hacienda y Crédito Público o exhiban su tarjeta de circulación en la que se establezca la actividad a que se dedican, hasta por 1 año. 8 salarios mínimos
+1.- Los que se encuentren inscritos en la
 
-2.- Los que no se encuentren inscritos ante la Secretaría de Hacienda y Crédito Público y no contenga en su tarjeta de circulación la actividad a que se dedican, hasta por 30 días. 8 salarios mínimos
+Secretaría de Hacienda y Crédito Público o
 
-3.- Los que realicen actividades eventuales, hasta por 72 horas. 1 salario mínimo
+exhiban su tarjeta de circulación en la que
 
-IV.- De la Consulta del Archivo:
+se establezca la actividad a que se dedican,
 
-a).- Por la expedición de copias fotostáticas, por cada hoja. $5.00
+hasta por 1 año 8 salarios mínimos
 
-b).- Por la certificación de copias, por documento. $10.00
+2.- Los que no se encuentren inscritos ante la
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Secretaría de Hacienda y Crédito Público y no
 
-V.- Por la autorización y revalidación bianual a particulares que presten el servicio de seguridad privada dentro del Territorio del Estado, en cada una de las modalidades previstas en el Artículo 164 de la Ley de Seguridad Pública para el Estado de Hidalgo. 127 salarios mínimos
+contenga en su tarjeta de circulación la actividad
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+a que se dedican, hasta por 30 días 8 salarios mínimos
 
-VI.- Por la modificación de la autorización, registro o revalidación. 8 salarios mínimos
+3.- Los que realicen actividades eventuales,
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+hasta por 72 horas. 1 salario mínimo
 
-VII.- Por la reposición de cédula de identificación del personal que preste sus servicios a los particulares que otorguen servicios de seguridad privada. 1.5 salarios minamos
+IV.- De la Consulta del Archivo.
 
-(F. DE E, P.O. DE 28 DE FEBRERO DE 2011)
+a).- Por la expedición de copias fotostáticas,
 
-ARTÍCULO 77 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección General del Aeropuerto Estatal y de la Flota Aérea del Poder Ejecutivo, se causarán y pagarán de la siguiente forma:
+por cada hoja $5.00
 
-I.- Por aterrizaje Nacional, por tonelada o fracción; $ 19.23
+b).- Por la certificación de copias, por documento $10.00
 
-II.- Por aterrizaje Internacional, por tonelada o fracción; y $ 38.00
+V.- Por la autorización y revalidación anual
 
-III.- Por estacionamiento en plataforma de permanencia
+a particulares que presten el servicio
 
-prolongada o pernocta, por hora o fracción por tonelada. $ 1.00
+de seguridad privada dentro del Territorio
+
+del Estado de Hidalgo, conforme a lo previsto
+
+en la legislación de la materia vigente.; (sic) 180 salarios mínimos
+
+VI.- Por la modificación de la autorización,
+
+registro o revalidación; 10 salarios mínimos
+
+VII.- Por la reposición de cédula de identificación
+
+del Personal que preste sus servicios a los
+
+particulares que otorguen servicios de seguridad
+
+privada; 0.5 salarios mínimos
+
+VIII.- Por la autorización estatal anual de los
+
+prestadores de servicios de seguridad privada
+
+con permiso federal; 75 salarios mínimos
+
+IX.- Por el registro de personal operativo y
+
+administrativo de los prestadores de servicios
+
+de seguridad privada con autorización estatal; y 0.5 salarios mínimos
+
+X.- Por la expedición de la cedula de registro del
+
+personal operativo y administrativo de los prestadores
+
+de servicios de seguridad privada. 1 salarios mínimos (sic)
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 98.
+
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General del Aeropuerto Estatal y de la flota aérea del Poder Ejecutivo, se causarán y pagarán de la siguiente forma:
+
+I.- Por aterrizaje nacional por tonelada o fracción; $19.23
+
+II.- Por aterrizaje internacional por tonelada
+
+o fracción; y $38.00
+
+III.- Por estacionamiento en plataforma de
+
+permanencia Prolongada o pernocta, por hora
+
+o fracción por tonelada. $1.00
 
 Para su aplicación, el peso de la aeronave expresado en toneladas, se redondeará hasta 2 decimales (centésimos) por defecto o por exceso, en función del milésimo según sea menor o mayor que .005.
 
@@ -1447,735 +2189,219 @@ Por los servicios aeroportuarios proporcionados a helicópteros se cobrará el 5
 
 Quedan exentos de pago, los siguientes usuarios:
 
-a).- La Fuerza Aérea Mexicana, la Armada de México, la Presidencia de la República, el Centro de Investigación de Seguridad Nacional (CISEN), la Policía Federal Preventiva y la Procuraduría General de República.
+a).- La Fuerza Aérea Mexicana, la Armada de México, la Presidencia de la República, el Centro de Investigación de Seguridad Nacional (CISEN), la Policía Federal Preventiva y la Procuraduría General de la República.
 
-b).- Los propietarios o poseedores de aeronaves que realicen servicio de auxilio para apoyo en zonas de desastre, búsqueda, salvamento y combate de epidemias o plagas, así como aquellas dedicadas a la extinción de incendios forestales, durante el tiempo que presten el servicio de auxilio.
+b).- Los propietarios o poseedores de aeronaves que realicen servicios de auxilio para apoyo en zonas de desastre, búsqueda, salvamento y combate de epidemias o plagas, así como aquellas dedicadas a la extinción de incendios forestales, durante el tiempo que presten el servicio de auxilio.
 
 c).- Aeronaves que transporten a Gobernadores y Secretarios de Estado.
 
-###### ARTICULO 78.
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN [N. DE E. ANTES CAPÍTULO SEGUNDO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+### CAPÍTULO CUARTO. DE LAS DEPENDENCIAS DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 79.
+###### ARTICULO 99.
 
 Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Auditoría Fiscal, se causarán y pagarán de la siguiente forma:
 
-I.- Por certificaciones. 0.5 salario mínimo
+I.- Por certificaciones 0.5 salario mínimo
 
-II.- Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales. 0.5 salario mínimo
+II.- Por la expedición de constancias de no adeudo
+
+de Impuestos o créditos fiscales estatales 0.5 salario mínimo
 
 III.- Por la expedición de copias certificadas de la orden de visita, de las actas parciales o de las acta (sic) finales de auditoría:
 
-a).- Por la primera hoja. 0.5 salario mínimo
+a).- Por la primera hoja 0.5 salario mínimo
 
-b).- Por cada hoja excedente. $5.00
+b).- Por cada hoja excedente $ 5.00
 
 IV.- Por la expedición de copias certificadas de cualquier otro documento que contenga el expediente de auditoría:
 
-a).- Por la primera hoja. 0.5 salario mínimo
+a).- Por la primera hoja 0.5 salario mínimo
 
-b).- Por cada hoja excedente. $5.00
+b).- Por cada hoja excedente $ 5.00
 
-V.- Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General:
+V.- Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General.
 
-a).- Por la primera hoja. 0.5 salario mínimo
+a).- Por la primera hoja 0.5 salario mínimo
 
-b).- Por cada hoja excedente. $4.00
+b).- Por cada hoja excedente $ 4.00
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 80.
+###### ARTICULO 100.
 
-Los Derechos por la prestación de servicios del Estado a través de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
 
-I.- Por certificaciones. 0.5 salario mínimo
+I.- Por certificaciones 0.5 salario mínimo
 
-II.- Por la expedición de formas aprobadas. $6.00
+II.- Por la expedición de formas aprobadas $ 6.00
 
-III.- Por la expedición de constancias de no adeudo de Impuestos o Créditos Fiscales Estatales
+III.- Por la expedición de constancias de no adeudo
 
-0.5 salario mínimo
+de Impuestos o créditos fiscales estatales 0.5 salario mínimo
 
 IV.- Por la expedición de copias certificadas de cualquier otro documento que contenga el expediente:
 
-a).- Por la primera hoja. 0.5 salario mínimo
+a).- Por la primera hoja 0.5 salario mínimo
 
-b).- Por cada hoja excedente. $5.00
+b).- Por cada hoja excedente $ 5.00
 
-V.- Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General:
+V.- Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General.
 
-a).- Por la primera hoja. 0.5 salario mínimo
+a).- Por la primera hoja 0.5 salarios mínimos
 
-b).- Por cada hoja excedente. $4.00
+b).- Por cada hoja excedente $ 4.00
 
 VI.- De los vehículos particulares:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+a).- Alta y canje de placas 8 salarios mínimos
 
-a).- Alta y canje de placas 8 salarios mínimos.
+b).- Bajas 2 salario mínimo (sic)
 
-b).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+c).- Reposición de tarjetas de circulación 3 salarios mínimos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+d).- Placas de remolque 8 salarios mínimos
 
-c).- Bajas 2 salarios mínimos.
+e).- Permiso anual para el uso de placas de
 
-d).- Reposición de tarjetas de circulación. 3 salarios mínimos
+demostración 12 salarios mínimos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+f).- Refrendo del registro anual de control vehicular 5 salarios mínimos
 
-e).- Placas de remolque. 8 salarios mínimos.
+g).- Permiso provisional para circular en traslado 4 salarios mínimos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+h).- Expedición de placas para vehículo antiguo 8 salarios mínimos
 
-f).- Permiso anual para el uso de placas de demostración. 12 salarios mínimos.
+¡).- El canje extemporáneo de placas y engomado,
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+dará lugar al cobro de recargos conforme a lo
 
-g).- Refrendo del registro anual de control vehicular 2 salarios mínimos
+dispuesto por la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-h).- Permiso Provisional para circulación en traslado 4 salarios mínimo (sic)
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-i).- Expedición de placas para vehículo antiguo 8 salarios mínimos.
-
-j).- El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado
-
-k).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-l).- Expedición de constancia de pago 0.5 salario mínimo
+j).- Expedición de constancia de pago 0.5 salario mínimo
 
 VII.- De los vehículos de servicio público:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+a).- Alta y canje de placas 10 salarios mínimos
 
-a).- Alta y canje de placas 10 salarios mínimos.
+b).- Reposición del registro anual de
 
-b).- Reposición del registro anual de control vehicular. 3 salarios mínimos
+control vehicular 3 salarios mínimos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+c).- Bajas 3 salario mínimo (sic)
 
-c).- Bajas 3 salarios mínimos.
+d).- Reposición de tarjeta de circulación 3 salario mínimo (sic)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+e).- Refrendo del registro anual de control vehicular 7 salarios mínimos
 
-d).- Reposición de tarjeta de circulación 3 salarios mínimos.
+f).- El canje extemporáneo de placas y engomado,
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+dará lugar al cobro de recargos conforme a lo
 
-e).- Refrendo del registro de control vehicular 3 salarios mínimos
+dispuesto por la Ley de Ingresos del Estado.
 
-f).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+g).- Expedición de constancia de pago 0.5 salario mínimo
 
-g).- El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado.
+VIII.- De las Motocicletas:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+a).- Alta y canje de placas 7 salarios mínimos
 
-h).- Expedición de constancia de pago 0.5 salario mínimo
+b).- Bajas 1 salarios mínimos. (sic)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+c).- Refrendo del registro anual de
 
-VII BIS.- De las Motocicletas:
+control vehicular 5 salario (sic) mínimos
 
-a).- Alta y canje de placas 4 salarios mínimos.
+d).- Reposición del registro anual de
 
-b).- Bajas 1 salario mínimo.
+control vehicular 1 salario mínimo
 
-c).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+e).- Reposición de tarjeta de circulación 2 salarios mínimos
 
-d).- Expedición del registro de control vehicular 1 salario mínimo.
+IX.- El pago de los derechos a que se refieren las fracciones I y II, deberán hacerse de la siguiente manera:
 
-e).- Reposición del registro anual de control vehicular 1 salario mínimo.
+a).- Tratándose de altas y bajas de vehículos particulares y del servicio público, se pagaran dentro de los 15 días hábiles siguientes en que se adquiera o enajene el vehículo.
 
-f).- Reposición de tarjeta de circulación 2 salarios mínimos.
+b).- La expedición del registro anual del control vehicular, para los vehículos particulares y del servicio público, se pagaran durante los meses de enero, febrero y marzo de cada año.
 
-VIII.- El pago de los derechos a que se refieren las fracciones I y II, deberán hacerse de la siguiente manera:
+X.- Por las consultas realizadas a otros Estados
 
-a).- Tratándose de altas y bajas de vehículos particulares y del servicio publico, se pagaran dentro de los 15 días hábiles siguientes en que se adquiera o enajene el vehículo
+o a dependencias privadas o públicas, que
 
-b).- La expedición del registro anual del control vehicular, para los vehículos particulares y del servicio publico, se pagarán durante los meses de enero, febrero y marzo de cada año
+se realicen con el fin de obtener información
 
-IX.- Por las consultas realizadas a otros Estados o a dependencias privadas o públicas, que se realicen con el fin de obtener información de legalización de vehículos extranjeros, de pagos de impuesto federales realizados en otros Estados o de verificación documental. 2 salarios mínimos.
+de legalización de vehículos extranjeros,
 
-###### ARTICULO 81.
+de pagos de impuesto (sic) federales realizados
+
+en otros Estados o de verificación documental. 2 salarios mínimos
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 101.
 
 Los derechos por la prestación de los servicios del Estado a través de la Procuraduría Fiscal, se causarán y pagarán de la siguiente forma:
 
-I.- Por la expedición de copias certificadas de cualquier documento contenido en los expedientes que se encuentran en los archivos de esta oficina:
+I.- Por la expedición de copias certificadas de cualquier documento contenido en los expedientes que se encuentran en los archivos de esta oficina.
 
-a).- Por la primera hoja. 0.5 salario mínimo.
+a).- Por la primera hoja 0.5 salario mínimo
 
-b).- Por cada hoja excedente. $5.00
+b).- Por cada hoja excedente $ 5.00
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN [N. DE E. ANTES CAPÍTULO SEGUNDO BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 82.
+### CAPÍTULO QUINTO. DE LAS DEPENDENCIAS DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
 
-Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Normatividad en Licitaciones y Política Gubernamental, se causarán y pagarán de la siguiente forma:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+###### ARTICULO 102.
 
-I.- Por la inscripción en el padrón de proveedores 9 salarios mínimos.
+Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Normatividad en Licitaciones y Política Gubernamental, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+I.- Por la inscripción, revalidación, modificación
 
-II.- Por la inscripción en el padrón de contratistas 9 salarios mínimos.
+o reposición de los padrones de
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+proveedores, de la Administración Pública
 
-III.- Por la revalidación en el Padrón de contratistas 9 salarios mínimos.
+Estatal y Contratistas de Obra Pública del
 
-IV.- Por la expedición de copias certificadas de cualquier documento existente en los archivos de esta Dirección General:
+Estado de Hidalgo; 10 salarios mínimos
 
-a).- Por la primera hoja. $10.00
+II.- Por la expedición de copias certificadas de
 
-b).- Por cada hoja excedente. $5.00
+cualquier documento existente en los
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+archivos de esta Dirección.
 
-V.- Por la inscripción en el Padrón de Concesionarios 16 salarios mínimos.
+Por la primera hoja $10.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+Por cada hoja excedente. $5.00
 
-VI.- Por la actualización en el Padrón de Proveedores 9 salarios mínimos.
+III.- Por la inscripción, revalidación, modificación
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+o reposición del Padrón de Concesionarios
 
-VII.- Por las modificaciones o reposiciones en el Padrón de Proveedores 9 salarios mínimos.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-VIII.- Por las modificaciones o reposiciones en el Padrón de Contratistas 9 salarios mínimos.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-IX.- Por las modificaciones o reposiciones en el Padrón de Concesionarios 14 salarios mínimos.
+de Obra Pública del Estado de Hidalgo 17 salarios mínimos
 
 Asimismo, los Derechos por la prestación de los servicios del Estado a través de la Dirección General de Inspección y Vigilancia, se causarán y pagarán de la siguiente forma.
 
 Los contratistas con quienes se celebren contratos de obra pública y de servicios en los que participe el Estado, pagarán por el servicio de vigilancia, inspección y control que corresponda a la Secretaría: 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-###### ARTICULO 83.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
+###### ARTICULO 103.
 
-I.- Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra. 80 salarios mínimos
-
-II.- Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra. 12 salarios mínimos
-
-III.- Por cruzamiento de carretera. 12 salarios mínimos
-
-IV.- Por instalación marginal. 80 salarios mínimos
-
-V.- Por adosamiento en puentes. 12 salarios mínimos
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-VI.- Por daños a carreteras Estatales. 30 % del valor en base a la cuantificación de los daños causados conforme al catálogo de precios unitarios vigentes
-
-###### ARTICULO 84.
-
-Los derechos por la presentación de los servicios del Estado a través de la Dirección General de Administración, se causarán y pagarán de la siguiente forma:
-
-I.- Por la evaluación de la solicitud y los documentos que acrediten los requisitos a fin de obtener concesión para la proyección, construcción, reconstrucción, ampliación, modernización, operación, administración, rehabilitación, perforación, explotación, extracción, conservación o explotación de obras públicas y de los servicios relacionados con éstas:
-
-De $0.00 hasta $50,000.000.00. 100 salarios mínimos
-
-De $50,000.001.00 hasta $130,000.000.00. 110 salarios mínimos
-
-De $130,000.001.00 en adelante. 120 salarios mínimos
-
-II.- Por el otorgamiento del título de concesión para la proyección, construcción, reconstrucción, ampliación, modernización, operación, administración, rehabilitación, perforación, explotación, extracción, conservación o explotación de obras públicas y de los servicios relacionados con estas: 500 salarios mínimos
-
-III.- Por la adquisición de las bases de licitación tendrán un costo, que deberá determinarse dividiendo el monto de los gastos en que haya incurrido la Dependencia, Entidad o Ayuntamientos, exclusivamente por concepto de publicación de la convocatoria en el Periódico Oficial y los de mayor circulación en el Estado y de reproducción de los documentos que integran las bases, entre el número de interesados que se estima las adquirirán.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 84 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Asentamientos y Desarrollo Urbano, se causarán y pagarán de la siguiente forma:
-
-I.- Por el otorgamiento de Licencias de Uso del Suelo y autorización de Fraccionamientos en sus diversas modalidades:
-
-1.- Unifamiliares, cuya ubicación del predio se localice dentro o fuera de un fraccionamiento:
-
-a).- Habitacional popular 3 s.m.d.
-
-b).- Habitacional de interés social 5 s.m.d.
-
-c).- Habitacional de tipo medio 7 s.m.d.
-
-d).- Habitacional de tipo residencial 9 s.m.d.
-
-2.- Licencias de uso del suelo para efectos de construir fraccionamientos o subdivisiones conforme a los siguientes tipos:
-
-a).- Subdivisión sin alterar el uso 20 s.m.d
-
-b).- Subdivisión sin trazo de calles 50 s.m.d
-
-c).- Subdivisión con trazos de calles 70 s.m.d.
-
-d).- Fraccionamiento de interés social 100 s.m.d.
-
-e).- Fraccionamiento de tipo medio 120 s.m.d.
-
-f).- Fraccionamiento de tipo residencial 140 s.m.d.
-
-g).- Fraccionamiento de tipo campestre 100 s.m.d.
-
-h).- Fraccionamiento industrial 140 s.m.d.
-
-3.- Licencia de uso del suelo comercial y de servicios, de acuerdo con las siguientes superficies:
-
-a).- Comercial de hasta 30 M2 7 s.m.d.
-
-b).- Comercial de 31 M2 hasta 120 M2 10 s.m.d.
-
-c).- Comercial de más de 120 M2 base 10 s.m.d.
-
-+ 1 s.m.d. por
-
-cada 30 m2
-
-adicionales
-
-d).- Servicios de hasta 30 M2 7 s.m.d.
-
-e).- Servicios de 31 M2 hasta 120 M2 base 10 s.m.d.
-
-+ 1 s.m. (sic)
-
-Servicios de más de 120 M2 por cada 30 m2
-
-adicionales
-
-4.- Licencia de uso del suelo industrial, con base a la clasificación emitida por la Secretaría de Comercio y Fomento Industrial:
-
-a).- Microindustria 50 s.m.d.
-
-b).- Pequeña Industria 100 s.m.d.
-
-c).- Mediana Industria 200 s.m.d.
-
-d).- Gran Industria 300 s.m.d.
-
-5.- Licencia de usos del suelo segregados: 140 s.m.d.
-
-II.- Por la revisión y evaluación de los siguientes expedientes técnicos, se cobrarán a razón de lo siguiente:
-
-a).- Subdivisiones sin trazo de calles 30 s.m.d.
-
-b).- Subdivisiones para vivienda de
-
-interés social 50 s.m.d.
-
-c).- Subdivisiones para vivienda de tipo
-
-medio 80 s.m.d.
-
-d).- Subdivisiones para vivienda tipo
-
-residencial 90 s.m.d.
-
-e).- Subdivisiones para industria 90 s.m.d.
-
-f).- Subdivisiones con trazos de calles
-
-de usos mixto 70 s.m.d.
-
-g).- Fraccionamiento de interés social 120 s.m.d.
-
-h).- Fraccionamiento de tipo medio 140 s.m.d.
-
-i).- Fraccionamiento de tipo residencial 180 s.m.d.
-
-j).- Fraccionamiento industrial 180 s.m.d.
-
-k).- Fraccionamiento campestre 120 s.m.d.
-
-III.- Por. la expedición de las licencias de subdivisión y autorización de accionamientos, los derechos se cobrarán conforme a lo siguiente:
-
-1.- Para la autorización de fraccionamientos, subdivisiones de vivienda de interés social o de tipo popular, relotificaciones y régimen de propiedad en condominio se cobrará:
-
-a).- Los que se ubiquen en la zona
-
-metropolitana (por lote) 55 s.m.d.
-
-b).- Para los que se ubiquen en el interior
-
-del Estado (por lote) 39 s.m.d.
-
-c).- Relotificaciones en subdivisiones
-
-o fraccionamientos, pagarán en forma
-
-proporcional a la superficie a relotificar,
-
-sobre el costo de los derechos causados
-
-por la expedición de la licencia. 30% sobre la licencia.
-
-d).- Constitución de régimen de propiedad
-
-en condominio se pagará tomando como
-
-base la suma de las áreas de propiedad 0.17 s.m.d. x m2.
-
-e).- Por autorización y certificación de libros
-
-de actas de régimen de propiedad en
-
-condominio. 10 s.m.d.
-
-2.- Para la autorización de fraccionamiento o subdivisiones de tipo residencial, campestre Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
-
-IV.- Por los derechos que causan los servicios que a continuación se indican, se-cobrarán en los términos siguientes:
-
-1.- Por expedición de diversas constancias 3 s.m.d
-
-2.- Por renovación de las licencias
-
-pagará respecto del costo establecido
-
-en el trámite inicial del documento que
-
-se pretende renovar 30% del valor
-
-3.- Registro para ejercer como perito
-
-responsable de obra en materia de
-
-construcción, planificación urbanística y
-
-régimen de propiedad en condominio 9 s.m.d
-
-4.- Registro de perito valuador 9 s.m.d
-
-5.- Refrendo anual de registro de
-
-Director responsable de obra 5 s.m.d
-
-6.- Refrendo anual de registro de
-
-perito valuador 5 s.m.d
-
-7.- Copias de contacto, (foto aéreas)
-
-formato 23 X23 cms. 1 s.m.d.
-
-Peso sencillo, color blanco y negro,
-
-resolución 600 DPI
-
-8.- Foto de contacto 23X23 cms,
-
-resoluciones 600 DPI, Formato TIF o JPG 8 s.m.d.
-
-9.- Hoja de mosaico (fotografías) en papel
-
-heliográfico tamaño 50x60 cms. 10 s.m.d
-
-10.- Copias de croquis de localización en
-
-puntos topográficos, en papel bond de
-
-área solicitada 2 s.m.d
-
-11.- Copia de plano manzanero
-
-(heliográfica escala 1: 1 000 3 s.m.d
-
-12.- Inspección de predios y examen de los
-
-planos de notificación 10 s.m.d.
-
-En relación con' las construcciones de
-
-fraccionamientos urbanizados, antes de ser
-
-municipalizados X manzana
-
-13.- Verificación de la poligonal de
-
-fraccionamiento 13 s.m.d. x Ha
-
-14.- Levantamiento topográfico de poligonales
-
-(incluye planos y cálculos)
-
-a).- Hasta 5,000 M2 20 s.m.d.
-
-b).- De 5,001 hasta menos de 10,000 M2 30 s.m.d.
-
-c).- De 1 a 2 has. 32 s.m.d. x Ha.
-
-d).- De más de 2 a 5 has 22 s.m.d. x Ha.
-
-e).- De más de 5 a 10 has 16 s.m.d. x Ha
-
-f).- De más de 10 a 20 has 13 s.m.d. x Ha.
-
-g).- De más 20 a 50 has 9 s.m.d. x Ha.
-
-h).- De más 50 a 100 has 6 s.m.d. x Ha.
-
-i).- De más de 100 has 5 s.m.d. x Ha.
-
-15.- Levantamiento topográfico de predio
-
-con área de terreno y edificación:
-
-a).- Hasta 150 m2 0.11 s.m.d. xm2
-
-b).- De 151 a 250 m2 0.10 s.m.d. xm2
-
-c).- De 251 a 500 m2 0.08 s.m.d xm2
-
-d).- De 501 a 750 m2 0.06 s.m.d xm2
-
-e).- De 751 a 1,000 m2 0.05 s.m.d xm2
-
-f).- De 1,001 a 1,500 m2 0.04 s.m.d xm2
-
-g).- De 1,501 a 2,000m2 0.04 s.m.d xm2
-
-h).- De 2,001 a 2,500 m2 0.03 s.m.d xm2
-
-i).- Más de 2,500 m2 0.03 s.m.d xm2
-
-16.- Levantamiento topográfico en calle:
-
-a).- Por los primeros 2,000 M2 0.04 s.m.d. xm2
-
-b).- De 2,001 a 10, 000 m2 0.03 s.m.d. xm2
-
-c).- De 10,001 a 50,000 m2 0.02 s.m.d. xm2
-
-d).- De 50,000 a 100,00 m2 0.01 s.m.d xm2
-
-17.- El certificado o certificación del valor
-
-catastral, el Importe de los derechos será de: 3 s.m.d
-
-18.- Certificado o certificación de la ubicación
-
-del predio en fraccionamiento autorizado 7 s.m.d. x predio
-
-19.- Aprobación, registro de planos y
-
-otorgamiento de claves catastrales 0.1 s.m.d. xm2
-
-20.- Avalúos catastrales:
-
-a).- Por los primeros $ 5,000.00 se cobrará 3 s.m.d.
-
-b).- Por el excedente de 5,00.01 se cobrarán,
-
-de la cantidad que resulte el valor catastral. 2 al millar
-
-21.- Por revisión, certificación de avalúo
-
-comercial a Peritos valuadores 30% de11.5 al millar
-
-del monto Revisado, pago
-
-Mínimo de 3.33 s.m.d
-
-22.- Expedición de información no
-
-confidencial sobre datos de la Dirección
-
-General de Desarrollo Urbano 2 s.m.d. x hoja carta
-
-23.- Expedición de copias compulsadas de
-
-cualquier documento que obre en el archivo
-
-de la Secretaría de Obras Públicas,
-
-Comunicaciones, Transportes y Asentamientos.
-
-a).- Por la primera Hoja, 0.6 s.m.d.
-
-b).- Por cada hoja adicional 0.3 s.m.d.
-
-24.- Restitución fotogramétrica escala
-
-1: 1 000 con vuelo autorizado (1990) con
-
-curvas de nivel a un metro en heliográfica,
-
-formato 90x60 cms. 39 s.m.d x pieza
-
-25.- Copia de plano de la localidad, en
-
-papel bond, formato 60x90 cms. 3 s.m.d.
-
-26.- Documentos impresos:
-
-a).- Ley de Catastro 1 s.m.d.
-
-b).- Instructivo de valuación 9 s.m.d.
-
-c).- Otros, según el número de fojas de 1 a 10 s.m.d.
-
-d.- Actualización de solicitudes de avalúo y
-
-traslado de dominio 4 s.m.d
-
-27.- Por concepto de asistencia técnica, asesoría y supervisión en la actualización o modernización del catastro, la Secretaría recibirá:
-
-a).- El 8% sobre el monto anual cobrado (factura), derivado de la evaluación de los predios y determinado por la Dirección de Catastro, adicionado por el 1.5% sobre la cantidad que recaudó el Municipio, por concepto de impuesto por adquisición de bienes inmuebles, durante el año anterior.
-
-b).- La suma de ambos conceptos se dividirá entre doce para determinar la cantidad mensual que el Municipio enterará a la Secretaría, a través de la Secretaría de Finanzas, quien efectuará las operaciones correspondientes, a partir del siguiente mes a la aprobación del Convenio que sea suscrito por la Secretaría y los Municipios.
-
-Los trabajos para la modernización del catastro serán a cargo del presupuesto de los Municipios.
-
-28.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, en la elaboración de planes y programas de desarrollo urbano, la Secretaría percibirá hasta un 25% del costo total de los trabajos para la elaboración del plan o programas, que sean objeto de supervisión.
-
-29.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, de los dictámenes de uso de suelo en general, la Secretaría percibirá hasta un 50% de los derechos a pagar, resultado de los trabajos respectivos.
-
-30.- Expedición de constancias de no invasión o fraccionamientos, áreas verdes u otros:
-
-a).-En todo el Territorio de la Entidad 10 s.m.d
-
-Cuando la prestación de los servicios sean solicitados por, jornaleros, obreros o trabajadores o cuando éstos sean no asalariados, el pago que efectúen no podrá exceder del importe de su jornal o salario de un día, o del equivalente a un día de su ingreso, respectivamente, cuando la tarifa correspondiente del derecho, resulte mayor.
-
-V.- Todos los conceptos de cobro a que se refiere este Artículo, deberán cubrirse en la Secretaría de Finanzas del Gobierno del Estado.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 85.
-
-Los derechos por la prestación de los servicios del Estado, que soliciten los particulares a través de la Dirección de Administración, independientemente de sus funciones de derecho público contenidas en su Ley Orgánica respectiva, se causarán y pagarán de la siguiente forma:
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
-
-I.- Por la expedición de copias fotostáticas de documentos que existan en los archivos de esta institución 0.80
-
-a).- Por la certificación de las mismas. 1 salario mínimo
-
-II.- Por la elaboración de peritajes. 2 salarios mínimos
-
-III.- Por la práctica de examen antidoping. 10 salarios mínimos
-
-IV.- Por la práctica de examen toxicológico. 2 salarios mínimos
-
-V.- Por la expedición de certificados de no antecedentes penales. 1.5 salarios mínimos.
-
-###### ARTICULO 86.
-
-Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a las, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-###### ARTICULO 87.
-
-Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Estado, por los siguientes conceptos:
-
-I.- Por la venta de bienes muebles e inmuebles propiedad del Estado;
-
-II.- Por el importe de los arrendamientos de bienes muebles e inmuebles propiedad del Estado;
-
-III.- Por los rendimientos de capitales y valores del Estado;
-
-IV.- Por los conceptos, montos y partidas relativas a ingresos derivadas de montos de endeudamiento, correspondientes a emisiones de valores;
-
-V.- Por las operaciones realizadas por establecimientos y empresas del Estado;
-
-VI.- Por la venta de impresiones;
-
-VII.- Los productos por conceptos diversos de los señalados en este Artículo, se pagarán conforme a las estipulaciones que se acuerden en los contratos celebrados al respecto o en los términos de las concesiones respectivas, de conformidad con las Leyes o disposiciones aplicables y
-
-VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2010)
-
-IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2010)
-
-X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XI.- Por la venta de artesanías.
-
-###### ARTICULO 88.
-
-Quedan comprendidos dentro de este capítulo, los ingresos ordinarios que obtengan el Estado y que no sean clasificados como impuestos, derechos, productos e ingresos extraordinarios, catalogándose como tales, los siguientes:
-
-I.- Las multas;
-
-II.- Los recargos;
-
-III.- Los reintegros por responsabilidad oficial;
-
-IV.- Las cauciones y fianzas, cuya pérdida se declare firme a favor del Estado, por resolución judicial o administrativa;
-
-V.- Los intereses;
-
-VI.- Los bienes y herencias vacantes;
-
-VII.- Los tesoros ocultos;
-
-VIII.- Las herencias legales y donaciones que sean a favor del Estado y
-
-IX.- Las indemnizaciones.
-
-###### ARTICULO 89.
-
-Las participaciones y aportaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaría de Finanzas.
-
-###### ARTICULO 90.
-
-Son ingresos extraordinarios, todos aquellos que la Hacienda Pública del Estado de Hidalgo perciba, cuando circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
-
-###### ARTICULO 91.
-
-Los ingresos a que se refiere el Artículo que antecede, serán por los conceptos siguientes:
-
-I.- Empréstitos;
-
-II.- Expropiaciones;
-
-III.- Impuestos y derechos extraordinarios;
-
-IV.- Aportaciones para obras de beneficencia social;
-
-V.- Apoyos financieros federales y
-
-VI.- Otras participaciones extraordinarias.
-
-###### ARTICULO 92.
-
-Los contratistas y destajistas que realicen obras para el Gobierno del Estado, aportarán el 1% sobre el pago de cada una, para obras de beneficio social.
-
-### CAPITULO SEGUNDO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2006)</small>
-
-### CAPITULO SEGUNDO BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE ADMINISTRACION
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
-
-ARTICULO 81 BIS.- Los derechos por la prestación de servicios del Estado, a través de la Secretaría de Administración, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de servicios del Estado, a través de la Unidad de Información Pública Gubernamental, de la siguiente forma:
 
 Por la expedición en copia simple o certificada, o reproducción de la información en dispositivo de almacenamiento, derivado del ejercicio del derecho de acceso a la información de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Hidalgo, se causarán y pagarán los derechos de la siguiente forma:
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
-
-Expedición de copias simples, por cada hoja $ .50
+Expedición de copias simples, por cada hoja $5.00
 
 Copia certificada $10.00
 
@@ -2187,23 +2413,425 @@ Copia de planos $30.00
 
 Copia Certificada de planos $100.00
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+En el supuesto de que los solicitantes requieran el envío de la información por correo certificado, mensajería local o foránea, la contratación de dichos servicios y el costo de los mismo (sic), deberán ser contratados por el solicitante, con el prestador del servicio que más convenga a sus intereses, debiendo informar a la Unidad de Información Pública Gubernamental, los datos suficientes para poder realizar el envío.
 
-En el supuesto de que los solicitantes requieran el envío de la información por correo certificado, mensajería local o foránea, la contratación de dichos servicios y el costo de los mismos, deberán ser contratados por el solicitante, con el prestador del servicio que más convenga a sus intereses, debiendo informar a la Unidad de Información Pública Gubernamental del Poder Ejecutivo, los datos suficientes para poder realizar el envío.
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO TERCERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
+### CAPÍTULO SEXTO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE SALUD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS, COMUNICACIONES, TRANSPORTES Y ASENTAMIENTOS
+###### ARTICULO 104.
 
-### CAPITULO CUARTO BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE SALUD
+Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+I.- Por la autorización para la construcción
 
-ARTICULO 84 BIS A.- Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Salud, por conducto de la Comisión para la Protección contra Riesgos Sanitarios, se causarán y pagarán de la siguiente forma:
+de accesos que afecten el derecho de
 
-I.- Por permiso sanitario para el internamiento o salida de cadáveres, tejidos o restos áridos del territorio estatal; 50 salarios mínimos
+vía en carreteras y puentes estatales
+
+incluyendo la supervisión de obra; 80 salarios mínimos
+
+II.- Por la autorización para la
+
+construcción de obras de paradores,
+
+que afecten el derecho de vía en
+
+carreteras y puentes Estatales
+
+incluyendo la supervisión de obra; 12 salarios mínimos
+
+III.- Por cruzamiento de carretera; 24 salarios mínimos
+
+IV.- Por instalación marginal 80 salarios mínimos
+
+V.- Por adosamiento en puentes; y 12 salarios mínimos
+
+VI.- Por daños a carreteras Estatales 30% de valor en base
+
+a la cuantificación de
+
+daños causados
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 105.
+
+Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Administración, se causarán y pagarán de la siguiente forma:
+
+I.- Por la evaluación de la solicitud y los documentos que acrediten los requisitos a fin de obtener concesión para la proyección, construcción, reconstrucción, ampliación, modernización, operación, administración rehabilitación, perforación, explotación, extracción, conservación o explotación de obras públicas y de los servicios relacionados con éstas:
+
+De $0.00 hasta $50' 000,000.00 100 salarios mínimos
+
+De $50'000,001.00 hasta $130'000,000.00 10 salarios mínimos
+
+De $130'000,001.00 en adelante 120 salarios mínimos
+
+II.- Por el otorgamiento del título de concesión
+
+para la proyección, construcción, reconstrucción,
+
+ampliación, modernización, operación, administración
+
+rehabilitación, perforación, explotación, extracción,
+
+conservación o explotación de obras públicas y de los
+
+servicios relacionados con éstas 500 salarios mínimos
+
+III.- Por la adquisición de las bases de licitación, tendrán un costo que deberá determinarse dividiendo el monto de los gastos en que haya incurrido la Dependencia, Entidad o Ayuntamientos, exclusivamente por concepto de Publicación de la convocatoria en el Periódico Oficial y los de mayor circulación en el estado y de reproducción de los documentos que integran las bases, entre el número de interesados que se estima las adquirirán.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 106.
+
+Los derechos por la prestación de los servicios del Estado a través de la Dirección General de Asentamientos y Desarrollo Urbano, se causarán y pagarán de la siguiente forma:
+
+I.- Por el otorgamiento de Licencias de Uso del Suelo y autorización de Fraccionamientos en sus diversas modalidades:
+
+1.- Unifamiliares, cuya ubicación del predio se localice dentro o fuera de un fraccionamiento:
+
+a).- Habitacional popular 3 salarios mínimos.
+
+b).- Habitacional de interés social 5 salarios mínimos.
+
+c).- Habitacional de tipo medio 7 salarios mínimos.
+
+d).- Habitacional de tipo residencial 9 salarios mínimos.
+
+2.- Licencias de uso del suelo para efectos de construir fraccionamientos o subdivisiones conforme a los siguientes tipos:
+
+a).- Subdivisión sin alterar el uso 20 salarios mínimos.
+
+b).- Subdivisión sin trazo de calles 50 salarios mínimos
+
+c).- Subdivisión con trazos de calles 70 salarios mínimos.
+
+d).- Fraccionamiento de interés social 100 salarios mínimos.
+
+e).- Fraccionamiento de tipo medio 120 salarios mínimos.
+
+f).- Fraccionamiento de tipo residencial 140 salarios mínimos.
+
+g).- Fraccionamiento de tipo campestre 100 salarios mínimos.
+
+h).- Fraccionamiento industrial 140 salarios mínimos.
+
+3.- Licencia de uso del suelo comercial y de servicios, de acuerdo con las siguientes superficies:
+
+a).- Comercial de hasta 30 M2 7 salarios mínimos
+
+b).- Comercial de 31 M2 hasta 120 M2 10 salarios mínimos
+
+c).- Comercial de más de 120 M2 base 10 salarios mínimos
+
++ 1 salario mínimo por
+
+cada 30 m2 adicionales
+
+d).- Servicios de hasta 30 M2 7 salarios mínimos.
+
+e).- Servicios de 31 M2 hasta 120 M2 10 salarios mínimos
+
+f).- Servicios de más de 120 M2 base 10 salarios mínimos
+
++ 1 salario mínimo por cada
+
+30 m2 adicionales.
+
+4.- Licencia de uso del suelo industrial, con base a la clasificación emitida por la Secretaría de Comercio y Fomento Industrial:
+
+a).- Microindustria 50 salarios mínimos
+
+b).- Pequeña Industria 100 salarios mínimos
+
+c).- Mediana Industria 200 salarios mínimos
+
+d).- Gran Industria 300 salarios mínimos
+
+5.- Licencia de usos del suelo segregados: 140 salarios mínimos.
+
+II.- Por la revisión y evaluación de los siguientes expedientes técnicos, se cobrarán a razón de lo siguiente:
+
+a).- Subdivisiones sin trazo de calles 30 salarios mínimos
+
+b).- Subdivisiones para vivienda de interés social 50 salarios mínimos
+
+c).- Subdivisiones para vivienda de tipo medio 80 salarios mínimos
+
+d).- Subdivisiones para vivienda tipo residencial 90 salarios mínimos
+
+e).- Subdivisiones para industria 90 salarios mínimos
+
+f).- Subdivisiones con trazos de calles de usos mixto 70 salarios mínimos
+
+g).- Fraccionamiento de interés social 120 salarios mínimos
+
+h).- Fraccionamiento de tipo medio 140 salarios mínimos
+
+i).- Fraccionamiento de tipo residencial 180 salarios mínimos
+
+j).- Fraccionamiento industrial 180 salarios mínimos
+
+k).- Fraccionamiento campestre 120 salarios mínimos
+
+III.- Por la expedición de las licencias de subdivisión y autorización de fraccionamientos, los derechos se cobrarán conforme a lo siguiente
+
+1.- Para la autorización de fraccionamientos, subdivisiones de vivienda de interés social o de tipo popular, relotificaciones y régimen de propiedad en condominio se cobrará:
+
+a).- Los que se ubiquen en la zona metropolitana
+
+(por lote) 55 salarios mínimos
+
+b).- Para los que se ubiquen en el interior del Estado
+
+(por lote) 39 salarios mínimos
+
+c).- Relotificaciones en subdivisiones o fraccionamientos,
+
+pagarán en forma proporcional a la superficie a
+
+relotificar, sobre el costo de los derechos causados
+
+por la expedición de la licencia 30% sobre de la licencia
+
+d).- Constitución de régimen de propiedad en
+
+condominio se pagará tomando como base la
+
+suma de las áreas de propiedad. 0.17 salarios mínimos x m2
+
+e).- Por autorización y certificación de libros de
+
+actas de régimen de propiedad en condominio. 10 salarios mínimos
+
+2.- Para la autorización de fraccionamiento o subdivisiones de tipo residencial, campestre Industrial y comercial se cobrarán derechos a razón de 8% del valor catastral de la superficie del terreno, más el 7.5% del valor de las obras de urbanización.
+
+IV.- Por los derechos que causan los servicios que a continuación se indican, se cobrarán en los términos siguientes:
+
+1.- Por expedición de diversas constancias 3 salarios mínimos.
+
+2.- Por renovación de las licencias pagará respecto
+
+del costo establecido en el trámite inicial del
+
+documento que se pretende renovar 30% del valor.
+
+3.- Registro para ejercer como perito responsable
+
+de obra en materia de construcción, planificación
+
+urbanística y régimen de propiedad en condominio; 9 salarios mínimos.
+
+4.- Registro de perito valuador 9 salarios mínimos
+
+5.- Refrendo anual de registro de
+
+Director responsable de obra 5 salarios mínimos.
+
+6.- Refrendo anual de registro de
+
+perito valuador 5 salarios mínimos.
+
+7.- Copias de contacto, (foto aéreas)
+
+formato 23 X23 cms.
+
+Peso sencillo, color blanco y
+
+negro, resolución 600 DPI; 1 salarios mínimos (sic)
+
+8.- Foto de contacto 23X23 cms,
+
+resoluciones 600 DPI, Formato
+
+TIF o JPG; 8 salarios mínimos.
+
+9.- Hoja de mosaico (fotografías) en
+
+papel heliográfico tamaño 50x60 cms. 10 salarios mínimos.
+
+10.- Copias de croquis de localización en
+
+puntos topográficos, en papel bond de
+
+área solicitada 2 salarios mínimos.
+
+11.- Copia de plano manzanero
+
+(heliográfica escala 1:1000 3 salarios mínimos
+
+12.- Inspección de predios y examen de los planos
+
+de lotificación En relación con las construcciones
+
+de fraccionamientos urbanizados,
+
+municipalizados 10 salarios mínimos
+
+x manzana.
+
+13.- Verificación de la poligonal de fraccionamiento 13 salarios mínimos x Ha.
+
+14.- Levantamiento topográfico de poligonales (incluye planos y cálculos)
+
+a).- Hasta 5,000 M2 20 salarios mínimos
+
+b).- De 5,001 hasta menos de 10,000 M2 30 salarios mínimos
+
+c).- De 1 a 2 has. 32 salarios mínimos x Ha.
+
+d).- De más de 2 a 5 has 22 salarios mínimos x Ha.
+
+e).- De más de 5 a 10 has 16 salarios mínimos x Ha.
+
+f).- De más de 10 a 20 has 13 salarios mínimos x Ha.
+
+g).- De más 20 (sic) a 50 has 9 salarios mínimos x Ha.
+
+h).- De más 50 (sic) a 100 has 6 salarios mínimos x Ha.
+
+i).- De más de 100 has 5 salarios mínimos x Ha.
+
+15.- Levantamiento topográfico de predio con área de terreno y edificación:
+
+a).- Hasta 150 m2 0.11 salarios mínimos xm2
+
+b).- De 151 a 250 m2 0.10 salarios mínimos xm2
+
+c).- De 251 a 500 m2 0.08 salarios mínimos xm2
+
+d).- De 501 a 750 m2 0.06 salarios mínimos xm2
+
+e).- De 751 a 1,000 m2 0.05 salarios mínimos xm2
+
+f).- De 1,001 a 1,500 m2 0.04 salarios mínimos xm2
+
+g).- De 1,501 a 2,000m2 0.04 salarios mínimos xm2
+
+h).- De 2,001 a 2,500 m2 0.03 salarios mínimos xm2
+
+i).- Más de 2,500 m2 0.03 salarios mínimos xm2
+
+16.- Levantamiento topográfico en calle:
+
+a).- Por los primeros 2,000 M2 0.04 salarios mínimos xm2
+
+b).- De 2,001 a 10, 000 m2 0.03 salarios mínimos xm2
+
+c).- De 10,001 a 50,000 m2 0.02 salarios mínimos xm2
+
+d).- De 50,000 a 100,000 m2 0.1 salarios mínimos xm2
+
+17.- El certificado o certificación del valor
+
+catastral, el Importe de los derechos
+
+será de: 3 salarios mínimos.
+
+18.- Certificado o certificación de la ubicación
+
+del predio en fraccionamiento autorizado 7 salarios mínimos x predio.
+
+19.- Aprobación, registro de planos y
+
+otorgamiento de claves catastrales 0.1 salarios mínimos xm2
+
+20.- Avalúos catastrales:
+
+a).- Por los primeros $ 5,000.00 se cobrará 3 salarios mínimos.
+
+b).- Por el excedente de 5,00.01 se
+
+cobrarán, de la cantidad que resulte el
+
+valor catastral. 2 al millar.
+
+21.- Por revisión, certificación de avalúo
+
+comercial a Peritos valuadores 30% del 1.5 al millar
+
+del monto revisado
+
+22.- Expedición de información no
+
+confidencial sobre datos de la Dirección
+
+General de Desarrollo Urbano 2 salarios mínimos
+
+x hoja carta
+
+23.- Expedición de copias compulsadas de cualquier documento que obre en el archivo de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos.
+
+a).- Por la primera Hoja 0.6 salarios mínimos.
+
+b).- Por cada hoja adicional 0.3 salarios mínimos.
+
+24.- Restitución fotogramétrica escala 1:1000
+
+con vuelo autorizado (1990) con curvas
+
+de nivel a un metro en heliográfica,
+
+formato 90x60 cms. 39 salarios mínimos x pieza.
+
+25.- Copia de plano de la localidad, en papel
+
+bond, formato 60x90 cms. 3 salarios mínimos.
+
+26.- Documentos impresos:
+
+a).- Ley de Catastro 1 salarios mínimos (sic)
+
+b).- Instructivo de valuación 9 salarios mínimos
+
+c).- Otros, según el número de fojas de 1 a 10 salarios mínimos
+
+d).- Actualización de solicitudes de avalúo y
+
+traslado de dominio. 4 salarios mínimos
+
+27.- Por concepto de asistencia técnica, asesoría y supervisión en la actualización o modernización del catastro, la Secretaría Recibirá:
+
+a).- El 8% sobre el monto anual cobrado (factura), derivado de la evaluación de los predios y determinado por la Dirección de Catastro, adicionado por el 1.5% sobre la cantidad que recaudó el Municipio, por concepto de impuesto por adquisición de bienes inmuebles, durante el año anterior.
+
+b).- La suma de ambos conceptos se dividirá entre doce para determinar la cantidad mensual que el Municipio enterará a la Secretaría, a través de la Secretaría de Finanzas y Administración, quien efectuará las operaciones correspondientes, a partir del siguiente mes a la aprobación del Convenio que sea suscrito por la Secretaría y los Municipios.
+
+Los trabajos para la modernización del catastro serán a cargo del presupuesto de los Municipios.
+
+28.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, en la elaboración de planes y programas de desarrollo urbano, la Secretaría percibirá hasta un 25% del costo total de los trabajos para la elaboración del plan o programas, que sean objeto de supervisión.
+
+29.- Por concepto de asistencia técnica, asesoría, elaboración y/o supervisión, de los dictámenes de uso de suelo en general, la Secretaría percibirá hasta un 50% de los derechos a pagar, resultado de los trabajos respectivos.
+
+30.- Expedición de constancias de no invasión o fraccionamientos, áreas verdes u otros:
+
+a).- En todo el territorio de la Entidad 10 salarios mínimos.
+
+Cuando la prestación de los servicios sean solicitados por jornaleros, obreros o trabajadores o cuando éstos sean no asalariados, el pago que efectúen no podrá exceder del importe de su jornal o salario de un día, o del equivalente a un día de su ingreso, respectivamente, cuando la tarifa correspondiente del derecho, resulte mayor.
+
+V.- Todos los conceptos de cobro a que se refiere este artículo, deberán cubrirse en la Secretaría de Finanzas y Administración del Gobierno del Estado.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO CUARTO BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO SEPTIMO. DE LAS DEPENDENCIAS DE LA PROCURADURIA GENERAL DE JUSTICIA
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 107.
+
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Salud, por conducto de la Comisión para la Protección contra Riesgos Sanitarios, se causarán y pagarán de la siguiente forma:
+
+I.- Por permiso sanitario para el internamiento o
+
+salida de cadáveres, tejidos o restos áridos del
+
+territorio Estatal; 50 salarios mínimos
 
 II.- Por permiso sanitario de exhumación; 50 salarios mínimos
 
@@ -2213,21 +2841,31 @@ a).- Hoteles y Moteles de 80 y más habitaciones; 150 salarios mínimos
 
 b).- Hoteles y Moteles de 20 hasta 79 habitaciones; 75 salarios mínimos
 
-c).- Hoteles, Moteles y casa de Huéspedes de una hasta 19 habitaciones; 25 salarios mínimos
+c).- Hoteles, Moteles y casa de Huéspedes de una
+
+hasta 19 habitaciones; 25 salarios mínimos
 
 d).- Cines y Teatros; 50 salarios mínimos
 
-e).- Circos, Carpas, Ferias, Juegos Electromecánicos y Centros de Espectáculos; 50 salarios mínimos
+e).- Circos, Carpas, Ferias, Juegos
+
+Electromecánicos y Centros de Espectáculos; 50 salarios mínimos
 
 f).- Lavanderías y Centros de Planchado; 10 salarios mínimos
 
 g).- Tintorerías; 20 salarios mínimos
 
-h).- Casinos; y 150 salarios mínimos
+h).- Casinos: y 150 salarios mínimos
 
-i).- Centros de Enseñanza (escuelas, institutos y enseñanza acuática, excepto guarderías); 20 salarios mínimos
+i).- Centros de Enseñanza (escuelas, institutos y
 
-IV.- Por asesorías extras y supervisión de avance de obra (excepto obra de establecimientos de atención medica); 20 salarios mínimos
+enseñanza acuática, excepto guarderías); 20 salarios mínimos
+
+IV.- Por asesorías extras y supervisión de avance de
+
+obra (excepto obra de establecimientos de
+
+atención medica); 20 salarios mínimos
 
 V.- Por cursos de capacitación a petición de parte:
 
@@ -2235,17 +2873,61 @@ a).- Ponente nacional; y 25 salarios mínimos
 
 b).- Ponente local. 30 salarios mínimos
 
-### CAPITULO QUINTO. DE LAS DEPENDENCIAS DE LA PROCURADURIA GENERAL DE JUSTICIA
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO SEXTO. DE LOS ORGANISMOS DESCENTRALIZADOS
+### CAPITULO OCTAVO. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO SEPTIMO. DE LA UNIDAD DE INFORMACION PUBLICA GUBERNAMENTAL DEL PODER EJECUTIVO
+###### ARTICULO 108.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010) (F. DE E., P.O. 18 DE ABRIL DE 2011)
+Los derechos por la prestación de los servicios del Estado, que soliciten los particulares a través de la Dirección General de Administración y Finanzas, independientemente de sus funciones de derecho público contenidas en su Ley Orgánica respectiva, se causarán y pagarán de la siguiente forma:
 
-ARTICULO 86 BIS.- Los derechos por la prestación de servicios, a través de los Organismos Descentralizados, serán los siguientes:
+I.- Por la expedición de copias fotostáticas
+
+de documentos que existan en los archivos
+
+de esta institución $ 0.80
+
+a).- Por la certificación de las mismas. 1 salario mínimo
+
+II.- Por la práctica de examen antidoping. 10 salarios mínimos
+
+III.- Por la expedición de certificados de
+
+no antecedentes penales. 1.5 salarios mínimos
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO SEXTO], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 109.
+
+Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a las cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
+
+Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas y Administración.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 86 BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 110.
+
+Los derechos por la prestación de servicios, a través de los Organismos Descentralizados, serán los siguientes:
 
 I.- Servicios en Materia Educativa:
 
@@ -2479,9 +3161,205 @@ I.- Servicios en Materia Educativa:
 
 115.- Impartición de diplomados;
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-I (sic).- Servicios en Materia de Salud:
+116.- Evaluación para la certificación de competencia laboral;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+117.- Servicio de diagnóstico de consultoría;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+118.- Emitir documento probatorio extemporáneo;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+119.- Duplicar documento probatorio emitido;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+120.- Preinscripción;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+121.- Incorporación de escuelas;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+122.- Equivalencia de educación media;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+123.- Autentificación de certificado de estudios;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+124.- Visita de inspección a instituciones;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+125.- Instructivo que regula el trámite para el Reconocimiento de Validez Oficial de Estudios (REVOE) y CD de formatos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+126.- Expedición de carta de no inconveniente;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+127.- Trámite para el cambio a actualización de cada programa académico;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+128.- Autentificación de duplicado y triplicado de certificado de estudios;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+129.- Autentificación de título, diploma o grado académico;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+130.- Equivalencia de estudios;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+131.- Revisión de documentos por alumno inscrito;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+132.- Expedición de registro de personal docente;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+133.- Cuota de recuperación mensual por cursar materia reprobada de los programas de educación abierta y a distancia y de obtención de licenciatura;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+134.- Bases para licitación de obra con recurso estatal;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+135.- Bases para licitación de equipamiento con recurso estatal;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+136.- Impresión o copia de planos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+137.- Dictamen de obra;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+138.- Validación de expedientes técnicos;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+139.- Asesoría técnica;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+140.- Venta de bibliografía (Manual);
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+141.- Equivalencia de estudios (costo fijo);
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+142.- Equivalencia de estudios (costo adicional por materia);
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+143.- Evaluación complementaria;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+144.- Servicio técnico (hora);
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+145.- Colegiatura de maestría;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+146.- Propedéutico de maestría;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+147.- Maestría de posgrado;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+148.- Curso intensivo de recuperación;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+149.- Curso de educación continua categoría B2;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+150.- Curso de educación continua categoría C2;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+151.- Cuota de recuperación cuatrimestral nivel licenciatura;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+152.- Curso de educación continua categoría A (hora);
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+153.- Reposición de tarjetón de estacionamiento;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+154.- Kit de capacitación;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+155.- Asignatura en modalidad EDMIX nivel licenciatura;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+156.- Examen TOEFL;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+157.- Recursar materia por 3er. Vez;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+158.- Curso intensivo de regularización;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+159.- Diploma y cédula de especialidad;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+160.- Duplicado de diplomas de especialidad;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+161.- Evaluación integral de capacidades;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+162.- Constancia de no adeudo a biblioteca;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+163.- Reexpedición de constancia de servicios (sic) social;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+164.- Constancia por reposición de documento de educación continua;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+II.- Servicios en Materia de Salud:
 
 DESCRIPCION
 
@@ -2585,7 +3463,9 @@ ODONTOLOGIA
 
 46.- Apicoformación;
 
-47.- Corona de acero;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+47. Corona de acero cromo;
 
 48.- Mantenedores de espacio;
 
@@ -2599,7 +3479,9 @@ ODONTOLOGIA
 
 53.- Odontoexesis;
 
-54.- Pulpoctomía;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+54.- Pulpotomía;
 
 55.- Resina fotocurable;
 
@@ -2657,7 +3539,9 @@ OPERATORIA
 
 81.- Pulido de restauración;
 
-82.- Cirugía de labio figurado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+82.- Cirugía de labio fisurado;
 
 83.- Cirugía de paladar figurado;
 
@@ -2693,9 +3577,13 @@ TERAPIA PULPAR
 
 98.- Recubrimientos pulpares;
 
-99.- Pulpoctomía piezas posteriores;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-100.- Pulpoctomía piezas anteriores;
+99.- Pulpotomía piezas posteriores;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+100.- Pulpotomía piezas anteriores;
 
 101.- Urgencia pulpar;
 
@@ -2713,7 +3601,9 @@ CIRUGIA
 
 105.- Frenivectomia;
 
-106.- Osteomielitis;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+106.- Ostiomielitis;
 
 107.- Parodoncia;
 
@@ -2783,13 +3673,17 @@ SALUD MENTAL
 
 135.- Pruebas de tat;
 
-136.- Pruebas de back;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+136.- Pruebas de buck;
 
 137.- Pruebas de bender;
 
 138.- Pruebas de hábitat;
 
-139.- Pruebas de gipsy;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+139.- Pruebas de wipsi;
 
 140.- Pruebas de wisc;
 
@@ -2921,7 +3815,9 @@ GINECO-OBSTETRICIA
 
 199.- Conificación;
 
-200.- Resección alta o baja de cerviz;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+200.- Resección alta o baja de cérvix;
 
 201.- Debridación de absceso mamario;
 
@@ -2957,9 +3853,13 @@ GINECO-OBSTETRICIA
 
 217.- Traqueloplastía;
 
-218.- Cerclaje de cerviz;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-219.- Conización de cerviz;
+218.- Cerclaje de cérvix;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+219.- Conización de cérvix;
 
 220.- Cirugía abdominal no clasificada;
 
@@ -2967,7 +3867,9 @@ GINECO-OBSTETRICIA
 
 222.- Tumoraciones anexiales;
 
-223.- Plastia tubaria;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+223.- Plastía tubaria;
 
 224.- Biopsia de glándula mamaria;
 
@@ -3107,7 +4009,9 @@ NEUROLOGIA Y NEUROCIRUGIA
 
 290.- Electroencefalografía;
 
-291.- Electroencefalografía;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+291.- Programas alimentarios del Sistema Integral de la Familia.
 
 292.- Electromiografía;
 
@@ -3225,7 +4129,9 @@ CIRUGIA PLASTICA Y RECONSTRUCTIVA
 
 347.- Prótesis de mamas;
 
-348.- Obturador I P H;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+348.- Obturador L. P. H.;
 
 CIRUGIA CARDIOVASCULAR
 
@@ -3469,7 +4375,9 @@ UROLOGIA
 
 464.- Biopsia renal percutánea;
 
-465.- Hemodiálisis;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+465.- Hospitalización, hidratación, incubadora y observación
 
 466.- Litotripsia;
 
@@ -3959,7 +4867,9 @@ GASTROENTEROLOGIA
 
 689.- Piloroplastía;
 
-690.- Anaplastia perineal;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+690.- Anoplastia perineal;
 
 691.- Rectonectomia;
 
@@ -4103,7 +5013,9 @@ INMUNOLOGIA
 
 757.- Coombs directo;
 
-758.- Paul y Burell;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+758.- Paul y Bunell;
 
 759.- Anticuerpos amibiasis;
 
@@ -4491,7 +5403,9 @@ HEMATOLOGIA
 
 942.- Determinación de grupo sanguíneo y factor rh;
 
-943.- Determinación de grpo sanguíneo abo y rh;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+943.- Determinación de grupo sanguíneo abo y rh;
 
 944.- Biom.hem.parcial (hb.hto.cnhbg.cuent.de leu.);
 
@@ -4573,7 +5487,9 @@ MEDICINA NUCLEAR
 
 980.- Perfil ginecológico;
 
-981.- Perfil paratifoideo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+981.- Perfil paratiroideo;
 
 982.- Perfil suprarenal;
 
@@ -4773,7 +5689,9 @@ ESTUDIOS ESPECIALES
 
 1078.- Serie cardiaca;
 
-1079.- Hialografía;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1079.- Sialografía;
 
 1080.- Broncografía;
 
@@ -4823,7 +5741,9 @@ ESTUDIOS ESPECIALES
 
 1103.- Pielografía retrograda;
 
-1104.- Cistoscopia;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1104.- Cistoscopía;
 
 1105.- Estudios de holter;
 
@@ -4843,7 +5763,17 @@ TOMOGRAFIAS LINEALES
 
 1112.- Pélvis simple;
 
-1113.- Senos paranasales contrastado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1113.- Senos paranasales;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1113 A. Senos paranasales contrastado;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1113 B. Senos paranasales 3 proyecciones;
 
 1114.- Tórax simple;
 
@@ -4863,7 +5793,9 @@ ULTRASONIDO
 
 1120.- Ultrasonido dos regiones;
 
-1121.- Monografía;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1121.- Sonografía;
 
 1122.- Foliculograma;
 
@@ -5025,7 +5957,9 @@ ALERGIA
 
 1198.- Proteosa autovacuna;
 
-1199.- Preceptiva;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1199.- Preciptiva;
 
 1200.- Inmunoterapia (vacunas especificas);
 
@@ -5119,7 +6053,9 @@ TRATAMIENTO TERAPEUTICO "CLINICA DEL DOLOR"
 
 1243.- Bloqueo de plexo bronquial;
 
-1244.- Bloqueos periféricos de miembros superiores;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1244.- Bloqueo periférico de miembros superiores;
 
 1245.- Bloqueo de ganglio simpatico lumb.contr.r.x;
 
@@ -5227,7 +6163,17 @@ SERVICIOS DIVERSOS
 
 1294.- Fotocopia;
 
-LABORATORIO ESTATAL DE SALUD PUBLICA TABULADOR A ESTABLECIMIENTOS PRIVADOS; Y OTRAS INSTITUCIONES DEL SECTOR SALUD ACTIVIDADES DE DIAGNOSTICO Y REFERENCIA EN:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+LABORATORIO ESTATAL DE SALUD PUBLICA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+TABULADOR A ESTABLECIMIENTOS PRIVADOS; Y OTRAS INSTITUCIONES DEL SECTOR SALUD
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+ACTIVIDADES DE DIAGNOSTICO Y REFERENCIA EN:
 
 VIGILANCIA EPIDEMIOLOGICA
 
@@ -5236,6 +6182,8 @@ A.- AGENTES VIRALES
 1.- INFECCIONES RESPIRATORIAS VIRALES
 
 VIRUS DE LA INFLUENZA/PARA INFLUENZA
+
+(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 1295.- Determinación de anticuerpos séricos;
 
@@ -5385,7 +6333,13 @@ LEPTOSPIRA SPP
 
 1338.- Aislamiento a partir de orina;
 
-D.- PROTOZOARIOS
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+VIRUS HERPES SIMPLE I
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+C.- PROTOZOARIOS
 
 1.- PROTOZOARIOS INTESTINALES
 
@@ -5407,11 +6361,13 @@ Determinación de anticuerpos séricos (ifi, elisa, hai);
 
 PLASMODIUM SPP
 
-1342.- Identificación diferencial de especies en muestras;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-De sangre;
+1342.- Identificación diferencial de especies en muestrasde sangre;
 
-E.- HELMINTOS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+D.- HELMINTOS
 
 1.- HELMINTOS INTESTINALES
 
@@ -5425,7 +6381,9 @@ E.- HELMINTOS
 
 1345.- T. Solium en suero o Icr (elisa);
 
-F.- ARTROPODOS DE IMPORTANCIA MEDICA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+E.- ARTROPODOS DE IMPORTANCIA MEDICA
 
 1346.- Determinación taxonómica de triatominos o insectos;
 
@@ -5433,13 +6391,17 @@ F.- ARTROPODOS DE IMPORTANCIA MEDICA
 
 1348.- Estudio coprológico en triatominos;
 
-H.- EXAMENES CITOLOGICOS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+F.- EXAMENES CITOLÓGICOS
 
 1349.- Revisión de laminilla de citología cérvico - vaginal;
 
 (papanicolaou);
 
-OTROS (ENFERMEDADES NO INFECCIOSAS)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+G.- OTROS (ENFERMEDADES NO INFECCIOSAS)
 
 1350.- Tamiz neonatal, determinación de tsh (elisa);
 
@@ -5457,7 +6419,9 @@ OTROS (ENFERMEDADES NO INFECCIOSAS)
 
 1357.- Exudado faríngeo;
 
-DETERMINACION DE METALES PESADOS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+H. DETERMINACIÓN DE METALES PESADOS
 
 1358.- Arsénico (por generador de hidruros);
 
@@ -5469,11 +6433,17 @@ DETERMINACION DE METALES PESADOS
 
 1362.- Determinación de clenbuterol;
 
-II.- ACTIVIDADES DE DIAGNOSTICO EN REGULACION SANITARIA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-ANALISIS FISICOQUIMICOS DE AGUA Y ALIMENTOS
+II.- ACTIVIDADES DE DIAGNÓSTICO EN REGULACIÓN SANITARIA
 
-AGUA PURIFICADA O AGUA NATURAL
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+A.- ANALISIS FISICOQUIMICOS DE AGUA Y ALIMENTOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1.- AGUA PURIFICADA O AGUA NATURAL
 
 1363.- Ph;
 
@@ -5493,13 +6463,17 @@ AGUA PURIFICADA O AGUA NATURAL
 
 1371.- Cloruros;
 
-SAL DE CONSUMO HUMANO
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+2.- SAL DE CONSUMO HUMANO
 
 1372.- Flúor como ión flúor;
 
 1373.- Yodo a partir de yodatos;
 
-LECHE FLUIDA Y PRODUCTOS LACTEOS
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+3.- LECHE FLUÍDA Y PRODUCTOS LÁCTEOS
 
 1374.- Cloruros, como cloruro de sodio;
 
@@ -5511,7 +6485,9 @@ LECHE FLUIDA Y PRODUCTOS LACTEOS
 
 1378.- Leche fluida;
 
-CARNICOS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+4.- CÁRNICOS
 
 1379.- Nitritos (no3);
 
@@ -5519,9 +6495,9 @@ CARNICOS
 
 1381.- Determinación de clembuterol (orina, suero e hígado);
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
+B.- ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
 
 1382.- Método para la cuenta de bacterias aerobias en placa;
 
@@ -5555,9 +6531,13 @@ III.- CURSOS Y ADIESTRAMIENTOS DIVERSOS
 
 1395.- Cursos y adiestramiento en servicio (por semana);
 
-CENTRO ESTATAL DE TRANSFUSION SANGUINEA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-PARA ESTABLECIMIENTOS PRIVADOS
+III.- CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+A.- PARA ESTABLECIMIENTOS PRIVADOS
 
 1396.- Estudios a donador y unidad de sangre;
 
@@ -5565,9 +6545,9 @@ PARA ESTABLECIMIENTOS PRIVADOS
 
 1398.- Procedimiento de aféresis;
 
-Centro estatal de transfusión sanguínea
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-PUBLICO EN GENERAL
+B.- PARA PUBLICO EN GENERAL
 
 1399.- Estudios a donador y unidad de sangre;
 
@@ -5613,15 +6593,21 @@ PUBLICO EN GENERAL
 
 1420.- Aislamiento e identificación de neisseria meningitidis en Icr;
 
-ALERGOLOGIA
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1.- ALERGOLOGIA
 
 1421.- Espirometría;
 
-1422.- Vacuna paralergología;
+1422.- Vacuna para alergología;
 
-1423.- prueba cutánea;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-PAQUETES DE ESTUDIO DE LABORATORIO
+1423.- Prueba cutánea;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+2.- PAQUETES DE ESTUDIO DE LABORATORIO
 
 1424.- Exámen general de orina;
 
@@ -5753,7 +6739,9 @@ PAQUETES DE ESTUDIO DE LABORATORIO
 
 1488.- Dímero d;
 
-1489.- Electrolitos na.k.cl;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1489.- Electrolitos na.k.ci;
 
 1490.- Eosinofilos nasales x1 emn;
 
@@ -5825,9 +6813,13 @@ PAQUETES DE ESTUDIO DE LABORATORIO
 
 1524.- T.p.t. Tiempo parcial de tromboplastina;
 
-1525.- Técnica de Gram.;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1525.- Técnica de Graham.;
 
 1526.- Tgo transaminasa glutámico oxalacética;
+
+(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 1527.- Tgp transaminasa glutámico pirúvica;
 
@@ -5848,6 +6840,30 @@ PAQUETES DE ESTUDIO DE LABORATORIO
 1535.- V.d.r.l.;
 
 1536.- Velocidad de sed. Globular;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1537. Consulta de prevaloración;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1538. Consulta médica subsecuente;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1539. Comunicación Humana;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1540. Rayos X
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1541. Audiometría;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1542. Reposición de carnet;
 
 III.- Servicios de Agua y Alcantarillado;
 
@@ -6195,19 +7211,43 @@ III.- Servicios de Agua y Alcantarillado;
 
 172.- Constancia de no adeudo;
 
-Servicios de Desarrollo Urbano:
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-1.- Elaboración de Escrituras por lote Habitacional, incluye oficios de trámite para avalúo y traslado de dominio;
+173. Contratación y conexión doméstico, escuelas, servicios municipales, comercial e industrial;
 
-2.- Por expedición de escrituras de lote con vivienda de un nivel;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+174. Conexión a fraccionamientos e industrias, por litro por segundo;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+175. Conexiones;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+IV.- Servicios de Desarrollo Urbano:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+1.- Elaboración de Escrituras por lote habitacional, incluye oficios de trámite para avalúo y traslado de dominio;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+2.- Elaboración de escrituras de lote con vivienda de un nivel;
 
 3.- Expedición de escrituras de lote comercial;
 
-4.- Orden de escrituración lote;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-5.- Orden de escrituración casa;
+4.- Orden de escrituración por lote;
 
-6.- Actualización o reexpedición de ordenes escrituración;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+5.- Orden de escrituración por casa;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+6.- Por actualización o reexpedición de orden de escrituración;
 
 7.- Actualización de solicitudes de avalúo y traslado de dominio;
 
@@ -6215,23 +7255,31 @@ Servicios de Desarrollo Urbano:
 
 9.- Cesión de derechos lote comercial;
 
-10.- Cesión de derechos lote casa-habitación;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+10.- Cesión de derechos lote casa-habitacional;
 
 > <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
 
 11.- Expedición de copias de documentos en archivo: primera hoja; por las siguientes.
 
-12.- Primera hoja;
+12.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-13.- Por las siguientes;
+13.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-14.- Expedición de Constancias de Propiedad;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-15.- Entrega Física de Lote por segunda vez;
+14.- Expedición de constancias de propiedad;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+15.- Entrega física de lote por segunda vez;
 
 16.- Elaboración de croquis de localización por lote;
 
-17.- Expedición de Constancias de no Invasión fraccionamientos, áreas verdes u otros;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+17.- Expedición de constancias de no invasión fraccionamientos, áreas verdes u otros;
 
 18.- Derechos de preferencia;
 
@@ -6251,7 +7299,9 @@ Servicios de Desarrollo Urbano:
 
 26.- Regularización de la propiedad;
 
-IV.- Servicios Culturales y Recreativos;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+V.- Servicios Culturales y Recreativos:
 
 1.- Cuota de acceso al museo, niño, 3a. edad y capacidades diferentes;
 
@@ -6289,29 +7339,29 @@ IV.- Servicios Culturales y Recreativos;
 
 18.- Cuota de acceso a ciclo especial de cine;
 
-19.- Inscripción cuatrimestral a estimulación temprana del nivel preescolar;
+19.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-20.- Inscripción cuatrimestral a piano del nivel preescolar;
+20.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-21.- Inscripción cuatrimestral a violín del nivel preescolar;
+21.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-22.- Inscripción cuatrimestral a iniciación musical;
+22.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-23.- Inscripción cuatrimestral a cursos sabatinos;
+23.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-24.- Inscripción cuatrimestral a nivel básico;
+24.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-25.- Inscripción cuatrimestral a nivel intermedio;
+25.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-26.- Inscripción cuatrimestral a curso propedéutico de tres años, para ingresar a la Licenciatura en Música;
+26.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-27.- Inscripción cuatrimestral a curso propedéutico de un año, para ingresar a la Licenciatura en Música;
+27.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-28.- Inscripción cuatrimestral a nivel superior;
+28.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-29.- Inscripción cuatrimestral a cursos individuales de materia libre;
+29.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-30.- Inscripción cuatrimestral a cursos grupales de materia libre;
+30.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 31.- Cursos y Talleres;
 
@@ -6345,7 +7395,9 @@ IV.- Servicios Culturales y Recreativos;
 
 46.- Registro y emisión de credencial para préstamo de libros a domicilio, adultos y niños;
 
-V.- Servicios en Materia Ambiental;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+VI.- Servicios en Materia Ambiental:
 
 1.- Autorización de centros de verificación vehicular fijo y móvil;
 
@@ -6367,7 +7419,9 @@ V.- Servicios en Materia Ambiental;
 
 10.- Análisis y recomendaciones técnicas por manifiesto de impacto ambiental, modalidad regional;
 
-11.- Capacitación para acreditamiento como técnico Verificador y responsable administrativo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+11.- Capacitación para acreditamiento como técnico verificador y responsable administrativo;
 
 12.- Cambio de nombre, denominación o razón social del centro de verificación vehicular;
 
@@ -6427,23 +7481,35 @@ V.- Servicios en Materia Ambiental;
 
 40.- Por día de retraso (días naturales) en la entrega de curvas de calibración y/o fianza;
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-41.- Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de verificación;
+41. Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de servicio;
 
 42.- Recepción de solicitudes y evaluación de campo gabinete para la apertura de talleres PIREC;
 
-43.- Recepción, evaluación y dictaminación de informes preventivos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-44.- Recepción, evaluación y dictaminación de manifiestos, con superficies de una a cinco hectáreas;
+43. Recepción, evaluación y dictaminación de informes preventivos en materia de Impacto Ambiental;
 
-45.- Recepción, evaluación y dictaminación de manifiestos, con superficies de cinco a diez hectáreas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-46.- Recepción, evaluación y dictaminación de manifiestos, con superficies de diez a veinte hectáreas;
+44. Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de una a cinco hectáreas;
 
-47.- Recepción, evaluación y dictaminación de manifiestos, con superficies de veinte a cuarenta hectáreas;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-48.- Recepción, evaluación y dictaminación de manifiestos, con superficies de más de cuarenta hectáreas;
+45. Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de cinco a diez hectáreas;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+46. Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de diez a veinte hectáreas;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+47. Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de veinte a cuarenta hectáreas;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+48. Recepción, evaluación y dictaminación de manifiestos de Impacto Ambiental, con superficies de más de cuarenta hectáreas;
 
 49.- Recepción, evaluación y dictaminación de estudios de riesgo ambiental, por capacidad de almacenamiento hasta 100,000 litros;
 
@@ -6481,15 +7547,21 @@ V.- Servicios en Materia Ambiental;
 
 66.- Verificación vehicular extemporánea, para cualquier modalidad de holograma (general “0”, “00”);
 
-VI.- Servicios de Transporte;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+VII.- Servicios de Transporte;
 
 1.- Autorización para cambio de modalidad del servicio individual y colectivo;
 
 2.- Autorización en la ampliación de ruta;
 
-3.- Autorización de prestación de servicio auxiliares y conexos en base a dictámenes técnicos emitidos por Ingeniería y Planeación;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-4.- Autorización de trasferencia de concesión;
+3. Autorización de prestación de servicios auxiliares y conexos en base a dictámenes técnicos emitidos por Ingeniería y Planeación;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+4. Autorización de transferencia de concesión;
 
 5.- Autorización para sustitución vehicular;
 
@@ -6505,7 +7577,9 @@ VI.- Servicios de Transporte;
 
 11.- Autorización para emplacar o reemplazar la concesión o permiso en caso de modificación;
 
-12.- Certificación de copias expedidas por el Instituto Estatal de Trasporte (sic);
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+12.- Certificación de copias expedidas por el Instituto Estatal de Transporte;
 
 13.- Costo de recuperación por estudio técnico;
 
@@ -6517,15 +7591,23 @@ VI.- Servicios de Transporte;
 
 17.- Expedición de cedula única de identificación para operadores;
 
-18.- Inspección y certificación de vehículos que prestan el servicio público de trasporte (sic);
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-19.- Otorgamiento de concesión para el servicio de trasporte (sic) público con ruta fija en cualquiera de sus submodalidades;
+18.- Inspección y certificación de vehículos que prestan el servicio público de transporte;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+19.- Otorgamiento de concesión para el servicio de transporte público con ruta fija en cualquiera de sus submodalidades;
 
 20.- Otorgamiento de concesión para el transporte público en la modalidad de servicio individual en cualquiera de sus submodalidades;
 
-21.- Otorgamiento de Permisos temporales o eventuales;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-22.- Otorgamiento de Permisos temporales;
+21.- Otorgamiento de permisos temporales o eventuales;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+22.- Otorgamiento de permisos temporales;
 
 23.- Otorgamiento de autorizaciones eventuales;
 
@@ -6533,7 +7615,7 @@ VI.- Servicios de Transporte;
 
 25.- Otorgamiento de permiso para operar servicios conexos;
 
-26.- Otorgamiento de permisos para operar servicios conexos;
+26.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 27.- Por expedición del tarjetón al operador;
 
@@ -6557,7 +7639,9 @@ VI.- Servicios de Transporte;
 
 37.- Reposición de tarjetón por robo, extravió o destrucción;
 
-VII.- Servicios de Difusión;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+VIII.- Servicios de Difusión;
 
 1.- Equipo portátil de televisión por un día por Betacam SP;
 
@@ -6673,23 +7757,93 @@ Los demás derechos que se señalen en las cuotas y tarifas, que al efecto se pu
 
 Los derechos previstos en éste Artículo, se citan de manera enunciativa, más no limitativa.
 
-### CAPITULO UNICO
-
-### CAPITULO UNICO
-
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
+###### ARTICULO 111.
+
+Quedan comprendidos dentro de este capítulo, los Ingresos que obtengan el Estado por los siguientes conceptos:
+
+I.- Por la venta de bienes muebles e inmuebles propiedad del Estado;
+
+II.- Por el importe de los arrendamientos de bienes muebles e inmuebles propiedad del Estado;
+
+III.- Por los rendimientos de capitales y valores del Estado;
+
+IV.- Conceptos, montos y partidas relativas a ingresos derivadas de montos de endeudamiento correspondientes a emisiones de valores;
+
+V.- Por las operaciones realizadas por establecimientos y empresas del Estado;
+
+VI.- Por la venta de impresiones;
+
+VII.- Los productos por conceptos diversos de los señalados en este artículo, se pagarán conforme a las estipulaciones que se acuerden en los contratos celebrados al respecto o en los términos de las concesiones respectivas y de conformidad con las Leyes o disposiciones aplicables.
+
+VIII.- Por la venta de artesanías.
+
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO UNICO
 
+###### ARTICULO 112.
+
+Quedan comprendidos dentro de este capítulo, los ingresos ordinarios que obtengan del Estado y que no sean clasificados como impuestos, derechos, productos e ingresos extraordinarios, catalogándose como tales, los siguientes:
+
+I.- Las multas;
+
+II.- Los recargos;
+
+III.- Los reintegros por responsabilidad oficial;
+
+IV.- Las cauciones y fianzas cuya pérdida se declare firme a favor del Estado, por resolución judicial o administrativa;
+
+V.- Los intereses;
+
+VI.- Los bienes y herencias vacantes;
+
+VII.- Los tesoros ocultos;
+
+VIII.- Las herencias legales y donaciones que sean a favor del Estado; y
+
+IX.- Las indemnizaciones.
+
 ## TITULO SEXTO. DE LAS PARTICIPACIONES Y APORTACIONES
 
+###### ARTICULO 113.
+
+Las participaciones y aportaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaria de Finanzas y Administración.
+
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
+
+###### ARTICULO 114.
+
+Son ingresos extraordinarios, todos aquellos que la Hacienda Pública del Estado de Hidalgo, perciba cuando circunstancias especiales coloquen al propio Estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 115.
+
+Los ingresos a que se refiere el artículo que antecede, serán por los conceptos siguientes:
+
+I.- Empréstitos;
+
+II.- Expropiaciones;
+
+III.- Impuestos y derechos extraordinarios;
+
+IV.- Aportaciones para obras de beneficencia social;
+
+V.- Apoyos financieros federales;
+
+VI.- Otras participaciones extraordinarias.
+
+> <small>(ADICIONADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 92], P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 116.
+
+Los contratistas y destajistas que realicen obras para el Gobierno del Estado, aportarán el 1% sobre el pago de cada una, para obras de beneficio social.
 
 ## TRANSITORIOS
 
@@ -6721,7 +7875,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 2004.
 
@@ -6768,3 +7922,11 @@ P.O. 31 DE DICIEMBRE DE 2010.
 PRIMERO. El presente Decreto entrará en vigor el día 1 de enero de 2010, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2012, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Las obligaciones derivadas de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, abrogada a partir del 1 de enero de 2012, mediante Decreto publicado en el Diario Oficial de la Federación, el 21 de diciembre de 2007, que hubieran nacido antes de que se suspenda el cobro del impuesto a que se refiere dicha Ley, deberán de ser cumplidas en las formas y plazos establecidos en la misma y en las demás disposiciones aplicables.
