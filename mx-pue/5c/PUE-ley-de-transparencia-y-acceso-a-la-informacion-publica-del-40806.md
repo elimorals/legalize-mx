@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4080
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-16"
-last_updated: "2008-07-18"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE PUEBLA
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE PUEBLA
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 31 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, A EXCEPCIÓN DEL CAPÍTULO CUARTO DE LA MENCIONADA LEY, EN TANTO NO SE EMITA UNA LEY QUE REGULE LA PROTECCIÓN DE LOS DATOS PERSONALES EN MANOS DE LOS SUJETOS OBLIGADOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: PARCIALMENTE ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2004.
 
@@ -39,223 +41,77 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés general, observancia obligatoria y tiene por objeto:
-
-I.- Garantizar el derecho de las personas de acceder en términos de esta Ley a la información pública;
-
-II.- Regular los procedimientos para su obtención y establecer las instancias ante las cuales se diriman las controversias que resulten de su aplicación en el ámbito de cualquiera de los Poderes del Estado o de los Municipios;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-III.- Contribuir a la democratización de la sociedad y plena vigencia del Estado de Derecho; así como impulsar una cultura de la transparencia, para lo cual el órgano garante promoverá en los ámbitos público, privado y social, los temas de transparencia y del derecho a la información pública;
-
-IV.- Transparentar la gestión pública mediante la difusión de la información que generen los Sujetos Obligados;
-
-V.- Garantizar la protección de los datos personales, en posesión de los Sujetos Obligados; y
-
-VI.- Mejorar la organización, clasificación y manejo de los documentos en los que conste información pública.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 2.
 
-Para los efectos de esta Ley se entenderá por:
-
-I.- Comisión: La Comisión para el Acceso a la Información Pública de la Administración Pública Estatal o los órganos análogos determinados por los Poderes Legislativo y Judicial; los Ayuntamientos de la Entidad y los órganos Constitucionalmente autónomos, independientemente de su denominación;
-
-II.- Datos personales: La información relativa a las personas físicas, identificadas o identificables, entre otras, lo relativo a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, su vida afectiva y familiar, su domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud, físicos o mentales, las preferencias sexuales u otras análogas que afecten su intimidad o su derecho a la secrecía;
-
-III.- Información Confidencial: La información que se encuentra en poder de los Sujetos Obligados relativa a datos personales;
-
-IV.- Información Pública: La contenida en documentos que estén en cualquier medio ya sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico, que los Sujetos Obligados generen, obtengan, adquieran, transformen o conserven por cualquier título, los cuales para efectos de esta Ley, se considerarán responsables de la información;
-
-V.- Información Reservada: La información que se encuentra temporalmente sujeta a alguna de las excepciones previstas en esta Ley, la que en otros ordenamientos legales tenga ese carácter y aquella que por su naturaleza no sea accesible al público;
-
-VI.- Servidores Públicos: A los que hace referencia la Constitución Política del Estado Libre y Soberano de Puebla;
-
-VII.- Sujetos Obligados:
-
-a) El Poder Ejecutivo del Estado, sus Dependencias y Entidades Paraestatales;
-
-b) El Poder Legislativo del Estado y cualquiera de sus órganos;
-
-c) El Poder Judicial del Estado y cualquiera de sus órganos;
-
-d) Los Órganos Constitucionalmente autónomos; y
-
-e) Los Ayuntamientos, sus Dependencias y Entidades Paramunicipales.
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-VIII.- Reglamento: El que para efectos de esta Ley expidan los Sujetos Obligados;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-IX.- Unidad Administrativa de Acceso a la Información: Es la unidad administrativa designada por el titular de cada Sujeto Obligado, que funge como coordinadora en materia de acceso a la información pública en la dependencia, entidad u órgano respectivo; y
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
-
-X.- Vida Privada: Espacio propio de intimidad personal y familiar del que goza cualquier persona y que abarca toda acción o bien que se encuentre dentro de ese círculo privado.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 3.
 
-Los Sujetos Obligados procurarán la capacitación y actualización de sus Servidores Públicos en la cultura de la transparencia y acceso a la información pública, a través de cursos, seminarios, talleres y toda otra forma de enseñanza que se considere pertinente, así como la actualización de los medios electrónicos y físicos en que se almacene la información pública, a fin de lograr que esté disponible de forma pronta y expedita.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 4.
 
-Cualquier persona tendrá acceso a la información pública de forma gratuita, sin necesidad de acreditar interés alguno o justificar su utilización, de acuerdo con lo que prevé esta Ley y demás ordenamientos aplicables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 5.
 
-En la interpretación de este derecho se deberá favorecer el principio de máxima publicidad de la información en posesión de los Sujetos Obligados.
-
-En lo no previsto por esta Ley, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 6.
 
-Los Servidores Públicos, están obligados por conducto de la Unidad Administrativa de Acceso a la Información, a proporcionar la información que en términos de esta Ley y su Reglamento se les solicite, respecto de la función pública a su cargo, con excepción de la información reservada o confidencial de conformidad con lo establecido en el artículo 11 de esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 7.
 
-El acceso a la información pública es gratuito; pero si para su entrega requiere del pago de una contraprestación por la reproducción de los medios en que aquella se contenga, se cubrirá la cantidad establecida en las Leyes Fiscales correspondientes.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 8.
 
-La respuesta a la solicitud de información en términos de la presente Ley, deberá ser notificada al interesado en el menor tiempo posible, que no podrá ser mayor de diez días hábiles, contados desde la presentación de aquélla. Este plazo podrá ampliarse hasta por un periodo igual, cuando existan razones que lo motiven.
-
-La información deberá entregarse dentro de los diez días hábiles siguientes al que la Unidad Administrativa de Acceso a la Información le haya notificado la disponibilidad de aquella.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO SEGUNDO. DE LA TRANSPARENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
-
 ###### ARTÍCULO 9.
 
-Con excepción de la información reservada o confidencial prevista en esta Ley, los Sujetos Obligados a través de la unidad responsable, mediante los medios electrónicos disponibles, deberán poner a disposición del público en términos de la legislación aplicable, la información siguiente:
-
-I.- Su estructura orgánica y el marco legal que las rige;
-
-II.- El directorio de Servidores Públicos, desde el nivel de jefe de departamento o sus equivalentes; el domicilio de la Unidad Administrativa de Acceso a la Información, además de la dirección electrónica donde podrán recibirse las solicitudes para obtener la información pública;
-
-III.- La remuneración mensual por puesto, incluso el sistema de compensación, según lo establezcan las disposiciones correspondientes;
-
-IV.- Los trámites, requisitos y formatos de solicitud de información pública;
-
-V.- La información sobre el presupuesto asignado al Sujeto Obligado, los informes sobre su ejecución y su regulación en términos de lo dispuesto por los ordenamientos aplicables, según corresponda;
-
-VI.- Los planes y programas expedidos conforme a las leyes, así como los convenios administrativos de coordinación y colaboración suscritos con otras instancias públicas y privadas;
-
-VII.- Los resultados definitivos de las auditorias al ejercicio presupuestal de cada Sujeto Obligado que realicen los respectivos Órganos de Control y Supervisión;
-
-VIII.- Las concesiones, permisos, autorizaciones y arrendamientos; las convocatorias a concurso o licitación de obras, adquisiciones y prestación de servicios, así como sus resultados, en aquéllos casos que proceda, en los términos de la legislación aplicable;
-
-IX.- Los informes que, por disposición Constitucional, generen los Sujetos Obligados;
-
-X.- Los mecanismos de participación ciudadana;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-XI.- Los servicios y programas de apoyo que ofrecen, así como los trámites, requisitos y formatos para acceder a los mismos;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-XII.- La información relativa a los recursos públicos que entreguen a personas físicas y morales, conforme a las leyes de la materia;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
-
-XIII.- La información completa y actualizada de los indicadores de gestión, entendiéndose por éstos a los índices de medición establecidos en los planes y programas previamente aprobados en términos de Ley; y
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
-
-XIV.- Toda información que sea de utilidad para el ejercicio del derecho de acceso a la información pública, en términos del Reglamento y de la normatividad que para el efecto se expida.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 10.
 
-La información a que se refiere el artículo anterior, deberá estar a disposición del público a través de medios electrónicos seguros para los Sujetos Obligados y para los usuarios, y deberá ser de tal forma que facilite su uso por las personas y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO TERCERO. DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL
 
 ###### ARTÍCULO 11.
 
-El acceso a la información pública sólo será restringido en términos de lo dispuesto por esta Ley y demás disposiciones aplicables, mediante las figuras de información reservada e información confidencial.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 12.
 
-Para los efectos de esta Ley se considera información reservada:
-
-I.- La que de revelarse pueda causar perjuicio o daño irreparable a las funciones públicas, comprometa la integridad, la estabilidad, la permanencia, la gobernabilidad democrática o la seguridad del Estado o los Municipios, así como aquélla que pudiere poner en peligro la propiedad o posesión del patrimonio estatal o municipal;
-
-II.- Aquélla cuya divulgación ponga en riesgo la vida, la seguridad, la salud, los bienes o la familia de cualquier persona;
-
-III.- La de particulares recibida bajo promesa de reserva o esté relacionada con cuestiones industriales, comerciales, financieras, científicas, técnicas, invenciones, patentes o cualquier otra similar, cuya revelación perjudique o lesione los intereses generales, por cuanto a quién acceda a ella de manera previa al conocimiento general, pueda obtener un beneficio indebido o ilegítimo;
-
-IV.- La generada por la realización de un trámite administrativo hasta la finalización del mismo;
-
-V.- Las Averiguaciones Previas y la información que comprometa los procedimientos de investigación en materia penal;
-
-VI.- Los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, hasta que exista resolución administrativa o jurisdiccional definitiva y ejecutoriada, observando los términos que establezcan las disposiciones aplicables;
-
-VII.- Los procedimientos de responsabilidad de los Servidores Públicos, en tanto no se haya dictado resolución definitiva y haya causado ejecutoria;
-
-VIII.- Aquélla cuya divulgación pueda causar perjuicio, daño o menoscabo a las actividades de prevención, persecución o sanción de los delitos, o cualquier otra acción que tenga por objeto la aplicación de disposiciones tributarias o de cualquier naturaleza semejante;
-
-IX.- Los estudios y proyectos cuya divulgación pueda causar daño o perjuicio al interés del Estado o Municipios, o suponga un riesgo para su realización;
-
-X.- La que contenga las opiniones, recomendaciones o información correspondiente a documentos o comunicaciones internas que sean parte de un procedimiento deliberativo para la toma de una decisión administrativa;
-
-XI.- Cuando se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero; y
-
-XII.- La que por disposición de una Ley sea considerada secreta, reservada, restringida u otra análoga.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 13.
 
-Los Sujetos Obligados deberán entregar información reservada, a las autoridades que estén investigando violaciones graves a derechos fundamentales o delitos de lesa humanidad, dicha información seguirá conservando el carácter de reservada, sin que pueda difundirse o usarse con un fin distinto a lo señalado en el presente artículo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 14.
 
-Los Titulares de los Sujetos Obligados al clasificar la información como reservada, deberán señalar:
-
-I.- La fundamentación y motivación;
-
-II.- La fuente de información;
-
-III.- En su caso, la o las partes del documento que se reserva;
-
-IV.- El plazo o la condición de reserva; sin que aquél pueda ser superior a doce años; y
-
-V.- La designación de la autoridad responsable de su custodia y conservación.
-
-Las partes de un documento que no estén expresamente reservadas se considerarán de libre acceso público, siempre y cuando no tengan relación directa o que de su vinculación se pueda inferir el contenido de aquella clasificada como reservada.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 15.
 
-La información clasificada temporalmente como reservada podrá ser asequible al público después del término de 7 años, salvo aquella que por resolución de autoridad competente o por disposición legal deba conservar tal carácter por un término distinto. Este término podrá ser ampliado hasta por otro periodo igual si subsiste la causa de reserva. Los Sujetos Obligados expedirán el acuerdo correspondiente en el que determinen que han dejado de concurrir las condiciones de reserva.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 16.
 
-La información confidencial en posesión de los Sujetos Obligados, tendrá ese carácter indefinidamente, con las excepciones previstas en esta Ley y demás ordenamientos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
-Cuando los particulares entreguen a los Sujetos Obligados información personal, deberán señalar los documentos que contengan información confidencial o reservada, siempre que tengan el derecho de reservarse la información, de acuerdo con esta Ley o disposiciones aplicables.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO CUARTO. PROTECCIÓN DE LOS DATOS DE LA VIDA PRIVADA Y DE LOS DATOS PERSONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 17.
 
@@ -263,7 +119,7 @@ Los servidores públicos no podrán difundir, distribuir o comercializar los dat
 
 El consentimiento a que se refiere el párrafo anterior podrá ser revocado expresamente en cualquier momento, sin que pueda dejarse de difundir o distribuir aquella información publicitada derivada del consentimiento otorgado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
@@ -277,7 +133,7 @@ III.- La prevención o gestión de servicios de salud así como la asistencia m�
 
 IV.- Lo establecido por la legislación vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 19.
 
@@ -317,381 +173,153 @@ En caso de que exista una solicitud de acceso a la información que incluya info
 
 ###### ARTÍCULO 22.
 
-Los Sujetos Obligados designarán, a través de sus respectivos titulares, dentro de su estructura administrativa y mediante acuerdo que deberá publicarse en el Periódico Oficial del Estado, a la Unidad Administrativa de Acceso a la Información que coordine las acciones para el cumplimiento de esta Ley.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Las Unidades Administrativas de Acceso a la información, se integrarán por un Titular, un Secretario y un Vocal, quienes preferentemente deberán tener un nivel superior al de Jefe de Departamento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 23.
 
-Las Unidades Administrativas de Acceso a la Información tendrán las siguientes funciones:
-
-I.- Ser el vínculo entre el Sujeto Obligado y el solicitante;
-
-II.- Coordinar las acciones del Sujeto Obligado tendientes a proporcionar y actualizar la información pública;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-III.- Elaborar los formatos de solicitudes de acceso a la información y modificación de datos personales y en su caso, de datos de la vida privada;
-
-IV.- Recabar y difundir la información pública a que se refiere el artículo 9 de esta Ley;
-
-V.- Recibir y dar trámite a las solicitudes de acceso a la información prevista en esta Ley;
-
-VI.- Proponer al titular del Sujeto Obligado los procedimientos internos que hagan más eficiente y eficaz la gestión de las solicitudes de acceso a la información pública;
-
-VII.- Llevar registro y control de las solicitudes de acceso a la información, que se formulen al Sujeto Obligado;
-
-VIII.- Conocer sobre la clasificación y conservación de la información de que disponga el Sujeto Obligado;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-IX.- Orientar a los particulares en la elaboración de solicitudes de acceso a la información y modificación de datos personales y en su caso, de datos de la vida privada;
-
-X.- Desempeñar las funciones y comisiones que el titular del Sujeto Obligado le asigne en la materia; y
-
-XI.- Las demás necesarias para el cumplimiento y objetivo de la presente Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 24.
 
-Las áreas de investigaciones políticas, de seguridad pública, de averiguaciones previas y todas aquellas que realicen acciones que de darse a conocer pongan en riesgo la integridad, la estabilidad, la permanencia, la gobernabilidad democrática o la seguridad del Estado o Municipios, no estarán sujetas a la coordinación que establezca la Unidad Administrativa de Acceso a la Información que se designe.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO SEXTO. DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
-
 ###### ARTÍCULO 25.
 
-La Comisión para el Acceso a la Información Pública, es un órgano especializado de la Administración Pública Estatal, con autonomía de gestión, operación y decisión, encargada de garantizar el acceso a la información y resolver sobre los asuntos de su competencia.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Para efecto de sus resoluciones, no estará subordinada a autoridad alguna y adoptará sus decisiones con plena imparcialidad, objetividad e independencia.
-
-Para el cumplimiento de sus funciones, contará con la estructura orgánica necesaria para el despacho de los asuntos de su competencia, de acuerdo con su Reglamento y con base en el presupuesto de egresos autorizado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 26.
 
-La Comisión se integra por tres Comisionados, de los cuales, uno será su Presidente, quién tendrá la representación legal de la Comisión, estos serán nombrados por el Congreso del Estado, de conformidad con el procedimiento siguiente:
-
-I.- La Gran Comisión del Congreso del Estado, emitirá convocatoria pública, con el objeto de allegarse de propuestas ciudadanas para designar a quienes fungirán como Comisionados, estableciendo las bases que correspondan;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-II.- Una vez agotado el plazo fijado en la convocatoria respectiva, de entre los ciudadanos propuestos, presentará al Congreso del Estado una terna por cada uno de los Comisionados Propietarios a nombrarse y sus respectivos suplentes que reúnan los requisitos que exige esta Ley, para que sea el Pleno del Congreso o la Comisión Permanente, en su caso, la que por mayoría calificada de los Diputados presentes previa evaluación en la que demuestren conocimiento del tema en comparecencia ante la Comisión respectiva, elija a quienes ocuparán el cargo de Comisionados propietarios y sus respectivos suplentes. Los Comisionados deberán protestar su cargo ante el Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Los Comisionados propietarios durarán en el ejercicio de su cargo seis años y elegirán por mayoría, quien de ellos ocupará el cargo de Presidente para un periodo de dos años. La Presidencia de la Comisión será rotativa entre cada uno de los Comisionados que hayan sido nombrados durante el periodo respectivo. En caso de que un Comisionado propietario y su suplente no pudieran ejercer el cargo, la Gran Comisión iniciará el proceso para nombrar a ambos por la parte del periodo que falte.
-
-El Comisionado Presidente deberá presentar anualmente un informe ante el Congreso del Estado sobre las actividades de la Comisión.
-
-Los Comisionados suplentes entrarán en funciones para cubrir las ausencias temporales o definitivas de los propietarios, en términos del Reglamento respectivo y, en su caso, sólo ejercerán su cargo por el periodo que corresponda al Comisionado propietario.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 27.
 
-Para ser Comisionado se requiere:
-
-I.- Ser ciudadano poblano;
-
-II.- Tener cuando menos treinta años cumplidos al día de su designación;
-
-III.- No haber sido condenado por delito doloso;
-
-IV.- Haberse desempeñado destacadamente en actividades profesionales; de servicio público o académicas;
-
-V.- No ser ministro de algún culto religioso; y
-
-VI.- No haber desempeñado cualquier cargo de elección popular con el carácter de propietario; Titular de Dependencia o Entidad Federal, Estatal o Municipal; Magistrado del Poder Judicial del Estado o del Tribunal Electoral del Estado, Consejero del Instituto Electoral del Estado o dirigente de algún partido o asociación política durante los tres años previos al de su designación.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 28.
 
-Los Comisionados en ejercicio de sus funciones no podrán desempeñar ningún otro cargo, empleo o comisión, remunerado o no, salvo aquellos de carácter académico.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 29.
 
-Los Comisionados podrán ser removidos y destituidos de su cargo por el voto de las dos terceras partes de los Diputados integrantes del Congreso del Estado, por las causales siguientes:
-
-I.- Cuando en ejercicio de sus funciones, trasgredan en forma grave o reiterada las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las de la presente Ley;
-
-II.- Incurran en alguna responsabilidad administrativa que amerite su destitución; y
-
-III.- Cuando hayan sido condenados por delito que merezca pena corporal, mediante sentencia ejecutoriada.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 30.
 
-El procedimiento para la destitución o revocación de los Comisionados, se sustanciará de conformidad con lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, respetando en todo momento su garantía de audiencia; y podrá iniciarse por el Titular de Poder Ejecutivo del Estado o por las dos terceras partes de los Diputados integrantes del Congreso del Estado.
-
-En el caso a que se refiere la fracción III del artículo anterior, la sentencia que haya causado ejecutoria, se comunicará al Titular del Poder Ejecutivo del Estado, para que proceda de inmediato a la remoción del Comisionado respectivo, sin necesidad de agotar procedimiento alguno, debiendo notificar este al Congreso del Estado o a la Comisión Permanente, para que proceda de conformidad con lo previsto en el presente Capítulo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 31.
 
-Son atribuciones de la Comisión para el Acceso a la Información Pública:
-
-I.- Interpretar en el orden administrativo esta Ley;
-
-II.- Vigilar en el ámbito de su competencia el cumplimiento de la presente Ley;
-
-III.- Conocer y resolver del recurso de revisión previsto en esta Ley;
-
-IV.- Establecer los lineamientos generales de clasificación y custodia de la información reservada y confidencial;
-
-V.- Emitir recomendaciones a los Servidores Públicos para que den cumplimiento a lo dispuesto por el artículo 9 de esta Ley;
-
-VI.- Proporcionar a los particulares asesoría y orientación necesaria sobre la formulación de las solicitudes de acceso a la información;
-
-VII.- Coadyuvar en la elaboración y ejecución de los programas de aplicación de esta Ley;
-
-VIII.- Promover la capacitación y actualización de los Servidores Públicos en materia de acceso a la información y protección de datos personales;
-
-IX.- Promover la cultura de transparencia y acceso a la información;
-
-X.- Aprobar su Reglamento interior, los manuales de organización y procedimientos de la Comisión, así como cualquier disposición para garantizar el acceso a la información pública;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-XI.- Formular denuncias y quejas administrativas por infracción a las disposiciones de esta Ley, independientemente de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla;
-
-XII.- Elaborar su anteproyecto de presupuesto anual; y
-
-XIII.- Las demás que le confiera esta Ley, su Reglamento y cualquier otra disposición aplicable.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 32.
 
-En el caso del Recurso de Revisión, la Comisión u órgano análogo, podrá tener acceso a la información para determinar su debida clasificación o la procedencia de otorgar su acceso.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 33.
 
-Los Poderes Legislativo y Judicial del Estado, los órganos constitucionalmente autónomos y los Ayuntamientos en el ámbito de sus respectivas competencias, establecerán mediante Reglamentos o acuerdos de carácter general, los órganos correspondientes para proporcionar a los particulares el acceso a la información, de acuerdo con los lineamientos de esta Ley, con sus propias disposiciones orgánicas y con la estructura administrativa necesaria para el desempeño de sus funciones, los cuales serán análogos a la Comisión.
-
-Los Ayuntamientos podrán celebrar convenios de coordinación, para el cumplimiento de lo establecido en el presente artículo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA ANTE LOS SUJETOS OBLIGADOS
 
 ###### ARTÍCULO 34.
 
-Las personas ejercerán su derecho de acceso a la información ante la Unidad Administrativa de Acceso a la información del Sujeto Obligado, la que deberá gestionar las solicitudes respectivas ante las oficinas o unidades administrativas responsables de la información solicitada, dentro de los tres días hábiles siguientes, y procurar que éstas se atiendan directamente o por su conducto, dentro del plazo previsto en el artículo 8 de esta Ley.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-La solicitud deberá hacerse por escrito o por medio electrónico disponible, a menos que la naturaleza del asunto permita que sea verbal, la Unidad Administrativa de Acceso a la Información, requerirá al solicitante que registre en un formato las características de la solicitud y procederá a entregar una copia del mismo al solicitante.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Opcionalmente, señalará la modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser verbalmente siempre y cuando sea para fines de orientación, mediante consulta directa, copias simples, certificadas u otro tipo de medio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 35.
 
-Si la solicitud es presentada ante una oficina no competente, ésta tendrá la obligación de transferirla a la que corresponda o, en su caso, orientar al solicitante sobre la ubicación de la Unidad Administrativa de Acceso a la Información del Sujeto Obligado de que se trate.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 36.
 
-En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Sin embargo, ello no exime a los solicitantes de llenar los formatos de solicitud de acceso a la información.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Si la solicitud se formula por los medios electrónicos disponibles y no precisan tanto la información que solicitan como la forma o medio en que quieren que se ponga a su disposición, proporcionan datos falsos o no pagan las contraprestaciones respectivas; los Sujetos Obligados no podrán ser obligados a proporcionar la información solicitada.
-
-Las Unidades Administrativas de Acceso a la Información, podrán verificar los datos proporcionados y deberán advertir a los solicitantes de los pagos que en su caso se requieran, para que los efectúe antes de que se ponga a su disposición la información solicitada.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Las Unidades Administrativas de Acceso a la Información harán saber al solicitante del pago que, en su caso, se requiera para que los efectúe antes de que se ponga a su disposición la información solicitada.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 37.
 
-La obligación de acceso a la información, se dará por cumplida cuando el Sujeto Obligado, por conducto de la oficina o unidad responsable de la información solicitada o de la Unidad Administrativa de Acceso a la Información, ponga a disposición la información solicitada, o en su caso, haga del conocimiento del solicitante el acuerdo por el que se clasifica dicha información como reservada o confidencial. Dicha información podrá proporcionarse por vía electrónica, en el supuesto de que el solicitante así lo manifieste y sea posible.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 38.
 
-En caso de que la información solicitada, ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, en formatos electrónicos o en cualquier otro medio, la Unidad Administrativa de Acceso a la Información le hará saber la fuente, lugar y forma en que puede consultar, reproducir o adquirir dicha información.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO OCTAVO. DEL RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 39.
 
-El recurso de revisión procede en los siguientes casos:
-
-I.- Contra la negativa de proporcionar total o parcialmente la información pública solicitada;
-
-II.- Cuando el Sujeto Obligado entregue al solicitante la información pública en contravención a lo dispuesto por esta Ley;
-
-III.- En caso de que el Sujeto Obligado se niegue o retarde en efectuar modificaciones o correcciones a los datos personales;
-
-IV.- Cuando el solicitante no esté conforme con la modalidad de entrega;
-
-V.- Cuando la información entregada al solicitante es incompleta o no corresponda a la información requerida en la solicitud; y
-
-VI.- Cuando no conteste el Sujeto Obligado la solicitud de información en los plazos previstos en esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 40.
 
-El recurso de revisión deberá formularse por escrito o por medio electrónico disponible, en el que se expresarán:
-
-I.- Autoridad o autoridades que emitieron la resolución materia del recurso o a la que se le imputa la violación a las disposiciones de esta Ley;
-
-II.- Nombre del recurrente y del tercero interesado si lo hay;
-
-III.- Domicilio del recurrente en el lugar de residencia de la autoridad que conozca del recurso, o medio que señale para recibir notificaciones;
-
-IV.- Acto que se recurre señalando los agravios que le causan;
-
-V.- Pruebas que ofrezca; y
-
-VI.- Firma del promovente o, en su caso, su huella digital.
-
-Serán admisibles toda clase de pruebas a excepción de la confesional, la declaración de parte y todas aquellas que sean contrarias a la moral o el derecho.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 41.
 
-El recurso de revisión se interpondrá ante la Unidad Administrativa de Acceso a la Información del Sujeto Obligado al que se le impute la violación, por sí, por medio de su representante, dentro de los diez días hábiles siguientes a la fecha de la notificación de la resolución, o por medio electrónico debiendo ser ratificado por esta misma vía ante la Unidad de Acceso a la Información, en un término no mayor a tres días hábiles, exhibiendo el acuse de recibo que emite el sistema electrónico y las copias del recurso necesarias para correr traslado.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 42.
 
-La Unidad Administrativa de Acceso a la Información remitirá dentro de los tres días hábiles siguientes a la Comisión u Órgano Análogo por oficio o en su caso por vía electrónica, el recurso de revisión acompañado de las constancias que justifiquen el acto que se reclama y su informe con justificación, señalando además la o a las Unidades Administrativas del Sujeto Obligado responsable de la información.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 43.
 
-Si la Comisión u órgano análogo, advierte que no se reúnen los requisitos establecidos en el artículo 40 de la presente Ley, requerirá al recurrente para que en el término de tres días hábiles los subsane.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 44.
 
-El recurso de revisión será desechado por improcedente cuando:
-
-I.- No sea presentado en tiempo y forma según los términos de la presente Ley;
-
-II.- La Comisión u órgano análogo haya resuelto en definitiva anteriormente sobre la materia del recurso respectivo;
-
-III.- Se esté tramitando, ante los Tribunales competentes, algún recurso o medio de defensa interpuesto por el recurrente sobre la materia del recurso de revisión previsto por esta Ley; y
-
-IV.- No cumpla en tiempo y forma con el requerimiento previsto en el artículo 43 de este ordenamiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 45.
 
-Procede el sobreseimiento:
-
-I.- Porque el recurrente se desista expresamente del recurso;
-
-II.- Por muerte del recurrente o, tratándose de personas jurídicas, se disuelvan; cuando el acto o resolución reclamada sólo afecte a su persona;
-
-III.- Cuando admitido el recurso de revisión, aparezca alguna causal de improcedencia en los términos de la presente Ley; o
-
-IV.- El Sujeto Obligado responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin materia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 46.
 
-Admitido el recurso de revisión, se entregará una copia de él a cada una de las partes restantes y les dará vista con las pruebas ofrecidas por el recurrente, para que dentro del término de cinco días hábiles ofrezcan las que juzguen convenientes.
-
-Desahogada la vista o transcurrido el plazo para hacerlo, la Comisión u órgano análogo, en su caso, dará vista al recurrente con las pruebas ofrecidas por el término a que se refiere el párrafo anterior, para que ofrezca las que legalmente procedan y admitirá y mandará preparar las pruebas que procedan cuando la naturaleza de las mismas así lo requiera, señalando la fecha para su recepción en una audiencia que se celebrará dentro de los quince días hábiles siguientes.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
-
-Concluida la audiencia de recepción de pruebas, deberá aplicarse la suplencia de la queja cuando sea procedente, a favor del recurrente y asegurarse de que las partes puedan presentar de manera oral o escrita los argumentos que funden o motiven sus pretensiones, así como formular sus alegatos.
-
-Contra las resoluciones que admitan o desechen pruebas no procede recurso alguno.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 47.
 
-Agotado el procedimiento a que se refiere el artículo anterior, la Comisión o el órgano análogo resolverá el recurso en un término que no exceda de treinta días hábiles en los que podrá confirmar, revocar total o parcialmente el acto o resolución que se impugna o sobreseer el procedimiento. Este plazo podrá ampliarse hasta por un periodo igual.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 48.
 
-Las resoluciones definitivas y los requerimientos deberán ser notificadas personalmente cuando hubieren señalado domicilio para recibir notificaciones, en el lugar de residencia de la Comisión u órgano análogo.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2008)</small>
-
-En los casos en que el domicilio sea fuera del lugar de residencia de la Comisión u Órgano Análogo, la notificación será a través de medios electrónicos y lista en estrados, surtiendo los efectos correspondientes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO NOVENO. DEL CUMPLIMIENTO DE LAS RESOLUCIONES DICTADAS EN EL RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 49.
 
-Si dentro de los quince días hábiles siguientes a la notificación al Sujeto Obligado de la resolución pronunciada por la Comisión u Órgano análogo, ésta no quedare cumplida por la oficina, unidad administrativa o servidor público que en aquélla se hubiere determinado como responsable de darle cumplimiento, a instancia de parte lo requerirá para que dé cumplimiento y, en su caso, manifieste las causas que motivaron su incumplimiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 50.
 
-La Comisión u órgano análogo una vez recibidas las manifestaciones a que se refiere el artículo anterior, con ellas, dará vista a las partes para que aleguen lo que a su derecho e interés convenga y transcurrido el plazo, resolverá dentro de los quince días hábiles siguientes lo procedente y, en su caso, dictara las providencias necesarias para su cumplimiento, independientemente de las sanciones a que se haga acreedor el infractor.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ### CAPÍTULO DÉCIMO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### ARTÍCULO 51.
 
-Los titulares de los Sujetos Obligados deberán asegurar el adecuado funcionamiento de los archivos y deberán poner a disposición del público una guía simple de sus sistemas de clasificación de la información pública, así como la organización del archivo, pudiéndose coordinar con otros Sujetos Obligados.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 52.
 
-Los Poderes Legislativo y Judicial del Estado, los Órganos Constitucionalmente Autónomos y los Ayuntamientos en el ámbito de sus respectivas competencias, establecerán mediante Reglamentos o acuerdos de carácter general, los criterios y procedimientos institucionales para proporcionar a los particulares el acceso a la información, de acuerdo con los lineamientos de esta Ley, con sus propias disposiciones orgánicas y con la estructura administrativa necesaria para el desempeño de sus funciones.
-
-Los Ayuntamientos podrán celebrar convenios de coordinación, para el cumplimiento de lo establecido en el presente artículo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 53.
 
-Las disposiciones a que se refieren el artículo anterior, deberán contener cuando menos:
-
-I.- La Unidad Administrativa de Acceso a la Información o su análoga, responsable de publicar la información a que se refiere el artículo 9 de la presente Ley;
-
-II.- Los criterios y procedimientos de clasificación y conservación de la información reservada o confidencial;
-
-III.- El procedimiento de acceso a la información pública, en los términos previstos en esta Ley;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-IV.- Los procedimientos de acceso y modificación de datos personales y en su caso de la vida privada, a los que se refiere este ordenamiento; y
-
-V.- Las demás que sean necesarias para el cumplimiento de la presente Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 54.
 
-Independientemente de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás disposiciones en la materia, los Servidores Públicos incurrirán en responsabilidad administrativa por incumplimiento de los preceptos de esta Ley en los casos siguientes:
-
-I.- Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente en contravención a las disposiciones de esta Ley y demás ordenamientos aplicables, información que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
-
-II.- Actuar con negligencia, dolo o mala fe en la substanciación de las solicitudes de acceso a la información o en la difusión de la información a que están obligados conforme a esta Ley;
-
-III.- Negar intencionalmente información no clasificada como reservada o no considerada confidencial conforme a esta Ley;
-
-IV.- Clasificar como reservada o confidencial, con dolo, información que no cumple con las características señaladas en esta Ley. La sanción sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información de la Comisión u órgano análogo;
-
-V.- Entregar información considerada como reservada o confidencial en contravención a lo dispuesto por esta Ley;
-
-VI.- El incumplimiento reiterado a las resoluciones pronunciadas por la Comisión u órgano análogo;
-
-VII.- Entregar intencionalmente de manera incompleta información requerida en una solicitud de acceso;
-
-VIII.- No proporcionar la información cuya entrega haya sido ordenada por los órganos competentes;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-IX.- La recolección de los datos de la vida privada y de los datos personales en contravención a las disposiciones de esta Ley y demás relativas;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2008)</small>
-
-X.- Mantener los datos de la vida privada y los datos personales sin las debidas condiciones de seguridad o tratarlos, usarlos posteriormente y con fines distintos a los previstos en esta Ley o con incumplimiento de los principios, garantías y preceptos de protección que impongan las disposiciones reglamentarias; y
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
-
-XI.- Negar la supresión o la rectificación de los datos de la vida privada y datos personales a quien sea titular de los mismos en los casos que proceda de conformidad con la Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 55.
 
-El procedimiento para determinar la responsabilidad administrativa de los servidores públicos y para la imposición de las sanciones que correspondan, se substanciará conforme a lo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones en la materia; se iniciará de oficio, por queja o denuncia presentada por cualquier persona o por el servidor público que tenga conocimiento de los hechos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ###### ARTÍCULO 56.
 
-Las sanciones por responsabilidad administrativa que se generen por el incumplimiento de las obligaciones a que se refiere esta Ley, son independientes de las del orden civil o penal que procedan y se aplicarán únicamente a los Servidores Públicos que la Comisión u Órgano análogo y las demás autoridades competentes, determinen como directamente responsables de tal incumplimiento, sin perjuicio de sus superiores jerárquicos ni de las Unidades Administrativas de Acceso a la Información, cuando éstos no se les haya determinado responsabilidad, salvo que se demuestre posteriormente que los Servidores Públicos responsables actuaron a instancia o por instrucciones de éstos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2011)
 
 ## TRANSITORIOS
 
@@ -727,7 +355,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de julio del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE JULIO DE 2008.
 
@@ -736,3 +364,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Lo dispuesto por la fracción XIII del artículo 9 entrará en vigor una vez que las instancias de gobierno competentes cuenten con los mecanismos necesarios para emitir los índices de medición a los que se hace alusión en el artículo citado.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las modalidades que se establecen en los artículos Transitorios Sexto, Séptimo y Octavo.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado el 16 de agosto de 2004, así como las reformas a la misma, publicadas en el mismo Periódico el 18 de julio de 2008 y todas las disposiciones que se oponga a la presente; a excepción del Capítulo Cuarto de la mencionada Ley, en tanto no se emita una Ley que regule la Protección de los Datos Personales en manos de los Sujetos Obligados.
+
+TERCERO.- Los empleados que laboren a la fecha al servicio de la Comisión para el Acceso a la Información Pública del Estado, se incorporarán a la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, en los términos previsto en la presente Ley, respetando su antigüedad, así como los derechos adquiridos de los que disfrutan.
+
+CUARTO.- Los actuales Comisionados de la Comisión permanecerán en su cargo hasta que concluya el período para el cual fueron electos, conservando los derechos adquiridos de los que disfrutan. Como excepción a lo previsto por el artículo 71 de la presente Ley, el Comisionado que entró en funciones en 2011, así como aquel que entre en funciones en 2013 serán presidentes por tres años, a fin de garantizar que la Presidencia sea ejercida por el Comisionado al que le resten dos años para concluir su periodo.
+
+QUINTO.- La Comisión contará con el plazo de un año a partir de la entrada en vigor de la presente Ley, para modificar su Reglamento Interior y emitir el Reglamento que regule el servicio profesional de carrera de la misma.
+
+SEXTO.- Las solicitudes de acceso y los recursos de revisión interpuestos a través de los sistemas electrónicos existentes, que se encuentren en trámite y los presentados, por la misma vía, dentro de los seis meses después a la entrada en vigor de la presente Ley, se tramitarán en los términos y plazos contemplados en dichos sistemas, hasta en tanto no se hayan adecuado los mismos a la presente Ley.
+
+SÉPTIMO.- Los Sujetos Obligados contarán con un plazo de seis meses, a partir de la entrada en vigor de la presente Ley, para adecuar sus sistemas electrónicos de atención a solicitudes de acceso y recursos de revisión o implementar alguno.
+
+OCTAVO.- Los Sujetos Obligados tendrán como máximo seis meses para cumplir con la obligación de publicar la información pública de oficio establecida en esta Ley. En el caso de los Municipios aplicará para aquéllos que tengan más de 70,000 habitantes. Para ello contarán con la asesoría y el apoyo de la Comisión.
+
+Tratándose de la información pública de oficio establecida en el artículo 11 fracción VIII inciso c), los Sujetos Obligados deberán publicar la información a más tardar en diciembre de 2012.
+
+NOVENO.- Los Municipios que transcurridos los plazos señalados en el Transitorio Sexto y Séptimo no cuenten con los sistemas electrónicos y los sitios web para dar cumplimiento a las obligaciones referidas en la presente Ley, podrán solicitar a la Comisión una prórroga, justificando las razones por las que no les ha sido posible implementarlos.
+
+DÉCIMO.- El Gobernador del Estado deberá emitir en un lapso de un año, contado a partir de la publicación de esta Ley, el Reglamento de la misma, para lo cual podrá allegarse de diversas propuestas a considerarse.
