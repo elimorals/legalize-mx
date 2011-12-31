@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2009-12-30"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -393,11 +393,7 @@ I. El 23% de las cantidades que el Estado reciba por concepto de participaciones
 
 II. El 100% de los recursos provenientes del Fondo de Fomento Municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-III. El 23% de la recaudación del Estado del Impuesto Federal Sobre Tenencia o Uso de Vehículos;
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -433,7 +429,9 @@ b) 2/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta 
 
 VIII. El 23% del Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
 
-Los importes a que se refieren las fracciones III, IV y V, estarán sujetos a la condición de que la Federación participe al Estado en 100% de estos conceptos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Los importes a que se refieren las fracciones IV y V, estarán sujetos a la condición de que la Federación participe al Estado en 100% de estos conceptos.
 
 ###### Artículo 40.
 
@@ -481,9 +479,11 @@ La entrega de las participaciones a los Municipios a que se refieren los artícu
 
 La entrega de las participaciones a los Municipios se hará vía transferencia electrónica o mediante la expedición del cheque correspondiente y sin sujeción a condiciones especiales, quedando estrictamente prohibido al Gobierno del Estado hacer el pago a los Municipios mediante obras realizadas en la circunscripción de éstos, así como condicionar la entrega a la realización de una obra en particular.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 44.
 
-La entrega de los recursos a que se refieren las fracciones I, II y IV del artículo 39 de esta Ley a los Municipios, deberá ser dentro de los cinco días siguientes a la fecha en que el Estado reciba la transferencia o notificación de la Federación; tratándose de los recursos contemplados en las fracciones III y V del referido artículo, en virtud de ser conceptos autoliquidables, deberán ser considerados para finiquitarse dentro del siguiente pago más próximo a la fecha del cierre contable del ingreso que efectúa la Secretaría.
+La entrega de los recursos a que se refieren las fracciones I, II y IV del artículo 39 de esta Ley a los Municipios, deberá ser dentro de los cinco días siguientes a la fecha en que el Estado reciba la transferencia o notificación de la Federación; tratándose del recurso contemplado en la fracción V del referido artículo, en virtud de ser concepto autoliquidable, deberá ser considerado para finiquitarse dentro del siguiente pago más próximo a la fecha del cierre contable del ingreso que efectúa la Secretaría.
 
 ###### Artículo 45.
 
@@ -830,3 +830,9 @@ P.O. 30 DE DICIEMBRE DE 2009.
 Artículo primero.- El presente Decreto entrará en vigor el día 1º de enero del año 2010.
 
 Artículo segundo.- Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor el primer día de enero del 2012, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
