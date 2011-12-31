@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2009-12-31"
+last_updated: "2011-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -179,43 +179,27 @@ En ningún caso el impuesto predial anual será inferior a tres días de salario
 
 (DEROGADO, B.O. 28 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 14.
 
-El Impuesto Predial sobre la propiedad urbana se causara:
+El impuesto predial sobre la propiedad urbana se causara:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+a). A razón de 1.05 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
 
-a). A razón de 0.95 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+b). A razón de 1.65 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-> <small>(DEROGADO [N. DE E. REPUBLICADO] SEGUNDO PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c). A razón de 2.2 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 0.2 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 4 al millar.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-b). A razón de 1.5 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO [N. DE E. REPUBLICADO] SEGUNDO PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-c). A razón de 2 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose actualmente en un 0.2 al millar hasta en tanto no sea construida, una edificación. La tasa no excederá de 4 al millar.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-d). A razón del 1.3 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+d). A razón del 1.45 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados, siempre y cuando dichos predios no sean enajenados a terceros, prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2006)</small>
 
@@ -229,9 +213,9 @@ Los terrenos que cuenten con construcciones menores tales como palapas y/o barda
 
 El valor del terreno de un predio regular se determinará multiplicando la superficie obtenida por el valor unitario fijado a la calle de su ubicación y tratándose de predios ubicados en esquina, el valor de éstos se determinará multiplicando su superficie, por el mayor de los valores unitarios fijados a las calles que forman la esquina.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
-e). Predios destinados al campo de Golf en el área de Nopoló, a razón de 2.5 al millar.
+e). Predios destinados al campo de golf en el área de Nopoló, a razón de 2.65 al millar.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -3332,3 +3316,9 @@ El presente decreto entrará en vigor el día primero de Enero del año dos mil 
 B.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO.- Las tablas de valores unitarios de suelo, construcción y vialidades especiales, que sirvan de base para el cobro de las contribuciones de la propiedad inmobiliaria en el Municipio de Loreto, Baja California Sur, aplicables para el ejercicio fiscal del año dos mil doce, tendrá vigencia del día primero de enero, al treinta y uno de diciembre del año dos mil doce, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La reforma al artículo 14 incisos a), b), c), d) y e) de la Ley de Hacienda para el Municipio de Loreto, Baja California Sur, entrará en vigor el día primero de enero de 2012, previa su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
