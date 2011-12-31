@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2011-08-01"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
+REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -413,9 +413,15 @@ II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
 Corresponde a la Comisión de Niñez, Juventud, Deporte y Familia:
 
-I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relativos a la promoción y fortalecimiento de la participación de los niños, jóvenes y la familia, en la vida política, económica, social y deportiva del Estado; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-II.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
+I.- Conocer y emitir resolutivos de los asuntos que le sean turnados relativos a la promoción y fortalecimiento de la participación de los niños, jóvenes y la familia, en la vida política, económica, social y deportiva del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+II.- Organizar anualmente el Parlamento tanto Infantil como Juvenil; y
+
+III.- Las demás que le sean conferidas por el Pleno o la Diputación Permanente.
 
 ###### ARTÍCULO 32.
 
@@ -1346,3 +1352,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+Artículo Único.- Envíese el presente Decreto al Ejecutivo del Estado para los efectos del Artículo 51 de la Constitución Política del Estado de Hidalgo.
