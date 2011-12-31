@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2009-12-31"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -125,7 +125,7 @@ e) De llegar a recibir el Estado recursos provenientes de la Reserva de Continge
 
 En el conjunto de participaciones a los Municipios no se incluirán aquellas a que se refieren las fracciones I y II del artículo 2-A de la Ley de Coordinación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -133,7 +133,7 @@ En el conjunto de participaciones a los Municipios no se incluirán aquellas a q
 
 De los incentivos que percibe el Estado, los Municipios participarán conforme a los siguientes porcentajes:
 
-a) El 20% del Impuesto Sobre Tenencia o Uso de Vehículos.
+a) (DEROGADO, B.O. 31 DE DICIEMBRE DE 2011)
 
 b) El 20% del Impuesto federal sobre automóviles nuevos.
 
@@ -187,7 +187,7 @@ De las cantidades que el Estado reciba por concepto de Fondo de Fiscalización c
 
 ###### Artículo 9.
 
-De las cantidades que el Estado recaude por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -235,15 +235,25 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre nómina,
 
 Los municipios deberán destinar estos recursos exclusivamente a obras de infraestructura social.
 
-En la aplicación de estos recursos, los Municipios realizarán los registros específicos y los mantendrán actualizados respecto de los montos aplicados por obra. La documentación comprobatoria deberá ser conservada por los municipios por 10 años como mínimo a partir de que haya concluido la obra, debiendo ser presentada, cuando sea requerida por la Secretaría, la Contraloría General del Estado, o la Contaduría Mayor de Hacienda del Congreso del Estado, conforme a las atribuciones que le confieren las disposiciones legales aplicables.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
+En la aplicación de estos recursos, los Municipios realizarán los registros específicos y los mantendrán actualizados respecto de los montos aplicados por obra. La documentación comprobatoria deberá ser conservada por los municipios por 10 años como mínimo a partir de que haya concluido la obra, debiendo ser presentada cuando sea requerida por la Secretaría, la Contraloría General del Estado, o por el Órgano de Fiscalización Superior del Estado, conforme a las atribuciones que les confieren las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
 De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenación de Bienes Muebles, corresponderá a los Municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 16.
 
-(DEROGADO, B.O. 11 DE JULIO DE 2006)
+De las cantidades que el Estado perciba por concepto del Impuesto Estatal Vehicular, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 16 Bis.
+
+De las cantidades que el Estado perciba por concepto del Impuesto sobre la Prestación de Servicios de Hospedaje, conforme al Artículo 18 de la Ley de Hacienda del Estado, se distribuirá el 33% a los Municipios del Estado, recursos que deberán ser destinados para obras de infraestructura social y administrados por los fideicomisos que para tales efectos se constituyan en cada uno de ellos.
 
 ### CAPÍTULO TERCERO. DEL CÁLCULO Y LIQUIDACIÓN DE LAS PARTICIPACIONES
 
@@ -378,3 +388,9 @@ B.O. 11 DE MARZO DE 2008.
 B.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del uno de enero del año dos mil diez, previa su publicación, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Artículo 16 del presente Decreto entrará en vigor el 1 de enero del 2012, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
