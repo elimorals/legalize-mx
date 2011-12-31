@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2011-09-19"
+last_updated: "2011-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -79,9 +79,9 @@ El Estado podrá, en los términos de Ley, convenir con la federación la asunci
 
 En el Estado de Hidalgo, todo individuo gozará de las garantías y derechos que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-En el Estado de Hidalgo queda prohibida toda discriminación motivada por el origen étnico, Nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos.
+Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -123,13 +123,13 @@ El varón y la mujer son iguales ante la ley. Esta protegerá la organización y
 
 Toda persona tiene derecho a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los niños, niñas, adolescentes, adultos mayores y personas con capacidades diferentes, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+El Estado, en sus decisiones y actuaciones, velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los niños, niñas, adolescentes, adultos mayores y personas con discapacidad, tienen derecho a la satisfacción de sus necesidades de alimentación nutritiva, suficiente y de calidad, salud, educación y sano esparcimiento para su desarrollo integral, así como a la convivencia familiar.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes y las personas con capacidades diferentes y el ejercicio pleno de sus derechos.
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes y las personas con discapacidad y el ejercicio pleno de sus derechos.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -137,13 +137,111 @@ El Estado otorgará facilidades a los particulares, para que se coadyuve al cump
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-El Estado de Hidalgo tiene una composición pluricultural y reconoce los derechos a preservar la forma de vida y el bienestar y desarrollo de los grupos sociales de culturas autóctonas, dentro de sus propios patrones de conducta, en cuanto no contraríen normas de orden público, así como a que se consideren tales rasgos culturales en la justipreciación de los hechos en que participen, mediante criterios de equidad. La Ley protegerá y promoverá el desarrollo de las lenguas, prácticas tradicionales, recursos y formas específicas de organización social de las diversas comunidades que lo integran y garantizará a sus componentes el efectivo acceso a la jurisdicción del Estado. Los Poderes del Estado, en el ámbito de sus respectivas competencias, tomarán en cuenta las prácticas y las costumbres de las comunidades indígenas en los términos que las propias Leyes establezcan. La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre comunidades y pueblos indígenas. Los pueblos indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, reconociéndolos, así como, a sus comunidades en esta Constitución, la que tomará en cuenta los principios generales establecidos en el Artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, así como los criterios etnolingüísticos y de asentamiento físico.
+El Estado de Hidalgo tiene una composición pluricultural y plurilingüe sustentada originalmente en los pueblos indígenas Nahua, Otomí, Tepehua, Tének y Pame, así como las autodenominaciones que se deriven de los mismos; que conservan sus propias estructuras sociales, económicas, culturales y políticas, o parte de ellas. Asimismo, se reconoce la presencia de otros pueblos indígenas en su territorio, a los que les serán garantizados los derechos establecidos en esta constitución.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar, así como el deber de conservarlo. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su Territorio, así como para prevenir y sancionar toda forma de contaminación ambiental.
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. La Ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta además de los anteriores, los criterios etnolingüísticos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+El Estado reconoce a los pueblos y comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios, en sujeción de lo prescrito en la Constitución Federal, la del Estado y demás legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+El derecho de los pueblos y comunidades indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Los pueblos y comunidades indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, respetando los preceptos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en ésta Constitución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+La Ley protegerá y promoverá la lengua y la cultura, así como las prácticas tradicionales, recursos y formas específicas de organización social de los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I.- Para decidir libremente la forma en que organizarán su vida interna en lo social, económico, político y cultural.
+
+II.- Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los lineamientos y principios establecidos en la Ley de la materia, respetando los derechos humanos así como sus garantías y, de manera relevante, la dignidad e integridad de las mujeres.
+
+La Ley establecerá que se debe entender por conflictos internos y sistemas normativos, así como delimitar facultades y competencias.
+
+III.- Elegir de acuerdo con sus normas, procedimientos o prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado.
+
+IV.- Preservar y desarrollar su cultura, su lengua, conocimientos, y todos los elementos que constituyen parte de su identidad; así como las actividades y productos materiales y espirituales de cada pueblo y comunidad indígena.
+
+V.- Conservar y mejorar el hábitat y preservar la integridad de sus tierras, territorios y recursos naturales, entendiendo por territorios, lo que cubre la totalidad del hábitat de las regiones que los pueblos y comunidades interesados ocupan o utilizan de alguna otra manera.
+
+VI.- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan los pueblos y comunidades indígenas, salvo aquellos que corresponden a las áreas estratégicas, respetando los regímenes de propiedad de tenencia de la tierra establecidos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para estos efectos las comunidades podrán asociarse en términos de Ley.
+
+VII.- Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+
+La Ley establecerá las funciones que tendrá dicha representación, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
+
+VIII.- Acceder plenamente a la jurisdicción del Estado.
+
+Para garantizar este derecho, las instancias de procuración y administración de justicia, en todos los juicios y procedimientos en que sean parte indígenas, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes, traductores y defensores que tengan conocimiento de su lengua y cultura, los cuales serán proporcionados por la instancia que corresponda, de manera gratuita.
+
+Las leyes que correspondan, deberán establecer los mecanismos para garantizar este derecho.
+
+IX.- Ser consultados en las medidas legislativas o administrativas que sean susceptibles de afectarles directamente, con el fin de lograr su consentimiento libre, previo e informado de acuerdo a la medida propuesta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+El Estado garantizará la igualdad de oportunidades de los indígenas, eliminando cualquier práctica discriminatoria, a través de sus instituciones, determinando las políticas necesarias para la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+I.- Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos.
+
+II.- Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación.
+
+III.- Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+
+IV.- Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
+
+V.- Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
+
+VI.- Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen.
+
+VII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+VIII.- Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+
+IX.- Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Para garantizar el cumplimiento de las obligaciones anteriormente señaladas, la Legislatura del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo. El Estado garantizará el respeto a ese derecho. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su territorio. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y domestico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la Ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades estatales y municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes en la materia.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -167,19 +265,13 @@ El trabajo se entenderá como un derecho y una obligación que debe cumplirse re
 
 La ley determinará cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlos.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 8º.
-
-Todos los habitantes del Estado tienen derecho a la alimentación, a la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
-
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 8°.
 
-Todos los habitantes del Estado tienen derecho a la salud, al bienestar y a la seguridad social, como objetivo de la permanente superación del nivel de vida de la población.
+Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 8 Bis.
 
@@ -1773,7 +1865,7 @@ X. Informar al Gobernador o al Congreso, para determinar los casos de indulto, r
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
 
-XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás Magistrados, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas;
+XI. Conocer de las acusaciones o quejas que se presenten en contra del Presidente del Tribunal Superior de Justicia y demás Magistrados, haciendo la substanciación correspondiente, de acuerdo con el procedimiento que señale esta Constitución y las Leyes respectivas
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2681,7 +2773,7 @@ El período Constitucional de la actual Legislatura, terminará el último día 
 
 ###### Artículo 4°.
 
-Para las próximas elecciones de Gobernador del Estado, no regirá lo dispuesto por las fracciones III y IV del artículo 48 de esta Constitución. Por esta sola vez, podrán ser electos Gobernador del Estado, los militares y funcionarios comprendidos en estas disposiciones, siempre que se hayan separado de sus respectivos puestos, los primeros, y de todo servicio los segundos, a má tardar treinta días después de promulgada esta Constitución.
+Para las próximas elecciones de Gobernador del Estado, no regirá lo dispuesto por las fracciones III y IV del artículo 48 de esta Constitución. Por esta sola vez, podrán ser electos Gobernador del Estado, los militares y funcionarios comprendidos en estas disposiciones, siempre que se hayan separado de sus respectivos puestos, los primeros, y de todo servicio los segundos, a más tardar treinta días después de promulgada esta Constitución.
 
 Dado en el Salón de Sesiones de la H. Legislatura del Estado, en Pachuca de Soto, a los veinte días del mes de septiembre de mil novecientos veinte.
 
@@ -3310,3 +3402,15 @@ P.O. 19 DE SEPTIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En lo que refiere a las reformas en materia indígena, el Congreso del Estado, deberá realizar las reformas que correspondan a la Ley específica de la materia y demás aplicables en un plazo de hasta 180 días hábiles.
+
+CUARTO.- En lo que refiere a las reformas en materia indígena, el Tribunal Superior de Justicia y la Procuraduría General de Justicia, deberán implementar las acciones necesarias, tenientes (sic) a dar cumplimiento a lo establecido en esta reforma en un plazo de hasta 180 días hábiles.
+
+QUINTO.- En lo que refiere a las reformas en materia indígena, el Titular del Poder Ejecutivo, dispondrá que lo establecido en el presente Decreto, se traduzca a las lenguas de los pueblos y comunidades indígenas del Estado.
