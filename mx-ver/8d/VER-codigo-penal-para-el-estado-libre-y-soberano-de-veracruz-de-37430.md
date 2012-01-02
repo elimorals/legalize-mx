@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2011-12-14"
+last_updated: "2012-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ENERO DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1723,7 +1723,7 @@ El delito de acoso sexual se perseguirá por querella.
 
 ### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 2 DE ENERO DE 2012)</small>
 
 ### CAPÍTULO III. ABUSO DE CONFIANZA
 
@@ -1945,19 +1945,23 @@ Si en los actos de referencia interviene algún servidor público que tenga a su
 
 ###### Artículo 210.
 
-A quien en el medio rural se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de cuatro a doce años de prisión y multa hasta de trescientos días de salario.
+A quien en el medio rural se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de seis a doce años de prisión y multa hasta de trescientos días de salario.
 
-Cuando ese apoderamiento se realice sobre ganado vacuno o caballar, se impondrán de cinco a quince años de prisión y multa hasta de quinientos días de salario.
+Cuando ese apoderamiento se realice sobre ganado vacuno o caballar, se impondrán de seis a quince años de prisión y multa hasta de quinientos días de salario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2012)</small>
 
 ###### Artículo 211.
 
-A quien adquiera ganado producto de abigeato o comercie con sus pieles, carne u otros derivados, obtenidos de dicho ilícito, se le impondrán de cinco a quince años de prisión y multa hasta de trescientos días de salario.
+A quien adquiera ganado producto de abigeato o comercie con sus pieles, carne u otros derivados, obtenidos de dicho ilícito, se le impondrán de seis a quince años de prisión y multa hasta de trescientos días de salario.
 
 A las autoridades que intervengan en esas operaciones, si no tomaron las medidas indispensables para cerciorarse de la procedencia legítima de las cosas, se les sancionará en los términos del artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ENERO DE 2012)</small>
+
 ###### Artículo 212.
 
-Se impondrán de tres a diez años de prisión y multa hasta de cien días de salario a quien:
+Se impondrán de seis a diez años de prisión y multa hasta de cien días de salario a quien:
 
 I. Desfigure o borre las marcas de animales vivos o de sus pieles;
 
@@ -3844,3 +3848,9 @@ DECRETO NUMERO 314 POR EL REFORMAN LOS ARTÍCULOS 183, FRACCIÓN II, Y 185, FRAC
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE ENERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
