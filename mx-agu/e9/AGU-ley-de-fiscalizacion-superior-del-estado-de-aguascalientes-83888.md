@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2011-11-21"
+last_updated: "2012-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALlENTES
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALlENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -1157,11 +1157,15 @@ III. Administrar los recursos financieros, humanos y materiales del Órgano Supe
 
 IV. Aprobar, escuchando la opinión de la Comisión, el programa anual de actividades y el programa anual de auditorías, visitas e inspecciones; ordenar auditorías a las Entidades Fiscalizadas conforme al programa aprobado;
 
-V. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento del Órgano Superior de Fiscalización, los que deberán ser publicados en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
+
+V. Expedir los manuales de organización y procedimientos así como otras disposiciones que se requieran para la debida organización y funcionamiento del Órgano Superior de Fiscalización, los que deberán ser publicados en el Periódico Oficial del Estado;
 
 VI. Nombrar y remover a los servidores públicos del Órgano Superior de Fiscalización;
 
-VII. Expedir aquellas normas y disposiciones que esta Ley le confiere al Órgano Superior de Fiscalización, así como establecer los elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías y revisiones, tomando en cuenta las propuestas que formulen las Entidades Fiscalizadas y las características propias de su operación;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
+
+VII. Establecer los elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías y revisiones, tomando en cuenta las propuestas que formulen las Entidades Fiscalizadas y las características propias de su operación;
 
 VIII. Ser el enlace entre el Órgano Superior de Fiscalización y la Comisión;
 
@@ -1175,7 +1179,9 @@ XII. Tramitar, instruir y resolver el recurso de revocación interpuesto en cont
 
 XIII. Recibir de la Comisión los Informes de Avance de la Gestión Financiera y las Cuentas Públicas para su revisión y fiscalización;
 
-XIV. Formular los resultados y las observaciones que se deriven de las auditorías que se practiquen, incluyendo recomendaciones y acciones promovidas, las que remitirá según proceda, a las Entidades Fiscalizadas en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
+
+XIV. Emitir los informes de resultados y las observaciones que se deriven de las auditorías que se practiquen, incluyendo recomendaciones y acciones promovidas, las que remitirá según proceda, a las Entidades Fiscalizadas en los términos de esta Ley;
 
 XV. Formular y entregar, por conducto de la Comisión, los informes de resultados de la revisión de las Cuentas Públicas al Congreso, conforme a lo dispuesto a (sic) por el Artículo 27 C, Fracción II de la Constitución Política del Estado de Aguascalientes;
 
@@ -1201,9 +1207,13 @@ XXV. Celebrar contratos, convenios y en general, toda clase de actos jurídicos 
 
 XXVI. Solicitar la presencia de los representantes de las Entidades Fiscalizadas en la fecha y lugar que se les señale, para celebrar las reuniones en las que se les dé a conocer la parte que les corresponda de los resultados y, en su caso, observaciones preliminares de las auditorías que se les practicaron; y
 
-XXVII. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
 
-Las atribuciones previstas en las Fracciones II, IV, V, VII, VIII, IX, XIII, XIV, XVI, XVIII, XXI y XXV son de ejercicio directo del Auditor Superior y, por tanto, no podrán ser delegadas.
+XXVII. Las demás que señale esta Ley, el Reglamento Interior del Órgano Superior de Fiscalización y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2012)</small>
+
+Las atribuciones previstas en las Fracciones II IV, V, VII, VIII, XIII, XIV, XVI, XVIII, XXI y XXV son de ejercicio directo del Auditor Superior y, por tanto, no podrán ser delegadas.
 
 ###### ARTÍCULO 101.
 
@@ -1241,7 +1251,9 @@ V. Designar a los inspectores, visitadores o auditores encargados de practicar l
 
 VI. Revisar, analizar y evaluar la información programática incluida en las Cuentas Públicas;
 
-VII. Formular los resultados y sus observaciones, recomendaciones y acciones promovidas y demás acciones que se deriven, y presentarlas al Auditor Superior para su remisión según proceda a las Entidades Fiscalizadas, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
+
+VII. Elaborar informes de resultados, sus observaciones, recomendaciones y acciones promovidas, así como las demás acciones que se deriven, y presentarlas al Auditor Superior para su remisión según proceda a las Entidades Fiscalizadas en los términos de esta Ley;
 
 VIII. Participar en los procedimientos para el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos por actos u omisiones de los que resulte un daño o perjuicio estimable en dinero que afecten al Estado o a los Municipios en su Hacienda Pública o al patrimonio de los Entes Públicos Estatales y Municipales, conforme a los ordenamientos legales y reglamentarios aplicables;
 
@@ -1261,17 +1273,21 @@ II. Desempeñar otro empleo, cargo o comisión en los sectores público, privado
 
 III. Hacer del conocimiento de terceros o difundir por cualquier medio, la información confidencial o reservada que tenga bajo su custodia el Órgano Superior de Fiscalización para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecto.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 105.
 
-El Auditor Superior y los directores, en el ejercicio de sus facultades, estarán impedidos para practicar auditorias, visitas e inspecciones, o en su caso, para continuar con el conocimiento de algún asunto materia de su competencia, por alguna de las causas siguientes:
+El Auditor Superior y los directores, en el ejercicio de sus facultades, estarán impedidos para practicar auditorías, visitas e inspecciones, o en su caso, para continuar con el conocimiento de algún asunto materia de su competencia, por alguna de las causas siguientes:
 
-I. Tener parentesco en línea directa sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o en la colateral por afinidad hasta el segundo, con alguno de los socios, asociados, miembros, directivos o equivalentes de alguna persona moral o, en su caso, con alguna persona física, que en el ejercicio en que se fiscaliza hubiere realizado trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización, de manera externa, a las Entidades Fiscalizadas sujetas a revisión por parte del Órgano Superior de Fiscalización;
+I. Tener parentesco en línea directa sin limitación de grado, colateral por consanguinidad hasta el cuarto grado o en la colateral por afinidad hasta el segundo con el titular del Ente Fiscalizado o área en la que se practique la diligencia, con alguno de los socios, asociados, miembros, directivos o equivalentes de alguna persona moral o, en su caso, con alguna persona física, que en el ejercicio en que se fiscaliza hubiere realizado trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización, de manera externa, a las Entidades Fiscalizadas sujetas a revisión por parte del Órgano Superior de Fiscalización;
 
 II. Haber realizado directamente, en el ejercicio en que se fiscaliza, trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización, de manera externa, a las Entidades Fiscalizadas sujetas a revisión por parte del Órgano Superior de Fiscalización;
 
-III. Tener amistad íntima o haber tenido relaciones profesionales, laborales o de negocios con alguno de los socios, asociados, miembros, directivos o equivalentes de alguna persona moral o, en su caso, con alguna persona física que en el ejercicio en que se fiscaliza, hubiere realizado trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, a las Entidades Fiscalizadas sujetas a revisión por parte del Órgano Superior de Fiscalización; y
+III. Tener amistad íntima, enemistad manifiesta o haber tenido relaciones profesionales, laborales o de negocios con alguno de los socios, asociados, miembros, directivos o equivalentes de alguna persona moral o, en su caso, con alguna persona física que en el ejercicio en que se fiscaliza, hubiere realizado trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización de manera externa, a las Entidades Fiscalizadas sujetas a revisión por parte del Órgano Superior de Fiscalización;
 
-IV. Las demás que señalen las disposiciones legales correspondientes.
+IV. Tener amistad íntima o enemistad manifiesta con el titular del Ente Fiscalizado o área en la que se practique la diligencia; y
+
+V. Las demás que señalen las disposiciones legales correspondientes.
 
 ###### ARTÍCULO 106.
 
@@ -1317,9 +1333,11 @@ Los directores podrán ser removidos por el Auditor Superior por las causas grav
 
 El Auditor Superior y los directores sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación del Órgano Superior de Fiscalización o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 110.
 
-El Auditor Superior podrá adscribir, constituir, suprimir y cambiar de denominación a las unidades administrativas establecidas en el Reglamento Interior del Órgano Superior de Fiscalización. Los acuerdos en los cuales se deleguen facultades o se adscriban, constituyan, supriman o cambien de denominación las unidades administrativas se publicarán en el Periódico Oficial del Estado.
+El Auditor Superior podrá proponer a la Comisión el inicio del proceso legislativo correspondiente a fin de adscribir, constituir, suprimir y cambiar de denominación a las unidades administrativas establecidas en el Reglamento Interior del Órgano Superior de Fiscalización.
 
 ###### ARTÍCULO 111.
 
@@ -1357,13 +1375,17 @@ II. Practicar, por sí o a través de auditores externos, auditorías para verif
 
 III. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte del Auditor Superior, directores y demás servidores públicos del Órgano Superior de Fiscalización, iniciar investigaciones y, en su caso, con la aprobación de la Comisión, fincar las responsabilidades a que hubiere lugar e imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
 
-IV. Conocer y resolver, con la aprobación de la Comisión, el recurso de revocación que interpongan los servidores públicos sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
 
-V. Realizar la defensa jurídica, ante las diversas instancias jurisdiccionales, de las resoluciones que se emitan;
+IV. Coadyuvar con la Contraloría Interna del Congreso para resolver el recurso de revocación que interpongan los servidores públicos sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+
+V. (DEROGADA, P.O. 2 DE ENERO DE 2012)
 
 VI. Participar en los actos de entrega recepción de los servidores públicos de mando superior del Órgano Superior de Fiscalización;
 
-VII. A instancia de la Comisión, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano Superior de Fiscalización;
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2012)</small>
+
+VII. Coadyuvar con la Contraloría Interna del Congreso en la presentación de denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano Superior de Fiscalización;
 
 VIII. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe del Resultado y demás documentos que le envíe el Órgano Superior de Fiscalización;
 
@@ -1478,3 +1500,11 @@ Carlos Lozano de la Torre.
 EL JEFE DE GABINETE,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE ENERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
