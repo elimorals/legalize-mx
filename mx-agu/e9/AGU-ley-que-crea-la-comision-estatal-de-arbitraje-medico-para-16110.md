@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-comision-estatal-de-arbitraje-medico-para-16110
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-01"
-last_updated: "2009-02-09"
+last_updated: "2012-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES
 
-LEY QUE CREA LA COMISION ESTATAL DE ARBITRAJE MEDICO PARA EL ESTADO DE AGUASCALIENTES
+LEY QUE CREA LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de agosto de 1999.
 
@@ -95,7 +95,9 @@ a).- Tres Consejeros designados por el titular del Poder Ejecutivo Estatal, debi
 
 b).- El Presidente en funciones del Colegio de Médicos Cirujanos de Aguascalientes, por el tiempo que dure su gestión.
 
-c).- Un representante del Colegio de Médicos Cirujanos Dentistas, quien durará en el cargo cuatro años.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2012)</small>
+
+c).- El Presidente en funciones del Colegio de Médicos Cirujanos Dentistas, por el tiempo que dure su gestión.
 
 d).- Un representante de la Academia Nacional de Medicina quien durará en el cargo cuatro años.
 
@@ -440,3 +442,9 @@ P.O. 9 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ENERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
