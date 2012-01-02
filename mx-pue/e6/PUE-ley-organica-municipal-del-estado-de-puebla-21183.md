@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2010-12-31"
+last_updated: "2012-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1263,7 +1263,7 @@ XXXII.- Establecer fuerzas de policía y vialidad para el mantenimiento de la se
 
 XXXIII.- Prestar a las autoridades de la Federación y del Estado, el auxilio que demanden para el desempeño de sus funciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 XXXIV.- Determinar la nomenclatura de las calles, plazas, jardines, paseos públicos e inmuebles destinados al servicio al público y mandar fijar las placas respectivas; exigir a los propietarios de fincas urbanas la numeración progresiva de éstas y dar aviso correspondiente al Registro Público de la Propiedad y del Comercio y a las oficinas recaudadoras. La nomenclatura será además colocada en Sistema Braille y guía táctil a fin de facilitar el libre desplazamiento de las personas con discapacidad visual. En la nomenclatura no se empleará el nombre de personas vivas, a menos que con ello el Ayuntamiento trate de premiar o dejar para la posteridad el recuerdo de los connacionales que:
 
@@ -1425,7 +1425,7 @@ Los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposic
 
 En aquellos municipios con población mayoritariamente indígena la normatividad observará los usos y costumbres en la medida de lo posible, sin que contravengan los derechos humanos reconocidos en el orden jurídico nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1805,7 +1805,7 @@ Conforme a lo anterior, los Ayuntamientos deben conducir el proceso de planeaci�
 
 Los aspectos de la planeación en cada Municipio se llevarán a cabo mediante un Sistema Municipal de Planeación Democrática, cuya organización, funcionamiento y objeto se regirán por lo dispuesto en la Ley aplicable y los demás ordenamientos vigentes, al igual que las etapas y los productos del proceso de planeación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 104.
 
@@ -2435,7 +2435,7 @@ Los Tesoreros Municipales serán responsables de las erogaciones que efectúen f
 
 Cada Municipio contará con una Contraloría Municipal, la cual tendrá las funciones de contraloría interna del Municipio, la que estará a cargo de un Contralor Municipal, quien deberá cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento, a propuesta del Presidente Municipal, y remunerado de acuerdo con el presupuesto respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 169.
 
@@ -2725,7 +2725,7 @@ Las Juntas Auxiliares se coordinarán con los Ayuntamientos, a efecto de coadyuv
 
 Los servicios públicos municipales son actividades sujetas, en cuanto a su organización, funcionamiento y relaciones con los usuarios, a un régimen de derecho público y destinados a satisfacer una concreta y permanente necesidad colectiva, cuya atención corresponde legalmente a la administración municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 198.
 
@@ -2863,7 +2863,7 @@ El titular o titulares de las ramas del cuerpo de seguridad pública municipal s
 
 Para una efectiva seguridad pública municipal, el Ayuntamiento promoverá la coordinación con los cuerpos de seguridad pública de los diferentes niveles de gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 211.
 
@@ -3004,6 +3004,10 @@ VII.- Las demás que señale el Ayuntamiento, que le sean necesarias para el cum
 ###### ARTÍCULO 223.
 
 La responsabilidad de los servidores públicos municipales se rige por lo dispuesto en la Constitución Política del Estado Libre y Soberano de Puebla, las leyes reglamentarias y las que resulten aplicables de manera específica a los Municipios.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2012)</small>
+
+ARTÍCULO 223 BIS.- Los servidores públicos municipales y aquellas personas que hayan concluido su cargo, que por cualquier razón hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio, o aplicación de recursos, fondos, bienes o valores públicos municipales Estatales o Federales, deberán atender las instrucciones, requerimientos y resoluciones que reciban de los órganos de control y fiscalización, hasta que se hubiere aprobado la cuenta pública o se haya emitido resolución correspondiente.
 
 ### CAPÍTULO XXVII. DE LOS PUEBLOS Y SU GOBIERNO
 
@@ -3421,7 +3425,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de marzo del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE AGOSTO DE 2001.
 
@@ -3451,7 +3455,7 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 
 P.O. 31 DE DICIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN EL PARRAFO PRIMERO DE LA FRACCION XXXIV, LAS FRACCIONES L, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX Y LX DEL ARTICULO 78, LA FRACCION LXI DEL 91, LAS FRACCIONES IV Y V DEL 107, LA FRACCION IX DEL 191, LA FRACCION III DEL 219 Y LA FRACCION IV DEL 231; Y SE ADICIONAN LOS PARRAFOS SEGUNDO Y TERCERO A LA FRACCION XLIII, LAS FRACCIONES LXI, LXII, LXIII Y LXIV AL ARTICULO 78, EL 78 BIS, LA FRACCION VIII AL 80, LAS FRACCIONES LXII Y LXIII AL 91, LA FRACCION VI AL 107, EL 184 BIS, EL 213 BIS Y EL SEGUNDO PÁRRAFO AL 251, TODOS DE LA LEY ORGANICA MUNICIPAL.
+DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO DE LA FRACCIÓN XXXIV, LAS FRACCIONES L, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX Y LX DEL ARTICULO 78, LA FRACCIÓN LXI DEL 91, LAS FRACCIONES IV Y V DEL 107, LA FRACCIÓN IX DEL 191, LA FRACCIÓN III DEL 219 Y LA FRACCIÓN IV DEL 231; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN XLIII, LAS FRACCIONES LXI, LXII, LXIII Y LXIV AL ARTICULO 78, EL 78 BIS, LA FRACCIÓN VIII AL 80, LAS FRACCIONES LXII Y LXIII AL 91, LA FRACCIÓN VI AL 107, EL 184 BIS, EL 213 BIS Y EL SEGUNDO PÁRRAFO AL 251, TODOS DE LA LEY ORGÁNICA MUNICIPAL.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3463,7 +3467,7 @@ CUARTO.- La aplicación del presente Decreto estará sujeto a la suficiencia pre
 
 P.O. 31 DE DICIEMBRE DE 2010.
 
-DECRETO QUE REFORMA EL ARTÍCULO 146 DE LA LEY ORGANICA MUNICIPAL
+DECRETO QUE REFORMA EL ARTÍCULO 146 DE LA LEY ORGÁNICA MUNICIPAL.
 
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
@@ -3473,6 +3477,12 @@ TERCERO.- Se derogan todas las disposiciones jurídicas y administrativas que co
 
 P.O. 31 DE DICIEMBRE DE 2010.
 
-DECRETO POR VIRTUD DEL CUAL SE REFORMA LA FRACCION LXIV, Y SE ADICIONA LA FRACCION LXV DEL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL.
+DECRETO POR VIRTUD DEL CUAL SE REFORMA LA FRACCIÓN LXIV, Y SE ADICIONA LA FRACCIÓN LXV DEL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO TERCERO DEL CODIGO CIVIL FEDERAL VIGENTE .
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO TERCERO DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 2 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
