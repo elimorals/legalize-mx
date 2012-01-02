@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2005-08-05"
+last_updated: "2012-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
@@ -414,6 +414,12 @@ VIII.- Comunicar por escrito al titular las dudas fundadas que le suscite la pro
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 1995)</small>
 
 IX.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluido el periodo para el cual se le asignó o después de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones. Debiendo en todo caso entregar a quien su superior jerárquico designe o a quien legalmente deba sustituirlo, todos los recursos patrimoniales que haya tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones en un término no mayor de cinco días hábiles, contados a partir de la fecha de su separación, debiendo levantarse acta administrativa circunstanciada ante el órgano de control que corresponda.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2012)</small>
+
+IX BIS.- Atender las instrucciones, requerimientos y resoluciones que reciban de los órganos de control y fiscalización.
+
+Para el caso de servidores públicos que hayan concluido su cargo, que por cualquier razón hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio, o aplicación de recursos, fondos, bienes o valores públicos municipales Estatales o Federales, deberán estar a lo dispuesto en esta fracción hasta que se hubiere aprobado la cuenta pública o se haya emitido resolución correspondiente.
 
 X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de tres días continuos o quince discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando no estén justificadas;
 
@@ -974,5 +980,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE AGOSTO DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
