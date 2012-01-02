@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2005-08-05"
+last_updated: "2012-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,53 @@ state: "PUE"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS EN MATERIA DE VERIFICACIÓN VEHICULAR
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
 
-Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2011.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
-MIGUEL ALEJANDRO ALONSO REYES, GOBERNADOR DEL ESTADO DE ZACATECAS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 82 FRACCIÓN II y VI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS; Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2, 6 Y 7 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, Y
+Al margen un sello con el Escudo Nacional y una leyenda que dice Estados Unidos Mexicanos.-Gobierno del Estado de Puebla.
 
-C O N S I D E R A N D O.
+GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
 
-En mérito de lo fundado y de lo expuesto anteriormente, me permito expedir el presente DECRETO que contiene el:
+Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
 
-REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS EN MATERIA DE VERIFICACIÓN VEHICULAR
+C.C. SECRETARIOS DE LA XLIX LEGISLATURA DEL H. CONGRESO DEL ESTADO.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+C I U D A D .
 
-### Capítulo I. Generalidades
+C O N S I D E R A N D O :
+
+QUE en consecuencia con el propósito fundamental del Ejecutivo a mi cargo, de apoyar la política del Gobierno de la República en el renglón relativo a la renovación moral de la Sociedad, resulta impostergable la creación de los dispositivos legales necesarios para regular la conducta de los Servidores Públicos.
+
+QUE para los efectos anteriores es importante buscar uniformar el régimen de responsabilidades de los servidores públicos federales, estatales y municipales.
+
+QUE en la presente Ley se definen y proponen quienes son sujetos de responsabilidades en el ámbito local y municipal, considerando como tales a quienes ostenten un empleo, cargo o comisión en la Administración Pública Estatal o Municipal, en el Poder Legislativo y Judicial, así como toda persona que maneje o aplique fondos y recursos públicos.
+
+QUE la presente Iniciativa coadyuvará a hacer posible la eficiente aplicación del gasto público, un transparente manejo de los presupuestos de egresos, así como la administración y custodia de los bienes, fondos y valores del Estado y del Municipio.
+
+QUE es necesario dotar a la recientemente creada Secretaría de la Contraloría de los instrumentos legales indispensables para hacer posible su operatividad. Esta Ley otorga a dicha Secretaría facultades por cuanto a la substanciación de procedimientos disciplinarios y aplicación de determinadas sanciones.
+
+QUE también se hace indispensable delimitar los sujetos de responsabilidad política en razón de sus funciones, además de consignar los supuestos o causales de dicha responsabilidad.
+
+QUE asimismo se determina el órgano político que debe investigar y conocer de las conductas que configuran la responsabilidad oficial, otorgando al Congreso del Estado y al H. Tribunal Superior de Justicia competencia para substanciar y resolver el Juicio Político, concediendo desde luego a los encausados las garantías de audiencia y legalidad.
+
+QUE también se contempla la responsabilidad penal de los servidores públicos, previendo un procedimiento para privarlos del fuero constitucional de que gozan, facultando al Congreso del Estado para su substanciación y resolución.
+
+QUE hay imperativo por definir a los sujetos de responsabilidad administrativa, estableciendo las obligaciones genéricas de los servidores públicos estatales y municipales, determinando que del incumplimiento de las mismas se incurre en responsabilidad administrativa originando en consecuencia los procedimientos disciplinarios y las sanciones correspondientes.
+
+QUE la presente Ley, aplicable también a los Ayuntamientos, queda a salvo la libertad del Municipio por cuanto a su organización política y administrativa, ya que tratándose de responsabilidades en que incurran los Presidentes Municipales, Regidores y Síndicos, atendiendo a sus cargos de elección popular, se establece que corresponde al Congreso del Estado la instrucción y aplicación de las sanciones respectivas.
+
+QUE por último, es indispensable legislar sobre la declaración patrimonial de los servidores públicos, que están obligados a presentar al protestar el cargo, concluirlo y anualmente durante su gestión por lo que hace a las modificaciones que haya sufrido su patrimonio.
+
+En mérito de lo expuesto y en uso de las facultades que me confieren los artículos 63 fracción I y 79 fracción VI de la Constitución Política Local, me permito someter a la consideración de ese H. Congreso, para su estudio y aprobación, en su caso, la siguiente iniciativa de:
+
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
+
+## TITULO PRIMERO
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 1º.
 
@@ -68,16 +98,6 @@ I. Establecer las normas y procedimientos de la emisión de contaminantes que pr
 II. Instituir las medidas de control para limitar la circulación de los vehículos dentro del territorio del Estado, cuando sea necesario para la protección del ambiente y la salud de sus habitantes, y
 
 III. Formular las bases para el otorgamiento, vigilancia y cumplimiento de las autorizaciones de los Centros de Verificación Vehicular otorgadas a los particulares, así como para la aplicación de las sanciones.
-
-###### Artículo 2.
-
-Los sujetos obligados por el presente Reglamento de Verificación Vehicular son:
-
-I. Las autoridades que intervienen en la Verificación Vehicular en el Estado de Zacatecas;
-
-II. Los propietarios, poseedores o conductores de vehículos automotores que circulen en el Estado, excepto cuando transiten sólo de paso por la circunscripción territorial de la entidad, y
-
-III. Los Titulares de las autorizaciones de los Centros de Verificación en el Estado.
 
 ###### Artículo 2º.
 
@@ -195,29 +215,9 @@ No podrán imponerse dos veces por una sola conducta, sanciones de la misma natu
 
 Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley, y las responsabilidades penales o de carácter civil que dispongan otros Ordenamientos, se desarrollarán autónomamente según su naturaleza, y por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a la que deba conocer de ellas.
 
-## TÍTULO SEGUNDO. DE LA VERIFICACIÓN VEHICULAR
+## TITULO SEGUNDO. PROCEDIMIENTOS ANTE EL CONGRESO DEL ESTADO EN MATERIA DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
-### Capítulo II. De las Autoridades
-
-###### Artículo 4.
-
-Son Autoridades competentes para la aplicación del presente Reglamento:
-
-I. El Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-II. La Secretaría;
-
-III. La Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas, y
-
-IV. La Secretaría de Finanzas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 5.
-
-La aplicación de este Reglamento corresponde al Estado, por conductode (sic) la Secretaría.
+### CAPITULO I. SUJETOS, CAUSAS, PROCEDIMIENTOS Y SANCIONES DEL JUICIO POLITICO
 
 ###### Artículo 6º.
 
@@ -236,60 +236,6 @@ II. Emitir el Programa, y
 III. Otorgar, suspender, revocar o cancelar, las autorizaciones de establecimientos de los Centros de Verificación.
 
 > <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 7.
-
-La Secretaría tendrá las siguientes atribuciones:
-
-I. Prevenir y controlar la contaminación de la atmósfera proveniente de fuentes móviles;
-
-II. Formular, emitir, conducir, evaluar y actualizar el programa en el Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III. Auxiliar al Titular del Ejecutivo del Estado en el otorgamiento, suspensión, revocación o cancelación de la autorización del establecimiento de los Centros de Verificación;
-
-IV. Aplicar en el ámbito de su competencia las medidas para prevenir y controlar las contingencias ambientales, en los supuestos que se establece y estén previstos en las normas técnicas aplicables, coordinándose para ello con las dependencias correspondientes;
-
-V. Determinar la ubicación de los Centros de Verificación en el Estado;
-
-VI. Requerir la presentación de información, reportes y documentos relativos a la operación de los Centros de Verificación con motivo de las actividades de administración;
-
-VII. Emitir las circulares u oficios necesarios para el debido funcionamiento de los Centros de Verificación;
-
-VIII. Vigilar e Inspeccionar el cumplimiento del Programa;
-
-IX. Autorizar los certificados y demás papelería y documentos entregados a los Centros de Verificación;
-
-X. Establecer y aplicar las sanciones respectivas a quienes no cumplan con lo dispuesto en el presente Reglamento, y
-
-XI. Las demás que conforme a la Ley, el Reglamento y otras disposiciones en materia de emisión de contaminantes le correspondan.
-
-###### Artículo 8.
-
-La Dirección de Tránsito, Transporte y Vialidad tendrá las siguientes atribuciones:
-
-I. Llevar a cabo la inspección y vigilancia a los usuarios de los vehículos, respecto del cumplimiento del Programa y de las obligaciones establecidas en el presente reglamento;
-
-II. Realizar operativos de revisión en la vía pública, con el objeto de que los usuarios de vehículos automotores cumplan con la obligación de llevar a cabo la verificación vehicular en tiempo y forma, y
-
-III. Limitar y, en su caso, suspender la circulación de vehículos automotores cuando estos generen contaminación ostensible o no hayan sido verificados.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Las acciones de inspección, vigilancia y las derivadas de los operativos en la vía pública, se llevarán a cabo de manera conjunta con la Secretaría, la Secretaría de Finanzas y la Secretaría de la Función Públícadel (sic) Gobierno del Estado.
-
-> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 9.
-
-La Secretaria de Finanzas tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-I. Autorizar los montos en relación al cobro del holograma, del certificado y del costo del servicio de verificación vehicular, y
-
-II. Llevar a cabo el cobro por los conceptos anteriores, en su oficina de recaudación de rentas.
 
 ###### Artículo 7º.
 
@@ -325,329 +271,151 @@ VII.- Las violaciones sistemáticas o graves a los planes, programas y presupues
 
 ###### Artículo 10.
 
-Las emisiones de gases contaminantes producidas por los vehículos automotores matriculados en el Estado y los que circulen de paso por el mismo, no deberán exceder los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas aplicables, así como en el Programa.
+En caso de juicio político son aplicables las disposiciones siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+I.- Sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, o dentro de un año después de la conclusión de sus funciones; y
+
+II.- Las sanciones se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+
+III.- El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones, a que se refiere el artículo anterior.
+
+IV.- Si la resolución que se dicte en el juicio político es condenatoria, se sancionará al servidor público con destitución. Podrá también imponerse inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, de uno a diez años.
+
+V.- Cuando los actos que se imputen al encausado tengan carácter delictuoso, el Congreso hará la declaración a que alude la presente Ley.
 
 ###### Artículo 11.
 
-La Secretaría implementará las acciones y medidas de prevención o contingencia inmediata para la preservación y disminución de los niveles de contaminación.
+No procede el juicio político por la mera expresión de ideas.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 12.
 
-El Programa de Verificación Vehicular tiene por objeto determinar los procedimientos, el calendario y especificaciones en las cuales deberá llevarse a cabo la verificación vehicular.
+En el Congreso del Estado se constituirá una Comisión Instructora que se encargará de sustanciar el procedimiento de los juicios políticos, hasta ponerlos en estado de que el Congreso pueda dictar la resolución definitiva.
 
 ###### Artículo 13.
 
-El Programa deberá especificar cuando menos:
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado.
 
-I. La vigencia del mismo;
-
-II. La frecuencia en que deberá llevarse la prueba de verificación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III. El calendario para los vehículos, que podrá hacerse de acuerdo a la terminación de sus placas o de conformidad a la determinación de la Secretaría;
-
-IV. Los requisitos que deberán cumplir los propietarios o poseedores de los vehículos para llevar a cabo la prueba verificación vehicular, y
-
-V. Las sanciones a aplicarse a quien incumpla con el Programa;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2005)</small>
 
 ###### Artículo 14.
 
-El Programa será de carácter obligatorio para aquellos propietarios o poseedores de vehículos automotores, independientemente de la nacionalidad mexicana o extranjera de los vehículos y de la propiedad regular o irregular de los mismos.
+Presentada la denuncia ante la Secretaría General del Congreso y ratificada dentro de tres días naturales, se turnará a la Comisión de Gobernación, Justicia y Puntos Constitucionales, la que determinará:
+
+a).- Si la conducta atribuida corresponde a las enumeradas por el artículo 9º;
+
+b).- Si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2º; y
+
+c).- Si la denuncia es procedente y amerita la incoación del procedimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+En caso contrario la comisión desechará de plano la denuncia presentada.
 
 ###### Artículo 15.
 
-La Secretaría, con la finalidad de prevenir y reducir las emisiones contaminantes, podrá limitar la circulación de los vehículos automotores dentro del Estado, incluyendo aquellos que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes.
+Las denuncias anónimas no producirán ningún efecto.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2005)</small>
 
 ###### Artículo 16.
 
-Quedarán exentos de las limitaciones a que se refiere el artículo anterior, los vehículos cuyo uso se destine a:
-
-I. Servicios médicos;
-
-II. Seguridad pública, y
-
-III. Bomberos y rescate.
+Acreditados los extremos a que se refiere el artículo 14, la Comisión de Gobernación, Justicia y Puntos Constitucionales, turnará la denuncia a la Comisión Instructora, la que practicará todas las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado.
 
 ###### Artículo 17.
 
-Se entenderá que existe una situación de contingencia ambiental, cuando los niveles de concentración de contaminación en la atmósfera pueda (sic) ocasionar peligro en la integridad de uno o varios ecosistemas, sin que ello derive en emergencia ecológica, siempre y cuando tales niveles no excedan los límites que para los fines señalados, se determine en las normas técnicas ecológicas aplicables.
-
-Se entenderá que existe una situación de emergencia ecológica, cuando la concentración de contaminantes en la atmósfera ponga en peligro a uno o varios ecosistemas, de conformidad con las normas técnicas ecológicas aplicables, en virtud de exceder los límites máximos permisibles establecidos en estas.
+Dentro de los tres días naturales siguientes a la recepción de la denuncia por la Comisión Instructora, ésta emplazará al servidor público de que se trate, haciéndole saber su garantía de audiencia y la materia de la denuncia, para que informe sobre ésta, lo que podrá hacer personalmente, a través de su defensor o por escrito, dentro de los siete días naturales siguientes al emplazamiento.
 
 ###### Artículo 18.
 
-Al presentarse una situación de contingencia ambiental o de emergencia ecológica en el territorio del Estado, se aplicarán las siguientes medidas en la circulación de vehículos automotores:
-
-I. Limitar o suspender la circulación vehicular en zonas o vías de comunicación determinadas, incluyendo vehículos destinados a prestar servicio público local o Federal;
-
-II. Restringir la circulación de vehículos automotores atendiendo al modelo del vehículo, tipo, clase o marca, número de placas de circulación y calcomanía por días o periodo determinado, y
-
-III. Retirar de la circulación a los vehículos automotores que no respeten las limitaciones y restricciones establecidas e imponer, las sanciones que procedan conforme a las presentes disposiciones, sin perjuicio de las que se establezcan en el Reglamento de Tránsito o alguna otra disposición.
+La Comisión Instructora, transcurridos los plazos a que se refiere el artículo anterior, abrirá un período de pruebas de treinta días naturales, dentro del cual recibirá las que ofrezcan el denunciante, el servidor público, y su defensor, así como las que la propia Comisión estime necesarias.
 
 ###### Artículo 19.
 
-EL Titular del Ejecutivo del Estado, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de competencia estatal, otorgará la autorización para establecer Centros de Verificación a favor de particulares.
+Si al concluir el término probatorio no hubiere sido posible recibir las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Comisión Instructora podrá ampliarlo discrecionalmente hasta por otros treinta días naturales.
 
 ###### Artículo 20.
 
-Las personas físicas o morales interesadas en obtener la autorización para el establecimiento de un Centro de Verificación, deberán cumplir con los siguientes requisitos:
-
-I. Nombre, denominación o razón social, así como la acreditación de su personalidad jurídica;
-
-II. Copia del Registro Federal de Contribuyentes;
-
-III. Copia certificada por Notario Público del Acta Constitutiva de la empresa donde acredite que dentro de su objeto social tiene la prestación del servicio de verificación vehicular;
-
-IV. Original del acta de nacimiento en el caso de personas físicas, además de acreditar que cuenta con los conocimientos y la capacidad física y económica para prestar el servicio de verificación vehicular;
-
-V. Carta compromiso mediante la cual se comprometa a cumplir con lo establecido en las disposiciones legales en la materia y acredite el buen funcionamiento del Centro de Verificación;
-
-VI. Estados financieros dictaminados, declaración del último ejercicio fiscal y pagos provisionales de impuestos de los tres últimos meses todos en original, elaborados por persona física o moral autorizada para tal fin;
-
-VII. El otorgamiento de fianza;
-
-VIII. Descripción detallada y completa de las características y especificaciones de los equipos de verificación propuestos para realizar la medición de emisiones de vehículos automotores;
-
-IX. Descripción de la plantilla y profesiograma del personal técnico y administrativo propuesto para la operación del centro de verificación;
-
-X. Descripción del mobiliario en general;
-
-XI. Descripción del predio e instalaciones propuestas para la conformación del centro de verificación conforme a un proyecto integral que contenga:
-
-a) Plano arquitectónico o de funcionamiento indicando la superficie de cada área e instalación así como una clara representación de cada una de las actividades que en ella se desarrollen;
-
-b) Copia certificada por Notario Público de la constancia de alineamiento y compatibilidad urbanística expedida por las autoridades municipales competentes en la que se determine la autorización en el uso del suelo como Centro de Verificación a nombre del propietario, persona física o moral, del establecimiento;
-
-c) Dictamen en materia de impacto ambiental, y
-
-XII. Contar con experiencia mínima de tres años en la prestación del servicio de verificación vehicular.
+La Comisión Instructora calificará la pertinencia de las pruebas, desechándose las que a su juicio sean improcedentes.
 
 ###### Artículo 21.
 
-La autorización para el establecimiento de un Centro Vehicular podrá ser transferible por el Titular del Ejecutivo del Estado, siempre y cuando se reúnan los requisitos establecidos en el presente Reglamento y las normas aplicables, por parte del que pretende adquirir dicha autorización.
+Concluido el término probatorio y la prórroga de éste en su caso, se pondrá el expediente a la vista del denunciante, por un plazo de tres días hábiles, y otros tantos a la vista del encausado y su defensor, para tomar apuntes y formular alegatos, los que deberán presentar por escrito dentro de los seis días hábiles siguientes.
 
 ###### Artículo 22.
 
-La vigencia de la autorización será de un año y podrá ser renovada a consideración del Titular del Ejecutivo del Estado. Solo podrá darse por terminada cuando:
-
-I. Se modifiquen las condiciones conforme a las que deberá prestarse el servicio;
-
-II. Concluya el término de la autorización;
-
-III. Proceda la revocación o cancelación de la autorización en los términos del presente Reglamento;
-
-IV. Exista causa de interés público, y
-
-V. El presente Reglamento así lo establezca.
-
-Para efectos de la fracción I de este artículo, el Titular del Ejecutivo del Estado, emitirá las nuevas condiciones otorgándoles sesenta días naturales a los Titulares de la autorización para revalidarlas.
+Transcurrido el plazo para alegar, la Comisión Instructora formulará sus conclusiones en vista de las constancias del procedimiento, analizando la conducta o los hechos imputados y haciendo las consideraciones jurídicas que procedan.
 
 ###### Artículo 23.
 
-Los Centros de Verificación deberán obtener y mantener vigentes las siguientes pólizas:
+La Comisión Instructora, con bases en las constancias del procedimiento, formulará sus conclusiones, que contendrán un proyecto de resolución, en el que se determine:
 
-I. Fianza para garantizar el cumplimiento de las obligaciones establecidas en el presente Reglamento, el Programa, la autorización obtenida y las circulares correspondientes, expedida por compañía autorizada por el equivalente a once mil quinientos días de salario mínimo general vigente, y
+I.- Si está legalmente comprobada o no la conducta o el hecho materia de la denuncia;
 
-II. Seguro que ampare la constancia de verificación que se utilice en el Programa vigente, contra los riesgos de incendio, inundación, robo con violencia y/o asalto, considerando que el valor unitario deberá ser de tres días de salario mínimo general vigente, por un monto total y cantidad que se considere conveniente. La vigencia de este seguro deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
+II.- Si existe o no responsabilidad del encausado; y
+
+III.- En su caso la sanción que a su juicio deba imponerse.
 
 ###### Artículo 24.
 
-Quienes realicen verificaciones de vehículos automotores y entreguen los documentos que acrediten su aprobación sin contar con la autorización correspondiente, serán sancionados en los términos establecidos en la Ley aplicable.
+Una vez emitidas las conclusiones de la Comisión Instructora se citará, dentro de los tres días siguientes, a una sesión plenaria del Congreso, para resolver sobre la denuncia presentada.
 
 ###### Artículo 25.
 
-Sin perjuicio de las sanciones que se puedan imponer a los Centros de Verificación, será revocada la autorización cuando:
-
-I. Se realicen pruebas trampeadas con la finalidad de modificar los resultados para lograr la aprobación de emisiones de algún vehículo, tales como:
-
-a) Alterar el equipo o la toma de la muestra;
-
-b) Verificar un vehículo para aprobar otro;
-
-c) Capturar la información de identidad de un vehículo que no corresponda al que realmente efectuó la prueba, y
-
-d) Usar cualquier dispositivo o sistema no autorizado.
-
-II. Se alteren las tarifas autorizadas;
-
-III. Transcurrido el plazo fijado por la autoridad competente no se hubieren subsanado las causas de la suspensión de la autorización;
-
-IV. El Titular de la autorización deje de tener la capacidad o las condiciones técnicas necesarias para la debida prestación del servicio;
-
-V. Se incumpla con las obligaciones señaladas en el presente Reglamento, y
-
-VI. Se hubiere suspendido la autorización en dos ocasiones o más en un lapso de dos años.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+En la sesión plenaria a que se refiere el artículo anterior, el Congreso se erigirá en Gran Jurado, la Secretaría del mismo dará lectura a las constancias procesales que se estimen procedentes y a las conclusiones de la Comisión Instructora y acto continuo dictará la resolución que corresponda.
 
 ###### Artículo 26.
 
-Los Centros de Verificación autorizados deberán mantener sus instalaciones y equipos en óptimas condiciones de operación que garanticen la adecuada prestación de sus servicios; de conformidad con lo establecido en la Ley, el presente Reglamento, el Programa y el Manual de Imagen que al efecto emítala (sic) Secretaría.
+Si el Congreso resolviese que no procede la acusación, el servidor público continuará en el ejercicio de su cargo y no podrá ser sujeto nuevamente a juicio político por los mismos hechos.
 
 ###### Artículo 27.
 
-El personal de los Centros de Verificación que lleve a cabo la verificación vehicular deberá contar con la capacitación adecuada que le permita el debido cumplimiento de sus funciones.
+El Decreto que contenga la sentencia, independientemente de su publicación en el Periódico Oficial del Estado, se notificará al encausado, a su defensor y al poder que corresponda.
 
-### Capítulo III. Del Programa
+### CAPITULO II. PROCEDIMIENTOS PARA LA DECLARACION DE PROCEDENCIA
 
 ###### Artículo 28.
 
-Los Centros de Verificación están obligados a:
+Para proceder penalmente en contra de los servidores públicos a que se refiere el artículo 126 de la Constitución Política del Estado y el 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior, en materia de juicio político ante el Congreso del Estado; y se aplicarán las siguientes disposiciones:
 
-I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en este Reglamento, las Normas Oficiales Mexicanas, el Programa, autorización y Circulares correspondientes;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2005)</small>
 
-II. Que el personal del centro de verificación esté debidamente capacitado;
+I.- Si a juicio de la Comisión de Gobernación, Justicia y Puntos Constitucionales, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+II.- La Comisión Instructora, en su caso practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya privación se solicita.
 
-III. Mantener sus instalaciones y equipos calibrados en las condiciones requeridas porla (sic) Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular,
+III.- Concluida la averiguación a que se refiere la fracción anterior, la Comisión Instructora dictaminará si ha lugar a proceder penalmente en contra del inculpado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+IV.- La Comisión Instructora, deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma y en este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
 
-IV. Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en estos, reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, o realizar actividades comerciales o de servicios sin avisoa (sic) la Secretaria;
-
-V. Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada como soporte de las verificaciones vehiculares;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VI. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos en los términos fijados por ésta;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VII. Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VIII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-IX. Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-X. Enviar a la Secretaría en los términos establecidos por ésta, la documentación e información requerida para la supervisión y control de la verificación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XI. Mantener durante las horas de funcionamiento a un representante y recibir las verificaciones administrativas que ordene la Secretaríaencualquier (sic) momento;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XII. Que sus establecimientos cuenten con los elementos distintivos determinados por la Secretaría;
-
-XIII. Cobrar las tarifas autorizadas por la prestación del servicio de verificación vehicular;
-
-XIV. Mantener en vigor la fianza y el seguro correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XV. Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada porla (sic) Secretaría, de lo contrario abstenerse de proporcionar el servicio.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Cuando los Centros de Verificación incumplan con alguna de las normas establecidas en el presente Reglamento, la Secretaríapodrá (sic) iniciar el procedimiento administrativo de revocación de la autorización, con base en la documentación e información que proporcionen o con la que disponga la Secretaría.
+V.- Dada cuenta con el dictamen correspondiente, el Congreso se erigirá en Jurado de Procedencia y conocerá en Asamblea Plenaria del dictamen que la Comisión le presente y, actuando en los mismos términos previstos por el artículo 25 en materia de juicio político y en lo conducente, se resolverá lo que corresponda.
 
 ###### Artículo 29.
 
-Se cancelará la autorización del establecimiento del Centro de Verificación cuando el Titular de la autorización renuncie a seguir operándolo.
+Si el Congreso resuelve, por el voto aprobatorio de las dos terceras partes de sus integrantes, que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes.
 
 ###### Artículo 30.
 
-El certificado de verificación vehicular deberá tener la siguiente información:
-
-I. Fecha de la verificación vehicular y número de folio de la constancia;
-
-II. Identificación del prestador de servicios autorizado y de quien efectuó la verificación vehicular;
-
-III. Indicación de las normas oficiales o técnicas ecológicas locales aplicadas en la verificación vehicular;
-
-IV. La vigencia del certificado;
-
-V. Determinación del resultado de la verificación vehicular;
-
-VI. Marca, tipo, año, modelo, número de placas de circulación, del vehículo de que se trate, y
-
-VII. Las demás que señalen las normas oficiales, el Programa, la autorización y circulares respectivas.
+Si el Congreso resuelve que no ha lugar a proceder contra el inculpado, no podrá seguirse, por los mismos hechos, ningún procedimiento ulterior, mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
 
 ###### Artículo 31.
 
-El original del certificado se entregará al propietario o poseedor del vehículo, adhiriendo inmediatamente, el holograma respectivo en un lugar visible del vehículo.
+Cuando se siga proceso penal a un servidor público de los mencionados en el artículo 126 de la Constitución del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, de esta Ley de Responsabilidades, la Secretaría del Congreso del Estado o la Comisión Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
-### Capítulo IV. De las Contingencias y las Limitaciones de la Circulación
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS I Y II DEL TITULO SEGUNDO
 
 ###### Artículo 32.
 
-El Titular de la autorización para operar el Centro de Verificación, contratará bajo su responsabilidad al personal suficiente para llevar a cabo las pruebas de verificación vehicular. Asimismo, tendrá la obligación de capacitar al personal obligándolo a cumplir cabalmente con las disposiciones contenidas en el presente Reglamento, el Programa y las demás disposiciones aplicables.
+Las declaraciones y resoluciones definitivas del Congreso del Estado no admiten recurso alguno.
 
 ###### Artículo 33.
 
-Los Centros de Verificación autorizados, deberán contar con las siguientes condiciones de instalación:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-I. La distribución y forma geométrica del área de servicio deberán ser adecuadas a fin de brindar un servicio de calidad, contando con las vías de acceso necesarias para atender una demanda actual de emergencia;
-
-II. El terreno del centro de verificación deberá estar compactado y pavimentado con riesgo de sello, evitando que el polvo pueda dañar los equipos. El área de servicio donde se realice la verificación deberá estar techada. La superficie total del terreno deberá tener como mínimo 300 metros cuadrados;
-
-III. El Centro de Verificación deberá disponer mínimo con una entrada y una salida de vehículos, tomando en cuenta las dimensiones de vehículos particulares y de carga, así como la afluencia vehicular alrededor del mismo;
-
-IV. En caso de disponer de una sola vía de acceso, esta deberá tener las dimensiones suficientes para permitir la entrada y salida simultánea de dos vehículos;
-
-V. El Centro de Verificación podrá disponer de una o más vías de acceso para la verificación, siendo indispensable disponer de todos los aparatos, necesarios para cada una de las vías instaladas;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VI. Los Centros de Verificación estarán situados en las zonas que previamente determínela (sic) Secretaría, al paso de avenidas o calles de tránsito fluido, debiendo en su caso acondicionar lo necesario para el fácil acceso, tomando en cuenta que no deberán obstaculizar la circulación del resto del tráfico vehicular, tanto en el interior como en el exterior;
-
-VII. Los Centros de Verificación deberán reunir en sus instalaciones las condiciones de seguridad en su operación, deberán estar debidamente ventilados para que los humos y gases emitidos por los vehículos en proceso de verificación sean disipados y no lleguen a acumularse, evitando así posibles riesgos de contaminación local y sus efectos consiguientes, además de cumplir con las recomendaciones que al respecto emitan las autoridades de protección civil en el Estado;
-
-VIII. Los equipos deberán estar fijos y permanecer siempre en el Centro de Verificación;
-
-IX. Los Centros de Verificación dispondrán del mobiliario y los elementos materiales indispensables para realizar las actividades administrativas conexas con el servicio de verificación, como la recepción de clientes, identificación de vehículos con la tarjeta de circulación, extensión de los certificados, resguardo y manejo de hologramas;
-
-X. Los Titulares de las autorizaciones están obligados a mantener limpias las instalaciones y a colocar los letreros y señalamientos que indiquen que dichas instalaciones corresponden a un Centro de Verificación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XI. Colocar en lugar visible las cuotas o tarifas autorizadas, flechas de señalamiento con el sentido de tránsito vehicular, letreros de entradas y salidas, baños, indicaciones si es un Centro de Verificación para vehículos con motor a gasolina o diesel o si se prestan los dos tipos de verificación, el calendario de verificación, así como la autorización expedida por la Secretaría;
-
-XII. Los Centros contarán para su operación con una luminosidad mínima de 600 luxes y dispondrán de tomas de corriente eléctrica a 110 volts;
-
-XIII. Deberá establecerse un letrero donde se informe los límites máximos permisibles de contaminantes para vehículos automotores;
-
-XIV. Deberá establecerse un letrero de notificación al público de sugerencias y quejas del servicio de verificación, en el que se indiquen los datos de las Dependencias a las que pueda acudir;
-
-XV. El equipo debe estar completo para cada una de las vías o líneas de atención disponibles;
-
-XVI. Contar con gases de calibración para cada uno de los equipos autorizados;
-
-XVII. Refracciones de sondas, filtros y puntas para los equipos de verificación;
-
-XVIII. Mobiliarios suficiente (sic) para cada una de las áreas que lo requieran;
-
-XIX. Botiquín de primeros auxilios;
-
-XX. Deberán contar con los servicios de agua potable, energía eléctrica, drenaje sanitario, teléfono y fax, entre otros;
-
-XXI. Extinguidores, que deberán colocarse cerca del equipo autorizado, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XXII. Estacionamiento suficiente para los usuarios.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Cuando alguna de las Comisiones o el Congreso estimen necesario examinar al inculpado, se le citará para que comparezca personalmente, apercibiéndolo que de no comparecer se entenderá que contesta en sentido negativo.
 
 ###### Artículo 34.
 
-El Centro de Verificación deberá contar con el personal técnico debidamente capacitado y autorizado previamente porla (sic) Secretaría, así como con el personal administrativo suficiente.
-
-Las relaciones laborales que contraigan los propietarios de los Centros de Verificación y sus trabajadores, deslindana (sic) la Secretaría y al Gobierno del Estado de toda responsabilidad laboral, civil, penal o administrativa a que pudiera dar lugar.
+Se entenderá que el acusado ha contestado en sentido negativo cuando habiéndolo requerido alguna de las Comisiones o el Congreso, para que informe por escrito sobre uno o varios hechos, no lo hiciere dentro del plazo que se le fije.
 
 ## TRANSITORIOS
 
@@ -683,155 +451,185 @@ Tercero. Se deroga el Reglamento de la Ley de Fomento para el Desarrollo Económ
 
 ###### Artículo 35.
 
-Los Centros de Verificación contarán con los equipos para otorgar el servicio a los vehículos de gasolina, gas o diesel, con capacidad para analizar Monóxido de Carbono (CO), hidrocarburos (HC), bióxido de carbono (CO2), oxigeno (O2) y Oxido de Nitrógeno (NOx).
-
-Asimismo, deberán contar con el equipo necesario para realizar las pruebas de verificación vehicular utilizando el procedimiento de la prueba dinámica con dinamómetro de carga variable para medir las emisiones descritas en el párrafo anterior.
+Las Comisiones practicarán todas las diligencias necesarias para la integración del expediente respectivo, que permita ilustrar con claridad al órgano de decisión.
 
 ###### Artículo 36.
 
-Para el servicio de vehículos con motor a diesel, los Centros de Verificación deberán contar con los aparatos medidores de la opacidad de humos, así como tacómetro para la medición de revoluciones.
+Las comunicaciones oficiales que deban girarse para la práctica de diligencias, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo.
 
 ###### Artículo 37.
 
-Los Centros de Verificación deberán cumplir con las disposiciones emitidas por el Instituto en materia de aseguramiento de calidad. Los elementos mínimos necesarios para asegurar la calidad en el servicio de verificación deben ser los siguientes:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-I. Grabación en video de todas y cada una de las verificaciones que se realicen. Grabación que almacenarán para ser proporcionadaa (sic) la Secretaría cuando éste así lo solicite;
-
-II. Conteo electrónico del número de vehículos que ingresan, verifican y salen del Centro de Verificación, así como el tiempo que cada uno de ellos permanece en la línea de verificación (Sistema Electrónico de Aforo Vehicular);
-
-III. Almacenar y entregar semestralmente las bases de datos que se generan durante cada una de las verificaciones vehiculares, misma que deberá presentarse en disco compacto;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-IV. Auditoría de calibración de los equipos analizadores de gases y opacímetros, que deberá realizarse cada treinta días naturales, cuyos resultados se deberán informar antela (sic) Secretaría dentro de los cinco días siguientes a su elaboración, en términos de lo que establezca el Programa;
-
-V. Bitácoras foliadas y actualizadas de la operación general del centro de verificación y de mantenimiento por cada equipo analizador con el objeto de llevar el seguimiento de la operación, así como de los incidentes presentados diariamente;
-
-VI. Contar con imagen interior y exterior en óptimas condiciones, así como los señalamientos de información y seguridad de acuerdo al manual de imagen;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VII. Reportes semanales escritos en donde se consigne el resultado y soporte documental de las verificaciones efectuadas por los Centros de Verificación, mismos que deben ser entregados a la Secretaría;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VIII. Buzón de quejas y sugerencias del servicio, así como el panel de avisos de la Secretaría a la vista del público;
-
-IX. Impedir la permanencia dentro del Centro de Verificación de cualquier persona que no esté plenamente identificada y acreditada por la autoridad ambiental a excepción de los propietarios o poseedores de los vehículos a verificar, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-X. Las demás que establézcala (sic) Secretaría.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Los soportes documentales, una vez revisados y contabilizados, se mantendrán en almacenamiento y bajo resguardo de los Centros de Verificación hasta que les sea requerido porla (sic) Secretaría.
-
-### Capítulo IV. Del Funcionamiento
+Cuando esta Ley no señale término se tendrá como tal el de tres días hábiles.
 
 ###### Artículo 38.
 
-El Centro de Verificación comenzará a prestar el servicio en un término máximo de treinta días hábiles a partir de la expedición de la autorización.
+La Comisión respectiva o el Congreso, cuando se trate de diligencias que deban efectuarse fuera de lugar de residencia de éste, solicitará al Tribunal Superior de Justicia del Estado que las encomienden al Juez que corresponda, para que se practiquen dentro de su jurisdicción, a cuyo efecto se remitirá a dicho Tribunal Superior de Justicia el testimonio de las constancias conducentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-En caso de no prestar el servicio en el término mencionado, sin haberse acreditado antela(sic) Secretaría la causa de fuerza mayor, se procederá a la cancelación de la autorización.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El Juez practicará las diligencias que se le encomienden al respecto, con estricta sujeción a las determinaciones que le comunique el Tribunal en auxilio del Congreso del Estado.
 
 ###### Artículo 39.
 
-Para estar en condiciones de operar, el titular de la autorización del centro de Verificación deberá tramitar ante la Secretaria de Finanzas la adquisición y el pago del monto de los hologramas y los certificados.
+Tanto el inculpado como el denunciante o querellante, podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión respectiva o ante el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren la Comisión, o el Congreso del Estado, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la Capital del Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
+
+Por su parte, la Comisión o el Congreso del Estado solicitarán las copias certificadas de constancias que estime necesarias para el procedimiento, y si la autoridad de quien las solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
 
 ###### Artículo 40.
 
-La cantidad y periodicidad de entrega de los hologramas y certificados dependerá de la cantidad de verificaciones realizadas.
+Las Comisiones o el Congreso del Estado podrán solicitar por sí, o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la Autoridad de quien se solicite tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección establecida en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejarse copia certificada de las constancias que las Comisiones o el Congreso del Estado estimen pertinentes.
 
 ###### Artículo 41.
 
-La Secretaría de Finanzas deberá expedir los recibos correspondientes por la compra de certificados y hologramas.
+No podrán votar en ningún caso los Diputados que hubiesen presentado la imputación contra el servidor público, ni aquéllos que hayan aceptado el cargo de defensor, aún cuando lo renuncien después de haber comenzado a ejercerlo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
 
 ###### Artículo 42.
 
-Si al término del periodo de verificación, al Centro de Verificación le quedaran hologramas y certificados, podrá cambiarlos por los vigentes pagando en su caso los derechos en proporción.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+En todo lo no previsto en el Título Segundo de esta Ley, en relación con las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución del Estado y la Ley Orgánica y Reglamentaria del Poder Legislativo, para discusión y votación de las Leyes. En todo caso, las votaciones deberán ser nominales para formular, aprobar o reprobar las conclusiones o dictámenes de las Comisiones y para resolver incidental o definitivamente en el procedimiento.
 
 ###### Artículo 43.
 
-La Secretaría de Finanzas deberá reponer al Centro de Verificación los certificados y hologramas que tengan defecto de fabricación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones del Congreso se tomarán en sesión pública, excepto cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
 ###### Artículo 44.
 
-En el supuesto caso de que la documentación se deteriore por causas imputables a las actividades propias del centro de verificación, se deberá informara (sic) la Secretaría para la cancelación de la misma mediante el levantamiento de un acta que haga constar el hecho.
+Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en el artículo 125 de la Constitución Política del Estado, se presentare nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
 ###### Artículo 45.
 
-El Centro de Verificación deberá presentar un informe mensual de actividadesa (sic) la Secretaría con los datos e información que al efecto indique el reporte estadístico, incluyendo la documentación comprobatoria de los vehículos verificados.
-
-En caso de presentarse anomalías por inconsistencias, faltantes u otras omisiones, podrá retenerle la entrega de papelería oficial que incluye certificados de aprobación, comprobantes de entrega, hologramas, hasta en tanto no sean solventadas las anomalías a juicio de la Secretaría.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Las Comisiones y el Congreso del Estado podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
 
 ###### Artículo 46.
 
-Los Centros de Verificación deben archivar las copias de los certificados de los vehículos verificados y conservarlos por dos años para consulta, investigación judicial o respaldo jurídico, debiendo mostrarlas a la Secretaría cuando seanrequeridas (sic).
+Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arreglo a esta Ley, se comunicarán al Presidente del Tribunal Superior de Justicia de la Entidad, si se tratase de alguno de los integrantes del Poder Judicial Estatal; y en todo caso al Ejecutivo Local para su conocimiento y efectos legales, y para su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 47.
 
-El Centro de Verificación tendrá que funcionar todos los días hábiles del año, cubriendo un horario mínimo de ocho horas.
+Recibida por el Congreso del Estado la notificación de las declaratorias de las Cámaras del Congreso de la Unión relativa al Gobernador del Estado, Diputados Locales y Magistrados del Tribunal Superior de Justicia de la Entidad, a que se refiere el artículo 111 de la Constitución General de la República, procederá como lo dispone la presente Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-En caso excepcional y haciendo del conocimiento a la Secretaría, podrá prestar el servicio en días inhábiles.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
 
 ###### Artículo 48.
 
-Para poder prestar el servicio a los vehículos que acudan a realizar el servicio extemporáneo, el responsable del Centro de Verificación le comunicará al conductor que deberá pagar la multa que establece la Ley de Ingresos vigente y este Reglamento, en caso de que no acepte se le hará del conocimiento la negativa de la prestación del servicio.
+En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Tercero de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos en Materia de Defensa Social del Estado. Asimismo, se aplicarán en lo conducente, las del Código de Defensa Social del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+## TITULO TERCERO. RESPONSABILIDAD (SIC) ADMINISTRATIVAS
 
-## TÍTULO TERCERO. DE LA MATRICULACIÓN
-
-### Capítulo I. De la Integración de la Matrícula Vehicular
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-### Capítulo I. De los Centros de Verificación
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+### CAPITULO I. SUJETOS Y OBLIGACIONES DEL SERVIDOR PUBLICO
 
 ###### Artículo 49.
 
-Los Centros de Verificación que lleven a cabo la prestación de servicios distintos a lo señalado en el presente Reglamento, serán acreedores a las sanciones que al efecto se establezcan.
-
-### Capítulo V. Del Procedimiento para la Verificación de Vehículos
+Incurren en responsabilidad administrativa los servidores públicos que no cumplan una o más de las obligaciones que con ese carácter tienen, motivando la instrucción del procedimiento administrativo ante los órganos disciplinarios y la aplicación de sanciones que en esta Ley se establecen.
 
 ###### Artículo 50.
 
-Para solicitar el servicio de la verificación vehicular, el propietario o poseedor del vehículo deberá presentar al personal del Centro de Verificación la tarjeta de circulación del vehículo, o en su defecto, un documento que ampare la identidad de éste.
+Los servidores públicos para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que han de observarse en el servicio público, independientemente de las obligaciones específicas que corresponda a su empleo, cargo o comisión, tendrán las siguientes:
+
+I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
+
+II.- Formular y ejecutar los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y otras normas que determinen el manejo de recursos económicos públicos;
+
+III.- Utilizar exclusivamente para los fines a que estén afectos, los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que le sean atribuidas o la información reservada que obtengan con motivo de sus funciones;
+
+IV.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve a su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, sustracción, destrucción, ocultamiento o inutilización indebida de aquéllas;
+
+V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de aquéllos;
+
+VI.- Tratar debidamente y con decencia a sus subalternos;
+
+VII.- Respetar a sus superiores, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+VIII.- Comunicar por escrito al titular las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 1995)</small>
+
+IX.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluido el periodo para el cual se le asignó o después de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones. Debiendo en todo caso entregar a quien su superior jerárquico designe o a quien legalmente deba sustituirlo, todos los recursos patrimoniales que haya tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones en un término no mayor de cinco días hábiles, contados a partir de la fecha de su separación, debiendo levantarse acta administrativa circunstanciada ante el órgano de control que corresponda.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2012)</small>
+
+IX BIS.- Atender las instrucciones, requerimientos y resoluciones que reciban de los órganos de control y fiscalización.
+
+Para el caso de servidores públicos que hayan concluido su cargo, que por cualquier razón hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio, o aplicación de recursos, fondos, bienes o valores públicos municipales Estatales o Federales, deberán estar a lo dispuesto en esta fracción hasta que se hubiere aprobado la cuenta pública o se haya emitido resolución correspondiente.
+
+X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de tres días continuos o quince discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando no estén justificadas;
+
+XI.- Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la Ley le prohiba;
+
+XII.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la Autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+
+XIII.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+XIV.- Informar por escrito al jefe inmediato y en su caso, al superior jerárquico, sobre la atención, trámite o resolución de los asuntos a que se refiere la fracción anterior y que sean de su conocimiento; y observar sus instrucciones por escrito sobre esos asuntos cuando el servidor público no pueda abstenerse de intervenir en ellos;
+
+XV.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero y bienes, mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII, y que procedan de cualquier persona física o jurídica cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo cargo o comisión;
+
+XVI.- Desempeñar su empleo, cargo o comisión sin obtener o pretender beneficios adicionales a las contraprestaciones que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIII;
+
+XVII.- Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a que se refiere la fracción XIII;
+
+XVIII.- Presentar con oportunidad y veracidad la declaración de situación patrimonial ante la Secretaría en los términos que señala la Ley;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la autoridad competente, conforme a esta Ley;
+
+XX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público.
+
+XXII.- Abstenerse los servidores del Estado y los del Municipio, de ejercer incorrectamente las atribuciones que específicamente les confiere la Ley de Desarrollo Urbano al formular, aprobar y administrar los Planes y Programas Estatales y Municipales de Desarrollo, aplicables a los centros de población ubicados dentro del territorio sobre el que ejerzan sus atribuciones; y
+
+XXIII.- Las demás que le impongan las Leyes y Reglamentos.
 
 ###### Artículo 51.
 
-El procedimiento para llevar a cabo la prueba de verificación, será a través de la prueba dinámica, salvo para aquellos vehículos que por sus características mecánicas sea imposible aplicarles ese procedimiento, en este supuesto, deberán someterse a la prueba estática.
+Para los efectos de esta Ley, se entenderá:
 
-### Capítulo II. De las Condiciones de Instalación y Ubicación de los Centros de Verificación
+I.- Por Secretaría, la Secretaría de la Contraloría General del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+II.- Por Poder Legislativo; el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Por Poder Judicial; el Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- Por Superior Jerárquico:
+
+a).- En el Poder Ejecutivo; al Titular de la Dependencia o Entidad correspondiente;
+
+b).- En los Ayuntamientos, al Presidente Municipal;
+
+c).- En el Poder Legislativo; el que determine su propia Ley Orgánica; y
+
+d).- En el Poder Judicial; el que determine su propia Ley Orgánica.
+
+### CAPITULO II. PROCEDIMIENTOS ADMINISTRATIVOS Y SANCIONES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 52.
 
-Al practicar la prueba de verificación, el personal del Centro de Verificación debe cerciorarse que los aditamentos externos e internos de los equipos de medición estén en adecuadas condiciones de operación de conformidad con el procedimiento de inspección visual descrito en la Norma Oficial aplicable.
+La Secretaría, los Ayuntamientos y los Organos que determinen las leyes, en el ámbito de sus respectivas competencias, establecerán unidades específicas que dependerán del órgano de control correspondiente, a las que el público tenga fácil acceso para presentar quejas y denuncias por incumplimiento de las obligaciones de los Servidores Públicos que establece la presente Ley, con las que se iniciará en su caso el procedimiento correspondiente.
 
 ###### Artículo 53.
 
-La prueba de verificación se realizará a través de la lectura de emisiones de gases contaminantes emitidas por el escape de los vehículos automotores sujetos al presente Reglamento.
+La Secretaría establecerá las normas y procedimientos para que las denuncias del público sean atendidas y resueltas con eficiencia, salvo las relativas a las quejas contra servidores municipales, que serán dictadas por los Ayuntamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 53 Bis.
 
@@ -849,411 +647,405 @@ IV.- Si se cuenta con elementos que hagan probable responsabilidad del Servidor 
 
 ###### Artículo 54.
 
-Una vez analizadas las emisiones del vehículo, el personal del Centro de Verificación, extenderá el certificado y adherirá el holograma respectivo al vehículo en un lugar visible. Por ningún motivo, el Titular de la autorización o los encargados del Centro de Verificación podrán entregar el holograma en mano del usuario.
+La Secretaría, los Ayuntamientos, así como todos los Servidores Públicos, tienen obligación de respetar y hacer respetar el derecho a la formulación de las quejas y denuncias a las que se refieren los artículos anteriores, y evitar que con motivo de éstas se causen molestias indebidas al quejoso.
 
 ###### Artículo 55.
 
-Para efectos de control e inspección de los automotores respecto del cumplimiento del Programa,la (sic) Secretaría en coordinación con la Secretaría de Finanzas, accederá a la base de datos que ésta última posee, sobre la matriculación de los vehículos.
+Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, impida al quejoso la formulación o presentación de quejas o denuncias, o lesione los intereses de quienes las formulen o presenten.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 56.
 
-Los vehículos que no se encuentren inscritos en la base de datos a que se hace referencia en el artículo anterior, deberán matricularse para los efectos referidos.
+El Poder Legislativo y el Poder Judicial, establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 50 de esta Ley, así como para imponer y ejecutar las sanciones establecidas en el presente capítulo en los términos de la Ley Orgánica correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 57.
 
-Los propietarios o poseedores de vehículos no regularizados o no matriculados, con residencia en el Estado de Zacatecas, deberán acudir a las dependencias que la Secretaría les indique para integrarse a la Matriculación.
+Los Servidores Públicos de la Secretaría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el Artículo 50 de esta Ley, serán sancionados conforme al presente capítulo por la Unidad Administrativa de la propia dependencia facultada para ello.
 
 ###### Artículo 58.
 
-La verificación de la inscripción a la Matrícula compete a la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
+Las sanciones por responsabilidad administrativa consistirán en:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+I.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+II.- Amonestación privada o pública;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Suspensión hasta por seis meses;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- Destitución del empleo, cargo o comisión;
+
+V.- Sanción económica;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VI.- Inhabilitación temporal hasta por doce años, para desempeñar empleos, cargos o comisiones en el servicio público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños o perjuicios, ésta será de uno a cinco años si el monto de aquellos no excede del equivalente a cien veces el salario mínimo mensual vigente en el Estado, y de cinco a doce años si excede de dicho límite.
 
 ###### Artículo 59.
 
-La operación e integración de la base de datos de la Matriculación será responsabilidad de la Secretaría. Esta se integrará con los datos que proporcionen los interesados, relativos a la identificación del propietario, domicilio y características de las unidades vehiculares. La información proporcionada por los propietarios o poseedores será reservada y confidencial salvo que una autoridad competente lo solicite.
+Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+I.- La responsabilidad en que incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
+
+II.- Las circunstancias socioeconómicas del servidor público;
+
+III.- El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+IV.- Las condiciones exteriores y los medios de ejecución;
+
+V.- La antigüedad en el servicio;
+
+VI.- La reincidencia en el incumplimiento de obligaciones; y
+
+VII.- El monto del beneficio, daño o perjuicio económico derivado del incumplimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 60.
 
-La Secretaría administrará la información de la Matriculación en coordinación con la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas.
+En caso de imposición de sanciones económicas, por beneficios obtenidos, daños o perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 50 de esta Ley, el monto de ellas será, hasta dos tantos del lucro obtenido y de los daños o perjuicios causados, independientemente de la restitución que deberá hacer el infractor del bien obtenido.
 
 ###### Artículo 61.
 
-Para los efectos de la Matriculación, se entiende por:
+Se otorgará un plazo máximo de tres años, para que el servidor público pague la sanción económica que se le imponga; pero en ningún caso, los pagos que se convengan dejarán al servidor con una percepción inferior al salario mínimo vigente en la zona económica donde labore.
 
-I. Cédula: El Engomado que contiene el número de registro asignado;
-
-II. Propietario: A quien acredita tal calidad con documentos indubitables;
-
-III. Poseedor: A quien detente el bien mueble al momento de la inscripción con documentos indubitables, y
-
-IV. Vehículo: La unidad auto motor de procedencia extranjera no regularizado cuyo propietario o poseedor radique en el Estado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 62.
 
-Serán apoyo para la integración de la Matriculación, la Secretaría de Finanzas y la Dirección de Transporte, Tránsito y Vialidad del Estado de Zacatecas de la Secretaría de Seguridad Pública.
+Para la imposición y ejecución de las sanciones a que se refiere el Artículo 58, se deberán observar las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+I.- La amonestación, la suspensión, la destitución e inhabilitación del empleo, cargo o comisión de los Servidores Públicos se impondrán por la autoridad competente y se ejecutarán por el Superior Jerárquico;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+II.- Las sanciones económicas constituirán créditos fiscales, y serán impuestas por la autoridad competente, ejecutándose en los términos que establecen las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere el Artículo 58, corresponde al Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- Respecto a los Servidores Públicos Municipales distintos a los indicados en la fracción anterior, corresponde imponerlas al Contralor Municipal y ejecutarlas al Ayuntamiento por conducto del Presidente Municipal o al Titular de la Unidad administrativa correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+V.- El Superior Jerárquico deberá ejecutar las sanciones administrativas impuestas por la Autoridad respectiva en un término de treinta días naturales, contados a partir de la fecha de su notificación.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VI.- Cuando el Superior Jerárquico, en términos de esta Ley, no ejecute las sanciones administrativas impuestas, en un término de treinta días naturales contados a partir de la fecha de su notificación, la Autoridad competente cuando lo considere necesario, podrá ejecutar tales sanciones.
+
+VII.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+VIII.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+IX.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 63.
 
-La Secretaria de Finanzasauxliliará (sic) a la Secretaría, a través de sus recaudaciones de rentas, para efectuar el trámite de la Matriculación y de la validación de los documentos, además de verificar que no haya sido registrado ante el padrón vehicular estatal con anterioridad.
+Todo Servidor Público deberá denunciar por escrito o mediante comparecencia directa ante la Secretaría u Organo de Control que corresponda, los hechos que sean causa de Responsabilidad Administrativa, imputables a Servidores Públicos, en términos de la presente Ley.
+
+En el Poder Ejecutivo, el Superior Jerárquico enviará a la Secretaría, copias de las denuncias cuando se trate de hechos que puedan constituir algún tipo de delito o cuando en su concepto, y habida cuenta de la naturaleza de los hechos denunciados, dicha Secretaría deba conocer del caso o participar en las investigaciones.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 64.
 
-El trámite de Matriculación tendrá un costo de veinticinco cuotas de salario mínimo general aplicable en la Entidad, este aprovechamiento será pagado a través de las recaudaciones de rentas del Estado.
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, impondrán y ejecutarán las sanciones correspondientes a los Titulares y personal de los Organos de Control cuando éstos incurran en responsabilidad administrativa.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-La matriculación tendrá vigencia hasta el 31 de diciembre del año en que se efectué el trámite y deberá ser refrendado dentro los primeros tres meses de cada año, cuyo costo será el mismo que se precisa en el párrafo inmediato anterior.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 65.
 
-La Secretaría de Finanzas tendrá la obligación de proporcionar a la Secretaríay (sic) a la Dirección de Transporte, Tránsito y Vialidad, el padrón levantado con motivo de la Matriculación.
+La Secretaría y los Titulares de las Dependencias y Entidades, que tengan conocimiento de hechos que impliquen responsabilidad penal, deberán dar vista de ello a la Autoridad competente para conocer del ilícito.
+
+Cuando se trate de Servidores Públicos Municipales, el Síndico Municipal dará vista a la autoridad competente en el caso.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 66.
 
-La Matriculación tiene por objeto la identificación y control vehicular en el Estado para efectos de emisión de contaminantes al medio ambiente, en el que deberá de constar inscripción, baja, altas, infracciones, robos, recuperación o destrucción de los vehículos.
+Si de las auditorías que realice la Secretaría, los Organos de Control que determinen las Leyes y los Ayuntamientos, apareciera probable responsabilidad de Servidores Públicos, procederán en el ámbito de su respectiva competencia, conforme al artículo 68 de la presente Ley.
+
+Lo anterior, sin perjuicio de lo establecido en el Artículo 53 de esta Ley.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 67.
 
-El alta en la Matriculación será una obligación para los propietarios o poseedores de vehículos, así como los movimientos que se realicen con motivo de la operación y funcionamiento de dicho registro.
+La Autoridad competente podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado por éste, no exceda de cien veces el salario mínimo diario vigente en la capital del Estado.
 
 ###### Artículo 68.
 
-La matriculación de vehículos, se llevará a cabo con el siguiente procedimiento:
+La autoridad competente para imponer las sanciones administrativas, se sujetarán al siguiente procedimiento:
 
-I. El Propietario o poseedor acompañará a la solicitud de matriculación los requisitos para dicho efecto; la recaudación de rentas hará la validación de la documentación, integración de la base de datos, verificación física de la unidad y cobro del aprovechamiento, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-II. La investigación y seguimiento a los vehículos que hayan cumplido los requisitos señalados para verificar su situación legal en el país se hará por parte de la Procuraduría General de Justicia del Estado de Zacatecas y en caso de existir condiciones jurídicas, se procede a su matriculación.
+I.- Citará al probable responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo el desahogo de la misma, y su derecho a ofrecer pruebas y alegar en dicha audiencia lo que a sus intereses convenga, por sí o por medio de un defensor.
 
-> <small>(REFORMADO PROEMIO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Entre la fecha de citación y la de audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días naturales;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+II.- Desahogada la audiencia señalada en la Fracción anterior, la Autoridad resolverá dentro de los treinta días hábiles siguientes si existe o no responsabilidad, imponiendo, en su caso, al infractor, las sanciones administrativas correspondientes y notificará la resolución al servidor público y, en su caso, al Superior Jerárquico dentro de los treinta días hábiles siguientes;
+
+III.- Si en la audiencia, encontrare que no cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva responsabilidad administrativa a cargo del encausado o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- En cualquier momento, previo o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la autoridad competente podrá determinar la suspensión provisional del probable responsable de su empleo, cargo o comisión, si a juicio de la misma, así conviene para la conducción o continuación de las investigaciones. La suspensión provisional no prejuzga sobre la responsabilidad que se impute.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+La suspensión provisional a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio; ésta cesará cuando así lo resuelva la autoridad correspondiente, con independencia a la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo en relación con la probable responsabilidad de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+Si el Servidor Público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió percibir durante el tiempo en que estuvo suspendido.
 
 ###### Artículo 69.
 
-La solicitud de inscripción a la Matriculación se hará en los formatos que para tal efecto estarán disponibles en las oficinas recaudadoras de rentas de la entidad, para ser llenados por el interesado, la cual deberá ser presentada junto con los siguientes requisitos, en original y dos copias:
+De las diligencias que se practiquen levantará acta circunstanciada que suscribirán quienes intervengan en ellas.
 
-I. Identificación oficial con fotografía;
-
-II. Comprobante de domicilio, con antigüedad mínima de sesenta días;
-
-III. Licencia de conducir del propietario, vigente;
-
-IV. Título de propiedad del vehículo, bill of sale (factura de venta), Testimonial Notarial o Fe Notarial, o cualquier otro documento que acredite fehacientemente la propiedad o posesión, y
-
-V. La Presentación de la unidad para la verificación física y toma de calcas de la unidad.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 70.
 
-Una vez concluido el procedimiento de Matriculación y existiendo condiciones jurídicas, el interesado recibirá comprobante de haber sido inscrito.
+Los Titulares de las Dependencias y Entidades en el Poder Ejecutivo, así como los Presidentes Municipales o el Titular de la Unidad Administrativa correspondiente en los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán designar un representante ante la Secretaría u Organo de Control correspondiente, para que esté presente en la audiencia a que se refiere el artículo 68 de esta Ley.
 
 ###### Artículo 71.
 
-La Matriculación contendrá:
+Las resoluciones y acuerdos que se dicten durante el procedimiento a que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo.
 
-I. Nombre, domicilio, registro federal de contribuyentes y demás datos personales del propietario o poseedor, quien los proporcionará y acreditará con los documentos idóneos;
-
-II. Marca, año del modelo, tipo, número de serie, tipo de combustible, número de puertas, color, número de motor y cilindros, línea, clase de vehículo, así como cualquier otra característica propia del vehículo, y
-
-III. Número de cédula que se le asigne.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 72.
 
-A los vehículos que hayan cumplido con el procedimiento de Matriculación se les pegará el engomado en la parte superior izquierda del medallón trasero. Dicho engomado será el único distintivo para acreditar a las autoridades que la unidad concluyó el proceso de inscripción a la Matriculación.
+La Secretaría deberá llevar un registro actualizado de los servidores públicos que hayan sido inhabilitados y expedirá las constancias respectivas que acrediten la no existencia de inhabilitación. El Congreso del Estado, El Tribunal Superior de Justicia, los Ayuntamientos y los Organos que determinen las Leyes, comunicarán a la propia Secretaría, de aquellos servidores públicos que hayan sido inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público en términos de esta Ley.
 
 ###### Artículo 73.
 
-El engomado referido en el artículo anterior incluirá lo siguiente:
-
-I. La leyenda: "Este engomado no acredita la legal estancia del vehículo en el país, ni su regularización";
-
-II. Número único de holograma, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III. Código de barras que contenga el folio del holograma.
+Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad, mediante recurso de revocación, que se interpondrá dentro de los quince días hábiles siguientes a la fecha de la notificación de la resolución recurrida.
 
 ###### Artículo 74.
 
-La Cédula de identificación solo podrá ser colocada por el personal que se faculte especialmente para este efecto y en ningún caso será entregada a particulares o a personas ajenas a las especialmente designadas.
+La tramitación del recurso de revocación se sujetará a las normas siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del Servidor Público le cause la resolución impugnada, acompañando copia de ésta y constancia de la notificación de la misma, sin cuyos requisitos se desechará de plano, ofreciendo las pruebas que no se hubieren recibido por causas ajenas a su voluntad;
+
+II.- La autoridad acordará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen procedentes;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+III.- Las pruebas admitidas se desahogarán en un plazo de quince días hábiles, que a solicitud del Servidor Público o a instancia de la autoridad, podrá ampliarse una sola vez por cinco días más; y
+
+IV.- Concluido el período probatorio, la autoridad dictará resolución en el acto, o dentro de los tres días siguientes, notificándola al interesado.
 
 ###### Artículo 75.
 
-La Dirección de Transporte, Tránsito y Vialidad gozará de facultades para integrar y mantener actualizada la matriculación, por ello se adoptarán las medidas necesarias para impedir la circulación de dichos vehículos que no se encuentren matriculados, en coordinación con otras autoridades de conformidad a lo establecido en el presente reglamento.
+La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
 
-### Capítulo II. De las Sanciones en Materia de Matriculación
+I.- Tratándose de sanciones económicas, si el pago de éstas se garantiza en los términos que prevenga el Código Fiscal del Estado;
+
+II.- Tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos:
+
+a).- Que se admita el recurso;
+
+b).- Que la ejecución de la resolución recurrida cause daños o perjuicios de imposible reparación al recurrente, y
+
+c).- Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones, que impliquen perjuicio al interés social o al servicio público.
 
 ###### Artículo 76.
 
-Serán sancionados conforme a las leyes establecidas los propietarios o poseedores o tenedores, cuando:
-
-I. Proporcionen datos falsos referente (sic) a los vehículos o de sus personas al momento de registro o modificación de datos, y
-
-II. Hacer uso indebido de documentos o constancias que se relacionen con el registro de vehículos con el ánimo de lucro.
+La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en los términos que disponga la resolución.
 
 ###### Artículo 77.
 
-Los servidores públicos responsables de la operación y funcionamiento de la Matriculación serán sancionados de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, cuando incurran en lo siguiente:
-
-I. Inscribir a vehículos sin asentar o dejar constancia de alguno de los datos que deba contener la Matriculación;
-
-II. Hacer uso indebido de documentos o constancias que se relacionen con la Matriculación;
-
-III. Omitir, simular o alterar datos del registro y proporcionar información respecto de los vehículos o sus propietarios;
-
-IV. El que otorgue información a particulares que no tengan derecho a ella, y
-
-V. Hacer uso indebido de la información o documentos relacionados con la Matriculación con ánimo de lucro.
+Las sanciones económicas que se impongan constituirán créditos fiscales del Erario Estatal, o Municipal en su caso, se harán efectivas mediante el procedimiento económicocoactivo, tendrán la prelación prevista para dichos créditos y se sujetarán a las disposiciones fiscales aplicables a esta materia.
 
 ###### Artículo 78.
 
-Cualquier conducta tipificada como delito por parte de los servidores públicos que participen o realicen trámites de registro, así como, de los propietarios o poseedores que se genere con motivo del registro, tenencia, posesión o destino de las unidades motrices, podrá darse vista al Ministerio Público Federal o la Procuraduría General de Justicia del Estado para que se proceda en consecuencia en los términos en materia penal, según sea el caso y competencia de las autoridades.
+Si el servidor público, confesare su responsabilidad, son aplicables las siguientes disposiciones:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+I.- Se procederá de inmediato a dictar la resolución;
+
+II.- Se impondrá al infractor dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción; y
+
+III.- Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
 ###### Artículo 79.
 
-La Matriculación será verificada por la Secretaría de Función Pública, con facultad de revisar y auditar en cualquier momento, lo efectuado por la Secretaría de Finanzas o sus oficinas recaudadoras, así como la documentación presentada por los interesados, pudiendo dejar sin efecto, las inscripciones efectuadas de manera irregular, aplicando las sanciones y procedimientos correspondientes.
+Para el cumplimiento de las atribuciones que le confiere esta Ley, la autoridad competente podrá emplear los siguientes medios de apremio:
 
-### Capítulo III. De los Propietarios o Poseedores de los Vehículos Sujetos a la Verificación
+I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en la Capital del Estado;
+
+II.- Auxilio de la fuerza pública.
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
 ###### Artículo 80.
 
-Los propietarios o poseedores de los vehículos automotores matriculados en el Estado, serán sujetos a la prueba de verificación vehicular de sus emisiones contaminantes, en los Centros de Verificación autorizados, de acuerdo al calendario, términos y condiciones que para el efecto fije el Programa y demás disposiciones correspondientes.
+Las facultades para imponer las sanciones administrativas a que esta ley se refiere, prescriben:
 
-Asimismo, todos aquellos vehículos que circulen en el Estado, con placas de otras Entidades Federativas, cuando su permanencia en el territorio zacatecano sea por más de cuarenta y cinco días naturales, deberán cumplir con el Programa de verificación o en su caso acreditar su correspondiente verificación de la Entidad proveniente.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-Cuando los vehículos que circulen solo vayan de paso por el territorio, deberán demostrarlo a través de la tarjeta de circulación y de una identificación oficial que demuestre que pertenece a otra Entidad Federativa.
+I.- En un año si el beneficio obtenido o el daño causado por el infractor no excede del equivalente a cincuenta días de salario mínimo vigente en la capital del Estado, o si la responsabilidad no fuese estimable en dinero; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+II.- En tres años, en los demás casos.
 
-## TÍTULO CUARTO. DE LA INSPECCIÓN, VIGILANCIA, MEDIDAS DE SEGURIDAD Y SANCIONES
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-### Capítulo I. De la Inspección y Vigilancia
+En todos los casos, la prescripción a que alude este precepto se interrumpirá al iniciarse el procedimiento administrativo previsto por el artículo 68 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+## TITULO CUARTO
 
-### Capítulo III. Del Equipo para la Verificación Vehicular
+### CAPITULO UNICO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 81.
 
-Todos los vehículos automotores, independientemente de la nacionalidad mexicana o extranjera de la propiedad regular o irregular de los mismos, deberán someterse a la verificación de emisión de contaminantes que refiere el presente Reglamento.
+El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán llevar el registro y control de la Situación Patrimonial de los Servidores Públicos que se encuentran obligados, en términos del Artículo 82 de la presente Ley.
+
+En el caso de los Servidores Públicos Municipales de elección popular, será ante la Contaduría Mayor de Hacienda del Propio Congreso del Estado en donde éstos deberán presentar su Declaración de Situación Patrimonial, en los mismos términos que establece esta Ley para el Funcionario Público obligado a cumplir con su Declaración en dicho Poder.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 82.
 
-Los vehículos se clasifican por su tipo de motor de la siguiente manera:
+Tienen obligación de presentar declaración de Situación Patrimonial, bajo protesta de decir verdad, ante la autoridad competente y en los términos que esta Ley señala, los siguientes Servidores Públicos:
 
-I.- Vehículos de motor a gasolina;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-II.- Vehículos de motor a diesel, y
+I.- En el Poder Legislativo, los Diputados, Oficial Mayor, Tesorero, Contador Mayor de Hacienda, Subcontadores, Directores y Jefes de Departamento o sus equivalentes.
 
-III.- Vehículos de motor carburados a gas.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+II.- En el Poder Ejecutivo, todos los Servidores Públicos de confianza y los comprendidos desde el nivel de jefes de oficina, hasta el Gobernador del Estado y quienes manejen, recauden o administren fondos o recursos Federales o Estatales.
+
+III.- En la Procuraduría General de Justicia del Estado desde el Procurador General hasta los jefes de departamento, incluyendo a los Agentes del Ministerio Público y Policías Judiciales;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+IV.- En los Tribunales de Trabajo, los Presidentes, Secretarios, Actuarios y Miembros de las Juntas.
+
+V.- En la Administración Pública Paraestatal y Municipal, Directores Generales, Subdirectores Generales, Gerentes Generales, Directores, Subdirectores, Gerentes, Subgerentes, Jefes de Departamento y Servidores Públicos equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas, y fideicomisos públicos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VI.- En la Administración Pública Municipal, desde el Presidente, Regidores, Síndico, Secretario General, Tesorero, Contralor, hasta los Servidores Públicos con niveles de Directores y Jefes de Departamento o sus equivalentes, y aquellos que tengan personal a su cargo o desempeñen una o más funciones de dirección, supervisión, inspección, auditoría, fiscalización, procuración y administración de justicia y en general quienes manejen, recauden o administren fondos y recursos Públicos Federales Estatales o Municipales.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VII.- En El Poder Judicial, los Magistrados, Jueces, Secretarios, Oficiales Mayores, Diligenciarios, Directores y Jefes de Departamento.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+VIII.- En la Secretaría, todos los Servidores Públicos de confianza y de honorarios.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+
+(sic) los artículos 81 y 83 de esta Ley. La Secretaría hará la determinación respectiva previo acuerdo del Gobernador.
 
 ###### Artículo 83.
 
-Quedan exceptuados de realizar la Verificación:
+La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
 
-I. Los vehículos automotores integrados a maquinaria agrícola;
+I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
-II. Los vehículos integrados a la maquinaria para la actividad minera;
+II.- Dentro de los treinta días naturales siguientes a la conclusión del encargo;
 
-III. Los vehículos automotores integrados a maquinaria de construcción, en específico:
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
-a) Maquinaria para excavación;
-
-b) Maquinaria para carga;
-
-c) Maquinaria para acarreo y transporte;
-
-d) Maquinaria para compactación;
-
-e) Maquinaria para pavimentación en la que se incluyen las motoconformadoras;
-
-f) Maquinaria para perforación, y
-
-g) Maquinaria para cimentación y montaje;
-
-IV. Los vehículos automotores con peso bruto vehicular de 400 kilogramos o menor;
-
-V. Los montacargas;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-V (SIC). Los autos de colección debidamente registrados ante la Secretaría de Finanzas.
-
-VII. Las motocicletas, y
-
-VIII. Los vehículos híbridos definidos en los términos del Reglamento.
-
-Los propietarios o poseedores de los vehículos automotores referidos en el presente artículo están obligados a mantener sus unidades en condiciones adecuadas de manera que no contaminen, en caso de contaminación ostensible se harán acreedores a las sanciones de conformidad al presente reglamento.
+III.- En el mes de febrero de cada año, todos los Servidores Públicos obligados a presentar declaración de situación patrimonial, deberán manifestar, ante la autoridad que corresponda, las modificaciones que haya sufrido su patrimonio durante el año inmediato anterior.
 
 ###### Artículo 84.
 
-El propietario o poseedor del vehículo deberá pagar al Centro de Verificación, la tarifa autorizada en los términos del Programa.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 85.
 
-El propietario o poseedor de un vehículo que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en el Programa que al efecto se expida, podrá trasladarse en un término de treinta días únicamente a un taller mecánico o a un Centro de Verificación, previo pago de la multa correspondiente, independientemente de la multa que establezca el Reglamento de Transporte, Tránsito y Vialidad respectivo.
+Si transcurridos los términos a que hacen referencia las Fracciones I y III del artículo 83 de esta Ley, sin que los Servidores Públicos hubiesen presentado la Declaración de Situación Patrimonial correspondiente, la autoridad competente para aplicar la presente Ley podrá optar entre imponer multa económica, como medida de apremio, que no excederá de cien veces el salario mínimo diario vigente en el Estado o destituirlo del empleo, cargo o comisión que desempeña, substanciando el procedimiento administrativo; en el primer caso los Servidores Públicos que persistan en su omisión transcurridos cinco días hábiles posteriores a la fecha en que hayan sido notificados, serán destituidos y, en su caso, inhabilitados.
 
-En caso que no se apruebe la verificación dentro del plazo señalado o si durante el mismo el vehículo circula hacia un lugar distinto al taller o al Centro de Verificación, se duplicará la multa, una vez pagada, contará con un nuevo plazo de treinta días naturales a partir de su imposición por agredir dicho cumplimiento. De no presentarse éste dentro del plazo citado se duplicará la segunda multa señalada.
+Para el caso de que se omita la declaración contemplada en la Fracción II del artículo 83, procede la aplicación de una multa económica hasta por cincuenta días de salario mínimo diario vigente en la capital del Estado y en su caso, inhabilitación hasta por un año, una vez substanciado el procedimiento que establece el Artículo 68 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 86.
 
-Si los vehículos en circulación rebasan los límites máximos permisibles de emisiones contaminantes fijados por las normas correspondientes, serán retirados de la misma por la autoridad competente, hasta que acredite su cumplimiento.
+El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, expedirán las normas y los formatos bajo los cuales el Servidor Público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que considere necesarios.
 
 ###### Artículo 87.
 
-El propietario o poseedor del vehículo que incumpla con las normas oficiales mexicanas de acuerdo con el artículo anterior, tendrá un plazo de treinta días naturales para hacer las reparaciones necesarias y presentarlo a una nueva verificación. El vehículo podrá circular en ese período sólo para ser conducido al taller mecánico o ante el verificador ambiental.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 88.
 
-La Secretaría es la dependencia competente para inspeccionar el estricto cumplimiento en la operación de los Centros de Verificación Vehicular de acuerdo a lo dispuesto en la Ley, el presente Reglamento, las Normas Oficiales Mexicanas, el Programa, Circulares y autorización correspondientes.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un Servidor Público, el Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias podrán ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando éstos actos requieran orden judicial, la Autoridad competente hará la solicitud que corresponda al Tribunal Superior de Justicia, quien determinará el juez que deba conocer de la instancia.
+
+Previamente a la inspección o al inicio de la auditoría, se dará cuenta al Servidor Público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 89.
 
-En caso de que se detecten irregularidades que pongan en riesgo la salud y seguridad pública al momento de llevar a cabo las visitas de inspección y verificación, los inspectores o verificadores podrán ordenar de inmediato la aplicación de las medidas de seguridad que establece este Reglamento.
+El Servidor Público a quien se practique visita de inspección o auditoría, podrá interponer inconformidad ante la propia Autoridad actuante contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los tres días siguientes a la conclusión de aquéllas, en la que expresará los motivos de la inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir, dentro de los quince días naturales a la presentación del recurso.
+
+Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el Servidor Público y los testigos que para tal efecto designe éste; si el Servidor Público no designare testigos o éstos se negaren a firmar, el visitador hará constar esta circunstancia, procediendo a designar los testigos que asistan al acto, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea dicho documento.
 
 ###### Artículo 90.
 
-Las medidas de seguridad a que se hace referencia el artículo anterior, tendrán la duración estrictamente necesaria para corregir las irregularidades encontradas y podrán ser impuestas, en caso necesario, mediante el uso de la fuerza pública.
+Serán sancionados en los términos que disponga el Código de Defensa Social los servidores públicos que incurran en enriquecimiento ilícito.
 
 ###### Artículo 91.
 
-Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con lo establecido en este ordenamiento y demás disposiciones aplicables, para proteger la salud y seguridad pública ante una irregularidad encontrada en cualquiera de los centros de verificación vehicular a que se refiere este reglamento.
+Para los efectos de esta Ley y del Código de Defensa Social, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que acredite que estos bienes los obtuvieron por sí mismos y por motivos ajenos al servicio público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 92.
 
-Se podrán aplicar las siguientes medidas de seguridad:
-
-I. Clausura temporal en forma parcial o total del Centro de Verificación, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-II. Aseguramiento y confiscación de bienes materiales de los Centros de Verificación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El Congreso del Estado, el Tribunal Superior de Justicia, la Secretaría, los Ayuntamientos y los Organos que determinen las Leyes deberán hacer, ante el Ministerio Público, en su caso, manifestación de que el Servidor Público sujeto a la investigación respectiva, en los términos de la presente ley, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 ###### Artículo 93.
 
-Las resoluciones que emitala (sic) Secretaría, serán notificadas en forma personal mediante cédula o instructivo al titular de la autorización, representante legal o quien resultare responsable del Centro de Verificación.
+Durante el desempeño de su empleo, cargo o comisión, y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII del artículo 50 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión, que determinen conflictos de intereses.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Para los efectos del párrafo anterior, no se consideran comprendidos en él aquéllos obsequios que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente en un año, cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en la Capital del Estado, en el momento de su recepción.
+
+En ningún caso se podrán recibir de dichas personas títulos valor, bienes inmuebles o cesiones de derechos, sobre juicios o controversias, en las que se dirima la titularidad de los derechos de posesión o de propiedad, sobre bienes de cualquier clase.
+
+Se castigará como cohecho las conductas ilícitas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en términos de la legislación de Defensa Social.
 
 ###### Artículo 94.
 
-La Secretaría efectuará las visitas de inspección previa orden fundada y motivada y se levantará un acta circunstanciada de lo visto y practicado en la diligencia, siguiendo lo establecido al efecto en la Ley, y con base en los resultados de la visita de inspección se aplicarán las medidas necesariasy (sic) en su caso las sanciones que procedan en los términos de dicha Ley y el presente Reglamento.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece, o sean de los estrictamente prohibidos, deberán entregarlos a la Secretaría en un plazo no mayor de cinco días a partir de la fecha en que los reciban.
 
-### Capítulo II. De Medidas de Seguridad y las Sanciones
+La Secretaría llevará un registro de los obsequios, donaciones o beneficios en general que reciba de los servidores públicos, poniendo dichos bienes a disposición de las dependencias y Entidades que determine el Ejecutivo del Estado, de acuerdo a su naturaleza y características específicas. Estas dependencias y Entidades también llevarán un registro de los bienes recibidos, quedando la Secretaría facultada para inspeccionar y vigilar el registro, destino y aplicación de los mismos, así como los asientos contables a fin de comprobar su correcta disposición y el cumplimiento de las normas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 95.
-
-Las violaciones a los preceptos de este Reglamento y disposiciones que de éste emanen, serán sancionadas administrativamente por la Secretaría en los términos establecidos en la Ley y demás leyes aplicables.
-
-###### Artículo 96.
-
-Serán responsables del pago de las sanciones descritas en el presente capitulo, los propietarios de los vehículos a que se refiere el presente Reglamento.
-
-###### Artículo 97.
-
-Las sanciones o multas que se impongan con motivo del presente Reglamento, serán las siguientes:
-
-I. Multa por el equivalente a diez días de salario mínimo general vigente en la Entidad, a quien no someta su vehículo a la prueba de verificación dentro del calendario establecido en el Programa, la cual cubrirá hasta treinta días naturales contados a partir de su pago;
-
-II. Multa de veinte días de salario mínimo general vigente en la Entidad, al propietario o poseedor del vehículo que no habiendo aprobado la prueba de verificación vehicular dentro del periodo establecido en la fracción anterior, se le detecte circulando hacia un lugar distinto del taller o el Centro de Verificación; el cual una vez pagada la multa, contará con un nuevo plazo de treinta días naturales contados a partir de su pago para acreditar dicha verificación, y
-
-III. Multa de cuarenta días de salario mínimo general vigente en la Entidad, al propietario o poseedor que no se presente dentro del periodo establecido en la fracción anterior a someter su vehículo a la prueba de verificación.
-
-###### Artículo 98.
-
-Con independencia de las sanciones establecidas en los artículos anteriores, aquellos vehículos sujetos al presente Programa que no hayan realizado la prueba de verificación dentro del periodo establecido, no podrán circular más que para dirigirse al taller o Centro de verificación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 99.
-
-Aquellos vehículos que circulen en el Estado y emitan humos ostensiblemente, serán detenidos por la autoridad vial competente y remitido (sic) a una pensión municipal o estatal, o bien serán remitidos a algún Centro de Verificación Vehicular.
-
-###### Artículo 100.
-
-Se sancionará con multa por el equivalente de cien a cinco mil cuotas de salario mínimo general vigente en el Estado, a las personas físicas o morales que realicen servicio de verificación ambiental de fuentes móviles que:
-
-I. No mantengan sus instalaciones y equipos calibrados y en las condiciones de funcionamiento establecidas en las disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-II. No lleven el registro con la información de las verificaciones efectuadas o no remitan a la Secretaría, los datos obtenidos en los términos fijados por ésta;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III. No den aviso inmediato a la Secretaría cuando por cualquier causa se dejen de prestar los servicios de verificación de emisiones contaminantes o cuando los equipos e instalaciones no funcionen debidamente o se realicen verificaciones no obstante esto último;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-IV. No conserven en depósito o manejen indebidamente las constancias, calcomanías o documentos para acreditar la aprobación de la verificación;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-V. No den aviso a la Secretaría, en caso de robo o uso indebido de las calcomanías o documentos que acrediten la aprobación de la verificación;
-
-VI. Expidan constancias de verificación alteradas o que no reúnan los requisitos establecidos en el reglamento correspondiente;
-
-VII. No entreguen al propietario o poseedor de una fuente emisora de contaminantes, la constancia correspondiente, o en caso de ser aprobatoria, no adhiera la calcomanía o el documento respectivo en dicha fuente;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VIII. No envié a la Secretaríaen (sic) los términos establecidos por éste, la documentación requerida para la supervisión y control de la verificación de emisiones contaminantes;
-
-IX. Su establecimiento de verificación no cuente con los elementos físicos distintivos;
-
-X. Realicen verificaciones para las cuales no estén autorizados;
-
-XI. No operen conforme a los sistemas, procedimientos, instalaciones, equipos y plazos de verificación establecidos en las Normas Oficiales Mexicanas respectivas;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XII. Por cualquier motivo cobre por la verificación una cantidad superior a la autorizada por la Secretaría;
-
-XIII. No realice la verificación con apego a las condicionantes de la autorización otorgada para establecer, equipar y operar el centro de verificación respectivo y en general no cumpla con dichas condicionantes;
-
-XIV. Realicen la verificación a fuentes móviles que no se encuentren presentes físicamente en el centro de verificación o que los valores de los gases contaminantes provengan de otra fuente;
-
-XV. Que no realicen la verificación a fuentes móviles con apego al calendario publicado en el programa de verificación correspondiente, o
-
-XVI. Use o entregue indebidamente constancias, calcomanías o documentos que acrediten la aprobación de la verificación de emisiones contaminantes.
-
-###### Artículo 101.
-
-Sin perjuicio de la imposición de las multas previstas en el artículo anterior, procederá la suspensión de la autorización para realizar verificaciones y expedir constancias con reconocimiento oficial de los centros de verificación vehicular autorizados, cuyos propietarios y responsables:
-
-I. Alteren o modifiquen los términos o condiciones de la autorización;
-
-II. No proporcionen el mandamiento necesario para el adecuado funcionamiento del equipo e instalación de los centros;
-
-III. No presten el servicio de verificación con la debida eficiencia y prontitud a los particulares;
-
-IV. No acrediten, a juicio de la autoridad que otorgó la autorización, contar con personal capacitado para la prestación del servicio, y
-
-V. Que por sí o por terceras personas obstaculicen la práctica de las supervisiones que realicen las autoridades competentes.
-
-###### Artículo 102.
-
-En la aplicación de las sanciones se otorgará garantía de audiencia a los propietarios o poseedores de los vehículos automotores.
-
-###### Artículo 103.
-
-Las sanciones, actos o resoluciones que deriven de la aplicación del presente Reglamento serán recurridas a través del Tribunal de lo Contencioso Administrativo.
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -1320,5 +1112,17 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE JULIO DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
