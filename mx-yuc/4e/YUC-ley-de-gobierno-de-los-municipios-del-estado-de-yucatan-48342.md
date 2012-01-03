@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2011-08-17"
+last_updated: "2012-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
+LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -699,9 +699,9 @@ XVIII.- Celebrar convenios de asociación y coordinación para la prestación de
 
 XIX.- Colaborar con los poderes del Estado y demás municipios, en la promoción y formulación de medidas que comprendan la participación en programas y proyectos destinados a combatir la corrupción;
 
-> <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O. 3 DE ENERO DE 2012)</small>
 
-XX.- Autorizar el uso de suelo para los establecimientos o giros comerciales que expendan bebidas alcohólicas, debiendo observar las restricciones que al efecto establece la ley en materia de Salud del Estado y la reglamentación respectiva;
+XX.- Autorizar el uso de suelo para los establecimientos o giros comerciales que expendan bebidas alcohólicas, debiendo observar las restricciones que al efecto establece la ley en materia de Salud del Estado y la reglamentación respectiva; a excepción de los establecimientos comerciales especificados en el apartado e) de la fracción II del articulo 253-A de la Ley de Salud del Estado de Yucatán, para los cuales bastará la expedición de autorización del uso del suelo por la autoridad administrativa municipal correspondiente.
 
 > <small>(ADICIONADA, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -3430,3 +3430,17 @@ Los ayuntamientos podrán celebrar convenios de colaboración o coordinación co
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 3 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Poder Ejecutivo del Estado de Yucatán a que dentro de los 120 días posteriores a la publicación de este Decreto en el Diario Oficial del Gobierno del Estado, actualice y armonice las disposiciones reglamentarias correspondientes a las establecidas de (sic) este Decreto.
