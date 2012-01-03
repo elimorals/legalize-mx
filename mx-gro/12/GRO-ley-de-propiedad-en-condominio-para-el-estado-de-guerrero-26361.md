@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-propiedad-en-condominio-para-el-estado-de-guerrero-26361
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2005-05-27"
+last_updated: "2012-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NUMERO 557
 
-LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NUMERO 557
+LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NÚMERO 557
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 13 de diciembre de 2002.
 
@@ -129,13 +129,31 @@ IX.- Los casos y condiciones en que pueda ser modificada la escritura constituti
 
 X.- La obligación de los condóminos de garantizar el pago de las cuotas correspondientes a los fondos de administración y mantenimiento así como el de reserva.
 
-Al apéndice de la escritura se agregarán, en copias certificadas, las licencias y/o permisos de construcción, el plano general, la memoria técnica, la tabla de indivisos; los planos de las instalaciones hidráulicas, eléctricas, estructurales, gas y áreas comunes; el deslinde, avalúo catastral y el Reglamento del Condominio.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2012)</small>
+
+Al apéndice de la escritura se agregarán, en copias certificadas, las licencias o permisos de construcción incluyendo planos firmados y sellados del conjunto como sigue:
+
+a) Planos arquitectónicos y del conjunto, planos estructurales, incluyendo memoria técnica, planos de instalaciones hidráulicas, sanitarias, eléctricas y de gas, en su caso.
+
+b) Se presentará la memoria descriptiva del régimen en propiedad y condominio (sic) con los respectivos planos de las áreas de propiedad privativa con tabla de valores e indivisos, así también el deslinde, avalúo catastral y el Reglamento del Condominio, y
+
+c) Asimismo, se incluirán los planos completos de las áreas comunes.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2012)</small>
+
+###### ARTICULO 9
+
+BIS.- La elaboración de los planos y de la memoria descriptiva, que sirvan de base para la constitución del régimen de propiedad en condominio, serán realizados por los peritos valuadores de bienes inmuebles autorizados e inscritos en el Registro Estatal de la Secretaría de Finanzas y Administración del Gobierno del estado.
 
 ###### ARTICULO 10.
 
 La escritura constitutiva del régimen de propiedad en condominio, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles deberán inscribirse en el Registro Público de la Propiedad del Estado, para causar efectos contra terceros.
 
 Cualquier modificación a la escritura constitutiva y al Reglamento del Condominio se acordará en Asamblea General y sus resoluciones requerirán de un mínimo de votos que representen el 51% del valor total del condominio y la mayoría simple del total de los condóminos.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2012)</small>
+
+La elaboración de los planos y de la memoria descriptiva, utilizados para la constitución del régimen de propiedad en condominio, o cualquier modificación que se realice, deberá inscribirse en el Registro Público de la Propiedad del Comercio y Crédito Agrícola del Estado.
 
 ###### ARTICULO 11.
 
@@ -779,9 +797,11 @@ Las Autoridades Estatales y Municipales coordinadamente con los condóminos prom
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 82.
 
-Si el inmueble sujeto al régimen de propiedad en condominio estuviera ruinoso o se destruyera en su totalidad o en una proporción que represente más del 50% de su valor sin considerar el valor del terreno y según peritaje practicado por Perito Valuador con Cédula Profesional, se podrá acordar en Asamblea General Extraordinaria con la asistencia mínima de la mayoría simple del total de los condóminos y por un mínimo de votos que representen el 75% del valor total del condominio:
+Si el inmueble sujeto al régimen de propiedad en condominio, estuviera ruinoso o se destruyera en su totalidad o en una proporción que represente más del 50% de su valor, sin considerar el valor del terreno y según peritaje practicado por Perito Valuador de Bienes Inmuebles autorizado e inscrito en el Registro Estatal de la Secretaría de Finanzas y Administración del Gobierno del Estado, se podrá acordar en Asamblea General Extraordinaria con la asistencia mínima de la mayoría simple del total de los condóminos y por un mínimo de votos que representen el 75% del valor total del condominio.
 
 I.- La reconstrucción de las áreas comunes o su venta, de conformidad con lo establecido en este Título, las disposiciones legales sobre desarrollo urbano y otras que fueren aplicables; y
 
@@ -851,10 +871,22 @@ DIPUTADO SECRETARIO DIPUTADO SECRETARIO
 
 C. OSCAR IGNACIO RANGEL MIRAVETE C. JUAN ADAN TAVARES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE MAYO DE 2005.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los condominios o conjuntos condominales tendrán un plazo de ciento ochenta días a partir de que entren en vigor las reformas a esta Ley, para que de considerarlo conveniente adecuar su escritura constitutiva y su respectivo Reglamento.
+
+P.O. 3 DE ENERO DE 2012.
+
+DECRETO No. 881, POR EL QUE SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 9, EL ARTÍCULO 82, SE ADICIONA EL ARTÍCULO 9-BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 10, DE LA LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NÚMERO 557.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
