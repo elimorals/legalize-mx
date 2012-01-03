@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2007-07-09"
+last_updated: "2012-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE SALUD DEL ESTADO DE YUCATAN
 
-LEY DE SALUD DEL ESTADO DE YUCATAN
+LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -2453,6 +2453,10 @@ El Estado determinará en base a sus atribuciones como Autoridad Sanitaria, la u
 
 Dichos establecimientos se sujetarán rigurosamente al horario establecido en el Reglamento de Control y Vigilancia Sanitaria de los Establecimientos que expenden Alimentos y Bebidas en General en Yucatán, a propuesta del Consejo de Prevención de Adicciones del Estado.
 
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2012)</small>
+
+No aplicará la restricción de distancias a que se refiere el primer párrafo del presente artículo, para los establecimientos señalados en el artículo 253 - A, fracción II, incisos e), f), y g) de esta Ley.
+
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 275-H.
@@ -3112,3 +3116,17 @@ Este Decreto entrará en vigor, el día siguiente al de su publicación en el Di
 ###### ARTÍCULO SEGUNDO.
 
 Las facultades y obligaciones previstas a la Secretaría de Salud; le corresponden a Servicios Coordinados de Salud, hasta en tanto subsista el convenio suscrito por la federación y el Estado.
+
+D.O. 3 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye al Poder Ejecutivo del Estado de Yucatán a que dentro de los 120 días posteriores a la publicación de este Decreto en el Diario Oficial del Gobierno del Estado, actualice y armonice las disposiciones reglamentarias correspondientes a las establecidas de (sic) este Decreto.
