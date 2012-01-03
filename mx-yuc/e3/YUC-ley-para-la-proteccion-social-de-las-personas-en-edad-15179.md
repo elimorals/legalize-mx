@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-social-de-las-personas-en-edad-15179"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-16"
-last_updated: "1999-08-16"
+last_updated: "2012-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY PARA LA PROTECCION SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATAN
 
-LEY PARA LA PROTECCION SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATAN
+LEY PARA LA PROTECCIÓN SOCIAL DE LAS PERSONAS EN EDAD SENESCENTE DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial el Lunes 16 de Agosto de 1999.
 
@@ -106,6 +106,10 @@ IX. Practicar el libre ejercicio de sus derechos civiles y políticos;
 X. Disfrutar y participar de las actividades culturales, deportivas y recreativas, y
 
 XI. Los demás que señalen la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, D.O. 3 DE ENERO DE 2012)</small>
+
+Además de los derechos enunciados en este artículo, las personas de setenta años de edad o más, en situación de vulnerabilidad, gozaran de los beneficios y apoyos otorgados en los programas de pensiones no contributivas, que implemente el Poder Ejecutivo del Estado, en la modalidad y con los requisitos que establezca la normatividad que se expida para tal efecto.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE LOS FAMILIARES
 
@@ -798,3 +802,15 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 3 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, deberá emitir dentro de los 120 días siguientes a la entrada en vigor de este decreto, el programa mediante el cual se definan los mecanismos para la instrumentación de lo dispuesto en el último párrafo adicionado al artículo 3 de la Ley para la Protección Social de las Personas en Edad Senescente del Estado de Yucatán.
