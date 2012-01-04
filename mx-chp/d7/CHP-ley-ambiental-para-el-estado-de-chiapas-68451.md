@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2010-09-29"
+last_updated: "2012-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,235 +21,27 @@ state: "CHP"
 ---
 # LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
+LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
-Fernando Silva Nieto, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
+Juan Sabines Guerrero, Gobernador del Estado de Chiapas, a sus habitantes hacer saber: Que la Honorable Sexagésima Tercera Legislatura del Congreso del Estado, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
 
-Que la Quincuagésima Sexta Legislatura Constitucional del Estado se ha servido dirigirme el siguiente:
+Decreto Número 189
 
-DECRETO 265
+La Honorable Sexagésima Tercera Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y,
 
-LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
+Considerando.
 
-...
+Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir la siguiente:
 
-LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+Ley Ambiental para el Estado de Chiapas
 
-## TITULO PRIMERO. DE LA ASISTENCIA SOCIAL
+## Título Primero. Disposiciones Generales
 
-### CAPITULO I. Disposiciones Generales
-
-###### ARTICULO 1º.
-
-La presente Ley es de orden público e interés social, y tiene por objeto establecer las bases y procedimientos del Sistema Estatal de Asistencia Social que coordina la prestación de los servicios asistenciales en la Entidad.
-
-Este sistema estará integrado por el Ejecutivo del Estado, las dependencias y entidades de la administración pública vinculadas a la asistencia social, los DIF municipales y las instituciones de asistencia privada inscritas en el Directorio Estatal de Instituciones de Asistencia Privada y certificadas por el DIF Estatal.
-
-###### ARTICULO 2º.
-
-El Ejecutivo del Estado, los ayuntamientos y las instituciones de asistencia privada, en la medida de sus posibilidades presupuestales, proporcionarán servicios de asistencia social, encaminados a la protección y ayuda de personas, familias o grupos en situación vulnerable, en tanto superen su condición de desventaja, abandono o desprotección física, mental, jurídica, social o cultural y puedan procurar por sí mismos su bienestar bio-psico-social, de tal forma que estén en condiciones de reintegrarse a la sociedad.
-
-###### ARTICULO 3º.
-
-Para efectos de esta Ley se entiende por asistencia social, el conjunto de acciones dirigidas a modificar y mejorar las capacidades físicas, mentales y situación social de grupos de población vulnerable, que por su condición de desventaja, abandono o desprotección física, mental, jurídica o social, no cuentan con las condiciones necesarias para procurar por sí mismos su bienestar bio-psico-social.
-
-###### ARTICULO 4º.
-
-Para efecto de interpretación de la presente Ley se entenderá por:
-
-I. DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado;
-
-II. DIF Municipal: El Sistema Municipal para el Desarrollo Integral de la Familia;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-III. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y el Adulto Mayor;
-
-IV. Grupos vulnerables: Toda persona que pueda incluirse en las siguientes categorías:
-
-a) En situación especialmente difícil, entendiéndose por ésta: Los hombres y mujeres con enfermedad física o mental discapacitante, o en desventaja física, económica, jurídica o cultural.
-
-b) En riesgo: Las personas, familias o grupos que tienen la imposibilidad o grave dificultad de procurar su bienestar físico, mental y social, debido a fenómenos hidrometeorológicos, geológicos y socio-organizativos, o bien están asentados en localidades con características socioeconómicas deficientes en forma permanente.
-
-c) En estado de abandono: Las víctimas de un acto de desamparo por parte de uno o varios miembros de la familia que tienen respecto de aquéllas, obligaciones legales, cuyo incumplimiento pone en peligro su bienestar físico, mental y social.
-
-d) En estado de desventaja social, entendiéndose por éste: El que se origina por el maltrato físico, mental o sexual; desintegración familiar; pobreza o un ambiente familiar adverso que pone en riesgo o impide el desarrollo integral de la persona; asimismo, el que se deriva de la dependencia económica de las personas privadas de su libertad, enfermos terminales, alcohólicos, farmacodependientes, personas que no pueden valerse por sí mismas y/o que no aportan al ingreso familiar;
-
-V. Instituciones de asistencia privada: Las conformadas por los sectores social y privado, así como por las organizaciones de la sociedad civil, cuyo fin y objeto sean proporcionar servicios de asistencia social, encaminados a la protección y ayuda de personas, familias o grupos en situación vulnerable, sin fines lucrativos.
-
-###### ARTICULO 5º.
-
-Los servicios de asistencia social que deben prestar el Ejecutivo del Estado, los municipios, y los que lleven a cabo las instituciones de asistencia privada son:
-
-I. Preventivos:
-
-a) La difusión de información para un sano desarrollo físico, mental y social de los sujetos de asistencia, especialmente en materia de prevención de desastres naturales o provocados, violencia familiar, educación sexual y aquellas que sean relevantes para anticiparse a situaciones que posteriormente propicien la aplicación de acciones de asistencia social.
-
-b) La promoción en la familia de valores que fortalezcan sus vínculos, desde las perspectivas de equidad y género, con el fin de lograr un desarrollo integral, mantener un ambiente familiar armónico y evitar su desintegración.
-
-c) Combatir la violencia familiar a través de la promoción de la convivencia pacífica, por medio del fomento de equidad entre los géneros y entre todas las personas; de la promoción de talleres de sensibilización y concientización en los que se promueva la tolerancia, el respeto a la dignidad y a las diferencias entre congéneres, para fomentar que sean éstas las bases de las relaciones interpersonales y sociales.
-
-d) La realización de acciones contra las adicciones.
-
-e) El fomento de una cultura de dignificación del adulto mayor, que implica la difusión de información que permita conocer y comprender el proceso de envejecimiento, así como la detección oportuna de enfermedades, para prevenir secuelas discapacitantes y mantener la salud y autonomía de los mismos.
-
-f) La prevención de la discapacidad en los grupos vulnerables, proveyendo a la familia y la comunidad de conocimientos y de técnicas efectivas para prevenirla.
-
-g) La promoción del respeto a la vida y a la dignidad humana.
-
-h) Orientación nutricional a población vulnerable.
-
-i) La educación para la salud a grupos vulnerables, de conformidad con lo establecido en la Ley Estatal de Salud.
-
-j) La implementación de estrategias de información, regulación, planes de emergencia y coordinación con otras dependencias, de manera conjunta con la Unidad Estatal y unidades municipales de protección civil.
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
-
-k) Implementar estrategias en coordinación con la Comisión Estatal de Derechos Humanos, para la realización de acciones interinstitucionales que tengan como objetivo fomentar el respeto de la dignidad de las personas que se encuentren en estado de vulnerabilidad.
-
-l) Los demás que resulten necesarios para mejorar las circunstancias de carácter social, mental y físico, que impidan a la persona su desarrollo e integración social, y
-
-II. De atención:
-
-a) El cuidado en establecimientos asistenciales de menores y adultos mayores en estado de abandono.
-
-b) La asistencia jurídica en materia familiar a los sujetos de asistencia social.
-
-c) La rehabilitación, capacitación e integración laboral de las personas con discapacidad.
-
-d) La capacitación a la familia de técnicas efectivas para el tratamiento de personas con discapacidad.
-
-e) El tratamiento integral a las personas que viven violencia familiar, en centros de atención especializados.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-f) La gestión de trámites de adopción de niñas, niños y adolescentes en estado de desamparo conforme a la legislación civil.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-g) La repatriación de niñas, niños y adolescentes en estado de riesgo.
-
-h) La concertación de acciones para cubrir las necesidades de los sujetos de asistencia social.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-i) El ejercicio de la tutela o custodia, según sea el caso, de niñas, niños y adolescentes albergados en instituciones públicas y privadas, en los términos de las disposiciones legales aplicables.
-
-j) La asistencia social en materia de nutrición, emprendiendo acciones para proporcionar a grupos vulnerables, de manera temporal, ayuda alimentaria directa, orientación nutricional y en coordinación con los Servicios de Salud en el Estado, la vigilancia de su peso y talla.
-
-k) La promoción y apoyo del desarrollo comunitario en las localidades y zonas con población en estado de riesgo o desventaja social, poniendo especial interés en las comunidades rurales.
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
-
-l) Proporcionar a los adultos mayores en situación vulnerable, servicios de alojamiento, alimentación y bebidas con alto contenido nutricional y bajo o nulo contenido calórico, vestido, atención médica, trabajo social, actividades culturales, recreativas, ocupacionales, psicológicas y capacitación para el trabajo.
-
-m) Los demás que resulten necesarios para mejorar las circunstancias de carácter físico, social y mental que impidan a los sujetos de asistencia su desarrollo e incorporación a la sociedad.
-
-###### ARTICULO 6º.
-
-Son sujetos de asistencia social las personas que se encuentren en las siguientes categorías de vulnerabilidad:
-
-I. En situación especialmente difícil originada por discapacidad;
-
-II. En riesgo:
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-a) Niñas, niños y adolescentes hijas o hijos de jornaleros migrantes.
-
-b) Los habitantes del medio rural o urbano asentados en localidades con características socioeconómicas deficientes en forma permanente.
-
-c) Las personas afectadas por desastres naturales o provocados;
-
-III. En estado de abandono:
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-a) Niñas, niños y adolescentes.
-
-b) Las mujeres.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
-
-c) Los adultos mayores.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
-
-d) Las personas enfermas crónicas y, en caso de existir, a la persona que esté a su cuidado;
-
-IV. En estado de desventaja social:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-a) Niñas, niños y adolescentes.
-
-1. Migrantes y repatriados.
-
-2. En estado de orfandad parcial o total.
-
-3. Víctimas de explotación física, laboral o de cualquier tipo.
-
-4. De y en la calle.
-
-5. Que trabajen en condiciones que afecten su desarrollo e integridad.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-6. Hijas o hijos de jornaleros migrantes.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-7. Hijas o hijos de madres y padres privados de la libertad que no tengan familiares que se hagan cargo de ellos.
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-8. Los que tengan menos de doce años de edad y se les atribuya una conducta tipificada como delito en las leyes, cuyos derechos se encuentren amenazados o vulnerados.
-
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-9. Desnutridos.
-
-b) Las mujeres:
-
-1. En período de gestación o lactancia, con especial atención a las adolescentes.
-
-2. En situación de maltrato.
-
-3. Que por razón de discriminación por género se vean impedidas para procurar su bienestar físico, mental o social, o el de su familia.
-
-c) Los adultos mayores en situación de maltrato físico o mental.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
-
-d) Los indigentes.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su cargo niñas, niños y adolescentes, personas con discapacidad o adultos mayores;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
-
-V. Las personas adictas o farmacodependientes que se encuentren recluidas o internadas en centros de tratamiento y rehabilitación de adicciones y que sean objeto de actos que violen sus derechos humanos por parte de las personas encargadas o internos de éstos, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
-
-VI. Las que se encuentren en situación de violencia familiar.
-
-###### ARTICULO 7º.
-
-Es facultad de Sistema Estatal de Asistencia Social por conducto del DIF Estatal establecer las políticas, operar, organizar, supervisar y evaluar la prestación de los servicios de asistencia social de jurisdicción local y los concurrentes con la Federación, de conformidad con la Ley General de Salud, Ley Sobre el Sistema Nacional de Asistencia Social, Ley Estatal de Salud, las Normas Oficiales Mexicanas y las demás disposiciones legales que resulten aplicables.
-
-###### ARTICULO 8º.
-
-Los servicios de asistencia social que en materia de salud se presten dentro del Sistema Estatal de Asistencia Social, serán desarrollados de conformidad con las leyes estatales aplicables y con la normatividad que establezcan los Servicios de Salud en el Estado.
+### Capítulo Primero. Del Objeto y Principios
 
 ###### Artículo 1.
 
@@ -275,7 +67,9 @@ IX. Evaluar el impacto ambiental de las obras o actividades que no sean de compe
 
 X. Prevenir, controlar y mitigar la contaminación del aire, agua y suelo, así como el manejo integral de residuos en el territorio estatal, en las materias que no sean competencia exclusiva de la Federación;
 
-XI. Regular el manejo y disposición final de los residuos sólidos urbanos y de manejo especial, conforme a la legislación vigente de la materia;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XI. Regular el manejo, gestión integral y disposición final de los residuos sólidos urbanos y de manejo especial, así como de los residuos sólidos no peligrosos, conforme a la legislación vigente de la materia;
 
 XII. Establecer los principios de la responsabilidad ambiental por afectación a la integridad de las personas y por daño ambiental;
 
@@ -305,101 +99,83 @@ VI. La prevención de riesgos y contingencias ambientales, así como la ejecuci�
 
 VII. El establecimiento de zonas intermedias de salvaguarda, por la presencia o realización de actividades riesgosas que afecten o puedan afectar el equilibrio de los ecosistemas, la seguridad de las personas en los centros de población o al ambiente del Estado en general o de uno o varios de los municipios que lo conforman.
 
-###### Artículo 3.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+###### Artículo 3°.
 
 Para los efectos de esta ley, además de las definiciones contenidas en otras disposiciones que tengan por objeto la regulación de materias contenidas en el presente ordenamiento, se entiende por:
 
-I. Actividades Riesgosas: Las actividades de competencia del Estado que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en los artículos 7º y 149 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+I. Actividades Riesgosas: Las actividades de competencia del Estado que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en los artículos 7° y 149 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-II. Afectación a la integridad de las personas: La introducción no consentida en el organismo humano de uno o más contaminantes, o la combinación o derivación de ellos, que resulte directa o indirectamente de la liberación, descarga, desecho, infiltración o incorporación de materiales o residuos en el aire, agua, suelo o cualquier medio o elemento natural, sin cumplir con las disposiciones de la presente ley, las disposiciones que de ella se derivan, así como las Normas Oficiales Mexicanas;
+II. Afectación a la integridad de las personas: La introducción no consentida en el organismo humano de uno o más contaminantes, o la combinación o derivación de ellos, que resulte directa o indirectamente de la liberación, descarga, desecho, infiltración o incorporación de materiales o residuos en el aire, agua, suelo o cualquier medio o elemento natural, sin cumplir con las disposiciones de la presente ley, las disposiciones que de ella se derivan, así como las Normas Oficiales Mexicanas.
 
-III. Alteración del paisaje: Modificación de las cualidades de la imagen de un paisaje natural o urbano, causada por el aprovechamiento de recursos naturales o el uso de cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
+III. Alteración del paisaje: Modificación de las cualidades de la imagen de un paisaje natural o urbano, causada por el aprovechamiento de recursos naturales o el uso de cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio.
 
-IV. Aprovechamiento Sustentable: La extracción y utilización de los recursos naturales respetando la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte, a fin de que resulten eficientes y socialmente útiles, y que garanticen su preservación y la del ambiente por períodos indefinidos;
+IV. Aprovechamiento Sustentable: La extracción y utilización de los recursos naturales respetando la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte, a fin de que resulten eficientes y socialmente útiles, y que garanticen su preservación y la del ambiente por períodos indefinidos.
 
-V. Auditoría Ambiental: Los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
+V. Auditoría Ambiental: Los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-VI. Consejo Consultivo: El Consejo Consultivo Ambiental del Estado de Chiapas;
+VI. Consejo Consultivo: El Consejo Consultivo Ambiental del Estado de Chiapas.
 
-VII. Contingencia Ambiental: Situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y sus poblaciones;
+VII. Contingencia Ambiental: Situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y sus poblaciones.
 
-VIII. Control: Implementación y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+VIII. Control: Implementación y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
 
-IX. Criterios Ecológicos: Los lineamientos de observancia obligatoria contenidos en las Normas Técnicas Ambientales Estatales, emitidas para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, la protección al ambiente y a la biodiversidad, y que permiten la aplicación de los instrumentos de la política ambiental;
+IX. Criterios Ecológicos: Los lineamientos de observancia obligatoria contenidos en las Normas Técnicas Ambientales Estatales, emitidas para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, la protección al ambiente y a la biodiversidad, y que permiten la aplicación de los instrumentos de la política ambiental.
 
-X. Cultura Ambiental: Proceso de construcción de conocimientos, valores, hábitos y actitudes que conducen a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones, o adquiridos por medio de la educación ambiental;
+X. Cultura Ambiental: Proceso de construcción de conocimientos, valores, hábitos y actitudes que conducen a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones, o adquiridos por medio de la educación ambiental.
 
-XI. Daño Ambiental: La pérdida, deterioro, menoscabo, contaminación, afectación o modificación negativa de los ecosistemas, de los elementos naturales o de sus condiciones químicas, físicas, biológicas o genéticas, y de las relaciones de interacción que se dan entre éstos, como consecuencia del incumplimiento de una obligación establecida en la presente ley;
+XI. Daño Ambiental: La pérdida, deterioro, menoscabo, contaminación, afectación o modificación negativa de los ecosistemas, de los elementos naturales o de sus condiciones químicas, físicas, biológicas o genéticas, y de las relaciones de interacción que se dan entre éstos, como consecuencia del incumplimiento de una obligación establecida en la presente ley.
 
-XII. Daño por afectación a la integridad de la persona: Incapacidad física o mental, enfermedad, deterioro, menoscabo o cualquier otro efecto negativo a la salud de la persona, incluso la muerte, que directa o indirectamente producen contaminantes liberados al ambiente, cuando la liberación, descarga, desecho, infiltración o incorporación de uno o más materiales y residuos en la atmósfera, agua, suelo, o cualquier medio o elemento natural, se lleva a cabo de forma ilícita;
+XII. Daño por afectación a la integridad de la persona: Incapacidad física o mental, enfermedad, deterioro, menoscabo o cualquier otro efecto negativo a la salud de la persona, incluso la muerte, que directa o indirectamente producen contaminantes liberados al ambiente, cuando la liberación, descarga, desecho, infiltración o incorporación de uno o más materiales y residuos en la atmósfera, agua, suelo, o cualquier medio o elemento natural, se lleva a cabo de forma ilícita.
 
-XIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-XIV. Ley: Ley Ambiental para el Estado de Chiapas;
+XIV. Disposición final: Acción de depositar permanentemente residuos en instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+XV. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
 
-XV. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el Impacto Ambiental significativo y el potencial que genera una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XVI. Evaluación del Impacto Ambiental: Procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
 
-XVI. Normas Oficiales Mexicanas: Las que se elaboren, expidan y consideren como tales conforme a la Ley Federal de Metrología y Normalización;
+XVII. Ley: Ley Ambiental para el Estado de Chiapas.
 
-XVII. Normas Técnicas Ambientales Estatales: Las que se elaboren y expidan de conformidad con lo que señala la presente ley;
+XVIII. Gestión Integral: Conjunto de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, del monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales.
 
-XVIII. Ordenamiento Ecológico del Territorio: El instrumento de política ambiental, cuyo objeto es regular e inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XIX. Manejo integral: Son las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adoptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
 
-XIX. Preservación: El conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
+XX. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el Impacto Ambiental significativo y el potencial que genera una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
-XX. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro;
+XXI. Normas Oficiales Mexicanas: Las que se elaboren, expidan y consideren como tales conforme a la Ley Federal de Metrología y Normalización.
 
-XXI. Residuos de manejo especial: Aquellos generados en los procesos productivos, y que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+XXII. Normas Técnicas Ambientales Estatales: Las que se elaboren y expidan de conformidad con lo que señala la presente ley.
 
-XXII. Residuos sólidos urbanos: Los generados en las casas habitación, resultantes de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques, así como los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
+XXIII. Ordenamiento Ecológico del Territorio: El instrumento de política ambiental, cuyo objeto es regular e inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
-XXIII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones ambientales que propician la evolución y continuidad de las especies y de los procesos naturales;
+XXIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-XXIV. Riesgo Ambiental: Es la probabilidad de consecuencias negativas físicas, económicas, sociales y ambientales en un sitio particularmente vulnerable, a causa de una amenaza natural o antropogénica que se manifiestan en un determinado período de tiempo;
+XXV. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro.
 
-XXV. Secretaría: Secretaría de Medio Ambiente y Vivienda;
+XXVI. Residuos de manejo especial: Aquellos generados en los procesos productivos, y que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
 
-XXVI. Servicios Ambientales: Los beneficios de interés social e individual que se generan o se derivan de: los bosques y selvas, las cuencas hidrológicas y sus componentes, tales como regulación climática, conservación de los ciclos hidrológicos, control de la erosión, control de inundaciones, recarga de acuíferos, mantenimiento de escurrimientos en calidad y cantidad, formación de suelo, captura de carbono, purificación de cuerpos de agua, así como conservación y protección de la biodiversidad;
+XXVII. Residuos sólidos no peligrosos: Las grasas y aceites de origen vegetal o animal, que surgen de las actividades domésticas, servicios públicos y establecimientos restauranteros, y en donde se desechan como inútiles o no requeridos.
 
-XXVII. Verificación: Acciones de inspección y vigilancia que realiza la Secretaría a través del personal debidamente acreditado, para la acciones que establece la presente ley, en los términos que en la misma se expresan; y,
+XXVIII. Residuos sólidos urbanos: Los generados en las casas habitación, resultantes de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques, así como los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole.
 
-XXVIII. Vigilancia: Monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente ley.
+XXIX. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones ambientales que propician la evolución y continuidad de las especies y de los procesos naturales.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+XXX. Riesgo Ambiental: Es la probabilidad de consecuencias negativas físicas, económicas, sociales y ambientales en un sitio particularmente vulnerable, a causa de una amenaza natural o antropogénica que se manifiestan en un determinado período de tiempo.
 
-XXIX. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riegos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
+XXXI. Secretaría: Secretaría de Medio Ambiente e Historia Natural.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+XXXII. Servicios Ambientales: Los beneficios de interés social e individual que se generan o se derivan de: los bosques y selvas, las cuencas hidrológicas y sus componentes, tales como regulación climática, conservación de los ciclos hidrológicos, control de la erosión, control de inundaciones, recarga de acuíferos, mantenimiento de escurrimientos en calidad y cantidad, formación de suelo, captura de carbono, purificación de cuerpos de agua, así como conservación y protección de la biodiversidad.
 
-XXX. Evaluación del Impacto Ambiental: Procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
+XXXIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de manejo y gestión integral, así como eficiencia ambiental, tecnológica y económica.
 
-### CAPITULO II. Del Sistema Estatal de Asistencia Social
+XXXIV. Verificación: Acciones de inspección y vigilancia que realiza la Secretaría a través del personal debidamente acreditado, para la (sic) acciones que establece la presente ley, en los términos que en la misma se expresan.
 
-###### ARTICULO 9º.
+XXXV. Vigilancia: Monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente ley.
 
-El Sistema Estatal de Asistencia Social estará constituido por el Ejecutivo del Estado, las dependencias y entidades de la administración pública vinculadas a la asistencia social, los DIF municipales, y las instituciones de asistencia privada inscritas en el Directorio Estatal de Instituciones de Asistencia Privada y certificadas por el DIF Estatal.
-
-Las dependencias y entidades de la administración pública que integran el sistema son:
-
-I. La Secretaría de Desarrollo Social y Regional;
-
-II. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2015)
-
-III. La Secretaría de Finanzas;
-
-IV. La Secretaría de Educación;
-
-V. Los Servicios de Salud;
-
-VI. El DIF Estatal;
-
-VII. La Procuraduría General de Justicia, y
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-VIII. La Coordinación Estatal de Protección Civil.
+### Capítulo Segundo. De las Autoridades Ambientales en el Estado
 
 ###### Artículo 4.
 
@@ -439,9 +215,15 @@ IX. Impulsar la implementación de reconocimientos, esquemas de certificación y
 
 X. Expedir los reglamentos en las materias a las que se refiere la presente ley;
 
-XI. Expedir las Normas Técnicas Ambientales Estatales; y,
+XI. Expedir las Normas Técnicas Ambientales Estatales; y, (sic)
 
-XII. Las demás que conforme a esta ley y a otros ordenamientos legales en la materia le correspondan.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XII. Promover, en coordinación con el Gobierno Federal y las autoridades correspondientes, la creación de infraestructura para el manejo y gestión integral, así como la valorización de residuos sólidos no peligrosos;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XIII. Las demás que conforme a esta ley y a otros ordenamientos legales en la materia le correspondan.
 
 ###### Artículo 7.
 
@@ -475,7 +257,9 @@ XIII. Autorizar, controlar y vigilar las actividades que no sean consideradas al
 
 XIV. Prevenir, controlar y procurar la eliminación de la contaminación de las aguas de competencia del Estado así como de las aguas nacionales que tenga asignadas este último, así como establecer las condicionantes particulares para descarga de aguas residuales de las industrias y servicios de los centros de población que las dispongan en los sistemas de drenaje y alcantarillado municipal con la participación de los Ayuntamientos Municipales respectivos por sí mismos, o a través de los organismos operadores del agua;
 
-XV. Autorizar y llevar el control de los sistemas de almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos y residuos de manejo especial, que conforme a lo establecido en la legislación de la materia y demás ordenamientos legales aplicables, no sean considerados de competencia federal;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XV. El control y vigilancia de los sistemas de almacenamiento, manejo y gestión integral de los residuos sólidos no peligrosos, residuos sólidos urbanos y residuos de manejo especial, que conforme a lo establecido en la legislación de la materia y demás ordenamientos legales aplicables, no sean considerados de competencia federal.
 
 XVI. Prevenir, controlar y procurar la eliminación de la contaminación generada por la emisión de ruido, vibraciones, energía térmica o lumínica, radiaciones electromagnéticas, olores, gases y partículas perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos industriales, así como de fuentes móviles, conforme a lo establecido en la presente ley;
 
@@ -503,9 +287,25 @@ XXVII. Participar en los diferentes ámbitos educativos para desarrollar los con
 
 XXVIII. Organizar y operar los Sistemas Estatales de Monitoreo Ambiental que de esta ley se deriven, en coordinación con las autoridades competentes;
 
-XXIX. Proporcionar apoyo, capacitación y asesoría técnica a las comunidades rurales e indígenas para el desarrollo de actividades de preservación y aprovechamiento sustentable de los ecosistemas, la elaboración de programas de manejo de recursos naturales y manejo de residuos sólidos, el desarrollo de estudios de poblaciones, comunidades y ecosistemas, así como para la solicitud de las autorizaciones correspondientes en las materias de la presente ley; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-XXX. Las demás que se determinen en la presente ley y demás disposiciones legales aplicables.
+XXIX. Proporcionar apoyo, capacitación y asesoría técnica a las comunidades rurales e indígenas para el desarrollo de actividades de preservación y aprovechamiento sustentable de los ecosistemas, la elaboración de programas de manejo de recursos naturales y manejo de residuos sólidos, el desarrollo de estudios de poblaciones, comunidades y ecosistemas, así como para la solicitud de las autorizaciones correspondientes en las materias de la presente ley.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXX. Diseñar e instrumentar programas estatales para incentivar a los generadores de residuos sólidos no peligrosos, a reducir su generación y someterlos a un manejo integral.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXXI. Establecer programas estatales para mejorar el desempeño ambiental en las cadenas productivas que intervienen en la segregación, acopio y preparación de los residuos sólidos no peligrosos para su reciclaje.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXXII. Desarrollar guías y lineamientos en el ámbito de su competencia, para la segregación, recolección, acopio, almacenamiento, reciclaje, tratamiento y transporte de residuos sólidos no peligrosos.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXXIII. Las demás que se determinen en la presente ley y demás disposiciones legales aplicables.
 
 ###### Artículo 8.
 
@@ -557,1167 +357,925 @@ XXII. Establecer las medidas necesarias en el ámbito de su competencia, para im
 
 XXIII. Concertar las acciones con los sectores sociales involucrados en las materias de la presente ley;
 
-XXIV. Establecer, con la participación de las autoridades competentes, zonas intermedias de salvaguarda, cuando se lleven a cabo o pretendan realizar actividades riesgosas que pudieran afectar al ambiente o a la salud humana; y,
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-XXV. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiera esta ley u otros ordenamientos legales en concordancia con ella, y que no estén otorgados expresamente a la Federación o al Estado.
+XXIV. Establecer, con la participación de las autoridades competentes, zonas intermedias de salvaguarda, cuando se lleven a cabo o pretendan realizar actividades riesgosas que pudieran afectar al ambiente o a la salud humana;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXV. Controlar y vigilar, en coordinación con el Ejecutivo del Estado, a través de la Secretaría y el órgano correspondiente, en manejo y gestión integral de los residuos sólidos no peligrosos; observando en todo momento, lo dispuesto por la legislación federal de la materia.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXVI. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiera esta ley u otros ordenamientos legales en concordancia con ella, y que no estén otorgados expresamente a la Federación o al Estado.
 
 ###### Artículo 9.
 
 Los Ayuntamientos Municipales están facultados para reglamentar en lo referente al otorgamiento de autorizaciones en materia de la presente ley en el ámbito de su competencia, vigilando en todo momento el cumplimiento de su finalidad.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Los integrantes del Sistema Estatal de Asistencia Social contribuirán al logro de los siguientes objetivos:
+Los Ayuntamientos Municipales designarán a uno de sus Regidores como encargado de la materia de Ecología; asimismo, deberá existir un área administrativa encargada de identificar las acciones para preservar y restaurar el equilibrio ecológico y la protección al ambiente en el territorio municipal, proponer prioridades y programas para su atención, así como impulsar la participación de los pueblos y comunidades indígenas, los sectores público, social y privado y de la comunidad en general en estas tareas, así como aplicar las disposiciones que establece esta ley y demás ordenamientos legales aplicables en el ámbito de su competencia.
 
-I. Garantizar la extensión cuantitativa y cualitativa de los servicios de asistencia social, preferentemente en las regiones y municipios con mayor índice de marginación y pobreza;
+###### Artículo 11.
 
-II. Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de servicios, así como de cobertura, y
+Los Ayuntamientos Municipales dictarán los ordenamientos municipales, los reglamentos, circulares y demás disposiciones administrativas que correspondan a sus respectivas circunscripciones, de tal manera que se cumplan las previsiones del presente ordenamiento legal.
 
-III. Proponer programas inter e intrainstitucionales que aseguren la atención integral de los sujetos de asistencia.
+###### Artículo 12.
 
-###### ARTICULO 11.
+Los Ayuntamientos Municipales, en el ámbito de su competencia, podrán aplicar de manera supletoria lo dispuesto en esta ley, a falta de reglamentación municipal específica en la materia.
 
-El Sistema Estatal de Asistencia Social contará con un Consejo que fungirá como el órgano de gobierno del mismo, y se denominará Consejo Estatal de Asistencia Social.
+### Capítulo Tercero. De la Coordinación Interinstitucional
 
-###### ARTICULO 12.
+###### Artículo 13.
 
-El Consejo Estatal de Asistencia Social se integrará por:
+El Gobierno del Estado y los Ayuntamientos Municipales ejercerán sus atribuciones en materia de preservación, restauración y conservación del equilibrio ecológico y la protección al ambiente, conforme a esta ley y demás ordenamientos legales aplicables.
 
-I. El Gobernador Constitucional del Estado, quien lo presidirá;
+###### Artículo 14.
 
-II. El Secretario de Desarrollo Social y Regional;
+El titular del Ejecutivo Estatal, podrá suscribir convenios o acuerdos de coordinación con la Federación, con el objeto de que el Gobierno del Estado asuma las siguientes funciones:
 
-III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2015)
+I. La administración y vigilancia de las áreas naturales protegidas de competencia de la federación, conforme a lo establecido en la legislación federal;
 
-IV. El Secretario de Finanzas;
+II. La protección y preservación de la flora y fauna silvestre, del suelo y de los recursos forestales, así como la biodiversidad y el patrimonio genético, en los términos de la legislación aplicable;
 
-V. El Secretario de Educación;
+III. Las funciones y atribuciones que se deriven de la distribución de competencias en materia de pesca y acuacultura sustentables;
 
-VI. El Director General de los Servicios de Salud;
+IV. La protección, preservación y restauración del equilibrio ecológico en la zona federal marítimo terrestre, así como en la zona federal de los cuerpos de agua considerados como nacionales en el ámbito de su jurisdicción territorial, conforme a lo dispuesto en la Ley de Aguas para el Estado y las demás disposiciones legales aplicables;
 
-VII. El Director General del DIF Estatal;
+V. Las funciones que en materia de ordenamiento ecológico del territorio se deriven en la aplicación de los programas de ordenamiento ecológico regional;
 
-VIII. El Procurador General de Justicia, y
+VI. La evaluación del impacto ambiental de las obras o actividades a que se refiere el artículo 28 de la Ley General de Equilibrio Ecológico y Protección al Ambiente y, en su caso, la expedición de las autorizaciones respectivas, con excepción de las obras o actividades que señala la fracción III del artículo 11 de dicho ordenamiento legal;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+VII. El control de los residuos peligrosos conforme a lo dispuesto en la legislación federal de la materia;
 
-IX. El Director General de la Coordinación Estatal de Protección Civil.
+VIII. La prevención, control y procuración de eliminación de la contaminación a la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
-El Consejo contará con un Secretario Técnico que será el Director General del DIF Estatal.
+IX. La prevención, control y procuración de eliminación de la contaminación ambiental originada por ruido, vibraciones, energía térmica o lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
-El sistema contará asimismo, con un Consejo Consultivo formado por los representantes de las instituciones de asistencia privada inscritas en el Directorio Estatal de Instituciones de Asistencia Privada y certificadas por del DIF Estatal.
+X. La realización de acciones operativas de inspección y vigilancia, tendientes a cumplir con los fines previstos en la legislación federal; y
 
-Los miembros de ambos consejos designarán a sus respectivos suplentes.
+XI. La inspección y vigilancia ambiental del cumplimiento de la legislación federal y demás disposiciones que de ellas se deriven en las materias a las que se hace referencia en el presente artículo.
 
-### CAPITULO III. Del Sistema para el Desarrollo Integral de la Familia del Estado
+En contra de los actos administrativos que emita el Gobierno del Estado y, en su caso, los Ayuntamientos Municipales en el ejercicio de las facultades que asuman de conformidad con este precepto en contra de los particulares, procederán los recursos y medios de defensa establecidos en esta ley;
 
-###### ARTICULO 13.
+Asimismo, el titular del Ejecutivo Estatal podrá suscribir convenios de coordinación con los Ayuntamientos Municipales, previo acuerdo con la Federación, a efecto de que dichos Ayuntamientos asuman y ejerzan las funciones anteriormente referidas.
 
-El Consejo Estatal de Asistencia Social tendrá las siguientes facultades:
+###### Artículo 15.
 
-I. Contribuir a la formación del Programa Estatal de Asistencia Social, así como a la aplicación o vigilancia de las estructuras y acciones que de él deriven;
+Los convenios o acuerdos de coordinación que suscriba el Estado con la Federación y los Ayuntamientos Municipales para los propósitos a que se refiere el artículo anterior, deberán celebrarse conforme a las bases siguientes:
 
-II. Conocer y opinar sobre los programas y estudios para la atención, protección e integración social de los sujetos de asistencia social;
+I. Definirán con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
 
-III. Conocer y opinar sobre los planes de labores e informes de actividades de las instituciones de asistencia social públicas y privadas;
+II. Deberán ser congruentes con las disposiciones de los planes nacional, estatal y municipal de desarrollo y el convenio de desarrollo social que suscriben anualmente el Ejecutivo Federal y el Ejecutivo del Estado;
 
-IV. Fungir como órgano de coordinación y consulta para propiciar y organizar la participación de las instituciones de asistencia social públicas y privadas;
+III. Describirán los bienes y recursos que aporten las partes, aclarando cuál será su destino específico y su forma de administración;
 
-V. Fijar los criterios en que se sustentarán las bases para el otorgamiento de los reconocimientos y certificaciones que emita el DIF Estatal, y
+IV. Definirán el órgano u órganos que llevarán a cabo las acciones, incluyendo las de evaluación, y precisarán las facultades que se asumen de forma inmediata a la firma del convenio o acuerdo y las otorgadas en forma posterior;
 
-Las demás que le confiera esta Ley, sus reglamentos y demás disposiciones legales aplicables.
+V. Precisarán la vigencia del instrumento, las formas y procedimientos para su modificación, terminación o prórroga, así como el número y duración de estas últimas, además del cronograma de las actividades a realizar;
 
-###### ARTICULO 14.
+VI. Contendrán los anexos técnicos necesarios para detallar los compromisos adquiridos;
 
-El Consejo Estatal de Asistencia Social se reunirá cuando menos trimestralmente en sesión ordinaria, previa convocatoria que para el efecto se expida; y en sesión extraordinaria cuando sea convocada de conformidad con el Reglamento de esta Ley.
+VII. Contendrán las demás estipulaciones que las partes consideren necesarias para su correcto y estricto cumplimiento;
 
-El Consejo Estatal de Asistencia Social convocará a sesión al Consejo Consultivo cuando lo considere conveniente, no pudiendo ser el número de éstas, menor a dos sesiones ordinarias anuales.
+VIII. Para efectos en el otorgamiento de los permisos o autorizaciones en materia de impacto ambiental que correspondan al Estado, o en su caso, a los Ayuntamientos Municipales, deberán seguirse los procedimientos establecidos en la sección V de la Ley General de Equilibrio Ecológico y Protección al Ambiente, además de lo que establezcan las disposiciones legales y normativas locales correspondientes; y, (sic)
 
-###### ARTICULO 15.
+IX. En el caso de los convenios en los que se asuman atribuciones federales en materia de Evaluación de Impacto Ambiental, los procedimientos se llevarán a cabo de conformidad con lo que señala el Reglamento de la Ley federal en materia de evaluación del impacto ambiental; y,
 
-El Sistema para el Desarrollo Integral de la Familia del Estado, es un organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propios, sectorizado bajo la coordinación de la oficina del Gobernador Constitucional del Estado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-Este sistema es el órgano rector de la asistencia social en el Estado.
+X. Los convenios o acuerdos de coordinación a que se refiere el presente artículo, deberán ser publicados en el Diario Oficial de la Federación y el Periódico Oficial.
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-El DIF Estatal tendrá las siguientes atribuciones:
+El Gobierno del Estado podrá suscribir convenios o acuerdos de coordinación y colaboración con otras Entidades Federativas, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables.
 
-I. Normativas:
+Las mismas facultades podrán ejercer los Ayuntamientos Municipales entre sí, de conformidad con lo que establezcan las leyes respectivas, recabando previamente el visto bueno de la Secretaría.
 
-a) Establecer las bases para la coordinación de las acciones de las instituciones públicas y privadas que desarrollen tareas asistenciales.
+###### Artículo 17.
 
-b) Elaborar el Programa Estatal de Asistencia Social conforme al Plan Estatal de Desarrollo y demás disposiciones legales aplicables, tomando en cuenta las propuestas del Consejo Estatal de Asistencia Social.
+Las dependencias y entidades del Gobierno del Estado, se coordinarán con la Secretaría para la realización de las acciones conducentes en materia ambiental, así como cuando se considere la existencia de peligro para el equilibrio ecológico de alguna zona o región del Estado.
 
-c) Coordinar las acciones públicas y privadas para la integración social de los sujetos de asistencia, así como validar y dar seguimiento a los programas respectivos.
+## Título Segundo. De la Política Ambiental en el Estado y sus Instrumentos
 
-d) Establecer prioridades en materia de asistencia social y las medidas y criterios para desarrollarlas;
+### Capítulo Primero. Política Ambiental Estatal
 
-II. Operativas:
+###### Artículo 18.
 
-a) Realizar y apoyar estudios e investigaciones en las disciplinas que tienen relación con la asistencia social.
+Para la formulación y conducción de la política ambiental en el Estado, además de los principios contenidos en la legislación federal de la materia, se observarán los siguientes:
 
-b) Promover la capacitación y profesionalización del personal encargado de las tareas asistenciales.
+I. Ser congruente con las particularidades ambientales de la entidad y guardar concordancia con los lineamientos de la política ambiental nacional y sectorial;
 
-c) Elaborar modelos de atención destinados a mejorar los servicios asistenciales.
+II. Considerar los criterios de preservación y restauración del equilibrio ecológico en el ejercicio de las atribuciones que las leyes confieren al Estado y a los Ayuntamientos Municipales, para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social;
 
-d) Promover la creación de fondos mixtos para la asistencia social.
+III. Considerar el componente ambiental en todo proyecto, programa o instrumento de desarrollo económico;
 
-e) Asignar de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones que lo soliciten, con base en los criterios que sean fijados por la Junta Directiva, por esta Ley y su Reglamento.
+IV. Promover la colaboración y coordinación entre las dependencias de la Administración Pública Federal, Estatal y Municipal así como la participación de la sociedad;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+V. Garantizar el derecho individual y colectivo al uso, disfrute y aprovechamiento sustentable de los recursos naturales; y,
 
-f) Operar establecimientos de asistencia social en beneficio de niñas, niños y adolescentes, mujeres y adultos mayores en situación vulnerable.
+VI. El respeto y la conservación de los conocimientos tradicionales de los pueblos indígenas y sus comunidades, para la conservación del ambiente y el uso sustentable de los recursos naturales.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+###### Artículo 19.
 
-g) Autorizar los procedimientos de adopción de niñas, niños y adolescentes que se encuentren albergados en instituciones públicas y privadas, fungiendo como autoridad central en materia de adopciones internacionales, en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya, así como del Código Familiar para el Estado de San Luis Potosí.
+Los Ayuntamientos Municipales, en el ámbito de su competencia, observarán y aplicarán los principios a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+### Capítulo Segundo. Instrumentos de la Política Ambiental
 
-h) Ejecutar acciones de prevención y rehabilitación de personas con discapacidad en centros no hospitalarios.
+###### Artículo 20.
 
-i) Acreditar la discapacidad de las personas que así lo soliciten, para hacer uso de los beneficios especiales que se les otorgan.
+Los instrumentos mediante los cuales las autoridades estatales competentes llevarán a cabo los objetivos de la política ambiental, son los siguientes:
 
-j) Atender, asesorar y orientar a las personas y grupos que lo soliciten para tratar asuntos relacionados con funciones de la asistencia social.
+I. La planeación ambiental;
 
-k) Compilar y sistematizar los instrumentos normativos internacionales, nacionales y estatales relacionados con la asistencia social.
+II. Ordenamiento ecológico del territorio;
 
-l) Conducir la aplicación del Programa Estatal de Asistencia Social y anualmente someter sus resultados a la aprobación de la Junta Directiva.
+III. Participación social;
 
-m) Organizar el Sistema Unico de Información en Materia de Asistencia Social.
+IV. Sistema Estatal de Información Ambiental;
 
-n) Otorgar reconocimientos, establecer y promover estímulos para motivar acciones asistenciales.
+V. Fondo Estatal Ambiental;
 
-o) Avalar el objeto y actividades de las instituciones de asistencia privada legalmente constituidas, cuando así lo soliciten, previa investigación que de las mismas se haga.
+VI. Educación e investigación para el desarrollo sustentable;
 
-p) Orientar el destino de los recursos que en materia de asistencia social le aporten las dependencias y entidades del Gobierno Federal y Estatal.
+VII. Instrumentos económicos para la promoción del desarrollo sustentable y la protección ambiental;
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+VIII. Regulación ambiental para los asentamientos humanos;
 
-q) Elaborar el Censo Nominal de personas con discapacidad en el Estado, con la información generada por cada uno de los municipios.
+IX. Autorregulación y auditorías ambientales;
 
-r) Proponer a los Servicios de Salud de San Luis Potosí en su carácter de administrador del Patrimonio de la Beneficencia Pública en el Estado, programas de asistencia social para su financiamiento, en los términos que para tal efecto se convenga.
+X. Evaluación del impacto y riesgo ambiental; y,
 
-s) Impartir cursos de inducción y capacitación al personal de los DIF municipales en materia de asistencia social y sobre los programas asistenciales que operen en sus municipios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
-
-t) Realizar inspecciones en los centros de tratamiento y rehabilitación de adicciones, a fin de comprobar que se respeten los derechos humanos de las personas internas o recluidas y, en su caso, determinar la existencia de violación a los mismos, a efecto de imponer la sanción establecida en el presente Ordenamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-u) Los demás similares que sirvan al cumplimiento de los objetivos del DIF Estatal, y
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE SEPTIEMBRE DE 2010)</small>
-
-III. De difusión:
-
-a) Divulgar la información sobre el acceso al financiamiento internacional, nacional y estatal para los programas de asistencia social, así como lo relacionado con cada uno de sus servicios.
-
-b) Fomentar la creación, desarrollo y fortalecimiento de las instituciones de asistencia privada, así como dar a conocer a la sociedad los servicios que éstas prestan, con el propósito de promover su desarrollo y fortalecimiento.
-
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
-
-c) Promover ante las dependencias y entidades de la administración pública del Estado y municipios, la adaptación del espacio urbano para que satisfaga los requerimientos legales según la Norma Oficial Mexicana respectiva, para el libre tránsito y autonomía de las personas con discapacidad.
-
-d) Publicar los datos estadísticos que arroje el Sistema Unico de Información en Materia de Asistencia Social, para coadyuvar a la elaboración de programas preventivos.
-
-e) Difundir información para un sano desarrollo físico, mental y social de los sujetos de asistencia, especialmente en materia de prevención de desastres naturales o provocados, violencia familiar, educación sexual y aquellas que sean relevantes para prevenir situaciones que posteriormente propicien la aplicación de acciones de asistencia social.
-
-Las demás que sean necesarias para la mejor aplicación de los servicios asistenciales.
-
-###### ARTICULO 17.
-
-En la prestación de servicios y en la realización de acciones, el DIF Estatal actuará en coordinación con las dependencias y entidades de Gobierno del Estado y las municipales, según la competencia que a éstas otorgan las leyes.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
-
-## TITULO SEGUNDO. DE LA PROCURADURIA DE PROTECCION DE NIÑAS, NIÑOS, ADOLESCENTES, LA MUJER, LA FAMILIA, Y EL ADULTO MAYOR
-
-### CAPITULO I. De su Naturaleza y Funciones
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 18.
-
-La atención y rehabilitación de las personas con discapacidad, la brindará el DIF Estatal, a través de la Dirección de Integración Social de Personas con Discapacidad; la que tendrá por objeto coordinar y, en su caso, ejecutar los programas a que se refiere la Ley Estatal para las Personas con Discapacidad, esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
-
-ARTICULO 18 BIS. El DIF Estatal establecerá una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste, y los que proporcionen los establecimientos del sector salud y las instituciones de asistencia privada.
-
-###### ARTICULO 19.
-
-A efecto de otorgar la atención a los sujetos de asistencia social a que se refiere esta Ley, el DIF Estatal contará con establecimientos públicos de asistencia social, que tendrán por objeto:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-I. El albergue temporal de niñas, niños y adolescentes con o sin discapacidad, mujeres y adultos mayores en situación vulnerable, en donde se llevan a cabo preferentemente los siguientes servicios:
-
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
-
-a) La alimentación y bebidas con alto contenido nutricional y bajo o nulo contenido calórico.
-
-b) El fomento y cuidado de la salud.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-c) La vigilancia del desarrollo educativo en el caso de niñas, niños y adolescentes.
-
-d) La promoción de actividades educativas y recreativas.
-
-e) La capacitación para el trabajo e incorporación a una vida productiva.
-
-f) La atención médica y psicológica.
-
-g) El apoyo jurídico;
-
-II. El albergue y atención especializada a menores con discapacidad producida por daño neurológico;
-
-III. La investigación a través de las áreas de trabajo social en vinculación con centros de investigación públicos o privados, y
-
-IV. La rehabilitación de personas con discapacidad.
-
-### CAPITULO II. De su Integración
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 20.
-
-El DIF Estatal operará los establecimientos públicos de asistencia social en los términos de esta Ley, su Reglamento, las Normas Oficiales Mexicanas y las demás disposiciones legales que le resulten aplicables.
-
-Asimismo, supervisará mediante los procedimientos que establece la ley, que los establecimientos privados cuyo objeto primordial sea la prestación de servicios de asistencia social, operen conforme a lo establecido en el párrafo que antecede.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+XI. Las Normas Técnicas Ambientales Estatales;
 
 #### Sección Primera. Planeación Ambiental
 
-###### ARTICULO 21.
+###### Artículo 21.
 
-Con el objeto de procurar y proteger el interés superior de niñas, niños y adolescentes sujetos a adopción, que se encuentren albergados en instituciones públicas y privadas autorizadas, el DIF Estatal constituirá e integrará el Consejo Estatal de Adopciones, y el Consejo Técnico de Adopciones.
+En la planeación del desarrollo integral y sustentable del Estado se observarán los lineamientos de política ambiental que establezca el Plan Nacional de Desarrollo, así como los programas correspondientes, y serán considerados los principios de política ambiental que establece esta ley, la Ley de Planeación para el Estado de Chiapas y demás ordenamientos legales en la materia.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
+###### Artículo 22.
 
-ARTICULO 21 BIS. El Consejo Estatal de Adopciones quedará integrado de la siguiente manera:
+En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes les confieren para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo, los programas correspondientes, y lo que señala el presente ordenamiento legal.
 
-I. Titular del Poder Ejecutivo del Estado: Presidencia Honoraria;
+###### Artículo 23.
 
-II. Director General del Sistema para el Desarrollo Integral de la Familia en el Estado: Presidencia Ejecutiva;
+El Ejecutivo del Estado a través de la Secretaría, formulará, ejecutará y evaluará periódicamente, en coordinación con los diferentes sectores involucrados, el Programa Estatal Ambiental, el cual contendrá las estrategias y acciones prioritarias, mediante la integración de las acciones de los diferentes sectores de conformidad con lo que señala la presente ley, la Ley de Planeación para el Estado de Chiapas y demás disposiciones legales aplicables.
 
-III. Titular de la Dirección de Asuntos Jurídicos del DIF Estatal: Secretaría Técnica;
+###### Artículo 24.
 
-IV. Primera Consejería: Secretaría General de Gobierno;
+Los Ayuntamientos Municipales, en el ámbito de su jurisdicción, dictarán los principios, medios y fines de su política ambiental y participarán en el proceso de planeación ambiental del Estado en los términos de la presente ley y lo previsto en la Ley de Planeación para el Estado de Chiapas.
 
-V. Segunda Consejería: Procuraduría General de Justicia, y
+###### Artículo 25.
 
-VI. Tercera Consejería: será un representante de las instituciones privadas autorizadas en materia de adopciones, el cual será designado de entre ellas mismas.
+En los planes y programas de desarrollo urbano deberán considerarse las disposiciones contenidas en la presente ley y su respectivo reglamento, en el que se determinarán los mecanismos y procedimientos para el diseño, formulación, ejecución, evaluación y seguimiento de los programas y proyectos de acción para la conservación y uso sustentable de los recursos naturales.
 
-Cada integrante del Consejo designará a su suplente, informándolo, por escrito, a la Presidencia Ejecutiva; observándose la misma formalidad en caso de sustitución.
+###### Artículo 26.
 
-Las suplencias cuentan con voz y voto durante su representación.
+El Gobierno del Estado y los Ayuntamientos Municipales garantizarán el derecho de los habitantes de la Entidad a participar en forma individual o colectiva en la elaboración de los programas estatales y municipales que tengan por objeto las materias que se regulan en la presente ley, a través de la implementación de mecanismos de planeación participativa.
 
-Las personas que integran el Consejo desempeñarán sus funciones en forma honorífica y no recibirán retribución, gratificación, emolumentos o compensación alguna.
+###### Artículo 27.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
-
-ARTICULO 21 TER. El Consejo Estatal de Adopciones tendrá las siguientes atribuciones:
-
-l. Unificar todos los programas de adopción que se apliquen en el Estado, con el fin de lograr la uniformidad de los mismos en las instituciones públicas y privadas;
-
-II. Establecer los requisitos administrativos para adoptar;
-
-III. Coordinarse con las autoridades competentes, a fin de cumplir con su objeto general y las funciones propias del Consejo;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-IV. Instituir y mantener actualizado un padrón de instituciones públicas o privadas que tengan en custodia niñas, niños y adolescentes susceptibles de adopción;
-
-V. Determinar las instituciones públicas y privadas competentes para que realicen las evaluaciones necesarias en materia de adopción;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-VI. Fomentar la cultura de la adopción de niñas, niños y adolescentes susceptibles de ello, y
-
-VII. Las demás que le confiera ésta y otras leyes.
-
-Las facultades y obligaciones de cada uno de los miembros del Consejo Estatal de Adopciones, estarán establecidas en el Reglamento del Consejo Estatal de Adopciones.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
-
-ARTICULO 21 QUATER. El Consejo Técnico de Adopciones quedará integrado de la siguiente manera:
-
-I. Titular de la Junta Directiva del DIF Estatal: Presidencia Honoraria;
-
-II. Titular de la Dirección General del DIF Estatal: Presidencia Ejecutiva;
-
-III. Titular de la Dirección de Asuntos Jurídicos del DIF Estatal: Secretaría Técnica;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-IV. Primera Consejería: Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y el Adulto Mayor;
-
-V. Segunda Consejería: Presidencia de la Junta Directiva de la Casa Cuna Margarita Maza de Juárez;
-
-VI. Tercera Consejería: Dirección de la Casa Cuna Margarita Maza de Juárez;
-
-VII. Cuarta Consejería: Dirección General del Instituto de Reintegración Social Rosario Castellanos;
-
-VIII. Quinto Consejero: Dirección General del Instituto de Reintegración Social Rafael Nieto, y
-
-IX. Sexto Consejero: Dirección de Integración Social de Personas con Discapacidad de (sic) DIF Estatal.
-
-El cargo de integrante del Consejo Técnico de Adopciones será honorífico y no se recibirá retribución, gratificación, emolumentos o compensación alguna. Los integrantes contarán con voz y voto, y en caso de empate, la Presidencia Ejecutiva tendrá voto de calidad.
-
-Para el mejor desempeño de sus funciones, el Consejo Técnico de Adopciones, previo acuerdo, podrá solicitar la opinión de personas expertas en la materia, las que participarán en las sesiones del Consejo, con voz, pero sin voto.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-La forma de sesionar del Consejo Técnico de Adopciones, así como el procedimiento administrativo de solicitud de adopción, y las facultades de cada uno de sus miembros, se establecen en el Reglamento del Consejo Técnico de Adopciones del DIF Estatal, el cual se ajustará a lo que dispone el Código Familiar para el Estado de San Luis Potosí, esta Ley, su Reglamento y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
-
-ARTICULO 21 QUINQUE. El Consejo Técnico de Adopciones tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-I. Analizar detalladamente el cumplimiento de los requisitos administrativos, los expedientes para adopción propuestos al Consejo Técnico de Adopciones por la Secretaría Técnica, y los demás elementos propios del trámite administrativo, procurando en todo momento el interés superior de la niñez y adolescencia susceptible de adopción;
-
-II. Declarar la idoneidad o lo que proceda en su caso, de conformidad con los requisitos de adopción, previa revisión y debate acerca del expediente administrativo de las personas solicitantes;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-III. Asignar a niñas, niños y adolescentes susceptibles de adopción albergados en las instituciones públicas, a los solicitantes previamente declarados idóneos;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-IV. Ordenar a las áreas correspondientes o canalizar a servicios profesionales externos, para la realización de las investigaciones y estudios complementarios, que permitan enriquecer el criterio del Consejo, en relación a los solicitantes, o a niñas, niños y adolescentes susceptibles de adopción;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-V. Adoptar las medidas pertinentes en cada caso, en lo referente a las convivencias temporales de las niñas, niños y adolescentes con los solicitantes;
-
-VI. Intervenir, a través de las áreas respectivas, en el seguimiento de la convivencia en las etapas previas a la adopción y posteriores a la misma;
-
-VII. Establecer la coordinación con instituciones públicas y privadas en el ámbito municipal, estatal y nacional, para mejorar los mecanismos de trabajo y las capacidades de decisión, así mismo, con instituciones públicas en el ámbito internacional;
-
-VIII. Llevar registro y control de las solicitudes de adopción aprobadas;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-IX. Mantener el archivo especializado de expedientes de niñas, niños y adolescentes otorgados en adopción, y
-
-X. Las demás que establezca la legislación vigente en materia de adopciones.
-
-El Consejo para el mejor desempeño de sus funciones, contará con las subcomisiones que considere necesarias.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
-
-###### ARTICULO 22.
-
-El DIF Estatal llevará a cabo programas y acciones con el objeto de reducir la situación de desventaja social, de aquellas personas y familias que se encuentren en condición de calle, proporcionándoles habilidades para el desarrollo laboral y psicosocial que les permitan la autosuficiencia económica.
-
-La coordinación de los programas y acciones a que refiere el párrafo anterior, se establecerá en el Reglamento Interno del DIF Estatal.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 23.
-
-En los casos de desastre natural o provocado, el DIF Estatal, conforme a sus funciones y sin perjuicio de las atribuciones que tengan otras dependencias y entidades, participará con la Coordinación Estatal y las coordinaciones municipales de protección civil, en las acciones necesarias para enfrentar la emergencia.
-
-###### ARTICULO 24.
-
-Para el estudio, planeación y despacho de los asuntos que le competen, el DIF Estatal contará con los siguientes órganos de gobierno:
-
-I. Una Junta Directiva, y
-
-II. Un Director General.
-
-###### ARTICULO 25.
-
-La Junta Directiva se integrará:
-
-I. Por un Presidente, que será el Gobernador Constitucional del Estado o la persona que él designe;
-
-II. Con un Secretario Técnico, que será el Director General del DIF Estatal, y
-
-III. Con vocales que serán los directores de las áreas normativas y operativas del DIF Estatal.
-
-El número de integrantes de la Junta Directiva no podrá ser menor de cinco. Su operación y funcionamiento será especificado en el Reglamento de esta Ley.
-
-Los integrantes de la Junta Directiva deberán designar a su respectivo suplente.
-
-###### ARTICULO 26.
-
-La Junta Directiva tendrá las siguientes facultades:
-
-I. Aprobar el Plan Anual de Asistencia Social, el programa operativo, presupuestos, informes de actividades y estados financieros;
-
-II. Autorizar los programas de mediano plazo a que quedarán sujetos los servicios de asistencia social que preste el DIF Estatal, con base en las prioridades y estrategias de los planes Nacional y Estatal de Desarrollo y en los programas sectoriales;
-
-III. Ratificar los programas asistenciales que transmita o delegue el DIF Estatal a los DIF municipales o ayuntamientos y validar el monto de los recursos en dinero o en especie que se les transfieran;
-
-IV. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que se otorguen al DIF Estatal;
-
-V. Conocer los convenios de coordinación o colaboración que se celebren con dependencias públicas, instituciones privadas y sociales, así como los convenios de coordinación o colaboración con organismos internacionales;
-
-VI. Aprobar el proyecto de Reglamento Interior, sometiéndolo a la consideración del Titular del Ejecutivo del Estado para su aprobación y publicación;
-
-VII. Aprobar el proyecto del Manual General de Organización del DIF Estatal, y el de Procedimientos y Servicios al Público, contando para ello con la asesoría técnica de la Oficialía Mayor del Gobierno del Estado;
-
-VIII. Conocer los informes, dictámenes y recomendaciones del contralor interno y en su caso del auditor externo;
-
-IX. Estudiar y aprobar los proyectos de inversión;
-
-X. Conocer la integración de comités internos y grupos de trabajo;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
-XI. Otorgar al Director General representación para celebrar actos de dominio;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
-XII. Otorgar a quien presida, la representación para que como vocal integre el Consejo Estatal de Trasplantes, y
-
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
-
-XIII. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
-
-###### ARTICULO 27.
-
-La vigilancia de la aplicación de los recursos estará a cargo de un Contralor Interno quien regulará su función en los términos de la Ley Orgánica de la Administración Pública del Estado y demás disposiciones legales aplicables.
+En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal se observarán los criterios ecológicos específicos que establece esta ley y demás disposiciones que de ella emanen, dentro de sus ámbitos de competencia, y que se relacionen con la promoción del desarrollo de la entidad.
 
 #### Sección Segunda. Ordenamiento Ecológico del Territorio
 
-###### ARTICULO 28.
+###### Artículo 28.
 
-Para ser Director General se requiere:
+El ordenamiento ecológico del territorio es el instrumento de política ambiental y de desarrollo urbano de carácter obligatorio, que tiene por objeto definir y regular los usos del suelo, el aprovechamiento de los recursos naturales y las actividades productivas, para hacer compatible la conservación de la biodiversidad con el desarrollo urbano y rural, así como las actividades económicas que se realicen, sirviendo de base para la elaboración de los programas y proyectos de desarrollo, así como para la autorización de obras y actividades que se pretendan ejecutar.
 
-I. Ser mexicano por nacimiento, en ejercicio de sus derechos;
+###### Artículo 29.
 
-II. Tener experiencia en materia administrativa, preferentemente vinculada a la asistencia social, y
+Conforme a lo dispuesto por el artículo 20 BIS 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, los programas de ordenamiento ecológico del territorio competencia del Estado son:
 
-III. Gozar de buena reputación y no haber sido condenado por delito que haya ameritado pena privativa de libertad de más de un año; pero si se tratare de delitos patrimoniales, violencia familiar o cualquier otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+I. El Programa de Ordenamiento Ecológico y Territorial del Estado de Chiapas, que comprenderá la totalidad del territorio estatal;
 
-El Gobernador del Estado en los términos de la Ley Orgánica de la Administración Pública del Estado, propondrá y en su caso removerá libremente al Director General.
+II. Los programas regionales de ordenamiento ecológico y territorial, que comprenderán parte del territorio del Estado en dos o más municipios; y
 
-###### ARTICULO 29.
+III. Los programas municipales de ordenamiento ecológico y territorial.
 
-El Director General tendrá las siguientes facultades:
+###### Artículo 30.
 
-I. Ejecutar los acuerdos y disposiciones de la Junta Directiva;
+El ordenamiento ecológico del territorio deberá llevarse a cabo como un proceso de planeación que promueva lo siguiente:
 
-II. Presentar para el conocimiento y aprobación de la Junta Directiva, los planes laborales, presupuestos, informe de actividades y estados financieros anuales del DIF Estatal, acompañados de los dictámenes y documentos que resulten pertinentes, y las recomendaciones que al efecto formule el Contralor Interno;
+I. La creación e instrumentación de mecanismos de coordinación entre las dependencias y entidades del Gobierno del Estado y de los Ayuntamientos Municipales, así como con la Administración Pública Federal en términos de las leyes aplicables en la materia;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+II. La participación social corresponsable de los grupos y sectores interesados;
 
-III. Nombrar y remover de conformidad con lo establecido en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, a los empleados de base y de confianza;
+III. La transparencia del proceso mediante el acceso, publicación y difusión constante de la información generada, los métodos utilizados y resultados obtenidos;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+IV. El rigor metodológico de los procesos para la obtención de información, análisis de la misma y generación de resultados;
 
-IV. Informar a la Junta Directiva la designación o remoción, en su caso, de directores, subdirectores, Fiscal, y Subprocurador de la Procuraduría de Protección;
+V. La instrumentación de procesos sistemáticos que permitan verificar los resultados generados en cada etapa del proceso de ordenamiento ecológico;
 
-V. Expedir o autorizar los nombramientos del personal y dirigir las relaciones laborales de acuerdo con las disposiciones legales aplicables;
+VI. La generación de indicadores ambientales que permitan la evaluación continua del proceso de ordenamiento ecológico, para determinar la permanencia de los programas, su ajuste o la corrección de desviaciones en su ejecución;
 
-VI. Planear, dirigir y controlar el funcionamiento del DIF Estatal con sujeción a los planes Nacional y Estatal de Desarrollo, y demás disposiciones legales aplicables;
+VII. La creación de lineamientos y la implementación de estrategias ecológicas con base en la información disponible;
 
-VII. Representar legalmente al DIF Estatal, con las más amplias facultades de ley, para actos de dominio requiriendo el acuerdo previo de la Junta Directiva. La enajenación y gravamen de inmuebles quedará sujeta a lo dispuesto por las disposiciones jurídicas aplicables;
+VIII. El establecimiento de la Bitácora Ambiental del Estado de Chiapas, como un sistema de monitoreo del programa de ordenamiento ecológico; y,
 
-VIII. Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del DIF Estatal, pudiendo delegar esta facultad discrecionalmente;
+IX. La permanencia o modificación de lineamientos y estrategias ecológicas a partir del análisis de los resultados del monitoreo.
 
-IX. Otorgar, sustituir o revocar poderes en los términos de la fracción anterior en asuntos en que sea parte el DIF Estatal, debiendo informar a la Junta Directiva sobre los resultados del otorgamiento, sustitución o revocación en su caso;
+###### Artículo 31.
 
-X. Otorgar, endosar y suscribir títulos de crédito y celebrar operaciones de crédito, siempre y cuando el origen de los títulos y de las operaciones se deriven de actos propios del DIF Estatal;
+La Secretaría, tiene la facultad para formular, ejecutar, evaluar y vigilar los programas a los que se refieren las fracciones I y II del artículo 29 de esta ley, en concordancia con los programas de ordenamiento ecológico expedidos por la Federación, observando los siguientes criterios:
 
-XI. Realizar actos, convenios, acuerdos y contratos de interés para el DIF Estatal, de conformidad con los lineamientos que determine la Junta Directiva;
+I. Las características y funciones de los ecosistemas del Estado;
 
-XII. Formular los proyectos de reglamentos interiores, manuales de organización y de procedimientos del DIF Estatal sometiéndolos para su validación a la Junta Directiva;
+II. La vocación de cada zona o región del Estado, en función de sus recursos naturales, la distribución de la población y las actividades económicas predominantes, las prácticas de aprovechamiento de los recursos naturales y sus repercusiones en los ecosistemas, así como el análisis de la relación de las comunidades indígenas con su entorno ecológico;
 
-XIII. Formular el Plan Anual de Asistencia Social y presentarlo para su aprobación a la Junta Directiva del DIF Estatal, asimismo, deberá dirigir las acciones que de él se deriven;
+III. Los criterios aplicables en función de las cuencas hidrológicas;
 
-XIV. Imponer las sanciones que con motivo de las infracciones a esta Ley, se hagan acreedoras las instituciones de asistencia privada;
+IV. Las alteraciones al ambiente existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas, o de fenómenos naturales;
 
-XV. Resolver los recursos administrativos en el ámbito de su competencia;
+V. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-XVI. Notificar sus propias resoluciones y actos administrativos por conducto del personal autorizado, en los términos del Reglamento Interior;
+VI. El impacto ambiental por la creación de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades;
 
-XVII. Dictaminar las actas administrativas que se levanten con motivo de las infracciones administrativas y laborales que cometan los servidores públicos y trabajadores del DIF Estatal, en el ejercicio de sus funciones o fuera de ellas según sea el caso, imponiendo las sanciones que en su caso correspondan y que determinen los ordenamientos legales aplicables;
+VII. Las modalidades que de conformidad con la presente Ley y la Ley General de Equilibrio Ecológico y Protección al Ambiente, establezcan los decretos por los que se constituyan las Áreas Naturales Protegidas, así como las demás disposiciones previstas en el programa de manejo respectivo, en su caso;
 
-XVIII. Avalar las actividades de las instituciones de asistencia privada que así lo soliciten, previa verificación de las mismas, y
+VIII. La evaluación de las actividades productivas predominantes en relación con su impacto ambiental, la distribución de la población humana y los recursos naturales en una zona o región; y
 
-XIX. Las demás que esta Ley le confiera y las que el Reglamento Interior especifique.
+IX. El ordenamiento ecológico tendrá prioridad sobre otros instrumentos que no sean compatibles con los principios del desarrollo sustentable, integrándose a los programas de desarrollo urbano.
 
-###### ARTICULO 30.
+###### Artículo 32.
 
-El patrimonio del DIF Estatal se integrará con:
+Los Ayuntamientos Municipales formularán, expedirán, ejecutarán, vigilarán y evaluarán los programas municipales de ordenamiento ecológico y territorial, observando los criterios establecidos en el artículo anterior, así como los elementos básicos de los programas municipales de desarrollo urbano, y tendrán por objeto:
 
-I. El presupuesto de gasto corriente que le destine al Gobierno del Estado;
+I. Determinar las distintas áreas ecológicas que se localizan en el municipio, zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área de que se trate;
 
-II. Los derechos y bienes muebles e inmuebles que sean de su dominio;
+II. Regular, fuera de los centros de población, los usos del suelo con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos; y
 
-III. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de la administración pública federal, estatal, municipal y las que le otorguen las personas físicas y morales;
+III. Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que se consideren en los planes o programas de desarrollo urbano correspondientes.
 
-IV. Las aportaciones, donaciones, legados y demás liberalidades que reciban de personas físicas o morales;
+###### Artículo 33.
 
-V. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+La formulación, expedición, ejecución, vigilancia y evaluación de los programas de ordenamiento ecológico del territorio del Estado se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación del Estado, la Ley General de Equilibrio Ecológico y Protección al Ambiente y su Reglamento en Materia de Ordenamiento Ecológico y demás disposiciones legales aplicables. Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación y demás personas interesadas, de acuerdo con lo establecido en esta Ley, así como en las demás disposiciones legales aplicables.
 
-VI. Las concesiones, permisos, licencias y autorizaciones que le otorguen conforme a la ley, y
+###### Artículo 34.
 
-VII. En general los demás bienes, derechos e ingresos que obtengan por cualquier título.
+Los programas de ordenamiento ecológico del territorio a que se refiere el artículo anterior deberán contar con lo siguiente:
 
-###### ARTICULO 31.
+I. Convenio de coordinación entre el Estado y la Federación o Ayuntamientos Municipales que correspondan, según sea la modalidad o fase de ordenamiento ecológico, para la determinación de acciones, lineamientos, criterios y estrategias, en materia de ordenamiento ecológico;
 
-El Gobierno del Estado y el DIF Estatal en el ámbito de su respectiva competencia, promoverán que las dependencias y entidades del Estado y de los municipios destinen los recursos necesarios a los programas de asistencia social.
+II. Determinación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
 
-###### ARTICULO 32.
+III. Criterios de regulación ecológica para la protección, conservación, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en la región de que se trate, así como para la realización de actividades productivas y la ubicación de asentamientos humanos;
 
-El DIF Estatal deberá emitir opinión sobre el otorgamiento de subsidios a instituciones públicas o privadas que actúen en el campo de la asistencia social, sin perjuicio de las facultades conferidas a otras dependencias y entidades públicas.
+IV. Lineamientos para su ejecución, evaluación, seguimiento y modificación;
 
-###### ARTICULO 33.
+V. Comité de Ordenamiento Ecológico; y,
 
-Las relaciones de trabajo entre el DIF Estatal y sus trabajadores se regirán por la legislación laboral respectiva.
+VI. Bitácora Ambiental.
 
-Los trabajadores del DIF Estatal contarán con los beneficios y servicios de seguridad social que las leyes de la materia determinan.
+###### Artículo 35.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2015)</small>
+Para la integración de los Comités de Ordenamiento Ecológico a que se refiere el artículo anterior, la Secretaría promoverá la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado y social, con el fin de lograr la congruencia de planes, programas y acciones sectoriales en el área de estudio, así como para resolver los conflictos ambientales y promover el desarrollo sustentable.
 
-###### ARTICULO 34.
+Los comités a que hace referencia el presente artículo, se regirán por lo que se determine en el convenio de coordinación respectivo.
 
-La Procuraduría de Protección es un órgano especializado del DIF Estatal, con autonomía técnica; cuyos objetivos son brindar servicios de orientación, asesoría, información y gestión jurídica en materia familiar, a los sujetos de asistencia social.
+###### Artículo 36.
 
-En el ejercicio de sus funciones la Procuraduría de Protección podrá solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con esta Ley, la Ley General y las disposiciones aplicables. La negativa será causal de responsabilidad de los servidores públicos.
+Los Comités de Ordenamiento Ecológico tendrán las siguientes funciones:
 
-Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquéllas con las que sea necesario, para garantizar los derechos de niñas, niños y adolescentes.
+I. Fomentar la articulación del programa de ordenamiento ecológico respectivo con el programa de ordenamiento ecológico y territorial del Estado de Chiapas y General del territorio;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+II. Verificar que en los procesos de ordenamiento ecológico, se observe lo establecido en el Capítulo Segundo del Reglamento en Materia de Ordenamiento Ecológico de la Ley General de Equilibrio Ecológico y Protección al Ambiente;
 
-###### ARTICULO 35.
+III. Verificar que los resultados del proceso de ordenamiento, ecológico se inscriban en la Bitácora Ambiental;
 
-Son facultades de la Procuraduría de Protección las siguientes:
+IV. Sugerir la modificación de los planes, los programas y las acciones sectoriales en el área de estudio y la suscripción de los convenios necesarios; y,
 
-I. Otorgar la asistencia y asesoría jurídica en materia familiar que soliciten las personas beneficiarias de los servicios de asistencia social;
+V. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-II. Ser parte en los juicios de adopción internacional, en los términos de la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional; y del Código Familiar para el Estado de San Luis Potosí;
+###### Artículo 37.
 
-III. Formar parte del Consejo Técnico de Adopciones del DIF Estatal, del Consejo Estatal de Adopciones; y consejos de adopciones de las instituciones de asistencia privada; así como asesorar y coordinar a los consejos municipales de adopciones;
+Los comités estarán integrados por:
 
-IV. Realizar el trámite administrativo de las solicitudes de adopción y presentarlas ante el Consejo Técnico para que éste dictamine sobre la idoneidad de los solicitantes;
+I. Un órgano ejecutivo, responsable de la toma de decisiones para la instrumentación de las acciones, procedimientos, estrategias y programas del proceso de ordenamiento ecológico, y que estará integrado por las autoridades y miembros de la sociedad civil determinados en el convenio de coordinación respectivo; y
 
-V. Autorizar que niñas, niños y adolescentes entregados a los albergues públicos o al DIF Estatal, o aquéllos cuyos padres hayan sido condenados a la pérdida de la patria potestad, sean propuestos ante el Consejo de Adopciones del DIF Estatal, para su integración a una familia;
+II. Un órgano técnico, encargado de la realización de los estudios y análisis técnicos necesarios para la instrumentación de las acciones, procedimientos, estrategias y programas del proceso de ordenamiento ecológico, y estará integrado por los especialistas determinados en el convenio de coordinación respectivo.
 
-VI. Recibir quejas, denuncias o informes sobre cualquier conducta que atente contra niñas, niños y adolescentes, y realizar las investigaciones correspondientes, para hacer valer los derechos de los mismos ante la autoridad que corresponda;
+###### Artículo 38.
 
-VII. Apoyar a los directores de los albergues en el ejercicio de la tutela de niñas, niños y adolescentes expósitos o abandonados acogidos en estas instituciones;
+La Secretaría, con la concurrencia de los Ayuntamientos Municipales, deberá someter, en los términos de los convenios respectivos, la propuesta de los programas de ordenamiento ecológico regionales a un proceso de consulta pública conforme a las siguientes bases:
 
-VIII. Investigar y, en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a niñas, niños y adolescentes, y mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
+I. Validará la propuesta de Programa de Ordenamiento Ecológico ante el Comité que corresponda, el cual definirá el plazo que estará disponible en dicho Programa para su consulta, los sitios donde se podrá consultar físicamente y los mecanismos de participación y difusión;
 
-IX. Gestionar y canalizar para su albergue y atención a niñas, niños y adolescentes con o sin discapacidad, mujeres y adultos mayores en estado de riesgo o abandono, a instituciones públicas o privadas;
+II. Publicará por una sola vez, en el Periódico Oficial y en uno de mayor circulación en el Estado, un aviso de inicio de la consulta pública, el cual deberá contener lo siguiente:
 
-X. Actuar como coadyuvante del Ministerio Público en los casos en que se vean involucrados sujetos de asistencia social;
+a) Se indicarán los lugares y fechas en que han de celebrarse las consultas públicas, así como los plazos y procedimientos para recibir las propuestas;
 
-XI. Solicitar en todo tiempo a las autoridades estatales o municipales la suspensión temporal o definitiva de patentes, licencias o concesiones; o el cambio de ubicación o clausura de cabarets, tabernas, bares, cervecerías, cantinas, billares o cualquier otro sitio análogo, cuando su funcionamiento afecte el bienestar social o familiar;
+b) Se señalará que en las consultas públicas, los asistentes podrán presentar por escrito las observaciones y comentarios que consideren pertinentes respecto del Programa o, en su caso, de sus modificaciones;
 
-XII. Promover entre las familias la constitución del patrimonio familiar;
+c) Se expresará que la procedencia o improcedencia de los escritos presentados que contienen las observaciones y comentarios a que hace referencia el inciso anterior, será determinada por la autoridad ambiental competente, debidamente motivada y fundamentada; y
 
-XIII. Procurar ante la Dirección del Registro Civil, a través de las oficialías a su cargo, la regularización de las uniones libres, previa orientación a las parejas sobre la naturaleza del matrimonio, y los derechos y obligaciones que de éste derivan;
+d) Se especificará que el dictamen a que se refiere el inciso anterior estará disponible para consulta de los interesados en las oficinas de la Secretaría y en la Bitácora Ambiental.
 
-XIV. Facilitar ante las oficialías adscritas al DIF Estatal el registro de nacimiento de niñas, niños y adolescentes, siempre y cuando sean sujetos de asistencia;
+III. Invitará a los representantes de los grupos y sectores sociales y privados que incidan en el patrón de ocupación del territorio a la consulta pública antes referida;
 
-XV. Coadyuvar a la oportuna integración de los Consejos Municipales de Adopciones y de tutelas, y auxiliar a éstos en el desempeño de sus funciones;
+IV. Concluido el plazo de consulta pública, la autoridad ambiental competente incorporará las observaciones dictaminadas procedentes al proyecto;
 
-XVI. Fungir como conciliador y mediador en casos de conflicto familiar, que ante ella se tramiten, dando fe de los convenios que las partes celebren, en especial cuando los derechos de las personas que protege esta instancia hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+V. El documento técnico y la cartografía, una vez adecuados, se presentarán con el Programa de Ordenamiento Ecológico ante el Comité con los resultados de la Consulta Pública para su validación; y,
 
-XVII. Denunciar ante las autoridades competentes los casos de personas extraviadas, apoyando a las familias que lo soliciten, especialmente tratándose de niñas, niños y adolescentes;
+VI. Una vez concluida la etapa anterior, el proyecto será remitido al Gobernador o en su caso al Cabildo, según corresponda, para que sea aprobado, si así se considera procedente, promulgado y publicado.
 
-XVIII. Requerir informes a instituciones públicas y privadas sobre asuntos relacionados con niñez y adolescencia de que conozcan; éstas deberán entregar la información a la brevedad en los términos que el Reglamento correspondiente establezca;
+El titular del Ejecutivo Estatal publicará en el Periódico Oficial del Estado el programa de ordenamiento ecológico del territorio, así como los programas de ordenamiento ecológico regionales.
 
-XIX. Procurar la protección integral de niñas, niños y adolescentes que prevé, la Constitución Política de los Estados Unidos Mexicanos; la Constitución Local; los tratados internacionales; la Ley General de los Derechos de las Niñas, Niños y Adolescentes; la Ley de los Derechos de Niñas, Niños y Adolescentes de San Luis Potosí, y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
+###### Artículo 39.
 
-a) Atención médica y psicológica.
+El proceso de ordenamiento ecológico del territorio deberá prever mecanismos para determinar con una periodicidad bienal el cumplimiento de las metas previstas en los programas, así como la evaluación de los resultados respecto de las expectativas de ordenación del territorio planteadas.
 
-b) Seguimiento a las actividades académicas y entorno social y cultural.
+La Secretaría promoverá que la modificación a los programas de ordenamiento ecológico de su competencia, siga el mismo procedimiento para su formulación, lo que deberá hacerse cuando se presente alguno de los siguientes supuestos:
 
-c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
+I. Los lineamientos y estrategias ecológicas ya no resulten necesarios o adecuados para la disminución de los conflictos ambientales y para el logro de los indicadores ambientales respectivos; o,
 
-XX. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la ley General de los Derechos de las Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes de San Luis Potosí y demás disposiciones aplicables;
+II. Las perturbaciones en los ecosistemas causadas por fenómenos físicos o meteorológicos se traduzcan en contingencias ambientales que sean significativas y pongan en riesgo el aprovechamiento sustentable de los recursos naturales, el mantenimiento de los bienes y servicios ambientales y la conservación de los ecosistemas y la biodiversidad.
 
-XXI. Denunciar ante el Ministerio Público aquéllos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+###### Artículo 40.
 
-XXII. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes tres horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+El programa de ordenamiento ecológico del territorio será considerado en la regulación del aprovechamiento de los recursos naturales, en la localización de las actividades productivas y en los asentamientos humanos, conforme a las siguientes bases:
 
-a) El ingreso de niña, niño o adolescente a un centro de asistencia social.
+I. En lo que se refiere a los asentamientos humanos, será considerado en:
 
-b) La atención médica inmediata por parte de alguna Institución del Sistema Nacional de Salud.
+a) Los programas estatal y municipales de desarrollo urbano;
 
-Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
+b) La fundación de nuevos centros de población;
 
-XXIII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público y a la autoridad jurisdiccional competente.
+c) La creación de reservas territoriales para el desarrollo urbano y la vivienda, y la determinación del uso y destino del suelo;
 
-Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+d) La ordenación urbana del territorio de la entidad y los programas estatales y municipales para infraestructura, equipamiento urbano y vivienda;
 
-Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
+e) Los financiamientos para infraestructura, equipamiento urbano y vivienda otorgados por las Instituciones de crédito público y privado y otras entidades; y,
 
-En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio correspondientes, a la autoridad competente;
+f) En los apoyos que otorguen el Gobierno del Estado y los gobiernos municipales para orientar los usos del suelo;
 
-XXIV. Coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada; en caso de incumplimiento a dichas medidas, interpondrá queja ante el órgano interno que corresponda, para que se proceda a la investigación y, en su caso, se inicie el procedimiento administrativo de responsabilidad en los términos de la legislación correspondiente;
+II. En cuanto al aprovechamiento de los recursos naturales, será considerado en:
 
-XXV. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+a) La realización de obras públicas, privadas, sociales o en actividades que puedan ocasionar impactos ambientales;
 
-XXVI. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+b) El otorgamiento de concesiones, autorizaciones o permisos para el uso, explotación y aprovechamiento de aguas de competencia del Estado;
 
-XXVII. Desarrollar los lineamentos y procedimientos a los que se sujetará para la restitución de los derechos de niñas, niños y adolescentes;
+c) El otorgamiento de autorizaciones o permisos para el aprovechamiento de los minerales no reservadas a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su fragmentación que sólo pueden utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
 
-XXVIII. Coadyuvar con los sistemas, Nacional; Estatal; y municipales DIF, en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+d) El financiamiento a las actividades agrícolas, pecuarias, forestales y primarias en general, para inducir su adecuada localización; y,
 
-XXIX. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+e) El otorgamiento de autorizaciones o permisos para actividades, proyectos y desarrollos turísticos de cualquier índole;
 
-XXX. Autorizar, registrar, certificar y supervisar en conjunto con la Procuraduría de Protección Federal, los centros de asistencia social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la Ley General de los Derechos de las Niñas, Niños y Adolescentes; la Ley de los Derechos de Niñas, Niños y Adolescentes de San Luis Potosí; y demás disposiciones aplicables;
+III. En cuanto a la localización de la actividad industrial y de los servicios, será considerado en:
 
-XXXI. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen, por resolución judicial;
+a) La realización de obras y actividades federales, estatales y municipales, públicas y privadas;
 
-XXXII. Rendir un informe semestral al Sistema Estatal de Protección Integral, sobre la protección y restitución de los derechos de niñas, niños y adolescentes;
+b) Las autorizaciones para la construcción y operación de establecimientos industriales, comerciales o de servicios;
 
-XXXIII. Plantear propuestas al Sistema Estatal de Protección Integral, para que se emitan recomendaciones, expida protocolos y acuerdos de aplicación a instituciones públicas estatales y municipales, organismos e instituciones privadas, así como para la adopción de políticas públicas o acciones específicas a favor de los derechos de niñas, niños y adolescentes;
+c) El otorgamiento de estímulos fiscales orientados a promover la adecuada localización de las actividades productivas; y,
 
-XXXIV. Practicar visitas de verificación o inspección a cualquier domicilio público, privado o social que albergue, que tenga bajo su cuidado y vigilancia o, en su caso, guarda y custodia a niñas, niños o adolescentes;
-
-XXXV. Solicitar medidas para la suspensión de la difusión de información publicada en internet, o por cualquier otro medio de comunicación que afecte los derechos humanos o ponga en riesgo el sano desarrollo de niñas, niños y adolescentes, conforme a lo previsto en esta Ley y las leyes aplicables;
-
-XXXVI. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
-
-XXXVII. Las demás que les confieran otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-ARTICULO 35 BIS. Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá llevar a cabo el siguiente procedimiento:
-
-I. Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes;
-
-II. Estar cerca a la familia o lugares en donde se encuentren niñas, niños y adolescentes, para diagnosticar la situación de sus derechos cuando exista información sobre posible restricción o vulneración de los mismos;
-
-III. Determinar en cada uno de los casos identificados, los derechos que se encuentran restringidos o vulnerados;
-
-IV. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración, y un plan de restitución de derechos que incluya las propuestas de medidas para su protección;
-
-V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del plan de restitución de derechos, y
-
-VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de niñas, niños o adolescentes se encuentren garantizados.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-ARTICULO 35 TER. La Procuraduría de Protección ejercerá la representación en suplencia de niñas, niños y adolescentes:
-
-I. En caso de falta o ausencia de quienes ejerzan la representación originaria, y
-
-II. Cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 36.
-
-Los directores de los hospitales públicos o privados, y médicos particulares, profesores o cualquiera otra persona u organismo, que tengan conocimiento de hechos que encuadren dentro del maltrato a niñas, niños y adolescentes, a la mujer, a los adultos mayores o personas con discapacidad, tienen obligación de comunicarlo inmediatamente al Ministerio Público, así como a la Procuraduría de Protección o, en su caso, a los DIF estatal o municipales, para la atención que le corresponde a cada institución en el ámbito de sus respectivas competencias.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 37.
-
-La Procuraduría de Protección contará con un centro especializado de atención integral a las personas que viven la violencia familiar, cuya organización interna y funcionamiento se determinará en el Reglamento Interior de la institución.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-ARTICULO 37 BIS. Para la asesoría jurídica en materia familiar, vinculación con los DIF municipales y, en general, para llevar a cabo los objetivos de la Procuraduría de Protección establecidos en el artículo 34 de la presente Ley, dicho órgano contará con ocho delegados en el Estado.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 38.
-
-La Procuraduría de Protección dictará las medidas pertinentes para garantizar la integridad física y moral de aquellas niñas, niños y adolescentes canalizados a los albergues públicos de asistencia social.
-
-###### ARTICULO 39.
-
-La Procuraduría de Protección se integrará de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
-
-I. Una Procuraduría;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
-
-II. Una Subprocuraduría, y
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-III. Las ocho personas delegadas en las regiones del Estado, para la representación de la Procuraduría de Protección, las coordinaciones, y el personal que sea necesarios (sic) para su buen funcionamiento.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-Las funciones del personal de la Procuraduría de Protección serán determinadas en el Reglamento Interior.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-###### ARTICULO 40.
-
-El titular de la Procuraduría de Protección será designado por el Gobernador del Estado; y deberá contar con los requisitos siguientes:
-
-I. Tener la ciudadanía mexicana;
-
-II. Gozar plenamente de sus derechos civiles y políticos;
-
-III. Contar con más de treinta y cinco años de edad, y
-
-IV. Poseer título profesional de licenciatura en derecho debidamente registrado, con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes; y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
-
-Sus atribuciones; así como, en su caso, causas de remoción, las establece en (sic) el Reglamento Interno.
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+d) Financiamiento a las actividades económicas para inducir su adecuada localización y en su caso su reubicación.
 
 #### Sección Tercera. Participación Social
 
-###### ARTICULO 41.
+###### Artículo 41.
 
-El titular de la Procuraduría de Protección ejercerá las atribuciones a que se refiere esta Ley, pudiendo delegarlas en sus subalternos, en los términos del Reglamento Interior de la institución.
+El Gobierno del Estado garantizará la participación de la sociedad en los procesos de formulación y aplicación de la política ambiental y sus instrumentos, así como en acciones de educación, difusión, información, vigilancia, y en general, en las acciones que emprenda que son materia de la presente ley.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+###### Artículo 42.
 
-###### ARTICULO 42.
+La Secretaría, impulsará la creación del Consejo Consultivo Ambiental Estatal, como órgano permanente de consulta, asesoría y opinión de la sociedad civil para identificar acciones, establecer prioridades, promover programas y estudios para su atención, en las materias a que se refiere la presente ley.
 
-El titular de la Procuraduría de Protección está facultado para expedir a los interesados, copia certificada de las constancias que obren en el expediente en que son parte, o a la autoridad competente cuando lo solicite, de acuerdo con los criterios de la institución, debiendo salvaguardar la confidencialidad de los asuntos de su competencia.
+###### Artículo 43.
 
-###### ARTICULO 43.
+El Consejo Consultivo Ambiental Estatal, tendrá como atribuciones:
 
-Las dependencias y entidades de la administración pública federal, estatal y municipal competentes, concurrirán a la prestación de los servicios de asistencia social en los términos de la presente Ley y demás disposiciones legales aplicables.
+I. Asesorar a la Secretaría en la formulación, aplicación y vigilancia de las estrategias en materia de conservación de la biodiversidad y protección ambiental, de acuerdo con la situación y necesidades estatales, regionales y municipales;
 
-###### ARTICULO 44.
+II. Recomendar las políticas, programas, acciones y estudios específicos en materia de preservación y aprovechamiento sustentable de los recursos naturales y de protección al medio ambiente;
 
-Cuando para la prestación de servicios de asistencia social se requiera de la intervención de dependencias o entidades de la administración pública federal, estatal o municipal, el DIF Estatal, ejercerá sus atribuciones en coordinación con ellas.
+III. Analizar y emitir las recomendaciones pertinentes en los asuntos relevantes que sean considerados así por el propio Consejo y en los solicitados de forma expresa por la Secretaría;
 
-###### ARTICULO 45.
+IV. Emitir opiniones para la mejora regulatoria en las leyes, reglamentos, normas técnicas ambientales estatales y procedimientos relativos a las materias que son objeto de la presente ley;
 
-El Gobernador del Estado a través del DIF Estatal y, en su caso, con la intervención de otras dependencias y entidades, podrá celebrar convenios de coordinación y colaboración con la Federación, los gobiernos de las Entidades federativas, y los municipios, mismos que celebrará con las formalidades que en cada caso procedan, e incluirán:
+V. Coadyuvar y dar seguimiento a la correcta aplicación de la presente ley, así como de los criterios y normatividad que rigen las políticas en la materia en el territorio estatal; y,
 
-I. Las materias y actividades que constituyan su objeto;
+VI. Coordinarse con organismos municipales, regionales, estatales, nacionales e internacionales homólogos, a fin de intercambiar experiencias en las materias que son objeto de la presente ley.
 
-II. Las aportaciones de las partes; la determinación de su destino específico y su forma de administración, control y fiscalización;
+###### Artículo 44.
 
-III. El órgano u órganos encargados de ejecutar las acciones derivadas de los acuerdos;
+El Consejo Consultivo Ambiental Estatal se integrará por:
 
-IV. La vigencia, causas y mecanismos de terminación o prórroga en su caso;
+I. Un Presidente que será el titular del Ejecutivo del Estado;
 
-V. Los mecanismos de solución de controversias, y
+II. Un Vicepresidente que será el titular de la Secretaría;
 
-VI. Las demás estipulaciones que las partes consideren necesarias para su cumplimiento.
+III. Un representante del Honorable Congreso del Estado;
 
-Estos convenios deberán ser publicados en el Periódico Oficial del Estado, en la fecha inmediata a la suscripción de los mismos.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-###### ARTICULO 46.
+IV. Un consejero de cada región económica que puede ser de cada una de las siguientes representaciones:
 
-Los convenios a que se refiere el artículo anterior, deberán ser congruentes con los objetivos de los planes Nacional y Estatal de Desarrollo y con las políticas de asistencia social para la Federación y el Estado.
+a) Asociaciones de profesionistas, cuyas actividades tengan cobertura estatal o regional;
 
-###### ARTICULO 47.
+b) Organizaciones no gubernamentales dedicadas a actividades de conservación, restauración, protección y aprovechamiento de recursos naturales y medio ambiente;
 
-Los ayuntamientos o los DIF municipales podrán suscribir entre sí, acuerdos de coordinación y colaboración en materia de asistencia social.
+De igual manera el Presidente del Consejo invitará a un representante de las instituciones de educación superior y a un representante de cada uno de los grupos principales:
+
+a) Organizaciones con perspectiva de género;
+
+b) Organizaciones de pueblos indios; y,
+
+c) Organizaciones de jóvenes.
+
+El Congreso del Estado elegirá, nombrará y removerá libremente al representante a que hace referencia la fracción III, con las bases y procedimientos que el mismo Congreso considere pertinentes.
+
+El Reglamento respectivo establecerá las bases y los procedimientos relativos a la elección, nombramiento y remoción de los consejeros que señala la fracción IV.
+
+###### Artículo 45.
+
+El Consejo Consultivo podrá invitar a expertos en las materias de que trata la presente ley para participar en estudios y actividades específicas que aporten conocimientos especializados.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 46.
+
+La Secretaría impulsará el fortalecimiento de la participación social a través de la realización de acciones conjuntas con los sectores público, privado y social, para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales, el adecuado manejo de residuos y la implementación de la educación ambiental para el desarrollo sustentable.
+
+###### Artículo 47.
+
+Para los efectos del artículo anterior, la Secretaría, convocará a representantes de los pueblos indígenas, organizaciones, empresariales, pesqueras, campesinos y productores agropecuarios y forestales, de las comunidades, de instituciones educativas, académicas y de investigación, de instituciones privadas no lucrativas, personas con capacidades diferentes, grupos minoritarios y de otros representantes de la sociedad, para que manifiesten su opinión y propuestas; asimismo, establecerá los acuerdos de concertación necesarios con:
+
+I. Las organizaciones creadas para la protección del ambiente en los lugares de trabajo y en unidades habitacionales;
+
+II. Las organizaciones campesinas, las comunidades rurales y los grupos indígenas, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción estatal, y brindar asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales;
+
+III. Las organizaciones empresariales para la protección del ambiente;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV. Las instituciones educativas, académicas y de investigación para la realización y fomento de estudios e investigaciones en la materia; el desarrollo y/o publicación de materiales educativos y de difusión;
+
+V. Las organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones conjuntas;
+
+VI. Los representantes sociales y con particulares interesados en la protección, preservación y restauración del equilibrio ecológico, la protección al ambiente y la conservación de la biodiversidad; y
+
+VII. Con los diversos medios de comunicación masiva, para la difusión y promoción de acciones ecológicas.
+
+Para los efectos que se señalan en la fracción VII se procurará la participación de artistas, intelectuales, científicos, deportistas, y en general de figuras públicas, cuyos conocimientos y ejemplo contribuyan a formar y orientar a la opinión pública.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Asimismo, la Secretaría, promoverá el reconocimiento a los esfuerzos más destacados de la sociedad para la protección, preservación y restauración del equilibrio ecológico, la protección al ambiente y la conservación de la biodiversidad.
 
 #### Sección Cuarta. Sistema Estatal de Información Ambiental
 
-###### ARTICULO 48.
+###### Artículo 48.
 
-Los ayuntamientos o los DIF municipales del Estado podrán asociarse en materia de asistencia social, con otros DIF estatales, ayuntamientos o DIF municipales de otras Entidades federativas, requiriendo para ello la aprobación del Congreso del Estado.
+Para fortalecer el derecho de acceso a la información ambiental en la entidad, la Secretaría creará e implementará el Sistema Estatal de Información Ambiental, que tendrá como objetivo general registrar, organizar, actualizar y difundir información ambiental local, en cumplimiento a lo que establece la Ley que Garantiza la Transparencia y Derecho a la Información Pública para el Estado de Chiapas, así como los demás ordenamientos legales aplicables en la materia.
 
-###### ARTICULO 49.
+###### Artículo 49.
 
-Los gobiernos estatal y municipal, en el ámbito de sus respectivas competencias, deberán promover la participación correspondiente de la sociedad en la planeación, ejecución y evaluación de la política estatal de asistencia social. Para tal efecto, concertarán acciones con las instituciones de asistencia privada, con instituciones académicas, y con las personas físicas y morales interesadas en la prestación de servicios de asistencia social.
+El Sistema Estatal de Información Ambiental estará integrado por:
 
-###### ARTICULO 50.
+I. El inventario de los recursos naturales existentes en el territorio estatal, y el registro de las Áreas Naturales Protegidas;
 
-Los ayuntamientos atenderán en la medida de sus posibilidades presupuestales, las necesidades que en materia de asistencia social requiera la población vulnerable de su municipio a efecto de integrarlos a una vida productiva y social plena.
+II. Registros fotográficos y de video de las Áreas Naturales Protegidas;
 
-###### ARTICULO 51.
+III. Bases de datos de consulta sobre la flora y fauna de la entidad;
 
-Son obligaciones de los ayuntamientos en materia de asistencia social:
+IV. Registros cartográficos y geográficos de las Áreas Naturales Protegidas y sitios prioritarios para la conservación;
 
-I. Asegurar la atención permanente a la población vulnerable, brindando servicios integrales de asistencia social, enmarcados dentro de los programas del DIF Estatal conforme a las normas establecidas a nivel nacional y estatal;
+V. El Registro de Emisiones y Transferencia de Contaminantes del Estado;
 
-II. Promover a través de los programas institucionales el mejoramiento de las condiciones de vida de las personas, familias y comunidades sujetos de asistencia;
+VI. El Registro Público de Derechos de Agua, correspondiente al Estado y a las cuencas a las que pertenezca;
 
-III. Propiciar la creación de establecimientos de asistencia social en beneficio de la población vulnerable;
+VII. Los resultados obtenidos del monitoreo continuo de la calidad del aire, el agua y el suelo;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+VIII. El ordenamiento ecológico del territorio;
 
-IV. Impulsar el sano crecimiento de las niñas y los niños, a través de la operación de los programas de salud y alimentación de alto valor nutricional y bajo contenido calórico en su municipio;
+IX. Las acciones a realizar en materia ecológica, vinculadas con los planes estatal y nacional de desarrollo, así como los programas sectoriales correspondientes;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+X. El marco jurídico estatal aplicable en materia ambiental;
 
-V. Garantizar y promover el ejercicio de los derechos de niñas, niños y adolescentes;
+XI. El inventario de emisiones atmosféricas del Estado;
 
-VI. Establecer coordinación con otras entidades del Gobierno del Estado, con instituciones de asistencia privada y clubes de servicio con el propósito de impulsar, operar y evaluar acciones de carácter interinstitucional a favor de los grupos vulnerables;
+XII. El padrón estatal de fuentes contaminantes;
 
-VII. Fomentar la educación para la integración social;
+XIII. Estudios, reportes y documentos hemerográfico relevantes en materia ambiental;
 
-VIII. Fortalecer las estructuras municipales encargadas de la asistencia social en su municipio;
+XIV. El inventario de sitios de disposición final de residuos, rellenos sanitarios, estaciones de transferencia de residuos, plantas de separación y centros de acopio que operen en el Estado;
 
-IX. Identificar necesidades asistenciales, así como desarrollar la gestión de servicios;
+XV. El archivo de programas preventivos y correctivos derivados de la práctica de autorregulación y auditorías ambientales;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+XVI. El Informe que expida la Secretaría en los términos de la presente ley; y,
 
-X. Establecer, de acuerdo a su disponibilidad presupuestal, centros de asistencia social temporal para niñas, niños y adolescentes en estado de abandono, víctimas de violencia familiar, personas con discapacidad y adultos mayores, o aquéllos que brinden protección y atención a grupos vulnerables de su municipio;
+XVII. Cualquier otro tema o documento relacionado con las materias que regula la presente ley, y que a criterio de la Secretaría sea considerado como de interés general.
 
-XI. Diseñar y aplicar programas integrales que permitan atender necesidades concretas en materia de asistencia social;
+###### Artículo 50.
 
-XII. Fomentar la participación de las instituciones públicas, privadas y de los particulares de su municipio, en tareas asistenciales a favor de las personas, familias y grupos vulnerables;
+La información a que se refiere el artículo anterior estará disponible para su consulta en la Secretaría, se difundirá en español y con el apoyo institucional de las instancias competentes en las principales lenguas de los pueblos indígenas a través de medios masivos de comunicación, de forma escrita, visual, electrónica o en cualquier otra forma con el fin de que se promueva con ella la participación responsable de la sociedad en la toma de decisiones, la conciencia y cultura ambiental en las materias objeto de la presente ley.
 
-XIII. Constituir con la participación de las instituciones de asistencia privada y con las dependencias públicas de su municipio, la Comisión Municipal para el Bienestar de la Infancia y la Familia, y
+###### Artículo 51.
 
-XIV. Las demás que le asigne esta Ley, su Reglamento y demás disposiciones legales que lo rijan.
+La Secretaría, promoverá la creación de centros comunitarios de información ambiental en el territorio del Estado para la integración de comunidades indígenas y rurales al Sistema Estatal de Información Ambiental.
 
-###### ARTICULO 52.
+###### Artículo 52.
 
-Para el cumplimiento de sus obligaciones en materia de asistencia social, los municipios del Estado deberán contar con un Sistema Municipal para el Desarrollo Integral de la Familia, que podrá instituirse y operar como:
+La Secretaría, elaborará y presentará anualmente el informe sobre la gestión ambiental de la entidad, el cual, será turnado al Congreso del Estado para conocer su opinión previamente a su publicación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### Artículo 53.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2010)</small>
+La Secretaría, proporcionará o negará la información ambiental que le sea solicitada, dependiendo de la clasificación de la misma en términos de lo previsto por la Ley que Garantiza la Transparencia y Derecho a la Información Pública para el Estado de Chiapas y demás disposiciones legales aplicables.
 
-I. Un organismo descentralizado con personalidad jurídica, y patrimonio propios, con especialidad técnica e independiente de la estructura administrativa del ayuntamiento.
+###### Artículo 54.
 
-Los DIF municipales descentralizados contarán con un órgano de control denominado Contralor Interno; que tendrá las obligaciones y facultades que en forma análoga le correspondan al contralor municipal, así como las establecidas en la Ley de la Auditoría Superior de Estado, para las unidades u órganos de control interno; la designación estará a cargo de la Junta de Gobierno del DIF municipal que se trate; la persona designada deberá contar preferentemente con título profesional de contador público o carrera afín, y no haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
-
-La Junta de Gobierno del DIF municipal en su primera sesión de trabajo designará al contralor interno; el presidente del organismo presentará a dos personas candidatas para ocupar el cargo, propuesta que será sometida a la aprobación de sus integrantes y, en caso de no acordarse procedente, en la misma sesión por parte del cuerpo colegiado, ésta expedirá inmediatamente el nombramiento en favor de cualquiera de los dos candidatos que hubiere propuesto;
-
-II. Una unidad administrativa dependiente de la administración municipal a la que el ayuntamiento conferirá sus responsabilidades en materia de asistencia social, o
-
-Un órgano desconcentrado, con estructura orgánica propia y autonomía técnica y de gestión, que formará parte de la administración pública municipal y estará jerárquicamente subordinado a una Dirección o Departamento del gobierno municipal.
-
-###### ARTICULO 53.
-
-Los ayuntamientos deberán constituir el DIF Municipal en todos los casos por acuerdo de cabildo, y cuando éste se constituya como un organismo descentralizado o desconcentrado, tal acuerdo deberá ser promulgado por el Presidente Municipal y publicado en el Periódico Oficial del Estado, conforme lo establece la ley.
-
-Los DIF municipales deberán contar con un Reglamento Interno que norme su función, independientemente de la figura administrativa que adopten.
-
-###### ARTICULO 54.
-
-Los DIF municipales ejercerán las funciones siguientes:
-
-I. Operar los programas de asistencia social en el ámbito municipal;
-
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
-
-II. Impulsar el sano crecimiento físico y mental de la niñez; debiendo contar con personal capacitado en materia de nutrición, para dar seguimiento y monitoreo sobre la aplicación de programas de asistencia alimentaria que implemente, ajustados a los lineamientos de calidad nutricia estatales y federales, que aseguren un alto valor nutricional y bajo contenido calórico en los mismos;
-
-III. Asistir a las personas, familias y grupos en condiciones de vulnerabilidad, procurando su integración social;
-
-IV. Fomentar la incorporación de las personas con discapacidad a la vida social, económica y cultural;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-V. Prestar asesoría jurídica, psicológica y social en materia familiar, a la población en estado de abandono y desventaja social, preferentemente a niñas, niños y adolescentes, mujeres, personas con discapacidad y adultos mayores;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-VI. Investigar y, en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a niñas, niños y adolescentes, mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-VII. Constituir y operar el Consejo Municipal de Adopciones y gestionar los procedimientos correspondientes, atendiendo a lo dispuesto en la legislación aplicable y actuando siempre en beneficio del interés superior de la niñez y de la adolescencia;
-
-VIII. Apoyar el mejoramiento de la dieta familiar;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-IX. Gestionar el internamiento de niñas, niños y adolescentes en estado de desamparo, en las instituciones de asistencia social públicas o privadas que presten servicios de atención;
-
-X. Fomentar los valores sociales, la utilización adecuada del tiempo libre de la familia y fortalecer los vínculos, la solidaridad y la responsabilidad familiar;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-XI. Apoyar, en el ejercicio de la tutela, a los directores de los albergues que reciban niñas, niños y adolescentes expósitos o abandonados;
-
-XII. Promover la participación del sector público y de las instituciones de asistencia privada de su municipio, en tareas asistenciales en beneficio de la población vulnerable;
-
-XIII. Realizar acciones de prevención de la violencia familiar;
-
-XIV. Coordinar todas las tareas que en materia de asistencia social realicen otras instituciones en su municipio;
-
-XV. Dar atención y en su caso canalizar a instituciones especializadas a víctimas de violencia familiar;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-XVI. Operar establecimientos de asistencia y albergue temporal para niñas, niños y adolescentes con o sin discapacidad, mujeres y adultos mayores en estado de vulnerabilidad;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
-
-XVII. Elaborar el Censo Nominal de Personas con Discapacidad del Municipio, que permita orientar y evaluar las políticas asistenciales, remitiendo a la brevedad posible al DIF Estatal la información recabada, y
-
-XVIII. Las demás que le asignen el ayuntamiento, el reglamento interior y las disposiciones legales aplicables.
+La Secretaría, contará en su estructura orgánica con un área de Participación Social y Transparencia, como el órgano responsable de promover y coordinar la participación de individuos y grupos, así como de garantizar la transparencia y derecho a la información pública en materia de conservación, mejoramiento ambiental, aprovechamiento sustentable de los recursos naturales y adecuado manejo de residuos, en cumplimiento a lo que establece la Ley que Garantiza la Transparencia y Derecho a la Información Pública para el Estado de Chiapas y demás ordenamientos aplicables.
 
 #### Sección Quinta. Fondo Estatal Ambiental
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-###### ARTICULO 55.
+###### Artículo 55.
 
-Los programas de asistencia social que opere y desarrolle el DIF Municipal, deberán adecuarse a las necesidades de la población y estar basados en los lineamientos generales establecidos por la Federación y el Estado en esta materia.
+Por acuerdo o a iniciativa del Titular del Ejecutivo del Estado, se creará el Fondo Estatal Ambiental para los fines de esta ley. Los recursos que conformen dicho Fondo serán aportaciones de particulares, inversionistas, dependencias gubernamentales y no gubernamentales, organizaciones sociales, sociedades anónimas, y todos aquellos que conforme a la ley puedan hacer aportaciones.
 
-###### ARTICULO 56.
+Los recursos con los que el Fondo Estatal Ambiental cuente podrán ser destinados a actividades de:
 
-Para cumplir con la prestación de servicios de asistencia social el DIF Municipal contará con las aportaciones de los siguientes recursos:
+I. Conservación, restauración, preservación y protección de los ecosistemas y de su biodiversidad;
 
-I. Los destinados por la administración municipal;
+II. Administración de las áreas naturales protegidas estatales y de los recursos que ingresen al Sistema de Áreas Naturales Protegidas del Estado de Chiapas por cualquier concepto;
 
-II. Los que le transfieran el Estado y la Federación para el desarrollo de programas asistenciales;
+III. Inspección y vigilancia en materia ambiental;
 
-III. Los aportados por otras Entidades federativas y por las instituciones de asistencia privada nacionales e internacionales;
+IV. Educación ambiental e investigación científica;
 
-IV. Aquellos ingresos originados por el funcionamiento del propio sistema, y
+V. Pago por servicios ambientales;
 
-En general, los demás bienes, derechos e ingresos que obtenga por cualquier título legal.
+VI. Desarrollo rural sustentable;
 
-###### ARTICULO 57.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-El Presidente o titular del DIF Municipal será designado por el Presidente Municipal, en los términos que dispone la Ley Orgánica del Municipio Libre del Estado.
+VII. Manejo, gestión integral y disposición final de residuos sólidos no peligrosos, urbanos y de manejo especial, así como para el reciclado de materiales con incidencia local o regional.
 
-###### ARTICULO 58.
+VIII. Restauración de sitios contaminados;
 
-Para el desarrollo de sus funciones, el Presidente o titular del DIF Municipal tendrá las siguientes facultades:
+IX. Cambio climático; y,
 
-I. Dirigir los servicios de asistencia social conforme a las políticas asistenciales que la Federación, el Estado y el municipio determinen;
+X. Los demás que establezca la Secretaría.
 
-II. Formular y ejercer el presupuesto anual en la forma que determinen las leyes y reglamentos aplicables;
+###### Artículo 56.
 
-III. Presentar al ayuntamiento un programa anual de trabajo para su aprobación;
+El Ejecutivo del Estado establecerá las bases para la integración, administración, así como las reglas conforme a las cuales funcionará y se administrará el Fondo Estatal Ambiental.
 
-IV. Acudir a las reuniones de trabajo que convoque el DIF Estatal;
+###### Artículo 57.
 
-V. Para efectos de una adecuada coordinación, informar según se convenga, sobre el avance de los programas institucionales al DIF Estatal;
+El Gobierno del Estado, podrá establecer el cobro de derechos por el uso de servicios ambientales provenientes de las Áreas Naturales Protegidas ubicadas en el territorio de la entidad. El monto de los referidos derechos obedecerá a la dimensión de los programas y proyectos aprobados por las autoridades responsables.
 
-VI. Promover la participación del DIF Municipal con los representantes de las dependencias públicas, federales y estatales en su municipio, y con instituciones privadas en tareas asistenciales y a favor de grupos vulnerables;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-VII. Gestionar recursos ante instituciones públicas y privadas;
+Los recursos obtenidos por este concepto pasarán a formar parte del Fondo Estatal Ambiental y se destinarán, de acuerdo a su disponibilidad a los siguientes fines:
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2011)</small>
+I. A la protección de las áreas que fungen como zonas de recarga, de provisión, de almacenamiento, corredores biológicos, de belleza escénica y conservación de germoplasma estratégicas definidas por la Secretaría;
 
-VIII. Establecer, en coordinación con el DIF Estatal, para la operación de programas en su municipio;
+II. A la adquisición de terrenos situados en áreas naturales protegidas estatales, especialmente en las zonas núcleo de las mismas o en sitios estratégicos para la conservación de la biodiversidad;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2011)</small>
+III. Al pago de los gastos operativos y administrativos necesarios para el mantenimiento de las Áreas Naturales Protegidas; y,
 
-IX. Designar apoderados, representantes legales o delegados en los juicios o procedimientos en los cuales el organismo sea parte, de conformidad con la ley de la materia en cuyo procedimiento se apersone, salvo que esta facultad ya se establezca en el reglamento interno del organismo para otro servidor público, y
+IV. Al financiamiento de acciones de restauración y manejo de cuencas, en coordinación con las autoridades competentes para el beneficio de los pueblos y comunidades rurales e indígenas, dentro de áreas naturales protegidas estatales y sitios estratégicos para la conservación de la biodiversidad.
 
-> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2011)</small>
+###### Artículo 58.
 
-X. Las demás que el ayuntamiento y el presidente municipal le asignen, así como aquellas que determine el reglamento interior.
+El Sistema de Áreas Naturales Protegidas del Estado de Chiapas utilizará para su funcionamiento, la totalidad de los fondos generados por otras actividades, tales como las tarifas de ingreso a las áreas de reserva o las concesiones de servicios no esenciales. Estos serán administrados por el Fondo Estatal Ambiental.
 
 #### Sección Sexta. Educación e Investigación para el Desarrollo Sustentable
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-###### ARTICULO 59.
+###### Artículo 59.
 
-Las instituciones de asistencia privada serán consideradas de interés público, y cuando cumplan con los requisitos que establece la presente Ley, gozarán de los siguientes beneficios:
+El Gobierno del Estado a través de la Secretaría promoverá la educación ambiental para el desarrollo sustentable como eje temático transversal, como parte fundamental de los procesos educativos, en los diferentes ámbitos y niveles: formales, no formales e informales, a través de un proceso continuo y permanente. Promoverá, asimismo, la investigación y la generación de métodos, publicaciones, materiales educativos y técnicas que permitan un uso y aprovechamiento sustentable de los recursos naturales, así como la prevención del deterioro y en su caso la restauración de los ecosistemas.
 
-I. Contar para el cumplimiento de sus fines con recursos públicos destinados a la asistencia social, en los términos y las modalidades que fijen las autoridades correspondientes y conforme al Programa Estatal de Asistencia Social;
-
-II. Recibir el apoyo, colaboración técnica y administrativa que las autoridades les otorguen;
-
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
-
-III. Tener acceso al Sistema Unico de Información en Materia de Asistencia Social, así como al Censo Nominal de Personas con Discapacidad del Estado;
-
-IV. Recibir donativos de personas físicas y morales nacionales o extranjeras, y
-
-V. Contar con el o los representantes ante el Sistema Estatal de Asistencia Social.
-
-###### ARTICULO 60.
-
-Las instituciones de asistencia privada que deseen acogerse a los beneficios de esta Ley deberán:
-
-I. Constituirse conforme a las leyes locales;
-
-II. Inscribirse en el Directorio Estatal de Instituciones de Asistencia Privada;
-
-III. Solicitar y obtener ante el DIF Estatal la certificación correspondiente.
-
-IV. Realizar las actividades objeto de su constitución;
-
-V. Prestar los servicios asistenciales conforme a sus disposiciones internas, a las leyes de la materia y demás disposiciones jurídicas aplicables, y
-
-Otorgar las facilidades para que personal del DIF Estatal efectúe las visitas, así como proporcionar la información que se requiera para determinar la calidad de sus servicios asistenciales, cuando soliciten recursos, reconocimientos y estímulos.
-
-###### ARTICULO 61.
-
-Las instituciones de asistencia privada no perderán ese carácter por recibir subvención pública, siempre que sea voluntaria y no indispensable.
-
-###### ARTICULO 62.
-
-La forma de organización de los particulares, sea la de instituciones de asistencia privada o cualquiera otra que adopten para la prestación de servicios asistenciales, se hará en cada caso de conformidad con las leyes de la materia.
-
-###### ARTICULO 63.
-
-Las instituciones de asistencia privada serán reconocidas por el Estado como auxiliares de la administración pública en esta materia, una vez que obtengan la certificación del DIF Estatal o de las dependencias u organismos que señalen los ordenamientos legales aplicables.
-
-###### ARTICULO 64.
-
-Con el objeto de ampliar la cobertura de los servicios de asistencia social fincados en la solidaridad ciudadana, el Ejecutivo del Estado promoverá en toda la Entidad a través del DIF Estatal, la creación de instituciones de asistencia privada y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten servicios asistenciales con sujeción a los ordenamientos que en cada caso las rijan.
-
-###### ARTICULO 65.
-
-A propuesta del DIF Estatal, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales a las instituciones privadas de asistencia social en la prestación de servicios asistenciales y en el ámbito de su competencia.
-
-###### ARTICULO 66.
-
-El Ejecutivo del Estado a través de las dependencias y entidades que correspondan, propiciará la concertación de acciones de asistencia social con las instituciones de asistencia privada, con el objeto de coordinar su participación en la realización de programas asistenciales que coadyuven a los logros de los objetivos a que se refiere esta Ley.
-
-###### ARTICULO 67.
-
-La concertación de acciones en materia de asistencia social a que se refiere el artículo anterior se llevará a cabo mediante la celebración de convenios o contratos, que deberán contener lo siguiente:
-
-I. Definición de las responsabilidades que asuman los integrantes de las instituciones de asistencia privada que suscriban los convenios o contratos;
-
-II. Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Gobierno del Estado, por conducto del DIF Estatal;
-
-III. Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes, con reserva de las funciones de autoridad que competan al Gobierno del Estado, y
-
-Expresión de las demás estipulaciones que de común acuerdo establezcan las partes, siempre y cuando no sean contrarias a la moral o al derecho vigente.
-
-#### Sección Séptima. Instrumentos Económicos para la Promoción del Desarrollo Sustentable y la Protección Ambiental
-
-###### ARTICULO 68.
-
-El DIF Estatal tendrá a su cargo el Directorio Estatal de Instituciones de Asistencia Privada, con el objeto de dar publicidad a los servicios y apoyos asistenciales que presten estas instituciones.
-
-###### ARTICULO 69.
-
-El Directorio Estatal se conformará con las inscripciones voluntarias de las instituciones de asistencia privada que se tramiten:
-
-I. Por conducto de los DIF municipales, los que deberán remitir las solicitudes en forma inmediata al DIF Estatal;
-
-II. Por conducto de los órganos encargados y autorizados por el Estado que regulen las instituciones de asistencia privada u organismos similares, y
-
-Las que directamente presenten las propias instituciones ante el DIF Estatal.
-
-###### ARTICULO 70.
-
-Para su inscripción en el Directorio, las instituciones de asistencia privada deberán presentar:
-
-I. Copia certificada de su acta constitutiva;
-
-II. Comprobante de domicilio;
-
-III. Copia certificada del acta notariada en la que se designe a su representante legal;
-
-IV. Proyecto de su plan anual de trabajo, y
-
-V. En su caso, descripción de las instalaciones y recursos materiales y humanos con que cuenten.
-
-Las modificaciones a los datos anteriores deberán de constar por escrito y ser inscritas en el Directorio, dentro de los diez días siguientes a la fecha en que se efectúen.
-
-###### ARTICULO 71.
-
-Las instituciones de asistencia privada recibirán una constancia de su registro en el Directorio y el número correspondiente.
-
-El registro de las instituciones será requisito para la certificación de las funciones asistenciales ante las autoridades que lo requieran.
-
-#### Sección Octava. Regulación Ambiental para los Asentamientos Humanos
-
-###### ARTICULO 72.
-
-Para efectos de la presente Ley, se entiende por certificación el acto mediante el cual el DIF Estatal reconoce la calidad de las funciones asistenciales de los servicios y apoyos que presten las instituciones de asistencia privada.
-
-Esta certificación se hará valer ante las autoridades competentes y servirá para recibir los beneficios y prerrogativas que en su favor se establecen en esta Ley, su Reglamento y los ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
-
-ARTICULO 72 BIS. En la iniciativa de Ley del Presupuesto de Egresos del Estado, que remita el Titular del Ejecutivo del Estado al Poder Legislativo, en cada ejercicio fiscal, en el apartado de las instituciones de asistencia social con subsidio gubernamental, el sistema para el Desarrollo Integral de la Familia del Estado, emitirá una opinión a la Secretaría de Finanzas de Gobierno del Estado, sobre el desempeño de la función de las instituciones de asistencia social privada que cuenten con subsidio a refrendar o, en su caso, otorgárselo por primera ocasión, esta opinión será igualmente remitida al Poder Legislativo para su estudio y análisis.
-
-Esta opinión se basará en los mismos criterios usados para la certificación descritos por el artículo 72 del presente Ordenamiento; además, de implicar la observación de la Auditoria Superior del Estado, sobre el correcto manejo de los recursos por parte de las instituciones privadas. En todos los casos, la opinión será pública y se notificará a cada organismo sujeto de subsidio.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)</small>
-
-ARTICULO 72 TER. Las instituciones de asistencia social privada que cuenten con una opinión aprobatoria del sistema para el Desarrollo Integral de la Familia del Estado, deberán ser sujetos de integración en el proyecto de Ley de Presupuesto de Egresos, que se enviará al Poder Legislativo para sus efectos legales.
-
-###### ARTICULO 73.
-
-La certificación se emitirá de conformidad con:
-
-I. Los criterios que establezca y expida el Consejo Estatal de Asistencia Social;
-
-II. Las Normas Oficiales Mexicanas para servicios asistenciales, y
-
-III. Los lineamientos y términos que establezca el DIF Estatal.
-
-#### Sección Novena. Autorregulación y Auditorías Ambientales
-
-###### ARTICULO 74.
-
-Serán coadyuvantes del DIF Estatal en la certificación de las instituciones de asistencia privada:
-
-I. Las dependencias públicas vinculadas a la asistencia social;
-
-II. El organismo coordinador de las instituciones de asistencia privada, fundaciones, y asociaciones constituidas por los particulares con labor altruista, y
-
-III. Las instituciones de educación superior en el Estado.
-
-###### ARTICULO 75.
-
-El DIF Estatal con el objeto de garantizar la permanente calidad en la prestación de los servicios que ofrecen las instituciones de asistencia privada, realizará las recertificaciones de las mismas en los términos establecidos en los artículos 73 y 74, así como el Reglamento respectivo.
-
-###### ARTICULO 76.
-
-La certificación y recertificación será un criterio fundamental para la orientación de los recursos públicos que destine el Gobierno del Estado a instituciones de asistencia privada.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE DICIEMBRE DE 2015)</small>
-
-ARTICULO 76 BIS. Las instituciones privadas autorizadas, a quienes, en los términos (sic) esta Ley, les sean conferidas niñas, niños y adolescentes para promover su adopción, contarán con un Consejo Interno de Adopciones, en el que deberá participar el Ministerio Público, y la autoridad rectora de la asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca dicho organismo.
-
-###### ARTICULO 77.
-
-Las instituciones de asistencia privada inscritas en el Directorio Estatal de Instituciones de Asistencia Privada y certificadas por el DIF Estatal que presten sus servicios con alta calidad, serán acreedoras a un reconocimiento anual por parte del Titular del Ejecutivo del Estado.
-
-Este reconocimiento consistirá en una presea y una aportación adicional a los recursos públicos que ordinariamente reciba la institución por la actividad que realiza, y la que será determinada por la Junta Directiva del DIF Estatal.
-
-###### ARTICULO 78.
-
-La Junta Directiva del DIF Estatal formulará los criterios en que se sustentarán las bases para el otorgamiento de los reconocimientos que otorgue el Ejecutivo del Estado.
-
-#### Sección Décima. Evaluación del Impacto y Riesgo Ambiental
+Para efectos del párrafo anterior, la Secretaría implementará como herramienta de ejecución el Plan de Educación Ambiental para la Sustentabilidad del Estado de Chiapas, y estará en constante coordinación con la Secretaría de Educación, la Federación, y las demás instituciones y dependencias locales competentes de la Administración Pública Estatal, así como organismos internacionales, organizaciones de la sociedad civil, e instituciones educativas y de investigación ya sean públicas o privadas ubicadas dentro del territorio de la entidad.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-###### ARTICULO 79.
+###### Artículo 60.
 
-La solicitud de reconocimiento es voluntaria, para el efecto, las instituciones de asistencia privada que lo soliciten serán visitadas por el DIF Estatal y le proporcionarán al personal de este organismo la información que les sea requerida.
+La Secretaría promoverá:
 
-###### ARTICULO 80.
+I. La ejecución de acciones para la implementación del Plan de Educación Ambiental para la Sustentabilidad en el Estado de Chiapas;
 
-El DIF Estatal promoverá ante las autoridades competentes e instituciones nacionales e internacionales, la creación de estímulos y apoyos destinados a las instituciones de asistencia privada.
+II. En conjunto con las instituciones correspondientes, incorporar la dimensión ambiental (conceptos, principios y valores fundamentales de la ecología, las ciencias ambientales y el desarrollo sustentable), en el proceso docente educativo en las diversas disciplinas y asignaturas de manera transversal desde la enseñanza primaria hasta el nivel superior de manera formal, no formal e informal, considerando incluso a individuos no escolarizados;
 
-###### ARTICULO 81.
+III. La elaboración e implementación de planes estratégicos de educación ambiental en los diferentes niveles de enseñanza;
 
-La inspección y vigilancia del cumplimiento de la presente Ley, su Reglamento y demás disposiciones que de ellos deriven, corresponde al DIF Estatal y a los DIF municipales, en el ámbito de sus respectivas competencias.
+IV. La elaboración de una metodología para la evaluación y certificación de programas, proyectos y/o acciones de educación ambiental;
 
-###### ARTICULO 82.
+V. Impulsará y realizará cursos y programas para la formación y capacitación ambiental del magisterio; sociedad civil, servidores públicos y cualquier ciudadano interesado en el tema;
 
-El incumplimiento de las disposiciones de esta Ley, su Reglamento y las demás disposiciones legales que de ellos deriven, será sancionado administrativamente por el DIF Estatal conforme a sus atribuciones.
+VI. La realización de acciones de educación y cultura ambiental en toda la entidad de manera descentralizada, a fin de ampliar la cobertura a todos sus habitantes y propiciar el fortalecimiento de una conciencia ambiental;
 
-###### ARTICULO 83.
+VII. La gestión de proyectos y acciones intersectoriales para favorecer la educación, cultura y comunicación en temas ambientales prioritarios del Estado;
 
-Las sanciones aplicables son:
+VIII. Que las instituciones de educación superior en la entidad y los organismos dedicados a la investigación científica y tecnológica desarrollen programas y/o proyectos que fomenten la protección y gestión ambiental, la conservación de la biodiversidad del estado; y fomentará el desarrollo de mecanismos que favorezcan la investigación en educación ambiental, su evaluación y sistematización;
 
-I. Amonestación por escrito;
+IX. La investigación científica y el desarrollo de técnicas, análisis y procedimientos que permitan prevenir, controlar y abatir la contaminación, el aprovechamiento racional de los recursos y la protección de los ecosistemas; para ello, podrá celebrar convenios con instituciones de educación superior, centros de investigación e instituciones del sector público y privado;
 
-II. Sanción pecuniaria de acuerdo a la gravedad de la infracción; las que podrán ser de uno a ciento cincuenta días de salario mínimo;
+X. Que las instituciones de educación superior y los organismos dedicados a la investigación científica, y tecnológica, desarrollen planes y programas para la formación de especialistas en materia ambiental;
 
-III. Suspensión de la certificación;
+XI. La inserción del componente ambiental como eje de referencia en todos los ámbitos posibles relacionados con la formación de sus recursos humanos;
 
-IV. Retiro temporal del subsidio, y
+XII. La elaboración, producción, edición y difusión de publicaciones y materiales lúdico-educativos para facilitar el proceso de educación ambiental;
 
-V. Cancelación de la certificación y retiro definitivo del subsidio.
+XIII. El desarrollo de mecanismos adecuados para la articulación de los diversos procesos de formación y capacitación ambiental;
 
-Cuando el hecho cometido por el infractor sea un ilícito que la ley castigue con pena corporal, independientemente de la sanción, se hará del conocimiento al Agente del Ministerio Público.
+XIV. Fomentar actividades de educación, capacitación y cultura ambiental dentro de las Areas Naturales Protegidas, campamentos tortugueros y estaciones biológicas de competencia del estado; y,
 
-###### ARTICULO 84.
+XV. Impulsar la aplicación de investigación, programas, proyectos, actividades y acciones de educación, formación, capacitación, difusión y cultura ambiental para la sustentabilidad en condiciones de cambio climático.
 
-Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley, su Reglamento y demás disposiciones legales que de ellos deriven, podrán recurrirlas en los términos de la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 61.
+
+El Gobierno del Estado y los Ayuntamientos Municipales promoverán:
+
+I. La creación de un área de gestión ambiental dentro de la estructura orgánica de los Ayuntamientos que responda por la implementación del Plan de Educación Ambiental para la Sustentabilidad en el Estado de Chiapas a nivel municipal;
+
+II. La implementación del Plan de Educación Ambiental para la Sustentabilidad en el Estado de Chiapas en cada municipio;
+
+III. La difusión, a través de los medios de comunicación masiva, de los programas y campañas educativas y de información acerca de temas ambientales de orientación y participación ciudadana, en la conservación de los recursos naturales, así como en aquellas que tengan que ver con algún tipo de contingencia ambiental;
+
+IV. La formación, profesionalización, sensibilización y actualización de los comunicadores encargados de cubrir fuentes de información ambiental de los diferentes medios de comunicación;
+
+V. La participación de las instituciones educativas, organismos no gubernamentales, pueblos indígenas y demás sectores organizados de la sociedad en programas y actividades vinculadas con educación ambiental;
+
+VI. La participación de empresas públicas y privadas en el desarrollo de programas de educación ambiental;
+
+VII. La difusión de programas de cultura y educación ambiental y el desarrollo de proyectos de educación ambiental en español y en las principales lenguas indígenas;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VIII. La instrumentación de programas que promuevan disminuir la generación de contaminantes, el consumo responsable y fomenten la separación de residuos sólidos no peligrosos y urbanos desde el lugar de su generación así como su reúso y reciclaje.
+
+IX. El reconocimiento, la divulgación y el uso de métodos y prácticas tradicionales indígenas y campesinas, que sean compatibles con el aprovechamiento sustentable de los recursos naturales del estado;
+
+X. El desarrollo de tecnologías orientadas hacia la producción agroecológica y ambientalmente compatibles; y,
+
+XI. La coordinación entre las diferentes instancias oficiales y no gubernamentales, involucradas con el quehacer ambiental y educativo en la entidad.
+
+###### Artículo 62.
+
+La Secretaría promoverá el desarrollo de la capacitación y formación en materia de protección al ambiente, con arreglo a lo que establece esta ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
+
+Para los efectos del párrafo precedente, la Secretaría deberá coordinarse con las autoridades competentes de la Administración Pública del Estado y de la Federación, con el apoyo de los Ayuntamientos Municipales correspondientes.
+
+###### Artículo 63.
+
+La Secretaría, en coordinación con las dependencias estatales competentes, promoverá sistemas de capacitación para promotores ambientales, agropecuarios, así como para productores, a fin de lograr el aprovechamiento sustentable de agua y el suelo.
+
+###### Artículo 64.
+
+La Secretaría brindará asesoría técnica y jurídica a los Ayuntamientos Municipales de la entidad, para el eficaz y eficiente desempeño de su gestión ambiental.
+
+La Secretaría, con el apoyo de los gobiernos municipales correspondientes, y previa solicitud, brindará asesoría permanente a las comunidades y pueblos indígenas, a medianas y pequeñas empresas y a las personas físicas y morales interesadas, a fin de procurar el cumplimiento de la normatividad ecológica.
+
+###### Artículo 65.
+
+El Gobierno del Estado y los Ayuntamientos Municipales promoverán y reforzarán la creación de espacios de sensibilización, información y cultura ambiental en los medios masivos de comunicación.
+
+###### Artículo 66.
+
+Los proyectos de investigación científica, así como la difusión y ejecución de sus resultados estarán encaminados a la generación del conocimiento para la conservación de la biodiversidad y el uso adecuado de los recursos naturales, preservar los ecosistemas, el rescate y reconocimiento de los procedimientos y técnicas tradicionales utilizados por la población indígena, así como al desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, incorporando un enfoque interdisciplinario y de coordinación.
+
+###### Artículo 67.
+
+El Gobierno del Estado a través de la Secretaría, y con la participación de los Ayuntamientos Municipales, fomentarán la realización de investigaciones científicas que propicien el aprovechamiento racional y sustentable de los recursos naturales con que cuenta la Entidad para proteger los ecosistemas; asimismo, aquellas investigaciones de carácter científico el rescate relativas al reconocimiento de los conocimientos tradicionales y de la medicina indígena, así como del desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación. Para ello, se celebrarán los convenios necesarios con las instituciones de educación superior, centros e institutos de investigación científica, instituciones del sector social y privado, investigadores y especialistas en la materia.
+
+Además, la Secretaría apoyará la vinculación de estas instituciones de educación superior, centros e institutos de investigación científica con los grupos organizados de los sectores social y privado, con la finalidad de que la investigación generada sea aplicada a necesidades y problemáticas concretas, para lo cual promoverá la creación de un Sistema Estatal de Investigación Ambiental.
+
+#### Sección Séptima. Instrumentos Económicos para la Promoción del Desarrollo Sustentable y la Protección Ambiental
+
+###### Artículo 68.
+
+El titular del Poder Ejecutivo Estatal y el Congreso Local promoverán la creación de instrumentos económicos adecuados, con el fin de garantizar el cumplimiento de los objetivos de la política ambiental estatal, y de fomentar la compatibilidad de las actividades industriales, comerciales o de servicios con la protección ambiental y el desarrollo sustentable.
+
+Los instrumentos a que se refiere el párrafo anterior estarán orientados a la promoción de incentivos que aseguren una mayor equidad en la distribución de costos y beneficios asociados, o a que quienes ocasionen algún daño al ambiente asuman la responsabilidad económica correspondiente.
+
+###### Artículo 69.
+
+Conforme a lo señalado en el artículo anterior, son instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero y de mercado que establece la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como aquellas otras que para tal efecto propongan y desarrollen el Estado y los Ayuntamientos Municipales en el ámbito de su competencia.
+
+###### Artículo 70.
+
+El Gobierno del Estado y los Ayuntamientos Municipales promoverán la inclusión en las leyes hacendarias, de las disposiciones necesarias respectivas para que destinen un porcentaje de lo recaudado por concepto de impuestos, para la formulación e implementación de estrategias locales para el desarrollo sustentable. Asimismo promoverá que las autoridades fiscales establezcan y ejecuten programas permanentes de coordinación para instrumentar con la Secretaría estímulos fiscales en las materias que regula la presente ley.
+
+###### Artículo 71.
+
+Se promoverá el otorgamiento de estímulos fiscales a quien:
+
+I. Adquiera, instale y opere equipo para el control de emisiones contaminantes;
+
+II. Efectúe investigaciones en materia de tecnología, y cuya aplicación disminuya la generación de emisiones contaminantes;
+
+III. Utilice mecanismos para el ahorro de energía o el empleo de fuentes energéticas que disminuyan o abatan la emisión de contaminantes;
+
+IV. Reubique sus instalaciones fuera de las zonas urbanas de la entidad, con el fin de evitar emisiones contaminantes en las mismas;
+
+V. Fabrique, instale o proporcione mantenimiento a equipo de tratamiento de emisiones contaminantes en zonas urbanas del Estado;
+
+VI. Practique auditorías ambientales a sus instalaciones y actividades y lleve a cabo los programas que de éstas se deriven, en cumplimiento a sus propias recomendaciones;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VII. Lleve a cabo actividades de reciclaje de residuos sólidos no peligrosos, urbanos y de manejo especial.
+
+VIII. Instale equipos que ahorren, traten, reutilicen el agua, y prevengan su contaminación;
+
+IX. Otorgue apoyo en el desarrollo de actividades que reconozcan, fomenten y protejan los valores y las prácticas ambientales, sociales, culturales, religiosas y espirituales a los pueblos y comunidades indígenas de la entidad; y
+
+X. En general, promueva y ejecute aquellas acciones relacionadas con la preservación y restauración del equilibrio ecológico, y con la protección al ambiente en el Estado;
+
+No podrán ejercer el beneficio de los estímulos fiscales a quienes, habiéndolo obtenido, incurran en violaciones a la presente ley. La autoridad ambiental solicitará a la autoridad hacendaria estatal o municipal, según corresponda la pérdida de los estímulos fiscales.
+
+#### Sección Octava. Regulación Ambiental para los Asentamientos Humanos
+
+###### Artículo 72.
+
+La regulación ambiental para los asentamientos humanos es el conjunto de normas, disposiciones y medidas de desarrollo urbano y vivienda que llevan a cabo el Gobierno del Estado y los Ayuntamientos Municipales, con el fin de equilibrar el medio ambiente y los asentamientos humanos, y así mejorar la calidad de vida de la población en los términos de lo dispuesto en la presente ley, la Ley de Desarrollo Urbano del Estado y demás disposiciones legales aplicables en la materia.
+
+###### Artículo 73.
+
+Para contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, las dependencias estatales y municipales responsables de la planeación del desarrollo urbano y la vivienda, considerarán lo siguiente:
+
+I. Vincular las políticas y criterios ambientales con la planeación y regulación de los asentamientos humanos;
+
+II. Integrar los lineamientos y estrategias contenidas en los programas de ordenamiento ecológico del territorio de la entidad en los planes o programas de desarrollo urbano;
+
+III. Orientar el crecimiento de los asentamientos humanos hacia zonas aptas para este uso, de acuerdo con los programas de ordenamiento ecológico del territorio;
+
+IV. Fomentar en las áreas para el crecimiento de los centros de población o en las de creación de nuevos centros poblacionales, la compatibilidad de los usos habitacionales con los productivos, de manera que no representen daño ambiental, riesgos o afectación a la integridad de las personas, a fin de evitar que se afecten áreas con alto valor ambiental, observando para ello lo dispuesto por el programa estatal de ordenamiento ecológico del territorio;
+
+V. Fomentar y promover el establecimiento de sistemas de transporte público que garanticen la eficiencia energética y protección al ambiente;
+
+VI. Establecer y manejar en forma prioritaria las áreas de conservación ecológica, así como las zonas de influencia y amortiguamiento en torno a los asentamientos humanos; y
+
+VII. Establecer programas para revertir el daño ambiental ocasionado a los ecosistemas como consecuencia del crecimiento urbano desordenado o por asentamientos humanos irregulares, como medida compensatoria.
+
+Estos criterios serán considerados invariablemente en la formulación y aplicación de las políticas estatales y municipales de desarrollo urbano y vivienda, en los programas sectoriales de desarrollo urbano y vivienda que realice el Gobierno del Estado, en las normas de diseño y tecnología de construcción de vivienda que expidan las instancias correspondientes, así como en la planeación del desarrollo urbano y en las declaratorias de usos y destinos de las reservas territoriales para el desarrollo urbano y la vivienda.
+
+#### Sección Novena. Autorregulación y Auditorías Ambientales
+
+###### Artículo 74.
+
+Las empresas o establecimientos industriales ubicados dentro del territorio del Estado podrán desarrollar procesos voluntarios de autorregulación ambiental, mediante de (sic) los cuales mejoren su desempeño, respetando la legislación y normatividad vigente en la materia, y comprometiéndose a cumplir o superar los niveles, metas, parámetros o beneficios en materia de protección ambiental.
+
+La Secretaría y los municipios, en el ámbito de su competencia, podrán concertar y promover:
+
+I. El establecimiento y aplicación de sistemas de gestión ambiental en las empresas, así como su corresponsabilidad para el cumplimiento de objetivos sociales y ambientales en la entidad;
+
+II. Convenios y acuerdos con industrias, cámaras industriales, de comercio u otras actividades productivas, organizaciones de productores o representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones, referentes al desarrollo de procesos productivos adecuados y compatibles con la preservación del ambiente;
+
+III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el ambiente, debiendo observar las normas técnicas ambientales estatales;
+
+IV. Los mecanismos que faciliten la realización de auditorías y autorregulación; y,
+
+V. Las demás acciones que fomenten el alcance de los objetivos de política ambiental superiores a los previstos en la normatividad ambiental establecida.
+
+###### Artículo 75.
+
+A efecto de definir medidas preventivas y correctivas en el marco de la auditoría ambiental, las empresas podrán practicar exámenes metodológicos a sus operaciones, con respecto a la contaminación y riesgos que generen, al cumplimiento de las normas y parámetros técnicos ambientales y a la eficiencia de sus procesos.
+
+###### Artículo 76.
+
+A fin de impulsar la realización y seguimiento de auditorías ambientales, la Secretaría desarrollará los programas que considere pertinentes, mediante los cuales:
+
+I. Promoverá permanentemente la ejecución de auditorías ambientales a empresas y establecimientos;
+
+II. Definirá los términos de referencia para establecer el método aplicable para la realización de las auditorías;
+
+III. Desarrollará programas de capacitación en materia de peritajes y de auditorías ambientales;
+
+IV. Instrumentará un sistema de reconocimientos y estímulos para aquellas empresas que cumplan oportunamente con los compromisos adquiridos en las auditorías ambientales.
+
+###### Artículo 77.
+
+Las empresas que se encuentren clausuradas total o parcialmente, así como aquellas que con motivo de vistas de verificación practicadas por la Secretaría tengan pendiente el cumplimiento de los requerimientos oficiales en materia ambiental, deberán concluir con los procedimientos correspondientes, para poder ser sujetos de una auditoría ambiental y ser considerados para el goce de los beneficios previstos en la presente ley.
+
+###### Artículo 78.
+
+La Secretaría promoverá la creación de un Sistema de Certificación para el Estado de Chiapas, con el propósito de establecer parámetros de calidad ambiental, de acuerdo a lo dispuesto en los reglamentos respectivos en materia de:
+
+I. Responsabilidad ambiental y social;
+
+II. Capacitación y formación de especialistas e instructores;
+
+III. Elaboración de bienes y productos;
+
+IV. Desarrollo tecnológico, tecnologías limpias y ecotecnias;
+
+V. Procesos productivos y de consumo; y
+
+VI. Manejo integral de residuos.
+
+#### Sección Décima. Evaluación del Impacto y Riesgo Ambiental
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 79.
+
+Corresponde a la Secretaría, la evaluación de la manifestación o estudios de impacto y/o riesgo ambiental con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el ambiente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Para ello, en los casos que determine la presente ley u otros ordenamientos que al efecto se expidan, quienes pretendan llevar a cabo algunas de las siguientes obras o actividades, requerirán previamente al inicio de las mismas, la autorización de la Secretaría en materia de impacto y/o riesgo ambiental:
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+I. Obra pública estatal y municipal;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+II. Actividades consideradas riesgosas tales como: instalaciones de servicio, almacenamiento y distribución de combustibles o sustancias riesgosas cuando éstas no sean de competencia de la federación;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+III. Caminos estatales, municipales y rurales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IV. Zonas y parques industriales estatales y municipales, incluidas las plantas agroindustriales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+V. Exploración, extracción y procesamiento de materiales pétreos no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como materiales aluviales (arena y grava), piedra caliza, arcilla, tezontle, pomacita y grava roja, del que pueda obtenerse cualquier beneficio;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VI. Desarrollos turísticos en zonas de competencia estatal o municipal, promovidos por los sectores público, privado o social;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VII. Obras de infraestructura hidráulica estatal y municipal, como son las plantas de tratamiento de aguas residuales, los sistemas de drenaje y alcantarillado, y plantas de potabilización de agua;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+VIII. Las instalaciones de acopio, comercialización, tratamiento, reciclado, confinamiento, eliminación, disposición final y transporte de residuos sólidos urbanos y de manejo especial, competencia del estado;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+IX. Obras o aprovechamientos que pretendan realizarse dentro de las Áreas Naturales Protegidas Estatales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+X. Obras destinados (sic) a la concurrencia masiva de personas, tales como centros y plazas comerciales, estadios, cines, escuelas, centros deportivos, centrales de abasto, terminales de transporte público de carga o de pasajeros, mercados, panteones, teatros, parques recreativos o urbanos, hoteles, moteles y balnearios;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Hospitales, sanatorios, clínicas, centros de salud y laboratorios clínicos públicos o privados donde se realicen actividades riesgosas y se generen residuos de manejo especial.
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XII. Fraccionamientos, conjuntos habitacionales y nuevos centros de población;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XIII. La industria refresquera, alimentaria, maquiladora, textil, ensambladora, autopartes y metalmecánica, así como la vinculada al hule y sus derivados; rastros frigoríficos; industria automotriz; maquiladoras, tenerías y curtidurías, del vidrio y sus derivados, del plástico, farmacéutica, de cosméticos y demás industrias cuya actividad pueda generar afectación ambiental en aquellos aspectos que no sean de competencia federal;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XIV. Aquellas de competencia federal que asuma el Estado con motivo de la celebración de convenios o acuerdos de coordinación en la materia; y,
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
+XV. Cualesquiera que puedan causar impacto ambiental adverso, y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas a la regulación de leyes federales.
+
+###### Artículo 80.
+
+En el reglamento de la presente ley o en las normas que al efecto se emitan, se determinarán las obras o actividades a que se refiere el artículo anterior, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidas en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y protección al ambiente en el estado y que por lo tanto, no deban sujetarse al procedimiento de evaluación de estudios de impacto o riesgo ambiental previsto en este ordenamiento.
+
+###### Artículo 81.
+
+Los efectos negativos que sobre el ambiente y los recursos naturales a que se refiere esta ley, pudieran causar las obras o actividades de competencia estatal que no requieran someterse al procedimiento de evaluación de impacto ambiental mencionado en el presente capítulo, estarán sujetos en lo conducente, a las disposiciones legales y normatividad aplicables en la materia, así como lo que señalen los permisos, licencias, autorizaciones y concesiones que conforme a las mismas se requieran en las materias a que se refiere la presente ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 82.
+
+Para obtener la autorización a que se refiere el artículo 79 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación o estudio de impacto ambiental, el cual deberá contener cuando menos, la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+Cuando se trate de actividades consideradas riesgosas, en los términos de la presente ley, aunado al estudio de impacto ambiental deberá presentar el estudio de riesgo ambiental correspondiente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+
+###### Artículo 83.
+
+La Secretaría publicará mensualmente en su portal de internet y por estrados, un listado de los estudios de impacto y riesgo ambiental de las solicitudes de autorización, informes preventivos, en los términos que se determine en el reglamento de esta ley.
+
+###### Artículo 84.
+
+Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente respectivo, pondrá ésta a disposición de la ciudadanía, con el fin de que pueda ser consultada por cualquier persona.
+
+Los promoventes de la obra o actividad, podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial, que aporte el interesado.
 
 ###### Artículo 85.
 
@@ -1743,9 +1301,7 @@ b) La obra o actividad que se trate pueda propiciar que una o más especies sean
 
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
-
-IV. Emitir opinión favorable, condicionada o no favorable para el caso de fraccionamientos, unidades habitacionales y nuevos centros de población.
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 87.
 
@@ -1825,9 +1381,9 @@ Una vez publicada la norma técnica ambiental en el Periódico Oficial del Estad
 
 En casos de emergencia que ponga en riesgo la integridad de las personas o daños ambientales, la Secretaría podrá publicar en el Periódico Oficial, normas técnicas ambientales emergentes, sin sujetarse al procedimiento establecido en el artículo anterior y en el reglamento respectivo. Estas normas tendrán una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
 
-## TITULO TERCERO. DE LA COORDINACION DE LOS SERVICIOS DE ASISTENCIA SOCIAL DE LAS ENTIDADES Y DEPENDENCIAS PUBLICAS
+## Título Tercero. De la Biodiversidad y el Aprovechamiento Sustentable de los Recursos Naturales
 
-### CAPITULO UNICO
+### Capítulo Único
 
 ###### Artículo 97.
 
@@ -1871,9 +1427,11 @@ El Gobierno del Estado, en el ámbito de su competencia, en coordinación con la
 
 El Gobierno del Estado se coordinará con la Federación en las acciones sobre vedas, aprovechamiento, posesión, comercialización, colecta, importación, repoblamiento y propagación de flora y fauna silvestres nativas efectuadas por personas físicas o morales en el territorio de la entidad, y promoverá ante las instancias correspondientes que el manejo de la flora y fauna silvestres se realice con base en el conocimiento biológico tradicional, información técnica, científica y económica con el propósito de lograr un aprovechamiento sustentable de las especies.
 
-## TITULO CUARTO. DEL SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+## Título Cuarto. Áreas Naturales Protegidas de Competencia Estatal
 
-### CAPITULO I. De las Obligaciones y Facultades de los Ayuntamientos en Materia de Asistencia Social Municipal
+### Capítulo Primero. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 102.
 
@@ -1911,7 +1469,7 @@ Es obligación de las autoridades estatales, municipales y derecho de las person
 
 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas de competencia estatal, podrán gestionar ante las autoridades competentes el otorgamiento de estímulos fiscales y retribuciones económicas, cuando realicen acciones dirigidas a la conservación, restauración y manejo sustentable.
 
-### CAPITULO II. De la Conformación y Facultades del Sistema Municipal para el Desarrollo Integral de la Familia
+### Capítulo Segundo. Categorías de Áreas Naturales Protegidas
 
 ###### Artículo 107.
 
@@ -1983,7 +1541,7 @@ Para ello, el Gobierno del Estado hará el reconocimiento de estas áreas, certi
 
 El manejo, la elaboración de los programas y estudios técnicos serán realizados por sus propietarios, quienes tendrán la obligación de conservar estas áreas en un periodo de por lo menos diez años, garantizando el equilibrio ecológico.
 
-### CAPITULO I. Generalidades
+### Capítulo Tercero. Declaratorias de Áreas Naturales Protegidas en el Estado
 
 ###### Artículo 117.
 
@@ -2023,11 +1581,19 @@ I. Las restricciones o prohibiciones de las actividades que puedan alterar los e
 
 II. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad en el territorio de las áreas naturales protegidas y sus zonas de influencia.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 120.
 
-Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente capítulo.
+Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente Capítulo, asimismo, la Secretaría podrá solicitar la opinión de:
+
+I. Los Ayuntamientos Municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
+
+Il. Las dependencias y entidades de la Administración Pública Estatal que deberán intervenir, de conformidad con sus atribuciones;
+
+III. Las instituciones académicas, centros de investigación y organismos de los sectores públicos;
+
+Para el establecimiento de las áreas naturales protegidas de competencia municipal, se observarán los requisitos previstos en el artículo 118 de la presente ley.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2105,7 +1671,7 @@ La Secretaría identificará y promoverá los mecanismos para que se establezca 
 
 El Gobierno del Estado y los Ayuntamientos Municipales en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas y demás personas interesadas, las concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas bajo su competencia; de conformidad con lo que establece esta ley, la declaratoria y el programa de manejo correspondientes.
 
-### CAPITULO II. De las Relaciones de las Autoridades con las Instituciones de Asistencia Privada
+### Capítulo Cuarto. Sistema de Áreas Naturales Protegidas del Estado de Chiapas
 
 ###### Artículo 134.
 
@@ -2131,7 +1697,7 @@ La autoridad hacendaria del Estado, a solicitud expresa de la Secretaría, tendr
 
 La Secretaría fijará las tarifas conforme a los costos de operación de cada área natural protegida y los costos de los servicios prestados. Igualmente, las revisará cada año, a fin de ajustarlas de acuerdo con el índice nacional de precios al consumidor.
 
-### CAPITULO III. Del Directorio Estatal de Instituciones de Asistencia Privada
+### Capítulo Quinto. Zonas de Restauración
 
 ###### Artículo 139.
 
@@ -2161,9 +1727,9 @@ Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro
 
 Los notarios y cualesquiera otros fedatarios públicos harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan. Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
-## TITULO QUINTO. DE LA ASISTENCIA PRIVADA
+## Título Quinto. Protección al Ambiente
 
-### CAPITULO IV. De las Certificaciones de las Instituciones de Asistencia Privada
+### Capítulo Primero. Prevención y Control de la Contaminación de la Atmósfera
 
 #### Sección Primera. Disposiciones Generales
 
@@ -2271,7 +1837,7 @@ Para la operación de los programas que señala el artículo anterior, el Gobier
 
 Las emisiones a la atmósfera provocadas por erupciones volcánicas, incendios forestales, tolvaneras y otros siniestros, serán objeto de programas de emergencia y contingencias ambientales que establezcan las autoridades federales y estatales en materia de protección civil, en coordinación con la Secretaría.
 
-### CAPITULO V. De los Estímulos y Reconocimientos
+### Capítulo Segundo. Prevención y Control de la Contaminación del Agua y el Aprovechamiento Sustentable de los Ecosistemas Acuáticos
 
 ###### Artículo 154.
 
@@ -2387,7 +1953,7 @@ La Secretaría, en coordinación con las autoridades competentes, emitirá opini
 
 La Secretaría establecerá viveros, criaderos y reservas de especies de flora y fauna acuáticas.
 
-### CAPITULO UNICO
+### Capítulo Tercero. Preservación y Aprovechamiento Sustentable del Suelo y sus Recursos
 
 ###### Artículo 169.
 
@@ -2525,7 +2091,7 @@ Las industrias y los establecimientos mercantiles y de servicios de competencia 
 
 La Secretaría diseñará los procedimientos y formatos para la presentación de la información a que se refiere el artículo anterior, los cuales serán publicados en el Periódico Oficial.
 
-## TITULO SEXTO. DE LA INSPECCION, SANCIONES Y RECURSOS
+## Título Sexto. Regulación de Actividades que Pueden Generar Efectos Nocivos
 
 ### Capítulo Primero. Actividades Riesgosas de Competencia Estatal
 
@@ -2883,7 +2449,7 @@ La autoridad correspondiente, por sí o a solicitud del infractor, podrá otorga
 
 ###### Artículo 220.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones quede ella se deriven, se destinarán a la integración del Fondo Estatal Ambiental para desarrollar programas vinculados con la protección y mejoramiento del medio ambiente.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración del Fondo Estatal Ambiental para desarrollar programas vinculados con la protección y mejoramiento del medio ambiente.
 
 Los importes que por concepto de sanciones se impongan, tendrán el carácter de créditos fiscales y serán exigibles por las autoridades hacendarías conforme al procedimiento previsto por la ley de la materia. Del importe que se recabe, el 40% se mantendrá para la autoridad fiscal y el 60% restante se otorgará a la Secretaría o al municipio correspondiente, y será destinado para inversión en el mejoramiento de su estructura operativa.
 
@@ -3013,165 +2579,55 @@ En materia de daño ambiental serán competentes todos los jueces del Estado ate
 
 Cuando por infracción a las disposiciones de esta ley y sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción o prueba en caso de que se presente en juicio.
 
-## TRANSITORIOS
+## Transitorios
 
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
-SEGUNDO. Se abroga la Ley Sobre el Sistema de Asistencia Social del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el día 18 de septiembre de 1997, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+Artículo Segundo.- La Secretaría de Medio Ambiente y Vivienda, en un término no mayor de ciento ochenta días hábiles, contados a partir de la entrada en vigor de esta ley deberá someter a la consideración del Titular del Poder Ejecutivo del Estado el proyecto del Reglamento de la misma, para efectos de su expedición y publicación correspondiente.
 
-TERCERO. El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley, dentro de los 180 días siguientes a su entrada en vigor.
+Artículo Tercero.- Se abroga la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chiapas, publicada en el Periódico Oficial de fecha 31 de julio de 1991. Se derogan las demás disposiciones legales y reglamentarias que se opongan a la presente.
 
-CUARTO. Los municipios que no cuenten con el Sistema Municipal para el Desarrollo Integral de la Familia -DIF Municipal- deberán constituirlos mediante cualquiera de las figuras que establece la presente Ley, dentro de los noventa días siguientes a la entrada en vigor de la presente Ley.
+Artículo Cuarto.- El Gobierno del Estado podrá ejercer las facultades de que disponen los municipios en las materias que les correspondan, a petición expresa de éstos, participando como coadyuvantes en los procedimientos que establece la presente ley, hasta en tanto cuenten con sus respectivos Reglamentos o adecuen sus Bandos de Policía y Buen Gobierno.
 
-Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+Artículo Quinto.- Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley, seguirán vigentes por el término en que fueron otorgados y su prórroga se sujetará a las disposiciones de este ordenamiento.
 
-DADO en el Salón de Sesiones del H. Congreso del Estado, el día catorce de enero de dos mil dos.
+Artículo Sexto.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta ley, que se hubieren iniciado bajo la vigencia de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chiapas, se tramitarán y resolverán conforme a las disposiciones de dicha ley que se abroga.
 
-Diputado Presidente: Sergio Ernesto García Basauri, Diputado Secretario: Olivo Martínez Borja, Diputado Secretario: Ignacio Palacios Robledo, (Rúbricas)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
-Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+Artículo Séptimo.- El manejo, administración y operación de las áreas naturales protegidas de jurisdicción estatal quedan a cargo de la Secretaría y sin considerar la categoría bajo la cual fueron decretadas, las áreas naturales protegidas de jurisdicción estatal a que hace referencia, son las siguientes: Bosque de Coníferas Chanal, municipios de Chanal y Las Margaritas; La Concordia-Zaragoza, Municipio de La Concordia; El Zapotal, Municipio de Tuxtla Gutiérrez; La Primavera, Municipio de Comitán de Domínguez; Santa Felicitas, Municipio de Ocosingo; Cerro Mactumatzá, Municipio de Tuxtla Gutiérrez; La Lluvia, Municipio de Villaflores; Cerro Meyapac, Municipio de Ocozocoautla; El Canelar, Municipio de Acala; La Pera, Municipio de Berriozábal; Laguna Bélgica, Municipio de Ocozocoautla de Espinoza; El Recreo, Municipio de Teopisca; Huitepec-Los Alcanfores, Municipio de San Cristóbal de las Casas; Humedales de Montaña La Kisst, Municipio de San Cristóbal de Las Casas; Humedales de Montaña La Kisst, Municipio de San Cristobal de Las Casas; Humedales de Montaña María Eugenia, Municipio de San Cristóbal de Las Casas; Rancho Nuevo, Municipio de San Cristóbal de las Casas; Reserva Biótica Gertrude Duby, Municipio de San Cristóbal de Las Casas; Cordón Pico El Loro-Paxtal, Municipio de Escuintla, Síltepec, El Porvenir, Angel Albino Corzo, Motozintla, Acacoyagua y Mapastepec; Finca Santa Ana, Municipio de Pichucalco; Tzama Cun Pümy, Municipio de Tapalapa; Humedales La Libertad, Municipio de La Libertad, Sistema Lagunar Catazajá, Municipio de Catazajá; Calbido Amatal, Municipio de Tapachula y Mazatán; Gancho Murillo, Municipio de Suchiate y Tapachula; y Volcán Tacaná, Municipio de Tapachula, Unión Juárez y Cacahoatán.
 
-DADO en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los quince días de enero de dos mil uno.
+Artículo Octavo.- La Secretaría, mediante acuerdo, publicará en el Periódico Oficial del Estado la categoría de área natural protegida que corresponda conforme a lo dispuesto en esta Ley.
 
-El Gobernador Constitucional del Estado
+Artículo Noveno.- Tratándose de Áreas Naturales y Típicas, Reservas Estatales, Centros Ecológicos Recreativos, Zona Sujetas a Conservación Ecológica y parques Estatales, la Secretaría deberá realizar los estudios y análisis técnicos que sean necesarios para determinar si las condiciones que dieron lugar a su establecimiento no se han modificado y si cumple con los propósitos previstos en el instrumento que dieron lugar a su establecimiento.
 
-LIC. FERNANDO SILVA NIETO
+En caso de que conforme a los estudios y análisis técnicos que se lleve a cabo, sea necesario modificar vértices, superficie y/o polígono general, la Secretaría promoverá ante el Ejecutivo Estatal, la expedición del Decreto que corresponda.
 
-(Rúbrica)
+El Ejecutivo dispondrá se publique, circule y se le dé el debido cumplimiento.
 
-El Secretario General de Gobierno
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 18 días del mes de Marzo del año dos mil nueve. D.P. C. Óscar Salinas Morga.- D.S. C.O. Magdalena Torres Abarca- Rúbricas.
 
-LIC. JORGE DANIEL HERNANDEZ DELGADILLO.
+De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dieciocho días del mes de marzo del año dos mil nueve.
 
-(Rúbrica)
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+P.O. 26 DE MAYO DE 2010.
 
-P.O. 12 DE SEPTIEMBRE DE 2006.
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-PRIMERO. Este Decreto entrará en vigor el dí a (sic) doce del mes de septiembre del año dos mil seis, previa publicación en el Periódico Oficial del Estado.
+Artículo Segundo.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+P.O. 29 DE SEPTIEMBRE DE 2010.
 
-TERCERO. La situación jurí dica (sic) de las personas que se encuentran compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-EL Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+P.O. 4 DE ENERO DE 2012.
 
-La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-QUINTO. Las autoridades del Consejo Tutelar para Menores Infractores del Estado, a que se refiere la Ley de Consejos Tutelares y de Readaptación Social para Menores del Estado de San Luis Potosí, podrán seguir actuando válidamente a la entrada en vigor de la Ley de Justicia para Menores del Estado de San Luis Potosí, para los efectos de remitir los asuntos que eran de su conocimiento, a la autoridad competente; de acuerdo con las siguientes reglas:
-
-a) Los asuntos que estén conociendo en investigación o integración las autoridades del Consejo Tutelar para Menores del Estado, serán remitidos de inmediato al Ministerio Público Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
-
-b) El procedimiento que estén instruyendo las autoridades del Consejo Tutelar para Menores del Estado, será remitido de inmediato al Juez Especializado, poniendo a su disposición, en su caso, al menor que tuviere detenido.
-
-c) El Director del Centro de Readaptación Social para Menores "Profesor Angel Silva", entregará a la Dirección de Ejecución de Medidas para Menores, a los que estuvieren afectos a alguna medida firmemente decretada y los expedientes a ellos relativos.
-
-Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
-
-d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
-
-P.O. 12 DE JUNIO DE 2007.
-
-PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. La Junta Directiva de (sic) DIF Estatal, en un plazo no mayor de treinta días, convocará a los integrantes del Consejo Estatal de Adopciones para que se constituyan.
-
-TERCERO. El Ejecutivo del Estado deberá elaborar el Reglamento del Consejo Estatal de Adopciones, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
-
-CUARTO. La Dirección General del DIF Estatal, en un plazo no mayor de treinta días posteriores a la entrada en vigor del presente Decreto, deberá convocar al Consejo Técnico de Adopciones, haciéndole del conocimiento a la Junta Directiva del DIF Estatal.
-
-QUINTO. La Dirección General del DIF Estatal, deberá elaborar el Reglamento del Consejo Técnico de Adopciones, sometiéndolo a consideración de su Junta Directiva, en un plazo no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
-
-SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 10 DE JULIO DE 2007.
-
-PRIMERO. Este Decreto entrará en vigor, noventa días después de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se abroga la Ley de Prevención y Atención de la Violencia Intrafamiliar o Doméstica del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado con fecha 28 de julio de 1998.
-
-TERCERO. El Consejo Estatal y las Unidades de Atención deberán quedar instalados dentro de los sesenta días siguientes a la fecha en que entre en vigor la Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí, a que alude el artículo 1o. del presente Decreto.
-
-CUARTO. Treinta días después de la instalación de las Unidades de Atención, el Procurador de la Defensa del Menor, la Mujer y la Familia, formulará el Reglamento Interior, para someterlo a la aprobación del Consejo Estatal.
-
-QUINTO. En los municipios en los que hubiere Centros de Atención Integral a la Violencia Familiar, las Unidades de Atención asumirán las funciones y todos los asuntos relativos que a aquéllos les competa.
-
-P.O. 4 DE OCTUBRE DE 2008.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan las disposiciones que ese (sic) opongan al presente Decreto.
-
-P.O. 18 DE DICIEMBRE DE 2008.
-
-PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-TERCERO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con la materia familiar a que refiere el Código Civil para el Estado de San Luis Potosí, iniciados con anterioridad a la entrada en vigor a este Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
-
-P.O. 28 DE ABRIL DE 2009.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, deberá asignar al Sistema para el Desarrollo Integral de la Familia, los recursos económicos necesarios para el pago de los honorarios de los delegados y demás recursos que requieran para su operación.
-
-TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 22 DE JULIO DE 2010.
-
-PRIMERO. Este Decreto entrará en vigor a los noventa días, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Los sistemas municipales para el Desarrollo Integral de la Familia, tendrán noventa días a partir de la publicación del presente Decreto, para implementar sus contralorías internas.
-
-TERCERO. Se derogan todas las disposiciones que contravengan este Decreto.
-
-P.O. 11 DE SEPTIEMBRE DE 2010.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
-
-P.O. 9 DE ABRIL DE 2011.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 30 DE JULIO DE 2011.
-
-PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
-
-P.O. 10 DE NOVIEMBRE DE 2011.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 15 DE SEPTIEMBRE DE 2012.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
-
-SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-
-P.O. 27 DE NOVIEMBRE DE 2014.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 2 DE DICIEMBRE DE 2014.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 19 DE DICIEMBRE DE 2015.
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0071.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO".]
 
