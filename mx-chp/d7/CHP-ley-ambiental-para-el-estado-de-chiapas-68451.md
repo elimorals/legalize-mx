@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2010-09-29"
+last_updated: "2012-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -67,7 +67,9 @@ IX. Evaluar el impacto ambiental de las obras o actividades que no sean de compe
 
 X. Prevenir, controlar y mitigar la contaminación del aire, agua y suelo, así como el manejo integral de residuos en el territorio estatal, en las materias que no sean competencia exclusiva de la Federación;
 
-XI. Regular el manejo y disposición final de los residuos sólidos urbanos y de manejo especial, conforme a la legislación vigente de la materia;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XI. Regular el manejo, gestión integral y disposición final de los residuos sólidos urbanos y de manejo especial, así como de los residuos sólidos no peligrosos, conforme a la legislación vigente de la materia;
 
 XII. Establecer los principios de la responsabilidad ambiental por afectación a la integridad de las personas y por daño ambiental;
 
@@ -97,75 +99,81 @@ VI. La prevención de riesgos y contingencias ambientales, así como la ejecuci�
 
 VII. El establecimiento de zonas intermedias de salvaguarda, por la presencia o realización de actividades riesgosas que afecten o puedan afectar el equilibrio de los ecosistemas, la seguridad de las personas en los centros de población o al ambiente del Estado en general o de uno o varios de los municipios que lo conforman.
 
-###### Artículo 3.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+###### Artículo 3°.
 
 Para los efectos de esta ley, además de las definiciones contenidas en otras disposiciones que tengan por objeto la regulación de materias contenidas en el presente ordenamiento, se entiende por:
 
-I. Actividades Riesgosas: Las actividades de competencia del Estado que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en los artículos 7º y 149 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+I. Actividades Riesgosas: Las actividades de competencia del Estado que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en los artículos 7° y 149 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-II. Afectación a la integridad de las personas: La introducción no consentida en el organismo humano de uno o más contaminantes, o la combinación o derivación de ellos, que resulte directa o indirectamente de la liberación, descarga, desecho, infiltración o incorporación de materiales o residuos en el aire, agua, suelo o cualquier medio o elemento natural, sin cumplir con las disposiciones de la presente ley, las disposiciones que de ella se derivan, así como las Normas Oficiales Mexicanas;
+II. Afectación a la integridad de las personas: La introducción no consentida en el organismo humano de uno o más contaminantes, o la combinación o derivación de ellos, que resulte directa o indirectamente de la liberación, descarga, desecho, infiltración o incorporación de materiales o residuos en el aire, agua, suelo o cualquier medio o elemento natural, sin cumplir con las disposiciones de la presente ley, las disposiciones que de ella se derivan, así como las Normas Oficiales Mexicanas.
 
-III. Alteración del paisaje: Modificación de las cualidades de la imagen de un paisaje natural o urbano, causada por el aprovechamiento de recursos naturales o el uso de cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
+III. Alteración del paisaje: Modificación de las cualidades de la imagen de un paisaje natural o urbano, causada por el aprovechamiento de recursos naturales o el uso de cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio.
 
-IV. Aprovechamiento Sustentable: La extracción y utilización de los recursos naturales respetando la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte, a fin de que resulten eficientes y socialmente útiles, y que garanticen su preservación y la del ambiente por períodos indefinidos;
+IV. Aprovechamiento Sustentable: La extracción y utilización de los recursos naturales respetando la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte, a fin de que resulten eficientes y socialmente útiles, y que garanticen su preservación y la del ambiente por períodos indefinidos.
 
-V. Auditoría Ambiental: Los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
+V. Auditoría Ambiental: Los procesos de verificación y autorregulación ambiental que desarrollen voluntariamente las empresas, productores y organizaciones, para determinar si existe incumplimiento a la normatividad ambiental y sus causas; corregir las prácticas contaminantes y cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-VI. Consejo Consultivo: El Consejo Consultivo Ambiental del Estado de Chiapas;
+VI. Consejo Consultivo: El Consejo Consultivo Ambiental del Estado de Chiapas.
 
-VII. Contingencia Ambiental: Situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y sus poblaciones;
+VII. Contingencia Ambiental: Situación derivada de actividades humanas o fenómenos naturales, que pone en peligro la integridad de uno o varios ecosistemas y sus poblaciones.
 
-VIII. Control: Implementación y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+VIII. Control: Implementación y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento.
 
-IX. Criterios Ecológicos: Los lineamientos de observancia obligatoria contenidos en las Normas Técnicas Ambientales Estatales, emitidas para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, la protección al ambiente y a la biodiversidad, y que permiten la aplicación de los instrumentos de la política ambiental;
+IX. Criterios Ecológicos: Los lineamientos de observancia obligatoria contenidos en las Normas Técnicas Ambientales Estatales, emitidas para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, la protección al ambiente y a la biodiversidad, y que permiten la aplicación de los instrumentos de la política ambiental.
 
-X. Cultura Ambiental: Proceso de construcción de conocimientos, valores, hábitos y actitudes que conducen a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones, o adquiridos por medio de la educación ambiental;
+X. Cultura Ambiental: Proceso de construcción de conocimientos, valores, hábitos y actitudes que conducen a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones, o adquiridos por medio de la educación ambiental.
 
-XI. Daño Ambiental: La pérdida, deterioro, menoscabo, contaminación, afectación o modificación negativa de los ecosistemas, de los elementos naturales o de sus condiciones químicas, físicas, biológicas o genéticas, y de las relaciones de interacción que se dan entre éstos, como consecuencia del incumplimiento de una obligación establecida en la presente ley;
+XI. Daño Ambiental: La pérdida, deterioro, menoscabo, contaminación, afectación o modificación negativa de los ecosistemas, de los elementos naturales o de sus condiciones químicas, físicas, biológicas o genéticas, y de las relaciones de interacción que se dan entre éstos, como consecuencia del incumplimiento de una obligación establecida en la presente ley.
 
-XII. Daño por afectación a la integridad de la persona: Incapacidad física o mental, enfermedad, deterioro, menoscabo o cualquier otro efecto negativo a la salud de la persona, incluso la muerte, que directa o indirectamente producen contaminantes liberados al ambiente, cuando la liberación, descarga, desecho, infiltración o incorporación de uno o más materiales y residuos en la atmósfera, agua, suelo, o cualquier medio o elemento natural, se lleva a cabo de forma ilícita;
+XII. Daño por afectación a la integridad de la persona: Incapacidad física o mental, enfermedad, deterioro, menoscabo o cualquier otro efecto negativo a la salud de la persona, incluso la muerte, que directa o indirectamente producen contaminantes liberados al ambiente, cuando la liberación, descarga, desecho, infiltración o incorporación de uno o más materiales y residuos en la atmósfera, agua, suelo, o cualquier medio o elemento natural, se lleva a cabo de forma ilícita.
 
-XIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XIII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social, que tiende a mejorar la calidad de vida y la productividad de las personas, y que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
-XIV. Ley: Ley Ambiental para el Estado de Chiapas;
+XIV. Disposición final: Acción de depositar permanentemente residuos en instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+XV. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
 
-XV. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el Impacto Ambiental significativo y el potencial que genera una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XVI. Evaluación del Impacto Ambiental: Procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
 
-XVI. Normas Oficiales Mexicanas: Las que se elaboren, expidan y consideren como tales conforme a la Ley Federal de Metrología y Normalización;
+XVII. Ley: Ley Ambiental para el Estado de Chiapas.
 
-XVII. Normas Técnicas Ambientales Estatales: Las que se elaboren y expidan de conformidad con lo que señala la presente ley;
+XVIII. Gestión Integral: Conjunto de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, del monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales.
 
-XVIII. Ordenamiento Ecológico del Territorio: El instrumento de política ambiental, cuyo objeto es regular e inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XIX. Manejo integral: Son las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adoptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
 
-XIX. Preservación: El conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
+XX. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el Impacto Ambiental significativo y el potencial que genera una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
-XX. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro;
+XXI. Normas Oficiales Mexicanas: Las que se elaboren, expidan y consideren como tales conforme a la Ley Federal de Metrología y Normalización.
 
-XXI. Residuos de manejo especial: Aquellos generados en los procesos productivos, y que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+XXII. Normas Técnicas Ambientales Estatales: Las que se elaboren y expidan de conformidad con lo que señala la presente ley.
 
-XXII. Residuos sólidos urbanos: Los generados en las casas habitación, resultantes de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques, así como los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
+XXIII. Ordenamiento Ecológico del Territorio: El instrumento de política ambiental, cuyo objeto es regular e inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos.
 
-XXIII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones ambientales que propician la evolución y continuidad de las especies y de los procesos naturales;
+XXIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-XXIV. Riesgo Ambiental: Es la probabilidad de consecuencias negativas físicas, económicas, sociales y ambientales en un sitio particularmente vulnerable, a causa de una amenaza natural o antropogénica que se manifiestan en un determinado período de tiempo;
+XXV. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro.
 
-XXV. Secretaría: Secretaría de Medio Ambiente y Vivienda;
+XXVI. Residuos de manejo especial: Aquellos generados en los procesos productivos, y que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
 
-XXVI. Servicios Ambientales: Los beneficios de interés social e individual que se generan o se derivan de: los bosques y selvas, las cuencas hidrológicas y sus componentes, tales como regulación climática, conservación de los ciclos hidrológicos, control de la erosión, control de inundaciones, recarga de acuíferos, mantenimiento de escurrimientos en calidad y cantidad, formación de suelo, captura de carbono, purificación de cuerpos de agua, así como conservación y protección de la biodiversidad;
+XXVII. Residuos sólidos no peligrosos: Las grasas y aceites de origen vegetal o animal, que surgen de las actividades domésticas, servicios públicos y establecimientos restauranteros, y en donde se desechan como inútiles o no requeridos.
 
-XXVII. Verificación: Acciones de inspección y vigilancia que realiza la Secretaría a través del personal debidamente acreditado, para la acciones que establece la presente ley, en los términos que en la misma se expresan; y,
+XXVIII. Residuos sólidos urbanos: Los generados en las casas habitación, resultantes de la eliminación de los materiales que se utilizan en las actividades domésticas, de los productos que se consumen y de sus envases, embalajes o empaques, así como los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole.
 
-XXVIII. Vigilancia: Monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente ley.
+XXIX. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones ambientales que propician la evolución y continuidad de las especies y de los procesos naturales.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+XXX. Riesgo Ambiental: Es la probabilidad de consecuencias negativas físicas, económicas, sociales y ambientales en un sitio particularmente vulnerable, a causa de una amenaza natural o antropogénica que se manifiestan en un determinado período de tiempo.
 
-XXIX. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
+XXXI. Secretaría: Secretaría de Medio Ambiente e Historia Natural.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+XXXII. Servicios Ambientales: Los beneficios de interés social e individual que se generan o se derivan de: los bosques y selvas, las cuencas hidrológicas y sus componentes, tales como regulación climática, conservación de los ciclos hidrológicos, control de la erosión, control de inundaciones, recarga de acuíferos, mantenimiento de escurrimientos en calidad y cantidad, formación de suelo, captura de carbono, purificación de cuerpos de agua, así como conservación y protección de la biodiversidad.
 
-XXX. Evaluación del Impacto Ambiental: Procedimiento a través del cual la Autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Estado de Chiapas, a fin de evitar o reducir al mínimo efectos negativos sobre el medio ambiente, prevenir futuros daños al mismo y propiciar el aprovechamiento sustentable de los recursos naturales.
+XXXIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de manejo y gestión integral, así como eficiencia ambiental, tecnológica y económica.
+
+XXXIV. Verificación: Acciones de inspección y vigilancia que realiza la Secretaría a través del personal debidamente acreditado, para la (sic) acciones que establece la presente ley, en los términos que en la misma se expresan.
+
+XXXV. Vigilancia: Monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente ley.
 
 ### Capítulo Segundo. De las Autoridades Ambientales en el Estado
 
@@ -207,9 +215,15 @@ IX. Impulsar la implementación de reconocimientos, esquemas de certificación y
 
 X. Expedir los reglamentos en las materias a las que se refiere la presente ley;
 
-XI. Expedir las Normas Técnicas Ambientales Estatales; y,
+XI. Expedir las Normas Técnicas Ambientales Estatales; y, (sic)
 
-XII. Las demás que conforme a esta ley y a otros ordenamientos legales en la materia le correspondan.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XII. Promover, en coordinación con el Gobierno Federal y las autoridades correspondientes, la creación de infraestructura para el manejo y gestión integral, así como la valorización de residuos sólidos no peligrosos;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XIII. Las demás que conforme a esta ley y a otros ordenamientos legales en la materia le correspondan.
 
 ###### Artículo 7.
 
@@ -243,7 +257,9 @@ XIII. Autorizar, controlar y vigilar las actividades que no sean consideradas al
 
 XIV. Prevenir, controlar y procurar la eliminación de la contaminación de las aguas de competencia del Estado así como de las aguas nacionales que tenga asignadas este último, así como establecer las condicionantes particulares para descarga de aguas residuales de las industrias y servicios de los centros de población que las dispongan en los sistemas de drenaje y alcantarillado municipal con la participación de los Ayuntamientos Municipales respectivos por sí mismos, o a través de los organismos operadores del agua;
 
-XV. Autorizar y llevar el control de los sistemas de almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos y residuos de manejo especial, que conforme a lo establecido en la legislación de la materia y demás ordenamientos legales aplicables, no sean considerados de competencia federal;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XV. El control y vigilancia de los sistemas de almacenamiento, manejo y gestión integral de los residuos sólidos no peligrosos, residuos sólidos urbanos y residuos de manejo especial, que conforme a lo establecido en la legislación de la materia y demás ordenamientos legales aplicables, no sean considerados de competencia federal.
 
 XVI. Prevenir, controlar y procurar la eliminación de la contaminación generada por la emisión de ruido, vibraciones, energía térmica o lumínica, radiaciones electromagnéticas, olores, gases y partículas perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos industriales, así como de fuentes móviles, conforme a lo establecido en la presente ley;
 
@@ -271,9 +287,25 @@ XXVII. Participar en los diferentes ámbitos educativos para desarrollar los con
 
 XXVIII. Organizar y operar los Sistemas Estatales de Monitoreo Ambiental que de esta ley se deriven, en coordinación con las autoridades competentes;
 
-XXIX. Proporcionar apoyo, capacitación y asesoría técnica a las comunidades rurales e indígenas para el desarrollo de actividades de preservación y aprovechamiento sustentable de los ecosistemas, la elaboración de programas de manejo de recursos naturales y manejo de residuos sólidos, el desarrollo de estudios de poblaciones, comunidades y ecosistemas, así como para la solicitud de las autorizaciones correspondientes en las materias de la presente ley; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-XXX. Las demás que se determinen en la presente ley y demás disposiciones legales aplicables.
+XXIX. Proporcionar apoyo, capacitación y asesoría técnica a las comunidades rurales e indígenas para el desarrollo de actividades de preservación y aprovechamiento sustentable de los ecosistemas, la elaboración de programas de manejo de recursos naturales y manejo de residuos sólidos, el desarrollo de estudios de poblaciones, comunidades y ecosistemas, así como para la solicitud de las autorizaciones correspondientes en las materias de la presente ley.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXX. Diseñar e instrumentar programas estatales para incentivar a los generadores de residuos sólidos no peligrosos, a reducir su generación y someterlos a un manejo integral.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXXI. Establecer programas estatales para mejorar el desempeño ambiental en las cadenas productivas que intervienen en la segregación, acopio y preparación de los residuos sólidos no peligrosos para su reciclaje.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXXII. Desarrollar guías y lineamientos en el ámbito de su competencia, para la segregación, recolección, acopio, almacenamiento, reciclaje, tratamiento y transporte de residuos sólidos no peligrosos.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXXIII. Las demás que se determinen en la presente ley y demás disposiciones legales aplicables.
 
 ###### Artículo 8.
 
@@ -325,9 +357,17 @@ XXII. Establecer las medidas necesarias en el ámbito de su competencia, para im
 
 XXIII. Concertar las acciones con los sectores sociales involucrados en las materias de la presente ley;
 
-XXIV. Establecer, con la participación de las autoridades competentes, zonas intermedias de salvaguarda, cuando se lleven a cabo o pretendan realizar actividades riesgosas que pudieran afectar al ambiente o a la salud humana; y,
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-XXV. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiera esta ley u otros ordenamientos legales en concordancia con ella, y que no estén otorgados expresamente a la Federación o al Estado.
+XXIV. Establecer, con la participación de las autoridades competentes, zonas intermedias de salvaguarda, cuando se lleven a cabo o pretendan realizar actividades riesgosas que pudieran afectar al ambiente o a la salud humana;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXV. Controlar y vigilar, en coordinación con el Ejecutivo del Estado, a través de la Secretaría y el órgano correspondiente, en manejo y gestión integral de los residuos sólidos no peligrosos; observando en todo momento, lo dispuesto por la legislación federal de la materia.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XXVI. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiera esta ley u otros ordenamientos legales en concordancia con ella, y que no estén otorgados expresamente a la Federación o al Estado.
 
 ###### Artículo 9.
 
@@ -403,7 +443,9 @@ VIII. Para efectos en el otorgamiento de los permisos o autorizaciones en materi
 
 IX. En el caso de los convenios en los que se asuman atribuciones federales en materia de Evaluación de Impacto Ambiental, los procedimientos se llevarán a cabo de conformidad con lo que señala el Reglamento de la Ley federal en materia de evaluación del impacto ambiental; y,
 
-X. Los convenios o acuerdos de coordinación a que se refiere el presente artículo, deberán ser publicados en el Diario Oficial de la Federación y el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+X. Los convenios o acuerdos de coordinación a que se refiere el presente artículo, deberán ser publicados en el Diario Oficial de la Federación y el Periódico Oficial.
 
 ###### Artículo 16.
 
@@ -869,7 +911,9 @@ V. Pago por servicios ambientales;
 
 VI. Desarrollo rural sustentable;
 
-VII. Manejo y disposición final de residuos sólidos urbanos y de manejo especial, así como para el reciclado de materiales con incidencia local o regional;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VII. Manejo, gestión integral y disposición final de residuos sólidos no peligrosos, urbanos y de manejo especial, así como para el reciclado de materiales con incidencia local o regional.
 
 VIII. Restauración de sitios contaminados;
 
@@ -967,7 +1011,9 @@ VI. La participación de empresas públicas y privadas en el desarrollo de progr
 
 VII. La difusión de programas de cultura y educación ambiental y el desarrollo de proyectos de educación ambiental en español y en las principales lenguas indígenas;
 
-VIII. La instrumentación de programas que promuevan disminuir la generación de contaminantes, el consumo responsable y fomenten la separación de residuos sólidos urbanos desde el lugar de su generación" así como su reúso y reciclaje;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VIII. La instrumentación de programas que promuevan disminuir la generación de contaminantes, el consumo responsable y fomenten la separación de residuos sólidos no peligrosos y urbanos desde el lugar de su generación así como su reúso y reciclaje.
 
 IX. El reconocimiento, la divulgación y el uso de métodos y prácticas tradicionales indígenas y campesinas, que sean compatibles con el aprovechamiento sustentable de los recursos naturales del estado;
 
@@ -1037,7 +1083,9 @@ V. Fabrique, instale o proporcione mantenimiento a equipo de tratamiento de emis
 
 VI. Practique auditorías ambientales a sus instalaciones y actividades y lleve a cabo los programas que de éstas se deriven, en cumplimiento a sus propias recomendaciones;
 
-VII. Lleve a cabo actividades de reciclaje de residuos sólidos urbanos y de manejo especial;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VII. Lleve a cabo actividades de reciclaje de residuos sólidos no peligrosos, urbanos y de manejo especial.
 
 VIII. Instale equipos que ahorren, traten, reutilicen el agua, y prevengan su contaminación;
 
@@ -2574,3 +2622,9 @@ P.O. 29 DE SEPTIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
