@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-la-presentacion-y-revision-de-los-informes-7329
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-05"
-last_updated: "2010-12-18"
+last_updated: "2012-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO PARA LA PRESENTACION Y REVISION DE LOS INFORMES FINANCIEROS Y FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS Y COALICIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de diciembre del 2009
 
@@ -241,7 +241,7 @@ I. Reciban aportaciones, transferencias o donativos según lo dispuesto por el a
 
 II. Desvíen para fines ajenos a los previstos por la Ley Electoral, el financiamiento público que les ministre el Instituto;
 
-III. Aperturen cuentas bancarias fuera del Estado de Zacatecas; y
+III. (DEROGADA, P.O. 4 DE ENERO DE 2012)
 
 IV. Destinen a sus organizaciones sociales o instituciones adherentes o similares, más del diez por ciento (10%) del financiamiento público recibido.
 
@@ -305,9 +305,19 @@ a) Los estados de cuenta bancarios debidamente conciliados con los registros con
 
 b) La balanza de comprobación, los anexos y las relaciones analíticas de las cuentas reportadas en los informes, acompañadas de los formatos correspondientes que prevé este Reglamento; y
 
-c) El informe financiero anual deberá presentarse con el estado consolidado de situación patrimonial, en el que se manifiesten los activos, pasivos y patrimonio, así como un informe detallado de los bienes inmuebles propiedad del respectivo partido político.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+c) Las notas aclaratorias a sus estados financieros cuando así corresponda y
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+d) El informe financiero anual deberá presentarse con el estado consolidado de situación patrimonial, en el que se manifiesten los activos, pasivos y patrimonio, así como un informe detallado de los bienes inmuebles propiedad del respectivo partido político.
 
 2. Adicionalmente a lo señalado en el párrafo anterior, el órgano interno estatal de cada partido político o coalición, deberán presentar un informe por cada una de las precampañas y campañas en que hayan participado, y especificarán los gastos que el partido político, la coalición, los precandidatos y candidatos realizaron en el ámbito territorial correspondiente, así como el origen de los recursos que se hubieren utilizado para financiar las precampaña y campañas. Para ello, utilizarán los formatos correspondientes que se indican en este Reglamento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+3. La entrega de los informes financieros de ingresos y egresos que presenten los partidos políticos y coaliciones, será en medio impreso y magnético, conforme a las especificaciones que determine la Comisión, y en los formatos incluidos en el presente Reglamento.
 
 ###### Articulo 18.
 
@@ -359,7 +369,9 @@ b). El reporte acerca del origen de los recursos que se hayan utilizado para fin
 
 ###### Artículo 21.
 
-1. El cómputo de los plazos cuando no estén señalados como días naturales, se realizará por días hábiles, es decir, todos los días a excepción de los sábados, los domingos y los inhábiles en términos de Ley.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. El cómputo de los plazos cuando no estén señalados como en días naturales, se realizará en días hábiles, es decir, se computarán todos los días a excepción de los sábados, los domingos y los inhábiles por disposición de la Junta Ejecutiva o el Consejo General.
 
 2. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro (24) horas y empezarán a correr al día siguiente de que surta efecto la notificación del acto correspondiente.
 
@@ -419,21 +431,43 @@ II. Entregar la documentación que le solicite la Comisión respecto al origen, 
 
 III. Permitir la práctica de verificaciones y auditorias por los órganos del Instituto facultados por la Ley Electoral y la Ley Orgánica, así como entregar la documentación que dichos órganos electorales les requieran respecto de sus ingresos y egresos;
 
-IV. Especificar en los informes financieros de gasto ordinario, los indicadores de la aplicación de las erogaciones que efectúen para el desarrollo de sus centros de formación política, fundaciones o Institutos de investigación, a través de los cuales se promoverá una cultura de equidad entre los géneros, efectuando el registro en las cuentas destinadas para ello, según el catálogo de cuentas que forma parte del Reglamento;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+IV. Especificar en los informes financieros de gasto ordinario, los indicadores de la aplicación de las erogaciones que efectúen para el desarrollo de sus centros de formación política, fundaciones o Institutos de investigación, a través de los cuales se promoverá una cultura de equidad entre los géneros, así como para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, efectuando el registro en las cuentas destinadas para ello, según el catálogo de cuentas que forma parte del Reglamento;
 
 V. Destinar anualmente el tres por ciento (3%) que como financiamiento público reciban para actividades específicas, relativas a la educación, capacitación, investigación socioeconómica, así como a las tareas editoriales para el desarrollo de sus centros de formación política, fundaciones o institutos de investigación, a través de los cuales se promoverá una cultura de equidad entre los géneros; sin detrimento de lo establecido en los documentos básicos de cada partido político;
 
-VI. Abstenerse de desviar, para fines ajenos a los previstos por la Ley Electoral, el financiamiento que obtengan, por cualquiera de las modalidades establecidas en la Ley Electoral;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-VII. Comprobar de manera fehaciente tener domicilio propio y permanente en la Capital del Estado;
+VI. Destinar anualmente, el 3% del financiamiento público ordinario, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres;
 
-VIII. Comunicar por conducto de su dirigencia estatal; al Consejo General los cambios de domicilio social o de los integrantes de sus órganos directivos y demás comisiones, dentro de los diez (10) días siguientes a que ocurran; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-IX. Las demás que establezcan la Legislación Electoral y el Reglamento.
+VII. Editar por lo menos una publicación cuatrimestral de divulgación y carácter teórico;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VIII. Abstenerse de desviar, para fines ajenos a los previstos por la Ley Electoral, el financiamiento que obtengan, por cualquiera de las modalidades establecidas en la Ley Electoral;
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+IX. Comprobar de manera fehaciente tener domicilio propio y permanente en el territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+X. Comunicar por conducto de su dirigencia estatal; al Consejo General los cambios de domicilio social o de los integrantes de sus órganos directivos y demás comisiones, dentro de los diez (10) días siguientes a que ocurran; y
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+XI. Las demás que establezcan la Legislación Electoral y el Reglamento.
 
 ###### Artículo 29.
 
 1. Los partidos políticos deberán sujetarse a las disposiciones fiscales y de seguridad social a las que están obligados de conformidad con lo previsto en las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+2. El órgano de finanzas del partido o de la coalición según corresponda, deberá registrar contablemente los impuestos retenidos y enterados.
 
 ## Título Cuarto. De la contabilización de los ingresos que reciban u obtengan los partidos políticos o coaliciones por concepto de financiamiento
 
@@ -447,13 +481,29 @@ IX. Las demás que establezcan la Legislación Electoral y el Reglamento.
 
 3. Los ingresos o aportaciones en especie es el monto de los apoyos en bienes, servicios o cesión de derechos otorgados a un partido político o coalición.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+Se consideran aportaciones en especie:
+
+I. Las donaciones de bienes muebles o inmuebles;
+
+II. Los comodatos de bienes muebles e inmuebles;
+
+III. Los servicios profesionales prestados a título gratuito por personas físicas que tengan actividades mercantiles, con excepción de lo que establece el artículo 39 numeral 3 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+Para determinar el valor de registro de los servicios profesionales prestados se tomará el valor promedio de dos cotizaciones a valor de mercado solicitadas por el partido político o la coalición.
+
 ###### Articulo 31.
 
 1. Los ingresos que reciban los partidos políticos o coaliciones, sean en dinero o en especie, deberán respaldarse con los formatos: APOM 1, APOM 2, APOM 3, APOS 1, APOS 2, APOS 3, AUTOFIN, AUTOFIN 2, RENDIFIN, TRANSFER 1 y TRANSFER 2. Cada formato deberá contener los datos y acompañarse de la documentación que se señala en el respectivo instructivo de llenado.
 
 ###### Artículo 32.
 
-1. El financiamiento que cada partido político obtenga por cualquiera de las modalidades previstas en la Ley deberá depositarse en cuentas bancarias en el Estado de Zacatecas, a nombre del partido político y serán controladas por el órgano interno estatal partidista.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. El financiamiento público estatal en cualquiera de sus vertientes y el proveniente de fuentes distintas al erario público estatal que cada partido político obtenga, deberá depositarse en cuentas bancarias en el Estado de Zacatecas, a nombre del partido político y serán controladas por el órgano interno estatal partidista. Con excepción del financiamiento proveniente de dirigencias partidistas nacionales, que podrá depositarse en cuentas bancarias en el lugar del domicilio de la dirigencia nacional.
 
 2. Las cuentas bancarias serán manejadas en forma mancomunada entre el dirigente estatal del partido político y el titular del órgano interno estatal.
 
@@ -462,6 +512,10 @@ IX. Las demás que establezcan la Legislación Electoral y el Reglamento.
 4. Los estados de cuenta respectivos deberán conciliarse mensualmente y se remitirán con cada informe que los partidos políticos presenten al Instituto.
 
 5. Quedan exceptuados de observar lo dispuesto en el párrafo 1 de este artículo, los ingresos en dinero hasta por un monto total de doscientos cincuenta (250) cuotas de salario mínimo que provengan de fuentes distintas al financiamiento proveniente del erario público que se reciban en los comités municipales en los lugares donde no existan servicios bancarios. En este caso, las aportaciones se ingresarán a caja mediante la expedición de los recibos APOM-1, APOS-1 o AUTOFIN-2 según corresponda, y previo registro contable del ingreso que se podrá aplicar al gasto. Para ello, estos comités municipales deberán contar con los recibos de ingresos correspondientes.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+6. Cuando las aportaciones que reciban los partidos políticos de una sola persona en el transcurso de un mes, superen las doscientas cincuenta (250) cuotas de salario mínimo, deberán ser realizadas mediante cheque expedido a nombre del partido político y proveniente de una cuenta personal del aportante, o bien a través de transferencia electrónica interbancaria en la que se utilice la clave bancaria estandarizada (CLABE), cuyos comprobantes impresos emitidos por cada banco deberán incluir la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino.
 
 ###### Artículo 33.
 
@@ -483,7 +537,9 @@ En el caso de ingresos en dinero para el sostenimiento de campañas de Diputados
 
 ###### Artículo 35.
 
-1. Los partidos políticos y coaliciones deberán acreditar ante la Comisión el origen de todos los recursos depositados en las cuentas bancarias aperturadas en el Estado de Zacatecas.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. Los partidos políticos y coaliciones deberán acreditar ante la Comisión el origen de todos los recursos depositados en sus cuentas bancarias.
 
 2. Cuando en el desempeño de sus atribuciones y ejercicio de sus facultades, la Comisión, requiera superar la limitación establecida por los secretos bancarios, fiscal o fiduciario, el Instituto a través de la Consejera Presidenta, solicitará la intervención de la Unidad de Fiscalización de los recursos de los partidos políticos, órgano técnico del Consejo General del Instituto Federal Electoral, a fin de que ésta actúe ante las autoridades en la materia, para todos los efectos legales.
 
@@ -505,7 +561,17 @@ En el caso de ingresos en dinero para el sostenimiento de campañas de Diputados
 
 ###### Artículo 39.
 
-1. Las aportaciones, a que se refiere el artículo 63 de la Ley Electoral, que se reciban en especie deberán documentarse en contratos escritos que celebren conforme a los ordenamientos legales aplicables, los que contendrán los datos de identificación del aportante, así como el costo de mercado o estimado del bien aportado, según el caso. Estos contratos cuando sean requeridos, deberán ser presentados al Instituto.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. Las aportaciones, a que se refiere el artículo 63 de la Ley Electoral, que se reciban en especie deberán documentarse en contratos escritos que celebren conforme a los ordenamientos legales aplicables, los que contendrán:
+
+I. Los datos de identificación del aportante y del bien aportado;
+
+II. El costo de mercado o estimado del bien, según el caso; y
+
+III. La fecha y lugar de entrega.
+
+Estos contratos cuando sean requeridos, deberán ser presentados al Instituto.
 
 2. Todas las aportaciones o donativos en especie que reciban los precandidatos y candidatos, se registrarán como ingresos de los partidos políticos y, simultáneamente, se considerarán como un egreso para efectos de los topes de gasto de precampaña y campaña.
 
@@ -521,7 +587,9 @@ En el caso de ingresos en dinero para el sostenimiento de campañas de Diputados
 
 ###### Artículo 40.
 
-1. Los ingresos por donaciones de bienes muebles a que se refieren los artículos 61, 62 y 63 de la Ley Electoral, deberán registrarse conforme a su valor comercial de mercado, determinado de la siguiente forma:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. Los ingresos por donaciones de bienes muebles a que se refieren los artículos 61, 62 y 63 de la Ley Electoral, deberán registrarse conforme a su valor comercial de mercado o estimado determinado de la siguiente forma:
 
 I. Si el tiempo de uso del bien aportado es menor a un (1) año, a partir del día de la celebración del contrato, y además se cuenta con la factura correspondiente, se registrará al valor consignado en tal documento;
 
@@ -529,9 +597,17 @@ II. Si el bien aportado tiene un tiempo de uso mayor a un (1) año, y además se
 
 III. Si no se cuenta con la factura del bien aportado, se determinará a través de tres (3) cotizaciones solicitadas por el partido político, de las cuales se tomará el valor promedio.
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+IV. En toda donación de equipo de transporte cualquiera que fuera su naturaleza, ya sea terrestre, aéreo o acuático, tales como automóviles, autobuses, aviones y embarcaciones, entre otros, se deberá contar con el contrato y con la factura correspondiente a la operación por la que se haya transferido al donante la propiedad previa de dicho bien.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
 ###### Artículo 41.
 
-1. Los ingresos por donaciones de bienes inmuebles, a que se refieren los artículos 44 de la Constitución y 63, fracción I de la Ley Electoral, deberán registrarse conforme a su valor comercial de mercado de acuerdo al avalúo que al efecto se realice. Asimismo, deberá observarse lo dispuesto en los artículos 90 y 91 del Reglamento.
+1. Los ingresos por donaciones de bienes inmuebles, a que se refieren los artículos 44 de la Constitución y 63, fracción I de la Ley Electoral, deberán registrarse conforme a su valor comercial de mercado de acuerdo al avalúo que al efecto se realice.
+
+2. La donación deberá constar en escritura pública si el valor de avalúo del inmueble excede del equivalente de quinientas (500) cuotas de salario mínimo en el momento de la operación, en cuyo caso el partido político o la coalición, deberá presentar junto con el informe correspondiente el testimonio respectivo, debidamente inscrito ante el Registro Público de la Propiedad. Asimismo, deberá observarse lo dispuesto en el artículo 90, numerales 1 y 2 del presente Reglamento.
 
 ###### Artículo 42.
 
@@ -563,7 +639,17 @@ III. Si no se cuenta con la factura del bien aportado, se determinará a través
 
 4. Las aportaciones que en un año realice cada simpatizante en dinero o en especie no deberá exceder al equivalente del cero punto cinco por ciento (0.5%), del tope de gastos establecido para la última campaña de Gobernador.
 
-5. Los partidos políticos deberán cuidar que en la aplicación de sus estatutos no se rebasen los límites establecidos para las cuotas y aportaciones de sus militantes, y en el caso de que un partido político exceda los límites establecidos para tal efecto, se hará acreedor a alguna de las sanciones establecidas en el artículo 264 de la Ley Electoral.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+5. Las aportaciones de militantes en dinero o en especie no deberán exceder en su conjunto, el equivalente al diez por ciento (10%) del total del monto establecido como tope de gastos establecido para la última campaña de Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+6. Las aportaciones que en un año realice cada militante en dinero o en especie no deberá exceder al equivalente del cero punto cinco por ciento (0.5%), del tope de gastos establecido para la última campaña de Gobernador.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+7. Los partidos políticos deberán cuidar que en la aplicación de sus estatutos no se rebasen los límites establecidos para las cuotas y aportaciones de sus militantes, y en el caso de que un partido político exceda los límites establecidos para tal efecto, se hará acreedor a alguna de las sanciones establecidas en el artículo 264 de la Ley Electoral.
 
 ###### Artículo 47.
 
@@ -571,7 +657,23 @@ III. Si no se cuenta con la factura del bien aportado, se determinará a través
 
 ###### Artículo 48.
 
-1. Los recibos deberán expedirse en forma consecutiva, con los requisitos de los formatos que se integran al presente Reglamento. El original deberá entregarse a la persona física o moral que efectúe la aportación; una copia será remitida al órgano interno estatal y otra copia permanecerá en poder del comité estatal o municipal del partido político que haya recibido la aportación, en su caso.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. Las aportaciones de militantes y simpatizantes deberán estar soportadas por recibos foliados expedidos de forma consecutiva (APOM-1, APOS-1) y contendrán los requisitos de los formatos que se integran al presente Reglamento, entre los que se encuentran:
+
+I. Nombre o razón social del aportante;
+
+II. Domicilio y teléfono;
+
+III. Folio de la credencial para votar y/o número del acta constitutiva;
+
+IV. El monto y la fecha de aportación;
+
+V. Firma del aportante; y
+
+VI. Adicionalmente a efecto de identificar plenamente al aportante, se deberá anexar copia fotostática legible de la credencial para votar por ambos lados o copia del acta constitutiva.
+
+El recibo original (APOM-1, APOS-1) deberá entregarse a la persona física o moral que efectúe la aportación; una copia será remitida al órgano interno estatal y otra copia permanecerá en poder del comité estatal o municipal del partido político que haya recibido la aportación, en su caso.
 
 2. El órgano interno responsable del financiamiento de cada partido político deberá expedir recibo de las cuotas o aportaciones recibidas, de los cuales deberá conservar una copia para acreditar el monto ingresado.
 
@@ -731,21 +833,33 @@ XII. Los partidos políticos que integren una coalición no podrán destinar los
 
 1. Para el manejo de los egresos, los partidos políticos utilizarán las cuentas bancarias que consideren convenientes según las necesidades de control interno de sus recursos, con atención a lo estipulado en el artículo 32, párrafo 3 del Reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
 ###### Artículo 66.
 
 1. Todo egreso que rebase la cantidad equivalente a cien (100) cuotas de salario mínimo, deberá cubrirse por medio de cheque nominativo. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente el cheque deberá contener la leyenda "para abono a cuenta del beneficiario". Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
 
+2. Se exceptúa de lo dispuesto en el numeral anterior, los pagos realizados a través de transferencias electrónicas de fondos en los que se haya utilizado la clave bancaria estandarizada (CLASE) de las cuentas bancarias del partido o coalición. En este caso, se deberá requisitar correctamente el rubro denominado "leyenda", "motivo de pago", "referencia" u otro similar que tenga por objeto identificar el origen y el destino de los fondos transferidos. Tales comprobantes deberán incluir, de conformidad con los datos proporcionados por cada banco, la información necesaria para identificar la transferencia; esta información podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario, y número de cuenta de destino.
+
+3. Los pagos correspondientes a sueldos y salarios deberán realizarse por medio de transferencia electrónica o cheque nominativo a nombre del beneficiario.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
 ###### Artículo 67.
 
-1. Los egresos de los partidos políticos deberán registrarse contablemente y estar soportados con la documentación que se expida a nombre del partido político, por la persona física o moral a quien se efectuó el pago. La documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, con excepción del párrafo 2 del presente artículo.
+1. Los egresos de los partidos políticos deberán registrarse contablemente y estar soportados con la documentación que se expida a nombre del partido político, por la persona física o moral a quien se efectuó el pago. La documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, con excepción del numeral 4 del presente artículo.
 
-2. Tratándose de gastos en los renglones de alimentos, viáticos, pasajes y gastos menores que no rebasen las cien (100) cuotas de salario mínimo previstas en el artículo anterior, los partidos políticos podrán comprobar a través de bitácora de gastos menores el veinte por ciento (20%) de los egresos que efectúen en gasto ordinario y el treinta por ciento (30%) de los egresos que efectúen en gastos de campaña.
+2. El órgano de finanzas del partido o de la coalición según corresponda, será responsable de verificar que los comprobantes que les expidan los proveedores de bienes o servicios, se ajusten a lo dispuesto en el numeral anterior y en el artículo 64 numeral 1 del presente Reglamento.
 
-3. La bitácora referida deberá incluir con toda precisión los siguientes conceptos: fecha y lugar en que se efectuó la erogación, monto, concepto específico del gasto, nombre y firma de la persona que realizó el pago y firma de autorización, y deberán anexarse los comprobantes que se recaben de tales gastos, aun cuando no reúnan los requisitos fiscales que establece el Código Fiscal de la Federación o, en su caso, recibos de gastos menores que incluyan los datos mencionados.
+3. Tratándose de una coalición, el comprobante deberá ser expedido a nombre del partido responsable de la administración de los recursos.
 
-4. Queda prohibido realizar reclasificaciones de gastos reportados en los informes y comprobados con documentación que no reúna la totalidad de requisitos fiscales, a las bitácoras de gastos menores.
+4. Tratándose de gastos en los renglones de alimentos, viáticos, pasajes y gastos menores que no rebasen las cien (100) cuotas de salario mínimo previstas en el artículo anterior, los partidos políticos podrán comprobar a través de bitácora de gastos menores el veinte por ciento (20%) de los egresos que efectúen en gasto ordinario y el treinta por ciento (30%) de los egresos que efectúen en gastos de campaña.
 
-5. Estos egresos deberán registrarse en las cuentas destinadas para ello, según el catálogo de cuentas que forma parte del Reglamento.
+5. La bitácora referida deberá incluir con toda precisión los siguientes conceptos: fecha y lugar en que se efectuó la erogación, monto, concepto específico del gasto, nombre y firma de la persona que realizó el pago y firma de autorización, y deberán anexarse los comprobantes que se recaben de tales gastos, aun cuando no reúnan los requisitos fiscales que establece el Código Fiscal de la Federación o, en su caso, recibos de gastos menores que incluyan los datos mencionados.
+
+6. Queda prohibido realizar reclasificaciones de gastos reportados en los informes y comprobados con documentación que no reúna la totalidad de requisitos fiscales, a las bitácoras de gastos menores.
+
+7. Estos egresos deberán registrarse en las cuentas destinadas para ello, según el catálogo de cuentas que forma parte del Reglamento.
 
 ###### Artículo 68.
 
@@ -801,9 +915,19 @@ XII. Los partidos políticos que integren una coalición no podrán destinar los
 
 1. La documentación comprobatoria, que por concepto de combustible se presente, deberá sujetarse a lo siguiente:
 
-I. Invariablemente deberá ampararse con factura, todo gasto que para pago de combustible se realice, dentro de una distancia de cincuenta (50) kilómetros a la redonda, se tomará como punto de referencia, el lugar donde se encuentre el Comité que realice el gasto.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-II. Cuando el gasto por concepto de combustible, se realice fuera de esta distancia, se podrá comprobar con notas de bomba, hasta el equivalente de quince (15) cuotas de salario mínimo, de esta cantidad en adelante, invariablemente deberá presentarse factura.
+I. Invariablemente deberá ampararse con factura, todo gasto que para pago de combustible se realice. Los pagos deberán realizarse mediante alguno de los siguientes medios:
+
+a) Cheque nominativo del contribuyente;
+
+b) Transferencia electrónica;
+
+c) Tarjeta de servicios o monederos electrónicos.
+
+En el caso de consumo de combustible en lugares en los que el pago no se pueda realizar a través de los medios señalados, éste podrá realizarse en efectivo y se comprobará con la factura correspondiente.
+
+II. (DEROGADA, P.O. 4 DE ENERO DE 2012)
 
 III. El consumo de combustible deberá reportarse en bitácoras de gasto de cada uno de los vehículos a disposición de los partidos políticos para ello se utilizará el formato BITACOM.
 
@@ -871,13 +995,27 @@ IV. Gastos de producción de los mensajes para radio y televisión, que comprend
 
 3. Los gastos a comprobar por concepto de viáticos deberán ir acompañados de un pliego de Comisión, en el que se especifique el destino, tiempo de estancia, gasto autorizado por hospedaje, alimentación y combustible. La documentación comprobatoria deberá tener relación con la comisión encomendada.
 
-4. Los recursos entregados a los miembros de los partidos políticos y registrados en las cuentas por cobrar tales como "Deudores Diversos", "Prestamos al Personal" "Gastos por Comprobar", "Anticipo a Proveedores" o cualquier otra, deberán de ser recuperados o comprobados dentro del mismo ejercicio fiscal; con excepción de aquellas disposiciones de dinero que se hayan realizado en el cuarto (4°) trimestre, caso en el cual el plazo establecido se podrá ampliar hasta la presentación del primer (1°) trimestre del ejercicio fiscal inmediato posterior.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
-5. Las cuentas mencionadas, deberán de llevar un registro y control anualizado.
+4. Las operaciones o transacciones económicas que lleven a cabo los partidos políticos o coaliciones, por enajenaciones, otorgamiento de préstamos, o cualquier otro concepto análogo y que generen un derecho exigible a su favor, deberán estar respaldadas en un contrato de préstamo que conste por escrito en instrumento público o privado, o bien, en un título de crédito, que garanticen y demuestren la existencia del derecho de cobro para el partido político o coalición y, la obligación de pago a cargo del deudor.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+5. Los recursos entregados a los miembros de los partidos políticos y registrados en las cuentas por cobrar tales como "Deudores Diversos", "Prestamos al Personal" "Gastos por Comprobar", "Anticipo a Proveedores" o cualquier otra, deberán de ser recuperados o comprobados dentro del mismo ejercicio fiscal; con excepción de aquellas disposiciones de dinero que se hayan realizado en el cuarto (4°) trimestre, caso en el cual el plazo establecido se podrá ampliar hasta la presentación del primer (1°) trimestre del ejercicio fiscal inmediato posterior.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+6. Las cuentas mencionadas, deberán de llevar un registro y control anualizado.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+7. Si los partidos políticos al cierre del ejercicio, presentan en su contabilidad saldos positivos en las cuentas por cobrar tales como "Deudores Diversos", "Prestamos al Personal", "Gastos por Comprobar", "Anticipo a Proveedores" o cualquier otra y que correspondan al cuarto trimestre del ejercicio inmediato anterior y hasta el tercer trimestre del ejercicio objeto de revisión, serán considerados como no comprobados.
 
 ###### Artículo 86.
 
-1. En caso de que se obtenga un saldo acreedor, como resultado de un exceso de gastos sobre los ingresos totales recibidos, los partidos políticos deberán: integrar detalladamente el pasivo generado, especificar los montos, nombre del proveedor, concepto del gasto y fecha de origen.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+1. En caso de que se obtenga un saldo acreedor, los partidos políticos deberán: integrar detalladamente el pasivo generado, especificar los montos, nombre del proveedor, concepto del gasto y fecha de origen. Dicha integración deberá presentarse en medio magnético y de forma impresa.
 
 2. La contratación de bienes y servicios que deriven en pasivos deberán estar autorizados por los funcionarios partidistas facultados para ello. Estos pasivos deberán estar registrados contablemente y soportados con la documentación que les dio origen.
 
@@ -903,9 +1041,27 @@ IV. Gastos de producción de los mensajes para radio y televisión, que comprend
 
 6. Las aportaciones de bienes muebles o inmuebles, deberán destinarse única y exclusivamente para el cumplimiento del objeto del partido político o coalición, en su caso.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
 ###### Artículo 90.
 
-1. El control de inventarios de activo fijo se llevará a cabo mediante un sistema de asignación de números de inventario y listados para registrar altas y bajas, practicando una toma de inventarios físicos cuando menos una vez al año, dentro del trimestre más próximo al cierre del ejercicio, sirviendo estos listados como soporte contable de la cuenta de activo fijo.
+1. El control de inventarios de activo fijo se llevará a cabo mediante un sistema de asignación de números de inventario y listados para registrar altas y bajas, practicando una toma de inventarios físicos cuando menos una vez al año, dentro del trimestre más próximo al cierre del ejercicio, sirviendo estos listados como soporte contable de la cuenta de activo fijo. Las cifras reportadas en los listados deberán coincidir con los saldos de las cuentas de activo fijo registrados en contabilidad.
+
+2. Dicho inventario deberá estar clasificado por tipo de cuenta de activo fijo y sub clasificado por año de adquisición y deberá incluir las siguientes especificaciones: fecha de adquisición; descripción del bien; importe; y resguardo, indicando el nombre del responsable.
+
+3. Los partidos políticos podrán dar de baja sus activos fijos, con causa justificada por obsolescencia, extravío o caso fortuito.
+
+Notificarán por escrito a la Comisión, en la que especificarán las características del bien, lo identificarán en el inventario físico por número, ubicación exacta y resguardo.
+
+4. Una vez que la Comisión haya sido notificada de la baja de los activos fijos, los partidos políticos deberán presentar:
+
+I. El procedimiento que se llevó a cabo para la desincorporación;
+
+II. Relación pormenorizada de las bajas de activo fijo (Formato BAFI);
+
+III. La documentación contable en la que se refleje las bajas de activos fijos; y
+
+IV. La documentación que acredite la causa justificada de la baja de dichos activos.
 
 ###### Artículo 91.
 
@@ -1107,15 +1263,29 @@ I. Convocatoria al evento, en su caso;
 
 II. Programa del evento;
 
-III. Lista de asistentes con firma autógrafa;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+III. Lista de asistentes con nombre y firma autógrafa;
 
 IV. Fotografías, video o reporte de prensa del evento;
 
-V. En su caso, el material didáctico utilizado;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
-VI. Publicidad del evento en caso de existir; y
+V. El material didáctico utilizado en medio impreso y la proyección de la presentación en medio magnético;
 
-VII. Documento en el cual se señalen los resultados obtenidos.
+VI. Publicidad del evento en caso de existir; y (sic)
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VII. Documento en el cual se señalen los resultados obtenidos;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+VIII. Ficha curricular del expositor, cédula profesional en su caso y fotocopia legible de la credencial de elector; y
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+IX. En caso de que el prestador de servicios sea una persona moral deberá anexar: Registro Federal de Contribuyentes, comprobante de domicilio fiscal e indicar su actividad preponderante.
 
 La presentación de la muestra de las fotografías, video o reporte de prensa del evento, podrá ser sustituida por el reporte o informe correspondiente que rinda el personal que asista y sea comisionado por el Secretario Ejecutivo, mismo que servirá para los efectos de lo dispuesto en el párrafo anterior. El partido político deberá informar del evento al Secretario Ejecutivo, con un mínimo de cinco (5) días hábiles de anticipación.
 
@@ -1139,7 +1309,31 @@ d) Fecha en que se terminó de imprimir; y
 
 e) Número de ejemplares impresos, excepto en los casos de las publicaciones periódicas.
 
-II. Los partidos políticos podrán invitar a la Secretaría Ejecutiva a presenciar el desarrollo de cualquier actividad específica. Para lo anterior, deberá avisar a dicha Secretaría la fecha, lugar y hora del evento con por lo menos cinco (5) días de anticipación.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+II. En caso de las publicaciones literarias y de revistas deberán contener las características editoriales emitidas al respecto por el Sistema Regional de Información en Línea para Revistas Científicas de América Latina, el Caribe, España y Portugal (LATINDEX) de la Universidad Nacional Autónoma de México, entre las cuales se encuentran:
+
+a) Cabezal: Es la indicación del nombre de la obra, autor, capítulo o fragmento ubicado en la parte superior de cada página correspondiente al texto principal.
+
+b) Lugar y fecha de edición: Deberá hacerse constar en lugar visible, el lugar y fecha de edición de la publicación.
+
+c) Entidad editora: Deberá hacerse constar en lugar visible, la entidad o institución editora de la publicación.
+
+d) Mención del director: En la publicación deberá constar el nombre del director, responsable editorial o equivalente.
+
+e) Mención de periodicidad: La publicación debe expresar o mencionar su periodicidad.
+
+f) Tabla de contenidos (índice).
+
+g) Definición de la publicación: Deberá mencionarse el objetivo, cobertura temática y/o público al que va dirigida.
+
+h) Forma de distribución: Definir la forma y canales de distribución de la publicación, sobre todo cuando son volúmenes de un alto tiraje.
+
+i) Dirección, teléfono y en su caso, correo electrónico del partido político responsable de la edición.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2012)</small>
+
+III. Los partidos políticos podrán invitar al Secretario Ejecutivo a presenciar el desarrollo de cualquier actividad específica, excepto la relativa a educación y capacitación política en la cual tendrán la obligación de realizar dicha invitación. Para lo anterior, deberán avisar al Secretario Ejecutivo la fecha, lugar y hora del evento por lo menos con cinco (5) días de anticipación, quien deberá actuar por sí mismo o por conducto del personal del Instituto que designe para ello.
 
 4. Las constancias de referencia, levantadas por el personal del Instituto, deberán contener como mínimo la siguiente información:
 
@@ -1233,7 +1427,9 @@ II. El setenta por ciento (70%) restante de acuerdo con el porcentaje de votos q
 
 I. Los informes financieros que se presenten al Instituto, serán revisados por la Comisión, la Unidad de Fiscalización y la Dirección;
 
-II. Si al momento de la revisión de los informes financieros la Comisión, la Unidad de Fiscalización y la Dirección detectan la existencia de errores u omisiones en los mismos, realizarán las observaciones correspondientes y notificarán a los partidos políticos que hubiere incurrido en ellos a efecto de que en el plazo de diez (10) días contados a partir del día siguiente a dicha notificación, presenten las rectificaciones o aclaraciones que estimen pertinentes;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+
+II. Si al momento de la revisión de los informes financieros la Comisión, la Unidad de Fiscalización y la Dirección detectan la existencia de errores u omisiones en los mismos, realizarán las observaciones correspondientes y notificarán a los partidos políticos que hubiere incurrido en ellos a efecto de que en el plazo de diez (10) días contados a partir del día siguiente a dicha notificación, presenten la documentación solicitada así como las rectificaciones o aclaraciones que estimen pertinentes;
 
 III. La Comisión notificará al partido político correspondiente, si las aclaraciones o rectificaciones hechas por éste subsanan los errores u omisiones encontrados, otorgándole, en su caso, un plazo improrrogable de cinco (5) días contados a partir de la notificación para que los subsane;
 
@@ -1241,9 +1437,17 @@ IV. La Comisión notificará al partido político respectivo, del resultado de l
 
 V. Concluida la revisión de los informes financieros la Comisión, con el apoyo de la Unidad de Fiscalización y la Dirección elaborará el proyecto de dictamen que someterá a la consideración del Consejo General.
 
-2. En caso, de que el partido político de que se trate, sea omiso en informar o no manifieste lo que a su interés convenga en el término señalado, se tendrá por incumplido el requerimiento formulado.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
-3. Para revisar los informes que los partidos políticos presenten sobre el origen y destino de los recursos que por cualquier concepto reciban, la Comisión se asesorará del personal necesario para ello.
+2. Los escritos de aclaraciones o rectificaciones que presenten los partidos políticos, deberán ser firmados por el titular del órgano interno de finanzas y presentarse tanto en medio impreso como magnético a la Comisión, se señalará de manera pormenorizada la documentación que se entrega, con la finalidad de facilitar el cotejo correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+
+3. En caso, de que el partido político de que se trate, sea omiso en informar o no manifieste lo que a su interés convenga en el término señalado, se tendrá por incumplido el requerimiento formulado.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+4. Para revisar los informes que los partidos políticos presenten sobre el origen y destino de los recursos que por cualquier concepto reciban, la Comisión se asesorará del personal necesario para ello.
 
 ###### Articulo 110.
 
@@ -1272,6 +1476,10 @@ V. La Comisión notificará al partido político correspondiente, si las aclarac
 ###### Articulo 112.
 
 1. Los partidos políticos o coaliciones no podrán ampliar o modificar total o parcialmente los informes financieros una vez presentados, sólo podrán hacer las reclasificaciones derivadas de las observaciones u omisiones, que la Comisión les hubiere realizado.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+
+2. Cuando de la notificación de observaciones se deriven cambios y ajustes a los informes financieros, los partidos políticos o coaliciones deberán presentar una cédula donde se concilie el informe originalmente presentado con las correcciones realizadas.
 
 ###### Artículo 113.
 
@@ -1550,3 +1758,9 @@ TERCERO: Las reformas y adiciones a los artículos 98, 105, 106, 107 Y 108 del R
 CUARTO: Publíquese el presente Acuerdo y su anexo en el Periódico Oficial, Órgano del Gobierno del Estado y en la página de internet www.ieez.org.mx.
 
 QUINTO: Notifíquese conforme a derecho el presente Acuerdo y su anexo.
+
+P.O. 4 DE ENERO DE 2012.
+
+Primero.- Las presentes reformas y adiciones al Reglamento entrarán en vigor a partir del ejercicio fiscal del año dos mil doce.
+
+Segundo.- Los partidos políticos contarán con un plazo de noventa días naturales contados a partir de la vigencia de las presentes reformas y adiciones, para realizar las adecuaciones necesarias a efecto de dar cumplimiento a lo dispuesto en el artículo 66 numeral 3, de este Reglamento.
