@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2011-03-01"
+last_updated: "2012-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
+REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -81,27 +81,31 @@ REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INST
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES DE LAS COMISIONES DEL CONSEJO GENERAL
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE ENERO DE 2012)</small>
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2012)</small>
 
-###### Artículo 1.
+DE LAS COMISIONES DEL CONSEJO GENERAL
 
-1. El presente libro tiene por objeto reglamentar de manera general, la organización y funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, así como regular las funciones y atribuciones de cada uno de sus integrantes; el desarrollo de las sesiones y reuniones de trabajo.
-
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-2. Para la interpretación de las disposiciones del presente reglamento, se estará a los criterios establecidos en el artículo 2 del Código Electoral del Estado de México, y a los principios rectores del Instituto.
+1. El presente ordenamiento tiene por objeto reglamentar de manera general, la organización y funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, así como regular las funciones y atribuciones de cada uno de sus integrantes; el desarrollo de las sesiones y reuniones de trabajo.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
+
+###### Artículo 1.
+
+2. Para la interpretación de las disposiciones del presente reglamento, se estará a los criterios establecidos en el artículo 2 del Código Electoral del Estado de México, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos, y a los principios rectores del Instituto.
+
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ## TÍTULO SEGUNDO. DE LAS COMISIONES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -131,15 +135,13 @@ c) La Comisión para la Demarcación Distrital Electoral.
 
 III. Las Comisiones Temporales serán aquéllas que se formen para atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor, que no puedan ser atendidos por las demás comisiones, debiéndose establecer en el acuerdo correspondiente los motivos de su creación, objetivos, propósitos y tiempo de vigencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2011)</small>
+Las Comisiones, podrán proponer al Consejo General, reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias de su competencia, para en su caso, su aprobación y publicación.
 
-Proponer al Consejo General reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias competencia de cada Comisión para, en su caso, su aprobación y publicación.
-
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO I. De la Integración de las Comisiones
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -157,7 +159,7 @@ La aprobación de todos los acuerdos y dictámenes deberá ser con el voto de al
 
 Bajo ninguna circunstancia las circulares, proyectos de acuerdo o de dictamen que emitan, tendrán obligatoriedad, salvo el caso de que sean aprobadas por el Consejo General. Sólo en este supuesto podrán ser publicados en la "Gaceta del Gobierno".
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -167,7 +169,7 @@ I. En ausencias temporales, por incapacidad médica, cuando exista algún caso u
 
 II. En ausencias temporales por incapacidad medica, por más de diez días naturales.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Articulo 1.
 
@@ -175,17 +177,17 @@ II. En ausencias temporales por incapacidad medica, por más de diez días natur
 
 En caso de ausencia del Secretario Técnico y de su suplente, el Presidente de la Comisión podrá habilitar a otro Director, Titular de Unidad, Subdirector, así como cualquier otro funcionario electoral de la misma área de adscripción de la Comisión de que se trate.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 7. El Presidente y el Secretario Técnico de la Comisión, serán suplidos en su ausencia definitiva por quien designe el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO II. Atribuciones de los Integrantes de las Comisiones
 
-> <small>(REFORMADO, G.G. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -197,11 +199,11 @@ II. Convocar por escrito, conjuntamente con el Secretario Técnico, a sesiones y
 
 III. Convocar a sesiones o reuniones de trabajo por iniciativa propia o a solicitud de los otros dos Consejeros o de tres representantes de partidos políticos o coaliciones;
 
-IV. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan (sic)
+IV. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan su desarrollo;
 
 V. Declarar el inicio, receso y término de las sesiones y reuniones de trabajo;
 
-VI. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan su desarrollo;
+VI. (DEROGADA, G.G. 4 DE ENERO DE 2012)
 
 VII. Supervisar el cumplimiento del orden del día;
 
@@ -217,17 +219,17 @@ XII. Solicitar al Secretario Ejecutivo General del Instituto, de acuerdo a la di
 
 XIII. Nombrar al Secretario Técnico en caso de ausencia del Secretario Técnico Titular y de su Suplente;
 
-XIV. Proporcionar a los integrantes de la Comisión la información necesaria para el desarrollo óptimo de sus actividades; Para el caso de atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor que no puedan ser atendidos por las demás comisiones, deberá establecerse en el acuerdo correspondiente;
+XIV. Proporcionar a los integrantes de la Comisión la información necesaria para el desarrollo óptimo de sus actividades; para el caso de atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor que no puedan ser atendidos por las demás comisiones, deberá establecerse en el acuerdo correspondiente;
 
 XV. Dar seguimiento al cumplimiento de los acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión;
 
-XVI. Instruir al Secretario Técnico para que notifique los acuerdos de la Comisión respectiva, y (sic)
+XVI. Instruir al Secretario Técnico para que notifique los acuerdos de la Comisión respectiva;
 
-XVII. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+XVII. (DEROGADA, G.G. 4 DE ENERO DE 2011) y
 
 XVIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -239,7 +241,7 @@ II. Acordar con el Presidente de la Comisión la elaboración del orden del día
 
 III. Integrar los expedientes de los asuntos que deben tratarse en las sesiones o reuniones de trabajo, solicitando previamente por escrito la documentación correspondiente;
 
-IV. Elaborar los proyectos de acuerdos, resoluciones y dictámenes en los asuntos que le competan a la comisión;
+IV. Elaborar los proyectos de acuerdos, resoluciones y dictámenes en los asuntos que le competan a la Comisión;
 
 V. Preparar la convocatoria a las sesiones o reuniones de trabajo;
 
@@ -247,13 +249,13 @@ VI. Convocar por escrito conjuntamente con el Presidente a sesiones y reuniones 
 
 VII. Notificar oportunamente la convocatoria;
 
-VIII. Pasar lista de asistencia y declarar la existencia de quorum legal en las sesiones de la Comisión;
+VIII. Pasar lista de asistencia y declarar la existencia de quórum legal en las sesiones de la Comisión;
 
 IX. Dar cuenta de las actuaciones y circunstancias que se susciten en las sesiones de la Comisión;
 
 X. Recabar el sentido del consenso y de la votación de los proyectos de acuerdos, resoluciones y dictámenes emitidos por la Comisión;
 
-XI. Recabar la firma de los Consejeros de la Comisión en los proyectos de acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión; y
+XI. Recabar la firma de los Consejeros de la Comisión en los proyectos de acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión;
 
 XII. Levantar el acta correspondiente de las sesiones que realice la Comisión, someterla a la aprobación y firmarla en unión de los demás integrantes. La versión estenográfica hará las veces de acta;
 
@@ -279,7 +281,7 @@ XXII. Resguardar temporalmente el archivo de la Comisión y en su momento enviar
 
 XXIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -305,11 +307,11 @@ XIX. Votar los proyectos de acuerdos, resoluciones y dictámenes que se sometan 
 
 X. Firmar, los proyectos de acuerdos, resoluciones y dictámenes, emitidos por la Comisión;
 
-XI. Firmar las actas de las sesiones una vez aprobadas; y XIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General; (sic)
+XI. Firmar las actas de las sesiones una vez aprobadas; y
 
 XII. Las que le establecen otras disposiciones jurídicas y las que el (sic) encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -317,7 +319,7 @@ XII. Las que le establecen otras disposiciones jurídicas y las que el (sic) enc
 
 I. Participar en las sesiones y reuniones de trabajo;
 
-II. Solicitar al Presidente, conjuntamente con un mínimo de otros dos representantes de partidos políticos o coaliciones en la comisión, se convoque a sesiones y reuniones de trabajo, proponiendo el orden del día;
+II. Solicitar al Presidente, conjuntamente con un mínimo de otros dos representantes de partidos políticos o coaliciones en la Comisión, se convoque a sesiones y reuniones de trabajo, proponiendo el orden del día;
 
 III. Solicitar al Presidente de la Comisión, la inclusión de algún asunto al proyecto del orden del día hasta antes de su aprobación;
 
@@ -331,7 +333,7 @@ VII. Participar en la discusión de los asuntos contenidos en el proyecto del or
 
 VIII. Solicitar al Presidente de la Comisión, decrete recesos en las sesiones o reuniones de trabajo, o someter a votación la suspensión de la misma;
 
-IX. Manifestarse a favor o en contra de la aprobación de los proyectos de acuerdos, resoluciones y dictámenes sometidos a la comisión;
+IX. Manifestarse a favor o en contra de la aprobación de los proyectos de acuerdos, resoluciones y dictámenes sometidos a la Comisión;
 
 X. Firmar las actas de las sesiones una vez aprobadas;
 
@@ -339,21 +341,21 @@ XI. Proponer al Presidente de la Comisión mociones de orden; y
 
 XII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ## TÍTULO TERCERO. DEL FUNCIONAMIENTO DE LAS COMISIONES
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO I. De la Convocatoria
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
 12. El Presidente de la Comisión conjuntamente con el Secretario Técnico, deberán convocar a las sesiones y reuniones de trabajo, por lo menos con dos días hábiles de anticipación a la fecha que se fije para la celebración de la sesión o reunión de trabajo.
 
-La convocatoria a sesión o reunión de trabajo deberá contener, el nombre del integrante de la comisión a quien va dirigido, lugar, hora y fecha de realización, número de oficio y la firma del Presidente de la Comisión y del Secretario Técnico.
+La convocatoria a sesión o reunión de trabajo deberá contener, el nombre del integrante de la Comisión a quien va dirigido, lugar, hora y fecha de realización, número de oficio y la firma del Presidente de la Comisión y del Secretario Técnico.
 
 Las sesiones y reuniones de trabajo se celebrarán en las instalaciones del Instituto, salvo caso fortuito o fuerza mayor.
 
@@ -361,11 +363,11 @@ En ausencia del Presidente de la Comisión o del Secretario Técnico, firmará q
 
 En caso de urgencia, las sesiones y reuniones de trabajo se convocarán, de manera extraordinaria, atendiendo a la naturaleza del asunto a tratar, con el tiempo suficiente para reunir el quórum legal, que no podrá ser menor a veinticuatro horas.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-13. La convocatoria se acompañará (sic) la copia del acta de la sesión anterior, así como de los documentos y anexos necesarios, a efecto de que puedan ser analizados previamente por los integrantes de la Comisión para su discusión y aprobación, en su caso.
+13. A la convocatoria se acompañará, copia del acta de la sesión anterior, así como de los documentos y anexos necesarios, a efecto de que puedan ser analizados previamente por los integrantes de la Comisión para su discusión y aprobación, en su caso.
 
 Para efectos de la convocatoria, el cómputo de los plazos fuera de proceso, se hará a partir del día siguiente de aquel en que se hubiere notificado o se tuviere conocimiento de la misma.
 
@@ -373,29 +375,29 @@ En el periodo de proceso electoral, los plazos se computarán de momento a momen
 
 Para el caso de las reuniones de trabajo, los plazos se computarán en los términos de los párrafos que anteceden. En caso de decretar recesos, se estará a lo acordado por los integrantes de la Comisión, dejando constancia en el acta o minuta correspondiente, la duración y condiciones para su reanudación.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 14. En aquellos casos en que por los altos volúmenes de documentación, no sea posible acompañar los anexos al proyecto del orden del día, estos se pondrán a disposición de los integrantes de la Comisión en medio magnético.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 15. La convocatoria se notificará a los integrantes de la Comisión en sus oficinas ubicadas en las instalaciones del Instituto, teniendo éstas como domicilio legal de los mismos. En el caso de las coaliciones se les citará a través de su representante acreditado ante la Comisión y en la oficina dentro del Instituto del partido político señalado en su oficio de acreditación.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-16. Para efectos de acuse de recibo, en la copia del oficio se anotará claramente, la fecha y hora de recepción, nombre completo, firma y en su caso sello de quien recibió. En caso de negarse a firmar y estampar el sello, se asentará la razón dejando la notificación en sus oficinas ubicadas en las instalaciones del Instituto.
+16. Para efectos de acuse de recibo, en la copia del oficio se anotará claramente, la fecha y hora de recepción, nombre completo, firma y, en su caso, sello de quien recibió. En caso de negarse a firmar y estampar el sello, se asentará la razón dejando la notificación en sus oficinas ubicadas en las instalaciones del Instituto.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO II. De las Sesiones
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -403,7 +405,7 @@ Para el caso de las reuniones de trabajo, los plazos se computarán en los térm
 
 En proceso electoral las Comisiones sesionarán por lo menos una vez al mes, salvo acuerdo en contrario de las mismas.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -413,61 +415,61 @@ La participación de los representantes suplentes será en ausencia del propieta
 
 Estando presente en las sesiones, cualquiera de los representantes de los partidos políticos y coaliciones acreditados ante el Consejo General, participarán con derecho a voz.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 19. La sesión se celebrará con los integrantes que se encuentren presentes, siempre que exista quórum legal. Existe quórum legal cuando asistan dos Consejeros integrantes de la Comisión, entre los que estará el presidente, salvo los casos a que se refiere el artículo 1.5.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 20. En caso de que no se lleve a cabo la sesión por falta de quórum legal, podrá citarse en segunda convocatoria para el siguiente día hábil.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 21. La sesión dará inicio cuando el Presidente de la Comisión lo declare formalmente, previa verificación de la existencia de quórum legal por el Secretario Técnico.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-22. Instalada la sesión se pondrá a consideración de los integrantes de la Comisión el contenido del proyecto del orden del día. El Presidente de la Comisión, a solicitud de alguno de sus integrantes, podrá retirar asuntos del orden del día. Los integrantes de la Comisión podrán proponer la inclusión de asuntos generales al concluir el desahogo del orden del día. Los asuntos contenidos en el orden del día serán discutidos y en su caso, votados salvo cuando los Consejeros acuerden mediante votación, posponer la discusión y votación de algún asunto en particular.
+22. Instalada la sesión se pondrá a consideración de los integrantes de la Comisión el contenido del proyecto del orden del día. El Presidente de la Comisión, a solicitud de alguno de sus integrantes, podrá retirar asuntos del orden del día. Los integrantes de la Comisión podrán proponer la inclusión de asuntos generales al concluir el desahogo del orden del día. Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados salvo cuando los Consejeros acuerden mediante votación, posponer la discusión y votación de algún asunto en particular.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 23. Cuando así lo acuerde la Comisión, podrá dispensar la lectura de los documentos que hayan sido previamente circulados.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-24. Si al momento de la votación correspondiente no existiera el quórum legal por ausencia de alguno de sus integrantes con derecho a voto el Presidente de la Comisión deberá declarar un receso.
+24. Si al momento de la votación correspondiente no existiera el quórum legal por ausencia de alguno de sus integrantes con derecho a voto, el Presidente de la Comisión deberá declarar un receso.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 25. Los integrantes de la Comisión podrán hacer uso de la palabra en los puntos a discutir, previa solicitud al Presidente y conforme al orden en que haya sido pedida.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 26. En el curso de las deliberaciones, los integrantes de la Comisión se abstendrán de entablar diálogos y realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos incluidos en el proyecto del orden del día.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 27. Cualquier integrante de la Comisión podrá pedir el uso de la palabra al Presidente, para interpelar al orador, con el objeto de formularle una pregunta o bien solicitarle una aclaración respecto a algún punto de su intervención.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -479,35 +481,35 @@ II. Poner orden en la sesión; y
 
 III. Tener por discutido el tema.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 29. Las sesiones podrán suspenderse por alteración al orden que impida su celebración, pudiendo en tal caso reanudarse en un plazo no mayor a veinticuatro horas, a convocatoria del Presidente de la Comisión en el acto mismo.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 30. Agotada la discusión el Presidente de la Comisión instruirá al Secretario Técnico para que proceda a tomar el consenso de los partidos políticos y coaliciones, y recabar el sentido de la votación de los Consejeros. Los acuerdos se tomarán por mayoría simple de sus integrantes con derecho a voto. El Presidente de la Comisión cuenta con voto de calidad en caso de empate.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 31. Los Consejeros deberán de manifestar el sentido de su voto que sólo podrá ser a favor o en contra y en ningún caso podrán abstenerse de votar, pudiendo emitir su voto particular razonado.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 32. Las sesiones tendrán una duración máxima de cinco horas; en caso de que en la sesión en curso no se aborden todos los asuntos a tratar en el proyecto del orden del día, estos serán considerados de manera automática para ser discutidos en la siguiente sesión de la Comisión, que deberá continuarse al día hábil siguiente, salvo acuerdo en contrario de la Comisión.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO III. De las Reuniones de Trabajo
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -515,45 +517,45 @@ III. Tener por discutido el tema.
 
 Las reuniones de trabajo tendrán una duración máxima de cinco horas; en caso de que no se aborden todos los asuntos a tratar en el orden del día, el Presidente de la Comisión podrá declarar un receso en términos de lo dispuesto en el último párrafo del artículo 1.13 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 34. Las reuniones de trabajo se celebrarán con el número de integrantes que se encuentren presentes, sin necesidad de declarar la existencia de quórum legal, debiendo estar presentes el Presidente y el Secretario Técnico de la Comisión, o quienes hagan sus veces.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 35. Para la celebración de reuniones de trabajo, los integrantes de la Comisión podrán auxiliarse de especialistas en la materia, pudiendo participar éstos en la respectiva reunión, con anuencia de los integrantes de la Comisión. La designación deberá hacerse del conocimiento del Presidente de la Comisión por medio del Secretario Técnico.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO IV. Reglas Generales
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 36. Las sesiones y reuniones de trabajo serán de orden privado por su propia naturaleza de carácter interno; quedando expresamente prohibida la presencia de personas no autorizadas, salvo quienes asesoren a los integrantes de la Comisión.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 37. En las sesiones y reuniones de trabajo, podrán asistir con voz los Consejeros no integrantes de la Comisión.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO V. De los Acuerdos, Resoluciones y Dictámenes
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-38. Cuando la Comisión considere que un proyecto de acuerdo, resolución o dictamen deba revisarse nuevamente, se regresará a la Secretaria Técnica para su nuevo estudio, solicitando la opinión no vinculatoria de la Dirección Jurídico-Consultiva o de la dependencia correspondiente, para su posterior presentación en sesión de la misma Comisión.
+38. Cuando la Comisión considere que un proyecto de acuerdo, resolución o dictamen deba revisarse nuevamente, se regresará a la Secretaría Técnica para su nuevo estudio, solicitando la opinión no vinculatoria de la Dirección Jurídico-Consultiva o de la dependencia correspondiente, para su posterior presentación en sesión de la misma Comisión.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -561,31 +563,33 @@ Las reuniones de trabajo tendrán una duración máxima de cinco horas; en caso 
 
 ###### Artículo 1.
 
-40. (DEROGADO, G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+40. (DEROGADO, G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ## TÍTULO CUARTO. DE LAS COMISIONES PERMANENTES
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO I. De la Comisión de Organización y Capacitación
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-41. Esta Comisión tendrá por objeto, apoyar al Consejo General en el desempeño de sus atribuciones en materia de organización, capacitación electoral, y las relativas al Programa de Resultados Electorales Preliminares (PREP) derivadas de los programas que para tal efecto se aprueben, para la preparación y desarrollo de los procesos electorales.
+41. Esta Comisión tendrá por objeto, apoyar al Consejo General en el desempeño de sus atribuciones en materia de organización, capacitación electoral, y las relativas al Programa de Resultados Electorales Preliminares (PREP), derivadas de los programas que para tal efecto se aprueben, para la preparación y desarrollo de los procesos electorales.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO 2012)</small>
 
 ###### Artículo 1.
 
-42. El Secretario Técnico de la Comisión será el Director de Capacitación y el Director de Organización, podrá participar en todas las sesiones y reuniones de trabajo como invitado con derecho a voz.
+42. Como Secretario Técnico de la Comisión fungirá el Director de Capacitación; cuando se traten de asuntos correspondientes a la Dirección de Organización, actuará como Secretario Técnico el Director de la misma.
+
+La convocatoria a sesiones o reuniones de trabajo, será firmada por el Director de Capacitación. Cuando en una misma sesión se traten temas de ambas áreas, las actas y acuerdos serán firmados por los dos Directores.
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -627,15 +631,15 @@ XVII. Vigilar que la ubicación, integración y número de casillas que aprueben
 
 XVIII. Conocer y analizar las propuestas de ubicación de Casillas Especiales que hagan los Consejos Distritales o Municipales para tal efecto;
 
-XIX. Conocer y analizar las propuestas que formule la Junta General, de sustitución de ciudadanos para integrar las Juntas Distritales y Municipales, en los términos establecidos por el Estatuto y el Programa del Servicio Electoral Profesional;
+XIX. (DEROGADA, G.G. 4 DE ENERO DE 2012)
 
-XX. Proponer al Consejo General la sustitución de Consejeros Electorales de los Consejos Distritales y Municipales, a propuesta de la Junta General;
+XX. (DEROGADA, G.G. 4 DE ENERO DE 2012)
 
 XXI. Conocer y vigilar lo relativo al Procedimiento de Ingreso de Instructores y Capacitadores;
 
 XXII. Solicitar información sobre la realización de la estadística electoral;
 
-XXIII. Informar al Consejo General sobre las actividades que desarrolle la Comisión; y (sic)
+XXIII. Informar al Consejo General sobre las actividades que desarrolle la Comisión;
 
 XXIV. Proponer al Consejo General la expedición, reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias competencia de esta Comisión;
 
@@ -645,21 +649,21 @@ XXVI. Vigilar el desarrollo de las actividades del Sistema de Información y Com
 
 XXVII. Realizar e implementar mecanismos para evaluar los Programas de Capacitación (evaluar la capacitación), el PREP y el SICJE de los procesos electorales respectivos;
 
-XXVIII. Conocer, analizar, discutir y en su caso aprobar, los documentos relativos a los "Lineamientos para el Observador Electoral" y "Manual para el Observador Electoral" para que por conducto del Secretario Ejecutivo General, sea aprobado por el Consejo General;
+XXVIII. Conocer, analizar, discutir y en su caso aprobar, los documentos relativos a los "Lineamientos para el Observador Electoral" y "Manual para el Observador Electoral" para que por conducto del Secretario Ejecutivo General, sea aprobado por el Consejo General; y
 
 XXIX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO II. De la Comisión de Vigilancia de las Actividades Administrativas y Financieras
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 44. Tendrá como objeto auxiliar al Consejo General en la vigilancia, evaluación y supervisión de las actividades administrativas y financieras del Instituto, para que dichas actividades se apeguen a las disposiciones jurídicas vigentes, y formular, en su caso, las recomendaciones y la adopción de medidas tendientes al fortalecimiento del control interno institucional. Asimismo, dar seguimiento a las actividades que desarrolla el Órgano Técnico de Fiscalización del Instituto.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -667,7 +671,7 @@ XXIX. Las que le establecen otras disposiciones jurídicas y las que le encomien
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO, G.G. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -683,97 +687,93 @@ IV. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de la
 
 V. Recibir, analizar y dar seguimiento a los informes mensuales y anual de los estados financieros del Instituto, preparados por la Dirección de Administración;
 
-VI. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de las actividades del Comite Unico de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto, y supervisar su actuación;
+VI. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de las actividades del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto, y supervisar su actuación;
 
 VII. Recibir, analizar y dar seguimiento a los informes mensuales, trimestrales y anuales relacionados con el avance y cumplimiento al Programa de Actividades de la Contraloría General;
 
 VIII. Remitir al Consejo General, para su conocimiento, los informes que fueron presentados ante la Comisión y, en su caso, las recomendaciones propuestas;
 
-IX. Dar seguimiento al avance del Programa Anual de Auditoria y Programas específicos de Auditorias del Instituto, que desarrolla la Contraloría General;
+IX. Dar seguimiento al avance del Programa Anual de Auditoría y Programas específicos de Auditorías del Instituto, que desarrolla la Contraloría General;
 
 X. Recibir, analizar y dar seguimiento al dictamen de los estados financieros del Instituto relativos al ejercicio anterior, emitidos por el despacho de auditores externos que para tal efecto sea contratado;
 
-XI. Conocer, analizar y dar seguimiento a los informes de auditoria que se practiquen al Instituto, y vigilar que se atiendan las recomendaciones y se corrijan las observaciones que resulten de las mismas;
+XI. Conocer, analizar y dar seguimiento a los informes de auditoría que se practiquen al Instituto, y vigilar que se atiendan las recomendaciones y se corrijan las observaciones que resulten de las mismas;
 
 XII. Conocer, analizar y emitir el dictamen correspondiente de los proyectos de resolución presentados por la Contraloría General; que correspondan ser resueltos en definitiva por el Consejo General;
 
 XIII. Conocer, analizar y dar seguimiento a los informes sobre las resoluciones de Inconformidades que presenten los proveedores, prestadores de servicios y contratistas, relacionados con procedimientos de contratación, y sobre las demás resoluciones emitidas por la Contraloría General;
 
-XIV. Emitir los acuerdos o dictámenes que corresponda, respecto de los asuntos competencia de la Comisión, y remitirlos al Consejo General para su aprobación definitiva; y
+XIV. Emitir los acuerdos o dictámenes que corresponda, respecto de los asuntos competencia de la Comisión y remitirlos al Consejo General para su aprobación definitiva; y
 
 XV. Las demás que le establecen este Reglamento, otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO III. De la Comisión de Acceso a Medios, Propaganda y Difusión
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-47. La Comisión tendrá como objeto atender lo relacionado con el acceso del Instituto y de los partidos políticos a los medios de comunicación conforme a las normas establecidas en el Apartado B, de la base III, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, al artículo 12 de la Constitución Política del Estado Libre y Soberano de México, a los artículos 63 y 65 del Código, a los convenios que en la materia se celebren con el Instituto Federal Electoral y a lo que disponga el Consejo General; realizar monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, así como de la propaganda colocada en todo tipo de espacio o equipamiento utilizado para difundir mensajes, durante el periodo de precampaña y campaña electoral, o antes si así lo solicita un partido político, con el fin de garantizar la equidad en la difusión de los actos proselitistas, apoyar la fiscalización de los partidos políticos y prevenir que se rebasen los topes de gastos de precampaña y campaña; supervisar y en su caso actualizar el Plan de Medios del Instituto; así como llevar a cabo la organización de debates públicos.
+47. La Comisión tendrá como objeto atender lo relacionado con el acceso del Instituto y de los partidos políticos a los medios de comunicación, conforme a las normas establecidas en el Apartado B, de la base III, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, al artículo 12 de la Constitución Política del Estado Libre y Soberano de México, a los artículos 63 y 65 del Código, a los convenios que en la materia se celebren con el Instituto Federal Electoral y a lo que disponga el Consejo General; realizar monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, así como de la propaganda colocada en todo tipo de espacio o equipamiento utilizado para difundir mensajes, durante el periodo de precampañas, intercampañas y campañas electorales, o antes si así lo solicita un partido político, con el fin de garantizar la equidad en la difusión de los actos proselitistas, apoyar la fiscalización de los partidos políticos y prevenir que se rebasen los topes de gastos de precampaña y campaña; supervisar y en su caso actualizar el Plan de Medios del Instituto; así como llevar a cabo la organización de debates públicos.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-48. El Secretario Técnico de la Comisión será el Director de Partidos Políticos. Podrán participar con derecho a voz todas aquellas personas que determine la Comisión, según la naturaleza de los temas a tratar.
+48. Como Secretario Técnico de la Comisión fungirá el Director de Partidos Políticos; cuando se traten asuntos correspondientes a la Unidad de Comunicación Social, actuará como Secretario Técnico el Titular de la misma.
+
+La convocatoria a sesiones o reuniones de trabajo, será firmada por el Director de Partidos Políticos. Cuando en una misma sesión se traten temas de ambas áreas, las actas y acuerdos serán firmados por los dos titulares.
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.16 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
 49. La Comisión tendrá las siguientes atribuciones:
 
-I. Vigilar que los contenidos de la propaganda política y propaganda electoral, de la difusión de los partidos políticos, en medios de comunicación se encuentren apegados a los requisitos exigidos por la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de México, Código Federal de Instituciones y Procedimientos Electorales y el Código Electoral del Estado de México;
+I. Vigilar el acceso de los partidos políticos, coaliciones e Instituto, a la radio y televisión, conforme a las normas establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, el Código Federal de Instituciones y Procedimientos Electorales, y el Código Electoral del Estado de México;
 
-II. Vigilar que los partidos políticos y coaliciones gocen cabalmente de todas las prerrogativas de acceso a los medios de comunicación establecidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, el Código Federal de Instituciones y Procedimientos Electorales, y el Código Electoral del Estado de México;
+II. Gestionar ante el IFE el tiempo que corresponda a la prerrogativa de acceso de los partidos políticos y coaliciones a medios de comunicación, así como el tiempo destinado para los fines del Instituto;
 
-III. Elaborar, actualizar, vigilar, y dar cumplimiento a los lineamientos, normatividades y demás ordenamientos de la propia Comisión;
+III. Realizar el sorteo que servirá para definir el orden sucesivo en que se transmitirán en radio y televisión los mensajes de los partidos políticos, a lo largo de las precampañas y campañas electorales. La Secretaría Técnica elaborará y presentará ante la Comisión, para su aprobación, una propuesta de modelo de pauta mediante un esquema de corrimiento de horario vertical para la transmisión en radio y televisión de los promocionales de los partidos políticos durante los periodos de precampañas y campañas electorales del proceso electoral local respectivo. Una vez aprobada se remitirá al Consejo General, para su aprobación definitiva y se enviará a las instancias correspondientes del IFE;
 
-IV. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+IV. Proponer al Consejo General los términos para la celebración del Convenio Específico de Apoyo y Colaboración en Materia de Radio y Televisión, que en su caso, sea firmado entre el IEEM y el IFE;
 
-V. Supervisar el cumplimiento y aplicación del Plan de Medios en periodo no electoral, así como para los procesos electorales locales y proponer al Consejo General las modificaciones que considere convenientes; asimismo realizar sugerencias y solicitar Informes a la Unidad de Comunicación Social sobre las actividades desarrolladas por el Centro de Producción Audiovisual del Instituto;
+V. Realizar, supervisar y vigilar monitoreos cuantitativos y cualitativos, así como el seguimiento de notas informativas en medios de comunicación impresos y electrónicos, relativos a la propaganda política o electoral de los partidos políticos y coaliciones, informando periódicamente al Consejo General, sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes;
 
-VI. Aprobar lineamientos y manuales específicos para la realización de monitoreos cuantitativos y cualitativos a los medios de comunicación impresos, electrónicos y alternos, tanto públicos como privados, debiendo rendir informes quincenales al Consejo General sobre tales monitoreos para coadyuvar con la Comisión de Fiscalización y el órgano de Fiscalización en la revisión de gastos de precampaña y campaña electoral;
+VI. Proponer al Consejo General la contratación de empresas externas auxiliares de la Comisión para realizar los monitoreos;
 
-VII. Realizar, supervisar y vigilar monitoreos cuantitativos y cualitativos, así como el seguimiento de notas informativas en medios de comunicación impresos y electrónicos informando periódicamente sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes;
+VII. Verificar que la empresa o institución pública auxiliar, cumplan con los objetivos y fines de los monitoreos establecidos en el contrato y los lineamientos;
 
 VIII. Realizar, supervisar y vigilar monitoreos cuantitativos a medios de comunicación alternos, durante los procesos electorales locales respectivos;
 
-IX. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+IX. Vigilar las acciones, manuales, materiales e instrumentos que se utilizan para llevar a cabo los cursos en materia de monitoreo a medios de comunicación alternos, en precampañas, intercampañas y campañas electorales, impartidos por la Dirección de Partidos Políticos a través de su personal a los órganos desconcentrados del Instituto;
 
-X. Proponer al Consejo General la contratación de empresas externas auxiliares de la Comisión para realizar los monitoreos;
+X. Realizar monitoreos, en los medios de comunicación social, respecto de la propaganda gubernamental, tanto de las autoridades federales, estatales, como municipales y cualquier otro ente público; desde el inicio de las campañas electorales y hasta la conclusión de la jornada electoral;
 
-XI. Gestionar ante el IFE el tiempo que corresponda a la prerrogativa de acceso de los partidos políticos y coaliciones a medios de comunicación, así como el tiempo destinado para los fines del Instituto;
+Xl. Aprobar lineamientos y manuales específicos para la realización de monitoreos cuantitativos y cualitativos a los medios de comunicación impresos, electrónicos y alternos, tanto públicos como privados, debiendo rendir informes quincenales al Consejo General sobre tales monitoreos para coadyuvar con el Órgano Técnico de Fiscalización, en la revisión de gastos de precampaña y campaña electoral;
 
-XII. Distribuir a los partidos políticos o coaliciones los mensajes que correspondan a cada uno de ellos dentro del pautado para las estaciones de radio y canales de televisión, con base en el sorteo que servirá para definir el orden sucesivo en que se transmitirán a lo largo de las precampañas y campañas electorales los mensajes de 30 segundos; el Secretario Técnico elaborará una propuesta de modelo de pauta mediante un esquema de corrimiento de horarios vertical;
+XII. Remitir los informes finales del monitoreo a medios de comunicación, al Consejo General a través de Secretaría Ejecutiva General de este Instituto, para efecto de dar cumplimiento a lo dispuesto por el artículo 162 del Código;
 
-XIII. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+XIII. Supervisar el cumplimiento y aplicación del Plan de Medios en periodo no electoral, así como para los procesos electorales locales y proponer al Consejo General las modificaciones que considere convenientes; asimismo realizar sugerencias y solicitar Informes a la Unidad de Comunicación Social sobre las actividades desarrolladas por el Centro de Producción Audiovisual del Instituto;
 
-XIV. Organizar o gestionar debates públicos entre los militantes, dirigentes o candidatos de los distintos partidos políticos y coaliciones, así como someterlas a consideración del Consejo General para su aprobación. En su caso, proveerá lo necesario para su difusión;
+XIV. Organizar y realizar debates públicos entre los militantes, dirigentes o candidatos de los distintos partidos políticos y coaliciones; así como elaborar la propuesta de Convocatoria correspondiente, a efecto de someterla a consideración del Consejo General para su aprobación. En su caso, proveerá lo necesario para su difusión;
 
-XV. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+XV. Elaborar, actualizar, vigilar y dar cumplimiento a los lineamientos, normatividades y demás ordenamientos de la propia Comisión;
 
-XVI. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+XVI. Crear las subcomisiones que considere necesarias para el cumplimiento de sus atribuciones;
 
-XVII. Informar periódicamente al Consejo General sobre sus actividades;
+XVII. Informar periódicamente al Consejo General sobre sus actividades; y
 
-XVIII. Vigilar las acciones, manuales, materiales e instrumentos que se utilizan para llevar a cabo los cursos en materia de monitoreo a medios de comunicación alternos, en precampañas y campañas, impartidos por la Dirección de Partidos Políticos a través de su personal a los órganos desconcentrados del Instituto;
+XVIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-XIX. Crear las subcomisiones que considere necesarias para el cumplimiento de sus atribuciones; y (sic)
-
-XX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
-
-XXI. Realizar monitoreos cuantitativos y cualitativos, así como el seguimiento de notas informativas en medios de comunicación impresos y electrónicos, a través de la Comisión de Acceso a Medios, Propaganda y Difusión, la cual le informará periódicamente sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes.
-
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO IV. De la Comisión del Servicio Electoral Profesional
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -789,7 +789,7 @@ IV. Conocer oportunamente los avances del servicio; y
 
 V. Compilar para su análisis, las experiencias resultantes de la aplicación del Estatuto y el Programa del Servicio Electoral Profesional.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -797,7 +797,7 @@ V. Compilar para su análisis, las experiencias resultantes de la aplicación de
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -839,37 +839,35 @@ XVII. Supervisar y vigilar la incorporación de los servidores electorales de lo
 
 XVIII. Las demás que se le otorguen por mandamiento de ley o por acuerdo del Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO V. La Comisión de Promoción y Difusión de la Cultura Política y Democrática
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 53. La Comisión tendrá por objeto apoyar al Consejo General en la atención de las actividades relativas a la Promoción y Difusión de la Cultura Política Democrática y la Educación Cívica, derivadas de los Planes y Programas que para tal efecto apruebe.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-54. El Secretario Técnico de la Comisión será el Director Capacitación será el Secretario Técnico de la Comisión. (sic)
+54. El Secretario Técnico de la Comisión será el Director Capacitación (sic).
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
 55. La Comisión tendrá las siguientes atribuciones:
 
-La Comisión tendrá las siguientes atribuciones (sic):
-
 I. (DEROGADA, G.G. 4 DE ENERO DE 2011)
 
 II. Promover la definición de los contenidos y mensajes estratégicos de las campañas institucionales de difusión y de los programas de divulgación de la cultura democrática;
 
-III. Impulsar y orientar las estrategias y programas desarrollados en el marco del Programa Estratégico de Educación Cívica, Promoción y Difusión de la Cultura Política y Democrática garantizando que estos atiendan en todo momento los criterios rectores de la política institucional aprobada por el Consejo General;
+III. Impulsar y orientar las estrategias y programas desarrollados en el marco del Programa Estratégico de Educación Cívica, Promoción y Difusión de la Cultura Política y Democrática garantizando que éstos atiendan en todo momento los criterios rectores de la política institucional aprobada por el Consejo General;
 
 IV. Impulsar la capacitación y actualización del personal responsable de la instrumentación y evaluación de las políticas institucionales;
 
@@ -887,9 +885,9 @@ X. Vigilar el adecuado desarrollo del Programa de Educación Cívica, Promoción
 
 XI. Vigilar que el desarrollo de las actividades de las políticas de capacitación electoral, educación cívica y de divulgación de la cultura democrática, promueva la participación de mujeres y hombres en condiciones de equidad de género;
 
-XII. Supervisar, analizar y en su caso modificar los materiales didácticos e instructivos electorales, que en materia de capacitación y organización, difunda el Instituto Electoral, que le envíe la Junta General, previo a que ésta los apruebe y los remita al Consejo General para su aprobación definitiva;
+XII. Supervisar, analizar y, en su caso, modificar los materiales didácticos e instructivos electorales, que en materia de capacitación y organización, difunda el Instituto Electoral, que le envíe la Junta General, previo a que ésta los apruebe y los remita al Consejo General para su aprobación definitiva;
 
-XIII. Supervisar los avances y resultados de la notificación, entrega de nombramientos y capacitación a los ciudadanos insaculados y funcionarios de mesas directivas de casilla y monitorear su desarrollo, y (sic)
+XIII. Supervisar los avances y resultados de la notificación, entrega de nombramientos y capacitación a los ciudadanos insaculados y funcionarios de mesas directivas de casilla y monitorear su desarrollo;
 
 XIV. Impulsar un conjunto de acciones tendientes a impulsar y difundir a la democracia como forma de vida, a sus instituciones; al fortalecimiento de los valores, deberes y obligaciones del ciudadano dentro del sistema político nacional;
 
@@ -917,23 +915,23 @@ XXV. Rendir los informes que sobre sus actividades, le solicite el Consejo Gener
 
 XXVI. Proponer en su caso, reformas y adiciones al presente Reglamento; y
 
-XXVI (SIC). Las demás que deriven del Código, de los Acuerdos del Consejo General y de la propia Comisión, del presente Reglamento y demás disposiciones aplicables.
+XXVII. Las demás que deriven del Código, de los Acuerdos del Consejo General y de la propia Comisión, del presente Reglamento y demás disposiciones aplicables.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ## TÍTULO QUINTO. DE LAS COMISIONES ESPECIALES
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO I. De la Comisión de Vigilancia para la Actualización, Depuración y Verificación del Padrón Electoral y Lista Nominal de Electores
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 56. La Comisión tendrá como objeto, auxiliar al Consejo General en la elaboración de los proyectos sobre los mecanismos y programas de carácter técnico para la verificación del Padrón Electoral y Lista Nominal de Electores, en coordinación con la autoridad federal de la materia. Asimismo, proponer y dar seguimiento a las acciones de actualización y depuración contempladas en los Convenios de Apoyo y Colaboración, así como en los Anexos Técnicos y Anexos Financieros, relacionados con el uso de los instrumentos y productos electorales que aportará el Instituto Federal Electoral, a los procesos electorales locales.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -941,7 +939,7 @@ XXVI (SIC). Las demás que deriven del Código, de los Acuerdos del Consejo Gene
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -949,23 +947,23 @@ El Secretario Técnico de la Comisión será el designado conforme a la fracció
 
 I. En Materia de Actualización del Padrón Electoral y Lista Nominal de Electores:
 
-a. Elaborar los proyectos relacionados con lo dispuesto en el Código, en su artículo 95 fracción XXXIX para su ejecución por parte de los integrantes de la propia Comisión, y
+a) Elaborar los proyectos relacionados con lo dispuesto en el Código, en su artículo 95 fracción XXXIX, para su ejecución por parte de los integrantes de la propia Comisión, y
 
-b. Dar seguimiento y vigilancia a las campañas de verificación y Actualización del Padrón Electoral y Lista Nominal de Electores que realice el Instituto Federal Electoral, mediante la aplicación de los siguientes mecanismos.
+b) Dar seguimiento y vigilancia a las campañas de verificación y Actualización del Padrón Electoral y Lista Nominal de Electores que realice el Instituto Federal Electoral, mediante la aplicación de los siguientes mecanismos:
 
-1. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral, a través de la Junta Local Ejecutiva del Instituto Federal Electoral, la información necesaria para que los integrantes de la Comisión conozcan los avances de las campañas de Actualización del Padrón Electoral y Lista Nominal de Electores, que deberá ser la siguiente: reportes estadísticos de inscripciones, corrección de datos, cambios de domicilio y reposiciones; credenciales entregadas a los ciudadanos; estadísticos del Padrón Electoral y Lista Nominal de Electores ordenados por Distrito Local, Municipio y Sección Electoral; y el número de credenciales para votar con fotografía que se hayan destruido por aplicación del artículo 199 párrafo cuarto, del Código Federal de Instituciones y Procedimientos Electorales; en Proceso Electoral, la solicitud que se formule al Registro Federal de Electores se hará mensualmente;
+1. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral, a través de la Junta Local Ejecutiva del Instituto Federal Electoral, la información necesaria para que los integrantes de la Comisión conozcan los avances de las campañas de Actualización del Padrón Electoral y Lista Nominal de Electores, que deberá ser la siguiente: reportes estadísticos de inscripciones, corrección de datos, cambios de domicilio y reposiciones; credenciales entregadas a los ciudadanos; estadísticos del Padrón Electoral y Lista Nominal de Electores ordenados por Distrito Local, Municipio y Sección Electoral; y el número de credenciales para votar con fotografía que se hayan destruido por aplicación del artículo 199 párrafo cuarto, del Código Federal de Instituciones y Procedimientos Electorales; en Proceso Electoral, la solicitud que se formule al Registro Federal de Electores se hará mensualmente.
 
-2. Proponer y dar seguimiento a los trabajos de difusión y promoción que realice el Instituto entre la ciudadanía, en materia de Padrón Electoral y Lista Nominal de Electores, en coadyuvancia a las actividades que realice la Comisión de Acceso a Medios (sic) Propaganda y Difusión y la Unidad de Comunicación Social;
+2. Proponer y dar seguimiento a los trabajos de difusión y promoción que realice el Instituto entre la ciudadanía, en materia de Padrón Electoral y Lista Nominal de Electores, en coadyuvancia a las actividades que realice la Comisión de Acceso a Medios Propaganda y Difusión y la Unidad de Comunicación Social.
 
-3. Verificar que se realice por parte del Instituto Federal Electoral, la actualización del marco geográfico electoral para el caso de los municipios y secciones de nueva creación, así como los problemas limítrofes;
+3. Verificar que se realice por parte del Instituto Federal Electoral, la actualización del marco geográfico electoral para el caso de los municipios y secciones de nueva creación, así como los problemas limítrofes.
 
-4. Verificar y coadyuvar con las actividades que realice el Instituto Federal Electoral, para la actualización de la situación registral del padrón electoral y credencial para votar con fotografía de los ciudadanos residentes en los municipios de nueva creación;
+4. Verificar y coadyuvar con las actividades que realice el Instituto Federal Electoral, para la actualización de la situación registral del padrón electoral y credencial para votar con fotografía de los ciudadanos residentes en los municipios de nueva creación.
 
-5. Verificar el funcionamiento y las medidas de seguridad en los Módulos de Atención Ciudadana que instale en la entidad el Instituto Federal Electoral, durante el periodo de actualización y entrega de credenciales para votar con fotografía, considerado en el Anexo Técnico; al Convenio de Apoyo y Colaboración que se suscriba al efecto;
+5. Verificar el funcionamiento y las medidas de seguridad en los Módulos de Atención Ciudadana que instale en la entidad el Instituto Federal Electoral, durante el periodo de actualización y entrega de credenciales para votar con fotografía, considerado en el Anexo Técnico; al Convenio de Apoyo y Colaboración que se suscriba al efecto.
 
-6. Analizar y sugerir el número y la ubicación de módulos de atención ciudadana al Registro Federal de Electores, previo análisis, justificación técnica y suficiencia presupuestal, en el caso de que sean financiados por el Instituto Electoral del Estado de México;
+6. Analizar y sugerir el número y la ubicación de módulos de atención ciudadana al Registro Federal de Electores, previo análisis, justificación técnica y suficiencia presupuestal, en el caso de que sean financiados por el Instituto Electoral del Estado de México.
 
-7. Acudir al acto de resguardo de los formatos de credencial y recibos que no hayan sido recogidos por sus titulares, durante el lapso comprendido en el Anexo Técnico respectivo, verificando la realización del procedimiento correspondiente; y
+7. Acudir al acto de resguardo de los formatos de credencial y recibos que no hayan sido recogidos por sus titulares, durante el lapso comprendido en el Anexo Técnico respectivo, verificando la realización del procedimiento correspondiente.
 
 8. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral información estadística y nominal de:
 
@@ -979,41 +977,43 @@ b. Dar seguimiento y vigilancia a las campañas de verificación y Actualizació
 
 II. En materia de cartografía electoral:
 
-a. Solicitar al Instituto Federal Electoral las actualizaciones sobre la cartografía digitalizada periódicamente.
+a) Solicitar al Instituto Federal Electoral las actualizaciones sobre la cartografía digitalizada periódicamente.
 
 III. Exhibición de la Lista Nominal de Electores:
 
-a. Determinar los lugares en donde deberá exhibirse la lista nominal de electores, durante el periodo establecido en el Anexo Técnico correspondiente a la actualización y utilización del padrón electoral y la lista nominal;
+a) Determinar los lugares en donde deberá exhibirse la lista nominal de electores, durante el periodo establecido en el Anexo Técnico correspondiente a la actualización y utilización del padrón electoral y la lista nominal;
 
-b. Verificar que se exhiba la lista nominal durante el periodo establecido y en los lugares determinados; y
+b) Verificar que se exhiba la lista nominal durante el periodo establecido y en los lugares determinados; y
 
-c. Recibir de los partidos políticos y coaliciones las observaciones a la lista nominal de exhibición, para su registro y remisión a la Junta Local Ejecutiva del Instituto Federal Electoral, para sus oportunas respuestas, así como el seguimiento a las instancias administrativas y demandas de juicio presentadas por los ciudadanos. IV (sic). Lista Nominal de Electores Definitiva con Fotografía:
+c) Recibir de los partidos políticos y coaliciones las observaciones a la lista nominal de exhibición, para su registro y remisión a la Junta Local Ejecutiva del Instituto Federal Electoral, para sus oportunas respuestas, así como el seguimiento a las instancias administrativas y demandas de juicio presentadas por los ciudadanos.
 
-a. Verificar el procedimiento de impresión de la lista nominal de electores definitiva, que emita el Instituto Federal Electoral; y
+IV. Lista Nominal de Electores Definitiva con Fotografía:
 
-b. Establecer los mecanismos para la distribución de la lista nominal de electores definitiva con fotografía, que se entregará a los Órganos Desconcentrados del Instituto y a los Partidos Políticos o en su caso Coaliciones.
+a) Verificar el procedimiento de impresión de la lista nominal de electores definitiva, que emita el Instituto Federal Electoral; y
+
+b) Establecer los mecanismos para la distribución de la lista nominal de electores definitiva con fotografía, que se entregará a los Órganos Desconcentrados del Instituto y a los Partidos Políticos o en su caso Coaliciones.
 
 V. Genéricas:
 
-a. Analizar la información que se reciba del Registro Federal de Electores del Instituto Federal Electoral sobre actualización y cobertura del padrón electoral y/o lista nominal de electores, para programar estudios e investigaciones, de acuerdo a la disponibilidad presupuestal existente, que permitan eficientar los trabajos de organización y desarrollo de nuestros procesos electorales;
+a) Analizar la información que se reciba del Registro Federal de Electores del Instituto Federal Electoral sobre actualización y cobertura del padrón electoral y/o lista nominal de electores, para programar estudios e investigaciones, de acuerdo a la disponibilidad presupuestal existente, que permitan eficientar los trabajos de organización y desarrollo de nuestros procesos electorales;
 
-b. Remitir el informe correspondiente al Consejo General, sobre los avances en los trabajos de actualización y depuración al padrón electoral, entrega de credenciales, exhibición de la lista nominal de electores, adecuaciones al marco geográfico electoral y a la Lista Nominal Definitiva con Fotografía;
+b) Remitir el informe correspondiente al Consejo General, sobre los avances en los trabajos de actualización y depuración al padrón electoral, entrega de credenciales, exhibición de la lista nominal de electores, adecuaciones al marco geográfico electoral y a la Lista Nominal Definitiva con Fotografía;
 
-c. Establecer relación permanente con los órganos de la administración pública estatal, a fin de coadyuvar con el Instituto Federal Electoral, para la adecuada y oportuna depuración del Padrón Electoral; y
+c) Establecer relación permanente con los órganos de la administración pública estatal, a fin de coadyuvar con el Instituto Federal Electoral, para la adecuada y oportuna depuración del Padrón Electoral; y
 
-d. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+d) Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO II. De la Comisión Dictaminadora del Registro de Partidos Políticos
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
 59. La Comisión tendrá por objeto, dictaminar el derecho de registro como partido político local de las organizaciones políticas que lo pretendan y del partido político nacional que pierda su registro con este carácter, solicitando el registro como partido político local.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -1021,7 +1021,7 @@ d. Las que le establecen otras disposiciones jurídicas y las que le encomiende 
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -1071,7 +1071,7 @@ XXI. Analizar y dictaminar las reformas o adiciones al Reglamento para la Consti
 
 XXII. Las que establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -1095,9 +1095,9 @@ VIII. Solicitar a las Organizaciones de Ciudadanos que han iniciado el procedimi
 
 IX. Las demás que le señale el Consejo General, la propia Comisión y otras disposiciones normativas;
 
-X. Las demás que le señale el Consejo General, la propia Comisión y otras disposiciones normativas. (sic)
+X. (DEROGADA, G.G. 4 DE ENERO DE 2012)
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADA, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -1111,21 +1111,21 @@ III. Levantar la minuta de las reuniones de trabajo de la Comisión;
 
 IV. Proporcionar por acuerdo del Presidente, la información necesaria a los integrantes de la Comisión para el desarrollo de sus actividades;
 
-V. Informar a los integrantes de la Comisión sobre el cumplimiento de las circulares, acuerdos y dictámenes de la Comisión;
+V. Informar a los integrantes de la Comisión sobre el cumplimiento de las circulares, acuerdos y dictámenes de la Comisión; y
 
 VI. Solicitar al Comité Directivo Estatal o equivalente de la Organización Política correspondiente, la documentación que requiera la Comisión para el cumplimiento de sus atribuciones.
 
-(ADICIONADO, G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(ADICIONADO, G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ### CAPÍTULO III. De la Comisión para la Demarcación Distrital Electoral
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
-64. La Comisión tendrá como objeto, auxiliar al Consejo General, en la elaboración de los proyectos sobre la Demarcación Territorial de los cuarenta y cincos (sic) Distritos Electorales Locales de conformidad con el artículo 39 de la Constitución Particular.
+64. La Comisión tendrá como objeto, auxiliar al Consejo General, en la elaboración de los proyectos sobre la Demarcación Territorial de los cuarenta y cinco Distritos Electorales Locales de conformidad con el artículo 39 de la Constitución Particular.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 4 DE ENERO DE 2012)
 
 ###### Artículo 1.
 
@@ -1133,7 +1133,7 @@ VI. Solicitar al Comité Directivo Estatal o equivalente de la Organización Pol
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -1143,9 +1143,9 @@ I. Elaborar la propuesta de estudio para la Demarcación que el Consejo General 
 
 II. Determinar el modelo, las técnicas y procedimientos a seguir, así como llevar a cabo los estudios y análisis geográficos, cartográficos, demográficos, estadísticos, socioeconómicos, culturales y operativos que sean necesarios para la realización de la demarcación distrital electoral;
 
-III. Vigilar se dé el debido cumplimiento a Io dispuesto en la Constitución Particular el Código y los acuerdos del Consejo General y de la Comisión en todo lo relacionado con la demarcación distrital electoral en el Estado de México;
+III. Vigilar se dé el debido cumplimiento a Io dispuesto en la Constitución Particular, el Código y los acuerdos del Consejo General y de la Comisión en todo lo relacionado con la demarcación distrital electoral en el Estado de México;
 
-IV. Integrar un grupo técnico interdisciplinario en el que participen los miembros de la Comisión o los representantes que acrediten los partidos políticos ante la Comisión, el personal del Instituto que determine la propia Comisión y en su caso, asesores externos que auxilien a ésta en la elaboración del proyecto sobre la Demarcación Distrital Electoral que será del conocimiento de la Comisión;
+IV. Integrar un grupo técnico interdisciplinario en el que participen los miembros de la Comisión o los representantes que acrediten los partidos políticos ante la Comisión, el personal del Instituto que determine la propia Comisión y, en su caso, asesores externos que auxilien a ésta en la elaboración del proyecto sobre la Demarcación Distrital Electoral que será del conocimiento de la Comisión;
 
 V. Verificar que la información y datos estadísticos con los que cuenta el Instituto para la realización de la nueva demarcación distrital electoral, estén actualizados y provengan de fuentes oficiales;
 
@@ -4534,3 +4534,11 @@ G.G. 1 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
 
 SEGUNDO.- La reforma aprobada por el Punto Primero, entrará en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+G.G. 4 DE ENERO DE 2012.
+
+PRIMERO. Túrnese a la Secretaría Ejecutiva General en el momento oportuno, con la finalidad de que se someta a la consideración del Consejo General para su análisis, discusión y, en su caso, aprobación.
+
+SEGUNDO. En su momento sean incorporadas las reformas aprobadas en el Capítulo Tercero del citado Reglamento vigente, en lo concerniente a la Comisión de Acceso a Medios, Propaganda y Difusión.
+
+TERCERO. El presente Acuerdo surtirá efecto a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de México y entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno.
