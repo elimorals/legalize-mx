@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-coordinacion-y-participacion-catastral-del-66483"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2009-01-01"
+last_updated: "2012-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE COORDINACION Y PARTICIPACION CATASTRAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE COORDINACION Y PARTICIPACION CATASTRAL DEL ESTADO DE MEXICO
+REGLAMENTO DE COORDINACIÓN Y PARTICIPACIÓN CATASTRAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1 de enero de 2009.
 
@@ -169,7 +169,9 @@ Por invitación expresa del Presidente o Coordinador de la Comisión, podrán pa
 
 Los Vocales representantes de municipios ante la Comisión serán electos de acuerdo al procedimiento siguiente:
 
-I. Cada delegado regional del IGECEM emitirá convocatoria para celebrar una reunión de trabajo en la que se elegirán a los representantes de los municipios correspondientes a la jurisdicción de la delegación.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2012)</small>
+
+l. Cada delegado regional del IGECEM emitirá convocatoria para celebrar una reunión de trabajo, durante el mes de noviembre de cada año, en la que se elegirán a los representantes de los municipios correspondientes a la jurisdicción de la delegación.
 
 II. La elección a la que se refiere la fracción anterior, podrá llevarse a cabo siempre y cuando estén presentes más del cincuenta por ciento del número de representantes de los municipios que integran la delegación correspondiente.
 
@@ -378,3 +380,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo, entrará en vigor el día primero de enero del año dos mil doce.
