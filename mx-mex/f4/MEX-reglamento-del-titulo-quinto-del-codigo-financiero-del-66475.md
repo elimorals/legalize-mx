@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-titulo-quinto-del-codigo-financiero-del-66475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2011-01-05"
+last_updated: "2012-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL TITULO QUINTO DEL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS, DENOMINADO DEL "CATASTRO"
 
-REGLAMENTO DEL TITULO QUINTO DEL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
+REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1o. de enero de 2009.
 
@@ -57,17 +57,27 @@ V. IGECEM.- Al Instituto de Información e Investigación Geográfica, Estadíst
 
 VI. LIGECEM.- Al Libro Décimo Cuarto del Código Administrativo del Estado de México, denominado “De la Información e Investigación Geográfica, Estadística y Catastral del Estado de México”.
 
-VII. Manual Catastral.- Al Manual Catastral del Estado de México.
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2012)</small>
 
-VIII. Medio analógico.- A la representación de la información geográfica en un registro gráfico plasmada en cualquier tipo de papel o película.
+VII. Levantamiento Topográfico Catastral.- Se refiere a las acciones de recorrido en campo para identificar los límites del inmueble y medición de los mismos, contando con la descripción del documento que acredita la propiedad o posesión correspondiente, con las precisiones vertidas por el solicitante y los propietarios ó poseedores de los inmuebles colindantes, así como con las evidencias físicas encontradas (vialidades, bardas, cercas, canales, barrancas, etc.).
 
-IX. Medio digital.- A la información de los registros gráfico o alfanumérico plasmada en cualquier tipo de medio electrónico de almacenamiento externo o interno.
+VIII. Manual Catastral.- Al Manual Catastral del Estado de México.
 
-X. Reglamento.- Al Reglamento del Título Quinto del Código Financiero del Estado de México y Municipios.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2012)</small>
 
-XI. Sistema de Información Catastral.- A la herramienta informática desarrollada por el IGECEM para integrar, mantener y actualizar el padrón catastral municipal y por agregación, el padrón estatal; así como la valuación, historial y archivos digitales. Así se denominarán también a los sistemas similares desarrollados por los Ayuntamientos, mismos que deben garantizar estricto apego a las disposiciones legales aplicables y la interoperabilidad entre ambos sistemas, mediante la homogeneidad de sus bases de datos.
+IX. Medio Analógico.- A la representación de la información geográfica en un registro gráfico plasmada en cualquier tipo de papel o película.
 
-XII. Valuación Catastral.- A la actividad catastral que se refiere a la determinación del valor catastral de los inmuebles, aplicando estrictamente las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y las normas, lineamientos y procedimientos establecidos en este Reglamento y el Manual Catastral.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2012)</small>
+
+X. Medio Digital.- A la información de los registros gráfico o alfanumérico plasmada en cualquier tipo de medio electrónico de almacenamiento externo o interno.
+
+XI. Reglamento.- Al Reglamento del Título Quinto del Código Financiero del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2012)</small>
+
+XII. Sistema de Información Catastral (SIC).- A la herramienta informática desarrollada por el IGECEM para integrar, mantener y actualizar el padrón catastral municipal y por agregación, el padrón estatal; así como la valuación, historial, mapas temáticos y archivos digitales. Así se denominarán también a los sistemas similares desarrollados por los Ayuntamientos, mismos que deben garantizar estricto apego a las disposiciones legales aplicables y la interoperabilidad entre ambos sistemas, mediante la homogeneidad de sus bases de datos.
+
+XIII. Valuación Catastral.- A la actividad catastral que se refiere a la determinación del valor catastral de los inmuebles, aplicando estrictamente las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y las normas, lineamientos y procedimientos establecidos en este Reglamento y el Manual Catastral.
 
 ###### Artículo 3.
 
@@ -143,7 +153,9 @@ Además de las acciones que les sean instruidas por el Director General del IGEC
 
 I. Aplicar las normas, procedimientos, metodologías y criterios establecidos para la ejecución de los programas que se establezcan para la captación, recopilación, revisión, integración y procesamiento de la información geográfica catastral y estadística catastral.
 
-II. Proporcionar asesoría y capacitación al personal de las unidades administrativas municipales encargadas del desarrollo de las actividades en materia catastral, y diagnosticar la aplicación de la normatividad en el desarrollo de los procesos técnicos y administrativos.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2012)</small>
+
+II. Proporcionar asesoría y capacitación al personal del Catastro Municipal y diagnosticar la aplicación de la normatividad en el desarrollo de los procesos técnicos y administrativos.
 
 > <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
 
@@ -163,13 +175,13 @@ VIII. Llevar a cabo levantamientos topográficos catastrales, en los casos previ
 
 Los avalúos catastrales serán practicados por el IGECEM o por especialistas en valuación inmobiliaria con registro vigente expedido por el propio Instituto y se sujetarán a los lineamientos y procedimientos de valuación establecidos en este Reglamento y en el Manual Catastral.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 10.
 
-El IGECEM enviará a los ayuntamientos copias de los avalúos que se realicen conforme al artículo anterior y de los documentos que acredite la propiedad, dentro de los 15 días hábiles siguientes a su expedición o fecha de recepción, a efecto de actualizar el padrón catastral municipal.
+El IGECEM enviará al Catastro Municipal copias de los avalúos que se realicen conforme al artículo anterior y de los documentos que acrediten la propiedad, dentro de los 15 días hábiles siguientes a su expedición o fecha de recepción, a efecto de actualizar el padrón catastral municipal.
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
-
-Cuando el catastro municipal identifique diferencias en los datos técnicos contenidos en los avalúos catastrales, contra los que físicamente presenta el inmueble, podrán solicitar al IGECEM la revisión del estudio, así como los elementos y documentos que sirvieron de base para su elaboración.
+Cuando el Catastro Municipal identifique diferencias en los datos técnicos contenidos en los avalúos catastrales, contra los que físicamente presenta el inmueble, podrán solicitar al IGECEM la revisión del estudio, así como los elementos y documentos que sirvieron de base para su elaboración.
 
 ###### Artículo 11.
 
@@ -251,9 +263,11 @@ VI. Copia certificada del acuerdo contenido en el acta de la sesión de cabildo 
 
 VII. Programas de trabajo formulados en coordinación con el IGECEM y los avances correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 17.
 
-Los levantamientos topográficos catastrales podrán realizarse a solicitud de las personas o sus representantes legales, o bien a petición de las dependencias y entidades públicas de carácter federal, estatal o municipal y se desarrollarán en los términos del presente Reglamento y por lo previsto en el Manual Catastral del Estado de México.
+Los levantamientos topográficos catastrales podrán realizarse a solicitud de los propietarios o poseedores de bienes inmuebles o sus representantes legales, o bien a petición de las dependencias y entidades públicas de carácter federal, estatal o municipal y se desarrollarán en los términos del presente Reglamento y por lo previsto en el Manual Catastral del Estado de México.
 
 Los solicitantes de la práctica de levantamientos topográficos catastrales deberán presentar ante las autoridades catastrales, los documentos siguientes:
 
@@ -275,9 +289,13 @@ VII. Poder notarial o carta poder otorgada al representante legal, según corres
 
 VIII. Recibo de pago de los servicios solicitados.
 
-La autoridad catastral municipal podrá practicar levantamientos topográficos cuando el inmueble de que se trate comprenda una superficie inferior a dos mil metros cuadrados, en caso de que el inmueble exceda de esa superficie, los deberá llevar a cabo el IGECEM; los ayuntamientos que cuenten con personal calificado y con aparatos de alta precisión, podrán practicar levantamientos de inmuebles con superficies superiores a los dos mil metros cuadrados, aplicando estrictamente la metodología y procedimientos establecidos en el Manual Catastral.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
 
-Los levantamientos topográficos catastrales se ejecutarán por el personal autorizado, previa orden de trabajo u oficio de comisión; en presencia del interesado y de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, a quienes se les informará sobre el alcance legal y administrativo de este servicio, lo cuál se asentará en el acta correspondiente.
+La autoridad catastral municipal podrá practicar levantamientos topográficos a cinta cuando el inmueble de que se trate contenga una superficie inferior o igual a dos mil metros cuadrados y una pendiente media igual o menor a veinte por ciento, en caso contrario, los deberá llevar a cabo el IGECEM o los ayuntamientos que cuenten con personal certificado por el propio Instituto y con aparatos de alta precisión, aplicando estrictamente la metodología y procedimientos establecidos en el Manual Catastral.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Los levantamientos topográficos catastrales se ejecutarán por el personal certificado y autorizado, previa orden de trabajo u oficio de comisión; en presencia del interesado y de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, a quienes se les informará sobre el alcance legal y administrativo de este servicio, lo cual se asentará en el acta correspondiente.
 
 Si derivado de la notificación a los propietarios o poseedores de los inmuebles colindantes del predio donde se pretenda realizar el levantamiento topográfico, la autoridad catastral recibe oposición fundada de parte de cualquiera de ellos, se suspenderán los trabajos hasta en tanto los interesados regularicen o aclaren la situación legal del inmueble.
 
@@ -287,19 +305,25 @@ En caso de que algún propietario o poseedor de un inmueble colindante o su repr
 
 Los datos contenidos en el plano obtenido por la autoridad catastral serán considerados, en su caso, para actualizar el padrón catastral municipal. Cuando el levantamiento topográfico lo realice el IGECEM, además de la copia del plano, deberá remitir al Ayuntamiento, copias del acta circunstanciada y del documento que acredite la propiedad.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 18.
 
-El Catastro Municipal deberá aplicar estrictamente las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y publicadas el (sic) periódico oficial “Gaceta del Gobierno” para realizar la valuación catastral de todos los inmuebles localizados en su jurisdicción territorial municipal.
+El Catastro Municipal deberá aplicar estrictamente las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y publicadas en el Periódico Oficial "Gaceta del Gobierno" para realizar la valuación catastral de todos los inmuebles localizados en su jurisdicción territorial municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2012)</small>
 
 ###### Artículo 19.
 
-El Catastro Municipal podrá solicitar a las personas físicas o jurídicas colectivas, los documentos, informes y datos relacionados con los inmuebles localizados dentro de su jurisdicción territorial, al momento de que los propietarios o poseedores presenten la manifestación catastral correspondiente o mediante la realización de acciones de verificación o investigación predial.
+El Catastro Municipal podrá solicitar a las personas físicas o jurídicas colectivas, los documentos, informes y datos relacionados con los inmuebles localizados dentro de su jurisdicción territorial, al momento de que los propietarios o poseedores presenten la manifestación catastral correspondiente o mediante la realización de acciones de verificación o investigación catastral.
 
 Asimismo, los Ayuntamientos podrán establecer acuerdos de cooperación y colaboración con las autoridades federales y estatales u organizaciones públicas o privadas, a efecto de obtener información catastral de su jurisdicción territorial.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 20.
 
-En los estudios o bienes que los Ayuntamientos realicen o adquieran para instrumentar procesos de modernización o actualización de la información catastral, el IGECEM deberá previamente revisar y validar la metodología a aplicar y emitir los términos de referencia a los que se sujetará la contratación, elaboración e implantación de los estudios relativos.
+Cuando los ayuntamientos realicen estudios técnicos, adquieran bienes o contraten servicios para instrumentar procesos de modernización o actualización de la información catastral, el IGECEM deberá previamente revisar y validar la metodología a aplicar y emitir los términos de referencia a los que se sujetará la contratación, elaboración e implantación de los estudios relativos.
 
 ###### Artículo 21.
 
@@ -327,9 +351,11 @@ Las certificaciones y constancias, así como la realización de trabajos compete
 
 ### CAPÍTULO TERCERO. DE LA INSCRIPCIÓN DE INMUEBLES
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 24.
 
-El Catastro Municipal, está facultado para inscribir a todos los inmuebles ubicados dentro de su respectiva jurisdicción territorial, para tal efecto, los propietarios o poseedores deberán presentar su manifestación en los términos que establece el artículo 175 del Código, para su registro e integración en el padrón catastral municipal.
+El Catastro Municipal, está facultado para inscribir a todos los inmuebles ubicados dentro de su respectiva jurisdicción territorial, para tal efecto, los propietarios o poseedores deberán presentar su manifestación catastral en los términos que establece el artículo 175 del Código y el apartado I del Manual Catastral, para su registro e integración en el padrón catastral municipal.
 
 ###### Artículo 25.
 
@@ -373,7 +399,9 @@ Para la inscripción inicial de un inmueble en el padrón catastral municipal, e
 
 La clave catastral invariablemente se inscribirá tanto en el registro gráfico como en el alfanumérico y en su asignación no se permitirán duplicidades.
 
-Los cambios, bajas y reasignaciones de claves catastrales se realizarán conforme a las políticas y procedimientos que para tal efecto se establecen en el Manual Catastral.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Las asignaciones, bajas y reasignaciones de claves catastrales se realizarán conforme a las políticas y procedimientos que para tal efecto se establecen en el Manual Catastral.
 
 ###### Artículo 28.
 
@@ -717,9 +745,11 @@ En el supuesto previsto en la fracción I del artículo anterior, el propietario
 
 En los casos que se presente cualquiera de los supuestos establecidos en las fracciones II a V del artículo 34 de este Reglamento, el Catastro Municipal iniciará el procedimiento de actualización mediante notificación dirigida al propietario o poseedor del inmueble, debidamente fundada y motivada con los hechos o circunstancias que la sustentan, en términos del Código de Procedimientos Administrativos del Estado de México, otorgando un plazo de quince días hábiles a efecto de que conteste lo que a su derecho convenga, corrija la omisión, presente la manifestación o un avalúo catastral practicado por el IGECEM o por especialista en valuación inmobiliaria con registro vigente expedido por el propio Instituto.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 37.
 
-Cuando el Catastro Municipal detecte que existen modificaciones en las características físicas de los inmuebles respecto a los datos técnicos manifestados por sus propietarios o poseedores, o que algún inmueble no esté inscrito en el padrón catastral municipal, los Ayuntamientos estarán facultados para ordenar inspecciones en el domicilio donde se ubique el inmueble y la realización de acciones de verificación física, levantamientos topográficos catastrales o investigación predial, mediante notificación debidamente fundada y motivada, en la que se indiquen la fecha y hora en que se llevará a cabo la diligencia, su objeto y alcance, así como los nombres de las personas designadas para realizarla, apegándose estrictamente a lo dispuesto por el Código de Procedimientos Administrativos del Estado de México, debiendo instrumentar el acta circunstanciada de los hechos.
+Cuando el Catastro Municipal detecte que existen modificaciones en las características físicas de los inmuebles respecto a los datos técnicos manifestados por sus propietarios o poseedores, o que algún inmueble no esté inscrito en el padrón catastral municipal, los Ayuntamientos estarán facultados para ordenar inspecciones en el domicilio donde se ubique el inmueble y la realización de acciones de verificación física, levantamientos topográficos catastrales o investigación catastral, mediante notificación debidamente fundada y motivada, en la que se indiquen la fecha y hora en que se llevará a cabo la diligencia, su objeto y alcance, así como los nombres de las personas designadas para realizarla, apegándose estrictamente a lo dispuesto por el Código de Procedimientos Administrativos del Estado de México, debiendo instrumentar el acta circunstanciada de los hechos.
 
 ###### Artículo 38.
 
@@ -825,7 +855,11 @@ i Privada t Libramiento
 
 j Calzada u Vialidad
 
-k Pasaje z Límite físico
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2012)</small>
+
+k Pasaje v Prolongación
+
+z Límite físico
 
 ###### Artículo 47.
 
@@ -859,7 +893,9 @@ HABITACIONAL H1
 
 Localización: En las periferias de las ciudades y/o pueblos. Es frecuente que se presenten asentamientos irregulares.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Habitacional, mezclado con otros usos.
 
@@ -877,7 +913,9 @@ HABITACIONAL H2
 
 Localización: Periferia de las ciudades o centros de algunos pueblos, es posible la existencia de asentamientos espontáneos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Habitacional, mezclado con el mismo uso en otra clase y otros usos.
 
@@ -895,17 +933,23 @@ HABITACIONAL H3
 
 Localización: En zonas urbanas y urbanizables, destinadas a este fin, generalmente fuera de zonas consolidadas y ocasionalmente dentro de ellas.
 
-Régimen Jurídico de la Propiedad: Privada, puede presentarse la modalidad de condominio en fraccionamientos o conjuntos.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social; puede presentarse la modalidad de condominio en conjuntos urbanos.
 
 Uso del Suelo Predominante: Habitacional.
 
 Densidad de Uso del Suelo: Muy alta, se forman conjuntos de la modalidad en condominio (interés social), o en fraccionamientos. Los existen verticales, horizontales o mixtos.
 
-Lotificación: Los lotes son regulares e irregulares, se adaptan a las medidas mínimas reglamentarias, en fraccionamientos las manzanas generalmente son rectangulares o irregulares planificadas, en conjuntos (verticales) la distribución interna de los edificios y lotes es ordenada.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Lotificación: Los lotes son regulares e irregulares, se adaptan a las medidas mínimas reglamentarias, en conjuntos urbanos, las manzanas generalmente son rectangulares o irregulares planificadas, en conjuntos (verticales) la distribución interna de los edificios y lotes es ordenada.
 
 Servicios Públicos e Infraestructura: Completos, agua potable mediante tomas domiciliarias, drenaje y alcantarillado, alumbrado público con suficiente número de luminarias, luz domiciliaria, vialidades de importancia local terciaria y algunas secundarias, definidas con asfalto, ancho medio de arroyo con nueve metros, banquetas y guarniciones de concreto, vigilancia, limpia, transporte público.
 
-Vivienda: Interés social proyecto típico definido, materiales económicos con ejecución de mediana calidad, claros menores a 3.5 metros, construcción en serie por empresas particulares u oficiales, financiamiento oficial y/o bancario a corto plazo, se localizan en zonas determinadas de las zonas urbanas, en fraccionamientos o en lotes aislados, es frecuente que forme conjuntos en condominio. La techumbre puede ser de concreto, concreto premezclado; muros de block vidriado, tabique, tabicón, etc.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Vivienda: Interés social proyecto típico definido, materiales económicos con ejecución de mediana calidad, claros menores a 3.5 metros, construcción en serie por empresas particulares u oficiales, financiamiento oficial y/o bancario a corto plazo, se localizan en zonas determinadas de las zonas urbanas, en conjuntos urbanos o en lotes aislados, es frecuente que forme conjuntos en condominio. La techumbre puede ser de concreto, concreto premezclado; muros de block vidriado, tabique, tabicón, etc.
 
 Ocupación y Nivel de Educación: Ocupación: normal o media, obrero especializado, empleado de nivel medio, comerciante de nivel medio. Nivel educación: secundaria terminada, con estudios de preparatoria o equivalente técnica.
 
@@ -913,17 +957,25 @@ HABITACIONAL H4
 
 Localización: En zonas urbanas consolidadas, pueden conformar las áreas urbanas, ocasionalmente en zonas periféricas de grandes poblaciones.
 
-Régimen Jurídico de la Propiedad: Privada.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Habitacional, puede incluir otros usos.
 
-Densidad de Uso del Suelo: Alta y/o media, están conformadas en fraccionamientos de tipo medio o en colonias con antigüedad.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
 
-Lotificación: Normalmente regulares, uniformes, en fraccionamientos recientes, irregulares con dimensiones grandes en colonias antiguas.
+Densidad de Uso del Suelo: Alta y/o media, están conformadas en conjuntos urbanos de tipo medio o en colonias con antigüedad.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Lotificación: Normalmente regulares, uniformes, en conjuntos urbanos recientes, irregulares con dimensiones grandes en colonias antiguas.
 
 Servicios Públicos e Infraestructura: Completos, agua potable mediante tomas domiciliarias, drenaje y alcantarillado integrados y/o separados, alumbrado público con buen número de luminarias, luz domiciliaria, vialidades de importancia local secundarias y en algunos casos primarias, definidas de asfalto, ancho medio de arroyo con nueve metros, o más banquetas y guarniciones de concreto, vigilancia, limpia, transporte público.
 
-Vivienda: Regular proyecto definido y funcional, materiales de medio o buena calidad con acabados bien ejecutados claros medios de 4.0 metros, construcción bajo supervisión de un profesionista o la ejecuta una empresa constructora, autofinanciamiento o financiamiento oficial y/o bancario, se localizan en zonas consolidadas de los centros de población ó en fraccionamientos residencial medio y campestre, los materiales utilizados son de concreto y bóvedas en la techumbre generalmente con impermeabilizantes y recubrimientos de teja y/o ladrillo, muros de tabique, tabicón, block, adobe y piedra.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Vivienda: Regular proyecto definido y funcional, materiales de medio o buena calidad con acabados bien ejecutados claros medios de 4.0 metros, construcción bajo supervisión de un profesionista o la ejecuta una empresa constructora, autofinanciamiento o financiamiento oficial y/o bancario, se localizan en zonas consolidadas de los centros de población ó en conjuntos urbanos residencial medio y campestre, los materiales utilizados son de concreto y bóvedas en la techumbre generalmente con impermeabilizantes y recubrimientos de teja y/o ladrillo, muros de tabique, tabicón, block, adobe y piedra.
 
 Ocupación y Nivel de Educación: Ocupación: media o normal, obrero especializado, empleado de nivel medio, comerciante de nivel medio. Nivel educación: secundaria terminada, con estudios de preparatoria o equivalente técnica.
 
@@ -937,11 +989,15 @@ Uso del Suelo Predominante: Habitacional.
 
 Densidad de Uso del Suelo: Media, distribución compacta con espacios jardinados.
 
-Lotificación: Presenta lotes regulares, y/o irregulares planificados generalmente en fraccionamientos y en zonas urbanas consolidadas con traza urbana antigua. Las manzanas son irregulares planificadas en fraccionamientos, o rectangulares en zonas antiguas.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Lotificación: Presenta lotes regulares, y/o irregulares planificados generalmente en conjuntos urbanos y en zonas urbanas consolidadas con traza urbana antigua. Las manzanas son irregulares planificadas en conjuntos urbanos, o rectangulares en zonas antiguas.
 
 Servicios Públicos e Infraestructura: Completos, agua potable mediante tomas domiciliarias, drenaje y alcantarillado integrados y/o separados, alumbrado público con buen número de luminarias, luz domiciliaria, vialidades de importancia local secundarias y en algunos casos primarias, con retornos, definidas de asfalto, ancho medio de arroyo de nueve metros o más, banquetas y guarniciones de concreto, vigilancia ocasionalmente especial, limpia, transporte público, gas, etc.
 
-Vivienda: Buena proyecto Definido, funcional y de calidad, materiales de buena calidad, acabados bien ejecutados con detalles especiales, claros medios de 6.0 metros, construcción realizada por empresas constructoras, autofinanciamiento, se localizan en zonas exclusivas y/o en fraccionamientos residenciales altos.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Vivienda: Buena, proyecto definido, funcional y de calidad, materiales de buena calidad, acabados bien ejecutados con detalles especiales, claros medios de 6.0 metros, construcción realizada por empresas constructoras, autofinanciamiento, se localizan en zonas exclusivas y/o en conjuntos urbanos residenciales altos.
 
 Ocupación y Nivel de Educación: Ocupación: alta, empresario medio, ejecutivos de empresas, comerciante de nivel alto Nivel educación: profesionista con estudios de postgrado o no.
 
@@ -955,11 +1011,15 @@ Uso del Suelo Predominante: Habitacional.
 
 Densidad de Uso del Suelo: Media, con espacios abiertos importantes.
 
-Lotificación: Presenta lotes planificados, en fraccionamientos exclusivos.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Lotificación: Presenta lotes planificados, en conjuntos urbanos exclusivos.
 
 Servicios Públicos e Infraestructura: Completos, agua potable mediante tomas domiciliarias, drenaje y alcantarillado por separado, alumbrado público con buen número de luminarias, luz domiciliaria, vialidades de importancia local secundarias y en algunos casos primarias, con retornos, definidas de asfalto, ancho medio de arroyo de nueve metros, o más banquetas y guarniciones de concreto, vigilancia especial, limpia, transporte público periférico, gas, etc.
 
-Vivienda: Muy buena, proyecto de calidad y con detalles especiales, materiales de buena calidad controlados y de lujo, de fabricación nacional e importados, acabados muy bien ejecutados con proliferación de detalles e instalaciones especiales, construcción realizada por empresas constructoras, por especialistas, autofinanciamiento, se localizan en zonas exclusivas de lujo y en fraccionamientos residenciales exclusivos.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Vivienda: Muy buena, proyecto de calidad y con detalles especiales, materiales de buena calidad controlados y de lujo, de fabricación nacional e importados, acabados muy bien ejecutados con proliferación de detalles e instalaciones especiales, construcción realizada por empresas constructoras, por especialistas, autofinanciamiento, se localizan en zonas exclusivas de lujo y en conjuntos urbanos residenciales exclusivos.
 
 Ocupación y Nivel de Educación: Ocupación: muy alta, gran empresario, alto, ejecutivo. Nivel de educación: profesionista con estudios de postgrado.
 
@@ -969,7 +1029,9 @@ COMERCIAL C1
 
 Localización: En zonas predeterminadas con alto grado de circulación peatonal y vehicular dentro o fuera de las áreas urbanas se presenta en zonas de comercio espontáneo.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Comercial con otros usos.
 
@@ -985,7 +1047,9 @@ COMERCIAL C2
 
 Localización: En zonas predeterminadas como plazas y centros comerciales, en zonas comerciales consolidadas dentro de los centros de población y en zonas de alta circulación.
 
-Régimen Jurídico de la Propiedad: Privada.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Comercial.
 
@@ -1021,7 +1085,9 @@ INDUSTRIAL 11
 
 Localización: Se presentan en forma aislada en pequeñas naves como son granjas de tipo avícola, naves donde se procesa productos agropecuarios, en zonas fuera o dentro de los centros de población.
 
-Régimen Jurídico de la Propiedad: Privada.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Industrial mezclado con otros usos.
 
@@ -1037,9 +1103,13 @@ Ocupación y Nivel de Educación: Ocupación: pequeño comerciante, obrero, empl
 
 INDUSTRIAL 12
 
-Localización: Se presentan en parques, fraccionamientos y zonas industriales, ocasionalmente en algunos corredores.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
 
-Régimen Jurídico de la Propiedad: Privada.
+Localización: Se presentan en conjuntos urbanos mixtos, parques y zonas industriales, ocasionalmente en algunos corredores.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Industrial con otros usos.
 
@@ -1061,7 +1131,9 @@ Ocupación y Nivel de Educación: Ocupación: normal, obrero especializado, empl
 
 INDUSTRIAL 13
 
-Localización: Se presentan en parques, fraccionamientos, zonas o corredores industriales.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Localización: Se presentan en conjuntos urbanos mixtos, parques, zonas o corredores industriales.
 
 Régimen jurídico de la Propiedad: Privada.
 
@@ -1069,7 +1141,9 @@ Uso del Suelo Predominante: Industrial con otros usos.
 
 Densidad de uso del suelo: Medio bajo.
 
-Lotificación: Lotes de dimensiones medias o grandes, normalmente en fraccionamientos industriales.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Lotificación: Lotes de dimensiones medias o grandes, normalmente en conjuntos urbanos industriales.
 
 Servicios públicos e infraestructura: Completos, agua potable mediante tomas domiciliarias, drenaje y alcantarillado integrados y/o separados, alumbrado público con suficientes luminarias, luz domiciliaria, con acometidas especiales, vialidades definidas de importancia local secundarias y en algunos casos primarias, que se conectan con vialidades de importancia regional, con retornos, pavimento de asfalto y/o de concreto, ancho medio de arroyo de doce metros, o más, vías férreas, banquetas y guarniciones de concreto; vigilancia, limpia, transporte público, gas, e instalaciones especiales.
 
@@ -1113,7 +1187,9 @@ EL GRUPO EQUIPAMIENTO ES ÚNICO
 
 EQUIPAMIENTO E1
 
-Régimen Jurídico de la Propiedad: Pueden encontrarse en Propiedad Privada, Ejidal, Comunal, Nacional, u otras.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Equipamiento, abastos y servicios mezclados con otros usos.
 
@@ -1155,7 +1231,9 @@ Agrícola A1
 
 Localización: Se encuentra ubicado principalmente en las zonas urbanas y urbanizables de las periferias de las ciudades y los pueblos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Primordialmente es agrícola y regularmente cuentan con construcciones que ocupan menos del 20% de la superficie total, en algunos casos se presenta mezcla de usos como el pecuario o agroindustrial en áreas urbanas y urbanizables.
 
@@ -1173,7 +1251,9 @@ Agrícola de Riego A2
 
 Localización: Se encuentra ubicado principalmente en las zonas agrícolas o urbanizables de las periferias de las ciudades y de los pueblos o fuera de ellos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Es agrícola de riego, mediante la utilización de corrientes de agua permanentes o intermitentes, ya sea en forma de vasos de captación y distribución existentes en las áreas susceptibles de ser irrigadas por gravedad, así mismo comprenden a los predios en los que se aprovechan los depósitos o corrientes de agua subterránea o superficial mediante el uso de la (sic) elementos mecánicos para realizar la irrigación, en algunos casos mezclados con otros usos como el industrial o agroindustrial en áreas agrícolas y urbanizables.
 
@@ -1191,7 +1271,9 @@ Agrícola de Humedad A3
 
 Localización: Se encuentra ubicado en las zonas agrícolas o urbanizables de las periferias de las ciudades y de los pueblos o fuera de ellos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Es agrícola por capilaridad, colinda con cuerpos de agua ya sean subterráneas o superficiales de donde reciben la humedad necesaria para el desarrollo de algún cultivo, en algunos casos mezclados con otros usos como el industrial o agroindustrial en áreas agrícolas y urbanizables.
 
@@ -1209,7 +1291,9 @@ Agrícola de Temporal A4
 
 Localización: Se encuentra ubicado en las zonas agrícolas o urbanizables de las periferias de las ciudades y de los pueblos o fuera de ellos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Es agrícola que para producir algún cultivo depende del agua proporcionada por la precipitación pluvial. Comprende también aquellos terrenos que se dejan ociosos por algún tiempo, generalmente de 3 a 5 años antes de volverse a sembrar. En algunos casos mezclados con otros usos como el pecuario, industrial o agroindustrial en áreas agrícolas y urbanizables.
 
@@ -1227,7 +1311,9 @@ Agrícola Agroindustrial A5
 
 Localización: Se encuentra ubicado en las zonas agrícolas o urbanizables de las periferias de las ciudades y de los pueblos o fuera de ellos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada o Social.
 
 Uso del Suelo Predominante: Es agroindustrial; terrenos en los que se desarrollan actividades transformadoras, que incorporan productos agropecuarios como materias primas.
 
@@ -1249,7 +1335,9 @@ Agostadero Praderas Naturales B1
 
 Localización: Se encuentra ubicado en las de las periferias de los pueblos o fuera de ellos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Agostadero natural, son terrenos cubiertos de pastizales o especies vegetales de la región que se han establecido y desarrollado como agostadero de manera natural y espontánea, en algunos casos mezclados con otros usos como el agrícola de temporal.
 
@@ -1267,7 +1355,9 @@ Agostadero Praderas Cultivadas B2
 
 Localización: Se encuentra ubicado en las de las periferias, de los pueblos o fuera de ellos.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Es agostadero artificial; son aquellos terrenos en los que son sembradas diversas especies o variedades de pastos adecuado al lugar, con lo cual se logra una mejoría en los coeficientes de agostadero, en algunos casos mezclados con otros usos como el agrícola de riego o de temporal.
 
@@ -1287,7 +1377,9 @@ Forestal Natural F1
 
 Localización: Se encuentra ubicado fuera de los centros de población.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Es forestal natural; son aquellos terrenos en los que las especies de árboles nacen y se desarrollan de manera espontánea atendiendo a las condiciones naturales de la región; esta compuesto por vegetación arbórea que comúnmente presenta poca la variación de especies dentro de una zona, en algunos casos mezclados con otros usos como el agrícola, agostadero y otros.
 
@@ -1305,7 +1397,9 @@ Forestal Cultivado F2
 
 Localización: Se encuentra ubicado fuera de los centros de población.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Es forestal cultivado; son aquellos terrenos en los que interviene el hombre para la siembra, plantación y selección de especies arbóreas, mediante la aplicación de tecnologías y conocimiento del tipo y condición de los suelos para incrementar y mejorar la producción y explotación de productos maderables y derivados, en algunos casos mezclados con otros usos como el agrícola, agostadero y otros.
 
@@ -1325,7 +1419,9 @@ Eriazo G1
 
 Localización: Se encuentra ubicado fuera de los centros de población.
 
-Régimen Jurídico de la Propiedad: Privada, Ejidal o Comunal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Es eriazo; son los terrenos pedregosos, arenosos, medianos o gruesos, o erosionados, con poca arcilla y por sus características propias no pueden retener humedad suficiente, por lo que no son susceptibles de cultivo alguno, en algunos casos mezclados con otros usos como el agrícola, agostadero y otros.
 
@@ -1345,7 +1441,9 @@ Especial ruinas o sitios arqueológicos L1
 
 Localización: Se encuentra ubicado dentro o fuera de los centros de población.
 
-Régimen Jurídico de la Propiedad: Nacional.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Pública o Social.
 
 Uso del Suelo Predominante: Zonas Arqueológicas; son los terrenos o parajes que contienen en la superficie o en el subsuelo restos de la intervención humana, bienes muebles o inmuebles que poseen valor histórico, etnológico, paleontológico o antropológico, susceptibles de ser estudiados con metodología arqueológica, en algunos casos mezclados con otros usos como el agrícola, agostadero, habitacional y otros.
 
@@ -1363,7 +1461,9 @@ Especial Cuerpos de Agua L2
 
 Localización: Se encuentran en todo el territorio.
 
-Régimen Jurídico de la Propiedad: Nacional.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Privada, Pública o Social.
 
 Uso del Suelo Predominante: Cuerpos de agua son las áreas que en su superficie contienen corrientes, cauces o depósitos de agua, tanto naturales como artificiales, como son lagos, lagunas, presas, pantanos y bordos, en algunos casos mezclados con otros usos como el agrícola, agostadero, habitacional y otros.
 
@@ -1381,7 +1481,9 @@ Especial Reservas Naturales L3
 
 Localización: Se encuentran dispersos en todo el territorio del Estado.
 
-Régimen Jurídico de la Propiedad: Nacional, Estatal o Municipal.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Régimen Jurídico de la Propiedad: Pública.
 
 Uso del Suelo Predominante: Las Reservas Naturales son las porciones terrestres o acuáticas del territorio, representativas de los diversos ecosistemas en donde el ambiente original no ha sido esencialmente alterado por la mano del hombre. Se originan mediante un decreto emitido por el Poder Legislativo que regula estrictamente el uso del suelo y están sujetos a regímenes especiales de protección, conservación y restauración, en algunos casos mezclados con otros usos como el forestal, agostadero, eriazo u otros.
 
@@ -4587,6 +4689,218 @@ Vidriería: Cristal flotado de 5 mm. A 12 mm., en ventanas canceles y puertas, c
 
 Instalaciones especiales: Cisternas con bomba, transformador, planta de emergencia, sistema de sonido, sistema contra incendio, sistema de intercomunicación, en porcentaje sistema de aire acondicionado, sistema de alarma.
 
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2012)</small>
+
+QD1
+
+EQUIPAMIENTO OFICINAS BAJA
+
+Obra e instalaciones básicas
+
+Obra:
+
+Cimentación: Mampostería de piedra, cadenas de desplante.
+
+Muros: Tabique, tabicón, block, adobe, escasos castillos.
+
+Estructura: Muros de carga confinados con cadenas y castillos de concreto armado, claros de hasta 3.00 m., elementos horizontales de concreto armado, vigas de madera, altura usual, hasta un nivel.
+
+Techumbre: Losa maciza de concreto armado de 10 cm. de espesor, teja de barro común, lámina tipo pintro ó zintro, lámina acrílica.
+
+Instalaciones:
+
+Eléctrica: Mixta o visible con muy pocas salidas. Accesorios y cableado económicos.
+
+Hidráulica: Mínima, consistente en una toma, red con fierro galvanizado, pvc, o cobre. Un sanitario, llaves de plástico o bronce económicos, pileta.
+
+Sanitaria: Conexión a red sanitaria municipal con tubo de albañal, con pocos registros. Eventualmente con fosa séptica.
+
+Acabados:
+
+Pisos: Cemento escobillado o pulido c/color, loseta de barro ó tablón.
+
+Recubrimientos: Interior: De mezcla de cal o cemento en porcentaje, resto sin acabado.
+
+Exterior: Aplanado de mezcla de calhidra ó mortero o sin acabado.
+
+Plafón: Acabado aparente.
+
+Lambrín: De cemento pulido en zona húmeda.
+
+Escaleras: No tiene.
+
+Azotea: Sin acabado, desagüe por gravedad o en porcentaje con bajadas de pvc y fofo.
+
+Muebles de Baño: Blancos de segunda, sin accesorios ó de cerámica económica.
+
+Carpintería: Generalmente puertas de tipo tambor ocasionalmente sin trabajos de carpintería.
+
+Herrería y Cerrajería: Perfiles estructurales en ventanas y puertas, cerrajería económica.
+
+Vidriería: Vidrio sencillo y de gota.
+
+Pintura: Vinílica y esmalte de calidad económica, o pintura de cal.
+
+Instalaciones especiales: No tiene.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2012)</small>
+
+QD2
+
+EQUIPAMIENTO OFICINAS MEDIA
+
+Obra e instalaciones básicas
+
+Obra:
+
+Cimentación: Mampostería de piedra y/o zapata aislada o corrida de concreto armado.
+
+Muros: Adobe, tabique, tabicón, block, confinados con cadenas y castillos de concreto armado.
+
+Estructura: Muros de carga confinados con cadenas y castillos de concreto armado, claros de hasta 4.00 m., elementos horizontales de concreto armado o prefabricados, ocasionalmente vigas de acero altura hasta 3 niveles.
+
+Techumbre: Losa maciza de concreto armado de 10 cm. de espesor, eventualmente elementos prefabricados: Vigueta y bovedilla, o viguería de madera con losa de concreto armado de 10 cm. de espesor.
+
+Instalaciones:
+
+Eléctrica: Oculta con poliducto, aparente con tubo tipo conduit con pocas salidas, accesorios y cableado calidad económica o regular.
+
+Hidráulica: Ramaleo con pvc y/o cobre, en porcentaje galvanizado, diferentes diámetros. Conexiones y llaves de bronce económicas.
+
+Sanitaria: Ramaleo tubo de albañal, pocos registros, coladeras de pvc cromadas o bronce económicos. Bajadas pluviales pvc, o lámina galvanizada. Bajadas aguas negras pvc.
+
+Acabados:
+
+Pisos: Mosaico de pasta, loseta vinílica o en porcentaje de granito artificial, o loseta de barro de calidad económica.
+
+Recubrimientos: Interior: De yeso a reventón, y en porcentaje repellado con mortero a base de calhidra. Exterior: Repellado con mortero cemento-arena, o aparente.
+
+Plafón: De mortero cemento-arena a nivel y regla, de yeso y en porcentaje con tirol rústico.
+
+Lambrín: De cemento pulido o mosaico en zonas húmedas, en porcentaje de azulejo de 3ª o mosaico veneciano económico
+
+Escaleras: Rampa de concreto con escalones forjados de tabique, con o sin acabado cemento fino, mosaico de pasta o de granito artificial, loseta vinílica o de herrería tipo caracol.
+
+Azotea: Entortado y enladrillado con bajadas de agua pluvial de pvc o por gravedad, impermeabilizada, algunos pretiles aparentes o aplanados con mezcla, chaflanes.
+
+Muebles de Baño: Blancos (en porcentaje color), de segunda, con accesorios completos de cerámica económica, o de aluminio blanco de fabricación nacional, cuenta con botiquín de regular calidad.
+
+Carpintería: Puertas intercomunicación de tambor con fibracel o triplay de pino de 2ª, en porcentaje con marco de pino de 2ª, y tabletas de fibracel o triplay 3 mm.
+
+Herrería y Cerrajería: Perfiles tubulares, en ventanas puerta de acceso o servicio con lámina tablero o lámina lisa con bastidor. Cerrajería económica, chapas de intercomunicación económicas con maneral de plástico; ventanería con perfiles metálicos tubulares con vagueta de aluminio, cuenta con protección en ventanas exteriores.
+
+Vidriería: Vidrio sencillo o medio doble filtrasol y en porcentaje vidrio de gota.
+
+Pintura: Vinílica en muros, esmalte en herrería y barniz en carpintería, calidad económica.
+
+Instalaciones especiales: Cisterna con bomba.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2012)</small>
+
+QD3
+
+EQUIPAMIENTO OFICINAS ALTA
+
+Obra e instalaciones básicas
+
+Obra:
+
+Cimentación: En porcentaje mampostería, zapatas aisladas o corridas de concreto armado.
+
+Muros: Tabique o tabicón o block o tabique extruido divisorios de tablaroca y tablacemento, ocasionalmente muros de contención de piedra o concreto armado.
+
+Estructura: Muros de carga confinados con cadenas y castillos de concreto armado, claros de hasta 7.00 m., elementos horizontales y verticales de concreto armado o prefabricados o de altura hasta 5 niveles.
+
+Techumbre: Losa maciza de concreto armado o aligerada nervada o reticular, de vigueta y bovedilla, losa y trabes de acero.
+
+Instalaciones:
+
+Eléctrica: Oculta con salidas en número adecuado, a través de tubo conduit en plafond falso, canaletas de pvc, varios circuitos, tierra física, accesorios de plástico y aluminio, interfón de calidad regular.
+
+Hidráulica: Ramaleo de cobre y pvc, diferentes diámetros, calidad del país, coladeras de pvc cubierta cromada.
+
+Sanitaria: Red con tubo de albañal, bajadas de pvc.
+
+Acabados:
+
+Pisos: loseta de granito o terrazo, parquet de mármol de calidad regular, loseta vidriada o cerámica, cemento pulido para recibir alfombra de regular y en porcentaje de buena calidad, parquet o duela pino de primera o similar, o de madera tropical económica, o piso laminado, material del país de regular o buena calidad.
+
+Recubrimientos: Interior: De yeso o mezcla de cemento arena, acabados aparentes en porcentaje, tirol, pasta con resina epóxica, pasta texturizada. Exterior: Repellado mezcla de mortero cemento con textura, piedrín artificial o similar, muros aparentes de tablaroca ó tablacemento.
+
+Plafón: De yeso, en porcentaje con tirol planchado o tirol rústico, en porcentaje metal desplegado y mezcla de cemento arena o yeso, en porcentaje de azulejo, cerámica lisa, decorada o similar del país, plafón falso a base de elementos modulares térmicos o acústicos, duela de encino.
+
+Lambrín: Mosaico veneciano económico, azulejo, cintilla o cerámica del país de calidad regular en baños de piso a techo y en cocina, en su caso. Algunas piezas decoradas.
+
+Escaleras: Rampa de concreto armado, escalones forjados de tabiques recubiertos con granito artificial, terrazo, loseta de cerámica, parquet de madera tropical económica o laminado, alfombra de regular calidad uso rudo, estructura con vigueta de acero con escalones de tablón o precolados de concreto.
+
+Azotea: Impermeabilizada o enladrillada, pretiles aplanados.
+
+Muebles de Baño: Color de calidad regular o buena del país con accesorios de porcelana, manerales metálicos cromados de calidad regular, lavabo con gabinete del país de calidad regular.
+
+Cocina: Muebles de buena calidad, fregadero con tarjas y mueble de acero inoxidable, forjado en obra de tabique recubiertos de azulejo o cerámica con materiales de regular y en porcentaje de buena calidad.
+
+Carpintería: Puertas de tambor o entableradas de triplay de pino 3 mm., o chapa con laminado plástico. Eventualmente ventanas de madera con marco de madera. Muebles divisorios y empotrados de triplay de pino de primera.
+
+Herrería y Cerrajería: Herrería: Perfiles de aluminio anodizado, y en porcentaje natural, en porcentaje tubular en ventanas. Barandales y protecciones de fierro macizo, puertas de aluminio anodizado, cerrajería de calidad regular, material del país de calidad regular; cancelería: Divisorios de aluminio anodizado o natural o aglomerado con lámina plástica (melamina o similar) en baños.
+
+Vidriería: Cristal flotado claro o filtrasol 3 mm. y 5 mm., en porcentaje de gota.
+
+Pintura: Con pintura vinílica y de esmalte de regular y buena calidad.
+
+Instalaciones especiales: Cisterna con bomba, gas estacionario, gas natural, canalizaciones para telefonía, posible sistema hidroneumático, posible alarma.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2012)</small>
+
+QD4
+
+EQUIPAMIENTO OFICINAS MUY ALTA
+
+Obra e instalaciones básicas
+
+Obra:
+
+Cimentación: Zapatas aisladas con contratrabes de liga o zapatas corridas de concreto armado, muros de contención de concreto armado o piedra, cimentaciones especiales a base de pilotes u otros.
+
+Muros: De tabique, tabicón, block, piedra, tabique extruido, divisorios prefabricados de tablaroca y tablacemento
+
+Estructura: Estructuras tridimensionales, losas y vigas prefabricadas preesforzadas o postensadas de concreto armado, elementos horizontales y verticales de concreto armado o prefabricados o de acero en claros de 14 m. o más, losas de diseño especial, cascarones de concreto, losa acero.
+
+Techumbre: Losa maciza de concreto con claros de más de 5 m., en porcentaje, losa aligerada, losa acero con claros hasta 12 m.
+
+Instalaciones:
+
+Eléctrica: Alimentación trifásica, oculta con salidas en buen número, varios circuitos, accesorios y cableado de muy buena calidad importados, sistema de intercomunicación, planta generadora de energía eléctrica de emergencia, lámparas de emergencia.
+
+Hidráulica: Con buen número de salidas, ramaleo de cobre y pvc, baños para hombres y mujeres con sistemas automáticos, cocinas en su caso, instalación contra incendio, bomba contra incendio, hidroneumático, materiales de muy buena calidad en porcentaje importado.
+
+Sanitaria: Red con tubo albañal, bajadas de pvc, o fierro fundido, probable cárcamo de bombeo, posible reuso de agua pluvial en jardinería, drenaje de diseño especial.
+
+Acabados:
+
+Pisos: Placa o parquet de mármol de muy buena calidad, en porcentaje importado, cantera o loseta cerámica importada, en porcentaje granito negro importado, cemento pulido para recibir alfombra de muy buena calidad, parquet o duela de maderas finas como encino americano o similar.
+
+Recubrimientos: Interior: Yeso con molduras, tapiz ahulado, seda o afelpado, en porcentaje cantera, pastas de resina epóxica, pasta texturizada. Exterior: Fachadas prefabricadas, con pastas de resina epóxica, piedrín natural, en porcentaje cantera, pasta texturizada, materiales de muy buena calidad o importado, ocasionalmente doble fachada o vidrio especial.
+
+Plafón: De yeso con molduras, luz indirecta, en porcentaje metal desplegado y yeso, en porcentaje pastas de resina epóxica, en porcentaje mármol o cerámica decorada. Falso plafón metálico con iluminación y rejillas para aire acondicionado materiales muy buenos importados diseños especiales.
+
+Lambrín: Cintilla de mármol o cerámica, en baños y cocina en su caso, lambrín de maderas finas, lámina de acero inoxidable.
+
+Escaleras: Rampa y escalones de concreto armado, con loseta de cerámica importada, alfombra buena importada, cantera y mármol labrados o madera tropical con porcentaje de maderas finas, postes y pasamanos labrados o con diseño especial.
+
+Azotea: Impermeabilizado de aluminio y plástico, enladrillado o teja de barro o vidriada, pretiles aplanados.
+
+Muebles de Baño: Color de calidad muy buena o de importación. Accesorios, manerales y regaderas de metal calidad muy bueno o importados, lavabo con gabinete de maderas finas, placa de mármol en porcentaje importados y ovalín de porcelana decorada, WC de una pieza.
+
+Cocina: Muebles fijos e integrales de muy buena calidad, cubierta acero inoxidable o forjada de tabique en obra recubierta con azulejo de muy buena calidad, doble tarja, según sea el uso específico de la edificación.
+
+Carpintería: Abundante, consistente en muebles fijos, vitrinas, mostradores y otros, plafones, barandales, lambrines y pisos. Puertas labradas, entableradas de maderas finas tropicales importadas de muy buena calidad.
+
+Herrería y Cerrajería: Ventanería y barandales de aluminio anodizado en perfiles de medianas y grandes dimensiones, portones rejas y protecciones de fierro forjado, cerrajería de materiales importados de buena calidad.
+
+Vidriería: Cristal flotado filtrasol, bronce, reflectasol de 3, 5, 6 ó 9 mm., en porcentaje de gota o rayado, en porcentaje importados, prismáticos, cristal templado en puertas y ventanas. Cancelería: Divisorios de acrílico y perfiles de aluminio anodizado en baños, domos grandes o de medio cañón.
+
+Instalaciones Especiales: Cisterna con bomba o hidroneumático, gas estacionario o natural, canalizaciones para telefonía, sonido ambiental, red informática, aire acondicionado, sistema contra incendio, alarmas, sistema antirrobos, sonido, clima, video portero con circuito cerrado, puertas automáticas, escalera eléctrica o elevadores de calidad muy buena.
+
 QE1
 
 EQUIPAMIENTO ESTACIONAMIENTO BAJA
@@ -6479,9 +6793,11 @@ Los especialistas en valuación inmobiliaria registrados, podrán en cualquier t
 
 Tratándose de valuación de edificaciones, los especialistas en valuación inmobiliaria están obligados a aplicar las tipologías establecidas en el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 78.
 
-Los especialistas en valuación inmobiliaria están obligados a proporcionar al IGECEM, copia de los avalúos catastrales emitidos en papelería oficial, practicados durante el periodo de un mes calendario y de los documentos que acrediten la propiedad o posesión de los inmuebles materia de los avalúos, dentro de los primeros diez días hábiles del mes siguiente al de la fecha de su emisión.
+Los especialistas en valuación inmobiliaria están obligados a remitir al IGECEM por escrito, copia de los avalúos catastrales emitidos en papelería oficial, practicados durante el periodo de un mes calendario y de los documentos que acrediten la propiedad o posesión de los inmuebles materia de los avalúos, dentro de los primeros diez días hábiles del mes siguiente al de la fecha de su emisión. Asimismo, en caso de no haber practicado avalúos, deberán informarlo.
 
 El IGECEM revisará mensualmente los avalúos que practiquen los especialistas en valuación inmobiliaria, a efecto de verificar que fueron elaborados con los datos técnicos requeridos para actualizar el registro alfanumérico y conforme a las políticas, normas, formatos, papelería, metodología y procedimientos establecidos en este Reglamento y en el Manual Catastral y los remitirá a los respectivos ayuntamientos para su revisión, validación y en su caso, la actualización del padrón catastral municipal.
 
@@ -6489,7 +6805,9 @@ El IGECEM revisará mensualmente los avalúos que practiquen los especialistas e
 
 Cuando el catastro municipal detecte alguna inconsistencia en cualquiera de los aspectos indicados en el párrafo anterior que sea considerada como grave, lo informará al IGECEM dentro de los cinco días siguientes contados a partir de la fecha de recepción, a efecto de que se determine lo conducente.
 
-Tratándose de los respaldos de las bases de datos que correspondan a los avalúos practicados, los especialistas en valuación inmobiliaria deberán remitirlos al IGECEM dentro de los diez primeros días hábiles de los meses de enero, abril, julio y octubre de cada año.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Tratándose de los respaldos de la base de datos del sistema desarrollado por el IGECEM para la emisión de avalúos, los especialistas en valuación inmobiliaria deberán remitirlos al IGECEM dentro de los diez primeros días hábiles de los meses de enero, abril, julio y octubre de cada año.
 
 ###### Artículo 79.
 
@@ -6521,9 +6839,11 @@ VIII. Divulgar información confidencial o reservada en términos del LIGECEM.
 
 IX. Utilizar las formas valoradas de papel seguridad con logotipo oficial del IGECEM para imprimir estudios o información diferentes a los avalúos catastrales.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 81.
 
-Cuando a partir de las acciones de revisión enunciadas, se determine que los avalúos no se ajustan a las políticas, normas, formatos, papelería, metodología y procedimientos establecidos en este Reglamento, el IGECEM aplicará las sanciones previstas en el siguiente artículo, conforme a lo establecido en el Código de Procedimientos Administrativos del Estado de México.
+Cuando a partir de las acciones de revisión enunciadas, se determine que los avalúos no se ajustan a las políticas, normas, formatos, papelería, metodología y procedimientos establecidos en este Reglamento, el IGECEM aplicará las sanciones previstas en el siguiente artículo, conforme a lo establecido en el Código de Procedimientos Administrativos del Estado de México; mismas que se aplicarán en un plazo no mayor a diez días posteriores a la fecha de su revisión.
 
 ###### Artículo 82.
 
@@ -6541,7 +6861,9 @@ V. Cancelación del Registro, cuando su conducta se apegue a la indicada en la f
 
 El especialista en valuación inmobiliaria registrado que se le cancele su registro o se suspenda temporalmente, no podrá realizar avalúos catastrales en la entidad a partir de la fecha de cancelación del registro y durante el periodo de suspensión, según sea el caso, sin que esta circunstancia amplíe o modifique la vigencia de su registro.
 
-Cuando algún especialista en valuación inmobiliaria registrado haya sido sancionado en términos de lo dispuesto en la fracción I de este artículo, hasta por tres ocasiones durante el periodo de un año o fracción, le será aplicable la sanción prevista en la fracción II del mismo precepto.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2012)</small>
+
+Cuando algún especialista en valuación inmobiliaria registrado haya sido sancionado en términos de lo dispuesto en la fracción I de este artículo, hasta por dos ocasiones durante el periodo de un año o fracción, le será aplicable la sanción prevista en la fracción II del mismo precepto.
 
 ###### Artículo 83.
 
@@ -6596,3 +6918,9 @@ G.G. 5 DE ENERO DE 2011.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Acuerdo, entrará en vigor el día primero de enero de 2011.
+
+G.G. 5 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo, entrará en vigor el día primero de enero de 2012.
