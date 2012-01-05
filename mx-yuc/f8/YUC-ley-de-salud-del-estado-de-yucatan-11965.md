@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2012-01-03"
+last_updated: "2012-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -155,7 +155,9 @@ IX.- La información relativa a las condiciones, recursos y servicios de salud;
 
 X.- La prestación de los servicios de educación para la salud;
 
-XI.- La prestación de los servicios de orientación y vigilancia en materia de nutrición conforme a los programas que se formulen y desarrollen al respecto;
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+XI. Proporcionar la prestación de los servicios preventivos, así como los concernientes al tratamiento, seguimiento y control de los padecimientos ocasionados por la mala nutrición mediante el desarrollo de una política pública en la materia; para lo cual las dependencias gubernamentales, no gubernamentales, educativas y de investigación deberán contribuir con la Secretaría de Salud para lograr una adecuada vinculación y coordinación de dichos servicios;
 
 XII.- La prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -821,7 +823,9 @@ I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
 II.- La atención de la madre menor de 18 años o de la víctima de violación, incluyendo su orientación, rehabilitación e integración a la familia y a la sociedad;
 
-III.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+III. La atención del niño y la vigilancia de su crecimiento y desarrollo físico e intelectual, incluyendo la promoción de la vacunación oportuna; y,
 
 IV.- La promoción de la integración y del bienestar familiar.
 
@@ -839,7 +843,7 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y en su caso la ayuda alimenticia directa tendente (sic) a mejorar el estado nutricional del grupo materno-infantil; y
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y en su caso la ayuda alimenticia directa tendente a mejorar el estado nutricional del grupo materno-infantil; y
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias ayudas de los menores de cinco años.
 
@@ -1019,7 +1023,7 @@ Las autoridades educativas en coordinación con las de salud, propondrán con la
 
 Corresponde al Estado, sin perjuicio de las atribuciones de las Autoridades Educativas en la materia y en coordinación con estas:
 
-I.- Promover actividades tendentes (sic) a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud;
+I.- Promover actividades tendentes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud;
 
 II.- Apoyar la creación de Centros de Capacitación y Actualización de los Recursos Humanos para la salud;
 
@@ -1885,7 +1889,7 @@ La autoridad sanitaria realizará periódicamente análisis de la potabilidad de
 
 En los municipios que carezcan del sistema de agua potable y alcantarillado, se deberán proteger las fuentes de abastecimientos para prevenir su contaminación conforme a las normas técnicas correspondientes.
 
-Queda prohibido utilizar para el consumo humano, el agua de pozo o aljibe que no se encuentre situado a una distancia conveniente de retretes, alcantarillados, estercoleros o depósitos de desperdicios que puedan contaminarlos.
+Queda prohibido utilizar para el consumo humano, el agua de pozo o algibe que no se encuentre situado a una distancia conveniente de retretes, alcantarillados, estercoleros o depósitos de desperdicios que puedan contaminarlos.
 
 ###### ARTICULO 220.
 
@@ -2249,11 +2253,11 @@ II.- Colocar en lugar visible la licencia o copia certificada de la misma;
 
 III.- Impedir y denunciar actos que pongan en peligro el orden en su interior recurriendo para evitarlos, a la fuerza pública. Lo mismo harán cuando tengan conocimiento o encuentren en el local, a alguna persona que consuma o posea estupefacientes o cualquier otra droga;
 
-IV.- Contar con vigilancia debidamente capacitada, cuando se trate de: centro nocturno, cantinas, discotecas, cabaré (sic), videobar y similares;
+IV.- Contar con vigilancia debidamente capacitada, cuando se trate de: centro nocturno, cantinas, discotecas, cabaré, videobar y similares;
 
 V.- Permitir la revisión de sus locales, a los inspectores así como presentarles los documentos indicados en la fracción II de este mismo artículo y aquellos que el Ayuntamiento determine por medio de sus reglamentos; los que deberán estar en el mismo establecimiento;
 
-VI.- Colocar en el exterior y en lugar visible, avisos en los que se prohíba la entrada a menores de 18 años de edad, cuando se trate de: centro nocturno, cantinas, discotecas, cabaré (sic), videobar y similares, y
+VI.- Colocar en el exterior y en lugar visible, avisos en los que se prohíba la entrada a menores de 18 años de edad, cuando se trate de: centro nocturno, cantinas, discotecas, cabaré, videobar y similares, y
 
 VII.- Cumplir con las demás disposiciones establecidas en la presente ley y reglamentos.
 
@@ -2269,7 +2273,7 @@ II.- Vender bebidas alcohólicas que no cumplan con las normas de calidad expedi
 
 III.- Venderlas fuera del establecimiento;
 
-IV.- Vender o permitir su consumo a los menores de dieciocho años de edad; así como permitirles la entrada a centros nocturnos, cantinas, discotecas, cabaré (sic), videobar y similares; salvo tratándose de eventos en que no se vendan y consuman bebidas de contenido alcohólico;
+IV.- Vender o permitir su consumo a los menores de dieciocho años de edad; así como permitirles la entrada a centros nocturnos, cantinas, discotecas, cabaré, videobar y similares; salvo tratándose de eventos en que no se vendan y consuman bebidas de contenido alcohólico;
 
 V.- Obsequiar o venderlas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública, cuando estén en servicio o porten uniforme, así como a los inspectores municipales, y
 
@@ -2443,7 +2447,7 @@ I.- Alimento, cualquier sustancia o producto sólido o semisólido, natural o tr
 
 II.- Bebidas no alcohólicas, cualquier líquido natural o transformado que proporcione al organismo elementos para su nutrición, y
 
-III.- Bebidas alcohólicas, aquéllas que contengan alcohol etílico en una proporción mayor del dos por ciento en volumen.
+III.- Bebidas alcohólicas, aquellas que contengan alcohol etílico en una proporción mayor del dos por ciento en volumen.
 
 > <small>(ADICIONADO, D.O. 9 DE JULIO DE 2007)</small>
 
@@ -2585,7 +2589,7 @@ IV.- El resultado del análisis oficial se notificará en forma personal o por c
 
 V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles, a partir de la notificación del análisis oficial.
 
-Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
+Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, este quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
 
 VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis practicado a la muestra, que hubiere sido dejada en poder de la persona con quien se entendió la diligencia del muestreo, así como a la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme;
 
@@ -2593,7 +2597,7 @@ VII.- La impugnación presentada en términos de las fracciones anteriores dará
 
 VIII.- El resultado del análisis de la muestra testigo, se notificará en forma personal o por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que se trate y en caso de que el producto reúna los requisitos y especificaciones requeridas, la Autoridad Sanitaria procederá a otorgar la autorización que se hubiere solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda. Si el resultado a que se refiere la fracción anterior, comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar la que se hubieren (sic) ejecutado, a imponer las sanciones que correspondan y negar o revocar, en su caso, la autorización de que se trate.
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda se correrá traslado al titular mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
+Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda se correrá traslado al titular mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como del resultado del análisis oficial, a efecto de que este tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
 
 En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
@@ -3130,3 +3134,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Se instruye al Poder Ejecutivo del Estado de Yucatán a que dentro de los 120 días posteriores a la publicación de este Decreto en el Diario Oficial del Gobierno del Estado, actualice y armonice las disposiciones reglamentarias correspondientes a las establecidas de (sic) este Decreto.
+
+D.O. 5 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
