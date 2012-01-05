@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2007-04-23"
+last_updated: "2012-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE YUCATAN
 
-LEY DE EDUCACION DEL ESTADO DE YUCATAN
+LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE ENERO DE 2012.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -135,9 +135,11 @@ IV.- Contribuirá a la mejor convivencia humana, tanto por los elementos que apo
 
 V.- En términos de la legislación correspondiente se garantizará que la población indígena tenga acceso a la educación básica bilingüe, cultural, e intercultural y que en la escuela se respete la dignidad e identidad de las personas, independientemente de su lengua. Asimismo en los niveles de educación media superior y superior se fomentará la interculturalidad, el multilingüismo y el respeto a la diversidad de los derechos lingüísticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 12.
 
-La educación que impartan las instituciones públicas, así como las particulares con autorización o con reconocimiento de validez oficial de estudios, tendrá, además de los fines establecidos en el segundo párrafo del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
+La educación que impartan las instituciones públicas, así como las particulares con autorización o con reconocimiento de validez oficial de estudios, tendrá, además de los establecidos en el segundo párrafo del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, los siguientes fines:
 
 I.- Fomentará el desarrollo integral de los educandos dentro de la convivencia social, para que ejerzan con plenitud su capacidad humana;
 
@@ -161,7 +163,9 @@ X.- Promoverá programas que estimulen la investigación y la innovación cient�
 
 XI.- Impulsará la creatividad artística y el conocimiento de la cultura regional, nacional y universal; así como de los bienes y valores que constituyen el acervo cultural de nuestro estado, y propiciará su divulgación en todos los ámbitos sociales y fomentará la educación en la cultura de la paz y los valores personales, universales, cívicos y nacionales;
 
-XII.- Estimulará la educación física y la práctica del deporte; así como hábitos de vida sana y buena alimentación;
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+XII. Fomentará la educación en materia de nutrición y estimulará la educación física y la práctica del deporte, así como los hábitos de vida sana y de alimentación con alto valor nutricional;
 
 XIII.- Fomentará la integración e interacción de los diferentes grupos que conforman la sociedad, a través de una educación congruente con las características propias de nuestra región;
 
@@ -201,9 +205,17 @@ II.- Impulsar el desarrollo de programas educativos a nivel municipal, y estable
 
 III.- Propiciar el aprovechamiento integral de los recursos humanos, materiales y financieros destinados a la prestación del servicio educativo, y adoptar las medidas necesarias para tal objeto;
 
-IV.- Mantener una relación estrecha con las entidades descentralizadas, y autónomas para que sus planes de desarrollo y sus programas de trabajo se integren adecuadamente al Sistema Educativo Estatal, y
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
-V.- Mantener relación con las instituciones particulares para optimizar su contribución al desarrollo de la Entidad y de sus servicios educativos.
+IV.- Mantener una relación estrecha con las entidades descentralizadas, y autónomas para que sus planes de desarrollo y sus programas de trabajo se integren adecuadamente al Sistema Educativo Estatal;
+
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+V.- Mantener relación con las instituciones particulares para optimizar su contribución al desarrollo de la Entidad y de sus servicios educativos, y
+
+> <small>(ADICIONADA, D.O. 5 DE ENERO DE 2012)</small>
+
+VI.- Coordinarse con la Secretaría de Salud para implementar políticas públicas que fomenten en los educandos y sus familias, el consumo de alimentos con alto valor nutricional, la práctica de ejercicio saludable así como también establecer lineamientos generales para regular y en su caso, evitar la venta o consumo de alimentos y bebidas con bajo o nulo valor nutricional en las tiendas escolares y, en general en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas, procurando coadyuvar a una dieta balanceada y con alto valor nutricional para los educandos.
 
 ### CAPÍTULO II. De las Atribuciones de los Municipios
 
@@ -401,9 +413,13 @@ VII.- Otorgar estímulos y reconocimientos a los profesores que se destaquen en 
 
 Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de profesores, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel, y sus funciones son de carácter técnico, pedagógico y administrativo.
 
+> <small>(REFORMADO, D.O. 5 DE ENERO DE 2012)</small>
+
 ###### Artículo 37.
 
-Es responsabilidad de la Secretaría de Educación, a través de las autoridades educativas en los centros escolares, vigilar que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien una sana convivencia, incluyendo aquellas en materia ambiental y nutricional.
+Es responsabilidad de la Secretaría de Educación, a través de las autoridades educativas de los centros escolares, vigilar que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien la sana convivencia, el respeto al medio ambiente y la alimentación con alto valor nutricional.
+
+Asimismo, la Secretaría de Educación deberá Implementar, en coordinación con la Secretaría de Salud, los lineamientos generales para la venta y distribución de alimentos y bebidas dentro de las escuelas de educación básica.
 
 ###### Artículo 38.
 
@@ -537,9 +553,17 @@ I.- Coordinar su vinculación con la educación preescolar;
 
 II.- Apoyar el incremento del número de centros de desarrollo infantil para atender la demanda de las madres trabajadoras;
 
-III.- Procurar que el personal adscrito a las instituciones de educación inicial tenga el perfil profesional correspondiente a la función que desempeña, establecido por la autoridad educativa, y
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
-IV.- Desarrollar programas de orientación y apoyo para los padres o tutores, a fin de que la educación que den a sus hijos o pupilos en el hogar puedan aplicar principios y métodos de la educación inicial.
+III.- Procurar que el personal adscrito a las instituciones de educación inicial tenga el perfil profesional correspondiente a la función que desempeña, establecido por la autoridad educativa;
+
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+IV.- Desarrollar programas de orientación y apoyo para los padres o tutores, a fin de que la educación que den a sus hijos o pupilos en el hogar puedan aplicar principios y métodos de la educación inicial, y
+
+> <small>(ADICIONADA, D.O. 5 DE ENERO DE 2012)</small>
+
+V.- Ofrecer servicios médicos, psicológicos, pedagógicos, de trabajo social y de nutrición.
 
 #### Sección Tercera. De la Educación Básica y sus Niveles
 
@@ -893,11 +917,33 @@ En particular, la estructura y forma de operación de estos consejos serán senc
 
 Además de los contenidos en la Ley General de Educación, los consejos de participación social tendrán los siguientes fines y atribuciones:
 
-I.- Participar en la formulación, realización y evaluación del proyecto escolar o proyecto educativo y del Programa Estatal de Educación, a fin de que las actividades del consejo se orienten a apoyar el logro de los objetivos y metas de la educación. Se dará especial importancia a las acciones orientadas a lograr que todos los educandos aprendan, mediante la reducción de la deserción, el ausentismo, la reprobación, la desnutrición y las adicciones, a mejorar los aspectos de protección, seguridad, respeto y convivencia;
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
-II.- Conocer los resultados de las evaluaciones del sector educativo y en particular las de su ámbito de actividad que se realicen según lo estipulado por la Ley General de Educación y esta ley, y proponer a las autoridades correspondientes medidas que tiendan a corregir las deficiencias detectadas, y
+I.- Participar en la formulación, realización y evaluación del proyecto escolar o proyecto educativo y del Programa Estatal de Educación, a fin de apoyar el logro de los objetivos y metas de la educación. Se dará especial importancia las acciones orientadas a lograr que los educandos aprendan a valorar los aspectos de salud, protección, seguridad, respeto y convivencia, a través de la reducción de:
 
-III.- Recibir observaciones y sugerencias de educandos y padres de familia o tutores para mejorar la prestación del servicio y garantizar el respeto a los derechos de los educandos, y gestionar una respuesta adecuada por parte de las autoridades.
+a) Mala Nutrición;
+
+b) Adicciones;
+
+c) Ausentismo y deserción; y,
+
+d) Reprobación.
+
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+II.- Conocer los resultados de las evaluaciones del sector educativo y en particular las de su ámbito de actividad que se realicen según lo estipulado por la Ley General de Educación y esta ley, y proponer a las autoridades correspondientes medidas que tiendan a corregir las deficiencias detectadas;
+
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+III.- Recibir observaciones y sugerencias de educandos y padres de familia o tutores para mejorar la prestación del servicio y garantizar el respeto a los derechos de los educandos, y gestionar una respuesta adecuada por parte de las autoridades;
+
+> <small>(ADICIONADA, D.O. 5 DE ENERO DE 2012)</small>
+
+IV.- Coadyuvar con las autoridades escolares en el fomento de una alimentación correcta y en el diseño de programas y planes de alimentación saludable en el Estado, a través de las Secretarías de Salud y Educación y el Sistema de Desarrollo Integral de la Familia del Estado de Yucatán en su caso. Asimismo, deberán fomentar la actividad física intraescolar así como la práctica de ejercicio y deporte extraescolar en coordinación con las autoridades deportivas estatales y municipales, y
+
+> <small>(ADICIONADA, D.O. 5 DE ENERO DE 2012)</small>
+
+V.- Proponer y supervisar que los alimentos que se vendan al interior de los centros educativos cuenten con un alto valor nutricional.
 
 ###### Artículo 99.
 
@@ -947,9 +993,19 @@ II.- Colaborar en el mejoramiento de la comunidad educativa y de los planteles;
 
 III.- Supervisar la aplicación de cooperaciones en numerario así como de bienes y servicios para beneficio de la comunidad escolar;
 
-IV.- Proponer las medidas que estimen convenientes para alcanzar los objetivos de la educación, y
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
-V.- Informar oportunamente a las autoridades educativas de cualquier irregularidad que afecte a los educandos.
+IV.- Proponer las medidas que estimen convenientes para alcanzar los objetivos de la educación;
+
+> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+
+V.-Informar oportunamente a las autoridades educativas de cualquier irregularidad que afecte a los educandos, y
+
+> <small>(ADICIONADA, D.O. 5 DE ENERO DE 2012)</small>
+
+VI.- Realizar o permitir publicidad dentro del plantel escolar que fomente la cultura de una alimentación correcta, promoviendo y vigilándola oferta de alimentos con bajo valor calórico y alto valor nutricional dentro y en las puertas de las escuelas.
+
+En el caso de venta de alimentos y bebidas, vigilarán que los mismos contribuyan a una alimentación correcta, de conformidad con los lineamientos que emita la Secretaría de Educación en coordinación con la Secretaría de Salud del Estado.
 
 ###### Artículo 103.
 
@@ -1068,3 +1124,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RÚBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 5 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el 1 de enero del año 2012, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+ARTÍCULO· SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
