@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2011-12-23"
+last_updated: "2012-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -205,27 +205,49 @@ VII.- Establecimientos de hospedaje;
 
 VIII.- Establecimientos dedicados a la prestación de servicios estéticos, como peluquerías, salas de belleza y de masaje.
 
-IX.- Centros de rehabilitación y reintegración de personas con problemas de alcoholismo y drogadicción;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-X.- Centros de Readaptación Social así como aquellos en que se atienda a los menores infractores;
+IX.- Los establecimientos estrictamente dedicados a la práctica de la medicina estética, en donde no se practique intervenciones quirúrgicas;
 
-XI.- La venta de alimentos en la vía pública;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-XII.- Los responsables de la operación y funcionamiento de fuentes de radicación de uso médico, sus auxiliares técnicos y los asesores especializados en seguridad radiológica;
+X.- Centros de rehabilitación y reintegración de personas con problemas de alcoholismo y drogadicción;
 
-XIII.- Mercados y centros de abasto:
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-XIV.- Construcciones para centros de reunión pública, comercios y esparcimiento;
+XI.- Centros de Readaptación Social así como aquellos en que se atienda a los menores infractores;
 
-XV.- Rastros;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-XVI.- Transporte público de carga de productos alimenticios;
+XII.- La venta de alimentos en la vía pública;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-XVII.- Los centros de desarrollo infantil y Estancias Infantiles Familiares; y
+XIII.- Los responsables de la operación y funcionamiento de fuentes de radicación de uso médico, sus auxiliares técnicos y los asesores especializados en seguridad radiológica;
 
-XVIII.- Los demás establecimientos y servicios similares y aquellos que determinen otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XIV.- Mercados y centros de abasto;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XV.- Construcciones para centros de reunión pública, comercios y esparcimiento;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XVI.- Rastros;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XVII.- Transporte público de carga de productos alimenticios;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XVIII.- Los centros de desarrollo infantil y Estancias Infantiles Familiares; y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XIX.- Los demás establecimientos y servicios similares y aquellos que determinen otras disposiciones aplicables.
 
 ### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL DE SALUD
 
@@ -1299,7 +1321,9 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS ESTETICOS COMO PELUQUERIAS, SALAS DE BELLEZA O MASAJE
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1541,17 +1565,31 @@ Para la construcción o acondicionamiento de este tipo de establecimientos se re
 
 La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 142.
 
-Para los efectos de esta Ley, se entiende por establecimientos de belleza, los dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas, manos y pies; la aplicación de tratamientos capilares de belleza o faciales, así como aquellos que se dediquen a proporcionar masajes, terapias físicocorporales y similares.
+Se entiende por tratamientos del área de Medicina Estética, como aquellos actos que no sean quirúrgicos y que no requieren de anestesia general ni regional y que tienden a mejorar el aspecto y la condición de salud de los pacientes; los cuales se conforman por terapias médicas y cosméticas que mejoran la apariencia, la salud y la autoestima del paciente, enmarcándose en maniobras terapéuticas diferentes al campo invasivo quirúrgico propio de la cirugía plástica y estética, y de otras ramas de la medicina.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 143.
 
-Se consideran procedimientos de embellecimiento del cuerpo humano mediante masajes faciales o terapias físicocorporales y similares, así como aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de sustancias, productos o preparados de uso externo, los destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en donde no haya intervención quirúrgica.
+Los profesionales de la medicina que presten los tratamientos referidos en el artículo anterior, deberán contar con el Título que ampare sus estudios como se establece en el Artículo 11 en sus fracciones LXXXI, CVII y CVIII de la Ley de Ejercicio de las Profesiones para el Estado, además de contar con la cédula profesional respectiva y con la documentación académica que compruebe su capacitación científica en Medicina Estética en diversas instituciones debidamente reconocidas por la autoridad en materia de educación superior o posgrado, de igual forma, deberán de ser autorizados por las autoridades sanitarias del Estado de Baja California en los términos del Capítulo Décimo Primero de la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 144.
 
-El funcionamiento y personal de los establecimientos señalados en esta sección, deberán apegarse a lo establecido en esta Ley y demás disposiciones aplicables.
+Los procedimientos de embellecimiento físico del cuerpo humano son aquellos que se utilizan para modificar las características externas y superficiales, mediante la aplicación de substancias, preparados de uso externo, productos cosméticos de uso tópico, así como utensilios, herramientas, equipo y aparatología sin implicaciones médicas, en su caso, y que son destinados a incrementar la belleza del cuerpo humano o a mejorar su apariencia física y en los que no haya intervención quirúrgica o la aplicación de cualquier procedimiento de atención médica.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+ARTÍCULO 144 BIS.- Los establecimientos en los que se lleven a cabo los procedimientos reseñados en el artículo anterior, tales como peluquerías, salones de belleza y masaje, estéticas, centro de arreglo estético de uñas de manos y pies, de tratamientos capilares, faciales y corporales de belleza al público y similares, que no requieran de intervención médica en cualquiera de sus prácticas sólo darán aviso de su funcionamiento a las autoridades sanitarias competentes en el estado y quedaran sujetas al reglamento correspondiente al municipio en el que se localicen.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, tienen prohibido realizar en sus instalaciones cualquier tipo de tratamientos o procedimientos invasivos como implantaciones, infiltraciones de sustancias o empleo de aparatos relacionados con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara o del cuerpo humano que requieran de intervención médica.
 
 ###### ARTÍCULO 145.
 
@@ -2304,3 +2342,7 @@ SEGUNDO.- El Titular del Poder Ejecutivo comunicará al sector Salud, y difundir
 P.O. 23 DE DICIEMBRE DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
