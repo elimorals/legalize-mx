@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-planeacion-y-84367"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-16"
-last_updated: "2011-12-16"
+last_updated: "2012-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE ENERO DE 2012.</small>
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de diciembre de 2011.
 
@@ -79,15 +79,15 @@ XII. Secretario: El titular de la Secretaría de Planeación y Finanzas.
 
 XIII. Unidad Administrativa: La Oficina del Titular, Subsecretarías, Procuraduría Fiscal, Subprocuradurías, Direcciones, Subdirecciones, Departamentos, Recaudaciones, y Coordinaciones, según corresponda.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 4.
 
 Para el despacho de los asuntos y el ejercicio de las atribuciones de su competencia, la Secretaría contará con las siguientes Unidades Administrativas:
 
 I.- Oficina del Titular.
 
-a) Dirección de Administración;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+c) (sic) Dirección de Administración;
 
 1.- Departamento de Recursos Humanos;
 
@@ -95,15 +95,23 @@ a) Dirección de Administración;
 
 3.- Departamento de Programación y Control Presupuestal.
 
-b) Centro de Capacitación de Estudios Fiscales y Finanzas Públicas;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+d) (sic) Centro de Capacitación de Estudios Fiscales y Finanzas Públicas.
 
 II.- Subsecretaría Planeación (sic) y Presupuesto.
 
-a) Dirección de Planeación y Evaluación.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-b) Dirección de Presupuesto.
+f) (sic) Dirección de Planeación y Evaluación.
 
-c) Dirección de Inversión Pública.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+g) (sic) Dirección de Presupuesto.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+h) (sic) Dirección de Inversión Pública.
 
 1.- Departamento de Programación y Presupuesto de la Inversión Pública.
 
@@ -111,13 +119,19 @@ c) Dirección de Inversión Pública.
 
 3.- Departamento de Evaluación y Monitoreo de la Inversión Pública.
 
-d) Dirección de Organización y Desarrollo Institucional.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-e) Dirección de Seguimiento al Sector Paraestatal.
+i) (sic) Dirección de Organización y Desarrollo Institucional.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+j) (sic) Dirección de Seguimiento al Sector Paraestatal.
 
 III.- Subsecretaría de Finanzas.
 
-a) Dirección de Ingresos.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+g) (sic) Dirección de Ingresos.
 
 1.- Departamento de Normatividad, Glosa y Participaciones.
 
@@ -131,7 +145,9 @@ a) Dirección de Ingresos.
 
 6.- Recaudaciones de Rentas del Estado en Ensenada, Mexicali, Tecate, Tijuana, y Playas de Rosarito.
 
-b) Dirección de Egresos.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+h) (sic) Dirección de Egresos.
 
 1.- Departamento de Pagaduría.
 
@@ -145,9 +161,13 @@ b) Dirección de Egresos.
 
 6.- Coordinación de Egresos Ensenada.
 
-c) Dirección de Contabilidad Gubernamental.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-d) Dirección de Auditoría Fiscal.
+i) (sic) Dirección de Contabilidad Gubernamental.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+j) (sic) Dirección de Auditoría Fiscal.
 
 1.- Subdirección de Fiscalización Estatal.
 
@@ -155,9 +175,11 @@ d) Dirección de Auditoría Fiscal.
 
 1.2- Departamento de Auditorías de Visitas Domiciliarias.
 
-1.3- Departamento de Auditorías de Gabinete.
+1.3.- Departamento de Auditorías de Gabinete.
 
-2.- Subdirección de Fiscalización de Tijuana (comprende Playas de Rosarito, Tecate y Tijuana).
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+2.- Subdirección de Fiscalización de Tijuana (comprende Tecate y Tijuana).
 
 2.1.- Departamento de Programación de Auditorías.
 
@@ -165,7 +187,9 @@ d) Dirección de Auditoría Fiscal.
 
 2.3.- Departamento de Auditorías de Gabinete.
 
-3.- Subdirección de Fiscalización de Ensenada.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+3.- Subdirección de Fiscalización de Ensenada (comprende Playas de Rosarito y Ensenada).
 
 3.1.- Departamento de Programación de Auditorías.
 
@@ -173,37 +197,57 @@ d) Dirección de Auditoría Fiscal.
 
 3.3.- Departamento de Auditorías de Gabinete.
 
-e) Dirección de Auditoría Interna.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-f) Dirección de Verificación Aduanera.
+k) (sic) Dirección de Auditoría Interna.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+l) (sic) Dirección de Verificación Aduanera.
 
 IV.- Subsecretaría de Innovación y Modernización Tecnológica Gubernamental.
 
-a) Dirección de Innovación Gubernamental.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+e) (sic) Dirección de Innovación Gubernamental.
 
 1.- Departamento de Procesos y Sistemas.
 
 2.- Departamento de Servicios de Operación.
 
-b) Dirección de Modernización Tecnológica.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+f) (sic) Dirección de Modernización Tecnológica.
 
 1.- Departamento de Gobierno Electrónico.
 
 2.- Departamento de Arquitectura Tecnológica.
 
-c) Coordinación de Innovación y Modernización Tijuana (comprende Tijuana, Playas de Rosarito y Tecate).
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-d) Coordinación de Innovación y Modernización Ensenada.
+g) (sic) Coordinación de Innovación y Modernización Tijuana (comprende Tijuana, Playas de Rosarito y Tecate).
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+h) (sic) Coordinación de Innovación y Modernización Ensenada.
 
 V.- Procuraduría Fiscal.
 
-a) Subprocuraduría de Legislación y Consulta.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-b) Subprocuraduría de lo Contencioso.
+e) (sic) Subprocuraduría de Legislación y Consulta.
 
-c) Subprocuraduría de Procedimientos Fiscales y de Fianzas.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-d) Subprocuraduría Fiscal en Tijuana.
+f) (sic) Subprocuraduría de lo Contencioso.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+g) (sic) Subprocuraduría de Procedimientos Fiscales y de Fianzas.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+h) (sic) Subprocuraduría Fiscal en Tijuana.
 
 ###### ARTÍCULO 5.
 
@@ -1247,8 +1291,6 @@ Para el cumplimiento de sus atribuciones, las Recaudaciones de Rentas del Estado
 
 Las Recaudaciones de Rentas del Estado podrán contar con oficinas o módulos para la realización de trámites y recepción de pagos, las cuales dependerán directamente del Recaudador de Rentas, o en caso de que éste lo determine del Subrecaudador Auxiliar que asigne para ello.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 47.
 
 Compete a la Dirección de Egresos, por conducto de su titular, el ejercicio de las siguientes atribuciones:
@@ -1259,33 +1301,61 @@ II. Revisar el egreso y su pago, así como el cumplimiento de los compromisos de
 
 III. Presentar al Subsecretario el reporte de flujo de efectivo para la toma de decisiones en base a la disponibilidad financiera;
 
-Supervisar y vigilar que se haga efectiva la recuperación de los adeudos exigibles entre el Poder Ejecutivo y las Entidades Paraestatales, Gobiernos Municipales y Entidades Paramunicipales, derivados de los convenios de financiamiento temporal y de entrega de anticipos de participaciones, en los términos establecidos en dichos instrumentos;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-IV. Supervisar la distribución y pago de nóminas;
+IV. Supervisar y vigilar que se haga efectiva la recuperación de los adeudos exigibles entre el Poder Ejecutivo y las Entidades Paraestatales, Gobiernos Municipales y Entidades Paramunicipales, derivados de los convenios de financiamiento temporal y de entrega de anticipos de participaciones, en los términos establecidos en dichos instrumentos;
 
-V. Vigilar el correcto funcionamiento del Archivo General de la Secretaría, así como el resguardo de la documentación comprobatoria del gasto público, subsidios, transferencias y deuda pública;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-VI. Expedir copias certificadas de la documentación que se encuentre bajo su custodia en el Archivo General de la Secretaría, siendo depositario de fe pública para el efecto;
+V. Supervisar la distribución y pago de nóminas;
 
-VII. Elaborar y mantener a disposición del Órgano de Fiscalización Superior del Estado el libramiento u orden de pago, del total de las erogaciones efectuadas por el Poder Ejecutivo, en los términos establecidos en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, así como turnarlo para las firmas y autorizaciones que correspondan;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-VIII. Proponer al Subsecretario la aplicación de las medidas necesarias para crear e incrementar las reservas financieras, que sean suficientes para cubrir las obligaciones presupuestales a cargo del erario público estatal;
+VI. Vigilar el correcto funcionamiento del Archivo General de la Secretaría, así como el resguardo de la documentación comprobatoria del gasto público, subsidios, transferencias y deuda pública;
 
-IX. Vigilar el cumplimiento oportuno de las obligaciones contraídas por el Poder Ejecutivo en relación con las operaciones de financiamiento que celebre;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-X. Vigilar y supervisar la custodia de cheques librados no entregados y documentos que constituyen valores;
+VII. Expedir copias certificadas de la documentación que se encuentre bajo su custodia en el Archivo General de la Secretaría, siendo depositario de fe pública para el efecto;
 
-XI. Supervisar que se efectúen los descuentos y retenciones que legalmente procedan de la nómina, de acuerdo a las solicitudes de las autoridades competentes;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-XII. Firmar las constancias de percepciones y retenciones anuales de los trabajadores del Poder Ejecutivo, para los efectos fiscales que correspondan;
+VIII. Elaborar y mantener a disposición del Órgano de Fiscalización Superior del Estado el libramiento u orden de pago, del total de las erogaciones efectuadas por el Poder Ejecutivo, en los términos establecidos en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, así como turnarlo para las firmas y autorizaciones que correspondan;
 
-XIII. Proponer al Subsecretario proyectos de sistemas, procedimientos y manuales relacionados con el control del gasto público del Poder Ejecutivo;
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-XIV. Validar el correcto pago por concepto de ejecución de obra pública, previamente autorizados (sic) por la Dirección de Inversión Pública;
+IX. Proponer al Subsecretario la aplicación de las medidas necesarias para crear e incrementar las reservas financieras, que sean suficientes para cubrir las obligaciones presupuestales a cargo del erario público estatal;
 
-XV. Firmar las declaraciones, avisos y demás documentación fiscal que deba presentarse por parte del Poder Ejecutivo, conforme a las disposiciones legales aplicables, y enterar el pago que corresponda a las mismas, y
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-XVI. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Subsecretario o el Secretario.
+X. Vigilar el cumplimiento oportuno de las obligaciones contraídas por el Poder Ejecutivo en relación con las operaciones de financiamiento que celebre;
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XI. Vigilar y supervisar la custodia de cheques librados no entregados y documentos que constituyen valores;
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XII. Supervisar que se efectúen los descuentos y retenciones que legalmente procedan de la nómina, de acuerdo a las solicitudes de las autoridades competentes;
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XIII. Firmar las constancias de percepciones y retenciones anuales de los trabajadores del Poder Ejecutivo, para los efectos fiscales que correspondan;
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XIV. Proponer al Subsecretario proyectos de sistemas, procedimientos y manuales relacionados con el control del gasto público del Poder Ejecutivo;
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XV. Validar el correcto pago por concepto de ejecución de obra pública, previamente autorizados por la Dirección de Inversión Pública;
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XVI. Firmar las declaraciones, avisos y demás documentación fiscal que deba presentarse por parte del Poder Ejecutivo, conforme a las disposiciones legales aplicables, y enterar el pago que corresponda a las mismas, y
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XVII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Subsecretario o el Secretario.
 
 ###### ARTÍCULO 48.
 
@@ -1371,9 +1441,9 @@ VII. Atender y dar seguimiento a las solicitudes de información que requieran l
 
 VIII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Director.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-ARTÍCULO 51 (SIC).- Compete al Archivo General de la Secretaría, por consulto de su titular, el ejercicio de las siguientes atribuciones:
+ARTÍCULO 51 BIS.- Compete al Archivo General de la Secretaría, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
 I. Recibir de la Dirección de Egresos y de las Unidades Administrativas de la Secretaría, la documentación contable y financiera del Poder Ejecutivo;
 
@@ -1507,9 +1577,9 @@ XXVII. Solicitar a las entidades e instituciones respectivas, la ejecución o ap
 
 XXVIII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o les encomiende el Subsecretario de Finanzas o el Secretario.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-ARTÍCULO 54 (SIC).- Quedan adscritas a la Dirección de Auditoría Fiscal las siguientes Unidades Administrativas:
+ARTÍCULO 54 BIS.- Quedan adscritas a la Dirección de Auditoría Fiscal las siguientes Unidades Administrativas:
 
 I. Subdirección de Fiscalización Estatal.
 
@@ -1757,8 +1827,6 @@ XX. Elaborar y rendir al Director de Auditoría Fiscal, un informe de las activi
 
 XXI. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Director o Subdirector respectivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 60.
 
 Compete a la Dirección de Auditoría Interna, por conducto de su titular, el ejercicio de las siguientes atribuciones:
@@ -1807,9 +1875,13 @@ XXI. Recibir y dar seguimiento a las quejas contra los servidores públicos adsc
 
 XXII. Llevar a cabo investigaciones o auditorías respecto a las conductas de los servidores públicos que puedan constituir responsabilidades administrativas y hacerlo del conocimiento del Secretario para que en su caso se inicie el procedimiento administrativo de responsabilidad.
 
-XXII. Apoyar al Secretario para la aplicación y seguimiento de las sanciones que por responsabilidades corresponda a los servidores públicos de la Secretaría.
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
 
-XXIII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Subsecretario respectivo o el Secretario.
+XXIII. Apoyar al Secretario para la aplicación y seguimiento de las sanciones que por responsabilidades corresponda a los servidores públicos de la Secretaría, y
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2012)</small>
+
+XXIV. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende el Subsecretario respectivo o el Secretario.
 
 ###### ARTÍCULO 61.
 
