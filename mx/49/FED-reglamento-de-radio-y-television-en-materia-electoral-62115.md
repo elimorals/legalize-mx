@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-radio-y-television-en-materia-electoral-62115"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2011-11-03"
+last_updated: "2012-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2008-07-10"
 ---
 # REGLAMENTO DE RADIO Y TELEVISION EN MATERIA ELECTORAL -REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
 
-REGLAMENTO DE ACCESO A RADIO Y TELEVISION EN MATERIA ELECTORAL
+REGLAMENTO DE ACCESO A RADIO Y TELEVISIÓN EN MATERIA ELECTORAL
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS POR EL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2011, SE MODIFICO DE FORMA SUSTANCIAL EL REGLAMENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -591,7 +591,9 @@ b) El 70 por ciento restante, en proporción al porcentaje de votos obtenido por
 
 4. El tiempo sobrante de la asignación podrá ser optimizado, en la medida y hasta que dicho sobrante permita incrementar el número de mensajes de forma igualitaria a todos los partidos o coaliciones contendientes. La asignación del resultado de la optimización deberá aplicarse al porcentaje igualitario a que tienen derecho los partidos políticos.
 
-5. Si por cualquier causa un partido político o coalición, sus militantes y precandidatos a cargos de elección popular debidamente registrados por cada partido no realizan actos de precampaña electoral, los tiempos a que tengan derecho serán utilizados para la difusión de mensajes genéricos del partido político de que se trate.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2012)</small>
+
+5. Si por cualquier causa un partido político o coalición, sus militantes y precandidatos a cargos de elección popular debidamente registrados por cada partido no realizan actos de precampaña electoral, los tiempos a que tengan derecho serán utilizados para la difusión de mensajes del partido político de que se trate, en los términos que establezca la ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
@@ -967,7 +969,9 @@ De la entrega de órdenes de transmisión y materiales
 
 2. Durante los periodos ordinarios, las órdenes de transmisión y los materiales serán entregados o puestos a disposición, según sea el caso, a los concesionarios y permisionarios al menos 5 días hábiles previos al inicio de su transmisión.
 
-3. Desde el inicio de la precampaña y hasta el día de la jornada electoral, las órdenes de transmisión y los materiales serán entregados o puestos a disposición, según sea el caso, a los concesionarios y permisionarios al menos 3 días hábiles previos al inicio de su transmisión. En los casos en que el concesionario o permisionario tenga su domicilio legal en una entidad distinta a aquella en que operen las emisoras respectivas, contará con 1 día natural adicional para iniciar las transmisiones correspondientes a la pauta de que se trate.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2012)</small>
+
+3. Desde el inicio de la precampaña y hasta el día de la jornada electoral tomando en cuenta que todos los días y horas son hábiles, las órdenes de transmisión y los materiales serán entregados o puestos a disposición, según sea el caso, a los concesionarios y permisionarios al menos 3 días previos al inicio de su transmisión. En los casos en que el concesionario o permisionario tenga su domicilio en una entidad distinta a aquella en que operen las emisoras respectivas, contará con 1 día adicional para iniciar las transmisiones correspondientes a la pauta de que se trate.
 
 4. En todo momento, los concesionarios y permisionarios podrán optar por alguno de estos esquemas para la recepción de órdenes de transmisión y materiales: entrega electrónica, entrega en el domicilio legal o recepción satelital. Para lo anterior, deberán solicitarlo formalmente a la Dirección Ejecutiva o Junta Local de que se trate. En su caso, la Dirección Ejecutiva autorizará mediante oficio, el esquema de recepción de órdenes de transmisión y materiales y determinará la fecha a partir de la cual será vigente la modificación.
 
@@ -997,7 +1001,9 @@ De la entrega de materiales por parte de partidos políticos, coaliciones y auto
 
 3. La Dirección Ejecutiva revisará que los materiales entregados por los partidos políticos y autoridades electorales tengan la duración correcta y que cumplan las especificaciones técnicas a que se refiere el artículo 37 del Reglamento. En caso de que los materiales incumplan dichas especificaciones, su duración exceda o sea menor al tiempo correspondiente, la Dirección Ejecutiva lo hará del conocimiento de sus autores, a fin de que éstos procedan a realizar las correcciones o adecuaciones correspondientes.
 
-4. Para efecto de garantizar la prerrogativa de acceso a radio y televisión de los partidos políticos, ante cualquier eventualidad técnica, material o jurídica, éstos deberán entregar al Instituto un material genérico de radio y dos de televisión, con duración de 5 minutos, 20 y 30 segundos respectivamente, dentro de los 25 días posteriores al inicio de vigencia del Reglamento. Estos materiales podrán ser actualizados en cualquier momento por los partidos políticos.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2012)</small>
+
+4. Para efecto de garantizar la prerrogativa de acceso a radio y televisión de los partidos políticos, ante cualquier eventualidad técnica, material o jurídica, éstos deberán entregar al Instituto materiales genéricos consistentes en un programa de audio y video con una duración de cinco minutos y promocionales de audio y video de veinte segundos, treinta segundos, uno y dos minutos para radio y televisión, dentro de los 25 días posteriores al inicio de vigencia del Reglamento. Estos materiales podrán ser actualizados en cualquier momento por los partidos políticos.
 
 5. Las coaliciones que se conformen con motivo de los procesos electorales, federales o locales, deberán entregar un material genérico de radio y uno de televisión con duración de 30 segundos, al momento de hacer la primera entrega de materiales para su difusión.
 
@@ -1033,7 +1039,9 @@ a) Se encuentren obligados a transmitir las pautas para la difusión de los prom
 
 b) Se encuentren obligados a suspender la transmisión de propaganda gubernamental durante el periodo de campañas.
 
-4. En los procesos electorales locales, el Comité incluirá en el catálogo respectivo el número suficiente de emisoras que garanticen la efectividad de la cobertura de la entidad federativa de que se trate, incluyendo, en su caso, concesionarios y permisionarios de otra entidad federativa cuya señal llegue a aquella donde se lleve a cabo el Proceso Electoral respectivo.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2012)</small>
+
+4. En los procesos electorales locales, el Comité incluirá en el catálogo respectivo a todas las emisoras de la entidad federativa de que se trate, incluyendo, en su caso, el número suficiente de concesionarios y permisionarios de otra entidad federativa cuya señal llegue a aquella donde se lleve a cabo el Proceso Electoral respectivo, para garantizar la cobertura respectiva.
 
 5. En el caso de las emisoras cuya señal sea efectivamente vista o escuchada en los municipios que conforman zonas conurbadas de una entidad en Proceso Electoral Local, su señal podrá ser utilizada para participar en la cobertura del proceso electivo de que se trate, independientemente de la entidad en que opere.
 
@@ -1059,23 +1067,21 @@ De los mapas de cobertura
 
 5. Los mapas de cobertura se pondrán a disposición de los concesionarios y permisionarios para consulta, y en su caso, solicitud de ajuste a la Dirección Ejecutiva, la cual determinará lo conducente.
 
-> <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2012)</small>
 
 Artículo 46
 
-De las afiliadas que tengan programación mixta
+De las afiliadas que tengan programación total o mixta
 
-1. Las afiliadas de televisión y radio que transmitan programación mixta o total, deberán notificarlo a la Dirección Ejecutiva, a más tardar, con 45 días hábiles de anticipación a la entrada en vigor del esquema de programación mixta o total de que se trate.
+1. as (sic) afiliadas de televisión y radio que transmitan programación mixta o total, deberán notificarlo a la Dirección Ejecutiva, a más tardar, con 45 días hábiles de anticipación a la entrada en vigor del esquema de programación mixta o total de que se trate.
 
-2. Fuera de Proceso Electoral Federal, los afiliados que transmitan programación total del afiliante cumplirán con su obligación de transmitir tiempos oficiales en materia electoral, respetando los tiempos pautados en la programación de este último. Se exceptúan de lo anterior aquellos afiliados que tengan la obligación de transmitir las pautas relativas a un Proceso Electoral Local coincidente o no con el federal, en cuyo caso deberán transmitir la pauta que el Instituto les ordene con motivo de dicho Proceso.
+2. Fuera y dentro del Proceso Electoral Federal, las afiliadas que transmitan programación total del afiliante cumplirán con su obligación de transmitir tiempos oficiales en materia electoral, con la pauta que conforme a la ley elabore y les notifique el Instituto.
 
-3. Fuera de Proceso Electoral Federal, los afiliados que transmitan de manera mixta programación propia y del afiliante, cumplirán con su obligación de transmitir tiempos oficiales en materia electoral de la siguiente manera:
-
-a) Durante el tiempo en que el afiliado transmita programación del afiliante se estará a lo dispuesto en el párrafo 2 del presente artículo, y
-
-b) Durante el tiempo en que el afiliado transmita programación propia, cumplirá con su obligación transmitiendo la pauta complementaria que le sea notificada.
+3. Fuera y dentro de (sic) Proceso Electoral Federal, las afiliadas que transmitan de manera mixta programación propia y del afiliante, cumplirán con su obligación de transmitir tiempos oficiales en materia electoral con la pauta que conforme a la ley elabore y les notifique el Instituto.
 
 4. Para efectos de lo dispuesto en los párrafos anteriores, el Comité aprobará una pauta que refleje las obligaciones de cada concesionario o permisionario.
+
+5. En todo caso, los concesionarios o permisionarios afiliados tendrán la obligación de no transmitir los promocionales o la propaganda gubernamental no pautados por el Instituto o en términos de ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2011)</small>
 
@@ -1445,7 +1451,9 @@ Artículo 64
 
 De los casos de suspensión de difusión de promocionales con motivo del otorgamiento de medidas cautelares
 
-1. En el caso que con motivo del dictado de medidas cautelares se ordene la sustitución de materiales, el partido político correspondiente deberá indicar a la Dirección Ejecutiva el material de sustitución en un plazo no mayor a 6 horas, a partir de la notificación del Acuerdo correspondiente, de entre aquellos que hubieren sido transmitidos en el mismo periodo electoral de que se trate. En caso de que no lo indique, se tomará uno de los materiales genéricos a que hace referencia el artículo 42, párrafo 4 del Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2012)</small>
+
+1. En el caso que con motivo del dictado de medidas cautelares se ordene la sustitución de materiales, el partido político correspondiente deberá indicar a la Dirección Ejecutiva el material de sustitución en un plazo no mayor a 6 horas, a partir de la notificación del Acuerdo correspondiente, de entre aquellos que hubieren sido transmitidos en el mismo periodo electoral de que se trate. En caso de que no lo indique, se tomará uno de los materiales genéricos a que hace referencia el artículo 42, párrafo 4 del Reglamento, de acuerdo a la modalidad y tiempo del material objeto de sustitución.
 
 2. Los concesionarios o permisionarios deberán de suspender la difusión del material ordenado en la medida cautelar en los plazos que acuerde la Comisión de Quejas y Denuncias o el Consejo.
 
@@ -1592,3 +1600,7 @@ D.O.F. 3 DE NOVIEMBRE DE 2011.
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El catálogo a que se refiere el artículo 44, párrafo 4 del presente Reglamento, deberá ser aprobado por el Comité dentro de los treinta días hábiles siguientes a su entrada vigor.
+
+D.O.F. 6 DE ENERO DE 2012.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
