@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2011-11-18"
+last_updated: "2012-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -96,13 +96,11 @@ El territorio del Estado tiene la extensión y límites que legalmente le corres
 
 Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cualquiera que sea su denominación; Zonas de Desarrollo Económico y demás circunscripciones que se consideren necesarias, con base en la agrupación de sus Municipios. La determinación, aprobación y publicación oficial de los Distritos, Zonas de Desarrollo Económico y demás circunscripciones, se hará por los órganos de los poderes públicos competentes; pero en todos los casos los Municipios involucrados deberán ser consultados y su hacienda municipal no podrá ser afectada, a menos que cada Ayuntamiento preste su consentimiento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2006)</small>
-
 ### CAPITULO II.
 
 Derechos Humanos y Garantías Individuales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 7º.
 
@@ -160,7 +158,7 @@ f) Las demás atribuciones que establezca la ley.
 
 Las Cartas de los Derechos Fundamentales y esta Constitución, determinan los principios mínimos en los que se sustenta el ejercicio de los Derechos Humanos. Serán ley suprema en el régimen interior del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 #### SECCION PRIMERA.
 
@@ -506,7 +504,7 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -552,7 +550,7 @@ V. El orden de asignación de los candidatos que aparezcan en las listas o fórm
 
 VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 36.
 
@@ -712,7 +710,7 @@ La Ley Orgánica del Congreso del Estado señalará las formalidades con que deb
 
 De la Iniciativa y Formación de las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 59.
 
@@ -744,7 +742,7 @@ VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo c
 
 VIII. A la Fiscalía General del Estado en todo lo concerniente a sus funciones y competencias. La Iniciativa se presentará por conducto del Fiscal General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 60.
 
@@ -774,7 +772,7 @@ Por ley o decreto en materia municipal se entenderá sólo aquella norma o norma
 
 Todo proyecto de ley que fuere desechado, no podrá volverse a presentar en el mismo período de sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Artículo 62.
 
@@ -840,7 +838,7 @@ Que el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zarago
 
 Dado en el Salón de Sesiones del Congreso del Estado.
 
-(Lugar, fecha y firmas del Presidente y Secretarios).
+(lugar, fecha y firmas del Presidente y Secretarios).
 
 IMPRIMASE, COMUNIQUESE Y OBSERVESE.
 
@@ -850,7 +848,7 @@ IMPRIMASE, COMUNIQUESE Y OBSERVESE.
 
 Facultades del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 67.
 
@@ -868,7 +866,7 @@ III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya
 
 IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 V. Nombrar y, en su caso, ratificar a los funcionarios electorales que por ley le corresponda designar al Congreso del Estado.
 
@@ -926,7 +924,7 @@ XV. Recibir para su conocimiento las declaratorias de validez de las elecciones 
 
 XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
 
-(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
 XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
 
@@ -1034,7 +1032,7 @@ Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podr
 
 Así mismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, podrá realizar directamente revisiones de conceptos específicos o requerir a las entidades que procedan a la revisión de los conceptos que estime pertinentes, durante el ejercicio en curso, a fin de que le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado, a través de la Comisión de Hacienda y Cuenta Pública y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 b) Entregar el informe del resultado de la revisión de las cuentas públicas al Congreso Local a más tardar el 30 de noviembre del año en que éstas debieron presentarse. Dicho informe contendrá al menos, los dictámenes de su revisión, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de ingresos o presupuesto de ingresos de la entidad, según corresponda, y al presupuesto de egresos, el análisis de las desviaciones presupuestarias en su caso, y los comentarios de los auditados, mismo que tendrá carácter público.
 
@@ -1154,7 +1152,7 @@ Cuando el Congreso no esté en período de sesiones, estará en funciones una Di
 
 Si durante el receso del Congreso fuere éste convocado a sesiones extraordinarias, la Diputación Permanente no suspenderá sus trabajos, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 73.
 
@@ -1200,7 +1198,7 @@ Del Poder Ejecutivo.
 
 Facultades y obligaciones del Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 1936)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 1936)</small>
 
 ###### Artículo 75.
 
@@ -1238,7 +1236,7 @@ VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, fal
 
 La elección de Gobernador será directa y en los términos que señale la Ley de la materia. El Gobernador del Estado tomará posesión el día primero de diciembre posterior a la elección, y no podrá durar en el cargo más de seis años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 78.
 
@@ -1396,7 +1394,9 @@ XXII. Nombrar apoderados para asuntos administrativos y judiciales que se tramit
 
 XXIII. Someter al Congreso del Estado, en los términos de esta Constitución y demás disposiciones aplicables, los nombramientos de Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje.
 
-XXIV. Otorgar indultos y conmutaciones de las penas impuestas por sentencia ejecutoria, previa las formalidades que la ley establezca y en los casos en que la misma determine.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XXIV. Otorgar indultos de las penas impuestas por sentencia ejecutoria, previo las formalidades que la ley establezca y en los casos en que la misma determine.
 
 XXV. Ejercer la superior inspección en todos los ramos de la Administración Pública y de la Beneficencia Privada.
 
@@ -1414,7 +1414,7 @@ XXVIII. Auxiliar y colaborar estrechamente con el Gobierno Municipal, para el me
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XXVIII- A. Promover ante el Pleno del Tribunal Superior de Justicia, las controversias constitucionales o acciones de inconstitucionalidad locales que estime procedentes, de conformidad con el artículo 158 de esta Constitución; y,
+XXVIII. A. Promover ante el Pleno del Tribunal Superior de Justicia, las controversias constitucionales o acciones de inconstitucionalidad locales que estime procedentes, de conformidad con el artículo 158 de esta Constitución; y,
 
 > <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -1508,13 +1508,13 @@ Para asegurar la buena marcha de la Administración Pública Estatal, el Goberna
 
 De la Hacienda Pública del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Artículo 86.
 
 Para el desempeño de los asuntos que la presente Constitución encomienda al Ejecutivo, habrán las Secretarías del Ramo, las dependencias y organismos que señale la Ley Orgánica de la Administración Pública Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 1988)</small>
 
 ###### Artículo 87.
 
@@ -1632,7 +1632,7 @@ Las contribuciones al gasto público serán determinadas anualmente por el Congr
 
 Para la guarda, recaudación y distribución de los caudales públicos, habrá una dependencia que se denominará Secretaría de Finanzas del Estado, cuyo titular será designado por el Gobernador del Estado y deberá ser ratificado por el Congreso o en los recesos por la Diputación Permanente, en ambos casos bastará con la mayoría relativa y podrá ser removido libremente por el Titular del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 100.
 
@@ -1686,7 +1686,7 @@ El Secretario de Finanzas del Estado deberá exigir a todo servidor público que
 
 El Ejecutivo sólo podrá expedir órdenes de recaudación por conducto de la Secretaría de Finanzas del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 105.
 
@@ -1708,7 +1708,7 @@ Se podrán otorgar subsidios a actividades prioritarias o de beneficio social, d
 
 El Ejecutivo vigilará su aplicación y evaluará los resultados de ésta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2009)</small>
 
 ### CAPITULO VI.
 
@@ -1902,9 +1902,7 @@ V. Las funciones serán incompatibles con cualquier otro cargo, empleo o comisi�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
 
-#### SECCION II.
-
-El Ayuntamiento y el Concejo Municipal.
+#### SECCIÓN II.. El Ayuntamiento y el Concejo Municipal
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2014,7 +2012,7 @@ XXXIV. Cumplir las demás funciones que le señalen las leyes y reglamentos o qu
 
 La Competencia Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 APARTADO PRIMERO.
 
@@ -2022,9 +2020,7 @@ Bases Generales.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO VII.
-
-Del Gobierno y Administración Interior del Estado.
+### CAPITULO VII.. Del Gobierno y Administración Interior del Estado
 
 ###### Artículo 116.
 
@@ -2036,7 +2032,7 @@ La educación de los hijos es deber y derecho primario de los padres o de quiene
 
 La educación y la enseñanza será organizada como un proceso integral correlacionado con sus diversos ciclos, de modo que exista una adecuada articulación y continuidad entre todos sus grados, incluyendo el superior, y estará orientada a lograr el desarrollo armonioso de la personalidad humana, según el espíritu del artículo 3o., de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 1996)</small>
 
 ###### Artículo 118.
 
@@ -2076,13 +2072,13 @@ Se declara de interés público: la campaña permanente de alfabetización; la c
 
 Para realizar los objetivos de la educación y la enseñanza, el Estado contará con los órganos de autoridad necesarios que determinen las leyes y los ordenamientos de la materia.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO I.
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)</small>
 
 ###### Artículo 122.
 
@@ -2136,19 +2132,15 @@ De la Organización y Atribuciones.
 
 (DEROGADO, P.O. 20 DE MARZO DE 2001)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2001)</small>
 
-## TITULO QUINTO.
+## TITULO QUINTO.. El Poder Judicial
 
-El Poder Judicial.
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
 
-> <small>(ADICIONADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)</small>
+### CAPITULO II.. De las Garantías de la Función Jurisdiccional
 
-### CAPITULO II.
-
-De las Garantías de la Función Jurisdiccional.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)</small>
 
 ###### Artículo 135.
 
@@ -2174,7 +2166,7 @@ III.- De seis años en el primer ejercicio del encargo para los Magistrados del 
 
 Al vencimiento de los periodos descritos en las fracciones anteriores, los Magistrados tendrán derecho a un haber por retiro en los términos que establezca la ley.
 
-(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
 
 ###### Artículo 136.
 
@@ -2192,7 +2184,7 @@ Los Magistrados del Tribunal Electoral, del Tribunal de lo Contencioso-Administr
 
 La competencia, procedimientos, organización del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 21 DE JUNIO DE 2005)</small>
 
 A. El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y de plena jurisdicción, y funcionará conforme a las bases generales siguientes:
 
@@ -2238,15 +2230,15 @@ X. No se requerirá declaración de apertura o instalación para iniciar la func
 
 El Tribunal Electoral comunicará la conclusión del proceso electoral a las autoridades a que se refiere el párrafo anterior.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
 
 XI. El Pleno del Tribunal Electoral emitirá su opinión sobre la acción de inconstitucionalidad de que conozca el Tribunal Superior de Justicia en materia electoral, sistema de partidos o de participación ciudadana. La ley regulará el procedimiento de la opinión jurisdiccional.
 
 XII. La administración, vigilancia y disciplina del Tribunal Electoral corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado. El presidente del Tribunal Electoral formará parte del Consejo de la Judicatura con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
 B. El Tribunal de lo Contencioso-Administrativo es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y de plena jurisdicción conforme a las bases siguientes:
 
@@ -2308,7 +2300,7 @@ VII. La administración, vigilancia y disciplina del Tribunal de Conciliación y
 
 El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Conciliación y Arbitraje y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)</small>
 
 ###### Artículo 138.
 
@@ -2432,7 +2424,7 @@ En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernad
 
 Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia, cualquiera que sea su denominación, y los titulares de los demás órganos jurisdiccionales que integran el Poder Judicial, serán nombrados por el Consejo de la Judicatura del Estado, en los términos previstos por la propia Ley.
 
-(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
+(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
 ### CAPITULO III.
 
@@ -2592,7 +2584,9 @@ Todo inculpado, desde el inicio de su proceso, deberá ser informado de los dere
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho recibir asesoría jurídica y a ser informada de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución; particularmente, a coadyuvar con el Ministerio Público; a que se le reciban todos los medios de prueba con los que cuente, tanto en la averiguación previa como en el proceso; a la reparación del daño, en los casos en que sea procedente, a recibir, desde la comisión del delito, atención medica y psicológica de urgencia, en caso de ser necesaria; a no ser careado con el inculpado, cuando el ofendido sea menor de edad y se trate de los delitos de violación y secuestro, y a solicitar las medidas y providencias que prevea la ley, para su seguridad y auxilio.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2612,11 +2606,11 @@ La Justicia Constitucional Local tiene por objeto dirimir de manera definitiva e
 
 Cuando la autoridad jurisdiccional considere en su resolución que una norma es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal Superior de Justicia podrá revisar la resolución en los términos que disponga la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 El Pleno del Tribunal Superior de Justicia, en su carácter de Tribunal Constitucional Local conocerá, en los términos que establezca la ley, de los medios de control siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 I. De las controversias constitucionales locales, que con excepción de las que se refieran a la materia jurisdiccional electoral en los términos del artículo 136 de esta Constitución, se susciten entre:
 
@@ -2642,7 +2636,7 @@ En el caso del inciso 1, la controversia sólo procederá en materia de régimen
 
 En los casos de los incisos 2., 3. y 5., la controversia sólo procederá en los supuestos previstos en el artículo 115, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 Las controversias constitucionales locales se sujetarán a lo siguiente:
 
@@ -2704,13 +2698,13 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
 El Municipio Libre.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO II.
 
@@ -2754,9 +2748,7 @@ Estos principios están vinculados directamente con los valores, principios y ba
 
 > <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO UNICO.
-
-De las Responsabilidades de los Servidores Públicos Estatales y Municipales.
+### CAPITULO UNICO.. De las Responsabilidades de los Servidores Públicos Estatales y Municipales
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE OCTUBRE DE 2009)</small>
 
@@ -2806,7 +2798,7 @@ III. Si se trata de la creación de un nuevo Municipio deberán, por lo menos, s
 
 IV. Podrá crearse un nuevo Municipio mediante fusión o división de los existentes cuando así lo exija el interés público.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-K.
 
@@ -2840,7 +2832,7 @@ VII. Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes y por causa grave que determine la ley, podrán suspender Ayuntamientos o, en su caso, Concejos Municipales, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, siempre y cuando, en todos estos casos, se les otorgue las garantías de audiencia y de legalidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 158-M.
 
@@ -2890,7 +2882,7 @@ El Concejo Provisional estará integrado por un Concejal Presidente y dos Concej
 
 Cuando el Congreso del Estado se encuentre en receso, el Presidente de la Diputación Permanente de manera inmediata hará la designación del Concejo Provisional y de igual manera convocará al Pleno de la Legislatura, para que haga la designación del Concejo Municipal en un plazo no mayor de quince días.
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-N.
 
@@ -2926,7 +2918,7 @@ En la ley o en el convenio se preverá la correspondiente transferencia de medio
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 APARTADO SEGUNDO.
 
@@ -3226,7 +3218,7 @@ IV. En todo caso, la resolución se basará en el interés público de garantiza
 
 ## TITULO SEPTIMO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO.
 
@@ -3268,7 +3260,7 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 163.
 
@@ -3288,7 +3280,7 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 165.
 
@@ -3360,7 +3352,7 @@ De la Inviolavilidad (sic) y reforma de la Constitución.
 
 ## TITULO OCTAVO.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 169.
 
@@ -3378,7 +3370,7 @@ La comunidad participará de la plusvalía que generen las acciones urbanística
 
 Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y dentro del ámbito de sus atribuciones vigilará por la estricta aplicación y observancia de las normas de trabajo.
 
-> <small>(REFORMADO PRIME PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 171.
 
@@ -3654,7 +3646,7 @@ La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conform
 
 12. La Comisión de Derechos Humanos del Estado podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de derechos fundamentales en los términos de los artículos 59 y 60 de esta Constitución. En este caso la iniciativa se presentará por conducto del presidente, previo acuerdo del Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2005)</small>
 
 ###### Artículo 196.
 
@@ -3674,7 +3666,7 @@ IV. Publicación del expediente por la prensa.
 
 V. Que la adición o reforma sea aprobada por la mayoría absoluta de los Ayuntamientos del Estado.
 
-VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos Ayuntamientos.
+VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos a Ayuntamientos.
 
 VII. Declaración del Congreso, con vista y discusión del dictamen de la comisión.
 
@@ -3758,11 +3750,11 @@ Prof. J. Martínez M,
 
 Secretario-Diputado por el 12º. Distrito Electoral.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE OCTUBRE DE 1918.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 5 DE NOVIEMBRE DE 1919.
 
@@ -3774,11 +3766,11 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 
 P.O. 5 DE MAYO DE 1926.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 24 DE JULIO DE 1926.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 31 DE AGOSTO DE 1927.
 
@@ -3786,11 +3778,11 @@ UNICO.- Por esta sola vez y teniendo en cuenta que el período para que han sido
 
 P.O. 28 DE DICIEMBRE DE 1927.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 16 DE FEBRERO DE 1929.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 21 DE AGOSTO DE 1929.
 
@@ -3798,7 +3790,7 @@ UNICO.- El presente decreto entrará en vigor desde el día quince de noviembre 
 
 P.O. 10 DE JUNIO DE 1936.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 12 DE ENERO DE 1938.
 
@@ -3806,15 +3798,15 @@ Artículo Transitorio.- Desde la promulgación del presente Decreto desaparecer�
 
 P.O. 26 DE MARZO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 20 DE ABRIL DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 15 DE JUNIO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 23 DE DICIEMBRE DE 1939.
 
@@ -3822,19 +3814,19 @@ UNICO.- A partir de la vigencia de la presente reforma, el Tribunal Superior de 
 
 P.O. 18 DE ENERO DE 1941.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 17 DE SEPTIEMBRE DE 1941.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 11 DE FEBRERO DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 4 DE MARZO DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 16 DE SEPTIEMBRE DE 1942.
 
@@ -3842,11 +3834,11 @@ TRANSITORIOS:- Los Ayuntamientos que se elijan el primero de noviembre próximo,
 
 P.O. 27 DE FEBRERO DE 1943.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 27 DE MARZO DE 1948.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 14 DE OCTUBRE DE 1950.
 
@@ -3874,11 +3866,11 @@ P.O. 16 DE MAYO DE 1951.
 
 ###### ARTICULO SEGUNDO
 
-- " " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
+-" " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
 
 P.O. 28 DE JULIO DE 1954.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 25 DE ABRIL DE 1956.
 
@@ -3888,7 +3880,7 @@ P.O. 25 DE ABRIL DE 1956.
 
 P.O. 28 DE MARZO DE 1959.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 12 DE OCTUBRE DE 1966.
 
@@ -4432,7 +4424,7 @@ TERCERO.- En tanto se nombren los dos Consejeros señalados en el artículo ante
 
 CUARTO.- En relación a la disminución del número de Diputados que integrarán el Congreso del Estado, ésta surtirá efectos a partir del período comprendido del 1 de enero de 2012 y deberá realizarse el proceso de redistritación correspondiente, el cual por única ocasión quedará publicado a más tardar en el mes de enero del 2011.
 
-QUINTO.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 262, POR EL QUE SEREFORMA LA CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 29 DE JUNIO DE 2010)
+QUINTO.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 262, POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 29 DE JUNIO DE 2010)
 
 SEXTO.- En un plazo no mayor de 90 días naturales, el Congreso del Estado deberá emitir las reformas a su Ley Orgánica, en función de este decreto y de la integración y funcionamiento de las comisiones permanentes.
 
@@ -4541,3 +4533,11 @@ TERCERO.- En un plazo de treinta días hábiles contados a partir de la entrada 
 Hasta en tanto entren en vigor las disposiciones legales a que se refiere el párrafo que antecede, el Servicio de Administración Tributaria del Estado continuará aplicando las disposiciones de la Ley que en este momento lo rige.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE ENERO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todas las solicitudes de libertad preparatoria, remisión parcial de la sanción, modificación de sanción o cualquier otra que se encuentre pendiente de resolución al entrar en vigor este Decreto, serán resueltas por la autoridad administrativa que esté conociendo de ellas.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
