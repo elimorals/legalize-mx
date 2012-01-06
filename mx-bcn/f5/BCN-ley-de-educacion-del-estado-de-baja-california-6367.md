@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2011-10-07"
+last_updated: "2012-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
+LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -55,7 +55,7 @@ III.- Las instituciones a quienes esta Ley imponga deberes esenciales vinculados
 
 Las instituciones de Educación Superior autónomas por Ley se regularán por sus propios ordenamientos jurídicos y normas administrativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 3.
 
@@ -75,7 +75,7 @@ El Gobierno del Estado y los gobiernos municipales destinarán presupuestos sufi
 
 El Ejecutivo del Estado, de conformidad con las disposiciones aplicables proveerá lo conducente para que cada Ayuntamiento reciba recursos para el cumplimiento de las atribuciones consignadas en el Artículo 16.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 5.
 
@@ -95,29 +95,29 @@ V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar
 
 VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, incluyendo los desayunos escolares para las zonas urbanas y rurales que lo requieran.
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con capacidades diferentes.
+VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con capacidades diferentes; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE ENERO DE 2012)</small>
 
-VIII.- Impulsar acciones para vigilar el procesamiento y expendio de los alimentos en las escuelas, conforme a las normas oficiales mexicanas, lineamientos y recomendaciones en materia de nutrición escolar que emita la Secretaría de Salud del Estado, para fomentar la sana alimentación de los educandos.
+VIII.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
 El Estado también promoverá el desarrollo de programas asistenciales, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+
+Las previsiones descritas en este artículo se harán en los presupuestos respectivos.
+
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2002)</small>
 
-###### ARTICULO 6o.
+###### ARTICULO 6.
 
 Todos los habitantes del Estado tienen derecho a recibir educación. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la educación preescolar, la primaria y secundaria.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
-
-###### ARTICULO 6.
-
-Todos los habitantes del Estado tienen derecho a recibir educación. Es obligación de los padres y tutores lograr que sus hijos y pupilos cursen la primaria y la secundaria.
 
 ###### ARTICULO 7.
 
@@ -157,7 +157,7 @@ Son de interés social las actividades e inversiones de cualquier tipo que en ma
 
 El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplicación de esta Ley, respetando los derechos adquiridos por los trabajadores de la educación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 14.
 
@@ -181,9 +181,9 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Aplicar la educación física y la práctica del deporte.
 
-> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la vida, la salud, la cultura de la donación de órganos, tejidos, células y huesos, la institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos.
+X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la donación y el trasplante de órganos y tejidos, la preservación de la vida, la salud, la institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos.
 
 XI.- Informar y orientar a los educandos sobre los perjuicios que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, así como sus consecuencias nocivas, propiciando el rechazo a los vicios.
 
@@ -267,13 +267,15 @@ Promover que los contenidos de los medios de comunicación, sean coadyuvantes de
 
 XVI.- Disponer el uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razón de siniestros naturales u otro tipo de contingencias sean requeridos.
 
-XVII.- Promover servicios educativos, distintos de los previstos en la fracción I, de acuerdo con las necesidades nacionales, estatales y municipales, y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, la categoría de institución de excelencia, de conformidad con la reglamentación que para tal efecto expidan las autoridades educativas de la entidad, y
+XVII.- Promover servicios educativos, distintos de los previstos en la fracción I, de acuerdo con las necesidades nacionales, estatales y municipales.
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+XVIII.- Podrá otorgar a instituciones educativas, particulares de tipo superior con reconocimiento estatal de validez oficial de estudios, la categoría de institución de excelencia, de conformidad con la reglamentación que para tal efecto expidan las autoridades educativas de la entidad, y (sic)
 
-XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la prevención del delito y de concientizar de las influencias negativas que el delito provoca en la sociedad; y (sic)
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XIX.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura de la prevención de delito y de concientizar de las influencias negativas que el delito provoca en la sociedad;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -287,11 +289,19 @@ XXI.- Elaborar programas de enseñanza activa, encaminados a fomentar la cultura
 
 XXII.- Proponer en los contenidos regionales a los que se refiere la fracción III de este artículo la incorporación de asignaturas relativas a la protección al medio ambiente y a la protección civil.
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
-XXIII.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXIII.- El aborar (sic) un Programa Estatal de Becas en el Sistema Educativo Estatal que contemple apoyos o estímulos en forma económica, en especie o en exención, para estudiantes de excelencia académica, de escasos recursos, y estudiantes destacados en la cultura y el deporte; mecanismos de coordinación con la federación, municipios e instituciones públicas y privadas, así como expedir el reglamento de becas respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XXIV.- Distribuir y entregar uniformes escolares gratuitos a los alumnos de escasos recursos inscritos en las escuelas públicas de los niveles de preescolar, primaria y secundaria, ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación y a través de un Programa Estatal, que funcionará de acuerdo a las normas y lineamientos de operación que la Secretaría emita.
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+
+XXV.- Las demás atribuciones que emanen del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 16.
 
@@ -509,7 +519,7 @@ Para ser docente de educación indígena, se requiere tener como mínimo la educ
 
 El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
 ###### ARTICULO 34.
 
@@ -1005,7 +1015,7 @@ III.- Contar con instalaciones que satisfagan las condiciones higiénicas, de se
 
 IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la educación básica, la normal y demás para la formación de docentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 77.
 
@@ -1021,7 +1031,9 @@ I.- Cumplir con lo dispuesto en el artículo 3o. de la Constitución Política d
 
 II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes.
 
-III.- Proporcionar un mínimo del 5% de becas de la población escolar inscrita en los establecimientos educativos particulares en los términos de los lineamientos generales que la autoridad que otorgue los permisos o reconocimientos haya determinado. Dichas becas serán otorgadas en los términos que fijen las autoridades administrativas del plantel, en coordinación con la sociedad de padres de familia y debidamente sancionadas por la autoridad competente.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+
+III.- Proporcionar un mínimo del 5% de becas de la población escolar inscrita en los establecimientos educativos particulares de conformidad con el reglamento respectivo. Las becas que las escuelas particulares concedan a los hijos o familiares de sus trabajadores no deberán considerarse dentro del porcentaje a otorgar. El porcentaje a otorgar se podrá distribuir en becas completas o parciales, no menores del 25% del costo de la colegiatura. Las becas serán otorgadas en los términos que fijen las autoridades administrativas del plantel, en coordinación con la asociación de padres de familia y debidamente sancionadas por la autoridad competente.
 
 IV.- Rendir semestralmente las estadísticas correspondientes a la Secretaría de Educación y Bienestar Social respecto a la organización, administración, escolaridad y aspectos técnicos de las instituciones, y
 
@@ -1187,7 +1199,7 @@ III.- Que de otorgarse, no implique la continuación o consumación de actos u o
 
 IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley o de las disposiciones que de ella emanen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2007)</small>
 
 ### CAPITULO IX. DE LA DEFENSA DE LOS DERECHOS EN MATERIA EDUCATIVA
 
@@ -1247,7 +1259,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RODOLFO VALDEZ GUTIERREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE NOVIEMBRE DE 1998.
 
@@ -1285,7 +1297,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 
 P.O. 20 DE ABRIL DE 2007.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 18 DE MAYO DE 2007.
 
@@ -1344,3 +1356,17 @@ SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las p
 P.O. 7 DE OCTUBRE DE 2011.
 
 Único.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado en su presupuesto.
+
+TERCERO.- Una vez que entre en vigor la presente Reforma, el Ejecutivo Estatal tendrá un plazo de 60 días naturales para modificar o expedir las medidas reglamentarias correspondientes.
+
+CUARTO.- El Ejecutivo Estatal destinará de forma gradual y de acuerdo a la disponibilidad presupuestaria los recursos financieros suficientes para dotar de uniformes escolares a los alumnos de educación básica impartida por el Estado a través del Programa que para tal efecto se establezca.
+
+QUINTO.- En ejercicio de las facultades conferidas al Poder Ejecutivo estatal en el artículo 15 fracción III de la Ley de Educación para el Estado, propondrá a la Secretaría de Educación Pública dentro del primer ciclo escolar para el año 2012, dentro de los contenidos regionales, el tema relativo a la formación y educación en el nivel básico, sobre la importancia en la implementación de la cultura de la donación y el trasplante de órganos y tejidos, para fortalecer la actitud solidaria de todos los educandos, en la preservación de la salud como una alternativa de vida.
+
+SEXTO.- El Ejecutivo del Estado hará las previsiones presupuestales para el Ejercicio Fiscal 2012 a efecto de dotar de presupuesto a los Programas Estatales de Becas y Uniformes Escolares.
