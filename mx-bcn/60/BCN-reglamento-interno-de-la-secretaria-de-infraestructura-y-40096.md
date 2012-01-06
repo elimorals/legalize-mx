@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-infraestructura-y-40096"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-25"
-last_updated: "2004-06-25"
+last_updated: "2012-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE INFRAESTRUCTURA Y DESARROLLO URBANO
+REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. 6 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 25 de junio de 2004.
 
@@ -1164,3 +1166,13 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
 ARTURO ESPINOZA JARAMILLO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE ENERO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Unidades Administrativas con nueva denominación que tienen competencia en asuntos que anteriormente correspondían a otras Unidades Administrativas, se harán cargo de los mismos, y pasará el personal, archivo, mobiliario y en general el equipo que aquella haya utilizado, a la unidad o unidades competentes, distribuyéndose en su caso de conformidad con el ámbito de atribuciones que a cada una correspondan.
+
+TERCERO.- Se abroga el Reglamento Interno de la Secretaría de Infraestructura y Desarrollo Urbano, publicado con fecha 25 de junio de 2004 en el Periódico Oficial del Estado.
