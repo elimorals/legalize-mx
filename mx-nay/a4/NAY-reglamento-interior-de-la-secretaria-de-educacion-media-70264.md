@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-educacion-media-70264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-05"
-last_updated: "2009-09-05"
+last_updated: "2012-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION MEDIA SUPERIOR, SUPERIOR E INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION MEDIA SUPERIOR, SUPERIOR E INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN MEDIA SUPERIOR, SUPERIOR E INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 7 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 5 de septiembre de 2009.
 
@@ -562,3 +564,13 @@ SEGUNDO.- En tanto se expiden el Manual de Organización de la Secretaría y otr
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los dieciséis del mes de julio del dos mil nueve.
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- LIC. RAÚL PÉREZ GONZÁLEZ, SECRETARIO DE EDUCACIÓN MEDIA SUPERIOR, SUPERIOR E INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE ENERO DE 2012.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Educación Básica publicado el 24 de Diciembre de 2008 en el Periódico Oficial órgano de Gobierno del Estado de Nayarit, y el Reglamento Interior de la Secretaría de Educación Medía Superior, Superior e Investigación Científica y Tecnológica publicado el 5 de Septiembre de 2009 en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
+
+TERCERO.- En tanto se expiden el Manual General de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo de la dependencia, el Secretario tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
