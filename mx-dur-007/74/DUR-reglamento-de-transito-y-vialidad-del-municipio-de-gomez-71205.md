@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-transito-y-vialidad-del-municipio-de-gomez-71205"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-08"
-last_updated: "2009-11-08"
+last_updated: "2012-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GOMEZ PALACIO, DURANGO
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GOMEZ PALACIO, DURANGO
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GÓMEZ PALACIO, DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 8 de noviembre de 2009.
 
@@ -45,13 +45,17 @@ El presente Reglamento tiene por objeto establecer las normas relativas al trán
 
 En el ámbito de sus atribuciones y jurisdicción, es autoridad competente para la aplicación del presente Reglamento la Secretaria de Protección y Vialidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 3.
 
-Autoridades y promotores voluntarios llevarán a cabo en forma permanente campañas, programas y cursos de seguridad y educación vial, en los que se promoverá:
+Autoridades y Promotores voluntarios llevarán a cabo en forma permanente campañas, programas y cursos de seguridad y educación vial, en los que se promoverá:
 
 I. La cortesía y precaución en la conducción de vehículos;
 
-II. El respeto al agente de vialidad;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+II. El respeto al Policía de Tránsito y Vialidad;
 
 III. La protección a los peatones, personas con discapacidad y ciclistas;
 
@@ -63,7 +67,9 @@ V. El uso racional del automóvil particular.
 
 Además de lo que señala la Ley, para los efectos de este Reglamento, se entiende por:
 
-I. Agente, elemento de la Policía Municipal;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+I. Policía de Tránsito y Vialidad al elemento de la Secretaría de Protección y Vialidad;
 
 II. Ley, la Ley de Transporte y Vialidad del Estado de Durango;
 
@@ -95,7 +101,9 @@ I. Circular con licencia y permiso vigente, así como su Documentación completa
 
 II. Portar la tarjeta de circulación original del vehículo y placas vigentes;
 
-III. Obedecer los señalamientos de tránsito y las indicaciones de los agentes o personal de apoyo vial;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+III. Obedecer los señalamientos de Tránsito y las indicaciones de los Policías de Tránsito y Vialidad o Personal de apoyo vial;
 
 IV. Circular en el sentido que indique la vialidad, tratándose de vialidades reversibles, respetar los tramos y horarios que determine la autoridad competente;
 
@@ -117,7 +125,9 @@ VIII. Usar Anteojos o dispositivos requeridos para garantizar su integridad fís
 
 IX. Portar abanderamientos en carga u objetos salientes mayores de un metro;
 
-X. Identificarse y proporcionar información a los Agentes de la Secretaría de Protección y Vialidad;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+X. Identificarse y proporcionar información a los Policías de Tránsito y Vialidad de la Secretaría de Protección y Vialidad;
 
 XI. Recibir su acta de Infracción correspondiente;
 
@@ -185,9 +195,13 @@ IX. Sujetar aparatos de telecomunicación u otros objetos que representen una di
 
 X. Entorpecer la marcha de columnas militares, escolares, desfiles cívicos y similares;
 
-XI. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
 
-XII. Abalanzar el vehiculo sobre el agente de tránsito y policía de la Secretaría de Protección y Vialidad en servicio sin causar daño;
+XI. Ofender, insultar o denigrar a los Policías de Tránsito y Vialidad o Personal de Apoyo Vial en el desempeño de sus labores;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+XII. Abalanzar el vehículo sobre el Policía de Tránsito y Vialidad y Policía Municipal en servicio sin causar daño;
 
 XIII. Dar una cantidad económica a cambio de que no se les elabore Infracción alguna;
 
@@ -257,7 +271,9 @@ XII, XX 022, 133 15 días
 
 Para las preferencias de paso en los cruceros, el conductor se ajustará a la señalización establecida y a las siguientes reglas:
 
-I. En los cruceros regulados por un agente o por promotores voluntarios de seguridad vial, debe detener su vehículo o avanzar cuando así lo ordene éste;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+I. En los Cruceros regulados por un Policía de Tránsito y Vialidad o Promotores Voluntarios de Seguridad Vial, debe tener su vehículo o avanzar cuando así lo ordene este;
 
 II. En los cruceros regulados mediante semáforos, debe inmovilizar su vehículo en la línea de “alto”, sin invadir la zona para el cruce de los peatones cuando la luz del semáforo esté en color rojo;
 
@@ -327,9 +343,11 @@ vigente en el Estado de Durango
 
 I, II, III, IV, V y VI 107 5 días
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 9.
 
-Los peatones y personas con discapacidad deben:
+Los Peatones y Personas con discapacidad deben:
 
 I. Cruzar las vías por las esquinas o zonas marcadas para tal efecto, excepto en las calles locales o domiciliarias cuando sólo exista un carril para la circulación;
 
@@ -337,9 +355,13 @@ II. Utilizar los puentes, pasos peatonales a desnivel o rampas especiales para c
 
 III. Tomar las precauciones necesarias en caso de no existir semáforo y
 
-IV. Obedecer las indicaciones de los agentes, promotores voluntarios de seguridad vial y las señales de tránsito.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
 
-Los peatones y personas con discapacidad que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+IV. Obedecer las indicaciones de los Policías de Tránsito y Vialidad, promotores voluntarios de seguridad vial y las señales de tránsito.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+Los Peatones y Personas con discapacidad que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los Policías de Tránsito y Vialidad y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 Las autoridades correspondientes tomarán las medidas que procedan para garantizar la integridad física y el tránsito seguro de los peatones por la banqueta, en particular, de las personas con discapacidad. Asimismo, realizarán las acciones necesarias para garantizar que las banquetas y rampas especiales, se encuentren libres de obstáculos que impidan el tránsito peatonal y el desplazamiento de personas con discapacidad.
 
@@ -855,7 +877,9 @@ I. Sujetarse estrictamente a las rutas y los itinerarios de carga y descarga aut
 
 II. Abstenerse de realizar paradas que no estén señaladas en la operación del servicio.
 
-En caso de congestionamiento vehicular que interrumpa la circulación, el conductor deberá solicitar a los agentes prioridad para continuar su marcha, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+En caso de congestionamiento vehicular que interrumpa la circulación, el conductor deberá solicitar a los Policías de Tránsito y Vialidad prioridad para continuar su marcha, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta;
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
 
@@ -913,11 +937,15 @@ en el Estado de Durango
 
 ### CAPÍTULO V. DE LA CIRCULACIÓN DE BICICLETAS Y MOTOCICLETAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 27.
 
-Los ciclistas y motociclistas deben:
+Los Ciclistas y Motociclistas deben:
 
-I. Respetar las señales de tránsito y las indicaciones de los agentes y del personal de apoyo vial;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+I. Respetar las señales de Tránsito y las indicaciones de los Policías de Tránsito y Vialidad y del Personal de Apoyo Vial;
 
 II. Circular en el sentido de la vía;
 
@@ -935,7 +963,9 @@ VIII. El ciclista debe circular a la extrema derecha de la vía sobre la que tra
 
 IX. En el caso de motocicletas, circular en todo tiempo con las luces encendidas. Dentro de la zona urbana;
 
-Los ciclistas y motociclistas que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente y en sus casos sancionados conforme al mismo, por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+Los ciclistas y Motociclistas que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente y en su caso sancionados conforme al mismo, por los Policías de Tránsito y Vialidad y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 El que incumpla lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
 
@@ -971,7 +1001,9 @@ VI. Transportar carga que impida mantener ambas manos sobre el manubrio, y un de
 
 VII. Asirse o sujetarse a otros vehículos en movimiento;
 
-Los ciclistas y motociclistas que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente y en su caso sancionado conforme al mismo, por los agentes y orientado a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+Los ciclistas y motociclistas que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente y en su caso sancionados conforme al mismo, por los Policías de Tránsito y Vialidad y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
 El que incumpla lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
 
@@ -999,17 +1031,23 @@ Los conductores deben someterse a las pruebas de detección de ingestión de alc
 
 Los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y/o muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de narcóticos, están obligados a someterse a las pruebas necesarias con el Médico Legista ante el cual sean presentados o por personal autorizado para tal efecto. En caso de que se certifique que el conductor se encuentra en estado de ebriedad o de intoxicación de narcóticos, será aplicable la sanción del artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 31.
 
-Cuando los agentes cuenten con dispositivos oficiales de detección de alcohol o de narcóticos, se procederá como sigue:
+Cuando los Policías de Tránsito y Vialidad cuenten con dispositivos oficiales de detección de alcohol o de narcóticos, se procederá como sigue:
 
 I. Los conductores se someterán a las pruebas para la detección del grado de ebriedad y/o intoxicación que establezca la Secretaría de Protección y Vialidad;
 
-II. El agente entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+II. El Policía de Tránsito y Vialidad entregara un ejemplar del comprobante de los resultados de la prueba al conductor inmediato a su realización;
 
 III. En caso de que el conductor sobrepase el límite permitido de alcohol en la sangre será remitido al Alcaide en Turno y
 
-IV. El agente entregará un ejemplar del comprobante de los resultados de la prueba al Alcaide ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados y servirá de base para el dictamen del Médico Legista que determine el tiempo probable de detención y recuperación de la persona para cuidar su integridad física. Cuando el conductor sobrepase la cantidad de alcohol permitida, el vehículo será remitido al depósito vehicular;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+IV. El Policía de Tránsito y Vialidad entregara un ejemplar del comprobante de los resultados de la prueba al Alcaide ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol o narcóticos encontrados y servirá de base para el dictamen del Médico Legista que determine el tiempo probable de detección y recuperación de la persona para cuidar su integridad física. Cuando el conductor sobrepase la cantidad de alcohol permitida, el vehículo será remitido al depósito vehicular;
 
 El incumplimiento de lo dispuesto en estos artículos se sancionará con base en la siguiente tabla:
 
@@ -1027,6 +1065,8 @@ en el Estado de Durango
 
 29, 30, 31 079 40 días
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE ENERO DE 2012)</small>
+
 ### CAPÍTULO VII. DE LOS ACCIDENTES DE TRÁNSITO Y DE LA RESPONSABILIDAD CIVIL RESULTANTE
 
 ###### Artículo 32.
@@ -1039,11 +1079,19 @@ Si como resultado de un accidente de tránsito se ocasionan daños a bienes prop
 
 Las autoridades del Municipio, en el caso de que se ocasionen daños a bienes de la Federación, darán aviso a las Autoridades Federales competentes, a efecto de que procedan de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 34.
 
-En caso de que en un accidente de tránsito sólo hubiere daños materiales a propiedad privada y los involucrados estuvieren de acuerdo en la forma de reparación de los mismos, ningún agente puede remitirlos ante las autoridades. La excepción no operará si el conductor se encuentra bajo los efectos del alcohol o narcóticos. No obstante, los vehículos serán retirados del lugar a fin de no obstruir la circulación.
+En caso de que en un accidente de Tránsito solo hubiere daños materiales a propiedad privada y los involucrados estuvieren de acuerdo en la forma de reparación de los mismos, ningún Policía de Tránsito y Vialidad puede remitirlos ante las autoridades.
 
-El agente sólo llenará la boleta de sanción señalando la falta que causó un accidente.
+> <small>(REFORMADO PRIMER PÁRRAFO [ N. DE E. Y REUBICADO], P.O. 8 DE ENERO DE 2012)</small>
+
+La excepción no operará si el conductor se encuentra bajo los efectos del alcohol o narcóticos. No obstante, los vehículos serán retirados del lugar a fin de no obstruir la circulación.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+El Policía de Tránsito y Vialidad solo llenará la boleta de sanción señalando la falta que causó un accidente.
 
 Si las partes no estuvieran de acuerdo con la forma de reparación de los daños, serán remitidos ante las autoridades correspondientes.
 
@@ -1079,11 +1127,15 @@ el Estado de Durango
 
 32, 33, 34, 35 020 50 días
 
-### CAPÍTULO VIII. DE LAS FUNCIONES DE LOS AGENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2012)</small>
+
+### CAPÍTULO VIII. DE LAS FUNCIONES DE LOS POLICÍAS DE TRÁNSITO Y VIALIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
 
 ###### Artículo 36.
 
-Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, serán impuestas por el agente que tenga conocimiento de su comisión, y se harán constar en las boletas seriadas autorizadas por la Dirección de Ingresos del Municipio y por la Secretaría de Protección y Vialidad, las cuales para su validez contendrán:
+Las sanciones en materia de Tránsito, señalados en este Reglamento y demás disposiciones jurídicas, serán impuestas por el Policía de Tránsito y Vialidad que tenga conocimiento de su comisión, y se harán constar en las boletas seriadas autorizadas por la Dirección de Ingresos del Municipio y por la Secretaría de Protección y Vialidad, las cuales para su validez contendrán:
 
 I. Fundamento Jurídico:
 
@@ -1101,11 +1153,15 @@ c) Placas de matrícula y en su caso, número del permiso del vehículo para cir
 
 d) En su caso, número y tipo de licencia o permiso de conducir.
 
-III. Nombre, número de placa, adscripción y firma del agente que imponga la sanción.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+III. Nombre, número de placa, adscripción y firma del Policía de Tránsito y Vialidad que imponga la sanción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
 
 ###### Artículo 37.
 
-Cuando los conductores de vehículos cometan una infracción a lo dispuesto por este Reglamento y demás disposiciones aplicables, los agentes procederán de la manera siguiente:
+Cuando los conductores de vehículos cometan una infracción a lo dispuesto por este Reglamento y demás disposiciones aplicables, los Policías de Tránsito y Vialidad procederán de la manera siguiente:
 
 I. Indicarán al conductor que detenga la marcha de su vehículo;
 
@@ -1115,9 +1171,13 @@ III. Señalarán al conductor la infracción que cometió y le mostrarán el art
 
 IV. Solicitarán al conductor la licencia de conducir y la tarjeta de circulación, documentos que serán entregados para su revisión y devueltos en el mismo sitio inmediatamente después de que los hubiese revisado.
 
-Una vez efectuada la revisión de los documentos y de la situación en la que se encuentra el vehículo, si éstos están en orden, el agente procederá a llenar la boleta de infracción, recogiéndole una garantía (licencia, tarjeta de circulación y placa), de la que extenderá una copia al interesado.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
 
-En caso de que el conductor no presente para su revisión la licencia, tarjeta de circulación, placa o permiso. El agente procederá a remitir el vehículo al depósito vehicular.
+Una vez efectuada la revisión de los documentos y de la situación en la que se encuentra el vehículo, si estos están en orden, el Policía de Tránsito y Vialidad procederá a llenar la boleta de infracción, recogiéndole una garantía (licencia, tarjeta de circulación y placa), de la que extenderá una copia al interesado.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+En caso de que el conductor no presente para su revisión la licencia, tarjeta de circulación, placa o permiso, el Policía de Tránsito y Vialidad procederá a remitir el vehículo al depósito vehicular.
 
 ### CAPÍTULO IX. DE LAS SANCIONES
 
@@ -1131,21 +1191,29 @@ El infractor tendrá un plazo de cinco días naturales contados a partir de la f
 
 II. Después de transcurrido un lapso de 90 días a partir de la fecha de infracción esta podrá ser recuperada (pagada) en las oficinas de la Tesorería Municipal.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 39.
 
-Sin perjuicio de las sanciones que correspondan, los conductores de vehículos que cometan alguna infracción a las normas de este Reglamento que pueda dar lugar a la tipificación de un delito, serán puestos a disposición del Ministerio Público que corresponda por los agentes que tengan conocimiento del caso, para que aquél resuelva conforme a derecho.
+Sin perjuicio de las sanciones que correspondan, los conductores de vehículos que cometan alguna infracción a las normas de este Reglamento que pueda dar lugar a la tipificación de un delito, serán puestos a disposición del Ministerio Público que corresponda por los Policías de Tránsito y Vialidad que tengan conocimiento del caso, para que aquél resuelva conforme a derecho.
 
-Tratándose de menores de edad, el agente o el Ministerio Público que tenga conocimiento del caso deberá llamar a los padres o tutores del menor a efecto de que, sin perjuicio de efectuar su remisión al Tutelar de Menores, en los casos que proceda, se tomen las providencias necesarias para que se cubra la responsabilidad civil en que haya incurrido.
+Tratándose de menores de edad, el Policía de Tránsito y Vialidad o el Ministerio Público que tenga conocimiento del caso deberá llamar a los padres o tutores del menor a efecto de que, sin perjuicio de efectuar su remisión al Tutelar de Menores, en los casos que proceda, se tomen las providencias necesarias para que se cubra la responsabilidad civil en que haya incurrido
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2012)</small>
 
 ###### Artículo 40.
 
-En los casos en que proceda la remisión del vehículo al depósito, y previamente a que se haya iniciado el proceso de arrastre, los agentes deben sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren.
+En los casos en que proceda la remisión del vehículo al depósito, y previamente a que se haya iniciado el proceso de arrastre, los Policías de Tránsito y Vialidad deben sellarlo para garantizar la guarda y custodia de los objetos que en él se encuentren.
 
-Procederá la remisión del vehículo al depósito aún cuando esté el conductor a bordo. Si se encontrase persona ostensiblemente menor de 16 años, mayor de 65 años o con discapacidad, el agente levantará la infracción que corresponda y esperará hasta que llegue el conductor o persona responsable para proceder en forma inmediata a la remisión del vehículo al depósito, salvo que se encuentre dentro de los supuestos previstos en el artículo 43 de este Reglamento.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+Procederá la remisión del vehículo al depósito aún cuando esté el conductor a bordo. Si se encontrase persona ostensiblemente menor de 16 años, mayor de 65 años o con discapacidad, el Policía de Tránsito y Vialidad levantará la infracción que corresponda y esperará hasta que llegue el conductor o persona responsable para proceder en forma inmediata a la remisión del vehículo al depósito, salvo que se encuentre dentro de los supuestos previstos en el artículo 43 de este Reglamento.
 
 Si el conductor o la persona responsable se opusiere a la remisión del vehículo y/o se negare a salir de él, será puesto a disposición del Alcaide, para la aplicación de la sanción correspondiente en términos del Bando de Policía y Gobierno del Municipio.
 
-Los agentes de Secretaría de Protección y Vialidad que hubieren ordenado o llevado a cabo la remisión al depósito, informarán de inmediato, a través de los medios electrónicos de que dispongan, al centro de control correspondiente los datos del depósito al cual se remitió, tipo de vehículo y matrícula así como el lugar del que fue retirado.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
+Los Policías de Tránsito y Vialidad de la Secretaría de Protección y Vialidad que hubieren ordenado o llevado a cabo la remisión al depósito, informarán de inmediato, a través de los medios electrónicos de que dispongan, al centro de control correspondiente los datos del depósito al cual se remitió, tipo de vehículo y matrícula así como el lugar del que fue retirado.
 
 La Secretaría de Protección y Vialidad puede auxiliarse de terceros para la remisión de vehículos a depósitos propios o de dichos terceros.
 
@@ -1161,9 +1229,11 @@ Los vehículos que transporten perecederos, sustancias tóxicas o peligrosas o q
 
 Los particulares afectados por los actos y resoluciones de las autoridades, podrán en los términos establecidos por el Código de Justicia Administrativa del Estado de Durango, interponer el recurso de inconformidad, ante la autoridad competente o impugnar la imposición de las sanciones ante el Tribunal de lo Contencioso Administrativo del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2012)</small>
+
 ###### Artículo 43.
 
-A los agentes que violen lo preceptuado en este Reglamento o que en aplicación del mismo remitan a un conductor ante el Juez Calificador, sin que medie infracción de tránsito alguna o remitan un vehículo a un depósito sin causa justificada, se les aplicarán las sanciones correspondientes. Los particulares pueden acudir ante el Ministerio Público, la Contraloría Interna del Municipio, o el Departamento de Asuntos Internos de la Secretaría de Protección y Vialidad a denunciar presuntos actos ilícitos de un servidor público.
+A los Policías de Tránsito y Vialidad que violen lo preceptuado en este Reglamento o que en aplicación del mismo remitan a un conductor ante el Juez Calificador, sin que medie infracción de tránsito alguna o remitan un vehículo a un depósito sin causa justificada, se les aplicarán las sanciones correspondientes. Los particulares pueden acudir ante el Ministerio Público, la Contraloría Interna del Municipio, o el Departamento de Asuntos Internos de la Secretaría de Protección y Vialidad a denunciar presuntos actos ilícitos de un servidor público.
 
 ###### Artículo 44.
 
@@ -1233,17 +1303,17 @@ POR ACCIDENTE 20 DIAS
 
 21 SI HAY ABANDONO DE LA (S) VICTIMA (S) 30 DIAS
 
-22 ABALANZAR EL VEHICULO SOBRE EL
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
 
-AGENTE DE TRANSITO O DE LA POLICIA
+22 AVALANZAR (sic) EL VEHÍCULO SOBRE EL
 
-EN SERVICIO SIN CAUSAR DAÑO 15 DIAS
+POLICÍA DE TRANSITO Y VIALIDAD O DE LA POLICÍA MUNICIPAL EN SERVICIO SIN CAUSAR DAÑO 15 DIAS
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
 
 23 SI LA VICTIMA ATROPELLADA ES UN
 
-AGENTE DE TRANSITO O DE LA POLICIA
-
-EN SERVICIO 20 DIAS
+POLICÍA DE TRANSITO Y VIALIDAD O DE LA POLICIA MUNICIPAL EN SERVICIO 20 DIAS
 
 CARGA NO AUTORIZADA Y PERMISOS
 
@@ -1425,6 +1495,10 @@ EL TIPO DE VEHICULO 8 DIAS
 
 EDAD SIN LICENCIA DE MANEJO 3 DIAS
 
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2012)</small>
+
+73 BIS CONDUCIR MENOR DE EDAD FUERA DEL HORARIO ESTABLECIDO. 4 DÍAS
+
 74 SIN CASCO EL MOTOCICLISTA 5 DIAS
 
 75 EXCESO DE VELOCIDAD 5 DIAS
@@ -1565,7 +1639,9 @@ EN LOS CRUCEROS 10 DIAS
 
 VARIOS
 
-112 INSULTAR A LOS AGENTES EN
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
+112 INSULTAR A LOS POLICÍAS DE TRANSITO Y VIALIDAD EN
 
 SERVICIO O PORTARSE ALTANEROS 5 DIAS
 
@@ -1607,7 +1683,7 @@ O ALTERARLO 10 DIAS
 
 121 REALIZAR REPARACIONES DE
 
-CUALQUIER INDOLE EN VIA PUBLICA
+CUALQUIER INDOLE EN VIA PÚBLICA
 
 (EXCEPTO EMERGENCIA) 10 DIAS
 
@@ -1657,9 +1733,11 @@ UNA MANIOBRA 4 DIAS
 
 TRANSITO 5 DIAS
 
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2012)</small>
+
 131 NO OBEDECER LAS SEÑALES DEL
 
-AGENTE 5 DIAS
+POLICÍA DE TRANSITO Y VIALIDAD 5 DIAS
 
 132 HACER SEÑALES INECESARIAS (SIC) 2 DIAS
 
@@ -1716,3 +1794,11 @@ Presidente Municipal.
 LIC. JORGE TORRES BERNAL
 
 Secretario del Republicano Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ENERO DE 2012.
+
+PRIMERO.- Se aprueban las reformas a los Artículos 3 Fracción II; 4 Fracción I; 5 Fracciones III y X; 6 Fracciones XI y XII; 7 Fracción I; 9 Fracción IV, Párrafo Segundo; 24 Segundo Párrafo; 27 Fracción I, Segundo Párrafo; 28 Segundo Párrafo; 31 Primer Párrafo, Fracciones II y IV; 34 Primero y Segundo Párrafos; El Título del Capítulo VII; Artículos 36 Primer Párrafo, Fracción III; Artículo 37 Primero, Segundo y Tercer Párrafos; 39 Primero y Segundo Párrafos; 40 Primero, Segundo y Cuarto Párrafos; 43 y 44 en las Claves 22, 23, 112 y 131 y la adición de la Clave 73-Bis del Reglamento de Tránsito y Vialidad del Municipio de Gómez Palacio, Durango, mismas que entrarán en vigor el día siguiente de su Publicación.
+
+SEGUNDO.- Publíquense estas Reformas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
