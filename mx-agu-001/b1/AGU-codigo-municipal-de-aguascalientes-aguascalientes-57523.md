@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2011-12-12"
+last_updated: "2012-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1113,9 +1113,15 @@ Secretario Particular
 
 Departamento de la Junta Municipal de Reclutamiento
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 Coordinación Administrativa
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 Unidad Administrativa de Regidores
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 Coordinación de Asuntos de Cabildo
 
@@ -1137,7 +1143,21 @@ Dirección de Justicia Municipal
 
 Departamento de Servicios Médicos, Psicología y Trabajo Social
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 Coordinación General de Verificación Única Administrativa
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+
+Coordinación Territorial
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+
+Coordinación Operativa
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+
+Coordinación de Estadística e Informática
 
 Coordinación de Sanidad y Salud Pública
 
@@ -1761,9 +1781,13 @@ XV. Conocer y en su caso atraer los asuntos jurídicos que así lo requieran por
 
 XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2012)</small>
 
-XVII. Las demás que señale la Ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XVII. Planear, ordenar y ejecutar todas las acciones que tengan relación con la verificación en la aplicación de la normatividad que en materia municipal establezcan las Leyes, el Código Municipal, Reglamentos y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+XVIII. Las demás que señale ley (sic) que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
 
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2008)</small>
 
@@ -2095,9 +2119,13 @@ VII. Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse 
 
 VIII. Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos así como asignar peritajes por servicio social en los casos que prevé este Código.
 
-IX. Inspeccionar y supervisar obras, de urbanización, edificación y construcciones en general.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-X. Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se apegue a las características previamente registradas.
+IX. Supervisar obras de urbanización, edificación y construcciones en general;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+X. Cerciorarse y aplicar la normatividad para el uso que se está dando a un predio, edificio o construcción y que éste se apegue a las características previamente registradas.
 
 XI. Acordar las medidas que fueren procedentes en relación con las obras de urbanización y edificación cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias.
 
@@ -2139,7 +2167,9 @@ XXVI. Supervisar por sí o a través de las Unidades Externas de Supervisión, l
 
 XXVII. Conforme a lo dictaminado por sí o por las Unidades Externas de Supervisión y el Perito responsable de las Obras de Urbanización, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los Fraccionamientos, Condominios y desarrollos especiales en proceso de municipalización o entrega a la Asamblea de Condóminos.
 
-XXVIII. Establecer y verificar en fraccionamientos, condominios y desarrollos especiales los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+XXVIII. Aplicar la normatividad establecida en fraccionamientos, condominios y desarrollos especiales de los usos permitidos en concordancia con el plano de uso de suelo autorizado por las autoridades competentes;
 
 XXIX. Requerir los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de subdivisiones, fraccionamientos, condominios y desarrollos especiales.
 
@@ -2177,7 +2207,9 @@ Corresponde a la Secretaría de Servicios Públicos lo siguiente:
 
 I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de población canina y felina, limpia y aseo público, panteones, parques y jardines. En cuanto al control (sic) población canina y felina, el servicio no puede concesionarse.
 
-II. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio humanitario y transportación de los productos cárnicos.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+II. Regular los servicios que proporciona el rastro a los usuarios;
 
 III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia.
 
@@ -2187,9 +2219,13 @@ V. Determinar el destino de las carnes no apropiadas para el consumo de la pobla
 
 VI. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley.
 
-VII. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-VIII. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas.
+VII. Ejercer el control sobre desechos líquidos o sólidos que pudieran contaminar el medio ambiente;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VIII. Regular la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
 
 IX. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
@@ -2265,7 +2301,9 @@ ARTÍCULO 114 BIS.- Corresponde a la Secretaría de Medio Ambiente y Desarrollo 
 
 I.- Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
 
-II.- Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+II.- Regular la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
 
 III.- Crear, Administración y Manejar las áreas naturales protegidas de competencia municipal, así como proponer zonas de preservación ecológicas dentro del territorio municipal;
 
@@ -5285,6 +5323,10 @@ Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o po
 
 (DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+
+En caso de violación al precepto indicado, los animales podrán ser asegurados por los verificadores del municipio en cumplimiento de sus funciones, a instancia propia o mediante denuncia ciudadana. El verificador podrá solicitar el apoyo de la fuerza pública. Los gastos que se generen con motivo de estas acciones serán por cuenta del propietario o responsable del animal independientemente de las sanciones a que se haga acreedor.
+
 ###### ARTÍCULO 429.
 
 (DEROGADO, P.O. 12 DE DICIEMBRE DE 2011)
@@ -5389,7 +5431,9 @@ VI. Cumplir con las normas básicas de salubridad vigentes.
 
 Son facultades de la autoridad municipal, en los panteones cuyo servicio se preste por conducto de particulares las siguientes:
 
-l. Realizar visitas de inspección por conducto de los verificadores municipales a los panteones, a fin de comprobar que se cumpla con las obligaciones a que se refiere este Código.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+I. Por medio de la Coordinación General de Verificación Única Administrativa, realizar visitas de verificación por conducto de los verificadores municipales a los panteones, a fin de comprobar que se cumpla con las obligaciones a que se refiere este Código;
 
 II. Solicitar informes de los servicios prestados y del número de lotes y superficies disponibles para las inhumaciones.
 
@@ -5621,9 +5665,11 @@ III. Cuando la imagen urbana se vea afectada significativamente.
 
 IV. Cuando se compruebe que es de utilidad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 481.
 
-Para efectos de la autorización a que se refiere el Artículo anterior los interesados deberán presentar solicitud ya sea por escrito, vía telefónica o electrónicamente, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Parques y Jardines, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+Para efectos de la autorización a que se refiere el artículo anterior los interesados deberán presentar solicitud ya sea por escrito, vía telefónica o electrónicamente, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Parques y Jardines, acudirá al lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
 
 Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra u otras especies vegetales propias para el área en cuestión, con el doble de la cobertura vegetal perdida como mínimo.
 
@@ -5697,69 +5743,63 @@ III. Informar a las autoridades municipales, o en su caso a las estatales y/o fe
 
 ### CAPITULO V. Reglamento de Colombofilia y Colombicultura
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 491 Bis.
-
-I. El presente Reglamento es de orden público e interés social y tiene por objeto regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, así como a contribuir a la prevención y control de la población de este género animal.
+ARTÍCULO 491 BIS.- El presente Capítulo es de orden público e interés general y tiene por objeto regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, así como a contribuir a la prevención y control de la población de este género animal.
 
 En algunos casos y bajo circunstancias determinadas, la utilización de las palomas mensajeras se ha considerado de utilidad pública y de interés especial para la Defensa Nacional.
 
-II. Para los efectos del presente Reglamento, se entenderá por:
+Para los efectos del presente Reglamento, se entenderá por:
 
-a. Colombofilia: es la tenencia, reproducción, cría, adiestramiento, entrenamiento, transporte, suelta y competición de palomos deportivos o de vuelo.
+a. Colombofilia: La tenencia, reproducción, cría, adiestramiento, entrenamiento, transporte, suelta y competición de palomos deportivos o de vuelo;
 
-b. Colombicultura: es la tenencia, reproducción, cría, adiestramiento, preparación, transporte y exhibición de palomos de raza.
+b. Colombicultura: La tenencia, reproducción, cría, adiestramiento, preparación, transporte y exhibición de palomos de raza;
 
-c. F.M.C: Federación Mexicana de Colombofilia A.C.
+c. F.M.C.: La Federación Mexicana de Colombofilia A. C.;
 
-d. Unión Colombófila de Aguascalientes A.C., domicilio legal Calle Tiziano # 335, Colonia San Marcos, C.P. 20078, Ags., Ags.
+d. U.C.A.: La Unión Colombófila de Aguascalientes A.C. con domicilio legal en la Calle Tiziano # 335, Colonia San Marcos, C.P. 20078, Ags., Ags.;
 
-e. F.M.C.A.C.: Federación Mexicana de Colombicultures A.C.
+e. F.M.C.A.C.: La Federación Mexicana de Colombicultores A. C.;
 
-f. Asociación de Colombicultores Promoción y Protección de Palomos y Aves de México A.C., domicilio legal Independencia # 115 Int 2, Maravillas, Jesús María, Ags.
+f. A.C.P.P.P.A.M.: La Asociación de Colombicultores Promoción y Protección de Palomos y Aves de México A.C.;
 
-g. Palomo: ave del orden de las columbiformes y la cual dado a su crianza y uso no puede considerarse como ave de corral, ya que no se explota con fines de consumo humano sino con fines deportivos.
+g. Palomo: Ave del orden de las columbiformes y la cual dado a su crianza y uso no puede considerarse como ave de corral, ya que no se explota con fines de consumo humano sino con fines deportivos;
 
-h. Palomar: espacio donde se mantenga transitoria o permanentemente a los palomos, con independencia de cuál sea la voluntad, fines o resultados que los propietarios persigan con ello, independientemente de que sean deportivas o de raza.
+h. Palomar: El espacio donde se mantenga transitoria o permanentemente a los palomos, con independencia de cuál sea la voluntad, fines o resultados que los propietarios persigan con ello, independientemente de que sean deportivas o de raza;
 
-i. Colombófilo: persona aficionada a la Colombofilia y quien es responsable por los animales que tiene a su cargo en materia de este reglamento.
+i. Colombófilo: La persona aficionada a la colombofilia y quien es responsable por los animales que tiene a su cargo en materia del presente Reglamento;
 
-j. Colombicultor: persona aficionada a la Colombicultura y quien es responsable por los animales que tiene a su cargo en materia de este reglamento.
+j. Colombicultor: La persona aficionada a la colombicultura y quien es responsable por los animales que tiene a su cargo en materia del presente Reglamento; y
 
-k. Autoridad: Dirección de Ecología y Salud, de la Secretaria de Servicios Públicos y Ecología, de la Presidencia Municipal de Aguascalientes.
+k. Autoridad: La Secretaría de Servicios Públicos del Municipio de Aguascalientes.
 
-III. Para la tenencia de palomos deportivos o palomos de raza, según sea el caso, será necesario solicitar y contar con la correspondiente licencia vigente, la cual será expedida por la F.M.C a través de su filial que es la Unión Colombófila de Aguascalientes A.C. para el caso de los palomos deportivos o de vuelo, así como por la F.M.C.A.C. a través de su filial que es la Asociación de Colombicultures Promoción y Protección de Palomos y Aves de México A.C., para el caso de los palomos de raza.
+I. Para la tenencia de palomos deportivos o palomos de raza, según sea el caso, será necesario solicitar y contar con la correspondiente licencia vigente, la cual será expedida por la F.M.C a través de su filial U.C.A. Para el caso de los palomos deportivos o de vuelo, según sea el caso, será necesario solicitar y contar con la correspondiente licencia vigente, la cual será expedida por la F.M.C.A.C. a través de su filial A.C.P.P.P.A.M.
 
-IV. Los palomos deberán estar confinados en palomares, los cuales deben de estar instalados o construidos dentro de la propiedad del poseedor de los mismos, sin invadir espacios ajenos, deberán ser cerrados en su perímetro ya sea por mampostería, muros de tabique, madera, lamina o malla y la techumbre deberá ser con lámina, madera, bóveda, losa de concreto, etc., los pisos pueden ser de terracería, concreto, madera o rejilla, siempre y cuando se cumplan con las medidas de higiene requeridas.
+II. Los palomos deberán estar confinados en palomares, los cuales deberán ser instalados o construidos dentro de la propiedad del poseedor de los mismos, sin invadir espacios ajenos. Además, deberán ser cerrados en su perímetro ya sea por mampostería, muros de tabique, madera, lámina o malla, y su techumbre con lámina, madera, bóveda, losa de concreto, etc. Los pisos pueden ser de terracería, concreto, madera o rejilla, siempre y cuando se cumplan con las medidas de higiene requeridas.
 
-V. El número máximo de palomos que se podrán alojar por metro cúbico de espacio disponible es de 7 (siete) ejemplares.
+III. El número máximo de palomos que se podrán alojar por metro cúbico de espacio disponible es de 7 (siete) ejemplares.
 
-VI. Los palomos no deberán estar libres fuera del palomar, a excepción de los palomos deportivos o mensajeros los cuales podrán salir a volar dos veces al día, para su adiestramiento y preparación para los concursos.
+IV. Los palomos no deberán estar libres fuera del palomar, a excepción de los palomos deportivos o mensajeros, los cuales podrán salir a volar dos veces al día, para su adiestramiento y preparación para los concursos.
 
-VII. Por regla general, los palomos deberán portar en una de sus patas un anillo de identificación, el cual tendrá gravado según corresponda; el anagrama de la Federación a la cual pertenece el propietario, el año de nacimiento del palomo, así como el número de serie correspondiente del anillo.
+V. Por regla general, los palomos deberán portar en una de sus patas un anillo de identificación, el cual tendrá gravado, según corresponda, el anagrama de la Federación a la cual pertenece su propietario, el año de nacimiento del palomo y el número de serie correspondiente del anillo.
 
-VIII. Los palomares deben de tener buenas condiciones de salud e higiene, acorde a las necesidades fisiológicas y etiológicas de los palomos que se que se alojen en el palomar.
+VI. Los palomares deberán guardar buenas condiciones de salud e higiene, acorde a las necesidades fisiológicas y etiológicas de los palomos que se alojen en el palomar.
 
-IX. Todas aquellas personas que posean palomos, obligatoriamente deberán aplicar los planes de sanidad que establezca la Autoridad junto con la Unión Colombófila de Aguascalientes A.C y la Asociación de Colombicultores Promoción y Protección de Palomos y Aves de México A.C.
+VII. Todas aquellas personas que posean palomos, obligatoriamente deberán aplicar los planes de sanidad que establezcan en conjunto la Autoridad, la U.C A y la A.C.P.P.P.A.M.
 
-X. Se debe de contar con un lugar especial (cuarentena) cuando exista la presencia de enfermedades que pongan en peligro al resto de palomos alojados en el palomar.
+VIII. Los propietarios deberán contar con un lugar especial para cuarentena cuando exista la presencia de enfermedades que pongan en peligro al resto de palomos alojados en el palomar.
 
-XI. Los palomares se deben de encontrar limpios y aseados, libres de desechos orgánicos, basura, plumas, etc., para evitar así malos olores o cualquier tipo de contaminación que afecte a los vecinos o a la vía pública; en caso contrario, se le impondrán las sanciones que tales efectos se prevén en el capitulo respectivo.
+IX. Los palomares deberán de conservarse limpios y aseados, libres de desechos orgánicos, basura, plumas, etc., a fin de evitar malos olores o cualquier tipo de contaminación que afecte a los vecinos o a la vía pública; en caso contrario, se le impondrán las sanciones que para tales efectos prevea la autoridad.
 
-XII. Los palomares se deberán de fumigar contra ácaros y cualquier otro tipo de parásitos propios de los palomos como mínimo 2 (dos) veces al año.
+X. Los palomares deberán fumigarse contra ácaros y cualquier otro tipo de parásitos propios de los palomos como mínimo 2 (dos) veces al año.
 
-XIII. Los palomos dentro del palomar deben de disponer de alimento suficiente, agua limpia y fresca, lugares adecuados para dormir.
+XI. Los palomares dispondrán de alimento suficiente, agua limpia y fresca, así domo (sic) lugares adecuados para la pernoctación de los palomos.
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+XII. El Municipio de Aguascalientes, a través de la Secretaría de Servicios Públicos y asesorado por la U.C.A y la A.C.P.P.P.A.M., llevará a efecto las medidas necesarias para el control sanitario y de proliferación de los palomos asilvestrados que se ubican en plazas, parques, jardines públicos, iglesias, entre otros; pudiendo determinar las acciones y sanciones necesarias para su control.
 
-XIV. El Municipio de Aguascalientes, en el ámbito de competencia de la Secretaría de Servicios Públicos y asesorado por la Unión Colombofila de Aguascalientes A.C. y por la Asociación de Colombicultores, Promoción y Protección de Palomos y Aves de México A.C., es quien llevará a efecto las medidas necesarias para el control sanitario y de proliferación de los palomos asilvestrados que se ubican en plazas, parques, jardines públicos, iglesias, entre otros; pudiendo determinar las acciones necesarias para su control.
+XIII. El Municipio de Aguascalientes, a través de la Coordinación General de Verificación Única Administrativa y asesorado por la U.C.A y la A.C.P.P.P.A.M., tendrá la facultad de verificar las instalaciones de los asociados o de cualquier otra persona que posea palomos.
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
-
-XV. El Municipio de Aguascalientes en el ámbito de su competencia a través de la Secretaria de Servicios Públicos y asesorado por la Unión Colombofila de Aguascalientes A.C. y por la Asociación de Colombicultores, Promoción y Protección de Palomos y Aves de MéxicoA.C. (sic) tiene la facultad de inspeccionar las instalaciones de los asociados o de cualquier otra persona que posea palomos, con la finalidad de verificar y en su caso sancionar a quien o quienes contravengan el presente reglamento; y
-
-XVI. Para toda violación a las disposiciones Municipales previstas en el presente Reglamento, se aplicará un apercibimiento al infractor para que dé cumplimiento a las mismas, en caso de hacer caso omiso al mismo, se le sancionará de acuerdo al CAPITULO I, De las Sanciones en Materia de Servicios Públicos, del ARTICULO 1574, del GRUPO UNO, inciso, h.
+XIV. Para toda violación a las disposiciones municipales previstas en el presente Reglamento, se aplicará un apercibimiento al infractor para que dé cumplimiento a las mismas; en caso de hacer caso omiso al mismo, se le sancionará de acuerdo al CAPITULO I, De las Sanciones en Materia de Servicios Públicos, del ARTÍCULO 1574, GRUPO UNO, inciso h).
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -6183,13 +6223,17 @@ IV. Requerir a las fuentes generadoras de contaminación atmosférica de compete
 
 V. Coordinar con las autoridades estatales y federales, el establecimiento y operación del sistema municipal de monitoreo atmosférico para conocer la calidad del aire en el municipio y poder tomar las medidas adecuadas para su conservación.
 
-VI. Vigilar que los servicios públicos municipales no originen o produzcan contaminación atmosférica, en apego a la normatividad ambiental vigente.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VI. Solicitar a la Coordinación General de Verificación Única Administrativa la verificación para que los servicios públicos municipales no originen o produzcan contaminación atmosférica en apego a la normatividad ambiental vigente;
 
 VII. Reubicar en el ámbito de su competencia o mediante acuerdos de coordinación con las autoridades estatales o federales, con los propietarios o poseedores de establecimientos comerciales, de servicios, de reparación y mantenimiento e industriales ubicados en zonas habitacionales en el territorio del municipio, su reubicación cuando sean motivo de quejas por parte de la población, constatadas por la autoridad competente referidas a la emisión de contaminantes a la atmósfera.
 
 En prevención de molestias de este tipo, analizará minuciosamente los informes preventivos que señala este Código y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación.
 
-VIII. Coordinar con la Dirección de la Unidad Municipal de Protección Civil las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VIII. Coordinarse con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias a fin de emitir las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente;
 
 IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes.
 
@@ -6483,17 +6527,23 @@ I. Fomentará el desarrollo de áreas verdes que contengan vegetación original,
 
 II. Establecerá los criterios bajo los cuales definirá qué especies vegetales podrán sembrarse en áreas urbanas, considerando como criterios ambientales, el agua, su mantenimiento y otros que considere aplicables.
 
-III. Vigilará que las ladrilleras que se encuentren en su territorio tengan zonas de amortiguamiento con la finalidad de evitar su acercamiento directo a las zonas habitacionales.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+III. Establecer la normatividad aplicable para que las ladrilleras que se encuentren en su territorio tengan zonas de amortiguamiento con la finalidad de evitar su acercamiento directo a las zonas habitacionales;
 
 IV. Dispondrá de una lista de competencias municipales en materia de impacto ambiental.
 
-V. Participará en la revisión correspondiente de aquellas actividades de riesgo ambiental que se realicen en función del desarrollo urbano.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+V. En coordinación con la autoridad competente, participará en la revisión correspondiente de aquellas actividades de riesgo ambiental que se realicen en función del desarrollo urbano;
 
 VI. Promoverá la integración de energías limpias en los nuevos desarrollos habitacionales y de servicios.
 
 VII. Promoverá el uso de tuberías diferenciadas para las aguas grises en los nuevos desarrollos habitacionales y de servicios.
 
-VIII. Coadyuvará en la vigilancia ambiental en coordinación con la Procuraduría Federal de Protección al Ambiente y la Procuraduría Estatal de Protección al Ambiente.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VIII. Coadyuvará en la vigilancia ambiental en coordinación con la Procuraduría Federal de Protección al Ambiente y la Procuraduría Estatal de Protección al Ambiente y las demás autoridades competentes;
 
 IX. Promoverá el desarrollo de programas de difusión en materia ambiental.
 
@@ -9505,9 +9555,11 @@ Los propietarios o poseedores y los Peritos, están obligados a manifestar por e
 
 Este requisito será indispensable para en obras mayores de sesenta metros cuadrados construidos, en obras cuya licencia haya requerido de la responsiva de un Perito y en desarrollos habitacionales con prototipos de vivienda. La constancia de terminación que de este artículo se deriva, será requisito indispensable para la ocupación del inmueble.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 672.
 
-La Secretaría estará facultada para verificar que las obras estén convenientemente regularizadas de acuerdo a:
+La Secretaría estará facultada para constatar que las obras estén convenientemente regularizadas de acuerdo a:
 
 I. La Constancia de Alineamiento y Compatibilidad Urbanística;
 
@@ -14979,9 +15031,11 @@ Cualquier persona física o moral podrá denunciar ante la Secretaría cualquier
 
 La denuncia popular deberá interponerse conforme a lo dispuesto por el artículo 23 de la Ley del Procedimiento Administrativo del Estado, haciendo una descripción breve de los hechos, actos u omisiones en que consista la infracción y los datos de la persona o personas a las que se impute la infracción. La persona que promueva la denuncia popular deberá acreditar su legitimación.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1163.
 
-La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo, practicando las inspecciones, visitas de verificación y diligencias necesarias y emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en materia urbana, que notificará al denunciante como respuesta a su petición.
+La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo y solicitará a la Coordinación General de Verificación Única Administrativa que practique las visitas de verificación y diligencias necesarias; la Secretaría emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
 
 ###### ARTÍCULO 1164.
 
@@ -15001,9 +15055,17 @@ b) Coadyuvar para que el Municipio ofrezca una imagen urbana ordenada, clara, li
 
 c) Garantizar que los anuncios publicitarios se fabriquen, coloquen, instalen y retiren cumpliendo con la normatividad de la materia y por ende se eviten riesgos a la población y en su caso se reparen los daños causados;
 
-d) Allegarse de fondos para que el Municipio, a través de la "Secretaría", regule, registre, inspeccione, verifique, sancione, así como determine el pago de los derechos correspondientes, con relación a la colocación, instalación, fijación y retiro de anuncios, de forma que sea acorde con el Código y este Código Municipal y logre así la salvaguarda de los propósitos mencionados con anterioridad; y
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-e) Lograr equilibrio entre la actividad económica, la publicidad exterior y la imagen urbana del Municipio.
+d). Allegarse de fondos para que el Municipio, a través de la Secretaría, regule, registre y sancione, así como determinar el pago de los derechos correspondientes con relación a la colocación, instalación, fijación y retiro de anuncios, de forma que sea acorde con el Código Urbano, el Código Municipal y el Reglamento de Verificación Administrativa del Municipio de Aguascalientes, logrando así la salvaguarda de los propósitos mencionados con anterioridad.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+
+e) Solicitar a la Coordinación General de Verificación Única Administrativa realice las verificaciones e imponga las medidas de seguridad y, en su oportunidad, remita a la Dirección correspondiente para que determine las sanciones por incumplimiento a las disposiciones contenidas en el Código Urbano, Código Municipal y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
+f). Lograr equilibrio entre la actividad económica, la publicidad exterior y la imagen urbana del Municipio.
 
 ###### ARTÍCULO 1166.
 
@@ -15069,7 +15131,9 @@ I. Expedir licencias o permisos para la instalación, fijación o colocación y 
 
 II. De conformidad con lo previsto en la ley de Ingresos Municipal vigente, determinar el costo de cada licencia o permiso;
 
-III. Practicar inspecciones y/o verificaciones a los anuncios y ordenar los trabajos de conservación, mantenimiento y reparación que fueren necesarios, para garantizar su estabilidad, seguridad y buen aspecto;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+III. La Coordinación General de Verificación Única Administrativa practicará verificaciones a los anuncios y solicitará a la Secretaría realizar las gestiones conducentes para los trabajos de conservación, mantenimiento y reparación que fueren necesarios para garantizar su estabilidad, seguridad y buen aspecto.
 
 IV. Solicitar al Subcomité cuando sea necesario, su opinión para la instalación, colocación o fijación de cualquier tipo de anuncios;
 
@@ -15359,9 +15423,11 @@ Tratándose de anuncios estructurales, semiestructurales o espectaculares que se
 
 Para el retiro de los anuncios que requieren de la responsiva de Perito Responsable, es necesario cumplir con los requisitos que para ese efecto señala éste Código Municipal de Aguascalientes, en su apartado de las construcciones.
 
-###### ARTÍCULO 1209.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-La Secretaría, para el efecto de autorizar o negar la autorización de una licencia o permiso para la colocación, fijación o instalación de un anuncio, deberá tomar en cuenta los aspectos de usos y destinos del suelo, vialidades, planeación e imagen urbana, así como los cálculos estructurales cuya instalación lo requiera, independientemente de lo previsto en el Código, éste Código Municipal y demás disposiciones aplicables. Además, podrá efectuar las verificaciones e inspecciones necesarias al lugar en que se pretenda instalar el anuncio, sin que ello implique el eximir de su responsabilidad a los Peritos respectivos.
+###### ARTICULO 1209.
+
+La Secretaría, para el efecto de autorizar o negar la autorización de una licencia o permiso para la colocación, fijación o instalación de un anuncio, deberá tomar en cuenta los aspectos de usos y destinos del suelo, vialidades, planeación e imagen urbana, así como los cálculos estructurales cuya instalación lo requiera, independientemente de lo previsto en el Código, en el Código Municipal y demás disposiciones aplicables. Además, podrá efectuar los reconocimientos necesarios al lugar en el que se pretenda instalar el anuncio, sin que ello implique el eximir de su responsabilidad a los Peritos respectivos.
 
 ###### ARTÍCULO 1210.
 
@@ -16417,9 +16483,11 @@ En los casos de reincidencia, se aplicará el máximo de la multa correspondient
 
 En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotulistas, se procederá a negar la revalidación de su registro ante la Secretaría.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1288.
 
-La Secretaría ejercerá las facultades de verificación y vigilancia que le corresponden, observando las disposiciones que en esa materia dispone éste Código Municipal y demás legislación aplicable.
+La Coordinación General de Verificación Única Administrativa ejercerá la facultad de verificación en materia de anuncios, observando en todo momento las disposiciones que en esta materia disponga el Código Municipal y la demás legislación aplicable.
 
 ### CAPÍTULO I. De los Requisitos para Obtener Licencias para la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes
 
@@ -16431,9 +16499,11 @@ Cualquier persona física o moral podrá denunciar ante la Secretaría cualquier
 
 La denuncia popular deberá interponerse por escrito con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, así como una descripción breve de los hechos, actos u omisiones en que consista la infracción y los datos de la persona o personas a las que se impute la infracción.
 
-###### ARTÍCULO 1291.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo, practicando las inspecciones y diligencias necesarias y emitirá la resolución correspondiente conforme a lo dispuesto por este Código Municipal, que notificará al denunciante como respuesta a su petición.
+###### ARTICULO 1291.
+
+La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo y solicitará a la Coordinación General de Verificación Única Administrativa que practique las visitas de verificación y diligencias necesarias; la Secretaría emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
 
 ###### ARTÍCULO 1292.
 
@@ -16497,11 +16567,13 @@ Si el dictamen técnico determina que se cubren la totalidad de los requisitos s
 
 Aprobada la licencia por el Presidente Municipal, se expedirá el documento correspondiente por la Dirección General de Gobierno, la Secretaría de Finanzas Públicas, previo pago de las contribuciones municipales y exhibición de fianza que determine la Secretaría de Finanzas Públicas, con el objeto de que garantice el cumplimiento de las obligaciones que le establece a su titular el presente Código. Negada la aprobación del giro correspondiente por el Presidente Municipal, se notificará al solicitante y se dará por concluido el trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+
 ### CAPÍTULO III. De las Farmacias, Droguerías, Tlapalerías o Similares
 
-###### ARTÍCULO 1298.
+###### ARTICULO 1298.
 
-Son obligaciones de los titulares de las licencias o permisos a que se refiere el capítulo anterior las siguiente (sic):
+Son obligaciones de los titulares de las licencias o permisos a que se refiere el capítulo anterior las siguientes:
 
 I. Tener a la vista la licencia o permiso, que le otorgue la Dirección General de Gobierno.
 
@@ -16529,7 +16601,9 @@ XII. Abstenerse de recibir armas o cualquier objeto en prenda o garantía de pag
 
 XIII. Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de héroes nacionales.
 
-XIV. Permitir el libre acceso a los verificadores, de la Dirección General de Gobierno, para la realización de sus funciones.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+XIV. Permitir el libre acceso de los verificadores adscritos a la Coordinación General de Verificación Única Administrativa para la realización de sus funciones.
 
 XV. Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones que le señala este Código.
 
@@ -16981,23 +17055,37 @@ La Dirección de Reglamentación será responsable de registrar, en un padrón m
 
 La credencial expedida por la Dirección de Reglamentación tendrá una vigencia de un año y deberá resellarse cada tres meses. En caso de no ser resellada en dicho término, la credencial perderá validez y el interesado deberá realizar de nueva cuenta los trámites y el pago de derechos que correspondan.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1343.
 
-Toda persona que realice actividades musicales en vía pública, deberá exhibir la credencial que para tal efecto haya expedido la Dirección de Reglamentación, a los inspectores acreditados que así lo requieran, tanto de la Dirección de Reglamentación como de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, ambas de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno. Nadie podrá realizar actividades musicales en vía pública si no cuenta con credencial vigente y resellada.
+Toda persona que realice actividades musicales en vía pública, deberá exhibir la credencial que para tal efecto haya expedido la Dirección de Reglamentación a los verificadores de la Coordinación General de Verificación Única Administrativa. Nadie podrá realizar actividades musicales en vía pública si no cuenta con credencial vigente y resellada.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 Queda prohibido a las personas que realicen actividades musicales, en función de sus actividades, lo siguiente:
 
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
 I. Ofrecer sus servicios en la vía pública, bajo los efectos de enervantes, psicotrópicos o cualquier otra sustancia que produzca efectos similares.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 II. Escandalizar en la vía pública.
 
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
 III. Ejecutar canciones que por el significado de la letra atenten contra la moral y las buenas costumbres.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 IV. No portar la credencial vigente y resellada expedida por la Dirección de Reglamentación de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+
 V. Exceder el volumen del sonido en alto parlantes, estéreos, radios, o cualquier otro elemento que produzcan sonidos estridentes o molestos a los vecinos o al público en general, en los términos de la Norma Oficial Mexicana aplicable.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 VI. Ejercer actividades musicales en avenidas o cruceros principales, así como en los accesos a instituciones religiosas, públicas o de salud.
 
@@ -17013,7 +17101,9 @@ II. Multa de 10 a 20 días de Salario Mínimo General Vigente en el Estado de Ag
 
 III. Suspensión temporal para realizar actividades de la música en vía pública de 30 días a 60 días a las personas que transgredan las disposiciones establecidas en la fracción VI del artículo 1343 del presente Código.
 
-Los inspectores de la Dirección de Mercados, Estacionamientos y Áreas comerciales y así como los inspectores de la Dirección de Reglamentación que observen la violación a las presentes disposiciones, estarán facultados para imponer cualquiera de las siguientes medidas de seguridad:
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
+Los verificadores de la Coordinación General de Verificación Única Administrativa que observen la violación a las presentes disposiciones, estarán facultados para imponer cualquiera de las siguientes medidas de seguridad:
 
 a) Solicitar el apoyo de la fuerza pública para retirar a las personas que realicen actividades musicales en la vía pública.
 
@@ -17147,6 +17237,10 @@ g) Un representante de los Tianguistas y Comercio Informal.
 
 h) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2012)</small>
+
+i) El Coordinador General de Verificación Única Administrativa.
+
 VII. Se consideran zonas prohibidas: aquellas donde no se podrá autorizar actividad de comercio en vía pública.
 
 a) Zonas restringidas: aquellas donde sólo se pueden autorizar determinados giros comerciales.
@@ -17265,7 +17359,9 @@ IV. Mantener aseados sus locales y áreas donde ejecuten su actividad comercial.
 
 V. Cumplir con los pagos correspondientes de agua y energía eléctrica, así como el pago puntual de derechos de uso de piso, ante la Secretaría de Finanzas Públicas.
 
-VI. Contar con la autorización de las autoridades competentes para la utilización de básculas, las cuales podrán ser supervisadas por los verificadores de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VI. Contar con la autorización de las autoridades competentes para la utilización de básculas, las cuales podrán ser supervisadas por los verificadores de la Coordinación General de Verificación Única Administrativa.
 
 VII. Fijar en lugar visible la lista de precios autorizados, para la venta de sus productos.
 
@@ -17273,7 +17369,9 @@ VIII. Destinar el local exclusivamente al giro o giros señalados en la licencia
 
 IX. Respetar los límites de sus locales o lugar y no utilizar áreas comunes ni pasillos o corredores para exhibir o vender sus mercancías o productos.
 
-X. Permitir el libre acceso a los verificadores de mercados o áreas correspondientes.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+X. Permitir el libre acceso a los verificadores de la Coordinación General de Verificación Única Administrativa.
 
 XI. Cumplir con las normas de: seguridad, protección civil, sanidad e higiene y demás que le impongan otras autoridades municipales, estatales y federales competentes.
 
@@ -17287,7 +17385,9 @@ XIV. Cumplir con las normas fiscales que le imponga la autoridad competente.
 
 XV. Empadronarse y efectuar sus obligaciones de pago de derechos e impuestos que determina la Ley de Ingresos y demás disposiciones fiscales del Municipio.
 
-XVI. Presentar los documentos que le requiera el personal de verificación del Departamento de Mercados y Estacionamientos.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+XVI. Presentar los documentos que le requiera el personal de verificación de la Coordinación General de Verificación Única Administrativa.
 
 XVII. Respetar los horarios de carga y descarga de mercancías que determine la autoridad municipal, a través de la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
@@ -17373,11 +17473,15 @@ IX. La administración de la actividad comercial en los tianguis.
 
 X. Autorizar y expedir los permisos para el uso de piso y ejercer el comercio, previo cumplimiento de los requisitos que establece este capítulo y el pago de los derechos correspondientes.
 
-XI. Vigilar y practicar visitas de verificación e inspección por conducto de sus verificadores o inspectores, a los lugares, puestos y tianguis para comprobar por parte de quien ejerce el comercio en la vía publica, el debido cumplimiento de lo dispuesto por el presente capítulo.
+XI. (DEROGADA, P.O. 9 DE ENERO DE 2012)
 
-XII. Verificar sobre la instalación, el acomodo y el retiro de los tianguistas, haciendo cumplir el horario, el espacio autorizado y la debida limpieza del lugar; para tal efecto se instalarán módulos con personal de la Dirección de Mercados, Estacionamientos y Áreas Comerciales para verificar el cumplimiento a la normatividad establecida en el presente Código.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-XIII. Verificar que las credenciales se encuentren vigentes y al corriente en sus pagos por uso de piso.
+XII. Solicitar a la Coordinación General de Verificación Única Administrativa, verificar que se cumplan los lineamientos previamente aprobados relativos a la instalación, acomodo y retiro de los tianguistas, haciendo cumplir el horario, el espacio autorizado y la debida limpieza del lugar.
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+XIII. Solicitar a la Coordinación General de Verificación Única Administrativa la verificación para efecto de que las credenciales que expida la autoridad competente se encuentren vigentes y al corriente en sus pagos por uso de piso.
 
 XIV. Determinar los horarios y condiciones bajo las cuales deberá de ejercerse el comercio en la vía pública, así como vigilar que sean respetados los derechos y dimensiones a los lugares asignados.
 
@@ -17517,9 +17621,11 @@ XII. Será responsabilidad exclusiva del tianguista, la instalación, el uso, ma
 
 Para la venta de animales vivos se deberá contar con los permisos correspondientes de la autoridad competente.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1381.
 
-Para verificar el debido cumplimiento de las disposiciones que señala el presente capítulo, y demás disposiciones aplicables, la Dirección de Mercados, Estacionamientos y Áreas comerciales, contará con un departamento de verificadores e inspectores, los cuales portarán ostensiblemente su identificación que los acredite.
+La Coordinación General de Verificación Única Administrativa será la facultada para verificar los actos administrativos en materia de verificación que contiene el presente Capítulo y los demás ordenamientos aplicables en la materia, debiendo el personal a su cargo portar ostensiblemente su identificación que los acredite como tal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -18161,6 +18267,8 @@ III. Para garantizar las obligaciones que se contraigan con motivo de la celebra
 
 ### CAPÍTULO II. De la Capacidad de los Interesados
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1439.
 
 Toda res de lidia deberá presentar las condiciones de trapío, salud y sanidad necesarios para la lidia. Asimismo, tener sus astas íntegras sin ostentar defectos de encornadura que resten peligro o trapío.
@@ -18539,6 +18647,8 @@ Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una r
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1490.
 
 La suerte de rejones seguirá las formas y modalidades que se establecen en este Código, ya sea en la actuación de uno o más rejoneadores en una corrida o novillada o en la celebración de corridas exclusivamente con rejoneadores.
@@ -18624,6 +18734,8 @@ Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 ## TÍTULO SEGUNDO. DE LOS ESPECTÁCULOS DEPORTIVOS
 
 ### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1505.
 
@@ -18711,9 +18823,13 @@ La actuación administrativa en el procedimiento se desarrolla con arreglo a los
 
 La administración pública municipal no podrá exigir más formalidades que las expresamente previstas en este capítulo.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1518.
 
-Cualquier promoción que presenten los particulares, deberán ser por escrito, con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, y hechos o fundamentos de su petición. En caso de omisión de alguno de los requisitos, se requerirá al interesado para que los subsane en un término de tres días, si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para admitir cualquier escrito.
+Cualquier promoción que presenten los particulares, deberá formularse por escrito, y contener el nombre, denominación o razón social de quien o quienes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, los hechos o razones que dan motivo a la petición, autoridad a la que se dirija, número de expediente en el caso de que exista, lugar y fecha de su emisión, y la firma del interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual se imprimirá su huella digital.
+
+En caso de omisión de alguno de los requisitos anteriores, se prevendrá por escrito y por una sola vez al interesado o, en su caso, al representante legal, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane la falta., si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para admitir cualquier escrito.
 
 ###### ARTÍCULO 1519.
 
@@ -18723,7 +18839,9 @@ I. Requerir informes, documentos y otros durante la realización de la visita de
 
 II. Proporcionar información y orientación acerca de los requisitos jurídicos y técnicos que las disposiciones vigentes impongan a las actuaciones o solicitudes que se propongan realizar.
 
-III. Permitir el acceso a sus registros y archivos en los términos previstos en este Código y otros reglamentos municipales, para obtener información que directamente tenga que ver con el particular solicitante.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+III. Permitir el acceso a sus registros y archivos en los. términos de éste Código, y otros reglamentos municipales, para obtener información que directamente tenga que ver con el particular solicitante, reservándose la autoridad aquélla información que contenga asuntos relativos a la defensa de la seguridad nacional, a materias protegidas por el secreto comercial o industrial y en los que el interesado no sea titular o causahabiente.
 
 IV. Facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones apegados al marco legal.
 
@@ -18755,13 +18873,17 @@ Los interesados podrán solicitar les sea expedida copia certificada a su costa 
 
 ###### ARTÍCULO 1524.
 
+Para los efectos del presente Código y demás normatividad municipal, se entenderá por interesado aquella persona que tiene un interés legítimo respecto de un acto o procedimiento administrativo, por ostentar un derecho legalmente tutelado.
+
 Los interesados con capacidad de ejercicio podrán promover por si o por interpósita persona.
 
-Cuando alguien promueva en representación de alguna persona física o moral, deberá de acreditarlo mediante instrumento público, en tratándose de personas morales, o mediante carta-poder firmada ante dos testigos y ratificada las firmas del otorgante y de los testigos ante la propia autoridad o fedatario público, sin perjuicio de autorizar persona para oír y recibir toda clase de notificaciones dentro de cualquier procedimiento administrativo municipal.
+Cuando alguien promueva en representación de alguna persona física o moral, para formular solicitudes, participar en el procedimiento administrativo, interponer recursos, desistirse y renunciar a derechos, deberá de acreditarlo mediante instrumento público, en tratándose de personas morales, o mediante carta-poder firmada ante dos testigos y ratificada (sic) las firmas del otorgante y de los testigos ante la propia autoridad o fedatario público, sin perjuicio de autorizar persona para oír y recibir toda clase de notificaciones dentro de cualquier procedimiento administrativo municipal.
 
-###### ARTÍCULO 1525.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-Los interesados, podrán autorizar por escrito en cada caso, a un licenciado en derecho, para que en su nombre y representación reciba notificaciones, ofrezca y rinda pruebas e interponga los recursos a que se refieren las disposiciones de este Código.
+###### ARTICULO 1525.
+
+Cuando en una solicitud, escrito o comunicación fungieren varios interesados, las actuaciones a que den lugar se efectuarán con el representante común o interesado que expresamente hayan señalado y, en su defecto, con el que fungiere en primer término.
 
 ###### ARTÍCULO 1526.
 
@@ -18789,9 +18911,11 @@ V. Cualquier otra prevista en el presente Código.
 
 Las actuaciones y diligencias administrativas municipales se practicarán en horas y días hábiles.
 
-###### ARTÍCULO 1529.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
-En cualquier término no se contarán los días inhábiles, se considerarán inhábiles: sábados y domingos, el primero de enero, veintiuno de marzo, primero de mayo, veintitrés de junio, primero y dieciséis de septiembre, veinte de noviembre y veinticinco de diciembre y aquellos días en que se suspendan labores. No se consideran días hábiles aquellos en que se suspendan labores administrativas, aún y cuando exista guardias para la atención de servicios públicos primordiales.
+###### ARTICULO 1529.
+
+En cualquier término no se contarán los días inhábiles; se considerarán inhábiles: sábados y domingos, el primero de enero, cinco de febrero veintiuno de marzo, primero y cinco de mayo, veintitrés de junio, primero y dieciséis de septiembre, veinte de noviembre, primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal y veinticinco de diciembre y aquellos días en que se suspendan labores. No se consideran días hábiles aquellos en que se suspendan labores administrativas, aún y cuando exista guardias para la atención de servicios públicos primordiales.
 
 ###### ARTÍCULO 1530.
 
@@ -18835,7 +18959,9 @@ III. La notificación se entenderá con la persona que deba ser notificada, con 
 
 IV. Si la persona a quien ha de notificarse no atendiere el citatorio la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio donde se realice la diligencia, entregándole copia del documento.
 
-V. En el caso de que el interesado que haya de notificarse tenga domicilio fuera del municipio de Aguascalientes, se hará la notificación mediante correo certificado con acuse de recibo.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+V. En el caso de que el interesado que haya de notificarse tenga domicilio fuera del municipio de Aguascalientes, se hará la notificación mediante correo certificado con acuse de recibo, y surtirá efectos en esa misma fecha.
 
 VI. Por edictos, únicamente en el evento de que la persona a quien deba de notificarse haya desaparecido, se ignore su domicilio, o se encuentre fuera del municipio de Aguascalientes sin haber dejado representante legal acreditado ante las autoridades municipales administrativas.
 
@@ -18857,19 +18983,27 @@ VI. La resolución definitiva o que resuelva un recurso.
 
 VII. En todos aquellos casos que la autoridad administrativa municipal así lo ordene.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1539.
 
-Las notificaciones surtirán sus efectos al día hábil siguiente a aquel en que se hubiere sido entregado el oficio o conteniendo copia de la resolución que se notifica, o el de la publicación del edicto en su caso.
+En las notificaciones por edictos, las publicaciones deberán efectuarse por dos veces consecutivas en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación, y se tendrá como fecha en la que surte efectos la notificación, la de la última publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el territorio de la Entidad.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1540.
 
-Las notificaciones por edictos se realizara haciendo la publicación que contendrán un resumen de las resoluciones por notificar, dichas publicaciones deberán efectuarse por una sola vez en el periódico oficial del estado o del municipio y en uno de mayor circulación.
+Tratándose de las demás formas de notificación contenidas en el presente Código y demás disposiciones reglamentarias, surtirán sus efectos el día siguiente al en que éstas se practiquen.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1541.
 
-La manifestación que haga el interesado, su representante legal o quien este autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
+En caso de que alguna notificación no haya sido realizada de conformidad con el presente Capítulo, si el interesado o su representante legal comparecen dándose por enterados del acto motivo de la notificación, ésta se tendrá por legalmente realizada.
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
+(REUBICADO, P.O. 9 DE ENERO DE 2012)
+
+## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN
 
 ### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
 
@@ -18877,11 +19011,17 @@ La manifestación que haga el interesado, su representante legal o quien este au
 
 Corresponde a la administración municipal a través de sus dependencias:
 
-I. Ejercer actos de inspección y verificación en el ámbito de su competencia, y por conducto de sus inspectores vigilar el estricto cumplimiento de las disposiciones del presente código, así como de los demás reglamentos y leyes municipales aplicables.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-II. La vigilancia sobre el cumplimiento de las disposiciones señaladas, la cual estará a cargo de cada unidad administrativa en el ámbito de su competencia, contando con un cuerpo de notificadores e inspectores y demás personas que sean habilitadas para el efecto, por lo que contarán con las siguientes atribuciones.
+I. Ejercer actos de verificación en el ámbito de su competencia, y por conducto de sus verificadores vigilar el estricto cumplimiento de las disposiciones del presente Código, así como de los demás ordenamientos legales en materia municipal.
 
-III. Realizar dentro del territorio municipal las visitas de inspección que consideren necesarias a los predios, establecimientos, giros industriales, comerciales de servicios y en general en cualquier lugar, con el fin de vigilar dentro de su competencia el cumplimiento de las disposiciones del presente Código y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+II. La vigilancia sobre el cumplimiento de las disposiciones señaladas, estará a cargo de la Coordinación General de Verificación Única Administrativa, contando con un cuerpo de verificadores y demás personal que sea habilitado para el efecto, por lo que contarán con las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+III. Realizar dentro del territorio municipal las visitas de verificación que consideren necesarias a los predios, establecimientos, giros industriales, comerciales, de servicios y en general en cualquier lugar con el fin de vigilar dentro de su competencia el cumplimiento de las disposiciones del presente Código y demás disposiciones aplicables.
 
 IV. Llevar a cabo las diligencias necesarias en el ámbito de su competencia o las que correspondan a la Federación y/o Estado previo acuerdo de coordinación, que para el caso se celebre previamente.
 
@@ -18889,45 +19029,71 @@ V. Aplicar las medidas de seguridad que establece este Código y demás disposic
 
 VI. Las demás que señale el presente Código y demás legislación aplicable.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1543.
 
-Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que halla lugar.
+Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de verificación, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1544.
 
-El procedimiento de inspección y verificación deberá de iniciar mediante determinación por escrito, expedida por la autoridad municipal competente debidamente fundada y motivada, la cual concluirá forzosamente con una resolución.
+El procedimiento de verificación deberá de iniciar mediante determinación por escrito, expedida por la autoridad municipal competente debidamente fundada y motivada, la cual concluirá forzosamente con una resolución.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1545.
 
-La persona responsable, propietaria o quien se encuentre en el lugar en el que habrá de llevarse a cabo una diligencia, estará obligada a permitir al verificador, previa identificación con credencial vigente y oficio de comisión fundado y motivado, acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que le sea requerida y a mostrar los documentos que se le soliciten.
+La persona responsable, propietaria o quien se encuentre en el lugar en el que habrá de llevarse a cabo una diligencia, estará obligada a permitir al verificador, previa identificación con credencial vigente y oficio de comisión fundado y motivado, acceso al lugar o lugares sujetos a verificación, así como proporcionar toda clase de información que le sea requerida y a mostrar los documentos que se le soliciten.
 
-No se requerirá orden escrita de inspección, cuando los verificadores detecten actividades contrarias al presente Código en el momento de estarse consumando éstas o pongan en peligro la seguridad de las personas, sus bienes o derechos. En este caso levantará el acta respectiva, se tomarán las medidas de seguridad que al caso correspondan y se turnará el asunto a la autoridad que corresponda, para su calificación.
+No se requerirá orden escrita de verificación, cuando los verificadores detecten actividades contrarias al presente Código en el momento de estarse consumando éstas o pongan en peligro la seguridad de las personas, sus bienes o derechos. En este caso levantará el acta respectiva, se tomarán las medidas de seguridad que al caso correspondan y se turnará el asunto a la autoridad que corresponda, para su calificación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1546.
 
-Todo procedimiento de inspección y verificación iniciará con una determinación, la que contendrá:
+Todo procedimiento de verificación iniciará con una determinación, la que contendrá:
 
-l. Orden de comisión de determinado inspector para que inspeccione y/o verifique el debido cumplimiento del presente Código o la legislación aplicable.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-II. Nombre o razón social del lugar o establecimiento que ha de inspeccionarse.
+I. Orden de comisión de determinado verificador para que verifique el debido cumplimiento del presente Código y la legislación aplicable.
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+II. Nombre o razón social del lugar o establecimiento que ha de verificarse.
 
 III. Nombre del propietario o titular de la licencia.
 
-IV. Domicilio o ubicación del lugar a inspeccionarse.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-V. Lugar, y fecha en que se lleve a cabo la inspección.
+IV. Domicilio o ubicación del lugar a verificarse.
 
-VI. Nombre y número del inspector habilitado.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+V. Lugar, y fecha en que se lleve a cabo la verificación.
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VI. Nombre y número del verificador habilitado.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE ENERO DE 2012)</small>
 
 VII. Fundamento y motivación.
 
-VIII. Nombre y firma de la autoridad de la cual emana la determinación de inicio del procedimiento de inspección y verificación.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
 
-IX. Autorización del uso de la fuerza pública en caso de que se requiera o que se nieguen u obstaculicen la ejecución de la inspección.
+VIII. Nombre y firma de la autoridad de la cual emana la determinación de inicio del procedimiento de verificación.
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+IX. Autorización del uso de la fuerza pública en caso de que se requiera o que se nieguen u obstaculicen la ejecución de la verificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1547.
 
-En toda acta de inspección o en la aplicación de una clausura parcial, total, temporal o definitiva, como medida de seguridad, deberán asentarse los siguientes datos:
+En toda acta de verificación o en la aplicación de una clausura parcial, total, temporal o definitiva, como medida de seguridad, deberán asentarse los siguientes datos:
 
 I. Nombre o razón social del lugar o establecimiento, si lo hubiere.
 
@@ -18943,7 +19109,9 @@ VI. Nombre y número de credencial del verificador.
 
 VII. Fecha y número de oficio de comisión, cuando lo hubiere.
 
-VIII. Fundamento jurídico de la inspección.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+VIII. Fundamento jurídico de la verificación.
 
 IX. Nombre de la persona con quien se entiende la diligencia, o en caso de negativa su media filiación.
 
@@ -18953,43 +19121,57 @@ XI. Relación de los hechos que se apreciaron.
 
 XII. Manifestaciones que solicite el visitado se agreguen en el acta.
 
-XIII. Observaciones del inspector.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+
+XIII. Observaciones del verificador.
 
 XIV. Firma de los que intervinieron y hora en que terminó la diligencia y en su caso, la razón de la negativa a firmar de la persona con quien se entendió la diligencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1548.
 
-Al término de la diligencia se entregará al visitado el original del oficio de comisión y la copia del acta de inspección.
+Al término de la diligencia se entregará al visitado el original del oficio de comisión y la copia del acta de verificación.
 
 El visitado contará con diez días hábiles para subsanar las deficiencias o irregularidades observadas, debiendo comunicar por escrito en forma detallada a la autoridad ordenadora el haber dado cumplimiento a las medidas señaladas en el acta de verificación en los términos del requerimiento respectivo, la omisión del anterior informe hará acreedor al infractor a la sanción correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 1549.
 
-Transcurridos los diez días hábiles de la inspección, sin que el visitado informe del cumplimiento o justifique haber interpuesto un recurso o medio de defensa contra el acta de verificación, procederá la autoridad correspondiente a establecer la certeza de la violación y a aplicar la sanción que corresponda en términos del presente Código.
+Transcurridos los diez días hábiles de la verificación, sin que el visitado informe del cumplimiento o justifique haber interpuesto un recurso o medio de defensa contra el acta de verificación, procederá la autoridad correspondiente a establecer la certeza de la violación y turnará las diligencias para la aplicación de la sanción que corresponda en términos del presente Código.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1550.
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta se desprenda que no se ha dado cumplimiento con las medidas previamente ordenadas, la autoridad competente podrá poner la sanción o sanciones que procedan.
+Cuando se trate de segunda o posterior verificación, para cerciorarse del cumplimiento de un requerimiento o requerimientos anteriores y del acta se desprenda que no se ha dado cumplimiento con las medidas previamente ordenadas, la autoridad competente podrá imponer la sanción o sanciones que procedan.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1551.
 
-Los inspectores o verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el procedimiento establecido en este capítulo para el ejercicio de su función.
+Los verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el (sic) procedimiento establecido en este capítulo para el ejercicio de su función.
 
 ### CAPÍTULO I. Del Recurso de Revisión
 
 ###### ARTÍCULO 1552.
 
-Del acta de inspección se dará vista al funcionario que la ordenó, quien decidirá la determinación de posición de sanciones o medidas de seguridad en el término de veinticuatro horas lo conducente.
+Del acta de verificación se dará vista a la dependencia o autoridad competente, quien decidirá la determinación de imposición de sanciones o medidas de seguridad, independientemente de las que se hayan determinado en el procedimiento de verificación, en el término de veinticuatro horas lo conducente.
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1553.
 
-De la determinación de sanciones y medidas de seguridad se le notificará personalmente al visitado dentro del término de veinticuatro horas, de las sanciones a que se hizo acreedor, en la misma notificación la autoridad municipal ordenará al inspector las medidas de seguridad que se han de realizar.
+De la determinación de sanciones y medidas de seguridad se le notificará personalmente al visitado dentro del término de veinticuatro horas, de las sanciones a que se hizo acreedor, en la misma notificación la autoridad municipal ordenará al verificador las medidas de seguridad que se han de realizar.
 
 ###### ARTÍCULO 1554.
 
 Si la resolución determina procedente la clausura provisional como medida de seguridad, deberá de expresarse en la notificación el tiempo de la clausura, dicha resolución deberá de estar debidamente fundada y motivada.
 
-En el evento de que los inspectores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad, la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito a que se refiere el artículo del presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta conforme lo establece el artículo 1547 del presente ordenamiento y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
+En el supuesto de que los verificadores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad, la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito a que se refiere el presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
 
 En caso de clausura provisional como medida de seguridad, esta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad liquida.
 
@@ -20272,3 +20454,21 @@ P.O. 12 DE DICIEMBRE DE 2011.
 DECRETO POR EL QUE SE REFORMA EL RENGLÓN CUARTO DE LA FRACCIÓN XV DEL ARTÍCULO 98 Y SE DEROGA EL CAPÍTULO I DENOMINADO "DEL CONTROL CANINO Y FELINO" DEL TÍTULO ÚNICO DEL LIBRO TERCERO, ASÍ COMO LOS ARTÍCULOS 417 AL 444 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ÚNICO.- El presente reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el 1° de enero del 2012.
+
+P.O. 9 DE ENERO DE 2012.
+
+I.- En un término de 45 días hábiles contados a partir de la presente publicación en el Periódico Oficial del Estado, se deberán de publicar las reformas, adiciones o derogaciones a las diversas disposiciones que contienen los Reglamentos de: Reglamento de Estacionamientos del Municipio de Aguascalientes; Reglamento de Protección Civil para el Municipio de Aguascalientes; Reglamento de Desarrollo de Fraccionamientos, Condominios, Desarrollos Especiales y Subdivisiones para el Municipio de Aguascalientes; Reglamento de Rastros del Municipio de Aguascalientes; y Reglamento para la Protección y Trato Digno a los Animales del Municipio de Aguascalientes;
+
+II.- Las diligencias de verificación que se encuentren en trámite a la entrada en vigor del presente ordenamiento, se regularán por las normas jurídicas vigentes en el momento en que se hayan iniciado dichas diligencias.
+
+III.- En tanto se nombre y acredite a los Verificadores en los términos de las presentes disposiciones, las facultades de verificación continuarán siendo ejercidas por los propios verificadores que se encuentren adscritos a las diversas dependencias de la Administración Pública Municipal, en un término de 15 días hábiles contados a partir del día siguiente a la publicación en el Periódico Oficial del Estado del presente Reglamento de Verificación Administrativa, así como las reformas y adiciones que en materia de verificación establezca el Código Municipal de Aguascalientes
+
+IV- El personal que actualmente presta sus servicios en las diversas dependencias de la Administración Pública Municipal, que ejerzan funciones de Verificación pasarán a la Coordinación General de Verificación Única Administrativa.
+
+V- Las nuevas credenciales de los Verificadores deberán expedirse dentro de los 20 días naturales siguientes a la publicación del Reglamento de Verificación Administrativa, y de las presentes reformas y adiciones al Código Municipal de Aguascalientes; entre tanto, los Verificadores se identificarán con las credenciales actualmente en vigor.
+
+VI.- La Coordinación General de Verificación Única Administrativa, deberá implementar el padrón relativo en materia de Verificación Administrativa, en un término de noventa días naturales, contados a partir del día siguiente de la publicación del presente Reglamento de Verificación Administrativa.
+
+VII.- Dentro de los cuarenta y cinco días naturales siguientes a la publicación del presente Reglamento, la Coordinación General de Verificación Única Administrativa, publicará en el Periódico Oficial del Estado y en los periódicos de mayor circulación en el Municipio de Aguascalientes los datos de identificación y adscripción de los verificadores.
+
+VIII.- Las reformas y/o adiciones al Código Municipal de Aguascalientes relacionadas con la aplicación del presente Reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
