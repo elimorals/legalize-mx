@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2011-12-05"
+last_updated: "2012-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE ENERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -212,7 +212,9 @@ V. A integrarse libremente a instituciones u organizaciones civiles, a un hogar 
 
 VI. A emitir su opinión en todos los asuntos que le afecten y a ser escuchado tomando en cuenta su edad y madurez en todo procedimiento judicial o administrativo, ya sea directamente o por medio de representante;
 
-VII. A recibir un trato digno y apropiado cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2012)</small>
+
+VII. A recibir información respecto de cuestiones de seguridad pública, protección civil y medio ambiente; y
 
 VIII. A recibir el apoyo de los órganos locales de gobierno, en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como son: Sistema para el Desarrollo Integral de la Familia en el Distrito Federal, del Tribunal Superior de Justicia del Distrito Federal, de las Procuradurías competentes y de la Comisión de Derechos Humanos del Distrito Federal.
 
@@ -298,9 +300,13 @@ V. Realizar los trámites de inscripción para que reciban la educación obligat
 
 VI. Incentivarlos para que realicen actividades culturales, recreativas, deportivas y de esparcimiento, que les ayuden a su desarrollo integral;
 
-VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y
+VII. Respetar y tener en cuenta el carácter de sujeto de derecho; y (sic)
 
 VIII. Darles a conocer sus derechos, así como brindarles orientación y dirección para su ejercicio y debida observancia.
+
+> <small>(ADICIONADA, G.O. 9 DE ENERO DE 2012)</small>
+
+IX. Orientar y educar sobre el respeto y cuidado al medio ambiente.
 
 ###### Artículo 10.
 
@@ -608,7 +614,9 @@ III. Fomentar y fortalecer la colaboración, concertación, coordinación, y par
 
 IV. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas y morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de las niñas y niños en el Distrito Federal, debiendo estar el Consejo informado en todo momento;
 
-V. Evaluar los logros y avances de los programas de la Administración Pública en la materia y (sic) proponer medidas para su optimización;
+> <small>(REFORMADA, G.O. 9 DE ENERO DE 2012)</small>
+
+V. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización; así como verificar que la formulación y ejecución de las políticas públicas no contravengan lo estipulado en los principios de la Convención de los Derechos del Niño, los establecidos en la presente Ley y demás ordenamientos internacionales en la materia.
 
 VI. Analizar y proponer a las instancias competentes, modelos de atención para las niñas y niños;
 
@@ -1041,3 +1049,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para los efectos de su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 9 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
