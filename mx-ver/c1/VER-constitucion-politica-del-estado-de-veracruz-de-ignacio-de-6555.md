@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2011-11-10"
+last_updated: "2012-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
-CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2012.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1423,11 +1423,13 @@ III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta
 
 IV. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2012)</small>
 
 ###### Artículo 70.
 
-Los ediles durarán en su cargo tres años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley.
+Los ediles durarán en su cargo cuatro años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Los ediles no podrán ser elegidos para integrar el Ayuntamiento del período siguiente; la misma prohibición se aplicará a los integrantes de los Concejos Municipales. Los ediles, cuando tengan el carácter de propietarios, no podrán ser elegidos para el período inmediato como suplentes; pero los que tengan el carácter de suplentes, sí podrán ser elegidos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
@@ -2610,3 +2612,15 @@ G.O. 10 DE NOVIEMBRE DE 2011.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE ENERO DE 2012.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Los presidentes municipales, regidores y síndicos de los ayuntamientos elegidos en el año 2010 y que entraron en funciones a partir del 1 de enero de 2011 durarán en su encargo los tres años para los que fueron elegidos. Los presidentes municipales, regidores y síndicos de los ayuntamientos que se elijan en el año 2013, para iniciar sus funciones el 1 de enero de 2014, durarán en su encargo cuatro años.
+
+Artículo tercero. El ejercicio constitucional de cuatro años para el periodo de gobierno de los ayuntamientos del Estado iniciará a partir de la renovación de los ayuntamientos del 1 de enero del año 2014.
+
+Artículo cuarto. En todos los ordenamientos estatales que se señale el período de gobierno de tres años para los ayuntamientos del Estado, se entenderá referido al período de cuatro años, en términos de lo dispuesto en los artículos Segundo y Tercero Transitorios del presente Decreto.
+
+Artículo quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
