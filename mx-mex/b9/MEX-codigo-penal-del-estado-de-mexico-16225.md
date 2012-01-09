@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-01-06"
+last_updated: "2012-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL GACETA DEL GOBIERNO DEL 9 DE ENERO DE 2012.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1717,35 +1717,7 @@ DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 DELITOS CONTRA EL CORRECTO FUNCIONAMIENTO DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA Y ORGANOS JURISDICCIONALES, Y DE LA SEGURIDAD DE LOS SERVIDORES PUBLICOS Y PARTICULARES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
-
-Artículo 166 bis.- Comete este delito quien:
-
-I. Aceche, vigile, espíe o proporcione información, sobre las actividades oficiales o personales que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública u Órganos Jurisdiccionales con la finalidad de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones, órganos o servidores públicos;
-
-II. Ingrese, altere o acceda a información de las instituciones de seguridad pública u órganos jurisdiccionales con los fines señalados en el párrafo anterior;
-
-III. Aceche, vigile, espíe o proporcione información, sobre las actividades que realice o pretenda realizar cualquier persona con la finalidad de ocasionarle un daño; y
-
-IV. Para fines de asechanza, vigilancia o espionaje por (sic) tres o más teléfonos celulares, sistemas de comunicación electrónica o de radio comunicación, o bien, no justifique su propiedad o legítima posesión.
-
-Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa (sic), sin perjuicio de las penas que les correspondan por los delitos que cometan.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
-
-Artículo 166 ter.- La pena señalada en el artículo anterior se agravará en los siguientes términos:
-
-I. Si el delito es cometido por servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales del Estado de México, se aumentará la pena hasta una mitad más de la que corresponda. Además, se impondrá la destitución definitiva del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro de 5 a 15 años;
-
-II. Tratándose de miembros de Instituciones Policiales de la Federación, del Distrito Federal o de otros (sic) Entidades Federativas, se aumentará la pena hasta una mitad más de la que corresponda. Además se impondrá inhabilitación para desempeñar igual o similar empleo, cargo o comisión de 5 a 15 años; y
-
-III. Si el delito fuera cometido por ex servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales de la Federación, del Distrito Federal, de los Estados o los Municipios, o de ex integrantes de las fuerzas armadas se aumentará la pena hasta una tercera parte más de la que corresponda.
-
-SUBTITULO CUARTO
-
-DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO I. FALSIFICACION DE DOCUMENTOS
 
@@ -1938,6 +1910,36 @@ A los inculpados de los delitos previstos en las fracciones VII a XII, se les im
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2012)</small>
 
 ### CAPITULO I. DELINCUENCIA ORGANIZADA
+
+###### Artículo 166 Bis.
+
+Comete este delito quien:
+
+I. Aceche, vigile, espíe o proporcione información, sobre las actividades oficiales o personales que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública u Órganos Jurisdiccionales con la finalidad de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones, órganos o servidores públicos;
+
+II. Ingrese, altere o acceda a información de las instituciones de seguridad pública u órganos jurisdiccionales con los fines señalados en el párrafo anterior;
+
+III. Aceche, vigile, espíe o proporcione información, sobre las actividades que realice o pretenda realizar cualquier persona con la finalidad de ocasionarle un daño; y
+
+> <small>(F. DE E., G.G. 9 DE ENERO DE 2012)</small>
+
+IV. Para fines de asechanza, vigilancia o espionaje porte tres o más teléfonos celulares, sistemas de comunicación electrónica o de radio comunicación, o bien, no justifique su propiedad o legítima posesión.
+
+Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa (sic), sin perjuicio de las penas que les correspondan por los delitos que cometan.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
+
+Artículo 166 ter.- La pena señalada en el artículo anterior se agravará en los siguientes términos:
+
+I. Si el delito es cometido por servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales del Estado de México, se aumentará la pena hasta una mitad más de la que corresponda. Además, se impondrá la destitución definitiva del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro de 5 a 15 años;
+
+II. Tratándose de miembros de Instituciones Policiales de la Federación, del Distrito Federal o de otros (sic) Entidades Federativas, se aumentará la pena hasta una mitad más de la que corresponda. Además se impondrá inhabilitación para desempeñar igual o similar empleo, cargo o comisión de 5 a 15 años; y
+
+III. Si el delito fuera cometido por ex servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales de la Federación, del Distrito Federal, de los Estados o los Municipios, o de ex integrantes de las fuerzas armadas se aumentará la pena hasta una tercera parte más de la que corresponda.
+
+SUBTITULO CUARTO
+
+DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO II. PORTACION, TRAFICO Y ACOPIO DE ARMAS PROHIBIDAS
 
@@ -3581,7 +3583,7 @@ XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución e inhabilitación de dos a diez años para desempeñar otro empleo, cargo o comisión públicos;
 
-XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros;
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
