@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2011-07-29"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUM. 286
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -149,7 +149,7 @@ El ejercicio del Poder Legislativo se deposita en una Cámara de Diputados denom
 
 El Congreso del Estado tiene plena autonomía para el ejercicio de sus facultades y atribuciones, así como para el ejercicio de su presupuesto de egresos y para organizarse administrativamente con apego a lo previsto en la Constitución Política del Estado y a lo que disponga esta Ley. Cada año formulará y aprobará su presupuesto de egresos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 4.
 
@@ -207,7 +207,7 @@ XVI. Dictar las Leyes necesarias en el ramo de educación pública que no sean d
 
 XVII. Excitar a los Poderes de la Unión a que protejan al Estado en los casos a que hace referencia el artículo 119 de la Constitución General de la República;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
 XVIII. Examinar, discutir y aprobar, en su caso, el Presupuesto Anual de Egresos del Estado y expedir el Decreto correspondiente. El Congreso no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley. En caso de que por cualquier circunstancia se omita fijar dicha remuneración, se tendrá por señalada la que hubiese sido fijada en el presupuesto del año anterior o al de la Ley que estableció el empleo.
 
@@ -673,7 +673,7 @@ Las Comisiones y Comités ordinarios tendrán el carácter de definitivos y sus 
 
 Sólo por causas graves o por inasistencia en más de tres ocasiones, con el voto de la mayoría de los Diputados asistentes a la sesión correspondiente, podrá suspenderse temporal o definitivamente o removerse del cargo a quien integre alguna Comisión o Comité, efectuándose por el Congreso el nombramiento del o de los Diputados sustitutos, con el carácter de temporal o definitivo, para completar el año para el que fue designado el removido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2011)</small>
 
 ###### Artículo 48.
 
@@ -781,7 +781,7 @@ IV. De Gestoría, Información y Quejas, y
 
 V. Del Instituto de Estudios Parlamentarios "Eduardo Neri".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 51.
 
@@ -813,7 +813,7 @@ VI. Proponer al Pleno una lista de candidatos para la designación de los Consej
 
 VII. Formular la propuesta para la designación de Gobernador Interino o Sustituto, en los casos previstos por la Constitución Política del Estado;
 
-VIII. De las propuestas de los servidores públicos que deban ser nombrados o ratificados por el Congreso, y que su trámite no este expresamente reservado a otras comisiones, legislativas;
+VIII. De las propuestas de los servidores públicos que deban ser nombrados o ratificados por el Congreso, y que su trámite no esté expresamente reservado a otras comisiones, legislativas;
 
 IX. Coordinarse con la Mesa Directiva para organizar y conducir los trabajos camarales;
 
@@ -1045,7 +1045,7 @@ III. Las iniciativas de Ley o Decreto en materia de salud, y
 
 IV. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 66.
 
@@ -1129,7 +1129,7 @@ IV. Los relativos a la procuración, administración de justicia y respeto a los
 
 V. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 72.
 
@@ -1463,7 +1463,7 @@ En los períodos siguientes al de la instalación de la Legislatura y antes de c
 
 Una vez instalada la Mesa Directiva se procederá a comunicarlo a los Poderes Ejecutivo y Judicial del Estado, a los Ayuntamientos de la Entidad, así como a los Poderes de la Unión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 100.
 
@@ -1941,7 +1941,7 @@ Tratándose del nombramiento del Fiscal Especializado para la Atención de Delit
 
 Durante los períodos de receso, la Comisión Permanente, ratificará los nombramientos y los someterá al Pleno en el siguiente período ordinario de sesiones, para su aprobación definitiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
 ### Capítulo III. Del análisis y aprobación del Plan Estatal de Desarrollo
 
@@ -2097,7 +2097,15 @@ En los casos en que un Diputado solicite licencia por tiempo definido o indefini
 
 En los casos en que los Diputados se ausenten en forma definitiva del recinto donde sesionen, sin previa autorización de la Presidencia, se considerará falta injustificada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2012)</small>
+
+###### Artículo 177 Bis.
+
+Además de los casos establecidos en la presente Ley, las diputadas y los diputados, que hayan sido nombrados para atender alguna comisión oficial del Congreso, podrán faltar o retirarse en cualquier etapa de desarrollo de la sesión del Pleno o de la Comisión Permanente.
+
+En estos casos el Presidente de la Mesa Directiva o de la Comisión Permanente, al inicio de la sesión debe informar quienes son las diputadas o diputados comisionados y el tipo de asunto que están atendiendo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 178.
 
@@ -2299,7 +2307,7 @@ V. Los programas para la capacitación, actualización y desarrollo de los servi
 
 El Congreso del Estado podrá celebrar convenios de coordinación o colaboración con los demás poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del servicio civil de carrera y con el estatuto del personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 202.
 
@@ -2455,7 +2463,7 @@ La presea se otorgará a nacionales o extranjeros que sean dignos de portar dich
 
 Para seleccionar al recipiendario de la presea, el Congreso del Estado integrará una Comisión Especial, encargada de expedir la convocatoria y dictaminar sobre las candidaturas que se presenten.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2011)</small>
 
 ### CAPITULO SEGUNDO. DE LA PRESEA EDUARDO NERI REYNOSO
 
@@ -2483,7 +2491,7 @@ T R A N S I T O R I O S
 
 La presente Ley entrará en vigor el día de su expedición.
 
-N. DE E., EN TERMINOS DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUERRERO, SE ABROGA EL TITULO XXI DE LA CONTADURIA MAYOR DE GLOSA A QUE HACE REFERENCIA EL PRESENTE ARTICULO TRANSITORIO, P.O. 6 DE NOVIEMBRE DE 2002.
+N. DE E., EN TÉRMINOS DEL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUERRERO, SE ABROGA EL TÍTULO XXI DE LA CONTADURÍA MAYOR DE GLOSA A QUE HACE REFERENCIA EL PRESENTE ARTÍCULO TRANSITORIO, P.O. 6 DE NOVIEMBRE DE 2002.
 
 ###### ARTICULO SEGUNDO
 
@@ -2533,7 +2541,7 @@ C. GUADALUPE GALEANA MARIN.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE NOVIEMBRE DE 2002.
 
@@ -2615,7 +2623,7 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 
 P.O. 18 DE ENERO DE 2011.
 
-DECRETO NUMERO 508, POR EL QUE SE REFORMAN LOS ARTICULOS 25 TERCER PARRAFO Y ARTICULO 51 TERCER PARRAFO, DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286.
+DECRETO NÚMERO 508, POR EL QUE SE REFORMAN LOS ARTÍCULOS 25 TERCER PÁRRAFO Y ARTÍCULO 51 TERCER PÁRRAFO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286.
 
 PRIMERO.- La presente reforma surtirá efectos legales al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2625,7 +2633,7 @@ TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así com
 
 P.O. 18 DE ENERO DE 2011.
 
-DECRETO NUMERO 509, POR EL QUE SE ADICIONA UN CAPITULO SEGUNDO AL TITULO DECIMO SEGUNDO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286.
+DECRETO NÚMERO 509, POR EL QUE SE ADICIONA UN CAPÍTULO SEGUNDO AL TÍTULO DÉCIMO SEGUNDO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2668,3 +2676,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir de la fecha de su aprob
 SEGUNDO.- Una vez aprobado el presente Decreto, hágase la nueva integración de las Comisiones y Comités, según proceda.
 
 SEGUNDO (SIC).- Publíquese en el Periódico Oficial del Gobierno del Estado, para su conocimiento y efectos legales procedentes en términos del artículo 1° de la Ley Orgánica del Poder Legislativo en vigor.
+
+P.O. 10 DE ENERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor a partir de la fecha de su aprobación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado y en la página web, para su conocimiento y efectos legales procedentes, en términos del artículo 1°, segundo párrafo de la Ley Orgánica del Poder Legislativo del Estado vigente en la Entidad.
