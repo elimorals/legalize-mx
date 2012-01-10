@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2009-03-03"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDU DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -2237,8 +2237,6 @@ Productos diversos son todos aquellos productos no considerados en los términos
 
 ### CAPÍTULO SEGUNDO. MULTAS
 
-> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
-
 ###### Artículo 114.
 
 La falta de pago oportuno de un crédito fiscal dará lugar al cobro de recargos en concepto de indemnización al fisco local y se cobrará a razón de un 50 % más del porcentaje que establezca la ley de ingresos para el caso de prórroga.
@@ -2259,6 +2257,8 @@ El plazo para su cómputo no comenzará a correr si el causante no conoce por ra
 
 Las multas serán cobradas en los términos de las disposiciones legales que las establecen.
 
+> <small>(REFORMADO, B.O. 15 DE FEBRERO DE 2006)</small>
+
 Por cada animal sacrificado clandestinamente se pagará una sanción equivalente a 50 veces los derechos establecidos en el Artículo 72 y será decomisado el producto.
 
 Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito y demás disposiciones vigentes en el Municipio de Comondú, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
@@ -2277,7 +2277,7 @@ DOCUMENTACION
 
 LEGAL 05 6
 
-Y16
+Y 16
 
 4 MANEJAR EN ESTADO
 
@@ -2481,7 +2481,9 @@ OLACHEA DURANTE LA
 
 NOCHE 161 6
 
-46 ESCAPE RUIDOSO 151 3
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2012)</small>
+
+46 TRANSITAR CON ESCAPE RUIDOSO 10
 
 47 INGERIR BEBIDAS
 
@@ -2511,11 +2513,17 @@ O TRICIMOTO S/CASCO
 
 PROTECTOR 103 3
 
-51 OBSTRUIR RAMPA O
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2012)</small>
 
-LUGAR DESTINADO
+51 ESTACIONARSE EN PARADEROS,
 
-P/DISCAPACITADOS 161 3
+CAJONES Y RAMPAS DE ASCENSO
+
+Y DESCENSO EXCLUSIVOS PARA
+
+PERSONAS CON DISCAPACIDAD
+
+161 100
 
 52 TRANSPORTAR PASAJE
 
@@ -2530,6 +2538,34 @@ LONA LA CARGA 103 3
 54 CONDUCIR SIN PONERSE
 
 EL CINTURÓN DE SEGURIDAD BIS 3
+
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2012)</small>
+
+55 PRODUCIR RUIDOS INNECESARIOS
+
+O NO AUTORIZADOS (LOS PRODUCIDOS
+
+FUERA DE LOS HORARIOS Y VOLUMEN
+
+PERMITIDOS POR LA AUTORIDAD
+
+MUNICIPAL, CON BOCINAS, INCLUYENDO
+
+AQUELLOS PRODUCIDOS POR UNIDADES
+
+MÓVILES DE REPARTO DE GAS, AGUA Y
+
+OTROS PRODUCTOS OFRECIDOS AL
+
+PÚBLICO, ASÍ COMO CUALQUIER OTRA
+
+FUENTE DE SONIDO INNECESARIA O NO
+
+AUTORIZADA) DE 10 A 100
+
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2012)</small>
+
+56 CONTAMINACIÓN POR RUIDO DE 50 A 500
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -2854,3 +2890,9 @@ B.O. 3 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrar en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
