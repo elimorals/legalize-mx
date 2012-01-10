@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2011-12-14"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -432,15 +432,19 @@ III.- Historia, Ciencias Sociales y Filosofía;
 
 IV.- Ciencias Físico-Matemáticas y Naturales;
 
-V.- Tecnología y Diseño.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2012)</small>
+
+V. Tecnología, Innovación y Diseño;
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 VI.- Artes y Tradiciones Populares.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 45.
 
-Merecerán estos premios quienes por sus producciones o trabajos docentes, de investigación o de divulgación, hayan contribuido a enriquecer el acervo cultural del país o el progreso de la ciencia, del arte o de la filosofía.
+Merecerán estos premios quienes, por sus producciones o trabajos docentes de investigación o de divulgación, hayan contribuido a enriquecer el acervo cultural del país o el progreso de la ciencia, de la tecnología, de la innovación, del arte o de la filosofía.
 
 ###### ARTICULO 46.
 
@@ -1287,3 +1291,7 @@ Segundo. Si a la fecha en que la presente reforma inicie su vigencia se han inic
 Tercero. Durante el primer año de vigencia de la presente reforma, la conformación del jurado previsto en el artículo 63, referente a los ex galardonados, se integrará por única vez por dos ex galardonados del Premio Nacional de Deportes.
 
 Cuarto. Cuando el primer domingo del mes de diciembre al que se refiere el artículo 63 Bis coincida con el día del cambio del titular del Poder Ejecutivo, la entrega de los premios se recorrerá al siguiente domingo.
+
+D.O.F. 10 DE ENERO DE 2012.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
