@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-atencion-a-personas-24770"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2009-07-31"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCION A PERSONAS CON DISCAPACIDAD
 
-LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCION A PERSONAS CON DISCAPACIDAD
+LEY DEL INSTITUTO SUDCALIFORNIANO DE ATENCIÓN A PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -137,7 +137,9 @@ p) Un representante de cada uno de los Ayuntamientos del Estado.
 
 El órgano de administración del instituto estará conformado de la siguiente manera.
 
-I.- Un director que designara el ejecutivo del estado, de una terna propuesta por el órgano de gobierno. Quien de preferencia deberá ser padre, madre o tutor de hijo con discapacidad, persona con discapacidad, y/o un profesional o ciudadano que destaque en pro de la ayuda a grupos vulnerables o personas con algún tipo de discapacidad.
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
+I.- Un director que designará el Titular del Poder Ejecutivo del Estado, de entre una terna propuesta por el órgano de gobierno, la cual deberá componerse por personas con discapacidad que preferentemente hayan destacado en favor de grupos vulnerables o personas con algún tipo de discapacidad.
 
 II.- Un secretario designado por el ejecutivo del estado de una terna propuesta por el órgano de gobierno, el nombramiento recaerá en ascendiente o tutor de persona con discapacidad quien deberá tener conocimientos para desarrollar labores administrativas.
 
@@ -864,3 +866,9 @@ C. PROFR. VICTOR MANUEL LIZÁRRAGA PERAZA
 B.O. 31 DE JULIO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
