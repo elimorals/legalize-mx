@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -3461,7 +3461,7 @@ ARTÍCULO 160° Los aprovechamientos no especificados en este título se recauda
 
 Además de las que señale la presente Ley, las multas o sanciones por infracciones a disposiciones municipales, serán cobradas en los términos y condiciones que establezcan las disposiciones legales que las prevén. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO 159º.
 
@@ -3525,11 +3525,17 @@ sin autorización. 65 a 66
 
 14 Estacionarse en exclusivo. 3 a 4
 
-15 Estacionarse en paraderos de
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
 
-ascenso y descenso exclusivos
+15 Estacionarse en paraderos,
 
-para personas con discapacidad. 18 a 19
+cajones y rampas de
+
+ascenso y descenso 100
+
+exclusivos para personas
+
+con discapacidad.
 
 16 Estacionarse en zona prohibida. 5 a 6
 
@@ -3613,7 +3619,9 @@ siempre que impida ver. 5 a 6
 
 47 Estacionarse sobre guarnición. 3 a 4
 
-48 Transitar con escape ruidoso. 4 a 5
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
+48 Transitar con escape ruidoso 10
 
 49 No reportar cambio de colores. 4 a 5
 
@@ -3747,9 +3755,35 @@ personas acompañantes. 5 a 6
 
 al conducir. 5 a 6
 
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
 97 Producir ruidos innecesarios
 
-(bocinas, otros). 5 a 6
+o no autorizados (los
+
+producidos fuera de los
+
+horarios y volumen
+
+permitidos por la autoridad
+
+municipal, con bocinas,
+
+incluyendo aquellos
+
+producidos por unidades
+
+móviles de reparto de gas,
+
+agua y otros productos De 10 a
+
+ofrecidos al público, así 100
+
+como cualquier otra fuente
+
+de sonido innecesaria o no
+
+autorizada)
 
 98 No guarda distancia reglamentaria. 3 a 4
 
@@ -3873,13 +3907,13 @@ preferencia. 10 a 11
 
 Cada Ocupante. 3 a 4
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 GRADOS DE ALCOHOLEMIA, A LOS CONDUCTORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3889,7 +3923,13 @@ a los menores se les retira el permiso
 
 para conducir. 0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 2012)</small>
+
+135 (SIC) Contaminación por ruido De 50 a
+
+500
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3897,7 +3937,7 @@ para conducir. 0
 
 salario min.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3905,7 +3945,7 @@ salario min.
 
 salario min.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3919,7 +3959,7 @@ salario
 
 mínimo
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
 b).- Violaciones al Reglamento de Construcciones para el Estado de Baja California Sur en los siguientes términos:
 
@@ -4364,3 +4404,9 @@ En lo que respecta a las tablas de valores unitarios de suelo, construcción y v
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que respecta a la reformas a los artículos 28 y 29 incisos a), b), c), d) y e) de la Ley de Hacienda para el Municipio de los Cabos, Baja California Sur, el presente decreto entrara en vigor el día primero de enero del año dos mil doce, previa su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
