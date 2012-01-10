@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2008-12-24"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGE, BAJA CALIFORNIA SUR
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGE, BAJA CALIFORNIA SUR.
+LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -787,7 +787,7 @@ XV. Por la expedición de certificados por cada persona y/o predio:
 
 a). Cuota fija por servicio 5 salarios mínimos.
 
-c). Por cada hoja 0.25 del salario mínimo
+c) (sic). Por cada hoja 0.25 del salario mínimo
 
 XVI. Por la expedición de constancias, por cada persona:
 
@@ -823,7 +823,7 @@ c) Cuando se trate de actos, contratos o resoluciones por los que se transmita e
 
 d) En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas.
 
-e) En los casos de informaciones Adperpetuam y contratos privados, el valor de los inmuebles según avalúo pericial o fiscal de impuestos prediales, ambos actualizados.
+e) En los casos de informaciones Adperpetuam (sic) y contratos privados, el valor de los inmuebles según avalúo pericial o fiscal de impuestos prediales, ambos actualizados.
 
 II. En las emisiones de cédulas hipotecarias en las que se constituya hipoteca a favor de una institución de crédito, por las comisiones, cuotas, derechos y otro concepto que no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituya a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada.
 
@@ -1003,7 +1003,7 @@ hasta 2000 metros cuadrados
 
 De 2001 metros cuadrados
 
-hasta 5000metros cuadrados
+hasta 5000 metros cuadrados
 
 90 salarios minimos; y de 5001
 
@@ -1819,7 +1819,7 @@ IV (sic). Cualquier otro uso o concesión de la vía pública otorgado por la Au
 
 a) En el primer cuadro de la cabecera municipal y delegaciones por día y por metro lineal 1 salario mínimo
 
-b)En principales calles y avenidas de la cabecera municipal y delegaciones, por día 0.25 del salario mínimo
+b) En principales calles y avenidas de la cabecera municipal y delegaciones, por día 0.25 del salario mínimo
 
 c) Resto de las ciudades y poblaciones del municipio por día 0.15 del salario mínimo
 
@@ -2251,7 +2251,13 @@ mínimos)
 
 13 Estacionarse en exclusivo 3
 
-14 Estacionarse en zona para discapacitados 3
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
+14 Estacionarse en paraderos, cajones y
+
+rampas de ascenso y descenso exclusivos para 100
+
+personas con discapacidad
 
 15 Estacionarse en zona prohibida 3
 
@@ -2329,7 +2335,9 @@ al conducir 3
 
 45 Estacionarse sobre guarnición 3
 
-46 Transitar con escape ruidoso 3
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
+46 Transitar con escape ruidoso 10
 
 47 No reportar cambio de colores 3
 
@@ -2419,7 +2427,31 @@ maquinaria pesada, dentro de las áreas urbanas 10
 
 86 Llevar personas o bultos en brazos al conducir 5
 
-87 Producir ruidos innecesarios (bocinas, otros) 3
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
+87 Producir ruidos innecesarios o
+
+no autorizados (los producidos
+
+fuera de los horarios y volumen
+
+permitidos por la autoridad
+
+municipal, con bocinas,
+
+incluyendo aquellos producidos
+
+por unidades móviles de
+
+reparto de gas, agua y otros De 10 a 100
+
+productos ofrecidos al público,
+
+así como cualquier otra fuente
+
+de sonido innecesaria o no
+
+autorizada)
 
 88 No guardar distancia reglamentaria 3
 
@@ -2502,6 +2534,10 @@ cuadro de la ciudad 5
 autorización para transportar carga y
 
 materiales para construcción 20
+
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 2012)</small>
+
+121 Contaminación por ruido De 50 a 500
 
 ### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
@@ -2803,7 +2839,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LAZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 31 DE DICIEMBRE DE 2002.
 
@@ -2814,3 +2850,9 @@ B.O. 24 DE DICIEMBRE DE 2008.
 ###### ARTICULO ÚNICO
 
 El presente decreto entrará en vigor el día primero de Enero del año dos mil nueve, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
