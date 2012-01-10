@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2011-03-20"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
+CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -373,9 +373,11 @@ V.- Decomiso de instrumentos, objetos y productos del delito.
 
 ### CAPÍTULO II. PRISIÓN
 
-###### ARTICULO 42.
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2012)</small>
 
-La prisión consistirá en la privación de la libertad del condenado. Podrá durar de tres días a cincuenta años y se extinguirá en los lugares que designe el órgano ejecutor de sanciones, debiendo descontarse el tiempo que el condenado estuvo en prisión preventiva.
+###### ARTÍCULO 42.
+
+La prisión consistirá en la privación de la libertad del condenado. Podrá durar de tres días a setenta años y se extinguirá en los lugares que designe el órgano ejecutor de sanciones, debiendo descontarse el tiempo que el condenado estuvo en prisión preventiva.
 
 ### CAPÍTULO III. SUSTITUTIVOS DE LA PENA DE PRISIÓN
 
@@ -707,6 +709,10 @@ Además de los delitos que incluyan la culpa como elemento constitutivo del tipo
 
 Los delitos culposos se sancionarán con prisión de un mes a seis años, diez a cien días multa y suspensión hasta por cinco años del derecho para ejercer profesión u oficio o para conducir vehículos de motor, salvo que la ley señale una pena específica para el hecho delictivo. Cuando se trate de delincuentes primarios que provoquen un peligro de daño, afecten la seguridad vial y las vías de comunicación, pongan en peligro de contagio o causen daños, no se impondrá pena de prisión sino trabajo en favor de la comunidad de diez a cien días.
 
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2012)</small>
+
+Cuando el delito se cometa en agravio de un periodista o colaborador periodístico con motivo o derivado del ejercicio de su profesión, la pena se agravara una tercera parte de lo que corresponda al delito cometido.
+
 ###### ARTÍCULO 84.
 
 Cuando el condenado por lesiones u homicidio culposo derivado del tráfico de vehículos, cometa un nuevo ilícito de la misma naturaleza y efectos en el término de dos años, contados desde que se declare ejecutoriada la sentencia, además de las penas que le correspondan por el nuevo delito, será privado del derecho a conducir por un término igual al de la pena impuesta.
@@ -972,6 +978,12 @@ La acción penal prescribirá en un plazo igual al término medio aritmético de
 Por afectar bienes jurídicos fundamentales, se establece como excepción a las reglas antes establecidas, los delitos de homicidio doloso en cualquiera de las modalidades contempladas en la presente ley así como el secuestro, que serán imprescriptibles.
 
 El peculado, el cohecho y el enriquecimiento ilícito prescribirán en un término de diez años, contados desde que el funcionario o empleado abandone, por cualquier causa, el servicio público.
+
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2012)</small>
+
+ARTICULO 117 BIS.- El termino de prescripción de los delitos previstos en los artículos 214, 214 BIS, 214 TER, 214 QUATER, 215, 216, 217, 218, 233, 237, 277, 283 BIS, 284, 285, 286, y 317 de este código cometidos en contra de una víctima menor de edad, comenzara a partir de que esta cumpla la mayoría de edad.
+
+En el caso de aquellas personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
 
 ###### ARTÍCULO 118.
 
@@ -2315,9 +2327,13 @@ En cualquier otro caso, se considerará que existe además privación ilegal de 
 
 ### CAPÍTULO II. SECUESTRO
 
-###### ARTÍCULO 279.
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Comete el delito de secuestro y será sancionado con prisión de diez a treinta años y multa hasta por trescientos días de salario a quien, por cualquier medio, prive de la libertad a una persona, con alguno de los siguientes propósitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
+
+###### ARTICULO 279.
+
+Comete el delito de secuestro y será sancionado con prisión de veinte a cuarenta años y multa de quinientos a dos mil días de salario a quien, por cualquier medio, prive de la libertad a una persona, con alguno de los siguientes propósitos:
 
 I.- Obtener rescate o cualquier otra prestación indebida;
 
@@ -2327,9 +2343,13 @@ III.- Causar daños corporales al secuestrado; y
 
 IV.- Obligar al secuestrado o a un tercero a realizar o dejar de hacer un acto de cualquier naturaleza.
 
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 280.
 
-La pena será de quince a cuarenta años de prisión, si concurre alguna de las circunstancias siguientes:
+La pena será de veinticinco a cincuenta años de prisión y multa de cuatro mil a ocho mil días de salario, si concurre alguna de las circunstancias siguientes:
 
 I.- Que el secuestro se realice en lugar despoblado o desprotegido;
 
@@ -2355,11 +2375,11 @@ XI.- Durante el hecho, se haga uso de narcóticos o cualquier sustancia o elemen
 
 XII.- El activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales.
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 10 DE ENERO DE 2012)</small>
 
-ARTÍCULO 280 BIS.- Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso o que, de forma transitoria que no exceda de más de seis horas, prive de la libertad a una persona en calidad de rehén y la amenace con privarla de la vida o causarle daño, para obligado a él o a otro que realicen un acto que les cause a cualquiera de ellos daño patrimonial; o para conservar el producto de un robo o asegurar la huida después de cometido, se le impondrá de de (sic) veinte a cincuenta años de prisión y de mil a dos mil días de multa de salario mínimo vigente en el Estado.
+###### ARTÍCULO 280 Bis.
 
-Si la intimidación o la violencia se realizan por una asociación delictuosa; o por servidor público o ex servidor público; o miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado, se impondrá a cualquiera de las personas mencionadas y según proceda: La destitución del empleo, cargo o comisión y la inhabilitación para desempeñarse como servidor público.
+Si la víctima de los delitos previstos en artículos que anteceden, es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
 
 (NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2397,19 +2417,21 @@ Para efectos de este artículo, se entenderá por explotación el obtener provec
 
 ### CAPÍTULO I. VIOLACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 284.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona, sea cual fuere su sexo, se le aplicarán de dos a doce años de prisión y multa de hasta doscientos días de salario.
+Al que por medio de la violencia física o moral tenga cópula con una persona, sea cual fuere su sexo, se le aplicarán de diez a quince años de prisión y multa de hasta quinientos días de salario.
 
 En el delito de violación, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía oral, anal o vaginal.
 
 La violación entre cónyuges solo se castigará a petición de parte ofendida. El perdón solo tendrá efectos si el inculpado admite someterse a tratamiento rehabilitador bajo la vigilancia de la Procuraduría General de Justicia, cuando el ministerio público o el juez lo consideren necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 285.
 
-La pena será de Veinte a Treinta años de prisión y pérdida de los derechos de familia, en su caso, cuando concurra cualquiera de los siguientes supuestos:
+La pena será de treinta a cuarenta años de prisión y pérdida de los derechos de familia, en su caso, cuando concurra cualquiera de los siguientes supuestos:
 
 I.- Cuando la víctima sea impúber;
 
@@ -2731,9 +2753,11 @@ El juez, atendiendo a la gravedad y al número de conductas ilícitas que integr
 
 ### CAPÍTULO VII. EXTORSIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 318.
 
-Comete el delito de extorsión y se le aplicarán de dos a diez años de prisión y hasta trescientos días de multa, el que sin derecho y mediante violencia física o intimidación, obligue a otro a dar, hacer, no hacer o tolerar algo, con la finalidad de obtener un lucro, para sí o para otro, o causar un perjuicio patrimonial.
+Comete el delito de extorsión y se le aplicarán de cinco a quince años de prisión y multa de hasta quinientos días de salario, el que sin derecho y mediante violencia física o intimidación, obligue a otro a dar, hacer, no hacer o tolerar algo, con la finalidad de obtener un lucro, para sí o para otro, o causar un perjuicio patrimonial.
 
 Se equipara a la extorsión y se le aplicará la misma pena de este delito a quien intimide a la víctima, a sus familiares, a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes en la averiguación previa o en el proceso penal respectivo.
 
@@ -3056,3 +3080,11 @@ UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicació
 B.O. 20 DE MARZO DE 2011.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO. - El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
