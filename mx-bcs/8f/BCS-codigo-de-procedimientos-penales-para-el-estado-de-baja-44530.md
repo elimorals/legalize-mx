@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2011-12-20"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -239,15 +239,21 @@ La violación de este deber procesal se sancionará por vía de corrección disc
 
 ### CAPÍTULO II. COMPETENCIA Y FUNCIONES DEL MINISTERIO PUBLICO Y DE LA POLICIA MINISTERIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
-Compete al ministerio público llevar a cabo la preparación y el ejercicio de la acción penal ante los Tribunales del Estado, en los casos que resulte procedente.
+Compete al Ministerio Público llevar a cabo la preparación y el ejercicio de la acción penal ante los Tribunales del Estado, en los casos que resulte procedente.
 
 Corresponde al ministerio público durante la averiguación previa:
 
 I.- Recibir las denuncias y querellas que le presenten en forma verbal o por escrito, sobre hechos que puedan constituir delito;
 
-II.- Realizar directamente u ordenar la práctica de todos los actos conducentes para acreditar los elementos del cuerpo del delito, la probable responsabilidad del indiciado y los datos que permitan, en su momento, individualizar la pena, así como la existencia y monto del daño causado;
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
+
+II.- Realizar directamente u ordenar la práctica de todos los actos conducentes para acreditar los elementos del cuerpo del delito, la probable responsabilidad del indiciado y los datos que permitan, en su momento, individualizar la pena, así como la existencia y monto del daño causado.
+
+Tratándose de delitos en agravio de periodistas o colaboradores periodísticos, agotar una línea de investigación del delito cometido en relación a la actividad periodística y las que resulte;
 
 III.- Solicitar a la autoridad jurisdiccional, cuando proceda, las órdenes de arraigo, cateo e intervención de comunicaciones privadas que resulten indispensables en la fase de averiguación previa;
 
@@ -3630,3 +3636,11 @@ UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicació
 B.O. 20 DE DICIEMBRE DE 2011.
 
 ÚNICO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO. - El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
