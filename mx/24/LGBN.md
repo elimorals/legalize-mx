@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2007-08-31"
+last_updated: "2012-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2012.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -1092,7 +1092,9 @@ II.- Colaborar con la Secretaría y, en su caso, ejercer las acciones legales y 
 
 III.- Presentar en forma coordinada con la Secretaría o directamente, las denuncias en el orden penal a que haya lugar para salvaguardar los inmuebles federales a que se refiere este artículo;
 
-IV.- Revisar y, en su caso, aprobar los proyectos de obras que le presente la asociación religiosa usuaria de cada inmueble, para su mantenimiento, conservación y óptimo aprovechamiento, así como vigilar y supervisar la ejecución de dichas obras;
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2012)</small>
+
+IV.- Revisar, aprobar y, en su caso, ejecutar los proyectos de obra que le presente la asociación religiosa usuaria de cada inmueble, para su mantenimiento, conservación y óptimo aprovechamiento, así como vigilar y supervisar la ejecución de dichas obras;
 
 V.- Requerir a los representantes de las asociaciones religiosas o a los responsables de los templos, la realización de obras de mantenimiento y conservación, así como tomar las medidas necesarias para tal efecto;
 
@@ -1148,7 +1150,9 @@ V.- Entregar a la Secretaría los inmuebles cuando dejen de utilizarse para fine
 
 VI.- Realizar a su costa las obras de construcción, reparación, restauración, ampliación, remodelación, conservación, mantenimiento y demolición de dichos bienes, debiendo obtener las licencias y permisos correspondientes.
 
-En el caso de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, las asociaciones religiosas deberán obtener las autorizaciones procedentes de la Secretaría de Educación Pública, por conducto del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda, así como sujetarse a los requisitos que éstos señalen para la conservación y protección del valor artístico o histórico del inmueble de que se trate;
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2012)</small>
+
+En el caso de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, las asociaciones religiosas deberán obtener las autorizaciones procedentes de la Secretaría de Educación Pública, por conducto del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda, así como sujetarse a los requisitos que éstos señalen para la conservación y protección del valor artístico o histórico del inmueble de que se trate, atendiendo a lo que se refiere la fracción IV del artículo 81, así como al artículo 105 de esta Ley.
 
 VII.- Construir con sus propios recursos, cuando las características del inmueble lo permitan, columbarios para el depósito de restos humanos áridos y cenizas, debiendo obtener previamente la autorización de la Secretaría y, en su caso, de la Secretaría de Educación Pública, así como cubrir los derechos que por este concepto establece la Ley Federal de Derechos;
 
@@ -1380,9 +1384,11 @@ La Secretaría de Hacienda y Crédito Público y la Secretaría intervendrán en
 
 Para la realización de obras en inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas, se requerirá de la autorización previa de la Secretaría de Educación Pública.
 
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 105.
 
-Las instituciones destinatarias realizarán las obras de construcción, reconstrucción, restauración, modificación, adaptación y de aprovechamiento de espacios de los inmuebles destinados, de acuerdo con los proyectos que formulen y, en su caso, las normas y criterios técnicos que emita la Secretaría o la Secretaría de Educación Pública, según corresponda. La institución destinataria interesada, podrá tramitar la adecuación presupuestaria respectiva para que, en su caso, la Secretaría realice tales obras, conforme al convenio que al efecto suscriban con sujeción a las disposiciones aplicables.
+Las instituciones destinatarias realizarán las obras de construcción, reconstrucción, restauración, modificación, adaptación y de aprovechamiento de espacios de los inmuebles destinados, de acuerdo con los proyectos que formulen y, en su caso, las normas y criterios técnicos que emita la Secretaría o la Secretaría de Educación Pública, según corresponda. La institución destinataria interesada, podrá tramitar la adecuación presupuestaria respectiva para que, en su caso, la Secretaría o la Secretaría de Educación Pública en el caso de los monumentos históricos o artísticos, a través de sus órganos competentes, realicen tales obras, conforme al convenio que al efecto suscriban con sujeción a las disposiciones aplicables.
 
 ###### ARTÍCULO 106.
 
@@ -1909,3 +1915,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 31 DE AGOSTO DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE ENERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
