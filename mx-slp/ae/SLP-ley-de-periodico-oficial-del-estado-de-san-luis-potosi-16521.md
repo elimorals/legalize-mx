@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-periodico-oficial-del-estado-de-san-luis-potosi-16521"
 country: "mx"
 rank: "ley"
 publication_date: "1996-04-25"
-last_updated: "1996-04-25"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE PERIODICO OFICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE SAN LUIS POTOSI
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. 10 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de abril de 1996.
 
@@ -170,3 +172,11 @@ El Secretario General de Gobierno
 LIC. FERNANDO SILVA NIETO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE ENERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se abroga la Ley del Periódico Oficial del Estado de San Luis Potosí publicada el 25 de abril de 1996.
