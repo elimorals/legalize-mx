@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2011-12-27"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL EN EL P.O. 10 DE ENERO DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 23917/LXI/11 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2011.</small>
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -307,7 +307,7 @@ IV. El Diputado Presidente de la Junta de Coordinación Política; (sic)
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Artículo 19 I
+Artículo 19 I.
 
 Previo a la aprobación de la agenda legislativa, el Comité de Planeación del Poder Legislativo podrá recabar opinión del Poder Judicial del Estado, colegios y barras de abogados, universidades, colegio de notarios y demás organismos sociales y privados, respecto a su visión de las tareas legislativas que a su criterio requieran de atención prioritaria, o bien de mediano o largo plazo.
 
@@ -319,7 +319,7 @@ El proceso de planeación en el Poder Legislativo será organizado y conducido p
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Artículo 19 K
+Artículo 19 K.
 
 El Comité de Planeación del Poder Legislativo propondrá la incorporación de temas a la agenda legislativa provenientes de alguno de los agentes referidos en el artículo 19 I.
 
