@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2011-12-31"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
+LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -2409,9 +2409,13 @@ CLAVE DESCRIPCION IMPORTE (SALARIO MINIMO)
 
 17 Estacionarse en exclusivo 3
 
-18 Estacionarse en paraderos de ascenso y
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2012)</small>
 
-descenso exclusivos para personas con discapacidad 18
+18 Estacionarse en paraderos, cajones y rampas
+
+de ascenso y descenso exclusivos para
+
+personas con discapacidad 100
 
 19 Estacionarse en zona prohibida 5
 
@@ -2481,7 +2485,9 @@ discapacidad 5
 
 51 Estacionarse sobre guarnición 3
 
-52 Transitar con escape ruidoso 3
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2012)</small>
+
+52 Transitar con escape ruidoso 10
 
 53 No reportar cambio de colores 3
 
@@ -2589,7 +2595,25 @@ acompañan(sic) 3
 
 100 Llevar personas o bultos en brazos al conducir 5
 
-101 Producir ruidos innecesarios (bocinas, otros) 5
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 2012)</small>
+
+101 Producir ruidos innecesarios o no autorizados
+
+(los producidos fuera de los horarios y volumen
+
+permitidos por la autoridad municipal, con
+
+bocinas, incluyendo aquellos producidos por
+
+unidades móviles de reparto de gas, agua y
+
+otros productos ofrecidos al público, así como
+
+cualquier otra fuente de sonido innecesaria
+
+o no autorizada) De 10 a 100
+
+(bocinas, otros) 5
 
 102 No guarda distancia reglamentaria 3
 
@@ -2627,9 +2651,9 @@ pública 50
 
 118 No atender descuentos a estudiantes,
 
-uniformados oficiales, tercera edad y personas con
+uniformados oficiales, tercera edad y personas
 
-discapacidad 5
+con discapacidad 5
 
 119 Transportar pasaje en autobús conduciendo
 
@@ -2698,6 +2722,10 @@ cuadro de la ciudad 5
 141 Transportar menores asomados por las
 
 ventanillas de los vehículos 8
+
+> <small>(ADICIONADO, B.O. 10 DE ENERO DE 2012)</small>
+
+141 (SIC) Contaminación por ruido De 50 a 500
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3322,3 +3350,9 @@ B.O. 31 DE DICIEMBRE DE 2011.
 PRIMERO.- Las tablas de valores unitarios de suelo, construcción y vialidades especiales, que sirvan de base para el cobro de las contribuciones de la propiedad inmobiliaria en el Municipio de Loreto, Baja California Sur, aplicables para el ejercicio fiscal del año dos mil doce, tendrá vigencia del día primero de enero, al treinta y uno de diciembre del año dos mil doce, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- La reforma al artículo 14 incisos a), b), c), d) y e) de la Ley de Hacienda para el Municipio de Loreto, Baja California Sur, entrará en vigor el día primero de enero de 2012, previa su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
