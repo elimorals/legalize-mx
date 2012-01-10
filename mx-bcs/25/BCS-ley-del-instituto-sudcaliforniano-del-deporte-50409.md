@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-del-deporte-50409"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-30"
-last_updated: "2007-08-20"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de abril de 2006.
 
@@ -69,9 +69,15 @@ IV. Fomentar la creación y mejoramiento de las instalaciones y servicios para e
 
 V. Establecer lineamientos en materia de eventos deportivos, así como normar la participación oficial de deportistas representantes del Estado en competencias de carácter nacional e internacional, la integración y preparación técnica de selecciones estatales;
 
-VI. Promover, realizar y difundir estudios sobre el deporte; y
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 2012)</small>
 
-VII. Las demás que le otorguen las disposiciones legales.
+VI. Promover, realizar y difundir estudios sobre el deporte;
+
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 2012)</small>
+
+VII. Impulsar la práctica de actividades deportivas en todos los sectores de la sociedad e integrar en el Programa Estatal de (sic) Deporte, líneas de acción para utilizar el deporte como un importante medio para la prevención del delito; y
+
+VIII. Las demás que le otorguen las disposiciones legales.
 
 ### CAPITULO TERCERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
 
@@ -306,3 +312,7 @@ B.O. 20 DE AGOSTO DE 2007.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ENERO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
