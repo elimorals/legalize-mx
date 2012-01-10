@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-finanzas-51391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2009-03-31"
+last_updated: "2012-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 5 de julio de 2006.
 
@@ -131,9 +131,9 @@ IV. Los Directores Generales, Directores, Subdirectores y Jefes de Departamento 
 
 V. Los Delegados de Asuntos Contenciosos, Fiscales y de Fiscalización.
 
-> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-VI. Los titulares de los Centros de Servicios Fiscales y de los Módulos de Atención al Contribuyente.
+VI. Los titulares de los Centros de Servicios Fiscales
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -165,7 +165,9 @@ III. Someter a la consideración del Gobernador del Estado, el Plan de Desarroll
 
 IV. Proponer al Gobernador del Estado las iniciativas de leyes, decretos y, cuando corresponda, los proyectos de reglamentos, acuerdos y convenios sobre los asuntos competencia de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia.
 
-V. Suscribir, por delegación del Gobernador, convenios de coordinación, con los gobiernos: federal o municipales, o bien con otras entidades públicas o privadas, con relación al ejercicio de las atribuciones que tiene conferidas.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+V. Suscribir convenios de coordinación, con los gobiernos; federal o municipales, o bien con otras entidades públicas o privadas, con relación al ejercicio de las atribuciones que tiene conferidas.
 
 VI. Autorizar a los titulares de las unidades administrativas, la suscripción de los contratos, convenios y títulos de crédito en los que la Secretaría sea parte, cuando no cuenten expresamente con dicha atribución.
 
@@ -257,7 +259,11 @@ XXXV. Suscribir convenios y contratos con la federación, otras entidades federa
 
 XXVI. Otorgar poder especial para actos de dominio, que impliquen adquisición de inmuebles, cuando por sus características resulte conveniente realizar el trámite a través de alguna dependencia del Poder Ejecutivo del Gobierno del Estado de México o la Procuraduría General de Justicia del mismo; estableciendo en él la obligación de rendir cuentas del poder otorgado e informar sobre su ejercicio, remitiendo la documentación correspondiente para su registro.
 
-XXXVII. Las demás que con este carácter le confieran otras disposiciones legales o que le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXXVII. Otorgar poderes para pleitos y cobranzas, para formular y presentar demandas o contestaciones; desistirse; transigir; articular y absolver posiciones; elaborar informes previos y justificados; formular apersonamientos; recusar; recibir pagos; promover incidentes; solicitar sobreseimientos y otorgar perdón, ofrecer o rendir pruebas; alegar; interponer recursos y seguir los juicios y procedimientos hasta ejecutar las resoluciones emitidas en toda clase de juicios: civiles, penales, administrativos, fiscales y de amparo, así como en los procedimientos laborales y los administrativos tramitados por la Comisión de Derechos Humanos y en general ejercer las mismas atribuciones que un mandatario con todas las facultades generales y las particulares que requieran cláusulas especiales conforme a la ley, a favor de las diversas unidades administrativas de la dependencia, y de terceros, debiendo éstos, rendir cuenta de los resultados alcanzados.
+
+XXXVIII. Las demás que con este carácter le confieran otras disposiciones legales o que le encomiende el Gobernador del Estado
 
 ## TÍTULO II. DE LOS SUBSECRETARIOS, DIRECTORES GENERALES, PROCURADOR FISCAL Y CONTADOR GENERAL GUBERNAMENTAL
 
@@ -267,7 +273,9 @@ XXXVII. Las demás que con este carácter le confieran otras disposiciones legal
 
 Al frente de cada Subsecretaría habrá un Subsecretario, quien tendrá las atribuciones generales siguientes:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar, el funcionamiento de las unidades administrativas adscritas, a la Subsecretaría a su cargo.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar, el funcionamiento de las unidades administrativas adscritas, a la Subsecretaría a su cargo supervisando que las mismas se desarrollen con apego al marco normativo vigente.
 
 II. Proponer al Secretario, los proyectos de programas anuales de actividades y de presupuesto que le correspondan.
 
@@ -309,7 +317,11 @@ XIX. Someter a la consideración del Secretario, el ingreso, licencia, promoció
 
 XX. Habilitar a servidores públicos, como peritos, en las materias de su competencia.
 
-XXI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Secretario.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXI. Controlar, coordinar y supervisar en todo momento que los servidores públicos adscritos a las unidades administrativas a su cargo, actúen estrictamente de conformidad con el marco normativo en los procedimientos de adquisición de bienes y contratación de servicios; informando por escrito al Secretario de las irregularidades que, en su caso, detecten.
+
+XXII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Secretario.
 
 ### CAPÍTULO II. DE LOS DIRECTORES GENERALES, PROCURADOR FISCAL, CONTADOR GENERAL GUBERNAMENTAL Y COORDINADOR ADMINISTRATIVO
 
@@ -317,7 +329,9 @@ XXI. Las demás que le confieran otras disposiciones legales y aquellas que le e
 
 Corresponde a los Directores Generales, Procurador Fiscal, Contador General Gubernamental y al Coordinador Administrativo:
 
-I. Planear, dirigir, coordinar, controlar y evaluar, las funciones encomendadas a la unidad administrativa a su cargo.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+I. Planear, dirigir, coordinar, controlar y evaluar, las funciones encomendadas a la unidad administrativa a su cargo, supervisando que las mismas se desarrollen con apego al marco normativo vigente.
 
 II. Elaborar y proponer a su superior jerárquico:
 
@@ -351,7 +365,11 @@ XIV. Contratar los servicios técnicos y profesionales que se relacionen con su 
 
 XV. Someter a la consideración de su superior jerárquico, el ingreso, licencia, promoción, remoción y cese, de los titulares de las unidades administrativas a su cargo.
 
-XVI. Las demás que les señalen otras disposiciones legales y las que les encomienden sus superiores jerárquicos.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XVI. Controlar, coordinar y supervisar en todo momento que los servidores públicos adscritos a las unidades administrativas a su cargo, actúen estrictamente de conformidad con el marco normativo en los procedimientos de adquisición de bienes y contratación de servicios; informando por escrito a su superior jerárquico de las irregularidades que detecten.
+
+XVII. Las demás que les señalen otras disposiciones legales y las que les encomienden sus superiores jerárquicos.
 
 ## TÍTULO III. DE LA SUBSECRETARÍA DE INGRESOS
 
@@ -365,7 +383,9 @@ I. Proponer al Secretario, la política de ingresos en materia fiscal, de recaud
 
 II. Proponer al Secretario, reformas a las leyes, reglamentos, decretos y disposiciones de orden financiero, fiscal y administrativo.
 
-III. Promover el cumplimiento de leyes, códigos, reglamentos y demás disposiciones jurídicas o administrativas en materia fiscal y las obligaciones derivadas de los convenios de coordinación con la federación, entidades federativas y los ayuntamientos.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+III. Promover el cumplimiento de leyes, códigos, reglamentos y demás disposiciones jurídicas o administrativas en materia fiscal y las obligaciones derivadas de los convenios de coordinación con la federación, entidades federativas, ayuntamientos y organismos auxiliares.
 
 IV. Ejercer las atribuciones derivadas de los convenios de adhesión al Sistema Nacional de Coordinación Fiscal, de Colaboración Administrativa en materia Fiscal Federal y del Sistema Estatal de Coordinación Hacendaria.
 
@@ -411,7 +431,11 @@ XVII. (DEROGADA, G.G. 3 DE JUNIO DE 2008)
 
 XVIII. Emitir cuando proceda, las resoluciones por las cuales se modifiquen los precios y tarifas que sean informados por las Entidades Públicas.
 
-XIX. Las demás que le confieran otras disposiciones legales o que le encomiende el Secretario.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XIX. Solicitar a la Subsecretaría de Tesorería la aplicación de las retenciones o afectaciones a las aportaciones federales que correspondan conforme a las leyes, códigos, reglamentos y demás disposiciones jurídicas en materia fiscal.
+
+XX. Las demás que le confieran otras disposiciones legales o que le encomiende el Secretario.
 
 ###### Artículo 11.
 
@@ -425,27 +449,33 @@ III. Dirección General de Política Fiscal.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN
 
-> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
 
 ###### Artículo 12.
 
-La Dirección General de Recaudación tendrá jurisdicción en todo el territorio del Estado, y estará a cargo de un Director General. quien en el ejercicio de sus atribuciones se auxiliará de los directores de área de Administración Tributaria, Jurídico Consultivo, de Operación, de Administración de Cartera, del Registro Estatal de Vehículos, de Atención al Contribuyente, de Administración y Servicios Generales y de Desarrollo de Sistemas e Informática, subdirectores, jefes de departamento, delegados fiscales, titulares de los Centros de Servicios Fiscales, titulares de los Módulos de Atención al Contribuyente, notificadores, ejecutores, verificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de acuerdo con la estructura de organización autorizada y con el presupuesto de egresos respectivo.
+La Dirección General de Recaudación tendrá jurisdicción en todo el territorio del Estado, y estará a cargo de un Director General quien en el ejercicio de sus atribuciones se auxiliará de los directores de área de Administración Tributaria, Jurídico Consultivo, de Operación, de Administración de Cartera, del Registro Estatal de Vehículos, de Atención al Contribuyente, de Vinculación con Municipios y Organismos Auxiliares, de Administración y Servicios Generales y de Desarrollo de Sistemas e Informática, subdirectores, jefes de departamento, delegados fiscales, titulares de los Centros de Servicios Fiscales, notificadores, ejecutores, verificadores y demás servidores públicos que se requieran para satisfacer las necesidades del servicio, de acuerdo con la estructura de organización autorizada y con el presupuesto de egresos respectivo.
 
-> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
 
 ###### Artículo 13.
 
-Los Delegados Fiscales estarán al frente de las Delegaciones Fiscales, y tendrán a su cargo Centros de Servicios Fiscales y Módulos de Atención al Contribuyente, con jurisdicción en los municipios siguientes:
+Los Delegados Fiscales estarán al frente de las Delegaciones Fiscales, y tendrán a su cargo Centros de Servicios Fiscales con jurisdicción en los municipios siguientes:
+
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
 
 I. Delegación Fiscal Ecatepec:
 
-A) Centro de Servicios Fiscales de Ecatepec:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A) Centro de Servicios Fiscales Ecatepec:
 
 1. Coacalco de Berriozábal
 
 2. Ecatepec de Morelos
 
-A.1. Módulo de Atención al Contribuyente Otumba:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.1. Centro de Servicios Fiscales Otumba:
 
 1. Axapusco
 
@@ -455,7 +485,9 @@ A.1. Módulo de Atención al Contribuyente Otumba:
 
 4. San Martín de las Pirámides
 
-A.2. Módulo de Atención al Contribuyente Tecámac:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.2. Centro de Servicios Fiscales Tecámac:
 
 1. Tecámac
 
@@ -463,7 +495,9 @@ A.2. Módulo de Atención al Contribuyente Tecámac:
 
 3. Tonanitla
 
-A.3. Módulo de Atención al Contribuyente San Juan Teotihuacan:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.3. Centro de Servicios Fiscales San Juan Teotihuacán:
 
 1. Acolman
 
@@ -471,7 +505,9 @@ A.3. Módulo de Atención al Contribuyente San Juan Teotihuacan:
 
 3. Tezoyuca
 
-B). Centro de Servicios Fiscales de Zumpango:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B) Centro de Servicios Fiscales Zumpango:
 
 1. Apaxco
 
@@ -485,17 +521,25 @@ B). Centro de Servicios Fiscales de Zumpango:
 
 6. Zumpango
 
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+
 II. Delegación Fiscal Naucalpan:
 
-A) Centro de Servicios Fiscales de Naucalpan:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A) Centro de Servicios Fiscales Naucalpan:
 
 1. Naucalpan de Juárez
 
-A.1. Módulo de Atención al Contribuyente Ciudad Satélite
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.1. Centro de Servicios Fiscales Ciudad Satélite:
 
 1. Naucalpan de Juárez
 
-A.2. Módulo de Atención al Contribuyente El Molinito
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.2. Centro de Servicios Fiscales El Molinito:
 
 1. Naucalpan de Juárez
 
@@ -503,9 +547,13 @@ B) Centro de Servicios Fiscales de Pirules
 
 1. Huixquilucan
 
-B.1. Módulo de Atención al Contribuyente Huixquilucan
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B.1. Centro de Servicios Fiscales Huixquilucan:
 
 1. Huixquilucan
+
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
 
 III. Delegación Fiscal Nezahualcóyotl:
 
@@ -519,7 +567,9 @@ A). Centro de Servicios Fiscales de Chalco:
 
 4. Ixtapaluca
 
-A.1. Módulo de Atención al Contribuyente Amecameca
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.1. Centro de Servicios Fiscales Amecameca:
 
 1. Amecameca
 
@@ -541,7 +591,9 @@ A.1. Módulo de Atención al Contribuyente Amecameca
 
 10. Tlalmanalco
 
-B). Centro de Servicios Fiscales de Nezahualcóyotl:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B) Centro de Servicios Fiscales Nezahualcóyotl:
 
 1. Nezahualcóyotl
 
@@ -549,7 +601,9 @@ B). Centro de Servicios Fiscales de Nezahualcóyotl:
 
 3. La Paz
 
-C). Centro de Servicios Fiscales de Texcoco:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+C) Centro de Servicios Fiscales Texcoco
 
 1. Atenco
 
@@ -565,9 +619,13 @@ C). Centro de Servicios Fiscales de Texcoco:
 
 7. Texcoco
 
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+
 IV. Delegación Fiscal Tlalnepantla:
 
-A). Centro de Servicios Fiscales de Atizapán de Zaragoza:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A) Centro de Servicios Fiscales Atizapán de Zaragoza:
 
 1. Atizapán de Zaragoza
 
@@ -579,13 +637,17 @@ A). Centro de Servicios Fiscales de Atizapán de Zaragoza:
 
 5. Villa del Carbón
 
-A.1. Módulo de Atención al Contribuyente Cuautitlán Izcalli
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.1. Centro de Servicios Fiscales Cuautitlán Izcalli:
 
 1. Cuautitlán Izcalli
 
 2. Tepotzotlán
 
-A.2. Módulo de Atención al Contribuyente Cuautitlán:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.2. Centro de Servicios Fiscales Cuautitlán:
 
 1. Coyotepec
 
@@ -599,21 +661,31 @@ A.2. Módulo de Atención al Contribuyente Cuautitlán:
 
 6. Tultepec
 
-B). Centro de Servicios Fiscales de Tlalnepantla:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B) Centro de Servicios Fiscales Tlalnepantla:
 
 1. Tlalnepantla de Baz
 
-B.1. Módulo de Atención al Contribuyente Plazas de la Colina
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B. 1. Centro de Servicios Fiscales Plazas de la Colina:
 
 1. Tlalnepantla de Baz
 
-B.2. Módulo de Atención al Contribuyente Tultitlán
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B.2. Centro de Servicios Fiscales Tultitlán:
 
 1. Tultitlán
 
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+
 V. Delegación Fiscal Toluca:
 
-A). Centro de Servicios Fiscales de Atlacomulco:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A) Centro de Servicios Fiscales Atlacomulco:
 
 1. Acambay
 
@@ -627,7 +699,9 @@ A). Centro de Servicios Fiscales de Atlacomulco:
 
 6. Temascalcingo
 
-A.1. Módulo de Atención al Contribuyente Ixtlahuaca:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.1. Centro de Servicios Fiscales Ixtlahuaca:
 
 1. Ixtlahuaca
 
@@ -637,7 +711,9 @@ A.1. Módulo de Atención al Contribuyente Ixtlahuaca:
 
 4. Morelos
 
-A.2. Módulo de Atención al Contribuyente Jilotepec:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+A.2. Centro de Servicios Fiscales Jilotepec:
 
 1. Aculco
 
@@ -651,7 +727,9 @@ A.2. Módulo de Atención al Contribuyente Jilotepec:
 
 6. Timilpan
 
-B). Centro de Servicios Fiscales de Lerma:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B) Centro de Servicios Fiscales Lerma:
 
 1. Lerma
 
@@ -663,23 +741,19 @@ B). Centro de Servicios Fiscales de Lerma:
 
 5. Xonacatlán
 
-B.1. Módulo de Atención al Contribuyente Tenango del Valle:
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
 
-1. Calimaya
+B.1. Centro de Servicios Fiscales Tenango del Valle:
 
-2. Chapultepec
+1. Joquicingo
 
-3. Joquicingo
+2. Rayón
 
-4. Mexicaltzingo
+3. Tenango del Valle
 
-5. Rayón
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
 
-6. San Antonio La Isla
-
-7. Tenango del Valle
-
-B.2. Módulo de Atención al Contribuyente Ixtapan de la Sal
+B.2. Centro de Servicios Fiscales Ixtapan de la Sal:
 
 1. Coatepec Harinas
 
@@ -687,7 +761,9 @@ B.2. Módulo de Atención al Contribuyente Ixtapan de la Sal
 
 3. Tonatico
 
-B.3. Módulo de Atención al Contribuyente Santiago Tianguistenco
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B.3. Centro de Servicios Fiscales Santiago Tianguistenco:
 
 1. Almoloya del Río
 
@@ -701,7 +777,9 @@ B.3. Módulo de Atención al Contribuyente Santiago Tianguistenco
 
 6. Xalatlaco
 
-B.4. Módulo de Atención al Contribuyente Tenancingo
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+B.4. Centro de Servicios Fiscales Tenancingo:
 
 1. Malinalco
 
@@ -713,11 +791,13 @@ B.4. Módulo de Atención al Contribuyente Tenancingo
 
 5. Zumpahuacán
 
-C). Centro de Servicios Fiscales de Toluca:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+C) Centro de Servicios Fiscales Toluca:
 
 1. Toluca
 
-2. Metepec
+2. (DEROGADO, G.G. 10 DE ENERO DE 2012)
 
 3. Almoloya de Juárez
 
@@ -727,7 +807,23 @@ C). Centro de Servicios Fiscales de Toluca:
 
 6. Temoaya
 
-D). Centro de Servicios Fiscales de Valle de Bravo:
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2012)</small>
+
+C.1. Centro de Servicios Fiscales Metepec:
+
+1. Metepec
+
+2. Calimaya
+
+3. Chapultepec
+
+4. Mexicaltzingo
+
+5. San Antonio La Isla
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+D). Centro de Servicios Fiscales Valle de Bravo:
 
 1. Amanalco
 
@@ -745,7 +841,9 @@ D). Centro de Servicios Fiscales de Valle de Bravo:
 
 8. Zacazonapan
 
-D.1. Módulo de Atención al Contribuyente Sultepec
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+D.1. Centro de Servicios Fiscales Sultepec:
 
 1. Almoloya de Alquisiras
 
@@ -755,7 +853,9 @@ D.1. Módulo de Atención al Contribuyente Sultepec
 
 4. Zacualpan
 
-D.2. Módulo de Atención al Contribuyente Tejupilco
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+D.2. Centro de Servicios Fiscales Tejupilco:
 
 1. Amatepec
 
@@ -765,7 +865,9 @@ D.2. Módulo de Atención al Contribuyente Tejupilco
 
 4. Tlatlaya
 
-D.3. Módulo de Atención al Contribuyente Temascaltepec
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2012)</small>
+
+D.3. Centro de Servicios Fiscales Temascaltepec:
 
 1. San Simón de Guerrero
 
@@ -789,7 +891,9 @@ III. Establecer el criterio de interpretación que los Centros de Servicios Fisc
 
 IV. Establecer, normar y controlar los programas de recaudación tributaria.
 
-V. Proponer y establecer mecanismos, estrategias, programas, políticas y procedimientos que permitan promover e incrementar la captación de la recaudación tributaria en el Estado.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+V. Proponer y establecer mecanismos, estrategias, programas, políticas y procedimientos que permitan promover e incrementar la captación de la recaudación tributaria en el Estado, así como de las contribuciones, aprovechamientos y productos en los términos de los convenios suscritos para tales efectos.
 
 > <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
 
@@ -815,9 +919,9 @@ XIII. Diseñar y desarrollar procesos informáticos, integrar, actualizar y oper
 
 XIV. Colaborar con las demás unidades administrativas de la Subsecretaría de Ingresos, en el mejoramiento de los esquemas de comunicación masiva a contribuyentes.
 
-> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XV. Canalizar opiniones, quejas, sugerencias y reportes de calidad en el servicio de los contribuyentes, en materia fiscal y de recaudación, al área que corresponda.
+XV. Dar respuesta y seguimiento a las opiniones, quejas, sugerencias y reconocimientos en el servicio, que se proporciona a los contribuyentes en materia fiscal y, en su caso, canalizarlas al área que corresponda.
 
 XVI. Dar respuesta al público en general que manifieste algún desacuerdo en la aplicación de la normatividad en materia fiscal.
 
@@ -829,17 +933,17 @@ XVIII. Difundir los formatos de avisos, registros de alta en el padrón de contr
 
 XIX. Elaborar y mantener actualizados los manuales de procedimientos en materia recaudatoria.
 
-> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XX. Supervisar, en materia de su competencia, que los Centros de Servicios Fiscales y Módulos de Atención al Contribuyente, cumplan con los procedimientos administrativos establecidos para la realización de sus atribuciones.
+XX. Supervisar, en materia de su competencia, que los Centros de Servicios Fiscales e instancias públicas o privadas convenidas que presten servicios de control vehicular, cumplan con los procedimientos administrativos establecidos para la realización de sus atribuciones.
 
-> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XXI. Integrar y mantener actualizado el sistema integral de recaudación, en relación a los registros de contribuyentes en materia estatal y federal, así como desarrollar nuevos procesos informáticos.
+XXI. Integrar y mantener actualizado el Sistema Integral de Ingresos del Gobierno del Estado de México (SIIGEM), en relación a los registros de contribuyentes en materia estatal, así como de aquellos derivados de los convenios suscritos con la federación, municipios y organismos auxiliares, y desarrollar nuevos procesos informáticos.
 
-> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XXII. Establecer y mantener actualizado el inventario de los créditos fiscales que provengan de los Centros de Servicios Fiscales, Módulos de Atención al Contribuyente y sus oficinas auxiliares, de otras dependencias del Ejecutivo o de la federación, controlando su movimiento y dando elementos para su fiscalización.
+XXII. Establecer lineamientos de control y supervisión para mantener actualizado el inventario de los créditos fiscales que provengan de los Centros de Servicios Fiscales y sus oficinas auxiliares, de otras dependencias u organismos auxiliares del Ejecutivo, de los Municipios o de la federación, en el caso de convenios de colaboración, controlando su movimiento y dando elementos para su fiscalización.
 
 XXIII. Mantener actualizada la lista de servidores públicos de las unidades administrativas a su cargo, que operen fondos y valores del Estado, así como determinar los montos para otorgar las fianzas que garanticen su actuación, y verificar su cumplimiento y vigencia.
 
@@ -855,17 +959,25 @@ XXVI. Proponer el establecimiento y cierre de los Centros de Servicios Fiscales,
 
 XXVII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, la documentación, datos e informes que sean necesarios para el ejercicio de sus atribuciones, así como recabar de los servidores públicos y de los fedatarios públicos los informes y datos que tengan con motivo de sus funciones.
 
-XXVIII. Recibir y, en su caso, requerir a los contribuyentes conforme a las disposiciones legales, los avisos, declaraciones y demás documentación que acredite el cumplimiento de sus obligaciones fiscales estatales y federales coordinadas.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XXIX. Ordenar y practicar el embargo precautorio en los casos que proceda, dejarlo sin efectos cuando corresponda; autorizar la sustitución de la garantía y remoción del depositario.
+XXVIII. Recibir y, en su caso, requerir a los contribuyentes conforme a las disposiciones legales, los avisos, declaraciones y demás documentación que acredite el cumplimiento de sus obligaciones fiscales estatales, federales coordinadas y municipales en los términos de los convenios suscritos al efecto.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXIX. Ordenar y practicar el embargo precautorio en los casos que proceda y dejarlo sin efectos conforme a la ley; tratándose de embargo en la vía administrativa, calificar y autorizar la garantía o bien la sustitución de la misma, cuando sea requerida por el contribuyente y ésta proceda; en los embargos en vía administrativa y con motivo del procedimiento administrativo de ejecución, remover libremente a los depositarios, administradores o interventores, de conformidad con las disposiciones legales vigentes.
 
 > <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
 
 XXX. Recibir de los contribuyentes o interesados los depósitos de dinero o las constancias que acrediten los pagos efectuados para garantizar el interés fiscal o como garantía para el cumplimiento de las obligaciones contraídas por adjudicaciones de bienes rematados dentro del procedimiento administrativo de ejecución, así como aplicarlos conforme a la prelación fiscal establecida.
 
-XXXI. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, las diferencias por errores aritméticos en las declaraciones, tanto de carácter federal como estatal.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XXXII. Determinar los créditos fiscales omitidos a cargo de los contribuyentes o de las personas que de acuerdo con la ley son responsables solidarios, fijarlos en cantidad líquida y cobrarlos, así como imponer las sanciones que correspondan por las infracciones a las disposiciones fiscales.
+XXXI. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados, las diferencias por errores aritméticos, tanto en las declaraciones de carácter federal, estatal o municipal conforme a los convenios suscritos; así como las que resulten por el uso indebido del pago a plazos.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXXII. Determinar los créditos fiscales omitidos a cargo de los contribuyentes o de las personas que de acuerdo con la ley son responsables solidarios, fijarlos en cantidad líquida y cobrarlos, imponer las sanciones que correspondan por las infracciones a las disposiciones fiscales, así como proporcionar a las sociedades crediticias información de los créditos fiscales determinados a los contribuyentes, en términos de las disposiciones fiscales aplicables.
 
 XXXIII. Aplicar el procedimiento administrativo de ejecución y supervisar cada una de sus etapas para hacer efectivo el cobro de créditos fiscales, y suspenderlo en los casos en que resulte procedente.
 
@@ -887,7 +999,9 @@ d) Las compensaciones.
 
 XXXVI. Vigilar que se encuentre debidamente garantizado el interés fiscal y, en su caso, exigir dicha garantía, en términos de las disposiciones legales aplicables.
 
-XXXVII. Informar a la Procuraduría Fiscal y a la Contraloría Interna de la Secretaría, sobre la presunta comisión de delitos fiscales y de cualquier otra naturaleza, de los que tenga conocimiento en el ejercicio de sus funciones, así como de las infracciones administrativas cometidas por servidores públicos de su área.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXXVII. Informar, coadyuvar y remitir la documentación que le requiera la Procuraduría Fiscal y la Contraloría Interna de la Secretaría, respecto de la presunta comisión de delitos fiscales y de cualquier otra naturaleza, de los que tenga conocimiento en el ejercicio de sus funciones, así como de las infracciones administrativas cometidas por servidores públicos de su área.
 
 > <small>(REFORMADA, G.G. 7 DE MARZO DE 2007)</small>
 
@@ -897,17 +1011,29 @@ XXXIX. Declarar, a petición de parte, en términos de las disposiciones fiscale
 
 XL. Determinar y cobrar las cantidades compensadas indebidamente, incluida la actualización y recargos a que haya lugar y, en su caso, imponer multas.
 
-XLI. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes, sobre problemas relacionados con declaraciones, imposición de multas, requerimientos, solicitudes y avisos al Registro Estatal de Contribuyentes.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XLII. Expedir los documentos que faculten a los servidores públicos, a efectuar los actos derivados del ejercicio de sus atribuciones.
+XLI. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes, sobre problemas relacionados con declaraciones, imposición de multas, requerimientos, solicitudes y avisos al Registro Estatal de Contribuyentes, incluyendo aquellas que se deriven de los convenios de colaboración administrativa en materia fiscal.
 
-XLIII. Habilitar o designar a los peritos que se requieran, para la formulación de dictámenes técnicos y para emitir avalúos.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XLIV. Regular la actividad de los verificadores, notificadores y ejecutores que le sean adscritos.
+XLII. Expedir los documentos que acrediten y faculten a los servidores públicos, a efectuar los actos derivados del ejercicio de sus atribuciones.
 
-XLV. Notificar, los actos administrativos emitidos en el ejercicio de las facultades conferidas por las disposiciones fiscales.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XLVI. Depurar y cancelar los créditos fiscales a favor del Estado.
+XLIII. Habilitar o designar a los peritos valuadores o especialistas en valuación que se requieran, para la formulación de dictámenes técnicos y para emitir avalúos.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XLIV. Regular, coordinar, evaluar y supervisar la actividad de los verificadores, notificadores y ejecutores que le sean adscritos y de los terceros habilitados para realizar notificaciones.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XLV. Notificar o habilitar a terceros para que realicen notificaciones de los actos administrativos emitidos en el ejercicio de las facultades conferidas por las disposiciones fiscales.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XLVI. Registrar, depurar y cancelar los créditos fiscales a favor del Estado, así como publicar en el portal electrónico oficial, el nombre, denominación o razón social de los deudores fiscales y su situación actual.
 
 XLVII. Calcular los ingresos propios del Gobierno del Estado del ejercicio fiscal inmediato posterior, y proporcionar las cifras a la Dirección General de Política Fiscal, así como la información del comportamiento mensual de los ingresos.
 
@@ -939,13 +1065,15 @@ LV. En el ámbito de su competencia, emitir la declaratoria de perjuicio de la H
 
 LVI. Normar, supervisar, controlar, evaluar y vigilar los trámites y servicios relacionados con el registro, autorización y control vehicular materia de su competencia.
 
-LVII. (DEROGADA, G.G. 3 DE JUNIO DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE ENERO DE 2012)</small>
+
+LVII. Elaborar la cuenta comprobada mensual, en términos del Convenio celebrado con la Secretaría de Hacienda y Crédito Público.
 
 LVIII. (DEROGADA, G.G. 3 DE JUNIO DE 2008)
 
-> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-LIX. Mantener coordinación con los ayuntamientos que tengan celebrados convenios de coordinación de prestación de servicios de control vehicular con el Gobierno del Estado de México.
+LIX. Mantener coordinación con los ayuntamientos y agencias distribuidoras de vehículos que tengan celebrados convenios de coordinación de prestación de servicios de control vehicular con el Gobierno del Estado de México.
 
 > <small>(REFORMADA, G.G. 3 DE JUNIO DE 2008)</small>
 
@@ -955,17 +1083,15 @@ LX. Expedir placas para vehículos en demostración y traslado, previo cumplimie
 
 LXI. Integrar, actualizar, operar, controlar y validar el Registro Estatal de Vehículos para efectos tributarios en el marco del Sistema Nacional de Coordinación Fiscal.
 
-> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
-
-LXII. Expedir la autorización de emplacamiento de vehículos registrados en otra entidad federativa y de procedencia extranjera en el Estado de México.
+LXII. (DEROGADA, G.G. 10 DE ENERO DE 2012)
 
 > <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
 
 LXIII. Verificar y comprobar el debido registro de vehículos matriculados en el Estado de México.
 
-> <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-LXIV. Requerir información de la Secretaría de Transporte y de los ayuntamientos con que se tengan convenios de coordinación de prestación de servicios en materia de control vehicular.
+LXIV. Requerir información de la Secretaría de Transporte, de los Ayuntamientos y agencias distribuidoras de vehículos con que se tengan convenios de coordinación de prestación de servicios en materia de control vehicular.
 
 > <small>(ADICIONADA, G.G. 7 DE MARZO DE 2007)</small>
 
@@ -977,13 +1103,29 @@ LXVI. (DEROGADA, G.G. 3 DE JUNIO DE 2008)
 
 LXVII. Autorizar la devolución de importes percibidos que tengan como origen la imposición de responsabilidad administrativa resarcitoria.
 
-LXVIII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+LXVIII. Implementar y vigilar los sistemas de información y reportes que permitan el flujo de información estadística de recaudación, actualización y/o modificación de padrones de contribuciones municipales en los términos de los convenios suscritos al efecto.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+LXIX. Presentar a su superior jerárquico los planes operativos de trabajo, así como su presentación a los municipios y organismos auxiliares, para obtener la colaboración de los mismos.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+LXX. Elaborar y someter a aprobación del Subsecretario, las resoluciones de condonación parcial o total, a favor de los particulares, respecto de las multas y recargos previstos en el Código Financiero del Estado de México y Municipios.
+
+LXXI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Ingresos.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN GENERAL DE FISCALIZACIÓN
 
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
+
 ###### Artículo 15.
 
-La Dirección General de Fiscalización tendrá jurisdicción en todo el territorio del Estado y estará a cargo de un Director General, quien en el ejercicio de sus atribuciones y funciones se auxiliará de: los directores de área de Programación, Operación Regional, Procedimientos Legales y Normativos, y de Control y Validación, subdirectores, jefes de departamento, delegados de fiscalización de Cuautitlán Izcalli, Ecatepec, Naucalpan, Nezahualcoyotl, Tlalnepantla y Toluca; así como de coordinadores, supervisores, auditores, visitadores, notificadores, ejecutores y demás personal que se requiera para satisfacer las necesidades de servicio, quienes podrán ser autorizados para realizar los actos derivados de las atribuciones y funciones conferidas a la propia dirección general.
+La Dirección General de Fiscalización estará a cargo de un Director General, quien en ejercicio de sus atribuciones y funciones se auxiliará de: los directores de área de Programación, Operación Regional, Procedimientos Legales y Normativos, de Control y Validación y de Verificación Aduanera; subdirectores, jefes de departamento, delegados de fiscalización de Cuautitlán Izcalli, Ecatepec, Naucalpan, Nezahualcóyotl, Tlalnepantla y Toluca; así como de coordinadores, supervisores, auditores, visitadores, notificadores, ejecutores y demás personal que se requiera para satisfacer las necesidades de servicio, quienes podrán ser autorizados para realizar los actos derivados de las atribuciones y funciones conferidas a la propia Dirección General.
+
+El Director General, así como los directores, subdirectores, delegados y demás personal del que se auxilie, tendrán jurisdicción en todo el territorio del Estado, para realizar los actos derivados de las atribuciones y funciones conferidas a la propia Dirección General, así como para el ejercicio de las facultades que esta misma delegue en aquellos.
 
 ###### Artículo 16.
 
@@ -1037,7 +1179,9 @@ XVIII. Supervisar la retroalimentación de los datos, de los actos de fiscalizac
 
 XIX. Ejercer las atribuciones y funciones derivadas de los sistemas: Nacional de Coordinación Fiscal y Estatal de Coordinación Hacendaria, así como de los acuerdos y convenios que se celebren dentro del esquema de dicha coordinación con los gobiernos federal y municipales, así como con los organismos auxiliares.
 
-XX. Modificar o revocar aquellas actuaciones que presenten vicios de procedimiento, así como las resoluciones de carácter individual no favorables a un particular.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XX. Modificar, revocar o reponer aquellas actuaciones que presenten vicios de procedimiento, así como las resoluciones de carácter individual no favorables a un particular.
 
 XXI. Habilitar días y horas inhábiles para la práctica de diligencias o ejercicio de sus facultades de comprobación.
 
@@ -1087,7 +1231,7 @@ IX. Registrar y clasificar los ingresos provenientes de la Federación, para eva
 
 X. Proporcionar mensualmente cifras proyectadas de ingresos al Secretario, al Subsecretario de Ingresos, al Subsecretario de Tesorería y al Subsecretario de Planeación y Presupuesto.
 
-XI. Elaborar la cuenta comprobada mensual, en términos del Convenio celebrado con la Secretaría de Hacienda y Crédito Público.
+XI. (DEROGADA, G.G. 10 DE ENERO DE 2012)
 
 XII. Colaborar, en el ámbito de su competencia, con los organismos que integran los sistemas: Nacional de Coordinación Fiscal y Estatal de Coordinación Hacendaria.
 
@@ -1109,7 +1253,11 @@ XVI. Analizar la suscripción de convenios con el gobierno federal y municipios 
 
 XVII. Proponer al Subsecretario de Ingresos, la modificación de los precios y tarifas que le sean informados por las Entidades Públicas, previo análisis que de éstos se hagan.
 
-XVIII. Las demás que le señalan otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Ingresos.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XVIII. Determinar las retenciones o afectaciones a las aportaciones federales que correspondan conforme a las leyes, códigos, reglamentos y demás disposiciones jurídicas en materia fiscal.
+
+XIX. Las demás que señalan otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Ingresos.
 
 ### CAPÍTULO I. DEL SUBSECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 
@@ -1367,7 +1515,23 @@ XXII. Celebrar, conjuntamente con las dependencias y entidades públicas, conven
 
 XXIII. Operar el sistema de compensaciones de adeudos exigibles entre el Gobierno del Estado y las Entidades de la Administración Pública Estatal y Municipal.
 
-XXIV. Las demás que le confieran otros ordenamientos jurídicos y aquellas que le encomiende el Secretario.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXIV. Analizar la viabilidad de constituir fideicomisos en que intervenga el Poder Ejecutivo del Estado a través de sus dependencias y organismos auxiliares, y de ser procedente autorizarlo; sin importar quien sea su fideicomitente.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXV. Establecer el Registro de Fideicomisos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXVI. Llevar el registro y seguimiento de los fideicomisos constituidos por el Poder Ejecutivo del Estado en el Registro de Fideicomisos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XXVII. Acordar con el Comité Técnico u Órgano de Gobierno del fideicomiso, las modificaciones a los contratos de fideicomiso y su posible extinción, cuando exista alguna causa que lo justifique; con excepción de los señalados en los artículos 265-A y 265 B Bis del Código Financiero del Estado de México y Municipios.
+
+XXVIII. Las demás que le confieran otros ordenamientos jurídicos y aquellas que le encomiende el Secretario.
 
 ###### Artículo 24.
 
@@ -1445,7 +1609,9 @@ I. Proponer al Subsecretario de Tesorería:
 
 a) La política que en materia de deuda pública estatal deberán observarse en el Gobierno del Estado, considerando la legislación y normatividad vigente y las condiciones económicas nacionales y estatales.
 
-b) Programas y esquemas de endeudamiento y de reestructuración de la deuda estatal.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
+
+b). Programas y esquemas de endeudamiento, reestructuración y refinanciamiento de la deuda pública.
 
 c) La suscripción de los contratos de servicios financieros que requiera el Gobierno del Estado.
 
@@ -1459,13 +1625,17 @@ IV. Controlar y dar seguimiento a:
 
 a). Las obligaciones financieras derivadas de concesiones y contratos de obra financiada.
 
-b). La deuda de los organismos auxiliares de la administración pública estatal con la finalidad de proponer las operaciones de inversión que permitan optimizar los recursos.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
+
+b). La deuda de los organismos auxiliares de la administración pública estatal; así como proponer cuando lo soliciten, las operaciones de inversión que permitan optimizar los recursos.
 
 c). Al cumplimiento de los convenios y contratos de crédito en términos de las amortizaciones de capital y pagos de servicios de la deuda pública del Gobierno del Estado.
 
 V. Vigilar el cumplimiento de las obligaciones del Gobierno del Estado con sus acreedores, incluyendo las obligaciones de hacer y no hacer.
 
-VI. Asesorar a los ayuntamientos en la determinación, gestión, obtención y reestructuración de financiamientos, observando que se ajusten a lo previsto en el Código Financiero del Estado de México y Municipios.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+VI. Asesorar a los ayuntamientos en la determinación, gestión, obtención, refinanciamiento y reestructuración de financiamientos, observando que se ajusten a lo previsto en el Código Financiero del Estado de México y Municipios.
 
 VII. Fijar a solicitud de los gobiernos municipales, en cantidad líquida, los montos de endeudamiento que resulten de la aplicación de lo previsto en el Título Octavo del Código Financiero del Estado de México y Municipios y en la Ley de Ingresos del Estado de México del Ejercicio Fiscal que corresponda.
 
@@ -1483,7 +1653,23 @@ XIII. Solicitar información financiera de los organismos auxiliares del Estado,
 
 XIV. Coordinar y mantener la relación con las agencias calificadoras y organismos financieros.
 
-XV. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Tesorería.
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XV. Analizar las propuestas de constitución de fideicomisos en que intervenga el Poder Ejecutivo del Estado a través de sus dependencias y organismos auxiliares, y someterlas a consideración del Subsecretario.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XVI. Inscribir y dar seguimiento en el Registro de Fideicomisos del Estado de México a los fideicomisos constituidos por el Poder Ejecutivo del Estado, a través de sus dependencias y organismos auxiliares; así como establecer el procedimiento para su registro.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XVII. Solicitar información Financiera de los fideicomisos constituidos por el Poder Ejecutivo del Estado a través de sus dependencias y organismos auxiliares; así como información de los recursos fideicomitidos cuando se afecten como fuente de pago y/o garantía a otro fideicomiso público o privado.
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XVIII. Proponer al Subsecretario, previo análisis, las modificaciones a los contratos de fideicomiso y su posible extinción cuando exista alguna causa que lo justifique.
+
+XIX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario y el Subsecretario de Tesorería.
 
 ### CAPÍTULO V
 
@@ -1555,7 +1741,9 @@ c) Las fianzas a favor del Gobierno del Estado, así como las que éste otorgue 
 
 d) Los vales provisionales de caja que amparen la entrega en efectivo al cajero pagador y al fondo fijo.
 
-e) Los pagarés, cheques y demás formas valoradas.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
+
+e). Los pagarés, cheques y demás formas valoradas con que opera la Tesorería y que únicamente sean a nombre del Gobierno del Estado de México.
 
 IV. Solicitar a las instancias competentes, el ejercicio de los derechos patrimoniales derivados de los valores custodiados por el Gobierno del Estado.
 
@@ -2133,53 +2321,73 @@ VII. Las demás que se le encomienden.
 
 Corresponde a la Coordinación Administrativa:
 
-I. Cumplir y hacer cumplir en la Secretaría las normas y políticas que en materia de administración de recursos humanos, materiales y financieros emita el Secretario.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+I. Cumplir con las normas y políticas que en materia de administración de recursos humanos, materiales y financieros emita el Secretario.
 
 II. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría.
 
 III. Formular conjuntamente con las unidades administrativas de la Secretaría:
 
-a) Los programas anuales de adquisiciones, arrendamientos y servicios.
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2012)</small>
+
+a). Los programas anuales de adquisiciones y servicios.
 
 b) Los programas de trabajo.
 
 c) Los proyectos de presupuesto de egresos respectivos.
 
-IV. Formular en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, el anteproyecto de Presupuesto de Egresos de la Secretaría, y someterlo a la consideración del Secretario, así como realizar la calendarización de los recursos del presupuesto autorizado a la Secretaría.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-V. Ejecutar los procedimientos y mecanismos para el ejercicio y control del presupuesto de gasto corriente y de inversión, así como verificar su aplicación.
+IV. Formular el anteproyecto de Presupuesto de Egresos de la Secretaría, así como realizar la calendarización de los recursos del presupuesto autorizado a la Secretaría.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+V. Ejecutar las actividades y tareas para el ejercicio y control del presupuesto de recursos financieros autorizados a la Secretaría, así como vigilar su aplicación.
 
 VI. Coordinar y controlar la integración y consolidación de la información emitida por las unidades ejecutoras de la Secretaría sobre el ejercicio del gasto, e informar a su titular sobre el comportamiento del mismo.
 
-VII. Certificar cuando proceda la suficiencia presupuestaria, y validar las certificaciones de suficiencia presupuestaria que emitan las unidades ejecutoras de la Secretaría.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-VIII. Presidir el Comité de Adquisiciones y Servicios de la Secretaría.
+VII. Certificar la suficiencia presupuestaria que requieran las unidades ejecutoras de la Secretaría.
 
-> <small>(REFORMADA G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-IX. Coordinar y en su caso, ejecutar los procedimientos de adquisición de bienes muebles, y contratación de servicios.
+VIII. Presidir el Comité de Adquisiciones y Servicios de la Secretaría, cuyas funciones serán las que establece el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
 
-> <small>(REFORMADA G.G. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-X. Suscribir, como responsable de la ejecución de los procedimientos adquisitivos, los contratos y convenios que se deriven de éstos; debiendo el titular de la unidad administrativa requirente, validar los citados instrumentos jurídicos, en su calidad de área usuaria.
+IX. Programar, tramitar y en su caso, ejecutar los procedimientos de adquisición de bienes muebles, y contratación de servicios y gestionar ante la instancia correspondiente la contratación de los arrendamientos de inmuebles que requieran las Unidades Administrativas de la Secretaría.
 
-XI. Realizar los trámites administrativos necesarios para efectuar la entrega de los apoyos y donaciones autorizados por el Titular del Poder Ejecutivo del Gobierno del Estado o de la Secretaría.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+X. Suscribir los contratos como resultado de la instauración de los procedimientos adquisitivos para la contratación de bienes y servicios, así como de los demás actos jurídicos de carácter administrativo de cualquier otra índole dentro del ámbito de su competencia; debiendo el titular de la unidad administrativa requirente, validar los contratos, en su calidad de área usuaria.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XI. Realizar los trámites administrativos y coordinar las acciones para la entrega de apoyos y donaciones dirigidos a los grupos sociales, comunitarios, asociaciones civiles, ayuntamientos y población en general, autorizados en los Programas de Gobierno.
 
 XII. Coordinar a las delegaciones administrativas o equivalentes para que realicen el registro, mantenimiento y conservación de los bienes muebles e inmuebles asignados a las unidades administrativas de la Secretaría, así como mantener actualizado el resguardo de los bienes muebles, a través de las mismas.
 
 XIII. (DEROGADA, G.G. 3 DE JUNIO DE 2008)
 
-XIV. Promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas al personal de la Secretaría.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-XV. Coordinar y apoyar, en el ámbito de su competencia, a las unidades administrativas de la Secretaría en la realización de actos y eventos de carácter extraordinario.
+XIV. Tramitar los movimientos de altas, bajas, cambios, permisos, promociones y licencias del personal adscrito a la Oficina del C. Secretario y Áreas Staff. Asimismo promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas al personal de la Secretaría.
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XV. Apoyar a las unidades administrativas de la Secretaría en la realización de actos y eventos de carácter extraordinario.
 
 XVI. Coordinar las acciones de protección civil de la Secretaría, con base en las normas y políticas aplicables.
 
-XVII. Informar oportunamente al Secretario sobre el estado que guarden los asuntos competencia de la Coordinación, atendidos por ésta o por sus unidades administrativas.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2008)</small>
+XVII. Informar oportunamente al Secretario sobre el estado que guarden los asuntos, competencia de la Coordinación Administrativa.
 
-XVIII. Conocer y resolver los procedimientos sobre el incumplimiento en que incurran los proveedores de bienes y los prestadores de servicios, relacionados con los procedimientos de adquisición de bienes muebles y contratación de servicios en los que haya intervenido, y en su caso, aplicar las sanciones correspondientes.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2012)</small>
+
+XVIII. Conocer y resolver los procedimientos sobre el incumplimiento en que incurran los proveedores de bienes y los prestadores de servicios, relacionados con los procedimientos de adquisición de bienes muebles y contratación de servicios en los que haya intervenido, y en su caso, aplicar las sanciones correspondientes; así como rescindir los contratos suscritos por la Coordinación Administrativa por causas imputables a los proveedores o prestadores de servicios.
 
 XIX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
@@ -2240,6 +2448,12 @@ En caso de ausencia definitiva y en tanto se designa al nuevo titular, el Secret
 Los Directores Generales o equivalentes serán suplidos en sus ausencias temporales hasta por 15 días, por el director o el servidor público de la jerarquía inmediata inferior que aquellos designen. En las mayores de 15 días, por el servidor público que designe el Secretario.
 
 En caso de ausencia definitiva y en tanto se designa al nuevo titular, el Secretario podrá designar un encargado de despacho.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2012)</small>
+
+###### Artículo 45.
+
+El encargado del despacho tendrá las atribuciones inherentes al área en que es designado.
 
 T R A N S I T O R I O S
 
@@ -2306,3 +2520,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 10 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- En caso de ser necesario, las Unidades Administrativas directamente involucradas en las reformas, adiciones y derogaciones en el presente Acuerdo, deberán realizar las acciones y en su caso los trámites administrativos correspondientes para adecuar el Manual General de Organización de la Secretaría de Finanzas, dentro de los 90 días a partir de su publicación.
