@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-administracion-del-ayuntamiento-de-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2011-07-27"
+last_updated: "2012-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -267,7 +267,9 @@ V.- Coordinación Administrativa, y
 
 VI.- Coordinación General de Ingresos y Coordinaciones de Ingresos, que se encontrarán en cada una de las dependencias de la administración pública municipal, mismas que dependerán administrativamente de la Sindicatura y presupuestalmente, de la dependencia a la que están adscritas, para dar debido cumplimiento a lo dispuesto en el artículo 45 fracción VIII de la Ley Orgánica Municipal del Estado de Morelos.
 
-Asimismo, por conducto de los Jueces Cívicos, el Síndico coordinará, supervisará, y vigilará la aplicación de las sanciones que por infracciones al Bando de Policía y Gobierno del Municipio de Cuernavaca, Morelos, cometan los ciudadanos.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
+
+Asimismo, por conducto de los jueces cívicos, el Síndico coordinará, supervisará, y vigilará la aplicación de las sanciones por infracciones a los ordenamientos legales que así lo determinen.
 
 #### SECCIÓN TERCERA. DE LOS REGIDORES
 
@@ -2218,3 +2220,9 @@ PRIMERO.- El presente acuerdo entrará en vigor el mismo día de su aprobación 
 SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial que edita el Gobierno del Estado de Morelos y en la Gaceta Municipal.
 
 TERCERO.- Los recursos humanos, materiales y financieros, asignados a la Dirección de Cultura, serán trasladados al Consejo de Cultura de Cuernavaca, Morelos, debiéndose de adecuar la normatividad correspondiente para tal efecto, con la intervención de la Oficialía Mayor, Tesorería y de la Sindicatura Municipal por conducto de la Dirección de Patrimonio.
+
+P.O. 11 DE ENERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca. Dado en el Salón de Cabildo "Benito Juárez García", en la Ciudad de Cuernavaca, a los cuatro días del mes de noviembre del año dos mil once.
