@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-delitos-de-imprenta-2565"
 country: "mx"
 rank: "ley"
 publication_date: "1917-04-12"
-last_updated: "1917-04-12"
+last_updated: "2012-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2565&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1917-04-09"
 
 LEY SOBRE DELITOS DE IMPRENTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 12 de abril de 1917.
 
@@ -33,15 +33,7 @@ LEY
 
 ###### Artículo 1o.
 
-Constituyen ataques a la vida privada:
-
-I.- Toda manifestación o expresión maliciosa hecha verbalmente o por señales en presencia de una o más personas, o por medio de manuscrito, o de la imprenta, del dibujo, litografía, fotografía o de cualquier otra manera que expuesta o circulando en público, o transmitida por correo, telégrafo, teléfono, radiotelegrafía o por mensajes, o de cualquier otro modo, exponga a una persona al odio, desprecio o ridículo, o pueda causarle demérito o en su reputación o en sus intereses;
-
-II.- Toda manifestación o expresión maliciosa hecha en los términos y por cualquiera de los medios indicados en la fracción anterior, contra la memoria de un difunto con el propósito o intención de lastimar el honor o la pública estimación de los herederos o descendientes de aquél, que aún vivieren;
-
-III.- Todo informe, reportazgo o relación de las audiencias de los jurados o tribunales, en asuntos civiles o penales, cuando refieran hechos falsos o se alteren los verdaderos con el propósito de causar daño a alguna persona, o se hagan, con el mismo objeto, apreciaciones que no estén ameritadas racionalmente por los hechos, siendo éstos verdaderos;
-
-IV.- Cuando con una publicación prohibida expresamente por la Ley, se compromete la dignidad o estimación de una persona, exponiéndola al odio, desprecio o ridículo, o a sufrir daños o en su reputación o en sus intereses, ya sean personales o pecuniarios.
+(DEROGADO, D.O.F. 11 DE ENERO DE 2012)
 
 ###### Artículo 2o.
 
@@ -251,15 +243,9 @@ Toda sentencia condenatoria que se pronuncie con motivo de un delito de imprenta
 
 En toda sentencia condenatoria se ordenará que se destruyan los impresos, grabados, litografías y demás objetos con que se haya cometido el delito y tratándose de instrumentos públicos, que se tilden de manera que queden ilegibles las palabras o expresiones que se consideren delictuosas.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### Artículo 31.
 
-Los ataques a la vida privada se castigarán:
-
-I.- Con arresto de ocho días a seis meses y multa de cinco a cincuenta pesos, cuando el ataque o injuria no esté comprendido en la fracción siguiente;
-
-II.- Con la pena de seis meses de arresto a dos años de prisión y multa de cien a mil pesos, cuando el ataque o injuria sea de los que causen afrenta ante la opinión pública o consista en una imputación o en apreciaciones que puedan perjudicar considerablemente la honra, la fama, o el crédito del injuriado, o comprometer de una manera grave la vida, la libertad o los derechos o intereses de éste, o exponerlo al odio o al desprecio público.
+(DEROGADO, D.O.F. 11 DE ENERO DE 2012)
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -324,3 +310,9 @@ Al C. Lic. Manuel Aguirre Berlanga, Subsecretario Encargado del Despacho de Gobe
 Lo que me honro en comunicar a usted para su publicación y demás efectos.
 
 Constitución y Reformas.- México, nueve de abril de mil novecientos diecisiete.- AGUIRRE BERLANGA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 11 DE ENERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
