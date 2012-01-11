@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-organica-del-poder-judicial-del-estado-120
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-31"
-last_updated: "2004-08-21"
+last_updated: "2012-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
 
 Reglamento publicado en el Folleto Anexo al No. 26 del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 1990.
 
@@ -255,7 +255,7 @@ En la formación de los expedientes, cuidará que los documentos y asuntos pueda
 
 VII.- Abrir y dar curso a la correspondencia que venga dirigida a él y la oficial para el Presidente y la del Pleno;
 
-VIII.- En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas, en forma equitativa, proporcional y oportuna, vigilando se respeten las prevenciones respectivas. Las formas en que se consigne el turno contendrán los siguientes datos: el nombre del tribunal de procedencia; el nombre de las partes, la clase de procedimiento; una relación sucinta de la resolución que deba ser revisada; en su caso, la fecha de interposición del recurso y el efecto en que se admitió; la designación de la Sala a que se turne, así como la fecha; y las firmas del Presidente y del Secretario General en el acuerdo del turno. El contenido de las formas podrá modificarse atendiendo a las necesidades del servicio;
+VIII.- En cumplimiento del acuerdo del Presidente, distribuir el turno de los asuntos que deban conocer las Salas, en forma equitativa, proporcional y oportuna, vigilando se respeten las prevenciones respectivas. Las formas en que se consigne el turno contendrán los siguientes datos: el nombre del tribunal de procedencia; el nombre de las partes; la clase de procedimiento; una relación sucinta de la resolución que deba ser revisada; en su caso, la fecha de interposición del recurso y el efecto en que se admitió; la designación de la Sala a que se turne, así como la fecha; y las firmas del Presidente y del Secretario General en el acuerdo del turno. El contenido de las formas podrá modificarse atendiendo a las necesidades del servicio;
 
 IX.- Distribuir los trabajos de la Secretaría General entre los empleados de la misma, del modo que estime más conveniente;
 
@@ -1289,103 +1289,93 @@ Cuando se trate de la realización de obra pública, el Pleno por conducto de su
 
 DEL SERVICIO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 134.
 
-El Poder Judicial del Estado, a través del Departamento de Informática del Supremo Tribunal de Justicia, proporcionará a quien lo solicite y satisfaga los requisitos que este Reglamento establece, un servicio de Consulta Remota por medios informáticos a través de la Red (Internet) por medio del cual los usuarios estarán en aptitud de consultar el contenido de los diversos expedientes que se tramitan en los tribunales del Poder Judicial del Estado.
+El Poder Judicial del Estado, proporcionará en forma gratuita, a quien lo solicite y satisfaga los requisitos que este Reglamento establece, un servicio de Consulta Remota por medios informáticos a través de la Red (Internet) por medio del cual los usuarios estarán en aptitud de consultar el contenido de los diversos expedientes que se tramitan en los tribunales del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 135.
 
-El servicio para los usuarios contratantes estará disponible 24 horas al día los 365 días del año con excepción de aquellos días que sean precisos para realizar el mantenimiento preventivo y/o correctivo de los equipos dedicados a la prestación de dicho servicio que sean propiedad del Poder Judicial; y en los casos en que por causas de fuerza mayor o caso fortuito se deje de prestar el servicio.
+El servicio para los usuarios estará disponible los 365 días del año, con excepción de aquellos necesarios para realizar el mantenimiento de los equipos dedicados a la prestación de dicho servicio que sean propiedad del Poder Judicial; y en los casos en que por causas de fuerza mayor o caso fortuito se deje de prestar.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+Serán dados de alta ante el tribunal correspondiente quienes así lo soliciten y por resolución judicial se les haya reconocido personalidad.
+
+El interesado en forma personal y secreta ingresará su clave de acceso. En el sistema se registrará el día hora y nombre del funcionario o empleado del Juzgado que llevó a cabo tal procedimiento.
+
+El acceso al expediente digital será concedido por el Juzgado correspondiente, en donde se verificará que se cumplan los requisitos exigidos en el primer párrafo.
+
+Para evitar el uso inadecuado del sistema, éste evidenciará el nombre completo de los usuarios a quienes se ha permitido el acceso al expediente digital, así como el día y la hora en que se concedió esa autorización.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 136.
 
-El usuario tendrá acceso al servicio de manera constante dentro del horario establecido en el apartado anterior, pero su permanencia en el sistema no podrá exceder una hora continua. Una vez rebasado este tiempo, el usuario será desconectado automáticamente, sin perjuicio que de acuerdo a sus necesidades, se conecte nuevamente.
+El usuario tendrá acceso al servicio de manera constante, pero su permanencia en el sistema no podrá exceder de treinta minutos de manera inactiva. Una vez rebasado ese tiempo, el usuario será desconectado automáticamente, sin perjuicio que de acuerdo a sus necesidades, se conecte nuevamente.
 
-El servicio se inhabilitará durante el resto del día cuando se reitere por dos veces consecutivas el uso de claves no autorizadas.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 137.
 
-El servicio se prestará en aquellas ciudades en que exista el servicio adecuado de Internet.
+El servicio se prestará en aquellos lugares en que exista el servicio adecuado de Internet.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 138.
 
-El servicio prestado costará $300.00 mensuales, pagaderos por adelantado dentro de los tres primeros días hábiles del mes del servicio.
-
-La falta de pago de las cuotas en el término correspondiente traerá como consecuencia la interrupción del servicio que podrá reanudarse una vez que el usuario pague las cuotas correspondientes
-
-Las cuotas pagadas por la prestación del servicio en ningún caso serán reembolsables, aun cuando el servicio no se haya utilizado o se haya utilizado parcialmente.
-
-Si el usuario desea dar por terminado el servicio, deberá enviar aviso por escrito al Departamento de Informática del Tribunal, cinco días hábiles antes de la terminación del mes, para evitarse pagar la cuota correspondiente al mes siguiente.
-
-La información que se proporcione a través de éste servicio es de carácter puramente informativo y carecerá de validez legal ante tribunales y/o terceras personas. El uso de la información obtenida será en todo momento de la exclusiva responsabilidad del usuario;
+La información que se proporcione a través de éste servicio es de carácter puramente informativo y carecerá de validez legal ante tribunales o terceras personas. El uso de la información obtenida será en todo momento de la exclusiva responsabilidad del usuario.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
 
 DE LOS USUARIOS
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 139.
 
-Usuario es toda persona física que celebre contrato con el Poder Judicial para obtener el servicio mencionado en el artículo anterior.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+Usuario es toda persona física que sea parte en un juicio que se radique en los Tribunales del Poder Judicial y solicite el servicio.
 
 ###### ARTICULO 140.
 
-El Usuario tendrá las siguientes obligaciones y responsabilidades:
+(DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2012)
 
-a).- Contar con el equipo y software necesarios para tener acceso al sistema, el cual deberá satisfacer las especificaciones y requerimientos mínimos necesarios que se recomienden en el contrato respectivo.
+a).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-b).- Eximirse de realizar cualquier actividad con la que pretenda solucionar cualquier falla en el servicio.
+b).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-c).- Usar en forma debida y lícita su número de cuenta y contraseña (password), ya que estas son personales, únicas e intransferibles. Está prohibido compartir o ceder su clave de acceso a terceras personas para cualquier fin.
+c).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-d).- Eximirse de utilizar el servicio para transmitir cualquier documento que vaya en contra de las disposiciones legales o material protegido por la ley de derechos de autor.
+d).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-e).- No podrá transferir, reproducir, publicar, explotar o distribuir total o parcialmente y con cualquier fin, la información obtenida a través del sistema, sin el consentimiento del autor, licenciatario o titular del derecho patrimonial, así como por autorización previa y por escrito del Tribunal.
+e).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-f).- Notificar en forma fehaciente, dentro de las 48 horas siguientes a que ocurra el suceso, la revocación que su cliente le haya hecho para consultar un expediente.
+f).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-La omisión en el cumplimiento de esta obligación traerá como consecuencia la suspensión total y permanente del servicio al usuario;
+g). - (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-g).- Notificar cualquier cambio en la información de su cuenta proporcionada en el contrato respectivo.
+h).- (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-h).- Eximirse de utilizar cualquier medio mecánico o electrónico para evitar ser desconectado automáticamente;
-
-i).- Pagar dentro de los tres primeros días hábiles de cada mes la cuota acordada en el contrato respectivo. Cuando el servicio se contrate después del tercer día hábil del mes, se hará el ajuste del pago de la cuota por los días que resten de transcurrir de ese mes, a fin de que el servicio se contrate por meses completos.
+i). (DEROGADO, P.O. 11 DE ENERO DE 2012)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
-
 ###### ARTICULO 141.
 
-Todas las cuestiones que surjan en la aplicación del presente Reglamento y disposiciones relativas, se resolverá (sic) por el Presidente del Tribunal, después de oír a los interesados y recabar la información que estime necesaria.
+(DEROGADO, P.O. 11 DE ENERO DE 2012)
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 142.
 
-El costo del servicio prestado será revisado periódicamente por el Pleno a fin de ajustarlo a los factores de inflación.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+Cuando por cualquier causa justificada en la Ley, se deba cancelar el acceso de algún usuario al expediente digital, el Tribunal, de oficio o a solicitud de la parte interesada, cancelará el acceso al expediente correspondiente.
 
 ###### ARTICULO 143.
 
-La (sic) modificaciones que se hagan a los términos de los contratos que se celebren con base en estas disposiciones, serán notificados a los usuarios indistintamente por medio de la página Web del Poder Judicial o del correo electrónico que el suscriptor proporcione.
+(DEROGADO, P.O. 11 DE ENERO DE 2012)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. REFORMADO], P.O. 11 DE AGOSTO DE 2004)</small>
 
@@ -1462,3 +1452,15 @@ P.O. 21 DE AGOSTO DE 2004.
 > <small>[N. DE E. SE TRANSCRIBE PARTE FINAL DEL "ACUERDO NO. 44 TOMADO POR EL H. PLENO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 40-BIS FRACCIÓN II DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 ACUERDO: Se autoriza la supresión a que se ha hecho referencia. Publíquese este acuerdo por una sola vez en el Periódico Oficial del Estado, en el entendido que la señalada reforma entrará en vigor al día siguiente de su publicación.
+
+P.O. 11 DE ENERO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NO. 11, MEDIANTE EL CUAL SE REFORMA EL TÍTULO UNDÉCIMO DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+La vigencia de este Reglamento iniciará a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las cuotas pagadas por la prestación del servicio en ningún caso serán reembolsables, aun cuando el servicio no se haya utilizado o se haya utilizado parcialmente.
