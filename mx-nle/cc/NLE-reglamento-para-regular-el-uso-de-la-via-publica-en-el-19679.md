@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-regular-el-uso-de-la-via-publica-en-el-19679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-06"
-last_updated: "2005-11-09"
+last_updated: "2012-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-REGLAMENTO PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
+REGLAMENTO PARA REGULAR EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA EL USO DE LA VÍA PÚBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL EN MONTERREY, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de septiembre de 2000.
 
@@ -533,7 +535,7 @@ V.- Es obligación de los comerciantes del Mercado Rodante tener un contrato con
 
 VI.- Es obligación de los comerciantes del Mercado Rodante contar con baños sanitarios portátiles para el uso propio de los oferentes y de los compradores, los cuales deberán de retirarse una vez que terminen las labores de trabajo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 2005)</small>
 
 ### Capítulo XII BIS. Comercio de Tortillas de Nixtamal de Maíz, de Harina, de Trigo, y sus Derivados
 
@@ -831,15 +833,15 @@ El C. Secretario del R. Ayuntamiento
 
 Lic. Arnulfo Flores Rodríguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 23 DE OCTUBRE DE 2000.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 9 DE FEBRERO DE 2001.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 9 DE NOVIEMBRE DE 2005.
 
@@ -848,3 +850,13 @@ PRIMERO.- Una vez aprobado lo anterior, la Secretaría del R. Ayuntamiento deber
 SEGUNDA.- La presente reforma al Reglamento para Regular el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial de la Ciudad de Monterrey, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad con el artículo 161 de la Ley Orgánica de la Administración Pública Municipal del Estado.
 
 TERCERA.- Las personas físicas y morales que actualmente estén llevando a cabo la comercialización de tortillas de nixtamal y de harina de maíz y sus derivados en la vía pública del territorio del Municipio de Monterrey, Nuevo León, tendrá un plazo de 60 días naturales para llevar a cabo el trámite para obtener su permiso correspondiente.
+
+P.O. 11 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+Se abroga el Reglamento para Regular el Uso de la Vía Pública en el Ejercicio de la Actividad Comercial de la Ciudad de Monterrey, Nuevo León, publicado en el Periódico Oficial del Estado en las fechas 6 de septiembre de 2000, 23 de octubre del 2000, 9 de febrero del 2001 y 9 de noviembre del 2005.
+
+###### ARTÍCULO SEGUNDO
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
