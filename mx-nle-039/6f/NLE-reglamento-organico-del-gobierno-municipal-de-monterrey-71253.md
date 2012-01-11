@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2011-03-18"
+last_updated: "2012-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEON
 
-REGLAMENTO ORGANICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEON
+REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -95,7 +95,7 @@ Al Ayuntamiento le corresponderá aprobar los nombramientos y remociones del Sec
 
 ### CAPÍTULO II. DEL PRESIDENTE MUNICIPAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 8.
 
@@ -167,7 +167,7 @@ III. De administración:
 
 A) Emitir los acuerdos, las circulares y demás disposiciones que tiendan a regular el funcionamiento administrativo de las dependencias municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2011)</small>
 
 IV. De Inspección y Vigilancia:
 
@@ -209,37 +209,15 @@ E) Coordinar el seguimiento al Plan Municipal de Desarrollo, evaluando su cumpli
 
 F) Situar, integrar e inscribir al Municipio en diversas competencias de calidad operativa y de servicio con la finalidad de obtener premios nacionales e internacionales:
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
-G) Desarrollar estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol, orientar, desincentivar el consumo e informando de las consecuencias negativas en la salud de las personas, en la vida familiar y en la vida social;
+G) Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso en el consumo del alcohol.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
-H) Promover la coordinación con autoridades administrativas del Estado, de otros Municipios y entre las dependencias municipales para el cumplimiento del objeto de la Ley Estatal de Prevención y Combate al Abuso del Alcohol;
+H) Impulsar alternativas de sano esparcimiento facilitando la utilización de centros comunitarios de tipo educativo, cultural o lúdico, como polideportivos, bibliotecas y centros culturales; y
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-I) Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso en el consumo del alcohol.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-J) Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, titulares de las licencias de los establecimientos, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios con el fin de prevenir y combatir el abuso en el consumo de bebidas alcohólicas, proteger la salud frente a los riesgos derivados del mismo, así como, dentro del marco legal, todo tipo de acciones tendientes a lograr el cumplimiento de la Ley Estatal de Prevención y Combate al Abuso del Alcohol;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-K) Fortalecer las estrategias de apoyo y ayuda dirigidas a familias donde alguno de sus miembros presente problemas por el abuso de consumo de bebidas alcohólicas;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-L) Apoyar a centros de prevención y a organizaciones no gubernamentales que promuevan, ante la sociedad, campañas continuas para reducir el consumo del alcohol o brinden tratamiento a las personas que así lo requieran;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-M) Celebrar convenios con el Ejecutivo Federal, con el Ejecutivo del Estado, o con otros Ayuntamientos para el mejor cumplimiento de la Ley Estatal de Prevención y Combate al Abuso del Alcohol;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-N) Impulsar alternativas de sano esparcimiento facilitando la utilización de centros comunitarios de tipo educativo, cultural o lúdico, como polideportivos, bibliotecas y centros culturales; y
+> <small>N. DE E. CONFORME AL ACUERDO DEL AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY EN SESIÓN ORDINARIA DE FECHA 19 DE DICIEMBRE DE 2011, PUBLICADO EN EL P.O. DEL 11 DE ENERO DE 2012, EN LA PÁGINA 33 NO SE HACE REFERENCIA A LOS INCISOS DEL I) AL N).</small>
 
 Las demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes.
 
@@ -319,7 +297,7 @@ XIII. Dirección General del Desarrollo Integral de la Familia.
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
@@ -354,6 +332,10 @@ G) Formular y firmar las actas de las sesiones del Ayuntamiento, además de asen
 H) Informar anualmente al Ayuntamiento, o cuando éste lo solicite, de la estadística de recursos de inconformidad presentados por los particulares contra actos de las autoridades municipales;
 
 I) Ejecutar los programas que le correspondan en el contexto del Plan Municipal de Desarrollo y normativas legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+J) Firmar las anuencias municipales que expida el Ayuntamiento respecto a su opinión para el otorgamiento de las licencias o permisos especiales de establecimientos cuyo objeto sea el expendio, venta o consumo de bebidas alcohólicas en el Municipio.
 
 II. De Orden Jurídico:
 
@@ -449,33 +431,19 @@ E) Instruir el retiro de sellos o símbolos de clausura por resolución de autor
 
 F) Ordenar la imposición, reposición de sellos o símbolos de clausura en caso de que hayan cesado los efectos de la resolución de la autoridad judicial;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
-G) Firmar las licencias y permisos temporales autorizados por el Ayuntamiento y el Presidente Municipal, cuidando que cuenten con el número de expediente catastral y los demás requisitos establecidos Reglamento que Regula las Actividades de los Establecimientos de Venta, y/o Consumo de Bebidas Alcohólicas en el Municipio de Monterrey, Nuevo León;
+G) Informar, recibir y agilizar con eficiencia las solicitudes de anuencias municipales con los documentos requeridos para proceder al trámite de las mismas por medio de la ventanilla única;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
-H) Expedir la reposición de la licencia o permiso conforme lo determina el Reglamento que Regula las Actividades de los Establecimientos de Venta, y/o Consumo de Bebidas Alcohólicas en el Municipio de Monterrey, Nuevo León;
+H) Elaborar y mantener actualizado el padrón de las anuencias municipales emitidas por el Ayuntamiento. Dicho registro contendrá por lo menos, el número de folio de anuencia, el giro, nombre del titular, domicilio del establecimiento o evento, y las demás que se consideren convenientes; y
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
-I) Notificar a la Tesorería Municipal y a la Dirección de Inspección y Vigilancia lo relativo a la expedición de licencias y permisos temporales y revocaciones emitidos por el Ayuntamiento respecto a aquellos establecimientos en donde se venden, consumen o expenden bebidas alcohólicas;
+I) Las demás atribuciones que le confieren este Reglamento y las demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-J) Expedir copias certificadas de las licencias o permisos temporales solicitados por el titular, previo pago de derechos, de los establecimientos en donde se venden, consumen o expenden bebidas alcohólicas;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-K) Acreditar que los establecimientos en donde se vende, consume o expende bebidas alcohólicas, participen en los programas de consumo responsable de bebidas alcohólicas;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-L) Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de prevenir y combatir el abuso en el consumo de bebidas alcohólicas, proteger la salud frente a los riesgos derivados del mismo, así como otras acciones tendientes a lograr el cumplimiento de la ley Estatal de Prevención y Combate al Abuso del Alcohol;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-M) Las demás atribuciones que le confieren este Reglamento y las demás disposiciones jurídicas aplicables.
+> <small>N. DE E. CONFORME AL ACUERDO DEL AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY EN SESIÓN ORDINARIA DE FECHA 19 DE DICIEMBRE DE 2011, PUBLICADO EN EL P.O. DEL 11 DE ENERO DE 2012, EN LA PÁGINA 36 NO SE HACE REFERENCIA A LOS INCISOS DEL J) AL M).</small>
 
 VI. De Protección Civil:
 
@@ -503,35 +471,31 @@ Para el despacho de los asuntos de su competencia, el Secretario del Ayuntamient
 
 ### CAPÍTULO V. DE LA TESORERÍA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
 A la Tesorería Municipal le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2012)</small>
 
 I. De Carácter Fiscal:
 
 A) Recaudar las contribuciones que corresponden al Municipio en el rendimiento de impuestos federales y estatales;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
+B) Recaudar las contribuciones que corresponden al Municipio;
 
-B) Efectuar el cobro a los establecimientos en donde se vende, consume o expenden bebidas alcohólicas por:
+C) Efectuar el cobro a los establecimientos en donde se vende, consume o expenden bebidas alcohólicas por:
 
 1. Expedición de certificados;
 
-2. Autorizaciones, constancias o registros de acuerdo con la Ley de Hacienda para los Municipios del Estado de Nuevo León;
+2. Constancias o registros de acuerdo con la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
-3. Inscripción al inicio de las actividades de los establecimientos, a quienes se les otorga una licencia o permiso temporal;
+3. Pago de derechos conforme la Ley de Hacienda para los Municipios del Estado de Nuevo León;
 
-4. El refrendo de las licencias en los términos dé la Ley de Hacienda para los Municipios del Estado de Nuevo León;
+4. Multas y recargos por sanción impuestas por violación a este Reglamento;
 
-5. Multas y recargos por sanción (sic) impuestas por violación a este Reglamento;
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
-
-C) Integrar y mantener actualizado el Padrón Municipal de contribuyentes;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
-
-D) Llevar un registro foliado de las licencias y permisos otorgados por el Ayuntamiento de aquellos establecimientos en donde se vendan, consuman o expidan bebidas alcohólicas;
+D) Integrar y mantener actualizado el Padrón Municipal de contribuyentes;
 
 E) Ejercer las facultades que se consignan en la legislación vigente, en su relación con los contribuyentes del Municipio;
 
@@ -689,19 +653,17 @@ Q) Intervenir conjunta y coordinadamente con el Gobierno del Estado a través de
 
 R) Realizar visitas de inspección a fin de verificar el cumplimiento a las disposiciones legales sobre usos de suelo y de edificación, y aplicar las sanciones que correspondan en términos de la legislación aplicable;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
 
 S) Ordenar visitas de inspección a las construcciones, edificaciones e inmuebles para comprobar el cumplimiento de la Ley de Desarrollo Urbano, los Planes de Desarrollo Urbano, acuerdos y demás disposiciones de carácter general en materia de Desarrollo Urbano, para en su caso aplicar las medidas de seguridad y sanciones que correspondan.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
-
-Se consideran medidas de seguridad: la interrupción inmediata de trabajos cuya ejecución provoque o esté provocando riesgo: la ejecución de obras de desagüe; saneamiento y/o similares; la suspensión temporal, parcial o total de los trabajos y/o procesos, de Servicios Públicos; la clausura temporal o definitiva, total o parcial de las construcciones, instalaciones u obras y/o edificaciones; la desocupación o desalojo de inmuebles; la demolición de construcciones; el retiro de instalaciones o de materiales; la prohibición de actos de utilización o de usos de edificaciones, predios o lotes; el aseguramiento y secuestro de objetos y materiales; refuerzo o apuntalamiento de estructuras y/o edificaciones; contratación con radio y/o televisión de trasmisiones o emisiones de mensajes de alerta por caída de materiales, por desprendimiento de terreno, apuntalamiento y demolición de partes inestables a fin de evitar daños a terceros; aislamiento temporal, parcial o total de áreas afectadas; y movilización y aseguramiento de materiales que no cumplan con los parámetros autorizados por la Norma Oficial Mexicana en materia de construcciones; y las demás que señalan otras leyes u ordenamientos de carácter general.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+Se consideran medidas de seguridad: la interrupción inmediata de trabajos cuya ejecución provoque o esté provocando riesgo; la ejecución de obras de desagüe; saneamiento y/o similares; la suspensión temporal, parcial o total de los trabajos y/o procesos, de Servicios Públicos; la clausura temporal o definitiva, total o parcial de las construcciones, instalaciones u obras y/o edificaciones; la desocupación o desalojo de inmuebles; la demolición de construcciones; el retiro de instalaciones o de materiales; la prohibición de actos de utilización o de usos de edificaciones, predios o lotes; el aseguramiento y secuestro de objetos y materiales; refuerzo o apuntalamiento de estructuras y/o edificaciones; contratación con radio y/o televisión de trasmisiones o emisiones de mensajes de alerta por caída de materiales, por desprendimiento de terreno, apuntalamiento y demolición de parte (sic) inestables a fin de evitar daños a terceros; aislamiento temporal, parcial o total de áreas afectadas; y movilización y aseguramiento de materiales que no cumplan con los parámetros autorizados por la Norma Oficial Mexicana en materia de construcciones; y las demás que señalan otras leyes u ordenamientos de carácter general.
 
 Las medidas de seguridad serán aplicadas en caso de riesgo, serán de inmediata ejecución, teniendo el carácter preventivo y su duración será la estrictamente necesaria para la corrección de las irregularidades respectivas, mismas que deberán ser comunicadas por escrito al propietario del inmueble o al responsable de la obra para su ejecución.
 
-III.- De Operación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+III. De Operación
 
 A) Participar en forma conjunta con el Estado, en el diseño, planeación y proyección en forma integral de los sistemas de transporte y vialidad en el territorio municipal, buscando mayor racionalidad, eficiencia y comodidad en los desplazamientos de bienes y personas;
 
@@ -719,7 +681,9 @@ G) Realizar inspecciones, suspensiones y clausuras a las obras públicas y priva
 
 H) Elaborar, analizar, proponer, proyectar, planear, diseñar y promover los proyectos de obras viales, obras pluviales y demás proyectos de obras públicas dentro de su jurisdicción y competencia.
 
-IV.- Del Equilibrio Ecológico y Protección al Medio Ambiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+IV. Del Equilibrio Ecológico y Protección al Medio Ambiente
 
 A) Elaborar el diagnóstico ambiental del Municipio definiendo en detalle la problemática existente y sus causas;
 
@@ -763,7 +727,9 @@ T) Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Fe
 
 U) Ordenar inspecciones, suspensiones, clausura temporal o definitiva, parcial o total, aplicación de medidas de seguridad, a establecimientos o predios compartidos con casas habitación donde se realicen actividades industriales, comerciales o de servicios que emitan al ambiente contaminantes o que instalen anuncios publicitarios, así como en predios donde se afecte la vegetación, así como imponer sanciones a sus responsables o propietarios, cuando incurran en violaciones a las disposiciones legales o reglamentarias.
 
-V.- De Orden Legal:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+V. Orden Legal
 
 A) Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación de las instituciones federales, estatales o municipales, según sea el área de su competencia;
 
@@ -779,11 +745,19 @@ F) Delegar atribuciones al personal de la Secretaría, de acuerdo a lo estableci
 
 G) Revocar los acuerdos de licencias, permisos y autorizaciones que se expidan en contravención con las leyes y demás disposiciones administrativas de observancia general en materia de Desarrollo Urbano, ordenamiento territorial y asentamientos humanos.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+H) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+I) Revocar los acuerdos de licencias, permisos y autorizaciones que se expidan en contravención con las leyes y demás disposiciones administrativas de observancia general en materia de Desarrollo Urbano, ordenamiento territorial y asentamientos humanos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Las demás que las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Urbano y Ecología se auxiliará con las Direcciones de: Control Urbano, de Proyectos y Planeación Urbana, de Fraccionamientos y Regularizaciones, de Ecología, así como de las Coordinaciones y Jefaturas de Departamento.
 
@@ -793,7 +767,9 @@ Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo U
 
 La Secretaría de Obras Públicas es la dependencia encargada de la proyección y construcción de obras públicas municipales, y le corresponde el despacho de los siguientes asuntos:
 
-I.- De Planeación y Promoción de Obras:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+I. Planeación y Promoción de Obras:
 
 A) Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas;
 
@@ -801,21 +777,25 @@ B) Dirigir, coordinar y controlar la ejecución de los programas relativos a la 
 
 C) Elaborar los proyectos y presupuestos de las obras públicas, debiendo coordinarlos con las dependencias que correspondan.
 
-II.- De Contratación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+II. Contratación:
 
 A) Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de obras públicas y vigilar el cumplimiento de los mismos.
 
-III.- De Construcción:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+III. Construcción:
 
 A) Construir y dar mantenimiento a los edificios, inmuebles y monumentos municipales.
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
-Para el despacho de los asuntos de su competencia, la Secretaría de Obras Públicas se auxiliará con las Direcciones de: Proyectos y Promoción, Construcciones, de Promoción de Obras y Gestión Social, de Planeación y Control Físico, así como de las Coordinaciones y Jefaturas de Departamento necesarias para el correcto desempeño de las atribuciones de la Secretaria.
+Para el despacho de los asuntos de su competencia, la Secretaría de Obras Públicas se auxiliará con las Direcciones de: Proyectos y Promoción, Construcciones, de Promoción de Obras y Gestión Social, de Planeación y Control Físico, así como de las Coordinaciones y Jefaturas de Departamento necesarias para el correcto desempeño de las atribuciones de la Secretaría.
 
 ### CAPÍTULO VIII. SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL
 
@@ -981,7 +961,9 @@ E) Llevar el control y dar el mantenimiento necesario a los bienes muebles e inm
 
 F) Establecer coordinación y relación con las unidades administrativas de la Secretaría, así como con otras dependencias municipales afines, para la realización de los trámites administrativos correspondientes.
 
-VIII.- En materia de Atención a la Ciudadanía:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+VIII. En materia de Atención a la Ciudadanía
 
 A) Planear y ejecutar acciones que permitan dar orientación de los servicios públicos que se prestan a la ciudadanía; así mismo, ser receptor oportuno de las solicitudes de servicios a través de los diferentes canales de comunicación creados para establecer un contacto personal, proporcionando el seguimiento adecuado;
 
@@ -991,9 +973,13 @@ C) Sistematizar los procesos de atención para que sean eficaces y aseguren la c
 
 D) Instalar áreas de atención que proporcionen información y orientación a la ciudadanía sobre el trámite de servicios, quejas y demás asuntos relacionados con las dependencias del Gobierno Municipal;
 
-E) Organizar y coordinar programas de gobierno que fomenten la participación de la comunidad mediante audiencias públicas como un medio de comunicación entre los ciudadanos y el Presidente Municipal y sus funcionarios con objeto de atender las solicitudes de servicios públicos municipales; y
+E) Organizar y coordinar programas de gobierno que fomenten la participación de la comunidad mediante audiencias públicas como un medio de comunicación entre los ciudadanos y el Presidente Municipal y sus funcionarios con objeto de atender las solicitudes de servicios públicos municipales; y (sic)
 
 F) Diseñar y coordinar los mecanismos necesarios para promover la difusión a la ciudadanía de las actividades relacionadas con los servicios y funciones del Gobierno Municipal.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+G) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -1053,7 +1039,9 @@ E) En coordinación con la Tesorería Municipal, participar en la formulación d
 
 F) Capacitar y supervisar a los Directores Administrativos y Coordinadores Administrativos de cada una de las Secretarías para que manejen, apegados a la normatividad, los procesos y sistemas administrativos implementados.
 
-III.- De Carácter Patrimonial Municipal:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+III.- De carácter Patrimonial Municipal:
 
 A) Administrar y asegurar la conservación y mantenimiento de los bienes muebles e inmuebles del patrimonio municipal, y dar mantenimiento de aquéllos propiedad de las entidades y organismos del sector desconcentrado;
 
@@ -1063,7 +1051,9 @@ IV.- De Adquisiciones:
 
 A) Programar y realizar las adquisiciones de los bienes y servicios de las Dependencias Municipales y de las entidades del sector desconcentrado, de acuerdo con las necesidades descritas y limitadas por los presupuestos autorizados respectivos, aplicando las políticas y procedimientos vigentes.
 
-V.- De Sistemas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+V. De sistemas
 
 A) Analizar, diseñar y desarrollar nuevos sistemas de información para agilizar el manejo y el flujo de la información de las Dependencias de la Administración Pública Municipal;
 
@@ -1077,11 +1067,11 @@ VII.- De Orden Legal:
 
 A) Ser parte en los juicios laborales que se promuevan en contra del Municipio y participar en las negociaciones dentro de los mismos;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de la Administración se auxiliará con las Direcciones de: Recursos Humanos, de Adquisiciones, de Servicios Médicos Municipales, de Informática, de Mantenimiento, así como de las Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
@@ -1127,19 +1117,27 @@ A) Inducir las acciones necesarias que permitan la participación de la poblaci�
 
 B) Arborizar las áreas municipales utilizando árboles y plantas nativas de la región que requieran el menor mantenimiento.
 
-III.- De Operativo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+III. De Operativo
 
 A) Atender los requerimientos de la infraestructura social de los servicios públicos municipales;
 
 B) Revisar y llevar el control en el cumplimiento de las aportaciones de parte de los deudos para la permanencia de las personas fallecidas en el área de panteones, y en caso de incumplimiento realizar los servicios de exhumación y depósito en el área del osario común debidamente identificados.
 
-IV.- De Participación Urbana:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+IV. De Participación Urbana
 
 A) Fomentar en la población el ahorro en el consumo del agua;
 
 B) Promover la acción de la sociedad civil encaminada a evitar la destrucción de los bienes del dominio municipal;
 
 C) Promover el concurso de la población del Municipio para facilitar la prestación del servicio de limpia.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+D) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
 
 V.- De Planeación y Promoción de Obras:
 
@@ -1163,11 +1161,11 @@ C) Dar conocimiento a las autoridades competentes de quien haga mal uso y ocasio
 
 D) Otorgar visto bueno para la liberación de vehículos que causen daños en el patrimonio Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará con las Direcciones de: Modernización y Proyectos, Administrativa, De Imagen y Mantenimiento Urbano, Técnica, Operativa Zona Norte, Operativa Zona Sur, Operativa Zona Poniente y Operativa Zona Centro, así como de las demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
@@ -1187,7 +1185,9 @@ C) Instrumentar con señalamientos el tránsito de vehículos y peatones en el M
 
 D) Diseñar, operar y administrar el sistema de semáforos, para agilizar el tránsito vehicular y la seguridad peatonal, excluyendo a los que formen parte del Sistema Integral de Tránsito Metropolitano.
 
-II.- De Desarrollo Social:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+II. Desarrollo Social:
 
 A) Inducir la educación vial entre la población, particularmente entre los niños y los jóvenes escolares;
 
@@ -1201,13 +1201,19 @@ E) Fomentar en la población el respeto al peatón y a las normas de tránsito;
 
 F) Promover la acción de la comunidad encaminada a denunciar las conductas irregulares que llegare a presentar el personal de la Secretaría.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+G) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+
 III.- De Modernización:
 
 A) Participar en la innovación y avances tecnológicos que permitan un mejor ejercicio de sus funciones;
 
 B) Llevar y mantener actualizado el padrón de las licencias de manejo que sean otorgadas por la Autoridad Municipal en los términos de la legislación vigente aplicable.
 
-IV.- De Orden Legal:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+IV. De Orden Legal
 
 A) Auxiliar al Ministerio Público en la investigación y persecución de los delitos inherentes o relacionados con el tránsito de vehículos y la aprehensión de los infractores;
 
@@ -1217,11 +1223,11 @@ B) Imponer sanciones a las personas que infrinjan los reglamentos de tránsito;
 
 C) Auxiliar a solicitud de las autoridades federales, estatales y de otros municipios, en localización y persecución de los delincuentes.
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las Leyes y Reglamentos vigentes o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y Tránsito se auxiliará con las Direcciones: Administrativa, de Ingeniería Vial, Tránsito y Vialidad, de Accidentes, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
@@ -1231,7 +1237,9 @@ Para el despacho de los asuntos de su competencia, el Secretario de Vialidad y T
 
 A la Secretaría de la Contraloría le corresponde conocer el despacho de los siguientes asuntos:
 
-I.- De Auditoría:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
+
+I. De Auditoría
 
 A) Planear, organizar y coordinar los sistemas de control y evaluación del Gobierno Municipal;
 
@@ -1293,11 +1301,15 @@ A) Atender, dar seguimiento y resolver las quejas y denuncias recibidas en contr
 
 B) Conocer, tramitar y resolver los recursos que sean de su competencia.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+C) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de la Contraloría se auxiliará con las Direcciones de: Auditoría, Normatividad, así como de las Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
@@ -1339,23 +1351,23 @@ IV.- De Fomento al Turismo para el Crecimiento Económico:
 
 A) Formular e impulsar acciones y programas orientados al desarrollo del turismo en el Municipio que repercutan en el crecimiento de la industria del sector servicios y de la generación de empleos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Económico de Monterrey se auxiliará con las Direcciones de: Empleo y Desarrollo Empresarial, de Vivienda y Patrimonio, de Relaciones Interinstitucionales y de Turismo, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el desarrollo de la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO XIV. SECRETARÍA DE LA POLICÍA MUNICIPAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 26.
 
-A la Secretaría de Policía Preventiva Municipal de Monterrey le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Policía Municipal de Monterrey le corresponde el despacho de los siguientes asuntos:
 
 I.- De Administración, Gobierno y Operatividad:
 
@@ -1376,6 +1388,10 @@ E) Elaborar y proponer al Presidente Municipal el Manual de Organización de la 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2011)</small>
 
 F) Realizar acciones de investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2012)</small>
+
+G) Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
 
 II.- De Seguridad y Prevención:
 
@@ -1431,7 +1447,7 @@ A) Promover la organización y funcionamiento de consejos o comités consultivos
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Comisario de la Policía Municipal de Monterrey se auxiliará con las Direcciones: Operativa, Administrativa, de Prevención y Reclusorios, de Tecnología y Proyectos, y demás Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
@@ -1505,11 +1521,11 @@ A) Prestar asesoría jurídica al Presidente Municipal en el conocimiento, revis
 
 B) Emitir opinión legal al Presidente Municipal en todos aquellos asuntos que por su relevancia y en forma específica así lo determine.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Secretario de Planeación y Comunicación se auxiliará con las Direcciones de: Comunicación Social, de Relaciones Públicas, de Planeación y demás Asesores, Coordinaciones y Jefaturas de Departamento que sean necesarias para el correcto funcionamiento de la Secretaría.
 
@@ -1555,13 +1571,17 @@ XVII.- Operar establecimientos que presten servicios de asistencia social en ben
 
 XVIII.- Realizar acciones de apoyo educativo para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
 
-XIX. Fomentar la organización de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas de la Dirección General;
+XIX.- Fomentar la organización de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas de la Dirección General;
 
 XX.- Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia familiar;
 
 XXI.- Brindar atención psicológica a los menores u otros incapaces sujetos a violencia familiar así como a los abandonados y en general a quienes requieran de este apoyo, incluyendo en su caso a los sujetos generadores de violencia familiar.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2012)</small>
+
+XXII.- Llevar a cabo la mediación y solución de conflictos entre vecinos, siempre y cuando el conflicto, diferencia o disputa entre las partes no contravenga ninguna disposición legal establecida, ni afecte a los derechos de terceros.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ENERO DE 2012)</small>
 
 Para el despacho de los asuntos de su competencia, el Director General del DIF se auxiliará con las Coordinaciones y Jefaturas de Departamento necesarias para el despacho de los asuntos de la Dirección General del Desarrollo Integral de la Familia.
 
@@ -1585,7 +1605,7 @@ Toda Comisión tendrá un número definido de miembros, sus decisiones deberán 
 
 El Presidente Municipal podrá de igual forma proponer al Ayuntamiento en términos de la Ley Orgánica Municipal vigente la creación de comités y consejos ciudadanos para que coadyuven al cumplimiento de los planes y programas del Gobierno Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 32.
 
@@ -1611,7 +1631,7 @@ Los organismos descentralizados gozarán de personalidad jurídica y patrimonio 
 
 El Ayuntamiento designará un Comisario para cada uno de los organismos descentralizados y establecerá las formas para contar con una adecuada información sobre el funcionamiento de dichos organismos.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE MARZO DE 2010)</small>
 
 ### CAPÍTULO XVII (SIC). DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
@@ -1667,7 +1687,7 @@ C. SECRETARIO DEL R. AYUNTAMIENTO
 
 JUAN CARLOS RUIZ GARCÍA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE MARZO DE 2010.
 
@@ -1680,6 +1700,16 @@ P.O. 18 DE MARZO DE 2011.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes reformas por adición y modificación al Reglamento Orgánico del Gobierno Municipal de Monterrey entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 11 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por modificación, adición y derogación del Reglamento Orgánico del Gobierno Municipal de Monterrey entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
 ###### ARTÍCULO SEGUNDO.
 
