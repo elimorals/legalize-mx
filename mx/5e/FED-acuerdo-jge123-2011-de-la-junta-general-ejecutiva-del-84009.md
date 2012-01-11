@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge123-2011-de-la-junta-general-ejecutiva-del-84009"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-01"
-last_updated: "2011-12-01"
+last_updated: "2012-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84009&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-11-16"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL MODELO DE PAUTA PARA LA TRANSMISIÓN EN RADIO Y TELEVISIÓN DE LOS MENSAJES DEL INSTITUTO FEDERAL ELECTORAL, ASÍ COMO DE OTRAS AUTORIDADES ELECTORALES, DENTRO DE LAS PRECAMPAÑAS Y CAMPAÑAS FEDERALES, EL PERÍODO DE INTERCAMPAÑA, EL PERÍODO DE REFLEXIÓN Y LA JORNADA ELECTORAL DEL PROCESO ELECTORAL FEDERAL 2011-2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2011.
 
@@ -157,6 +157,8 @@ Jornada Electoral 01/07/2012
 
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 1 DE DICIEMBRE DE 2011, PÁGINAS DE LA 49 A LA 52.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 11 DE ENERO DE 2012, PÁGINAS DE LA 42 A LA 43.</small>
+
 29. Que las Juntas Locales Ejecutivas son órganos permanentes, presididos por un vocal ejecutivo que será el responsable de la coordinación con las autoridades electorales de la entidad federativa que corresponda para el acceso a la radio y a la televisión de los partidos políticos en las campañas locales, así como de los institutos electorales, o equivalentes, de acuerdo con los artículos 135, numeral 1 y 136, numeral 1 del Código comicial.
 
 30. Que como lo señala el artículo 6, numeral 5, incisos c) y d) del Reglamento de la materia, corresponde a las Juntas Locales Ejecutivas notificar la pauta y entregar los materiales ordenados por la Junta General Ejecutiva a los concesionarios y permisionarios cuyas estaciones o canales tengan cobertura en la entidad federativa correspondiente, así como fungir como autoridades auxiliares de la Junta y demás órganos competentes del Instituto para los actos y diligencias que les sean instruidos.
@@ -180,3 +182,9 @@ SEXTO. Publíquese en el Diario Oficial de la Federación el presente Acuerdo si
 El presente Acuerdo fue aprobado en sesión extraordinaria de la Junta General Ejecutiva celebrada el 16 de noviembre de 2011, por votación unánime de los Directores Ejecutivos del Registro Federal de Electores, Doctor Víctor Manuel Guerra Ortíz; de Prerrogativas y Partidos Políticos, Licenciado Alfredo Ríos Camarena Rodríguez; del Servicio Profesional Electoral, Doctor José Rafael Martínez Puón; de Capacitación Electoral y Educación Cívica, Maestro Luis Javier Vaquero Ochoa; de Administración, Contador Público Román Torres Huato; del Secretario Ejecutivo y Secretario de la Junta General Ejecutiva, Licenciado Edmundo Jacobo Molina y del Consejero Presidente y Presidente de la Junta General Ejecutiva, Doctor Leonardo Valdés Zurita; no estando presente durante el desarrollo de la sesión el Director Ejecutivo de Organización Electoral, Profesor Miguel Angel Solís Rivas.
 
 El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Federal Electoral, Leonardo Valdés Zurita.- Rúbrica.- El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Federal Electoral, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE ENERO DE 2012.
+
+EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
