@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-rastro-del-municipio-de-cuernavaca-morelos-17733
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-27"
-last_updated: "1999-10-27"
+last_updated: "2012-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DEL RASTRO DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el día miércoles 27 de octubre de 1999.
 
@@ -35,7 +35,9 @@ LICENCIADO SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, PRESIDENTE MUNICIPAL CONSTIT
 
 EL HONORABLE AYUNTAMIENTO DE CUERNAVACA, MORELOS EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS, 53 FRACCIÓN II, 155, 156, 157 FRACCIÓN IV Y 159 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 VI.- Que es tarea del Rastro Municipal proporcionar a los usuarios el servicio conforme a las normas sanitarias existentes para que ellos a su vez puedan ofrecer a la ciudadanía productos cárnicos de excelente calidad. Por lo anterior, he tenido ha (sic) bien someter a consideración del Honorable Ayuntamiento el siguiente:
 
@@ -167,7 +169,9 @@ XIV.- Atender de manera pronta y expedita las necesidades que el rastro presente
 
 XV.- Acatar las ordenes de su superior jerárquico y la que determine el Presidente Municipal;
 
-XVI.- Cuidar que el ganado que ingresa al Rastro, cumpla con las guías sanitarias y factura de compraventa correspondientes, anexando copias de las mismas en su informe; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2012)</small>
+
+XVI.- Cuidar que el ganado que ingresa al Rastro, cumpla con las guías sanitarias y factura de compraventa correspondientes, así como la declaración por escrito del solicitante del servicio o del propietario del animal que éste se encuentra libre de clembuterol, anexando copias de las mismas en su informe; y
 
 XVII.- Las demás que determine el presente Reglamento y otros ordenamientos legales aplicables.
 
@@ -271,9 +275,11 @@ En el rastro se podrá efectuar el sacrificio de cualquier animal destinado al c
 
 La recepción del ganado en las corraletas, se hará en los lugares destinados para cada especie, los cuales contarán con agua y techo en por lo menos el cincuenta por ciento de la superficie. La alimentación de los animales quedará a cargo de los usuarios durante su permanencia en el corral.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
+
 ###### Artículo 20.
 
-En el momento de recibir el ganado, se observarán las guías sanitarias correspondientes a fin de confrontar los documentos con el ganado.
+En el momento de recibir el ganado, se observarán las guías sanitarias y la declaración por escrito de que el animal se encuentra libre de clembuterol correspondientes, a fin de confrontar los documentos con el ganado.
 
 ###### Artículo 21.
 
@@ -403,9 +409,11 @@ II.- La recepción de ganado será durante el horario establecido en el presente
 
 III.- Pagar los derechos correspondientes al servicio que solicitó.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2012)</small>
+
 ###### Artículo 42.
 
-Ninguna solicitud de introducción y sacrificio de ganado será admitida si el solicitante no se inscribe en el Padrón de la Administración y obtiene la Licencia que lo identifique como usuario, para realizar operaciones comerciales dentro del recinto.
+Ninguna solicitud de introducción y sacrificio de ganado será admitida si el solicitante no presenta declaración por escrito bajo protesta de decir verdad, que el ganado se encuentra libre de clembuterol; y no se inscribe en el Padrón de la Administración y obtiene la Licencia que lo identifique como usuario, para realizar operaciones comerciales dentro del recinto.
 
 ###### Artículo 43.
 
@@ -604,3 +612,13 @@ C. ING. OSCAR SERGIO HERNÁNDEZ BENITEZ
 Secretario del H. Ayuntamiento.
 
 Rúbricas
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 11 DE ENERO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO AC/SO/21-X-11/292 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, FRACCIÓN XVI; 20 Y 42 DEL REGLAMENTO DEL RASTRO DEL MUNICIPIO DE CUERNAVACA, MORELOS".]
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en la Gaceta Municipal de Cuernavaca.
