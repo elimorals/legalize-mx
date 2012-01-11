@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-591-para-la-proteccion-de-los-no-fumadores-del-57777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-28"
-last_updated: "2007-11-28"
+last_updated: "2012-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 591 PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 327 PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 11 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario 360 a la Gaceta Oficial del Estado de Veracruz, el miércoles 28 de noviembre de 2007.
 
@@ -314,3 +316,13 @@ María del Carmen Pontón Villa
 Diputada secretaria
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 11 DE ENERO DE 2012.
+
+Primero. La presente Ley iniciará su vigencia sesenta días después de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se abroga la Ley Número 591 para la Protección de los No Fumadores del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el 28 de noviembre de 2007, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro del plazo de sesenta días posteriores a la publicación de este ordenamiento, mismo lapso que tendrá para adecuar las disposiciones normativas de carácter administrativo que requieran modificarse con motivo de lo previsto en esta Ley.
