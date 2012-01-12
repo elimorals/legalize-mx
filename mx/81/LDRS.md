@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2011-05-26"
+last_updated: "2012-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -417,6 +417,10 @@ Los Consejos Estatales podrán ser presididos por los gobernadores de las entida
 Serán miembros permanentes de los Consejos Distritales, los representantes de las dependencias y entidades presentes en el área correspondiente, que forman parte de la Comisión Intersecretarial, los funcionarios de las entidades federativas que las mismas determinen y los representantes de cada uno de los consejos municipales, así como los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, en forma similar a la integración que se adopta para el Consejo Mexicano.
 
 Serán miembros permanentes de los Consejos Municipales: los presidentes municipales, quienes los podrán presidir; los representantes en el municipio correspondiente de las dependencias y de las entidades participantes, que formen parte de la Comisión Intersecretarial, los funcionarios de las Entidades Federativas que las mismas determinen y los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural en el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Mexicano.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
+
+Los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que integran los Consejos Estatales, Distritales y Municipales a los que se refiere el presente artículo deberán estar debidamente acreditados en los términos de la normatividad aplicable.
 
 La integración de los Consejos estatales deberá ser representativa de la composición económica y social de la entidad y en ellos las legislaturas locales podrán participar en los términos en que sean convocadas a través de sus Comisiones.
 
@@ -2017,3 +2021,7 @@ La integración, administración y actualización del Padrón de Comercializador
 D.O.F. 26 DE MAYO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
