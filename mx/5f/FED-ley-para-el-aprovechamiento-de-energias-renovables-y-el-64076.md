@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-aprovechamiento-de-energias-renovables-y-el-64076"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2011-06-01"
+last_updated: "2012-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-11-27"
 ---
 # LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
 
-LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
+LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -53,7 +53,13 @@ Se excluye del objeto de la presente Ley, la regulación de las siguientes fuent
 
 I. Minerales radioactivos para generar energía nuclear;
 
-II. Energía hidráulica de fuentes con capacidad de generar más de 30 megawatts;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2012)</small>
+
+II.- Energía hidráulica con capacidad para generar más de 30 megawatts, excepto cuando:
+
+a) Se utilice un almacenamiento menor a 50 mil metros cúbicos de agua o que tengan un embalse con superficie menor a una hectárea y no rebase dicha capacidad de almacenamiento de agua. Estos embalses deberán estar ubicados dentro del inmueble sobre el cual el generador tenga un derecho real.
+
+b) Se trate de embalses ya existentes, aún de una capacidad mayor, que sean aptos para generar electricidad.
 
 III. Residuos industriales o de cualquier tipo cuando sean incinerados o reciban algún otro tipo de tratamiento térmico, y
 
@@ -366,3 +372,9 @@ Segundo. Para efectos de la fracción III del artículo 11 de la Ley para el Apr
 Tercero. A más tardar el 1 de marzo de 2012, la Secretaría de Energía deberá presentar a la Comisión de Energía de la Cámara de Diputados, un informe preliminar sobre el avance en el cumplimiento de las metas establecidas en el Artículo Segundo Transitorio del presente Decreto.
 
 Cuarto. En un plazo máximo de un año, a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá emitir las modificaciones que correspondan al Reglamento de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética. La Secretaría de Energía expedirá en el mismo plazo las demás disposiciones aplicables cuya expedición sea de su competencia.
+
+D.O.F. 12 DE ENERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para efectos del artículo 1o. fracción II, inciso b), solamente se considerarán los embalses ya existentes a la fecha de entrada en vigor del presente Decreto.
