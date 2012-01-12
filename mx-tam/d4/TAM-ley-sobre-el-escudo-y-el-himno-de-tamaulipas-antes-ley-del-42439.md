@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2011-12-15"
+last_updated: "2012-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS -ANTES LEY DEL ESCUDO DE ARMAS Y DEL HIMNO DE TAMAULIPAS-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2012.</small>
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -133,8 +133,6 @@ En las sedes de los poderes del Estado y de los Municipios del mismo se izarán 
 
 Las banderas que se utilicen en los inmuebles referidos tendrán las dimensiones y la conservación adecuada para su uso y dignidad, confiriéndose al cuidado del personal que al efecto se designe, el cual vigilará que en las fechas correspondientes sean izados y arriados puntualmente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
@@ -197,7 +195,9 @@ XXIII.- 27 de marzo, por el aniversario de la muerte de Julián de la Cerda en 1
 
 XXIV.- 1 de abril, con motivo de la fundación de San Nicolás en 1768;
 
-XXV.- 7 de abril, por el aniversario de la muerte de José Ustaquio Fernández en 1843;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XXV.- 7 de abril, por el aniversario de la muerte de José Eustaquio Fernández en 1843;
 
 XXVI.- 9 de abril, para conmemorar el aniversario de la instalación de la Diputación Provincial del Nuevo Santander en 1823;
 
@@ -249,9 +249,13 @@ XLI.- 14 de mayo, con motivo del aniversario de la declaración de Miquihuana co
 
 XLII.- 15 de mayo, por el aniversario de la muerte de Manuel González Flores, en Chapingo en 1893;
 
-XLII (SIC).- 16 de mayo, para conmemorar el Natalicio del General Juan N. Cortina en 1824;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XLIII.- 19 de mayo con motivo de las siguientes fundaciones:
+XLIII.- 16 de mayo, para conmemorar el Natalicio del General Juan N. Cortina en 1824;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLlV.- 19 de mayo con motivo de las siguientes fundaciones:
 
 a).- De Villa de Jaumave en 1744;
 
@@ -259,125 +263,225 @@ b).- De Ocampo en 1749; y
 
 c).- De Hidalgo en 1752.
 
-XLIV.- 22 de mayo, por el aniversario luctuoso del Insurgente Mateo Acuña en 1811;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XLV.- 23 de mayo, para conmemorar el natalicio del Profesor Lauro Aguirre en 1882;
+XLV.- 22 de mayo, por el aniversario luctuoso del Insurgente Mateo Acuña en 1811;
 
-XLVI.- 26 de mayo, con motivo de la fundación de Bustamante en 1746;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XLVII.- 28 de mayo, por aniversario luctuoso del profesor Juan Rincón en 1951;
+XLVI.- 23 de mayo, para conmemorar el natalicio del Profesor Lauro Aguirre en 1882;
 
-XLVIII.- 3 de junio, con motivo de la fundación de Villa de Casas en 1770;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XLIX.- 15 de junio, con motivo de la declaración de Villa de Nuevo Laredo en 1848;
+XLVII.- 26 de mayo, con motivo de la fundación de Bustamante en 1746;
 
-L.- 16 de junio, en homenaje a la Batalla de Santa Gertrudis, en el municipio de Camargo, en 1866. Triunfo de las tropas republicanas al mando del General Mariano Escobedo y el Coronel Servando Canales Molano, contra los conservadores;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LI.- 24 de junio, en conmemoración del natalicio de los siguientes personajes:
+XLVIII.- 28 de mayo, por aniversario luctuoso del profesor Juan Rincón en 1951;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XLlX.- 3 de junio, con motivo de la fundación de Villa de Casas en 1770;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+L.- 15 de junio, con motivo de la declaración de Villa de Nuevo Laredo en 1848;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LI.- 16 de junio, en homenaje a la Batalla de Santa Gertrudis, en el municipio de Camargo, en 1866. Triunfo de las tropas republicanas al mando del General Mariano Escobedo y el Coronel Servando Canales Molano, contra los conservadores;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LlI.- 24 de junio, en conmemoración del natalicio de los siguientes personajes:
 
 a).- Profesor Juan Rincón en 1743; y
 
 b).- Profesor Juan B. Tijerina en 1857.
 
-LII.- 26 de junio, por el aniversario luctuoso del General Lauro Villar Ochoa en 1923;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LIII.- 28 de junio, por el aniversario luctuoso del General Servando Canales Molano en 1881;
+LlII.- 26 de junio, por el aniversario luctuoso del General Lauro Villar Ochoa en 1923;
 
-LIV.- 3 de julio, en conmemoración de los siguientes aniversarios:
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LlV.- 28 de junio, por el aniversario luctuoso del General Servando Canales Molano en 1881;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LV.- 3 de julio, en conmemoración de los siguientes aniversarios:
 
 a).- Elevación de Mainero a la categoría de Villa en 1924; y
 
 b).- Muerte del General Manuel Mier y Terán en 1832.
 
-LV.- 4 de julio, en conmemoración del natalicio del Ingeniero Marte R. Gómez Segura en 1896;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LVI.- 6 de julio, con motivo de la fundación de San Carlos en 1766;
+LVI.- 4 de julio, en conmemoración del natalicio del Ingeniero Marte R. Gómez Segura en 1896;
 
-LVII. 7 de julio, en conmemoración de la instalación del Primer Congreso Constituyente de Tamaulipas en 1824;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LVIII.- 18 de julio, para conmemorar el natalicio del General Manuel del Refugio González Flores en 1833;
+LVII.- 6 de julio, con motivo de la fundación de San Carlos en 1766;
 
-LIX.- 22 de julio, con motivo de la fundación de Tula en 1617;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LX.- 29 de julio, para conmemorar el natalicio del Licenciado Horacio Terán Sosaya en 1902;
+LVIII.- 7 de julio, en conmemoración de la instalación del Primer Congreso Constituyente de Tamaulipas en 1824;
 
-LXI.- 7 de agosto, con motivo del aniversario de la repoblación de Palmillas en 1749;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXII.- 9 de agosto, para conmemorar el natalicio de Manuel C. Farrega en 1897;
+LlX.- 18 de julio, para conmemorar el natalicio del General Manuel del Refugio González Flores en 1833;
 
-LXIII.- 10 de agosto, por el aniversario luctuoso de Guadalupe Mainero Juárez en 1901;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXIV.- 20 de agosto, para conmemorar el natalicio de José Bernardo Gutiérrez de Lara en 1774;
+LX.- 22 de julio, con motivo de la fundación de Tula en 1617;
 
-LXV.- 24 de agosto, para conmemorar el natalicio del Licenciado Francisco Castellanos en 1893;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LVI (SIC).- 3 de septiembre, con motivo de la fundación de Soto la Marina en 1750;
+LXI.- 29 de julio, para conmemorar el natalicio del Licenciado Horacio Terán Sosaya en 1902;
 
-LVII (SIC).-10 de Septiembre, para conmemorar los siguientes acontecimientos:
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXII.- 7 de agosto, con motivo del aniversario de la repoblación de Palmillas en 1749;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXIII.- 9 de agosto, para conmemorar el natalicio de Manuel C. Farrega en 1897;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXIV.- 10 de agosto, por el aniversario luctuoso de Guadalupe Mainero Juárez en 1901;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXV.- 20 de agosto, para conmemorar el natalicio de José Bernardo Gutiérrez de Lara en 1774;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXVI.- 24 de agosto, para conmemorar el natalicio del Licenciado Francisco Castellanos en 1893;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXVII.- 3 de septiembre, con motivo de la fundación de Soto la Marina en 1750;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXVIII.- 10 de Septiembre, para conmemorar los siguientes acontecimientos:
 
 a).- Aniversario de la muerte de José de Escandón, Conde de la Sierra Gorda en 1770; y
 
 b).- Aniversario del natalicio del General Cesar López de Lara en 1790.
 
-LXVIII.- 11 de septiembre, en homenaje al Ejército Mexicano, que con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejército Español en su intento de reconquista en 1829;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXIX.- 27 de septiembre, con motivo de la declaración de Antiguo Morelos como Villa en 1828;
+LXIX.- 11 de septiembre, en homenaje al Ejército Mexicano, que con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejército Español en su intento de reconquista en 1829;
 
-LXX.- 29 de septiembre, con motivo de la elevación a Villa de la Congregación de San José o Joya de los Indios con el nombre de Gómez Farías en 1870;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXI.- 1 de octubre, en conmemoración de los siguientes acontecimientos:
+LXX.- 27 de septiembre, con motivo de la declaración de Antiguo Morelos como Villa en 1828;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXI.- 29 de septiembre, con motivo de la elevación a Villa de la Congregación de San José o Joya de los Indios con el nombre de Gómez Farías en 1870;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXII.- 1 de octubre, en conmemoración de los siguientes acontecimientos:
 
 a).- Fundación del actual municipio de Guerrero en 1750; y
 
 b).- Apertura del primer periodo ordinario de sesiones del H. Congreso del Estado.
 
-LXXII.- 3 de octubre, para conmemorar el natalicio del Licenciado Emilio Portes Gil en 1890;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXIII.- 6 de octubre, con motivo de la fundación de la Villa de Santa María de Aguayo, hoy Victoria en 1750;
+LXXIII.- 3 de octubre, para conmemorar el natalicio del Licenciado Emilio Portes Gil en 1890;
 
-LXXIV.- 7 de octubre, por el aniversario luctuoso de Luis Caballero Vargas en 1832;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXV.- 8 de octubre, para conmemorar el natalicio de la maestra Estefanía Castañeda Núñez de Cáceres en 1872;
+LXXIV.- 6 de octubre, con motivo de la fundación de la Villa de Santa María de Aguayo, hoy Victoria en 1750;
 
-LXXVI.- 10 de octubre, para conmemorar el natalicio del Arquitecto Enrique L. Canseco en 1886;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXVII.- 11 de octubre, con motivo del aniversario de la elevación a ciudad de la Congregación de San Pedro de Roma con el nombre de Miguel Alemán en 1950;
+LXXV.- 7 de octubre, por el aniversario luctuoso de Luis Caballero Vargas en 1832;
 
-LXXVIII.- 16 de octubre, por el aniversario de la muerte del Licenciado y General Juan José de la Garza en 1893;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXIX.- 19 de octubre, con motivo del aniversario de la elevación de Nuevo Morelos a la categoría de Villa en 1860;
+LXXVI.- 8 de octubre, para conmemorar el natalicio de la maestra Estefanía Castañeda Núñez de Cáceres en 1872;
 
-LXXX.- 23 de octubre, en conmemoración de los siguientes aniversarios:
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-a) Del natalicio del General Servando Canales Molano en 1830; y
+LXXVII.- 10 de octubre, para conmemorar el natalicio del Arquitecto Enrique L. Canseco en 1886;
 
-b) De la fundación de la nueva Villa de Padilla en 1971.
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXXI.- 24 de octubre, para conmemorar el natalicio del General Rafael Cárdenas en 1890;
+LXXVIII.- 11 de octubre, con motivo del aniversario de la elevación a ciudad de la Congregación de San Pedro de Roma con el nombre de Miguel Alemán en 1950;
 
-LXXXII.- 25 de octubre, por el aniversario de la muerte del General Ascensión Gómez en 1741;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXXIII.- 27 de octubre, para conmemorar el natalicio del profesor Rafael Tejeda Puente en 1782;
+LXXIX.- 16 de octubre, por el aniversario de la muerte del Licenciado y General Juan José de la Garza en 1893;
 
-LXXXIV.- 28 de octubre, con motivo del aniversario de la elevación de El Mante a la categoría de Ciudad en 1937;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXXV.- 30 de octubre, por el aniversario de la muerte del General Juan N. Cortina en 1894;
+LXXX.- 19 de octubre, con motivo del aniversario de la elevación de Nuevo Morelos a la categoría de Villa en 1860;
 
-LXXXVI.- 16 de noviembre, para conmemorar el natalicio del Licenciado Fidencio Trejo Flores en 1884;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-LXXXVII.- 22 de noviembre para conmemorar el natalicio del General Pedro J. Méndez Ortiz en 1836;
+LXXXI.- 23 de octubre, en conmemoración de los siguientes aniversarios:
 
-LXXXVIII.- 4 de diciembre, con motivo de la emancipación del municipio de Río Bravo en 1961.
+a).- Del natalicio del General Servando Canales Molano en 1830; y
 
-LXXXIX.- 10 de diciembre, por el aniversario luctuoso del licenciado Emilio Portes Gil en 1978;
+b).- De la fundación de la nueva Villa de Padilla en 1971.
 
-XC.- 12 de diciembre, para conmemorar el natalicio de Guadalupe Mainero Juárez en 1856;
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XCI.- 16 de diciembre, por el aniversario luctuoso del ingeniero Marte R. Gómez en 1973;
+LXXXII.- 24 de octubre, para conmemorar el natalicio del General Rafael Cárdenas en 1890;
 
-XCII.- 25 de diciembre, con motivo de la fundación de Llera en 1748; y
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
-XCIII.- 26 de diciembre, con motivo de la fundación del actual municipio de Abasolo en 1752. En 1828 recibe el nombre de Abasolo.
+LXXXIII.- 25 de octubre, por el aniversario de la muerte del General Ascensión Gómez en 1741;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXIV.- 27 de octubre, para conmemorar el natalicio del profesor Rafael Tejeda Puente en 1782;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXV.- 28 de octubre, con motivo del aniversario de la elevación de El Mante a la categoría de Ciudad en 1937;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXVI.- 30 de octubre, por el aniversario de la muerte del General Juan N. Cortina en 1894;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXVII.- 16 de noviembre, para conmemorar el natalicio del Licenciado Fidencio Trejo Flores en 1884;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXVIII.- 22 de noviembre para conmemorar el natalicio del General Pedro J. Méndez Ortiz en 1836;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+LXXXIX.- 4 de diciembre, con motivo de la emancipación del municipio de Río Bravo en 1961;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XC.- 10 de diciembre, por el aniversario luctuoso del licenciado Emilio Portes Gil en 1978;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XCI.- 12 de diciembre, para conmemorar el natalicio de Guadalupe Mainero Juárez en 1856;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XCII.- 16 de diciembre, por el aniversario luctuoso del ingeniero Marte R. Gómez en 1973;
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XCIII.- 25 de diciembre, con motivo de la fundación de Llera en 1748; y
+
+> <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
+
+XCIV.- 26 de diciembre, con motivo de la fundación del actual municipio de Abasolo en 1752. En 1828 el (sic) recibe nombre de Abasolo.
 
 ###### Artículo 12.
 
