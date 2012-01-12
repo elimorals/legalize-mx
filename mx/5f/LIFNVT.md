@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2005-06-01"
+last_updated: "2012-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -924,9 +924,17 @@ Los beneficios otorgados por el presente Artículo a los programas habitacionale
 
 En los términos de la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la administración de los recursos del Fondo Nacional de la Vivienda para los Trabajadores estará a cargo del Instituto.
 
-Las aportaciones, así como los descuentos para cubrir los créditos que otorgue el Instituto que reciban las entidades receptoras autorizadas conforme a esta Ley, deberán ser transferidas a la cuenta que el Banco de México le lleve al Instituto, en los términos y conforme a los procedimientos que se establezcan en el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro. Dichos recursos deberán invertirse, en tanto se aplican a los fines señalados en el artículo anterior, en valores a cargo del Gobierno Federal e instrumentos de la Banca de Desarrollo.
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2012)</small>
 
-Sin perjuicio de lo anterior, el Instituto con cargo a dicha cuenta, podrá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias.
+Las aportaciones, así como los descuentos para cubrir los créditos que otorgue el Instituto que reciban las entidades receptoras autorizadas conforme a esta Ley, deberán ser transferidas a la cuenta que el Banco de México le lleve al Instituto, en los términos y conforme a los procedimientos que se establezcan en el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
+
+Los recursos excedentes deberán invertirse, en tanto se aplican a los fines señalados en el artículo anterior, en los valores que determine el Consejo de Administración, con base en los previstos para la inversión de los recursos del Sistema de Ahorro para el Retiro, garantizando en todo momento que el Instituto cuente con los recursos requeridos para atender las necesidades de vivienda de los trabajadores.
+
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2012)</small>
+
+Sin perjuicio de lo anterior, el Instituto con cargo a la cuenta que el Banco de México le lleve, podrá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias.
 
 Por los servicios de recepción de pagos que las entidades receptoras le brinden al Instituto, éste podrá, por acuerdo de su Consejo de Administración, establecer el mecanismo de remuneración correspondiente, de conformidad con las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
@@ -955,6 +963,10 @@ El saldo de los créditos otorgados a los trabajadores a que se refiere la fracc
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
 Asimismo, los créditos citados devengarán intereses sobre el saldo ajustado de los mismos, a la tasa que determine el Consejo de Administración. Dicha tasa no será menor del cuatro por ciento anual sobre saldos insolutos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
+
+El Instituto también otorgará, a solicitud del trabajador créditos, en pesos o veces en salarios mínimos, conforme a las reglas que al efecto determine su Consejo de Administración, las cuales deberán propiciar que las condiciones financieras para los trabajadores no sean más altas que las previstas en los párrafos anteriores y previendo en todo momento las medidas para que se preserve la estabilidad financiera del Instituto y se cubran los riesgos de su cartera de créditos.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -992,9 +1004,13 @@ Las reglas antes citadas tomarán en cuenta entre otros factores, la oferta y de
 
 Asimismo, el Consejo de Administración expedirá reglas que permitan tomar en cuenta, para la determinación del monto de crédito, ingresos adicionales de los trabajadores que no estén considerados como parte integrante de su salario base, siempre y cuando la cuantía, periodicidad y permanencia de tales ingresos sean acreditables plenamente y se garantice la recuperabilidad de dichos créditos.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2012)</small>
 
-Los trabajadores podrán recibir crédito del Instituto por una sola vez.
+El trabajador tiene derecho a recibir un crédito del Instituto, y una vez que lo haya liquidado podrá acceder a un nuevo financiamiento por parte del Instituto en coparticipación con entidades financieras.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2012)</small>
+
+Para este segundo crédito el trabajador podrá disponer de los recursos acumulados en la subcuenta de vivienda y su capacidad crediticia estará determinada por la proyección de aportaciones subsecuentes.
 
 (REFORMADO, D.O.F. 24 DE FEBRERO DE 1992) (F. DE E., 12 DE MARZO DE 1992)
 
@@ -1434,7 +1450,17 @@ SEPTIMO.- El presupuesto de gastos de administración, operación y vigilancia d
 
 A partir del año 2000, el presupuesto de gastos citado, deberá ajustarse a lo dispuesto en la fracción VII del artículo 16 mencionado.
 
-OCTAVO.- Los trabajadores que se beneficien bajo el régimen de la Ley del Seguro Social vigente hasta el 30 de junio de 1997, además de disfrutar de la pensión que en los términos de dicha ley les corresponda, deberán recibir en una sola exhibición los fondos acumulados en la subcuenta de vivienda correspondientes a las aportaciones acumuladas hasta el tercer bimestre de 1997 y los rendimientos que se hubieran generado. Las subsecuentes aportaciones se abonarán para cubrir dichas pensiones.
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2012)</small>
+
+OCTAVO. Los trabajadores que se beneficien bajo el régimen de la Ley del Seguro Social vigente hasta el 30 de junio de 1997, además de disfrutar de la pensión que en los términos de dicha ley les corresponda, deberán recibir en una sola exhibición los fondos acumulados en la subcuenta de vivienda correspondientes a las aportaciones acumuladas hasta el tercer bimestre de 1997 y los rendimientos que se hubieran generado.
+
+Los fondos acumulados en la subcuenta de vivienda a partir del cuarto bimestre de 1997 y sus rendimientos serán entregados en una sola exhibición en los mismos términos y condiciones a los establecidos en el párrafo anterior.
+
+En el caso de los trabajadores que con anterioridad a la entrada en vigor del presente artículo, hubieren demandado la entrega de las aportaciones a que se refiere el párrafo anterior y que hubieren obtenido resolución firme a su favor que aún no hubiere sido ejecutoriada o cuyo juicio aún se encuentre en trámite y se desistan del mismo, dichas aportaciones y sus rendimientos, generados hasta el momento de su traspaso al Gobierno Federal, les deberán ser entregadas en una sola exhibición.
+
+En el caso de los trabajadores que se hayan beneficiado del régimen de la Ley del Seguro Social vigente hasta el 30 de junio de 1997 durante el periodo que va del primero de julio de 1997 a la fecha en la que entre en vigor el presente artículo, incluyendo aquellos que hayan demandado la entrega de los recursos y hayan recibido resolución en su contra, deberán ser identificados y recibir los fondos acumulados en la subcuenta de vivienda a partir del cuarto bimestre de 1997 y sus rendimientos, en un máximo de dieciocho meses a partir de la entrada en vigor del presente artículo transitorio, conforme a los procedimientos que determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, que deberá expedir en un plazo máximo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente artículo.
+
+La entrega a los trabajadores de los fondos a que se refiere este artículo deberá realizarse a través del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; para efectos del párrafo tercero y cuarto de este artículo transitorio, la Secretaría de Hacienda y Crédito Público entregará al Instituto los recursos correspondientes.
 
 NOVENO.- Las instituciones de crédito que estuvieran operando subcuentas de vivienda de las cuentas individuales de los Sistemas de Ahorro para el Retiro, con anterioridad a la vigencia de la presente Ley, deberán de abstenerse de seguir captando nuevas subcuentas, a partir de la entrada en vigor de este Decreto.
 
@@ -1481,3 +1507,7 @@ SEGUNDO.- El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, 
 TERCERO.- En todas las disposiciones donde se haga mención a la Comisión de Inconformidades y de Valuación, se entenderá como Comisión de Inconformidades.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 12 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
