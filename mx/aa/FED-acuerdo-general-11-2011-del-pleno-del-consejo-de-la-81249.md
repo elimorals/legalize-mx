@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2011-11-28"
+last_updated: "2012-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-05-03"
 ---
 # ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN LA REPUBLICA MEXICANA; Y AL NUMERO, JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA]
 
-ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
+ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -243,7 +243,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 1. Cinco tribunales colegiados con residencia en Mexicali.
 
-2. Siete tribunales unitarios: tres con sede en Mexicali y cuatro con residencia en Tijuana.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 54/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2012)</small>
+
+2.- Ocho tribunales unitarios, tres con sede en Mexicali y cinco con sede en Tijuana.
 
 3. Dieciséis juzgados de Distrito en el Estado de Baja California: seis con sede en Mexicali, ocho con residencia en Tijuana y dos con sede en Ensenada.
 
@@ -345,7 +347,9 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 2. Un tribunal unitario con sede en Cancún.
 
-3. Cinco juzgados de Distrito en el Estado de Quintana Roo, uno con residencia en Chetumal y cuatro con sede en Cancún.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 55/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2012)</small>
+
+3. Seis juzgados de Distrito en el Estado de Quintana Roo: dos con residencia en Chetumal y cuatro con sede en Cancún”.
 
 XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
@@ -671,7 +675,9 @@ Los juzgados de Distrito en el Estado de Baja California Sur, con residencia en 
 
 XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
-El juzgado de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos, Othón P. Blanco y Bacalar.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 55/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2012)</small>
+
+Los Juzgados de Distrito en el Estado de Quintana Roo, con residencia en Chetumal, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos, Othón P. Blanco y Bacalar.
 
 Los juzgados de Distrito en el Estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas, Solidaridad y Tulum.
 
@@ -880,3 +886,25 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 13 DE ENERO DE 2012.
+
+ACUERDO GENERAL 54/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO XV.- DECIMOQUINTO CIRCUITO, NÚMERO 2.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 13 DE ENERO DE 2012.
+
+ACUERDO GENERAL 55/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN EL PUNTO SEGUNDO, APARTADO XXVII. VIGÉSIMO SÉPTIMO CIRCUITO, NÚMERO 3 Y PUNTO CUARTO, APARTADO XXVII. VIGÉSIMO SÉPTIMO CIRCUITO DEL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información determinarán, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Quintana Roo, con residencia en Chetumal.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+CUARTO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
