@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2011-06-03"
+last_updated: "2012-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
 
-CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACAN
+CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 13 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL 22 DE OCTUBRE DE 2015.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -4346,3 +4346,69 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 1 DE MARZO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en la forma y fechas previstas en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+La implementación del sistema procesal penal acusatorio en el Estado será regional y gradual, estableciéndose las regiones judiciales siguientes: Apatzingán, que se integrará con los actuales distritos judiciales de Apatzingán y Coalcomán; Lázaro Cárdenas, que comprenderá los actuales distritos judiciales de Arteaga, Coahuayana y Lázaro Cárdenas; Morelia, que comprenderá los actuales distritos judiciales de Morelia, Pátzcuaro y Zinapécuaro; Uruapan, que comprenderá los actuales distritos judiciales de Ario, Tacámbaro y Uruapan; Zamora, que comprenderá los actuales distritos judiciales de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora, y; Zitácuaro, que comprenderá los actuales distritos judiciales de Hidalgo, Huetamo,
+
+Maravatío, Zitácuaro.
+
+###### ARTÍCULO TERCERO.
+
+El 21 de febrero de 2013 entrará en vigor el presente Decreto en la región Morelia (sic).
+
+###### ARTÍCULO CUARTO.
+
+El 21 de agosto de 2013 entrará en vigor el presente Decreto en la región Zamora (sic).
+
+###### ARTÍCULO QUINTO.
+
+El 7 de marzo de 2014 entrará en vigor el presente Decreto en la región Uruapan (sic).
+
+###### ARTÍCULO SEXTO.
+
+El 30 de septiembre de 2014 entrará en vigor el presente Decreto en la región Lázaro Cárdenas (sic).
+
+###### ARTÍCULO SÉPTIMO.
+
+El 19 de agosto de 2015 entrará en vigor el presente Decreto en la región de Zitácuaro.
+
+###### ARTÍCULO OCTAVO.
+
+El 22 de octubre de 2015 entrará en vigor el presente Decreto en la región de Apatzingán.
+
+###### ARTÍCULO NOVENO.
+
+El 22 de octubre de 2015 se abroga el Código de Procedimientos Penales del Estado de Michoacán, publicado el 31 de agosto de 1998 en el Periódico Oficial del Gobierno Constitucional de (sic) Estado de Michoacán de Ocampo, rigiendo únicamente para los asuntos o causas iniciados con anterioridad a la implementación de este ordenamiento en cada región.
+
+###### ARTÍCULO DÉCIMO.
+
+Los hechos delictuosos de carácter permanente o continuado cuya ejecución haya iniciado con anterioridad a la vigencia de este Código para cada región y que continúe su comisión, serán tramitados conforme a los procedimientos establecidos en el Código de Procedimientos Penales del Estado de Michoacán expedido mediante el decreto 179 de 31 de Agosto de 1998.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+No procederá acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido a la (sic) presente Decreto y otro al expedido mediante Decreto 179.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las disposiciones de este ordenamiento relativas a la facultad de no inicio de la investigación, archivo temporal y aplicación de los criterios de oportunidad en el ejercicio de la acción penal; acuerdos reparatorios y suspensión del proceso a prueba; procedimiento abreviado; y, recurso de revisión, entrarán en vigor conforme al artículo primero transitorio y serán aplicables a los procedimientos en curso regulados por el Código de Procedimientos Penales del Estado de Michoacán de 31 de agosto de 1998.
+
+En los casos anteriores las facultades que este Código concede al juez de control, serán ejercidas por el juez de primera instancia, mixto o penal, juez menor o magistrado, según corresponda.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las referencias que en otras disposiciones legales aludan a la averiguación previa y defensoría de oficio, se entenderán, respectivamente a la investigación y defensoría pública conforme a este ordenamiento.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Lo expedido por este Decreto deberá aplicarse de manera supletoria a los procedimientos previstos en la Ley de Justicia Integral para Adolescentes del Estado.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para la implementación del sistema procesal penal acusatorio el Poder Ejecutivo del Estado y el Consejo del Poder Judicial del Estado, adoptarán las medidas necesarias para que los servidores públicos que deban ejercer funciones relacionadas con dicho sistema estén debidamente capacitados, bajo la coordinación del Consejo de Coordinación para la Implementación, Seguimiento y Evaluación del nuevo Sistema de Justicia Penal en el Estado.
