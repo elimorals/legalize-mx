@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2011-12-28"
+last_updated: "2012-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -1195,15 +1195,19 @@ XVI. Nombrar y remover libremente a los funcionarios municipales que le correspo
 
 XVII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 50.
 
-El Presidente Municipal podrá ausentarse del municipio hasta por treinta días para la gestión de asuntos oficiales del Ayuntamiento, en cuyo caso, deberá sujetarse a las siguientes disposiciones:
+El Presidente Municipal podrá ausentarse del municipio, en cuyo caso, deberá sujetarse a las siguientes disposiciones:
 
 I. Si la ausencia no excede de quince días, los asuntos de trámite y aquéllos que no admiten demora, serán atendidos por el Secretario del Ayuntamiento, previa instrucción expresa del Presidente Municipal;
 
-II. Si la ausencia es mayor de quince días, sin exceder de treinta, el Presidente Municipal debe recabar previamente el permiso del Ayuntamiento y será suplido por el Síndico como encargado del despacho, con todas las atribuciones que las disposiciones constitucionales, legales y administrativas dispongan para el Presidente Municipal; y,
+II. Si la ausencia es mayor de quince sin exceder de sesenta días, el Presidente Municipal debe recabar previamente el permiso del Ayuntamiento y será suplido por el Síndico como encargado del despacho, con todas las atribuciones que las disposiciones constitucionales, legales y administrativas dispongan para el Presidente Municipal; y,
 
-III. En los casos de ausencia definitiva del Presidente Municipal, el Congreso del Estado, respetando su origen partidista, designará quién deba de sustituirlo.
+III. Si la ausencia es por más de sesenta días, el Ayuntamiento notificará al Congreso, quien valorará la fundamentación y motivación de la causa, en cuyo caso nombrará un Presidente Municipal Provisional, en caso contrario decretará la ausencia definitiva.
+
+El Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de ausencia definitiva conocerá el Congreso, quien designará a quien deba sustituirlo, respetando su origen partidista.
 
 ### Capítulo II. De las Atribuciones del Síndico
 
@@ -2401,13 +2405,29 @@ Tratándose de actos y resoluciones que emitan el Presidente Municipal y las dep
 
 ### Capítulo II. De las Responsabilidades
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 154.
 
-Todos los funcionarios y autoridades municipales que señala esta Ley y Bandos de Gobierno, son responsables de los actos que realicen en contravención a sus preceptos; los miembros del Ayuntamiento y los tesoreros municipales, serán responsables solidarios e ilimitadamente, de las irregularidades en el manejo de los fondos municipales.
+Todos los funcionarios y autoridades municipales que señala esta Ley y Bandos de Gobierno, son responsables de los actos que realicen en contravención a sus preceptos. Los miembros del Ayuntamiento, contralores y los tesoreros municipales, serán responsables solidarios e ilimitadamente, por el incumplimiento de sus funciones de las irregularidades en el manejo de los fondos municipales. Se concede Acción Popular para denunciar alguna irregularidad a este respecto.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
 
 ###### Artículo 155.
 
-Se concede Acción Popular para denunciar las responsabilidades a que se refiere el artículo anterior.
+La ausencia del Síndico o de los Regidores, será acordada en Sesión de Cabildo de conformidad con lo siguiente:
+
+I. Se considerará ausencia temporal, cuando alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo por treinta días, sin causa justificada.
+
+Cuando sea por causas de fuerza mayor y el ausente hubiere estado imposibilitado para dar cuenta de los motivos que la provocaron, la ausencia podrá extenderse hasta noventa días, siempre que sean valorados por el Ayuntamiento; caso contrario, se considerará ausencia definitiva.
+
+II. Se considera ausencia definitiva, si a partir de que se acordó la ausencia temporal transcurren sesenta días, debiéndose llamar de inmediato al suplente, quien sólo podrá excusarse por causa justificada que califique el propio Ayuntamiento.
+
+El Ayuntamiento deberá notificar toda ausencia en el domicilio particular del ausente dentro de las setenta y dos horas siguientes a que fue acordada.
+
+Durante el tiempo que no se ejerza el cargo, el Ayuntamiento valorará y determinará lo relativo a las percepciones económicas del ausente.
+
+Cuando no sea posible que el suplente entre en funciones, el Ayuntamiento dará vista al Congreso para los efectos correspondientes.
 
 ###### Artículo 156.
 
@@ -2425,11 +2445,13 @@ Las faltas u omisiones de los encargados del orden, jefes de manzana y sus auxil
 
 De los delitos del orden común cometidos por los miembros del Ayuntamiento, conocerán los tribunales comunes y, de las faltas y delitos oficiales el Congreso del Estado, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 159.
 
-Cuando un servidor público municipal sea procesado como responsable de un delito, quedará suspendido en el ejercicio de sus funciones, a partir del auto de formal prisión, llamándose al suplente, y si no concurriere o no lo hubiere, se dará cuenta al Congreso del Estado, para que designe al sustituto.
+Cuando un integrante del Ayuntamiento sea procesado como responsable de un delito, quedará suspendido en el ejercicio de sus funciones, a partir del auto de vinculación a proceso, llamándose al suplente; si no concurriere, o no lo hubiere, se dará cuenta al Congreso del Estado, para que provisionalmente designe a quien deba sucederlo.
 
-Cuando un servidor público municipal sea procesado por la comisión de un delito, será suspendido en el ejercicio de sus funciones a partir del auto de formal prisión; si la sentencia es absolutoria se le reinstalará en su trabajo.
+Si la sentencia es absolutoria o se sobresee la causa, se le reinstalará, corriendo el trámite que corresponda.
 
 ### Capítulo III. De las Sanciones
 
@@ -2778,3 +2800,13 @@ Los Jefes de Tenencia que en la fecha de instalación de los Ayuntamientos elect
 ###### ARTÍCULO TERCERO.
 
 Los Jefes de Tenencia y encargados del orden terminarán su encargo el mismo día que el Ayuntamiento en funciones, debiendo permanecer en el mismo hasta que el nuevo Ayuntamiento realice la sustitución correspondiente.
+
+P.O. 13 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
