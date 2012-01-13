@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-programa-de-estimulos-para-incentivar-la-81634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2011-07-08"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO DEL PROGRAMA DE ESTIMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-REGLAMENTO DEL PROGRAMA DE ESTIMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
+REGLAMENTO DEL PROGRAMA DE ESTÍMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de junio de 2011.
 
@@ -77,7 +77,7 @@ XII. SERVIDORES JUDICIALES: Los servidores públicos del Poder Judicial del Esta
 
 XIII. COMISIÓN EJECUTORA: Es la instancia compuesta por el Secretario de Acuerdos del Tribunal, quien la presidirá, el Oficial Mayor, el Director del Instituto, el Director de Informática y Estadística y la Visitaduría Judicial, que llevará a cabo la recepción, recopilación y sistematización de la información y documentación necesaria que acredite los requisitos para la obtención de los estímulos por parte de los servidores judiciales, para que la Comisión Evaluadora y Dictaminadora emita su resolución;
 
-XIV. COMISIÓN DE REVISIÓN: Instancia compuesta por el Pleno del Consejo de la Judicatura, que se encarga de resolver las impugnaciones de los servidores judiciales sobre las inconformidades respecto a la evaluación que se haga de su desempeño; y
+XIV. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
 XV. PROGRAMA O PROGRAMA DE ESTÍMULOS: El Programa de Estímulos establecido en el presente reglamento.
 
@@ -429,7 +429,7 @@ d) Desahogar su carga de trabajo con celeridad, oportunidad y calidad.
 
 Atendiendo la diversidad de funciones, jerarquía, grado de responsabilidad, carga de trabajo, complejidad y grado de litigiosidad de los asuntos, productividad, celeridad, calidad y oportunidad del trabajo, para la asignación de los estímulos se establecen los siguientes grupos y niveles:
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO I. JUZGADORES
 
@@ -481,7 +481,7 @@ c) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Del
 
 d) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1200 mil doscientos acuerdos y 40 cuarenta sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO II. SECRETARIOS DE ESTUDIO Y CUENTA Y PROYECTISTAS
 
@@ -503,7 +503,7 @@ d) Secretarios de Estudio y Cuenta y Proyectistas en materia civil, cuya carga d
 
 e) Secretarios de Estudio y Cuenta y Proyectistas en materia familiar, cuya carga de trabajo durante el periodo sea igual o superior a 120 ciento veinte asuntos y presente oportunamente y le sean aprobados al menos 120 ciento veinte proyectos de sentencia definitiva.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO III. SECRETARIOS DE ACUERDOS
 
@@ -521,7 +521,7 @@ B. NIVEL 2
 
 Secretarios que durante el periodo hayan desahogado un número de audiencias y emitido un número de acuerdos que resulte superior en al menos el 15% quince por ciento respecto del mismo periodo del año anterior.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO IV. ACTUARIOS
 
@@ -545,7 +545,7 @@ B) NIVEL 2
 
 Personal Directivo de Coordinación o Supervisión, que obtenga en la evaluación nota sobresaliente en al menos 80% ochenta por ciento de los rubros y en ninguno sea calificado como insuficiente.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO VI. PERSONAL DE MANDOS MEDIOS
 
@@ -555,7 +555,7 @@ NIVEL ÚNICO
 
 Personal que obtenga en la evaluación nota de sobresaliente en al menos el 80% ochenta por ciento de los rubros y en ninguno sea calificado como insuficiente.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO VII. PERSONAL DE APOYO TÉCNICO Y PROFESIONAL
 
@@ -563,7 +563,7 @@ NIVEL ÚNICO
 
 Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO VIII. PERSONAL DE APOYO TÉCNICO
 
@@ -571,7 +571,7 @@ NIVEL ÚNICO
 
 Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO IX. PERSONAL DE APOYO ADMINISTRATIVO
 
@@ -579,7 +579,7 @@ NIVEL ÚNICO
 
 Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
 GRUPO X. PERSONAL DE APOYO GENERAL
 
@@ -759,31 +759,39 @@ Será causa de responsabilidad administrativa el que el servidor judicial aporte
 
 Incurrirá en falta grave de responsabilidad administrativa el superior jerárquico que avale información o documentación falsa con la finalidad de beneficiar o perjudicar a un subordinado para que se haga acreedor o no de los estímulos.
 
-### CAPÍTULO DÉCIMO TERCERO. DEL RECURSO DE REVISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ENERO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DEL RECURSO DE ACLARACIÓN
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
 
 ###### Artículo 51.
 
-El recurso de revisión, es el único medio de impugnación que procede para inconformarse con el dictamen emitido por la Comisión Evaluadora y Dictaminadora respecto al Programa, con el fin de impugnar el resultado.
+Contra el dictamen emitido por la Comisión Evaluadora y Dictaminadora, no cabe más recurso que el de aclaración.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
 
 ###### Artículo 52.
 
-Al presentar esta impugnación, se deberá acompañar al escrito, las pruebas que se estime pertinentes; el Presidente de la Comisión Evaluadora y Dictaminadora, procederá a revisar la solicitud de revisión y la documentación correspondiente, y turnará al Consejo de la Judicatura las impugnaciones juntamente con un informe justificado.
+El recurso de aclaración se podrá presentar por cualquier medio dentro del plazo de cinco días hábiles, y deberá señalar el error o la inexactitud del dictamen en lo que concierna al promovente, pudiendo acompañar para ese efecto la documentación o las pruebas que se consideren pertinentes.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
 
 ###### Artículo 53.
 
-Será el Consejo de la Judicatura, previa audiencia del solicitante, quien resolverá en un término de quince días hábiles, si la determinación de la Comisión Evaluadora y Dictaminadora fue ajustada a derecho o no.
+La Comisión Evaluadora y Dictaminadora resolverá de plano y sin mayor trámite el recurso de aclaración.
 
 ###### Artículo 54.
 
-Los dictámenes emitidos con motivo de las impugnaciones presentadas, tendrán carácter de irrecurribles, y deberán resolverse por mayoría votos (sic) de los consejeros presentes en la sesión que para tal efecto se celebre.
+(DEROGADO, P.O. 13 DE ENERO DE 2012)
 
 ###### Artículo 55.
 
-Los términos se computarán por días hábiles, y empezarán a contar al día siguiente de su notificación.
+(DEROGADO, P.O. 13 DE ENERO DE 2012)
 
 ###### Artículo 56.
 
-El Recurso de Revisión deberá hacerse valer en un término de cinco días hábiles, contados al día siguiente de la publicación de los resultados.
+(DEROGADO, P.O. 13 DE ENERO DE 2012)
 
 ### CAPÍTULO DÉCIMO CUARTO. INTERPRETACIÓN DE LOS LINEAMIENTOS DEL PROGRAMA
 
@@ -819,8 +827,18 @@ LIC. RAFAEL RODRÍGUEZ OVALLE
 
 Secretario de Acuerdos
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE JULIO DE 2011.
 
 ÚNICO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+P.O. 13 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente acuerdo en el Periódico Oficial.
