@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2011-06-17"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
+LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -283,9 +283,25 @@ XXXV. Participar en los asuntos de materia agraria, por acuerdo del Gobernador d
 
 XXXVI. Administrar el Archivo Histórico y el Archivo General del Estado;
 
-XXXVII. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
 
-XXXVIII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
+XXXVII. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXXVIII. Operar el Sistema Estatal de Protección Civil, de conformidad con la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXXIX. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XL. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XLI. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
 ### Capítulo Tercero. De la Secretaría de Planeación y Finanzas
 
@@ -829,17 +845,21 @@ XXI. Las demás facultades y obligaciones que le señalan las leyes y reglamento
 
 ### Capítulo Décimo Tercero. De la Secretaría de Seguridad Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 33.
 
-La Secretaría de Seguridad Ciudadana es la dependencia estatal que, con respeto de las competencia federal y municipal, tiene a su cargo, velar por el orden público y la paz social, en los términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, a través de la prevención y combate a todo tipo de conductas antisociales, así como la protección de las personas y sus bienes, ante siniestros y desastres naturales. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Seguridad Ciudadana, es la dependencia estatal que, con respeto de la competencia federal y municipal, tiene a su cargo, velar por el orden público y la paz social, en los términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, a través de la prevención y combate a todo tipo de conductas antisociales. Le corresponde el despacho de los siguientes asuntos:
 
 I. Diseñar, proponer y ejecutar las políticas y programas de seguridad pública en el ámbito estatal para prevenir la comisión de delitos y apoyar la procuración de justicia en bien los gobernados;
 
 II. Diseñar, proponer y ejecutar las políticas y programas de tránsito, de transporte privado y de la prestación del servicio de transporte público, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir los permisos de circulación, las licencias y permisos para conducir;
 
-III. Diseñar, proponer y ejecutar las políticas y programas de protección civil, en el ámbito estatal;
+III. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
-IV. Proponer al Gobernador del Estado, las medidas que garanticen la congruencia de las políticas de seguridad pública, tránsito, transporte y protección civil, entre las dependencias de la administración pública;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+IV. Proponer al Gobernador del Estado, las medidas que garanticen la congruencia de las políticas de seguridad pública, tránsito y transporte entre las dependencias de la administración pública;
 
 V. Organizar, dirigir, administrar y supervisar a la Policía Estatal, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
 
@@ -847,7 +867,7 @@ VI. Nombrar a los Directores y Coordinadores de la Secretaría;
 
 VII. Organizar, dirigir y administrar el servicio civil de carrera de la policía a su cargo y mantener coordinación con el Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, a efecto de que se brinden los servicios especializados de formación y capacitación que las corporaciones requieren;
 
-VIII. Operar el Sistema Estatal de Protección Civil, de conformidad con la ley de la materia;
+VIII. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
 IX. Representar al Poder Ejecutivo del Estado, en el Sistema Nacional de Seguridad Pública;
 
@@ -855,7 +875,7 @@ X. Fungir como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
 XI. Proponer al Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación, en materia de prevención del delito y seguridad vial, para todo el territorio del Estado;
 
-XII. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
+XII. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
 XIII. Intervenir, en auxilio o en coordinación, con las autoridades competentes y en términos de las leyes relativas en materia de portación de armas y supervisar su portación por empleados estatales;
 
@@ -869,7 +889,9 @@ XVII. Celebrar los convenios y acuerdos con autoridades federales estatales o mu
 
 XVIII. Auxiliar a las autoridades jurisdiccionales y administrativas, cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-XIX. Fomentar la participación ciudadana en la formulación de planes y programas de prevención del delito, seguridad vial y protección civil coordinándose, en su caso, con los diferentes órdenes de gobierno;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XIX. Fomentar la participación ciudadana en la formulación de planes y programas de prevención del delito y seguridad vial coordinándose, en su caso, con los diferentes órdenes de gobierno;
 
 XX. Promover y facilitar la participación social para el desarrollo de actividades de observación sobre el ejercicio de sus atribuciones;
 
@@ -1040,3 +1062,19 @@ Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de
 Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 13 DE ENERO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la "Ley de Protección Civil para el Estado de Querétaro" publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el día 3 de diciembre de 1992.
+
+Artículo Tercero. Se derogan las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. El titular del Poder Ejecutivo emitirá las normas reglamentarias de la presente Ley, que resulten necesarias para su aplicación.
+
+Artículo Quinto. Los programas que hasta antes de la entrada en vigor de la presente Ley habían sido ejecutados por la Dirección de Gestión de Emergencias de la Secretaría de Seguridad Ciudadana, estarán a cargo de la Unidad Estatal de Protección Civil, por lo que el Gobernador del Estado y las demás autoridades competentes realizarán las gestiones necesarias a fin de que no se interrumpa dicha ejecución.
+
+Artículo Sexto. El Gobernador del Estado realizará las gestiones necesarias, a fin de que el Consejo Estatal de Protección Civil sea instalado dentro de los cien días naturales posteriores a aquél en que entre en vigor la presente Ley.
+
+Artículo Séptimo. Dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, los 18 Ayuntamientos del Estado de Querétaro realizarán las gestiones correspondientes con la Unidad Estatal de Protección Civil, asimimo (sic) capacitarán y comprarán el equipo para contar con el Atlas de Riesgos Municipal.
