@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-personas-con-discapacidad-del-estado-de-nuevo-leon-49568
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-08"
-last_updated: "2010-12-24"
+last_updated: "2012-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON -ANTES LEY PARA LA PROMOCION Y PROTECCION DE LA EQUIDAD Y ACCESIBILIDAD UNIVERSAL DE LAS PERSONAS CON DISCAPACIDAD-
 
-LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
+LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de marzo de 2006.
 
@@ -925,7 +925,7 @@ Los integrantes del Consejo no percibirán remuneración alguna por el ejercicio
 
 El Presidente del Consejo podrá invitar a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con las personas con algún tipo de discapacidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2007)</small>
 
 ###### Artículo 49.
 
@@ -937,11 +937,15 @@ II. Proponer alternativas de financiamiento para la aplicación y ejecución de 
 
 III. Proponer la realización de investigaciones y estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para avanzar hacia la incorporación social de las personas con discapacidad;
 
-IV. Recibir, atender, orientar o en su caso remitir, a la instancia competente, las denuncias o reclamaciones de abuso o violación de los derechos de las personas con discapacidad establecidos en la presente Ley;
+IV. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
-V. Integrar un Programa Estatal de Prevención, Atención e Integración de las Personas con Discapacidad y participar en la evaluación de programas para las personas con discapacidad, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución, a través de indicadores que midan la cobertura e impacto de los programas y acciones realizadas, e informando periódicamente de su cumplimiento;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
 
-VI. Constituir un registro de las organizaciones gubernamentales y no gubernamentales y de aquellas instancias afines que se ocupen de la atención de personas con discapacidad a fin de identificarlos, difundir sus tareas, promover sus acciones y propiciar su vinculación;
+V. Integrar en coordinación con la Procuraduría de la Defensa de las Personas con Discapacidad, un Programa Estatal de Prevención, Atención e Integración de las Personas con Discapacidad y participar en la evaluación de programas para las personas con discapacidad, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución, a través de indicadores que midan la cobertura e impacto de los programas y acciones realizadas, e informando periódicamente de su cumplimiento;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+VI. Constituir un registro de las organizaciones gubernamentales y no gubernamentales y de aquellas instancias afines que se ocupen de la atención de personas con discapacidad a fin de identificarlos, difundir sus tareas, promover sus acciones y propiciar su vinculación, con las personas con discapacidad incluidas en el Registro Estatal de la Procuraduría de la Defensa de las Personas con Discapacidad;
 
 VII. Fomentar la elaboración, publicación y distribución de material informativo que contribuya al establecimiento de una nueva cultura de respeto de las diferencias asociadas a condiciones de discapacidad, así como estimular mayores alternativas de participación, solución de problemas y mejora de servicios y programas;
 
@@ -955,7 +959,7 @@ IX. Expedir su propio Reglamento;
 
 X. Impulsar la ejecución de programas de gobierno y la labor de Organizaciones para la atención e integración de las personas con discapacidad, así como coadyuvar en su vigilancia y evaluar su implementación; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1047,6 +1051,140 @@ El incumplimiento a lo dispuesto en esta Ley por parte de las autoridades estata
 
 El incumplimiento a lo dispuesto en esta Ley por personas u organizaciones que no sean autoridades será sancionado conforme a lo establecido por la legislación vigente.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 2012)</small>
+
+## Título Quinto. De la Procuraduría de la Defensa de las Personas con Discapacidad del Estado de Nuevo León
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 2012)</small>
+
+### Capítulo I. De las Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 55.
+
+Se crea la Procuraduría de la Defensa de las Personas con Discapacidad, como un Órgano Administrativo Desconcentrado jerárquicamente subordinado al Organismo Público Descentralizado denominado “Sistema para el Desarrollo Integral de la Familia de Nuevo León”, con el objeto de brindar protección y asistencia en cualquier orden en las cuestiones y asuntos relacionados con las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 56.
+
+Para el cumplimiento de su objeto, la Procuraduría, tendrá las siguientes atribuciones:
+
+I. Asegurar que las políticas públicas en atención y apoyo a las personas con discapacidad sigan los principios de equidad, justicia social, equiparación de oportunidad, el reconocimiento de las diferencias, la dignidad, la integración, el respeto, la accesibilidad universal y el fomento a la vida independiente;
+
+II. Orientar, asesorar y asistir gratuitamente en materia legal cualquier asunto en que las personas con discapacidad tenga (sic) un interés jurídico directo, en especial aquellos que se refieren a su salud y seguridad;
+
+III. Procurar y velar para que las personas con discapacidad reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte;
+
+IV. Procurar, impulsar y promover el reconocimiento, protección y el ejercicio pleno de los derechos de las personas con discapacidad al acceso en igualdad de condiciones con los demás al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones y a otros servicios e instalaciones abiertas al público o de uso público, tanto en zonas urbanas como rurales y de todos aquellos derechos previstos en la legislación aplicable;
+
+V. Vigilar y en su caso visitar los establecimientos públicos o privados donde se atienda a personas con discapacidad, para asegurar que cuenten con las adecuaciones necesarias para su atención, y así garantizar el pleno respeto a su integridad física y mental;
+
+VI. Vigilar que a toda persona con discapacidad se le garantice el derecho de ser escuchada en los ámbitos médico y legal, con la intervención de la familia o autoridad competente en su caso;
+
+VII. Coadyuvar con la Procuraduría General de Justicia del Estado, cuando las personas con discapacidad sean víctimas de cualquier conducta tipificada como delito; así como en los casos de que se trate de faltas administrativas;
+
+VIII. Asesorar a las personas con discapacidad mediante la vía de Métodos Alternos, para la solución de conflictos en cualquier procedimiento legal en el que sean partes interesadas;
+
+IX. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando la persona con discapacidad se encuentre en situación de abandono por parte de los familiares o cuidadores;
+
+X. Para los efectos de planeación, programación, ejecución, seguimiento y control de políticas públicas en la materia, la Procuraduría, deberá mantener un Registro Estatal de Personas con Discapacidad;
+
+XI. Recibir, atender, orientar o en su caso remitir, a la instancia competente, las denuncias o reclamaciones de abuso o violación de los derechos de las personas con discapacidad establecidos en la presente Ley; y
+
+XII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, esta Ley, su Reglamento y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 2012)</small>
+
+### Capítulo II. De la Organización y Administración de la Procuraduría
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 57.
+
+La Procuraduría estará a cargo de un Procurador, el cual será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado, de una terna presentada por el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 58.
+
+La Procuraduría contará con las unidades administrativas que se determinen en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 59.
+
+Para ser Procurador de la Defensa de las Personas con Discapacidad se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Licenciado en Derecho con título debidamente registrado y tres años mínimo de ejercicio profesional comprobado;
+
+III. Acreditar experiencia en la atención de personas con discapacidad, y de sus necesidades;
+
+IV. Mayor de treinta años; y
+
+V. Ser de reconocida honorabilidad.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 60.
+
+El Procurador como encargado de la Procuraduría contará con las siguientes atribuciones:
+
+I. Dirigir, ordenar y dar seguimiento a las labores de las distintas áreas operativas de la Procuraduría;
+
+II. Representar a la Procuraduría ante cualquier autoridad, organismo descentralizado federal, estatal o municipal, personas físicas o morales de derecho público o privado;
+
+III. Elaborar y someter a aprobación del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, los manuales de organización y de procedimientos administrativos de la Procuraduría, buscando la agilización de las actividades de la misma y eficaz respeto de los derechos de las personas con discapacidad;
+
+IV. Coordinar las actividades y supervisar el cumplimiento de las obligaciones y atribuciones de la Procuraduría;
+
+V. Rendir un informe bimestral de actividades de la Procuraduría, a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León y al Consejo para las Personas con Discapacidad;
+
+VI. Someter a aprobación de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, el Reglamento Interior y la Estructura orgánica de la Procuraduría de la Defensa de las Personas con Discapacidad del Estado de Nuevo León;
+
+VII. Observar y hacer observar las disposiciones que le señala esta Ley y su Reglamento;
+
+VIII. Tener a su cargo y dirigir al personal administrativo de la Procuraduría;
+
+IX. Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones y análisis que considere necesarios para el buen desarrollo de las labores normativas y rectoras de la Procuraduría, apoyándose en la estructura administrativa prevista en el Reglamento de esta Ley;
+
+X. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de acuerdo con la normatividad aplicable; y
+
+XI. Las demás que le determine el titular del Poder Ejecutivo del Estado, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, esta Ley, su Reglamento y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 61.
+
+Las Autoridades Judiciales y administrativas, darán al Procurador, la intervención que le corresponda en los asuntos relacionados con éste.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 2012)</small>
+
+### Capítulo III. De la Coordinación Institucional
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 62.
+
+El Procurador, previa aprobación de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, podrá suscribir convenios o acuerdos de coordinación con la Federación, otros Estados y los municipios y organismos auxiliares para vigilar y garantizar la protección y respeto de los derechos de las personas con discapacidad y el cumplimiento de las disposiciones de esta Ley y el objetivo de la misma.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+###### Artículo 63.
+
+La Procuraduría para hacer cumplir sus atribuciones, las disposiciones de esta Ley, y el respeto de los derechos de las personas con discapacidad previsto en la legislación aplicable, podrá emplear cualquiera de los siguientes medios de apremio dictados por autoridad competente:
+
+I. Apercibimiento;
+
+II. Auxilio de la fuerza pública; y
+
+III. Arresto hasta por treinta y seis horas.
+
+La Procuraduría, velará en todo momento por el debido cumplimiento de la presente Ley y en casos de violación u omisión dará vista a la autoridad competente a fin de que se avoque a la investigación y en su caso a la sanción de dichas violaciones.
+
 ## TRANSITORIOS
 
 Artículo Primero.- La presente Ley entrará en vigor a los 30 días posteriores a su publicación en el Periódico Oficial del Estado.
@@ -1114,3 +1252,13 @@ P.O. 24 DE DICIEMBRE DE 2010.
 DECRETO NUMERO 145, SE REFORMA POR ADICION CON UN ARTICULO 34 BIS, LA LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2012.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., conforme a su presupuesto y con cargo de él, ejercerá las acciones que resulten necesarias para la asignación de personal y presupuesto para el funcionamiento de la Procuraduría de la Defensa de las Personas con Discapacidad.
+
+Tercero.- El Procurador de la Defensa de las Personas con Discapacidad, deberá ser nombrado en un plazo no mayor de 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- El Reglamento Interior y la Estructura orgánica de la Procuraduría de la Defensa de las Personas con Discapacidad del Estado de Nuevo León, deberá ser aprobado a un plazo no mayor de 120 días naturales siguientes a la entrada en vigor del presente Decreto.
