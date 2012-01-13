@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2011-12-05"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1861,7 +1861,9 @@ Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán p
 
 Los presidentes, los síndicos y los regidores de los ayuntamientos, serán electos por el pueblo; sus facultades y obligaciones, serán las determinadas por esta Constitución y por la Ley de la materia.
 
-Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo será sustituido por su suplente o se procederá según lo dispuesto en la fracción XX del artículo 44 de esta Constitución y en la Ley.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
+Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo, el Ayuntamiento valorará y acordará el tipo de ausencia en la sesión inmediata siguiente, procediendo de acuerdo a lo dispuesto en esta Constitución y en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 1987)</small>
 
@@ -3414,3 +3416,13 @@ En cumplimiento a lo establecido en el artículo 98-A de la Constitución Polít
 ###### ARTÍCULO QUINTO.
 
 Se derogan los decretos legislativos 174, 175, 176, 177 y 178, emitidos por la Septuagésima Legislatura del Estado de Michoacán en el año 2007 dos mil siete por el que se nombraron a los actuales consejeros del Instituto Electoral de Michoacán.
+
+P.O. 13 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Articulo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
