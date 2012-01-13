@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2011-10-21"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,69 +18,51 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-DECRETO QUE ABROGA EL DIVERSO POR EL QUE SE MODIFICA EL ARTICULO 1 DEL DIVERSO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE, PUBLICADO EL 31 DE DICIEMBRE DE 2002, POR LO QUE RESPECTA A LAS MERCANCIAS ORIGINARIAS DE LOS ESTADOS UNIDOS DE AMERICA
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACIÓN E IMPORTACIÓN DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME AL TRATADO DE LIBRE COMERCIO DE AMÉRICA DEL NORTE
 
-Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 21 de octubre de 2011.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de enero de 2012.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 2019 del Tratado de Libre Comercio de América del Norte; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y 2o., 4o., fracción I y 14 de la Ley de Comercio Exterior, y
+Con fundamento en el Apéndice 6, Sección B del Anexo 300-B del Tratado de Libre Comercio de América del Norte; artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción III, 5o., fracción V, 14, 17, 20, 23 y 24 de la Ley de Comercio Exterior; 9o., fracción III, 14, 16, 26, 31 y 33 de su Reglamento; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 22 de noviembre de 1993 el Senado de la República aprobó el Tratado de Libre Comercio de América del Norte (TLCAN), según decreto publicado en el Diario Oficial de la Federación el 8 de diciembre del mismo año, cuyo decreto de promulgación fue dado a conocer en dicho órgano informativo el 20 de diciembre del mismo año y entró en vigor el 1 de enero de 1994;
+Que el 23 de julio de 2007 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, en el cual se estableció el mecanismo de asignación de cupos de manera directa;
 
-Que los artículos 1108 y 1206, así como el Anexo I “Reservas en relación con medidas existentes y compromisos de liberalización” del TLCAN prevén la apertura de los servicios de transporte de carga en los estados fronterizos de nuestro país y de los Estados Unidos de América a partir del 18 de diciembre de 1995 y en todo el territorio de ambos países a partir del 1 de enero de 2000;
+Que mediante reformas al Acuerdo a que se refiere el considerando anterior, publicadas en el Diario Oficial de la Federación el 29 de noviembre de 2010, en atención a la solicitud del sector industrial, se reservó una parte del cupo de exportación de prendas de vestir de lana para adjudicarse mediante licitación pública;
 
-Que el 2 de febrero de 2000 se integró el panel arbitral solicitado por los Estados Unidos Mexicanos de acuerdo con el Capítulo XX del TLCAN, que regula los procedimientos para la solución de controversias, debido al incumplimiento de los Estados Unidos de América a las obligaciones señaladas en el Anexo I a que se refiere el considerando anterior, así como a las de trato nacional y trato de la nación más favorecida previstas en los artículos 1102, 1103, 1202 y 1203 de dicho Tratado, en materia de servicios de transporte transfronterizo;
+Que no obstante lo anterior y con el propósito de promover la competitividad de la industria del vestido en el exterior y evitar costos que impacten en el proceso productivo y por ende repercutan en los productos exportados, se estima conveniente volver al esquema que se dispuso originalmente en la asignación de cupos, y
 
-Que el 6 de febrero de 2001 el panel arbitral emitió su informe final en el que determinó el incumplimiento de los Estados Unidos de América a las obligaciones descritas en el considerando que antecede y recomendó a dicho país llevar a cabo las acciones necesarias para cumplir con los compromisos que adquirió conforme al TLCAN;
+Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, se expide el siguiente:
 
-Que el TLCAN dispone que si en su informe final un panel arbitral ha resuelto que una medida es incompatible con las obligaciones de dicho Tratado o es causa de anulación o menoscabo en el sentido del Anexo 2004 del propio Tratado y la Parte demandada no ha llegado a un acuerdo con cualquiera de las Partes reclamantes sobre una solución mutuamente satisfactoria, esa Parte reclamante podrá suspender la aplicación de beneficios de efecto equivalente a la Parte demandada, hasta el momento en que alcancen un acuerdo sobre la resolución de la controversia;
+ACUERDO POR EL QUE SE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS DE EXPORTACION E IMPORTACION DE BIENES TEXTILES Y PRENDAS DE VESTIR NO ORIGINARIOS, SUSCEPTIBLES DE RECIBIR TRATO DE PREFERENCIA ARANCELARIA, CONFORME ALTRATADO (SIC) DE LIBRE COMERCIO DE AMERICA DEL NORTE
 
-Que derivado de lo antes señalado se suspendió la aplicación de beneficios de efecto equivalente a los Estados Unidos de América mediante decretos publicados en el Diario Oficial de la Federación el 18 de marzo de 2009 y 18 de agosto de 2010, a través de la modificación del trato arancelario preferencial otorgado a diversos bienes originarios del citado país;
+Primero.- Se reforman los artículos Segundo, primer párrafo; Tercero; Cuarto y Quinto del Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de julio de 2007 y modificado mediante diverso publicado el 29 de noviembre de 2010, para quedar como sigue:
 
-Que el 10 de junio de 2011 se suscribió un Acuerdo entre la Secretaría de Economía de los Estados Unidos Mexicanos y la Oficina del Representante Comercial de los Estados Unidos de América (Acuerdo), mediante el cual se determinó modificar la suspensión de beneficios antes señalada, condicionando tal modificación a la firma y cumplimiento por parte de los Estados Unidos de América del Memorando de Entendimiento entre el Departamento de Transporte de los Estados Unidos de América y la Secretaría de Comunicaciones y Transportes de los Estados Unidos Mexicanos sobre los Servicios de Autotransporte Transfronterizo de Carga Internacional (Memorando de Entendimiento);
+“ARTICULO SEGUNDO.- Los cupos descritos en las columnas (2), (3) y (5) del cuadro del artículo primero del presente Acuerdo, se asignarán de manera directa bajo la modalidad de “Primero en Tiempo, Primero en Derecho".
 
-Que con la finalidad de dar una solución mutuamente satisfactoria a la citada controversia en materia de servicios de transporte de carga transfronterizo, el 6 de julio de 2011 se suscribió el Memorando de Entendimiento, el cual permite a los Estados Unidos de América avanzar hacia el cumplimiento de sus obligaciones previstas en el TLCAN;
-
-Que en el Memorando de Entendimiento, ambas Partes establecieron una fase inicial, que no excederá del plazo de tres años a partir de su entrada en vigor, en la que permitirán la prestación de servicios de largo recorrido para los transportistas que estén domiciliados en el territorio del otro país, siempre que éstos cumplan con los procedimientos establecidos en el instrumento referido y su Anexo;
-
-Que conforme a lo establecido en el Acuerdo, el gobierno de los Estados Unidos Mexicanos estimó conveniente reajustar la suspensión de beneficios de efecto equivalente a los Estados Unidos de América mediante el “Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de los Estados Unidos de América”, dado a conocer en el Diario Oficial de la Federación el 7 de julio de 2011;
-
-Que en el Acuerdo se establece que dentro de los cinco días hábiles posteriores a que se otorgue al primer transportista mexicano la autorización para operar en el territorio de los Estados Unidos de América, el gobierno de los Estados Unidos Mexicanos dejará de aplicar la suspensión de beneficios establecida en el Decreto mencionado en el considerando anterior, sin perjuicio de los derechos adquiridos por los Estados Unidos Mexicanos de restablecer la suspensión de beneficios conforme al artículo 2019 del TLCAN y el informe final del panel arbitral antes referido, en el momento en que el Ejecutivo Federal estime que el gobierno de los Estados Unidos de América ha incumplido con los términos acordados en el Memorando de Entendimiento o con sus obligaciones en la materia conforme al TLCAN;
-
-Que el 14 de octubre de 2011 los Estados Unidos de América otorgaron a un transportista mexicano la autorización para operar los servicios de transporte de carga transfronterizo de largo recorrido en el territorio de dicho país;
-
-Que derivado de lo anterior, el Ejecutivo Federal a mi cargo estima conveniente dejar de aplicar la suspensión temporal de beneficios sobre ciertos bienes originarios de los Estados Unidos de América establecida por nuestro país en el decreto publicado en el Diario Oficial de la Federación el 7 de julio de 2011;
-
-Que conforme a lo dispuesto en la Ley de Comercio Exterior, el presente Decreto cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
-
-DECRETO
-
-Artículo Único.- Se abroga el “Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de los Estados Unidos de América”, dado a conocer en el Diario Oficial de la Federación el 7 de julio de 2011.
+…
 
 ###### ARTICULO TERCERO.
 
-Las personas físicas y morales establecidas en los Estados Unidos Mexicanos interesadas deberán solicitar el registro de sus productos en el formato SE-03-036-A "Solicitud de Inscripción en el Registro de Bienes Textiles y Prendas de Vestir no originarios elegibles para recibir trato de preferencia arancelaria", en la Ventanilla de atención al público en la representación federal de esta Secretaría, que le corresponda.
+Pueden solicitar el registro de sus productos las personas físicas y morales establecidas en los Estados Unidos Mexicanos, mediante el procedimiento siguiente:
 
-La Secretaría expedirá, en su caso, la Constancia de Registro a las solicitudes en un plazo no mayor a siete días hábiles, contados a partir del día siguiente de la fecha de recepción. La Constancia de Registro será válida de manera indefinida.
+a) Los interesados deberán presentar la "Solicitud de Inscripción en el Registro de Bienes Textiles y Prendas de Vestir no originarios elegibles para recibir de trato de preferencia arancelaria" formato SE-03-036-A, en la "Ventanilla de cupos TLC" de la Dirección General de Comercio Exterior de esta Secretaría, sita en Insurgentes Sur No. 1940, planta baja, colonia Florida, código postal 01030, México, D.F. o en la representación federal de esta Secretaría, que le corresponda. No existe hoja de requisitos específicos;
+
+b) El horario de recepción será de 9:00 a 14:00 horas, en días hábiles, y
+
+c) La Secretaría expedirá, en su caso, la Constancia de Registro a las solicitudes en un plazo no mayor a siete días hábiles, contados a partir de la fecha de recepción de la solicitud, esta constancia permanecerá vigente en sus propios términos de manera indefinida, o hasta en tanto el interesado presente una nueva solicitud y se expida una nueva constancia.
 
 ###### ARTICULO CUARTO.
 
-Para los cupos referidos en el Artículo Segundo del presente ordenamiento que serán asignados de manera directa bajo la modalidad de "Primero en Tiempo, Primero en Derecho", las personas interesadas que cuenten con Constancia de Registro, deberán solicitar la expedición del Certificado de Elegibilidad correspondiente para cada embarque, en el formato SE-03-013-2 "Solicitud de certificado de elegibilidad para bienes textiles y prendas de vestir con Canadá y Estados Unidos de América", en horario de 9:00 a 10:00 horas de lunes a viernes o en días hábiles. La resolución será entregada entre las 13:00 y las 14:00 horas del mismo día.
-
-Las personas que resulten adjudicadas por licitación pública, únicamente podrán ser asignadas directamente en la modalidad de "Primero en Tiempo, Primero en Derecho", hasta que hayan ejercido la totalidad del cupo adjudicado mediante licitación pública.
+Las personas que obtengan Constancia de Registro, deberán solicitar, ante la oficina en la cual obtuvieron dicha Constancia, la expedición del Certificado de Elegibilidad correspondiente para cada embarque, en el formato SE-03-041-A “Solicitud de certificado de elegibilidad para bienes textiles y prendas de vestir con Canadá y Estados Unidos de América”, en horario de 9:00 a 10:00 horas. La resolución será entregada entre las 13:00 y las 14:00 horas del mismo día de la solicitud de expedición.
 
 ###### ARTICULO QUINTO.
 
-El cupo referido en el Artículo Segundo del presente ordenamiento será asignado por licitación pública y se sujetará a lo siguiente:
+Los formatos citados en el presente Acuerdo estarán a disposición de los interesados en las representaciones federales de la Secretaría y en la página de Internet de la Comisión Federal de Mejora Regulatoria, en la dirección electrónica: www.cofemer.gob.mx.
 
-I. La licitación pública podrá ser documental o electrónica;
-
-II. La convocatoria correspondiente a la licitación se publicará en el Diario Oficial de la Federación por lo menos 20 días antes de que inicie el periodo de registro y establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a las cuales se regirá la licitación pública, y
-
-III. Podrán participar en la licitación pública del cupo a que se refiere el presente Acuerdo, conforme a las bases que al efecto se publiquen, las personas físicas y morales establecidas en los Estados Unidos Mexicanos que cuenten con el Registro de bienes textiles y prendas de vestir no originarios elegibles para recibir trato de preferencia arancelaria, a que se refiere el artículo Tercero de este Acuerdo.
+Segundo.- Se derogan los artículos Sexto, Séptimo y Octavo del Acuerdo por el que se dan a conocer los cupos de exportación e importación de bienes textiles y prendas de vestir no originarios, susceptibles de recibir trato de preferencia arancelaria, conforme al Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 23 de julio de 2007 y modificado mediante diverso publicado el 29 de noviembre de 2010.
 
 ###### ARTICULO 1.
 
@@ -1188,22 +1170,8 @@ El sistema electrónico de la Licitación 005/2009 generará un reporte que list
 
 La Secretaría, por conducto de la DGCE, publicará en su página de Internet www.economia.gob.mx y en la del Sistema Integral de Información de Comercio Exterior www.siicex.gob.mx, el 18 de septiembre de 2009 el listado de los participantes con cupos adjudicables, el número de lotes adjudicables a cada participante y el precio a pagar por cada lote.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las mercancías originarias de los Estados Unidos de América indicadas en el "Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de los Estados Unidos de América", dado a conocer en el Diario Oficial de la Federación el 7 de julio de 2011, se sujetarán a lo previsto en el artículo 1 del "Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte", publicado en el citado órgano de difusión el 31 de diciembre de 2002.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
-
-D.O.F. 21 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBE EL ARTICULO QUE TIENE RELACION CON EL PRESENTE ORDENAMIENTO.</small>
-
-Artículo Único.- Se abroga el “Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de los Estados Unidos de América”, dado a conocer en el Diario Oficial de la Federación el 7 de julio de 2011.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las mercancías originarias de los Estados Unidos de América indicadas en el “Decreto por el que se modifica el artículo 1 del diverso por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte, publicado el 31 de diciembre de 2002, por lo que respecta a las mercancías originarias de los Estados Unidos de América”, dado a conocer en el Diario Oficial de la Federación el 7 de julio de 2011, se sujetarán a lo previsto en el artículo 1 del “Decreto por el que se establece la Tasa Aplicable durante 2003, del Impuesto General de Importación, para las mercancías originarias de América del Norte”, publicado en el citado órgano de difusión el 31 de diciembre de 2002.
+México, D.F., a 6 de enero de 2012.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
