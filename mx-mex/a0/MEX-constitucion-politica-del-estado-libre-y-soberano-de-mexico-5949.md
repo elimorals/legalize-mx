@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2011-12-16"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE ENERO DE 2012.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -35,7 +35,7 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
 Que Reforma y adiciona la del 31 de octubre de 1917
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO PRIMERO. Del Estado de México como Entidad Política
 
@@ -45,13 +45,13 @@ Que Reforma y adiciona la del 31 de octubre de 1917
 
 El Estado de México es parte integrante de la Federación de los Estados Unidos Mexicanos, libre y soberano en todo lo que concierne a su régimen interior.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 2.
 
 El Estado de México tiene la extensión y límites que le corresponden históricamente y los que se precisen en los convenios que se suscriban con las entidades colindantes o los que deriven de las resoluciones emitidas de acuerdo a los procedimientos legales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 3.
 
@@ -59,17 +59,17 @@ El Estado de México adopta la forma de gobierno republicana, representativa y p
 
 El ejercicio de la autoridad se sujetará a esta Constitución, a las leyes y a los ordenamientos que de una y otras emanen.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 4.
 
 La soberanía estatal reside esencial y originariamente en el pueblo del Estado de México, quien la ejerce en su territorio por medio de los poderes del Estado y de los ayuntamientos, en los términos de la Constitución Federal y con arreglo a esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO SEGUNDO. De los Principios Constitucionales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -123,7 +123,7 @@ La manifestación de las ideas no será objeto de ninguna inquisición judicial 
 
 El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Los poderes públicos y los órganos autónomos transparentarán sus acciones, garantizarán el acceso a la información pública y protegerán los datos personales en los términos que señale la ley reglamentaria.
 
@@ -153,13 +153,13 @@ VII. La inobservancia de las disposiciones en materia de acceso a la informació
 
 Todo individuo tiene derecho a una alimentación adecuada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
 
 En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada, la promoción de la activación física y deportiva de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 6.
 
@@ -175,13 +175,13 @@ Las leyes del Estado no podrán establecer sanciones que priven a algún individ
 
 No se considerará confiscación la aplicación, el decomiso o la extinción del dominio de bienes que se haga de conformidad con el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 8.
 
 Nadie estará exceptuado de las obligaciones que las leyes le impongan, salvo en los casos de riesgo, siniestro o desastre, en cuya situación el Gobernador del Estado de acuerdo con los titulares de las secretarías del Poder Ejecutivo y el Procurador General de Justicia, acordará la aplicación de las normas necesarias para hacerles frente, pero éstas deberán ser por un tiempo limitado y de carácter general y únicamente por lo que hace a las zonas afectadas.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 9.
 
@@ -189,7 +189,7 @@ En los casos de riesgo, siniestro o desastre, el Ejecutivo del Estado acordará 
 
 Una vez tomadas las primeras medidas para atender las causas mencionadas, el Ejecutivo del Estado, dará cuenta de inmediato a la Legislatura o a la Diputación Permanente de las acciones adoptadas para hacer frente a esos hechos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 10.
 
@@ -253,11 +253,11 @@ En los procesos electorales los partidos políticos tendrán derecho a postular 
 
 La coalición deberá formalizarse mediante convenio, que se presentará para su registro ante el Consejo General del Instituto Electoral del Estado de México, a más tardar quince días antes de que se inicie el registro de candidatos de la elección de que se trate y éste resolverá la procedencia del registro de coalición dentro de los siete días siguientes a su presentación.
 
-> <small>(DEROGADO PARRAFO QUINTO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO PÁRRAFO QUINTO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
 
 Ningún ciudadano podrá ser registrado como candidato a distintos cargos de elección popular en el mismo proceso electoral. Los partidos políticos podrán registrar simultáneamente, en un proceso comicial hasta cuatro fórmulas de candidatos a Diputados por mayoría relativa y por representación proporcional.
 
-> <small>(DEROGADO PARRAFO SEPTIMO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO PÁRRAFO SÉPTIMO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
 
 Para conservar el registro como partido político y para tener derecho a participar en la asignación de Diputados de representación proporcional, los partidos políticos deberán haber obtenido al menos el 1.5% de la votación válida emitida en la elección para Diputados de mayoría a la Legislatura del Estado.
 
@@ -315,7 +315,7 @@ La ley fijará las causales de nulidad de las elecciones de Gobernador, Diputado
 
 La ley establecerá los supuestos y las reglas para el ejercicio de los medios de apremio para hacer cumplir de manera expedita sus resoluciones.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 14.
 
@@ -325,7 +325,7 @@ Los ciudadanos de la Entidad podrán solicitar al Gobernador que sean sometidas 
 
 La ley reglamentaria correspondiente determinará las normas, términos y procedimiento a que se sujetarán el referéndum Constitucional y el Legislativo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 15.
 
@@ -335,7 +335,7 @@ Asimismo, podrán coadyuvar en la identificación y precisión de las demandas y
 
 La ley determinará las formas de participación de estas organizaciones, y la designación de contralores sociales para vigilar el cumplimiento de las actividades señaladas en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 16.
 
@@ -343,17 +343,17 @@ La Legislatura del Estado establecerá un organismo autónomo para la protecció
 
 El organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 17.
 
 El Estado de México tiene una composición pluricultural y pluriétnica sustentada originalmente en sus pueblos indígenas. Esta Constitución reconoce como pueblos indígenas dentro del territorio mexiquense a los Mazahua, Otomí, Náhuatl, Matlazinca, Tlahuica y aquellos que se identifiquen en algún otro pueblo indígena. El Estado favorecerá la educación básica bilingüe.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 La ley protegerá y promoverá el desarrollo de sus culturas, lenguas, usos, costumbres, recursos y formas específicas de organización social y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Las autoridades promoverán el bienestar de estos grupos mediante las acciones necesarias, convocando incluso a la sociedad, en especial en las materias de salud, educación, vivienda y empleo, así como en todas aquellas que con respeto a las expresiones y manifestaciones de su cultura, faciliten e impulsen la participación de quienes los integran en todos los ámbitos del desarrollo del Estado y en igualdad de condiciones y oportunidades que los demás habitantes.
 
@@ -373,39 +373,39 @@ Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bie
 
 La Legislatura del Estado establecerá en la Ley la existencia de un organismo en materia de agua, integrado por un Comisionado Presidente aprobado por la Legislatura a propuesta del Gobernador, por representantes del Ejecutivo del Estado, de los municipios y por ciudadanos, el cual regulará y propondrá los mecanismos de coordinación para la prestación del servicio de agua potable, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales y, en general, el mejoramiento de la gestión integral del agua en beneficio de la población.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 19.
 
 Los recursos cuya captación y administración corresponda a las autoridades, se aplicarán adecuadamente en la atención y solución de las necesidades de los habitantes, para lo cual las leyes de ingresos y los presupuestos de egresos del Estado y de los municipios, estarán orientados a la asignación prudente de tales recursos, considerando criterios de proporcionalidad y equidad en la distribución de cargas y de los beneficios respectivos entre los habitantes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 20.
 
 La ley establecerá la sanción penal por la distracción de los recursos públicos para objetos distintos de los señalados en los presupuestos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO TERCERO. De la Población
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO PRIMERO. De los Habitantes del Estado
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 21.
 
 Son habitantes del Estado las personas que residan en él temporal o permanentemente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 22.
 
 Los habitantes del Estado, se considerarán como mexiquenses, vecinos o transeúntes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 23.
 
@@ -419,13 +419,13 @@ III. Los vecinos, de nacionalidad mexicana, con 5 años de residencia efectiva e
 
 Se entenderá por residencia efectiva, el hecho de tener domicilio fijo en donde se habite permanentemente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 24.
 
 Los mexiquenses serán preferidos en igualdad de circunstancias a los demás mexicanos para el desempeño de cargos públicos del Estado o de los municipios, siempre que cumplan los otros requisitos que las leyes o reglamentos exijan.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 25.
 
@@ -435,13 +435,13 @@ I. Los habitantes que tengan cuando menos seis meses de residencia fija en deter
 
 II. Los que antes del tiempo señalado manifiesten a la autoridad municipal su deseo de adquirir la vecindad y acrediten haber hecho la manifestación contraria ante la autoridad del lugar donde tuvieron inmediatamente antes su residencia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 26.
 
 Sólo los vecinos de nacionalidad mexicana, tendrán derecho a servir en los cargos municipales de elección popular o de autoridad pública del lugar de su residencia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 27.
 
@@ -455,17 +455,17 @@ III. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas
 
 IV. Las demás que esta Constitución y las leyes establezcan.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. De los Ciudadanos del Estado
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 28.
 
 Son ciudadanos del Estado los habitantes del mismo que tengan esta calidad conforme a la Constitución Federal, y que además reúnan la condición de mexiquenses o vecinos a que se refiere esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 29.
 
@@ -481,13 +481,13 @@ IV. Asociarse libre y pacíficamente para tomar parte en los asuntos políticos 
 
 V. Participar en las organizaciones de ciudadanos que se constituyan en sus comunidades, para la atención de sus necesidades.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 30.
 
 Tienen suspendidos los derechos y prerrogativas de ciudadanos del Estado:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -503,7 +503,7 @@ V. Los que incumplan injustificadamente cualquiera de las obligaciones de ciudad
 
 La Ley determinará los casos en que se suspenden los derechos de ciudadano y la forma de su rehabilitación.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 31.
 
@@ -515,59 +515,59 @@ II. Los ciudadanos electos para cargos públicos que se nieguen a desempeñarlos
 
 La Ley determinará los términos y procedimientos para la declaratoria de la pérdida de la ciudadanía y la manera de hacer la rehabilitación.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 32.
 
 El desempeño de comisiones al servicio de la nación o del Estado o la realización de estudios, fuera de la entidad, no son causas de la pérdida de la calidad de vecino.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 33.
 
 Quienes se encuentren accidental o transitoriamente en el territorio del Estado, estarán sujetos a sus leyes y ordenamientos jurídicos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO CUARTO. Del Poder Público del Estado
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO PRIMERO. De la División de Poderes
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 34.
 
 El Poder Público del Estado de México se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 35.
 
 Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 36.
 
 No podrán reunirse dos o más poderes del Estado en una sola persona o corporación ni depositarse el Legislativo en un individuo, salvo en el caso previsto por la fracción XI del artículo 61 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 37.
 
 La ciudad de Toluca de Lerdo es la sede de los poderes públicos del Estado y capital del mismo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. Del Poder Legislativo
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. De la Legislatura
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 38.
 
@@ -577,7 +577,7 @@ Por cada diputado propietario se elegirá un suplente.
 
 El o los diputados electos en elecciones extraordinarias concluirán el período de la Legislatura respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 39.
 
@@ -597,7 +597,7 @@ III. La asignación de diputaciones de representación proporcional se hará con
 
 Los diputados de mayoría relativa y los de representación proporcional tendrán iguales derechos y obligaciones.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 40.
 
@@ -623,13 +623,13 @@ En los casos a que se refieren las dos fracciones anteriores, podrán postularse
 
 El Gobernador del Estado, durante todo el período del ejercicio, no podrá ser electo diputado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 41.
 
 Ningún ciudadano podrá excusarse de desempeñar el cargo de diputado, salvo por causa justificada calificada por la Legislatura, la cual conocerá la solicitud.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 42.
 
@@ -637,7 +637,7 @@ Los diputados jamás podrán ser reconvenidos o enjuiciados por las declaracione
 
 Los presidentes de la Legislatura y de la Diputación Permanente velarán por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 43.
 
@@ -649,7 +649,7 @@ El ejercicio del cargo de diputado es incompatible con cualquier comisión o emp
 
 La Legislatura se renovará en su totalidad cada tres años; la ley de la materia determinará la fecha de la elección. Los Diputados no podrán ser reelectos para el período inmediato.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 45.
 
@@ -657,7 +657,7 @@ Las elecciones de diputados por el principio de mayoría relativa serán computa
 
 El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el organismo público estatal encargado de la organización, desarrollo y vigilancia de las elecciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 46.
 
@@ -675,7 +675,7 @@ El Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asist
 
 Excepcionalmente, la Legislatura podrá invitar a los titulares de los poderes Ejecutivo y Judicial a asistir a su recinto con motivo de la celebración de sesiones solemnes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 47.
 
@@ -695,13 +695,13 @@ Los diputados que asistan tanto a las juntas preparatorias como a las sesiones o
 
 Los diputados que falten a tres sesiones consecutivas sin previa licencia del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el período en que ocurran las faltas y se llamará desde luego a los suplentes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 49.
 
 La Legislatura del Estado sesionará por lo menos una vez cada año fuera de la capital del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 50.
 
@@ -709,7 +709,7 @@ Las sesiones serán conducidas por una directiva, cuyos integrantes velarán por
 
 En la segunda sesión del primer período ordinario del ejercicio de la Legislatura y para todo el período constitucional, se integrará un órgano denominado Junta de Coordinación Política, cuya integración y funciones serán determinadas por la Ley Orgánica del Poder Legislativo y demás ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 51.
 
@@ -719,7 +719,9 @@ I. Al Gobernador del Estado;
 
 II. A los diputados;
 
-III. Al Tribunal Superior de Justicia en todo lo relacionado con la organización y funcionamiento de la administración de justicia;
+> <small>(REFORMADA, G.G. 13 DE ENERO DE 2012)</small>
+
+III. Al Tribunal Superior de Justicia;
 
 > <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2011)</small>
 
@@ -755,7 +757,7 @@ Cuando se trate de iniciativas de los ayuntamientos o se discutan asuntos de su 
 
 El Gobernador del Estado podrá participar en el análisis de los proyectos legislativos que caigan dentro de su ámbito competencial, así como de la discusión del dictamen, ya sea de propia voz, o a través de la voz del representante que designe al efecto. El mismo derecho tendrán las autoridades a quienes la Constitución otorga el derecho de iniciativa. La ley y el reglamento establecerán las bases bajo las cuales se dará esta participación una vez que haya sido formalmente solicitada por quien tiene derecho a ello.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 53.
 
@@ -763,19 +765,19 @@ La discusión y aprobación de las resoluciones de la Legislatura se hará con e
 
 En la discusión de los proyectos de ley de ingresos municipales, como en toda iniciativa de ley, el Ejecutivo tendrá la intervención que le asigna la presente Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 54.
 
 La votación de las leyes y decretos será nominal.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 55.
 
 La Legislatura del Estado o la Diputación Permanente, antes de la votación de algún asunto, podrán dispensar trámites legislativos previstos en su Ley Orgánica, cuando se considere de urgente o de obvia resolución el asunto correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 56.
 
@@ -791,7 +793,7 @@ Las leyes o decretos aprobados se comunicarán al Ejecutivo firmados por el Pres
 
 Las iniciativas al Congreso de la Unión se comunicarán también con la firma del Presidente y los secretarios.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 58.
 
@@ -809,11 +811,11 @@ Por tanto, mando se publique, circule, observe y se le dé el debido cumplimient
 
 (Fecha y rúbricas del Gobernador y del Secretario General de Gobierno)
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, G.G. 27 DE NOVIEMBRE DE 1997)</small>
 
 (La exposición de motivos que originó su expedición y el dictamen legislativo correspondiente).
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 59.
 
@@ -823,13 +825,13 @@ La nueva votación de la Legislatura deberá realizarse durante el mismo períod
 
 Para la aprobación de las observaciones enviadas serán necesarios los votos de al menos las dos terceras partes del total de sus integrantes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 60.
 
 Cuando un proyecto de ley o decreto sea devuelto a la Legislatura con observaciones del Gobernador y no se apruebe con arreglo al artículo anterior, no podrá ser sometido nuevamente a discusión sino hasta el siguiente período ordinario de sesiones.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones de la Legislatura
 
@@ -871,7 +873,7 @@ XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE MARZO DE 2010)</small>
 
 XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
 
@@ -897,7 +899,7 @@ XIX. Recibir el aviso del Ejecutivo del Estado, cuando salga al extranjero en mi
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXI. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Tribunal Estatal Electoral, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos;
 
@@ -947,7 +949,7 @@ C). A los miembros sustitutos de los ayuntamientos para cubrir las faltas absolu
 
 Los integrantes de los concejos municipales y de los ayuntamientos provisionales, así como los miembros sustitutos de los ayuntamientos, deberán cumplir los requisitos de elegibilidad establecidos para los miembros de los ayuntamientos;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
 
@@ -1063,23 +1065,23 @@ XLVII. Aprobar la afectación de los ingresos del Estado y, en su caso, el derec
 
 XLVIII. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION TERCERA. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 62.
 
 A más tardar, tres días antes de la clausura de los períodos ordinarios de sesiones, la Legislatura designará una Diputación Permanente compuesta por nueve de sus miembros como propietarios y cinco suplentes para cubrir las faltas de aquéllos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 63.
 
 La Diputación Permanente funcionará en los recesos de la Legislatura y en el año de su renovación, hasta la instalación de la nueva.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 64.
 
@@ -1103,27 +1105,27 @@ VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en l
 
 VII. Cumplir con las obligaciones que le impongan la Legislatura y otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO TERCERO. Del Poder Ejecutivo
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. Del Gobernador del Estado
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 65.
 
 El Poder Ejecutivo del Estado se deposita en un solo individuo que se denomina Gobernador del Estado de México.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 1998)</small>
 
 ###### Artículo 66.
 
 La elección de Gobernador del Estado de México será mediante sufragio universal, libre, secreto y directo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 67.
 
@@ -1151,13 +1153,13 @@ V. No ser servidor público en ejercicio de autoridad, ni militar en servicio ac
 
 VI. No contar con una o más nacionalidades distintas a la mexicana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 69.
 
 El período constitucional del Gobernador del Estado comenzará el 16 de septiembre del año de su renovación.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 Nunca podrán ser electos para el período inmediato:
 
@@ -1165,7 +1167,7 @@ a). El Gobernador sustituto o el designado para concluir el período en caso de 
 
 b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 70.
 
@@ -1179,7 +1181,7 @@ Si dentro de 30 días siguientes al inicio del período constitucional, el elect
 
 Si por algún motivo no hubiera podido efectuarse la elección de Gobernador, fuese nula o no estuviera hecha y declarada el 16 de septiembre del año que corresponda, cesará el saliente y se encargará del poder ejecutivo en calidad de Gobernador interino el que designe la Legislatura. El mismo día en que la Legislatura nombre al Gobernador interino, expedirá la convocatoria para nuevas elecciones, las cuales deberán tener verificativo dentro de los 90 días siguientes contado (sic) a partir del inicio del período constitucional.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 72.
 
@@ -1189,7 +1191,7 @@ Si la Legislatura no estuviere en sesiones, lo suplirá como encargado del despa
 
 Cuando la falta del Gobernador ocurriese en los últimos cuatro años del período respectivo, si la Legislatura se encontrase en sesiones, designará al Gobernador sustituto que deberá concluir el período; si no estuviese reunida, lo suplirá como encargado del despacho el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que se erija en Colegio Electoral y designe al Gobernador sustituto.
 
-> <small>(REFORMADO P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO G.G. 1 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 73.
 
@@ -1197,29 +1199,29 @@ Las faltas temporales del Gobernador hasta por 15 días las suplirá el Secretar
 
 Aquellas que excedan de 15 días pero no de 60 las cubrirá como encargado del despacho el Secretario General de Gobierno. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 74.
 
 Si la falta temporal se convierte en absoluta, se procederá como lo dispone el artículo 72.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 75.
 
 El Gobernador del Estado rendirá la protesta constitucional ante la Legislatura.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 76.
 
 El Gobernador del Estado podrá renunciar al cargo por causa grave, o solicitar licencia por causa justificada, pero en ambos casos no se hará efectiva sino hasta que sea aprobada por la Legislatura.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones del Gobernador del Estado
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 77.
 
@@ -1239,7 +1241,7 @@ IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las 
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
 VI. Planear y conducir el desarrollo integral del Estado; formular, aprobar, desarrollar, ejecutar, controlar y evaluar el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos;
 
@@ -1247,7 +1249,7 @@ VII. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Dip
 
 VIII. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos Municipales;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 IX. Conservar el orden público en todo el territorio del Estado; mandar personalmente las fuerzas de seguridad pública del Estado y coordinarse en esta materia con la Federación, otras entidades y los municipios en términos de ley;
 
@@ -1271,7 +1273,7 @@ XVII. Conceder el indulto necesario y por gracia y conmutar las penas privativas
 
 XVIII. Rendir a la Legislatura del Estado, el cinco de septiembre de cada año, un informe acerca del estado que guarde la administración pública;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta de gastos del año inmediato anterior, a más tardar el 15 de mayo.
 
@@ -1279,7 +1281,7 @@ XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los pr
 
 Dicho Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos conforme a lo previsto en el artículo 147 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XX. Enviar cada año a la Legislatura a más tardar el 21 de noviembre o el 20 de diciembre, cuando inicie el periodo constitucional el Ejecutivo Federal, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los Ayuntamientos y que regirá en el año fiscal inmediato siguiente;
 
@@ -1305,7 +1307,7 @@ XXX. Determinar los casos en los que sea de utilidad pública la ocupación de l
 
 XXXI. Asumir la representación política y jurídica del Municipio para tratar los asuntos que deban resolverse fuera del territorio estatal;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisonales (sic), concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;
 
@@ -1313,25 +1315,25 @@ XXXIII. Ser el conducto para cubrir a los Municipios las Participaciones Federal
 
 XXXIV. Enviar a la Legislatura, al término de cada período constitucional, una memoria sobre el estado de los asuntos públicos;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXV. Formar la estadística del Estado y normar, con la participación de los municipios, la organización y funcionamiento del catastro y, en su caso, administrarlo conjuntamente con éstos, en la forma que establezca la ley;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXVI. Celebrar convenios con los municipios para la asunción por éstos, del ejercicio de funciones, ejecución y operación de obras y prestación de servicios públicos federales que el Estado asuma, en términos de la fracción XXIII de este artículo;
 
 XXXVII. Otorgar el nombramiento de notario con arreglo a la ley de la materia;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXVIII. Las que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas por esta Constitución a los otros Poderes del mismo Gobierno o a las autoridades de los municipios;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXIX. Convenir con los municipios, para que el Gobierno del Estado, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal del ejercicio de funciones o de la prestación de servicios públicos municipales, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XL. Girar órdenes a la policía preventiva municipal en aquéllos casos en que juzgue como de fuerza mayor o alteración grave del orden público;
 
@@ -1359,13 +1361,13 @@ XLV. Asumir la representación política y jurídica del Estado en los conflicto
 
 XLVI. Las demás que la Constitución General de la República, la presente Constitución, las Leyes Federales o las del Estado y sus respectivos reglamentos le atribuyen.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 78.
 
 Para el despacho de los asuntos que la presente Constitución le encomienda, el Ejecutivo contará con las dependencias y los organismos auxiliares que las disposiciones legales establezcan.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 79.
 
@@ -1373,7 +1375,7 @@ Para ser Secretario General de Gobierno se requiere cumplir los mismos requisito
 
 Para ser secretario del despacho del Ejecutivo, se requiere ser ciudadano en pleno ejercicio de sus derechos, mexiquense o vecino con tres años de residencia efectiva en la entidad y tener 30 años cumplidos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 80.
 
@@ -1381,11 +1383,11 @@ Todas las leyes, decretos, reglamentos, circulares, acuerdos y, en general, los 
 
 El Secretario General de Gobierno y los demás titulares de las dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y las leyes del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE FEBRERO DE 2011)</small>
 
 #### SECCION TERCERA. Del Ministerio Público y de la Seguridad Pública
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1397,19 +1399,19 @@ Las policías actuarán bajo la conducción y mando del ministerio público en l
 
 El ministerio público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca la ley, la que señalará los casos en que serán objeto de revisión judicial.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 82.
 
 El Ministerio Público hará efectivos los derechos del Estado e intervendrá en los juicios que afecten a quienes las leyes otorgan especial protección, así como también en los procedimientos de ejecución de sentencias.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 83.
 
 El Ministerio Público estará a cargo de un Procurador General de Justicia y de un Subprocurador General, así como de los subprocuradores y agentes del Ministerio Público auxiliados por el personal que determine la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 84.
 
@@ -1427,7 +1429,7 @@ V. Ser de honradez y probidad notorias.
 
 El Gobernador del Estado designará al Procurador General de Justicia, pero el nombramiento deberá ser ratificado por la Legislatura, con el voto de las dos terceras partes de los diputados presentes. En el caso de que el nombramiento sea rechazado, el Ejecutivo hará un segundo que podrá ser aprobado con el voto de la mayoría simple.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 85.
 
@@ -1435,7 +1437,7 @@ La ley determinará los requisitos necesarios para ser agente del Ministerio Pú
 
 No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempeño de iguales o similares empleos en ésta o en cualquiera otra entidad federativa o en la administración pública federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1453,25 +1455,25 @@ La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los m
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las Instituciones Policiales, deberán de coordinarse entre si para cumplir los objetivos de la Seguridad Pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION CUARTA. Del Tribunal de lo Contencioso Administrativo
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 87.
 
 El Tribunal de lo Contencioso Administrativo conocerá y resolverá las controversias que se susciten entre las administraciones públicas estatal o municipales y organismos auxiliares con funciones de autoridad y los particulares y tendrá plena autonomía para dictar sus fallos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO CUARTO. Del Poder Judicial
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. Del Ejercicio de la Función Judicial
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 12 DE JULIO DE 2004)</small>
 
 ###### Artículo 88.
 
@@ -1479,7 +1481,7 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Salas Colegiadas y Unitarias Regionales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1543,13 +1545,13 @@ Al finalizar su encargo los magistrados gozarán de un haber de retiro por el mo
 
 Los jueces de primera instancia, los de cuantía menor y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 90.
 
 Los magistrados del Tribunal Superior de Justicia sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Consejo de la Judicatura, por faltas u omisiones graves en el desempeño de sus funciones, por mala conducta o porque estén incapacitados física o mentalmente. La ley determinará el procedimiento correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 91.
 
@@ -1573,13 +1575,13 @@ VI. No ser Secretario del despacho, Procurador General de Justicia del Estado, S
 
 No podrán integrar un Juzgado, Sala del Tribunal Superior de Justicia o Consejo de la Judicatura, dos o más parientes por consanguinidad en línea recta sin limitación de grado, colateral dentro del cuarto grado, o por afinidad dentro del segundo o cónyuges.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 93.
 
 Aunque los magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquéllos, los interinos conforme a las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 12 DE JULIO DE 2004)</small>
 
 ###### Artículo 94.
 
@@ -1591,7 +1593,9 @@ El Pleno estará integrado por todos los magistrados; la Sala Constitucional, po
 
 Corresponde al Pleno del Tribunal Superior de Justicia:
 
-I. Iniciar leyes o decretos en lo relativo a la administración de justicia;
+> <small>(REFORMADA, G.G. 13 DE ENERO DE 2012)</small>
+
+l. Iniciar leyes o decretos;
 
 II. Determinar el ámbito territorial en el que ejercerán su competencia las salas regionales y los juzgados;
 
@@ -1619,25 +1623,25 @@ II. Los conflictos de competencia que se susciten entre los jueces del Estado; y
 
 III. Los demás asuntos que les confieran las leyes.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.G. 16 DE ABRIL DE 2003)</small>
 
 ###### Artículo 97.
 
 Para el despacho de los asuntos habrá en cada región, salas colegiadas y unitarias, que conocerán de los asuntos que la ley les otorgue competencia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 98.
 
 Ningún negocio judicial podrá tener más de dos instancias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MAYO DE 2005)</small>
 
 ###### Artículo 99.
 
 Los magistrados y jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia o por actividad académica.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remunerado e incompatible con su función.
 
@@ -1647,33 +1651,33 @@ Tampoco podrán desempeñar ningún otro cargo, empleo o comisión que sea remun
 
 Los jueces de primera instancia, durarán en su encargo seis años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 101.
 
 Los jueces de primera instancia deberán reunir los mismos requisitos que los magistrados, menos el referente a la edad, que bastará que sea de 28 años y cinco años de poseer título profesional de licenciado en derecho y de ejercicio profesional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009))
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 102.
 
 En cada distrito o región judicial habrá un juez o los jueces necesarios, quienes conocerán de los asuntos para los que la ley les otorgue competencia.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 103.
 
 Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, por periodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que le señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 104.
 
 Los jueces de cuantía menor deberán cumplir los requisitos establecidos en las fracciones I y V del artículo 91 de esta Constitución, tener cuando menos 25 años el día de su designación y poseer título profesional de licenciado en derecho, expedido por institución legalmente facultada para ello.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1693,7 +1697,7 @@ La ley establecerá los medios necesarios para que se garantice la independencia
 
 El imputado, la víctima o el ofendido tendrán los derechos que consagra la Constitución Política de los Estados Unidos Mexicanos, el Código Penal del Estado y el Código de Procedimientos Penales para el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1701,17 +1705,17 @@ El imputado, la víctima o el ofendido tendrán los derechos que consagra la Con
 
 Para efectos de la administración de justicia, el Estado de México se dividirá en distritos y regiones judiciales que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION SEGUNDA. Del Consejo de la Judicatura del Estado de México
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 106.
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado de México, conforme a las bases que señala esta Constitución y las leyes respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 107.
 
@@ -1745,13 +1749,13 @@ Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con l
 
 Los magistrados y el juez designados por el Consejo de la Judicatura deberán tener cuando menos cinco años en el cargo y cumplir con los requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 108.
 
 Salvo el Presidente del Consejo, los demás consejeros durarán en su cargo cinco años, serán sustituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 109.
 
@@ -1769,7 +1773,7 @@ Los consejeros ejercerán su función con independencia e imparcialidad y, no re
 
 Durante su encargo sólo podrán ser removidos en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
 
@@ -1781,15 +1785,15 @@ El ejercicio del cargo de consejero es incompatible con cualquier comisión o em
 
 Los miembros del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del Presidente que integrará pleno.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO QUINTO. Del Poder Público Municipal
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO PRIMERO. De los Municipios
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 112.
 
@@ -1797,35 +1801,35 @@ La base de la división territorial y de la organización política y administra
 
 Los municipios del Estado, su denominación y la de sus cabeceras, serán los que señale la ley de la materia.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 113.
 
 Cada municipio será gobernado por un ayuntamiento con la competencia que le otorga la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2008)</small>
 
 ###### Artículo 114.
 
 Los Ayuntamientos serán electos mediante sufragio universal, libre, secreto y directo. La ley de la materia determinará la fecha de la elección. Las elecciones de Ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría a los integrantes de la planilla que hubiere obtenido el mayor número de votos en términos de la ley de la materia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 El cargo de miembro del ayuntamiento no es renunciable, sino por justa causa que calificará el ayuntamiento ante el que se presentará la renuncia y quien conocerá también de las licencias de sus miembros.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 115.
 
 En ningún caso los ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del presidente municipal, ni éste por sí solo las de los ayuntamientos, ni el ayuntamiento o el presidente municipal, funciones judiciales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 116.
 
 Los ayuntamientos serán asamblea deliberante y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los presidentes municipales. Durarán en sus funciones tres años y ninguno de sus miembros propietarios o suplentes que hayan asumido las funciones podrá ser electo para el período inmediato siguiente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 117.
 
@@ -1833,11 +1837,11 @@ Los ayuntamientos se integrarán con un jefe de asamblea, que se denominará Pre
 
 Los ayuntamientos de los municipios podrán tener síndicos y regidores electos según el principio de representación proporcional de acuerdo a los requisitos y reglas de asignación que establezca la ley de la materia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. De los Miembros de los Ayuntamientos
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 118.
 
@@ -1847,7 +1851,7 @@ Los regidores de mayoría relativa y de representación proporcional tendrán lo
 
 Por cada miembro del ayuntamiento que se elija como propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 119.
 
@@ -1859,7 +1863,7 @@ II. Ser mexiquense con residencia efectiva en el municipio no menor a un año o 
 
 III. Ser de reconocida probidad y buena fama pública.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 120.
 
@@ -1879,17 +1883,17 @@ VI. Los ministros de cualquier culto, a menos que se separen formal, material y 
 
 Los servidores públicos a que se refieren las fracciones III, IV y V, serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos 60 días antes de la elección.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 121.
 
 Para el despacho de los asuntos municipales cada Ayuntamiento designará un Secretario y sus atribuciones serán las que determine la ley respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPÍTULO TERCERO. De las Atribuciones de los Ayuntamientos
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 122.
 
@@ -1897,17 +1901,17 @@ Los ayuntamientos de los municipios tienen las atribuciones que establecen la Co
 
 Los municipios tendrán a su cargo las funciones y servicios públicos que señala la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
 Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 123.
 
 Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 124.
 
@@ -1915,7 +1919,7 @@ Los ayuntamientos expedirán el Bando Municipal, que será promulgado y publicad
 
 En caso de no promulgarse un nuevo bando municipal el día señalado, se publicará y observará el inmediato anterior.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 125.
 
@@ -1933,7 +1937,7 @@ Las leyes del Estado no podrán establecer exenciones o subsidios en favor de pe
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señalen la (sic) leyes de la materia.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 Los Ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos. Estas sesiones nunca excederán al 15 de febrero y tendrán como único objeto, concordar el Presupuesto de Egresos con la citada Ley de Ingresos. Al concluir las sesiones en las que se apruebe el Presupuesto de Egresos Municipal en forma definitiva, se dispondrá, por el Presidente Municipal, su promulgación y publicación, teniendo la obligación de enviar la ratificación, o modificaciones en su caso, de dicho Presupuesto de Egresos, al Órgano Superior de Fiscalización, a más tardar el día 25 de febrero de cada año.
 
@@ -1943,7 +1947,7 @@ El Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
 ###### Artículo 126.
 
@@ -1953,7 +1957,7 @@ El Ejecutivo del Estado podrá convenir con los ayuntamientos la asunción de la
 
 Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, asimismo, podrán asociarse para concesionar los servicios públicos, de conformidad con las disposiciones jurídicas aplicables, prefiriéndose en igualdad de circunstancias a vecinos del municipio. Cuando trascienda el periodo constitucional del Ayuntamiento se requerirá autorización de la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 127.
 
@@ -2019,11 +2023,11 @@ XII. Expedir los acuerdos necesarios para el cumplimiento de las determinaciones
 
 XIII. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO SEXTO. De la Administración y Vigilancia de los Recursos Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2006)</small>
 
 ###### Artículo 129.
 
@@ -2057,11 +2061,11 @@ El Órgano Superior de Fiscalización, la Secretaría de la Contraloría, las co
 
 La infracción a las disposiciones previstas en este Título será sancionada conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y sus Municipios y demás leyes aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos y del Juicio Político
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 130.
 
@@ -2069,13 +2073,13 @@ Para los efectos de las responsabilidades a que alude este título, se considera
 
 La Ley de Responsabilidades regulará sujetos, procedimientos y sanciones en la materia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 131.
 
 Los diputados de la Legislatura del Estado, los magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de lo Contencioso Administrativo, los titulares de las dependencias del Poder Ejecutivo y el Procurador General de Justicia son responsables de los delitos graves del orden común que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 132.
 
@@ -2083,7 +2087,7 @@ Tratándose de los delitos a que se refiere el artículo anterior, la Legislatur
 
 Contra las declaraciones y resoluciones de la Legislatura erigida en Gran Jurado no procede juicio o recurso alguno.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 133.
 
@@ -2091,41 +2095,41 @@ El Gobernador del Estado, cuando el caso lo amerite, podrá pedir a la Legislatu
 
 El Consejo de la Judicatura del Estado de México, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de los magistrados del Tribunal Superior de Justicia, en términos del procedimiento que al efecto determine la ley.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 134.
 
 Los servidores públicos condenados por delitos cometidos con motivo del desempeño de sus funciones públicas no gozarán del indulto por gracia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 135.
 
 Se concede acción popular para denunciar ante la Legislatura los delitos graves del orden común en que incurran los servidores públicos a que se refiere el artículo 131 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 136.
 
 En demandas del orden civil no hay fuero ni inmunidad para ningún servidor público.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO OCTAVO. Prevenciones Generales
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 137.
 
 Las autoridades del Estado y de los municipios, en la esfera de su competencia, acatarán sin reservas los mandatos de la Constitución Política de los Estados Unidos Mexicanos y cumplirán con las disposiciones de las leyes federales y de los tratados internacionales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 138.
 
 El Estado y los municipios tienen personalidad jurídica para ejercer derechos y asumir obligaciones en términos de ley.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 139.
 
@@ -2155,37 +2159,37 @@ e) Suscribir convenios con la Federación, los Estados y municipios limítrofes 
 
 f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a los planes metropolitanos, en los periódicos oficiales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 140.
 
 Las autoridades del Estado darán entera fe y crédito a los actos públicos, registros y procedimientos judiciales de las autoridades de las demás entidades de la Federación y tomarán las providencias necesarias para que causen los efectos que legalmente procedan en territorio de esta entidad.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 141.
 
 Ninguna autoridad que no emane de la Constitución y las leyes federales o de la Constitución y las leyes de la entidad podrá ejercer mando ni jurisdicción en el Estado.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 142.
 
 Ninguna autoridad podrá suspender la vigencia de las leyes, salvo por las causas previstas en esta Constitución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 143.
 
 Las autoridades del Estado sólo tienen las facultades que expresamente les confieren las leyes y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 144.
 
 Los servidores públicos del Estado y de los municipios por nombramiento o designación, al entrar a desempeñar sus cargos, rendirán protesta formal de cumplir con la Constitución General de la República, la particular del Estado y todas las leyes que de ambas emanen.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 145.
 
@@ -2193,7 +2197,7 @@ Nunca podrán reunirse en un solo individuo dos empleos o cargos públicos del E
 
 Ningún individuo podrá desempeñar dos cargos de elección popular, pero el electo podrá optar de entre ambos el que quiera desempeñar.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 146.
 
@@ -2221,25 +2225,25 @@ IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, 
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ## TITULO NOVENO. De la Permanencia de la Constitución
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO PRIMERO. De las Reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 148.
 
 La presente Constitución puede ser adicionada y reformada. Para que las adiciones o reformas lleguen a ser parte de ella se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de los diputados que la integran, acuerde tales reformas y adiciones y que éstas sean aprobadas por la mitad más uno de los ayuntamientos. La Legislatura o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. De la Inviolabilidad de la Constitución
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 149.
 
@@ -2295,31 +2299,31 @@ El Secretario General del Gobierno.
 
 Lic. ANDRES MOLINA ENRIQUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 26 DE OCTUBRE DE 1921.
 
-DECRETO NUMERO 3, POR EL QUE SE REFORMAN LOS ARTICULOS 54 Y 55, ASI COMO LAS FRACCIONES V Y VI DEL 89 DE LA CONSTITUCION POLITICA DEL ESTADO, DE 8 DE NOVIEMBRE DE 1917.
+DECRETO NÚMERO 3, POR EL QUE SE REFORMAN LOS ARTÍCULOS 54 Y 55, ASÍ COMO LAS FRACCIONES V Y VI DEL 89 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, DE 8 DE NOVIEMBRE DE 1917.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 26 DE OCTUBRE DE 1921.
-
-DECRETO NUMERO 4, POR EL QUE SE REFORMAN LOS ARTICULOS 89 FRACCIONES XXI Y XXII, 176, 222, 223, 225 Y 226 DE LA CONSTITUCION POLITICA DEL ESTADO.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 26 DE OCTUBRE DE 1921.
 
-DECRETO NUMERO 5, POR EL QUE SE REFORMA EL ARTICULO 181 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 4, POR EL QUE SE REFORMAN LOS ARTÍCULOS 89 FRACCIONES XXI Y XXII, 176, 222, 223, 225 Y 226 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 26 DE OCTUBRE DE 1921.
 
-DECRETO NUMERO 6, POR EL QUE SE REFORMA EL ARTICULO 181 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 5, POR EL QUE SE REFORMA EL ARTÍCULO 181 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 26 DE OCTUBRE DE 1921.
+
+DECRETO NÚMERO 6, POR EL QUE SE REFORMA EL ARTÍCULO 181 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 10 DE NOVIEMBRE DE 1923.
 
@@ -2337,15 +2341,15 @@ Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación, 
 
 G.G. 25 DE SEPTIEMBRE DE 1929.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 9 DE NOVIEMBRE DE 1935.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 6 DE SEPTIEMBRE DE 1939.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 9 DE SEPTIEMBRE DE 1939.
 
@@ -2361,13 +2365,13 @@ Artículo Tercero.- Estas reformas entrarán en vigor el día de su publicación
 
 G.G. 20 DE DICIEMBRE DE 1941.
 
-DECRETO NUMERO 70, POR EL QUE SE REFORMA EL ARTICULO 209 Y SE DEROGAN LOS ARTICULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+DECRETO NÚMERO 70, POR EL QUE SE REFORMA EL ARTÍCULO 209 Y SE DEROGAN LOS ARTÍCULOS 210, 211, 212, 213, 214 Y 215 DE LA CONSTITUCIÓN PARTICULAR DEL ESTADO.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 20 DE DICIEMBRE DE 1941.
 
-DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCION VIII, 115 Y 117, SE ADICIONAN LOS ARTICULOS 73 Y 89 DE LA CONSTITUCION PARTICULAR DEL ESTADO CON UNA FRACCION EL PRIMERO Y CON DOS EL SEGUNDO.
+DECRETO NÚMERO 73, POR EL QUE SE REFORMAN LOS ARTÍCULOS 70 FRACCIONES XI, XII, XIV Y XV, 104, 107, 109 FRACCIÓN VIII, 115 Y 117, SE ADICIONAN LOS ARTÍCULOS 73 Y 89 DE LA CONSTITUCIÓN PARTICULAR DEL ESTADO CON UNA FRACCIÓN EL PRIMERO Y CON DOS EL SEGUNDO.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
@@ -2383,19 +2387,19 @@ Estas reformas y adiciones entrarán en vigor el día de su publicación en la "
 
 G.G. 2 DE OCTUBRE DE 1943.
 
-DECRETO NUMERO 1, POR EL QUE SE REFORMA LA CONSTITUCION POLITICA DEL ESTADO DE MEXICO EN SU ARTICULO 140.
+DECRETO NÚMERO 1, POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MÉXICO EN SU ARTÍCULO 140.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 2 DE OCTUBRE DE 1943.
 
-DECRETO NUMERO 2, POR EL QUE SE DEROGA LA FRACCION X DEL ARTICULO 109, SE ABROGA EL ARTICULO PRIMERO DEL DECRETO NUMERO 59 DE 18 DE OCTUBRE DE 1941, EN LA PARTE QUE DEROGO LA FRACCION XVI AL ARTICULO 70 Y LA VII DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 2, POR EL QUE SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 109, SE ABROGA EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 59 DE 18 DE OCTUBRE DE 1941, EN LA PARTE QUE DEROGÓ LA FRACCIÓN XVI AL ARTÍCULO 70 Y LA VII DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
 G.G. 8 DE ENERO DE 1944.
 
-DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
+DECRETO NÚMERO 30, POR EL QUE SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 89 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2403,7 +2407,7 @@ Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobi
 
 G.G. 8 DE ENERO DE 1944.
 
-DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚMERO 31, POR EL QUE SE REFORMAN LOS ARTÍCULOS 40 FRACCIÓN VI, 88 FRACCIÓN V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCIÓN SEGUNDA CAPÍTULO SEGUNDO, TÍTULO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### Art. 1o.
 
@@ -2417,181 +2421,181 @@ Se derogan todas las Leyes y disposiciones que se opongan a las reformas de los 
 
 Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamiento de la Dirección General de Hacienda.
 
-P.O. 8 DE ENERO DE 1944
+G.G. 8 DE ENERO DE 1944.
 
-DECRETO No. 32
+DECRETO NÚMERO 32, POR EL QUE SE REFORMAN LOS ARTÍCULOS 101 Y 104, ACTUALMENTE VIGENTES DE LA CONSTITUCIÓN PARTICULAR DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor en la fecha de su publicación en la "Gaceta del Gobierno".
 
-P.O. 26 DE AGOSTO DE 1944
+G.G. 26 DE AGOSTO DE 1944.
 
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-P.O. 28 DE ABRIL DE 1945
+G.G. 28 DE ABRIL DE 1945.
 
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-P.O. 5 DE SEPTIEMBRE DE 1945
+G.G. 5 DE SEPTIEMBRE DE 1945.
 
-DECRETO No. 98
+DECRETO NÚMERO 98, POR EL QUE SE REFORMA EL ARTÍCULO 135 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
-P.O. 5 DE SEPTIEMBRE DE 1945
+G.G. 5 DE SEPTIEMBRE DE 1945.
 
-DECRETO No. 99
+DECRETO NÚMERO 99, POR EL QUE SE REFORMAN LOS ARTÍCULOS 70 FRACCIÓN XI Y 115 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-P.O. 17 DE OCTUBRE DE 1945
+G.G. 17 DE OCTUBRE DE 1945.
 
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-P.O. 20 DE ABRIL DE 1946
+G.G. 20 DE ABRIL DE 1946.
 
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-P.O. 31 DE DICIEMBRE DE 1947
+G.G. 31 DE DICIEMBRE DE 1947
 
-DECRETO No. 11
+DECRETO NÚMERO 11, POR EL QUE SE REFORMA EL ARTÍCULO 159 REFORMADO, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
 
-P.O. 31 DE DICIEMBRE DE 1947
+G.G. 31 DE DICIEMBRE DE 1947.
 
-DECRETO No. 12
+DECRETO NÚMERO 12, POR EL QUE SE MODIFICAN LOS ARTÍCULOS 71, 72, 101, 102 FRACCIÓN II, III, 158, 218 FRACCIÓN III, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 218 DE LA CONSTITUCIÓN PARTICULAR DEL ESTADO.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
-P.O. 15 DE SEPTIEMBRE DE 1948
+G.G. 15 DE SEPTIEMBRE DE 1948.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
-P.O. 4 DE ENERO DE 1950
+G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno", y el período de cuatro años a que se refiere el artículo 44 surtirá efectos a partir de la renovación de la actual H. XXXVII Legislatura Local.
 
-P.O. 17 DE FEBRERO DE 1951
+G.G. 17 DE FEBRERO DE 1951.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor en la fecha de su publicación en la "Gaceta del Gobierno", y el período de tres años a que se refiere la reforma del artículo 44 de la Constitución Local, surtirá efectos a partir de la renovación de la actual Legislatura.
 
-P.O. 28 DE JULIO DE 1951
+G.G. 28 DE JULIO DE 1951.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
 
-P.O. 1 DE ENERO DE 1955
+G.G. 1 DE ENERO DE 1955.
 
-N. DE E., EN TERMINOS DEL ARTICULO TERCERO DEL DECRETO NUMERO 20, PUBLICADO EN EL P.O. EL 1 DE ENERO DE 1955, SE DEROGAN LAS DISPOSICIONES TRANSITORIAS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+N. DE E., EN TÉRMINOS DEL ARTÍCULO TERCERO DEL DECRETO NÚMERO 20, PUBLICADO EN LA G.G. EL 1 DE ENERO DE 1955, SE DEROGAN LAS DISPOSICIONES TRANSITORIAS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO PRIMERO.
 
 Los Magistrados Supernumerarios, que sean designados el primero de enero de mil novecientos cincuenta y cinco, de acuerdo con lo dispuesto por el Artículo 101 de esta Constitución, ejercerán su cargo solamente por el propio año de mil novecientos cincuenta y cinco.
 
-P.O. 27 DE AGOSTO DE 1966
+G.G. 27 DE AGOSTO DE 1966.
 
 Artículo Primero.- La disposición del Artículo 160 en cuanto al requisito de que los Jueces Menores de las Cabeceras Distritales y de los Municipios de Naucalpan y Netzahualcóyotl, sean Abogados y Pasantes de Derecho, operará en la medida en que las circunstancias de cada lugar lo permitan.
 
 Artículo Segundo.- Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-P.O. 8 DE JULIO DE 1967
+G.G. 8 DE JULIO DE 1967.
 
 Artículo Transitorio.- Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno" del Estado.
 
-P.O. 18 DE DICIEMBRE DE 1968
+G.G. 18 DE DICIEMBRE DE 1968.
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-P.O. 30 DE DICIEMBRE DE 1970
+G.G. 30 DE DICIEMBRE DE 1970.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-P.O. 28 DE AGOSTO DE 1971
+G.G. 28 DE AGOSTO DE 1971.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
 SEGUNDO.- El informe sobre el estado que guarda la Administración Pública que debería rendir el Ejecutivo del Estado el día 5 de septiembre del año en curso, lo rendirá el 20 de enero próximo.
 
-P.O. 29 DE DICIEMBRE DE 1971
+G.G. 29 DE DICIEMBRE DE 1971.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
-P.O. 8 DE ENERO DE 1972
+G.G. 8 DE ENERO DE 1972.
 
 ###### ARTICULO TERCERO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
 
-P.O. 16 DE DICIEMBRE DE 1972
+G.G. 16 DE DICIEMBRE DE 1972.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en la "Gaceta del Gobierno" del Estado.
 
-P.O. 31 DE ENERO DE 1973
+G.G. 31 DE ENERO DE 1973.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 4 DE JULIO DE 1973
+G.G. 4 DE JULIO DE 1973.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 2 DE FEBRERO DE 1974
+G.G. 2 DE FEBRERO DE 1974.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 30 DE ENERO DE 1975
+G.G. 30 DE ENERO DE 1975.
 
-###### ARTÍCULO 1º.
+###### ARTICULO 1o.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
-###### ARTICULO 2º.
+###### ARTICULO 2o.
 
 Los Magistrados del Tribunal Superior de Justicia actualmente en funciones quedarán sujetos a la inamovilidad a que se contraen las presentes reformas; para el efecto, el C. Gobernador del Estado hará las modificaciones conducentes en los nombramientos hechos a favor de aquéllos y aprobados por esta Legislatura.
 
-###### ARTICULO 3º.
+###### ARTICULO 3o.
 
 Los Jueces de Primera Instancia quedarán sujetos a inamovilidad a partir de los nombramientos que se hagan con posterioridad al término del actual período constitucional, que concluye el 31 de diciembre de 1975.
 
-###### ARTICULO 4º.
+###### ARTICULO 4o.
 
 En lo relativo a las faltas absolutas, temporales o accidentales, nombramientos y renuncias de Jueces, en el período comprendido de la fecha en que entren en vigor estas reformas hasta el 31 de diciembre de 1975 se sujetará a lo establecido por las disposiciones derogadas, en lo conducente.
 
-###### ARTICULO 5º.
+###### ARTICULO 5o.
 
 Las Salas de nueva creación del Tribunal Superior de Justicia del Estado de México, empezarán a funcionar el día 15 de febrero del presente año, y para el efecto el Ciudadano Gobernador del Estado proveerá lo conducente.
 
-P.O. 15 DE ABRIL DE 1975
+G.G. 15 DE ABRIL DE 1975.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 31 DE ENERO DE 1976
+G.G. 31 DE ENERO DE 1976.
 
-DECRETO NUMERO 36
+DECRETO NÚMERO 36, POR EL QUE SE REFORMAN LOS ARTÍCULOS 101 Y 115 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2601,45 +2605,45 @@ Este Decreto será aplicable solamente a los nombramientos de Magistrados del H.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 31 DE ENERO DE 1976
+G.G. 31 DE ENERO DE 1976.
 
-DECRETO NUMERO 38
+DECRETO NÚMERO 38, POR EL QUE SE REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 9 MARZO DE 1976
+G.G. 9 MARZO DE 1976.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
-P.O. 23 DE JULIO DE 1977
+G.G. 23 DE JULIO DE 1977.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor a los 5 días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 11 DE MARZO DE 1978
+G.G. 11 DE MARZO DE 1978.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno del Estado".
 
-P.O. 20 DE JULIO DE 1978
+G.G. 20 DE JULIO DE 1978.
 
 ###### ARTICULO UNICO.
 
 Las presentes adiciones y reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 28 DE JUNIO DE 1979.
+G.G. 28 DE JUNIO DE 1979.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 4 DE ABRIL DE 1981
+G.G. 4 DE ABRIL DE 1981.
 
 ###### ARTICULO PRIMERO.
 
@@ -2653,19 +2657,19 @@ Los Jueces Menores Municipales en funciones, seguirán conociendo de los asuntos
 
 Los asuntos en trámite ante los Jueces Populares serán del conocimiento del Juez Menor Municipal que corresponda, según su adscripción.
 
-P.O. 17 DE SEPTIEMBRE DE 1981
+G.G. 17 DE SEPTIEMBRE DE 1981.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 9 DE ENERO DE 1982
+G.G. 9 DE ENERO DE 1982.
 
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 13 DE MARZO DE 1982
+G.G. 13 DE MARZO DE 1982.
 
 ###### ARTICULO PRIMERO.
 
@@ -2679,35 +2683,35 @@ El Ejecutivo del Estado, deberá en su oportunidad, expedir nombramiento de Magi
 
 La Sala de nueva creación del Tribunal Superior de Justicia del Estado, empezará a funcionar cuando lo determine el Pleno del propio Tribunal.
 
-P.O. 14 DE DICIEMBRE DE 1982
+G.G. 14 DE DICIEMBRE DE 1982.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno del Estado.
 
-P.O. 19 DE DICIEMBRE DE 1983
+G.G. 19 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
 
-P.O. 28 DE FEBRERO DE 1984
+G.G. 28 DE FEBRERO DE 1984.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaseta (sic) del Gobierno" del Estado.
 
-P.O. 8 DE MARZO DE 1984
+G.G. 8 DE MARZO DE 1984.
 
-DECRETO No. 233
+DECRETO NÚMERO 233, POR EL QUE SE REFORMAN LOS ARTÍCULOS 38 EN SU PRIMER PÁRRAFO Y SU FRACCIÓN I; Y EL 45 EN SU PRIMER PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 8 DE MARZO DE 1984
+G.G. 8 DE MARZO DE 1984.
 
-DECRETO No. 234
+DECRETO NÚMERO 234, POR EL QUE SE REFORMAN LOS ARTÍCULOS 48 Y 70 FRACCIÓN IX EN SU SEGUNDO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2717,69 +2721,67 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 El período de la actual Legislatura concluirá el día cuatro de diciembre de mil novecientos ochenta y cuatro.
 
-P.O. 30 DE ABRIL DE 1984
-
-DECRETO No. 244
+G.G. 30 DE ABRIL DE 1984.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno del Estado".
 
-P.O. 14 DE NOVIEMBRE DE 1984
+G.G. 14 DE NOVIEMBRE DE 1984.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 31 DE DICIEMBRE DE 1985
+G.G. 31 DE DICIEMBRE DE 1985.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 31 DE DICIEMBRE DE 1986
+G.G. 31 DE DICIEMBRE DE 1986.
 
 ###### ARTICULO UNICO.
 
 Publíquese el presente Decreto en la "Gaceta del Gobierno" del Estado, el cual entrará en vigor el día 1° de Enero de 1987.
 
-P.O. 20 DE OCTUBRE DE 1988
+G.G. 20 DE OCTUBRE DE 1988.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 20 DE FEBRERO DE 1989
+G.G. 20 DE FEBRERO DE 1989.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 28 DE JUNIO DE 1990
+G.G. 28 DE JUNIO DE 1990.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
-P.O. 1 DE DICIEMBRE DE 1990
+G.G. 1 DE DICIEMBRE DE 1990.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
 
-P.O. 19 DE MARZO DE 1992
+G.G. 19 DE MARZO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 21 DE ABRIL DE 1992
+G.G. 21 DE ABRIL DE 1992.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno del Estado.
 
-P.O. 11 DE SEPTIEMBRE DE 1992
+G.G. 11 DE SEPTIEMBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-P.O. 29 DE ENERO DE 1993
+G.G. 29 DE ENERO DE 1993.
 
 ###### ARTICULO PRIMERO.
 
@@ -2789,19 +2791,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Para los efectos previstos por el Artículo 38 que se reforma, de la Constitución Política del Estado, el plazo a que se refiere el artículo 63, fracción VII de la Ley de Organizaciones Políticas y Procesos Electorales del Estado de México, se extenderá por esta única vez hasta treinta días naturales posteriores al inicio de la vigencia de este Decreto.
 
-P.O. 5 DE ENERO DE 1994
+G.G. 5 DE ENERO DE 1994.
 
 PRIMERO.- Publíquese el presente Decreto en la "Gaceta el Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 1 DE FEBRERO DE 1994
+G.G. 1 DE FEBRERO DE 1994.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
 
-P.O. 27 DE FEBRERO DE 1995
+G.G. 27 DE FEBRERO DE 1995.
 
 PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
 
@@ -2835,23 +2837,7 @@ DÉCIMO CUARTO.- En tanto se expide la Ley Reglamentaria del artículo 61 fracci
 
 DÉCIMO QUINTO.- Los actos y procedimientos que con base en las disposiciones de la Constitución que se reforma, se encuentren en trámite concluirán de conformidad con ésta.
 
-P.O. 27 DE NOVIEMBRE DE 1997
-
-###### ARTÍCULO PRIMERO.
-
-Publíquese el presente decreto en la "Gaceta del Gobierno"
-
-###### ARTÍCULO SEGUNDO.
-
-Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno"
-
-G.G. 6 DE ABRIL DE 1998.
-
-PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
-
-SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
-
-P.O. 2 DE OCTUBRE DE 1998
+G.G. 27 DE NOVIEMBRE DE 1997.
 
 ###### ARTICULO PRIMERO.
 
@@ -2859,13 +2845,29 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 ###### ARTICULO SEGUNDO.
 
-Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno"
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-###### ARTÍCULO TERCERO.
+G.G. 6 DE ABRIL DE 1998.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 2 DE OCTUBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
 
 A efecto de dar cumplimiento al artículo 11, la Legislatura tomará los acuerdos correspondientes, a más tardar el día 30 de noviembre de 1998.
 
-P.O. 26 DE NOVIEMBRE DE 1998
+G.G. 26 DE NOVIEMBRE DE 1998.
 
 ###### ARTICULO PRIMERO.
 
@@ -2875,7 +2877,7 @@ Publíquese en la "Gaceta del Gobierno".
 
 Este decreto entrará en vigor al día siguiente de su publicación.
 
-P.O. 16 DE MAYO DE 2001
+G.G. 16 DE MAYO DE 2001.
 
 ###### ARTICULO PRIMERO.
 
@@ -2889,13 +2891,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 
 En tanto se expiden o adecuan las leyes secundarias correspondientes, se estará a lo dispuesto en los artículos tercero y cuarto transitorios del decreto expedido por el Congreso General de los Estados Unidos Mexicanos que declara reformado y adicionado el artículo 115 constitucional, publicado en Diario Oficial de la Federación el 23 de diciembre de 1999 y esta Constitución.
 
-P.O. 11 DE JUNIO DEL 2001
+G.G. 11 DE JUNIO DEL 2001.
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 16 DE ABRIL DE 2003
+G.G. 16 DE ABRIL DE 2003.
 
 ###### ARTICULO PRIMERO.
 
@@ -2905,13 +2907,13 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 1 DE AGOSTO DE 2003
+G.G. 1 DE AGOSTO DE 2003.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-P.O. 1 DE SEPTIEMBRE DE 2003
+G.G. 1 DE SEPTIEMBRE DE 2003
 
 PRIMERO.- Para los fines de integralidad y congruencia, la Legislatura del Estado efectuará las adecuaciones y reformas derivadas del presente a la Ley Orgánica Municipal del Estado de México, Código Administrativo del Estado de México, Ley de Planeación del Estado y Municipios y su Reglamento, Código Financiero del Estado de México y Municipios, Ley Orgánica de la Administración Pública del Estado de México y Ley Orgánica para la Contaduría General de Glosa del Poder Legislativo del Estado de México.
 
@@ -2919,7 +2921,7 @@ SEGUNDO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 
 TERCERO.- Este decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-P.O. 2 DE DICIEMBRE DE 2003.
+G.G. 2 DE DICIEMBRE DE 2003.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -2927,7 +2929,7 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 G.G. 30 DE ABRIL DE 2004.
 
-DECRETO NUMERO 44, POR EL QUE SE ADICIONA CON DOS PARRAFOS EL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 44, POR EL QUE SE ADICIONA CON DOS PÁRRAFOS EL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2939,7 +2941,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 G.G. 30 DE ABRIL DE 2004.
 
-DECRETO NUMERO 45, POR EL QUE SE REFORMAN LOS ARTICULOS 50 Y 52 EN SU TERCER PARRAFO, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 45, POR EL QUE SE REFORMAN LOS ARTÍCULOS 50 Y 52 EN SU TERCER PÁRRAFO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -2947,7 +2949,7 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 
 TERCERO.- Cuando en otros ordenamientos legales, reglamentarios y demás disposiciones, se señalen funciones y atribuciones de "la Gran Comisión", o se haga referencia a la misma, se entenderá que corresponden a "la Junta de Coordinación Política".
 
-P.O. 12 DE JULIO DE 2004.
+G.G. 12 DE JULIO DE 2004.
 
 PRIMERO.- Publíquese el presente decreto en el periódico Oficial "Gaceta del Gobierno".
 
@@ -2969,25 +2971,25 @@ CUARTO.- Cuando en algún ordenamiento legal se haga referencia a la Contaduría
 
 QUINTO.- En tanto no se nombre al Auditor Superior de Fiscalización, el Contador General de Glosa será el titular del Órgano Superior de Fiscalización de manera provisional.
 
-P.O. 30 DE MAYO DE 2005.
+G.G. 30 DE MAYO DE 2005.
 
 PRIMERO.- Publíquese este decreto en el periódico oficial "Gaceta del Gobierno".
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 18 DE NOVIEMBRE DE 2005)</small>
 
 SEGUNDO.- El presente decreto entrará en vigor el día primero de marzo del año dos mil seis.
 
-P.O. 20 DE SEPTIEMBRE DE 2005.
+G.G. 20 DE SEPTIEMBRE DE 2005.
 
-DECRETO No. 163, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PARRAFOS AL ARTICULOS 5 DE LA CONSTITUCION.
+DECRETO NÚMERO 163, POR EL QUE SE ADICIONAN UN SEGUNDO Y UN TERCER PÁRRAFOS, RECORRIÉNDOSE LOS ACTUALES PARA SER CUARTO Y QUINTO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
-P.O. 20 DE SEPTIEMBRE DE 2005.
+G.G. 20 DE SEPTIEMBRE DE 2005.
 
-DECRETO No. 164, POR EL QUE SE REFORMAN LOS ARTICULOS 100 Y 103 DE LA CONSTITUCION.
+DECRETO NÚMERO 164, POR EL QUE SE REFORMAN LOS ARTÍCULOS 100 Y 103 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -3011,7 +3013,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
 
-P.O. 28 DE ABRIL DE 2006.
+G.G. 28 DE ABRIL DE 2006.
 
 ###### ARTICULO PRIMERO.
 
@@ -3023,7 +3025,7 @@ El presente decreto entrará en vigor el día de su publicación en el Periódic
 
 G.G. 22 DE JUNIO DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
 
 G.G. 16 DE AGOSTO DE 2006.
 
@@ -3225,7 +3227,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 13 DE ABRIL DE 2010.
 
-DECRETO No. 74, POR EL QUE SE REFORMA EL ARTICULO 126 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 74, POR EL QUE SE REFORMA EL ARTÍCULO 126 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3241,7 +3243,7 @@ Dentro del plazo de ciento ochenta días naturales posteriores al de la entrada 
 
 G.G. 13 DE ABRIL DE 2010.
 
-DECRETO No. 75, POR EL QUE SE REFORMA EL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 75, POR EL QUE SE REFORMA EL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3291,7 +3293,7 @@ c) Los incrementos a las retribuciones nominales o adicionales sólo podrán rea
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 123, POR EL QUE SE ADICIONA EL PARRAFO DECIMO PRIMERO RECORRIENDOSE LOS SUBSECUENTES AL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 123, POR EL QUE SE ADICIONA EL PÁRRAFO DÉCIMO PRIMERO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3305,7 +3307,7 @@ CUARTO.- El Ejecutivo presentará en un plazo de 60 días contado a partir de qu
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 124, POR EL QUE SE ADICIONAN TRES PARRAFOS AL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 124, POR EL QUE SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3315,7 +3317,7 @@ TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 125, POR EL QUE SE REFORMA EL ARTICULO 52 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 125, POR EL QUE SE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3325,7 +3327,7 @@ TERCERO.- La Legislatura del Estado de México, adecuará las leyes necesarias p
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 126, POR EL QUE SE ADICIONA EL PARRAFO QUINTO Y SE RECORREN LOS SUBSECUENTES DE LA FRACCION XXX DEL ARTICULO 61 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 126, POR EL QUE SE ADICIONA EL PÁRRAFO QUINTO Y SE RECORREN LOS SUBSECUENTES DE LA FRACCIÓN XXX DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3335,7 +3337,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 127, POR EL QUE SE ADICIONAN LOS PARRAFOS SEGUNDO Y TERCERO Y SE RECORREN LOS SUBSECUENTES DE LA FRACCION XXX Y SE ADICIONAN DOS PARRAFOS A LA FRACCION XXXI DEL ARTICULO 61 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 127, POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y SE RECORREN LOS SUBSECUENTES DE LA FRACCIÓN XXX Y SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN XXXI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3345,7 +3347,7 @@ TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se 
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 128, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 128, POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3353,7 +3355,7 @@ SEGUNDO.- El presente decreto entrará en vigor en el primero de enero del año 
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 129, POR EL QUE SE REFORMA LAS FRACCIONES XI Y XII Y SE ADICIONA LA FRACCION XIII DEL ARTICULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 129, POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3363,7 +3365,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 130, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 129 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 130, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 129 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3371,7 +3373,7 @@ SEGUNDO.- El presente Decreto, entrara en vigor a los sesenta días naturales si
 
 G.G. 31 DE AGOSTO DE 2010.
 
-DECRETO NUMERO 131, POR EL QUE SE REFORMA LA FRACCION I DEL ARTICULO 139 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 131, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 139 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3391,7 +3393,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 6 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 152, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 152, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3409,7 +3411,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 21 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 164, POR EL QUE SE REFORMA EL PARRAFO DECIMO CUARTO DEL ARTICULO 12 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 164, POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO CUARTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3419,7 +3421,7 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 
 G.G. 21 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 165, POR EL QUE SE REFORMA EL PARRAFO TERCERO Y SE DEROGAN LOS PARRAFOS QUINTO Y SEPTIMO DEL ARTICULO 12 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 165, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE DEROGAN LOS PÁRRAFOS QUINTO Y SÉPTIMO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3437,7 +3439,7 @@ TERCERO.- El Ejecutivo del Estado, a través de la dependencia correspondiente, 
 
 G.G. 24 DE FEBRERO DE 2011.
 
-DECRETO NO. 259, POR EL QUE SE REFORMA LA DENOMINACION DE LA SECCION TERCERA DEL MINISTERIO PUBLICO DEL CAPITULO TERCERO, DEL PODER EJECUTIVO DEL TITULO CUARTO DEL PODER PUBLICO DEL ESTADO Y SE ADICIONA EL ARTICULO 86 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 259, POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN TERCERA DEL MINISTERIO PÚBLICO DEL CAPÍTULO TERCERO, DEL PODER EJECUTIVO DEL TÍTULO CUARTO DEL PODER PÚBLICO DEL ESTADO Y SE ADICIONA EL ARTÍCULO 86 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3449,7 +3451,7 @@ CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 24 DE FEBRERO DE 2011.
 
-DECRETO NO. 260, POR EL QUE SE ADICIONA UN PARRAFO DECIMO SEXTO AL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 260, POR EL QUE SE ADICIONA UN PÁRRAFO DÉCIMO SEXTO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3457,7 +3459,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 24 DE FEBRERO DE 2011.
 
-DECRETO NO. 261, POR LO QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 17 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 261, POR LO QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -3499,7 +3501,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 G.G. 6 DE DICIEMBRE DE 2011.
 
-DECRETO NUMERO 386, POR EL QUE SE REFORMA LA FRACCION IV DEL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 386, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTICULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3507,7 +3509,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 6 DE DICIEMBRE DE 2011.
 
-DECRETO NUMERO 387, POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 387, POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -3518,3 +3520,9 @@ G.G. 16 DE DICIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno".
+
+G.G. 13 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
