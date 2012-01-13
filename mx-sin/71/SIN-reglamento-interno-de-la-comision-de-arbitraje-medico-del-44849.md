@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interno-de-la-comision-de-arbitraje-medico-del-44849
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-18"
-last_updated: "2005-05-18"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERNO DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE SINALOA
+REGLAMENTO INTERNO DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 18 de mayo de 2005.
 
@@ -81,7 +81,9 @@ III. Dirección de la Unidad de Arbitraje;
 
 IV. Dirección de la Unidad de Coordinación Municipal;
 
-V. Jefatura Jurídica;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+V. Dirección Jurídica;
 
 VI. Jefatura Médica;
 
@@ -375,9 +377,11 @@ VI. Establecer mecanismos de comunicación con las instancias municipales vincul
 
 VII. Las demás que acuerde el Presidente para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde a la Jefatura Jurídica el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Jurídica, el ejercicio de las siguientes atribuciones:
 
 I. Participar de manera conjunta con el Presidente y Secretario en los procedimientos Administrativos y/o Jurisdiccionales en los que la CAMES sea parte o se le designe como tal;
 
@@ -466,3 +470,11 @@ CONSEJERO DE LA C.A.M.E.S
 DR. EFRÉN GALLARDO ANGULO
 
 CONSEJERO DE LA C.A.M.E.S.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ENERO DE 2012.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
