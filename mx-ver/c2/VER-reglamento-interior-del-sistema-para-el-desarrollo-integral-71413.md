@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-sistema-para-el-desarrollo-integral-714
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-04"
-last_updated: "2010-01-04"
+last_updated: "2012-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 13 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADO.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 4 de enero de 2010.
 
@@ -876,3 +878,19 @@ Licenciado Salvador Sánchez Estrada, Presidente de la Junta de Gobierno del Sis
 Vocales de la Junta de Gobierno:
 
 Licenciado Reynaldo Gaudencio Escobar Pérez, Secretario de Gobierno.- Rúbrica. Licenciado Salvador Mikel Rivera, Procurador General de Justicia.- Rúbrica. Doctor Manuel Lila de Arce, Secretario de Salud.- Rúbrica. Doctor Víctor Adolfo Arredondo Álvarez, Secretario de Educación de Veracruz.- Rúbrica. Doctor Carlos García Méndez, Secretario de Desarrollo Económico y Portuario.- Rúbrica. Licenciado Américo Zúñiga Martínez, Secretario del Trabajo, Previsión Social y Productividad.- Rúbrica. Profesora Xóchitl Adela Osorio Martínez, Subsecretaria de Educación Básica.- Rúbrica. Licenciado Rafael Ortiz Castañeda, Subsecretario de Educación Media Superior y Superior.- Rúbrica. Doctor Luis Fernando Antiga Tinoco, Director de Servicios de Salud.- Rúbrica. Licenciado Carlos Gustavo Delgadillo Pérez, Director de Asuntos Jurídicos de la Contraloría General.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. DE 13 DE ENERO DE 2012.
+
+Primero. Para los asuntos no previstos en la Ley o en el presente Reglamento, se sujetarán a lo que al efecto establezca la Dirección General y la Junta de Gobierno.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Tercero. Se deroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia publicado en (sic) Gaceta Oficial del Estado de Veracruz número extraordinario 3 de fecha 04 de enero del año 2010 y se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto. Túrnese a la Contraloría General del Estado de Veracruz para efectos del registro del presente ordenamiento de acuerdo a lo establecido en el artículo 34 fracción XIV de la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz.
+
+Quinto. Se establece un término de 180 días, para actualizar y publicar los manuales administrativos de las áreas que integran el Sistema para el Desarrollo Integral de la Familia del Estado de Veracruz.
+
+Sexto. Que en la Segunda Sesión Ordinaria del ejercicio 2011 de la Junta de Gobierno, celebrada el 29 de noviembre de 2011, fue presentado y aprobado el presente ordenamiento, mediante Acuerdo JG-020/2/11-O.
