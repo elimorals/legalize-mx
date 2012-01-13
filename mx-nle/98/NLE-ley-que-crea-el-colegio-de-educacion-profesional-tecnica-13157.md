@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-colegio-de-educacion-profesional-tecnica-13157"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-30"
-last_updated: "2010-12-24"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE CREA EL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE NUEVO LEON
 
-LEY QUE CREA EL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE NUEVO LEON
+LEY QUE CREA EL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 30 de diciembre de 1998.
 
@@ -43,6 +43,10 @@ LEY QUE CREA EL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE NUEVO L
 
 Se crea el Colegio de Educación Profesional Técnica del Estado de Nuevo León como Organismo Público Descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Educación, para que contribuya, en el marco del Sistema Educativo del Estado y del Sistema Nacional de Colegios de Educación Profesional Técnica, a la prestación de servicios educativos de nivel medio superior en el área técnica.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2012)</small>
+
+El Colegio tendrá por objeto la impartición de educación profesional técnica con la finalidad de satisfacer la demanda de personal técnico calificado para el sistema productivo del Estado, así como educación de bachillerato dentro del tipo medio superior a fin de que los estudiantes puedan continuar con otro tipo de estudios.
+
 ###### Artículo 2.
 
 Para los efectos de esta Ley se entenderá por:
@@ -59,23 +63,31 @@ SERVICIOS DE EDUCACIÓN PROFESIONAL TÉCNICA. Educación Profesional Técnica a 
 
 SISTEMA. Sistema Nacional de Colegios de Educación Profesional Técnica.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 3.
 
-El domicilio del CONALEPNL estará en la Ciudad de Monterrey, pudiendo establecer planteles en cualquier municipio o localidad.
+El domicilio del CONALEPNL estará en la Ciudad de Monterrey o en su zona conurbada, pudiendo establecer planteles en cualquier municipio o localidad.
 
 ###### Artículo 4.
 
-El CONALEPNL tendrá por objeto contribuir al desarrollo estatal mediante la formación de recursos humanos calificados, conforme a los requerimientos y necesidades del sector productivo y de la superación profesional de los sujetos participantes.
+(DEROGADO, P.O. 13 DE ENERO DE 2012)
 
 ###### Artículo 5.
 
 El CONALEPNL tendrá las siguientes facultades:
 
-I. Prestar servicios de educación profesional técnica y de capacitación;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
 
-II. Coordinar y supervisar la impartición de la educación profesional técnica. así como la prestación de los servicios de capacitación y los tecnológicos que realicen los planteles a su cargo, así como los servicios de apoyo y atención a la comunidad;
+I. Prestar servicios de educación profesional técnica, técnico-bachiller y de capacitación;
 
-III. Participar en la definición de la oferta de los servicios de educación profesional técnica, de capacitación y tecnológicos, así como de apoyo y atención a la comunidad;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+II. Coordinar y supervisar la impartición de la educación profesional técnica, técnico-bachiller, así como la prestación de los servicios de capacitación y los tecnológicos que realicen los planteles;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+III. Participar en la definición de la oferta de los servicios de educación profesional técnica, técnico-bachiller, de capacitación y tecnológicos, así como de apoyo y atención a la comunidad;
 
 IV. Realizar, conjuntamente con el CONALEP, la planeación de mediano y largo plazo del desarrollo institucional;
 
@@ -107,7 +119,9 @@ XVII. Coordinar y supervisar que las adquisiciones de bienes y servicios se haga
 
 XVIII. Brindar asesoría y apoyo legal y administrativo a los planteles;
 
-XIX. Aplicar las políticas y normas de promoción y difusión estatal de los servicios de educación profesional técnica, de capacitación y tecnológicos, así como de atención y apoyo a la comunidad;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XIX. Impulsar programas de promoción de la oferta educativa profesional técnica, técnica bachiller y de los servicios de capacitación y asistencia tecnológica para apoyar el desarrollo industrial y de servicios en nuestra planta productiva, así como de apoyo y atención a la comunidad;
 
 XX. Promover y desarrollar actividades culturales, recreativas y deportivas que coadyuven al desarrollo integral y armónico del educando y capacitando, en beneficio de la comunidad de los planteles bajo su coordinación y de la sociedad en general;
 
@@ -115,9 +129,33 @@ XXI. Supervisar la custodia, uso y destino de los bienes muebles e inmuebles de 
 
 XXII. Verificar la aplicación de la normatividad correspondiente en los planteles de su competencia;
 
-XXIII. Impulsar y supervisar en los planteles, los lineamientos y estándares de calidad establecidos; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
 
-XXIV. Las demás que sean afines a su naturaleza o que se deriven de otras disposiciones legales.
+XXIII. Impulsar y supervisar en los planteles, los lineamientos y estándares de calidad establecidos;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXIV. Promover infraestructura e investigación científica y tecnológica a fin de impulsar la innovación educativa que asegure el avance profesional de educadores y educandos que fortalezca la vinculación con el aparato productivo y las instituciones de educación del Estado de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXV. Realizar actividades de carácter técnico industrial que se vinculen con el sistema productivo del Estado de bienes y servicios mediante la interacción con los sectores público, social y privado;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXVI. Desarrollar estudios de prospección, evaluación e innovación educativa;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXVII. Promover y desarrollar programas de intercambio científico y tecnológico con organismos e instituciones nacionales e internacionales;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXVIII. Prestar los servicios, de acuerdo con su objeto, de capacitación y evaluación con fines de certificación de competencias laborales y de servicios técnicos; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+
+XXIX. Las demás que sean afines a su naturaleza o que se deriven de otras disposiciones legales.
 
 ### CAPÍTULO II. DEL PATRIMONIO
 
@@ -263,7 +301,9 @@ Cada plantel será administrado por un director, quien será designado por la Ju
 
 Los planteles coadyuvarán para el cumplimiento del objeto del CONALEPNL, mediante la realización de las siguientes actividades:
 
-I. Impartir educación profesional técnica y prestar directamente los servicios de capacitación;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2012)</small>
+
+I. Impartir educación profesional técnica, técnico-bachiller y prestar directamente los servicios de capacitación;
 
 II. Operar los servicios de atención a la comunidad;
 
@@ -352,3 +392,7 @@ LIC.JOSE MARTINEZ GONZALEZ
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
