@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2010-10-15"
+last_updated: "2012-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEON
+REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -453,23 +453,31 @@ II. Juicios Especiales de Arrendamiento; e,
 
 III. Informaciones de Dominio.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 39.
 
-Competencia de las Salas Colegiadas Penales. Las Salas Colegiadas Penales conocerán de las apelaciones contra sentencias definitivas derivadas de los delitos que a continuación se precisan:
+Competencia de las Salas Colegiadas Penales. Las Salas Colegiadas Penales conocerán de los recursos siguientes:
 
-I. Delitos cometidos contra la seguridad interior del Estado y contra la seguridad pública, tipificados, sancionados y regulados en los artículos 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 161 Bis, 161 Bis 2, 162, 163, 164, 165, 165 Bis, y 176, del Código Penal del Estado.
+a) De las apelaciones contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
 
-II. Delitos cometidos por servidores públicos, tipificados, sancionados y regulados en los artículos 207 Bis, 208, 209, 210, 211, 212, 213, 214, 214 Bis, 215, 216, 216 Bis, 217, 218, 219, 219 Bis, 220, 221, 222, 222 Bis, 223, 224, 224 Bis, 225, 225 Bis, 226, 226 Bis, 226 Bis I, y 226 Bis II, del Código Penal del Estado.
+I. Delitos cometidos contra la seguridad interior del Estado y contra la seguridad pública, tipificados, sancionados y regulados en los artículos 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 161 Bis, 161 Bis 2, 162, 163, 164, 165, 165 Bis y 176 del Código Penal del Estado.
 
-III. Delitos de falsedad, tipificados, sancionados y regulados en los artículos 253, 254 y 254 Bis, del Código Penal del Estado.
+II. Delitos cometidos por servidores públicos, tipificados, sancionados y regulados en los artículos 207 Bis, 208, 209, 210, 211, 212, 213, 214, 214 Bis, 215, 216, 216 Bis, 217, 218, 219, 219 Bis, 220, 221, 222, 222 Bis, 223, 224, 224 Bis, 225, 225 Bis, 226, 226 Bis, 226 Bis I y 226 Bis II del Código Penal del Estado, así como en los artículos 60 y 159 de la Ley de Seguridad Pública para el Estado de Nuevo León.
+
+III. Delitos de falsedad, tipificados, sancionados y regulados en los artículos 253, 254 y 254 Bis del Código Penal del Estado.
 
 IV. Delitos dolosos contra la vida y la integridad de las personas, tipificados, sancionados y regulados en los artículos 308, 309, 310, 311, 312, 313, 313 Bis, 315, 316, 317, 318, 319, 320, 320 Bis, 321, 321 Bis, 321 Bis 1, 321 Bis 2, 321 Bis 3, 321 Bis 4, 321 Bis 5, 321 Bis 6, 322, 323, 324, 325, 327, 328, 329, 330 y 331 del Código Penal del Estado.
 
 V. Delitos de peligro, tipificados, sancionados y regulados en el artículo 334 Bis del Código Penal del Estado.
 
-VI. Delitos contra la libertad, tipificados, sancionados y regulados en los artículos 356, 357, 357 Bis, 358, 358 Bis y 358 Bis 1 del Código Penal del Estado.
+VI. Delitos contra la libertad, tipificados, sancionados y regulados en los artículos 356, 357, 357 Bis, 358, 358 Bis y 358 Bis 1 del Código Penal del Estado, así como en los artículos 9, 10, 11, 12, 13, 14, 15, 16, 17 y 18 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 VII. Delitos electorales tipificados, sancionados y regulados en los artículos 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425 y 426 del Código Penal del Estado.
+
+VII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado.
+
+b) De los recursos de casación y revisión regulados en el Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011.
 
 Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas y de las Salas Unitarias, será competente para conocer de ellos, la Sala Colegiada o Unitaria a la que le corresponda conocer del delito que merezca mayor sanción; y a la privativa de libertad cuando se señalen varias de distinta naturaleza.
 
@@ -499,9 +507,11 @@ Suplencia del Secretario General. Las faltas temporales de los Secretarios Gener
 
 Funcionamiento de las Salas Colegiadas.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+
 ###### Artículo 44.
 
-Presidencia de la Sala Colegiada. El Presidente de la Sala Colegiada llevará la substanciación de los procedimientos hasta ponerlos en estado de sentencia, para lo cual presidirá las audiencias, turnará los asuntos entre los magistrados integrantes de la sala para la formulación de los proyectos de resolución, conforme a las reglas de turno establecidas por la propia Sala y procurando el equilibrio entre las cargas de trabajo, tendrá la representación de la sala y con tal carácter rendirá los informes previo y justificado en el juicio de amparo.
+Presidencia de la Sala Colegiada. El Presidente de la Sala Colegiada tendrá, en materia de substanciación de los procedimientos, las atribuciones que le confieran las leyes y códigos aplicables; presidirá las audiencias; turnará los asuntos entre los magistrados integrantes de la sala para la formulación de los proyectos de resolución, conforme a las reglas de turno establecidas por la propia Sala y procurando el equilibrio entre las cargas de trabajo; tendrá la representación de la sala y, con tal carácter, rendirá los informes previo y justificado en el juicio de amparo.
 
 ###### Artículo 45.
 
@@ -734,6 +744,12 @@ P.O. 15 DE OCTUBRE DE 2010.
 PRIMERO: Las presentes reformas y adiciones al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día 1 uno de noviembre de 2010 dos mil diez.
 
 SEGUNDO: Se ordena la publicación del presente acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 13 DE ENERO DE 2012.
+
+PRIMERO: Las presentes reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
 
