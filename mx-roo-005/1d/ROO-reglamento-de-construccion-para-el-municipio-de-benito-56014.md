@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construccion-para-el-municipio-de-benito-56014"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-25"
-last_updated: "2008-04-11"
+last_updated: "2012-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2012.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de abril de 2007.
 
@@ -1767,11 +1767,13 @@ IV. Determinación de las áreas de donación en términos de la Ley de Fraccion
 
 La Dirección General de Desarrollo Urbano en todo momento podrá realizar visitas de verificación al predio sujeto de la solicitud, con el fin de constatar la información ingresada.
 
-La Dirección enviará el estudio al IMPLAN a efecto de que se recabe la opinión técnica respecto a las medidas para la prevención, mitigación y compensación.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ARTICULO 75
 
-Una vez recabada la opinión técnica del IMPLAN, la Dirección de Desarrollo Urbano emitirá el dictamen, fundado y motivado, respecto al impacto urbano generado por el cambio de uso de suelo o el establecimiento de una gasolinera
+Una vez obtenido el estudio de Impacto Urbano, la Dirección de Desarrollo Urbano emitirá el dictamen, fundado y motivado, respecto el impacto generado por el cambio de uso de suelo o el establecimiento de una gasolinera
 
 ARTICULO 76
 
@@ -4118,3 +4120,15 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las cont
 Artículo Tercero.- Para efectos administrativos, los Fraccionamientos que se encuentran en construcción y que han asignado nomenclatura de calles en los mismos, mantendrán la nomenclatura utilizada.
 
 Artículo Cuarto.- Las nomenclaturas de calles o vialidades del primer cuadro de la Ciudad, así como de la zona hotelera, en tanto que no presenten discordancia en sus nomenclaturas, permanecerán con sus nombres actuales.
+
+P.O. 16 DE ENERO DE 2012.
+
+PUNTOS DE ACUERDO
+
+PRIMERO.- Se aprueba en sus términos el Dictamen de la Comisión de Reglamentación y Fortalecimiento Municipal.
+
+SEGUNDO.- Se aprueba en los términos del Dictamen de la Comisión de Reglamentación y Fortalecimiento Municipal, el Reglamento Interior del Instituto de Planeación de Desarrollo Urbano del Municipio de Benito Juárez, Quintana Roo.
+
+TERCERO.- Se aprueba en los términos del Dictamen de la Comisión de Reglamentación y Fortalecimiento Municipal, la reforma a los artículos 74 y 75 del Reglamento de Construcción para el Municipio de Benito Juárez, Quintana Roo;
+
+CUARTO.- Publíquese el presente acuerdo en términos de ley.
