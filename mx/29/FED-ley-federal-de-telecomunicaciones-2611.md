@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-2611"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1995-06-07"
-last_updated: "2010-11-30"
+last_updated: "2012-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-06"
 
 LEY FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 7 de junio de 1995.
 
@@ -269,7 +269,11 @@ I. Espectro de uso libre: son aquellas bandas de frecuencias que pueden ser util
 
 II. Espectro para usos determinados: son aquellas bandas de frecuencias otorgadas mediante concesión y que pueden ser utilizadas para los servicios que autorice la Secretaría en el título correspondiente;
 
-III. Espectro para uso oficial: son aquellas bandas de frecuencias destinadas para el uso exclusivo de la administración pública federal, gobiernos estatales y municipales, otorgadas mediante asignación directa;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2012)</small>
+
+III. Espectro para uso oficial: Son aquellas bandas de frecuencia destinadas para el uso exclusivo de la administración pública federal, gobiernos estatales y municipales, organismos autónomos constitucionales y concesionarios de servicios públicos, en éste último caso, cuando sean necesarias para la operación y seguridad del servicio de que se trate, otorgadas mediante asignación directa.
+
+Los concesionarios de servicios públicos, previo a la asignación directa de las frecuencias destinadas para uso oficial, deberán haber acreditado ante la Secretaría, la necesidad de contar con el uso de dichas bandas de frecuencia, para la operación y seguridad del servicio que prestan y quedarán obligados a pagar por el uso de las bandas de frecuencia que se menciona en el párrafo que antecede, la contraprestación que fije la autoridad correspondiente y a no prestar comercialmente servicios de telecomunicaciones con el espectro para uso oficial que les sea asignado, no pudiendo compartirlo con terceros ya que será única y exclusivamente para la operación y seguridad del servicio público concesionado;
 
 IV. Espectro para usos experimentales: son aquellas bandas de frecuencias que podrá otorgar la Secretaría, mediante concesión directa e intransferible, para comprobar la viabilidad técnica y económica de tecnologías en desarrollo tanto en el país como en el extranjero, para fines científicos o para pruebas temporales de equipo, y
 
@@ -1106,3 +1110,13 @@ Décimo. Para el establecimiento y organización de las unidades especializadas 
 Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
 
 Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 16 DE ENERO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, implementará todas y cada una de las acciones y medidas técnicas y operativas que resulten necesarias para realizar la asignación directa del espectro para uso oficial a los organismos autónomos constitucionales y a los concesionarios de servicios públicos.
+
+La Secretaría de Hacienda y Crédito Público, así como las autoridades correspondientes, fijarán en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente Decreto, el monto de la contraprestación que los concesionarios de servicios públicos deban pagar al Estado por la asignación del Espectro de Uso Oficial de conformidad a las leyes de la materia.
+
+Tercero. Los concesionarios de servicios públicos deberán acreditar 30 días naturales antes de la fecha en que les sean asignadas las frecuencias para uso oficial, ante la Dirección General de Política de Telecomunicaciones y de Radiodifusión, de la Secretaría, la necesidad de contar con el uso de esas frecuencias, para la operación y seguridad del servicio que prestan, con la documentación que resulte idónea de acuerdo a los criterios elaborados para tal efecto por dicha dependencia y deberán de pagar la contraprestación por la asignación de dichas frecuencias en el plazo que tenga a bien determinar las autoridades correspondientes.
