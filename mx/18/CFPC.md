@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2011-08-30"
+last_updated: "2012-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "CFPC"
 ---
 # CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -3510,51 +3510,45 @@ V.- Mandará que se fijen las señales convenientes en los puntos deslindados, l
 
 Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos o presente a los otros.
 
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ### CAPITULO IV. Procedimiento de avalúo en los casos de expropiación
 
 ###### ARTICULO 521.
 
-Declarada administrativamente la expropiación, la parte del precio de la misma que haya de fijarse judicialmente, lo será en los términos de los artículos siguientes.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 522.
 
-El Ministerio Público Federal ocurrirá al tribunal competente, aportando los datos indispensables para el exacto conocimiento de los bienes o derechos que han de valuarse, y, en el mismo escrito, nombrará perito de su parte, y propondrá tercero para el caso de discordia.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 523.
 
-De la promoción, se correrá traslado al expropiado, con las copias de ley, señalándole el término de cinco días para que nombre perito de su parte, y manifieste si está conforme con la proposición del tercero, hecha por el Ministerio Público.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 524.
 
-Si el expropiado hiciere el nombramiento de su perito, y estuviere conforme con el nombramiento del tercero propuesto por el Ministerio Público, previa aceptación y protesta de los peritos, les fijará el tribunal, el término que estimare suficiente para rendir su dictamen, según la naturaleza de los bienes que hayan de valuarse y la situación de los mismos.
-
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 525.
 
-Rendidos los dictámenes, si éstos no discreparen en más de un diez por ciento, promediará el juzgador sus resultados, y fijará el valor en el que resulte de este promedio. Si discreparen en más de un diez por ciento, recurrirá a la intervención del perito tercero, el que, dentro del plazo que se le señale, y con vista de los correspondientes dictámenes, fijará el valor que estime justo, exponiendo, con la amplitud y precisión necesaria para la ilustración del tribunal, las razones en que apoye su parecer.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 526.
 
-Con vista del dictamen del perito tercero, pronunciará el tribunal su resolución.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 527.
 
-Si la parte expropiada no estuviere conforme con la proposición del perito tercero hecha por el Ministerio Público, el nombramiento lo hará el tribunal.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 528.
 
-Fijado judicialmente el importe de la expropiación, se procederá al otorgamiento de los títulos que correspondan conforme a la ley, poniéndose la cosa a disposición de la autoridad, si no ha tomado ya administrativamente posesión de ella, y, el precio, a la disposición de la parte expropiada.
-
-Si ésta se negare a recibirlo, se depositará su importe en una Institución de Crédito capacitada para ello y, si se negare a firmar los títulos traslativos del dominio, lo hará el tribunal, en su rebeldía.
-
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTICULO 529.
 
-Si la parte expropiada no nombra perito dentro del término de cinco días a que se refiere el artículo 523, lo hará el tribunal, en su rebeldía, y, si se opusiere al procedimiento de valuación, se dará éste por terminado, y el Ministerio Público formulará demanda en contra de dicha parte, en los términos dispuestos por el libro segundo; conforme a los cuales se seguirá el juicio, hasta su conclusión.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ## TITULO SEGUNDO. Jurisdicción voluntaria
 
@@ -4775,3 +4769,19 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 16 DE ENERO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+
+SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+
+TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+
+CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+
+QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+
+SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
