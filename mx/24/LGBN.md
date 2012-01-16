@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2012-01-10"
+last_updated: "2012-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -686,6 +686,12 @@ De no ser posible o conveniente destinar un inmueble federal a la entidad intere
 
 La adquisición de derechos de dominio o de uso a título oneroso sobre inmuebles ubicados en territorio nacional para el servicio de las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, sólo procederá cuando no existan inmuebles federales disponibles o existiendo, éstos no fueran adecuados o convenientes para el fin que se requieran.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, los responsables inmobiliarios de las dependencias, bajo su responsabilidad, harán constar que no existen inmuebles federales disponibles o que los existentes no son adecuados o convenientes para los fines requeridos, mediante consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal.
+
 Para adquirir derechos de dominio sobre inmuebles, las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República, deberán realizar las siguientes acciones:
 
 I.- Localizar el inmueble más adecuado a sus necesidades, considerando las características del bien;
@@ -706,25 +712,53 @@ La Secretaría, con la participación que en el ámbito de su competencia corres
 
 Las dependencias, la Procuraduría General de la República o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la Federación. Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 51.
 
-Cuando se pretenda adquirir el dominio de un inmueble, incluyendo los casos a que se refiere el último párrafo del artículo 50 de esta Ley, una vez seleccionado el más apropiado y siempre que exista previsión y suficiencia presupuestaria en la partida correspondiente de la dependencia, la Procuraduría General de la República o la unidad administrativa de la Presidencia de la República interesada, ésta solicitará a la Secretaría que proceda, en nombre y representación de la Federación, a realizar la operación de adquisición del inmueble para el servicio de la institución pública de que se trate, así como a realizar las gestiones necesarias para la firma, registro y custodia de la escritura pública de propiedad correspondiente, quedando a cargo de dicha institución pública realizar el pago del precio y demás gastos que origine la adquisición. En este caso se considerará que el inmueble ha quedado destinado a la institución solicitante, sin que se requiera acuerdo de destino.
+Cuando se pretenda adquirir el dominio de un inmueble, incluyendo los casos a que se refiere el último párrafo del artículo 50 de esta Ley, una vez seleccionado el más apropiado y siempre que exista previsión y suficiencia presupuestaria en la partida correspondiente, las dependencias, la Procuraduría General de la República o la unidad administrativa de Presidencia de la República, según sea el caso, procederán a firmar, en nombre y representación de la Federación, la escritura pública correspondiente, quedando a cargo de éstas realizar el pago del precio y demás gastos que origine la adquisición. En este caso se considerará que el inmueble ha quedado destinado a la institución que realizó la adquisición, sin que se requiera acuerdo de destino.
+
+La institución destinataria del inmueble tramitará la inscripción de la escritura en los registros correspondientes y remitirá ésta a la Secretaría para su custodia.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 52.
 
-Cuando la Secretaría, a nombre de la Federación, adquiera en los términos del derecho privado un inmueble para cumplir con finalidades de orden público, la institución destinataria podrá convenir con los poseedores derivados, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión derivada del bien, pudiendo cubrirse en cada caso una compensación, tomando en cuenta la naturaleza y vigencia de los derechos derivados de los actos jurídicos correspondientes a favor de los poseedores, así como los gastos de mudanza que tengan que erogar. El término para la desocupación y entrega del inmueble no deberá exceder de un año.
+Cuando las dependencias, la Procuraduría General de la República o las unidades administrativas de Presidencia de la República, a nombre de la Federación, adquieran en los términos del derecho privado un inmueble para cumplir con finalidades de orden público, podrán convenir con los poseedores derivados, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamiento, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión derivada del bien, pudiendo cubrirse en cada caso una compensación, tomando en cuenta la naturaleza y vigencia de los derechos derivados de los actos jurídicos correspondientes a favor de los poseedores, así como los gastos de mudanza que tengan que erogar. El término para la desocupación y entrega del inmueble no deberá exceder de un año.
 
 ###### ARTÍCULO 53.
 
 Las dependencias, la Procuraduría General de la República y las unidades administrativas de la Presidencia de la República, aportarán el uno al millar sobre el monto de los precios por las adquisiciones onerosas de inmuebles que se realicen a favor de la Federación para el servicio de dichas instituciones públicas. Tal aportación se realizará al Fondo a que se refiere el artículo 33 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 54.
 
-Cuando se trate de adquisiciones por expropiación de inmuebles, corresponderá a la autoridad del ramo respectivo determinar la utilidad pública y a la Secretaría determinar el procedimiento encaminado a la ocupación administrativa del bien y fijar el monto de la indemnización, salvo lo dispuesto por la Ley Agraria.
+Las dependencias y entidades podrán adquirir los inmuebles, bienes y derechos necesarios para la ejecución de los proyectos y programas que tengan a su cargo mediante negociación con los titulares legítimos de los mismos.
 
-El decreto expropiatorio será refrendado por los titulares de las secretarías que hayan determinado la causa de utilidad pública, de la Secretaría y, en caso de que la indemnización se cubra con cargo al Presupuesto de Egresos de la Federación, de la Secretaría de Hacienda y Crédito Público. En este caso, no será necesaria la expedición de una escritura pública.
+Las negociaciones podrán incluir, con estricta responsabilidad de los servidores públicos que las lleven a cabo y previo acuerdo de su superior jerárquico, a titulares de otros derechos reales, arrendatarios, derechos posesorios, derechos litigiosos o a quienes demuestren fehacientemente tener un interés económico legítimo y directo.
 
-Los propietarios o quien tenga derecho a demandar la reversión de los bienes expropiados, tendrán un plazo de dos años para ejercer sus derechos contados a partir de la fecha en que aquella sea exigible.
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 54 BIS.- Para efecto de determinar el valor de los inmuebles respecto de los cuales las dependencias y entidades pretendan adquirir la propiedad por cualquier medio, dichas dependencias y entidades podrán solicitar los avalúos correspondientes a la Secretaría de la Función Pública, a las instituciones de crédito o a corredores públicos.
+
+Dicha Secretaría emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 54 TER.- Si las negociaciones se realizan con distintas contrapartes, los montos que se cubran en cada negociación no podrán exceder, en su conjunto, de la suma a que se refiere el artículo anterior.
+
+Las dependencias y entidades podrán utilizar cualquier forma o esquema de pago, compensación o permuta en términos de la legislación civil.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 54 QUÁTER.- En las negociaciones, las dependencias o entidades podrán cubrir, contra la posesión del inmueble, bien o derecho, anticipos hasta por el equivalente a un cincuenta por ciento del precio acordado.
+
+Asimismo, una vez en posesión, podrán cubrir anticipos adicionales con cargo al precio pactado, para pagar por cuenta del enajenante los costos generados por la enajenación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 54 QUINTUS.- Las dependencias y entidades integrarán un expediente de las negociaciones que realicen para la adquisición de inmuebles, bienes y derechos, en el que constarán los avalúos y documentos relativos a las mismas que el Reglamento señale.
 
 ###### ARTÍCULO 55.
 
@@ -1182,7 +1216,9 @@ VI.- Enajenación onerosa o aportación al patrimonio de entidades;
 
 VII.- Afectación a fondos de fideicomisos públicos en los que el Gobierno Federal sea fideicomitente o fideicomisario;
 
-VIII.- Indemnización como pago en especie por las expropiaciones y afectaciones previstas en el artículo 90 de esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2012)</small>
+
+VIII. Indemnización como pago en especie por las expropiaciones y afectaciones;
 
 IX.- Enajenación al último propietario del inmueble que se hubiere adquirido por vías de derecho público, cuando vaya a ser vendido;
 
@@ -1254,11 +1290,7 @@ En los contratos respectivos deberá estipularse que la falta de pago de tres me
 
 ###### ARTÍCULO 90.
 
-En el caso de adquisiciones por vía de derecho público, el Ejecutivo Federal podrá convenir con los afectados la indemnización correspondiente mediante la entrega de bienes similares a los expropiados, y donar al afectado la diferencia que pudiera resultar en los valores. Esta donación sólo procederá a favor de personas que perciban ingresos no mayores a cuatro veces el salario mínimo general del área geográfica en la que se localice el inmueble expropiado, y que éste se estuviera utilizando como habitación o para alojar un pequeño comercio, un taller o una industria familiar propiedad del afectado.
-
-Cuando a campesinos de escasos recursos económicos se entreguen terrenos de riego en substitución de los que les hayan sido afectados como consecuencia de la ejecución de obras hidráulicas o de reacomodo o relocalización de tierras en zonas de riego, la autoridad competente podrá dejar de reclamar las diferencias de valor que resulten a su favor.
-
-En los casos a que se refiere este artículo, la dependencia que corresponda dará la intervención previa que competa a la Secretaría, conforme a esta Ley.
+(DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 ###### ARTÍCULO 91.
 
@@ -1306,9 +1338,11 @@ Las dependencias, la Procuraduría General de la República y las unidades admin
 
 A solicitud de la dependencia, la Procuraduría General de la República, una de las unidades administrativas de la Presidencia de la República o la entidad interesada, la Secretaría excepcionalmente y si lo considera procedente, podrá habilitar a un Notario del Patrimonio Inmobiliario Federal o, en el caso de entidades, a cualquier otro notario público de diferente circunscripción territorial, sin perjuicio de las leyes locales en materia del notariado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 98.
 
-Los Notarios del Patrimonio Inmobiliario Federal formalizarán los actos adquisitivos o traslativos de dominio de inmuebles que otorguen la Federación o las entidades, y tanto ellos como los notarios públicos que formalicen actos otorgados por las entidades, serán responsables de que los actos que se celebren ante su fe cumplan con lo dispuesto en esta Ley y las demás disposiciones jurídicas aplicables. Salvo en los casos de los actos jurídicos que celebren las entidades, se deberá obtener la aprobación previa de la Secretaría respecto del proyecto de escritura pública correspondiente.
+Los Notarios del Patrimonio Inmobiliario Federal formalizarán los actos adquisitivos o traslativos de dominio de inmuebles que otorguen la Federación o las entidades, y tanto ellos como los notarios públicos que formalicen actos otorgados por las entidades, serán responsables de que los actos que se celebren ante su fe cumplan con lo dispuesto en esta Ley y las demás disposiciones jurídicas aplicables.
 
 Los Notarios del Patrimonio Inmobiliario Federal y los notarios públicos estarán obligados a hacer las gestiones correspondientes para obtener la inscripción de las escrituras relativas en el Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad que corresponda a la ubicación del bien, y a remitir a la Secretaría el testimonio respectivo debidamente inscrito, en un plazo no mayor de seis meses contados a partir de la fecha en la que hayan autorizado cada escritura, salvo en casos debidamente justificados. En caso de incumplimiento, incurrirán en responsabilidad y serán sancionados en los términos de esta Ley.
 
@@ -1919,3 +1953,19 @@ D.O.F. 31 DE AGOSTO DE 2007.
 D.O.F. 10 DE ENERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ENERO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+
+SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+
+TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+
+CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+
+QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+
+SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
