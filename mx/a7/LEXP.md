@@ -4,7 +4,7 @@ identifier: "LEXP"
 country: "mx"
 rank: "ley"
 publication_date: "1936-11-25"
-last_updated: "2009-06-05"
+last_updated: "2012-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=366&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LEXP"
 ---
 # LEY DE EXPROPIACION
 
-LEY DE EXPROPIACION
+LEY DE EXPROPIACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 25 de noviembre de 1936.
 
@@ -76,27 +76,49 @@ XI.- La creación o mejoramiento de centros de población y de sus fuentes propi
 
 XII.- Los demás casos previstos por leyes especiales.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 2o.
 
-En los casos comprendidos en el artículo anterior, la Secretaría de Estado competente emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
+Para los casos de expropiación comprendidos en el artículo anterior, la secretaría de Estado competente emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 I. La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes.
+
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 II. La declaratoria de utilidad pública se publicará en el Diario Oficial de la Federación y, en su caso, en un diario de la localidad de que se trate, y se notificará personalmente a los titulares de los bienes y derechos que resultarían afectados.
 
 En caso de ignorarse quiénes son los titulares o bien su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
 
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 III. Los interesados tendrán un plazo de quince días hábiles a partir de la notificación o de la segunda publicación en el Diario Oficial de la Federación para manifestar ante la Secretaría de Estado correspondiente lo que a su derecho convenga y presentar las pruebas que estimen pertinentes.
+
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 IV. En su caso, la autoridad citará a una audiencia para el desahogo de pruebas, misma que deberá verificarse dentro de los ocho días hábiles siguientes a la recepción de las manifestaciones a que se refiere el párrafo anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita.
 
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 V. Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la autoridad contará con un plazo de diez días hábiles para confirmar, modificar o revocar la declaratoria de utilidad pública.
+
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 VI. La resolución a que se refiere la fracción anterior no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
 
+> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 VII. El Ejecutivo Federal deberá decretar la expropiación a que se refiere el artículo 4o de esta Ley, dentro de los treinta días hábiles siguientes a que se haya dictado la resolución señalada en la fracción V que antecede. Transcurrido el plazo sin que se haya emitido el decreto respectivo, la declaratoria de utilidad pública quedará sin efectos. En caso de que se interponga el juicio de amparo, se interrumpirá el plazo a que se refiere esta fracción, hasta en tanto se dicte resolución en el mismo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTICULO 2o BIS.- Procederá la ocupación temporal, ya sea total o parcial, o la simple limitación de los derechos de dominio para los fines del Estado o en interés de la colectividad, en los supuestos señalados en el artículo 1 de esta ley.
+
+El Ejecutivo federal hará la declaratoria de utilidad pública, decretará la medida correspondiente y ordenará su ejecución inmediata.
+
+La indemnización que, en su caso, proceda por la ocupación temporal o por la limitación de dominio consistirá en una compensación a valor de mercado.
 
 > <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
@@ -142,15 +164,19 @@ La interposición de cualquier medio de defensa, no suspenderá la ocupación o 
 
 El decreto en el que se ordene la ocupación temporal o la limitación de dominio no admitirá recurso administrativo alguno y sólo podrá impugnarse a través del juicio de amparo.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 8o.
 
-En los casos a que se refieren las fracciones III Bis, V, VI y X del artículo 1o. de esta ley, el Ejecutivo Federal hará la declaratoria de utilidad pública, decretará la expropiación, ocupación temporal o limitación de dominio y ordenará la ejecución inmediata de la medida de que se trate. Tratándose de la expropiación, no será aplicable lo dispuesto en las fracciones III a VII del artículo 2o de esta Ley.
+En los casos a que se refieren las fracciones V, VI y X del artículo 1o. de esta ley, el Ejecutivo federal hará la declaratoria de utilidad pública, decretará la expropiación y ordenará la ejecución inmediata de la medida de que se trate. Tratándose de la expropiación, no será aplicable lo dispuesto en las fracciones III a VII del artículo 2o. de esta Ley.
 
 Esta resolución no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
 
-En los casos a que se refiere el primer párrafo de este artículo, durante la tramitación del juicio de amparo que en su caso se instaure, no podrá suspenderse la ejecución de la expropiación, la ocupación temporal o la limitación de dominio.
+En los casos a que se refiere el primer párrafo de este artículo, así como el artículo 2 Bis, durante la tramitación del juicio de amparo que en su caso se instaure, no podrá suspenderse la ejecución de la expropiación, la ocupación temporal o la limitación de dominio.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTICULO 8o BIS.- Las medidas a que se refiere esta Ley no requerirán formalizarse en escritura pública. Los decretos respectivos se inscribirán en el Registro Público de la Propiedad Federal y en el registro público de la propiedad que corresponda.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -162,11 +188,39 @@ Dicha autoridad dictará resolución dentro de los cuarenta y cinco días hábil
 
 El derecho que se confiere al propietario en este Artículo, deberá ejercerlo dentro del plazo de dos años, contado a partir de la fecha en que sea exigible.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTICULO 9o BIS.- Según las particularidades del caso, la expropiación podrá realizarse conforme a las previsiones siguientes:
+
+I. Si el bien objeto de la expropiación tiene algún gravamen de naturaleza real, la indemnización se consignará ante la autoridad competente, a fin de que ésta determine la parte que corresponda a cada uno de los titulares de los derechos que resulten afectados.
+
+En estos casos, de la indemnización al propietario se disminuirá la que corresponda al gravamen de que se trate, de manera que el importe de ambas no exceda del valor que el bien hubiere tenido libre de gravamen.
+
+II. Cuando se expropie parte de un inmueble y la explotación o aprovechamiento de la superficie restante ya no resulte viable económicamente para el propietario, éste podrá solicitar a la Secretaría de Estado competente, dentro del plazo previsto en el artículo 2, fracción III, de esta ley, la expropiación de dicha superficie, aportando los elementos de prueba que estime procedentes.
+
+La Secretaría de Estado competente resolverá la solicitud en el mismo acto a que se refiere el artículo 2, fracción V, de esta ley, para lo cual deberá considerar, entre otros aspectos, la compatibilidad de la expropiación de la superficie solicitada con la causa de utilidad pública.
+
+En los casos de las expropiaciones previstas en el artículo 8 de esta ley, el propietario podrá realizar la solicitud dentro del plazo de diez días hábiles siguientes a la fecha de publicación del decreto en el Diario Oficial de la Federación. La Secretaría de Estado resolverá la solicitud en un plazo máximo de quince días hábiles, contados a partir de la recepción de la misma o, en su caso, de la fecha en que hubiere concluido el desahogo de pruebas;
+
+III. La Secretaría de Estado competente podrá convenir la ocupación previa de los bienes y derechos afectados por una declaratoria de utilidad pública con los titulares de los mismos, en tanto se tramita el decreto de expropiación; y
+
+IV. La Secretaría de Estado competente podrá convenir con los afectados la indemnización correspondiente mediante la entrega de bienes similares a los expropiados, y donar a los afectados la diferencia que pudiera resultar en los valores, de conformidad con los lineamientos que para tal efecto expida la Secretaría de la Función Pública.
+
+Cuando a campesinos de escasos recursos económicos se entreguen terrenos de riego en substitución de los que les hayan sido afectados como consecuencia de la ejecución de obras hidráulicas o de reacomodo o relocalización de tierras en zonas de riego, la autoridad competente podrá dejar de reclamar las diferencias de valor que resulten a su favor.
+
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 10.
 
 El precio que se fijará como indemnización por el bien expropiado, será equivalente al valor comercial que se fije sin que pueda ser inferior, en el caso de bienes inmuebles, al valor fiscal que figure en las oficinas catastrales o recaudadoras.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+El monto de la indemnización por la expropiación, la ocupación temporal o la limitación de dominio se fijará por el Instituto de Administración y Avalúos de Bienes Nacionales o Instituciones de crédito o corredores públicos o profesionistas con posgrado en valuación, que se encuentren autorizados en los términos que indique el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+La Secretaría de la Función Pública emitirá las normas, procedimientos, criterios y metodologías de carácter técnico, conforme a los cuales se realizarán los avalúos, considerando la diversidad de bienes y derechos objeto de valuación, así como sus posibles usos y demás características particulares.
 
 ###### ARTICULO 11.
 
@@ -192,9 +246,11 @@ El juez fijará un plazo que no excederá de sesenta días para que los peritos 
 
 Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el juez de plano fijará el monto de la indemnización; en caso de inconformidad, llamará al tercero, para que dentro del plazo que le fije, que no excederá de treinta días, rinda su dictamen. Con vista de los dictámenes de los peritos, el juez resolverá dentro del término de diez días lo que estime procedente.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 17.
 
-Contra la resolución judicial que fije el monto de la indemnización, no cabrá ningún recurso y se procederá al otorgamiento de la escritura respectiva que será firmada por el interesado o en su rebeldía por el juez.
+Contra la resolución judicial que fije el monto de la indemnización, no cabrá ningún recurso.
 
 ###### ARTICULO 18.
 
@@ -285,3 +341,19 @@ Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el 
 Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
 
 No obstante lo anterior, las dependencias y entidades que dentro de los procedimientos en curso no hayan otorgado la garantía de audiencia a los posibles afectados, deberán hacerlo en lo conducente, en términos del artículo 2o del presente Decreto.
+
+D.O.F. 16 DE ENERO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+
+SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+
+TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+
+CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+
+QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+
+SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
