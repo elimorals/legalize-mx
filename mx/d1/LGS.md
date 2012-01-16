@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-12-14"
+last_updated: "2012-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
-ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
+ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 7 de febrero de 1984.
 
@@ -2145,6 +2145,12 @@ La Secretaría de Salud orientará la captación, producción, procesamiento, si
 ###### ARTICULO 109.
 
 La Secretaría de Salud proporcionará a la Secretaría de Programación y Presupuesto los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+###### ARTICULO 109 Bis.
+
+Corresponde a la Secretaría de Salud emitir la normatividad a que deberán sujetarse los sistemas de información de registro electrónico que utilicen las instituciones del Sistema Nacional de Salud, a fin de garantizar la interoperabilidad, procesamiento, interpretación y seguridad de la información contenida en los expedientes clínicos electrónicos.
 
 ## TITULO SEPTIMO. Promoción de la Salud
 
@@ -7655,3 +7661,7 @@ D.O.F. 14 DE DICIEMBRE DE 2011.
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 100 DE LA LEY GENERAL DE SALUD.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
