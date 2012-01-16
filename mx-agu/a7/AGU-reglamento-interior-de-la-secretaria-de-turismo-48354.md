@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-turismo-48354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-30"
-last_updated: "2006-01-30"
+last_updated: "2012-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes el lunes 30 de enero de 2006.
 
@@ -602,3 +604,11 @@ Lic. Jorge Mauricio Martínez Estebanez.
 EL SECRETARIO DE TURISMO,
 
 Lic. Francisco Dávila García.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE ENERO DE 2012.
+
+PRIMERO.- El presente Reglamento Interior de la Secretaría de Turismo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo de Gobierno del Estado, publicado en el Periódico Oficial Segunda Sección, de fecha 30 de enero de 2006.
