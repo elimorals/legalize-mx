@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2011-09-30"
+last_updated: "2012-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE MICHOACAN
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE MICHOACAN
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
@@ -417,13 +417,23 @@ A) Subsecretaría de Educación Básica, a la que quedan adscritas:
 
 4. Dirección de Educación Física, Recreación y Deporte;
 
-5. Unidad Estatal de Desarrollo Profesional del Magisterio;
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-6. Dirección de Educación Artística y Desarrollo Cultural; y,
+5. Dirección de Educación Artística y Desarrollo Cultural;
 
-7. Dirección de Carrera Magisterial.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-B) Dirección de Educación Extraescolar.
+6. Dirección de Educación Extra Escolar;
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+
+7. Dirección de Carrera Magisterial; y,
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2012)</small>
+
+8. Unidad Estatal de Desarrollo Profesional del Magisterio.
+
+B) (DEROGADO, P.O. 16 DE ENERO DE 2012)
 
 C) Subsecretaría de Educación Media Superior y Superior, a la que quedan adscritas:
 
@@ -433,17 +443,9 @@ C) Subsecretaría de Educación Media Superior y Superior, a la que quedan adscr
 
 3. Dirección de Formación Inicial y Profesionalización Docente.
 
-D) Coordinación General para Abatir el Rezago Educativo, a la que quedan adscritas:
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-1. Dirección de Proyectos de Investigación e Innovación;
-
-2. Dirección de Proyectos de Tecnología Educativa;
-
-3. Coordinación de Programas Compensatorios; y,
-
-4. Unidad de Vinculación y Asistencia Técnica.
-
-E) Coordinación de Planeación, Evaluación y Programación Educativa, a la que quedan adscritas:
+D) Coordinación General de Planeación y Evaluación Educativa a la que quedan adscritas:
 
 1. Dirección de Planeación Educativa;
 
@@ -451,11 +453,27 @@ E) Coordinación de Planeación, Evaluación y Programación Educativa, a la que
 
 3. Dirección de Incorporación, Control y Certificación.
 
-F) Dirección de Educación Indígena.
+4. (DEROGADO, P.O. 16 DE ENERO DE 2012)
 
-G) Coordinación de Unidades Regionales de Educación Popular, a la que quedan adscritas:
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-1. Unidades Regionales de Educación Popular.
+E) Dirección General de Desarrollo e Investigación Educativa, a la que quedan adscritas:
+
+1. Dirección de Proyectos de Investigación e Innovación;
+
+2. Dirección de Tecnologías de la Comunicación y la Información Educativa; y,
+
+3. Coordinación de Programas Compensatorios.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+
+F) Dirección General de Educación Indígena.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+
+G) Dirección General de Unidades Regionales, a la que quedan adscritas:
+
+1. Unidades Regionales.
 
 H) Delegación Administrativa, a la que quedan adscritas:
 
@@ -467,7 +485,9 @@ H) Delegación Administrativa, a la que quedan adscritas:
 
 4. Dirección de Recursos Materiales y Servicios Generales;
 
-5. Dirección de Presupuesto; y,
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+
+5. Dirección de Programación y Presupuesto; y,
 
 6. Unidad de Desarrollo Organizacional.
 
@@ -475,9 +495,17 @@ I) Unidades Auxiliares del Secretario:
 
 1. Secretaría Técnica;
 
-2. Secretaría Particular; y,
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-3. Asesores.
+2. Secretaría Particular;
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+
+3. Asesores; y,
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2012)</small>
+
+4. Enlace Jurídico.
 
 X. A la Secretaría de Cultura:
 
@@ -4281,7 +4309,7 @@ X. Elaborar y promover programas en materia de aprovechamiento sustentable de la
 
 XI. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE EDUCACIÓN EXTRAESCOLAR
+### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR
 
 ###### ARTÍCULO 114.
 
@@ -4353,7 +4381,9 @@ XXII. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y ot
 
 La Secretaría de Educación es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 31 de la Ley Orgánica de la Administración Pública del Estado, la Ley Estatal de Educación y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA SUBSECRETARÍA DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN EDUCATIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 116.
 
@@ -4393,9 +4423,17 @@ XVI. Supervisar que se aplique la normativa establecida para el Programa Naciona
 
 XVII. Coordinar, supervisar y evaluar la gestión institucional, promoviendo la participación de la sociedad en general y de las asociaciones de padres de familia en educación básica e inicial;
 
-XVIII. Difundir y aplicar los lineamientos de los programas de protección civil, emergencia escolar, primeros auxilios y mejoramiento de la salud en educación básica e inicial; y,
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+XVIII. Difundir y aplicar los lineamientos de los programas de protección civil, emergencia escolar, primeros auxilios y mejoramiento de la salud en educación básica e inicial;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XIX. Coordinar, supervisar y evaluar la operación y resultados de los diferentes programas Federales y Estatales que se apliquen a la educación Inicial, Especial y Básica en el Estado; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTE
 
@@ -4423,15 +4461,23 @@ IX. Compilar información y material de análisis sobre los proyectos que hayan 
 
 X. Promover, coordinar e instrumentar propuestas sobre contenidos educativos, métodos, materiales y auxiliares didácticos para la elaboración de programas de radio, televisión u otros medios, con la finalidad de difundir y fortalecer los programas de educación elemental;
 
-XI. Instrumentar mecanismos de supervisión para verificar el cumplimiento de la normativa sobre emergencia escolar, y actualizar permanentemente los sistemas de seguimiento e información en los planteles de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XII. Verificar e instrumentar acciones en coordinación con las unidades administrativas correspondientes, para la dotación y distribución de libros de texto gratuito para la educación preescolar y especial;
+XI. Verificar e instrumentar acciones en coordinación con las unidades administrativas correspondientes, para la dotación y distribución de libros de texto gratuito para la educación preescolar y especial;
 
-XIII. Instrumentar, coordinar y verificar acciones para la integración y operación de los consejos de participación social y asociaciones de padres de familia en los planteles de educación inicial, preescolar y especial; y,
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XIV. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+XII. Supervisar y validar los movimientos de personal para su autorización de acuerdo a la normativa vigente, en el ámbito de su competencia; y,
 
-#### SECCIÓN V. DE LA UNIDAD ESTATAL DE DESARROLLO PROFESIONAL DEL MAGISTERIO
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XIII. Las demás que le señale el Subsecretario de Educación Básica y otras disposiciones legales aplicables.
+
+XIV. (DEROGADA, P.O. 16 DE ENERO DE 2012)
+
+#### SECCIÓN V. DE LA DIRECCIÓN DE EDUCACIÓN ARTÍSTICA Y DESARROLLO CULTURAL
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 118.
 
@@ -4475,7 +4521,9 @@ XVIII. Diseñar, programar, instrumentar, supervisar y evaluar acciones encamina
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE EDUCACIÓN ARTÍSTICA Y DESARROLLO CULTURAL
+#### SECCIÓN VI. DE LA DIRECCIÓN DE EDUCACIÓN EXTRAESCOLAR
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 119.
 
@@ -4501,9 +4549,17 @@ IX. Validar en coordinación con las unidades administrativas correspondientes, 
 
 X. Diseñar, programar, instrumentar, supervisar y evaluar acciones encaminadas a la prevención de emergencias y protección civil en los planteles de educación secundaria y coordinarse con unidades administrativas, organismos y agrupaciones involucradas en la materia;
 
-XI. Participar en los estudios de factibilidad para el otorgamiento de autorización de servicios educativos del nivel, a los particulares que lo soliciten y proponer la suspensión de los mismos, cuando las instituciones no cumplan con lo dispuesto en las disposiciones legales aplicables; y,
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+XI. Participar en los estudios de factibilidad para el otorgamiento de autorización de servicios educativos del nivel, a los particulares que lo soliciten y proponer la suspensión de los mismos, cuando las instituciones no cumplan con lo dispuesto en las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XII. Supervisar y validar los movimientos de personal para su autorización de acuerdo a la normativa vigente, en el ámbito de su competencia; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
 #### SECCIÓN VII. DE LA DIRECCIÓN DE CARRERA MAGISTERIAL
 
@@ -4511,7 +4567,9 @@ XII. Las demás que le señale el Secretario de Educación y otras disposiciones
 
 Al Director de Educación Física, Recreación y Deporte le corresponde el ejercicio de las facultades siguientes:
 
-I. Planear, dirigir, supervisar y evaluar el desarrollo de la educación física, la recreación y el deporte en los planteles de educación inicial, preescolar, primaria y especial en el Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+I. Planear, dirigir, supervisar y evaluar el desarrollo de la educación física, la recreación y el deporte en los planteles de educación indígena, inicial, preescolar, primaria y especial en el Estado;
 
 II. Aplicar las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos para la evaluación del aprendizaje de la educación física, recreación y deporte en educación inicial, preescolar, primaria y especial;
 
@@ -4521,45 +4579,29 @@ IV. Proponer la celebración de convenios con instituciones públicas y privadas
 
 V. Fomentar, promover, organizar, desarrollar, supervisar y evaluar los programas y proyectos de educación física, recreación y deporte, que apoyen el desarrollo armónico integral del ser humano;
 
-VI. Promover y organizar competencias deportivas escolares con carácter local e interestatal en que participen educandos de educación inicial, preescolar, primaria y especial;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VII. Establecer mecanismos de coordinación con la Comisión Estatal de Cultura Física y Deporte, a fin de que los educandos detectados con potencial para la práctica deportiva, reciban el apoyo y los estímulos necesarios para impulsar sus habilidades deportivas; y,
+VI. Promover y organizar encuentros y actividades lúdicas, así como competencias deportivas a nivel local y estatal que permitan la participación a nivel nacional de los escolares inscritos en escuelas de Educación Básica del Estado de Michoacán;
 
-VIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN MEDIA SUPERIOR
+VII. Establecer mecanismos de coordinación con la Comisión Estatal de Cultura Física y Deporte, con el propósito de que: los centros educativos de formación deportiva, el programa de activación física escolar, el programa de actividades recreativas, y el programa de desarrollo deportivo (ligas deportivas del sector educativo, juegos deportivos nacionales escolares y olimpiada nacional), reciban el apoyo y estímulos necesarios para su realización;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VIII. Supervisar y validar los movimientos de personal para su autorización de acuerdo a la normativa vigente, en el ámbito de su competencia; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN VIII. DE LA UNIDAD ESTATAL DE DESARROLLO PROFESIONAL DEL MAGISTERIO
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 121.
-
-Al titular de la Unidad Estatal de Desarrollo Profesional del Magisterio le corresponde el ejercicio de las facultades siguientes:
-
-I. Instrumentar, dirigir, difundir, supervisar y evaluar el Programa Estatal de Actualización, Capacitación y Desarrollo Profesional del Maestro en Servicio, que coadyuve al desarrollo personal y profesional de los maestros de educación básica, a través de un proceso de actualización permanente, de acuerdo a las disposiciones legales aplicables;
-
-II. Planear, programar, difundir, coordinar y evaluar el desarrollo de los programas nacionales y estatales de capacitación del maestro;
-
-III. Coordinar administrativa, académica y operativamente las acciones de actualización docente en el Estado;
-
-IV. Elaborar y difundir programas de actualización y capacitación de los maestros, para elevar la calidad en la educación inicial, especial y básica;
-
-V. Difundir los lineamientos generales de la instrumentación de eventos académicos, para que las instituciones educativas participen en la inscripción de proyectos de actualización, capacitación y desarrollo profesional del maestro;
-
-VI. Incorporar a los programas de actualización y capacitación para los maestros las innovaciones que se hayan incluido en los planes y programas de estudio de la educación básica;
-
-VII. Planear, organizar y promover acciones interinstitucionales que fortalezcan el desarrollo personal y profesional de los maestros en servicio, tomando en cuanta (sic) las opiniones y propuestas que al respecto emitan las autoridades educativas locales y los diversos sectores sociales involucrados en la educación;
-
-VIII. Establecer la colaboración entre las diversas instituciones dedicadas a la investigación educativa, a fin de enriquecer las acciones de actualización y capacitación;
-
-IX. Generar y aplicar estrategias de investigación que deriven en diagnóstico de necesidades de capacitación, actualización y superación profesional de los docentes a nivel estatal, regional y local;
-
-X. Diseñar materiales de estudio, guías de trabajo y demás auxiliares didácticos impresos, en audio, video u otro medio para los programas de actualización y capacitación de maestros, en coordinación con las unidades administrativas competentes de la Secretaría de Educación;
-
-XI. Proponer criterios, procedimientos e instrumentos para la evaluación y acreditación de los estudios derivados de los programas de actualización y capacitación de maestros, en coordinación con las unidades administrativas; y,
-
-XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN SUPERIOR
-
-###### ARTÍCULO 122.
 
 Al Director de Educación Artística y Desarrollo Cultural le corresponde el ejercicio de las facultades siguientes:
 
@@ -4583,7 +4625,45 @@ IX. Impulsar y propiciar las condiciones indispensables para el desarrollo de la
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE FORMACIÓN INICIAL Y PROFESIONALIZACIÓN DOCENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN MEDIA SUPERIOR
+
+###### ARTÍCULO 122.
+
+Al Director de Educación Extraescolar le corresponde el ejercicio de las facultades siguientes:
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de los servicios de educación extraescolar, integrados por los centros de educación básica para adultos, bachillerato en CEBA, capacitación para y en el trabajo, centros de educación extraescolar, misiones culturales y las escuelas particulares de estas modalidades incorporadas a la Secretaría de Educación;
+
+II. Vigilar que los servicios de educación extraescolar laboren de conformidad con la normativa en materia técnico pedagógica, con los planes y programas de estudio, contenidos y métodos educativos, auxiliares didácticos e instrumentos para la evaluación del aprendizaje establecidos por las autoridades competentes de la Secretaría de Educación;
+
+III. Analizar, proponer y difundir en las instancias correspondientes los contenidos educativos y de carácter regional que enriquezcan los planes y programas de estudio de los servicios de educación extraescolar, tomando en cuenta las propuestas de las autoridades, el personal de educación extraescolar y los consejos técnico pedagógicos;
+
+IV. Difundir y supervisar la aplicación de las normas establecidas por las unidades administrativas correspondientes de la Secretaría de Educación, para la organización y control escolar de los planteles de educación extraescolar, así como verificar su cumplimiento en los términos de las leyes aplicables;
+
+V. Diseñar, operar y desarrollar programas para la superación académica y profesional que proporcionan los servicios educativos y difundir los lineamientos respectivos entre el personal de supervisión, directivo, docente, técnico y auxiliares involucrados;
+
+VI. Realizar propuestas de creación, consolidación, organización, expansión, modernización, fusión y extinción de los servicios de educación extraescolar y las unidades administrativas a su cargo;
+
+VII. Participar en los estudios de factibilidad, para el otorgamiento de reconocimiento de validez oficial de estudios a los particulares que soliciten abrir centros de capacitación para el trabajo y proponer la suspensión del mismo, cuando las instituciones no cumplan con las normas establecidas;
+
+VIII. Promover, coordinar y establecer convenios con los sectores público y privado y con la sociedad en su conjunto, para que coadyuven en la mejor prestación de los servicios educativos de educación extraescolar, así como detectar y priorizar la atención a las necesidades de estos en el Estado;
+
+IX. Promover, autorizar, operar, consolidar, supervisar y evaluar el uso o distribución de los medios de comunicación y recursos tecnológicos, como apoyos al proceso enseñanza-aprendizaje, a través de los servicios de computación electrónica en educación básica y comunicación educativa;
+
+X. Promover la elaboración de materiales audiovisuales e impresos que fortalezcan los planes y programas de la educación extraescolar;
+
+XI. Coadyuvar en el proceso de acreditación de estudios a quienes lo soliciten de conformidad con las disposiciones legales aplicables;
+
+XII. Organizar, supervisar, difundir y evaluar los programas escolares de fomento a la salud, educación ambiental, protección civil, emergencia escolar, primeros auxilios, equidad de género, derechos humanos y temas emergentes que impacten en el proceso enseñanza-aprendizaje, en coordinación con instituciones afines a estas actividades;
+
+XIII. Instrumentar los procedimientos administrativos para la observancia de la normativa respecto a asignaciones y cambios de adscripción del personal;
+
+XIV. Supervisar y validar los movimientos de personal para su autorización de acuerdo a la normativa vigente, en el ámbito de su competen (sic); y,
+
+XV. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN SUPERIOR
 
 ###### ARTÍCULO 123.
 
@@ -4607,35 +4687,43 @@ VIII. Canalizar a la instancia correspondiente, las controversias que se present
 
 IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE FORMACIÓN INICIAL Y PROFESIONALIZACIÓN DOCENTE
 
 ###### ARTÍCULO 124.
 
-Al Director de Educación Extraescolar le corresponde el ejercicio de las facultades siguientes:
+Al titular de la Unidad Estatal de Desarrollo Profesional del Magisterio le corresponde el ejercicio de las facultades siguientes:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de los servicios de educación extraescolar, integrados por los centros de educación básica para adultos, capacitación para y en el trabajo, centros de educación extraescolar, misiones culturales, computación electrónica y comunicación educativa, educación para la salud y el ambiente, para adultos y las escuelas particulares de estas modalidades incorporadas a la Secretaría de Educación;
+I. Instrumentar, dirigir, difundir, supervisar y evaluar el Programa Estatal de Actualización, Capacitación y Desarrollo Profesional del Maestro en Servicio, que coadyuve al desarrollo personal y profesional de los maestros de educación básica, a través de un proceso de actualización permanente, de acuerdo a las disposiciones legales aplicables;
 
-II. Vigilar que los servicios de educación extraescolar laboren de conformidad con la normativa en materia técnico pedagógica, con los planes y programas de estudio, contenidos y métodos educativos, auxiliares didácticos e instrumentos para la evaluación del aprendizaje establecidos por las autoridades competentes de la Secretaría de Educación;
+II. Planear, programar, difundir, coordinar y evaluar el desarrollo de los programas nacionales y estatales de capacitación del maestro;
 
-III. Analizar, proponer y difundir en las instancias correspondientes los contenidos educativos y de carácter regional que enriquezcan los planes y programas de estudio de los servicios de educación extraescolar, tomando en cuenta las propuestas de las autoridades, el personal de educación extraescolar y los consejos técnico pedagógicos;
+III. Coordinar administrativa, académica y operativamente las acciones de actualización docente en el Estado;
 
-IV. Difundir y supervisar la aplicación de las normas establecidas por las unidades administrativas correspondientes de la Secretaría de Educación, para la organización y control escolar de los planteles de educación extraescolar, así como verificar su cumplimiento en los términos de las leyes aplicables;
+IV. Elaborar y difundir programas de actualización y capacitación de los maestros, para elevar la calidad en la educación inicial, especial y básica;
 
-V. Diseñar, operar y desarrollar programas para la superación académica y profesional que proporcionan los servicios educativos y difundir los lineamientos respectivos entre el personal de supervisión, directivo, docente, técnico y auxiliares involucrados;
+V. Difundir los lineamientos generales de la instrumentación de eventos académicos, para que las instituciones educativas participen en la inscripción de proyectos de actualización, capacitación y desarrollo profesional del maestro;
 
-VI. Realizar propuestas de creación, consolidación, organización, expansión, modernización, fusión y extinción de los servicios de educación extraescolar y las unidades administrativas a su cargo;
+VI. Incorporar a los programas de actualización y capacitación para los maestros las innovaciones que se hayan incluido en los planes y programas de estudio de la educación básica;
 
-VII. Participar en los estudios de factibilidad, para el otorgamiento de reconocimiento de validez oficial de estudios a los particulares que soliciten abrir centros de capacitación para el trabajo y proponer la suspensión del mismo, cuando las instituciones no cumplan con las normas establecidas;
+VII. Planear, organizar y promover acciones interinstitucionales que fortalezcan el desarrollo personal y profesional de los maestros en servicio, considerando las opiniones y propuestas que al respecto emitan las autoridades educativas locales y los diversos sectores sociales involucrados en la educación;
 
-VIII. Promover, coordinar y establecer convenios con los sectores público y privado y con la sociedad en su conjunto, para que coadyuven en la mejor prestación de los servicios educativos de educación extraescolar, así como detectar y priorizar la atención a las necesidades de estos en el Estado;
+VIII. Establecer la colaboración entre las diversas instituciones dedicadas a la investigación educativa, a fin de enriquecer las acciones de actualización y capacitación;
 
-IX. Promover, autorizar, operar, consolidar, supervisar y evaluar el uso o distribución de los medios de comunicación y recursos tecnológicos, como apoyos al proceso enseñanza - aprendizaje a través de los servicios de computación electrónica en educación básica y comunicación educativa;
+IX. Generar y aplicar estrategias de investigación que deriven en diagnóstico de necesidades de capacitación, actualización y superación profesional de los docentes a nivel estatal, regional y local;
 
-X. Coordinar y otorgar cuando proceda la acreditación de los saberes a los que lo soliciten, conjuntamente con los lideres de proyectos de conformidad con las disposiciones legales aplicables; y,
+X. Diseñar materiales de estudio, guías de trabajo y demás auxiliares didácticos impresos, en audio, video u otro medio para los programas de actualización y capacitación de maestros, en coordinación con las unidades administrativas competentes de la Secretaría de Educación;
 
-XI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+XI. Proponer criterios, procedimientos e instrumentos para la evaluación y acreditación de los estudios derivados de los programas de actualización y capacitación de maestros, en coordinación con las unidades administrativas; y,
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN GENERAL PARA ABATIR EL REZAGO EDUCATIVO
+XII. Las demás que le señale el Subsecretario de Educación Básica y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO TERCERO], P.O. 16 DE ENERO DE 2012)</small>
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE DESARROLLO E INVESTIGACIÓN EDUCATIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 125.
 
@@ -4659,9 +4747,13 @@ VIII. Promover, coordinar, supervisar y vigilar que las atribuciones de docencia
 
 IX. Establecer mecanismos de coordinación con las instituciones y unidades administrativas centralizadas de los subsistemas de educación que operan en el Estado, a efecto de acordar políticas y acciones para la planeación y el desarrollo de este tipo educativo;
 
-X. Instrumentar propuestas y estudios de proyectos que amplíen la capacidad de educación media superior y superior;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XI. Supervisar y evaluar que las instituciones incorporadas a la Secretaría de Educación, que impartan estos niveles de educación, cumplan con las normas aplicables, y en su caso, substanciar los procedimientos e imponer las sanciones correspondientes;
+X. Instrumentar propuestas y estudios de proyectos que amplíen la capacidad en la infraestructura de educación media superior y superior;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XI. Supervisar y evaluar que las instituciones incorporadas a la Secretaría de Educación, que impartan estos niveles de educación, cumplan con las normas aplicables, y en caso contrario reportar al área competente la violación a la normatividad;
 
 XII. Promover la coordinación entre las instituciones de educación media superior y superior, así como el mejoramiento administrativo de las mismas;
 
@@ -4671,11 +4763,25 @@ XIV. Vigilar el ejercicio profesional en términos de la ley relativa al ejercic
 
 XV. Proponer la adopción de medidas de coordinación que, de conformidad con el marco constitucional, permitan uniformar las normas a que deba sujetarse el ejercicio profesional en el Estado e instrumentar medidas que permitan llevar a cabo la regulación y vigilancia del ejercicio profesional;
 
-XVI. Autenticar conforme a la delegación que expresamente emita el Secretario de Educación, los certificados, títulos, diplomas o grados otorgados en el área de su competencia, de conformidad con las disposiciones y lineamientos establecidos; y,
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XVII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+XVI. Autenticar conforme a la delegación que expresamente emita el Secretario de Educación, los certificados, títulos, diplomas o grados otorgados en el área de su competencia, de conformidad con las disposiciones y lineamientos establecidos;
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS DE TECNOLOGÍA EDUCATIVA
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XVII. Participar en el estudio y decisiones según sea el caso de los proyectos para la creación de Instituciones de Educación Media Superior y Superior que se ajusten estrictamente a la normatividad;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XVIII. Estudiar, elaborar y someter a consideración de las autoridades respectivas, los proyectos de resolución que otorguen o retiren el reconocimiento de validez oficial de estudios de educación media superior y superior, en coordinación con el Enlace Jurídico de la Secretaría de Educación; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN EDUCATIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 126.
 
@@ -4691,23 +4797,33 @@ IV. Acordar los mecanismos de coordinación necesaria en los municipios, para la
 
 V. Participar en coordinación con las unidades administrativas y organismos competentes, en el estudio y decisiones según el caso, de los proyectos para la creación de instituciones de educación media superior;
 
-VI. Coordinar, supervisar y evaluar el rendimiento de los recursos destinados a las instituciones de educación media superior en el Estado, de acuerdo a la normativa establecida;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VI. Coordinar, supervisar y evaluar el rendimiento de los recursos financieros destinados a las instituciones de educación media superior en el Estado, de acuerdo a la normativa aplicable, estableciendo los mecanismos necesarios para su evaluación periódica;
 
 VII. Promover el mejoramiento de la calidad de la educación media superior y la solución de los problemas específicos de la misma;
 
-VIII. Proponer y desarrollar mecanismos dentro del ámbito de su competencia, para conocer la operación de las instituciones educativas del nivel medio superior, con el fin de evaluar y llevar seguimiento de los resultados de su desempeño;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-IX. Coordinar con las unidades administrativas, la operación de las políticas de reconocimiento de validez oficial de estudios, que imparten los planteles particulares de los niveles, así como de la revalidación y equivalencia de estudios y lineamientos generales que se emitan al respecto;
+VIII. Proponer y desarrollar mecanismos dentro del ámbito de su competencia, para conocer la operación de las instituciones educativas del nivel medio superior, con el fin de acompañar y llevar seguimiento de los resultados de su desempeño;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+IX. Coordinar con las unidades administrativas, la operación de las políticas de reconocimiento de validez oficial de estudios, que imparten los planteles particulares de los niveles de Educación Media Superior, así como de la revalidación y equivalencia de estudios y lineamientos generales que se emitan al respecto;
 
 X. Coordinar y apoyar los procesos de revalidación y equivalencia de estudios para la educación media superior, con excepción de la educación normal, de conformidad con las disposiciones legales y lineamientos aplicables;
 
-XI. Estudiar y someter a la consideración de las autoridades respectivas, los proyectos de resolución que otorguen o retiren el reconocimiento de validez oficial de estudios, en coordinación con la Unidad de Enlace Jurídico;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XII. Inspeccionar y vigilar, en términos de la legislación aplicable, que los servicios educativos que cuenten con reconocimiento de validez oficial, cumplan con las disposiciones legales aplicables, y en caso contrario aplicar las sanciones que impongan las unidades administrativas correspondientes;
+XI. Estudiar y someter a la consideración de las autoridades respectivas, los proyectos de resolución que otorguen o retiren el reconocimiento de validez oficial de estudios de educación media superior, en coordinación con el Enlace Jurídico de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XII. Inspeccionar y vigilar, en términos de la legislación aplicable, que los servicios educativos que cuenten con reconocimiento de validez oficial, cumplan con las disposiciones legales aplicables, y en caso contrario aplicar las sanciones que impongan las instancias correspondientes;
 
 XIII. Instrumentar y proponer mecanismos que extiendan el servicio educativo de bachillerato en modalidad abierta, así como formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de este servicio;
 
-XIV. Coordinar y vigilar la operación de los planteles tecnológicos conforme a los lineamientos correspondientes, así como coadyuvar a la vinculación de estas instituciones con el sector productivo;
+XIV. (DEROGADA, P.O. 16 DE ENERO DE 2012)
 
 XV. Promover y fomentar la investigación tecnológica e industrial y la capacitación para el trabajo, en coordinación con el sector productivo, dependencias, coordinaciones y entidades, así como cuidar la formación de profesionistas y técnicos, en las áreas educativas a que se refiere este artículo, para satisfacer las demandas regionales;
 
@@ -4717,13 +4833,25 @@ XVII. Vigilar el ejercicio profesional en términos de la Ley relativa al ejerci
 
 XVIII. Registrar los títulos profesionales, tramitar la expedición de cédulas profesionales y autorizar el ejercicio profesional de quienes tengan en trámite su título, todo ello con apego a las disposiciones legales aplicables;
 
-XIX. Evaluar el funcionamiento de las instituciones de educación media superior en sus diversas modalidades;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XX. Coadyuvar al logro de la finalidad del Sistema Nacional de Orientación Educativa; y,
+XIX. Dar seguimiento al funcionamiento de las instituciones de educación media superior en sus diversas modalidades;
 
-XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN III. DE LA COORDINACIÓN DE PROGRAMAS COMPENSATORIOS
+XX. Coadyuvar al logro de la finalidad del Sistema Nacional de Orientación Educativa;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XXI. Impulsar las reformas curriculares de los estudios de bachillerato que resulten; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XXII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 127.
 
@@ -4739,23 +4867,37 @@ IV. Acordar los mecanismos de coordinación necesaria en los municipios, para la
 
 V. Participar en coordinación con las unidades administrativas y organismos competentes, en el estudio y decisiones según el caso, de los proyectos para la creación de instituciones de educación superior;
 
-VI. Coordinar, supervisar y evaluar el rendimiento de los recursos destinados a las instituciones de educación superior en el Estado, de acuerdo a la normativa establecida;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VII. Promover el mejoramiento de la calidad de la educación superior y la solución de los problemas específicos de la misma;
+VI. Coordinar, supervisar y evaluar el rendimiento de los recursos financieros destinados a las instituciones de educación superior en el Estado, de acuerdo a la normativa establecida;
 
-VIII. Proponer y desarrollar mecanismos dentro del ámbito de su competencia, para conocer la operación de las instituciones educativas del nivel superior, con el fin de evaluar y llevar seguimiento de los resultados de su desempeño;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-IX. Coordinar con las unidades administrativas, la operación de las políticas de reconocimiento de validez oficial de estudios, que imparten los planteles particulares de los niveles, así como de la revalidación y equivalencia de estudios y lineamientos generales que se emitan al respecto;
+VII. Promover el mejoramiento de la calidad de la educación superior y la solución de los problemas específicos de la misma estableciendo los mecanismos necesarios para su evaluación periódica;
 
-X. Coordinar y apoyar los procesos de revalidación y equivalencia de estudios para la educación superior, con excepción de la educación normal, de conformidad con las disposiciones legales y lineamientos aplicables;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XI. Estudiar y someter a la consideración de las autoridades respectivas, los proyectos de resolución que otorguen o retiren el reconocimiento de validez oficial de estudios, en coordinación con la Unidad de Enlace Jurídico;
+VIII. Proponer y desarrollar mecanismos dentro del ámbito de su competencia, para conocer la operación de las instituciones educativas del nivel superior, con el fin dar (sic) seguimiento a los resultados de su desempeño;
 
-XII. Inspeccionar y vigilar, en términos de la legislación aplicable, que los servicios educativos que cuenten con reconocimiento de validez oficial, cumplan con las disposiciones legales aplicables, y en caso contrario aplicar las sanciones que impongan las unidades administrativas correspondientes;
+IX. (DEROGADA, P.O. 16 DE ENERO DE 2012)
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+X. Apoyar los procesos de revalidación y equivalencia de estudios para la educación superior, con excepción de la educación normal, de conformidad con las disposiciones legales y lineamientos aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XI. Estudiar y someter a la consideración de las autoridades respectivas, los proyectos de resolución que otorguen o retiren el reconocimiento de validez oficial de estudios de educación superior, en coordinación con el Enlace Jurídico de Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XII. Inspeccionar y vigilar, en términos de la legislación aplicable, que los servicios educativos que cuenten con reconocimiento de validez oficial, cumplan con las disposiciones legales aplicables, y en caso contrario reportar al área competente la violación a la normatividad;
 
 XIII. Instrumentar y proponer mecanismos que extiendan el servicio educativo de bachillerato en modalidad abierta, así como formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de este servicio;
 
-XIV. Coordinar y vigilar la operación de los planteles tecnológicos conforme a los lineamientos correspondientes, así como coadyuvar a la vinculación de estas instituciones con el sector productivo;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XIV. Coordinar y vigilar la operación de los planteles tecnológicos estatales conforme a los lineamientos correspondientes, así como coadyuvar a la vinculación de estas instituciones con el sector productivo;
 
 XV. Promover y fomentar la investigación tecnológica e industrial y la capacitación para el trabajo, en coordinación con el sector productivo, dependencias, coordinaciones y entidades, así como cuidar la formación de profesionistas, en las áreas educativas a que se refiere este artículo, para satisfacer las demandas regionales;
 
@@ -4765,13 +4907,19 @@ XVII. Vigilar el ejercicio profesional en términos de la Ley relativa al ejerci
 
 XVIII. Registrar los títulos profesionales y grados académicos, tramitar la expedición de cédulas profesionales y autorizar el ejercicio profesional de quienes tengan en trámite su título, todo ello con apego a las disposiciones legales aplicables;
 
-XIX. Evaluar el funcionamiento de las instituciones de educación superior en sus diversas modalidades;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XX. Coadyuvar al logro de la finalidad del Sistema Nacional de Orientación Educativa; y,
+XIX. Dar seguimiento al funcionamiento de las instituciones de Educación Superior incorporadas a la Secretaría de Educación en sus diversas modalidades;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XX. Coadyuvar al logro del Sistema Nacional de Orientación Educativa; y,
 
 XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA UNIDAD DE VINCULACIÓN Y ASISTENCIA TÉCNICA
+#### SECCIÓN III. DE LA DIRECCIÓN DE INCORPORACIÓN, CONTROL Y CERTIFICACIÓN
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 128.
 
@@ -4781,19 +4929,31 @@ I. Organizar, operar, desarrollar, supervisar, evaluar y llevar el seguimiento d
 
 II. Recopilar, de conformidad con las unidades administrativas de la Secretaría de Educación, información y material de análisis sobre los resultados en la evaluación de normas, planes y programas de estudio, métodos y contenidos educativos, materiales y auxiliares didácticos e instrumentos para la evaluación del aprendizaje en materia de educación para la formación de docentes;
 
-III. Diseñar, organizar y coordinar la aplicación de cursos de capacitación y actualización para el personal directivo y docente de educación inicial, especial, básica, normal, Centro de Actualización del Maestro y la Universidad Pedagógica Nacional en el Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-IV. Coordinar, supervisar, evaluar y dar seguimiento a las actividades que realizan los planteles de educación normal, Centro de Actualización del Maestro y la Universidad Pedagógica Nacional;
+III. Diseñar, organizar y coordinar la aplicación de cursos de capacitación y actualización para el personal del nivel en el Estado;
 
-V. Coordinar actividades con las autoridades e instituciones educativas formadoras de docentes, para la constitución y funcionamiento del Sistema Estatal de Formación y Superación Profesional para Maestros, en términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VI. Efectuar estudios de opinión y análisis e investigación entre padres de familia, estudiantes, docentes, directivos de planteles escolares, instituciones educativas, así como entre aquellos sectores interesados en efectuar aportaciones con objeto de recabar información sobre la vigencia y modificaciones de los planes de estudio de educación inicial, especial, básica, normal, Centro de Actualización del Maestro y Universidad Pedagógica Nacional, para efectuar modificaciones a los mismos;
+IV. Coordinar, supervisar, evaluar y dar seguimiento a las actividades que realizan los planteles de educación normal, Centro de Actualización del Maestro, Instituto Michoacano de Ciencias de la Educación y la Universidad Pedagógica Nacional;
 
-VII. Impulsar, promover, coordinar, supervisar, evaluar y dar seguimiento a proyectos de investigación educativa en sus diversos tipos y modalidades, con el fin de identificar y seleccionar las necesidades de la sociedad, que sean susceptibles de atenderse a través del diseño o actualización de los planes y programas de estudio;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+V. Coordinar actividades con las autoridades e instituciones educativas formadoras de docentes, para la constitución y funcionamiento del Sistema Estatal de Formación de Profesionales de la Educación, en términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VI. Efectuar estudios de opinión y análisis e investigación entre padres de familia, estudiantes, docentes, directivos de planteles escolares, instituciones educativas, así como entre aquellos sectores interesados en efectuar aportaciones con objeto de recabar información sobre la vigencia y modificaciones de los planes de estudio de educación inicial, especial, básica, normal, Centro de Actualización del Maestro, Instituto Michoacano de Ciencias de la Educación y Universidad Pedagógica Nacional, para efectuar modificaciones a los mismos;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VII. Impulsar, promover, coordinar, operar, supervisar, evaluar y dar seguimiento a proyectos de investigación educativa en sus diversos tipos y modalidades, con el fin de identificar y seleccionar las necesidades de la sociedad, que sean susceptibles de atenderse a través del diseño o actualización de los planes y programas de estudio;
 
 VIII. Planear, diseñar, organizar, operar, supervisar, evaluar y dar seguimiento a los procesos para el otorgamiento de becas comisión para cursar estudios de postgrado en instituciones nacionales y del extranjero para la formación y superación profesional; así como difundir las convocatorias de los países con los que México tiene convenios establecidos para tal efecto, conforme a los lineamientos vigentes;
 
-IX. Inspeccionar y vigilar que los servicios de formación y superación docente, que cuenten con reconocimiento de validez oficial de estudios de la Secretaría de Educación, cumplan con las disposiciones legales aplicables y, en caso contrario, sustanciar los procedimientos e imponer las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+IX. Inspeccionar y vigilar que los servicios de formación y superación docente, que cuenten con reconocimiento de validez oficial de estudios de la Secretaría de Educación, cumplan con las disposiciones legales aplicables y, en caso contrario, reportar al área competente las disposiciones normativas infringidas;
 
 X. Estudiar y gestionar de acuerdo con los lineamientos establecidos, las solicitudes para otorgar reconocimiento de validez oficial a los estudios de los planteles de formación docente;
 
@@ -4801,335 +4961,309 @@ XI. Coadyuvar para el logro de las finalidades del Sistema Nacional de Orientaci
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE PLANEACIÓN, EVALUACIÓN Y PROGRAMACIÓN EDUCATIVA
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 16 DE ENERO DE 2012)</small>
+
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE EDUCACIÓN INDÍGENA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 129.
 
-Al Coordinador General para Abatir el Rezago Educativo le corresponde el ejercicio de las facultades siguientes:
+Al Coordinador General de Planeación y Evaluación Educativa le corresponde el ejercicio de las facultades siguientes:
 
-I. Proporcionar atención a los grupos de mayor marginación y rezago educativo promoviendo acciones que permitan ampliar y mejorar la cobertura y calidad de los servicios educativos a estos sectores;
+I. Proponer en términos de la legislación vigente, los objetivos y metas del programa de la Secretaría de Educación, así como los lineamientos generales para la formulación de programas institucionales, regionales y especiales;
 
-II. Atender de manera especial y prioritaria las escuelas y comunidades de las zonas marginadas del Estado;
+II. Planear las estrategias a corto, mediano y largo plazo para atender las demandas del crecimiento educativo en el Estado, conforme a las políticas y lineamientos del Plan Estatal de Desarrollo y el Programa de Desarrollo Educativo;
 
-III. Implementar las acciones y programas necesarios a favor de quienes abandonaron el sistema educativo regular, para que concluyan sus estudios de nivel básico, medio superior y superior, con el apoyo de otras modalidades educativas;
+III. Participar en los grupos de trabajo que se establezcan en el Sistema Educativo Nacional, con el fin de coordinar la formulación y aplicación de las políticas, estrategias y acciones de planeación y evaluación educativa en el Estado, en un marco federalista;
 
-IV. Impulsar en la escuela el uso pedagógico de nuevas tecnologías de la información y de la comunicación;
+IV. Coordinar el funcionamiento del Sistema Integral de Información Educativa de Michoacán, estableciendo los vínculos necesarios con las demás unidades administrativas de la Secretaría de Educación;
 
-V. Proponer las estrategias de diagnóstico, seguimiento, evaluación e investigación cualitativas y cuantitativas acerca de los centros escolares, comunidades, municipios y regiones con la finalidad de desarrollar propuestas que permitan mejorar los indicadores educativos;
+V. Coordinar la actualización de los sistemas de información relacionados con la planeación del sector educativo, así como la elaboración y publicación de la estadística del mismo;
 
-VI. Autorizar en términos de la legislación vigente, programas socioeducativos por virtud de los cuales se apoye con recursos específicos a los municipios del Estado con mayores rezagos educativos;
+VI. Coordinar la formulación, implementación y aplicación de los programas y proyectos que estén bajo su responsabilidad;
 
-VII. Proponer las políticas y lineamientos bajo los cuales deberán operarse en la entidad los programas socioeducativos en favor de las zonas con mayor rezago educativo;
+VII. Proponer procedimientos de control, verificación y seguimiento que permitan conocer con objetividad, precisión y regularidad el desarrollo del Sistema Educativo Estatal;
 
-VIII. Impulsar el establecimiento de las modalidades de Educación Abierta y a Distancia en todas las instituciones del sistema educativo estatal;
+VIII. Gestionar convenios con instituciones afines estatales o federales, para unificar criterios de información en materia de estadística educativa;
 
-IX. Gestionar con el apoyo de la Secretaría, otras fuentes de financiamiento social para abatir el rezago educativo en todas las regiones de la entidad;
+IX. Integrar el programa de obra, mantenimiento y equipamiento del sector educativo, así como metas anuales de los programas respectivos y evaluar los efectos de las políticas que se apliquen en el Sistema Educativo Estatal;
 
-X. Apoyar la labor de los docentes a través de la telecomunicación y la informática, con la finalidad de fomentar la adquisición de conocimientos a través de los medios de comunicación e información, en sus diversas combinaciones para ofrecer opciones educativas flexibles en tiempo y espacio;
+X. Proponer las políticas y estrategias del sistema estatal de evaluación de la educación, que oriente la planeación integral del Sistema Educativo en general, así como recomendar a las instancias correspondientes, los programas y proyectos que eleven la calidad educativa en el Estado;
 
-XI. Promover la cultura de la educación continua, para elevar el nivel de la educación entre la población michoacana;
+XI. Proponer al Secretario de Educación la regulación de la matricula de los servicios educativos, de acuerdo a las prioridades de atención a la población demandante;
 
-XII. Promover que los profesores, los investigadores y los centros educativos de todos los niveles conozcan y se apropien de las aportaciones del uso de las nuevas tecnologías como herramientas didácticas para la práctica en el proceso de enseñanza-aprendizaje, con el propósito de favorecer en los alumnos y padres de familia el desarrollo de sus capacidades para el manejo de la información y la resolución de problemas;
+XII. Dirigir y coordinar los procesos de la programación detallada anual de los servicios educativos en el Estado;
 
-XIII. Impulsar el establecimiento de los servicios de Videotecas Escolares, Red Escolar en primaria y secundaria, Red Edusat, Educación a Distancia para el nivel básico para Adultos, Educación Media Superior y Superior en todas las instituciones públicas del sistema educativa estatal;
+XIII. Difundir y vigilar en coordinación con las unidades administrativas competentes de la Secretaría de Educación, la aplicación de normas para la acreditación, registro y certificación de los conocimientos y aptitudes adquiridos a través de los sistemas que son responsabilidad de la Secretaría de Educación, de acuerdo a las disposiciones legales aplicables;
 
-XIV. Autorizar los proyectos de investigación educativa que proporcionen nuevos elementos pedagógicos o soluciones importantes a las problemáticas existentes en el sistema educativo estatal;
+XIV. Coordinar y supervisar la aplicación de las normas y criterios generales que regulan el sistema de créditos, revalidación y de equivalencia que faciliten el tránsito de educandos de un tipo, nivel o modalidad educativo a otro;
 
-XV. Proponer las estrategias de vinculación con otras instituciones educativas o de investigación, estatales, nacionales o internacionales, que representen avances pedagógicos en el uso de tecnologías de la información y la innovación educativa;
+XV. Vigilar en términos de la normativa vigente, los servicios educativos que se realicen en los planteles particulares incorporados y, de haber incumplimiento de la misma, aplicar las sanciones procedentes;
 
-XVI. Proponer la celebración de convenios de colaboración con otras instituciones educativas, sociales, públicas o de investigación, que favorezcan el fortalecimiento de los programas para abatir el rezago educativo, el desarrollo de las tecnologías de la información, la comunicación educativa y la implementación de nuevas modalidades de la educación; y,
-
-XVII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN EDUCATIVA
-
-###### ARTÍCULO 130.
-
-Al Director de Proyectos de Investigación e Innovación le corresponde el ejercicio de las facultades siguientes:
-
-I. Coordinar y evaluar los proyectos de investigación educativa que proporcionen nuevos elementos pedagógicos o soluciones importantes a las problemáticas existentes en el sistema educativo estatal;
-
-II. Establecer las políticas y lineamientos bajo los cuales deberán llevarse a cabo los proyectos de investigación educativa, en todos los niveles del sistema educativo;
-
-III. Proponer la celebración de convenios de colaboración con otras instituciones educativas, sociales, públicas o de investigación, que favorezcan el desarrollo de proyectos de investigación para abatir el rezago educativo, promover el desarrollo de las tecnologías de la información, la comunicación educativa y la implementación de nuevas modalidades de la educación;
-
-IV. Promover la realización de proyectos de investigación que resuelvan problemáticas educativas comunes con otras regiones del país o con otros países;
-
-V. Gestionar fondos y recursos financieros que favorezcan el desarrollo de los proyectos de investigación, con otros organismos públicos o privados que apoyen la investigación educativa;
-
-VI. Establecer una política y un programa editorial para difundir el resultado de los proyectos de investigación entre los diferentes sujetos del sistema educativo;
-
-VII. Proponer a los niveles educativos la incorporación de nuevas tendencias, conocimientos, innovaciones educativas y técnicas pedagógicas, que surjan como resultado de los proyectos de investigación;
-
-VIII. Proponer a la titular de la Secretaría, diversas medidas técnicas o académicas generales que resuelvan problemáticas fundamentales del sistema educativo, como resultado de los proyectos de investigación; y,
-
-IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
-
-###### ARTÍCULO 131.
-
-Al Director de Proyectos de Tecnología Educativa le corresponde el ejercicio de las facultades siguientes:
-
-I. Llevar servicios educativos a las comunidades con mayor grado de marginación social, utilizando las ventajas que ofrece la tecnología educativa;
-
-II. Incorporar al entorno educativo de las escuelas del nivel básico, las ventajas de los nuevos desarrollos tecnológicos, en particular aquellas ligadas al uso de las redes computacionales;
-
-III. Establecer un centro de formación, investigación, consulta y producción audiovisual capaz de dar servicio a docentes, investigadores, centros educativos, instituciones oficiales y particulares en todo el Estado;
-
-IV. Incorporar a la práctica docente de los maestros en servicio, el uso de los medios audiovisuales, con el fin de elevar la calidad de la enseñanza;
-
-V. Coadyuvar en la instrumentación y operación de los programas nacionales de capacitación, actualización y mejoramiento de los maestros en servicio pertenecientes a los distintos niveles de Educación Básica en la entidad;
-
-VI. Contribuir en la instrumentación, operación y evaluación de un Programa de Educación Continua para la población en general con la finalidad de incrementar la cultura de la Educación para la Vida;
-
-VII. Promover la Cultura de la Informática y la Tecnología Educativa de los medios de comunicación electrónica entre investigadores, docentes, directivos, alumnos y la sociedad michoacana en general;
-
-VIII. Ofrecer a la comunidad educativa, materiales audiovisuales e informáticos sobre temas educativos y culturales, que coadyuven al fortalecimiento del proceso enseñanza-aprendizaje;
-
-IX. Mantener actualizado el registro del equipo informático, audiovisual, electrónico y de apoyos didácticos del Sistema Educativo Estatal;
-
-X. Desarrollar programas que respondan a las características y necesidades del Sistema educativo Estatal, haciendo énfasis en los contenidos regionales y con apoyo de grupos técnicos de cada nivel educativo;
-
-XI. Articular las acciones que en materia de Informática, telecomunicaciones, recursos audiovisuales y electrónicos, se generen en los ámbitos municipal, estatal y federal, para su aplicación en el sistema educativo del Estado, de acuerdo a la normatividad aplicable;
-
-XII. Diseñar e implementar la aplicación de paquetes informáticos en la didáctica, así como en la administración escolar y en la administración de la educación básica;
-
-XIII. Proporcionar capacitación, asesoría, apoyos académicos y didácticos, para que los profesores de los diferentes niveles educativos y especialidades, elaboren en medios electrónicos los materiales gráficos, auditivos y visuales, que puedan servirles como herramientas para la docencia;
-
-XIV. Asesorar a organismos, instituciones y escuelas en la compra y manejo de equipos, de software educativo así como en equipos de telecomunicaciones;
-
-XV. Fomentar el uso educativo de medios informáticos y telemáticos para acceder al mundo de la nueva cultura de la información;
-
-XVI. Coordinar las acciones que se realicen en materia de informática entre el Gobierno del Estado, a través de la Secretaría de Educación, y la Secretaría de Educación Pública del Gobierno Federal; y,
-
-XVII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-#### SECCIÓN III. DE LA DIRECCIÓN DE INCORPORACIÓN, CONTROL Y CERTIFICACIÓN
-
-###### ARTÍCULO 132.
-
-Al Coordinador de Programas Compensatorios le corresponde el ejercicio de las facultades siguientes:
-
-I. Coordinar, difundir, instrumentar y evaluar los mecanismos operativos que garanticen el cumplimiento de las metas, objetivos y lineamientos de los programas compensatorios que se operen en la Entidad, de conformidad con las políticas establecidas por la Secretaría de Educación;
-
-II. Proponer en términos de la normativa vigente, programas compensatorios por virtud de los cuales se apoye con recursos específicos a los municipios del Estado con mayores rezagos educativos;
-
-III. Proponer de conformidad con la legislación vigente, la celebración de convenios con las instancias correspondientes, para la operación de programas compensatorios, donde se especifiquen las proporciones de financiamiento y las acciones específicas que se deban realizar para reducir y superar rezagos educativos;
-
-IV. Instrumentar estrategias de diagnóstico, evaluación e investigación cualitativas y cuantitativas que proporcionen información de las zonas de mayor rezago educativo, económico y social, para la integración de comunidades a estos programas;
-
-V. Programar, aplicar y evaluar los recursos económicos, materiales y otros apoyos dirigidos a escuelas, alumnos, docentes y directivos de las regiones donde operan estos programas;
-
-VI. Analizar y supervisar la operación y el desarrollo de los programas compensatorios, estableciendo mecanismos de coordinación con las unidades administrativas de los niveles educativos donde operen estos programas, y en su caso, proponer las medidas correctivas procedentes;
-
-VII. Evaluar en coordinación con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como con la iniciativa privada y organismos sociales, los programas compensatorios y proponer las medidas correctivas que permitan coadyuvar al abatimiento del rezago educativo;
-
-VIII. Integrar, sistematizar, controlar y difundir la información derivada de la operación de los programas compensatorios;
-
-IX. Planear, coordinar y establecer acciones de capacitación y actualización a los actores involucrados en los programas compensatorios, para eficientar su administración y operación;
-
-X. Promover en términos de las disposiciones legales aplicables el establecimiento de convenios de intercambios culturales y educativos con gobiernos e instituciones de otros estados, así como con organizaciones y organismos internacionales y con gobiernos de otros países, que permita favorecer y elevar el nivel educativo en las regiones detectadas con mayor rezago educativo en la Entidad;
-
-XI. Diseñar y proponer la incorporación de programas educativos compensatorios e innovadores que aseguren la permanencia de los alumnos en las escuelas; y,
-
-XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-#### SECCIÓN I. DE LAS UNIDADES REGIONALES DE EDUCACIÓN POPULAR
-
-###### ARTÍCULO 133.
-
-Al titular de la Unidad de Vinculación y Asistencia Técnica le corresponde el ejercicio de las facultades siguientes:
-
-I. Realizar las estrategias de vinculación con otras instituciones educativas o de investigación, estatales, nacionales e internacionales, para promover el intercambio de avances pedagógicos, en el uso de tecnologías de la información y la innovación educativa, que puedan ser aplicados al sistema educativo del Estado;
-
-II. Realizar acciones de vinculación interinstitucional con los sectores público, social y privado del Estado, con la finalidad de ampliar los presupuestos y recursos destinados a los programas compensatorios para abatir el rezago educativo;
-
-III. Proponer estrategias de vinculación con los municipios y otras entidades de la Administración Pública Estatal y Federal, para llevar a cabo programas conjuntos de atención al rezago educativo en la entidad;
-
-IV. Proporcionar a la Coordinación General para Abatir el Rezago Educativo los datos técnicos y estadístico necesarios para facilitar la atención a los grupos de mayor marginación y rezago educativo;
-
-V. Informar a la Coordinación General para Abatir el Rezago Educativo, la ubicación, características y condiciones socioeconómicas y de infraestructura de las escuelas de zonas marginadas del Estado que requieren una atención prioritaria;
-
-VI. Auxiliar a la Coordinación General para Abatir el Rezago Educativo en la elaboración de diagnósticos, evaluación e investigación cualitativas y cuantitativas de las zonas de mayor rezago educativo, económico y social para la integración de las comunidades a los programas compensatorios;
-
-VII. Apoyar a la Coordinación de Programas Compensatorios, proporcionándole la información técnica necesaria, por virtud de los cuales se apoye con recursos específicos a los municipios del Estado con mayores rezagos educativos;
-
-VIII. Apoyar a las Direcciones de Proyectos en Investigación e Innovación y en Tecnología Educativa, proporcionándoles cualquier información técnica o estadística que requieran para el desempeño de sus funciones; y,
-
-IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-### CAPÍTULO SEXTO. DE LA DIRECCIÓN DE EDUCACIÓN INDÍGENA
-
-###### ARTÍCULO 134.
-
-Al Coordinador de Planeación, Evaluación y Programación Educativa le corresponde el ejercicio de las facultades siguientes:
-
-I. Planear las estrategias a corto, mediano y largo plazo para atender las demandas del crecimiento educativo en el Estado, conforme a las políticas y lineamientos del Plan de Desarrollo Estatal y del Programa de Desarrollo Educativo;
-
-II. Proponer en términos de la legislación vigente, los objetivos y metas del programa del sector educativo, así como sus programas institucionales, regionales y especiales;
-
-III. Proponer el establecimiento de programas compensatorios que pudieran apoyar con recursos obtenidos por diversas fuentes de financiamiento, para ser canalizados a los municipios de mayor rezago educativo, previa celebración de convenios;
-
-IV. Planear, coordinar y evaluar en términos de las disposiciones legales aplicables los programas compensatorios que apoyen con recursos específicos a los gobiernos de los municipios con mayor rezago educativo;
-
-V. Dirigir, desarrollar y mantener actualizados los sistemas de información relacionados con la planeación del sector educativo, así como la elaboración y publicación de la estadística del mismo;
-
-VI. Proponer procedimientos de control, verificación y seguimiento que permitan conocer con objetividad, precisión y regularidad el desarrollo del Sistema Educativo Estatal;
-
-VII. Gestionar convenios con instituciones afines estatales o federales, para unificar criterios de información en materia de estadística educativa;
-
-VIII. Integrar el programa de obra, mantenimiento y equipamiento del sector educativo, así como metas anuales de los programas respectivos y evaluar los efectos de las políticas que se apliquen en el Sistema Educativo Estatal;
-
-IX. Proponer las políticas y estrategias del Sistema Estatal de Evaluación Educativa, que oriente la planeación integral del Sistema Educativo en general, así como recomendar a las instancias correspondientes, los programas y proyectos que eleven la calidad educativa de la Entidad;
-
-X. Proponer al Secretario de Educación la regulación de la matrícula de los servicios educativos, de acuerdo a las prioridades de atención a la población demandante;
-
-XI. Dirigir y coordinar los procesos de microplaneación y programación detallada anual de los servicios educativos en la Entidad;
-
-XII. Difundir y vigilar en coordinación con las unidades administrativas competentes de la Secretaría de Educación, la aplicación de normas para la acreditación, registro y certificación de los conocimientos y aptitudes adquiridos a través de los sistemas que son responsabilidad de la Secretaría de Educación, de acuerdo a las disposiciones legales aplicables;
-
-XIII. Coordinar y supervisar la aplicación de las normas y criterios generales que regulan el sistema de créditos, revalidación y de equivalencia que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
-
-XIV. Vigilar la aplicación de la normativa en materia de becas oficiales y proponer los mecanismos operativos del Sistema Estatal de Becas, para los estudiantes de los diversos niveles educativos;
-
-XV. Vigilar en términos de la normativa vigente, los servicios educativos que se realicen en los planteles particulares incorporados y, en su caso, imponer las sanciones procedentes;
-
-XVI. Promover la instrumentación de mecanismos que faciliten la desconcentración de los servicios de planeación educativa a las direcciones regionales;
+XVI. Promover y coadyuvar para la desconcentración de servicios y acciones de planeación y evaluación educativa a las unidades administrativas regionales;
 
 XVII. Difundir, supervisar y evaluar las políticas de la Secretaría de Educación en materia de autorización y reconocimiento de validez oficial de estudios de planteles educativos particulares, así como de revalidación y equivalencia de estudios;
 
-XVIII. Proponer al Secretario de Educación la adscripción del personal de confianza a su cargo;
+XVIII. Proponer al Secretario de Educación la adscripción del personal de confianza a su cargo; y,
 
-XIX. Integrar, aplicar y evaluar un sistema de información administrativa de la educación en el Estado a través de modelos informáticos;
+XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-XX. Coordinar la evaluación de la educación básica que imparte la Secretaría de Educación, a través de sus planteles en el Estado, y proponer en base a los resultados obtenidos, las modificaciones que contribuyan a su permanente actualización; y,
+#### SECCIÓN IV. DE LA UNIDAD DE VINCULACIÓN Y ASISTENCIA TÉCNICA
 
-XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+###### ARTÍCULO 130.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL
+Al Director de Planeación Educativa le corresponde el ejercicio de las facultades siguientes;
 
-###### ARTÍCULO 135.
+I. Coordinar la planeación del sector educativo, así como la elaboración y la publicación de las estadísticas del mismo, de conformidad con las disposiciones normativas aplicables;
 
-Al Director de Planeación Educativa le corresponde el ejercicio de las facultades siguientes:
+II. Proponer, programar y validar los recursos docentes, de personal de apoyo e infraestructura para las escuelas de educación inicial, básica y especial, de conformidad con las disposiciones aplicables; así como coordinar los procedimientos de control, verificación y seguimiento correspondientes;
 
-I. Coordinar la planeación del sector educativo, así como la elaboración y la publicación de las estadísticas del mismo, de conformidad con las disposiciones aplicables;
+III. Realizar, de conformidad con los lineamientos establecidos, estudios de oferta y demanda de la educación inicial, básica y especial, que permitan proponer medidas para la creación, ampliación, modificación o cancelación de grupos y planteles en el Estado;
 
-II. Realizar, de conformidad con los lineamientos establecidos, estudios de oferta y demanda de la educación inicial, básica y especial, que permitan proponer medidas para la creación, ampliación, modificación o cancelación de grupos y planteles en el Estado;
+IV. Coordinar el proceso de detección de necesidades de expansión y desarrollo de los servicios de educación inicial, básica y especial en el Estado, así como la elaboración de la programación detallada;
 
-III. Integrar sistemas de información de los servicios de educación inicial, básica y especial en el Estado, que permitan conocer datos e integrar estadísticas respecto a la cobertura de dichos servicios;
+V. Coordinar con las direcciones de los niveles educativos la elaboración de los proyectos para la creación o reorganización de zonas de supervisión escolar; la consolidación, ampliación, sustitución y ubicación de planteles educativos, la asignación de recursos destinados para la prestación de los servicios educativos, y la formulación y evaluación de proyectos educativos;
 
-IV. Coordinar el proceso de detección de necesidades de expansión y desarrollo de los servicios de educación inicial, básica y especial en el Estado, así como la elaboración de la programación detallada y proponer las estrategias correspondientes;
+VI. Coordinar el levantamiento del diagnóstico de las necesidades de infraestructura educativa (construcción, rehabilitación, mantenimiento y equipamiento), validar el anteproyecto general de obra educativa y formular los programas de equipamiento y mantenimiento preventivo, conforme a la normativa correspondiente;
 
-V. Verificar que se lleve un Registro de Instituciones pertenecientes al Sistema Educativo Estatal;
+VII. Verificar que se lleve un Registro de Instituciones pertenecientes al Sistema Educativo Estatal;
 
-VI. Supervisar la observancia del calendario escolar en cuanto a la requisitación de los formatos estadísticos;
+VIII. Dirigir la integración, manejo y actualización de un banco de información para la planeación educativa;
 
-VII. Coordinar la integración, manejo y actualización de un banco de información para la planeación educativa;
+IX. Integrar, procesar, sistematizar, controlar y difundir la información estadística educativa del Estado;
 
-VIII. Integrar, procesar, sistematizar, controlar y difundir la información estadística educativa del Estado;
+X. Proponer las disposiciones técnicas y administrativas de planeación educativa, en coordinación con las unidades administrativas regionales; y,
 
-IX. Proponer las disposiciones técnicas y administrativas de planeación educativa, en coordinación con las direcciones regionales;
+XI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-X. Coordinar la evaluación de la educación básica que imparte la Secretaría de Educación a través de sus planteles en el Estado y proponer en base a los resultados obtenidos, las modificaciones que contribuyan a su permanente actualización;
+#### SECCIÓN I. DE LA DIRECCIÓN DE PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
 
-XI. Coordinar la realización de las propuestas de construcción, mantenimiento y equipamiento, conforme a la normativa correspondiente; y,
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
-
-#### SECCIÓN II. DE LA DIRECCIÓN DE INFORMÁTICA ADMINISTRATIVA
-
-###### ARTÍCULO 136.
+###### ARTÍCULO 131.
 
 Al Director de Evaluación Educativa le corresponde el ejercicio de las facultades siguientes:
 
-I. Analizar y resolver las solicitudes para otorgar autorización o reconocimiento de validez oficial de estudios a particulares, para impartir educación en todos sus tipos y modalidades, con excepción de aquellos casos en que dicha facultad esté encomendada a otras unidades administrativas de la Secretaría de Educación;
+I. Coordinar las actividades de evaluación del Sistema Educativo Estatal, así como contribuir en la aplicación de los instrumentos de evaluación requeridos por la Secretaría de Educación Pública, el Instituto Nacional para la Evaluación de la Educación y otras instituciones estatales, nacionales e internacionales especializadas en la materia;
 
-II. Proponer y evaluar las políticas de la Secretaría de Educación en materia de autorización y reconocimiento de validez oficial de estudios en los planteles particulares;
+II. Coordinar la elaboración del Sistema Estatal de Indicadores Educativos y mantenerlo vigente, conforme a los lineamientos federales que al respecto se emitan;
 
-III. Sustanciar el procedimiento y emitir las resoluciones que revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios a los particulares en términos de las disposiciones legales aplicables;
+III. Apoyar a las unidades administrativas competentes de la Secretaría de Educación en la realización de estudios que tengan por objeto medir los resultados obtenidos en la aplicación de normas, planes y programas de estudio, materiales didácticos e instrumentos para la evaluación del aprendizaje, así como la realización de programas de evaluación de la calidad con que se prestan los servicios educativos en el Estado;
 
-IV. Coordinar y vigilar la aplicación de normas y criterios establecidos para la operación del sistema de créditos, revalidación y equivalencias que faciliten el tránsito de educandos de un tipo o modalidad educativa a otro;
+IV. Difundir los resultados de los diversos procesos de evaluación y propiciar espacios para su discusión y análisis, a fin de aportar elementos sustantivos para la toma de decisiones;
 
-V. Vigilar en términos de la legislación aplicable, los servicios educativos que se realicen en los planteles particulares incorporados a la Secretaría de Educación, y en su caso, imponer las sanciones procedentes;
+V. Colaborar en la construcción del Sistema Integral de Información Educativa de Michoacán; y,
 
-VI. Integrar y mantener actualizada la estadística de las escuelas particulares que funcionen con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación;
+VI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-VII. Evaluar la prestación del servicio educativo en las escuelas particulares que funcionen con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación;
+#### SECCIÓN II. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA COMUNICACIÓN Y LA INFORMACIÓN EDUCATIVA
 
-VIII. Difundir, supervisar y verificar el cumplimiento de la aplicación de normas de control escolar, así como los conocimientos y aptitudes adquiridos a través del Sistema Educativo, en coordinación con las unidades administrativas competentes;
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
-IX. Elaborar, tramitar, validar y revalidar los certificados conforme a los lineamientos establecidos, así como controlar y supervisar la emisión y distribución de los materiales de apoyo para la certificación de estudios escolarizados;
+###### ARTÍCULO 132.
 
-X. Apoyar a las unidades administrativas competentes de la Secretaría de Educación en la realización de estudios que tengan por objeto medir los resultados obtenidos en la aplicación de normas, planes y programas de estudio, materiales didácticos e instrumentos para la evaluación del aprendizaje, así como la realización de programas de evaluación de la calidad con que se prestan los servicios educativos en el Estado;
+Al Director de Incorporación, Control y Certificación, le corresponde el ejercicio de las facultades siguientes:
 
-XI. Controlar las actividades de evaluación del Sistema Educativo Estatal, así como contribuir en la aplicación de los instrumentos de evaluación requeridos por la Secretaría de Educación;
+I. Proponer y evaluar las políticas de la Secretaría de Educación en materia de autorización y reconocimiento de validez oficial de estudios a los planteles particulares;
 
-XII. Vigilar la aplicación de la normativa correspondiente para el otorgamiento de becas oficiales para educación básica y normal, así como las otorgadas por los planteles particulares; y,
+II. Vigilar la correcta aplicación de la normativa vigente para el análisis y resolución de las solicitudes para otorgar autorización o reconocimiento de validez oficial de estudios a particulares, para impartir educación en todos sus tipos y modalidades, en coordinación con otras unidades administrativas de la Secretaría de Educación;
+
+III. Coordinar y vigilar la aplicación de normas y criterios establecidos para la operación del sistema de créditos, revalidación y equivalencias que faciliten el tránsito de educandos de un tipo o modalidad educativa a otro;
+
+IV. Integrar y mantener actualizada la estadística de las escuelas particulares que funcionen con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación; en correspondencia con los lineamientos derivados de la construcción del Sistema Integral de Información Educativa de Michoacán;
+
+V. Evaluar la prestación del servicio educativo en las escuelas particulares que funcionan con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación;
+
+VI. Instrumentar el procedimiento y emitir las resoluciones que revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios a los particulares en términos de las disposiciones legales aplicables;
+
+VII. Vigilar en términos de la legislación aplicable, los servicios educativos que se realicen en los planteles particulares incorporados a la Secretaría de Educación, y en su caso, imponer las sanciones procedentes;
+
+VIII. Difundir, supervisar y verificar el cumplimiento de las normas de Control Escolar en coordinación con las Unidades Administrativas competentes;
+
+IX. Elaborar, tramitar, validar y legalizar los certificados conforme a los lineamientos establecidos así como controlar y supervisar la emisión y distribución de los materiales de apoyo para la certificación de estudios escolarizados;
+
+X. Colaborar en la construcción del Sistema Integral de Información Educativa de Michoacán, en el módulo de Control Escolar; y,
+
+XI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+#### SECCION III. DE LA DIRECCIÓN DE PROGRAMAS COMPENSATORIOS
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 133.
+
+(DEROGADO, P.O. 16 DE ENERO DE 2012)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+### CAPÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE UNIDADES REGIONALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 134.
+
+Al Director General de Desarrollo e Investigación Educativa le corresponde el ejercicio de las facultades siguientes:
+
+I. Coadyuvar en términos de la legislación vigente en el ámbito de su competencia, en la operación de programas de desarrollo e investigación educativa, así como de programas compensatorios que permitan ampliar y mejorar la cobertura y calidad de los servicios educativos en el Estado;
+
+II. Diseñar y proponer estrategias de diagnóstico, seguimiento, evaluación e investigación educativa de los centros escolares, comunidades, municipios y regiones con la finalidad de desarrollar e incorporar propuestas que permitan mejorar los indicadores educativos;
+
+III. Impulsar el establecimiento de las modalidades de Educación Abierta, y a Distancia así como, el uso pedagógico de las nuevas tecnologías de la información y de la comunicación en instituciones del sistema educativo estatal;
+
+IV. Proponer políticas y lineamientos para la operación de programas compensatorios a favor de los (sic) zonas con mayor rezago educativo en el Estado;
+
+V. Promover la cultura de la educación continua, para elevar el nivel de la educación entre la población;
+
+VI. Apoyar la labor de los docentes a través de la telecomunicación y la informática, con la finalidad de fomentar la adquisición de conocimientos a través de los medios de comunicación e información, para ofrecer opciones educativas flexibles en tiempo y espacio;
+
+VII. Promover que los profesores e investigadores conozcan y se apropien de las aportaciones del uso de las nuevas tecnologías de la información y comunicación, como herramientas didácticas para la práctica en el proceso de enseñanza-aprendizaje;
+
+VIII. Analizar y autorizar la operación de proyectos de investigación educativa, que proporcionen nuevos elementos pedagógicos y que coadyuven en la búsqueda de soluciones a las problemáticas existentes en el sistema educativo estatal;
+
+IX. Proponer las estrategias de vinculación con otras instituciones educativas o de investigación, estatales, nacionales o internacionales; que favorezcan el fortalecimiento de los programas para abatir el rezago educativo, el desarrollo de las tecnologías de la información y comunicación, así como programas compensatorios;
+
+X. Promover, supervisar y evaluar los mecanismos de los programas compensatorios que se operen en el Estado, de conformidad con las políticas establecidas por las autoridades Federales y Estatales competentes;
+
+XI. Vigilar la aplicación de los lineamientos normativos en los mecanismos operativos del sistema estatal de becas; y,
+
+XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+#### SECCIÓN I. DE LAS UNIDADES REGIONALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 135.
+
+Al Director de Proyectos de Investigación e Innovación le corresponde el ejercicio de las facultades siguientes:
+
+I. Aprobar, coordinar y evaluar los proyectos de investigación educativa que proporcionen nuevos elementos pedagógicos, que coadyuven en la solución de la problemática existente en el sistema educativo estatal;
+
+II. Analizar y proponer las políticas y lineamientos bajo los cuáles deberán desarrollarse los proyectos de investigación educativa;
+
+III. Proponer la celebración de convenios de colaboración con otras instituciones educativas, sociales, públicas o privadas de investigación, que favorezcan el desarrollo de proyectos de investigación en el sistema educativo estatal;
+
+IV. Difundir el resultado de los proyectos de investigación e innovación que incidan favorablemente en la mejora del servicio que presta el sistema educativo estatal a través de un programa editorial;
+
+V. Proponer a los niveles educativos y modalidades la incorporación de nuevas tendencias, conocimientos, innovaciones educativas y técnicas pedagógicas, que surjan como resultado de los proyectos de investigación;
+
+VI. Gestionar fondos y recursos financieros que favorezcan el desarrollo de los proyectos de investigación e innovación con organismos públicos o privados que apoyen la investigación educativa;
+
+VII. Promover la formación de recursos humanos para la investigación e innovación educativa a partir de la promoción de posgrados, eventos académicos y fortalecimiento de redes y colectivos;
+
+VIII. Proponer y difundir opciones técnico-pedagógicas que incidan en la mejora del servicio educativo, como resultado de los proyectos de investigación e innovación; y,
+
+IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL
+
+###### ARTÍCULO 136.
+
+Al Director de Tecnologías de la Comunicación y la Información Educativa le corresponde el ejercicio de las facultades siguientes:
+
+I. Proponer la incorporación del uso de las tecnologías de la información y comunicación en los centros escolares de educación básica del Estado, en particular aquellas ligadas al uso de las redes computacionales;
+
+II. Establecer un centro de información, consulta y producción audiovisual capaz de dar servicio a docentes, investigadores, centros educativos, instituciones oficiales y particulares en todo el Estado;
+
+III. Incorporar a la práctica docente de los maestros en servicio, el uso de los medios audiovisuales, con el fin de elevar la calidad de la enseñanza;
+
+IV. Coadyuvar en la instrumentación y operación de los programas nacionales de capacitación, actualización y mejoramiento de los maestros en servicio pertenecientes a los distintos niveles de Educación Básica en el Estado;
+
+V. Contribuir en la instrumentación, operación y evaluación de un Programa de Educación Continua para la población en general con la finalidad de incrementar la cultura de la educación para la vida;
+
+VI. Promover la cultura de las tecnologías de la comunicación y la información entre investigadores, docentes, directivos, alumnos y la sociedad en general;
+
+VII. Ofrecer a la comunidad educativa, materiales audiovisuales e informáticos sobre temas educativos y culturales, que coadyuven al fortalecimiento del proceso enseñanza-aprendizaje;
+
+VIII. Desarrollar programas informáticos que respondan a las características y necesidades de la educación básica, haciendo énfasis en los contenidos regionales y con apoyo de grupos técnicos de cada nivel educativo;
+
+IX. Diseñar e implementar la aplicación de paquetes informáticos en la didáctica, así como en la administración escolar y en la administración de la educación básica;
+
+X. Proporcionar capacitación, asesoría, apoyos académicos y didácticos, para que los profesores de los diferentes niveles educativos y especialidades, elaboren en medios electrónicos los materiales gráficos, auditivos y visuales, que puedan servirles como herramientas para la docencia;
+
+XI. Asesorar a organismos, instituciones y escuelas en la compra y manejo de equipos, de software educativo, así como en equipos de telecomunicaciones;
+
+XII. Coordinar las acciones que se realicen en materia de informática entre el Gobierno del Estado, a través de la Secretaría de Educación, y la Secretaría de Educación Pública; y,
 
 XIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE INFORMÁTICA ADMINISTRATIVA
 
 ###### ARTÍCULO 137.
 
-Al Director de Incorporación Control y Certificación le corresponde el ejercicio de las facultades siguientes:
+Al Director de Programas Compensatorios le corresponde el ejercicio de las facultades siguientes:
 
-I. Proponer acciones para mejorar la calidad de los servicios de educación a cargo de la Secretaria, así como también proponer los lineamientos generales de valoración que las autoridades educativas locales deban realizar;
+I. Coordinar, difundir, instrumentar y evaluar los mecanismos operativos que garanticen el cumplimiento de las metas, objetivos y lineamientos de los programas compensatorios que se operen en el Estado, de conformidad con las políticas establecidas por la Secretaría de Educación;
 
-II. Proponer y evaluar las políticas de la Secretaría en materia de autorización y reconocimiento de validez oficial de estudios a los planteles particulares;
+II. Proponer, en términos de la normativa vigente, programas compensatorios mediante los cuales se apoye con recursos específicos a los municipios con mayores rezagos educativos en el Estado;
 
-III. Estudiar y resolver las solicitudes para otorgar autorización o reconocimiento de validez oficial de estudios a particulares que impartan educación en todos sus tipos y modalidades, con excepción de aquellos casos que sean competencia de otras áreas administrativas de la Secretaría;
+III. Proponer, de conformidad con la legislación vigente, la celebración de convenios con las instancias correspondientes, para la operación de programas compensatorios, donde se especifiquen las proporciones de financiamiento y las acciones específicas que se deban realizar para reducir y superar rezagos educativos;
 
-IV. Cumplir las normas y criterios generales que regulan el sistema nacional de créditos, de revalidación y de equivalencia, que faciliten el transito de educandos de un tipo de modalidad educativa a otro;
+IV. Instrumentar estrategias de coordinación para que la información derivada de estudios de diagnóstico, evaluación e investigación cualitativas y cuantitativas sobre las zonas de mayor rezago educativo, económico y social, sea proporcionada y utilizada para la integración de comunidades a programas compensatorios;
 
-V. Otorgar revalidación y equivalencias de estudios, con excepción de aquellos casos en que dicha atribución esté encomendada a otras áreas administrativas de la Secretaría de Educación;
+V. Programar y dar seguimiento a la aplicación de los recursos económicos, materiales y de otros tipos de apoyos dirigidos a escuelas, alumnos, docentes y directivos de las regiones donde operan programas compensatorios;
 
-VI. Elaborar y mantener actualizada la estadística de las escuelas oficiales y particulares de la entidad;
+VI. Analizar y supervisar la operación y el desarrollo de los programas compensatorios, estableciendo mecanismos de coordinación con las unidades administrativas de los niveles educativos donde operen estos programas, y en su caso, proponer las medidas de mejora procedentes;
 
-VII. Evaluar la prestación del servicio educativo en las escuelas particulares que funcionen con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría;
+VII. Dar seguimiento en coordinación con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como con la iniciativa privada y organismos sociales, a la operación de programas compensatorios, y proponer en su caso, las medidas necesarias para coadyuvar a contrarrestar condiciones de rezago educativo;
 
-VIII. Proponer procedimientos para expedir certificados, constancias, diplomas o títulos a quienes acreditan conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidáctica o a través de la experiencia laboral;
+VIII. Integrar, sistematizar, controlar y difundir la información derivada de la operación estatal de los programas compensatorios;
 
-IX. Proponer y establecer, conjuntamente con las instancias competentes de la Administración Pública Estatal, lineamientos de observancia estatal, para el régimen de certificación referido a la formación para el trabajo;
+IX. Planear y coordinar la operación estatal de acciones de capacitación y actualización a los actores involucrados en programas compensatorios, para eficientar su administración;
 
-X. Substanciar, en coordinación con el Asesor Jurídico de la Secretaría, el procedimiento y emitir las responsabilidades que revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios respecto de los casos señalados en la fracción anterior;
+X. Promover en términos de las disposiciones legales aplicables el establecimiento de convenios de intercambios educativos con gobiernos e instituciones de otras entidades federativas, con organizaciones y organismos internacionales y con gobiernos de otros países, que favorezcan el desarrollo de acciones para elevar el nivel educativo en las regiones detectadas con mayor rezago educativo en el Estado;
 
-XI. Inspeccionar y vigilar, en términos de la legislación aplicable, los servicios educativos que se realicen en los planteles particulares incorporados a la Secretaría o que estén gestionando su incorporación á ella o que sin estar incorporados, deban cumplir las disposiciones legales, y en su caso, imponer las sanciones procedentes;
+XI. Diseñar y proponer la incorporación de programas educativos compensatorios e innovadores que aseguren la permanencia de los alumnos en las escuelas;
 
-XII. Establecer los mecanismos operativos que garanticen el cumplimiento, por parte de los particulares, de los requisitos pedagógicos de los planes y programas de educación inicial y preescolar, así como también de las medidas que establece la ley para la impartición de educación a menores de edad; y,
-
-> <small>(F. DE E., P.O. 16 DE MAYO DE 2008)</small>
+XII. Vigilar la aplicación de la normativa en materia de becas oficiales y proponer los mecanismos operativos del sistema estatal de becas oficiales para educación básica y normal; y,
 
 XIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-### CAPÍTULO SÉPTIMO. DE LA COORDINACIÓN DE UNIDADES REGIONALES DE EDUACIÓN (SIC) POPULAR
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO SEXTO], P.O. 16 DE ENERO DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA DELEGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 138.
 
-Al Director de Educación Indígena le corresponde el ejercicio de las facultades siguientes:
+Al Director General de Educación Indígena le corresponde el ejercicio de las facultades siguientes:
 
-I. Llevar a cabo la organización y dirección de la operación y el funcionamiento de los servicios educativos de educación inicial, preescolar, primaria, secundaria, media superior y de apoyo asistencial, que se otorgan a los educandos de las comunidades indígenas, a efecto de garantizar su ingreso y permanencia en el Sistema de Educación Indígena;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+I. Realizar la organización y dirección de la operación y el funcionamiento de los servicios educativos de educación inicial, preescolar, primaria, secundaria, media superior y superior, así como los servicios de apoyo asistencial, que se otorgan a los educandos de las comunidades indígenas, a efecto de garantizar su ingreso y permanencia en el Sistema de Educación Indígena;
 
 II. Difundir y vigilar el cumplimiento de las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales y auxiliares didácticos e instrumentos para la evaluación del aprendizaje de la educación indígena, atendiendo a los lineamientos correspondientes;
 
 III. Fomentar, coordinar y supervisar que los servicios de educación indígena en el Estado, se desarrollen con orientación intercultural bilingüe, que asegure la formación integral de los alumnos pertenecientes a los diferentes grupos étnicos, así como promover el desarrollo de sus lenguas, costumbres, recursos y formas específicas de organización;
 
-IV. Proponer ante las unidades administrativas competentes, que sean incluidos contenidos regionales de los grupos étnicos para el desarrollo de los planes y programas de estudio, así como métodos, materiales y auxiliares didácticos e instrumentos para la evaluación del aprendizaje de la educación indígena;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+IV. Proponer ante las autoridades correspondientes, la inclusión contenidos regionales de los pueblos originarios para el desarrollo de los planes y programas de estudio, así como métodos, materiales y auxiliares didácticos e instrumentos para la evaluación del aprendizaje de la educación indígena;
 
 V. Impulsar la elaboración y producción de libros en lengua indígena, así como otros materiales de apoyo a la educación indígena, someterlos a análisis y en su caso, proponer su edición y difusión ante las unidades administrativas competentes;
 
-VI. Establecer mecanismos de coordinación con las unidades administrativas correspondientes, con objeto de que sean incorporados en los programas de capacitación y actualización de docentes para el medio indígena, así como las innovaciones que se hayan incluido en el Programa de Educación Indígena;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VII. Proponer al Secretario de Educación, programas con carácter experimental de educación indígena y, en su caso, operar los programas experimentales que elaboren las unidades administrativas de la Administración Pública Federal, correspondientes;
+VI. Establecer mecanismos de coordinación con las unidades administrativas correspondientes, con el objeto de que consideren la incorporación de los programas de capacitación y actualización de docentes para el medio indígena, así como las innovaciones que se hayan desarrollado en los programas de educación indígena;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VII. Proponer al Secretario de Educación, programas con carácter experimental de educación indígena y, en su caso, operar los programas experimentales que elabore la Administración Pública Federal, correspondientes;
 
 VIII. Diseñar y proponer contenidos educativos, materiales y auxiliares didácticos para la elaboración de programas de radio y televisión, acordes con la comunidad a quienes se dirijan, en apoyo a los planes y programas de estudio de la educación indígena;
 
 IX. Analizar y en su caso, considerar las opiniones de las autoridades educativas locales y de los diversos sectores involucrados en la educación, expresadas a través del Consejo Estatal de Participación Social en la Educación, con el fin de incorporar aquellas que aporten elementos para modernizar y elevar la calidad de la educación indígena;
 
-X. Realizar investigaciones para el desarrollo y supervisión de las tareas de educación indígena, coordinándose con las unidades administrativas correspondientes, así como fomentar las que efectúen los sectores público y privado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-XI. Establecer mecanismos de recepción de las opiniones de las autoridades educativas y de los diversos sectores de la población indígena, que permitan el mejoramiento y fortalecimiento de la educación que se imparta a los grupos étnicos del Estado;
+X. Realizar investigaciones para el desarrollo y supervisión de las tareas de educación indígena, en coordinación con las instituciones educativas y unidades administrativas correspondientes, así como con los sectores público y privado;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XI. Establecer mecanismos de recepción de las opiniones de las autoridades educativas y de los diversos sectores de la población indígena, que permitan el mejoramiento y fortalecimiento de la educación que se imparta a los pueblos originarios del Estado;
 
 XII. Proponer la celebración de convenios con diversas dependencias e instituciones que beneficien el desarrollo de la educación en el medio indígena, así como formar parte de comités especiales que se integren para tal efecto;
 
@@ -5137,13 +5271,21 @@ XIII. Impulsar la participación de las asociaciones de padres de familia en apo
 
 XIV. Diseñar, programar, instrumentar, supervisar y evaluar acciones encaminadas a la prevención de emergencias y protección civil en los planteles de educación indígena y coordinarse con unidades administrativas, organismos y agrupaciones involucrados en la materia; y,
 
-XV. Las demás le señale el Secretario de Educación y otras disposiciones legales aplicables.
+> <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XIV.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XV. Diseñar, programar, instrumentar, supervisar y evaluar acciones encaminadas a la prevención de emergencias y protección civil en los planteles de educación indígena y coordinarse con autoridades, organismos y agrupaciones involucrados en la materia; y,
+
+XVI. Las demás le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 16 DE ENERO DE 2012)</small>
 
 ### CAPÍTULO OCTAVO. DE LA DELEGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 139.
 
-Al Coordinador de Unidades Regionales de Educación Popular le corresponde el ejercicio de las facultades siguientes:
+Al Director General de Unidades Regionales le corresponden el ejercicio de las facultades siguientes:
 
 I. Planear, coordinar, dirigir, supervisar y controlar los procesos de desconcentración administrativa, de manera integral y equilibrada, para eficientar el servicio proporcionado en cada una de las regiones del Estado;
 
@@ -5155,7 +5297,9 @@ IV. Contribuir a los programas de desarrollo de planeación regional, así como 
 
 V. Vigilar y dar seguimiento a la ejecución del Plan Estatal de Desarrollo y el Programa de Desarrollo Educativo de las Unidades Regionales de Educación Popular;
 
-VI. Proporcionar a las unidades regionales, el apoyo necesario para realizar trámites y gestiones ante las unidades administrativas de la Secretaría de Educación y otras dependencias, coordinaciones y entidades;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VI. Proporcionar a las Unidades Regionales, el apoyo necesario para realizar trámites y gestiones ante las unidades administrativas de la Secretaría de Educación y otras dependencias y entidades de la Administración Pública Estatal;
 
 VII. Propiciar el desarrollo equilibrado de los servicios educativos en los municipios que integran el ámbito de acción de las unidades regionales;
 
@@ -5177,11 +5321,13 @@ XV. Controlar, coordinar, dirigir y evaluar la administración y funcionamiento 
 
 XVI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE RECURSOS MATERIALES Y SERVICIOS GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
 
 ###### ARTÍCULO 140.
 
-A los titulares de las Unidades Regionales de Educación Popular les corresponde el ejercicio de las facultades siguientes:
+A los titulares de las Unidades Regionales les corresponde el ejercicio de las facultades siguientes:
 
 I. Proporcionar los servicios administrativos desconcentrados de planeación, administración y técnico pedagógicos, en la región a su cargo;
 
@@ -5201,7 +5347,9 @@ VIII. Difundir los reglamentos, manuales, instructivos, circulares y demás disp
 
 IX. Orientar, asesorar y apoyar a los jefes de sector, supervisores, inspectores, jefes de enseñanza y directores de centros escolares en el desempeño de su función administrativa;
 
-X. Identificar las necesidades técnicas y pedagógicas que se presenten en las (sic) región a su cargo e informar al Coordinador de Unidades Regionales de Educación Popular de las mismas;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+X. Identificar las necesidades técnicas y pedagógicas que se presenten en la región a su cargo e informar al Director General de Unidades Regionales de las mismas;
 
 XI. Fungir como enlace entre las autoridades educativas de los municipios de su ámbito territorial, con organismos, direcciones y unidades administrativas de la Secretaría de Educación y otras dependencias;
 
@@ -5215,9 +5363,11 @@ XV. Ejecutar el Plan Estatal de Desarrollo y el Programa de Desarrollo Educativo
 
 XVI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 16 DE ENERO DE 2012)</small>
+
 ### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE PRODUCCIÓN ARTÍSTICA Y DESARROLLO CULTURAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### Artículo 141.
 
@@ -5243,7 +5393,7 @@ IX. Autorizar la contratación y adquisición de bienes y servicios, de conformi
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE PRESUPUESTO
+#### SECCIÓN IV. DE LA DIRECCIÓN DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
 ###### Artículo 142.
 
@@ -5267,7 +5417,9 @@ VIII. Intervenir en el desarrollo de las relaciones laborales ante la representa
 
 IX. Establecer criterios generales en materia de administración de personal y supervisar su cumplimiento, respecto del personal administrativo y docente, de la administración centralizada y de los órganos desconcentrados de la Secretaría de Educación;
 
-X. Vigilar, en coordinación con las demás unidades administrativas competentes, el cumplimiento de las disposiciones laborales, con el apoyo del Asesor Jurídico de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+X. Vigilar, en coordinación con las demás unidades administrativas competentes, el cumplimiento de las disposiciones laborales, con el apoyo del Enlace Jurídico de la Secretaría de Educación;
 
 XI. Dictaminar a solicitud del personal administrativo y docente correspondiente, acerca de la vigencia o prescripción de derechos de los trabajadores de la Secretaría de Educación, para efectuar en tiempo y forma el cobro de remuneraciones omitidas;
 
@@ -5275,7 +5427,9 @@ XII. Diseñar y proponer la organización, sistemas y procedimientos que contrib
 
 XIII. Planear, programar, y realizar el pago de cualquier remuneración al personal administrativo y docente de la Secretaría de Educación, de acuerdo con su asignación presupuestal;
 
-XIV. Asistir a las unidades administrativas y direcciones regionales, en la realización del pago en su ámbito de competencia cuando se requiera;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XIV. Asistir a las unidades administrativas y unidades regionales, en la realización del pago en su ámbito de competencia cuando se requiera;
 
 XV. Instrumentar, supervisar y regular los aspectos técnicos, administrativos, control y de apoyo para que el personal administrativo y docente de la Secretaría de Educación, realicen adecuadamente la operación del sistema de pago y su comprobación y aplicar soluciones que se requieran para corregir las desviaciones y problemas que se presenten;
 
@@ -5287,27 +5441,31 @@ XVIII. Proporcionar los servicios de expedición de credenciales, constancias de
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
+#### SECCIÓN V. DE LA DIRECCIÓN DE PROGRAMACIÓN Y PRESUPUESTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### Artículo 143.
 
 Al Director de Informática Administrativa le corresponde el ejercicio de las facultades siguientes:
 
-I. Llevar a cabo el diseño y la programación de los sistemas de información que requieran las unidades administrativas de la Secretaría de Educación, para la administración de los recursos humanos y financieros, así como también elaborar y difundir las estadísticas relativas a dichos recursos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+I. Realizar el diseño y la programación de los sistemas de información que requieran las unidades administrativas y de apoyo de la Secretaría de Educación, para la administración de los recursos humanos y financieros, así como también elaborar y difundir las estadísticas relativas a dichos recursos;
 
 II. Proporcionar servicios de asesoría y apoyo en el desarrollo de sistemas para el manejo de información que requieran las unidades administrativas de la Secretaría de Educación;
 
 III. Elaborar la nómina de personal docente y de apoyo y asistencia a la educación en forma correcta y oportuna, así como llevar control de las formas valoradas utilizadas para su impresión;
 
-IV. Contabilizar e informar a las dependencias correspondientes sobre los pagos que deban ser efectuados a los terceros institucionales como el Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, el Fondo de Vivienda al Servicio de los Trabajadores del Estado, la Aseguradora Hidalgo, la Secretaría de Hacienda y Crédito Público y el Sistema de Ahorro para el Retiro;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+IV. Contabilizar e informar a las dependencias correspondientes sobre los pagos que deban ser efectuados a las instituciones tales como: el Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, el Fondo de Vivienda al Servicio de los Trabajadores del Estado, la Secretaría de Hacienda y Crédito Público y el Sistema de Ahorro para el Retiro y otros que correspondan;
 
 V. Llevar el control adecuado de respaldos de la información de la base de datos del personal de la Secretaría de Educación; y,
 
 VI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN ÚNICA. DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN VI. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
 
 ###### Artículo 144.
 
@@ -5337,7 +5495,9 @@ XI. Instrumentar, elaborar y difundir, las normas y lineamientos para el control
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
+#### SECCIÓN ÚNICA. DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 145.
 
@@ -5353,7 +5513,9 @@ IV. Instrumentar y desarrollar los controles de inventarios físicos de los bien
 
 V. Supervisar el establecimiento y operación de las normas de vigilancia y seguridad, por parte de las unidades administrativas de la Secretaría de Educación, así como proponer las que resulten conducentes;
 
-VI. Tramitar, en coordinación con el Asesor Jurídico de la Secretaría de Educación, los contratos de obra, adquisiciones, arrendamientos y de prestación de servicios de las unidades administrativas de la Secretaría de Educación y someterlos a la autorización y firma de quien conforme a la normativa corresponda;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VI. Tramitar, en coordinación con el Enlace Jurídico de la Secretaría de Educación, los contratos de obra, adquisiciones, arrendamientos y de prestación de servicios de las unidades administrativas y de apoyo de la Secretaría de Educación y someterlos a la autorización y firma de quien conforme a la normativa corresponda;
 
 VII. Coordinar sus actividades con las dependencias y entidades que participen en la construcción y mantenimiento de inmuebles al servicio de la Secretaría de Educación;
 
@@ -5361,57 +5523,101 @@ VIII. Vigilar que las obras de construcción, reparación, adaptación o manteni
 
 IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LOS HOSPITALES GENERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
+
+#### SECCIÓN I. DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
 
 ###### ARTÍCULO 146.
 
-Al Director de Presupuesto le corresponde el ejercicio de las facultades siguientes:
+Al Director de Programación y Presupuesto le corresponde el ejercicio de las facultades siguientes:
 
-I. Difundir las Normas y Lineamientos que deberán observar las unidades administrativas de la Secretaría de Educación, para la formulación del Programa Operativo Anual y para la elaboración del anteproyecto de Presupuesto de Egresos, de conformidad con los lineamientos establecidos por la Secretaría de Educación Publica y la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+I. Difundir las normas y lineamientos que deberán observar las unidades administrativas y de apoyo de la Secretaría de Educación, para la formulación del Programa Anual y para la elaboración del anteproyecto de Presupuesto de Egresos, de conformidad con los lineamientos establecidos por la Secretaría de Educación Pública y la Secretaría de Finanzas y Administración;
 
 II. Integrar y tramitar ante las instancias correspondientes la aprobación y autorización del Programa Operativo Anual y el anteproyecto de Presupuesto de Egresos de la Secretaría de Educación;
 
-III. Asesorar y apoyar a las unidades administrativas de la Secretaría de Educación sobre la definición de objetivos y metas, así como en la formulación e instrumentación de sus programas y presupuestos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-IV. Analizar y gestionar las modificaciones programático presupuéstales requeridas por las unidades administrativas de la Secretaría de Educación;
+III. Asesorar y apoyar a las unidades administrativas y de apoyo de la Secretaría de Educación sobre la definición de objetivos y metas, así como en la formulación e instrumentación de sus programas y presupuestos;
 
-V. Integrar y someter a la autorización del Secretario de Educación el calendario del ejercicio del presupuesto de egresos de las unidades administrativas de la Secretaría de Educación, de acuerdo con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VI. Evaluar los resultados del ejercicio presupuestal de las unidades administrativas de la Secretaría de Educación, en función del avance en el cumplimiento de objetivos, metas e indicadores de resultados, en el corto, mediano y largo plazo;
+IV. Analizar, autorizar y gestionar las modificaciones programático presupuestales requeridas por las unidades administrativas y de apoyo de la Secretaría de Educación;
 
-VII. Definir, en coordinación con la Dirección de Recursos Financieros, el pasivo circulante que resulte al cierre del presupuesto de egresos de acuerdo a la normatividad vigente y a los cálculos fijados por la autoridad correspondiente;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VIII. Recabar y analizar la información proporcionada por las unidades administrativas de la Secretaría de Educación, para la integración del informe de la cuenta pública en el ejercicio presupuestal correspondiente, conforme a la normatividad y los plazos establecidos por la Coordinación de Planeación para el Desarrollo Estatal;
+V. Integrar y someter a la autorización del Secretario de Educación el calendario del ejercicio del presupuesto de egresos de las unidades administrativas y de apoyo de la Secretaría de Educación, de acuerdo con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VI. Evaluar los resultados del ejercicio presupuestal de las unidades administrativas y de apoyo de la Secretaría de Educación, en función del avance en el cumplimiento de objetivos, metas e indicadores de resultados, en el corto, mediano y largo plazo;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VII. Supervisar y validar los movimientos de personal para su autorización de acuerdo a la normativa vigente, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VIII. Recabar y analizar la información proporcionada por las unidades administrativas y de apoyo de la Secretaría de Educación, para la integración del informe de la cuenta publica en el ejercicio presupuestal correspondiente, conforme a la normatividad y los plazos establecidos por las autoridades competentes en la materia;
 
 IX. Definir los objetivos, indicadores de resultados y metas presupuestales del sector educativo, en base a las disposiciones legales aplicables; y,
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LAS JURISDICCIONES SANITARIAS
+#### SECCIÓN II. DE LOS HOSPITALES GENERALES
 
 ###### ARTÍCULO 147.
 
 Al titular de la Unidad de Desarrollo Organizacional le corresponde el ejercicio de las facultades siguientes:
 
-I. Analizar y evaluar técnicamente las unidades administrativas de la Secretaría de Educación, así como los sistemas de organización, de trabajo, de procedimientos y servicios al público, y formular los proyectos de organización y reorganización total o parcial, que se requieran para el mejor funcionamiento de la secretaría;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+I. Analizar y evaluar técnicamente los sistemas de organización, de trabajo, de procedimientos y servicios al público, de las unidades administrativas, auxiliares y de apoyo de la Secretaría de Educación, y formular los proyectos de organización y reorganización total o parcial, que se requieran para el mejor funcionamiento de la misma;
 
 II. Integrar programas de seguimiento de la operación y funcionamiento de la estructura orgánica de la Secretaría de Educación, identificando necesidades de modificación, actualización y modernización;
 
-III. Integrar el manual de organización general de la secretaría e integrar el correspondiente al sector educativo;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-IV. Proporcionar asesoría técnica en materia de administración educativa a las áreas que lo requieran, como parte del desarrollo de mejora continua;
+III. Integrar y difundir el Manual de Organización y de Procedimientos General de la Secretaría de Educación, así como los manuales de procedimientos específicos de sus unidades administrativas;
 
-V. Proponer, instrumentar y establecer acciones de racionalización, modernización y simplificación administrativa;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VI. Vigilar que la actuación de las unidades administrativas de la Secretaría de Educación, se efectúen conforme a la normatividad vigente; procediendo a las correcciones inmediatas a que haya lugar o, en su caso, dar aviso a la Coordinación de Contraloría;
+IV. Apoyar técnica y metodológicamente en la elaboración y actualización de los procesos y procedimientos administrativos a las unidades administrativas, auxiliares y de apoyo que lo requieran, como parte del desarrollo de mejora continua;
 
-VII. Llevar el control y registro de la estructura orgánica de la secretaría y sus áreas y unidades administrativas aprobadas por la instancia correspondiente, así como las modificaciones a las mismas;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VIII. Diseñar los lineamientos metodológicos para la elaboración, distribución, implementación y supervisión de los manuales administrativos de las diferentes áreas de la secretaría;
+V. Proponer, instrumentar y establecer acciones de racionalización, modernización, mejora regulatoria, innovación de procesos y simplificación administrativa;
 
-IX. Establecer medidas de control interno que permitan transparentar la operación de las áreas de la Delegación Administrativa, en lo que respecta a los recursos financieros, humanos y materiales; y,
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+VI. Coordinar acciones con las unidades administrativas, auxiliares y de apoyo en la elaboración de anteproyectos de ordenamientos normativos que incidan en la mejora de la operación de los servicios que presta la Secretaría de Educación
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VII. Controlar y registrar la estructura orgánica de la Secretaría de Educación y sus unidades administrativas auxiliares y de apoyo, así como, de los Manuales Administrativos aprobados por la instancia correspondiente y las modificaciones a los mismos;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+VIII. Difundir y operar los criterios y lineamientos normativos para la elaboración, actualización e implementación de los manuales administrativos de de (sic) las Unidades Administrativas y de Apoyo de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+IX. Presentar ante la instancia correspondiente, para su revisión y autorización una vez validadas, las propuestas de modificación organizacional de las unidades administrativas, auxiliares y de apoyo de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
+
+X. Participar con las instancias competentes, en el análisis y elaboración de propuestas de proyectos de documentos normativos que incidan en la operación de los servicios de la estructura orgánica de la Secretaría de Educación;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XI. Impulsar el desarrollo organizacional a través de la mejora de procesos y procedimientos y la cultura de calidad en los servicios que presta la Secretaría de Educación; y,
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
+
+XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
+
+> <small>N. DE E. EL DECRETO DE FECHA 16 DE ENERO DE 2012, NO HACE REFERENCIA RESPECTO DE ESTE CAPÍTULO, EL CUAL SE ENCUENTRA CONTEMPLADO AHORA EN EL CAPÍTULO SÉPTIMO.</small>
 
 ### CAPÍTULO PRIMERO BIS. DE LA DIRECCIÓN DE PROMOCIÓN Y FOMENTO CULTURAL
 
@@ -5807,7 +6013,7 @@ X. Las demás que le señale el Secretario de Salud y otras disposiciones legale
 
 ### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DISEÑO Y EVALUACIÓN DE POLÍTICAS SOCIALES
 
-#### SECCIÓN IV. DEL CENTRO ESTATAL DE ATENCIÓN ONCOLÓGICA
+#### SECCIÓN III. DE LAS JURISDICCIONES SANITARIAS
 
 ###### ARTÍCULO 158.
 
@@ -5829,7 +6035,7 @@ V. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 Para una eficaz atención y eficiente despacho de los asuntos de la competencia de la Secretaría de Salud, ésta contará con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados, los cuales contarán con su propia reglamentación interna.
 
-#### SECCIÓN V. DEL CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
+#### SECCIÓN IV. DEL CENTRO ESTATAL DE ATENCIÓN ONCOLÓGICA
 
 ###### ARTÍCULO 160.
 
@@ -5873,7 +6079,7 @@ XVIII. Gestionar ante la Comisión Nacional de Protección Social en Salud, el p
 
 XIX. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LOS ENLACES
+#### SECCIÓN V. DEL CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
 
 ###### ARTÍCULO 161.
 
@@ -5899,9 +6105,7 @@ IX. Impulsar e integrar la instalación del Patronato de los hospitales, con la 
 
 X. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN PARTICIPATIVA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN I. DE LOS ENLACES
 
 ###### ARTÍCULO 162.
 
@@ -5945,9 +6149,9 @@ XVIII. Coadyuvar con el área correspondiente, en la gestión y tramitación de 
 
 XIX. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN PARTICIPATIVA
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 163.
 
@@ -5979,9 +6183,9 @@ XII. Promover acciones para la protección de la salud en lo relativo al cáncer
 
 XIII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 164.
 
@@ -6593,9 +6797,9 @@ XXIII. Las demás que le señale el Secretario del Migrante y otras disposicione
 
 ### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS Y PROYECTOS EDUCATIVOS
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROYECTOS
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 183.
 
@@ -6781,7 +6985,9 @@ La Coordinación de Planeación para el Desarrollo es la unidad auxiliar del tit
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PROYECTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 192.
 
@@ -6857,9 +7063,7 @@ XXII. Las demás que le señale el Coordinador de Planeación para el Desarrollo
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE SISTEMAS Y PROCESOS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
 
 ###### ARTÍCULO 193.
 
@@ -6894,6 +7098,10 @@ XIII. Actualizar el Catálogo de Localidades del Estado, en coordinación con la
 XIV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN VI. DE LA DIRECCIÓN DE SISTEMAS Y PROCESOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 194.
 
@@ -7535,7 +7743,7 @@ COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE MARZO DE 2011.
 
@@ -7548,3 +7756,9 @@ P.O. 30 DE SEPTIEMBRE DE 2011.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo segundo. Se derogan las demás disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
