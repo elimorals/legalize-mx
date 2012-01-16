@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2011-06-15"
+last_updated: "2012-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LAASSP"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -644,15 +644,19 @@ La Secretaría de Economía mediante reglas de carácter general establecerá lo
 
 Tratándose de la contratación de arrendamientos y servicios, únicamente podrán participar personas de nacionalidad mexicana.
 
-II. Internacional bajo la cobertura de tratados, en la que sólo podrán participar licitantes mexicanos y extranjeros de países con los que nuestro país tenga celebrado un tratado de libre comercio con capítulo de compras gubernamentales, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2012)</small>
 
-a) Resulte obligatorio conforme a lo establecido en los tratados de libre comercio, que contengan disposiciones en materia de compras del sector público y bajo cuya cobertura expresa se haya convocado la licitación, de acuerdo a las reglas de origen que prevean los tratados y las reglas de carácter general, para bienes nacionales que emita la Secretaría de Economía, previa opinión de la Secretaría de la Función Pública, o
+II. Internacional bajo la cobertura de tratados, en la que sólo podrán participar licitantes mexicanos y extranjeros de países con los que nuestro país tenga celebrado un tratado de libre comercio con capítulo de compras gubernamentales, cuando resulte obligatorio conforme a lo establecido en los tratados de libre comercio, que contengan disposiciones en materia de compras del sector público y bajo cuya cobertura expresa se haya convocado la licitación, de acuerdo a las reglas de origen que prevean los tratados y las reglas de carácter general, para bienes nacionales que emita la Secretaría de Economía, previa opinión de la Secretaría de la Función Pública, y
 
-b) Se haya realizado una de carácter nacional que se declaró desierta, porque no se presentó alguna proposición o porque la totalidad de las proposiciones presentadas no reunieron los requisitos solicitados o los precios de todos los bienes, arrendamientos o servicios ofertados no resultaron aceptables, y
+a) (DEROGADO, D.O.F. 16 DE ENERO DE 2012)
+
+b) (DEROGADO, D.O.F. 16 DE ENERO DE 2012)
 
 III. Internacionales abiertas, en las que podrán participar licitantes mexicanos y extranjeros, cualquiera que sea el origen de los bienes a adquirir o arrendar y de los servicios a contratar, cuando:
 
-a) Habiéndose realizado una de carácter internacional bajo la cobertura de tratados, que se declaró desierta, porque no se presentó alguna proposición o porque la totalidad de las proposiciones presentadas no reunieron los requisitos solicitados o los precios de todos los bienes, arrendamientos o servicios ofertados no resultaron aceptables, o
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+a) Se haya realizado una de carácter nacional que se declaró desierta, o
 
 b) Así se estipule para las contrataciones financiadas con créditos externos otorgados al gobierno federal o con su aval.
 
@@ -660,7 +664,9 @@ En las licitaciones previstas en esta fracción, para determinar la conveniencia
 
 En los supuestos de licitación previstos en las fracciones II y III de este artículo, la Secretaría de Economía, mediante publicación en el Diario Oficial de la Federación, determinará los casos en que los participantes deban manifestar ante la convocante que los precios que presentan en su propuesta económica no se cotizan en condiciones de prácticas desleales de comercio internacional en su modalidad de discriminación de precios o subsidios.
 
-En las contrataciones no sujetas al ámbito de cobertura de los tratados, las dependencias o entidades no estarán sujetas a la prelación establecida en las fracciones II y III de este artículo.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+En los casos en que una licitación pública nacional haya sido declarada desierta y siempre que la contratación no se encuentre sujeta al ámbito de cobertura de los tratados, las dependencias y entidades podrán optar, indistintamente, por realizar una licitación internacional bajo la cobertura de tratados o una internacional abierta.
 
 Cuando en los procedimientos de contratación de servicios, se incluya el suministro de bienes muebles y el valor de éstos sea igual o superior al cincuenta por ciento del valor total de la contratación, la operación se considerará como adquisición de bienes muebles. Para efectos de lo anterior, en el concepto de suministro de bienes muebles, sólo se considerarán los bienes que formarán parte del inventario de las dependencias o entidades convocantes.
 
@@ -1034,17 +1040,13 @@ Si el monto de la operación corresponde a una invitación a cuando menos tres p
 
 Lo dispuesto en el tercer párrafo del artículo 40 de esta Ley resultará aplicable a la contratación mediante los procedimientos de invitación a cuando menos tres personas y de adjudicación directa que se fundamenten en este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
+La suma de las operaciones que se realicen al amparo de este artículo no podrá exceder del treinta por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado a la dependencia o entidad en cada ejercicio presupuestario. La contratación deberá ajustarse a los límites establecidos en el Presupuesto de Egresos de la Federación.
 
-La suma de las operaciones que se realicen al amparo de este artículo no podrán exceder del treinta por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado a la dependencia o entidad en cada ejercicio presupuestario. La contratación deberá ajustarse a los límites establecidos en el Presupuesto de Egresos de la Federación.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
-En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1066,11 +1068,17 @@ II. El acto de presentación y apertura de proposiciones podrá hacerse sin la p
 
 III. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones susceptibles de analizarse técnicamente;
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si considera que reúne las condiciones requeridas, o bien proceder a la adjudicación directa conforme al último párrafo de este artículo;
+
 IV. Los plazos para la presentación de las proposiciones se fijarán para cada operación atendiendo al tipo de bienes, arrendamientos o servicios requeridos, así como a la complejidad para elaborar la proposición. Dicho plazo no podrá ser inferior a cinco días naturales a partir de que se entregó la última invitación, y
 
 V. A las demás disposiciones de esta Ley que resulten aplicables a la licitación pública, siendo optativo para la convocante la realización de la junta de aclaraciones.
 
-En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, o bien uno sólo cuando éste derive de una licitación pública declarada desierta, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato, siempre que se mantengan los requisitos establecidos como causas de desechamiento en el procedimiento anterior.
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1934,13 +1942,15 @@ En caso de no existir acuerdo de voluntades, las partes podrán optar por cualqu
 
 ### Capítulo Tercero. Del Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ###### Artículo 80.
 
-Podrá convenirse compromiso arbitral respecto de aquellas controversias que surjan entre las partes por interpretación a las cláusulas de los contratos de prestación de servicios de largo plazo previstos en la fracción VI del artículo 3 de esta Ley o por cuestiones derivadas de su ejecución, en términos de lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio.
+Podrá convenirse compromiso arbitral respecto de aquellas controversias que surjan entre las partes por interpretación a las cláusulas de los contratos o por cuestiones derivadas de su ejecución, en términos de lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 No será materia de arbitraje la rescisión administrativa, la terminación anticipada de los contratos, así como aquellos casos que disponga el Reglamento de esta Ley.
 
@@ -1970,13 +1980,11 @@ Los costos y honorarios del arbitraje correrán por cuenta de las partes contrat
 
 El procedimiento arbitral culminará con el laudo arbitral, y podrá considerarse para efectos de solventar observaciones formuladas por quienes tengan facultades para efectuarlas, sobre las materias objeto de dicho laudo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ###### Artículo 84.
 
-Las partes podrán convenir otros mecanismos de solución de controversias para resolver sus discrepancias sobre la interpretación o ejecución de los contratos de prestación de servicios de largo plazo previstos en la fracción VI del artículo 3 de esta Ley, siempre que su procedimiento esté reconocido en las disposiciones generales que al efecto emita la Secretaría de la Función Pública.
+Las partes podrán convenir otros mecanismos de solución de controversias para resolver sus discrepancias sobre la interpretación o ejecución de los contratos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2103,3 +2111,19 @@ DÉCIMO SÉPTIMO.- El Ejecutivo Federal, a través de la Secretaría de la Funci
 D.O.F. 15 DE JUNIO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación
+
+D.O.F. 16 DE ENERO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+
+SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+
+TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+
+CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+
+QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+
+SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
