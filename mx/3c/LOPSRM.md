@@ -4,7 +4,7 @@ identifier: "LOPSRM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2009-05-28"
+last_updated: "2012-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOPSRM"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -379,6 +379,12 @@ Las dependencias y entidades realizarán el análisis de los estudios, planes o 
 Asimismo, las dependencias y entidades notificarán al promovente de los estudios, planes o programas a que se refiere el párrafo anterior, su autorización, negativa o, en su caso, las observaciones que formulen en relación a éstos, en un plazo que no excederá de seis meses contado a partir de la fecha de presentación del estudio, plan o programa correspondiente, sin que contra esta determinación proceda recurso alguno. En caso de que las dependencias y entidades no respondan en el término indicado, el estudio, plan o programa presentado se tendrá por rechazado.
 
 Respecto de las propuestas de estudios, planes o programas autorizados, la dependencia o en el caso de entidades, la dependencia coordinadora del sector respectivo evaluará, dentro de dicho plazo, las condiciones y tiempos para el desarrollo de los estudios complementarios que se requieran, a fin de contar con el proyecto de obra correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 19 BIS.- Sin perjuicio de lo previsto en el segundo párrafo del artículo anterior, la dependencia o entidad podrá establecer en la convocatoria que los licitantes tendrán a su cargo gestionar la adquisición de los bienes inmuebles o constitución de derechos reales que correspondan, que sean necesarios para ejecutar las obras públicas.
+
+En todo caso, la convocatoria siempre deberá considerar los montos necesarios para cubrir la adquisición de los inmuebles, bienes y derechos necesarios, cuidando que no se generen ventajas indebidas a los licitantes que puedan ser previamente propietarios de los inmuebles o derechos reales destinados a la ejecución del proyecto.
 
 ###### ARTÍCULO 19.
 
@@ -884,6 +890,26 @@ Las dependencias y entidades podrán cancelar una licitación por caso fortuito;
 
 Salvo en las cancelaciones por caso fortuito y fuerza mayor, la dependencia o entidad cubrirá a los licitantes los gastos no recuperables que, en su caso, procedan en términos de lo dispuesto por el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 40 BIS.- Las dependencias podrán emitir convocatorias mixtas para la realización de proyectos, con base en los ordenamientos del ámbito de su competencia y en esta Ley, con el fin de licitar en un mismo concurso:
+
+I. El otorgamiento de una concesión para construir, explotar, conservar o mantener proyectos de infraestructura; y
+
+II. La adjudicación de un contrato de obra pública asociada a proyectos de infraestructura, únicamente para el caso que la concesión a que se refiere la fracción anterior no se otorgue por no haber una postura solvente.
+
+Para efectos de lo dispuesto en este artículo, las dependencias emitirán una sola convocatoria que incluirá las bases, procedimientos, condiciones y demás características conforme a las cuales se desarrollará el procedimiento, debiendo observar, para cada etapa del mismo, lo dispuesto en el ordenamiento que resulte aplicable.
+
+En los casos en que el otorgamiento de la concesión a que se refiere la fracción I de este artículo se decida a favor del participante ganador, no se procederá a la apertura de las propuestas técnicas y económicas para la adjudicación del contrato a que se refiere la fracción II, por lo que la dependencia deberá destruirlas. En este supuesto, no será procedente el reembolso de los gastos no recuperables a que se refiere el artículo 40 de esta Ley, circunstancia que deberá señalarse de manera expresa en la convocatoria.
+
+En los casos en que la concesión a que se refiere la fracción I de este artículo no se otorgue por no existir postura solvente que cumpla con la convocatoria respectiva, se procederá en el mismo acto a la apertura de las propuestas técnicas y económicas para la adjudicación del contrato a que se refiere la fracción II, conforme a lo dispuesto en la propia convocatoria. En este supuesto, no se entenderá que el concurso para el otorgamiento de la concesión fue declarado desierto para efectos de lo dispuesto en el artículo 7, fracción VII, de la Ley de Caminos, Puentes y Autotransporte Federal.
+
+La dependencia podrá establecer en la convocatoria que las juntas de aclaraciones respecto de ambas etapas del procedimiento se lleven a cabo de manera separada o conjunta. Asimismo, podrá determinar que los participantes que presenten propuestas para ambas etapas del procedimiento otorguen, en su caso, garantías de seriedad conjuntas.
+
+El desarrollo, en particular, de cada una de las etapas de las convocatorias a que se refiere este artículo, se regirá por la ley que le resulte aplicable.
+
+El Reglamento de esta Ley establecerá, en su caso, los demás aspectos necesarios respecto de las convocatorias a que se refiere este artículo.
+
 ### CAPÍTULO TERCERO. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
 > <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2005)</small>
@@ -982,11 +1008,9 @@ Para la determinación de los precios a que se refiere el párrafo anterior, las
 
 Para los supuestos previstos en esta fracción, la información no podrá ser reservada y será de acceso general, desde el inicio de la propuesta del proyecto y hasta la conclusión de la realización del mismo, pero siempre en apego a las disposiciones legales aplicables en materia de transparencia y acceso a la información pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
-
-Tratándose de las fracciones II, IV, V, VI y VII de este artículo, no será necesario contar con el dictamen previo de excepción a la licitación pública del Comité de Obras Públicas, por lo que en estos casos, el área responsable de la contratación en la dependencia o entidad respectiva deberá informar al propio Comité, una vez que se concluya el procedimiento de contratación correspondiente; lo anterior, sin perjuicio de que el área responsable de las contrataciones pueda someter previamente a dictamen del Comité los citados casos de excepción a la licitación pública.
+Tratándose de las fracciones II, IV, V, VI, VII y XIV de este artículo, no será necesario contar con el dictamen previo de excepción a la licitación pública del Comité de Obras Públicas, por lo que en estos casos, el área responsable de la contratación en la dependencia o entidad respectiva deberá informar al propio Comité, una vez que se concluya el procedimiento de contratación correspondiente; lo anterior, sin perjuicio de que el área responsable de las contrataciones pueda someter previamente a dictamen del Comité los citados casos de excepción a la licitación pública.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1026,6 +1050,10 @@ II. El acto de presentación y apertura de proposiciones podrá hacerse sin la p
 
 III. Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres proposiciones susceptibles de análisis;
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+En caso de que no se presenten el mínimo de proposiciones señalado en el párrafo anterior, se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si considera que reúne las condiciones requeridas, o bien proceder a la adjudicación directa conforme al último párrafo de este artículo;
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2009)</small>
@@ -1048,11 +1076,9 @@ VI. (DEROGADA, D.O.F. 28 DE MAYO DE 2009)
 
 VII. A las demás disposiciones de esta Ley que resulten aplicables a la licitación pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
-
-En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, o bien uno sólo cuando éste derive de una licitación pública declarada desierta, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato, siempre que se mantengan los requisitos establecidos como causas de desechamiento en el procedimiento anterior.
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, el titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1331,6 +1357,12 @@ La ejecución de los trabajos deberá iniciarse en la fecha señalada en el cont
 > <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 El programa de ejecución convenido en el contrato y sus modificaciones, será la base conforme al cual se medirá el avance en la ejecución de los trabajos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 52 BIS.- En el caso previsto en el artículo 19 bis, el contratista deberá realizar las gestiones conducentes para adquirir los bienes inmuebles o constituir los derechos reales que sean necesarios para ejecutar la obra pública, según los términos y condiciones establecidos en el contrato.
+
+Una vez formalizada la adquisición de los bienes inmuebles o la constitución de derechos reales, el contratista deberá transmitir la propiedad o la titularidad de los derechos a la dependencia o entidad contratante.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2182,13 +2214,11 @@ Los costos y honorarios del arbitraje correrán por cuenta de las partes contrat
 
 El procedimiento arbitral culminará con el laudo arbitral, y podrá considerarse para efectos de solventar observaciones formuladas por quienes tengan facultades para efectuarlas, sobre las materias objeto de dicho laudo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 102.
 
-Las partes podrán convenir otros mecanismos de solución de controversias para resolver sus discrepancias sobre la interpretación o ejecución de los contratos siempre que su procedimiento esté reconocido en las disposiciones generales que al efecto emita la Secretaría de la Función Pública.
+Las partes podrán convenir otros mecanismos de solución de controversias para resolver sus discrepancias sobre la interpretación o ejecución de los contratos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2297,3 +2327,19 @@ DÉCIMO SEXTO. El Ejecutivo Federal deberá informar a la Comisión de Presupues
 La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados tomará en cuenta la información que rinda el Ejecutivo Federal, respecto a los conceptos señalados en el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009, para efectos del proceso de aprobación del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2010.
 
 DÉCIMO SÉPTIMO.- El Ejecutivo Federal, a través de la Secretaría de la Función Pública y de la Secretaría del Medio Ambiente y Recursos Naturales, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la debida aplicación de lo dispuesto en el párrafo cuarto del artículo 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+
+D.O.F. 16 DE ENERO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
+
+SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del mismo.
+
+En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por terceros interesados en la contratación.
+
+TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
+
+CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
+
+QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
+
+SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
