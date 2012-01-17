@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg327-2011-del-consejo-general-del-instituto-83429"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-11-03"
-last_updated: "2011-11-03"
+last_updated: "2012-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-10-07"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE INDICAN LOS CRITERIOS APLICABLES PARA EL REGISTRO DE CANDIDATURAS A LOS DISTINTOS CARGOS DE ELECCIÓN POPULAR QUE PRESENTEN LOS PARTIDOS POLÍTICOS Y, EN SU CASO, LAS COALICIONES ANTE LOS CONSEJOS DEL INSTITUTO, PARA EL PROCESO ELECTORAL FEDERAL 2011-2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 3 de noviembre de 2011.
 
@@ -227,15 +227,15 @@ DECIMOPRIMERO. Se instruye a los Presidentes de los Consejos Locales y Distrital
 
 DECIMOSEGUNDO. El Consejo General del Instituto sesionará el día 29 de marzo de 2012 para registrar las candidaturas que hayan cumplido con los requisitos establecidos en el Código Federal de Instituciones y Procedimientos Electorales.
 
+> <small>(REFORMADO POR EL ACUERDO CG413/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
 DECIMOTERCERO. De la totalidad de solicitudes de registro de candidaturas a Diputados y Senadores, tanto de mayoría relativa como de representación proporcional, que presenten los partidos políticos o coaliciones ante el Instituto Federal Electoral, en ningún caso incluirán más del sesenta por ciento de candidatos propietarios de un mismo género. Además, se verificará que los partidos políticos hayan observado los porcentajes de género establecidos en sus propios Estatutos.
 
 Quedan exceptuadas de la regla de género señalada en el párrafo anterior, las candidaturas de mayoría relativa que sean resultado de un proceso de elección democrático.
 
-Esto es, en caso de que el partido político, no elija a sus candidatos de mayoría relativa mediante un proceso de elección democrático, el partido político o coalición deberá presentar como máximo 180 y 38 candidatos propietarios de un mismo género, a Diputados y Senadores, respectivamente o en forma proporcional dependiendo del número de candidatos electos por dicho proceso, procurando que la fórmula completa se integre por candidatos del mismo género.
+Esto es, en caso de que el partido político, elija a sus candidatos de mayoría relativa mediante un proceso de elección democrático observando y privilegiando lo previsto en sus Estatutos respecto de la forma de elección, el partido político o coalición, en todo caso, deberá presentar como mínimo 120 y 26 candidatos propietarios de un mismo género, a Diputados y Senadores, respectivamente en términos de lo dispuesto por el primer párrafo del artículo 219 del Código Federal de Instituciones y Procedimientos Electorales.
 
-Para efectos de lo señalado en los dos párrafos anteriores, debe entenderse por procedimiento democrático aquel en el que la elección de las candidaturas se realice de forma directa por la militancia del partido o por la ciudadanía, o de forma indirecta a través de una convención o asamblea en que participe un número importante de delegados electos ex profeso por dicha militancia.
-
-Las listas de representación proporcional se integrarán por segmentos de cinco candidaturas. En cada uno de los segmentos de cada lista habrá dos candidaturas de género distinto, de manera alternada procurando que la fórmula completa se integre por candidatos del mismo género. Tratándose de la lista de candidatos a Senadores, los dos últimos lugares serán ocupados por un candidato de cada género.”
+Las listas de representación proporcional se integrarán por segmentos de cinco candidaturas. En cada uno de los segmentos de cada lista habrá dos candidaturas de género distinto, de manera alternada. En el caso de las candidaturas que conforman la cuota de género prevista en el artículo 220, párrafo primero, del Código Federal de Instituciones y Procedimientos Electorales (mínimo cuarenta por ciento del total), la fórmula completa (propietario y suplente) debe integrarse por candidatos del mismo género. Tratándose de la lista de candidatos a Senadores, los dos últimos lugares serán ocupados por un candidato de cada género.
 
 DECIMOCUARTO. En la sesión del Consejo General señalada en el punto decimosegundo del presente Acuerdo, en caso de que algún partido político o coalición no cumpla con lo previsto en los artículos 219 y 220 del Código Federal de Instituciones y Procedimientos Electorales, el Consejo General iniciará el procedimiento especial al que se refiere el artículo 221 de dicho ordenamiento, por lo que lo requerirá para que en un plazo de 48 horas, contadas a partir de ese momento, rectifique la solicitud de registro de candidaturas, además de apercibirlo de que, en caso de no hacerlo, le hará una amonestación pública.
 
@@ -278,3 +278,9 @@ VIGESIMOTERCERO. Se instruye al Secretario Ejecutivo para que realice las gestio
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 7 de octubre de dos mil once, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE ENERO DE 2012.
+
+EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
