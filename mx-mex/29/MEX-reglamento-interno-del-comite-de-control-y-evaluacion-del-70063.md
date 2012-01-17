@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-control-y-evaluacion-del-70063
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2012-01-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL COMITE DE CONTROL Y EVALUACION DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN
+REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERNO DEL COMITÉ DE CONTROL Y EVALUACIÓN DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, PUBLICADO EN LA G.G. DE 17 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: SIN EFECTOS.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 2009.
 
@@ -310,3 +312,19 @@ El Director del Tecnológico de Estudios Superiores de Huixquilucan
 Lic. Armando Méndez Gutiérrez
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 17 DE ENERO DE 2012.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Tercero.- El Director del Organismo deberá constituir el COCOE, en los términos del presente Reglamento, dentro de los treinta días hábiles siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Cuarto.- Se deja sin efecto el Reglamento Interno del Comité de Control y Evaluación del Tecnológico de Estudios Superiores de Huixquilucan, publicado en el Periódico Oficial "Gaceta del Gobierno" el 19 de agosto de 2009, así como las demás disposiciones de igual o menor jerarquía que se le opongan.
+
+Quinto.- Cuando de conformidad con la estructura autorizada al Organismo, materialmente se cuente con Órgano de Control Interno, el titular de esa unidad administrativa asumirá la función de Secretario Técnico del COCOE, quedando sin efectos la facultad del Presidente para designar a dicho integrante, prevista en el artículo 16 fracción II del presente Reglamento.
+
+Sexto.- Corresponde a la Secretaría de la Contraloría del Gobierno del Estado de México la interpretación del presente Reglamento; lo no previsto en el mismo, será resuelto por la propia Dependencia.
