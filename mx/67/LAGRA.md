@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2011-06-22"
+last_updated: "2012-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -254,11 +254,15 @@ Cuando la asamblea resuelva terminar el régimen ejidal, el acuerdo respectivo s
 
 Previa liquidación de las obligaciones subsistentes del ejido, las tierras ejidales, con excepción de las que constituyan el área necesaria para el asentamiento humano, serán asignadas en pleno dominio a los ejidatarios de acuerdo a los derechos que les correspondan, excepto cuando se trate de bosques o selvas tropicales. La superficie de tierra asignada por este concepto a cada ejidatario no podrá rebasar los límites señalados a la pequeña propiedad. Si después de la asignación hubiere excedentes de tierra o se tratare de bosques o selvas tropicales, pasarán a propiedad de la nación.
 
+> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2012)</small>
+
 ###### Artículo 30.
 
-Para la asistencia válida de un mandatario a una asamblea bastará una carta-poder debidamente suscrita ante dos testigos que sean ejidatarios o avecindados. En caso de que el ejidatario mandante no pueda firmar, imprimirá su huella digital en la carta y solicitará a un tercero que firme la misma y asiente el nombre de ambos.
+Para la asistencia válida de un mandatario a una asamblea bastará una carta-poder debidamente suscrita por el titular ante dos testigos que sean ejidatarios o avecindados del mismo núcleo al que pertenece el mandante. En caso de que el ejidatario mandante no pueda firmar, imprimirá su huella digital en la carta y solicitará a un tercero que firme la misma y asiente el nombre de ambos.
 
-En el caso de asambleas que se reúnan para tratar los asuntos señalados en las fracciones VII a XIV del Artículo 23 de esta Ley, el ejidatario no podrá designar mandatario.
+El mandatario sólo podrá representar a un ejidatario en la asamblea para la cual se le confirió el poder; debiendo quedar asentada en el acta de la asamblea, la participación del mandatario y el documento con el que se acreditó.
+
+En el caso de asambleas que se reúnan para tratar los asuntos señalados en las fracciones III, VII a XIV del artículo 23 de esta Ley, el ejidatario no podrá designar mandatario.
 
 ###### Artículo 31.
 
@@ -1583,3 +1587,7 @@ D.O.F. 22 DE JUNIO DE 2011.
 Primero. Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
 
 Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ENERO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
