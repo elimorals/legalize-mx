@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2011-10-28"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-05-27"
 ---
 # ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [CREA EL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN]
 
-ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
+ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -125,7 +125,9 @@ Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
 
 5. El órgano jurisdiccional de origen deberá notificar a las partes, por lista, a qué órgano jurisdiccional le correspondió el turno para resolver el asunto remitido.
 
-6. Una vez emitida la resolución de que se trate, los titulares y presidentes de los órganos jurisdiccionales Auxiliares, deberán enviar los asuntos a la oficina de correspondencia común del Centro, para que ésta se encargue de su remisión a la oficina de correspondencia común u oficialía de partes según se trate, del órgano de origen y ésta, a su vez, lo remitirá al órgano jurisdiccional que corresponda. A fin de que el órgano jurisdiccional de origen proceda a la notificación correspondiente de la sentencia, se deberá enviar el disquete que contenga la resolución que corresponda.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 53/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ENERO DE 2012)</small>
+
+6. Una vez emitida la resolución de que se trate, los titulares y presidentes de los órganos jurisdiccionales Auxiliares, deberán enviar los asuntos a la oficina de correspondencia común del Centro, para que ésta se encargue de su remisión a la oficina de correspondencia común u oficialía de partes según se trate, del órgano de origen y ésta, a su vez, lo remitirá al órgano jurisdiccional que corresponda. A fin de que el órgano jurisdiccional de origen proceda a la notificación correspondiente de la sentencia, la resolución que corresponda se deberá enviar a través de cualquier medio de almacenamiento electrónico.
 
 7. El órgano jurisdiccional de origen se encargará de todos los trámites posteriores a su resolución, inclusive de la notificación del fallo respectivo, hasta su archivo definitivo.
 
@@ -230,3 +232,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Primera Región, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 18 DE ENERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
