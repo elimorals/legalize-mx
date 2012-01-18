@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-el-fomento-de-la-microindustria-y-la-223"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1988-01-26"
-last_updated: "2011-12-15"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=223&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 26 de enero de 1988.
 
@@ -91,13 +91,13 @@ II.- Fomentar la agrupación de empresas de microindustrias para obtener financi
 
 III.- Elaborar programas de difusión, gestión, formación y capacitación empresarial, así como de servicios de extensionismo, para identificar y resolver problemas relacionados con la organización, producción y mercado de las microindustrias;
 
-> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
 
-IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal.
+IV.- Impulsar las tareas de investigación y de aplicación de técnicas de mejoramiento para el fomento y desarrollo de la producción artesanal; y
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 18 DE ENERO DE 2012)</small>
 
-V.- Llevar a cabo el procedimiento simplificado de constitución de empresas micro industriales, de acuerdo con lo establecido en la presente ley y con los convenios de coordinación que para tal efecto celebre.
+V.- Promoverá la participación del sector turístico en el desarrollo de acciones que permitan a las microindustrias en regiones turísticas mejorar su desempeño en la producción artesanal.
 
 ### CAPITULO II. De los Empresarios Personas Físicas
 
@@ -311,6 +311,10 @@ C). Promover la celebración de acuerdos de coordinación con las entidades fede
 
 D). Propiciar la concentración regional de la producción artesanal con el fin de facilitar su promoción, a través de la celebración de ferias y exposiciones artesanales, a nivel nacional e internacional, conforme a las disposiciones aplicables.
 
+> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+
+X. Proponer los apoyos y estímulos que se estimen apropiados para el fomento y desarrollo de microindustrias en regiones turísticas.
+
 ###### ARTICULO 38.
 
 La Comisión se reunirá mediante convocatoria de su presidente, sus decisiones se tomarán por mayoría de votos de los miembros asistentes, teniendo el presidente voto de calidad en caso de empate.
@@ -406,3 +410,7 @@ D.O.F. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 
 SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE ENERO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
