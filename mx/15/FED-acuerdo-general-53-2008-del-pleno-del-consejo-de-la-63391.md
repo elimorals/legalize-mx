@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2008-del-pleno-del-consejo-de-la-63391"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2008-10-03"
+last_updated: "2012-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 53/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEXTA REGIÓN, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -89,7 +89,9 @@ Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
 
 5) El órgano jurisdiccional de origen deberá notificar a las partes, por lista, a qué órgano jurisdiccional le correspondió el turno para resolver el asunto remitido.
 
-6) Una vez emitida la resolución de que se trate, los titulares y presidentes de los órganos jurisdiccionales Auxiliares, deberán enviar los asuntos al órgano de origen. A fin de que el órgano jurisdiccional de origen proceda a la notificación correspondiente de la sentencia, se deberá enviar el disquete que contenga la resolución que corresponda.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 53/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE ENERO DE 2012)</small>
+
+6) Una vez emitida la resolución de que se trate, los titulares y presidentes de los órganos jurisdiccionales Auxiliares, deberán enviar los asuntos al órgano de origen. A fin de que el órgano jurisdiccional de origen proceda a la notificación correspondiente de la sentencia, la resolución que corresponda se deberá enviar a través de cualquier medio de almacenamiento electrónico.
 
 7) El órgano jurisdiccional de origen se encargará de todos los trámites posteriores a su resolución, inclusive de la notificación del fallo respectivo, hasta su archivo definitivo.
 
@@ -144,3 +146,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 53/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Sexta Región, con Residencia en Chihuahua, Chihuahua, así como los Organos Jurisdiccionales que lo Integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de diez de septiembre de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, María Teresa Herrera Tello, Indalfer Infante Gonzales y Oscar Vázquez Marín.- México, Distrito Federal, a veinticinco de septiembre de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE ENERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
