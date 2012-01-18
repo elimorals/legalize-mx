@@ -4,7 +4,7 @@ identifier: "LDCMPME"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2011-08-05"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26811&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDCMPME"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -256,9 +256,17 @@ II. La celebración de acuerdos con las dependencias y entidades de la Administr
 
 III. Participar en el desarrollo de un sistema general de información y consulta para la planeación sobre los sectores productivos y Cadenas Productivas;
 
-IV. El diseño de esquemas que fomenten el desarrollo de proveedores y distribuidores locales del sector público y de los Sectores, y
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
 
-V. La generación de políticas y Programas de apoyo a las MIPYMES en sus respectivos ámbitos de competencia.
+IV. El diseño de esquemas que fomenten el desarrollo de proveedores y distribuidores locales del sector público y de los Sectores;
+
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 2012)</small>
+
+V. La generación de políticas y Programas de apoyo a las MIPYMES en sus respectivos ámbitos de competencia, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2012)</small>
+
+VI. Impulsar la creación, desarrollo y crecimiento de MIPYMES localizadas en regiones turísticas, a fin de incrementar su productividad y competitividad.
 
 ###### Artículo 14.
 
@@ -469,3 +477,7 @@ Artículo Unico. El presente decreto entrará en vigor al día siguiente de su p
 D.O.F. 5 DE AGOSTO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
