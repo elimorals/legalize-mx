@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-recursos-naturales-6336
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-03"
-last_updated: "2011-06-29"
+last_updated: "2012-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE RECURSOS NATURALES Y PROTECCION AMBIENTAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE RECURSOS NATURALES Y PROTECCION AMBIENTAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de septiembre de 2008.
 
@@ -79,63 +79,65 @@ La Secretaría tiene como misión ser una institución que fomente la revaloraci
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2012)</small>
+
 ###### Artículo 8.
 
-Para la realización estudios, conducción, planeación, ejecución y despacho de sus atribuciones, la SERNAPAM contará con las siguientes unidades administrativas:
+Para la realización de estudios, conducción, planeación, ejecución y despacho de sus atribuciones, la SERNAPAM contará con las siguientes unidades administrativas:
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
+1. SECRETARIO
 
-1. Secretario
+1.1 Secretaría Particular
 
-1.1. Unidad Particular
+1.2 Secretaría Técnica
 
-1.2. Secretaría Técnica
+1.3 Unidad de Enlace Interinstitucional
 
-1.3. Unidad de Enlace Interinstitucional
+1.4 Unidad de Concertación Social
 
-1.4. Dirección de Concertación Social
+1.5 Unidad de Acceso a la Información
 
-1.5. Unidad de Acceso a la Información
+1.6 Dirección de Planeación Estratégica e Informática
 
-1.6. Unidad de Planeación Estratégica e Informática
+1.7 Dirección de Normatividad y Asuntos Jurídicos
 
-1.7. Dirección de Normatividad y Asuntos Jurídicos
+1.8 Unidad de Seguimiento y Evaluación
 
-1.8. Unidad de Seguimiento y Evaluación
+2. DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2011)</small>
+2.1 Unidad de Recursos Humanos
 
-2. Dirección General de Administración
+2.2 Unidad de Recursos Financieros
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
+2.3 Unidad de Adquisiciones
 
-3. Subsecretaria de Gestión para la Protección Ambiental
+2.4 Unidad de Presupuesto
 
-3.1. Dirección de Gestión y Prevención
+2.5 Unidad de Recursos Materiales y Servicios Generales
 
-3.2. Unidad de Estudios y Evaluación Ambiental
+3. SUBSECRETARÍA DE GESTIÓN PARA LA PROTECCIÓN AMBIENTAL
 
-3.3. Dirección de Verificación y Atención de Reclamaciones
+3.1 Dirección de Gestión y Prevención
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
+3.2 Unidad de Estudios y Evaluación Ambiental
 
-4. Subsecretaria de Política Ambiental
+3.3 Dirección de Verificación y Atención de Reclamaciones
 
-4.1. Dirección de Fomento de la Política Ambiental
+4. SUBSECRETARÍA DE POLÍTICA AMBIENTAL
 
-4.2. Dirección de Ordenamiento Ecológico
+4.1 Dirección de Fomento de la Política Ambiental
 
-4.3. Dirección de Cultura Ambiental.
+4.2 Unidad de Ordenamiento Ecológico
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
+4.3 Unidad de Cultura Ambiental
 
-5. Subsecretaria de Desarrollo Sustentable
+5. SUBSECRETARÍA DE DESARROLLO SUSTENTABLE
 
-5.1. Dirección de Participación Social
+5.1 Dirección de Participación Social
 
-5.2. Dirección de Desarrollo Comunitario Sustentable
+5.2 Dirección de Desarrollo Comunitario Sustentable
 
-5.3. Dirección de Uso y Manejo de los Recursos Naturales
+5.3 Unidad de Uso y Manejo de los Recursos Naturales
 
 ###### Artículo 9.
 
@@ -267,11 +269,15 @@ LVII. Las demás que le asignen otras disposiciones legales o el Gobernador del 
 
 ## TÍTULO TERCERO. UNIDADES DE APOYO DEL SECRETARIO
 
-### CAPÍTULO I. DE LA UNIDAD PARTICULAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2012)</small>
+
+### CAPÍTULO I. DE LA SECRETARÍA PARTICULAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Unidad Particular el desempeño de las siguientes atribuciones:
+Corresponde a la Secretaría Particular el desempeño de las atribuciones siguientes:
 
 I. Atender los asuntos y comisiones que le encomiende el Secretario;
 
@@ -347,7 +353,9 @@ VI. Coadyuvar con las unidades administrativas de la Secretaría, para la integr
 
 VII. Proponer al Secretario las acciones a convenir con otras instancias de gobierno, para la ejecución del Acuerdo Marco de Colaboración Interinstitucional y Productivo Tabasco-Pemex, y participar en los procedimientos de coordinación y, cuando proceda, coadyuvar en la integración de los acuerdos de colaboración correspondientes;
 
-VIII. Establecer con la participación de la Unidad de Planeación Estratégica e Informática, los mecanismos y procedimientos que permitan a la Secretaría conocer y verificar periódicamente que las unidades administrativas y las entidades coordinadas, realicen y ejecuten sus programas de trabajo en congruencia con los objetivos y prioridades establecidos; así como, adoptar o recomendar las medidas necesarias para corregir las desviaciones detectadas;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+VIII. Establecer con la participación de la Dirección de Planeación Estratégica e Informática, los mecanismos y procedimientos que permitan a la Secretaría conocer y verificar periódicamente que las unidades administrativas y las entidades coordinadas, realicen y ejecuten sus programas de trabajo en congruencia con los objetivos y prioridades establecidos; así como adoptar o recomendar las medidas necesarias para corregir las desviaciones detectadas;
 
 IX. Proponer en coordinación con las entidades federativas correspondientes, el seguimiento para la integración de la agenda regional ligada al petróleo de los estados de la región sur-sureste. (Chiapas, Campeche, Veracruz, Oaxaca y Tabasco);
 
@@ -359,11 +367,15 @@ XII. Apoyar y, en su caso, asesorar al Secretario cuando así lo solicite y a la
 
 XIII. Las demás que las disposiciones legales y administrativas le confieran o que le encomiende el Secretario.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN DE CONCERTACIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2012)</small>
+
+### CAPÍTULO IV. DE LA UNIDAD DE CONCERTACIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 15.
 
-Corresponde a la Dirección de Concertación Social el ejercicio de las atribuciones siguientes:
+Corresponde a la Unidad de Concertación Social el ejercicio de las atribuciones siguientes:
 
 I. Acordar con el Secretario, los asuntos inherentes a las funciones y responsabilidades de la Dirección;
 
@@ -391,11 +403,15 @@ X. Las demás que las disposiciones legales y administrativas le confieran o que
 
 Corresponde a la Unidad de Acceso a la Información, el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
-### CAPÍTULO VI. DE LA UNIDAD DE PLANEACIÓN ESTRATÉGICA E INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2012)</small>
+
+### CAPÍTULO VI. DE LA DIRECCIÓN DE PLANEACIÓN ESTRATÉGICA E INFORMÁTICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 17.
 
-Corresponde a la Unidad de Planeación Estratégica e Informática el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Planeación Estratégica e Informática el ejercicio de las atribuciones siguientes:
 
 I. Dar seguimiento al cumplimiento de los planes, programas y proyectos establecidos por la Secretaría;
 
@@ -501,7 +517,7 @@ I. Verificar que los procedimientos y la documentación comprobatoria del ejerci
 
 II. Revisar que las bases y normas a las que deben sujetarse los procesos de adquisición, arrendamiento y obras públicas, .se realicen conforme a lo establecido por las leyes estatales y federales;
 
-III. Establecer de conformidad con la legislación aplicable el control, fiscalización, contabilidad y auditorias que deben observar las unidades administrativas de la Secretaría;
+III. (DEROGADA, P.O. 18 DE ENERO DE 2012)
 
 IV. Verificar que el manejo y aplicación de los recursos humanos, materiales y financieros de la Secretaría, se cumplan bajo criterios de racionalidad, austeridad y disciplina presupuestal;
 
@@ -527,11 +543,11 @@ XIV. Vigilar que el personal a su cargo cumpla eficientemente con sus funciones;
 
 XV. Las demás que las disposiciones legales y administrativas le confieran o que le encomiende el Secretario.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2011)</small>
 
 ## TÍTULO TERCERO BIS. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO ÚNICO. DE SUS ATRIBUCIONES
 
@@ -539,9 +555,13 @@ XV. Las demás que las disposiciones legales y administrativas le confieran o qu
 
 Artículo 20 BIS. Corresponde a la Dirección General de Administración el ejercicio de las siguientes atribuciones:
 
-l. Planear, organizar, dirigir, aplicar y vigilar el cumplimiento de las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales asignados a la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
 
-II. Instrumentar e integrar con las unidades administrativas de la Secretaría los programas de selección, capacitación y desarrollo del personal;
+I. Aplicar y vigilar el cumplimiento de las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales asignados a la Secretaría;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+II. Instrumentar e integrar con las unidades administrativas de la Secretaría, los programas de capacitación y desarrollo del personal;
 
 III. Instruir y supervisar que se tramiten los nombramientos, cambio de adscripción, bajas y contratación de personal, de conformidad con las disposiciones legales aplicables;
 
@@ -549,7 +569,9 @@ IV. Definir y vigilar los controles, así como, los medios y formas de identific
 
 V. Resolver con base en las instrucciones del Secretario, los asuntos del personal al servicio de la Secretaría, y realizar los movimientos e incidencias del mismo;
 
-VI. Vigilar el cumplimiento de las leyes y disposiciones administrativas laborales;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+VI. Vigilar en el ámbito de su competencia que se de cumplimiento a las leyes y disposiciones administrativas laborales;
 
 VII. Vigilar la aplicación y difusión de las condiciones generales de trabajo y las políticas que señale el Secretario, con apego a las disposiciones legales aplicables;
 
@@ -559,9 +581,13 @@ IX. Vigilar el ejercicio del presupuesto de egresos de la Secretaría en los té
 
 X. Administrar y autorizar la documentación necesaria, para las erogaciones con cargo al presupuesto de egresos de la Secretaría, así como, vigilar que la documentación comprobatoria del gasto cumpla con las normas y los requisitos de orden legal para su pago;
 
-XI. Supervisar la correcta aplicación y registro de los fondos en efectivo, destinados a la operación de la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
 
-XII. Dirigir la realización de la adquisición de bienes y la contratación de servicios para el cumplimiento de los objetivos de la Secretaría, de acuerdo al presupuesto asignado y cumpliendo con las disposiciones legales vigentes;
+XI. Supervisar la correcta aplicación y registro de los fondos revolventes destinados a la operación de la Secretaría;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+XII. Dirigir la realización de la adquisición de bienes y la contratación de servicios en el cumplimiento de los objetivos de la Secretaría, de acuerdo al presupuesto asignado y cumpliendo con las disposiciones legales vigentes;
 
 XIII. Coordinar la elaboración, actualización y control del catálogo de proveedores, de conformidad con la normatividad vigente;
 
@@ -575,19 +601,227 @@ XVII. Supervisar el mantenimiento preventivo del parque vehicular de la Secretar
 
 XVIII. Vigilar que se mantenga actualizado el inventario y controles de resguardos de los activos de la Secretaría;
 
-XIX. Coordinar y supervisar la elaboración, actualización y funcionamiento de los sistemas de control contable, financiero y de procesamiento de información de la Secretaría, de conformidad con las disposiciones vigentes; así como, el ejercicio presupuestal en forma coordinada con la Unidad de Planeación Estratégica e Informática;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+XIX. Coordinar y supervisar la actualización y operatividad de los sistemas de control contable, financiero y procesamiento de información de la Secretaría, de conformidad con las disposiciones vigentes; así como el ejercicio presupuestal en forma coordinada con la Dirección de Planeación Estratégica e Informática de esta Secretaría;
 
 XX. Supervisar que se efectúen los pagos a proveedores y demás prestadores de servicios, con los cuales tenga una obligación financiera la Secretaría;
 
 XXI. Coordinar los procesos de entrega-recepción de las unidades administrativas de la Secretaría;
 
-XXII. Colaborar con la Dirección General de Modernización e Innovación Gubernamental en la formulación y ejecución de los programas de mejora regulatoria, calidad y mejora continua, diseño de procesos, simplificación de trámites, medición y evaluación de la gestión pública;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
 
-XXIII. Suscribir convenios, contratos y demás actos de carácter administrativo;
+XXII. Colaborar en el ámbito de su competencia, con la Dirección General de Modernización e Innovación Gubernamental de la Secretaría de Administración y Finanzas, en la formulación y ejecución de los programas de mejora continua, análisis de estructura orgánica, así como vigilar la actualización de los manuales de organización y procedimientos;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+XXIII. Suscribir convenios, acuerdos, contratos y demás actos de carácter administrativo;
 
 XXIV. Asesorar en asuntos de su competencia al Secretario, así como, a las unidades administrativas de la Secretaría; y
 
 XXV. Las demás que las disposiciones legales y administrativas le confieran o que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+###### Artículo 20 Bis 1.
+
+Corresponde a la Unidad de Recursos Humanos el ejercicio de las atribuciones siguientes:
+
+I. Dar cumplimiento a las políticas, normas, sistemas y procedimientos para la administración de la Unidad de Recursos Humanos;
+
+II. Verificar los registros y controles permanentes para determinar los impuestos sobre nómina;
+
+III. Validar y supervisar que las bases de datos de nóminas enviadas a la Unidad de Recursos Financieros para los depósitos de los sueldos y prestaciones de los empleados, sean las correctas;
+
+IV. Supervisar que se cumpla debidamente lo estipulado en los contratos bajo la modalidad de lista de raya y los de prestación de servicios profesionales de esta Secretaría;
+
+V. Vigilar que las prestaciones y bonos que perciban los empleados que están adscritos a esta Secretaría bajo las distintas modalidades, le sean calculados y pagados de acuerdo a los tabuladores establecidos conforme a sus niveles;
+
+VI. Colaborar en la elaboración y actualización de los manuales de organización y procedimientos, así como en las estructuras orgánicas de las unidades administrativas que integran la Secretaría, en coordinación con la Dirección General de Modernización e Innovación Gubernamental de la Secretaría de Administración y Finanzas, cuando exista algún cambio orgánico funcional al interior de la misma;
+
+VII. Participar en la resolución de los asuntos del personal al servicio de la Secretaría y realizar la correcta aplicación de las incidencias de dicho personal;
+
+VIII. Vigilar la actualización de los archivos que se utilizan para la comprobación de los pagos que se efectúan al personal adscrito a la Secretaría;
+
+IX. Coordinar la elaboración, trámites y seguimiento de los movimientos del personal, tales como: altas, baja (sic) promociones, licencias, pensiones y cambios de adscripción que se den n (sic) esta Secretaría;
+
+X. Supervisar las actividades relacionlas c (sic) los expedientes personales de los empleados que laboran en esta ecretaía (sic);
+
+XI. Coordinar las actividades relacionadas con la capacitación y desarrollo del personal adscrito a esta Secretaría;
+
+XII. Gestionar ante la Dirección General de Modernización e Innovación Gubernamental de la Secretaría de Administración y Finanzas, la capacitación para el personal de esta Secretaría y vigilar las actividades relacionadas con la contratación, capacitación y desarrollo del personal, para lograr una mejora continua laboral;
+
+XIII. Informar sobre las actividades de esta Unidad, al titular de la Dirección General de Administración y cuando así lo requiera, al Secretario;
+
+XIV. Coordinar que se ejecuten los controles y medios para tener identificado al personal en las distintas unidades administrativas que integran esta Secretaría;
+
+XV. Dar cumplimiento en el ámbito de su competencia a lo señalado en las leyes, reglamentos, disposiciones administrativas laborales y las políticas que sean aplicables;
+
+XVI. Coordinar las actividades en materia de servicio social, estancias y prácticas profesionales de alumnos que desean dar a conocer sus conocimientos de niveles técnicos o profesionales ante esta Secretaría;
+
+XVII. Validar la elaboración del anteproyecto del presupuesto de egresos en lo que se refiere al Capítulo 1000 de servicios personales, el cual es enviado para su trámite correspondiente a la Subsecretaría de Administración de la Secretaría de Administración y Finanzas; y
+
+XVIII. Las demás que señalen las disposiciones legales aplicables y las que el titular de la Dirección General de Administración y el Secretario designen para el buen funcionamiento de la misma.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+###### Artículo 20 Bis 2.
+
+Corresponde a la Unidad de Recursos Financieros el ejercicio de las atribuciones siguientes:
+
+I. Dar cumplimiento a las políticas, normas, sistemas y procedimientos para la administración de la Unidad de Recursos Financieros;
+
+II. Verificar, identificar y custodiar los recursos económicos transferidos por la Secretaría de Administración y Finanzas a la Secretaría, solicitados a través de órdenes y ministraciones de recursos para su oportuno ejercicio;
+
+III. Informar al titular de la Dirección General de Administración, la recepción de los recursos económicos transferidos por la Secretaría de Administración y Finanzas a la Secretaría;
+
+IV. Establecer los registros necesarios para el control de la aplicación del fondo revolvente asignado a la Secretaría;
+
+V. Realizar el pago a proveedores, prestadores de servicios y acreedores en general;
+
+VI. Recepcionar la relación de nómina emitida por la Unidad de Recursos Humanos para realizar el pago de sueldos y demás percepciones al personal de la Secretaría;
+
+VII. Realizar el reintegro de recursos ante la Secretaría de Administración y Finanzas, por concepto de bajas y permisos sin goce de sueldo del personal adscrito a la Secretaría y notificado por la Unidad de Recursos Humanos;
+
+VIII. Determinar, en coordinación con la Unidad de Presupuesto, e informar al titular de la Dirección General de Administración, los montos de los recursos no ejercidos para su correspondiente reintegro ante la Secretaría de Administración y Finanzas;
+
+IX. Recepcionar para su correspondiente trámite de pago, las solicitudes de viáticos autorizados al personal de la Secretaría para el desempeño de las comisiones;
+
+X. Coordinar el seguimiento de las solicitudes de requerimientos de recursos en efectivo, para los pagos de los programas de apoyos sociales que ejecuta la Secretaría;
+
+XI. Supervisar la debida operatividad del sistema de contabilidad gubernamental, de conformidad con las leyes aplicables, así como vigilar el funcionamiento de los controles administrativos en materia de contabilidad;
+
+XII. Revisar y validar la integración y presentación de la información financiera, a fin de cumplir en forma eficiente y oportuna su entrega ante la Secretaría de Administración y Finanzas y la Secretaría de Contraloría;
+
+XIII. Informar al titular de la Dirección General de Administración cuando así lo requiera, de las actividades que se lleven a cabo en la Unidad de Recursos Financieros; y
+
+XIV. Las demás que señalen las disposiciones legales aplicables y las que el titular de la Dirección General de Administración y el Secretario designen para el buen funcionamiento de la misma.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+###### Artículo 20 Bis 3.
+
+Corresponde a la Unidad de Adquisiciones el ejercicio de las atribuciones siguientes:
+
+I. Participar en la adquisición de bienes y la contratación de servicios que realice esta Secretaría;
+
+II. Participar en el Subcomité de compras estatal y el comité de adquisiciones federal de la Secretaría;
+
+III. Presentar los programas anuales de adquisiciones con recurso estatal y federal para aprobación, modificación y trámites correspondientes;
+
+IV. Elaborar, actualizar y controlar el catálogo de proveedores, de conformidad con la normatividad vigente;
+
+V. Coordinar la elaboración de las invitaciones a proveedores para firma del Presidente del Subcomité de compras estatal y del Comité de adquisiciones federal;
+
+VI. Coordinar al personal que evaluará las propuestas técnicas y elaborará los dictámenes correspondientes;
+
+VII. Validar los cuadros comparativos que soportan los fallos y adjudicaciones;
+
+VIII. Revisar y validar la elaboración de las actas y fallos de las diversas modalidades de contratación;
+
+IX. Vigilar la alimentación del Sistema de Contrataciones Gubernamentales (COMPRANET);
+
+X. Vigilar que se cumplan los procedimientos establecidos para cada modalidad de adquisición;
+
+XI. Apoyar y orientar al Presidente del Subcomité de compras estatal y del Comité de adquisiciones federal en el desarrollo de las reuniones;
+
+XII. Asesorar en materia de adquisiciones, arrendamientos y servicios a los titulares de las unidades administrativas que integran esta Secretaría;
+
+XIII. Informar al titular de la Dirección General de Administración cuando así lo requiera, de las actividades que se están llevando a cabo en la Unidad; y
+
+XIV. Las demás que señalen las disposiciones legales aplicables y las que el titular de la Dirección General de Administración y el Secretario designen para el buen funcionamiento de la misma.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+###### Artículo 20 Bis 4.
+
+Corresponde a la Unidad de Presupuesto el ejercicio de las atribuciones siguientes:
+
+I. Llevar el registro de las afectaciones al presupuesto estatal y federal autorizado a la Secretaría, estableciendo los controles que permitan el correcto ejercicio de los recursos en apego a la normatividad establecida;
+
+II. Determinar conjuntamente con la Dirección de Planeación Estratégica e Informática las solicitudes de ampliaciones, reducciones, transferencias y demás modificaciones presupuestarias que requiera la Secretaría;
+
+III. Elaborar, validar y controlar las órdenes de pago necesarias para la afectación del presupuesto de la Secretaría, de acuerdo a los calendarios y montos autorizados;
+
+IV. Tramitar ante la Secretaría de Administración y Finanzas las órdenes de pago de la Secretaría;
+
+V. Recepcionar la documentación comprobatoria del ejercicio del gasto, revisando que cumpla con los requisitos fiscales y la normatividad presupuestaria;
+
+VI. Elaborar y tramitar ante la Secretaría de Administración y Finanzas los oficios de solicitud de modificaciones presupuestarias;
+
+VII. Registrar los movimientos que por ampliaciones, reducciones, transferencias y demás modificaciones presupuestarias se autoricen a la Secretaría;
+
+VIII. Realizar las conciliaciones mensuales del ejercicio del presupuesto con la Secretaría de Administración y Finanzas;
+
+IX. Elaborar los informes necesarios para conocer la suficiencia presupuestal por partida y proyecto, así como las economías obtenidas después de haber concluido cada proyecto;
+
+X. Atender conjuntamente con la Dirección de Planeación Estratégica e Informática, las auto evaluaciones mensuales y trimestrales del SISAGAP en línea y demás solicitudes de información presupuestal de las dependencias normativas;
+
+XI. Integrar y resguardar los expedientes unitarios de cada proyecto de gasto corriente y de inversión;
+
+XII. Elaborar las actas administrativas de cierre de cada proyecto al término del ejercicio presupuestal;
+
+XIII. Elaborar el acta de cierre de ejercicio de cada año;
+
+XIV. Realizar las solicitudes de registro y compromiso presupuestal ante la Secretaría de Administración y Finanzas de los documentos necesarios, de acuerdo a la modalidad de ejecución de los proyectos;
+
+XV. Tramitar a la Unidad de Recursos Financieros, la documentación comprobatoria del ejercicio del gasto para su pago después de su clasificación presupuestal y de que cumpla con los requisitos establecidos;
+
+XVI. Enviar a la Unidad de Recursos Financieros, copia de las órdenes de pago entregadas en la Secretaría de Administración y Finanzas para su registro contable y seguimiento de liquidación a sus beneficiarios;
+
+XVII. Verificar la debida elaboración de las requisiciones en cuanto a disponibilidad presupuestal, calendarios, proyectos y partidas;
+
+XVIII. Participar como vocal en las sesiones del Subcomité de compras estatal y Comité de adquisiciones federal de la Secretaría;
+
+XIX. Difundir y orientar a las unidades administrativas de la Secretaría sobre las políticas y procedimientos que deben observarse para el ejercicio presupuestal;
+
+XX. Vigilar y dar seguimiento al proceso de entrega - recepción de las unidades administrativas que integran esta Secretaría; y
+
+XXI. Las demás que señalen las disposiciones legales aplicables y las que el titular de la Dirección General de Administración y el Secretario designen para el buen funcionamiento de la misma.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+###### Artículo 20 Bis 5.
+
+Corresponde a la Unidad de Recursos Materiales y Servicios Generales el ejercicio de las atribuciones siguientes:
+
+I. Dar cumplimiento a las políticas, normas, sistemas y procedimientos para la administración de la Unidad de Recursos Materiales y Servicios Generales;
+
+II. Dirigir la prestación del servicio de fotocopiado y supervisar el buen uso de los materiales y equipos para dicho servicio en la Secretaría;
+
+III. Dirigir la prestación del servicio de correspondencia de la Secretaría y supervisar el buen uso de los equipos que se utilizan para esta actividad;
+
+IV. Dirigir los servicios y supervisar el buen uso de los materiales y equipos del personal de intendencia de la Secretaría;
+
+V. Dirigir los servicios de vigilancia de los inmuebles de la Secretaría y de las unidades motrices pertenecientes al parque vehicular de la misma;
+
+VI. Dirigir la prestación del servicio de archivo de la Secretaría y los servicios del archivo general de la misma;
+
+VII. Supervisar el buen uso de los materiales y equipos propiedad de la Secretaría, para el buen funcionamiento de la misma;
+
+VIII. Abastecer de los insumos y los servicios generales que requieran las unidades administrativas de la Secretaría para su funcionamiento;
+
+IX. Recepcionar los bienes muebles de nueva adquisición y tramitar ante las instancias correspondientes su alta y asignación de número de inventario;
+
+X. Llevar y mantener actualizado el inventario de los bienes muebles considerados como activos fijos de esta Secretaría;
+
+XI. Elaborar y actualizar constantemente los resguardos de los bienes muebles, maquinaria, equipo especializado y unidades automotrices pertenecientes a esta secretaría;
+
+XII. Concentrar y tramitar la baja de los bienes muebles no susceptibles de uso ante las instalaciones correspondientes;
+
+XIII. Programar el mantenimiento preventivo y correctivo de las unidades motrices de la Secretaría, en coordinación con las unidades administrativas a las que estén asignados;
+
+XIV. Suscribir convenios, contratos y demás actos de carácter administrativo, relacionado con sus atribuciones;
+
+XV. Participar en el cumplimiento de las normas que en materia de bienes muebles e inmuebles se emitan para su adecuada asignación, distribución y conservación;
+
+XVI. Asesorar en asuntos de su competencia al Secretario, así como a las unidades administrativas de la Secretaría;
+
+XVII. Elaborar el recibo y entregar a los diversos beneficiarios el combustible autorizado por la Secretaría;
+
+XVIII. Recibir y tramitar ante las áreas administrativas correspondientes, los reportes de bitácora de comprobación de combustibles entregados a diversos beneficiarios; y
+
+XIX. Las demás que señalen las disposiciones legales aplicables y las que el titular de la Dirección General de Administración y el Secretario designen para el buen funcionamiento de la misma.
 
 ## TÍTULO CUARTO. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS Y DIRECCIONES
 
@@ -901,11 +1135,15 @@ IX. Brindar asesoría y asistencia técnica a los ayuntamientos, en acciones que
 
 X. Promover entre el sector productivo, social y privado su integración al mercado verde y comercio justo.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ORDENAMIENTO ECOLÓGICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE ORDENAMIENTO ECOLÓGICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 29.
 
-Corresponde a la Dirección de Ordenamiento Ecológico el desempeño de las siguientes atribuciones:
+Corresponde a la Unidad de Ordenamiento Ecológico el desempeño de las atribuciones siguientes:
 
 I. Planear, instrumentar, supervisar y actualizar el programa de ordenamiento ecológico de acuerdo con la Ley de Protección Ambiental del Estado de Tabasco;
 
@@ -929,11 +1167,15 @@ X. Establecer los mecanismos para implementar y mantener actualizada la bitácor
 
 XI. Organizar las reuniones del Comité Técnico de Ordenamiento Ecológico y dar seguimiento a los acuerdos establecidos en el seno del mismo.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE CULTURA AMBIENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2012)</small>
+
+#### SECCIÓN TERCERA. DE LA UNIDAD DE CULTURA AMBIENTAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Dirección de Cultura Ambiental el desempeño de las atribuciones siguientes:
+Corresponde a la Unidad de Cultura Ambiental el desempeño de las atribuciones siguientes:
 
 I. Promover y difundir las estrategias, programas y acciones orientadas al desarrollo sustentable y la protección del medio ambiente, de conformidad con la legislación y normatividad aplicable;
 
@@ -1045,11 +1287,15 @@ XIII. Impulsar la adopción de tecnologías que faciliten el trabajo doméstico 
 
 XIV. Identificar las áreas vulnerables a los efectos de fenómenos naturales y diseñar estrategias de respuesta en casos de riesgo.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE USO Y MANEJO DE LOS RECURSOS NATURALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ENERO DE 2012)</small>
+
+#### SECCIÓN TERCERA. DE LA UNIDAD DE USO Y MANEJO DE LOS RECURSOS NATURALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 34.
 
-Corresponde a la Dirección de Uso y Manejo de los Recursos Naturales el desempeño de las atribuciones siguientes:
+Corresponde a la Unidad de Uso y Manejo de los Recursos Naturales el desempeño de las atribuciones siguientes:
 
 I. Impulsar la consolidación del Sistema de Áreas Naturales Protegidas del Estado de Tabasco, en colaboración con las autoridades municipales y federales, a través de la ejecución, seguimiento y evaluación de acciones coordinadas;
 
@@ -1111,7 +1357,9 @@ En los juicios de amparo en que deba intervenir el Secretario o los servidores p
 
 Las relaciones de trabajo entre la Secretaría y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado.
 
-Se consideran categorías de confianza las de director general, directores de área, subdirectores, jefes de departamento, jefes de área, asesores y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de la Secretaría.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2012)</small>
+
+Se consideran categorías de confianza las de director general, directores de área, jefes de unidad, jefes de departamento, jefes de área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de la Secretaría.
 
 ## TRANSITORIOS
 
@@ -1141,10 +1389,16 @@ OCEAN. SILVIA WHIZAR LUGO
 
 SECRETARIA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 29 DE JUNIO DE 2011.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 18 DE ENERO DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
