@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2012-01-13"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -195,9 +195,11 @@ La Procuraduría General de Justicia, ejercerá las atribuciones que le señala 
 
 ### Capítulo Segundo. De la Secretaría de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
+
 ###### Artículo 21.
 
-La Secretaría de Gobierno es la dependencia encargada de conducir, por delegación del Gobernador del Estado, la política interna del Estado. Tendrá además las siguientes atribuciones:
+La Secretaría de Gobierno es la dependencia encargada de conducir, por delegación del Gobernador del Estado, la política interna y la gobernabilidad del Estado. Tendrá, además, las siguientes atribuciones:
 
 I. Conducir las relaciones del Poder Ejecutivo del Estado con los demás poderes del Estado y con otras dependencias de la federación, de los gobiernos estatales y municipales;
 
@@ -295,13 +297,15 @@ XXXVIII. Operar el Sistema Estatal de Protección Civil, de conformidad con la L
 
 XXXIX. Proponer al Consejo Estatal de Protección Civil, políticas, acciones y estrategias de coordinación en materia de protección civil, para todo el territorio del Estado;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
 
-XL. Fomentar la participación ciudadana en la formulación de planes y programas de protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno; y
+XL. Fomentar las (sic) participación ciudadana en la formulación de planes y programas de transporte y protección civil, coordinándose, en su caso, con los diferentes órdenes de gobierno;
 
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2012)</small>
 
-XLI. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
+XLI. Diseñar, proponer y ejecutar las políticas y programas de transporte privado y público, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir las concesiones, permisos y licencias aplicables en la materia; y
+
+XLII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos que resulten aplicables.
 
 ### Capítulo Tercero. De la Secretaría de Planeación y Finanzas
 
@@ -845,15 +849,17 @@ XXI. Las demás facultades y obligaciones que le señalan las leyes y reglamento
 
 ### Capítulo Décimo Tercero. De la Secretaría de Seguridad Ciudadana
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 33.
 
-La Secretaría de Seguridad Ciudadana, es la dependencia estatal que, con respeto de la competencia federal y municipal, tiene a su cargo, velar por el orden público y la paz social, en los términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, a través de la prevención y combate a todo tipo de conductas antisociales. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Seguridad Ciudadana es la dependencia estatal que, con respeto de la competencia federal y municipal, tiene a su cargo velar por el orden público y la paz social, en los términos de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, a través de la prevención y combate a todo tipo de conductas antisociales, así como la protección de las personas y sus bienes. Le corresponde el despacho de los siguientes asuntos:
 
 I. Diseñar, proponer y ejecutar las políticas y programas de seguridad pública en el ámbito estatal para prevenir la comisión de delitos y apoyar la procuración de justicia en bien los gobernados;
 
-II. Diseñar, proponer y ejecutar las políticas y programas de tránsito, de transporte privado y de la prestación del servicio de transporte público, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir los permisos de circulación, las licencias y permisos para conducir;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+II. Diseñar, proponer y ejecutar las políticas y programas de tránsito, en su caso, con la participación de los municipios, de acuerdo a los convenios y programas en que éstos intervengan; así como expedir los permisos de circulación, las licencias y permisos para conducir;
 
 III. (DEROGADA, P.O. 13 DE ENERO DE 2012)
 
@@ -1078,3 +1084,21 @@ Artículo Quinto. Los programas que hasta antes de la entrada en vigor de la pre
 Artículo Sexto. El Gobernador del Estado realizará las gestiones necesarias, a fin de que el Consejo Estatal de Protección Civil sea instalado dentro de los cien días naturales posteriores a aquél en que entre en vigor la presente Ley.
 
 Artículo Séptimo. Dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, los 18 Ayuntamientos del Estado de Querétaro realizarán las gestiones correspondientes con la Unidad Estatal de Protección Civil, asimimo (sic) capacitarán y comprarán el equipo para contar con el Atlas de Riesgos Municipal.
+
+P.O. 18 DE ENERO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. A la entrada en vigor de la presente Ley, la Dirección de Transporte, adscrita a la Secretaría de Seguridad Ciudadana y los servidores públicos de la misma, pasarán a formar parte de la estructura y del personal de la Secretaría de Gobierno.
+
+Artículo Tercero. Para los efectos legales a que haya lugar, la Secretaría de Gobierno sustituirá a la Secretaría de Seguridad Ciudadana, en el ejercicio de las facultades de su competencia en materia de transporte, así como en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por éste último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la Secretaría de Gobierno, para tales efectos.
+
+Artículo Cuarto. Hasta en tanto sea adecuada la normatividad interna de la Secretaría de Gobierno y de la Secretaría de Seguridad Ciudadana, seguirá en vigor, en lo que no contravenga a la presente Ley, aquella que ha regido hasta el momento a la Dirección de Transporte.
+
+Artículo Quinto. Para la atención y el seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva, que estén vinculados de cualquier manera con la Dirección de Transporte, la representación de ésta se entenderá efectuada a través de la Secretaría de Gobierno y los que hayan iniciado o se inicien sobre el manejo de recursos públicos por parte de los servidores públicos de la Dirección de Transporte o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de la modificación a que se refiere la presente Ley.
+
+Artículo Sexto. Hasta en tanto se realizan las adecuaciones a la legislación que corresponda, las referencias a la Secretaría de Seguridad Ciudadana que hagan las leyes y demás disposiciones administrativas en materia de Transporte, en adelante se entenderán realizadas a la Secretaría de Gobierno.
+
+Artículo Séptimo. El presupuesto vigente aprobado para la Secretaría de Seguridad Ciudadana en materia de Transporte, será reasignado a la Secretaría de Gobierno, quedando autorizada la Secretaría de Planeación y Finanzas para que en términos de los artículos 68, 70, 71 y demás relativos de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, realice las transferencias que resulten necesarias, a efecto de que la Secretaría de Gobierno cuente con los recursos suficientes para el desarrollo de los objetivos y programas en materia de Transporte, sin necesidad de tramitar la modificación al Presupuesto aprobado por la Quincuagésima Sexta Legislatura del Estado de Querétaro para el ejercicio presupuestario correspondiente.
+
+Artículo Octavo. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
