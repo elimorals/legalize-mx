@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-12628"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-08-31"
-last_updated: "2007-11-21"
+last_updated: "2012-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -203,7 +203,9 @@ Son auxiliares del Ministerio Público, obligados a cumplir con sus órdenes:
 
 l. La Policía Ministerial Investigadora;
 
-II.- Los peritos de la Institución;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 18 DE ENERO DE 2012)
 
 III.- El Director de Seguridad Pública y Tránsito del Estado y los elementos a su cargo;
 
@@ -227,11 +229,13 @@ El Procurador rendirá informe anual por escrito al Congreso del Estado respecto
 
 Los subprocuradores serán designados y removidos por el Gobernador, a propuesta del Procurador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 17.
 
-En la designación del personal del Ministerio Público, Policía Ministerial Investigadora y de Servicios Periciales, se atenderá a lo establecido en la presente Ley y a lo que disponga la normativa aplicable, con apego a las disposiciones siguientes:
+En la designación del personal del Ministerio Público y Policía Ministerial Investigadora, se atenderá a lo establecido en la presente Ley y a lo que disponga la normativa aplicable, con apego a las disposiciones siguientes:
 
 I.- Para ser agente del Ministerio Público se requiere:
 
@@ -251,13 +255,17 @@ El Procurador podrá designar agentes especiales para que intervengan, con la mi
 
 II.- Para ingresar como Agente de la Policía Ministerial Investigadora, además de reunir los requisitos de los incisos a), c) y d) de la fracción I, deberá contar al día de su designación como mínimo con veintiún años de edad y como máximo treinta y cinco años de edad, gozar de buena salud y aprobar los exámenes respectivos; y,
 
-III.- Para ser perito oficial, además de reunir los requisitos de los incisos a), c) y d) de la fracción I, deberá contar con título legalmente expedido y registrado ante autoridad competente, en la materia de que se trate, o en su defecto, acreditar tener los conocimientos idóneos sobre la disciplina en que deba dictaminar. Esto último cuando la ley no exija título para su ejercicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
+III.- (DEROGADA, P.O. 18 DE ENERO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
 
 ###### Artículo 18.
 
-Para ingresar al servicio de la Procuraduría como Agente del Ministerio Público, Agente de la Policía Ministerial Investigadora o Perito, los interesados deberán participar en los concursos de oposición a que se convoque, conforme al Reglamento de esta Ley. Excepcionalmente cuando se trate de personas de reconocido prestigio y experiencia profesional, y por acuerdo del Procurador, podrá dispensarse el cumplimiento del requisito.
+Para ingresar al servicio de la Procuraduría como Agente del Ministerio Público o Agente de la Policía Ministerial Investigadora, los interesados deberán participar en los concursos de oposición a que se convoque, conforme al Reglamento de esta Ley. Excepcionalmente cuando se trate de personas de reconocido prestigio y experiencia profesional, y por acuerdo del Procurador, podrá dispensarse el cumplimiento del requisito.
 
 Quienes ingresen al servicio de la Procuraduría, estarán obligados a participar en los cursos que se organicen, en los que se les capacitará y actualizará en la función de representación social que corresponde a la institución, y sobre las materias especiales que de acuerdo con la función corresponda en cada caso; todo ello, conforme a los programas que al efecto se aprueben, de conformidad con el Reglamento de esta Ley.
 
@@ -265,9 +273,11 @@ Quienes ingresen al servicio de la Procuraduría, estarán obligados a participa
 
 El Procurador expedirá los acuerdos, circulares y manuales de organización y procedimientos, que conduzcan al cumplimiento eficaz de las funciones de la Institución y resolverá, por sí o por delegación, lo relativo al ingreso, promoción, adscripción, renuncias, sanciones y estímulos a los funcionarios y empleados, sin perjuicio del cumplimiento de las normas que regulan las relaciones entre el Estado y sus trabajadores.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, incluidos los agentes del Ministerio Público, peritos periciales y coordinadores de la policía ministerial no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto y plaza que ocupen o remuneración que devenguen, ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2012)</small>
+
+Los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, incluidos los agentes del Ministerio Público y coordinadores de la policía ministerial no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo o por separación del cargo, sea cual fuere el mecanismo o forma de pago, lugar de adscripción, puesto y plaza que ocupen o remuneración que devenguen, ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -740,3 +750,25 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día quince de febrero de dos mil doce. Comuníquese al Titular del Poder Ejecutivo, para su publicación correspondiente.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, financieros y materiales, así como los dictámenes que se encuentren en proceso actualmente a disposición de la Procuraduría General de Justicia del Estado de Michoacán, en materia de servicios periciales, pasarán a formar parte del patrimonio del Instituto Michoacano de Investigación Forense.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto contará con noventa días naturales para publicar sus reglamentos a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En tanto, se publiquen los reglamentos respectivos, el personal de base, y de confianza, se seguirán rigiendo por lo que establece la normatividad aplicable a la Dirección de Servicios Periciales de la Procuraduría General del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO QUINTO.
+
+Para efectos presupuestales y administrativos a que haya lugar, el Poder Ejecutivo preverá en el presupuesto de egresos del ejercicio fiscal dos mil doce la creación de la unidad responsable correspondiente en la unidad programática presupuestal de organismos descentralizados.
