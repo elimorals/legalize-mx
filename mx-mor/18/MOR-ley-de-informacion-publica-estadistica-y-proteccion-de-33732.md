@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-informacion-publica-estadistica-y-proteccion-de-33732"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-27"
-last_updated: "2009-05-21"
+last_updated: "2012-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-LEY DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
+LEY DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -799,7 +799,13 @@ Las unidades de información pública realizarán las siguientes funciones bási
 
 9. Administrar y actualizar mensualmente el registro de las solicitudes, respuestas, trámites y costos que implique el cumplimiento de sus funciones.
 
-10. Las necesarias para facilitar el ejercicio del derecho de acceso a la información y la protección general de datos personales de acuerdo con los principios y preceptos establecidos en la ley.
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+10. Capacitar y actualizar de forma permanente, a través de cursos, talleres, seminarios, y cualquier otra forma de enseñanza que se considere pertinente, a los servidores públicos en la cultura de accesibilidad y apertura informativa como un derecho humano de la población morelense.
+
+Para tal efecto, se firmarán Convenios de Colaboración con el Instituto Morelense de Información Pública y Estadística y la entidad pública obligada.
+
+11. Las necesarias para facilitar el ejercicio del derecho de acceso a la información y la protección general de datos personales de acuerdo con los principios y preceptos establecidos en la ley.
 
 ###### Artículo 72.
 
@@ -1504,3 +1510,9 @@ Los sujetos obligados deberán, en un periodo no mayor de cinco años, completar
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 18 DE ENERO DE 2012.
+
+PRIMERO.- Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
