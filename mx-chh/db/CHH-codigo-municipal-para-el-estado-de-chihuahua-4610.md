@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2011-10-29"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
+CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -55,7 +55,7 @@ CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
 Este Código, contiene las normas a que se sujetará la organización interior del ayuntamiento y el funcionamiento de la administración pública municipal en el Estado de Chihuahua, reglamentando las disposiciones relativas a los Municipios, contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 2.
 
@@ -111,7 +111,7 @@ La organización, desarrollo y procedimientos de las anteriores figuras, se llev
 
 El Estado de Chihuahua se divide en sesenta y siete Municipios con personalidad jurídica y patrimonio propios, los cuales son la base de su organización territorial, política y administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que será auxiliado en sus funciones:
 
@@ -127,7 +127,7 @@ Son elegibles para el cargo de miembros de un Ayuntamiento, de junta municipal y
 
 Las autoridades Municipales actuarán dentro de la esfera de competencia que les concedan los ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 11.
 
@@ -305,7 +305,7 @@ LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secc
 
 Las municipalidades, secciones municipales y comisarías de policía, comprenderán las haciendas, rancherías, ejidos, congregaciones y demás centros de población, que se encuentren enclavados dentro de sus respectivos límites, sancionados por la tradición y la costumbre. Las controversias por límites entre los Municipios serán resueltos por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 13.
 
@@ -403,7 +403,7 @@ La vecindad no se perderá por ausencia en el desempeño de un cargo público o 
 
 ### CAPITULO I. DE LA INTEGRACION E INSTALACION DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 17.
 
@@ -465,7 +465,7 @@ El Presidente Municipal expondrá a los vecinos del Municipio su programa de gob
 
 En las Juntas Municipales y Comisarías de Policía, la protesta se tomará por el Presidente Municipal o su representante.
 
-(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2001) (F. DE E., P.O. 31 DE OCTUBRE DE 2001)
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2001) (F. DE E., P.O. 31 DE OCTUBRE DE 2001)
 
 ###### ARTICULO 19.
 
@@ -485,7 +485,7 @@ Una vez recibido el Informe, el Ayuntamiento acordará la integración de una co
 
 El Presidente Municipal o quien lo sustituya legalmente, lo será del ayuntamiento y tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 21.
 
@@ -689,13 +689,17 @@ XL.- Aprobar el anteproyecto de tablas de valores unitarios de suelo y construcc
 
 XLI.- Impulsar la creación de instancias municipales que sean las encargadas de instrumentar y dar seguimiento a las políticas, acciones, planes y programas que incorporen la transversalidad de la perspectiva de género, conforme a la Ley de Desarrollo Social y Humano para el Estado de Chihuahua;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
 
-XLII.- Las demás que le confieren las leyes y sus reglamentos.
+XLII.- Aprobar, a propuesta del Presidente Municipal, al titular de la Dirección de Seguridad Pública Municipal. Dicha aprobación se hará dentro de los cinco días hábiles siguientes a aquél en que reciba la propuesta del Presidente Municipal, tomando en cuenta lo que señala el artículo 22 del presente ordenamiento y, necesariamente, en ese momento, deberá quedar designado, no pudiéndose suspender ni prorrogar el término señalado, debiendo, en caso de encontrarse en receso, citar a sesión extraordinaria, para tales efectos. Durante el tiempo que dure el procedimiento de designación del Director de Seguridad Pública, el Presidente Municipal designará libre y directamente a quien deba encargarse del mencionado despacho.
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2012)</small>
+
+XLIII.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 29.
 
@@ -703,7 +707,9 @@ El presidente Municipal tendrá las siguientes facultades y obligaciones:
 
 I.- Presidir las sesiones del Ayuntamiento, con voz y voto y convocar al Ayuntamiento a sesiones extraordinarias;
 
-II.- Nombrar y remover libremente a los funcionarios y empleados de la administración municipal, cuando no esté determinado de otro modo en las leyes;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2012)</small>
+
+II.- Nombrar y remover libremente a los funcionarios y empleados de la Administración Municipal, cuando no esté determinado de otro modo en las leyes. Proponer al Ayuntamiento la aprobación del titular de la Dirección de Seguridad Pública Municipal.
 
 III.- Informar oportunamente al Ayuntamiento, acerca de la ejecución de los acuerdos aprobados;
 
@@ -757,7 +763,7 @@ XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de la
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a largo Plazo del Estado de Chihuahua.
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -797,7 +803,7 @@ Las suplentes de los presidentes municipales, también deberán cumplir con esta
 
 XXXVIII.- Las demás que le confieren las leyes y reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
 ### CAPITULO V. DE LAS PRERROGATIVAS DE LOS REGIDORES Y DEL SINDICO
 
@@ -823,7 +829,7 @@ III.- Gozar de buena reputación;
 
 IV.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, salvo que se trate de delitos contra la propiedad u otro tipo que lastime seriamente la buena fama en concepto público; en cuyo caso, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 31.
 
@@ -1105,7 +1111,7 @@ III.- Los ciudadanos deberán reunir los requisitos que exige la Constitución P
 
 IV.- Serán presididas por él o los representantes del Ayuntamiento que sean comisionados al efecto, los cuales verificarán la elección, levantarán el acta correspondiente, firmándola con los testigos del acto que quisieran hacerlo; rendirán al Ayuntamiento el informe respectivo quien en sesión calificará la elección antes de quince días, haciendo la declaración de los triunfadores. El Presidente Municipal o su representante tomará la protesta de ley a los ciudadanos electos y les dará posesión de sus cargos. En los casos de Comisarios de Policía, cuando no asista la mayoría de vecinos, el Ayuntamiento los designará libremente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2001)</small>
 
 ## TITULO CUARTO. DE LAS BASES GENERALES DE OBSERVANCIA COMUN PARA LOS MUNICIPIOS
 
@@ -1151,7 +1157,7 @@ I).- Recursos; y
 
 J).- Vigencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2009)</small>
 
 El Ayuntamiento procurará expedir reglamentos sobre las siguientes materias:
 
@@ -1197,7 +1203,7 @@ Son circulares, las disposiciones de carácter general, de orden interno, que co
 
 Son disposiciones administrativas de observancia general, las normas que no teniendo las características de los bandos, reglamentos y circulares, sean dictadas, en atención a una inminente necesidad que afecte a los particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 50.
 
@@ -1207,7 +1213,7 @@ Las normas que contengan los bandos, reglamentos y otras disposiciones municipal
 
 ### CAPITULO I. DE LA DECLARACION DE DESAPARICION DE AYUNTAMIENTOS
 
-## TITULO QUINTO. DE LA DECLARACION DE DESAPARICION DE AYUNTAMIENTOS Y DE LA SUSPENSION DEFINITIVA DE SUS INTEGRANTES
+## TITULO QUINTO. DE LA DECLARACIÓN DE DESAPARICIÓN DE AYUNTAMIENTOS Y DE LA SUSPENSIÓN DEFINITIVA DE SUS INTEGRANTES
 
 ### CAPITULO II. DE LA SUSPENSION DEFINITIVA DE LOS INTEGRANTES DE LOS AYUNTAMIENTOS
 
@@ -1385,7 +1391,7 @@ XIV.- Reunir los datos necesarios, para la elaboración de los informes que el P
 
 XV.- Las demás que le encomienden las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 64.
 
@@ -1645,7 +1651,7 @@ V.- Dirigir y vigilar, en el ámbito de su competencia, el cumplimiento de las l
 
 VI.- Las demás, que le señalen expresamente otras leyes o reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
 
 ARTICULO 74 BIS.- Son atribuciones y obligaciones del Director o Jefe de Departamento de Ecología, las siguientes:
 
@@ -1813,7 +1819,7 @@ El principio de Subsidiariedad comunitaria, implica que ante la prestación parc
 
 VI.- Las demás que les señalen las leyes y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2010)</small>
 
 ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia o mecanismos automatizados de restricción de tránsito, bajo las siguientes bases:
 
@@ -2097,7 +2103,7 @@ VI.- Cualesquiera otros, adquiridos por procedimientos de derecho público.
 
 ### CAPITULO III. DEL DENUNCIO DE TERRENOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 107.
 
@@ -2151,13 +2157,13 @@ No será necesaria la anuencia señalada en el párrafo anterior, cuando la enaj
 
 Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 111.
 
 Los bienes inmuebles del dominio privado del municipio son imprescriptibles pero podrán ser enajenados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 Basta la autorización del Ayuntamiento, previa justificación de su procedencia, cuando la transmisión se realice:
 
@@ -2619,7 +2625,7 @@ El impuesto neto a pagar nunca será inferior al equivalente a dos días de sala
 
 #### SECCION III. DE LAS EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 150.
 
@@ -2639,7 +2645,7 @@ Para los efectos de este Artículo, el año se entiende dividido en seis bimestr
 
 Corresponde a la Tesorería Municipal realizar el cobro del Impuesto Predial, de conformidad con lo establecido en el presente ordenamiento y su incumplimiento será causa de responsabilidad administrativa.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO No. 786/06 I, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2006, DURANTE EL EJERCICIO FISCAL DE 2007, NO SERA APLICABLE LO DISPUESTO EN ESTE ARTICULO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO No. 786/06 I, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2006, DURANTE EL EJERCICIO FISCAL DE 2007, NO SERÁ APLICABLE LO DISPUESTO EN ESTE ARTÍCULO.</small>
 
 ###### ARTICULO 152.
 
@@ -2715,7 +2721,7 @@ Será base gravable del impuesto, lo que resulte mayor de:
 
 I.- El valor del inmueble cuyo dominio se adquiera y se determine por medio del avalúo que practique la Tesorería Municipal, una institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones, en base al valor físico del inmueble. El avalúo que se considerará para determinar la base del impuesto, no deberá tener en ningún caso, una antigüedad de un año entre la fecha en que se practique y la fecha en que se realice el entero del impuesto;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 786/06 I, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2006, PARA DETERMINAR LA BASE DEL IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES DURANTE EL EJERCICIO FISCAL DE 2007, NO SE TOMARA EN CUENTA EL CONTENIDO DE LA PRESENTE FRACCION.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO No. 786/06 I, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2006, PARA DETERMINAR LA BASE DEL IMPUESTO SOBRE TRASLACIÓN DE DOMINIO DE BIENES INMUEBLES DURANTE EL EJERCICIO FISCAL DE 2007, NO SE TOMARÁ EN CUENTA EL CONTENIDO DE LA PRESENTE FRACCIÓN.</small>
 
 II.- El valor catastral; y
 
@@ -2729,7 +2735,7 @@ Tratándose de bienes inmuebles cuya adquisición se derive de procesos de regul
 
 En cuanto a operaciones que tengan como fin la regularización de la tenencia de la tierra, llevadas a cabo por la Comisión para la Regularización de la Tenencia de la Tierra, será optativo para el contribuyente acogerse al tratamiento anterior o al avalúo global practicado por la Comisión de Avalúos de Bienes Nacionales, e individualizado en su operación.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 1999, EL LEGISLADOR SEÑALA QUE SE REFORMA EL "PARRAFO SEGUNDO DE LA FRACCION TERCERA", SIN EMBARGO, DE SU LECTURA SE CONCLUYE QUE ES EL PRESENTE PARRAFO EL COINCIDENTE CON DICHA REFORMA.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 1999, EL LEGISLADOR SEÑALA QUE SE REFORMA EL "PÁRRAFO SEGUNDO DE LA FRACCIÓN TERCERA", SIN EMBARGO, DE SU LECTURA SE CONCLUYE QUE ES EL PRESENTE PÁRRAFO EL COINCIDENTE CON DICHA REFORMA.</small>
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 1999)</small>
 
@@ -2741,7 +2747,7 @@ Para los efectos de este impuesto, se considera que el usufructo y la nuda propi
 
 Los avalúos a que se refieren los párrafos anteriores deberán comprender el terreno y las construcciones aun cuando se adquiera únicamente el terreno o las construcciones, salvo que se pruebe que el adquirente edificó con recursos propios las construcciones o que las adquirió con anterioridad habiendo cubierto el impuesto respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 159.
 
@@ -2827,7 +2833,7 @@ Si la declaración no reúne los requisitos legales y fiscales, la Tesorería Mu
 
 Transcurrido el plazo, sin que se acredite el pago del impuesto, los fedatarios, tratándose de actos que consten en escritura pública, pondrán a ésta la nota de "NO PASO", con la aclaración de incumplimiento del pago del impuesto correspondiente, sin embargo, podrán revalidar el acto, siempre y cuando se actualicen los valores de acuerdo a lo establecido anteriormente, y paguen el impuesto omitido, recargos y la sanción aplicable en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 164.
 
@@ -2953,7 +2959,7 @@ Son objeto de derechos por servicios generales en los rastros municipales, toda 
 
 DERECHO POR SERVICIO DE ALUMBRADO PUBLICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -2963,7 +2969,7 @@ Es objeto de este derecho, el servicio de alumbrado público que el municipio pr
 
 Son sujetos de este derecho, los propietarios o poseedores de predios, ya sean urbanos, semiurbanos o rústicos, ubicados en el área territorial del municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -2989,13 +2995,13 @@ Son objeto de éste derecho, el aseo de los lugares de uso común, la recolecci�
 
 Se exceptúa de lo anterior, a los particulares que depositen residuos sólidos en los lugares que al efecto establezca la autoridad municipal, por sus propios medios, con cargo a su propio peculio y que su actividad no sea con fines lucrativos. La autoridad municipal difundirá la localización de los centros de recepción de residuos sólidos gratuitos en este caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 DERECHOS POR LOS SERVICIOS DE LIMPIEZA DE PREDIOS BALDIOS O NO EDIFICADOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -3013,7 +3019,7 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 # LIBRO TERCERO. DE LA ACTIVIDAD MUNICIPAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2001)</small>
 
 ## TITULO PRIMERO. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
@@ -3271,7 +3277,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -3343,7 +3349,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1995.
 
@@ -3375,7 +3381,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 18 DE OCTUBRE DE 1997.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3919,7 +3925,7 @@ P.O. 8 DE JUNIO DE 2005.
 
 P.O. 26 DE OCTUBRE DE 2005.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LA ADICION AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA ADICIÓN AL PRESENTE CÓDIGO.</small>
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4079,11 +4085,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 10 DE DICIEMBRE DE 2008.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 4 DE ABRIL DE 2009.
 
-DECRETO No. 593/09 II P.O., POR EL QUE SE REFORMA Y ADICIONA LOS ARTICULOS 84 Y 84 BIS DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 593/09 II P.O., POR EL QUE SE REFORMA Y ADICIONA LOS ARTÍCULOS 84 Y 84 BIS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4091,7 +4097,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 4 DE ABRIL DE 2009.
 
-DECRETO No. 594/09 II P.O., POR EL QUE SE REFORMA EL ARTICULO 47 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 594/09 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 47 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4125,7 +4131,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 17 DE JULIO DE 2010.
 
-DECRETO No. 1105/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 84 BIS Y 84 TER AL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 1105/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 84 BIS Y 84 TER AL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4133,7 +4139,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 17 DE JULIO DE 2010.
 
-DECRETO No. 1111/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 84 BIS DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 1111/2010 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 84 BIS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4187,7 +4193,7 @@ P.O. 13 DE AGOSTO DE 2011.
 
 > <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
-DECRETO No. 210/2010 I P.O., POR EL QUE SE REFORMAN LOS ARTICULOS 175 Y 176 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 210/2010 I P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 175 Y 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4195,7 +4201,7 @@ El presente Decreto entrará en vigor el día 28 de febrero del año dos mil onc
 
 P.O. 13 DE AGOSTO DE 2011.
 
-DECRETO No. 372/2011 II P.O., POR EL QUE SE REFORMAN LOS ARTICULOS 175 Y 176 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 372/2011 II P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 175 Y 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4217,7 +4223,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 29 DE OCTUBRE DE 2011.
 
-DECRETO No. 274/2011 II P.O. POR EL QUE SE REFORMA EL ARTICULO 18 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 274/2011 II P.O. POR EL QUE SE REFORMA EL ARTÍCULO 18 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4225,7 +4231,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 29 DE OCTUBRE DE 2011.
 
-DECRETO No. 289/2011 II P.O. POR EL QUE SE REFORMA EL ARTICULO 31 DEL CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+DECRETO No. 289/2011 II P.O. POR EL QUE SE REFORMA EL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
