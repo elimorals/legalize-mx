@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2010-06-16"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1422,6 +1424,14 @@ FORMAS DE NOTIFICACIÓN. Las notificaciones se harán personalmente, por estrado
 ###### ARTÍCULO 132.
 
 OBLIGACIONES DE LOS ACTUARIOS. Las notificaciones se harán a más tardar al día siguiente al que se dicten las resoluciones que las prevengan cuando el juez o la ley no dispongan otra cosa. Se impondrá de plano a los infractores de este artículo: En primera infracción una multa equivalente a dos días del salario mínimo vigente; a la segunda infracción una multa equivalente a cinco días de sueldo mínimo vigente; y, a la tercera infracción se le suspenderá con tres meses sin goce de sueldo. En caso de nueva reincidencia será destituido del cargo el infractor, previa audiencia de defensa ante el juez o sala a quien competa.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+Las citaciones se notificarán con cuarenta y ocho horas de anticipación cuando menos, al momento en que deba tener verificativo el acto correspondiente, y contendrán: identificación del citado, designación de la autoridad ante la que debe presentarse, acto que se requiere de él, día y hora señalados para la actuación que se comunica, medio de apremio que se utilizará para asegurar su presencia y firma del funcionario que da fe de la citación.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2012)</small>
+
+Estas prevenciones se tendrán en cuenta, según corresponda, en las notificaciones, citaciones y emplazamientos que se hagan personalmente.
 
 ###### ARTÍCULO 133.
 
@@ -6245,9 +6255,11 @@ A la junta serán citados los herederos nombrados en el testamento, el albacea t
 
 La citación se hará por cédula o correo certificado. Si no se conociere el domicilio de los herederos, según lo ordena el artículo 705 de este Código, se les citará por medio de un edicto que se publicará en un diario de los de mayor circulación y en el Boletín Judicial; además, se fijará en los estrados del juzgado. Si el lugar de radicación no fuere el del último domicilio del autor de la herencia, también se publicará el edicto en éste. A los herederos cuyos domicilios se conozcan y que no radiquen en el lugar del juicio, se les citará por conducto de su representante legítimo. En todo caso, el Ministerio Público representará a los herederos cuyo paradero se ignore y a los que habiendo sido citados no se presenten, la representación del Ministerio Público cesará luego que se presenten los herederos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 718.
 
-DESIGNACIÓN DEL ALBACEA Y RESOLUCIÓN DE OBJECIONES AL TESTAMENTO. En la junta de herederos se dará a conocer a éstos el albacea nombrado, y el Juez reconocerá como tales a los que estén nombrados en las porciones que les correspondan, si el testamento no es objetado, ni tampoco la capacidad de los designados. En la misma junta, si no hubiere albacea testamentario o éste no aceptare su cargo, se procederá a su designación, y en su caso a la del interventor. Si el testamento fuere objetado en la junta por alguno de los herederos nombrados o por algún heredero con derecho a la sucesión legítima, en cuanto a su validez, o si se alegare sobre la capacidad para heredar de alguno de los nombrados, el Juez dictará resolución que tendrá el carácter de provisional, mientras se sustancia por separado el juicio ordinario correspondiente con el albacea o herederos afectados. La objeción no suspenderá los trámites del juicio sucesorio, sino sólo en la adjudicación de los bienes.
+DESIGNACIÓN DEL ALBACEA Y RESOLUCIÓN DE OBJECIONES AL TESTAMENTO. En la junta de herederos se dará a conocer a éstos el albacea nombrado, y el Juez reconocerá como tales a los que estén nombrados en las porciones que les correspondan, si el testamento no es objetado, ni tampoco la capacidad de los designados. En la misma junta, si no hubiere albacea testamentario o éste no aceptare su cargo, se procederá a su designación, y en su caso a la del interventor. Si el testamento fuere objetado en la junta por alguno de los herederos nombrados o por algún heredero con derecho a la sucesión legitima, en cuanto a su validez, o si se alegare sobre la capacidad para heredar de alguno de los nombrados, el Juez dictará resolución que tendrá el carácter de provisional, mientras se sustancia por separado la Controversia Familiar con el albacea o herederos afectados. La objeción no suspenderá los trámites del juicio sucesorio, sino sólo en la adjudicación de los bienes.
 
 Las cuestiones que no afectan la validez del testamento o la capacidad para heredar sino sólo su inoficiosidad, conforme lo establece el Código Familiar, se decidirán en la audiencia y serán apelables las resoluciones respectivas sólo en el efecto devolutivo.
 
@@ -6285,7 +6297,9 @@ Los que comparezcan deduciendo derechos hereditarios deben expresar el grado de 
 
 JUSTIFICACIÓN DE DERECHO A HEREDEROS. Los que se crean con derecho a la herencia legítima deben justificar su parentesco o lazo con el autor de la herencia en cualquier tiempo hasta antes de la celebración de la junta de herederos y aún en ésta; pero la información de testigos y demás pruebas que ofrezcan los colaterales y el vinculado por concubinato deben recibirse precisamente antes de la celebración.
 
-Después de celebrada la junta de herederos, los que se presenten posteriormente deduciendo derechos hereditarios serán admitidos hasta antes de la adjudicación si los comprueban y los demás interesados están conformes. En caso contrario no serán admitidos, pero les queda a salvo su derecho para hacerlo valer en juicio ordinario contra los que fueron declarados herederos.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2012)</small>
+
+Después de celebrada la junta de herederos, los que se presenten posteriormente deduciendo derechos hereditarios serán admitidos hasta antes de la adjudicación si los comprueban y los demás interesados están conformes. En caso contrario no serán admitidos, pero les queda a salvo su derecho para hacerlo valer por la vía de Controversia Familiar contra los que fueron declarados herederos.
 
 ###### ARTÍCULO 722.
 
@@ -6800,3 +6814,19 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén realizando ante la Dirección del Registro Civil del Estado de Morelos deberán concluirse ante la misma.
+
+P.O. 18 DE ENERO DE 2012.
+
+DECRETO NÚMERO 1633, POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 718 Y EL SEGUNDO PARRAFO DEL ARTICULO 721 DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Aprobado el presente, remítase para su publicación en el Periódico Oficial: Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 18 DE ENERO DE 2012.
+
+DECRETO NÚMERO 1634, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PARRAFO AL ARTICULO 132 DEL CODIGO PROCESAL FAMILIAR DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
