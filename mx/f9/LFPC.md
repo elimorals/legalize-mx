@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2011-12-21"
+last_updated: "2012-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -992,9 +990,11 @@ XIV. En el caso de operaciones de compraventa, deberán señalarse los términos
 
 XV. Las demás que se exijan conforme a la presente ley para el caso de los contratos de adhesión.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 2012)</small>
 
-ARTICULO 73 QUÁTER.- Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a un año contado a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
+ARTICULO 73 QUÁTER.- Todo bien inmueble cuya transacción esté regulada por esta Ley, deberá ofrecerse al consumidor con la garantía correspondiente, la cual no podrá ser inferior a cinco años para cuestiones estructurales y tres años para impermeabilización; para los demás elementos la garantía mínima será de un año. Todos los plazos serán contados a partir de la entrega real del bien. En el tiempo en que dure la garantía el proveedor tendrá la obligación de realizar, sin costo alguno para el consumidor, cualquier acto tendiente a la reparación de los defectos o fallas presentados por el bien objeto del contrato.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ENERO DE 2009)</small>
 
 El tiempo que duren las reparaciones efectuadas al inmueble al amparo de la garantía no es computable dentro del plazo de la misma; una vez que el inmueble haya sido reparado se iniciará la garantía respecto de las reparaciones realizadas, así como con relación a las piezas o bienes que hubieren sido repuestos y continuará respecto al resto del inmueble.
 
@@ -2157,3 +2157,7 @@ NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigen
 ## TRANSITORIO
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2012.
+
+D.O.F. 18 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
