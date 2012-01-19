@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2012.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -841,7 +841,9 @@ Las resoluciones que se dicten en aplicación de las disposiciones de esta Ley p
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" y en lo relativo a la creación del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, entrará en vigencia una vez que el Poder Ejecutivo haga las adecuaciones presupuestales que reflejen la dotación al Consejo de los recursos pertinentes para su operación, o en su caso, una vez que presente el Poder Ejecutivo al Congreso del Estado formal iniciativa de modificación al Presupuesto de Egresos para el ejercicio fiscal de 2010.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2012)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, y en lo relativo a la creación del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, entrará en vigencia una vez que el Poder Ejecutivo haga la entrega de recursos económicos al Consejo para su operación, o en su caso, una vez que presente el Poder Ejecutivo al Congreso del Estado formal iniciativa de modificación al Presupuesto de Egresos para el ejercicio fiscal de 2012.
 
 SEGUNDO. Los recursos humanos, financieros y materiales asignados a la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad, así como los del Consejo de Valoración de las Personas con Discapacidad, pasarán a formar parte del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, respetando los derechos laborales de los servidores públicos involucrados; para los efectos de la operación de este artículo, el Poder Ejecutivo deberá realizar las adecuaciones administrativas necesarias en las dependencias involucradas.
 
@@ -850,6 +852,10 @@ TERCERO. El Consejo dará seguimiento a las personas con discapacidad que están
 CUARTO. Las entidades y dependencias del Poder Ejecutivo del Estado y los ayuntamientos contarán con 180 días a partir de la publicación del presente decreto en el Periódico Oficial "El Estado de Jalisco", para crear o adecuar sus reglamentos conforme a lo establecido en la presente ley y deberán definir la instancia responsable de su aplicación.
 
 QUINTO. Se deroga el Libro Quinto del Código de Asistencia Social del Estado de Jalisco, en sus artículos del 141 al 189, así como todas las disposiciones legales que contravengan el presente decreto.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2012)</small>
+
+SEXTO.- Por única ocasión el Consejo podrá emitir convocatoria para la selección del Vicepresidente y de los diez consejeros de los organismos civiles establecidos en el artículo 13 de la presente ley con los 16 integrantes restantes que se establecen en el mismo artículo, ajustándose en lo posterior a lo establecido en el artículo 15 del presente ordenamiento.
 
 Salón de Sesiones del Congreso del Estado
 
@@ -888,3 +894,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ENERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
