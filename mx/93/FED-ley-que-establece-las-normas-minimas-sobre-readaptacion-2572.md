@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "2009-01-23"
+last_updated: "2012-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1971-02-08"
 ---
 # LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
 
-LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS
+LEY QUE ESTABLECE LAS NORMAS MÍNIMAS SOBRE READAPTACIÓN SOCIAL DE SENTENCIADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -65,11 +65,13 @@ Podrá convenirse también que los reos sentenciados por delitos del orden feder
 
 Para los efectos anteriores, en caso de reos indígenas sentenciados, se considerarán los usos y costumbres, así como las circunstancias en las que se cometió el delito. Esta medida no podrá otorgarse tratándose de reclusos sentenciados por alguno o más de los delitos que prevé la Ley Federal contra la Delincuencia Organizada y respecto de otros internos que requieran medidas especiales de seguridad, de conformidad con lo previsto en el artículo 6o., párrafo cuarto, de este ordenamiento.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+Las hijas e hijos de internas que permanezcan con ellas dispondrán de los espacios correspondientes para asegurar su desarrollo integral, incluyendo los servicios de alimentación, salud y educación, hasta los seis años de edad cuando así lo determine el personal capacitado, con opinión de la madre y considerando el interés superior de la infancia. El Ejecutivo Federal deberá cumplir esta disposición y para ello podrá celebrar convenios con las Entidades Federativas del País.
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 En los convenios a que se refiere este artículo podrá acordarse que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
-
-> <small>(DEROGADO ANTERIOR SEXTO PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
@@ -97,7 +99,13 @@ El tratamiento será individualizado, con aportación de las diversas ciencias y
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada medio y las posibilidades presupuestales, se clasificará a los reos en instituciones especializadas, entre las que podrán figurar establecimientos de seguridad máxima, media y mínima, colonias y campamentos penales, hospitales psiquiátricos y para infecciosos e instituciones abiertas.
 
-El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para la extinción de las penas y estarán completamente separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres. Los menores infractores serán internados, en su caso, en instituciones diversas de las asignadas a los adultos.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+El sitio en que se desarrolle la prisión preventiva será distinto del que se destine para la extinción de las penas y estarán completamente separados. Las mujeres quedarán recluidas en lugares separados de los destinados a los hombres y tendrán la infraestructura, información y personal capacitado para el cuidado de sus hijas e hijos que permanezcan con ellas así como para el desarrollo pleno de sus actividades. Los menores infractores serán internados, en su caso, en instituciones diversas de las asignadas a los adultos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+En los centros de reclusión para mujeres, se brindarán la atención médica y servicios ginecológicos necesarios y, en su caso, la atención especializada durante el embarazo y posterior a éste.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
@@ -139,9 +147,17 @@ I. Que el interno obstaculice el proceso penal en su contra o el desarrollo de i
 
 II. Que el interno realice o intente realizar actos que pongan en peligro bienes relevantes como la vida, la seguridad de los centros especiales o la integridad de los internos, de las visitas, del personal penitenciario.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
-En la construcción de nuevos establecimientos de custodia y ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Secretaría de Seguridad Pública tendrá las funciones de orientación técnica y las facultades de aprobación de proyectos a que se refieren los convenios.
+En la construcción de nuevos establecimientos de custodia y ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Secretaría de Seguridad Pública tendrá las funciones de orientación técnica y las facultades de aprobación de proyectos a que se refieren los convenios, los cuales deberán establecer espacios e instalaciones adecuadas y exclusivas que promuevan y faciliten el desempeño de actividades de industria penitenciaria para las y los internos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+Las disposiciones del párrafo anterior, no aplicarán para aquellos establecimientos cuyos internos se encuentren exclusivamente relacionados con la delincuencia organizada o requieran medidas especiales de seguridad, con apego a lo dispuesto por el artículo 18 constitucional.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+Asimismo, se deben de contemplar espacios que permitan al interno recibir educación y practicar el deporte.
 
 ###### ARTICULO 7o.
 
@@ -177,17 +193,17 @@ Se creará en cada reclusorio un Consejo Técnico interdisciplinario, con funcio
 
 El Consejo, presidido por el Director del establecimiento, o por el funcionario que le sustituya en sus faltas, se integrará con los miembros de superior jerarquía del personal directivo, administrativo, técnico y de custodia, y en todo caso formarán parte de él un médico y un maestro normalista. Cuando no haya médico ni maestro adscritos al reclusorio, el Consejo se compondrá con el Director del Centro de Salud y el Director de la escuela federal o estatal de la localidad y a falta de estos funcionarios, con quienes designe el Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+(NOTA: EL 14 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 10.
 
-La asignación de los internos al trabajo se hará tomando en cuenta los deseos, la vocación, las aptitudes, la capacitación laboral para el trabajo en libertad y el tratamiento de aquéllos, así como las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento.
+La asignación de los internos al trabajo se hará tomando en cuenta los deseos, la vocación, las aptitudes, tratándose de internas, en su caso, el estado de gravidez, la capacitación laboral para el trabajo en libertad y el tratamiento de aquéllos, así como las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Para este último efecto, se trazará un plan de trabajo y producción que será sometido a aprobación del Gobierno del Estado y, en los términos del convenio respectivo, de la Secretaría de Seguridad Pública.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
+(NOTA: EL 14 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Para este último efecto, se trazará un plan de trabajo y producción que será sometido a aprobación del Gobierno de la entidad federativa y, en los términos del convenio respectivo, de la Secretaría de Seguridad Pública.
-
-Los reos pagarán su sostenimiento en el reclusorio con cargo a la percepción que en éste tengan como resultado del trabajo que desempeñen. Dicho pago se establecerá a base de descuentos correspondientes a una proporción adecuada de la remuneración, proporción que deberá ser uniforme para todos los internos de un mismo establecimiento. El resto del producto del trabajo se distribuirá del modo siguiente: treinta por ciento para el pago de la reparación del daño, treinta por ciento para el sostenimiento de los dependientes económicos del reo, treinta por ciento para la constitución del fondo de ahorros de éste, y diez por ciento para los gastos menores del reo. Si no hubiese condena a reparación del daño o éste ya hubiera sido cubierto, o si los dependientes del reo no están necesitados, las cuotas respectivas se aplicarán por partes iguales a los fines señalados, con excepción del indicado en último término.
+LOS REOS PAGARÁN SU SOSTENIMIENTO EN EL RECLUSORIO CON CARGO A LA PERCEPCIÓN QUE EN ÉSTE TENGAN COMO RESULTADO DEL TRABAJO QUE DESEMPEÑEN. DICHO PAGO SE ESTABLECERÁ A BASE DE DESCUENTOS CORRESPONDIENTES A UNA PROPORCIÓN ADECUADA DE LA REMUNERACIÓN, PROPORCIÓN QUE DEBERÁ SER UNIFORME PARA TODOS LOS INTERNOS DE UN MISMO ESTABLECIMIENTO. EL RESTO DEL PRODUCTO DEL TRABAJO SE DISTRIBUIRÁ DEL MODO SIGUIENTE: TREINTA POR CIENTO PARA EL PAGO DE LA REPARACIÓN DEL DAÑO, TREINTA POR CIENTO PARA EL SOSTENIMIENTO DE LOS DEPENDIENTES ECONÓMICOS DEL REO, TREINTA POR CIENTO PARA LA CONSTITUCIÓN DEL FONDO DE AHORROS DE ÉSTE, Y DIEZ POR CIENTO PARA LOS GASTOS MENORES DEL REO. SI NO HUBIESE CONDENA A REPARACIÓN DEL DAÑO O ÉSTE YA HUBIERA SIDO CUBIERTO, O SI LOS DEPENDIENTES DEL REO NO ESTÁN NECESITADOS, LAS CUOTAS RESPECTIVAS SE APLICARÁN POR PARTES IGUALES A LOS FINES SEÑALADOS, CON EXCEPCIÓN DEL INDICADO EN ÚLTIMO TÉRMINO.
 
 Ningún interno podrá desempeñar funciones de autoridad o ejercer dentro del establecimiento empleo o cargo alguno, salvo cuando se trate de instituciones basadas, para fines de tratamiento, en el régimen de autogobierno.
 
@@ -198,6 +214,10 @@ La educación que se imparta a los internos no tendrá sólo carácter académic
 > <small>(ADICIONADO, D.O.F. 2 DE SEPTIEMBRE DE 2004)</small>
 
 Tratándose de internos indígenas, la educación que se les imparta será bilingüe, para conservar y enriquecer sus lenguas, y la instrucción deberá ser proporcionada por maestros bilingües.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+Los hijos de las mujeres recluidas, en caso de que permanezcan dentro de la institución, recibirán atención pediátrica, educación inicial y preescolar hasta la edad de 6 años.
 
 ###### ARTICULO 12.
 
@@ -380,3 +400,7 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 19 DE ENERO DE 2012.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
