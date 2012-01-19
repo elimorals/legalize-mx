@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2011-11-01"
+last_updated: "2012-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
+LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2377,6 +2377,12 @@ Las autoridades de vialidad y tránsito, no están autorizadas para recoger al o
 
 Las infracciones en materia de vialidad y tránsito, serán sancionadas administrativamente por las autoridades de la materia, en los términos de esta Ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2012)</small>
+
+Las multas contempladas en la presente ley serán aplicables a los propietarios o conductores de todo tipo de vehículos automotores. En caso de existir sanciones especiales, deberán prevalecer éstas.
+
 ###### Artículo 161.
 
 Se sancionará con multa equivalente a un día de salario mínimo general, vigente en la zona económica en donde se cometan las siguientes infracciones:
@@ -2652,6 +2658,24 @@ IV. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedar�
 Los vehículos de transporte público y los de transporte especializado en las modalidades contempladas en esta ley, para que puedan prestar dicho servicio, además del seguro de daños a terceros, deben contar con un seguro de vida para los ocupantes y que además garantice las posibles lesiones que puedan sufrir los usuarios en los casos de los que transporten pasajeros.
 
 Además del seguro de daños a terceros, los vehículos que presten servicio de grúa deberán contar con un seguro que garantice los posibles daños que puedan sufrir los vehículos objeto del servicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2012)</small>
+
+###### Artículo 167
+
+Ter.- Se sancionará con multa de diez a veinte días de salario mínimo general vigente en la zona económica donde se cometió la infracción, a los conductores de cualquier tipo de motocicleta, trimoto o cuatrimoto, o motocarro, cuando al circular cometan las siguientes infracciones:
+
+I. No porte, debidamente colocado y ajustado con las correas de seguridad, casco protector para motociclista y, en su caso, también su acompañante;
+
+Il. Llevar como acompañante a un menor de edad que no pueda sujetarse por sus propios medios y alcanzar el posapiés que tenga el vehículo para ese efecto;
+
+III. Cuando se exceda la capacidad de pasajeros que señale la tarjeta de circulación;
+
+IV. No circular conforme lo establece el reglamento de la presente ley, o
+
+V. Además de las sanciones anteriormente señaladas, en caso de reincidencia se retirará de la circulación la unidad, como medida de seguridad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -3302,3 +3326,11 @@ P.O. 1 DE NOVIEMBRE DE 2011.
 PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El titular del Poder Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias y normas técnicas que sean necesarias para su adecuación a las adiciones y reformas contenidas en el presente decreto.
+
+P.O. 19 DE ENERO DE 2012.
+
+PRIMERO. El Poder Ejecutivo del Estado, por medio de la Secretaría de Vialidad y Transporte, deberá realizar antes de la entrada en vigor de estos artículos las campañas permanentes y demás acciones que considere necesarias para la buena aplicación de las normas que contempla la ley de la materia destinadas a los motociclistas, para hacerles saber los beneficios de proteger su integridad y la de sus acompañantes.
+
+SEGUNDO. El titular del Poder Ejecutivo estatal realizará las gestiones necesarias tendientes a solicitar y contribuir con la creación de una Norma Oficial Mexicana, sobre las características de los cascos de seguridad para motociclistas.
+
+TERCERO. Este decreto entrará en vigor treinta días naturales después de su publicación en el periódico oficial El Estado de Jalisco.
