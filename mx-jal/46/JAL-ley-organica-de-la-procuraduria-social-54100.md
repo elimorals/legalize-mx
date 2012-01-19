@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2009-07-07"
+last_updated: "2012-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2009.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JULIO DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2012.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -331,17 +329,19 @@ VII. Las demás que les confieran los ordenamientos legales aplicables.
 
 ### Capítulo Cuarto. De la Sub Procuraduría de la Representación Social
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2012)</small>
 
 ###### Artículo 18.
 
-La Subprocuraduría de Representación Social, es la dependencia encargada de intervenir en los asuntos del orden civil, familiar y mercantil cuando las leyes le confieran esa facultad a la Procuraduría Social en su carácter de Representante Social, así como velar por la observancia de la legalidad en la impartición de justicia y representar a los menores, incapaces, ausentes e ignorados y a la sociedad en general, en los casos y términos que dispongan las leyes. Tiene como atribuciones:
+La Subprocuraduría de Representación Social es la dependencia encargada de intervenir en los asuntos del orden civil, familiar y mercantil cuando las leyes le confieran esa facultad a la Procuraduría Social en su carácter de representante social, así como velar por la observancia de la legalidad en la impartición de justicia y representar a los menores, incapaces, ausentes e ignorados y a la sociedad en general, en los casos y términos que dispongan las leyes. Tiene como atribuciones:
 
 I. Representar a la sociedad en los procedimientos de orden e interés público;
 
 II. Garantizar la legalidad en los asuntos del orden familiar, civil y mercantil;
 
-III. Representar y tutelar los derechos e intereses de menores, incapaces, ausentes, e ignorados en los procedimientos jurisdiccionales en que sean parte;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+
+III. Representar y tutelar los derechos e intereses de menores, incapaces, ausentes e ignorados en los procedimientos jurisdiccionales en que sean parte, llevando un registro para tal efecto;
 
 IV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009)
 
@@ -790,3 +790,7 @@ P.O. 7 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones encomendadas a la Subprocuraduría de Servicios Jurídicos Asistenciales se podrán realizar por conducto de auxiliares sociales comisionados o adscritos a ésta.
+
+P.O. 19 DE ENERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
