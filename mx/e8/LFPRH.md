@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2008-12-31"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -65,6 +65,10 @@ I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los
 II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional programática, administrativa, y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
 
 III. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2012)</small>
+
+III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Programa Especial Concurrente para el Desarrollo Rural Sustentable; Programa de Ciencia, Tecnología e Innovación; Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía; Atención a Grupos Vulnerables; y los Recursos para la Mitigación de los efectos del Cambio Climático;
 
 IV. Auditoría: la Auditoría Superior de la Federación;
 
@@ -528,6 +532,10 @@ Los calendarios de presupuesto deberán comunicarse por la Secretaría a las dep
 
 Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t) y u) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación.
+
 También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la Ley de Ingresos de la Federación, 15 días hábiles después de la publicación de dicha Ley.
 
 La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizados a las dependencias en los términos de las disposiciones aplicables e informará al respecto en los informes trimestrales, por dependencia o entidad, por unidad responsable y por programa.
@@ -596,7 +604,13 @@ Los anteproyectos deberán sujetarse a la estructura programática aprobada por 
 
 I. Las categorías, que comprenderán la función, la subfunción, el programa, la actividad institucional, el proyecto y la entidad federativa, y
 
-II. Los elementos, que comprenderán la misión, los objetivos, las metas con base en indicadores de desempeño y la unidad responsable, en congruencia con el Plan Nacional de Desarrollo y con los programas sectoriales.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+
+II. Los elementos, que comprenderán la misión, los objetivos, las metas con base en indicadores de desempeño y la unidad responsable, en congruencia con el Plan Nacional de Desarrollo y con los programas sectoriales, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2012)</small>
+
+III. Las acciones que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género y cualquier forma de discriminación de género.
 
 La estructura programática facilitará la vinculación de la programación de los ejecutores con el Plan Nacional de Desarrollo y los programas, y deberá incluir indicadores de desempeño con sus correspondientes metas anuales. Deberán diferenciarse los indicadores y metas de la dependencia o entidad de los indicadores y metas de sus unidades responsables. Dichos indicadores de desempeño corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad. Estos indicadores serán la base para el funcionamiento del Sistema de Evaluación del Desempeño.
 
@@ -614,9 +628,17 @@ II. La funcional y programática, la cual agrupa a las previsiones de gasto con 
 
 Asimismo se incluirá en el proyecto de Presupuesto de Egresos una clasificación que presente los distintos programas con su respectiva asignación, que conformará el gasto programático, así como el gasto que se considerará gasto no programático, los cuales sumarán el gasto neto total;
 
-III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, subsidios, transferencias, ayudas, participaciones y aportaciones federales, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
 
-IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino geográfico, en términos de entidades federativas y en su caso municipios y regiones.
+III. La económica, la cual agrupa a las previsiones de gasto en función de su naturaleza económica y objeto, en erogaciones corrientes, inversión física, inversión financiera, otras erogaciones de capital, subsidios, transferencias, ayudas, participaciones y aportaciones federales;
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+
+IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino geográfico, en términos de entidades federativas y en su caso municipios y regiones, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2012)</small>
+
+V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciando entre mujeres y hombres.
 
 ###### Artículo 29.
 
@@ -856,19 +878,59 @@ l) Un apartado que contenga las principales variaciones que se proponen con resp
 
 m) La información que permita distinguir el gasto regular de operación; el gasto adicional que se propone, y las propuestas de ajustes al gasto;
 
-n) El destino que corresponda a los ingresos provenientes del aprovechamiento por rendimientos excedentes de Petróleos Mexicanos y organismos subsidiarios o de la contribución que por el concepto equivalente, en su caso, se prevea en la legislación fiscal, el cual corresponderá a las entidades federativas para gasto en programas y proyectos de inversión en infraestructura y equipamiento, conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente, y
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+n) El destino que corresponda a los ingresos provenientes del aprovechamiento por rendimientos excedentes de Petróleos Mexicanos y organismos subsidiarios o de la contribución que por el concepto equivalente, en su caso, se prevea en la legislación fiscal, el cual corresponderá a las entidades federativas para gasto en programas y proyectos de inversión en infraestructura y equipamiento, conforme a la estructura porcentual que se derive de la distribución del Fondo General de Participaciones reportado en la Cuenta Pública más reciente;
 
-ñ) Un capítulo específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura, aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, y
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+ñ) Un capítulo específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura, aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+o) Las previsiones de gasto que correspondan a las erogaciones para la Igualdad entre Mujeres y Hombres;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+p) Las previsiones de gasto que correspondan a las erogaciones para el Desarrollo de los Jóvenes;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+q) Las previsiones de gasto que correspondan al Programa Especial Concurrente para el Desarrollo Rural Sustentable, conforme a lo previsto en los artículos 16 y 69 de la Ley de Desarrollo Rural Sustentable;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología e Innovación, conforme a lo previsto en el artículo 22 de la Ley de Ciencia y Tecnología;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+s) Las previsiones de gasto que correspondan a la Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía, a que se refiere el artículo 25 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+t) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables, y
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático.
 
 III. Los anexos informativos, los cuales contendrán:
 
 a) La metodología empleada para determinar la estacionalidad y el volumen de la recaudación por tipo de ingreso, así como la utilizada para calendarizar el gasto según su clasificación económica;
 
-b) La distribución del presupuesto de las dependencias y entidades por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto, y
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
-c) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite la Cámara de Diputados a través de la Comisión de Presupuesto y Cuenta Pública y, en su caso, el Centro de Estudios de las Finanzas Públicas.
+b) La distribución del presupuesto de las dependencias y entidades por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto;
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+c) La metodología, factores, variables y fórmulas utilizadas para la elaboración de los Anexos Transversales a los que se refieren los incisos j), o), p), q), r), s), t) y u) de la fracción anterior, estableciendo con claridad los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos. En caso de que existan modificaciones en la metodología con respecto a la utilizada en el ejercicio fiscal anterior, se deberá incluir un apartado donde se explique y justifique plenamente el motivo de dichas modificaciones, y
+
+d) La demás información que contribuya a la comprensión de los proyectos a que se refiere este artículo así como la que solicite la Cámara de Diputados a través de la Comisión de Presupuesto y Cuenta Pública y, en su caso, el Centro de Estudios de las Finanzas Públicas.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+Las previsiones de gasto a las que se refieren los incisos j), o), r) y t) de la fracción II del presente artículo, en congruencia con los ingresos previstos en la iniciativa de Ley de Ingresos deberán contar, al menos, con la misma proporción del gasto programable con las que fueron aprobadas en el ejercicio fiscal inmediato anterior, siempre y cuando se hubiere cumplido con los objetivos y metas que para tal efecto se hayan definido en el Sistema de Evaluación del Desempeño para el Presupuesto de dicho ejercicio fiscal.
 
 ### CAPÍTULO III. De la Aprobación y los mecanismos de comunicación y coordinación entre Poderes
 
@@ -1153,6 +1215,10 @@ El Reglamento establecerá las adecuaciones presupuestarias externas de las depe
 Las adecuaciones presupuestarias internas serán autorizadas por las propias dependencias y entidades informando al respecto a la Secretaría, en los términos de lo dispuesto en el Reglamento.
 
 Cuando las adecuaciones presupuestarias representen en su conjunto o por una sola vez una variación mayor al 5 por ciento del presupuesto total del ramo de que se trate o del presupuesto de una entidad, la Secretaría deberá reportarlo en los informes trimestrales. Con base en esta información, la Comisión de Presupuesto y Cuenta Pública podrá emitir opinión sobre dichas adecuaciones.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+No se podrán realizar reducciones a los programas presupuestarios ni a las inversiones dirigidas a la atención de la Igualdad entre Mujeres y Hombres, al Programa de Ciencia, Tecnología e Innovación; las erogaciones correspondientes al Desarrollo Integral de los Pueblos Indígenas y Comunidades Indígenas y la Atención a Grupos Vulnerables, salvo en los supuestos establecidos en la presente Ley y con la opinión de la Cámara de Diputados.
 
 ###### Artículo 59.
 
@@ -1522,6 +1588,10 @@ I. Los recursos federales que ejerzan las entidades federativas, los municipios,
 
 II. Las entidades federativas enviarán al Ejecutivo Federal, de conformidad con los lineamientos y mediante el sistema de información establecido para tal fin por la Secretaría, informes sobre el ejercicio, destino y los resultados obtenidos, respecto de los recursos federales que les sean transferidos.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+Los informes a los que se refiere esta fracción deberán incluir información sobre la incidencia del ejercicio de los recursos de los Fondos de Aportaciones Federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, de manera diferenciada entre mujeres y hombres.
+
 Para los efectos de esta fracción, las entidades federativas y, por conducto de éstas, los municipios y las demarcaciones territoriales del Distrito Federal, remitirán al Ejecutivo Federal la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
 
 La Secretaría incluirá los reportes señalados en esta fracción, por entidad federativa, en los informes trimestrales; asimismo, pondrá dicha información a disposición para consulta en su página electrónica de Internet, la cual deberá actualizar a más tardar en la fecha en que el Ejecutivo Federal entregue los citados informes.
@@ -1660,6 +1730,10 @@ Asimismo, deberán reportarse los juicios ganados y perdidos por el Servicio de 
 
 iii) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las clasificaciones a que se refiere el artículo 28 de esta Ley, los principales resultados de los programas y proyectos, y las disponibilidades de recursos en fondos y fideicomisos;
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+iv) La evolución del gasto público previsto en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t) y u) de esta Ley.
+
 c) Un informe que contenga la evolución detallada de la deuda pública en el trimestre, incluyendo los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública, y el costo total de las emisiones de deuda pública interna y externa.
 
 La información sobre el costo total de las emisiones de deuda interna y externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los del pago a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Asimismo, deberá informar sobre la tasa de interés o rendimiento que pagará cada emisión, de las comisiones, el plazo, y el monto de la emisión, presentando un perfil de vencimientos para la deuda pública interna y externa, así como la evolución de las garantías otorgadas por el Gobierno Federal.
@@ -1693,6 +1767,10 @@ Asimismo la Secretaría informará a la Cámara de Diputados, por conducto de la
 La Secretaría presentará al Congreso de la Unión los datos estadísticos y la información que tenga disponibles, incluyendo los rubros de información a que se refiere la fracción anterior, que puedan contribuir a una mejor comprensión de la evolución de la recaudación, el endeudamiento, y del gasto público, que los legisladores soliciten por conducto de las Comisiones competentes, así como la que le solicite el Centro de Estudios de las Finanzas Públicas. La Secretaría proporcionará dicha información en un plazo no mayor de 20 días naturales, a partir de la solicitud.
 
 La información que la Secretaría proporcione al Congreso de la Unión deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+La Cuenta Pública deberá contener los resultados del ejercicio del Presupuesto establecido en los Anexos Transversales a los que se refiere el artículo 41, fracción II, incisos j), o), p), q), r), s), t) y u) de esta Ley, en los mismos términos y el mismo grado de desagregación en los que se presente la evolución del gasto público al que hace referencia el sub inciso iv), inciso b), fracción I del presente artículo.
 
 ###### Artículo 108.
 
@@ -1746,7 +1824,9 @@ III. Las evaluaciones podrán efectuarse respecto de las políticas públicas, l
 
 IV. Establecerán programas anuales de evaluaciones;
 
-V. Las evaluaciones, en la medida de lo posible, deberán incluir información desagregada por sexo relacionada con las beneficiarias y beneficiarios de los programas. Asimismo, en los casos que sea posible, las dependencias y entidades deberán presentar resultados con base en indicadores, desagregados por sexo, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2012)</small>
+
+V. Las evaluaciones deberán incluir información desagregada por sexo relacionada con las beneficiarias y beneficiarios de los programas. Asimismo, las dependencias y entidades deberán presentar resultados con base en indicadores, desagregados por sexo, a fin de que se pueda medir el impacto y la incidencia de los programas de manera diferenciada entre mujeres y hombres, y
 
 VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
 
@@ -1757,6 +1837,10 @@ La Secretaría y la Función Pública, en el ámbito de sus respectivas competen
 Dicho sistema de evaluación del desempeño a que se refiere el párrafo anterior del presente artículo será obligatorio para los ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes bimestrales, desglosados por mes, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley. La Secretaría y la Función Pública emitirán las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
 
 Los indicadores del sistema de evaluación del desempeño deberán formar parte del Presupuesto de Egresos e incorporar sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+El sistema de evaluación del desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género.
 
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
 
@@ -1951,3 +2035,11 @@ D.O.F. 31 DE DICIEMBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto a la Ley que se expide a través del presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente a aquél en el que se publique en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría, dentro de los tres meses siguientes a la entrada en vigor del presente Decreto, enviará a la Cámara de Diputados la metodología, factores, variables y fórmulas utilizados para la elaboración de cada uno de los Anexos Transversales, informando sobre los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos.
+
+La Comisión de Presupuesto y Cuenta Pública, en coordinación con las comisiones ordinarias correspondientes, contará con 30 días hábiles siguientes a la entrega de la información a la que se refiere el párrafo anterior, para remitir a la Secretaria las opiniones y comentarios para que sean considerados en la integración del Proyecto de Presupuesto para el ejercicio fiscal siguiente.
