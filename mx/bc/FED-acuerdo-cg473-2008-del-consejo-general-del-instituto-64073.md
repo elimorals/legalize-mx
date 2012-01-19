@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg473-2008-del-consejo-general-del-instituto-64073"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-30"
-last_updated: "2008-10-30"
+last_updated: "2012-01-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64073&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-10-13"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS CRITERIOS GENERALES QUE DEBERAN OBSERVARSE PARA LA PRESENTACION DE LAS PROPUESTAS DE LOS CONVENIOS DE APOYO Y COLABORACION Y SUS ANEXOS TECNICOS, QUE CELEBRE EL INSTITUTO FEDERAL ELECTORAL CON LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS Y DEL DISTRITO FEDERAL, EN MATERIA DE ORGANIZACION DE ELECCIONES COINCIDENTES PARA EL PROCESO ELECTORAL 2008-2009
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO CUARTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ESTABLECEN LOS CRITERIOS GENERALES QUE DEBERÁN OBSERVARSE PARA LA PRESENTACIÓN DE LAS PROPUESTAS DE LOS CONVENIOS DE APOYO Y COLABORACIÓN Y SUS ANEXOS TÉCNICOS, QUE CELEBRE EL INSTITUTO FEDERAL ELECTORAL CON LOS ORGANISMOS ELECTORALES DE LAS ENTIDADES FEDERATIVAS Y DEL DISTRITO FEDERAL, EN MATERIA DE ORGANIZACIÓN DE ELECCIONES COINCIDENTES PARA EL PROCESO ELECTORAL 2011-2012, PUBLICADO EN EL D.O.F. DE 19 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: SIN EFECTO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2008.
 
@@ -310,3 +312,9 @@ Quinto.- Publíquese este Acuerdo en el Diario Oficial de la Federación.
 Unico.- El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General del Instituto Federal Electoral.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 13 de octubre de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE ENERO DE 2012.
+
+Unico.- El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General del Instituto Federal Electoral.
