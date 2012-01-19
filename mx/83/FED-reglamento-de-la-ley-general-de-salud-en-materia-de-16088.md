@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-16088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-04"
-last_updated: "2009-05-31"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-05-02"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2000.
 
@@ -621,6 +621,20 @@ III. Presente a estos productos como indispensables para la vida del ser humano.
 
 La publicidad de los productos considerados como de tratamiento cosmético, deberá apegarse a la finalidad de uso de éstos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 62 Bis.
+
+El aviso a que se refiere el artículo 270 de la Ley, deberá presentarse por cada marca de producto y conforme al formato oficial que al efecto publique la Secretaría en el Diario Oficial de la Federación, el cual deberá contener por lo menos los siguientes datos:
+
+I. Nombre y domicilio del fabricante;
+
+II. Nombre y domicilio del importador y distribuidor, y
+
+III. Marca, nombre y Registro Federal de Contribuyentes del responsable del producto y de la publicidad.
+
 ## TÍTULO OCTAVO. Publicidad de servicios y procedimientos de embellecimiento
 
 ### Capítulo único
@@ -733,9 +747,15 @@ Los anunciantes deberán obtener, en su caso, la autorización o el aviso sellad
 
 Las agencias de publicidad deberán apegarse a los términos de la autorización o del aviso, en su caso, para la elaboración de los materiales publicitarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 78.
 
-Los medios de difusión se asegurarán de que la publicidad que trasmitan cuente con la autorización sanitaria o se haya presentado aviso ante la Secretaría, según sea el caso.
+Los medios de difusión se asegurarán de que la publicidad que trasmitan cuente con el permiso correspondiente o se haya presentado aviso ante la Secretaría, conforme a lo establecido en este Reglamento.
+
+Para efectos del párrafo anterior, el anunciante que pretenda publicitar un producto o servicio sujeto a control sanitario por parte de la Secretaría, deberá presentar al medio de difusión cuyos servicios utilice, ya sea por sí mismo o a través de una agencia de publicidad, copia certificada de la carátula del registro sanitario vigente, en caso de tratarse de un producto sujeto a esta autorización sanitaria y del permiso o aviso presentado ante la Secretaría.
 
 ### Capítulo II. Permisos
 
@@ -1043,9 +1063,23 @@ La Secretaría podrá verificar en todo momento que la publicidad que se difunda
 
 ### Capítulo II. Medidas de seguridad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 108.
 
-Cuando el anunciante no cumpla con la suspensión de los mensajes publicitarios ordenada por la Secretaría, ésta podrá indicar directamente al medio de difusión relativo, que suspenda el mensaje dentro de las veinticuatro horas siguientes, para lo cual acompañará al comunicado de suspensión dirigido al medio, copia de la notificación efectuada al anunciante.
+La Secretaría ordenará a los medios de difusión la suspensión de la publicidad de remedios herbolarios, suplementos alimenticios o productos cosméticos que se publiciten, promuevan o comercialicen como medicamentos o productos a los cuales se les hubieran atribuido cualidades o efectos terapéuticos para el tratamiento preventivo, rehabilitatorio o curativo de uno o varios padecimientos, así como de aquellos productos que no cumplan con lo establecido en el artículo 6 de este Reglamento.
+
+Para efectos del párrafo anterior los medios de difusión suspenderán el anuncio publicitario de que se trate dentro de las veinticuatro horas siguientes al momento de la notificación de la orden que al efecto emita la Secretaría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
+###### ARTÍCULO 108 Bis.
+
+En caso de que los fabricantes, distribuidores, comercializadores o comerciantes se resistan o impidan la ejecución de la acción de aseguramiento de los productos almacenados prevista en los artículos 414 y 414 Bis de la Ley, la autoridad sanitaria solicitará el apoyo de la fuerza pública.
 
 ### Capítulo III. Acción popular
 
@@ -1067,17 +1101,29 @@ La autoridad sanitaria informará al denunciante la atención que se le dé a di
 
 ### Capítulo IV. Sanciones
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 110.
 
-Se sancionará con multa de hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate las violaciones a las disposiciones previstas en el artículo 21 de este Reglamento.
+Se sancionará con multa de dos mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate las violaciones a las disposiciones previstas en los artículos 21, 22 y 23 de este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 111.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate las violaciones a las disposiciones previstas en los artículos 7, 8, 10, 18, 22, 23, 30, 32, 34, 35, 38, 44, 55, 56, 68, 69, 77, 78, y 83 de este Reglamento.
+Se sancionará con multa de seis mil hasta ocho mil veces el salario mínimo general diario vigente en la zona económica de que se trate las violaciones a las disposiciones previstas en los artículos 7, 8, 10, 18, 32, 33, 34, 35, 44, 55, 56, 68, 69, 77, 78, y 83 de este Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 112.
 
-Las violaciones no previstas en este Capítulo serán sancionadas con multa hasta por diez mil veces el salario mínimo general vigente en la zona económica de que se trate.
+Las violaciones no previstas en este Capítulo serán sancionadas con multa hasta por dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate.
 
 ## TRANSITORIOS
 
@@ -1116,3 +1162,11 @@ PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales sigu
 TERCERO.- Se derogan el capítulo III del Título Cuarto del Reglamento de la Ley General de Salud en materia de publicidad; el Título Vigésimo Primero del Reglamento de Control Sanitario de Productos y Servicios y las fracciones XIX, XIX.1 y XIX.2 del Apéndice del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 19 de agosto de 1999.
 
 ...
+
+D.O.F. 19 DE ENERO DE 2012.
+
+Primero.- El presente Decreto entra en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los anuncios publicitarios respecto de los cuales la Secretaría haya emitido el permiso o respecto de los cuales se le haya dado el aviso correspondiente, previo a la entrada en vigor del presente Decreto, no requerirán para su publicidad que el anunciante presente al medio de difusión copia certificada de la carátula del registro sanitario vigente, ni del permiso o aviso presentado ante la Secretaría.
+
+Tercero.- La Secretaría, dentro de los noventa días posteriores a la entrada en vigor del presente Decreto, publicará en el Diario Oficial de la Federación el formato oficial a que se refiere el artículo 62 Bis de este Decreto.
