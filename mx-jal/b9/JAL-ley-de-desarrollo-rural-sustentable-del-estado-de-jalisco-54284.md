@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2008-10-02"
+last_updated: "2012-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2012.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -66,6 +66,8 @@ Son sujetos de la presente Ley:
 I. Las personas físicas y jurídicas que de manera individual o colectiva realicen principalmente actividades en el medio rural; y
 
 II. Los ejidos, comunidades y las organizaciones de productores del medio rural constituidas de conformidad con las leyes aplicables.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 23937/LIX/11, PUBLICADO EN EL P.O. 19 DE ENERO DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DE LAS FRACCIONES DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 7.
 
@@ -113,39 +115,33 @@ XX. Programas Sectoriales. Los programas específicos del Gobierno Estatal que e
 
 XXI. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
 
-XXII. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XXIII. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+XXII. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
 
-XII (SIC). Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XIII (SIC). Estado. El Estado Libre y Soberano de Jalisco;
+XXIII. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
 
-XIV (SIC). Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XV (SIC). Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
+XXIV. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 
-XVI (SIC). Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XVII (SIC). Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
+XXV. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
 
-XVIII (SIC). Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
 
-XIX (SIC). Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
+XXVI. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-XX (SIC). Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2012)</small>
 
-XXI (SIC). Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
+XXVII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal, y
 
-XXII (SIC). Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2012)</small>
 
-XXIII (SIC). Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
-
-XXIV. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
-
-XXV. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
-
-XXVI. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores, integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
+XXVIII. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
 
 ###### Artículo 8.
 
@@ -965,7 +961,7 @@ Los apoyos que se otorguen estarán dirigidos, entre otros, a los siguientes fin
 
 I. La creación, rehabilitación, adquisición y equipamiento para la infraestructura agropecuaria, de almacenamiento y demás servicios para las actividades agropecuarias y económicas del sector rural;
 
-II. Para la comercialización, pignoración, coberturas de mercados, protección de riesgos y financiamiento de las actividades, productos y servicios del sector rural, para lograr la eficiencia, oportunidad, competitividad y rentabilidad de la producción, mercados y agroindustrialización, y
+II. Para la comercialización, pignoración, coberturas de mercados, protección de riesgos y financiamiento de las actividades, productos y servicios del sector rural, para lograr la eficiencia, oportunidad, competitividad y rentabilidad de la producción, mercados y agroindustrialización; y
 
 III. El uso de tecnologías y prácticas que conlleven a la sustentabilidad y preservación de los recursos naturales en el desarrollo de las actividades productivas del sector rural.
 
@@ -1143,7 +1139,7 @@ Para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutuali
 
 Para los efectos del referido programa se estará a los siguientes lineamientos:
 
-I. Las autoridades municipales elaborarán periódicamente el catálogo de necesidades locales y regionales sobre educación, integrando a través del Consejo Municipal, sus propuestas ante las autoridades educativas, con el objeto de brindar especial impulso a los valores éticos, cívicos y la cultura de legalidad;
+I. Las autoridades municipales elaborarán periódicamente el catálogo de necesidades locales y regionales sobre educación, integrando a través del Consejo Municipal, sus propuestas ante las autoridades educativas, con el objeto de brindar especial impulso a los valores éticos, cívicos y la cultura de Iegalidad;
 
 II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Ejecutivo Estatal tendrán como prioridad atender a la población más pobre del medio rural, en coordinación con las instancias correspondientes;
 
@@ -1309,6 +1305,28 @@ Los Gobiernos Estatal y Municipal, establecerán las medidas para procurar el ab
 
 Se considerarán productos básicos y estratégicos los señalados en el artículo 179 de la Ley de Desarrollo Rural Sustentable con las salvedades, adiciones y modalidades que cada año se determinen.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2012)</small>
+
+###### Artículo 143.
+
+Para cumplir con los requisitos de la seguridad y soberanía agroalimentaria el Gobierno del Estado impulsará líneas de acción en los siguientes aspectos:
+
+I. La identificación de la demanda interna de consumo de productos básicos y estratégicos, y a partir de ello conducir los programas del sector para cubrir la demanda y determinar los posibles excedentes para exportación, así como las necesidades de importación;
+
+II. La identificación de los factores de riesgo asociados con los alimentos, para la elaboración de diagnósticos que permitan establecer acciones en campo o comerciales para asegurar el abasto;
+
+III. La definición de acciones de capacitación y asistencia técnica y el impulso a proyectos de investigación en las cadenas agroalimentarias;
+
+IV. El impulso de acciones para mejorar y certificar la calidad de los alimentos y desarrollará su promoción comercial;
+
+V. El establecimiento de compromisos de productividad y calidad por parte de los productores, dependiendo del tipo de productos de que se trate, sean los de la dieta básica o los destinados para el mercado internacional;
+
+VI. La elaboración y difusión de guías sobre prácticas sustentables de las cadenas agroalimentarias;
+
+VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector, y
+
+VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen abasto de productos agroalimentarios.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente decreto entrará en vigor a los treinta días contados a partir de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -1358,3 +1376,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 P.O. 2 DE OCTUBRE DE 2008.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE ENERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
