@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2011-01-03"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
+LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -77,7 +77,7 @@ El Acuerdo de Creación de una Oficialía del Registro Civil, en los términos d
 
 Cuando en un Municipio haya dos o más Oficialías del Registro Civil, a cada una se les asignará el número que la identifique.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 2011)</small>
 
 ### CAPITULO II
 
@@ -115,7 +115,7 @@ ARTICULO 9o BIS.- La Dirección del Registro Civil contará con una Subdirecció
 
 El Director del Registro Civil, radicará en la Capital del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 11.
 
@@ -311,7 +311,7 @@ Los nombres y demás datos se escribirán completos, no se utilizarán abreviatu
 
 Queda prohibido a los Oficiales del Registro Civil, asentar en el acta de nacimiento o de reconocimiento, la condición de hijo natural, adulterino o incestuoso, de padre desconocido, ilegítimo o cualquier otra calificación, aunque así se declare al presentarlo. En cualquier acta que contenga alguna de tales calificaciones, se tachará de oficio por quien tenga a su cargo las actas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 34.
 
@@ -487,7 +487,7 @@ XXXI.- Las demás que le confieran otras Leyes y Reglamentos.
 
 Los Oficiales del Registro Civil, no podrán desempeñar otro cargo o empleo en la administración pública federal, estatal o municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ### CAPITULO X. DE LA RECTIFICACION DE LAS ACTAS DEL REGISTRO CIVIL
 
@@ -553,7 +553,7 @@ Los Oficiales del Registro Civil, deberán cumplir con la Ley General de Poblaci
 
 Según las circunstancias del caso, las faltas u omisos en que incurra el Director del Registro Civil, serán sancionadas discrecionalmente por el Titular del Ejecutivo, a propuesta del Secretario General de Gobierno, con amonestación o destitución y las faltas u omisiones en que incurran los empleados de la Dirección, se sancionarán discrecionalmente por el Director de la misma, con amonestación o cese.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 58.
 
@@ -687,7 +687,7 @@ ARTICULO 69 BIS.- El Director y los Oficiales del Registro Civil, para el buen e
 
 El Oficial del Registro Civil dará cuenta de su designación al Secretario del Ayuntamiento respectivo, quien la notificará al Secretario General de Gobierno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DEL 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DEL 2000)</small>
 
 ### CAPITULO XIV. DE LAS ACTAS DE NACIMIENTO RELATIVAS A LA ADOPCION PLENA
 
@@ -702,6 +702,22 @@ Las Oficialías del Registro Civil expedirán el acta a que hace referencia el a
 ###### ARTICULO 71.
 
 Previa a la expedición del acta a que hace referencia el presente capítulo y de conformidad con el artículo 86 del Código Civil del Estado, los Oficiales del Registro Civil, efectuarán la anotación correspondiente en el acta que se contiene en el Libro de Registro de nacimiento del adoptado en la cual se contengan los datos sobre sus padres y parientes consanguíneos remitiéndose en tal circunstancia dicho documento para los efectos de ser integrado al expediente del juzgado que autorizó la adopción plena.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2012)</small>
+
+### CAPÍTULO XV. DE LAS PLÁTICAS PREMATRIMONIALES
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2012)</small>
+
+###### ARTICULO 72.
+
+Las Oficialías del Registro Civil expedirán constancias de asistencia a pláticas prematrimoniales. Las pláticas prematrimoniales versarán sobre la naturaleza, fines y objetivos del matrimonio como institución social y civil entre un hombre y una mujer, así como respecto a los derechos y obligaciones derivadas del mismo con relación a los cónyuges y a los hijos, inculcándose el aprecio por la familia como primera formula social en donde se comunican y se desarrollan los valores necesarios para la formación y perfeccionamiento posible de la persona y de la sociedad.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2012)</small>
+
+###### ARTICULO 73.
+
+Las pláticas prematrimoniales preferentemente serán impartidas de manera directa por los Oficiales del Registro Civil, por personal autorizado por los Sistemas para el Desarrollo Integral de la Familia Estatal o Municipales, o en su caso, por ciudadanos pertenecientes a organismos de la sociedad civil especializados en el tema de matrimonio y familia que sean autorizados y que deseen prestar este servicio de manera honorífica. Las Oficialías celebraran acuerdos con los organismos referidos en el artículo anterior para el buen desarrollo de los objetivos establecidos por este Capítulo.
 
 T R A N S I T O R I O S :
 
@@ -743,7 +759,7 @@ PROFR. MARCO ANTONIO BOLAÑOS CACHO.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE FEBRERO DEL 2000.
 
@@ -760,3 +776,9 @@ UNICO: La presente reforma entrará en vigencia al día siguiente al de su publi
 P.O. 3 DE ENERO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ENERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En un plazo que no excederá de 60 días, las oficialías adecuaran sus normas y manuales de carácter interno para actualizar sus disposiciones y procedimientos al contenido de la presente reforma.
