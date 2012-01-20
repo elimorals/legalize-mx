@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2011-08-12"
+last_updated: "2012-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1245,15 +1245,13 @@ IV.- Promover proyectos y acciones que fortalezcan las condiciones de la protecc
 
 V.- En general aquellas que el Cabildo le encomienden.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 97.
 
-Comisiones especiales.- El Cabildo podrá establecer, mediante disposición normativa de observancia general, comisiones especiales para conocer de los procedimientos de responsabilidad que se instruyan en contra de algún Munícipe o funcionario público o para atender transitoriamente asuntos de interés público.
+Comisiones Especiales.- El Cabildo podrá establecer, mediante disposición normativa de observancia general, comisiones especiales para conocer de los procedimientos de responsabilidad que se instruyan en contra de algún Munícipe o funcionario público o para atender transitoriamente asuntos de interés público.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
-
-También se conformará Comisión Especial Plenaria integrada por todos los Miembros del Cabildo, cuando exista vacantes en cualquiera de los casos previstos en este párrafo, para el efecto de llevar a cabo el análisis de las ternas a que se refiere la Fracción VIII del Artículo 13, del Reglamento de la Administración Pública del Municipio de Tijuana, relativo al nombramiento de los Secretarios de Gobierno Municipal, de Seguridad Pública y de Administración y Finanzas, así como los Delegados Municipales, misma que estará presidida por el Presidente Municipal.
+También se conformará Comisión Especial Plenaria integrada por todos los Miembros del Cabildo, cuando exista vacantes en cualquiera de los casos previstos en este párrafo, para el efecto de llevar a cabo el análisis de las ternas a que se refiere la Fracción X del Artículo 16, del Reglamento de la Administración Pública Municipal del Ayuntamiento de Tijuana, Baja California relativo al nombramiento de los Secretarios de Gobierno Municipal, de Seguridad Pública y de Administración y Finanzas, así como los Delegados Municipales, misma que estará presidida por el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
@@ -1552,3 +1550,9 @@ P.O. 12 DE AGOSTO DE 2011.
 PRIMERO.- El presente acuerdo entrará en vigor al momento de su aprobación.
 
 SEGUNDO.- Publíquense en el Periódico Oficial del Estado de Baja California, así como en la Gaceta Municipal y/o un diario de circulación municipal, para conocimiento de los ciudadanos.
+
+P.O. 20 DE ENERO DE 2012.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASI COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
