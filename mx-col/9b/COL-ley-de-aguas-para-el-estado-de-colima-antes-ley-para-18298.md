@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2005-12-14"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -108,6 +108,10 @@ ARTICULO 3o BIS.- Los servicios públicos objeto de esta Ley serán prestados en
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 Corresponde al organismo operador o a los prestadores de los servicios el tratamiento de las aguas residuales, previa a su descarga a cuerpos receptores de propiedad nacional, de conformidad con lo dispuesto con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2012)</small>
+
+En términos de lo dispuesto por el artículo 1°, fracción XV, de la Constitución Local, el acceso al suministro de agua potable y el saneamiento básico es un derecho humano fundamental para el pleno disfrute de la vida y la salud, y a su vez una obligación del individuo en el cuidado y uso racional del mismo, con objeto de asegurar su disfrute para las generaciones presentes y futuras. La presente ley establece la forma, términos y condiciones en que se ejercerá este derecho, cuyo servicio se prestará en los casos que exista la viabilidad técnica y financiera para ello.
 
 ###### ARTICULO 4o.
 
@@ -195,7 +199,9 @@ II.- Participar, en coordinación con los gobiernos federal y estatal, en el est
 
 III.- Planear y programar la prestación de los servicios de agua potable, alcantarillado y saneamiento, en los términos de esta Ley;
 
-IV.- Realizar por sí o a través de terceros y de conformidad con esta Ley, la construcción de obras de infraestructura hidráulica y su operación;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+IV. Realizar por sí o a través de terceros y de conformidad con esta ley, la construcción de obras de infraestructura hidráulica y su operación, pudiendo celebrar los convenios o contratos necesarios para dicho fin;
 
 V.- Vigilar que la prestación y el funcionamiento de los servicios se realicen eficaz y adecuadamente; y
 
@@ -495,9 +501,9 @@ XXV.- Otorgar los permisos de descarga de aguas residuales a los sistemas de dre
 
 XXVI.- Realizar todas las acciones que se requieran, directa o indirectamente, para el cumplimiento de sus objetivos;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
-XXVII.- Remitir a la Comisión Estatal, los expedientes correspondientes a las obras que pretenda realizar, con recursos de otros (sic) órdenes de Gobierno, a partir de que se le apoye en la integración de los mismos;
+XXVII. Publicitar en sus portales de internet toda la información relativa a sus operaciones administrativas y financieras, con la finalidad de cumplir con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -563,7 +569,7 @@ VI.- Un representante de la Comisión Nacional del Agua, a quien se invitará a 
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-VII.- El Presidente y cuatro miembros del Consejo Consultivo del organismo. Entratándose de organismos intermunicipales se ampliará en dos miembros más la representación del Consejo Consultivo, y
+VII.- El Presidente y cuatro miembros del Consejo Consultivo del organismo. Entratándose (sic) de organismos intermunicipales se ampliará en dos miembros más la representación del Consejo Consultivo, y
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
@@ -669,7 +675,9 @@ VIII.- Las demás que señale el reglamento.
 
 El Director General del organismo operador, tendrá las siguientes atribuciones:
 
-I.- Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+I. Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; otorgar poderes generales exclusivamente para pleitos y cobranzas; así como formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
 II.- Coordinar las actividades técnicas, administrativas y financieras del organismo para lograr una mayor eficiencia, eficacia y economía del mismo;
 
@@ -703,9 +711,17 @@ XV.- Someter a la aprobación del Consejo de Administración, el reglamento inte
 
 XVI.- Aplicar las sanciones que establece esta Ley y su reglamento, por las infracciones que se cometan y que sean competencia del organismo operador;
 
-XVII.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema, de acuerdo con la presente Ley y la coordinación y normatividad que efectúe la Comisión Estatal; y
+XVII.- Realizar las acciones necesarias para que el organismo se ajuste al Sistema, de acuerdo con la presente Ley y la coordinación y normatividad que efectúe la Comisión Estatal; y (sic)
 
-XVIII.- Las demás que señale esta Ley, el reglamento interior y el Consejo de Administración.
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
+
+XVIII. Promover la cultura del agua a través de sistemas eficientes y estímulos dirigidos a todos los sectores sociales, con la finalidad de lograr el aprovechamiento racional del agua;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
+
+XIX. Celebrar convenios de pago con los usuarios morosos, pudiendo delegar dicha facultad a sus directores de comercialización;
+
+XX. Las demás que señale esta Ley, el reglamento interior y el Consejo de Administración.
 
 ###### ARTICULO 30.
 
@@ -995,7 +1011,7 @@ El Comisario será designado por la Contraloría General del Estado y tendrá, e
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
-###### Artículo 45.
+###### ARTICULO 45.
 
 El Consejo Consultivo se integrará con los representantes de los sectores social y privado y de los usuarios de los servicios de agua y alcantarillado del Estado. En su integración y funcionamiento se aplicará en lo conducente lo dispuesto en los artículos 27 y 28 de la presente Ley, así como lo que señale al efecto el Reglamento Interior de la Comisión Estatal.
 
@@ -1077,9 +1093,11 @@ Al establecerse los servicios de agua potable y alcantarillado en los lugares qu
 
 Los interesados en contratar los servicios de agua potable y alcantarillado deberán presentar sus solicitudes cumpliendo con los requisitos señalados por el organismo operador, en los plazos que se indican en esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 51.
 
-A cada predio, giro o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, cuando estos sistemas deban estar separados; el organismo operador fijará las disposiciones a las que se sujetará el diámetro de las mismas.
+A cada predio corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial, por lo que estos sistemas deben estar separados; el organismo operador fijará las disposiciones a las que se sujetará el diámetro de las mismas.
 
 ###### ARTICULO 52.
 
@@ -1301,7 +1319,13 @@ El uso distinto al contratado o la falta oportuna de pago faculta al organismo o
 
 I.- Tratándose del servicio doméstico, la reducción podrá ejecutarse cuando el usuario haya dejado de pagar cinco bimestres los derechos por la prestación de los servicios. En este caso, se le notificará oportunamente del adeudo acumulado, otorgándole diez días naturales para que alegue lo que a su derecho convenga.
 
-La reducción del servicio deberá hacerse en el volumen necesario para que el usuario pueda utilizar el agua únicamente para efectos sanitarios.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
+En la reducción del servicio se deberá garantizar el suministro básico e indispensable del volumen de agua necesario para la vida y la salud del usuario.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2012)</small>
+
+El incumplimiento a lo previsto por la fracción XV del artículo 1o de la Constitución local y a lo dispuesto por este artículo, será sancionado conforme lo establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 II.- En los usos distintos al doméstico, podrá suspenderse el servicio al segundo bimestre de adeudo, cumpliendo previamente el mecanismo de defensa del usuario previsto en la fracción anterior.
 
@@ -1645,7 +1669,7 @@ Dado en Palacio de Gobierno a los 21 días del mes de julio de 1995.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE DICIEMBRE DE 1996.
 
@@ -1672,3 +1696,7 @@ P.O. 14 DE DICIEMBRE DE 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
