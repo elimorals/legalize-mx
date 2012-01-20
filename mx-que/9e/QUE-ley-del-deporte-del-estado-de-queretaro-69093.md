@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2009-06-26"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DEL DEPORTE DEL ESTADO DE QUERETARO
 
-LEY DEL DEPORTE DEL ESTADO DE QUERETARO
+LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -301,9 +301,13 @@ VIII. Desempeñar los cargos para los que hayan sido elegidos en asambleas de cl
 
 IX. Solicitar y recibir, en su caso, estímulos, becas, premios, reconocimientos y recompensas en dinero o en especie;
 
-X. Solicitar y recibir, en su caso, autorización o permiso de la autoridad educativa para ausentarse temporalmente de sus actividades académicas para realizar la práctica deportiva, siempre y cuando no obstaculice de manera irreparable su desempeño académico; y
+X. Solicitar y recibir, en su caso, autorización o permiso de la autoridad educativa para ausentarse temporalmente de sus actividades académicas para realizar la práctica deportiva, siempre y cuando no obstaculice de manera irreparable su desempeño académico; y (sic)
 
-XI. Los demás derechos que le otorgue la presente Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
+
+XI. Recibir, en los términos de la presente Ley y su reglamento, un seguro de gastos médicos mayores, tratándose de seleccionados estatales; y
+
+XII. Los demás derechos que le otorgue la presente Ley y otras disposiciones aplicables.
 
 ###### Artículo 24.
 
@@ -498,3 +502,15 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ENERO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la misma.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado de Querétaro, deberá emitir el Reglamento de la Ley del Deporte del Estado de Querétaro, a más tardar, en un plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro, deberá incluir en su Presupuesto de Ingresos del ejercicio fiscal 2012, el recurso necesario para el cumplimiento del presente Decreto.
