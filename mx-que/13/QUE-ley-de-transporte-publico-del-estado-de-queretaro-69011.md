@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transporte-publico-del-estado-de-queretaro-69011"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2009-06-17"
+last_updated: "2012-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -539,11 +539,11 @@ La relación entre los titulares de concesiones y los conductores de las unidade
 
 La Dirección podrá emitir opiniones y recomendaciones al titular correspondiente sobre el desempeño de los conductores, cuando con su comportamiento se afecte la eficiencia, seguridad y calidad del servicio, pudiendo exigir acciones preventivas o correctivas para garantizarlo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
 ###### Artículo 45.
 
-Las personas físicas titulares de concesión, en vida, podrán designar en cualquier momento, en orden de prelación, hasta a tres personas de entre su cónyuge, concubina o concubino o familiares hasta el segundo grado de parentesco en línea recta o colateral, que puedan sustituirlo en la titularidad de la concesión, en caso de fallecimiento del concesionario; la petición de cambio de titularidad deberá realizarse en un período no mayor de sesenta días naturales contados a partir del deceso.
-
-La petición deberá ser valorada y concedida, en su caso, por la Secretaría de Gobierno, únicamente cuando se acredite que el peticionario cuenta con los medios para prestar el servicio en forma segura y eficiente, siempre que para ello no exista oposición de la Dirección, fundada en elementos técnicos.
+Las personas físicas titulares de concesión, en vida, podrán designar en cualquier momento, en orden de prelación, hasta a tres personas de entre su cónyuge, concubina o concubino o familiares hasta el segundo grado de parentesco en línea recta o colateral, que puedan sustituirlo en la titularidad de la concesión, en caso de incapacidad física o mental, ausencia declarada judicialmente o fallecimiento, del concesionario; para lo cual la Secretaría de Gobierno deberá publicar una vez que tenga conocimiento de dicho fallecimiento, hasta por dos días consecutivos en un periódico de mayor circulación de la entidad, los nombres de quien o quienes hayan sido designados para sustituir la titularidad de la concesión. El cambio de la titularidad deberá realizarse en un periodo no mayor de sesenta días hábiles contados a partir de la publicación antes descrita, siempre y cuando, el peticionario cuente con los medios para prestar el servicio en forma segura y eficiente, y que para ello no exista oposición de la Dirección, fundada en elementos técnicos.
 
 ###### Artículo 46.
 
@@ -1412,3 +1412,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ENERO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
