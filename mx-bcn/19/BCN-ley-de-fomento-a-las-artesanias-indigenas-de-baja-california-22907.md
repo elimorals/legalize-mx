@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-las-artesanias-indigenas-de-baja-california-22
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2001-11-23"
+last_updated: "2012-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE FOMENTO A LAS ARTESANIAS INDIGENAS DE BAJA CALIFORNIA
 
-LEY DE FOMENTO A LAS ARTESANIAS INDIGENAS DE BAJA CALIFORNIA
+LEY DE FOMENTO A LAS ARTESANÍAS INDÍGENAS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE FECHA 20 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 23 de noviembre de 2001.
 
@@ -232,3 +234,11 @@ EUGENIO ELORDUY WALTHER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO BORBON VILCHES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ENERO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga la Ley de de (sic) Fomento a las Artesanías Indígenas para el Estado de Baja California.
