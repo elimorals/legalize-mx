@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2009-01-02"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -209,9 +209,9 @@ V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
 
 Son facultades del Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
-I.- Otorgar, negar o revocar, en ejercicio de la facultad plena de Cabildo y de la Autonomía Municipal los permisos a que se refiere el artículo 10 de la ley, atendiendo al Orden Publico e interés Social;
+I.- Otorgar, modificar, negar o revocar, en ejercicio de la facultad plena del Cabildo y de la Autonomía Municipal los permisos a que se refiere el artículo 10 de la ley, atendiendo al Orden Publico e interés Social;
 
 II.- Autorizar las ampliaciones de horarios permanentes según corresponda a cada giro;
 
@@ -219,9 +219,17 @@ III.- Decretar la prohibición de fechas especificas, conforme a lo establecido 
 
 IV.- La creación de giros diversos atendiendo a las necesidades comerciales del Municipio.
 
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
-V.- Las demás que establezca la Ley y este Reglamento.
+V.- En coordinación con el Consejo Consultivo de Alcoholes y la Secretaria de Desarrollo Social Municipal a través de la Dirección Municipal de Salud, diseñar e implementar campañas sanitarias tendientes a crear en la población una conciencia de calidad en salud. Y en las que se exponga el impacto social que representa el alcoholismo en nuestra Ciudad, así como el grado de afectación física y psicológica que produce en el individuo el abuso en el consumo de bebidas con contenido alcohólico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2012)</small>
+
+VI.- En Coordinación con el Consejo Consultivo de Alcoholes y a través de la Secretaria de Seguridad Púbica (sic) Municipal, promover y aplicar políticas encaminadas a la prevención, disminución y control de accidentes viales, derivados del consumo inmoderado de bebidas con graduación alcohólica, tales como la implementación del programa operativo de alcoholimetría de la Ciudad dirigido a conductores de vehículos y diseñado con la finalidad de salvaguardar la integridad física de estos, la de su familia y la de terceros, así como de preservar el orden.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
+
+VII.- Las demás que establezca la Ley y este Reglamento.
 
 ###### ARTICULO 9.
 
@@ -333,7 +341,7 @@ XV.- Expedir copia certificada de los permisos para la venta, almacenaje y consu
 
 XVI.- Las demás que se deriven de las disposiciones legales aplicables y las que indique el Secretario de Gobierno Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 12.
 
@@ -377,7 +385,11 @@ XII.- Informar cuando les (sic) sea solicitado a la Dirección de Bebidas Alcoh�
 
 XIII.- (DEROGADA, P.O. 2 DE ENERO DE 2009)
 
-XIV.- Determinar y ejecutar las sanciones y medidas de seguridad por violaciones a la ley o al presente reglamento, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+XIV.- Llevar a cabo verificaciones y visitas de inspección cuando se desprenda que dentro de un lugar y/o establecimiento donde se efectúa la venta clandestina de bebidas alcohólicas o se tengan prácticas que lesionen la salud, los intereses o derechos de los consumidores, contemplados en la Ley y este Reglamento.
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
 XV.- Las demás que se le confieran en este o en otros ordenamientos legales.
 
@@ -431,7 +443,21 @@ XIX.- Realizar sus actividades en las áreas destinadas al servicio al público,
 
 XX.- Solicitar autorización expresa de la Dirección de Administración Urbana, para el caso de remodelación o ampliación del establecimiento, y
 
-XXI.- Las demás que se señalan en este reglamento la ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+XXI.- Poner a disposición de los clientes la información respecto al servicio taxi seguro e implementar programas de consumo responsable, cuando se exceda la primera hora del día siguiente que inicio la actividad comercial.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2012)</small>
+
+XXII.- Colaborar dentro de los establecimientos, con campañas sanitarias y de seguridad publica dirigidas por la autoridad correspondiente, principalmente aquellas enfocadas a la cultura de la no violencia, prevención del consumo de drogas y bebidas alcohólicas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2012)</small>
+
+XXIII.-Difundir dentro de sus establecimientos los programas implementados por las autoridades correspondientes en materia de salud, seguridad y prevención de ingesta excesiva de alcohol.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2012)</small>
+
+XXIV.- Las demás que se señalan en este Reglamento, la Ley y otras disposiciones legales.
 
 ### CAPITULO CUARTO. DE LOS DIAS Y HORARIOS AUTORIZADOS
 
@@ -445,9 +471,13 @@ Los diferentes giros a que se refiere la ley, se regirán por las disposiciones 
 
 Serán días de suspensión general obligatoria de actividades, para los giros a que se refiere la ley y este reglamento los que determinen las leyes estatales o federales. La autoridad municipal podrá determinar la prohibición de distribución, venta o consumo de bebidas alcohólicas, haciéndolo saber a través de los medios de comunicación masiva al público en general con 48 horas de anticipación o inmediatamente en caso de riesgo, emergencia o por causa de seguridad pública municipal.
 
-###### ARTICULO 16.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
 
-El Ayuntamiento podrá autorizar en forma temporal, la ampliación del horario establecido en aquellos giros que tengan relación con el turismo o en diversiones análogas en arterias principales de la ciudad.
+###### ARTÍCULO 16.
+
+De conformidad con los límites y condiciones dispuestos en el presente ordenamiento la autoridad municipal a través de la Dirección de Bebidas Alcohólicas otorgara permisos eventuales, en los términos del artículo 10 de la Ley, para la promoción turística o realización de ferias, carnavales, vendimias o cualquier tipo de eventos o diversiones análogas.
+
+En los permisos eventuales, podrán establecerse horarios especiales para el servicio o consumo de bebidas con graduación alcohólicos (sic) acordes a la duración aproximada del evento, espectáculo o diversión de que se trate, siempre que se apliquen las más estrictas medidas de seguridad, sin que en ningún caso, el horario para el expendio o venta de dichas bebidas, autorizado en el permiso eventual, pueda exceder de los horarios máximos previstos en este ordenamiento, para dicha actividad.
 
 ###### ARTICULO 17.
 
@@ -539,17 +569,27 @@ Los servicios adicionales únicamente podrán ser autorizados en los giros indic
 
 Los negocios contemplados en los incisos del K) al O) y del R) al U), del artículo anterior de este reglamento, contarán con una hora adicional al horario permitido para la venta de bebidas alcohólicas, para desalojar a la clientela del establecimiento, sin que durante este lapso de tiempo autorizado se permita la venta o consumo de bebidas alcohólicas, asimismo se autoriza este tiempo para realizar los movimientos contables que correspondan, culminando este lapso quedarán totalmente cerrados, solo podrán permanecer en el interior del establecimiento el personal de limpieza y de seguridad.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 20.
 
-La Dirección de Bebidas Alcohólicas, podrá autorizar horarios extraordinarios, que excedan el limite señalado en los diferentes giros contemplados en el artículo 18 fracción I del presente reglamento, a excepción de los giros identificados con los incisos A), B), C), D) e I). El horario extraordinario no excederá de catorce horas por semana calendario, y de 2 horas por día, dicha autorización se sujetará a los lineamientos que previamente establezca la Dirección mediante el pago de los derechos correspondientes.
+La Dirección de Bebidas Alcohólicas, podrá autorizar la ampliación de tiempo de actividad de los establecimientos contemplados en el articulo 18 fracción I del presente Reglamento, sin exceder, en ningún caso, de tres horas del día siguiente, dicha autorización se sujetara a los lineamentos (sic) que previamente establezca la Dirección de Bebidas Alcohólicas, mediante el pago de los derechos correspondientes.
 
-En zonas donde el uso de suelo sea estrictamente residencial o habitacional, no podrá ser autorizado el horario extraordinario al que se refiere el párrafo anterior en los giros de bares y café cantante.
+No podrán solicitar la autorización de ampliación de tiempo de actividad los siguientes establecimientos.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+I.- Los giros identificados con los incisos A), B), C), D), del artículo 18 fracción I del presente Reglamento.
 
-ARTICULO 20 BIS.- La autoridad podra negar la autorización de horario extraordinario si de la revisin (sic) del expediente se desprende que el interesado ha rincidido (sic) en la comision de infracciones graves al Reglamento o la Ley.
+II.- Los giros de bares y café cantante, que se encuentren ubicados en zonas donde el uso de suelo sea estrictamente residencial o habitacional.
+
+III.- Los establecimientos que se encuentren fuera de las zonas comerciales o turísticas de acuerdo con la carta urbana del Ayuntamiento.
+
+IV.- Los establecimientos que se encuentren a una distancia menor de 150 metros de cetros (sic) de salud, educativos, lugares de atención a guarda de menores, iglesias, templos y centros deportivos. La determinación de dichas distancias se tomara conforme a la regla prevista en el artículo 39 del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
+ARTICULO 20 BIS.- Aquellos establecimientos que soliciten ampliación de tiempo de actividad a que se refiere el artículo que antecede, deberán ser promotores de programas que comprendan el servicio de taxi, conductores designados y mesero responsable. Así mismo, deberán justificar y acreditar ante el Director de Bebidas Alcohólicas la necesidad de ampliar el horario.
+
+La Autoridad podrá negar la autorización de ampliación de tiempo de actividad, si de la revisión del expediente se desprende que el interesado ha reincido en la comisión de infracciones graves al Reglamento.
 
 ### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
 
@@ -1075,6 +1115,8 @@ Si la Autoridad Municipal aprueba la solicitud del titular del permiso en los su
 
 ### CAPITULO OCTAVO. DE LAS PROHIBICIONES PARA LOS TITULARES, ENCARGADOS, REPRESENTANTES O EMPLEADOS EN LOS ESTABLECIMIENTOS
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2012, PÁGINAS DE LA 47 A LA 48.</small>
+
 ###### ARTICULO 51.
 
 En el Municipio de Tijuana, Baja California, queda prohibido:
@@ -1111,23 +1153,17 @@ XV.- Permitir la promoción y venta de productos alcohólicos por el personal fu
 
 XVI.- Realizar sus labores o prestar sus servicios en visible estado de ebriedad con aliento alcohólico, consumiendo bebidas alcohólicas o bajo el influjo de drogas enervantes, y
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
-XVII.- Realizar cualquier tipo de promoción, así como brindar servicios de los llamados Barra Libre, Ladie's Night o cualquier servicio análogo, entendiéndose para los efectos del presente Reglamento por Barra Libre: la modalidad comercial mediante la cual los usuarios, por medio de un pago único, tienen el derecho al consumo ilimitado de bebidas alcohólicas.
+XVII.- Realizar cualquier tipo de actividades con las cuales se proporcione el consumo inmoderado de bebidas con graduación alcohólica y con ellos se genere (sic) reiteradamente conductas antisociales, intranquilidad y riegos para la convivencia, integridad física o pertenencias de los habitantes de una zona determinada o los ciudadanos en general.
 
-Por Ladie's Night se entiende como los lugares en donde exista cuota de admisión general o se cobre el pago por derecho de admisión o entrada, donde no se podrá exentar del mismo ni hacer distinción en el precio, en atención al género, para la venta y/o consumo de bebidas con graduación alcohólica.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2004)</small>
+XVIII.- Brindar servicios de los llamados Barra Libre, Ladie's Night o cualquier servicio análogo, entendiéndose para los efectos del presente Reglamento por Barra Libre: la modalidad comercial mediante la cual los usuarios, por medio de un pago único, tienen derecho al consumo ilimitado de bebidas alcohólicas. Por Ladie's Night se entiende como lugares en donde los usuarios del género femenino se les exenta de pago en el consumo de bebidas alcohólicas en determinados días y dentro de un horario definido por el permisionario de la actividad.
 
-XVIII.- Se prohíbe la venta, almacenaje para su venta o la venta para consumo de bebidas con graduación alcohólica en sitios no aptos de conformidad con la Ley.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2004)</small>
-
-XIX.- Se prohíbe el otorgamiento de permisos permanentes o eventuales, para la venta, almacenaje para su venta y la venta para consumo de bebidas con graduación alcohólica en edificios públicos y zonas adyacentes. Para efecto de este Reglamento se considera como edificio publico, Palacio Municipal y Centro de Gobierno.
-
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2004)</small>
-
-XX.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
+XIX.- Las demás que se establecen o se desprenden de las disposiciones de este reglamento y la legislación vigente en general.
 
 ### CAPITULO NOVENO. DEL CONSEJO CONSULTIVO
 
@@ -1772,3 +1808,11 @@ P.O. 2 DE ENERO DE 2009.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO.- Las presentes reformas entran en vigor al momento de su publicación, el cual para conocimiento del público en general, deberá de publicarse en el Periódico Oficial del Estado de Baja California en los términos de la Ley del Régimen Municipal para el Estado de Baja California.
+
+P.O. 20 DE ENERO DE 2012.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO, QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASI COMO EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+TERCERO: UNA VEZ DEBIDAMENTE PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO ESTATAL Y EN LA GACETA MUNICIPAL, NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE (SIC) GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINITRACION (SIC), PARA LA IMPLEMENTACION IMEDIATA (SIC) DE LAS REFORMAS APROBADAS.
