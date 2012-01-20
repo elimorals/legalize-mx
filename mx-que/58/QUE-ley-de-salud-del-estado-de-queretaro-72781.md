@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2011-11-25"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -523,9 +523,13 @@ III. De asistencia social.
 
 Conforme a las prioridades del Sistema de Salud del Estado de Querétaro, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
 ###### Artículo 29.
 
-Para la organización y administración de los servicios de salud, se definirán criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, de universalización de coberturas y de colaboración interinstitucional.
+Para la organización y administración de los servicios de salud, estos deben ser de forma integral, universalizada, que supere los desequilibrios territoriales y sociales, bajo los principios de coordinación, eficacia, celeridad, economía y flexibilidad.
+
+Se definirán criterios de distribución de universo de usuarios tales como, la regionalización de los servicios de salud pública para la promoción y la prevención de la salud por institución; así como, el escalonamiento de los servicios de salud, en la atención médica y asistencia social, para lograr la universalización de la salud con la colaboración interinstitucional.
 
 ###### Artículo 30.
 
@@ -895,21 +899,29 @@ En el estado de Querétaro, las técnicas de reproducción asistida y la disposi
 
 ### Capítulo Octavo. De la salud mental
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
 ###### Artículo 74.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control, y demás aspectos relacionados.
+La prevención de las enfermedades mentales tiene carácter prioritario y urgente. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control, y demás aspectos relacionados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2012)</small>
 
 ###### Artículo 75.
 
-Para la promoción de la salud mental, la Secretaría de Salud, el SESEQ y demás instituciones afines, en coordinación con las autoridades competentes, privilegiarán:
+Para la atención y promoción de la salud mental, la Secretaría de Salud, el SESEQ y demás instituciones afines, en coordinación con las autoridades competentes, privilegiarán:
 
 I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental de la población en general;
 
-II. La difusión de campañas en favor de la salud mental;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+II. La elaboración y difusión permanente de programas y campañas acordes a los establecidos por las autoridades federales, a favor de la salud mental;
 
 III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y de otra naturaleza que puedan causar alteraciones mentales o dependencias;
 
-IV. La elaboración de programas de prevención y atención de alteraciones y enfermedades emocionales; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+IV. La elaboración y difusión de programas de prevención y atención de alteraciones y enfermedades mentales; y
 
 V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental y emocional de la población.
 
@@ -917,7 +929,9 @@ V. Las demás acciones que directa o indirectamente contribuyan al fomento de la
 
 La atención de las enfermedades mentales comprende:
 
-I. El cuidado continuo y adecuado de personas con padecimientos mentales; la rehabilitación psiquiátrica y psicológica de enfermos mentales crónicos, deficiencias mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, padezcan de depresión crónica o algún otro trastorno emocional similar; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+
+I. El cuidado continuo y. adecuado de personas con enfermedades mentales; de acuerdo con las clasificaciones internacionales de las mismas, la rehabilitación psiquiátrica y psicológica de todas ellas; y
 
 II. La creación, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
@@ -1305,7 +1319,9 @@ El Poder Ejecutivo del Estado, se coordinará con las autoridades sanitarias fed
 
 I. La prevención, tratamiento y rehabilitación de los alcohólicos;
 
-II. La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos adecuados para ello; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012.)</small>
+
+II. La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida de forma general a toda la población y, de forma especial, a los grupos vulnerables, a través de métodos adecuados para ello; y
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales o consideradas de alto riesgo.
 
@@ -1854,6 +1870,22 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 P.O. 25 DE NOVIEMBRE DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE ENERO DE 2012.
+
+LEY QUE REFORMA EL ARTÍCULO 29 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE ENERO DE 2012.
+
+LEY QUE REFORMA LOS ARTÍCULOS 74, 75, FRACCIONES II Y IV, 76, FRACCIÓN I Y 126, FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
