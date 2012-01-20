@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2011-12-02"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -688,6 +688,10 @@ Si de acuerdo con lo dispuesto en el artículo 182 fuere necesario que las capit
 VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio o copia del acta de divorcio administrativo, en caso de que alguno de los pretendientes hubiera sido casado anteriormente;
 
 VII.- Copia de la dispensa de impedimentos, si los hubo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2012)</small>
+
+VIII.- Constancia expedida por el Oficial del Registro Civil del domicilio correspondiente, en la cual se acredite haber asistido a las platicas en materia de derechos y obligaciones del matrimonio a que se refieren los artículos 72 y 73 de la Ley Orgánica del Registro Civil del Estado de Baja California, impartida en los términos y bajo las modalidades establecidas por dicha institución.
 
 ###### ARTICULO 96.
 
@@ -14937,7 +14941,7 @@ III.- Por el Ministerio Público o el Sistema Para el Desarrollo Integral de la 
 
 ###### ARTICULO 2804.
 
-La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOs I y III Libro primero.
+La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOS I y III Libro primero.
 
 ###### ARTICULO 2805.
 
@@ -16026,3 +16030,7 @@ PRIMERO.- El Ejecutivo Estatal por conducto de la Secretaría de Salud deberá e
 SEGUNDO.- El Ejecutivo deberá hacer las adecuaciones presupuestales necesarias para el ejercicio fiscal siguiente, para dar cumplimiento con el objetivo de la reforma.
 
 TERCERO.- La presente reforma entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
