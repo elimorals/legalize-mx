@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2011-07-22"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-CODIGO PENAL PARA EL ESTADO DE QUERETARO
+CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -733,13 +733,19 @@ Los delitos culposos se penarán con prisión de tres días a siete años, de tr
 
 Las demás penas o medidas de seguridad, se aplicarán hasta en la mitad de las correspondientes al delito doloso, en cuantía o duración, con excepción de la reparación de daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 76.
 
-Se impondrá prisión de dos a ocho años, de veinte a doscientos días multa y suspensión o inhabilitación, en su caso, hasta por cinco años del derecho de ejercer la profesión, oficio o actividad que motivó el hecho, sin perjuicio de las reglas del concurso, cuando se trate de homicidio culposo de dos o más personas que hayan sido originadas por un conductor de vehículo de motor que preste servicio de transporte público, de personal o escolar.
+Se impondrá prisión de dos a ocho años, de veinte a doscientos días multa y suspensión o inhabilitación, en su caso, hasta por cinco años del derecho de ejercer la profesión, oficio o actividad que motivó el hecho, sin perjuicio de las reglas del concurso, cuando se trate de homicidio culposo que haya sido originado por un conductor de vehículo de motor que preste servicio de transporte público, de personal o escolar.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+Este delito será considerado como grave, en los términos del Código de Procedimientos Penales para el Estado de Querétaro, cuando concurra alguna de las siguientes circunstancias:
 
-La misma sanción se aplicará cuando se trate de homicidio de una o más personas, sin perjuicio de las reglas del concurso, cometido por un conductor de vehículo de motor en estado de ebriedad o bajo el influjo de psicotrópicos, estupefacientes, sustancias volátiles inhalables y otras sustancias que produzcan efectos análogos.
+I. Que el conductor se encuentre en estado de ebriedad o bajo el influjo de de (sic) psicotrópicos, estupefacientes, substancias volátiles inhalables y otras substancias que produzcan efectos análogos; y
+
+II. Que el conductor abandone a la víctima o no le preste auxilio.
+
+Con independencia de las circunstancias, siempre se considerará como delito grave cuando se prive de la vida a dos o más personas.
 
 ###### ARTICULO 77.
 
@@ -751,7 +757,9 @@ I.- Cuando la conducta culposa origine por cualquier medio daño en las cosas, c
 
 II.- Cuando la conducta culposa origine lesiones de las comprendidas en las fracciones I, II, III, y V del artículo 127 de este Código.
 
-Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalables o cualquier otra que produzca efectos análogos.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
+Este artículo sólo se aplicará cuando el imputado al cometer el delito no se encontrare bajo el influjo de estupefacientes, psicotrópicos, sustancias volátiles inhalables, bebidas embriagantes o cualquier otra sustancia que produzca efectos análogos y cuando no se trate de delitos cometidos por un conductor de vehículo de motor que preste servicio de transporte público, personal o escolar, con motivo de sus funciones.
 
 ###### ARTICULO 78.
 
@@ -1207,9 +1215,11 @@ En el caso de la fracción anterior, se perseguirá de oficio a excepción de cu
 
 En los casos de las fracciones I, II, III y V del artículo 127 de esta Ley, el delito se perseguirá a petición del ofendido; a excepción de las lesiones descritas en la fracción V, por las cuales podrán querellarse el Ministerio Público o los representantes del ofendido cuando en razón de las lesiones inferidas no pueda manifestar su voluntad.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 129.
 
-Cuando en las lesiones concurra alguna de las circunstancias a que se refiere el Artículo 131 de esta Ley o se infieran en agravio de un menor o incapaz sujeto a su tutela, custodia o guarda, se aumentará hasta en una mitad la pena correspondiente a la lesión inferida.
+Cuando en las lesiones concurra alguna de las circunstancias calificativas a que se refiere el artículo 131 de este Código, se infieran en agravio de un menor o incapaz sujeto a su tutela, custodia o guarda o se originen por un conductor de vehículo de motor que preste servicio de transporte público, personal o escolar, se aumentará hasta en una mitad la pena correspondiente a la lesión inferida.
 
 ###### ARTICULO 130.
 
@@ -1861,9 +1871,15 @@ VI.- En contra de una oficina recaudatoria o cualquier otra en que se conserven 
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
-VII.- Respecto de vehículo o maquinaria, estacionados en la vía pública o en otro lugar destinado a su guarda o reparación, y
+VII.- Respecto de vehículo o maquinaria, estacionados en la vía pública o en otro lugar destinado a su guarda o reparación, y (sic)
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
+
+IX.- Respecto de maquinaria agrícola, bombas de agua, su arrancador, transformador o cables; o sobre cualquier otro equipo, componente o accesorio destinado al riego de cultivos agrícolas, al drenaje, alcantarillado, agua potable o suministro de gas, independientemente del lugar en que se ubiquen.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
@@ -3667,7 +3683,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
 
 P.O. 01 DE NOVIEMBRE DE 1990
 
@@ -4056,3 +4072,19 @@ P.O. 22 DE JULIO DE 2011.
 Artículo Primero. La presente reforma entrará en vigor treinta días naturales posteriores a la publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 20 DE ENERO DE 2012.
+
+ARTICULO ÚNICO POR LO QUE SE REFORMAN LOS ARTÍCULOS 76, 77 Y 129 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE ENERO DE 2012.
+
+ARTÍCULO ÚNICO POR LO QUE SE ADICIONA UNA FRACCIÓN IX, AL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "(sic) La Sombra de Arteaga.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
