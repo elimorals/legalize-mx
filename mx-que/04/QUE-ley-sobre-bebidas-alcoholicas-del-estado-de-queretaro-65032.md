@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2011-05-06"
+last_updated: "2012-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "QUE"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
 
-LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
+LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 6 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -248,6 +246,12 @@ TIPO I. Establecimientos autorizados en los que la venta de bebidas alcohólicas
 10. Hotel o Motel: Establecimiento que ofrece hospedaje con servicios complementarios de venta de bebidas alcohólicas en su bar, restaurante o servicio a cuarto.
 
 11. Billar: Establecimiento dedicado al esparcimiento mediante la renta de mesas de billar, con acceso exclusivo para personas mayores de edad, en la que se venden bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2012)</small>
+
+11 bis. Centro de juegos: Establecimiento con acceso únicamente para personas mayores de edad, donde se practiquen apuestas remotas y juegos de sorteos de números y vendan bebidas alcohólicas, y cuenten con música en vivo o grabada.
+
+Las licencias para este tipo de lugares, se otorgarán siempre y cuando el permisionario cuente con la autorización vigente expedida por la Secretaría de Gobernación para establecer centros de apuestas remotas y salas de sorteos de números, con apego a la legislación federal aplicable.
 
 TIPO II. Establecimientos autorizados en los que se venden bebidas alcohólicas en envase abierto o al copeo, y que únicamente pueden consumirse acompañadas con alimentos dentro del mismo local o donde se oferten éstos, y que pueden ser:
 
@@ -1084,3 +1088,9 @@ Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere
 Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 20 DE ENERO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
