@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-84822"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-24"
-last_updated: "2011-12-24"
+last_updated: "2012-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2012
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2012.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -491,11 +491,11 @@ Los servidores públicos que incurran en inobservancia a esta disposición, se h
 
 ### Capítulo III. De las Facilidades Administrativas y Beneficios Fiscales
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 21 DE ENERO DE 2012)</small>
 
 ###### Artículo 8.
 
-Los contribuyentes propietarios o poseedores de vehículos de servicio particular de hasta quince pasajeros, nuevos y de hasta nueve años modelo anterior, por los cuales deban pagar el Impuesto sobre Tenencia o Uso de Vehículos se les otorgará un estimulo fiscal, acorde a lo dispuesto por el artículo 26 N de la Ley de Hacienda del Estado de Oaxaca, y atendiendo a lo siguiente:
+Los contribuyentes propietarios o poseedores de vehículos de servicio particular de hasta quince pasajeros, nuevos y de hasta nueve años modelo anterior, por los cuales deban pagar el Impuesto sobre Tenencia o Uso de Vehículos se les otorgará un estímulo fiscal, acorde a lo dispuesto por el artículo 26 F, fracción I de la Ley de Hacienda del Estado de Oaxaca, y atendiendo a lo siguiente:
 
 Valor Vehículo
 
@@ -616,3 +616,7 @@ Tlalixtac de Cabrera, Centro, Oax., a 24 de Diciembre del 2011.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+Al C.
+
+N O T A: Las presentes firmas corresponden al Decreto No. 715, aprobado por la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba la Ley de Ingresos del Estado de Oaxaca, para, el Ejercicio Fiscal 2012.
