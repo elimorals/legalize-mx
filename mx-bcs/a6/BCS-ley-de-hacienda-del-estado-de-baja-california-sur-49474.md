@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2011-10-07"
+last_updated: "2012-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -181,19 +181,21 @@ El contribuyente trasladará el impuesto en forma expresa y por separado a las p
 
 Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a las personas a quienes preste los servicios gravados, de un monto equivalente al impuesto establecido en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2012)</small>
+
 ###### Artículo 18.
 
-Los ingresos recaudados por este Impuesto en cada uno de los municipios se distribuirá de la manera siguiente:
+Los ingresos recaudados por este Impuesto en cada uno de los municipios se distribuirán de la manera siguiente:
 
-I. El 57% para su promoción turística nacional e internacional, en las acciones que determine el Comité Técnico del Fideicomiso constituido para la administración de los recursos recaudados por el impuesto a que se refiere el presente Capítulo.
+I. El 80% para su promoción turística nacional e internacional, en las acciones que determine el Comité Técnico del Fideicomiso constituido para la administración de los recursos recaudados por el impuesto a que se refiere el presente Capítulo.
 
-II. El 33% a obras de infraestructura social turística, los cuales se administrarán en los fideicomisos que se constituyan en cada municipio para la realización de obras de infraestructura social.
+II. (DEROGADA, P.O. 23 DE ENERO DE 2012)
 
-III. El 8% de la recaudación en el Estado se destinará para la promoción turística de todo el Estado en general, a nivel nacional e internacional. Estos recursos serán administrados por la Secretaría de Turismo del Estado.
+III. El 17.5% de la recaudación en el Estado se destinará para la promoción turística de todo el Estado en general, a nivel nacional e internacional. Estos recursos serán administrados por el Fideicomiso de Turismo Estatal.
 
-IV. El 2% de la recaudación en el Estado para los gastos originados con motivo de la administración del Impuesto sobre la Prestación de Servicios de Hospedaje.
+IV. El 2.5% de la recaudación en el Estado para los gastos originados con motivo de la administración del Impuesto sobre la Prestación de Servicios de Hospedaje.
 
-En el supuesto de que quedaren remanentes una vez cubiertos los gastos de administración, estos recursos deberán destinarse sin mayor trámite a los fines y en la proporción previstos en las Fracciones I y II de este Artículo.
+En el supuesto de que quedaren remanentes una vez cubiertos los gastos de administración, estos recursos deberán destinarse sin mayor trámite a los fines y en la proporción previstos en las Fracciones I y III de este Artículo.
 
 ###### Artículo 19.
 
@@ -1096,3 +1098,7 @@ B.O. 31 DE DICIEMBRE DE 2009.
 B.O. 7 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 23 DE ENERO DE 2012.
+
+Único.- La presente reforma entrará en vigor el día 31 de enero del año 2012, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, debiendo la Secretaría de Finanzas del Gobierno del Estado, realizar los redireccionamientos necesarios en el presupuesto de egresos del ejercicio fiscal 2012, con relación a los recursos materia de este Decreto.
