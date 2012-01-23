@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-egresos-del-estado-de-nuevo-leon-para-el-ano-2012-84432"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2012-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE EGRESOS DEL ESTADO DE NUEVO LEON PARA EL AÑO 2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EGRESOS DEL ESTADO DE NUEVO LEÓN PARA EL AÑO 2012
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. PARA CONSULTAR LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2012 VÉASE PÁGINA 57 A LA 58 .</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 27 de Diciembre de 2011.
 
@@ -35157,7 +35157,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 OTHÓN RUIZ MONTEMAYOR
 
-> <small>N. DE E. VÉASE ANEXO I: EN EL P.O. 27 DE DICIEMBRE DE 2011, PÁGINAS 287 A LA 291.</small>
+> <small>N. DE E. VÉASE ANEXO I: EN EL P.O. 27 DE DICIEMBRE DE 2011, PÁGINAS 287 A LA 291. FE DE ERRATAS EN EL P.O. 23 DE ENERO DE 2012, PÁGINAS 57 A LA 58.</small>
 
 > <small>N. DE E. VÉASE ANEXO II: EN EL P.O. 27 DE DICIEMBRE DE 2011, PÁGINA 292.</small>
 
