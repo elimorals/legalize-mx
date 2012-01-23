@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 23 Y 30 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 67, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2011, SE MODIFICA DE MANERA SUSTANCIAL TODO EL TEXTO DE LA PRESENTE LEY, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL Y SI BIEN, DIVERSOS ARTÍCULOS QUEDARON INTACTOS, SE PRESENTA EL TEXTO APROBADO EN LA FECHA DE REFERENCIA.</small>
-
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -1863,8 +1863,6 @@ XII.- Por cada año siguiente del concepto de
 
 la fracción anterior. 0.5 salario mínimo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO Y REFORMADO [N. DE E. ANTES ARTÍCULO 76 BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 96.
@@ -1969,11 +1967,11 @@ XX.- Por expedición de copias
 
 certificadas urgentes; 9.32 salarios mínimos.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011) (F. DE E., P.O. 23 DE ENERO DE 2012)
 
 XXI.- Por expedición de segundos
 
-testimonios urgentes; 3.32 salarios mínimos.
+testimonios urgentes; 13.32 salarios mínimos.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2455,8 +2453,6 @@ a la cuantificación de
 
 daños causados
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 105.
@@ -2467,7 +2463,9 @@ I.- Por la evaluación de la solicitud y los documentos que acrediten los requis
 
 De $0.00 hasta $50' 000,000.00 100 salarios mínimos
 
-De $50'000,001.00 hasta $130'000,000.00 10 salarios mínimos
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2012)</small>
+
+De $50'000,001.00 hasta $130'000,000.00 110 salarios mínimos
 
 De $130'000,001.00 en adelante 120 salarios mínimos
 
@@ -2484,8 +2482,6 @@ conservación o explotación de obras públicas y de los
 servicios relacionados con éstas 500 salarios mínimos
 
 III.- Por la adquisición de las bases de licitación, tendrán un costo que deberá determinarse dividiendo el monto de los gastos en que haya incurrido la Dependencia, Entidad o Ayuntamientos, exclusivamente por concepto de Publicación de la convocatoria en el Periódico Oficial y los de mayor circulación en el estado y de reproducción de los documentos que integran las bases, entre el número de interesados que se estima las adquirirán.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2767,7 +2763,9 @@ General de Desarrollo Urbano 2 salarios mínimos
 
 x hoja carta
 
-23.- Expedición de copias compulsadas de cualquier documento que obre en el archivo de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos.
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2012)</small>
+
+23.- Expedición de copias compulsadas de cualquier documento que obre en el archivo de la Secretaría de Obras Públicas y Ordenamiento Territorial.
 
 a).- Por la primera Hoja 0.6 salarios mínimos.
 
@@ -2920,8 +2918,6 @@ no antecedentes penales. 1.5 salarios mínimos
 Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la Administración Pública, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a las cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
 Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas y Administración.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(ADICIONADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 86 BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -6531,9 +6527,9 @@ III.- CURSOS Y ADIESTRAMIENTOS DIVERSOS
 
 1395.- Cursos y adiestramiento en servicio (por semana);
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011) (F. DE E., P.O. 23 DE ENERO DE 2012)
 
-III.- CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
+IV.- CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
