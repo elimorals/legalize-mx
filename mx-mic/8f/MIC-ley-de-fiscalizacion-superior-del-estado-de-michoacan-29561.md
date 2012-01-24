@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-del-estado-de-michoacan-29561"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-28"
-last_updated: "2011-03-11"
+last_updated: "2012-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. 24 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Michoacán, el viernes 28 de marzo de 2003.
 
@@ -880,3 +882,25 @@ P.O. 11 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al momento de su aprobación, con fundamento en el artículo 42, párrafo segundo de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+En el caso del artículo 31 de la presente Ley, entrará en vigor, al tiempo del Decreto Legislativo número 69, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día 22 de septiembre del año 2006, en tanto, la Auditoría Superior presentará al Congreso el Informe de Resultados de la Revisión, Fiscalización y Evaluación de la Cuenta Pública de las entidades, a más tardar el día 01 del mes de noviembre del año en que fueron recibidas.
+
+###### ARTÍCULO CUARTO.
+
+Para dar cumplimiento a lo dispuesto en el segundo párrafo del artículo 9 de la presente Ley, el Congreso del Estado designará a los Auditores Especiales quienes, por esta única ocasión, durarán en sus cargos, por su orden de elección, el primero, tres años; el segundo, cuatro años; y, el tercero, cinco años.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga la Ley de Fiscalización Superior del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 28 veintiocho de marzo del año 2033 dos mil tres (sic).
