@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-estatal-de-conciliacion-y-2221
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-21"
-last_updated: "2009-01-21"
+last_updated: "2012-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 21 de septiembre de 2001.
 
@@ -93,13 +93,21 @@ II. Un Secretario Coordinador de asuntos Colectivos;
 
 III. Un Secretario Coordinador de asuntos de Amparo;
 
-IV. Auxiliares Jurídicos;
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2012)</small>
 
-V. Auxiliares Dictaminadores;
+IV. Un Secretario Instructor;
 
-VI. Actuarios, y
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2012)</small>
 
-VII. Demás personal técnico profesional o administrativo que sea necesario para el funcionamiento del Tribunal, cuyas funciones serán determinadas en sus Manuales de Organización y Procedimientos, con apego al presupuesto autorizado.
+V. Un Director Administrativo;
+
+VI. Auxiliares Jurídicos;
+
+VII. Auxiliares Dictaminadores;
+
+VIII. Actuarios, y
+
+IX. Demás personal técnico profesional o administrativo que sea necesario para el funcionamiento del Tribunal, cuyas funciones serán determinadas en sus Manuales de Organización y Procedimientos, con apego al presupuesto autorizado.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -313,6 +321,70 @@ XII. Coordinar las actividades del personal a su cargo, y
 
 XIII. Las demás que le señale la Ley, este Reglamento o determine el Pleno, el Presidente, o el Secretario General en el ámbito de su respectiva competencia, y las que sean necesarias para el cumplimiento de sus funciones.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2012)</small>
+
+###### Artículo 14 Quáter.
+
+El Director Administrativo contará con las siguientes atribuciones:
+
+I.- Desempeñar las actividades administrativas del Tribunal coordinando los recursos humanos, presupuestales, materiales y de servicio en general del Tribunal;
+
+II.- Informar oportunamente al Presidente del Tribunal las actividades realizadas por el área, coadyuvando en la toma de decisiones para alcanzar los objetivos establecidos;
+
+III.- Planear, programar y presupuestar la elaboración y seguimiento del programa operativo anual, así como dar seguimiento al avance programático trimestral;
+
+IV.- Gestionar los recursos humanos, materiales y presupuestales en los términos y conforme a las normas y lineamientos que determinen las áreas competentes;
+
+V.- Administrar eficiente y eficazmente los recursos humanos y materiales asignados a su área;
+
+VI.- Representar al Tribunal, en su caso, en los términos que establezca su Presidente;
+
+VII.- Elaborar y mantener actualizados los manuales administrativos del Tribunal;
+
+VIII.- Asignar funciones y responsabilidades al personal a su cargo, conforme a las disposiciones legales aplicables y a las políticas y lineamientos señalados en los manuales de organización y de políticas y procedimientos;
+
+IX.- Coordinar y supervisar las funciones inherentes a los sistemas de contabilidad, ingresos, egresos, adquisiciones y recursos humanos del Tribunal, asegurando que se ejerzan bajo el marco jurídico y normativo establecido;
+
+X.- Integrar el anteproyecto de presupuesto anual y gasto corriente del Tribunal;
+
+XI.- Supervisar el registro y resguardo detallado de los bienes muebles del Tribunal, asentando las altas, bajas y modificaciones que se presenten;
+
+XII.- Coordinar y supervisar la adquisición y suministro adecuado de materiales, arrendamientos y servicios, de acuerdo a las necesidades establecidas por las diferentes áreas, ajustándose al presupuesto asignado;
+
+XIII.- Controlar y supervisar el sistema y control de almacenes;
+
+XIV.- Acordar con el Presidente del Tribunal las políticas, bases y lineamientos para el ejercicio presupuestal y administrativo del Tribunal;
+
+XV.- Vigilar y controlar el ejercicio del presupuesto asignado, garantizando su transparente aplicación, de conformidad con los lineamientos o recomendaciones emitidos por la Secretaría de Finanzas y Planeación o la Secretaría de la Contraloría, según su respectivo ámbito de competencia, y
+
+XVI.- Coadyuvar en el orden y disciplina del personal del Tribunal, a través de los instrumentos que le sean encomendados por la Secretaría General.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2012)</small>
+
+###### Artículo 14 Quinquies.
+
+Son atribuciones del Secretario Instructor las siguientes:
+
+I. Desempeñar las tareas y funciones que le encomiende el Presidente, y el Secretario General, en el ámbito de su respectiva competencia;
+
+II. Coordinar las actividades de los auxiliares jurídicos, conforme a los lineamientos que le dicte el Secretario General;
+
+III. Dar cuenta al Secretario General de los recursos, promociones, peticiones y la correspondencia en general que le sea turnada;
+
+IV. Apoyar en el desahogo de las diligencias en las que el auxiliar jurídico solicite su intervención;
+
+V. Rendir cuenta al Secretario General respecto de las diligencias de que conozca;
+
+VI. Dar cuenta al Secretario General de los pormenores que se presenten en las diligencias;
+
+VII. Cuidar que sean debidamente foliadas y entreselladas las fojas de los expedientes;
+
+VIII. Dictar los acuerdos que le sean encomendados, los cuales deberán contener para su validez las firmas del Presidente, Secretario General del Tribunal y su propia firma;
+
+IX. Practicar las diligencias que dentro de su ámbito de competencia le sean encomendadas por el Presidente o Secretario General, y
+
+X. Velar por la discreción debida de todos y cada uno de los expedientes que le hayan sido encomendados, así como vigilar que los auxiliares jurídicos mantengan la discreción respecto de la información contenida en cada uno de los expedientes a su cargo, caso contrario se harán acreedores a las sanciones previstas por el presente Reglamento, la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+
 ###### Artículo 15.
 
 Los Auxiliares Jurídicos tienen las facultades y obligaciones siguientes:
@@ -367,11 +439,11 @@ V. No dar a conocer el dictamen que formulen, ni el sentido del mismo a persona 
 
 Todo dictamen que no esté formulado conforme a la Ley, será regresado al Auxiliar responsable para que lo formule nuevamente conforme a Derecho, sin tomarse en cuenta el expediente para el número obligatorio que se exija a cada Dictaminador.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2012)</small>
 
 ###### Artículo 19.
 
-Los Secretarios Coordinadores de Asuntos Colectivos y de Amparo, así como los Auxiliares Jurídicos y los Dictaminadores deberán satisfacer los mismos requisitos establecidos para el cargo de Secretario General, con excepción del previsto en la fracción III del artículo 14 de este Reglamento, en cuyo caso será de un año.
+Los Secretarios, Coordinadores de Asuntos Colectivos, de Amparo, Secretario Instructor, así como los Auxiliares Jurídicos y los Dictaminadores deberán satisfacer los mismos requisitos establecidos para el cargo de Secretario General, con excepción del previsto en la fracción III del artículo 14 de este Reglamento, en cuyo caso será de un año. En el caso del Director Administrativo, se deberán cubrir los requisitos del mismo artículo 14 con excepción de lo previsto en las fracciones II y III, en caso de la fracción II deberá contar con la profesión en el área de Administración o Contabilidad y en caso de la fracción III deberá contar con un año de servicio profesional posterior a la obtención del Título.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 17], P.O. 1 DE MAYO DE 2002)</small>
 
@@ -555,7 +627,7 @@ EDUARDO BECERRA PÉREZ
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE MAYO DE 2002.
 
@@ -592,3 +664,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan a las contenidas en el presente Decreto.
 
 TERCERO. En un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, el Tribunal Estatal de Conciliación y Arbitraje expedirá los Manuales de Organización, Políticas y Procedimientos; en tanto se expidan dichos manuales seguirán vigentes los anteriores, y en su caso, el Presidente resolverá las cuestiones de procedimientos y operación que se originen con la aplicación de este ordenamiento.
+
+P.O. 25 DE ENERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
