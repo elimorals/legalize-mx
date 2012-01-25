@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-proteccion-civil-61498"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-26"
-last_updated: "2008-05-26"
+last_updated: "2012-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PROTECCION CIVIL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PROTECCION CIVIL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROTECCIÓN CIVIL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 25 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 26 de mayo de 2008.
 
@@ -610,3 +612,19 @@ LIC. FIDEL HERRERA BELTRÁN
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 25 DE ENERO DE 2012.
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Protección Civil de fecha 2 de mayo del año 2008, publicado en la Gaceta Oficial del estado el día 26 de ese mismo mes y año.
+
+Tercero. Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan a lo establecido en este reglamento.
+
+Cuarto. La Secretaría de Protección Civil, deberá emitir los Manuales de Organización, Procedimientos, Trámites y Servicios al Público, en un plazo no mayor a 180 días a partir de la publicación de este reglamento.
+
+En tanto se expiden los Manuales de Organización, Procedimientos, Trámites y Servicios al Público, el Titular de Secretaría (sic) de Protección Civil estará facultado para resolver las cuestiones que deben regular dichos Manuales.
+
+Quinto. Los asuntos que en virtud de la entrada en vigor de este reglamento deban transferirse de un área administrativa a otra, continuarán su trámite hasta su conclusión en la que se iniciaron; salvo que por su naturaleza especial deban ser resueltos por el área que los reciba, en cuyo caso les serán remitidos de inmediato.
