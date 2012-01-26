@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2011-12-30"
+last_updated: "2012-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -10394,9 +10394,9 @@ G.O. 10 DE SEPTIEMBRE DE 2009.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal para su conocimiento.
 
-> <small>(REFORMADO, G.O. 10 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2012)</small>
 
-SEGUNDO.- Las reformas previstas en el presente Decreto entraran en vigor a los sesenta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal a excepción de las relativas al Titulo Décimo Séptimo denominado "Del Juicio Oral Civil", que entrarán en vigor a partir del 27 de enero del 2012.
+SEGUNDO.- Las reformas previstas en el presente Decreto entrarán en vigor a los sesenta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal a excepción de las relativas al Titulo Décimo Séptimo denominado "Del Juicio Oral Civil", que entrarán en vigor a partir del 1 de enero de 2013.
 
 TERCERO.- Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente Decreto se tramitarán conforme a las disposiciones anteriores a ellas.
 
@@ -10467,6 +10467,12 @@ Segundo. Todos los procesos iniciados con anterioridad a la entrada en vigor a l
 Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 G.O. 30 DE DICIEMBRE DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 26 DE ENERO DE 2012.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
