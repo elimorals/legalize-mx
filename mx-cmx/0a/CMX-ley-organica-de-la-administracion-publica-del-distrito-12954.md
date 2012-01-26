@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2011-11-14"
+last_updated: "2012-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1998-12-14"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -1208,11 +1208,11 @@ XXIV. Administrar y programar las actividades de los museos, las agrupaciones mu
 
 XXV. Las demás que le confieran las leyes y otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE ENERO DE 2012)</small>
 
 ###### Artículo 33.
 
-A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal; al servicio público de carrera; a los recursos materiales y a los servicios generales; al patrimonio inmobiliario; y, en general, a la administración interna de la Administración Publica del Distrito Federal.
+A la Oficialía Mayor corresponde el despacho de las materias relativas a la administración y desarrollo de personal; a los recursos materiales y a los servicios generales; al patrimonio inmobiliario; y, en general, a la administración interna de la Administración Pública del Distrito Federal.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1246,13 +1246,19 @@ VIII. Apoyar al Jefe de Gobierno en la conducción de las entidades paraestatale
 
 IX. (DEROGADA, G.O. 10 DE NOVIEMBRE DE 2008)
 
-X. Operar la organización, funcionamiento y desarrollo del Servicio Público de Carrera y vigilar su implementación de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+
+X. Participar en la operación de los Cuerpos del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como en la instrumentación de los Sistemas y procedimientos del mismo Servicio, de conformidad con las disposiciones aplicables;
 
 XI. Expedir lineamientos generales para la selección, evaluación, certificación y promoción de los servidores públicos de la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
-XII. Definir en el marco del Servicio Público de Carrera las políticas de evaluación del desempeño, así como establecer y supervisar los mecanismos relativos a las promociones, estímulos y gratificaciones para los servidores públicos de carrera de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
 
-XIII. Establecer y controlar un sistema de transferencias con el propósito de permitir la movilidad de servidores públicos de carrera dentro de la estructura de la Administración Pública del Distrito Federal;
+XII. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como dar seguimiento a las resoluciones y los acuerdos emitidos por estos órganos;
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XIII. Expedir los nombramientos de los servidores públicos de carrera que ocupen un cargo en la estructura de la Administración Pública del Distrito Federal, como resultado de los procedimientos de ingreso, movilidad y ascenso del Servicio Público de Carrera;
 
 XIV. Proponer al Jefe de Gobierno la designación o remoción, en su caso, de quienes deban representar al Distrito Federal ante la Comisión Mixta de Escalafón, la Comisión Mixta de Higiene y Seguridad y demás comisiones que se integren, de conformidad con las disposiciones laborales aplicables;
 
@@ -1262,7 +1268,9 @@ XVI. lntervenir en la formulación de las condiciones generales de trabajo, difu
 
 XVII. Expedir los nombramientos del personal de la Administración Pública del Distrito Federal, previo acuerdo de las dependencias, órganos desconcentrados y entidades competentes;
 
-XVIII. Establecer la normatividad y las políticas de capacitación del personal de la Administración Pública del Distrito Federal, en el marco del Servicio Público de Carrera y de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XVIII. Establecer la normatividad y las políticas de capacitación del personal de la Administración Pública del Distrito Federal que no sea miembro del Servicio Público de Carrera;
 
 XIX. Establecer la normatividad correspondiente a los arrendamientos, enajenaciones y adquisiciones que realice el Distrito Federal, así como respecto de los servicios que le sean prestados e intervenir en unos y otros, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -1398,13 +1406,21 @@ XLIII. Establecer las normas y procedimientos de evaluación de las aptitudes y 
 
 XLIV. Organizar, conducir y dar seguimiento a los procesos para la evaluación del desempeño de las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
 
-XLV. Elaborar, ejecutar y dar seguimiento al programa de Contraloría Ciudadana, estableciendo las normas y procedimientos en la materia; y
+XLV. Elaborar, ejecutar y dar seguimiento al programa de Contraloría Ciudadana, estableciendo las normas y procedimientos en la materia;
 
-> <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
 
-XLVI. Las demás que les atribuyan expresamente las leyes y reglamentos.
+XLVI. Coordinar el funcionamiento y desarrollo de los Sistemas del Servicio Público de Carrera de la Administración Pública del Distrito Federal, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XLVII. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como dar seguimiento a las resoluciones y los acuerdos emitidos por estos órganos; y
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XLVIII. Las demás que les atribuyan expresamente las leyes y reglamentos.
 
 > <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
 
@@ -2265,3 +2281,9 @@ G.O. 14 DE NOVIEMBRE DE 2011.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO: Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 26 DE ENERO DE 2012.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
