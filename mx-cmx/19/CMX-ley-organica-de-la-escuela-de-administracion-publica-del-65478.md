@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-escuela-de-administracion-publica-del-65478"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-01-22"
-last_updated: "2009-01-22"
+last_updated: "2012-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65478&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-01-21"
 
 LEY ORGÁNICA DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 22 de enero de 2009.
 
@@ -132,9 +132,25 @@ XI. Recibir, organizar, clasificar, mantener en archivo y custodia y garantizar 
 
 XII. Asesorar al Jefe de Gobierno y a los titulares de las dependencias, órganos y entidades de la Administración Pública, en materia de gestión y políticas públicas y demás temas relacionados con su objeto;
 
-XIII. Realizar actividades de difusión, extensión y vinculación; y
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
 
-XIV. Las que le confieran los demás ordenamientos aplicables.
+XIII. Realizar actividades de difusión, extensión y vinculación;
+
+> <small>(REFORMADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XIV. Diseñar y aplicar los concursos del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como coordinar la formación inicial de los aspirantes reclutados;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XV. Diseñar, impartir y ejecutar los programas de profesionalización del Servicio Público de Carrera de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XVI. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Público de Carrera de la Administración Pública del Distrito Federal, así como dar seguimiento a las resoluciones y los acuerdos emitidos por estos órganos; y
+
+> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2012)</small>
+
+XVII. Las que le confieran los demás ordenamientos aplicables.
 
 ###### Artículo 5.
 
@@ -593,3 +609,11 @@ OCTAVO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor di
 Recinto de la Asamblea Legislativa del Distrito Federal, a los quince días del mes de diciembre del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. HUMBERTO MORGAN COLÓN, PRESIDENTE.- FIRMA.- DIP. DANIEL ORDÓÑEZ HERNÁNDEZ, SECRETARIO.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA, SECRETARIA.- FIRMA.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiún días del mes de enero del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 26 DE ENERO DE 2012.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
