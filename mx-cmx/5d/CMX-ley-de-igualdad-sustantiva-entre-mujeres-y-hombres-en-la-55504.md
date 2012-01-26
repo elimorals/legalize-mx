@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2011-12-22"
+last_updated: "2012-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -306,7 +306,13 @@ También se considerará discriminación por razón de sexo, cualquier represali
 
 II. La convivencia armónica y equilibrada de los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos:
 
-a) Para contribuir al reparto equilibrado de las responsabilidades familiares se promoverá el reconocimiento del derecho de los padres a un permiso por paternidad de ocho días.
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2012)</small>
+
+a) Para contribuir al reparto equilibrado de las responsabilidades familiares se promoverá el reconocimiento del derecho de los padres a un permiso por paternidad de diez días hábiles.
+
+> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2012)</small>
+
+b) En caso de adopción de un menor se promoverá el reconocimiento del derecho de los padres a un permiso de maternidad y paternidad de diez días hábiles.
 
 III. El derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual los entes públicos pondrán a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres.
 
@@ -533,3 +539,11 @@ G.O. 22 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 26 DE ENERO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Todos los entes Públicos deberán de informar el conocimiento de estos derechos.
