@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-servicio-publico-de-carrera-de-la-administracion-63496"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2008-10-08"
+last_updated: "2012-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63496&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-10-02"
 ---
 # LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-LEY DEL SERVICIO PUBLICO DE CARRERA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
+LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DEL SERVICIO PÚBLICO DE CARRERA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DEL 26 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -799,3 +801,41 @@ SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida aplicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dos días del mes de octubre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ARQ. J. ARTURO AISPURO CORONEL.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 26 DE ENERO DE 2012.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- La presente Ley entrará en vigor a los 30 días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Se abroga la Ley del Servicio Público de Carrera de la Administración Pública del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 8 de octubre de 2008.
+
+Cuarto.- La operación y el desarrollo de los Cuerpos, así como el diseño y la instrumentación de los Sistemas del Servicio deberán ser graduales. Para tal efecto, los plazos máximos, contados a partir de la entrada en vigor de la presente Ley, serán los siguientes:
+
+I. 60 días para la instalación del Consejo;
+
+II. 120 días para la aprobación del Reglamento;
+
+III. 150 días para determinar los Cuerpos Transversales que iniciarán primero su operación, así como para aprobar el Catálogo Ocupacional y el Tabulador de Compensaciones de estos Cuerpos;
+
+IV. 180 días para instalar e iniciar la operación de los Comités de los primeros Cuerpos Transversales;
+
+V. 270 días para lograr el funcionamiento pleno de los Sistemas en los primeros Cuerpos Transversales;
+
+VI. Un año para determinarlos (sic) Cuerpos Transversales y Específicos de cada Dependencia que formarán parte del Servicio; y
+
+VII. Cinco años para el funcionamiento pleno de los Sistemas en la totalidad de Cuerpos constituidos.
+
+Quinto.- Las Plazas que estén vacantes al momento de ser aprobado el Catálogo Ocupacional del Cuerpo que las incluye, deberán ser concursadas conforme a los procedimientos previstos en esta Ley y su Reglamento o, en su caso cubiertas por libre designación, siempre y cuando no superen el límite porcentual establecido en este ordenamiento.
+
+Sexto.- Los servidores públicos de confianza cuyos puestos y plazas se incluyan en el Catálogo Ocupacional de un Cuerpo deberán solicitar al Comité respectivo, a través de su Dirección o Dirección General de Administración, el ingreso al Servicio, dentro de los 30 días siguientes a la instalación de este órgano colegiado.
+
+Séptimo.- La Contraloría General, en coordinación con la Oficialía Mayor y la Escuela de Administración Pública del Distrito Federal, elaborará los estudios y diagnósticos de la Administración Pública del Distrito Federal que sirvan de base para proponer al Consejo del Servicio Público de Carrera la constitución de los primeros Cuerpos Transversales y Específicos.
+
+Octavo.- La Secretaría de Finanzas incluirá anualmente en los proyectos de presupuesto de egresos las partidas y recursos presupuestales necesarios para el cumplimiento de lo establecido en esta Ley, previendo lo necesario para el desarrollo de las funciones de la Contraloría y la de la Escuela, así como para la conformación sucesiva de Cuerpos y la implementación gradual y escalonada de los Sistemas del Servicio.
+
+Noveno.- Las Coordinaciones Generales de Modernización Administrativa y de Evaluación y Desarrollo Profesional dependientes de la Contraloría General, de conformidad con sus respectivas atribuciones y competencias, apoyarán la coordinación y operación de los Sistemas de Planeación y Evaluación del Servicio, de Ingreso, de Evaluación del Desempeño y de Desarrollo de Carrera.
+
+Decimo.- El Jefe de Gobierno, dentro de los 180 días contados a partir de la entrada en vigor de este Decreto, deberá designar a los responsables de coordinar y operar los Sistemas del Servicio Público de Carrera de la Administración Pública del Distrito Federal, quienes duraran en su cargo 4 años, a efecto de garantizar la estabilidad en la instauración e implementación de estos Sistemas, quienes durante su encargo no podrán concursar en una plaza del Servicio hasta transcurridos dos años contados desde la fecha de la terminación de su encargo.
