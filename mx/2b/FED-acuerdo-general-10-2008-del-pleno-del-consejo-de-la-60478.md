@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2008-del-pleno-del-consejo-de-la-60478"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-14"
-last_updated: "2012-01-18"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-26"
 
 ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de abril de 2008.
 
@@ -57,29 +57,47 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 29/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
-PRIMERO. CONFORMACION, UBICACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Segunda Región, conformado por cuatro tribunales colegiados de Circuito Auxiliares y ocho juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810 en San Andrés Cholula; así como dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla; su domicilio será en avenida 23 poniente número 2509, colonia Los Volcanes, código postal, 72410 en Puebla.
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Segunda Región, conformado por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810 en San Andrés Cholula; así como dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla; su domicilio será en avenida 23 poniente número 2509, colonia Los Volcanes, código postal, 72410 en Puebla.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
 Juzgado Primero de Distrito del Centro Auxiliar de la Segunda Región.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Juzgado Segundo de Distrito del Centro Auxiliar de la Segunda Región.
 
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
 Juzgado Tercero de Distrito del Centro Auxiliar de la Segunda Región.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Juzgado Cuarto de Distrito del Centro Auxiliar de la Segunda Región.
 
-Juzgado Quinto de Distrito del Centro Auxiliar de la Segunda Región.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Juzgado Sexto de Distrito del Centro Auxiliar de la Segunda Región.
 
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
 Juzgado Séptimo de Distrito del Centro Auxiliar de la Segunda Región.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Juzgado Octavo de Distrito del Centro Auxiliar de la Segunda Región.
 
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
 Juzgado Noveno de Distrito del Centro Auxiliar de la Segunda Región.
+
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Juzgado Décimo de Distrito del Centro Auxiliar de la Segunda Región.
 
@@ -192,3 +210,23 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. En tanto se aperturan nuevos órganos jurisdiccionales mercantiles especializados en juicios de cuantía menor en los restantes circuitos, los juzgados de distrito mixtos, especializados en materia civil y semiespecializados que incluyan esta materia y que actualmente conocen de los juicios mercantiles, continuarán haciéndolo con normalidad, registrando las audiencias de los juicios orales que se celebren a través de los medios electrónicos o cualquier otro idóneo a juicio del juez, de conformidad con lo dispuesto por el artículo 1390 BIS-26 del Código de Comercio.
+
+Los Juzgados de Distrito en los Estados de Puebla y Quintana Roo, no conocerán de los juicios orales, cuya competencia corresponderá a los Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, de conformidad con lo dispuesto en el presente acuerdo.
+
+TERCERO. A fin de equilibrar las cargas de trabajo que llegaren a presentarse en los órganos especializados en materia mercantil, la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida y el turno, total o parcial, de los juicios de naturaleza mercantil de cuantía semejante a la establecida para los orales, que se presenten ante los Juzgados de Distrito del Estado Quintana Roo, con sede en Cancún y los Juzgados de Distrito del Estado de Puebla, con sede en San Andrés Cholula, Puebla.
+
+CUARTO. La Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal gestionará la celebración de convenios de colaboración con instituciones públicas y privadas fin (sic) de contar con el servicio de interpretación y traducción a que se refiere el artículo 1390 BIS-3 del Código de Comercio.
+
+QUINTO. La Dirección General de Tecnologías de la Información suministrará los equipos, brindará la capacitación y asistencia técnica necesaria al personal de los órganos jurisdiccionales con competencia en juicios orales mercantiles, para la operación del sistema informático y de videograbación que registrará las audiencias que se celebren.
+
+SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+SEPTIMO. La Visitaduría Judicial en coordinación con la Dirección General de Estadística Judicial, determinarán el número y contenido de los libros de gobierno que obligatoriamente deberán llevar los nuevos órganos en materia mercantil, proponiendo para ello la reforma que corresponda al Acuerdo General 34/2000.
+
+OCTAVO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
