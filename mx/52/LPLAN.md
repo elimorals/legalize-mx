@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2011-06-20"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LPLAN"
 ---
 # LEY DE PLANEACION
 
-LEY DE PLANEACION
+LEY DE PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -70,19 +70,25 @@ II.- La preservación y el perfeccionamiento del régimen democrático, republic
 
 III.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
-IV.- El respeto irrestricto de las garantías individuales, y de las libertades y derechos sociales y políticos;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+IV.- El respeto irrestricto de las garantías individuales, y de las libertades y derechos sociales, políticos y culturales;
 
 > <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
 
 V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un desarrollo equilibrado del país, promoviendo la descentralización de la vida nacional;
 
-> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social, y
+VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
+VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+VIII.- La factibilidad cultural de las políticas públicas nacionales.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
 
@@ -90,7 +96,9 @@ VII.- La perspectiva de género, para garantizar la igualdad de oportunidades en
 
 Para los efectos de esta Ley se entiende por planeación nacional de desarrollo la ordenación racional y sistemática de acciones que, en base al ejercicio de las atribuciones del Ejecutivo Federal en materia de regulación y promoción de la actividad económica, social, política, cultural, de protección al ambiente y aprovechamiento racional de los recursos naturales, tiene como propósito la transformación de la realidad del país, de conformidad con las normas, principios y objetivos que la propia Constitución y la ley establecen.
 
-Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Mediante la planeación se fijarán objetivos, metas, estrategias y prioridades, así como criterios basados en estudios de factibilidad cultural; se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones y se evaluarán resultados.
 
 ###### Artículo 4o.
 
@@ -122,9 +130,9 @@ El Presidente de la República, al enviar a la Cámara de Diputados las iniciati
 
 Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas. Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social, en función de dichos objetivos y prioridades.
 
-> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
-Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social y ambiental, en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres.
+Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social, ambiental y cultural en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
@@ -296,9 +304,9 @@ En los asuntos relacionados con el ámbito indígena, el Ejecutivo Federal consu
 
 El Plan Nacional de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses contados a partir de la fecha en que toma posesión el Presidente de la República, y su vigencia no excederá del período constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
-El Plan Nacional de Desarrollo precisará los objetivos nacionales, estrategia y prioridades del desarrollo integral y sustentable del país contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica y social, tomando siempre en cuenta las variables ambientales que se relacionen a éstas y regirá el contenido de los programas que se generen en el sistema nacional de planeación democrática.
+El Plan Nacional de Desarrollo precisará los objetivos nacionales, estrategia y prioridades del desarrollo integral y sustentable del país, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y regional; sus previsiones se referirán al conjunto de la actividad económica, social y cultural, tomando siempre en cuenta las variables ambientales que se relacionen a éstas y regirá el contenido de los programas que se generen en el sistema nacional de planeación democrática.
 
 La categoría de Plan queda reservada al Plan Nacional de Desarrollo.
 
@@ -322,11 +330,11 @@ Los programas regionales se referirán a las regiones que se consideren priorita
 
 Artículos 26.- Los programas especiales se referirán a las prioridades del desarrollo integral del país fijados en el plan o a las actividades relacionadas con dos o más dependencias coordinadoras de sector.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 27.
 
-Para la ejecución del plan y los programas sectoriales, institucionales, regionales y especiales, las dependencias y entidades elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica, social y ambiental correspondientes. Estos programas anuales, que deberán ser congruentes entre sí, regirán, durante el año de que se trate, las actividades de la administración pública federal en su conjunto y servirán de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable.
+Para la ejecución del plan y los programas sectoriales, institucionales, regionales y especiales, las dependencias y entidades elaborarán programas anuales, que incluirán los aspectos administrativos y de política económica, social, ambiental y cultural correspondientes. Estos programas anuales, que deberán ser congruentes entre sí, regirán, durante el año de que se trate, las actividades de la administración pública federal en su conjunto y servirán de base para la integración de los anteproyectos de presupuesto anuales que las propias dependencias y entidades deberán elaborar conforme a la legislación aplicable.
 
 ###### Artículo 28.
 
@@ -418,11 +426,13 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltos por los tribunales federales.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 40.
 
-Los proyectos de Presupuesto de Egresos de la Federación y del Departamento del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social y ambiental, deberán ser congruentes con los objetivos y prioridades del plan y los programas a que se refiere esta Ley.
+Los proyectos de Presupuesto de Egresos de la Federación y del Departamento del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social, ambiental y cultural, deberán ser congruentes con los objetivos y prioridades del plan y los programas a que se refiere esta Ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
 
 El propio Ejecutivo federal y las entidades paraestatales observarán dichos objetivos y prioridades en la concertación de acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados.
 
@@ -499,3 +509,9 @@ D.O.F. 13 DE JUNIO DE 2003.
 D.O.F. 20 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los Estados deberán adecuar sus leyes de la materia conforme a lo dispuesto en este Decreto.
