@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-01-04"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,409 +21,445 @@ state: "PUE"
 ---
 # CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA - ANTES CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA -
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO Y 5 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1998.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
+> <small>N. DE E. LAS CUOTAS Y TARIFAS DE LA PRESENTE LEY, ACTUALIZADAS EN TERMINOS DE LO DISPUESTO POR EL ARTICULO 3 DE LA MISMA Y PUBLICADAS EN EL P.O. DEL 2 DE ENERO DE 1998, ESTARAN VIGENTES DEL 1o. DE ENERO HASTA EL 31 DE DICIEMBRE DE 1998.</small>
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
+Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+EL C. ROGELIO MONTEMAYOR SEGUY, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+DECRETA:
 
-EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
+NUMERO.- 191
 
-C O N S I D E R A N D O:
+LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-Que por oficio número 03722 de fecha 24 de septiembre de 1986, el Ciudadano Licenciado Guillermo Jiménez Morales Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado la Iniciativa de Decreto del CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
-
-Que para cumplir con lo que disponen los artículos 64 fracción I de la Constitución Política del Estado, 99, 105 y 141 fracción VI de la Ley Orgánica y Reglamentaria de este Poder Legislativo, se nos turnó dicha Iniciativa a la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, la que en Sesión Pública celebrada en este día, presentó su dictamen proponiendo ciertas modificaciones a la Iniciativa del Ejecutivo, que fueron aprobadas.
-
-Que estando satisfechos los requisitos de los Artículos 57 fracción I, 63 fracción I, 79 fracción VI de la Constitución Política Local, 183, 184 y 185 de la Ley Orbánica (sic) y Reglamentaria del Poder Legislativo,
-
-D E C R E T A :
-
-CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+## TITULO I
 
 # LIBRO PRIMERO.- DISPOSICIONES GENERALES
 
-### CAPITULO PRIMERO.- APLICACION DE LA LEY PENAL
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-###### Artículo 1°.
+###### ARTICULO 1.
 
-Este Código se aplicará por los delitos cometidos en territorio del Estado de Puebla y que sean de la competencia de los tribunales del fuero común.
+La presente Ley tiene por objeto regular los ingresos de la Hacienda Pública del Estado de Coahuila, por los diversos conceptos tributarios a que se refiere el Código Fiscal para el Estado de Coahuila.
 
-###### Artículo 2°.
+###### ARTICULO 2.
 
-Se aplicará también este Código por los delitos que se inicien, preparen o cometan fuera del Estado, cuando produzcan efectos en el territorio del Estado de Puebla, o se pretenda que tengan efectos en este territorio, si se reúnen las siguientes circunstancias:
+La iniciativa de Ley de Ingresos del Estado se formulará de conformidad con la Constitución Política del Estado, esta Ley y demás disposiciones aplicables, debiendo presentarse por el Gobernador Constitucional del Estado a la consideración, y en su caso, aprobación al H. Congreso del Estado a más tardar el 30 de noviembre de cada año, o hasta el 15 de diciembre en los años en que inicie su encargo.
 
-I.- Que los hechos delictuosos de que se trate tengan ese carácter tanto en el lugar en que se ejecutaron, como en el Estado de Puebla; y
+La Ley de Ingresos regirá en el curso del año para el cual se expida, pero si por cualquier circunstancia no se publicara, continuará en vigor la del año anterior, salvo los casos de excepción que establezca el Congreso.
 
-II.- Que el acusado no haya sido definitivamente juzgado por los mismos hechos en el lugar en que los cometió.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 3°.
+###### ARTICULO 3.
 
-Los delitos continuados y los permanentes se perseguirán con arreglo a las leyes del Estado de Puebla, cuando un momento cualquiera de la ejecución de aquellos delitos, se realice dentro del territorio de este Estado.
+Las cuotas y tarifas de las contribuciones que establece esta ley en cantidades determinadas, se actualizarán a partir del 1o. de enero de cada año, con el factor que resulte de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior entre el citado índice del mes de noviembre del año anterior al señalado.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+Para la actualización de las cuotas, en ningún caso podrá aplicarse un factor distinto al señalado.
 
-###### Artículo 4°.
+Cuando esta ley establezca una forma o periodo distinto específicamente para la actualización de alguna contribución, se aplicará ésta, en lugar de lo dispuesto en este artículo.
 
-Las Leyes Penales del Estado de Puebla se aplicarán a las personas infractoras de las mismas, cualquiera que sea su nacionalidad y residencia. Se es penalmente imputable a partir de los dieciocho años en el Estado de Puebla.
+## TITULO II. DE LOS IMPUESTOS
 
-###### Artículo 5°.
+###### ARTICULO 4.
 
-Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial, se aplicará ésta, observándose en lo conducente las disposiciones de aquél.
+Es objeto de este impuesto, los ingresos que se obtengan por la realización o explotación de diversiones y espectáculos públicos, dentro del territorio del Estado.
 
-#### SECCION PRIMERA.- APLICACION DE LA LEY PENAL EN EL TIEMPO
+Por diversión y espectáculo público debe entenderse, toda función de esparcimiento, sea teatral, cinematográfica, deportiva o de cualquier otra naturaleza semejante, que se verifique en teatros, calles, plazas y locales abiertos o cerrados, en donde se reúna un grupo de personas pagando por ello cierta suma de dinero.
 
-###### Artículo 6°.
+Para los efectos de este impuesto, no se consideran espectáculos públicos, los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
 
-Los delitos se juzgarán aplicando la ley vigente en el momento de cometerse.
+SUJETO
 
-###### Artículo 7°.
+###### ARTICULO 5.
 
-En los juicios de defensa social, se prohíbe imponer por analogía o por mayoría de razón, una sanción que no esté decretada por una ley exactamente aplicable al caso de que se trate.
+Son sujetos del Impuesto Sobre Espectáculos y Diversiones Públicas, las personas físicas o morales que promuevan, organicen o exploten esas actividades.
 
-###### Artículo 8°.
+BASE
 
-Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley anterior le daba, se pondrá en absoluta libertad a los acusados a quienes se esté juzgando y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho, todos los efectos que éstas y los procesos debieran producir en lo futuro, excepto la reparación del daño, cuando ésta se hubiere hecho efectiva.
+#### SECCION PRIMERA. PARA LOS AUTOMOVILES NUEVOS Y DE LOS USADOS HASTA DE DIEZ AÑOS DE FABRICACION ANTERIORES AL DEL EJERCICIO FISCAL EN CURSO
 
-###### Artículo 9°.
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Cuando entre la perpetración de un delito y la sentencia irrevocable que sobre él se pronuncie, se promulgaren leyes que disminuyan la sanción o sanciones establecidas en otra ley vigente al cometerse el delito, o las substituyan con otra menor, se aplicará la nueva ley.
+###### ARTICULO 6.
 
-###### Artículo 10.
+Servirá de base para el pago de este impuesto, los ingresos que se generen por el boleto o cuota de entrada a las diversiones o espectáculos públicos.
 
-Cuando pronunciada una sentencia irrevocable en que se hubiere impuesto una sanción corporal, se dictare una ley que, dejando subsistente la sanción señalada al delito, sólo disminuya su duración, se reducirá la sanción impuesta en la misma proporción en que estén el máximo de la señalada en la ley anterior y el de la señalada en la posterior.
+OBLIGACIONES
 
-### CAPITULO SEGUNDO.- DELITO
+###### ARTICULO 7.
 
-###### Artículo 11.
+Los sujetos de este impuesto están obligados a recabar previamente a la celebración del acto, la autorización de la Secretaría de Finanzas, debiendo presentar solicitud que contendrá, cuando menos, los siguientes datos:
 
-Delito es el acto o la omisión que sancionan las leyes de defensa social.
+I.- Nombre y domicilio de quien promueva, organice o explote la diversión o espectáculo público para el cual se solicita autorización;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+II.- Clase de diversión o espectáculo;
 
-###### Artículo 12.
+III.- Ubicación del inmueble o predio en que se va a efectuar y nombre del propietario o poseedor del mismo;
 
-Las conductas delictivas sólo pueden realizarse dolosa o culposamente.
+IV.- Hora señalada para que principien las funciones; y
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+V.- Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público.
 
-###### Artículo 13.
+Cualquier modificación a los datos comprendidos en las fracciones precedentes, deberá comunicarse por escrito a la Secretaría de Finanzas, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
 
-La conducta es dolosa, si se ejecutó con intención y coincide con los elementos del tipo penal o se previó como posible el resultado típico y se quiso o aceptó la realización del hecho descrito por la Ley.
+###### ARTICULO 8.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+Una vez concedida la autorización, los sujetos de este impuesto tienen las obligaciones siguientes:
 
-###### Artículo 14.
+I.- Presentar a la Secretaría de Finanzas, la emisión total de los boletos de entrada, cuando menos un día antes al de la realización de la actividad autorizada, a fin de que se autoricen con el sello respectivo;
 
-La conducta es culposa, si se produce el resultado típico, que no se previó siendo previsible, o previo confiando en que no se produciría, en virtud de la violación de un deber de cuidado que debía y podía observar según las circunstancias y condiciones personales.
+II.- Entregar a la misma dependencia, por duplicado y dentro del mismo término, los programas del espectáculo;
 
-###### Artículo 15.
+III.- No variar los programas y precios dados a conocer sin que se dé aviso a la Secretaría de Finanzas y se recabe nueva autorización antes de la realización de la actividad; y
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+IV.- Garantizar el interés fiscal.
 
-###### Artículo 16.
+###### ARTICULO 9.
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+Los organizadores, promotores o representantes de las empresas de espectáculos y diversiones públicas, están obligados a permitir que los inspectores comisionados por la Secretaría de Finanzas desempeñen adecuadamente sus funciones, así como a proporcionarles libros, documentos y cuantos datos requieran para definir la correcta causación del impuesto a que se refiere este Capítulo.
 
-###### Artículo 17.
+###### ARTICULO 10.
 
-Es instantáneo el delito si su consumación se agota en el mismo momento en que se realizaron todos sus elementos constitutivos.
+Las autoridades fiscales del Estado podrán suspender o clausurar cualquier diversión o espectáculo, cuando quienes los organicen o exploten se nieguen a permitir que los interventores o liquidadores vigilen la entrada, liquiden o recauden el impuesto, o cuando no se hayan observado las disposiciones precedentes.
 
-###### Artículo 18.
+TASA
 
-Es permanente o continuo el delito si su consumación se prolonga por tiempo indeterminado.
+### CAPITULO PRIMERO. DEL IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
-###### Artículo 19.
+OBJETO
 
-En el delito continuado, el hecho que lo constituye se integra con la repetición de varias conductas similares, procedentes de idéntica resolución del sujeto y con violación del mismo precepto legal.
+###### ARTICULO 11.
 
-### CAPITULO TERCERO.- TENTATIVA
+El Impuesto Sobre Diversiones y Espectáculos Públicos, se calculará y pagará aplicando a los ingresos percibidos las siguientes tasas:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+I.- Bailes, 6%
 
-###### Artículo 20.
+II.- Circos, 4%
 
-Existe tentativa, cuando usando medios eficaces e idóneos se ejecutan o exteriorizan total o parcialmente actos encaminados directa o inmediatamente a la realización de un delito, o se omiten los que deberían evitarlo, si no se consuma por causas ajenas a la voluntad del agente.
+III.- Carpas, cualquiera que
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+sea el espectáculo que
 
-Si el sujeto activo desiste espontáneamente de la ejecución o impide la consumación del delito, no se le impondrá pena alguna por lo que a éste se refiere.
+presente, 4%
 
-### CAPITULO CUARTO.- PERSONAS RESPONSABLES DE LOS DELITOS
+IV.- Cinematógrafos, 4%
 
-###### Artículo 21.
+V.- Deportivos, 6%
 
-Son responsables de la comisión de un delito:
+VI.- Taurinos y ecuestres, 6%
 
-I.- Los que toman parte en su concepción, preparación o ejecución;
+VII.- Teatrales, 4%
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+VIII.- Culturales, 6%
 
-II.- Los que inducen, compelen o instiguen a otro a cometerlo o se sirvan de otro como medio; y
+PAGO
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 12.
 
-III.- Los que por acuerdo previo, presten auxilio o cooperación de cualquier especie con posterioridad a la ejecución del delito.
+El impuesto a que se refiere este Capítulo se pagará en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, en la forma siguiente:
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Cuando varios sujetos intervengan en la comisión de un delito y no pueda precisarse su grado de participación, la penalidad que se aplicará a cada uno será entre las tres cuartas partes del mínimo y del máximo de las penas para el delito cometido, de acuerdo con la modalidad respectiva.
+I.- Tratándose de contribuyentes establecidos y registrados en el Estado, dentro de los primeros diecisiete días naturales de cada mes, mediante una declaración de los ingresos que hayan obtenido en el mes inmediato anterior o al siguiente día hábil si el último no lo fuera; y
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+II.- Cuando se trate de contribuyentes eventuales, el pago se hará por adelantado cuando se pueda determinar previamente el monto del mismo; en caso contrario, al finalizar el espectáculo o diversión, los interventores fiscales formularán la liquidación respectiva y el impuesto se pagará a más tardar al siguiente día hábil.
 
-Para los casos a que se refiere la fracción III, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+###### ARTICULO 13.
 
-###### Artículo 22.
+Es objeto de este impuesto, la transmisión de la propiedad por cualquier título, de automóviles, camiones y demás vehículos de motor, siempre que no sean nuevos y que la misma no se encuentre gravada por la Ley del Impuesto al Valor Agregado.
 
-Si varios delincuentes toman parte en la comisión de un delito determinado y alguno de ellos comete uno distinto, sin previo acuerdo con los otros, todos serán responsables del nuevo delito, salvo que concurran los requisitos siguientes:
+Cuando parte de la operación se encuentre gravada por el Impuesto al Valor Agregado, será objeto de este impuesto la parte no gravada por el impuesto señalado.
 
-I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
+SUJETO
 
-II.- Que el nuevo delito no sea una consecuencia necesaria o natural del delito principal o de los medios concertados;
+###### ARTICULO 14.
 
-III.- Que no hayan sabido antes que se iba a cometer el nuevo delito; y
+Son sujetos de este impuesto, quienes por cualquier título transmitan la propiedad de los bienes a que se refiere el artículo anterior.
 
-IV.- Que no hayan presenciado la ejecución del nuevo delito o que, en caso contrario, hayan hecho cuanto estaba de su parte para impedirlo.
+###### ARTICULO 15.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+Son solidariamente responsables del pago de este impuesto:
 
-###### Artículo 23.
+I.- Los adquirentes de los vehículos; y
 
-En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
+II.- Las personas comisionistas o físicas y morales propietarios de agencias, lotes o distribuidoras de automóviles, por los vehículos que adquieran.
 
-I.- Es garante del bien jurídico;
+BASE
 
-II.- De acuerdo con las circunstancias podía evitarlo; o
+###### ARTICULO 16.
 
-III.- Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+Es base de este impuesto, el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en los tabuladores oficiales de valores mínimos de la Secretaría de Finanzas, o de la Secretaría de Hacienda y Crédito Público, cuando sean modelos anteriores al año en curso.
 
-Para efectos de este artículo, se entiende por garante del bien jurídico quien:
+Para modelos del año en curso, será base del impuesto, el 100% del importe de la primera facturación.
 
-a) Aceptó efectivamente su custodia;
+Para vehículos cuya enajenación se encuentre parcialmente gravada por el Impuesto al Valor Agregado, la base será la cantidad no gravada en la factura correspondiente por ese impuesto.
 
-b) Voluntariamente forma parte de una comunidad que afronta peligros de la naturaleza;
+TASA
 
-c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o
+###### ARTICULO 17.
 
-d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
+La tasa correspondiente al Impuesto Sobre Enajenación de Vehículos de Motor, será el 2.5%, aplicado a la base gravable, establecida en el artículo anterior.
 
-No perderá la calidad de garante el que se comportó de manera culposa o negligente respecto al bien jurídico.
+PAGO
 
-###### Artículo 24.
+###### ARTICULO 18.
 
-La responsabilidad delictuosa no pasa de la persona y bienes del delincuente.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los quince días siguientes a la celebración de la operación, aplicando la tasa que establezca esta ley.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 19.
 
-Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas.
+Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar a la Secretaría de Finanzas, o en las instituciones de crédito autorizadas, una manifestación en las formas oficialmente aprobadas, que contenga los datos del vehículo y documentos relativos a la operación.
 
-###### Artículo 25.
+### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE ENAJENACION DE VEHICULOS DE MOTOR
 
-Cuando alguno o algunos miembros o representantes de una persona jurídica, sea una sociedad, corporación, empresa o institución de cualquier clase, cometan un delito con los medios que para tal objeto les proporcionen las mismas entidades, se aplicarán las siguientes disposiciones:
+OBJETO
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 20.
 
-I.- El Juez podrá decretar en la sentencia la suspensión, disolución, intervención, remoción de administrador o prohibición de realizar determinados negocios u operaciones de una o más personas jurídicas, cuando lo estime necesario para la seguridad pública.
+Los automóviles, camiones y demás vehículos de motor transmitidos o adquiridos, quedarán afectos preferentemente al pago del impuesto a que se refiere este artículo.
 
-II.- Lo dispuesto en la fracción anterior, se aplicará cuando el delito resulte cometido a nombre o bajo el amparo de la persona jurídica, o en beneficio de ella, e independientemente de la responsabilidad que recaiga sobre cada uno de los que tomen parte en el hecho delictuoso; y
+### CAPITULO TERCERO. DEL IMPUESTO SOBRE NOMINAS
 
-III.- Se exceptúan de lo dispuesto en este artículo las dependencias e instituciones del Estado.
+OBJETO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+###### ARTICULO 21.
 
-### CAPITULO QUINTO.- CAUSAS DE EXCLUSION DEL DELITO
+Es objeto de este impuesto, la realización de erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado de Coahuila, bajo la dirección y dependencia de un tercero, independientemente de la designación que se les otorgue.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+SUJETO
 
-###### Artículo 26.
+###### ARTICULO 22.
 
-Son causas de exclusión del delito:
+Son sujetos de este impuesto, las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+BASE
 
-I.- Que el hecho se realice sin la intervención de la voluntad del agente;
+###### ARTICULO 23.
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2000)</small>
+Es base de este impuesto, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado, los cuales comprenden: los pagos hechos en efectivo por cuota diaria, y las gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquier otra cantidad que se entregue al trabajador por sus servicios.
 
-II.- La falta de alguno de los elementos del delito.
+BASE
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+###### ARTICULO 24.
 
-III.- Actuar el inculpado con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
+La tasa correspondiente al Impuesto Sobre Nóminas, será el 1% sobre el monto total de las erogaciones gravadas por este impuesto.
 
-a) Que el bien jurídico sea disponible;
+PAGO
 
-b) Que el titular del bien tenga capacidad jurídica para disponer libremente del mismo, y
+###### ARTICULO 25.
 
-c) Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o que el hecho se realice en circunstancias tales que permitan presumir fundadamente que, de haberse consultado al titular, éste hubiese otorgado el mismo;
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se hubieren realizado las erogaciones objeto del mismo, en las formas aprobadas por la Secretaría de Finanzas.
 
-IV.- Obrar el autor en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-a).- Que el agredido provocó la agresión, dando motivo inmediato y suficiente para ella;
+### CAPITULO CUARTO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+OBJETO
 
-b) Que previó la agresión y pudo fácilmente evitarla por otros medios;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-c).- Que no hubo necesidad racional del medio empleado en la defensa; o
+###### ARTICULO 26.
 
-d).- Que el daño que iba a causar el agresor era fácilmente reparable después por los medios legales, o era notoriamente de poca importancia, comparado con el que causó la defensa.
+Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración en cada municipio en que se encuentren ubicadas las sucursales. En aquéllos casos en que no exista oficina recaudadora en el municipio de que se trate, las declaraciones podrán ser presentadas en las instituciones de crédito o establecimientos autorizados más cercanos al domicilio del contribuyente.
 
-Se presumirá que concurren los requisitos de la legítima defensa respecto de aquél que, en el momento mismo de estarse verificando una invasión por escalamiento o fractura de los cercados, paredes o entradas de su casa, o departamento que habite o de sus dependencias, la rechazare, cualquiera que sea el daño que cause al invasor.
+###### ARTICULO 27.
 
-Igual presunción favorecerá al que dañare a un extraño a quien encontrare en el interior de su hogar o de la casa en donde se encuentre su familia, aunque no sea su hogar habitual; o en un hogar ajeno que tenga obligación de defender o en el local donde tenga sus bienes o donde se encuentren bienes ajenos que esté legalmente obligado a defender, si la presencia del extraño revela evidentemente una agresión.
+Los contribuyentes podrán optar por pagar en la declaración del mes de enero el impuesto correspondiente a todo el ejercicio fiscal, siempre y cuando, el monto de lo pagado en el ejercicio anterior, no exceda de la cantidad que anualmente determine el Congreso del Estado mediante disposiciones de vigencia anual.
 
-V.- La necesidad en que se vea el infractor de salvar su propia persona o sus bienes, o la persona o bienes de otro, de un peligro real, grave e inminente, si no existe otro medio practicable y menos perjudicial y no se tenga el deber jurídico de afrontar ese peligro, o éste no haya sido buscado o provocado por el infractor o por la persona a la que trata de salvar;
+###### ARTICULO 28.
 
-VI.- Obrar en el cumplimiento de un deber legal o en el ejercicio de un derecho establecido en la ley;
+Los contribuyentes que tengan derecho y se acojan a la opción establecida en el artículo anterior, deberán presentar la declaración del mes de enero asentando en la parte superior derecha la siguiente leyenda "SE OPTA POR PAGO ANUAL", quedando relevados de la obligación de presentar las declaraciones por los meses de febrero a noviembre, pero estarán obligados a presentar la declaración correspondiente al mes de diciembre, en la que liquidarán en forma definitiva el impuesto anual a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+### CAPITULO QUINTO. IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
-VII.- Que al momento de realizar el hecho típico, el agente no tenga la capacidad para comprender el carácter ilícito de aquél o para conducirse de acuerdo con esa comprensión, en virtud de intervenir alguna de las condiciones siguientes:
+OBJETO
 
-a) Por circunstancias particulares del ofendido, si el acusado las ignoraba sin culpa al tiempo de obrar, o
+(REUBICADO [N. DE E. ANTES ARTICULO 36], P.O. 24 DE DICIEMBRE DE 1996)
 
-b) Por padecer el agente trastorno mental o desarrollo intelectual retardado, a no ser que él mismo hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuere previsible.
+###### ARTICULO 29.
 
-Cuando la capacidad a que se refiere este inciso anterior sólo se encuentre considerablemente disminuida, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
+Los contribuyentes que se acojan a la opción señalada en el artículo 27 de esta ley, gozarán de un estímulo fiscal consistente en una reducción parcial del impuesto a su cargo, en el porcentaje que establezca el Congreso del Estado mediante las disposiciones de vigencia anual, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en esta ley.
 
-VIII.- Obedecer a un superior legítimo en el orden jerárquico, aun cuando su mandato constituya un delito, si esta circunstancia no es notoria ni se prueba que el agente la conocía;
+EXENCIONES
 
-IX.- Infringir una ley penal dejando de hacer lo que ella manda, por un impedimento legítimo; y
+###### ARTICULO 30.
 
-X.- Causar un daño por mero accidente, sin intención ni imprudencia alguna, ejecutando un hecho lícito con todas las precauciones debidas.
+Están exentas del pago de este impuesto:
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
+I.- Las erogaciones que se cubran por concepto de:
 
-XI.- Realizar la acción o la omisión bajo un error invencible:
+1. Indemnizaciones derivadas de la rescisión o terminación de las relaciones de trabajo;
 
-a) Sobre alguno de los elementos esenciales que integran el tipo penal; o,
+2. Indemnizaciones por riesgos de trabajo, que se concedan de acuerdo a las leyes o contratos respectivos;
 
-b) Respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la Ley o el alcance de la misma, o porque crea que está justificada su conducta.
+3. Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía o muerte;
 
-Si el error es vencible se sancionará conforme a lo dispuesto en el artículo 99 bis de este Código.
+4. Los instrumentos de trabajo, tales como herramientas, ropa y otros similares;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+5. El ahorro, cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales o sindicales;
 
-XII.- Que atendiendo a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto activo una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho.
+Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y al Instituto Mexicano del Seguro Social;
 
-###### Artículo 27.
+6. Las participaciones de los trabajadores en las utilidades de las empresas;
 
-Quien se exceda de la legítima defensa por intervenir las circunstancias "c" y "d" de la fracción IV del artículo anterior, será sancionado por imprudencia delictiva, teniendo en cuenta para determinar si hubo exceso en la defensa, los hechos siguientes:
+7. Los premios por asistencia;
 
-I.- El hecho material;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-II.- El grado de agitación y sobresalto del agredido;
+8. Los premios por asistencia y puntualidad, siempre que el importe de cada uno de los conceptos no rebase el diez por ciento del salario base;
 
-III.- La hora y lugar de la agresión;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-IV.- La edad, sexo, constitución física y demás circunstancias del agresor y del agredido; y
+9. Los pagos por tiempo extraordinario, cuando no rebase las tres horas diarias ni tres veces por semana de trabajo, ni cuando este tipo de servicios esté pactado en forma de tiempo fijo;
 
-V.- Las armas empleadas en el ataque y la defensa.
+10. La alimentación y habitación, cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La misma sanción se impondrá al que se exceda en los casos de estado de necesidad, cumplimiento de un deber o ejercicio de un derecho, a que se refieren las fracciones V y VI del artículo 26.
+11. La alimentación y habitación, cuando se entreguen en forma onerosa a trabajadores; se entiende que son onerosas estas prestaciones cuando representen cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario de la zona; así como las despensas en especie o en dinero, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general diario de la zona;
 
-###### Artículo 28.
+12. Contraprestaciones cubiertas a trabajadores domésticos.
 
-Las causas excluyentes de responsabilidad delictiva, se estimarán de oficio tan pronto como aparezcan comprobadas.
+II.- Las erogaciones que efectúen:
 
-### CAPITULO SEXTO.- CONCURSO DE DELITOS
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 29.
+1. La Federación, el Estado y los municipios. Los organismos descentralizados, fideicomisos y demás entidades de éstos, deberán pagar el impuesto a su cargo;
 
-Existe concurso real o material, cuando una misma persona es juzgada a la vez por varios delitos que ejecutó en actos distintos, si no se ha pronunciado sentencia irrevocable y la acción para perseguirlos no está prescrita.
+2. Instituciones sin fines de lucro, que promuevan o realicen asistencia social, actividades deportivas, culturales o sociales;
 
-###### Artículo 30.
+3. Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones o asociaciones, agrupaciones de profesionistas en institutos, colegios o asociaciones sin fines de lucro;
 
-Hay concurso ideal o formal cuando con un solo acto u omisión se violan varias disposiciones penales, que señalen sanciones diversas.
+4. Partidos y asociaciones políticas constituidos conforme a la ley de la materia;
 
-### CAPITULO SEPTIMO.- REINCIDENCIA Y HABITUALIDAD
+5. Instituciones educativas públicas y privadas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+6. Ejidos y comunidades;
 
-###### Artículo 31.
+7. Uniones de ejidos y comunidades;
 
-Hay reincidencia cuando el condenado por sentencia ejecutoriada de cualquier Tribunal mexicano o extranjero cometa un nuevo delito, ya sea culposo o intencional.
+8. La empresa social, constituida por avecindados e hijos de ejidatarios con derechos a salvo;
 
-I. (DEROGADA, P.O. 1 DE JULIO DE 1994)
+9. Las asociaciones rurales de interés colectivo; y
 
-II. (DEROGADA, P.O. 1 DE JULIO DE 1994)
+10. La unidad agrícola industrial de la mujer campesina.
 
-III. (DEROGADA, P.O. 1 DE JULIO DE 1994)
+### CAPITULO SEXTO. DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
-IV. (DEROGADA, P.O. 1 DE JULIO DE 1994)
+OBJETO
 
-###### Artículo 32.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La sanción impuesta, o sufrida en el extranjero o en otro Estado de la República Mexicana, se tendrá en cuenta, en la reincidencia, si proviene de un delito que tenga tal carácter, según las leyes del Estado de Puebla.
+###### ARTICULO 31.
 
-###### Artículo 33.
+Es objeto de este impuesto, la tenencia o uso de vehículos a que se refiere este Capítulo.
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+SUJETO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 34.
+###### ARTICULO 32.
 
-No se considerará reincidencia cuando el primer delito sea doloso y el segundo culposo y viceversa.
+Están obligados al pago de este impuesto, las personas físicas o morales, tenedoras o usuarias de los vehículos a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que el año modelo del vehículo, es el de fabricación o ejercicio automotriz, en su caso.
 
-###### Artículo 35.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Si el reincidente en el mismo género de infracciones, comete un nuevo delito originado por la misma inclinación viciosa, será considerado como delincuente habitual.
+###### ARTICULO 33.
 
-###### Artículo 36.
+Para efectos de este impuesto, se entiende por:
 
-En las prevenciones de los artículos anteriores, se comprenden los casos en que uno solo de los delitos o todos hayan quedado en la esfera de la tentativa delictuosa.
+1.- Vehículo nuevo:
 
-### CAPITULO OCTAVO.- SANCIONES Y MEDIDAS DE SEGURIDAD
+a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador o distribuidor.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
+b).- El importado definitivamente al país que corresponda al año modelo posterior al del ejercicio fiscal en curso, al año modelo en que se efectúe la importación, o a los diez años modelos inmediatos anteriores al año de la importación definitiva; y
 
-###### Artículo 37.
+II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador o distribuidor al consumidor, incluyendo el equipo opcional común o de lujo, el impuesto al valor agregado y las demás contribuciones que se deban cubrir por la enajenación o importación, sin disminuir el monto de descuentos, rebajas o bonificaciones.
 
-Las sanciones son las siguientes:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-I.- Amonestación;
+###### ARTICULO 34.
 
-II.- Prisión;
+Para los efectos de este impuesto se considera como:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+I.- Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
 
-III.- Sanción pecuniaria, que comprende la multa y la reparación del daño;
+II.- Año modelo, el año de fabricación o ejercicio automotriz en su caso, comprendido por el período entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
 
-IV.- Decomiso, pérdida de los instrumentos del delito y destrucción de cosas peligrosas y nocivas;
+III.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos;
 
-V.- (DEROGADO, P.O. 4 DE ENERO DE 2012)
+IV.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo; y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+V.- Línea:
 
-VI.- Trabajo a favor de la comunidad;
+a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros;
 
-VII.- Sanción privativa de derechos, que comprende la suspensión de derechos civiles o políticos, y la destitución, inhabilitación o suspensión para el desempeño de funciones, empleos, cargos, comisiones, profesiones, artes u oficios;
+c).- Automóviles con motor diesel;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+d).- Camiones con motor de gasolina, gas o diesel;
 
-VIII.- Suspensión, disolución, intervención, remoción de administrador o prohibición de realizar determinados negocios u operaciones de personas jurídicas:
+e).- Tractores no agrícolas tipo quinta rueda;
 
-IX.- Publicación especial de sentencia; y
+f).- Autobuses integrales;
 
-X.- Las demás que fijen las leyes.
+g).- Ómnibuses, microbuses, minibuses; y
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+h).- Automóviles eléctricos.
+
+PAGO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 35.
+
+La Federación, el Estado y sus Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 36.
+
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, mediante declaración, que deberá presentarse dentro de los tres primeros meses de cada año en las formas aprobadas por la Secretaría de Finanzas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los quince días siguientes a aquél en que se adquirió o importó el vehículo. Se considerará que la adquisición se realiza en el momento en que se entregue el bien al adquirente.
+
+Los contribuyentes de este impuesto no están obligados a presentar por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto a más tardar dentro de los quince días siguientes a la fecha en que se asigne.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al año de calendario en curso, se pagará el impuesto correspondiente al año de calendario en que se enajene.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer trimestre del año de calendario, el impuesto causado por dicho año se pagará en las siguientes proporciones:
+
+I.- El 75% cuando la enajenación o importación se efectúa dentro del segundo trimestre del año;
+
+II.- El 50%, cuando la enajenación o importación se efectúa dentro del tercer trimestre del año; y
+
+III.- El 25%, cuando la enajenación o importación se efectúa dentro del cuarto trimestre del año.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO SEPTIMO. DEL IMPUESTO SOBRE INGRESOS POR PREMIOS DERIVADOS DE LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS
+
+OBJETO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 37.
+
+Las autoridades competentes no autorizarán registros de vehículos, matrículas, altas o bajas, cambio de placas o efectuarán la renovación de los mismos, si el tenedor o usuario del vehículo no comprueba el pago del impuesto o, en su caso, acredita que se encuentra liberado de esta obligación.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 37 Bis.
 
@@ -443,71 +479,253 @@ IV.- Cuando se trate de delitos que impliquen violencia contra las mujeres, la a
 
 El Ministerio Público o la autoridad judicial podrán determinar, conforme a este Código, la internación de enfermos mentales.
 
-###### Artículo 38.
+###### ARTICULO 38.
 
-Las autoridades judiciales en las sentencias definitivas que dicten, acordarán las medidas que juzguen adecuadas, para el debido cumplimiento de las sanciones impuestas.
+Son responsables solidarios del pago del Impuesto:
 
-### CAPITULO NOVENO.- AMONESTACION
+I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de este impuesto;
 
-###### Artículo 39.
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera;
 
-La amonestación consiste en la advertencia que el Juez dirige al infractor, haciéndole ver las consecuencias del delito que cometió, excitándolo a la enmienda y previniéndole que se le impondrá una sanción mayor si reincidiere.
+III.- Las autoridades federales, estatales o municipales competentes, que autoricen el registro de vehículos, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que se haya pagado el impuesto; y
 
-###### Artículo 40.
+IV.- Los funcionarios o empleados públicos que en ejercicio de sus funciones, autoricen la expedición de placas, tarjeta de circulación o calcomanía, sin cerciorarse del pago del impuesto.
 
-La amonestación se hará en público o en privado, a juicio del funcionario que deba hacerla.
+Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-### CAPITULO DECIMO.- PRISION
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+### CAPITULO PRIMERO. POR SERVICIOS DE LA SECRETARIA DE GOBIERNO
 
-###### Artículo 41.
+###### ARTICULO 39.
 
-La sanción consistente en la privación de la libertad corporal será de tres días a setenta años. Sólo en los casos en que la ley expresamente lo autorice, se podrá imponer prisión vitalicia. Se compurgará de preferencia, en el Centro de Readaptación Social de la Zona a la que corresponda el Distrito Judicial donde se dictó sentencia, sin embargo el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los Centros de Reclusión del Estado o bien en un Federal de acuerdo con los convenios celebrados a este respecto.
+La determinación del impuesto a pagar se realizará conforme a lo dispuesto en las Secciones de este Capítulo que conforme a las características de cada vehículo le sea aplicable.
 
-###### Artículo 42.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Las mujeres condenadas a prisión cumplirán ésta en un local destinado exclusivamente a tal objeto, o si no lo hubiere, en un departamento separado del de hombres y sin comunicación con éste.
+###### ARTICULO 40.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 1994)</small>
+Tratándose de automóviles, ómnibuses, autobuses integrales, minibuses, microbuses, camiones y tractores no agrícolas tipo quinta rueda, nuevos, el impuesto se calculará como a continuación se indica:
 
-### CAPITULO UNDECIMO.- SANCION PECUNIARIA
+I.- En el caso de vehículos nuevos, destinados al transporte hasta de diez pasajeros, el impuesto será la cantidad que resulte de aplicar el valor total del vehículo, la tasa que corresponda conforme a la siguiente:
 
-###### Artículo 43.
+TABLA
 
-La multa se impondrá a razón de días de salario.
+Categoría Valor Total en Miles de pesos Tasa
 
-###### Artículo 44.
+"A" Hasta de 281 2.6%
 
-El salario base para calcular el importe de la multa, será el mínimo vigente, en el momento de consumar el delito y en el lugar en que se cometa éste.
+"B" De más de 281 a 620 6.5%
 
-###### Artículo 45.
+"C" De más de 620 a 1,000 8.5%
 
-Tratándose del delito continuado, se tomará como base el salario mínimo vigente en el momento de consumarse la última conducta.
+"D" De más de 1,000 en adelante 10.4%
 
-###### Artículo 46.
+Los montos de las cantidades establecidas en la tabla a que se refiere esta fracción, se actualizarán en los meses de enero y julio con el factor correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. La Secretaría de Finanzas publicará el factor de actualización en el Periódico Oficial del Gobierno del Estado, dentro de los primeros días de enero, mayo y septiembre de cada año; y
 
-En el delito continuo o permanente se considerará el salario mínimo que rija en el momento de cesar la consumación de aquél.
+II.- Para vehículos nuevos destinados al transporte de más de 10 pasajeros o efectos cuyo peso vehicular sea menor a 15 toneladas, el impuesto será la cantidad que resulte de aplicar el 0.49% al valor total del vehículo. Cuando el peso vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 1% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
 
-###### Artículo 47.
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabinas, carrocería, equipo y carga útil transportable.
 
-Cuando la ley fije solamente el máximo de una multa, el mínimo de esa sanción es el importe de un día de salario.
+Para los efectos de este artículo, se entiende por automóviles destinados a transporte de más de 10 pasajeros o para el transporte de efectos, los camiones, vehículos Pick up sin importar el peso vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo, peso y capacidad de carga.
 
-###### Artículo 48.
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La multa que se impusiera como sanción es independiente de la responsabilidad civil.
+### CAPITULO SEGUNDO. POR SERVICIOS DE LA SECRETARIA DE FINANZAS
 
-###### Artículo 49.
+###### ARTICULO 41.
 
-Cuando varias personas cometan un delito, el Juez fijará la multa para cada uno de los delincuentes.
+Tratándose de automóviles eléctricos nuevos, el impuesto será la cantidad que resulte de multiplicar el valor total del automóvil por 0.16%.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+Para los efectos de este artículo, el impuesto para automóviles eléctricos únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación.
 
-###### Artículo 50.
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La multa impuesta se hará efectiva por las oficinas fiscales que ejercen la facultad económico coactiva, sin que el condenado pueda discutir nuevamente su procedencia e ingresará al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos.
+###### ARTICULO 42.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+Para los efectos de esta Sección, no se pagará el impuesto por la tenencia o uso de los siguientes vehículos:
+
+I.- Los eléctricos utilizados para el transporte público de personas;
+
+II.- Los importados temporalmente en los términos de la legislación aduanera;
+
+III.- Los que sean de propiedad de inmigrantes o inmigrados, rentistas;
+
+IV.- Los vehículos de la Federación, del Estado y sus Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
+
+V.- Los automóviles, que estén exclusivamente al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus funcionarios debidamente acreditados ante nuestro país, excepto los cónsules generales honorarios y cónsules y vicecónsules honorarios; y
+
+VI.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este artículo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas del Gobierno del Estado que se encuentran comprendidos en dichos supuestos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO TERCERO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 43.
+
+Tratándose de vehículos usados de fabricación nacional o importados, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste. Dicho factor será el que resulte de multiplicar el factor de actualización por el factor que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo a la siguiente:
+
+TABLA
+
+Años de antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El factor de actualización a que se refiere este artículo, será el que se obtenga conforme al artículo 3 de esta ley.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 44.
+
+Los fabricantes y distribuidores autorizados, así como las empresas comerciales que cuenten con registro ante la Secretaría de Comercio y Fomento Industrial como empresa comercial para importar autos usados, tendrán la obligación de proporcionar a la Secretaría de Finanzas, a más tardar el día diecisiete de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere esta fracción, haciendo la separación por cada uno de los establecimientos.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 45.
+
+Para los vehículos de más diez años de fabricación anteriores al ejercicio fiscal en curso, el impuesto se pagará conforme a la siguiente:
+
+TARIFA
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+I.- Motocicletas $35.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+II.- Automóviles y Camionetas $88.00
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+III.- Minibuses, microbuses, camiones
+
+de carga, autobuses integrales y
+
+ómnibuses $106.00 y
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+IV.- Remolques $71.00
+
+Para el caso de vehículos modelo de más de 15 años de fabricación anteriores al ejercicio fiscal en curso, pagarán la tarifa que les corresponda conforme a este artículo reducida en un 50%.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 46.
+
+Los montos de las tarifas a que se refiere el artículo anterior, se actualizarán en el mes de enero de cada año aplicando el factor que corresponda conforme al artículo 3 de esta ley.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 47.
+
+Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón y por la cantidad de $7,877.00 para aeronaves de reacción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+## TRANSITORIOS
+
+###### ARTICULO 48.
+
+Tratándose de embarcaciones nuevas el impuesto se calculará conforme a lo siguiente:
+
+I.- Veleros.
+
+a).- A la longitud de eslora expresada en metros se le restarán cuatro metros; el resultado se multiplicará por sí mismo.
+
+b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad de $230.00, el producto será el impuesto a pagar;
+
+II.- Esquí acuático motorizado, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad de $520.00; y
+
+III.- Embarcaciones distintas a las anteriores.
+
+a).- La cantidad que se obtenga de restar en 0.2 el factor que corresponda. El resultado se multiplicará por sí mismo. El factor a que se refiere este inciso, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
+
+b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la cantidad de $1,039.00, el producto será el impuesto a pagar.
+
+Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $66.00, ni superior a $66,000.00, salvo que tratándose de la fracción III, el factor sea igual o mayor a 0.2.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 49.
+
+Tratándose de motocicletas nuevas, el impuesto se calculará conforme a lo siguiente:
+
+I.- La cantidad que se obtenga de dividir la cilindrada en centímetros cúbicos entre mil y el cociente obtenido se multiplicará por sí mismo; y
+
+II.- La cantidad obtenida conforme a la fracción anterior se multiplicará por la cantidad de $1,806.00, el producto será el impuesto a pagar.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 50.
+
+Tratándose de los vehículos a que se refieren los artículos 47 y 48 de más de diez años de fabricación anteriores al del ejercicio fiscal en curso, el impuesto se pagará conforme a la siguiente:
+
+TARIFA
+
+TIPO DE VEHICULOS CUOTA
+
+Aeronaves:
+
+Hélice $ 448.00
+
+Turbohélice 2,480.00
+
+Reacción 3,583.00
+
+Helicópteros 551.00
+
+Veleros 69.00
+
+Embarcaciones:
+
+Con factor fiscal de hasta 0.5000 14.00
+
+De 0.5001 a 1.0000 42.00
+
+De 1.0001 a 2.0000 84.00
+
+De 2.0001 a 3.0000 123.00
+
+De 3.0001 a 5.0000 165.00
+
+De 5.0001 a 10.0000 276.00
+
+De 10.0001 a 20.0000 414.00
+
+De 20.0001 a 30.0000 827.00
+
+De 30.0001 a 40.0000 1,241.00
+
+De 40.0001 a 60.0000 1,653.00
+
+De 60.0001 a 100.0000 2,204.00
+
+De 100.0001 en adelante 3,032.00
+
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 50 Bis.
 
@@ -515,23 +733,11 @@ La reparación del daño a cargo del sentenciado, tiene carácter de pena públi
 
 > <small>(REFORMADO P.O. 4 DE ENERO DE 2012)</small>
 
-###### Artículo 51.
+###### ARTICULO 51.
 
-La reparación del daño según la naturaleza del delito de que se trate y, en los casos en que sea procedente, comprende:
+Para los efectos de lo dispuesto en esta Sección, las cantidades que se señalan se actualizarán en el mes de enero de cada año aplicando el factor que corresponda conforme al artículo 3 de esta ley.
 
-I.- El restablecimiento de las cosas al estado en que se encontraban antes de cometerse el delito;
-
-II.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesorios y, si no fuese posible, el pago de su valor actualizado. Si se trata de bienes fungibles, el Juez, sin necesidad de recurrir a prueba pericial, podrá condenar a la entrega de un objeto igual al que fuese materia del delito;
-
-III.- La reparación del daño material y moral sufrido; y
-
-IV.- El resarcimiento de los perjuicios ocasionados.
-
-Tienen derecho a la reparación del daño, la víctima o el ofendido, sus herederos y las víctimas indirectas.
-
-Cuando sean varios los ofendidos y no resulte posible satisfacer los derechos de todos, se cubrirán proporcionalmente los daños.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 51 Bis.
 
@@ -577,17 +783,13 @@ En los delitos cometidos por servidores públicos a que se refiere el Capítulo 
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
-### CAPITULO DUODECIMO.- REGLAS DEL ASEGURAMIENTO DE BIENES, ENAJENACIÓN DE BIENES ABANDONADOS, DECOMISO, PÉRDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCIÓN DE COSAS PELIGROSAS O NOCIVAS
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 52.
 
-###### Artículo 52.
+Tratándose de vehículos usados de fabricación nacional o importados, el impuesto se calculará conforme a lo dispuesto por el artículo 43 de esta ley.
 
-Los instrumentos, objetos o productos del delito, así como los bienes en que existan huellas o pudieran tener relación con éste, serán asegurados a fin de que no se alteren, destruyan o desaparezcan. El Ministerio Público, las policías y los peritos, durante la investigación y en cualquier etapa del proceso penal. deberán seguir las reglas referidas en los artículos 65 Bis a 65 Sexies del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla.
-
-Los servidores públicos que actúan en auxilio del Ministerio Público, pondrán inmediatamente a disposición de éste los bienes a que se refiere el párrafo anterior. El Misterio Público, al momento de recibir los bienes, resolverá sobre su aseguramiento y sobre la continuidad o no del procedimiento al que se refieren los artículos 65 Bis a 65 Sexies del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, bajo su más estricta responsabilidad y conforme a las disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 52 Bis.
 
@@ -613,23 +815,23 @@ En dicha notificación se apercibirá al interesado o a su representante legal p
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
 
-###### Artículo 53.
+###### ARTICULO 53.
 
-Si los bienes que sean instrumento, objeto o producto del delito, fueren de uso lícito, se decomisarán:
+Para los efectos de esta Sección, no se pagará el impuesto por el uso o la tenencia de los siguientes vehículos:
 
-I.- Cuando sean de la propiedad del acusado y éste fuere condenado; y
+I.- Los importados temporalmente en los términos de la ley Aduanera, salvo las aeronaves y embarcaciones que presten servicios turísticos con fines comerciales, conforme se establece en dicha ley;
 
-II.- Cuando perteneciendo a otra persona, los haya empleado el acusado para fines delictuosos con conocimiento del dueño.
+II.- Los vehículos de la Federación, del Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+III.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidores y los comerciantes del ramo de vehículos;
 
-Cuando los instrumentos, objetos o productos del delito deriven de la comisión de cualquiera de los delitos previstos en los artículos 453 a 457 de este Código, se decomisarán los bienes del inculpado hasta por un valor equivalente a los primeros cuando aquéllos se hayan perdido, consumido o extinguido, no sea posible localizarlos o constituyan garantías de créditos preferentes.
+IV.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+V.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
 
-En los casos a que se refiere el párrafo anterior, se podrá decretar el aseguramiento de bienes propiedad del o los indiciados, así como de aquéllos respecto de los cuales se conduzca como dueño.
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trate.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 53 Bis.
 
@@ -637,23 +839,29 @@ El aseguramiento de los objetos, bienes o valores que sean de uso lícito y no e
 
 En el caso de que dichos objetos o bienes no se puedan conservar o sean de costoso mantenimiento, el titular de la autoridad investigadora procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo, por un lapso de treinta días, notificándole en términos de lo establecido en el párrafo que antecede; transcurrido el plazo, si no hubiese sido reclamado, se aplicará al Fondo para el Mejoramiento de la Procuración de Justicia.
 
-###### Artículo 54.
+###### ARTICULO 54.
 
-En los delitos de imprudencia solamente se decomisarán los objetos que sean de uso prohibido.
+Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el usuario o tenedor del vehículo no compruebe el pago de este impuesto, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales del Estado.
 
-###### Artículo 55.
+###### ARTICULO 55.
 
-Si los objetos de uso prohibido sólo sirvieren para delinquir, se destruirán al ejecutarse la sentencia irrevocable, asentándose en el proceso razón de haberse hecho así.
+Es objeto de este impuesto, la prestación de servicios de hospedaje, campamentos y de tiempo compartido, en el territorio del Estado. Para los efectos de este impuesto sólo se considerará el albergue, sin incluir los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+Se consideran servicios de hospedaje, el acto por el cual se concede a una persona el uso, goce y demás derechos que se adquieran sobre un bien o parte del mismo, otorgados en establecimientos de hospedaje durante un período determinado.
 
-###### Artículo 56.
+Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas y construcciones en las que se proporcione el servicio de alojamiento, complejos turísticos y demás establecimientos de naturaleza análoga.
 
-Las autoridades competentes procederán al aseguramiento de los bienes que pudieran ser materia del decomiso, durante la averiguación o en el proceso.
+SUJETO
 
-Si los instrumentos o cosas decomisadas son substancias nocivas o peligrosas se destruirán a juicio de la autoridad que esté conociendo, la que de estimarlo conveniente, podrá determinar su conservación para fines de docencia o investigación.
+(REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+###### ARTICULO 56.
+
+Son sujetos de este impuesto las personas físicas y morales, que presten los servicios a que se refiere el artículo anterior.
+
+BASE
+
+(REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### Artículo 56 Bis.
 
@@ -727,41 +935,47 @@ Previo a la recepción de los bienes por parte del interesado, se dará oportuni
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
 
-### CAPITULO DECIMO TERCERO.- INTERNACIÓN DE ENFERMOS MENTALES Y TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
+### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION PUBLICA
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-###### Artículo 57.
+###### ARTICULO 57.
 
-Los enfermos mentales, que hayan realizado hechos o incurrido en omisiones tipificadas como delitos, serán internados en casas de salud especializadas para su tratamiento.
+Es base de este impuesto el monto total de los ingresos que perciban las personas físicas o morales por los servicios de hospedaje que presten. Para los efectos de este impuesto sólo se considerarán los ingresos que se obtengan por el albergue, sin incluir los obtenidos por alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+TASA
 
-###### Artículo 58.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La autoridad judicial procederá en la forma ordenada por el artículo anterior cuando, puestos a su disposición, se declare que los inculpados son enfermos mentales.
+###### ARTICULO 58.
 
-El Ministerio Público podrá actuar de la misma forma, si los inculpados están a su disposición y se dictamina su enajenación mental, de manera tal que haga improcedente que se ejercite acción penal.
+El impuesto por servicios de hospedaje se causará con la tasa del 3% aplicado sobre la base gravable establecida en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+PAGO
 
-###### Artículo 59.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 40], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La internación a que se refieren los dos artículos anteriores, podrá ser modificada o revocada por el juez conforme a la evolución del enfermo mental, con base en los dictámenes de los médicos legistas.
+###### ARTICULO 59.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+Los contribuyentes trasladarán en forma expresa y por separado el impuesto a las personas que reciban los servicios.
 
-###### Artículo 60.
+Se entenderá por traslado del impuesto el cobro o cargo que los contribuyentes deben hacer a dichas personas por un monto equivalente al impuesto establecido en este Capítulo.
 
-Si un enfermo mental, a los que se refiere el artículo 58, sana, será reingresado al Reclusorio para que se continúe el proceso, computándole el tiempo de detención en la casa de internación.
+(REUBICADO [N. DE E. ANTES ARTICULO 41], P.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+###### ARTICULO 60.
 
-###### Artículo 61.
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
 
-La Autoridad Judicial o Ministerial podrá entregar a los enfermos mentales a que se refieren los artículos 57 y 58, a quienes legalmente corresponda hacerse cargo de ellos, adquiriendo éstos la responsabilidad ante terceros por los daños que causen, así como la obligación de tratarlos y vigilarlos.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 61.
+
+Es objeto de este impuesto, la enajenación de automóviles nuevos de producción nacional y la importación definitiva de los automóviles que se indican.
+
+SUJETO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 61 Bis.
 
@@ -773,25 +987,17 @@ CAPITULO DECIMOCUARTO.- TRABAJO A FAVOR DE LA COMUNIDAD
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-###### Artículo 62.
+###### ARTICULO 62.
 
-El trabajo a favor de la comunidad consiste en la prestación de un servicio no remunerado, en instituciones públicas de educación, asistencia o servicio social, o en instituciones privadas asistenciales y no lucrativas, ubicadas preferentemente en la comunidad del sentenciado, y se rige por las siguientes disposiciones:
+Están obligados al pago de este impuesto, las personas físicas y las morales que realicen los actos siguientes:
 
-I.- Deberá computarse por jornada, fijada por el Juez conforme a las circunstancias del caso, sin que exceda del límite legal de una jornada ordinaria y dentro de horarios diferentes a los requeridos para las labores que representen la fuente principal de subsistencia del sentenciado y de sus acreedores alimentarios;
+I.- Enajenen automóviles nuevos de producción nacional. Se entiende por automóvil nuevo el que se enajena por primera vez al consumidor por el fabricante, ensamblador o por el distribuidor autorizado; y
 
-II.- El señalamiento del trabajo se hará tomando en cuenta las necesidades de la defensa social y la vocación, aptitudes y posibilidades del sentenciado;
+II.- Importen en definitiva al país automóviles. Los automóviles a que se refiere esta fracción son los que corresponden al año modelo posterior al ejercicio fiscal en curso, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
 
-III.- Tratándose de persona perteneciente a una comunidad étnica indígena, el Juez tomará en cuenta los usos y costumbres de la comunidad correspondiente;
+BASE
 
-IV.- Esta sanción tendrá el carácter de libertad en tratamiento y por lo tanto no deberá desarrollarse en condiciones humillantes para el sentenciado;
-
-V.- Cada día de prisión será sustituido por cuatro horas de trabajo a favor de la comunidad;
-
-VI.- El Ejecutivo establecerá los programas para la aplicación y supervisión del trabajo a favor de la comunidad, a través de convenios con las instituciones respectivas, las que deberán rendir los informes respectivos, y
-
-VII.- Una vez sustituido el total de días de prisión que se hubieren impuesto, el Ejecutivo avisará al Juez, para el efecto de que declare extinguida la sanción de trabajo a favor de la comunidad.
-
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 62 Bis.
 
@@ -809,175 +1015,377 @@ CAPÍTULO DECIMOQUINTO.- SANCIÓN PRIVATIVA DE DERECHOS
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-###### Artículo 63.
+###### ARTICULO 63.
 
-La privación de derechos resulta por ministerio de la Ley como consecuencia necesaria de una sanción, o por imposición del Juez, como sanción en sentencia definitiva.
+El impuesto para automóviles nuevos se calculará aplicando la tarifa establecida en este Capítulo, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador o sus distribuidores autorizados, incluyendo el equipo opcional común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones. No formará parte de dicho precio el impuesto al valor agregado que se cause por tal enajenación.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza al norte del Estado, el impuesto se calculará aplicando la tarifa establecida en este Capítulo, al precio de enajenación a que se refiere el párrafo anterior, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-###### Artículo 64.
+El valor a que se refiere el párrafo anterior, se aplicará aún en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
 
-La privación de derechos se rige por las siguiente (sic) disposiciones:
+Tratándose de automóviles por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere este Capítulo, será el que se determine conforme a lo previsto en el segundo párrafo de este artículo, considerando el impuesto general de importación que se hubiere tenido que pagar de haberse aplicado la tasa general referida.
 
-I.- En los casos en que la privación resulte por ministerio de Ley, la suspensión comienza y concluye con la sanción de que es consecuencia;
+En el caso de vehículos a que se refiere la fracción II del artículo 64, de esta ley, el impuesto se calculará aplicando la tasa señalada en esa fracción al precio de enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o importador.
 
-II.- Si la privación es fijada por el Juez y se impone junto con una sanción privativa de la libertad, la suspensión o inhabilitación comenzará al terminar aquélla y su duración será la señalada en la sentencia;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-III.- La sanción privativa de la libertad produce como consecuencia necesaria la suspensión de los derechos políticos y, también para el desempeño de funciones, empleos, cargos, comisiones, profesiones, artes u oficios;
+###### ARTICULO 64.
 
-IV.- El sentenciado con una sanción privativa de la libertad está además impedido, por lo que a sus derechos civiles se refiere, para ser tutor, curador, apoderado, defensor, albacea, perito, depositario, interventor judicial, síndico, interventor de toda clase de concursos, árbitro, arbitrador, asesor y representante de ausentes;
+Para los efectos del artículo anterior, se estará a lo siguiente:
 
-V.- Se exceptúa de lo dispuesto en la fracción anterior, el caso del albacea cuando es único heredero;
+I.- Tratándose de automóviles y camiones con capacidad hasta de diez pasajeros, al precio de enajenación del automóvil de que se trate, se le aplicará la siguiente:
 
-VI.- La sanción privativa de la libertad impuesta por delito intencional, cuya duración exceda de un año, produce como consecuencia necesaria la destitución de cualesquiera funciones, empleos, cargos o comisiones públicos que desempeñare la persona sentenciada;
+TARIFA
 
-VII.- La destitución, inhabilitación o suspensión para el desempeño de funciones, empleos, cargos o comisiones públicos implican la privación del sueldo correspondiente, y
+LIMITE LIMITE CUOTA POR CIENTO
 
-VIII.- La suspensión y el impedimento a que se refieren las fracciones III y IV anteriores, comenzarán desde que cause ejecutoria la sentencia y durarán todo el tiempo de la condena.
+INFERIOR SUPERIOR FIJA PARA APLICARSE
 
-###### Artículo 65.
+LIMITE SOBRE EL
 
-La inhabilitación para desempeñar empleos o cargos públicos, produce no sólo la pérdida de aquellos sobre los cuales recae la sanción, sino también incapacidad para obtener los mismos u otros de igual categoría del mismo ramo, por un plazo que se fijará en la sentencia y que no excederá de diez años.
+$ $ $ EXCEDENTE
 
-###### Artículo 66.
+DEL INFERIOR
 
-La suspensión o la inhabilitación para desempeñar alguna profesión, algún arte u oficio, en que el sentenciado hubiere delinquido, lo incapacita para ejercerlos durante el tiempo que fije la sentencia, el que no excederá de diez años.
+%
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 1994)</small>
+0.01 75,098.87 0.00 2
 
-CAPITULO DECIMOSEXTO.- SUSPENSION O DISOLUCION DE PERSONAS JURIDICAS
+75,098.88 90,118.61 1,501.96 5
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+90,118.62 105,138.43 2,252.97 10
 
-###### Artículo 67.
+105,138.44 135,177.89 3,754.94 15
 
-Cuando existan motivos justificados de Seguridad Pública y los actos delictuosos se cometieren por los miembros o representantes de una persona jurídica, con los medios o elementos propios de la misma, bajo su amparo y en su beneficio, a petición del Ministerio Público, la autoridad judicial decretará su suspensión, intervención, remoción, prohibición de realizar determinadas operaciones o disolución de la misma, según el caso.
+135,177.90 EN 8,260.86 17
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+ADELANTE
 
-###### Artículo 68.
+Si el precio del automóvil es superior a $207,373.49, se reducirá del monto del impuesto determinado, la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y $207,373.49.
 
-Para efectos del artículo anterior:
+Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en los meses de enero, mayo y septiembre de cada año, con el factor de actualización correspondiente al período comprendido desde el quinto mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. La Secretaría de Finanzas publicará el factor de actualización en el Periódico Oficial del Gobierno del Estado dentro de los primeros días de enero, mayo y septiembre de cada año; y
 
-La suspensión consistirá en la cesación de la actividad de la persona jurídica durante el tiempo que determine el Juez en la sentencia, la cual no podrá exceder de dos años.
+II.- Tratándose de camiones con capacidad de carga hasta de 3,100 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros, y remolques y semi-remolques tipo vivienda al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
 
-La intervención consiste en la vigilancia de las funciones que realizan los órganos de representación de la persona jurídica y se ejercerá con las atribuciones que la Ley confiere al interventor, hasta por tres años.
+PAGO
 
-La remoción consiste en la sustitución del administrador por uno designado por el Juez, durante un periodo máximo de tres años. Para hacer la designación, el Juez podrá atender la propuesta que formulen los socios o asociados que no hubiesen tenido participación en el delito. Cuando concluya el periodo previsto para la administración sustituta, la designación de los nuevos administradores se hará en la forma ordinaria prevista por las normas aplicables a estos actos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La prohibición de realizar determinados negocios u operaciones, que podrá ser hasta por cinco años, se referirá exclusivamente a las que determine el juzgador, mismas que deberán tener relación directa con el delito cometido. Los administradores y el comisario de la sociedad serán responsables ante el Juez del cumplimiento de esta prohibición e incurrirán en las penas que establece este Código por desobediencia a un mandato de autoridad.
+###### ARTICULO 65.
 
-La disolución consistirá en la conclusión definitiva de toda actividad social de la persona jurídica, que no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. El Juez designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona jurídica, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación.
+El impuesto se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales a más tardar dentro de los diecisiete días naturales de cada uno de los meses del ejercicio, mediante declaración que presentarán en las oficinas autorizadas, respecto de las enajenaciones realizadas en el mes inmediato anterior.
 
-La prohibición de realizar determinados negocios u operaciones y la extinción, serán comunicadas al Registro Público respectivo, para la anotación que corresponda y publicada en el Periódico Oficial del Estado.
+El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del mismo ejercicio.
 
-Al imponer las sanciones previstas en este Capítulo, el Juez tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona jurídica colectiva, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica sancionada. Estos derechos quedan a salvo, aún cuando el Juez no tome las medidas a que se refiere el párrafo anterior.
+Si un contribuyente tuviera uno o varios establecimientos ubicados en el Estado, deberá presentar declaración mensual de pago provisional y declaración del ejercicio, por las operaciones que correspondan a cada establecimiento, las cuales se podrán presentar en las oficinas o establecimientos autorizados por la Secretaría de Finanzas. Asimismo, la oficina matriz o principal deberá presentar su declaración de pago provisional y declaración del ejercicio, por las operaciones que realice en la entidad cuando tenga su domicilio en ésta.
 
-CAPITULO DECIMOSEPTIMO.- PUBLICACION ESPECIAL DE SENTENCIA
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 69.
+###### ARTICULO 66.
 
-La publicación especial de sentencia consiste en la inserción total o parcial de ella en uno o dos periódicos que circulen en la Entidad, a elección del Juez.
+Para los efectos de este Impuesto, se entiende por:
 
-###### Artículo 70.
+a).- Automóviles, los de transporte hasta de diez pasajeros, los camiones con capacidad de carga hasta de 3,100 kilogramos incluyendo los de tipo panel, así como los remolques y semi-remolques tipo vivienda.
 
-La publicación de sentencia se hará a costa del delincuente en los casos de delitos contra la reputación, si lo solicitare el ofendido; o a costa de éste y con su conformidad, por insolvencia de aquél.
+b).- Franja fronteriza norte del país, a la comprendida entre la línea divisoria internacional con los Estados Unidos de América y la línea paralela a una distancia de 20 kilómetros hacia el interior del Estado.
 
-###### Artículo 71.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Si el delito por el que se impone la publicación fue cometido por medio de la prensa, salvo lo que disponga la ley sobre esta materia, además de la publicación a que se refiere el artículo anterior, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, el mismo color de tinta y en el mismo lugar.
+###### ARTICULO 67.
 
-CAPITULO DECIMOCTAVO.- APLICACION DE SANCIONES
+Se entiende por enajenación, además de lo señalado en el Código Fiscal para el Estado, la incorporación del vehículo al activo fijo de las empresas fabricantes, ensambladores o importadoras de automóviles e inclusive al de los distribuidores autorizados, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto. En estos casos, el impuesto se calculará en los términos del artículo 63 de esta ley, según proceda.
 
-#### SECCION PRIMERA.- REGLAS GENERALES
+Se entiende que los vehículos se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
 
-###### Artículo 72.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias peculiares de cada delincuente y las exteriores de ejecución del delito.
+###### ARTICULO 68.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+Para los efectos de este Impuesto se considera importación la que tenga el carácter de definitiva en los términos de la legislación aduanera, salvo en los casos en que ya se hubiera pagado el impuesto.
 
-Cuando se trate de punibilidad alternativa, en la que se contemple pena de prisión, el Juez podrá imponer motivando su resolución, la sanción privativa de libertad sólo cuando ello sea ineludible para los fines de justicia, prevención general y prevención especial.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 73.
+###### ARTICULO 69.
 
-Con el fin de lograr una adecuada individuación de las sanciones, los jueces y tribunales, al aplicar éstas, harán uso de un poder discrecional y razonado.
+No se pagará el impuesto, en los siguientes casos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
+I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera; y
 
-###### Artículo 74.
+II.- En la enajenación al público en general de automóviles compactos de consumo popular.
 
-El Juez, al dictar sentencia condenatoria, determinará la pena establecida para cada delito y la individualizará dentro de los límites señalados, con base en la gravedad del ilícito y el grado de culpabilidad del agente, tomando en cuenta:
+Se consideran automóviles compactos de consumo popular, aquéllos cuyo precio de enajenación, incluyendo el impuesto al valor agregado, no exceda de la cantidad de $51,731.00, que su motor sea de fabricación nacional y que posea una capacidad para transportar hasta 5 pasajeros.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor que corresponda conforme al artículo 3 de esta ley.
 
-I.- La naturaleza de la acción o de la omisión y de los medios empleados para ejecutarla;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 70.
 
-II.- La magnitud del daño causado al bien jurídico o del peligro en que éste fue colocado;
+Se considera que se enajena un automóvil en el momento en que se realice cualquiera de los supuestos siguientes:
 
-III.- Las condiciones especiales en que se encontraba el delincuente en el momento de la comisión del delito y demás antecedentes y condiciones personales que puedan comprobarse, así como los vínculos de parentesco, amistad o nacidos de otras relaciones sociales que existan entre infractor y ofendido, la calidad de éste y circunstancias de tiempo, lugar, modo y ocasión que demuestren la mayor o menor peligrosidad de aquél.
+I.- Se envíe al adquirente. A falta de envío, al entregarse materialmente el automóvil;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
+II.- Se pague parcial o totalmente el precio;
 
-IV.- Las condiciones fisiológicas y psíquicas específicas en que se encontraba el activo en el momento de la comisión del delito y demás antecedentes y condiciones personales que puedan comprobarse, así como los vínculos de parentesco, amistad o nacidos de otras relaciones sociales que existan entre infractor y ofendido, la calidad de éste y circunstancias de tiempo, lugar, modo y ocasión que demuestren la mayor o menor peligrosidad de aquél;
+III.- Se expida el comprobante de la enajenación; y
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+IV.- Al incorporarse al activo fijo o al transcurrir el plazo de un año a que se refiere el primer párrafo del artículo 67 de esta ley.
 
-V.- Cuando el procesado perteneciere a un grupo étnico indígena, se tomarán en cuenta, además, sus usos y costumbres:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+###### ARTICULO 71.
 
-VI.- Las circunstancias del activo y pasivo, antes y durante la comisión del delito, que sean relevantes para individualizar la sanción, incluidos, en su caso, los datos de violencia, la relación de desigualdad o de abuso de poder entre el agresor y la víctima vinculada directamente con el hecho delictivo, así como el comportamiento posterior del acusado con relación al delito cometido; y
+No procederá la devolución ni compensación de este impuesto, aun cuando el automóvil se devuelva al enajenante.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+Para los efectos de este Impuesto, no se considerarán automóviles nuevos, aquéllos por los que ya se hubiera pagado y que se devuelvan al enajenante.
 
-VII.- Las demás circunstancias especiales del agente que sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+#### SECCION SEGUNDA. PARA LOS VEHICULOS DE MAS DE 10 AÑOS DE FABRICACION ANTERIORES AL DEL EJERCICIO FISCAL EN CURSO
 
-###### Artículo 75.
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Los jueces o tribunales deberán tomar conocimiento directo del delincuente y de la víctima en la medida requerida para cada caso, allegándose de los dictámenes periciales respectivos, tendentes a conocer la personalidad del sujeto, la afectación a la víctima y de las circunstancias del hecho.
+###### ARTICULO 72.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+Los fabricantes, ensambladores o distribuidores autorizados de automóviles o camiones nuevos, así como aquéllos que importen automóviles para permanecer en forma definitiva en la franja fronteriza norte del Estado, deberán incluir en el documento que ampare la enajenación correspondiente, la clave vehicular que corresponda a la versión enajenada. La Secretaría de Finanzas establecerá la forma en que deberá integrarse la citada clave, mediante reglas de carácter general.
 
-###### Artículo 76.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-El Juez, de oficio o a petición de parte, podrá prescindir de la imposición de la pena privativa o restrictiva de la libertad o sustituirla por una menos grave, cuando la imposición resulte notoriamente innecesaria e irracional, en razón de que el agente:
+###### ARTICULO 73.
 
-I.- Con motivo del delito cometido, haya sufrido consecuencias graves en su persona;
+Es objeto de este impuesto, la obtención de premios derivados o relacionados con loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos.
 
-II.- Presente senilidad avanzada; o
+SUJETO
 
-III.- Padezca enfermedad grave e incurable avanzada o precario estado de salud. En estos casos, el Juez tomará en cuenta el resultado de los dictámenes médicos y asentará con precisión, en la sentencia, las razones de su determinación. Se exceptúa la reparación del daño y la sanción económica, por lo que no se podrá prescindir de su imposición.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 77.
+###### ARTICULO 74.
 
-No es imputable al acusado el aumento de gravedad del delito proveniente de circunstancias particulares del ofendido, si las ignoraba inculpablemente al cometer la infracción.
+Son sujetos de este impuesto, las personas físicas o morales que tengan su domicilio en el Estado de Coahuila, que obtengan premios derivados o relacionados con loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase.
 
-###### Artículo 78.
+BASE
 
-Las circunstancias calificativas o modificativas de la sanción, que tienen relación con la omisión o acto delictuosos, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión del delito.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 79.
+###### ARTICULO 75.
 
-Siempre que con un solo hecho ejecutado en un solo acto, o con una sola omisión, se violen varias disposiciones de defensa social que señalen sanciones diversas, se aplicará únicamente la del delito que merezca sanción mayor.
+Es base gravable de este impuesto, el valor o avalúo de los premios derivados de loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase.
 
-###### Artículo 80.
+Cuando los premios sean en especie y no se exprese su valor o cuando el valor expresado sea inferior al que tenga en el mercado el bien que se entrega como premio, éstos serán valuados por perito que será designado por la Secretaría de Finanzas.
 
-Lo previsto en el artículo anterior, se observará también cuando varias violaciones de defensa social, de la misma o diversa especie, se ejecuten en varios actos ligados íntimamente por unidad de intención o de causa, salvo los casos especiales de acumulación previstos por la ley.
+El impuesto que resulte a cargo de quienes reciban premios, deberá ser retenido por las personas que realicen el pago de éstos. Esta retención deberá realizarse aún cuando el retenedor resida en otra entidad federativa.
 
-###### Artículo 81.
+TASA
 
-En los casos previstos en los artículos 79 y 80, si la ley dispone que una de las sanciones se agrave con otra, debido a circunstancias calificativas, se agravará aquella sanción.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 82.
+###### ARTICULO 76.
 
-No se aplicará lo dispuesto en los artículos 79 a 81, cuando la ley disponga que deba aplicarse una de las sanciones sin perjuicio de aplicar también la otra.
+La tasa correspondiente al impuesto sobre ingresos por premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos será el 6%, aplicado a la base gravable establecida en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+PAGO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 77.
+
+El pago de este impuesto deberá efectuarse por el retenedor en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, dentro de los diecisiete días naturales del mes siguiente a aquél en el cual se haga entrega del premio.
+
+OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 78.
+
+Quienes entreguen los premios a que se refiere este Capítulo, además de efectuar las retenciones de este impuesto tendrán las obligaciones siguientes:
+
+I.- Proporcionar cuando así lo solicite el interesado constancia de retención de impuesto a la persona que obtenga el premio; y
+
+II.- Conservar de conformidad con el Código Fiscal para el Estado de Coahuila, la documentación relacionada con las constancias de entrega de premios y retenciones del impuesto.
+
+## TITULO III. DE LOS DERECHOS
+
+###### ARTICULO 79.
+
+Los servicios prestados por el Registro Público de la Propiedad y del Comercio, relativos a la propiedad, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+I.- El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
+
+II.- La inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles:
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+1.- Hasta con valor de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagarán $177.00 (CIENTO SETENTA Y SIETE PESOS 00/100 M.N.).
+
+2.- Si el valor excede de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagará por los primeros $10,000.00, conforme al inciso anterior y por lo que exceda de dicha cantidad hasta $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), el 15 al millar.
+
+3.- Si el valor excede de $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), se pagará por los primeros $50,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad hasta $100,000.00 (CIEN MIL PESOS 00/100 M.N.), el 12 al millar.
+
+4.- Si el valor excede de $100,000.00 (CIEN MIL PESOS 00/100 [sic]), se pagará por los primeros $100,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad hasta $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.), el 8 al millar.
+
+5.- Si el valor excede de $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.), se pagará por los primeros $150,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad, el 6 al millar.
+
+6.- Si el valor es indeterminado, se pagarán $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja. (3)
+
+Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en esta fracción.
+
+III.- La inscripción de la escritura constitutiva y de los aumentos del capital social de sociedades civiles, sobre el importe del capital social o de los aumentos del mismo, en los términos de la fracción II, de este artículo;
+
+IV.- La inscripción de las asociaciones de carácter civil y cualquier modificación a la escritura constitutiva de sociedades civiles, exceptuándose el aumento de capital social, en los términos de la fracción II, de este artículo;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+V.- Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja; (2)
+
+VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas, se pagarán conforme a la fracción II, de este artículo;
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja; (8)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VII.- La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja; (2)
+
+VIII.- La inscripción del título o contrato a que se refiere la fracción anterior, cuando se aumente el capital o se transfiera algún derecho, se pagará conforme a la fracción II de este artículo, sobre el importe del aumento del capital o del derecho que se transfiera;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+IX.- La inscripción de las autorizaciones para fraccionamiento, $130.00 (CIENTO TREINTA PESOS 0/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+X.- El depósito de testamentos ológrafos:
+
+1.- Si se hace en las oficinas del Registro, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); (3)
+
+2.- Si se hace fuera de las oficinas del Registro, en horas ordinarias, $110.00 (CIENTO DIEZ PESOS 00/100 M.N.); (3)
+
+3.- Si se hace fuera de las oficinas del Registro, en horas extraordinarias, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.); (3)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XI.- El depósito de cualquier otro documento, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); (2)
+
+XII.- La expedición de certificados de no antecedentes registrales de inmuebles, independientemente de la búsqueda, $344.00 (TRESCIENTOS CUARENTA Y CUATRO PESOS 00/100 M.N.); (2)
+
+XIII.- La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes, el 5% de la cuantía de la operación;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XIV.- La búsqueda de constancias para la expedición de certificados o informes, por cada predio y por cada período de cinco años o fracción, $27.00 (VEINTISIETE PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XV.- La expedición de certificados o certificaciones relativos a las constancias del Registro, independientemente de la búsqueda:
+
+1.- Certificados de existencia de gravámenes, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.), por cada lote. (3)
+
+2.- Certificados de no existencia de gravámenes, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.), por cada lote. (3)
+
+3.- Otros certificados y certificaciones, $74.00 (SETENTA Y CUATRO PESOS 00/100 M.N.). (3)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XVI.- La cancelación de inscripciones en el Registro causará el 25% de las cuotas que establece la fracción II, de este artículo, sin que pueda ser inferior a $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XVII.- La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $18.00 (DIECIOCHO PESOS 00/100 M.N.); y (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+XVIII.- Por otros no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.). (2)
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 80.
+
+El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
+
+La Oficina del Registro Público de la Propiedad devolverá al depositante los documentos que trate de inscribir, si dentro de los diez días siguientes a su presentación no hubiere cubierto los derechos correspondientes.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 81.
+
+Para la determinación de los derechos que establece la Primera Parte de esta Sección, serán aplicables las siguientes reglas:
+
+I.- Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, el determinado en avalúo formulado por Institución Bancaria autorizada por la Secretaría de Finanzas y el determinado por la autoridad catastral estatal;
+
+II.- En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas, cuando el monto sea indeterminado, se tomará como base el valor catastral;
+
+III.- En los casos de información ad-perpetuam, el valor catastral de los inmuebles;
+
+IV.- En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, cuyas comisiones, cuotas, derechos u otros conceptos no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituye a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada;
+
+V.- En toda transmisión de bienes o derechos reales que se realizan por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes a fin de que sirva de base para el cobro de los derechos; en ningún caso la base de los derechos será inferior al valor catastral;
+
+VI.- En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la fracción II del artículo 79 y al practicarse la inscripción complementaria se cubrirá el 25% restante;
+
+VII.- Para aplicación de las tarifas establecidas en la fracción II del artículo 79 la nuda propiedad se valuará, en su caso, con el 75% del valor del inmueble y el usufructo en el 25% del mismo; y
+
+VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+
+SEGUNDA PARTE
+
+DEL COMERCIO
+
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 24 DE DICIEMBRE DE 1996) (F. DE E., P.O. 4 DE FEBRERO DE 1997)
+
+###### ARTICULO 82.
+
+Los servicios prestados por el Registro Público de la Propiedad y del Comercio, relativos al comercio, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+I.- El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $25.00 (VEINTICINCO PESOS 00/100 M.N.); (2)
+
+II.- La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social, se pagará conforme a la fracción II del artículo 79 de esta ley, sobre el monto del capital social o de sus aumentos.
+
+Tratándose de sociedades mercantiles de capital variable, se pagará conforme a esta fracción, por los aumentos de capital en su parte variable, que se presente para su inscripción;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+III.- La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $25.00 (VEINTICINCO PESOS 00/100 M.N.), por hoja; (2)
+
+IV.- La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito y agrupaciones financieras o particulares, sobre el importe de la operación, el 4 al millar.
+
+La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+V.- La búsqueda de datos para certificados e informes, por cada período de cinco años o fracción, $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.); (2)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VI.- La expedición de certificados o certificaciones relativos a constancias del registro, independientemente de la búsqueda:
+
+1.- Por la primera hoja, $74.00 (SETENTA Y CUATRO PESOS 00/100). (3)
+
+2.- Por cada hoja adicional, $6.00 (SEIS PESOS 00/100 M.N.). (3)
+
+3.- Por otros, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.). (3)
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VII.- La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja. (2)
+
+Cuando parte del valor sea indeterminado y parte determinado, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores.
+
+Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+VIII.- Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $25.00 (VEINTICINCO PESOS 00/100 M.N.) por hoja. (2)
+
+(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### Artículo 82 Bis.
 
@@ -1001,27 +1409,61 @@ II.- Cuando se prevea la disminución o el aumento de una pena con referencia a 
 
 Lo previsto en este artículo no es aplicable para la reparación del daño ni respecto a la sanción pecuniaria.
 
-#### SECCION SEGUNDA.- APLICACION DE SANCIONES POR DELITOS CULPOSOS
+#### SECCION TERCERA. PARA OTROS VEHICULOS
 
-###### Artículo 83.
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Los delitos culposos se sancionarán con prisión de tres días a cinco años y suspensión hasta de dos años del derecho de ejercer la profesión o el oficio, en cuyo ejercicio se hubiera cometido el delito.
+###### ARTICULO 83.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
 
-###### Artículo 84.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Cuando exista reincidencia en el delito de imprudencia y tanto en uno como en el otro delito se hubiere causado homicidio de una o más personas, o lesiones de las enumeradas en el artículo 307, o en uno de ellos homicidio y en el otro lesiones de esa clase, la sanción será de uno a ocho años de prisión.
+###### ARTICULO 84.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+La determinación del pago del derecho que establece el artículo 82, se sujetará además a las siguientes reglas:
 
-###### Artículo 85.
+I.- Los contratos en que se pacten prestaciones periódicas se valuarán en la suma de éstas si se puede determinar exactamente su cuantía, y en caso contrario, por lo que resulte de hacer el cómputo correspondiente a un año;
 
-La sanción prevista en el artículo 83 del presente Código, se incrementará de tres días a dos años de prisión, cuando se cometa el delito al conducir vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca un efecto similar.
+II.- Cuando un mismo título origine dos o más inscripciones, los derechos se causarán por cada una de ellas;
 
-La presente disposición es aplicable salvo lo ordenado en los artículos 85 Bis y 86 del presente Código.
+III.- En los casos en que un título tenga que inscribirse en varias secciones, la cotización se hará separadamente por cada una de ellas; y
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+IV.- Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se causarán los derechos por la inscripción en la Sección de Comercio, independientemente de los que causen las otras inscripciones.
+
+###### ARTICULO 85.
+
+Los servicios que se presten en relación con el Registro Civil, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Registro de nacimientos, $22.00 (VEINTIDOS PESOS 00/100 M.N.); (2)
+
+II.- Registro de reconocimientos, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
+
+III.- Inscripción de actas de adopción, tutela, de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
+
+IV.- Registro de matrimonios, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.); (2)
+
+V.- Registro de divorcios, $228.00 (DOSCIENTOS VEINTIOCHO PESOS 00/100 M.N.); (2)
+
+VI.- Registro de defunciones, $18.00 (DIECIOCHO PESOS 00/100 M.N.); (2)
+
+VII.- Inscripción de actos o hechos registrados en el extranjero, $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); (2)
+
+VIII.- Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
+
+IX.- Expedición de copias certificadas, $22.00 (VEINTIDOS PESOS 00/100 M.N.), por hoja; (2)
+
+X.- Rectificaciones relativas a actas del Registro Civil, $134.00 (CIENTO TREINTA Y CUATRO PESOS 00/100 M.N.); (2)
+
+XI.- Expedición de certificados de inexistencia y cualquier otra clase de constancia relativa al Registro Civil, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.); (2)
+
+XII.- Búsqueda de actas en el Registro Civil, $28.00 (VEINTIOCHO PESOS 00/100 M.N.); y (2)
+
+XIII.- Por otros servicios no especificados, $57.00 (CINCUENTA Y SIETE PESOS 00/100 M.N.). (2)
+
+(REUBICADO [N. DE E. ANTES ARTICULO 49], P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### Artículo 85 Bis.
 
@@ -1029,139 +1471,205 @@ Cuando con el delito de imprudencia se cause homicidio o lesiones de las enumera
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-###### Artículo 86.
+###### ARTICULO 86.
 
-Cuando se cause homicidio por actos u omisiones culposos de quien realiza un servicio público de transporte, la sanción será de seis a quince años de prisión e inhabilitación de dos a diez años para transportar pasajeros, aún si lo hiciere en forma ocasional.
+El pago de los derechos por los servicios prestados por la Dirección Estatal y las oficialías del Registro Civil a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+###### ARTICULO 87.
 
-###### Artículo 87.
+Los otros servicios que presta la Secretaría de Gobierno, causarán derechos conforme a la siguiente:
 
-Cuando por el tránsito de vehículos, en forma culposa se ocasione daño en propiedad ajena y/o lesiones, se aplicarán las siguientes disposiciones:
+TARIFA
 
-I.- Sólo se perseguirá a petición de parte si el presunto responsable no se hubiere encontrado en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares;
+I.- Certificaciones, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por hoja; (2)
 
-II.- Si la parte agraviada estuviera inconsciente o no pudiera declarar, el parte de las autoridades administrativas correspondientes, surtirá los efectos de querella;
+II.- Apostillar documentos, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.); (2)
 
-III.- Cuando sólo se ocasione daño en propiedad ajena, se impondrá la misma sanción prevista en la fracción IV del artículo 414, cualquiera que sea el valor del daño causado, y
+III.- Presentación de examen para obtener patente de aspirante a notario, $2,102.00 (DOS MIL CIENTO DOS PESOS 00/100 M.N.); (2)
 
-IV.- Lo dispuesto en el presente artículo no se aplicará cuando el delito se cometa por quien realiza un servicio de transporte público o mercantil.
+IV.- Expedición de patente de aspirante a notario, $4,204.00 (CUATRO MIL DOSCIENTOS CUATRO PESOS 00/100 M.N.); (2)
 
-###### Artículo 88.
+V.- Presentación de examen de selección para obtener la expedición de Fiat Notarial, $4,504.00 (TRES MIL QUINIENTOS CUATRO PESOS 00/100 M.N.); (2)
 
-Para la calificación de gravedad de la imprudencia, se tomarán en consideración las circunstancias generales señaladas en los artículos 72, 74 y 75 de este Código y las especiales siguientes:
+VI.- Expedición del Fiat Notarial, $16,818.00 (DIECISEIS MIL OCHOCIENTOS DIECIOCHO PESOS 00/100 M.N.); (2)
 
-I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
+VII.- Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $2,102.00 (DOS MIL CIENTO DOS PESOS 00/100 M.N.); (2)
 
-II.- Si para prever y evitar el daño bastaban una reflexión o atención ordinarias y conocimientos comunes en algún arte, ciencia, profesión u oficio;
+VIII.- Por la revisión de documentos requeridos para la celebración de eventos tradicionales $525.00 (QUINIENTOS VEINTICINCO PESOS 00/100 M.N.); (2)
 
-III.- Si el acusado delinquió anteriormente en circunstancias semejantes;
+IX.- Autorizaciones en materia de explosivos, $614.00 (SEISCIENTOS CATORCE PESOS 00/100 M.N.); (2)
 
-IV.- Si tuvo tiempo para obrar con la reflexión y cuidados necesarios;
+X.- Legalización de firmas en cualquier documento, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.), por firma; (2)
 
-V.- Tratándose de delitos cometidos con motivo del tránsito de vehículos, también se tendrán en cuenta:
+XI.- Expedición de copias certificadas de constancias existentes en las Oficinas Públicas: primera hoja $27.00 (VEINTISIETE PESOS 00/100 M.N.); cada hoja subsecuente $6.00 (SEIS PESOS 00/100 M.N.); (2)
 
-a).- La clase y tipo del vehículo con el que se delinquió, así como su estado mecánico y el de su funcionamiento.
+XII.- Certificaciones de hechos ocurridos en presencia de la autoridad: primera hoja $27.00 (VEINTISIETE PESOS 00/100 M.N.); cada hoja subsecuente $6.00 (SEIS PESOS 00/100 M.N.); (2)
 
-b).- Las condiciones del camino, vía o ruta de circulación, en cuanto a su topografía y visibilidad, y las señales de tránsito que en él existan.
+XIII.- Legalización de firmas de notarios, de funcionarios estatales y municipales y de documentos del registro civil, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.) por firma; (2)
 
-c).- Tiempo que ha tenido el infractor de conducir vehículos y clase de licencia para ello concedida por las autoridades de tránsito.
+XIV.- Exhorto y legalización de firmas de éste a otro Estado, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
 
-d).- La mayor o menor gravedad del daño causado.
+XV.- Exhorto de otro Estado a éste, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
 
-El Ministerio Público, para los efectos de la consignación, recabará los peritajes e informes respectivos.
+XVI.- Búsqueda de antecedentes notariales, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) por año; (2)
 
-###### Artículo 89.
+XVII.- Expedición de segundos testimonios que obren en la Dirección de Notarías, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.); (2)
 
-Las sanciones por los delitos de imprudencia se impondrán también a quien o quienes, aunque no fueren autores materiales o inmediatos de la acción o de la omisión en que consiste el delito, los motivaren imprudencialmente.
+XVIII.- Expedición de copias certificadas que obren en la Dirección de Notarías, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.) por hoja; (2)
 
-###### Artículo 90.
+XIX.- Expedición de copias simples de documentos que obren en la Dirección de Notarías, $27.00 (VEINTISIETE PESOS 00/100 M.N.) por hoja; (2)
 
-Cuando con motivo del tránsito de vehículos se cometiere algún delito, esos vehículos no se devolverán hasta que se haya cubierto o garantizado la reparación del daño.
+XX.- Autorización para cambio de adscripción notarial, $5,606.00 (CINCO MIL SEISCIENTOS SEIS PESOS 00/100 M.N.); (2)
 
-###### Artículo 91.
+XXI.- Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $105.00 (CIENTO CINCO PESOS 00/100 M.N.); (29
 
-A la culpa se aplicarán además las siguientes disposiciones:
+XXII.- Autorización para la exhumación de cadáveres para ser reinhumados en otro panteón dentro del mismo municipio $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); (2)
 
-I.- La culpa no es compensable;
+XXIII.- Autorización para la exhumación de cadáveres para ser reinhumados en otros municipios del Estado $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); (2)
 
-II.- La imprudencia del peatón no excluye la responsabilidad del conductor, cuando éste obre con imprudencia; y
+XXIV.- Autorización para la exhumación de cadáveres para ser reinhumados fuera del Estado $264.00 (DOSCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.); (2)
 
-III.- Cualquiera otra culpa de persona distinta del autor, que concurra con la de éste, no excluye la responsabilidad de ninguno de ellos.
+Las autorizaciones a que se refieren las fracciones XXI, XXII, XXIII y XXIV se expedirán previo cumplimiento de los requisitos exigidos por la Ley Estatal de Salud; y
 
-###### Artículo 92.
+XXV.- Por otros servicios no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.). (2)
 
-No incurre en responsabilidad penal quien conduciendo un vehículo imprudentemente lesione o cause la muerte de uno de sus familiares, cónyuge, persona con la que viva en la situación a que se refiere el artículo 297 del Código Civil o con la que esté unida por afecto, que se encuentren en el vehículo mismo.
+SUJETO
 
-No se aplicará lo dispuesto en el párrafo anterior, si la imprudencia se hubiese cometido estando el responsable en estado de embriaguez superior al primer grado o bajo el influjo de enervantes, estupefacientes o psicotrópicos o cualquier substancia que produzca un efecto similar.
+(REUBICADO [N. DE E. ANTES ARTICULO 51], P.O. 24 DE DICIEMBRE DE 1996)
 
-#### SECCION TERCERA.- SANCIONES POR DELITOS PRETERINTENCIONALES
+###### ARTICULO 88.
 
-###### Artículo 93.
+Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+PAGO
 
-#### SECCION CUARTA.- SANCIONES POR LA TENTATIVA
+(REUBICADO [N. DE E. ANTES ARTICULO 52], P.O. 24 DE DICIEMBRE DE 1996)
 
-###### Artículo 94.
+###### ARTICULO 89.
 
-En caso de tentativa se aplicarán las siguientes disposiciones:
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+###### ARTICULO 90.
 
-I.- Se impondrá a los responsables de la tentativa hasta las dos terceras partes de las sanciones mínima y máxima que corresponderían si el delito se hubiere consumado;
+Los servicios prestados por el organismo desconcentrado de la Secretaría de Gobierno, denominado "Periódico Oficial del Gobierno del Estado", causarán derechos conforme a la siguiente:
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+TARIFA
 
-II.- Para aplicar las sanciones a que se refiere la fracción anterior, además de tomar en cuenta las circunstancias objetivas y subjetivas que señalan los artículos 72 a 75, el juzgador tendrá en consideración el grado a que hubiere llegado el autor de la tentativa en la ejecución del delito;
+I.- Avisos judiciales y administrativos:
 
-III.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
+a).- Por cada palabra en primera o única inserción, $0.56 (CINCUENTA Y SEIS CENTAVOS M.N.);
 
-IV.- Si no fuere posible determinar el daño que se pretendía causar, se sancionará al autor:
+b).- Por cada palabra en inserciones subsecuentes, $0.28 (VEINTIOCHO CENTAVOS M.N.).
 
-a) Con prisión o multa cuyos máximos sean respectivamente un año y cien días de salario si el delito que se pretendía cometer se castiga sólo con aquélla o esta sanción;
+II.- Por publicación de aviso de registro de fierro de herrar, arete o collar o cancelación de los mismos, señal de sangre o venta, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
-b) Con ambas sanciones si el delito que se pretendía cometer se sanciona con multa y prisión a la vez.
+III.- Publicación de balances o estados financieros, $271.00 (DOSCIENTOS SETENTA Y UN PESOS 00/100 M.N.);
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 1994)</small>
+IV.- Por costo de tipografía relativa a los fierros de registro, arete o collar por cada figura, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
-#### SECCION QUINTA.- APLICACION DE SANCIONES
+V.- Suscripciones:
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
+a).- Por un año, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.);
 
-###### Artículo 95.
+b).- Por seis meses, $350.00 (TRESCIENTOS CINCUENTA PESOS 00/100 M.N.); y
 
-En los casos de acumulación real, se aplicará la sanción del delito más grave, que podrá aumentarse hasta la suma de las sanciones correspondientes a los demás delitos, sin que en caso alguno pueda exceder de setenta años de prisión.
+c).- Por tres meses, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.).
 
-###### Artículo 96.
+VI.- Número del día, $7.00 (SIETE PESOS 00/100 M.N.);
 
-La regla establecida en el artículo anterior, no se aplicará cuando alguno de los delitos acumulados se hubiere cometido hallándose ya procesado el delincuente, sino que se sancionará este delito como si fuere solo, sin perjuicio de la acumulación de los procesos.
+VII.- Números atrasados hasta 6 años, $28.00 (VEINTIOCHO PESOS 00/100 M.N.);
 
-###### Artículo 97.
+VIII.- Números atrasados de más de 6 años, $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); y
 
-En el caso de delito continuado se aumentará la sanción hasta en una tercera parte de la correspondiente al delito cometido.
+IX.- Códigos, leyes, reglamentos, suplementos o ediciones de más de 24 páginas, $69.00 (SESENTA Y NUEVE PESOS 00/100 M.N.). (5)
 
-###### Artículo 98.
+PAGO
 
-Por lo que hace a los reincidentes, regirán los siguientes preceptos:
+(REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 24 DE DICIEMBRE DE 1996)
 
-I.- Se les aplicará la sanción que les corresponda por el último o por los últimos delitos cometidos, aumentada desde un tercio hasta dos tercios de su duración;
+###### ARTICULO 91.
 
-II.- Si la reincidencia fuere por delitos de la misma especie, el aumento será de los dos tercios hasta otro tanto de la sanción prevista por la ley;
+El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-III.- Tratándose de delitos de imprudencia se aplicará lo dispuesto en el artículo 84;
+###### ARTICULO 92.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
+Es objeto de este Derecho, los servicios que presta la Secretaría de Finanzas, en coordinación con la Secretaría de Salud y Desarrollo Comunitario y la Secretaría de Gobierno, en el ámbito de sus respectivas competencias y en aplicación de los ordenamientos de la materia, por la expedición de licencias para el funcionamiento de establecimientos cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general y la revalidación anual de las mismas.
 
-IV.- En los casos de las fracciones I y II anteriores, la sanción no excederá de cincuenta años de prisión.
+SUJETO
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 56], P.O. 24 DE DICIEMBRE DE 1996)
 
-###### Artículo 99.
+#### SECCION PRIMERA. POR SERVICIOS DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-La sanción a los delincuentes habituales, será la que corresponda imponerles por el último o por los últimos delitos cometidos, aumentada con dos tantos más de su duración, siempre que no exceda de cincuenta años de prisión.
+PRIMERA PARTE
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+DE LA PROPIEDAD
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 93.
+
+Son sujetos de este derecho las personas físicas y morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general.
+
+OBLIGACIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 57], P.O. 24 DE DICIEMBRE DE 1996)
+
+#### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 94.
+
+Los sujetos de este derecho están obligados a solicitar a la Secretaría de Finanzas, previamente a la iniciación de sus actividades, la expedición de la licencia para el funcionamiento del establecimiento y la revalidación anual correspondiente.
+
+Cuando el titular de la licencia no sea quien enajene o preste los servicios, objeto de este derecho, deberá registrar ante la Secretaría de Finanzas el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 24 DE DICIEMBRE DE 1996)
+
+#### SECCION TERCERA. POR OTROS SERVICIOS
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 95.
+
+Los sujetos de este derecho que cuenten con licencia para su funcionamiento, deberán obtener dentro del mes de enero de cada año la revalidación anual de la licencia para el funcionamiento de estos establecimientos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 59], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 96.
+
+Los titulares de una licencia de funcionamiento para los establecimientos señalados, deberán solicitar previamente la autorización de la Secretaría de Finanzas para realizar cualquier cambio de domicilio del establecimiento autorizado o de titular de la licencia.
+
+Las autoridades fiscales, podrán autorizar el cambio de domicilio o de titular que se solicite, siempre y cuando no se dé alguna de las causales establecidas en esta Sección para negar o cancelar la expedición de una licencia de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 97.
+
+A la solicitud mencionada en el artículo 94, se acompañará:
+
+I.- Croquis en el que se indique en forma clara y precisa la ubicación del local en que se pretenda establecer.
+
+II.- Copia de la cédula del Registro Federal de Contribuyentes.
+
+III.- Copia certificada del testimonio de la escritura pública constitutiva si se trata de una sociedad mercantil o acta de nacimiento tratándose de personas físicas.
+
+IV.- Licencia municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 98.
+
+Recibida la solicitud y documentación a que se refieren los artículos 94 y 97 de esta ley, la Secretaría de Finanzas del Gobierno del Estado, ordenará a la Recaudación de Rentas correspondiente, la práctica de una inspección al local para determinar si reúne los requisitos que exige este Capítulo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 99.
+
+Las solicitudes de empadronamiento, las manifestaciones y los avisos se formularán haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Gobierno del Estado, debiéndose asentar en ellas los datos que se señalan, anexando los documentos que se requieran.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 60], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 99 Bis.
 
@@ -1171,31 +1679,47 @@ CAPITULO DECIMONOVENO.- CONMUTACION DE SANCIONES
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-###### Artículo 100.
+###### ARTICULO 100.
 
-Los Tribunales podrán resolver que la sanción privativa de la libertad impuesta se conmute por multa o trabajo a favor de la comunidad, si la prisión no excede de dos años, si es la primera vez que el sentenciado incurre en delito y, si además, ha demostrado buenos antecedentes personales, o sólo por multa, si rebasa los dos años, pero no excede de cinco.
+Son causas de cancelación de la licencia para el funcionamiento de establecimientos que expendan bebidas alcohólicas, las siguientes:
 
-Para que surta efecto la conmutación, deberá pagarse primero la reparación del daño y la multa, si también se impuso.
+I.- Que no se solicite su revalidación anual dentro del mes de enero de cada año;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+II.- Que el establecimiento funcione en lugar distinto al autorizado en la licencia;
 
-###### Artículo 101.
+III.- Cuando el titular de la licencia omita registrar ante la Secretaría de Finanzas, el nombre de la persona que en su lugar explota los derechos que le otorga la licencia de funcionamiento; y
 
-Al responsable de un delito intencional a quien se hubiese concedido una conmutación, no podrá conmutársele nuevamente la sanción de prisión en caso de que cometa con posterioridad otro delito también intencional.
+IV.- Cuando se dé alguna de las otras causales de cancelación de la licencia establecidas en el artículo 102 de esta Ley.
 
-###### Artículo 102.
+Las anteriores causales se harán efectivas independientemente de la sanción que corresponda de seguir realizando la actividad sin licencia para el funcionamiento y revalidación anual.
 
-En el caso del artículo 100, la multa que sustituya a la prisión se fijará conforme a las reglas siguientes:
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-I.- Si el sentenciado no percibía salario alguno al cometer el delito, la multa será el equivalente, por cada día de prisión conmutado, al cuarenta por ciento del salario mínimo vigente en la región;
+###### ARTICULO 100-A.
 
-II.- Cuando el sentenciado al cometer el delito percibía un salario, la multa será el equivalente por cada día de prisión conmutado, al cincuenta por ciento de aquel salario, si éste no excede de nueve tantos el importe del mínimo vigente en la región;
+La Secretaría de Finanzas, en coordinación con la Secretaría de Salud y Desarrollo Comunitario y la Secretaría de Gobierno del Estado, tendrán a su cargo, en el ámbito de sus respectivas competencias, la inspección y vigilancia de los establecimientos que expendan bebidas alcohólicas, para verificar periódicamente que éstos reúnan las condiciones de salubridad e higiene que establecen las leyes, cumplan con la ubicación y con los horarios autorizados para la enajenación y expendio de bebidas alcohólicas, contenidos en las disposiciones legales aplicables y que su funcionamiento no ofenda la moral y las buenas costumbres.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-III.- Si el salario percibido por el sentenciado fuere mayor de quince tantos del mínimo vigente, no se tomará el excedente para fijar el importe de la conmutación.
+###### ARTICULO 101.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+Las autoridades fiscales darán a conocer mediante resolución, la cancelación de las licencias de los establecimientos que expendan bebidas alcohólicas, la cual deberá estar debidamente fundada y motivada. La motivación de la cancelación de las licencias se hará de acuerdo a los procedimientos realizados por las autoridades de salud y seguridad pública en cumplimiento con las visitas correspondientes que conforme a las normas aplicables en la materia deban efectuarse.
+
+Esta resolución podrá ser impugnada conforme a las disposiciones aplicables para el recurso administrativo de revocación establecido en el Código Fiscal para el Estado de Coahuila, dentro de los quince días siguientes al en que surta efectos la notificación a la que se refiere el párrafo anterior. En el mismo plazo, el contribuyente deberá suspender la enajenación o expendio de bebidas alcohólicas que realizaba al amparo de la licencia cancelada, hasta en tanto no se resuelva en definitiva sobre la inconformidad.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 62], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 102.
+
+La Secretaría de Finanzas, podrá autorizar o negar el funcionamiento de establecimientos para enajenar bebidas alcohólicas tomando en cuenta su ubicación, el número de establecimientos existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
+
+Las autoridades fiscales negarán la expedición o cancelarán la licencia para el funcionamiento de aquellos establecimientos que con su funcionamiento o su ubicación ofendan la moral pública o las buenas costumbres, o cuando estén ubicados en la cercanía de escuelas, hospitales, parques y jardines públicos, instalaciones deportivas, cuarteles, centros de trabajo, centros culturales y templos religiosos o por así requerirlo el interés social, o cuando el establecimiento no cumpla con las normas de salubridad e higiene que establecen las leyes, incumpla en más de tres ocasiones con los horarios autorizados para la enajenación y expendio de bebidas, independientemente de las sanciones a que se haga acreedor por estos motivos. Para lo anterior la Secretaría de Finanzas solicitará la información correspondiente de las autoridades de salud y seguridad pública del Estado competentes.
+
+La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la reubicación de los establecimientos cuya licencia de funcionamiento hubiere sido cancelada en términos del párrafo anterior.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 102 Bis.
 
@@ -1203,269 +1727,645 @@ Si la persona sentenciada se encuentra gozando de su libertad caucional, el depo
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-###### Artículo 103.
+###### ARTICULO 103.
 
-Una vez pagada la sanción pecuniaria que se hubiere impuesto, incluida la reparación del daño, y conmutada la pena, el Tribunal o la autoridad que lo tenga a su disposición, ordenará su libertad.
+Las autoridades fiscales clausurarán los establecimientos que expendan bebidas alcohólicas cuando no estén amparados o no cuenten con licencia de funcionamiento y revalidación anual, así como aquéllos que no suspendan la enajenación o expendio de bebidas alcohólicas dentro del plazo establecido en el artículo 101 de esta Ley, cuando sea cancelada la licencia de funcionamiento con que operaba.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-###### Artículo 104.
+###### ARTICULO 104.
 
-Con las sumas que se obtengan de las multas impuestas como sanciones o como conmutación de la pena de prisión, se integrará un Fondo para la protección a víctimas de delitos.
+La expedición de licencia para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos conforme a la siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+TARIFA
 
-###### Artículo 105.
+I.- Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $35,037.00 (TREINTA Y CINCO MIL TREINTA Y SIETE PESOS 00/100 M.N.); (2)
 
-La Ley para la Protección a las Víctimas del Delito establecerá:
+II.- Tienda de autoservicio $26,277.00 (VEINTISEIS MIL DOSCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.); (2)
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+III.- Restaurante bar, restaurantes y estadios $17,518.00 (DIECISIETE MIL QUINIENTOS DIECIOCHO PESOS 00/100 M.N.); (2)
 
-I.- La protección de las víctimas que sufran daños personales;
+IV.- Supermercados, agencias y cantina o bar $12,262.00 (DOCE MIL DOSCIENTOS SESENTA Y DOS PESOS 00/100 M.N.); (2)
 
-II.- La facultad de autorizar a quien carezca de medios económicos y se le haya concedido la conmutación, para que pague la multa, en uno o varios plazos según sus posibilidades, y con un interés que puede ser inferior, pero no superior al legal;
+V.- Expendio de vinos y licores, tiendas de abarrotes, minisuper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta, y subagencia $8,759.00 (OCHO MIL SETECIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.); (2)
 
-III.- El procedimiento para hacer efectiva la protección, la cual será en todo caso facultativa y no obligatoria.
+VI.- Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $5,606.00 (CINCO MIL SEISCIENTOS SEIS PESOS 00/100 M.N.); y (2)
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+VII.- Fonda, taquerías y otros de naturaleza análoga $2,803.00 (DOS MIL OCHOCIENTOS TRES PESOS 00/100 M.N.). (2)
 
-###### Artículo 106.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-La protección a víctimas de delitos se regirá conforme a lo dispuesto por la Ley para la Protección a las Víctimas del Delito y su Reglamento.
+###### ARTICULO 105.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en que se expendan dichas bebidas, causarán derechos por revalidación en función de los servicios de inspección y vigilancia que requieren, conforme a la siguiente:
 
-###### Artículo 107.
+TARIFA
 
-Cuando el Fondo indemnice total o parcialmente a quien sufra daños personales, o proteja a las víctimas de un delito, se subrogará hasta el monto de sus erogaciones, en los derechos de éstos, contra el deudor de la reparación del daño y contra la aseguradora en su caso.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
-### CAPITULO VIGESIMO.- EJECUCION DE LAS SENTENCIAS
+I.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos que ofrezcan algún espectáculo o diversión públicos $8,775.00 (OCHO MIL SETECIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
-###### Artículo 108.
+II.- Para la enajenación de bebidas alcohólicas para su consumo dentro de los establecimientos distintos a los señalados en la fracción anterior $3,068.00 (TRES MIL SESENTA Y OCHO PESOS 00/100 M.N.).
 
-Las sanciones y medidas de seguridad impuestas conforme a lo que dispone este Código, serán ejecutadas por las autoridades competentes y según lo establezca la Ley correspondiente la cual reglamentará también la remisión parcial de la pena, las medidas preliberacionales, la libertad preparatoria, la rehabilitación y el trabajo de las personas detenidas, sujetas a formal prisión.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
 
-### CAPITULO VIGESIMO PRIMERO.- TRABAJO DE LOS PROCESADOS PRIVADOS DE LIBERTAD
+III.- Por la enajenación de bebidas alcohólicas en envase cerrado o para llevar $2,194.00 (DOS MIL CIENTO NOVENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+La revalidación anual de las licencias para enajenar únicamente cerveza, acompañados por alimentos, causará el 20% de los derechos a que se refiere la fracción II de este artículo. Esta reducción no operará en aquellos establecimientos en que se expendan bebidas alcohólicas distintas de la señalada en este párrafo.
 
-###### Artículo 109.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-El Ejecutivo del Estado podrá conceder el beneficio de remisión parcial de la pena, a razón de un día de prisión por cada dos días de trabajo, a la persona sentenciada que observe buena conducta, participe regularmente en las actividades educativas que se organicen en el establecimiento y, sobre todo, revele por otros datos su efectiva readaptación social; la remisión funcionará independientemente del beneficio de libertad preparatoria.
+###### ARTICULO 106.
 
-El Gobernador del Estado podrá autorizar la conmutación de sanciones, después de impuestas en sentencia ejecutoriada, conforme a las disposiciones correspondientes en lo conducente.
+Cuando el establecimiento cuenta con licencia y habiendo presentado aviso de suspensión de actividades, las reinicie en el 1o., 2o., 3o., o 4o., trimestre, pagará por ese año el 100%, 75%, 50% o 25%, respectivamente, de las tarifas establecidas en el artículo 105, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 109 y 110 de esta Ley.
 
-### CAPITULO VIGESIMO SEGUNDO.- RETENCION
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+###### ARTICULO 107.
 
-###### Artículo 110.
+La autorización de cambio de titular de una licencia causará derechos a razón del 50% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
-El tratamiento preliberacional sólo podrá iniciarse si la persona sentenciada ha compurgado efectivamente la tercera parte de la sanción privativa de la libertad que se le impuso, tratándose de delitos dolosos; dos terceras partes de la misma, si se trata de algún delito calificado como grave, o una quinta parte, en caso de delitos imprudenciales o culposos.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 68], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
-###### Artículo 111.
+(REUBICADO [N. DE E. ANTES ARTICULO 92], P.O. 24 DE DICIEMBRE DE 1996)
 
-El Ejecutivo del Estado concederá el beneficio de libertad preparatoria a la persona sentenciada que hubiere cumplido el tratamiento preliberacional y satisfaga los siguientes requisitos:
+###### ARTICULO 108.
 
-I.- Haber observado buena conducta durante la ejecución de su sentencia;
+La autorización de cambio de domicilio de una licencia causará derechos a razón del 25% de la tarifa establecida en el artículo 104, según el establecimiento de que se trate.
 
-II.- Que del estudio integral de su personalidad se infiera que está socialmente readaptado;
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 69], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-III.- Haber cubierto o garantizado la reparación del daño causado, en los términos señalados por el artículo 51, y
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA PROCURADURIA GENERAL DE JUSTICIA
 
-IV.- Haber otorgado la garantía o caución que se le haya fijado para asegurar su presentación ante la autoridad siempre que sea requerido.
+OBJETO
 
-La autoridad competente podrá revocar la libertad preparatoria, en términos de la Ley correspondiente, y en tal caso, la persona sentenciada deberá cumplir el resto de la sanción privativa de la libertad. Los hechos que originen los nuevos procesos a que se refiere este artículo interrumpen los plazos para extinguir la sanción.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-> <small>N. DE E. EL PRESENTE CAPÍTULO DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO ÚNICO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL PRESENTE CÓDIGO, SE ELIMINAN LOS CAPÍTULOS VIGÉSIMO PRIMERO Y VIGÉSIMO SEGUNDO; Y EL CAPÍTULO VIGÉSIMO TERCERO PASA A SER VIGÉSIMO PRIMERO, TODOS ELLOS DEL LIBRO PRIMERO.</small>
+###### ARTICULO 109.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 25%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Allende, Francisco I. Madero, Múzquiz, Nava, Parras, San Buenaventura, San Juan de Sabinas y San Pedro.
 
-### CAPITULO VIGESIMO PRIMERO (SIC).- EXTINCION DE LA ACCION PERSECUTORIA Y DE LAS SANCIONES
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 70], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
+### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
 
-#### SECCION PRIMERA.- EXTINCIÓN DE LA ACCIÓN PERSECUTORIA
+OBJETO
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 98], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 112.
+###### ARTICULO 110.
 
-La acción persecutoria, se extingue por:
+Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en un 50%, cuando el establecimiento para el que se expida la autorización y licencia anual se encuentre en alguno de los siguientes municipios: Abasolo, Candela, Castaños, Cuatrociénegas, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Nadadores, Ocampo, Progreso, Sacramento, Sierra Mojada, Viesca, Villa Unión y Zaragoza.
 
-I.- Muerte del inculpado;
+PAGO
 
-II.- Perdón del ofendido en los delitos de querella o por cualquier otro acto equivalente;
+(REUBICADO [N. DE E. ANTES ARTICULO 71], P.O. 24 DE DICIEMBRE DE 1996)
 
-III.- Prescripción;
+###### ARTICULO 111.
 
-IV.- Supresión del tipo penal; y
+El pago de este derecho deberá realizarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la licencia de funcionamiento y revalidación anual, en su caso.
 
-V.- Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos.
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
 
-#### SECCION SEGUNDA.- AMNISTIA
+OBJETO
 
-###### Artículo 113.
+(REUBICADO [N. DE E. ANTES ARTICULO 101], P.O. 24 DE DICIEMBRE DE 1996)
 
-La amnistía extingue la acción penal, las sanciones o medidas de seguridad impuestas, a excepción del decomiso, en los términos de la ley que la conceda; pero si ésta no expresare su alcance, se entenderá que la pretensión punitiva y las sanciones y medidas de seguridad se extinguen en todos sus efectos, con relación a todos los responsables del delito.
+#### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO
 
-###### Artículo 114.
+OBJETO
 
-La amnistía no extingue la responsabilidad civil.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-#### SECCION TERCERA.- RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
+###### ARTICULO 112.
 
-###### Artículo 115.
+Los demás servicios que presta la Secretaría de Finanzas a través de sus Unidades Administrativas causarán derechos conforme a la siguiente:
 
-Cuando en revisión extraordinaria se reconozca la inocencia de un sentenciado, quedará sin efecto la sanción que se hubiere impuesto en sentencia ejecutoria, cualquiera que sea dicha sanción.
+TARIFA
 
-#### SECCION CUARTA.- PERDON DEL OFENDIDO
+I.- Certificaciones, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $20.00 (VEINTE PESOS 00/100 M.N.), por hoja adicional; (2)
 
-###### Artículo 116.
+II.- Expedición de copia simple, $2.35 (DOS PESOS 35/100 M.N.), por hoja; (2)
 
-El perdón expreso del ofendido extingue la acción persecutoria cuando concurren los requisitos siguientes:
+III.- Servicios periciales contables, $42.00 (CUARENTA Y DOS PESOS 00/100 M.N.) por hora, por auditor; y (2)
 
-I.- Que el delito sea de querella necesaria;
+IV.- Por constancias del padrón vehicular, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $20.00 (VEINTE PESOS 00/100 M.N.) por hoja adicional. (2)
 
-II.- Que el perdón se otorgue por el ofendido o por su representante;
+(REUBICADO [N. DE E. ANTES ARTICULO 73], P.O. 24 DE DICIEMBRE DE 1996)
 
-III.- Que el perdón se conceda antes de que cause ejecutoria la sentencia pronunciada.
+#### SECCION PRIMERA. POR LICENCIAS PARA ESTABLECIMIENTOS QUE EXPENDAN BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+OBJETO
 
-###### Artículo 117.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-Si los delincuentes fueren varios, el perdón otorgado a uno de ellos aprovechará a todos los demás cuando el ofendido hubiese obtenido la satisfacción de sus intereses o derechos.
+###### ARTICULO 113.
 
-El perdón del ofendido y del legitimado para otorgarlo en delitos de querella necesaria, también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora.
+El pago de los derechos a que se refiere esta Sección deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-###### Artículo 118.
+###### ARTICULO 114.
 
-Si fueren varios los ofendidos, el perdón concedido por alguno de éstos no extinguirá la acción respecto de los otros.
+Los servicios que presta la Secretaría de Desarrollo Social, causarán derechos conforme a la siguiente:
 
-###### Artículo 119.
+TARIFA
 
-Una vez otorgado el perdón, no podrá revocarse.
+I.- Aprobación de planos y expedición de licencias para fraccionamientos:
 
-#### SECCION QUINTA.- REHABILITACION
+1.- Residencial, $0.28 (VEINTIOCHO CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+2.- Medio, $0.14 (CATORCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-###### Artículo 120.
+3.- Interés social, $0.04 (CUATRO CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-La rehabilitación del sentenciado resulta de que éste haya cumplido con un proceso de readaptación social y consiste en reintegrarlo plenamente en el goce de los derechos de cuyo ejercicio se le hubiere suspendido, inhabilitado o privado. La declaratoria de rehabilitación se otorgará en los casos y con los requisitos que al efecto señale la Ley correspondiente.
+4.- Popular, $0.07 (SIETE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+5.- Comerciales, $0.51 (CINCUENTA Y UN CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-###### Artículo 121.
+6.- Industriales, $0.14 (CATORCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
 
-La readaptación social es el proceso penitenciario que tiene por objeto proporcionar al sentenciado los elementos para que pueda reintegrarse en el núcleo social y se le declare rehabilitado. La readaptación tendrá el carácter de tratamiento progresivo y técnico, formado por períodos de estudio y diagnóstico, tratamiento en clasificación, tratamiento preliberacional y reintegración, mismos que se realizarán en los casos, condiciones y con los requisitos que al efecto dispongan las autoridades competentes, de acuerdo con la Ley correspondiente.
+7.- Cementerios, $0.07 (SIETE CENTAVOS M.N.), por metro cuadrado vendible; y (3)
+
+8.- Campestres, $0.08 (OCHO CENTAVOS M.N.), por metro cuadrado vendible; (3)
+
+II.- Adecuaciones de lotificaciones, $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.) cada una;
+
+III.- Relotificaciones:
+
+1.- Habitacionales, $0.14 (CATORCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
+
+2.- Campestres, $0.15 (QUINCE CENTAVOS M.N.), por metro cuadrado vendible; (3)
+
+3.- Industriales, $0.08 (OCHO CENTAVOS M.N.), metro cuadrado vendible; y (3)
+
+4.- Comerciales, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado vendible. (3)
+
+IV.- Condominios, $0.12 (DOCE CENTAVOS M.N.), por metro cuadrado de construcción; (2)
+
+V.- Expedición de planos, pliegos de requisitos, especificaciones y documentación necesaria para la participación en los concursos, para la adjudicación de contratos de obra pública o de suministro de materiales, $636.00 (SEISCIENTOS TREINTA Y SEIS PESOS 00/100 M.N.); (2)
+
+VI.- Licencias para construcción de industrias de más de 5,000 metros cuadrados, $0.21 (VEINTIUN CENTAVOS M.N.), por metro cuadrado; (2)
+
+VII.- Licencias para construcción de edificios de más de 1,000 metros cuadrados, $0.42 (CUARENTA Y DOS CENTAVOS M.N.) por metro cuadrado; (2)
+
+VIII.- Evaluación de la manifestación de impacto ambiental en su modalidad general, $1,401.00 (MIL CUATROCIENTOS UN PESOS 00/100 M.N.); (2)
+
+IX.- Expedición de certificados de aptitud para la prestación de servicios profesionales y emisión de estudios químico-analíticos, en materia ambiental, $1,290.00 (MIL DOSCIENTOS NOVENTA PESOS 00/100 M.N.); (2)
+
+X.- Determinación del informe preventivo de impacto ambiental, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.); y (2)
+
+XI.- Otros servicios:
+
+1.- Por uso del tren escénico de la Unidad Deportiva Francisco I. Madero, $2.35 (DOS PESOS 35/100 M.N.), por persona; y (3)
+
+2.- Por uso de las embarcaciones recreativas de la Unidad Deportiva Francisco I. Madero, $2.35 (DOS PESOS 35/100 M.N.), por persona. (3)
+
+SUJETO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 75], P.O. 24 DE DICIEMBRE DE 1996)
+
+#### SECCION SEGUNDA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 115.
+
+Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+
+Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
+
+PAGO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 76], P.O. 24 DE DICIEMBRE DE 1996)
+
+#### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 116.
+
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+EXENCIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 77], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 117.
+
+No se causará este derecho cuando los servicios que se presten tengan por objeto la regularización de la tenencia de la tierra urbana y sean solicitados por Dependencias o Entidades Públicas Estatales, Federales y Municipales, que tengan a su cargo la responsabilidad de este tipo de programas.
+
+###### ARTICULO 118.
+
+Los servicios que presta la Secretaría de Comunicaciones y Obras Públicas, relativos a control vehicular causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual: (2)
+
+1.- Automóviles, camiones y camionetas:
+
+a).- Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, $367.00 (TRESCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.). (3)
+
+b).- De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $280.00 (DOSCIENTOS OCHENTA PESOS 00/100 M.N.). (3)
+
+c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $193.00 (CIENTO NOVENTA Y TRES PESOS 00/100 M.N.). (3)
+
+2.- Vehículos de servicio público, $456.00 (CUATROCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.). (3)
+
+3.- Remolque de servicio público, $259.00 (DOSCIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.). (3)
+
+4.- Para demostración, $456.00 (CUATROCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.). (11)
+
+II.- Expedición de juego de placas para demostración de vehículos $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
+
+III.- Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $280.00 (DOSCIENTOS OCHENTA PESOS 00/100 M.N.); (2)
+
+IV.- Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.); (2)
+
+V.- Expedición de placa para bicicleta, $27.00 (VEINTISIETE PESOS 00/100 M.N.); (2)
+
+VI.- Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
+
+1.- Automóviles, camiones y camionetas, $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.);
+
+2.- Vehículos de servicio público, $289.00 (DOSCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.); y
+
+3.- Remolques $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.).
+
+En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
+
+VII.- Expedición de licencias para conducir vehículos:
+
+1.- Motociclista $35.00 (TREINTA Y CINCO PESOS 00/100 M.N.); (3)
+
+2.- Chofer servicio particular $112.00 (CIENTO DOCE PESOS 00/100 M.N.); (3)
+
+3.- Automovilista $112.00 (CIENTO DOCE PESOS 00/100 M.N.); (3)
+
+4.- Chofer de servicio público $157.00 (CIENTO CINCUENTA Y SIETE PESOS 00/100 M.N.); (3)
+
+5.- Chofer para transporte de materiales peligrosos, $200.00 (DOSCIENTOS PESOS 00/100 M.N.); y (11)
+
+6.- Examen de conocimientos viales y fotografía digitalizada en licencia, $47.00 (CUARENTA Y SIETE PESOS 00/100 M.N.). (11)
+
+VIII.- Expedición de permisos por quince días para circular sin placas por una sola vez $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); (2)
+
+IX.- Reposición o cambio de tarjeta de circulación, $132.00 (CIENTO TREINTA Y DOS PESOS 00/100 M.N.); (2)
+
+X.- Tarjetón de identificación del servicio público de transporte, $118.00 (CIENTO DIECIOCHO PESOS 00/100 M.N.); (2)
+
+XI.- Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); y (2)
+
+XII.- La baja de placas del Estado y de otros Estados $0.00. (12)
+
+OBLIGACIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 79], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 119.
+
+El propietario de un vehículo deberá dar aviso si se llevase a cabo la enajenación de éste o fuese motivo de baja en la circulación.
+
+Los avisos a que se refiere este artículo deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 80], P.O. 24 DE DICIEMBRE DE 1996)
+
+#### SECCION SEGUNDA. POR OTROS SERVICIOS
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 120.
+
+El solicitante del servicio de control vehicular y el adquirente de placas y tarjeta de circulación, deberán dar aviso de cuantos cambios de domicilio lleve a cabo que alteren el registro vehicular.
+
+Los avisos a que se refiere este artículo, deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
+
+PAGO
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 81], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 121.
+
+El pago de estos derechos deberá hacerse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
+
+La adquisición de placas, tarjeta de circulación y engomado con número identificatorio, deberá realizarse dentro de los primeros tres meses del año siguiente al en que venza su vigencia. Las personas físicas o morales que adquieran vehículos nuevos o usados que no cuenten con placas, deberán hacerlo dentro de los quince días siguientes a la fecha de adquisición.
+
+El refrendo anual correspondiente a las placas metálicas, deberá pagarse dentro de los primeros tres meses de cada año.
+
+Los demás derechos regulados en esta Sección, se pagarán en el momento en que se soliciten.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 82], P.O. 24 DE DICIEMBRE DE 1996)
 
 #### SECCION SEXTA.- INDULTO
 
-###### Artículo 122.
+###### ARTICULO 122.
 
-El Ejecutivo podrá discrecionalmente conceder indulto a los reos que reúnan los siguientes requisitos:
+Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por la Secretaría de Finanzas previo pago de las contribuciones correspondientes.
 
-I.- Que hayan prestado importantes servicios a la Nación o al Estado;
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 83], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-II.- Que sean merecedores de él, por razones humanitarias o sociales y que hayan observado buena conducta durante su reclusión;
+###### ARTICULO 123.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+La falta de pago oportuno de los derechos a que se refieren las fracciones I, III, IV, V y VI del artículo 118 de esta ley, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
 
-III.- Que el delito por el que se le condenó no sea de los que se clasifican como graves.
+(REUBICADO [N. DE E. ANTES ARTICULO 84], P.O. 24 DE DICIEMBRE DE 1996)
 
-###### Artículo 123.
+###### ARTICULO 124.
 
-El indulto no extingue la responsabilidad civil.
+Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo con sus obligaciones de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, no podrán circular en el Estado.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
-
-###### Artículo 124.
-
-El indulto extingue las sanciones impuestas en sentencia ejecutoriada, salvo la reparación del daño y el decomiso.
+(REUBICADO [N. DE E. ANTES ARTICULO 85], P.O. 24 DE DICIEMBRE DE 1996)
 
 #### SECCION SEPTIMA.- PRESCRIPCION. 1.- REGLAS GENERALES
 
-###### Artículo 125.
+###### ARTICULO 125.
 
-Por la prescripción se extingue la acción persecutoria y la facultad de ejecutar las sanciones.
+Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán impedir la circulación o embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación en vigor, requiriendo de ser necesario el auxilio de la fuerza pública hasta en tanto el contribuyente cumpla con el pago de los derechos a que se refiere esta Sección, independientemente de las sanciones a que se haya hecho acredor.
 
-###### Artículo 126.
+###### ARTICULO 126.
 
-La prescripción es personal y para ella basta el simple transcurso del tiempo señalado en la Ley.
+Los servicios prestados por la Secretaría de Comunicaciones y Obras Públicas, causarán derechos conforme a la siguiente:
 
-###### Artículo 127.
+TARIFA
 
-Los plazos para la prescripción de la acción penal o de la facultad para ejecutar las sanciones serán continuos, y se les aplicarán las siguientes disposiciones:
+I.- Concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras locales:
 
-I.- Se contarán en cada caso desde el día señalado por la ley;
+1.- Expedición, $3,743.00 (TRES MIL SETECIENTOS CUARENTA Y TRES PESOS 00/100 M.N.); y (3)
 
-II.- Se aumentarán un tercio si el acusado o sentenciado permanece fuera del territorio del Estado;
+2.- Refrendo anual, $1,122.00 (MIL CIENTO VEINTIDOS PESOS 00/100 M.N.). (3)
 
-III.- Se aumentarán en dos tercios si el acusado o sentenciado permanece fuera del país.
+II.- Permiso con vigencia de cinco años para servicio de transporte especializado escolar o para trabajadores:
 
-###### Artículo 128.
+1.- Expedición, $1,178.00 (MIL CIENTO SETENTA Y OCHO PESOS 00/100 M.N.);
 
-La prescripción de la acción penal y de la sanción no influyen en la responsabilidad civil proveniente de delito, la cual se rige por las leyes civiles correspondientes.
+2.- Refrendo:
 
-2.- PRESCRIPCION DE LA ACCION PERSECUTORIA
+a).- En planteles educativos, $373.00 (TRESCIENTOS SETENTA Y TRES PESOS 00/100 M.N.); y
 
-###### Artículo 129.
+b).- En empresas, $449.00 (CUATROCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.). (2)
 
-El plazo para la prescripción de la acción persecutoria se contará:
+III.- Permiso anual para transporte de carga especializada de materiales o residuos peligrosos, $883.00 (OCHOCIENTOS OCHENTA Y TRES PESOS 00/100 M.N.); (2)
 
-I.- A partir del día en que se cometió el delito si fuere consumado;
+IV.- Permiso anual para servicio de transporte especializado de carga:
 
-II.- Desde que se realizó la última conducta, si el delito fuere continuado;
+1.- De comestibles, $412.00 (CUATROCIENTOS DOCE PESOS 00/100 M.N.); (3)
 
-III.- Desde que cesó la consumación del delito, si éste es permanente; y
+2.- De minerales, $1,050.00 (MIL CINCUENTA PESOS 00/100 M.N.); (3)
 
-IV.- Desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
+3.- Material de construcción, $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); y (3)
 
-###### Artículo 130.
+4.- Otros productos, $412.00 (CUATROCIENTOS DOCE PESOS 00/100 M.N.). (3)
 
-La acción persecutoria prescribe en un año, si el delito sólo mereciere multa; pero si el delito se sanciona con multa o prisión, con pena alternativa o sanción corporal y alguna otra accesoria, se atenderá en todo caso a la prescripción de la sanción corporal.
+V.- Permiso anual para grúas, $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
 
-###### Artículo 131.
+VI.- Transferencia de concesiones, $1,050.00 (MIL CINCUENTA PESOS 00/100 M.N.); (2)
 
-La acción persecutoria prescribe en un plazo igual al máximo de la sanción corporal que corresponda al delito; pero no será menor de tres años para los delitos que se persiguen de oficio.
+VII.- Autorización de nueva ruta $5,255.00 (CINCO MIL DOSCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.); (2)
 
-###### Artículo 132.
+VIII.- Ampliación de ruta del servicio de transporte de pasajeros, $2,627.00 (DOS MIL SEISCIENTOS VEINTISIETE PESOS 00/100 M.N.); (2)
 
-Si el delito solo mereciere destitución, suspensión, privación de derechos o inhabilitación, la prescripción se consumará en el plazo de dos años.
+IX.- Permiso temporal hasta por treinta días naturales para circular fuera de ruta, $264.00 (DOSCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.); (2)
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+X.- Revisión mecánica a vehículos de servicio público, $43.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); (2)
 
-###### Artículo 133.
+XI.- Verificación de emisiones de contaminantes, $42.00 (CUARENTA Y DOS PESOS 00/100 M.N.); (2)
 
-La acción persecutoria que nazca de un delito, sea o no continuo, que sólo pueda perseguirse por querella de parte, prescribirá en dos años; pero satisfecho el requisito inicial de la querella, se aplicarán las reglas señaladas para los delitos que se persiguen de oficio.
+XII.- Constancia de extravío de documentos $53.00 (CINCUENTA Y TRES PESOS 00/100 M.N.); y (2)
 
-###### Artículo 134.
+XIII.- Otros servicios:
 
-Cuando haya acumulación de delitos, las acciones persecutorias que de ellos resulten, prescribirán separadamente en el plazo señalado para cada uno.
+1.- Construcción de obras para acceso, $366.00 (TRESCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.); (3)
 
-###### Artículo 135.
+2.- Cruzamientos, instalaciones marginales y áreas subterráneas, $366.00 (TRESCIENTOS SESENTA Y SEIS PESOS 00/100 M.N.); (3)
 
-Cuando para deducir una acción persecutoria, sea necesario que antes se termine un juicio civil o de defensa social, no comenzará a correr la prescripción, sino hasta que en ese juicio se haya pronunciado sentencia irrevocable.
+3.- Construcción de obras para fines de publicidad, $489.00 (CUATROCIENTOS OCHENTA Y NUEVE PESOS 00/100 M.N.); (3)
 
-###### Artículo 136.
+4.- Conservación, modificación, ampliación y reparación de obras en el derecho de vía, $184.00 (CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
+5.- Retiro de anuncios u obras publicitarias, $184.00 (CIENTO OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-###### Artículo 137.
+6.- Permisos a vehículos de carga de empresas privadas, $154.00 (CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.); (3)
 
-La aprehensión del acusado destruye la prescripción que hubiere corrido a su favor. Si después de aprehendido se fugare, la prescripción comenzará a correr desde el día siguiente al en que la fuga se verifique.
+7.- Permisos no incluidos en los anteriores, $442.00 (CUATROCIENTOS CUARENTA Y DOS PESOS 00/100 M.N.); y (3)
 
-###### Artículo 138.
+8.- Por otros servicios no especificados, $88.00 (OCHENTA Y OCHO PESOS 00/00 M.N.). (3)
 
-Si para deducir una acción persecutoria exigiere la ley la declaración previa de una autoridad, las gestiones que a ese fin se practiquen interrumpirán la prescripción.
+SUJETO
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 87], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 127.
+
+Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+
+Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 88], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 128.
+
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+###### ARTICULO 129.
+
+Los servicios que presta la Secretaría de Educación Pública causarán derechos, conforme a la siguiente:
+
+TARIFA
+
+I.- Registros de títulos profesionales, excepto los que expidan las Escuelas Normales del Estado, $201.00 (DOSCIENTOS UN PESOS 00/100 M.N.); (2)
+
+II.- Registro de títulos profesionales que procedan de otro Estado, $420.00 (CUATROCIENTOS VEINTE PESOS 00/100 M.N.); (2)
+
+III.- Registro de diplomas comerciales, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (2)
+
+IV.- Legalización de firmas de certificados universitarios y de la Secretaría de Educación Pública del Estado, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.) por firma; (2)
+
+V.- Por autorización de incorporación de planteles escolares $8,759.00 (OCHO MIL SETECIENTOS CINCUENTA Y NUEVE PESOS 00/100 M.N.); (2)
+
+VI.- Por trámite de autorización para la incorporación de planteles escolares $876.00 (OCHOCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.); (2)
+
+VII.- Por la incorporación y el refrendo anual al sistema educativo estatal de las escuelas de educación inicial, preescolar, primaria, secundaria, particulares, las academias comerciales o de otro tipo, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.) por alumno. (2)
+
+Los derechos que establece esta fracción, deberán pagarse dentro del mes de octubre de cada año.
+
+La omisión en el pago de este derecho dentro del plazo establecido en el párrafo que antecede, causará recargos conforme a la tasa que establezca la Ley de Ingresos para el Estado de Coahuila.
+
+VIII.- Por autorización de examen a título de suficiencia en escuelas de nivel medio superior y superior $88.00 (OCHENTA Y OCHO PESOS 00/100 M.N.); (2)
+
+IX.- Por equivalencia de estudios de nivel medio y superior $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.); y (2)
+
+X.- Por revalidación de estudios de primaria, secundaria y bachillerato hechos en el extranjero $175.00 (CIENTO SETENTA Y CINCO PESOS 00/100 M.N.). (2)
+
+SUJETO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 90], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 130.
+
+Son sujetos de este derecho, las personas que soliciten los servicios que se establecen en el artículo que antecede.
+
+PAGO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 91], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 131.
+
+El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+###### ARTICULO 132.
+
+Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Contraloría y Modernización Administrativa en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
+
+###### ARTICULO 133.
+
+Por otros servicios:
+
+I.- Por la expedición de certificados de no existencia de registros de inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público $71.00 (SETENTA Y UN PESOS 00/100 M.N.); (2)
+
+II.- Por la expedición de certificado de aptitud para ser proveedor del Gobierno del Estado, $701.00 (SETECIENTOS UN PESOS 00/100 M.N.); (2)
+
+III.- Por inscripción en el padrón de proveedores, $0.00; y
+
+IV.- Por la expedición de copias certificadas $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.), por la primera hoja; $20.00 (VEINTE PESOS 00/100 M.N.) por hoja adicional. (2)
+
+SUJETO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 94], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 134.
+
+Son sujetos de este derecho, las personas que soliciten los servicios que establece este Capítulo.
+
+PAGO
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 95], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 135.
+
+La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 132 de esta ley.
+
+El pago de los derechos por los servicios a que se refiere el artículo 133, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+###### ARTICULO 136.
+
+Los servicios que presta la Procuraduría General de Justicia del Estado a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Los prestados por el Departamento de Servicios Periciales de:
+
+1.- Pruebas y Técnicas:
+
+a).- Prueba de espermatobioscopia, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
+
+b).- Técnica de bencidina, $105.00 (CIENTO CINCO PESOS 00/100 M.N.); (3)
+
+c).- Técnica de fonolftaleina, $122.00 (CIENTO VEINTIDOS PESOS 00/100 M.N.); (3)
+
+d).- Prueba de leucomalaquita verde, $124.00 (CIENTO VEINTICUATRO PESOS 00/100 M.N.); (3)
+
+e).- Prueba de determinación de grupo sanguíneo, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (3)
+
+f).- Prueba de determinación de grupo sanguíneo/factor R.H., $238.00 (DOSCIENTOS TREINTA Y OCHO PESOS 00/100 M.N.); (3)
+
+g).- Prueba de dequenois, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
+
+h).- Prueba de radiozonato de sodio, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.); (3)
+
+i).- Prueba de walker, $310.00 (TRESCIENTOS DIEZ PESOS 00/100 M.N.); (3)
+
+j).- Técnica de adler, $122.00 (CIENTO VEINTIDOS PESOS 00/100 M.N.); (3)
+
+k).- Técnica de takayama, $177.00 (CIENTO SETENTA Y SIETE PESOS 00/100 M.N.); (3)
+
+l).- Prueba de fosfatasa, $490.00 (CUATROCIENTOS NOVENTA PESOS 00/100 M.N.); (3)
+
+m).- Prueba de identificación de drogas diversas (anfetaminas, heroína, cocaína, etc.), $245.00 (DOSCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.); y (3)
+
+n).- Prueba para detectar el consumo de substancias consideradas como narcóticos (antidoping), $260.00 (DOSCIENTOS SESENTA PESOS 00/100 M.N.). (3)
+
+2.- Otros servicios periciales:
+
+a).- Cotejo de proyectiles, $482.00 (CUATROCIENTOS OCHENTA Y DOS PESOS 00/100 M.N.); (3)
+
+b).- Peritaje de tránsito terrestre, $1,146.00 (MIL CIENTO CUARENTA Y SEIS PESOS 00/100 M.N.); (3)
+
+c).- Grafoscopía, $841.00 (OCHOCIENTOS CUARENTA Y UN PESOS 00/100 M.N.); (3)
+
+d).- Valoración de daños, $1,107.00 (MIL CIENTO SIETE PESOS 00/100 M.N.); (3)
+
+e).- Dactiloscopía, $669.00 (SEISCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.); (3)
+
+f).- Certificado de no antecedentes policiacos, $52.00 (CINCUENTA Y DOS PESOS 00/100 M.N.); y (3)
+
+g).- Certificaciones y constancias, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.). (3)
+
+En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, $13.00 (TRECE PESOS 00/100 M.N.) por kilómetro. (7)
+
+II.- Los prestados por otras unidades administrativas de la Procuraduría General de Justicia:
+
+1.- Certificaciones y constancias, $65.00 (SESENTA Y CINCO PESOS 00/100 M.N.); y (3)
+
+2.- Por otros servicios no especificados, $87.00 (OCHENTA Y SIETE PESOS 00/100 M.N.). (3)
+
+(REUBICADO [N. DE E. ANTES ARTICULO 97], P.O. 24 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 137.
+
+El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+###### ARTICULO 138.
+
+Los servicios prestados por el Organismo Desconcentrado del Ejecutivo del Estado, denominado "Servicios Estatales Aeroportuarios", causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Renta mensual de hangar, se cobrará de conformidad con los contratos que celebren con los usuarios;
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 1998)</small>
+
+II.- Aterrizaje:
+
+1.- Considerando el peso de la aeronave monomotor, cualquier clase de un motor o pistón $84.00 (OCHENTA Y CUATRO PESOS 00/100 M.N.); (3)
+
+2.- King-Air, Cessna 340-341-441, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.); (3)
+
+3.- Lear Jet Sabreliner, Turbo Comander, Citation Falcon-20, $126.00 (CIENTO VEINTISEIS PESOS 00/100 M.N.); (3)
+
+4.- Challenger, $146.00 (CIENTO CUARENTA Y SEIS PESOS 00/100 M.N.); (3)
+
+5.- Grumman, $183.00 (CIENTO OCHENTA Y TRES PESOS 00/100 M.N.); (3)
+
+6.- Curtis, $267.00 (DOSCIENTOS SESENTA Y SIETE PESOS 00/100 M.N.); (3)
+
+7.- DC-9, $451.00 (CUATROCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.); y (3)
+
+8.- Boeing Carguero, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.). (3)
+
+III.- Pernoctas, aeronave de todo tipo, $91.00 (NOVENTA Y UN PESOS 00/100 M.N.); (2)
+
+IV.- Extensión de horario de servicios, para cualquier tipo de aeronave por cada media hora, $193.00 (CIENTO NOVENTA Y TRES PESOS 00/100 M.N.); (2)
+
+V.- La asignación de locales comerciales y áreas para publicidad, se pagará de conformidad con los contratos que se celebren con los particulares;
+
+VI.- Para la aviación comercial, se aplicarán las tarifas establecidas en los contratos respectivos, para la tarifa de uso de aeropuerto se aplicará la aprobada a nivel nacional.
+
+VII.- Por otros servicios:
+
+1..- Entrada de vehículos a plataforma, $61.00 (SESENTA Y UN PESOS 00/100 M.N.); y (3)
+
+2.- Entrada de trailers a plataforma, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.). (3)
+
+VIII.- Por otros servicios no especificados, $98.00 (NOVENTA Y OCHO PESOS 00/100 M.N.). (2)
+
+SUJETO
+
+(REUBICADO [N. DE E. ANTES ARTICULO 99], P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### Artículo 138 Bis.
 
@@ -1475,33 +2375,45 @@ La prescripción de la pretensión punitiva se interrumpirá también por el req
 
 3.- PRESCRIPCION DE LA FACULTAD DE EJECUTAR LAS SANCIONES
 
-###### Artículo 139.
+###### ARTICULO 139.
 
-Los plazos para la prescripción de las sanciones correrán:
+Son sujetos de este derecho las personas físicas o morales que soliciten los servicios establecidos en el artículo que antecede.
 
-I.- Desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la autoridad, si las sanciones son corporales;
+PAGO
 
-II.- Si las sanciones no son corporales, desde la fecha de la sentencia ejecutoriada, a excepción de la sanción pecuniaria, cuyo plazo empieza a correr al extinguirse la sanción corporal, que se imponga conjuntamente.
+(REUBICADO [N. DE E. ANTES ARTICULO 100], P.O. 24 DE DICIEMBRE DE 1996)
 
-###### Artículo 140.
+###### ARTICULO 140.
 
-La multa prescribe en un año.
+El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados.
 
-Las demás sanciones prescribirán por el transcurso de un plazo igual al que debían durar y una cuarta parte más de ese tiempo faltante; pero no bajará de tres años, ni excederá de quince.
+## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-###### Artículo 141.
+###### ARTICULO 141.
 
-Cuando el reo hubiere extinguido ya una parte de la sanción, se necesitará para la prescripción tanto tiempo como el que falte de aquélla y una cuarta parte más, pero no bajará de tres años, ni excederá de quince.
+Es objeto de esta contribución el gasto público específico que se origine por el ejercicio de una determinada actividad de particulares.
 
-###### Artículo 142.
+SUJETO
 
-La prescripción de las sanciones se interrumpe únicamente:
+(REUBICADO [N. DE E. ANTES ARTICULO 102], P.O. 24 DE DICIEMBRE DE 1996)
 
-I.- Por la aprehensión del reo, si se trata de sanciones corporales, aunque la aprehensión se ejecute en virtud de otro delito; y
+###### ARTICULO 142.
 
-II.- Por el embargo de bienes para hacerlas efectivas, cuando se trate de sanciones pecuniarias.
+Son sujetos de la contribución a que se refiere este Capítulo:
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2012)</small>
+I.- Por responsabilidad directa:
+
+Las personas físicas o morales que originen un gasto público por el ejercicio de una determinada actividad.
+
+II.- Por responsabilidad solidaria:
+
+1. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la representación legal, la Dirección General, la Gerencia General o la administración única de las personas morales sujeto de esta contribución; y
+
+2. Quienes ejerzan la patria potestad o tutela, por las contribuciones a cargo de su representado.
+
+BASE
+
+(REUBICADO [N. DE E. ANTES ARTICULO 103], P.O. 24 DE DICIEMBRE DE 1996)
 
 #### SECCION OCTAVA.- SUPRESIÓN DEL TIPO PENAL
 
@@ -1527,259 +2439,459 @@ III.- Dos sentencias, dictadas en procesos distintos, se hará la declaratoria d
 
 # LIBRO SEGUNDO. DELITOS EN PARTICULAR
 
-### CAPITULO PRIMERO.- DELITOS CONTRA EL ORDEN CONSTITUCIONAL Y LA SEGURIDAD DEL ESTADO
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION EN EL ESTADO
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA.- DELITOS CONTRA EL ORDEN CONSTITUCIONAL
 
-###### Artículo 143.
+###### ARTICULO 143.
 
-Se impondrán de seis meses a seis años de prisión y multa de cinco a cincuenta días de salario, a quien o quienes, sin estar alzados en armas y sin obrar tumultuariamente, ejecuten actos con alguno o algunos de los propósitos siguientes:
+La base de las contribuciones a que se refiere este Capítulo será el importe del gasto público provocado.
 
-I.- Abolir, reformar y suspender la Constitución Política del Estado, sin tener facultades legales para ello;
+(REUBICADO [N. DE E. ANTES ARTICULO 104], P.O. 24 DE DICIEMBRE DE 1996)
 
-II.- Disolver el Congreso del Estado, impedir que se reúna o celebre sus sesiones o coartar la libertad de sus deliberaciones;
+###### ARTICULO 144.
 
-III.- Impedir a un diputado que se presente al Congreso a desempeñar su cargo, o perseguirlo, o atentar contra su persona o bienes, por las opiniones políticas emitidas en su desempeño;
+La Secretaría de Finanzas estará facultada para determinar el importe de las contribuciones, quien deberá tomar en cuenta para su determinación, el costo real del gasto público originado.
 
-IV.- Oponerse con vías de hecho a que el Gobernador del Estado tome posesión de su cargo, u obligarlo a renunciar, o privarlo de la libertad con que debe ejercer sus atribuciones;
+PAGO
 
-V.- Tratar que los Magistrados del Tribunal Superior de Justicia o Jueces no tomen posesión de sus cargos, obligarlos a renunciar o a separarse de ellos, o intentar, por medio de la violencia, que dicten o no sus fallos en determinado sentido;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-VI.- Impedir por vías de hecho que las autoridades municipales tomen posesión de sus cargos, o ejerzan sus funciones;
+###### ARTICULO 145.
 
-VII.- Coaccionar a las autoridades municipales para que renuncien a sus cargos.
+Las contribuciones por gasto deberán ser pagadas en las oficinas recaudadoras de la Secretaría de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
 
-###### Artículo 144.
-
-Cuando los hechos delictuosos de que trata el artículo anterior, sean cometidos por funcionarios públicos o empleados del Estado, además de las sanciones mencionadas se impondrá la destitución del cargo o empleo, la inhabilitación para obtener otro hasta por diez años y la privación de derechos políticos por igual tiempo.
-
-###### Artículo 145.
-
-El que pública o privadamente, y con intenciones de subvertir el orden público, manifieste que no debe guardarse el todo o parte de la Constitución del Estado, sufrirá de uno a tres meses de prisión; pero si el infractor es un funcionario o empleado público del Estado, será condenado, además a la destitución de su cargo, empleo o comisión, y a inhabilitación para obtener otro hasta por cinco años.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION SEGUNDA.- DELITOS CONTRA LA INTEGRIDAD TERRITORIAL DEL ESTADO
 
-###### Artículo 146.
+###### ARTICULO 146.
 
-Se impondrán de uno a tres años de prisión y multa de cinco a cincuenta días de salario al que destruya o quite las señales que marcan los límites del Estado o que de cualquier otro modo, haga que se confundan, si por ello se origina un conflicto al Estado. Faltando esta circunstancia, la sanción será de un mes a un año de prisión.
+El monto total de la contribución en cada caso, no podrá exceder del costo del gasto público de que se trate.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION TERCERA.- REBELION
 
-###### Artículo 147.
+###### ARTICULO 147.
 
-El delito de rebelión se comete cuando personas no militares, se alzan en armas contra el Gobierno del Estado, con alguno de los propósitos siguientes:
+La Secretaría de Finanzas, formulará y notificará la resolución que determine las contribuciones a cargo de los contribuyentes, en la que se expresará la causa y monto del gasto provocado.
 
-I.- Abolir, suspender o reformar la Constitución Política del Estado, y las leyes e instituciones que de ella emanan;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-II.- Impedir la elección o la integración de alguno de los Poderes del Estado o de las Autoridades Municipales;
+###### ARTICULO 148.
 
-III.- Separar de su cargo, obligar a renunciar o privar de la libertad con que debe ejercer sus funciones, al Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, integrantes del Congreso Local o Procurador General de Justicia;
+En lo no previsto en este Capítulo, la aplicación y recaudación de las contribuciones, se hará con apego a las disposiciones del Código Fiscal para el Estado de Coahuila.
 
-IV.- Substraer de la obediencia del Gobierno del Estado:
+###### ARTICULO 149.
 
-a) Toda o una parte de la entidad; o
+Es objeto de esta contribución la realización de pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, así como los accesorios que se paguen.
 
-b) Algún cuerpo de la fuerza pública del Estado.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1997)</small>
 
-###### Artículo 148.
+No se considerarán incluidos en el objeto de esta contribución, los pagos correspondientes al Impuesto Sobre Nóminas, al Impuesto Sobre Diversiones y Espectáculos Públicos relativos a eventos cinematográficos, teatrales y de circo, al Impuesto por Servicios de Hospedaje, al Impuesto Sobre Ingresos por Premios Derivados de Loterías, Rifas, Sorteos, Juegos con Apuestas y Concursos, al Impuesto Adicional Sobre los Derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio y los derechos que se causen por los servicios que presta la Secretaría de Educación Pública.
 
-El delito de rebelión se sancionará con prisión de dos a veinte años y multa de diez a cien días de salario.
+El rendimiento de esta contribución será destinado exclusivamente al fomento a la educación en el Estado.
 
-###### Artículo 149.
+SUJETO
 
-Las sanciones establecidas en el artículo anterior también se impondrán:
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-I.- Al que proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres, medios de transporte o de comunicación, o impidan que el Gobierno del Estado reciba esta clase de auxilios;
+###### ARTICULO 150.
 
-II.- Al funcionario o empleado público, que teniendo por razón de su cargo, documentos o informes de interés estratégico, los proporcione por cualquier medio a los rebeldes;
+Son sujetos de esta contribución, las personas físicas, morales o unidades económicas que realicen pagos por concepto de impuestos, derechos y cualquier otra contribución que se cause conforme a la presente ley y demás disposiciones fiscales del Estado, con excepción de los señalados en el artículo anterior.
 
-III.- Al que en cualquier forma o por cualquier medio invite a una rebelión;
+BASE
 
-IV.- Al que estando en la zona que se halle bajo la protección y garantía del Estado:
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-a) oculte o auxilie a los espías o exploradores de los rebeldes a sabiendas de que lo son.
+###### ARTICULO 151.
 
-b) mantenga relaciones con el enemigo para proporcionarle noticias concernientes a las operaciones militares u otras que le sean útiles.
+La base de esta contribución, es el importe de los pagos que se realicen por concepto de impuestos, derechos y demás contribuciones incluyendo sus accesorios, excepto los pagos de las contribuciones que se exceptúan en el artículo 149 de esta ley.
 
-V.- Al que voluntariamente sirva un empleo, cargo subalterno o comisión en lugar ocupado por los rebeldes y en beneficio de éstos.
+TASA
 
-###### Artículo 150.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-A quienes, terminado ya el enfrentamiento armado, ordenen la muerte de un prisionero o por sí mismos causaren ésta, serán juzgados y sentenciados por homicidio calificado.
+###### ARTICULO 152.
 
-###### Artículo 151.
+La tasa correspondiente a esta contribución para el fomento a la educación, será el 10% sobre el monto de los pagos por concepto de los impuestos, derechos y cualquier otra contribución y los accesorios de éstos, que se paguen con excepción de los señalados.
 
-Los rebeldes no serán responsables de las muertes ni de las lesiones inferidas en el acto de combate, pero de todo homicidio que se cometa y de toda lesión que se cause fuera de la lucha, serán responsables tanto el que manda ejecutar el delito como el que lo permita y los que directamente lo ejecuten.
+PAGO
 
-###### Artículo 152.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Cuando fuera de combate y para hacer triunfar la rebelión se cometieren otros delitos, se aplicarán las sanciones que por éstos y por el de rebelión correspondan.
+###### ARTICULO 153.
 
-###### Artículo 153.
-
-No se aplicará sanción a los que espontáneamente depongan las armas antes de que se hubiesen roto las hostilidades, siempre que no hubieren cometido alguno de los delitos mencionados en los artículos 150 y 152.
+El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
 #### SECCION CUARTA.- SEDICION, MOTIN Y TERRORISMO
 
-###### Artículo 154.
+###### ARTICULO 154.
 
-Cometen el delito de sedición quienes en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las finalidades del artículo 147 de este Código.
+Es objeto de esta contribución para el mantenimiento y cconservación (sic) del Centro Histórico de las ciudades de Saltillo y Ramos Arizpe, la realización de pagos por concepto de derechos de control vehicular que se causen en los municipios señalados.
 
-###### Artículo 155.
+Los ingresos que se obtengan por esta contribución, serán destinados exclusivamente para los fines señalados, asignándose a cada municipio el importe del ingreso que se genere en el mismo.
 
-Se impondrán de seis meses a ocho años de prisión y multa hasta de cien días de salario, a quienes cometan el delito de sedición.
+SUJETO
 
-###### Artículo 156.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la sanción de cinco a quince años de prisión y multa hasta de doscientos días de salario.
+###### ARTICULO 155.
 
-###### Artículo 157.
+Son sujetos de esta contribución, las personas físicas, morales o unidades económicas que realicen pagos por los conceptos a que se refiere el artículo anterior.
 
-Cometen el delito de motín quienes para hacer uso de un derecho o pretextando su ejercicio, o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
+BASE
 
-###### Artículo 158.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Se impondrán de uno a nueve años de prisión y multa hasta de doscientos días de salario, a quienes cometan el delito de motín.
+###### ARTICULO 156.
 
-###### Artículo 159.
+La base de esta contribución, es la realización de los pagos por concepto de los derechos señalados.
 
-A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otro para cometer el delito de motín, se les aplicará la sanción de cuatro a diez años de prisión y multa hasta de doscientos cincuenta días de salario.
+CUOTA
 
-###### Artículo 160.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
 
-Comete el delito de terrorismo quien, para perturbar la paz pública y utilizando explosivos, substancias tóxicas, armas de fuego o por incendio, inundación, o por cualquier otro medio violento, realice actos en contra de las personas, cosas o servicios al público, que produzcan alarma, temor, terror en la población o en un grupo o sector de ella.
+###### ARTICULO 157.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+La cuota correspondiente a esta contribución será la cantidad de $28.00 por cada trámite de refrendo u obtención de placas que se realice. (9)
 
-###### Artículo 161.
+Los contribuyentes que realicen dos o más trámites por los que se causen derechos de control vehicular en un mismo ejercicio fiscal, únicamente estarán obligados a realizar un sólo pago durante el ejercicio.
 
-Se impondrá prisión de cinco a cincuenta años y multa hasta de seiscientos días de salario, a quien cometa el delito de terrorismo.
+PAGO
 
-Estas sanciones se impondrán además de las que correspondan al terrorista por los delitos que resulten cometidos.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 162.
+###### ARTICULO 158.
 
-Las mismas sanciones establecidas en el artículo anterior se impondrán a quienes, con uno o varios de los medios enumerados en él, trate de menoscabar la autoridad estatal o municipal, o presionar a éstas para que tomen una determinación.
+El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
 
-###### Artículo 163.
+###### ARTICULO 159.
 
-Las sanciones establecidas en los dos artículos que preceden se impondrán sin perjuicio de las que correspondan por los delitos que resulten.
+Es objeto de la contribución por obra pública, la construcción, reconstrucción y ampliación de las siguientes obras:
 
-###### Artículo 164.
+I.- Vías públicas, tales como calles, avenidas, calzadas, viaductos, pasos a desnivel, obras de seguridad relacionadas con el tránsito de vehículos y peatones, puentes y plazas;
 
-Se aplicará sanción de tres a nueve años de prisión y multa hasta de cien días de salario, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
+II.- Introducción de agua potable a los poblados y desagüe general de los mismos;
 
-###### Artículo 165.
+III.- Redes de distribución de agua potable, drenaje y alcantarillado;
 
-Se aplicarán prisión de dos a doce años y multa hasta de doscientos días de salario, a quien haciendo uso de cualquier medio de comunicación, difunda noticias que siendo falsas las haga aparecer como ciertas y produzcan alarma, temor, terror en la población o en un grupo o sector de ella, para perturbar la paz pública, tratar de menoscabar la autoridad estatal o municipal o presionar a cualquiera de ellas para que tome una determinación.
+IV.- Alumbrado público;
+
+V.- Obras de electrificación;
+
+VI.- Conexión de la red general de agua potable a centros de población;
+
+VII.- Conexión del sistema general de drenaje a centros de población;
+
+VIII.- Obras básicas para agua y drenaje;
+
+IX.- Centros deportivos y recreativos, parques y jardines;
+
+X.- Caminos;
+
+XI.- Bordos, canales e irrigación;
+
+XII.- Obras de embellecimiento y remodelación de poblaciones; y
+
+XIII.- Otras obras públicas que generen beneficios en su ejecución a los inmuebles y/o cooperadores.
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 160.
+
+Son sujetos de la contribución por obra pública:
+
+I.- Por responsabilidad directa:
+
+1.- Los propietarios y copropietarios de los inmuebles, que resulten beneficiados con la realización de una obra pública;
+
+2.- Los poseedores a título de dueño de inmuebles beneficiados con la realización de una obra pública; y
+
+3.- Las personas físicas y morales que hayan adquirido derechos sobre los inmuebles ubicados en el área de beneficio de una obra pública.
+
+II.- Por responsabilidad solidaria:
+
+1.- Los promitentes vendedores y sus contratantes, en las operaciones con reserva de dominio, por las contribuciones que se adeuden; y
+
+2.- Las instituciones fiduciarias cuando los predios estén afectados en fideicomiso. Dicha institución cubrirá las contribuciones con cargo a quien quede como propietario del predio beneficiado.
+
+BASE
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 161.
+
+La base de la contribución a que se refiere este Capítulo será el costo total de la obra pública específica.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 162.
+
+Cuando se trate de obras por cooperación de carácter estatal, la Secretaría de Comunicaciones y Obras Públicas y la Secretaría de Finanzas, serán el conducto del Ejecutivo del Estado para tomar las siguientes determinaciones:
+
+I.- Proyectos, programas, especificaciones de construcción y presupuestos con el costo total de las obras;
+
+II.- Area beneficiada con la obra y zona de influencia; y
+
+III.- Determinar la cantidad global que deban cubrir los contribuyentes beneficiados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 163.
+
+En todo caso, a la Secretaría de Finanzas le corresponderá:
+
+I.- Determinar la cuota que corresponda pagar a cada contribuyente en particular; y
+
+II.- Establecer el plazo y forma en que deban efectuarse los pagos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 164.
+
+Las contribuciones a que se refiere este Capítulo podrán ser de carácter voluntario, o de carácter obligatorio, de acuerdo con las siguientes normas:
+
+I.- Será voluntaria aquélla en la cual los particulares aporten total o parcialmente la suma necesaria para realizar las obras de que se trate en forma espontánea y de acuerdo con el plan correspondiente, o a promoción de las autoridades estatales.
+
+La cooperación voluntaria se convertirá en obligatoria una vez formalizado el convenio correspondiente y será exigible en los términos del presente ordenamiento y de las leyes fiscales relativas.
+
+II.- Son cooperaciones obligatorias las siguientes:
+
+1.- La pavimentación o repavimentación de las vías públicas y el embanquetado y construcción de guarniciones de las mismas;
+
+2.- La electrificación de las zonas urbanas o rurales, tanto para usos domésticos como para usos industriales y agropecuarios;
+
+3.- Las necesarias para adoptar o mejorar el alumbrado público;
+
+4.- Las que se requieran para adoptar o mejorar los servicios de agua potable, drenaje sanitario, drenaje pluvial y gas natural para uso doméstico;
+
+5.- Las necesarias para la construcción y conservación de caminos vecinales; y
+
+6.- Las demás que determine el Congreso del Estado como obligatorias.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 165.
+
+Para que se cause la contribución por obra pública a que se refiere el artículo anterior, será necesario que los predios se encuentren en las siguientes circunstancias:
+
+I.- Si son exteriores, tener frente a la calle donde se ejecuten las obras; y
+
+II.- Si son interiores, tener acceso mediante servidumbre de paso a la calle en que se ejecuten las obras.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION QUINTA.- CONSPIRACION
 
-###### Artículo 166.
+###### ARTICULO 166.
 
-Son responsables del delito de conspiración, quienes resuelvan de concierto, cometer uno o varios de los delitos sancionados por los artículos 154 a 165 del presente capítulo y acuerden los medios para llevar a cabo su determinación. El delito de conspiración se sancionará con uno a nueve años de prisión y multa de diez a cien días de salario, además de la sanción que corresponda por el o los delitos que se cometan.
+Cuando se trate de edificios sujetos al régimen de propiedad en condominio, divididos en pisos, departamentos, viviendas o locales, se considerará que la totalidad del predio se beneficia con la obra. La parte de la contribución por obra pública a cargo de cada propietario se determinará dividiendo el monto que corresponda a todo el inmueble, entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común y multiplicando ese cociente por el número de metros que corresponda al piso, departamento, vivienda o local de que se trate.
 
-### CAPITULO SEGUNDO.- DELITOS CONTRA LA SEGURIDAD PUBLICA
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO Y RAMOS ARIZPE
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA.- EVASION DE PRESOS
 
-###### Artículo 167.
+###### ARTICULO 167.
 
-Cuando el encargado de conducir o custodiar a un detenido, procesado o sentenciado, lo ponga indebidamente en libertad o proteja su evasión, será sancionado con prisión de tres meses a cinco años, destitución del cargo o empleo que estuviere desempeñando e inhabilitación de uno a diez años para obtener otro.
+Las contribuciones por obra pública se determinarán aplicando el procedimiento que establece la Ley de Cooperación para Obras Públicas del Estado de Coahuila de Zaragoza, en todo caso, el porcentaje a contribuir por los particulares, se dividirá conforme al mencionado procedimiento entre los propietarios de los predios beneficiados.
 
-###### Artículo 168.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-En el supuesto previsto en el artículo anterior, para la determinación de las sanciones aplicables, se tendrán en cuenta, además de las circunstancias que expresan los artículos 72, 74 y 75 de este Código, la calidad del prófugo y la gravedad del delito que se le imputa.
+###### ARTICULO 168.
 
-###### Artículo 169.
+La contribución por obra pública se causará cuando la autoridad competente acuerde realizar la obra, mediante el concurso público o de invitación, que estará sujeto a las reglamentaciones respectivas. Para los efectos de esta contribución cuando se trate de obras de pavimentación o repavimentación, no podrá volver a cobrarse por el mismo concepto en un período mínimo de 10 años y, en consecuencia no se podrá acordar una nueva realización de la misma obra por cooperación antes de ese plazo.
 
-Si en la comisión del delito de evasión de presos, el autor empleare violencia física o moral, engaño, fractura, horadación, excavación, escalamiento o llaves falsas, además de las sanciones mencionadas en el artículo 167, se le impondrá prisión de tres días a dos años.
+PAGO
 
-###### Artículo 170.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Si la evasión se verificare exclusivamente por descuido o negligencia del custodio o conductor, éste será sancionado como reo de un delito de imprudencia. La sanción cesará al momento en que se logre la reaprehensión del prófugo, si se consiguiere por gestiones del custodio o conductor responsable y antes de que pasen cuatro meses contados desde la evasión.
+###### ARTICULO 169.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+Las contribuciones por obra pública deberán ser pagadas en las oficinas recaudadoras de la Secretaría de Finanzas, o en las instituciones de crédito autorizadas, al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren con los particulares, en la forma y plazo que ésta determine.
 
-###### Artículo 171.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Las mismas penas se impondrán al que proporcione o proteja la evasión, sin ser el encargado de la custodia o conducción del detenido procesado o sentenciado.
+###### ARTICULO 170.
 
-###### Artículo 172.
+La Secretaría de Finanzas del Estado formulará la liquidación de la contribución por obra pública para cada contribuyente en particular.
 
-Los artículos anteriores no comprenden a ascendientes, cónyuge, hermanos del prófugo, parientes por afinidad hasta el segundo grado, ni a persona ligada con él por grande afecto o por vivir en la situación prevista por el artículo 297 del Código Civil, salvo que hubieren infringido también el artículo 169 de este Código, caso en el que se les impondrá prisión de un mes a un año.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-###### Artículo 173.
+###### ARTICULO 171.
 
-Se impondrá de tres a diez años de prisión al que proporcione al mismo tiempo o en un solo acto, la evasión de varias personas privadas de la libertad por autoridad competente.
+La resolución que determine las contribuciones a pagar por la obra, deberá estar debidamente fundada y motivada y contener además los siguientes datos:
 
-###### Artículo 174.
+I.- Descripción genérica de la obra;
 
-Si en el supuesto previsto en el artículo anterior, el responsable prestare sus servicios en el establecimiento en que se verificó la evasión, quedará, además, destituido de su empleo e inhabilitado para obtener otro por el tiempo de seis a ocho años.
+II.- Costo total estimado;
 
-###### Artículo 175.
+III.- Area beneficiada con la obra y zona de influencia;
 
-Si la reaprehensión del o de los prófugos, se lograre por gestiones del responsable de la evasión, se reducirán a la cuarta parte las sanciones de prisión y de inhabilitación que señalan los artículos anteriores.
+IV.- Ubicación del predio;
 
-###### Artículo 176.
+V.- Períodos de iniciación y terminación de la obra;
 
-Al detenido, procesado o sentenciado que se fugue no se le aplicará sanción alguna, salvo el caso de que obre de acuerdo con otro u otros presos y alguno de éstos se fugare, pues entonces se le impondrán las sanciones que previenen los artículos precedentes, según el caso.
+VI.- Cantidad total que deben aportar los beneficiados;
 
-###### Artículo 177.
+VII.- La cantidad a pagar por el contribuyente; y
 
-Al prófugo no se le contará el tiempo que estuviere fuera del lugar de su reclusión, ni se le tendrá en cuenta la buena conducta que hubiere tenido antes de su evasión.
+VIII.- Plazo y forma en que deberá hacerse la contribución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 172.
+
+Los predios beneficiados por la ejecución de obras públicas por cooperación, estarán afectos en forma preferente al pago del importe de las contribuciones a que se refiere este Capítulo.
+
+TASA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 173.
+
+La tasa correspondiente a la contribución obligatoria para obra pública, será el 50% del costo total de la obra; sin embargo, cuando se trate de contribuciones voluntarias para obra pública, los particulares podrán cooperar con un porcentaje distinto al señalado, el que se establecerá de común acuerdo entre las autoridades estatales y los particulares.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 174.
+
+Para hacer efectivas estas contribuciones, de ser necesario, se aplicará el procedimiento administrativo de ejecución previsto en el Código Fiscal para el Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 175.
+
+Estarán exentos del pago de esta contribución los bienes del dominio público de la federación, del Estado y de los municipios.
+
+###### ARTICULO 176.
+
+Es objeto de esta contribución la realización de actividades que dañen o deterioren instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado, de dominio público o uso común.
+
+SUJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 177.
+
+Son sujetos de esta contribución las personas físicas y morales que realicen actividades que en forma directa o indirecta ocasionen los daños o deterioro a que se refiere el artículo anterior.
+
+BASE
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION SEGUNDA.- QUEBRANTAMIENTO DE SANCION
 
-###### Artículo 178.
+###### ARTICULO 178.
 
-El reo condenado a destitución de empleo o cargo, suspensión o inhabilitación para desempeñar éstos o para ejercer alguna profesión, arte u oficio, que quebrantare su condena, será castigado con prisión hasta de tres meses y multa hasta de diez días de salario.
+Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION TERCERA.- ARMAS E INSTRUMENTOS PROHIBIDOS
 
-###### Artículo 179.
+###### ARTICULO 179.
 
-Son armas e instrumentos prohibidos:
+La contribución por responsabilidad objetiva se pagará en las oficinas recaudadoras de la Secretaría de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
 
-I.- Los puñales, verduguillos y demás armas similares ocultas o disimuladas en bastones u otros objetos;
+TASA
 
-II.- Las manoplas, macanas, chacos, hondas, correas con balas, pesas o puntas y las demás similares;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-III.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y las demás similares;
+###### ARTICULO 180.
 
-IV.- Las ganzúas, llaves falsas y demás similares;
+El pago de esta contribución deberá comprender el importe total de los daños o deterioros causados a instalaciones, infraestructura caminera, hidráulica y de servicios, de uso comunitario y beneficio social, que sean propiedad del Estado.
 
-V.- Las que otras leyes o reglamentos señalen como tales.
+## TITULO V. PRODUCTOS
 
-###### Artículo 180.
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Los servidores públicos pueden portar las armas exclusivamente necesarias para el ejercicio de su cargo.
+###### ARTICULO 181.
 
-###### Artículo 181.
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado de:
 
-Se aplicarán de seis meses a un año de prisión y multa de uno a diez días de salario, al que fabrique, transmita o porte armas prohibidas, y al que haga acopio de éstas sin un fin lícito.
+I.- Venta de bienes muebles o inmuebles propiedad del Estado;
 
-###### Artículo 182.
+II.- Arrendamiento de bienes muebles o inmuebles propiedad del Estado;
 
-Las disposiciones de esta sección se aplicarán salvo lo que disponga la Legislación Federal sobre la materia.
+III.- Explotación o enajenación de cualquier naturaleza, de los bienes propiedad del Estado;
+
+IV.- Réditos de capitales y valores del Estado;
+
+V.- Bienes de beneficencia;
+
+VI.- Establecimientos y Empresas Estatales;
+
+VII.- Trabajos gráficos y editoriales;
+
+VIII.- Venta de impresos y papel;
+
+IX.- Otorgamiento de aval en favor de las entidades a que se refiere la Ley de Deuda Pública para el Estado de Coahuila;
+
+X.- La explotación de las concesiones que en su favor otorgue el Gobierno Federal sobre vías generales de comunicación; y
+
+XI.- Otros no especificados.
+
+## TITULO VI. APROVECHAMIENTOS
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 182.
+
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por:
+
+I.- Recargos;
+
+II.- Gastos de ejecución;
+
+III.- Multas;
+
+IV.- Subsidios;
+
+V.- Reintegros o indemnizaciones;
+
+VI.- Cauciones cuyas pérdidas se declaren por resolución firme a favor del Estado;
+
+VII.- Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos en favor del Estado;
+
+VIII.- Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o de particulares;
+
+IX.- Honorarios de notificación; y
+
+X.- Otros no especificados.
+
+## TITULO VII. INGRESOS COORDINADOS
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION CUARTA.- ASOCIACION DELICTUOSA Y PANDILLERISMO
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 183.
+###### ARTICULO 183.
 
-Se impondrá prisión de seis meses a seis años y multa de diez a cincuenta días de salario, al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la sanción que le corresponda por el delito o delitos que cometa.
+Las participaciones, incentivos, subsidios y demás aportaciones que por virtud de la coordinación con la Federación, correspondan al Estado, se recaudarán con arreglo a la Ley de Coordinación Fiscal y a los convenios y acuerdos que tenga celebrados y que celebre el Estado con la Federación.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+## TITULO VIII. INGRESOS EXTRAORDINARIOS
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Se presumirá la existencia de una asociación delictuosa, cuando por lo menos a dos de los que cometan el ilícito se les impute haber participado con anterioridad en la concepción, preparación o ejecución de hechos delictuosos de la misma naturaleza.
+###### ARTICULO 184.
 
-###### Artículo 184.
-
-Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la facultad de organizarse o de la autorización legal correspondiente.
+Quedan comprendidos dentro de esta clasificación los ingresos cuya percepción se decrete excepcionalmente para proveer el pago de gastos o inversiones accidentales, extraordinarias o especiales del Estado, así como los derivados de créditos o empréstitos contratados para este fin.
 
 ###### Artículo 185.
 
@@ -1855,9 +2967,11 @@ Si el delito es cometido por servidor público o por quien haya pertenecido a la
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
 
-### CAPITULO TERCERO.- DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y DE LAS VIAS DE COMUNICACION Y VIOLACION DE CORRESPONDENCIA
+### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2001)</small>
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA.- ATAQUES A LAS VIAS DE COMUNICACION Y A LA SEGURIDAD EN LOS MEDIOS DE TRANSPORTE
 
@@ -1943,9 +3057,11 @@ No se considera que obran delictuosamente quienes intercepten las comunicaciones
 
 La disposición del artículo 195 de este Código no comprende la correspondencia que se envíe por el servicio de correos o telégrafos respecto de los cuales se observará lo dispuesto en la Legislación aplicable.
 
-### CAPITULO CUARTO.- DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2010)</small>
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA.- DELITOS CONTRA EL MEDIO AMBIENTE
 
@@ -5241,23 +6357,55 @@ P.O. 1 DE JULIO DE 1994.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor a partir del 1o. de enero de 1996.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 21 DE FEBRERO DE 1995.
+Se abroga la Ley de Hacienda para el Estado de Coahuila de Zaragoza contenida en el Decreto No. 453, publicada en el Periódico Oficial del Estado No. 103 de fecha 24 de diciembre de 1993.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor a partir del 1o. de enero de 1997.
 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 7 DE MARZO DE 1995.
+###### ARTICULO TERCERO.
+
+Queda en suspenso la aplicación de los artículos 40, 41, 42, 43, 44, 47, 48, 49, 50, 51, 52 y 53 correspondientes a SECCIONES PRIMERA Y TERCERA del CAPITULO CUARTO del Título II de esta ley, relativo al Impuesto Sobre Tenencia o Uso de Vehículos, los cuales entrarán en vigor a partir del ejercicio fiscal en que se decrete la suspensión del Impuesto Sobre Tenencia o Uso de Vehículos de aplicación federal.
+
+###### ARTICULO CUARTO.
+
+Queda en suspenso la aplicación de los artículos 61 a 72 correspondientes al CAPITULO SEXTO del TITULO II de esta Ley, relativo al Impuesto Sobre Automóviles, los cuales entrarán en vigor a partir del ejercicio fiscal en que se decrete la suspensión del Impuesto Sobre Automóviles Nuevos de aplicación federal.
+
+DISPOSICION DE VIGENCIA ANUAL
+
+UNICA.- Los contribuyentes del Impuesto Sobre Nóminas podrán optar por el pago anual del impuesto en términos del artículo 27 de esta ley siempre y cuando el monto de lo pagado por este mismo concepto durante el ejercicio fiscal anterior, no exceda de la cantidad de $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.).
+
+Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince porciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en esta ley.
+
+P.O. 12 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los propietarios de establecimientos que enajenen o expendan bebidas alcohólicas, que por cualquier motivo no hubieren pagado los derechos por la revalidación de la licencia de funcionamiento, de acuerdo a las tarifas establecidas en el artículo 105 de la Ley de Hacienda para el Estado de Coahuila que mediante el presente Decreto se reforma, deberán pagarlos dentro del mes siguiente a la fecha de entrada en vigor de este Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La presente reforma no deroga el Artículo 475-D del Código Municipal para el Estado de Coahuila.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 1998.
+
+SEGUNDO.- Para el ejercicio fiscal de 1998, no será aplicable lo dispuesto por el artículo 3 de la Ley de Hacienda para el Estado de Coahuila en lo previsto por el artículo 105 que se reforma.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE ENERO DE 1998.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ###### ARTICULO PRIMERO.
 
@@ -5487,17 +6635,73 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-El Congreso del Estado, dentro del plazo de ciento ochenta días a partir de la publicación de este Decreto, expedirá en su caso, las adecuaciones a la legislación correspondiente.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O. 2 DE MARZO DE 2011.
+###### ARTICULO CUARTO.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+Para los efectos del artículo 3 de esta ley, la actualización de las contribuciones se efectuará a partir del 1 de enero de 1997.
 
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+###### ARTICULO QUINTO.
 
-P.O. 18 DE MAYO DE 2011.
+Con el propósito de sufragar los gastos que origina al Estado la modernización del Registro Público de la Propiedad y del Comercio, durante los ejercicios fiscales de 1996 a 1998, se causará un impuesto adicional del 15% sobre los derechos que se causen por los servicios que presta el Registro Público de la Propiedad y del Comercio establecidos en esta ley.
+
+El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de este impuesto.
+
+###### ARTICULO SEXTO.
+
+Queda en suspenso el derecho por expedición de licencias para establecimientos que expendan bebidas alcohólicas fijado en la Ley de Hacienda, por virtud de que el Estado se encuentra coordinado en derechos con la Federación, y por así exigirlo el artículo 10-A de la Ley de Coordinación Fiscal, por lo que no se podrá exigir cobro alguno por este concepto. Sin embargo, para efectos del control que el Estado debe tener sobre estas actividades, los contribuyentes están obligados a cumplir con las obligaciones correspondientes a la obtención de la licencia y su revalidación anual.
+
+Si se dan por terminadas la coordinación en materia de derechos con la Federación o en su caso, si se reforma el artículo 10-A de la Ley de Coordinación Fiscal, permitiendo al Estado cobrar por estos derechos, entrarán en vigor las tarifas correspondientes al día siguiente al en que surta efectos la terminación de los convenios o la reforma al artículo mencionado, o en caso de ocurrir la reforma antes del 1° de enero de 1996, estas tarifas entrarán en vigor a partir de esta fecha.
+
+###### ARTICULO SEPTIMO.
+
+Queda en suspenso el Impuesto por Servicios de Hospedajes por estar adherido el Estado al Sistema Nacional de Coordinación Fiscal, prohibiendo el artículo 41 de la Ley del Impuesto al Valor Agregado, que el Estado mantenga en vigor esta contribución, por lo que no podrá exigirse cobro alguno por este concepto.
+
+Si se reforma el artículo 41 de la Ley del Impuesto al Valor Agregado, permitiendo al Estado cobrar por este impuesto, entrarán en vigor las tarifas correspondientes al día siguiente al en que surta efectos la reforma al artículo mencionado, o en caso de ocurrir la reforma del mencionado artículo y su entrada en vigor antes del 1° de enero de 1996, estas tarifas entrarán en vigor a partir de esta fecha.
+
+DISPOSICION DE VIGENCIA ANUAL
+
+UNICA.- Los contribuyentes del Impuesto Sobre Nóminas podrán optar por el pago anual del impuesto en términos del artículo 27 de la Ley de Hacienda para el Estado de Coahuila de Zaragoza, siempre y cuando el monto de lo pagado por este mismo concepto durante el ejercicio fiscal anterior, no exceda de la cantidad de $1,000.00 (MIL PESOS 00/100 M.N.).
+
+Los contribuyentes que se acojan a la opción señalada en el párrafo anterior, gozarán de un estímulo fiscal consistente en un descuento del 15% (quince porciento) del impuesto a su cargo, siempre y cuando la declaración correspondiente al mes de enero, se presente dentro del plazo establecido en la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
+
+DADO en el Salón de Sesiones del Congreso del Estado, en la ciudad de Saltillo, Coahuila, a los doce días del mes de diciembre de mil novecientos noventa y cinco.
+
+DIPUTADO PRESIDENTE
+
+HORACIO VELOZ MUÑOZ
+
+DIPUTADO SECRETARIO
+
+LUIS RAMIREZ RIOS
+
+DIPUTADO SECRETARIO
+
+PABLO WONG SANABRIA
+
+IMPRIMASE, COMUNIQUESE Y OBSERVESE
+
+Saltillo, Coahuila, 15 de diciembre de 1995.
+
+SUFRAGIO EFECTIVO. NO REELECCION
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+ROGELIO MONTEMAYOR SEGUY
+
+EL SECRETARIO DE GOBIERNO
+
+LIC. CARLOS JUARISTI SEPTIEN
+
+EL SECRETARIO DE FINANZAS
+
+LIC. ANTONIO JUAN MARCOS ISSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 1996.
 
 ###### ARTÍCULO PRIMERO.
 
