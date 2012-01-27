@@ -4,7 +4,7 @@ identifier: "LEXP"
 country: "mx"
 rank: "ley"
 publication_date: "1936-11-25"
-last_updated: "2012-01-16"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=366&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEXP"
 
 LEY DE EXPROPIACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 25 de noviembre de 1936.
 
@@ -148,11 +148,11 @@ Dentro de los diez días hábiles siguientes a la notificación del decreto corr
 
 El único objeto del procedimiento a que se refiere el párrafo anterior será controvertir el monto de la indemnización y, en su caso, exigir el pago de daños y perjuicios.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 6o.
 
-De cuestionarse la titularidad del bien o derecho expropiado, la indemnización correspondiente será depositada y puesta a disposición de la autoridad que conozca del recurso respectivo, para que la asigne a quienes resulten titulares legítimos del bien o derecho, en los montos que corresponda.
+De cuestionarse la titularidad del bien o derecho expropiado, la indemnización correspondiente será depositada y puesta a disposición de la autoridad que conozca del procedimiento respectivo, para que la asigne a quienes resulten titulares legítimos del bien o derecho, en los montos que corresponda.
 
 > <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
@@ -280,9 +280,9 @@ La indemnización por la ocupación temporal o por la limitación de dominio con
 
 ARTICULO 20 BIS.- El Jefe de Gobierno del Distrito Federal, en los términos de esta ley, podrá declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, en los casos en que se tienda a alcanzar un fin cuya realización competa al gobierno local del Distrito Federal conforme a sus atribuciones y facultades constitucionales y legales.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
-La declaratoria de expropiación se hará en los términos previstos en esta ley.
+La declaratoria se hará mediante el decreto que se publicará en la Gaceta Oficial del Distrito Federal y será notificada personalmente a los interesados. La notificación se hará dentro de los quince días hábiles posteriores a la fecha de publicación del decreto; en caso de que no pudiere notificarse personalmente, por ignorarse quiénes son las personas o su domicilio o localización, surtirá los mismos efectos en una segunda publicación en la Gaceta Oficial del Distrito Federal, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
 
 > <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
@@ -357,3 +357,7 @@ CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere 
 QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
 
 SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
