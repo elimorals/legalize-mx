@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2003-07-23"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -1888,11 +1888,15 @@ IX. Utilizar las obras literarias y artísticas protegidas por el capítulo III,
 
 X. Las demás infracciones a las disposiciones de la Ley que impliquen conducta a escala comercial o industrial relacionada con obras protegidas por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 232.
 
-Las infracciones en materia de comercio previstos en la presente Ley serán sancionados por el Instituto Mexicano de la Propiedad Industrial con multa:
+Las infracciones en materia de comercio previstas en la presente Ley serán sancionadas por el Instituto Mexicano de la Propiedad Industrial con multa:
 
-I. De cinco mil hasta diez mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+I. De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior,
 
 II. De mil hasta cinco mil días de salario mínimo en los casos previstos en las fracciones II y VI del artículo anterior, y
 
@@ -1985,3 +1989,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero.- El Reglamento de la Ley Federal del Derecho de Autor publicado en el Diario Oficial de la Federación del día 22 de mayo de 1998, deberá ser reformado y adicionado dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, con el objeto de ajustar las disposiciones del mismo, a las presentes reformas y adiciones.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
