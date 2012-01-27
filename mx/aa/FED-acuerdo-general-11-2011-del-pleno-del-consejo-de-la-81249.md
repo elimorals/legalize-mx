@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2012-01-13"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -166,6 +166,10 @@ VI. SEXTO CIRCUITO:
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 21/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE JUNIO DE 2011)</small>
 
 3. Once juzgados de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula.
+
+> <small>(ADICIONADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula”.
 
 VII. SEPTIMO CIRCUITO:
 
@@ -350,6 +354,10 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 > <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 55/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2012)</small>
 
 3. Seis juzgados de Distrito en el Estado de Quintana Roo: dos con residencia en Chetumal y cuatro con sede en Cancún”.
+
+> <small>(ADICIONADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Cancún”.
 
 XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
@@ -709,9 +717,9 @@ QUINTO. Se contará con:
 
 1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 19/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
-2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y ocho juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y un juzgado de Distrito Auxiliar, con residencia en Puebla, Puebla.
+2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
 
@@ -729,7 +737,9 @@ QUINTO. Se contará con:
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
-8. El Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, se integrará por dos tribunales colegiados de Circuito Auxiliares y dos juzgados de Distrito Auxiliares.
+> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
+8. El Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, se integrará por dos tribunales colegiados de Circuito Auxiliares y un juzgado de Distrito Auxiliar.
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
@@ -908,3 +918,23 @@ SEGUNDO. La Dirección General de Estadística Judicial y la Dirección General 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
 CUARTO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. En tanto se aperturan nuevos órganos jurisdiccionales mercantiles especializados en juicios de cuantía menor en los restantes circuitos, los juzgados de distrito mixtos, especializados en materia civil y semiespecializados que incluyan esta materia y que actualmente conocen de los juicios mercantiles, continuarán haciéndolo con normalidad, registrando las audiencias de los juicios orales que se celebren a través de los medios electrónicos o cualquier otro idóneo a juicio del juez, de conformidad con lo dispuesto por el artículo 1390 BIS-26 del Código de Comercio.
+
+Los Juzgados de Distrito en los Estados de Puebla y Quintana Roo, no conocerán de los juicios orales, cuya competencia corresponderá a los Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, de conformidad con lo dispuesto en el presente acuerdo.
+
+TERCERO. A fin de equilibrar las cargas de trabajo que llegaren a presentarse en los órganos especializados en materia mercantil, la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida y el turno, total o parcial, de los juicios de naturaleza mercantil de cuantía semejante a la establecida para los orales, que se presenten ante los Juzgados de Distrito del Estado Quintana Roo, con sede en Cancún y los Juzgados de Distrito del Estado de Puebla, con sede en San Andrés Cholula, Puebla.
+
+CUARTO. La Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal gestionará la celebración de convenios de colaboración con instituciones públicas y privadas fin (sic) de contar con el servicio de interpretación y traducción a que se refiere el artículo 1390 BIS-3 del Código de Comercio.
+
+QUINTO. La Dirección General de Tecnologías de la Información suministrará los equipos, brindará la capacitación y asistencia técnica necesaria al personal de los órganos jurisdiccionales con competencia en juicios orales mercantiles, para la operación del sistema informático y de videograbación que registrará las audiencias que se celebren.
+
+SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+SEPTIMO. La Visitaduría Judicial en coordinación con la Dirección General de Estadística Judicial, determinarán el número y contenido de los libros de gobierno que obligatoriamente deberán llevar los nuevos órganos en materia mercantil, proponiendo para ello la reforma que corresponda al Acuerdo General 34/2000.
+
+OCTAVO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
