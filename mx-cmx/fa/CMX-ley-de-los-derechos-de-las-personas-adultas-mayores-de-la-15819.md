@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-adultas-mayores-de-la-15819
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2011-12-14"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15819&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 7 de marzo de 2000.
 
@@ -242,7 +242,9 @@ VI. Promover, fomentar, difundir y defender el ejercicio de sus derechos, así c
 
 VII. Fomentar y promocionar la estabilidad y el bienestar familiar;
 
-VIII. Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos; así como acciones preventivas con la participación de la comunidad;
+> <small>(REFORMADA, G.O. 27 DE ENERO DE 2012)</small>
+
+VIII. Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales, recreativos y albergues; así como acciones preventivas con la participación de la comunidad;
 
 IX. Presidir el Consejo Asesor para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores;
 
@@ -331,6 +333,12 @@ La Secretaría de Desarrollo Social en coordinación con las Delegaciones, imple
 ###### Artículo 20.
 
 La Secretaría de Desarrollo Social, implementará programas, a efecto de crear y difundir entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad, de las personas adultas mayores.
+
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2012)</small>
+
+###### Artículo 20 Bis.
+
+La Secretaría de Desarrollo Social, en coordinación con las Delegaciones correspondientes, fomentará la creación de albergues para personas adultas mayores, en los términos de esta ley y de la Ley de Albergues Privados para Personas Adultas Mayores del Distrito Federal.
 
 ###### Artículo 21.
 
@@ -596,9 +604,11 @@ VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de tra
 
 En todo momento las Instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta ley les consagra.
 
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 49.
 
-Todas las instituciones públicas, privadas y sociales que presten asistencia a las personas adultas mayores, deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
+Todas las instituciones públicas, privadas y sociales que presten asistencia a las personas adultas mayores, deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas; asimismo, deberán conducirse con absoluto respeto a la dignidad humana y derechos inherentes a las personas adultas mayores con estricto apego a la legislación aplicable.
 
 ###### Artículo 50.
 
@@ -631,3 +641,9 @@ G.O. 14 DE DICIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
