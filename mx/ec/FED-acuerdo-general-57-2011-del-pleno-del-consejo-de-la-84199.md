@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2011-del-pleno-del-consejo-de-la-84199"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-22"
-last_updated: "2011-12-22"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84199&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-12-14"
 ---
 # ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 34/2000, RELATIVO A LA DETERMINACION DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 57/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL 34/2000, RELATIVO A LA DETERMINACIÓN DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERÁN LLEVAR LOS ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO SU DESCRIPCIÓN E INSTRUCTIVOS CORRESPONDIENTES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE ENERO DE 2012.</small>
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 22 de diciembre de 2011.
 
@@ -49,11 +49,11 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 UNICO.- Se reforman los artículos 6 y 7 y se adicionan los libros quince, dieciséis y diecisiete de Juzgado, los artículos 122 Octies, 122 Nonies, 122 Decies, 122 Undecies, 122 Duodecies, 122 Terdecies, 122 Quaterdecies, 122 Quindecies, 122 Sexdecies, 122 Septdecies, 122 Octodecies, 122 Nonodecies, 122 Vicies, 122 Unvicies, 122 Duovicies, 122 Tervicies, 122 Quatervicies, 122 Quinvicies, 122 Sexvicies, 122 Septvicies, 122 Octovicies, 122 Nonovicies y 122 Tricies, así como las tablas 25, 26 y 27, al Acuerdo General 34/2000, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación de los libros de control que obligatoriamente deberán llevar los órganos jurisdiccionales del Poder Judicial de la Federación, así como su descripción e instructivos correspondientes, para quedar como sigue:
 
-“Artículo 6o.- Libros obligatorios para Juzgado Mixto. Son libros de gobierno o control obligatorios para los juzgados de distrito mixtos, los siguientes:
+> <small>(F. DE E., D.O.F. 27 DE ENERO DE 2012)</small>
+
+“Artículo 6o.- Libros obligatorios para Juzgado de Distrito. Son libros de gobierno o control obligatorios para los juzgados de distrito, conforme a su competencia, los siguientes:
 
 Libro uno: Registro de juicios de amparo;
 
@@ -89,9 +89,11 @@ Libro dieciséis: Registro de asuntos en revisión; y
 
 Libro diecisiete: Control de firmas de sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
 
+> <small>(F. DE E., D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 7o.
 
-Libros obligatorios para juzgados especializados. Los juzgados de distrito especializados en materia penal, que conozcan de amparo y procesos penales, deberán llevar todos los libros que se mencionan en el artículo anterior, con excepción del libro tres; cuando únicamente manejen procesos penales, utilizarán los mismos libros señalados, excepto los mencionados como libros uno, tres y cinco.
+Libros obligatorios para juzgados especializados. Los juzgados de distrito especializados en materia penal, que conozcan de amparo y procesos penales, deberán llevar todos los libros que se mencionan en el artículo anterior, con excepción del libro tres; cuando únicamente manejen procesos penales, utilizarán los mismos libros señalados, excepto los mencionados como libros uno y tres.
 
 Los juzgados de distrito especializados en las materias civil y administrativa, deberán llevar, únicamente los libros que en el artículo anterior se encuentran señalados como libros uno, tres, cuatro, cinco, ocho y nueve y, los especializados en materia laboral, sólo los identificados como libros uno, cinco, ocho y nueve, del artículo precedente.
 
@@ -191,7 +193,9 @@ a) En la sección correspondiente al Indice deberán anotarse por orden alfabét
 
 b) La sección Control de firmas constará de un apartado que contendrá consecutivamente y de manera vertical los rubros: Número de la causa, Nombre del sentenciado y Periodicidad con la que debe firmar y, de cuatro columnas con los subrubros: Fecha de la firma, Firma del sentenciado, Certificación y Observaciones, las que se utilizarán de la manera precisada en los siguientes artículos.
 
-Para lo anterior deberán destinarse, por lo menos, cuatro páginas por sentenciado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas se agoten y subsista la obligación para el sentenciado de presentarse al juzgado, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva tanto en la columna de observaciones, como en la sección del índice de nombres.
+> <small>(F. DE E., D.O.F. 27 DE ENERO DE 2012)</small>
+
+Para lo anterior deberán destinarse, por lo menos, cinco páginas por sentenciado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas se agoten y subsista la obligación para el sentenciado de presentarse al juzgado, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva tanto en la columna de observaciones, como en la sección del índice de nombres.
 
 Artículo 122 Quatervicies.- Número de la causa. En este rubro se señalará el número de la causa en la que se hubiese concedido al sentenciado algún beneficio o sustitutivo de la pena.
 
