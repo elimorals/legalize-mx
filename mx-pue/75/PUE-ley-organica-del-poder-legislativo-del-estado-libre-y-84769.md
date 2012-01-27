@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2011-12-30"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE ENERO DE 2012.</small>
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -53,7 +55,7 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 La presente Ley es de orden e interés público y tiene por objeto regular la organización, atribuciones y funcionamiento del Poder Legislativo del Estado, de conformidad con lo establecido por la Constitución Política del Estado Libre y Soberano de Puebla.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 2.
 
@@ -671,7 +673,7 @@ Una vez en funciones la Mesa Directiva, el Presidente hará la siguiente declara
 
 "La (número) Legislatura del Honorable Congreso Constitucional del Estado Libre y Soberano de Puebla, declara abierto el (número) periodo de Sesiones ordinarias (extraordinarias o solemnes) correspondientes al (número) año de su ejercicio legal".
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 71.
 
@@ -1317,7 +1319,7 @@ El Presidente del Comité es el responsable de los documentos y expedientes de l
 
 Para el buen desempeño de sus funciones, los Comités se regulan conforme a lo establecido en el presente Capítulo, el Reglamento Interior y demás disposiciones aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 133.
 
@@ -1889,7 +1891,7 @@ IV.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado po
 
 V.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS DE APOYO PARLAMENTARIO Y ADMINISTRATIVO
 
@@ -1949,7 +1951,7 @@ La Dirección General de Servicios Legislativos está a cargo de un Director Gen
 
 El Director General de Servicios Legislativos dependerá de la Secretaría General; coordinará sus actividades con los demás Órganos Legislativos, de Representación y Técnicos Administrativos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 210.
 
@@ -2057,7 +2059,7 @@ En el caso previsto en el párrafo anterior, declarará si las cantidades percib
 
 II.- El Congreso del Estado en el tercer periodo de sesiones, deberá incluir en la agenda legislativa, en el caso del último año, previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de enero a octubre, que deberán ser presentadas por sus titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
-### CAPÍTULO III (SIC). DE LAS COMPARECENCIAS
+### CAPÍTULO IV. DE LAS COMPARECENCIAS
 
 ###### ARTÍCULO 218.
 
@@ -2073,7 +2075,7 @@ Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del E
 
 El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-### CAPÍTULO IV. DE LAS PREGUNTAS LEGISLATIVAS
+### CAPÍTULO V. DE LAS PREGUNTAS LEGISLATIVAS
 
 ###### ARTÍCULO 220.
 
@@ -2087,9 +2089,9 @@ Esta sesión solemne únicamente tendrá por objeto celebrar la apertura del Pri
 
 El Congreso analizará, en sesiones subsecuentes, el informe presentado por el Gobernador del Estado, a las que asistirán los Titulares de las Secretarías de Despacho correspondientes. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
-### CAPÍTULO V. DE LAS OBSERVACIONES DEL PODER EJECUTIVO
+### CAPÍTULO VI. DE LAS OBSERVACIONES DEL PODER EJECUTIVO
 
 ###### ARTÍCULO 222.
 
@@ -2137,7 +2139,7 @@ Los funcionarios que acudan ante las Comisiones estarán obligados a guardar a c
 
 En el supuesto de que alguno de los servidores públicos no comparezca ante el Pleno o no acudan ante la citación de la Comisión respectiva, o, en su caso, no conteste satisfactoriamente los cuestionamientos y dudas de los Diputados, podrán solicitar al Presidente de la Mesa Directiva o al Presidente de la Comisión Permanente, según sea el caso, que se dirija en queja al superior jerárquico del servidor público requiriendo que satisfaga dicha omisión. En caso de que persista la omisión, el Congreso del Estado presentará queja, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -2153,7 +2155,7 @@ La redacción de la Pregunta Legislativa, deberá ser concisa y referirse a un s
 
 Los medios de participación de democracia directa previstos en la Constitución Política del Estado Libre y Soberano de Puebla, estarán regulados en la Ley de la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2012)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA
 
@@ -2189,7 +2191,7 @@ El Congreso del Estado cuenta con una Unidad de Acceso a la Información, que es
 
 La Comisión de Transparencia y Acceso a la Información Pública del Honorable Congreso del Estado es el área encargada de vigilar el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y del Reglamento para la Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado de Puebla.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO DE 2012 Y EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ## TRANSITORIOS
 
@@ -2234,8 +2236,6 @@ La Comisión de Hacienda Pública y Patrimonio Estatal y Municipal modificará s
 Se crean las Comisiones Generales de Vivienda, Asuntos Metropolitanos, Grupos Vulnerables y Organizaciones No Gubernamentales.
 
 Las Comisiones Generales señaladas empezarán a funcionar con dicha denominación y competencias conforme a lo dispuesto en la presente Ley.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO OCTAVO.
 
