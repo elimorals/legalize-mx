@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-procuraduria-agraria-9235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-28"
-last_updated: "2009-04-29"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1996-12-20"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA AGRARIA
 
-REGLAMENTO INTERIOR DE LA PROCURADURIA AGRARIA
+REGLAMENTO INTERIOR DE LA PROCURADURÍA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación el Sábado 28 de diciembre de 1996.
 
@@ -163,9 +163,11 @@ Visitadurías Especiales
 
 Asimismo, la Procuraduría podrá contar con subprocuradurías para el conocimiento y atención de asuntos que por su trascendencia, interés y características así lo ameriten y con direcciones de área, subdirecciones, jefaturas de departamento y de oficina, abogados y visitadores agrarios, y demás personal técnico y administrativo que determine el Procurador, con base en el presupuesto.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 9o.
 
-Los servidores públicos que presten sus servicios a la Procuraduría estarán sujetos al régimen establecido en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a su Ley Reglamentaria y al Estatuto del Servicio Profesional Agrario.
+Los servidores públicos que presten sus servicios a la Procuraduría estarán sujetos al régimen establecido en el apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a su Ley Reglamentaria y al Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria.
 
 ###### Artículo 10.
 
@@ -215,9 +217,15 @@ XV. Nombrar y remover a los servidores públicos de la Procuraduría y ordenar a
 
 XVI. Constituir y presidir, en su caso, las comisiones internas, transitorias o permanentes que se requieran para el mejor despacho de los asuntos a su cargo, así como designar a los miembros que deban integrarlas;
 
-XVII. Expedir los lineamientos y bases de operación del Comité Permanente de Control y Seguimiento, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-XVIII. Las demás que la Ley y otros ordenamientos le confieran.
+XVII. Expedir los lineamientos y bases de operación del Comité Permanente de Control y Seguimiento;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+XVIII. Autorizar y expedir el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria, tomando como base los principios de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, así como ordenar su publicación en el Diario Oficial de la Federación, y
+
+XIX. Las demás que la Ley y otros ordenamientos le confieran.
 
 ###### Artículo 12.
 
@@ -277,7 +285,9 @@ V. Coordinar la elaboración de los manuales de organización, procedimientos y 
 
 VI. Dirigir y resolver, con base en los lineamientos que establezca el Procurador, los asuntos del personal al servicio de la Procuraduría, así como autorizar los movimientos de personal y expedir las remociones y nombramientos ordenados por el Procurador;
 
-VII. Vigilar el cumplimiento y proveer los medios necesarios para la ejecución de los acuerdos tomados por la Comisión del Servicio Profesional Agrario, así como proponer al Procurador las medidas que estime procedentes para el logro de los objetivos señalados en el Estatuto del Servicio Profesional Agrario;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+VII. Vigilar el cumplimiento y proveer los medios necesarios para la ejecución de los acuerdos tomados por la Comisión del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria, así como proponer al Procurador las medidas que estime procedentes para el logro de los objetivos señalados en el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria.
 
 VIII. Autorizar con su firma la celebración de los convenios y contratos en los que la Procuraduría sea parte y afecten su presupuesto, así como los demás documentos que impliquen actos de administración, conforme a las disposiciones aplicables y a los lineamientos que fije el Procurador;
 
@@ -549,7 +559,9 @@ I. Establecer las normas, políticas, sistemas y procedimientos para la administ
 
 II. Actualizar y vigilar el cumplimiento de las normas internas de trabajo;
 
-III. Establecer los procedimientos de reclutamiento, selección, formación, capacitación y promoción del personal, sin perjuicio de lo dispuesto por el Estatuto del Servicio Profesional Agrario;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+III. Establecer los procedimientos de reclutamiento, selección, formación, capacitación y promoción del personal, para los puestos de la Procuraduría que no estén contemplados en el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria;
 
 IV. Proponer al Secretario General los convenios y contratos que afecten el presupuesto, así como formalizar los documentos que impliquen actos de administración;
 
@@ -994,3 +1006,11 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 29 DE ABRIL DE 2009.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedará abrogado el Estatuto del Servicio Profesional Agrario, publicado en el Diario Oficial de la Federación el 14 de septiembre de 1994, una vez que entre en vigor el Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria.
+
+TERCERO.- Los procedimientos de reclutamiento, selección, nombramiento y evaluación del personal de la Procuraduría Agraria, previstos en el Estatuto del Servicio Profesional Agrario, que no estén concluidos a la entrada en vigor del Estatuto del Servicio Profesional Agrario de Carrera en la Procuraduría Agraria, se concluirán observando lo previsto en el primero de los Estatutos citados.
