@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-12-16"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1354,13 +1354,23 @@ VI. Proponer actividades de investigación, capacitación de recursos humanos e 
 
 Corresponde a la Secretaría, en coordinación con las autoridades competentes, integrar, conducir, desarrollar, dirigir, administrar y otorgar en forma permanente, oportuna y eficiente los servicios de salud y de atención médica y de especialidades, particularmente en materia de medicina general y preventiva, medicina interna, cirugía, gineco-obstetricia, pediatría, odontología, psiquiatría, salud sexual y reproductiva, nutrición, campañas de vacunación, entre otros, que se ofrezcan en los Reclusorios y Centros de Readaptación Social.
 
-Los centros femeniles de reclusión y readaptación contarán de forma permanente con servicios médicos de especialidad en salud materno-infantil.
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2012)</small>
+
+Los centros femeniles de reclusión y readaptación contarán de forma permanente con servicios médicos de atención integral de salud y de especialidad en salud maternoinfantil. Para tal efecto, la Secretaría tendrá, entre otras, las siguientes atribuciones:
+
+I. Elaborar programas de salud integral de las mujeres, desde una perspectiva de género, poniendo énfasis en la salud sexual y reproductiva, que consideren como mínimo la realización de estudios de detección de enfermedades y atención de cáncer de mama y cervicouterino, así como de VIH/SIDA para quienes lo soliciten, además de llevar a cabo campañas informativas de salud materno-infantil;
+
+II. Contar con módulos para facilitar el acceso oportuno, bajo consentimiento informado, a métodos anticonceptivos, anticoncepción de emergencia, a la Interrupción legal del embarazo y de información sobre atención materno-infantil, y
+
+III. Desarrollar programas para la prevención y atención de los problemas derivados por el consumo de sustancias psicoactivas entre las mujeres en reclusión.
+
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 99.
 
-Tratándose de enfermedades que requieran atención de emergencia, graves o cuando así lo requiera el tratamiento, a juicio del personal médico de los reclusorios y centros de readaptación social, se dará aviso para el trasladado del interno al centro hospitalario que determine el propio Gobierno, en cuyo caso, se deberá hacer del conocimiento de la autoridad competente.
+Tratándose de enfermedades que requieran atención de emergencia, graves o cuando así lo requiera el tratamiento, se dará aviso para el trasladado del interno o interna al centro hospitalario que determine el propio Gobierno, en cuyo caso, se deberá hacer del conocimiento de la autoridad competente y se preverá durante el traslado acompañamiento de personal médico calificado.
 
-El personal médico, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberá proceder a adoptar las medidas necesarias de seguridad sanitaria, para efectos de control y para evitar su propagación, informando de ello en un plazo no mayor de 24 horas a las autoridades competentes.
+La Secretaría, a partir de que el personal médico haga de su conocimiento alguna enfermedad transmisible, deberá proceder a adoptar las medidas necesarias de seguridad sanitaria, mismas que deberán ser atendidas por las autoridades competentes para efectos de control y para evitar su propagación.
 
 ### Capítulo XXVI. Prácticas y Conocimientos Tradicionales en Salud
 
@@ -1554,11 +1564,15 @@ VI. Recibir donativos y cualquier apoyo económico o en especie, por parte de pe
 
 VII. Establecer disposiciones, medidas y procedimientos para salvaguardar la salubridad local;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 27 DE ENERO DE 2012)</small>
 
-VIII. Dar aviso a las autoridades federales respectivas sobre el incumplimiento de los lineamientos señalados en la NOM-028-SSA2-2009 por parte de los establecimientos especializados en adicciones o por que estos no brinden un trato digno y de respeto a los derechos humanos de los pacientes que se encuentren en tratamiento, con la finalidad de que inicien los procedimientos administrativos y penales contra quien resulte responsable, y
+VIII. Dar aviso a las autoridades federales respectivas sobre el incumplimiento de los lineamientos señalados en la NOM-028-SSA2-2009 por parte de los establecimientos especializados en adicciones o por que estos no brinden un trato digno y de respeto a los derechos humanos de los pacientes que se encuentren en tratamiento, con la finalidad de que inicien los procedimientos administrativos y penales contra quien resulte responsable;
 
-IX. En general, realizar todos aquellos actos que permitan preservar la salubridad local, de conformidad a los instrumentos jurídicos aplicables.
+> <small>(ADICIONADA, G.O. 27 DE ENERO DE 2012)</small>
+
+IX. Informar a las autoridades federales respecto a un posible riesgo sanitario por la venta de ropa en mercados públicos y centros de abasto para que adopten las medidas correspondientes en el ámbito de su competencia, y
+
+X. En general, realizar todos aquellos actos que permitan preservar la salubridad local, de conformidad a los instrumentos jurídicos aplicables.
 
 ### Capítulo II. De la Agencia de Protección Sanitaria del Gobierno del Distrito Federal
 
@@ -1592,9 +1606,13 @@ j) Ambulancias y servicios de salud;
 
 k) Establecimientos especializados en adicciones;
 
-l) Sanidad internacional, en los términos que señalen las disposiciones legales aplicables, y
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2012)</small>
 
-m) En todos aquellos que sean delegados mediante los Acuerdos de Coordinación que se celebren con la Secretaría Federal;
+l) Venta y alquiler de ropa;
+
+m) Sanidad internacional, en los términos que señalen las disposiciones legales aplicables, y
+
+n) En todos aquellos que sean delegados mediante los Acuerdos de Coordinación que se celebren con la Secretaría Federal;
 
 II. Elaborar y emitir, en coordinación con otras autoridades competentes en los casos que proceda, las normas técnicas locales para la regulación y control sanitario de las materias de salubridad local;
 
@@ -1922,11 +1940,17 @@ La central de abastos, mercados públicos, centros de abasto y similares, serán
 
 Corresponde a la Agencia, por conducto de las autoridades competentes, ordenar la fumigación periódica de la Central de Abastos, los mercados públicos y centros de abasto y similares, con el propósito de evitar la proliferación de fauna nociva para la salud, de acuerdo a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2012)</small>
+
+Los vendedores y personas cuya actividad esté vinculada con la Central de Abasto, mercados públicos, centros de abasto y similares, estarán obligados a conservar las condiciones sanitarias e higiénicas reglamentadas para el debido mantenimiento de sus locales o puestos.
+
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 149.
 
-Los vendedores y personas cuya actividad esté vinculada con la central de abasto, mercados públicos, centros de abasto y similares, estarán obligados a conservar las condiciones sanitarias e higiénicas reglamentadas para el debido mantenimiento de sus locales o puestos.
+La Agencia realizará recorridos en mercados públicos y centros de abasto con la finalidad de informar sobre los lineamientos que para tal efecto se expidan respecto a la venta de ropa en general por parte de las autoridades correspondientes y que deben cumplirse.
+
+La autoridad sanitaria llevará a cabo campañas permanentes de información sobre las medidas de higiene que deben adoptarse en la venta, compra y alquiler de ropa, para prevenir cualquier riesgo en la salud; asimismo, brindará la asesoría necesaria, en su caso, a personas e instituciones que la soliciten.
 
 ### Capítulo VIII. Construcciones, Edificios y Fraccionamientos
 
@@ -2581,3 +2605,15 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 G.O. 16 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE ENERO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 98 Y 99 DE LA LEY DE SALUD DEL DISTRITO FEDERAL.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la presente Decreto.
+
+G.O. 27 DE ENERO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 109, 110, 148 Y 149 DE LA LEY DE SALUD DEL DISTRITO FEDERAL.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa del Distrito Federal, instrumentará las acciones establecidas en el presente Decreto.
