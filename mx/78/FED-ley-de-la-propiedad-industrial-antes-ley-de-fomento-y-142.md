@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2010-06-28"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -2017,6 +2017,10 @@ Cuando una solicitud o promoción sea presentada por varias personas, se deberá
 
 En toda solicitud, el promovente deberá señalar domicilio para oír y recibir notificaciones dentro del territorio nacional y deberá comunicar al Instituto cualquier cambio del mismo. En caso de que no se dé el aviso de cambio de domicilio, las notificaciones se tendrán por legalmente realizadas en el domicilio que aparezca en el expediente.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+En los procedimientos de declaración administrativa previstos en la presente ley, las resoluciones de trámite y definitivas dictadas dentro de los mismos, así como todas aquellas dictadas en procedimientos seguidos en rebeldía, podrán ser notificadas a las partes por estrados en el instituto y mediante publicación en la Gaceta, cuando no haya sido posible realizarla en el domicilio al que se refiere el párrafo anterior.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 184.
@@ -2311,11 +2315,19 @@ Las visitas de inspección se practicarán en días y horas hábiles y únicamen
 
 El Instituto podrá autorizar se practiquen también en días y horas inhábiles a fin de evitar la comisión de infracciones, caso en el cual en el oficio de comisión se expresará tal autorización.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+El personal comisionado a las visitas de inspección podrá, durante el desarrollo de las diligencias, tomar fotografías o video filmaciones o recabar cualquier otro instrumento considerado admisible como prueba en términos de la Ley Federal de Procedimiento Administrativo y del Código Federal de Procedimientos Civiles. Las fotografías que se tomen, los videos que se filmen y los demás instrumentos recabados en términos de este artículo, podrán ser utilizados por el Instituto como elementos con pleno valor probatorio.
+
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 206.
 
 Los propietarios o encargados de establecimientos en que se fabriquen, almacenen, distribuyan, vendan o se ofrezcan en venta los productos o se presten servicios, tendrán la obligación de permitir el acceso al personal comisionado para practicar visitas de inspección, siempre que se cumplan los requisitos establecidos en el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Si se negara el acceso del personal comisionado a los establecimientos a los que se refiere el párrafo previo o si de cualquier manera hubiera oposición a la realización de la visita de inspección, dicha circunstancia se hará constar en el acta respectiva y se presumirán ciertos los hechos que se le imputen en los procedimientos de declaración administrativa correspondiente.
 
 ###### Artículo 207.
 
@@ -2324,6 +2336,10 @@ Se entiende por visitas de inspección las que se practiquen en los lugares en q
 ###### Artículo 208.
 
 De toda visita de inspección se levantará acta circunstanciada en presencia de dos testigos propuestos por la persona con la que se hubiese entendido la diligencia o por el inspector que la practicó, si aquélla se hubiese negado a proponerlos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Si la persona con quien se entendió la diligencia o los testigos no firman el acta, o se niega a aceptar copia de la misma, o no se proporcionan testigos para firmar la misma, dichas circunstancias se asentarán en la propia acta sin que esto afecte su validez y valor probatorio.
 
 ###### Artículo 209.
 
@@ -2343,7 +2359,9 @@ V.- Nombre y domicilio de las personas que fungieron como testigos, sea que hubi
 
 VI.- Mención de la oportunidad que se dio al visitado de ejercer su derecho de hacer observaciones al inspector durante la práctica de la diligencia;
 
-VII.- Datos relativos a la actuación;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+VII. Datos relativos a la actuación, incluyendo el reporte de cualquier circunstancia o hecho que haya observado durante la práctica de la diligencia, aún y cuando dicha circunstancia o hecho no estén contenidos en los puntos del acta de inspección, y la mención de si se han tomado fotografías, realizado video filmaciones o recabado otros elementos de prueba durante el desarrollo de la diligencia. En su caso, dichos elementos se deberán anexar al acta correspondiente;
 
 VIII.- Declaración del visitado, si quisiera hacerla;
 
@@ -2521,13 +2539,19 @@ XXV.- No proporcionar al franquiciatario la información, a que se refiere el ar
 
 XXVI.- Usar la combinación de signos distintivos, elementos operativos y de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer la existencia de una relación entre el titular de los derechos protegidos y el usuario no autorizado. El uso de tales elementos operativos y de imagen en la forma indicada constituye competencia desleal en los términos de la fracción I de este mismo artículo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2010)</small>
+XXVII.- Cuando el titular de una patente o su licenciatario, usuario o distribuidor, inicie procedimientos de infracción en contra de uno o más terceros, una vez que el Instituto haya determinado, en un procedimiento administrativo anterior que haya causado ejecutoria, la inexistencia de la misma infracción;
 
-XXVII.- Cuando el titular de una patente o su licenciatario, usuario o distribuidor, inicie procedimientos de infracción en contra de uno o más terceros, una vez que el Instituto haya determinado, en un procedimiento administrativo anterior que haya causado ejecutoria, la inexistencia de la misma infracción, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-XXVIII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
+XXVIII.- Impedir el acceso al personal comisionado para practicar visitas de inspección, en términos de lo establecido en el artículo 206 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+XXIX.- No proporcionar información, sin causa justificada, y datos al Instituto cuando los requiera en ejercicio de la atribución prevista en la fracción I del artículo 203, y
+
+XXX.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
 
 ###### Artículo 214.
 
@@ -2584,6 +2608,14 @@ I.- El carácter intencional de la acción u omisión constitutiva de la infracc
 II.- Las condiciones económicas del infractor, y
 
 III.- La gravedad que la infracción implique en relación con el comercio de productos o la prestación de servicios, así como el perjuicio ocasionado a los directamente afectados.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Cuando la acción u omisión constitutiva de infracción se haya realizado a sabiendas, se impondrá multa por el importe del doble de la multa impuesta a la conducta infractora.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Se entenderá que la acción u omisión se realizó a sabiendas, cuando el infractor conocía la existencia de los derechos del titular, a través de las leyendas a que se refieren los artículos 26, 131 y 229 de la Ley de la Propiedad Industrial y 17 de la Ley Federal del Derecho de Autor, de la Gaceta de la Propiedad Industrial, incluyendo las publicaciones en diarios de circulación nacional y las notificaciones con acuse de recibo.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -2854,3 +2886,7 @@ D.O.F. 18 DE JUNIO DE 2010.
 D.O.F. 28 DE JUNIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
