@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-control-331
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-02-20"
-last_updated: "1987-11-26"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=331&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1985-02-18"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CADAVERES DE SERES HUMANOS
 
-REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CADAVERES DE SERES HUMANOS
+REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS Y CADÁVERES DE SERES HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de febrero de 1985.
 
@@ -985,29 +985,31 @@ VI.- Los vehículos que se utilicen para el traslado de cadáveres o sus partes.
 
 Los establecimientos a que se refiere la fracción I del artículo anterior, además de cumplir con los requisitos que establece el presente Reglamento, deberán reunir los que señale el Reglamento para la Prestación de servicios de Salud en materia de Atención Médica. La Secretaría expedirá una sola licencia que acredite a dichos establecimientos haber satisfecho los requisitos que señalen los citados Reglamentos.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 92.
 
 Los establecimientos mencionados en la fracción I del artículo 90 de este Reglamento deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+I. Contar con la especialidad médica o quirúrgica correlativa a los trasplantes a realizar, con independencia de otras actividades de atención médica que presten;
 
-I.- Además de realizar actividades de atención médica, contar con la especialidad médica o quirúrgica correlativa a los transplantes a realizar;
+II. Contar con un laboratorio de patología clínica;
 
-II.- Contar con un laboratorio de patología clínica y de anatomía patológica;
+III. Contar con laboratorio de anatomía patológica o acceso a uno;
 
-III.- Contar con un banco de sangre;
+IV. Contar con un banco de sangre o un servicio de transfusión, capaces de proveer unidades de sangre y componentes sanguíneos en la cantidad y con la calidad requerida para el tipo de trasplante que realizan;
 
-IV.- Tener sala de recuperación y unidad de cuidados intensivos;
+V. Tener sala de recuperación;
 
-V.- Tener personal médico especializado en el tipo de intervención a realizar y personal médico de apoyo con experiencia en el área;
+VI. Tener una unidad de cuidados intensivos;
 
-> <small>(F. DE E., D.O.F. 9 DE JULIO DE 1985)</small>
+VII. Tener personal médico especializado en el tipo de trasplantes que realizan, y demás personal profesional, técnico y auxiliar de la salud de apoyo con experiencia en el área;
 
-VI.- Contar con medicamentos, equipo e instrumental médico quirúrgico adecuados, y
+VIII. Contar con medicamentos, equipo e instrumental médico quirúrgico adecuados, y
 
-> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 1987)</small>
+IX. Los demás que señale este Reglamento y demás disposiciones jurídicas aplicables.
 
-VII.- Los demás que señale este Reglamento y las normas técnicas que emita la Secretaría.
+Los establecimientos que realizan exclusivamente trasplante de córnea deberán de reunir únicamente los requisitos que señalan las fracciones I, II, III, V, VII, VIII y IX.
 
 > <small>(REFORMADO PRIMER PARRAFO, D. O. 26 DE NOVIEMBRE DE 1987)</small>
 
@@ -1462,3 +1464,9 @@ Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distr
 D.O.F. 26 DE NOVIEMBRE DE 1987.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Aquéllos trámites de solicitud de licencia sanitaria, cuya resolución se encuentre pendiente al momento de la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de su presentación.
