@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2000-del-pleno-del-consejo-de-la-49526"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-07-26"
-last_updated: "2011-12-22"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49526&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2000-07-19"
 ---
 # ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PJF, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE ENERO DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de julio de 2000.
 
@@ -101,13 +101,11 @@ De los libros obligatorios para los juzgados de distrito, de las columnas y apar
 
 De los Libros Obligatorios para los Juzgados de Distrito.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011) (F. DE E., D.O.F. 27 DE ENERO DE 2012)
 
 ###### Artículo 6o.
 
-Libros obligatorios para Juzgado Mixto. Son libros de gobierno o control obligatorios para los juzgados de distrito mixtos, los siguientes:
+Libros obligatorios para Juzgado de Distrito. Son libros de gobierno o control obligatorios para los juzgados de distrito, conforme a su competencia, los siguientes:
 
 Libro uno: Registro de juicios de amparo;
 
@@ -143,13 +141,11 @@ Libro dieciséis: Registro de asuntos en revisión; y
 
 Libro diecisiete: Control de firmas de sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011) (F. DE E., D.O.F. 27 DE ENERO DE 2012)
 
 ###### Artículo 7o.
 
-Libros obligatorios para juzgados especializados. Los juzgados de distrito especializados en materia penal, que conozcan de amparo y procesos penales, deberán llevar todos los libros que se mencionan en el artículo anterior, con excepción del libro tres; cuando únicamente manejen procesos penales, utilizarán los mismos libros señalados, excepto los mencionados como libros uno, tres y cinco.
+Libros obligatorios para juzgados especializados. Los juzgados de distrito especializados en materia penal, que conozcan de amparo y procesos penales, deberán llevar todos los libros que se mencionan en el artículo anterior, con excepción del libro tres; cuando únicamente manejen procesos penales, utilizarán los mismos libros señalados, excepto los mencionados como libros uno y tres.
 
 Los juzgados de distrito especializados en las materias civil y administrativa, deberán llevar, únicamente los libros que en el artículo anterior se encuentran señalados como libros uno, tres, cuatro, cinco, ocho y nueve y, los especializados en materia laboral, sólo los identificados como libros uno, cinco, ocho y nueve, del artículo precedente.
 
@@ -1139,8 +1135,6 @@ LIBRO DIECISIETE DE JUZGADO
 
 Control de firmas de sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
 Artículo 122 Tervicies.- Contenido del libro. El control y vigilancia de los sentenciados que disfruten de algún beneficio o sustitutivo de la pena se llevará mediante un libro único para todo el juzgado, en el que se asentarán las firmas que impriman dichos sentenciados.
@@ -1151,7 +1145,9 @@ a) En la sección correspondiente al Indice deberán anotarse por orden alfabét
 
 b) La sección Control de firmas constará de un apartado que contendrá consecutivamente y de manera vertical los rubros: Número de la causa, Nombre del sentenciado y Periodicidad con la que debe firmar y, de cuatro columnas con los subrubros: Fecha de la firma, Firma del sentenciado, Certificación y Observaciones, las que se utilizarán de la manera precisada en los siguientes artículos.
 
-Para lo anterior deberán destinarse, por lo menos, cuatro páginas por sentenciado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas se agoten y subsista la obligación para el sentenciado de presentarse al juzgado, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva tanto en la columna de observaciones, como en la sección del índice de nombres.
+> <small>(F. DE E., D.O.F. 27 DE ENERO DE 2012)</small>
+
+Para lo anterior deberán destinarse, por lo menos, cinco páginas por sentenciado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas se agoten y subsista la obligación para el sentenciado de presentarse al juzgado, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva tanto en la columna de observaciones, como en la sección del índice de nombres.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 57/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE DICIEMBRE DE 2011)</small>
 
