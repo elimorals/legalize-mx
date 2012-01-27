@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-sistema-para-el-desarrollo-integral-de-la-52123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-06"
-last_updated: "2009-12-01"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL MUNICIPIO DE LEON, GUANAJUATO
 
-REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL MUNICIPIO DE LEON, GUANAJUATO
+REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de octubre de 2006.
 
@@ -53,7 +53,7 @@ El Sistema DIF León aplica la política municipal en materia de Asistencia Soci
 
 Para efectos del presente reglamento se entenderá por:
 
-l.- Consejo: El Consejo Directivo del Sistema DIF León;
+I.- Consejo: El Consejo Directivo del Sistema DIF León;
 
 II.- Municipio: El Municipio de León, Estado de Guanajuato;
 
@@ -77,13 +77,21 @@ V.- Construir una red social para favorecer las oportunidades de desarrollo huma
 
 VI.- Propiciar la profesionalización del Sistema DIF León, a través de la normatividad y asesoría para el diseño o cambio de las estructuras y procesos de la organización;
 
-VII.- Promover el bienestar social y el desarrollo de la comunidad, para crear mejores condiciones de vida a los habitantes del municipio;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+VII.- Generar los mecanismos de coordinación que sean necesarios, con Dependencias y Entidades de la Administración Pública Municipal, Estatal y Federal, así como con organismos no gubernamentales, para dar cumplimiento a los objetivos y metas establecidas en los programas que promueven el bienestar social y el desarrollo de la comunidad, para crear mejora en la calidad de vida a los habitantes del municipio;
 
 VIII.- Desarrollar modelos de atención complementarios para atender las necesidades de asistencia social que se presenten en el ámbito Municipal;
 
 IX.- Generar modelos de estudio e investigación en materia de asistencia social, grupos vulnerables y líneas de atención y participar en protocolos similares; y,
 
-X.- Las demás que deriven de los ordenamientos legales vigentes en la materia, así como las que le asigne el Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+X.- Diseñar, implementar y ejecutar conjuntamente con las Dependencias y Entidades de la Administración Pública Municipal, los programas de cortesía urbana y vialidad, para la ciudadanía a favor de las personas con discapacidad; y,
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2012)</small>
+
+XI.- Las demás que deriven de los ordenamientos legales vigentes en la materia, así como las que le asigne el Ayuntamiento.
 
 ###### ARTÍCULO 5.
 
@@ -137,7 +145,7 @@ Los cargos de consejeros serán honoríficos, por tanto no recibirán retribuci�
 
 los miembros del Consejo están obligados a:
 
-l.- Colaborar en forma comprometida en las distintas actividades y eventos que se desarrollen por parte del Sistema DIF León;
+I.- Colaborar en forma comprometida en las distintas actividades y eventos que se desarrollen por parte del Sistema DIF León;
 
 II.- Guardar y respetar los acuerdos tomados por el Consejo;
 
@@ -155,7 +163,7 @@ El incumplimiento de cualquiera de estas obligaciones, será evaluado por el Con
 
 Corresponde al Consejo;
 
-l.- Designar al Presidente, Tesorero y Vocales, en el caso de renuncia, revocación y ausencia definitiva de quienes ocupen dichos cargos;
+I.- Designar al Presidente, Tesorero y Vocales, en el caso de renuncia, revocación y ausencia definitiva de quienes ocupen dichos cargos;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
@@ -201,7 +209,7 @@ XX.- Las demás que se deriven del presente Reglamento, así como las que le asi
 
 Corresponde al Presidente:
 
-l.- Ejecutar los acuerdos del Consejo, a través del Director General, y supervisar su cumplimiento;
+I.- Ejecutar los acuerdos del Consejo, a través del Director General, y supervisar su cumplimiento;
 
 II.- Llevar la representación legal del Sistema DIF León ante cualquier autoridad, a fin de realizar los actos que se requieran para la defensa de los intereses del referido Sistema, pudiendo otorgar los poderes necesarios para pleitos y cobranzas y actos de administración, para la defensa de los intereses del propio Sistema;
 
@@ -263,7 +271,7 @@ IV.- Las demás que se deriven del presente Reglamento, así como las que le asi
 
 Corresponde a los Vocales:
 
-l.- Realizar las actividades que le encomiende el Consejo;
+I.- Realizar las actividades que le encomiende el Consejo;
 
 II.- Proponer al Consejo las medidas que se consideren convenientes para una mejor prestación del servicio público a cargo del Sistema DIF León;
 
@@ -385,9 +393,9 @@ VI.- De Centros de Desarrollo Familiar DIF;
 
 VII.- De Desarrollo Comunitario y Nutricional;
 
-VIII.- (DEROGADA, P.O.1 DE DICIEMBRE DE 2009)
+VIII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2009)
 
-IX.- (DEROGADA, P.O.1 DE DICIEMBRE DE 2009)
+IX.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2009)
 
 El Consejo podrá determinar la integración de otras unidades o áreas, necesarias para el cumplimiento de las funciones del Sistema DIF León.
 
@@ -395,7 +403,7 @@ El Consejo podrá determinar la integración de otras unidades o áreas, necesar
 
 El trabajo de las Direcciones de área será evaluado por la Dirección General del Sistema DIF León con base en el cumplimiento de metas y compromisos de los programas a su cargo, con excepción de la Unidad de Auditoría Interna que será evaluada por el Consejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
@@ -411,7 +419,13 @@ IV.- Informar mensualmente a la Dirección General el desarrollo y resultados de
 
 V.- Acordar con la Dirección General la resolución de los asuntos extraordinarios de su competencia; y,
 
-VI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+VI.- Proponer al Director General los mecanismos y programas, para dar cumplimiento a los objetivos del Sistema DIF León, coordinándose con éste para la ejecución de los mismos; y,
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2012)</small>
+
+VII.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
@@ -443,7 +457,7 @@ X.- Las demás que se deriven del presente Reglamento, así como las que le asig
 
 Corresponde a la Dirección de Adultos Mayores:
 
-l.- Promover el desarrollo, el bienestar físico, la integración social y familiar del adulto mayor;
+I.- Promover el desarrollo, el bienestar físico, la integración social y familiar del adulto mayor;
 
 II.- Coadyuvar con las autoridades Federales, Estatales y Municipales en la implementación y ejecución de los programas institucionales que beneficien a los adultos mayores sujetos de asistencia social;
 
@@ -495,7 +509,17 @@ II.- Aplicar modelos de detección y rehabilitación integral de las personas co
 
 III.- Fortalecer la vinculación con el sector público, social y privado para complementar la atención integral de las personas con discapacidad; y,
 
-IV.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+IV.- Gestionar ante la Dirección General de Tránsito Municipal, las solicitudes de particulares y de instituciones públicas o privadas que brinden servicio a las personas con discapacidad, para llevar a cabo el trámite de señalización y delimitación de espacios exclusivos de ascenso y descenso para personas con discapacidad, sujetándose a lo establecido en los modelos o programas derivados del Sistema DIF León;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2012)</small>
+
+V.- Expedir y Otorgar el tarjetón tipo gancho correspondiente, el cual contendrá un distintivo consistente en un holograma foliado, y será exclusivo para personas con discapacidad con base en la evaluación del tipo de discapacidad determinada por la institución médica correspondiente a través del certificado de discapacidad o nota médica (DIF, IMSS, ISSSTE o SSA), de conformidad con lo establecido en los modelos o programas derivados del Sistema DIF León, lo anterior con la finalidad de que las mismas hagan uso de los cajones y espacios exclusivos de estacionamiento; y,
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2012)</small>
+
+VI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
 ###### ARTÍCULO 31.
 
@@ -545,7 +569,7 @@ Las relaciones entre el Sistema DIF León y sus trabajadores se regirán por la 
 
 El patrimonio del Sistema DIF León se integra con:
 
-l.- Los recursos que anualmente le fije el Ayuntamiento en el Presupuesto Municipal de Egresos;
+I.- Los recursos que anualmente le fije el Ayuntamiento en el Presupuesto Municipal de Egresos;
 
 II.- Los bienes muebles e inmuebles, derechos y créditos que sean de su propiedad, o que llegare a adquirir por cualquier título;
 
@@ -575,7 +599,7 @@ La supervisión de la correcta aplicación de la normatividad, funcionalidad y o
 
 El Titular de la Unidad será responsable de fiscalizar y evaluar la correcta aplicación de los recursos y bienes que integran el patrimonio, y tendrá las atribuciones siguientes:
 
-l.- Proponer a la Dirección General mecanismos de control operativo y de recursos;
+I.- Proponer a la Dirección General mecanismos de control operativo y de recursos;
 
 II.- Informar al Consejo, sobre el cumplimiento del plan de trabajo, metas, objetivos y programas, así como el resultado de la evaluación del desempeño extraordinario, productividad y eficiencia del personal, de acuerdo a las políticas y lineamientos que establezca el Sistema DIF León, conforme a las disposiciones que señala la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato:
 
@@ -589,7 +613,7 @@ V.- Las demás que el Consejo le asigne.
 
 El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios Relacionados con Bienes Muebles e Inmuebles del Sistema DIF León, estará integrado por:
 
-l.- Un Presidente que será el Director Administrativo;
+I.- Un Presidente que será el Director Administrativo;
 
 II.- Un Secretario que será un representante de la Dirección General;
 
@@ -640,3 +664,9 @@ Cualquier referencia a la Dirección de Atención a la Infancia y la Dirección 
 CUARTO.- Los representantes del H. Ayuntamiento que con el carácter de vocales formarán parte del Consejo Directivo del DIF- León, serán designados por esta única ocasión en la sesión inmediata siguiente a la entrada en vigor de las presentes modificaciones.
 
 QUINTO.- Se derogan todas aquellas disposiciones normativas que se opongan a las presentes modificaciones.
+
+P.O. 27 DE ENERO DE 2012.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas que se opongan a las presentes modificaciones.
