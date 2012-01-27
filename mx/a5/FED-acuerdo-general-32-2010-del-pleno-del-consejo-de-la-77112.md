@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2010-del-pleno-del-consejo-de-la-77112"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-10-29"
-last_updated: "2012-01-18"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-10-21"
 
 ACUERDO GENERAL 32/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA OCTAVA REGIÓN, CON RESIDENCIA EN CANCÚN, QUINTANA ROO, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de octubre de 2010.
 
@@ -59,9 +59,13 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Octava Región, conformado por dos tribunales colegiados de Circuito auxiliares y dos juzgados de Distrito auxiliares, con residencia en Cancún, Quintana Roo, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
 
-Los Juzgados Primero y Segundo de Distrito Auxiliares, con residencia en Cancún, Quintana Roo, creados mediante Acuerdo General 58/2009, cambiarán su denominación a Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, respectivamente, y los tribunales colegiados se denominarán:
+PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Octava Región, conformado por dos tribunales colegiados de Circuito auxiliares y un juzgado de Distrito auxiliar, con residencia en Cancún, Quintana Roo, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Juzgado de Distrito del Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo.
 
 Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Octava Región.
 
@@ -162,3 +166,23 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. En tanto se aperturan nuevos órganos jurisdiccionales mercantiles especializados en juicios de cuantía menor en los restantes circuitos, los juzgados de distrito mixtos, especializados en materia civil y semiespecializados que incluyan esta materia y que actualmente conocen de los juicios mercantiles, continuarán haciéndolo con normalidad, registrando las audiencias de los juicios orales que se celebren a través de los medios electrónicos o cualquier otro idóneo a juicio del juez, de conformidad con lo dispuesto por el artículo 1390 BIS-26 del Código de Comercio.
+
+Los Juzgados de Distrito en los Estados de Puebla y Quintana Roo, no conocerán de los juicios orales, cuya competencia corresponderá a los Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, de conformidad con lo dispuesto en el presente acuerdo.
+
+TERCERO. A fin de equilibrar las cargas de trabajo que llegaren a presentarse en los órganos especializados en materia mercantil, la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida y el turno, total o parcial, de los juicios de naturaleza mercantil de cuantía semejante a la establecida para los orales, que se presenten ante los Juzgados de Distrito del Estado Quintana Roo, con sede en Cancún y los Juzgados de Distrito del Estado de Puebla, con sede en San Andrés Cholula, Puebla.
+
+CUARTO. La Dirección General de Asuntos Jurídicos del Consejo de la Judicatura Federal gestionará la celebración de convenios de colaboración con instituciones públicas y privadas fin (sic) de contar con el servicio de interpretación y traducción a que se refiere el artículo 1390 BIS-3 del Código de Comercio.
+
+QUINTO. La Dirección General de Tecnologías de la Información suministrará los equipos, brindará la capacitación y asistencia técnica necesaria al personal de los órganos jurisdiccionales con competencia en juicios orales mercantiles, para la operación del sistema informático y de videograbación que registrará las audiencias que se celebren.
+
+SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+SEPTIMO. La Visitaduría Judicial en coordinación con la Dirección General de Estadística Judicial, determinarán el número y contenido de los libros de gobierno que obligatoriamente deberán llevar los nuevos órganos en materia mercantil, proponiendo para ello la reforma que corresponda al Acuerdo General 34/2000.
+
+OCTAVO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
