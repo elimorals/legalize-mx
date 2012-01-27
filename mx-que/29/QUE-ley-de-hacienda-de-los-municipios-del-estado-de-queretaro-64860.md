@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2010-12-21"
+last_updated: "2012-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -279,7 +281,9 @@ IV. El vendedor que se haya reservado el dominio, mientras la reserva subsista y
 
 V. El comprador que no sea poseedor, en casos de compra-venta celebrada bajo condición, mientras ésta no se realice;
 
-VI. Los notarios públicos que autoricen en definitiva escrituras que contengan actos traslativos de dominio de predios, cuando no obtengan la respectiva constancia de no adeudo del impuesto y, en su caso, el recibo de pago por el último bimestre, si el acto se realiza dentro del plazo del pago;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+VI. Los notarios públicos que autoricen en definitiva escrituras que contengan actos traslativos de dominio de predios, cuando no obtengan el recibo o constancia de pago del impuesto predial a la fecha del bimestre en que se realizo el acto.
 
 VII. Los servidores públicos que indebidamente expidan constancias de no adeudo del impuesto o que alteren o falsifiquen los datos del registro del predio, para efectos del pago del impuesto;
 
@@ -585,15 +589,19 @@ Están obligados al pago del Impuesto Sobre Traslado de Dominio de Inmuebles, la
 
 Tratándose de la adquisición de un terreno, el cual tenga construcción al momento del acto o del otorgamiento del contrato respectivo, el adquirente deberá acreditar con la documentación oficial que las construcciones o mejoras fueron hechas por él, de lo contrario, éstas quedarán también gravadas por este impuesto en los términos de la presente Ley, ya que se considerará que no solamente se transmitió el terreno sin construir, sino también la construcción misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 60.
 
-En las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en esta Ley, se concederá una deducción de 15 VSMGZ elevado al año, en la base de los impuestos de los inmuebles de interés social y popular, únicamente cuando se trate de la primera adquisición de los mismos.
+En las operaciones de traslado de dominio y otras operaciones inmobiliarias contempladas en esta Ley, se concederá una deducción de 15 VSMGZ elevado al año, en la base de los impuestos de las viviendas de interés social y popular, únicamente cuando se trate de la primera adquisición de las mismas.
 
 A efecto de acreditar dicho supuesto, las autoridades fiscales, en cualquier momento, podrán ejercer sus facultades de comprobación para verificar que el acto que pretende ser sujeto de deducción sea el primero y que no haya sido deducido el impuesto generado por otro acto traslativo previo sobre el mismo bien inmueble; debiendo, el sujeto obligado, cubrir el importe del impuesto y los accesorios que llegaran a generarse.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 61.
 
-Para los efectos de esta Ley, se considera inmueble de interés social aquel cuyo valor total no exceda de 20 VSMGZ elevado al año y por inmueble de interés popular aquel cuyo valor total no exceda de 30 VSMGZ elevado al año.
+Para los efectos de esta Ley, se considera vivienda de interés social, aquella cuyo valor total no exceda de 20 VSMGZ elevado al año y por vivienda de interés popular, aquella cuyo valor total no exceda de 30 VSMGZ elevado al año.
 
 ###### Artículo 62.
 
@@ -661,7 +669,9 @@ VIII. En las adquisiciones de inmuebles que hagan las Instituciones de Asistenci
 
 IX. En las adquisiciones que hagan las personas físicas de predios que provengan de propiedad federal, estatal o municipal y que hayan sido regularizados mediante los programas de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT); y
 
-X. En la adquisición que se realice por la transmisión hereditaria en los términos del Código de Procedimientos Civiles del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+X. En la transmisión hereditaria que se realice a favor del o de los beneficiarios designados en el testamento sobre la vivienda de interés social.
 
 ###### Artículo 64.
 
@@ -689,19 +699,27 @@ Dichos criterios generales serán aplicables a todos los interesados que reúnan
 
 Las autorizaciones quedarán sujetas al cumplimiento de los requisitos establecidos en los criterios generales, dentro del plazo que al efecto se establezca, quedando sin efecto el descuento por falta de uno de ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 65.
 
-Será base gravable de este impuesto, el valor mayor que resulte entre el valor de operación, el valor catastral o el valor comercial del inmueble a la fecha de operación, este último determinado por el avalúo fiscal practicado por perito valuador autorizado por el Poder Ejecutivo del Estado, el cual tendrá una vigencia de seis meses o, en tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el dominio pleno, por el avaluó practicado en los términos de la Ley Agraria.
+Será base gravable de este impuesto, el valor mayor que resulte entre el valor de operación y el valor comercial del inmueble a la fecha de operación, este último determinado por el avalúo fiscal practicado por perito valuador autorizado por el Poder Ejecutivo del Estado, el cual tendrá vigencia de un año o, en tratándose de la primera enajenación de parcelas sobre las que se hubiere adoptado el dominio pleno, por el avalúo practicado en los términos de la Ley Agraria.
 
-Cuando no se pacte precio o monto de la operación, el impuesto se calculará tomando en cuenta el valor catastral y el valor comercial, conforme al párrafo anterior.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+
+Cuando no se pacte precio o monto de la operación, el impuesto se calculará tomando en cuenta el valor comercial, conforme al párrafo anterior.
 
 En la adquisición de bienes por remate, el avalúo fiscal deberá referirse a la fecha en que quede firme la aprobación del mismo.
 
 Para la adquisición de vivienda cuyo valor no exceda de trescientas setenta y cinco veces el salario mínimo mensual en el Estado, realizada con financiamiento otorgado o relacionado con algún programa de fomento de vivienda auspiciado por organismos descentralizados de la Federación o del Estado, el valor comercial podrá ser determinado por el avaluó practicado en los términos de la legislación que regula las actividades y servicios financieros para el otorgamiento de crédito garantizado y, como base del impuesto, el formulado por perito valuador autorizado por el Ejecutivo del Estado, quien será responsable del contenido del mismo, conforme a lo señalado en este Capítulo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 66.
 
-Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmuebles referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda más de un diez por ciento del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias de impuestos que resulten.
+Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo exceda de la base gravable en los términos del artículo anterior, esta no se tomará en cuenta y el impuesto se calculará sobre el valor del nuevo avalúo, determinándose las diferencias y los accesorios del impuesto que resulten, los cuales serán siempre a cargo del perito valuador que efectuó el avalúo a que se refiere el artículo anterior.
+
+Cuando del avalúo practicado, ordenado o tomado en consideración por la dependencia encargada de las finanzas públicas municipales, resulte liquidación por diferencias de impuesto, los notarios y las partes no serán responsables solidarios por las mismas.
 
 ###### Artículo 67.
 
@@ -723,9 +741,13 @@ b) La cantidad obtenida conforme a la fracción anterior, se dividirá entre el 
 
 c) El resultado que se obtenga conforme al inciso anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El valuador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 70.
 
-Para lo señalado en este Capítulo, los peritos valuadores deberán estar autorizados por el Poder Ejecutivo del Estado, en los términos de la ley de la materia y serán responsables de la forma y del contenido de los avalúos y sus consecuencias.
+Para lo señalado en este Capítulo, los peritos valuadores deberán estar autorizados por el Poder Ejecutivo del Estado, en los términos de la ley de la materia y, en su caso, otorgarán las garantías que para tal efecto éste les requiera.
+
+Los peritos así autorizados serán los únicos responsables de la forma y contenido de los avalúos, así como de las diferencias del impuesto omitido y sus accesorios, sin perjuicio de la aplicación de las sanciones por las demás infracciones en que incurran.
 
 ###### Artículo 71.
 
@@ -747,23 +769,27 @@ VII. A la fecha del contrato por el que se realice la transmisión de propiedad 
 
 VIII. En los contratos en los que la condición suspensiva consista en el otorgamiento de un crédito para adquisición, que celebre con instituciones bancarias o financieras, organismos públicos o similares, el momento en que se firme la escritura pública de adquisición.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 72.
 
-La Dirección de Catastro del Estado o de los municipios dispondrá de un plazo de siete días hábiles después de haberse presentado el aviso traslativo de dominio, para resolver sobre la aceptación o no aceptación del valor de la propiedad manifestado para efectos de pago del impuesto. De no resolver lo conducente dentro del plazo señalado, se tendrá por autorizado en definitiva el valor de la propiedad manifestado para efectos del pago del impuesto, siempre que se hubiere presentado el aviso de la escritura de que se trate en forma completa, dentro de los quince días hábiles siguientes a la fecha de la citada escritura.
+La Dirección de Catastro del Estado o de los municipios dispondrá del plazo de un año después de haberse presentado el aviso del acto traslativo de dominio, para revisar el contenido y valor expresados en el avalúo fiscal. De no resolver lo conducente dentro del plazo señalado, se tendrá por autorizado el valor expresado.
 
 ###### Artículo 73.
 
-En los casos en que la operación traslativa de dominio que implique la realización de otras operaciones catastrales, tales como manifestación de nuevas construcciones o aplicaciones, subdivisiones, fusiones de terrenos o cualesquiera otra que implique cambios en la superficie física de terreno o de construcciones registradas en los archivos catastrales, el plazo para emitir la resolución, por parte de la Dirección de Catastro del Estado o de los municipios, será de quince días hábiles contados a partir de la presentación del aviso traslativo de dominio o de veintiún días hábiles en el caso de que la operación catastral simultánea se trate del registro de un fraccionamiento o condominio. Siempre que se hubiere presentado el aviso de la escritura de que se trate en forma completa dentro de los quince días hábiles siguientes a la fecha de la citada escritura.
+(DEROGADO, P.O. 27 DE ENERO DE 2012)
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 74.
 
-En las adquisiciones que se hagan constar en escritura pública los notarios, jueces y demás fedatarios que por disposición legal tengan funciones notariales, así como en las ratificaciones de cualquier acto o contrato que implique traslación de dominio, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaración en la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate; sin este requisito, no se podrá autorizar definitivamente dicha escritura. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto por enterar.
+En las adquisiciones que se hagan constar en escritura pública, así como en las ratificaciones de cualquier acto o contrato que implique traslación de dominio, los notarios, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaración en la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate; sin este requisito, no se podrá autorizar definitivamente la escritura o acta respectiva. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto por enterar.
 
-Los fedatarios no estarán obligados a enterar el impuesto sobre Traslado de Dominio cuando no haya sido enterado a éstos por alguna de las partes o cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el citado impuesto y acompañen a su declaración copia del recibo con el que se efectuó dicho pago. En el primer caso, deberán dar aviso de la operación a la autoridad municipal que corresponda, dentro de los quince días hábiles siguientes a la firma de la escritura.
+Los notarios no estarán obligados a enterar el Impuesto Sobre Traslado de Dominio cuando no haya sido expresado a éstos por algunas de las partes o cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el citado impuesto y acompañen a su declaración copia del recibo con el que se efectuó dicho pago.
 
 El enajenante y el adquirente responden solidariamente del impuesto que se deba pagar.
-
-Cuando del avalúo practicado, ordenado o tomado en consideración por la dependencia encargada de las finanzas públicas municipales, resulte liquidación por diferencias de impuestos, los fedatarios no serán responsables solidarios por las mismas y las partes deberán cubrir dichas diferencias dentro de un plazo de quince días naturales, contados a partir de la fecha en que se les notifique a ellos o a quien los represente.
 
 ###### Artículo 75.
 
@@ -779,7 +805,9 @@ IV. La naturaleza o concepto del acto jurídico que se trate;
 
 V. Identificación del inmueble, señalando su ubicación, nomenclatura si la tiene, superficie, linderos y nombre de los colindantes;
 
-VI. Antecedentes de propiedad o de posesión del inmueble en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
+
+VI. Antecedentes de propiedad o de posesión del inmueble en el Registro Público de la Propiedad;
 
 VII. Valor gravable conforme a las disposiciones contenidas en este Capítulo;
 
@@ -791,47 +819,61 @@ Las personas físicas o morales que se dediquen, sea por su objeto social o por 
 
 En caso de omisión, se sancionará con base en lo dispuesto por la legislación fiscal aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2012)</small>
+
 ###### Artículo 76.
 
-Las declaraciones deberán ser presentadas, ya sea electrónicamente o por escrito, firmadas y acompañadas de los documentos siguientes:
+Las declaraciones deberán ser presentadas electrónicamente o por escrito, firmadas conforme a las siguientes reglas:
 
 I. Si el acto o contrato traslativo de dominio se hace constar en escritura pública, la declaración será firmada por el notario que la hubiera autorizado;
 
-II. Cuando se trate de actos o contratos que se hagan constar en documentos privados, la declaración será firmada por el adquirente y/o el enajenante y se deberá acompañar de cuatro copias del contrato privado;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
 
-III. En los casos de la adquisición de la propiedad como consecuencia de una resolución administrativa, judicial o de cualquier otra autoridad competente, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia, en su caso, de la fecha en que fue declarada firme;
+II. Cuando se trate de actos o contratos que se hagan constar en documentos privados, la declaración será firmada indistintamente por el adquirente, el enajenante o un notario y se deberá acompañar de la copia del contrato privado; y
 
-IV. Acompañar recibo o constancia de estar al corriente en el pago de impuesto predial a la fecha de operación y cualesquier otro gravamen fiscal derivados de los bienes inmuebles, expedidos dentro de los seis meses anteriores a la fecha de presentación del aviso de traslado de dominio en las oficinas catastrales correspondientes;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2012)</small>
 
-V. El avalúo a que se refiere el primer párrafo del artículo 65 de esta Ley;
+III. En los casos de la adquisición de la propiedad como consecuencia de una resolución administrativa, judicial o de cualquier otra autoridad competente, el contribuyente firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia, en su caso, de la fecha en que fue declarada firme.
 
-VI. Cuando la dependencia encargada de las finanzas públicas lo estime necesario, podrá solicitar de los Notarios o de los declarantes que le proporcionen una copia autorizada de la escritura o de cualquier otro documento que haya servido de base para la determinación del Impuesto sobre Traslado de Dominio;
+IV. (DEROGADA, P.O. 27 DE ENERO DE 2012)
 
-VII. El personal de la dependencia encargada de las finanzas públicas no recibirá las declaraciones y demás documentos cuando no cumplan los requisitos señalados en el presente artículo y en el artículo anterior de este ordenamiento; y
+V. (DEROGADA, P.O. 27 DE ENERO DE 2012)
 
-VIII. El encargado de las finanzas públicas municipales podrá autorizar el pago provisional del Impuesto Sobre Traslado de Dominio, siempre y cuando se encuentren al corriente en el pago del Impuesto Predial en los términos señalados en la fracción IV del presente artículo.
+VI. (DEROGADA, P.O. 27 DE ENERO DE 2012)
+
+VII. (DEROGADA, P.O. 27 DE ENERO DE 2012)
+
+VIII. (DEROGADA, P.O. 27 DE ENERO DE 2012)
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2012)</small>
+
+Las declaraciones a que se refiere este artículo deberán acompañarse del avalúo fiscal a que se refiere el artículo 65, a excepción de los casos previstos en el artículo 63 de la presente Ley. Asimismo, se les agregará el recibo de pago de impuesto predial a la fecha de operación y cualesquier otro gravamen fiscal derivados de los bienes inmuebles, expedidos dentro de los seis meses anteriores a la fecha de presentación del aviso de traslado de dominio en las oficinas catastrales correspondientes; o bien, se podrá exhibir constancia de no adeudo de impuesto predial, siempre y cuando el inmueble se encuentre al corriente dentro del plazo señalado.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2012)</small>
+
+El personal de la dependencia encargada de las finanzas públicas no recibirá declaraciones y demás documentos cuando no cumplan los requisitos señalados en el presente artículo y en el artículo anterior de este ordenamiento.
 
 Cuando el pago del impuesto ingrese a través de esta modalidad, el contribuyente o los notarios, según el caso, estarán obligados a presentar el total de los documentos a que se refiere este artículo, ante la dependencia encargada de las finanzas públicas municipales, a efecto de que dicha Autoridad esté en posibilidad de ejercer facultades de comprobación respecto a la determinación del impuesto en los términos previstos en el artículo 65 de esta Ley, así como de realizar el registro y liberación o empadronamiento de dicha operación.
 
 ###### Artículo 77.
 
-Cuando las declaraciones sean formuladas por un notario público y se efectué el pago provisional del Impuesto sobre Traslado de Dominio, el plazo para realizar el trámite en forma completa será de dos años contados a partir de la fecha de operación, siempre y cuando alguna de las partes haya enterado el Impuesto sobre Traslado de Dominio.
+(DEROGADO, P.O. 27 DE ENERO DE 2012)
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 78.
 
-Cuando las declaraciones sean formuladas por un notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la dependencia encargada de las finanzas públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que sirvieron de base para la determinación del Impuesto, con la consecuencia de que una vez exhibidos, la dependencia encargada de las finanzas públicas no podrá negar el empadronamiento y liberación del aviso respectivo, salvo que exista discrepancia con la declaración o se haya omitido el pago del Impuesto sobre Traslado de Dominio o diferencias generadas por actos previos a la operación de que se trate.
+Cuando las declaraciones sean formuladas por un notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la dependencia encargada de las finanzas públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que sirvieron de base para la determinación del impuesto, con la consecuencia de que una vez exhibidos, se tendrá por empadronado el trámite correspondiente.
 
-En todo caso, los avisos a que se refieran las declaraciones de Traslado de Dominio, cuando se hayan presentado en forma completa y dentro de los quince días hábiles siguientes a la fecha de la escritura serán verificados por la Dependencia encargada de las Finanzas Públicas, con la finalidad de determinar posibles diferencias en un plazo de quince días hábiles contados a partir de la fecha en que se hubiesen presentado. En caso de no resolver dentro del plazo señalado, se tendrán por registrados los avisos y por autorizados, en definitiva, los pagos realizados con motivo de dicho acto o contrato traslativo de dominio, y si con posterioridad al mencionado plazo surgieren diferencias en los pagos realizados o discrepancias en la declaración, éstos no causarán responsabilidad alguna para el contribuyente ni para el fedatario.
+En todo caso dicha autoridad tendrá un plazo de un año contador (sic) a partir de la fecha de presentación del aviso de traslado de dominio correspondiente para comprobar lo declarado y sólo en caso de que existan discrepancias el notario será responsable de las diferencias generadas y sus accesorios.
 
-La liquidación que determine diferencias se entregará a los notarios a través del personal autorizado por los mismos, quienes tendrán la obligación de informar a las partes de estas diferencias; o, en su caso, a los contribuyentes correspondientes, debiendo firmar de recibido y registrando la fecha en que le fue entregada la liquidación por la dependencia encargada de las finanzas municipales correspondiente.
-
-En caso de que el notario o el contribuyente se niegue a recibir la liquidación, se hará constar en la liquidación de diferencias, sin que esto interrumpa el plazo establecido en el párrafo antepenúltimo del presente artículo.
-
-El plazo antes citado surtirá efectos siempre y cuando se hubiese presentado el aviso dentro del plazo establecido en el artículo 71 del presente ordenamiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 79.
 
-Los notarios públicos no autorizarán ninguna escritura definitiva en donde consten los actos o contratos traslativos de dominio, sin que se les compruebe haber efectuado el pago del Impuesto Sobre Traslado de Dominio, y de sus diferencias generadas, en su caso, así como registrado el cambio de propietario ante las oficinas catastrales correspondientes.
+Los notarios no autorizarán definitivamente ninguna escritura en donde consten los actos o contratos traslativos de dominio, respecto de los que no se haya efectuado el pago del Impuesto Sobre Traslado de Dominio, así como manifestado el cambio de propietario ante las oficinas catastrales correspondientes.
 
 La omisión a lo dispuesto en este artículo constituye una infracción y será sancionada conforme a lo previsto en el Código Fiscal del Estado de Querétaro.
 
@@ -843,7 +885,9 @@ La consulta escrita en relación a la base gravable del impuesto que se formule 
 
 Los encargados del Registro Público de la Propiedad no inscribirán los actos jurídicos a que se refieren los artículos anteriores, sin que se les compruebe haber realizado el pago del impuesto de traslación de dominio.
 
-Con la finalidad de comprobar dicho pago, podrán presentar constancia de no adeudo del Impuesto Sobre Traslado de Dominio, emitido por la dependencia encargada de las finanzas públicas municipales, el recibo de pago del mismo impuesto, o bien, el aviso de traslado de dominio debidamente registrado y liberado.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
+
+Con la finalidad de comprobar dicho pago, podrá presentarse constancia de no adeudo del Impuesto Sobre Traslado de Dominio o el recibo de pago del mismo impuesto, emitidos por la dependencia encargada de las finanzas públicas municipales.
 
 ### Capítulo Tercero. Impuesto sobre fraccionamientos, condominios y relotificación de predios
 
@@ -973,6 +1017,10 @@ h) El uso de fierros quemadores.
 
 Para los efectos de esta Ley, se considerarán como comerciantes ambulantes a todos los que, sin tener establecimiento fijo, verifiquen operaciones de comercio.
 
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2012)</small>
+
+La titularidad de los derechos derivados de las licencias de funcionamiento para las operaciones comerciales que refiere el presente artículo podrán transferirse siempre que previamente lo autorice la autoridad competente.
+
 ###### Artículo 100.
 
 Las licencias municipales de funcionamiento se otorgarán una vez que se hayan satisfecho los requisitos señalados en los diversos ordenamientos aplicables, así como los señalados por las autoridades municipales competentes y previa solicitud del interesado presentada ante la dependencia encargada de las finanzas públicas municipales, mismas que deberán contener los siguientes datos:
@@ -1050,6 +1098,14 @@ Para ser otorgada una licencia inicial o la revalidación anual, los interesados
 ###### Artículo 107.
 
 Una vez que haya sido empadronado el causante, deberá cubrir en la dependencia encargada de las finanzas públicas municipales, los derechos que le fije la correspondiente Ley de Ingresos.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2012)</small>
+
+El monto de los derechos que se establezcan en la Ley de Ingresos de cada municipio por las actividades descritas en el artículo 99 del presente ordenamiento, deberá ser igual al que se determine para el pago de derechos de mercados de segunda categoría que refiere el artículo 162 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2012)</small>
+
+Los adultos mayores, que así lo acrediten, pagarán por concepto de derechos de expedición o en su caso revalidación de licencia municipal de funcionamiento en los supuestos que refieren los artículos 98 e) y 99 de la presente Ley, la cantidad equivalente a un día de Salario Mínimo General Diario Vigente de la zona que corresponde al Estado de Querétaro.
 
 ###### Artículo 108.
 
@@ -1444,6 +1500,10 @@ El derecho de establecer mercados, de cualquier clase que sean, es facultad excl
 Para el pago de derechos por uso de vías públicas habilitadas como zonas de mercados, servirá de base la calificación que haga el encargado de las finanzas públicas municipales, de acuerdo con la tarifa de la correspondiente Ley de Ingresos de cada municipio.
 
 Para el pago de derechos por uso de zonas de comercio en la vía pública, la realizarán los recaudadores municipales, quienes estarán bajo la directa vigilancia y control del encargado de las finanzas públicas municipales; expidiendo el recibo o boleto numerado correspondiente, mismo que deberá estar autorizado con el sello de dicha dependencia y la fecha del día de la recaudación.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2012)</small>
+
+Quienes acrediten ante las autoridades competentes su calidad de adultos mayores, discapacitadas o bien, su pertenencia a algún grupo o comunidad indígena, pagarán anualmente por concepto de derechos por el uso de la vía pública para la venta de artículos, la cantidad equivalente a un salario mínimo general diario vigente de la zona, previa autorización de la autoridad competente.
 
 ###### Artículo 150.
 
@@ -1934,3 +1994,13 @@ P.O. 21 DE DICIEMBRE DE 2010.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 27 DE ENERO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Las escrituras que se hubiesen presentado a las tesorerías y oficinas catastrales con anterioridad a la vigencia de esta Ley, se tramitarán en la forma y términos aplicables al momento de su presentación.
+
+Artículo Cuarto. Los trámites de actos traslativos de dominio ingresados a las Tesorerías Municipales antes del 03 de diciembre del 2008, y que a la fecha de la entrada en vigor de la presente Ley, se encuentren pendientes de empadronar, podrán ser liberados, siempre y cuando se tenga registro que de los mismos se haya efectuado el pago provisional del Impuesto Sobre Traslado de Dominio, y en su caso, cualquier otro impuesto derivado de la propiedad inmobiliaria, así como se hubiere registrado el cambio de propietario ante las oficinas catastrales correspondientes.
