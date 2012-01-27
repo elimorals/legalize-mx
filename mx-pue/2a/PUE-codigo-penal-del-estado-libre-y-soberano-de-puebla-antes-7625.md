@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-01-04"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "PUE"
 ---
 # CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA - ANTES CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA -
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 27 DE ENERO Y 5 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 5 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE ENERO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE ENERO DE 2012.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -47,7 +49,7 @@ Que estando satisfechos los requisitos de los Artículos 57 fracción I, 63 frac
 
 D E C R E T A :
 
-CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 # LIBRO PRIMERO.- DISPOSICIONES GENERALES
 
@@ -239,9 +241,9 @@ III.- Se exceptúan de lo dispuesto en este artículo las dependencias e institu
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO QUINTO.- CAUSAS DE EXCLUSION DEL DELITO
+### CAPITULO QUINTO.- CAUSAS DE EXCLUSIÓN DEL DELITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 26.
 
@@ -347,9 +349,9 @@ Existe concurso real o material, cuando una misma persona es juzgada a la vez po
 
 Hay concurso ideal o formal cuando con un solo acto u omisión se violan varias disposiciones penales, que señalen sanciones diversas.
 
-### CAPITULO SEPTIMO.- REINCIDENCIA Y HABITUALIDAD
+### CAPITULO SÉPTIMO.- REINCIDENCIA Y HABITUALIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 31.
 
@@ -1213,7 +1215,7 @@ Una vez pagada la sanción pecuniaria que se hubiere impuesto, incluida la repar
 
 Con las sumas que se obtengan de las multas impuestas como sanciones o como conmutación de la pena de prisión, se integrará un Fondo para la protección a víctimas de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 105.
 
@@ -1765,13 +1767,13 @@ Las disposiciones de esta sección se aplicarán salvo lo que disponga la Legisl
 
 #### SECCION CUARTA.- ASOCIACION DELICTUOSA Y PANDILLERISMO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 183.
 
 Se impondrá prisión de seis meses a seis años y multa de diez a cincuenta días de salario, al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la sanción que le corresponda por el delito o delitos que cometa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1815,7 +1817,7 @@ El plazo de la prescripción de la acción y la sanción penal de las conductas 
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 186 Quinquies
+###### Artículo 186 Quinquies.
 
 El miembro de la delincuencia organizada o participante de la asociación delictuosa que preste ayuda eficaz para la investigación y persecución de otro u otros participantes de la misma, podrá recibir los beneficios siguientes:
 
@@ -1827,13 +1829,13 @@ III.- Cuando durante el proceso penal, el indiciado aporte pruebas ciertas, sufi
 
 IV.- Cuando un sentenciado aporte pruebas ciertas, suficientemente valoradas por el juez, para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, podrá otorgársele la remisión parcial de la pena, hasta en dos terceras partes de la pena privativa de libertad impuesta.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 186 Sexies.
 
 Al que realice una llamada de emergencia o permita utilizar su teléfono, a sabiendas de que es una llamada o aviso falso de alerta con el único objeto de inducir al error y movilizar a los sistemas de emergencias y urgencias o su equivalente, se le impondrá de dos meses a dos años de prisión y multa de diez a cien días de salario.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2011)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2011)</small>
 
 #### SECCION QUINTA.- USO INDEBIDO DE LOS SISTEMAS TELEFONICOS DE EMERGENCIA
 
@@ -2031,7 +2033,7 @@ Se impondrá prisión de uno a tres años y multa de cien a trescientos cincuent
 
 En caso de que alguno de los delitos previstos en esta Sección afecten un área natural protegida de jurisdicción o administración estatal, la pena de prisión podrá aumentarse hasta cinco años más, y la pena económica hasta en mil días de salario.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE JULIO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE JULIO DE 2001)</small>
 
 #### SECCION SEGUNDA.- DELITOS CONTRA LA INFRAESTRUCTURA HIDRAULICA
 
@@ -2067,7 +2069,7 @@ IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdic
 
 Se aplicará prisión de uno a diez años y multa de treinta a trescientos días de salario, a quien mediante incendio, explosión, inundación o por cualquiera otra causa, creare un peligro general para los bienes o para las personas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2008)</small>
 
 #### SECCION CUARTA.- DELITOS CONTRA EL ORDEN EN EL DESARROLLO URBANO
 
@@ -2101,7 +2103,7 @@ II.- Con el carácter de funcionarios públicos realicen actos u omisiones para 
 
 La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en la presente Sección, se realicen sobre áreas naturales protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2010)</small>
 
 ###### Artículo 199 Quinquies.
 
@@ -2251,13 +2253,13 @@ II.- Cuando se trate de cónyuges o de concubinos, sólo podrá procederse por q
 
 III.- La pena se impondrá, sin perjuicio de las sanciones que correspondan si se causa el contagio o algún otro daño o lesión, o de los que resultaren por la transmisión de una enfermedad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO SEPTIMO.- DELITOS CONTRA LA DIGNIDAD Y EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
 #### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 215.
 
@@ -2269,7 +2271,7 @@ Al que ilegalmente fabrique, imprima, grabe, transporte, exhiba, venda o haga ci
 
 La misma sanción establecida en el artículo anterior se impondrá a quien públicamente, en forma ilegal, ejecute o haga ejecutar exhibiciones lascivas u obscenas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2007)</small>
 
 #### SECCION TERCERA.- TURISMO SEXUAL DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
 
@@ -2363,7 +2365,7 @@ Al que almacene, preste o envíe, el material a que se refiere el artículo 222,
 
 (DEROGADO, P.O. 23 DE MARZO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION CUARTA.- LENOCINIO Y TRATA DE PERSONAS. (REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
@@ -2371,7 +2373,7 @@ Al que almacene, preste o envíe, el material a que se refiere el artículo 222,
 
 A quien promueva, publicite, facilite, gestione o por cualquier medio invite a personas a viajar a cualquier destino, con el propósito de realizar o presenciar actos sexuales con menores de dieciocho años de edad o con personas que no tuvieren la capacidad de comprender el significado de los hechos o que por alguna razón no pudieren oponer resistencia, se le impondrá una pena de siete a doce años de prisión y multa de ochocientos a dos mil días de salario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION QUINTA.- PROVOCACION DE UN DELITO O APOLOGIA DE ESTE O DE ALGUN VICIO. (REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
@@ -2399,7 +2401,7 @@ V.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
 El lenocinio se sancionará con prisión de seis a diez años y multa de cincuenta a quinientos días de salario.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 227 Bis.
 
@@ -2433,23 +2435,23 @@ Al responsable del delito de Trata de Personas se le impondrá de seis a quince 
 
 La sanción que señala el artículo anterior se duplicará si la persona explotada es menor de dieciocho años, o de quien no tenga la capacidad para comprender el significado del hecho o para resistir la conducta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION SEXTA.- DISPOSICIONES COMUNES A LAS SECCIONES PRECEDENTES. (ADICIONADO, P.O. 23 DE MARZO DE 2007) (REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
 #### SECCION PRIMERA.- RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 229.
 
 El que públicamente provoque a cometer un delito o haga apología de éste, o de algún vicio, o de quienes lo cometan, será sancionado con prisión de quince días a seis meses y multa de tres a treinta días de salario, si el delito no se ejecutare. En caso contrario, se impondrá al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION SEGUNDA.- RESPONSABILIDAD MEDICA
 
-> <small>(F. DE E. PRIMER PARRAFO, P.O. 6 DE ENERO DE 1987)</small>
+> <small>(F. DE E. PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 1987)</small>
 
 ###### Artículo 229 Bis.
 
@@ -2457,7 +2459,7 @@ Los delitos a que se refieren las secciones anteriores serán sancionados en tod
 
 En caso de existir derechos sobre las víctimas, se perderá la patria potestad sobre éstas y sobre los demás descendientes, el derecho a los alimentos, el derecho a heredar y serán inhabilitados para ser tutores o curadores.
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ###### Artículo 229 Ter.
 
@@ -2629,7 +2631,7 @@ A los ingenieros, arquitectos, agrónomos, veterinarios, maestros de obras y, en
 
 #### SECCION CUARTA.- FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 245.
 
@@ -2705,7 +2707,7 @@ VIII.- Al que, a sabiendas, hiciere uso de llaves, sellos, marcas y demás objet
 
 #### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 1995)</small>
 
 ###### Artículo 250.
 
@@ -2955,7 +2957,7 @@ En el caso previsto por la fracción VII del artículo 269 del presente Código 
 
 Cuando la violación o su equiparable fuere cometida con intervención de dos o más personas, a todas ellas se impondrán de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 269.
 
@@ -3041,7 +3043,7 @@ Cuando el rapto vaya acompañado de otro delito perseguible de oficio, sí se pr
 
 La reparación del daño en los casos de estupro, violación o rapto comprenderá además, el pago de alimentos a la ofendida y a los hijos, si los hubiere, de acuerdo con lo dispuesto por las leyes civiles.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
 
 #### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
 
@@ -3091,7 +3093,7 @@ En los supuestos a que se refiere el artículo anterior, los delitos se persegui
 
 #### SECCION PRIMERA.- AMENAZAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO DUODECIMO.- DELITOS CONTRA LA FAMILIA
 
@@ -3137,7 +3139,7 @@ Las mismas penas que señala el artículo anterior, se impondrán a la persona q
 
 A los testigos y a las personas que intervengan en la celebración del nuevo matrimonio, a sabiendas de la vigencia legal del anterior, se les impondrá la mitad de las sanciones previstas en el artículo 280.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 #### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
 
@@ -3175,11 +3177,11 @@ Al que contando con el consentimiento de un ascendiente que ejerciere la patria 
 
 Las mismas sanciones se impondrán a los terceros que recibieren al menor y a las personas que otorgaren su consentimiento, a quienes además se privará de los derechos de patria potestad, tutela o custodia, en su caso; pero si se acreditare que quien recibió al menor lo hizo con el propósito de incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, las penas se le reducirán hasta la mitad de lo previsto en el primer párrafo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 #### SECCION QUINTA.- PLAGIO Y SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 284 Bis.
 
@@ -3341,7 +3343,7 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 
 V.- Cuando se cometa robo de infante.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3401,7 +3403,7 @@ CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
 #### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 305.
 
@@ -3639,7 +3641,7 @@ Si en los casos a que se refiere el artículo que precede, el suicida fuere muje
 
 El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que otro lo evite, será sancionado con prisión de un mes a un año.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 1994)</small>
 
 #### SECCION TERCERA.- INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
@@ -3937,7 +3939,7 @@ CAPITULO DECIMOCTAVO.- DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO
 
 #### SECCION SEPTIMA.- EXTORSIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 373.
 
@@ -4405,7 +4407,7 @@ II.- Al que de propia autoridad, haciendo uso de cualquiera de los medios indica
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-###### Articulo 409.
+###### Artículo 409.
 
 Cuando el despojo se cometa materialmente por cinco o más personas, la sanción de prisión será de seis a nueve años y multa de cien a mil quinientos días de salario.
 
@@ -4787,11 +4789,11 @@ Cuando en la comisión de cualquier delito intervenga quien pertenezca o haya pe
 
 Los delitos a que se refiere este Capítulo producen acción popular.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO VIGESIMO.- DELITOS ELECTORALES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 441.
 
@@ -4821,7 +4823,7 @@ V.- Documentos Públicos Electorales, todas las boletas, actas oficiales de los 
 
 VI.- Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 442.
 
@@ -4955,7 +4957,7 @@ VI.- Se niegue a dar fe de los actos en que deban intervenir en los términos de
 
 VII.- Proporcione apoyo o preste algún servicio a los Partidos Políticos a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 445.
 
@@ -5003,11 +5005,11 @@ Se impondrá de setenta o (sic) doscientos días de multa y prisión de tres a s
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer a los servidores públicos además de la pena señalada, la inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 1997)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 1997)</small>
 
 ### CAPITULO VIGESIMO PRIMERO.- DE LA TORTURA
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE MARZO DE 1997)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 449.
 
