@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-educacion-militar-del-ejercito-51248"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-14"
-last_updated: "2006-08-14"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-08-08"
 ---
 # REGLAMENTO DE LA LEY DE EDUCACION MILITAR DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE LA LEY DE EDUCACION MILITAR DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-REGLAMENTO DE LA LEY DE EDUCACION MILITAR DEL EJERCITO Y FUERZA AEREA MEXICANOS
+REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -45,9 +45,11 @@ La aplicación e interpretación de este Reglamento corresponde a la Secretaría
 
 Los directores de las Instituciones Educativas y Jefes de Curso, vigilarán el cumplimiento de las disposiciones contenidas en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 3.
 
-Para los efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 2 de la Ley (sic) Educación Militar del Ejército y Fuerza Aérea Mexicanos, así como las siguientes:
+Para los efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 2 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, así como las siguientes:
 
 I. Director y Rector: El Director General de Educación Militar y Rector de la Universidad del Ejército y Fuerza Aérea;
 
@@ -55,7 +57,9 @@ II. Ejército y Fuerza Aérea: El Ejército y Fuerza Aérea Mexicanos;
 
 III. Instituciones Educativas: Las Instituciones de Educación Militar;
 
-IV. Jefaturas de Curso: Los Jefes de los cursos de informática, archivología, dactiloscopistas y otros que establezca la Secretaría;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+IV. Jefaturas de curso: los Jefes de los Cursos de Informática, Archivología y otros que establezca la Secretaría;
 
 V. Plan General: El Plan General de Educación Militar;
 
@@ -109,9 +113,11 @@ El personal de las Instituciones Educativas debe cumplir las funciones que estab
 
 ### CAPÍTULO II. Discentes
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 11.
 
-Se considera discente al personal nacional y extranjero, civil o militar, que haya sido aceptado, inscrito y se encuentre cursando los estudios que se imparten en el Sistema.
+Se considera discente al personal nacional y extranjero, civil o militar, que haya sido aceptado, inscrito y se encuentre cursando los estudios que se imparten en el sistema, quedando incluidos en esta denominación genérica, los Generales, Jefes, Oficiales y Clases en instrucción o cursantes, así como los cadetes, alumnos y becarios; de conformidad con la designación particular que se establezca en los reglamentos de las Instituciones Educativas.
 
 ###### ARTÍCULO 12.
 
@@ -315,7 +321,9 @@ II. El Director y Rector;
 
 III. Los directores de las Instituciones Educativas;
 
-IV. Los Jefes de los Cursos de informática, archivología y dactiloscopista, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+IV. Los Jefes de los Cursos de Informática, Archivología y de aquellos otros cursos que determine la Secretaría, y
 
 V. Otras que determine la Secretaría.
 
@@ -379,9 +387,11 @@ IV. Convocar a la Junta Técnica Consultiva conforme a su reglamento, y
 
 V. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 40.
 
-Los Jefes de Curso dependientes de las direcciones generales de Archivo, Informática, Personal y, en su caso, de otras unidades administrativas, según los cursos a impartir, serán Jefes u Oficiales con conocimientos acordes a éstos, nombrados por dichos organismos y aprobados por el Secretario.
+Los Jefes de Curso dependientes de las Direcciones Generales y, en su caso, de otras unidades administrativas, según los cursos a impartir, serán Generales, Jefes u Oficiales con conocimientos acordes a éstos, nombrados por dichos organismos y aprobados por el Secretario.
 
 ###### ARTÍCULO 41.
 
@@ -501,9 +511,11 @@ Escuela Militar de Ingenieros de Combate, y
 
 Escuela Militar del Servicio de Transmisiones.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
 ###### ARTÍCULO 47.
 
-Corresponde a la Dirección y Rectoría la organización, acreditación e implementación de los cursos de capacitación de informática, archivología y dactiloscopistas, así como de otros que se impartan dentro del Sistema para satisfacer las necesidades de capacitación del Ejército y Fuerza Aérea.
+Corresponde a la Dirección y Rectoría la organización, acreditación e implementación de los cursos según su propósito, dependientes de las Direcciones Generales y, en su caso, de otros organismos, que se impartan dentro del sistema para satisfacer las necesidades del Ejército y Fuerza Aérea.
 
 ###### ARTÍCULO 48.
 
@@ -520,6 +532,12 @@ La Dirección y Rectoría, de conformidad con el manual que para tal efecto se e
 ###### ARTÍCULO 51.
 
 La Dirección y Rectoría implementará los cursos básicos de los jefes y oficiales egresados de las Instituciones Educativas que no tengan Unidad-Escuela de su especialidad, así como otros que determine la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+ARTÍCULO 51 BIS.- La Dirección y Rectoría implementará un curso de adiestramiento básico individual, por ciclo escolar, el cual será integrado con personal directivo, docente y de apoyo a la educación, en coordinación con la Secretaría.
+
+El curso tendrá por objeto ambientar y adaptar a la vida militar, al personal discente de nuevo ingreso a las Instituciones Educativas de formación, desarrollando en ellos, la capacidad de realizar tareas propias del Ejército y Fuerza Aérea.
 
 ###### ARTÍCULO 52.
 
@@ -1319,7 +1337,9 @@ I. Haber terminado satisfactoriamente sus estudios;
 
 II. A solicitud del interesado, siempre que sea aceptada por la Secretaría;
 
-III. Bajo rendimiento académico;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+III. Bajo rendimiento académico en los términos que indique el reglamento de cada Institución Educativa;
 
 IV. Reprobar el examen final o profesional;
 
@@ -1327,23 +1347,45 @@ V. Observar mala conducta, determinada por el Consejo de Honor de la Institució
 
 VI. Adquirir otra nacionalidad;
 
-VII. Acumular faltas justificadas o injustificadas;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+VII. Acumular el número o porcentaje de faltas justificadas o injustificadas que indique el reglamento de cada Institución Educativa;
 
 VIII. Estar comprendido en alguna de las causales de baja señaladas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, en el Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos y demás disposiciones aplicables;
 
-IX. Colocarse en algún grado de inutilidad de los especificados en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-X. Otras que señalen los Reglamentos de las Instituciones Educativas y Cursos que imparten las Jefaturas.
+IX. Presentar algún padecimiento de los establecidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+X. Por motivos de salud, que le impidan cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+XI. Por actualizarse los supuestos previstos en los artículos 1 y 2 del Reglamento de los Grupos de Militares Procesados y Sentenciados, y
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+XII. Otras que señalen los Reglamentos de las Instituciones Educativas y Cursos que imparten las jefaturas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+Los discentes que causen baja de las Instituciones Educativas, podrán ser puestos a disposición de la dirección del arma o del servicio que corresponda, atendiendo a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios, asignándoles la jerarquía que corresponda.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 141.
 
-Al personal que vaya a ser dado de baja de la Institución Educativa correspondiente se le comunicará por escrito esta circunstancia, haciéndole saber los motivos y fundamentos legales para ello, y se le concederá un término de quince días naturales a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a su interés convenga.
+A los discentes que se ubiquen en alguna de las causales de baja, contenidas en el artículo 140, fracciones III, IV, V, VI, VII, VIII, IX, X y XII, del presente reglamento o en los de cada Institución Educativa, se les comunicará por escrito, que se inicia el procedimiento para determinar la procedencia o improcedencia de causar baja de la Institución Educativa Militar respectiva, haciéndoles saber los motivos y fundamentos legales para ello y se les concederá un término de quince días naturales que contará a partir del día siguiente al en que les sea notificado, a efecto de que manifiesten lo que a su interés convenga; transcurrido dicho término sin que manifiesten argumento alguno, se les tendrá por conformes con el citado procedimiento.
 
-Una vez transcurrido dicho plazo se iniciarán los trámites administrativos para la baja.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 142.
 
-Iniciados los trámites de baja del personal discente a que se refiere el artículo anterior, cesará su participación en toda actividad de carácter académico, en tanto se le notifique la orden de baja respectiva.
+Iniciados los trámites a que se refiere el artículo anterior, el discente cesará de participar en toda actividad académica; en tanto se dicte la resolución correspondiente.
+
+En caso de que la resolución que se dicte en el procedimiento a que se refiere el artículo 141 de este reglamento, declare que resulta improcedente la baja del discente, éste continuará sus actividades académicas en la Institución Educativa, procediendo a realizar los ajustes para regularizar su situación académica.
 
 ###### ARTÍCULO 143.
 
@@ -1352,6 +1394,36 @@ Reingreso es el acto mediante el cual el personal militar que, habiendo causado 
 I. El curso del que causó baja o para iniciar en el mismo plantel, y
 
 II. Un Plantel diferente de conformidad con los reglamentos de cada Institución Educativa y las convocatorias correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+ARTÍCULO 143 BIS.- Los discentes que causen baja podrán reingresar por una sola ocasión a la Institución Educativa de la cual causaron baja, únicamente en los casos siguientes:
+
+I. Cuando aprueben el examen especial correspondiente a las asignaturas que hayan motivado su baja;
+
+II. Cuando desaparezca la causa a la que se refiere el artículo 140, fracción X de este ordenamiento;
+
+III. Cuando la baja haya sido por la causa a la que se refiere el artículo 140, fracción VII de este ordenamiento, o
+
+IV. Cuando se emita sentencia ejecutoriada de carácter absolutorio en el proceso penal que hubiere motivado su baja de la Institución Educativa.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+
+ARTÍCULO 143 TER.- Los discentes que causen baja podrán reingresar a continuar sus estudios, en el semestre que los interrumpieron, previa solicitud escrita presentada por conducto de la dirección y rectoría, y satisfaciendo los requisitos siguientes:
+
+I. Haber concluido satisfactoriamente el semestre anterior al que pretendan cursar;
+
+II. No presentar algún motivo de salud que le impida cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
+
+III. Estar apto para el servicio activo de las armas;
+
+IV. No encontrarse sujeto a un proceso penal al momento del trámite de reingreso, y
+
+V. Otros que para el ingreso y permanencia en el Ejército y Fuerza Aérea Mexicanos, se señalen en las Leyes y Reglamentos Militares y en las convocatorias respectivas.
+
+Las solicitudes serán consideradas siempre que el reingreso pueda darse sin que haya transcurrido más de un año desde la fecha en que el discente haya causado baja de la Institución Educativa, ni más de tres años en el caso de cursos que deban ser reactivados por haber quedado en receso.
+
+En el caso de los discentes que se encuentren en el supuesto del artículo 143 bis, fracción II de este reglamento, las solicitudes serán consideradas siempre que el reingreso pueda darse sin que hayan transcurrido más de tres semestres desde la fecha en que el discente haya causado baja de la Institución Educativa.
 
 ## TÍTULO SÉPTIMO. Acreditación, Certificación y Revalidación de Estudios
 
@@ -1586,3 +1658,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de agosto de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
