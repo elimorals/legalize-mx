@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2012-01-18"
+last_updated: "2012-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -840,15 +840,25 @@ La venta o preventa de un servicio de tiempo compartido sólo podrá iniciarse c
 
 I. Nombre y domicilio del proveedor;
 
-II. Lugar donde se prestará el servicio;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+II. Lugar e inmueble donde se prestará el servicio, exhibiendo copia certificada de la afectación del inmueble o parte del mismo ante notario público mediante el acto jurídico de una declaración unilateral de la voluntad o fideicomiso en el que se destine el inmueble al servicio de tiempo compartido por el número de años que se está ofreciendo el servicio, debiendo obtener el registro definitivo en el Registro Público de la Propiedad, para con ello registrarse en la Procuraduría Federal del Consumidor; dejando a salvo los derechos de propiedad del proveedor una vez concluida la afectación;
 
 III. Determinación clara de los derechos de uso y goce de bienes que tendrán los compradores, incluyendo períodos de uso y goce;
 
 IV. El costo de los gastos de mantenimiento para el primer año y la manera en que se determinarán los cambios en este costo en períodos subsecuentes;
 
-V. Las opciones de intercambio con otros prestadores del servicio y si existen costos adicionales para realizar tales intercambios; y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
-VI. Descripción de las fianzas y garantías que se otorgarán en favor del consumidor.
+V. Las opciones de intercambio con otros prestadores del servicio y si existen costos adicionales para realizar tales intercambios;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+VI. Descripción de las fianzas y garantías que se otorgarán en favor del consumidor, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
+VII. En lo relativo a los servicios de tiempo compartido a prestarse en el extranjero éstos podrán ser comercializados en la República Mexicana únicamente cuando las personas físicas o morales que ofrezcan y/o presten y/o comercialicen los servicios sean sujetos de comercio, en México, de conformidad con las leyes aplicables, y que se hayan constituido en lo general, así como en lo especial en materia de tiempo compartido o club vacacional, de conformidad con las leyes de su país de origen; en caso de ser omisas, las personas referidas en el párrafo anterior deberán acreditar fehacientemente que su representada es el dueño del inmueble y su autorización a ser destinado a la comercialización de tiempo compartido.
 
 > <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2006)</small>
 
@@ -2161,3 +2171,9 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2012.
 D.O.F. 18 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría contará con un periodo de tres meses a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la Norma Oficial Mexicana, ajustada al cumplimiento del mismo.
