@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2009-09-26"
+last_updated: "2012-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE COLIMA
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE COLIMA
+LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -299,9 +299,11 @@ En ningún caso se avalarán créditos o financiamientos que generen obligacione
 
 ### CAPÍTULO V. DE LA VIGILANCIA Y CONTROL DE LAS OPERACIONES DE ENDEUDAMIENTO
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 22.
 
-El Congreso, por conducto de la Contaduría Mayor de Hacienda, así como la Secretaría de la Contraloría, la Secretaría y las Contralorías Municipales, son los órganos facultados para vigilar y controlar las operaciones de endeudamiento de las entidades públicas a que se refiere el artículo 2° de esta Ley, en sus respectivos ámbitos de competencia.
+El Congreso, por conducto del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, así como la Secretaría de la Contraloría, la Secretaría y las Contralorías Municipales, son los órganos facultados para vigilar y controlar las operaciones de endeudamiento de las entidades públicas a que se refiere el artículo 2° de esta Ley, en sus respectivos ámbitos de competencia.
 
 ### CAPÍTULO VI. DEL REGISTRO ESTATAL DE DEUDA PÚBLICA
 
@@ -348,3 +350,7 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
