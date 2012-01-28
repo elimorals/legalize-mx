@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2012-01-20"
+last_updated: "2012-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -487,9 +487,9 @@ XX.- Ejercer las facultades de determinación y cobro previstas en el Código Fi
 
 XXI.- Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
 
-XXII.- Elaborar los estados financieros del organismo y proporcionar la información y documentación que les solicite la autoridad municipal, la Contaduría Mayor de Hacienda y la Comisión Estatal;
+XXII.- Elaborar los estados financieros del organismo y proporcionar la información y documentación que les solicite la autoridad municipal, el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y la Comisión Estatal;
 
 XXIII.- Inspeccionar, verificar y, en su caso, aplicar las sanciones que establece la Ley;
 
@@ -1700,3 +1700,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
