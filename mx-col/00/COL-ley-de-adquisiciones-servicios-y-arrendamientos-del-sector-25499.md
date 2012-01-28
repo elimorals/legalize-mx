@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2010-10-09"
+last_updated: "2012-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PUBLICO EN EL ESTADO DE COLIMA
 
-LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PUBLICO EN EL ESTADO DE COLIMA
+LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -83,7 +83,9 @@ V.- Órgano administrativo: la Oficialía Mayor de cada Ayuntamiento, así como 
 
 VI.- Órgano de control: las Contralorías u órganos similares en los Poderes, los Ayuntamientos y las entidades;
 
-En el caso del Poder Legislativo será la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2012)</small>
+
+En el caso del Poder Legislativo será el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
 
 VII.- Dependencias: la de los Poderes Legislativo y Judicial, las Secretarías de Gobierno, la Oficialía Mayor de Gobierno y la Procuraduría General de Justicia;
 
@@ -960,3 +962,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
