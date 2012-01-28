@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "2006-10-07"
+last_updated: "2012-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PENSIONES PARA LOS TRABAJADORES DEL GOBIERNO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 28 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -1050,3 +1052,115 @@ P.O. 7 DE OCTUBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los instrumentos de creación de las entidades paraestatales vigentes a la fecha, se ajustarán a los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca, por lo que el poder público al que corresponda, en un término que no excederá de 12 meses contados a partir de la entrada en vigor del presente Decreto, deberá promover o promulgar, en lo conducente, que dichos instrumentos se ajusten a dicha ley.
+
+P.O. 28 DE ENERO DE 2012.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. A partir de la entrada en vigor de esta Ley se abroga, con sus reformas y adiciones, la Ley de Pensiones Para los Empleados del Gobierno del Estado de Oaxaca expedida mediante decreto número 71 de la XLIII Legislatura del Estado y publicada en el Periódico Oficial del Estado el 7 de junio de 1958.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto se expidan las normas relativas al presente ordenamiento.
+
+SOBRE LOS TRABAJADORES INCORPORADOS ANTES DE LA VIGENCIA DE ESTA LEY
+
+CUARTO. Los trabajadores que hubiesen ingresado antes de que la presente Ley entre en vigor, tendrá derecho a retirarse por Vejez habiendo cumplido los 60 años de edad y 15 años de servicio y por Jubilación cumpliendo 25 años de servicio para las mujeres y 29 para los hombres.
+
+El monto de las pensiones por vejez se fijará de acuerdo con los años de servicio cumplidos de la siguiente manera:
+
+Años de Servicio Porcentaje del
+
+suelo (sic) base
+
+15 50%
+
+16 53%
+
+17 56%
+
+18 60%
+
+19 63%
+
+20 66%
+
+21 70%
+
+22 73%
+
+23 76%
+
+24 80%
+
+25 83%
+
+26 86%
+
+27 90%
+
+28 93%
+
+29 96%
+
+30 100%
+
+QUINTO. Los trabajadores activos antes de la entrada en vigor de la presente Ley, que habiendo cumplido 26 años de servicio en el caso de las mujeres y 30 años de servicio en el caso de los hombres, que deseen permanecer como trabajadores activos, recibirán semestralmente, en los meses de julio, y de enero del año siguiente, una cantidad de acuerdo con la tabla siguiente, cantidad que no se computará como parte del sueldo base ni de las pensiones que se otorguen, misma que desaparecerá al momento de jubilarse:
+
+Antigüedad % de sueldo base
+
+Mujeres Hombres
+
+26 30 10%
+
+27 31 15%
+
+28 32 20%
+
+29 33 25%
+
+30 34 30%
+
+31 35 35%
+
+32 36 40%
+
+33 37 45%
+
+34 38
+
+50%
+
+En adelante
+
+Los incentivos a los que se refiere este artículo comenzarán a aplicarse al año siguiente de la entrada en vigor de la presente Ley y no se aplicarán de manera retroactiva.
+
+SEXTO. Las aportaciones a cargo del Gobierno del Estado de Oaxaca equivalentes al 18.5% del sueldo de los trabajadores incorporados antes de la entrada en vigor de la presente Ley, así como las cuotas a cargo de los trabajadores equivalente al nueve por ciento de su sueldo base, el Gobierno del Estado de Oaxaca hará su entrega quincenal a la Oficina de Pensiones valiéndose del procedimiento señalado en el Artículo 18 de este Ordenamiento, debiéndose encargar de hacer los respectivos descuentos en el momento de cubrirles sus remuneraciones para reintegrar los pagos hechos a la Oficina de Pensiones.
+
+SÉPTIMO. El trabajador que haya causado baja e ingrese nuevamente, se le aplicarán las disposiciones previstas en los artículos cuarto y octavo transitorios siempre y cuando permanezcan sus aportaciones en el Fondo de Pensiones.
+
+OCTAVO. A partir de que los trabajadores incorporados antes de la vigencia de esta Ley adquieran el carácter de Jubilados o pensionados, contribuirán con una cuota equivalente al nueve por ciento de su pensión, importe que la Oficina de Pensiones retendrá, valiéndose del procedimiento señalado en el artículo 18 de esta Ley, debiéndose encargar de hacer los descuentos respectivos al momento de cubrirles sus numerales.
+
+Por lo que respecta a las aportaciones del 18.5% que el Gobierno del Estado se obliga a realizar al Fondo de Pensiones, estas las enterará con apego a lo señalado en el artículo 18 de esta Ley.
+
+NOVENO. Los ex Trabajadores que a la fecha de entrada en vigor de esta ley se encuentren separados del servicio, hayan retirado su fondo y posteriormente reingresen al servicio, podrán reintegrar el fondo en los términos de los (sic) establecido en el artículo 64 de esta Ley; a estos Trabajadores se les aplicarán las disposiciones previstas en el Régimen de Seguridad Social contemplado en (sic) Título Segundo de este Ordenamiento.
+
+DÉCIMO. Cualquier situación no prevista, relacionada con las pensiones que se otorguen a los Trabajadores incorporados con anterioridad a la entrada en vigor de esta Ley, será resuelta por el Consejo Directivo.
+
+SOBRE LOS JUBILADOS, PENSIONADOS Y PENSIONISTAS A LA FECHA DE ENTRADA EN VIGOR DE ESTA LEY
+
+DÉCIMO PRIMERO. Los jubilados, pensionados y pensionistas que, a la entrada en vigor de esta Ley, gocen de los beneficios que les otorga la ley que se abroga, continuarán ejerciendo sus derechos señalados en las disposiciones vigentes al momento de su otorgamiento debiendo aportar, en el caso de jubilados y pensionados, al Fondo de Pensiones en los términos de los Artículos Décimo Segundo y Décimo Tercero Transitorio de esta Ley.
+
+El otorgamiento de las jubilaciones y pensiones cuya solicitud se encuentre en trámite al entrar en vigor esta Ley, se resolverán conforme a las disposiciones legales que se encontraban vigentes con anterioridad a la entrada en vigencia de esta Ley.
+
+DÉCIMO SEGUNDO. Por lo que hace a las cuotas de los Jubilados conforme al artículo Décimo Primero transitorio, su importe será equivalente al seis por ciento de su pensión. La Oficina de Pensiones descontará y retendrá el importe que corresponda, valiéndose del procedimiento señalado en el artículo 18 de esta Ley, al momento de cubrirles sus numerales. Dicha cuota será aplicada de manera gradual con una tasa de 2% en el primer año de vigencia de la Ley; de 4% en el segundo y de 6% en el tercer año.
+
+Por lo que respecta a las aportaciones del 14% que el Gobierno del Estado de Oaxaca se obliga a realizar al Fondo de Pensiones, estas las enterará con apego a lo señalado en el artículo 18 de esa Ley.
+
+DÉCIMO TERCERO. Por lo que hace a las cuotas de los Pensionados conforme al artículo Décimo Primero transitorio, su importe será equivalente al tres por ciento de su pensión. La Oficina de Pensiones descontará y retendrá el importe correspondiente, valiéndose del procedimiento señalado en el artículo 18 de esta Ley, al momento de cubrirles sus numerales. Dicha cuota será aplicada de manera gradual con una tasa de 1% en el primer año de vigencia de la Ley; de 2% en el segundo y de 3% en el tercer año.
+
+Por lo que respecta a las aportaciones del 7% que el Gobierno del Estado de Oaxaca se obliga a realizar al Fondo de Pensiones, estas las enterará con apego a lo señalado en el artículo 18 de esa Ley.
+
+DÉCIMO CUARTO. Las pensiones concedidas a los Elementos de la Policía Preventiva, o a sus familiares, hasta antes de la entrada en vigor de la presente Ley y las que se les concedan a partir de la fecha de inicio de vigencia de esta Ley mediante acuerdo del ejecutivo, serán con cargo al Gobierno del Estado de Oaxaca.
+
+DÉ (SIC) la Educación, o a sus familiares, hasta antes de la entrada en vigor de la presente Ley y las que se les concedan a partir de la fecha de inicio de vigencia de esta Ley, serán con cargo al Gobierno del Estado de Oaxaca.
+
+DÉCIMO SEXTO, Para el pago del seguro de vida del que gozan los jubilados y pensionados existentes hasta la fecha de inicio de vigencia de esta Ley, el Consejo Directivo mediante acuerdos previos de estudios de factibilidad, fijará el monto que deberá aportar tanto la Oficina de Pensiones como los Jubilados y Pensionados a fin de cubrir el beneficio por este concepto.
