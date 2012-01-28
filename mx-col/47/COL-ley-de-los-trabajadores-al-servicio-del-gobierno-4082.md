@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2009-08-01"
+last_updated: "2012-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -103,7 +103,9 @@ h).- Almacenes e inventarios: el responsable de autorizar el ingreso o salida de
 
 Además de quienes realizan las funciones anteriores, tendrán el carácter de trabajadores de confianza los siguientes:
 
-I.- En el Poder Legislativo: aquellos a los que se refiere el artículo 35 de su Ley Orgánica y los artículos 191 y 192 de su Reglamento; así como lo establecido por el artículo 7 de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima; tales como: Oficial Mayor, Contador Mayor de Hacienda, Subcontralores, Secretarios Particulares, Secretarios Privados y Auxiliares, Directores, Asesores, Jefes de Departamento con funciones de Dirección, Auditores y Contralores;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+
+I. En el Poder Legislativo: aquellos a los que se refiere el artículo 91 del Reglamento de su Ley Orgánica; así como lo establecido por el artículo 98 de la Ley de Fiscalización Superior del Estado, tales como: el Auditor Superior del Estado, los Auditores Especiales de Área Financiera y de Obra Pública; Director de Auditoría, Subdirector, así como por los titulares de Unidades Especializadas, Supervisores, Auditores y demás servidores públicos que al efecto señale esta Ley, así como el Reglamento Interior del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2009)</small>
 
@@ -1432,3 +1434,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 1 DE AGOSTO DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE ENERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
