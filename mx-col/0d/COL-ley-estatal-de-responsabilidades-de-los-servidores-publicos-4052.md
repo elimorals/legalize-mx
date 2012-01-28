@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2007-07-21"
+last_updated: "2012-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -627,7 +627,9 @@ La Contraloría llevará el registro de la situación patrimonial de los servido
 
 Tienen la obligación de presentar declaración anual de situación patrimonial ante la Contraloría, bajo protesta decir verdad:
 
-I.- En el Congreso del Estado: Diputados, Oficial Mayor, Tesorero y Contador Mayor de Hacienda o Glosa.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+
+I.- En el Congreso del Estado: Diputados, Oficial Mayor y titulares de las Direcciones.
 
 II.- En el Poder Ejecutivo Estatal: Todos los funcionarios, desde el nivel de Jefes de Departamento hasta el del Gobernador (a) del Estado, además de los previstos en las fracciones IV y VII de este Artículo, así como los miembros del Consejo Tutelar para menores.
 
@@ -641,7 +643,13 @@ VI.- En los Tribunales Administrativos y del Trabajo: Presidentes de Junta y Sec
 
 VII.- En la Contraloría General: Todos los Servidores Públicos de confianza.
 
-VIII.- En los Municipios: Todos los funcionarios municipales, desde jefes de departamentos hasta el de Presidente Municipal, así como todos los servidores públicos de confianza y agentes de Policía y Tránsito.
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2012)</small>
+
+VIII.- En el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado: El Auditor Superior, los Auditores Especiales de Área Financiera y de Obra Pública, Director de Auditoría, Subdirector de Auditoría, así como por los Titulares de Unidades Administrativas, de Auditorías Especializadas y Asuntos Jurídicos, Supervisores, Auditores y demás servidores públicos de confianza.
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2012)</small>
+
+IX.- En los Municipios: Todos los funcionarios municipales, desde jefes de departamento hasta el de Presidente Municipal, así como todos los servidores públicos de confianza y agentes de Policía y Tránsito.
 
 Asimismo, deberán presentar la declaración de la que se trata en este precepto los demás servidores públicos que determinen conjuntamente el Contralor General del Estado y el Procurador General de Justicia mediante disposiciones generales debidamente motivadas y fundadas.
 
@@ -732,3 +740,7 @@ La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secret
 P.O. 21 DE JULIO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 28 DE ENERO DE 2012.
+
+ÚNICO.-·El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
