@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2011-10-31"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -583,9 +581,17 @@ b) Vigilar y regular el tránsito en las carreteras y caminos de competencia est
 
 c) Inspeccionar y vigilar la situación física, mecánica y legal, tanto interior como exterior de las vehículos de transporte público y privado que transiten por las carreteras y caminos de jurisdicción estatal, así como sancionar el incumplimiento de las normas legales aplicables;
 
-d) Verificar las condiciones físicas de las operadores del transporte público y privado que transiten por las carreteras y caminos de jurisdicción estatal; y
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2012)</small>
 
-e) Aplicar las sanciones correspondientes en caso de incumplimiento a la normativa en la materia;
+d) Verificar las condiciones físicas de los operadores del trasporte público y privado que transiten por las carreteras y caminos de jurisdicción estatal;
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2012)</small>
+
+e) Aplicar las sanciones correspondientes en caso de incumplimiento a la normativa en la materia; y
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2012)</small>
+
+f) Expedir licencias para conducir vehículos de motor y permisos para circular sin placas ni tarjeta de circulación; así como cancelar y revocar dichos permisos y licencias.
 
 XXVI. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
@@ -625,7 +631,9 @@ XIV. Integrar y mantener actualizado el Padrón Estatal de Contribuyentes y llev
 
 XV. Integrar y controlar el Registro Estatal Vehicular, y la asignación de placas de circulación;
 
-XVI. Expedir tarjetas de circulación, placas para demostración de vehículos nuevos en el territorio del Estado, licencias para conducir vehículos de motor, y permisos para circular sin placas ni tarjeta de circulación; así como cancelar y revocar dichos permisos y licencias;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2012)</small>
+
+XVI. Expedir tarjetas de circulación, así como placas para demostración de vehículos nuevos en el territorio del Estado;
 
 XVII. Mantener actualizado el registro de altas, bajas y traslación de dominio de los vehículos, así como de canje y destrucción de placas de circulación y calcomanías respectivas;
 
@@ -1692,3 +1700,13 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 30 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga todo lo que se oponga al presente Decreto.
