@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2011-10-31"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
+LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2012.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -659,13 +659,17 @@ XII. El apoderamiento se realice respecto de vehículos de transporte público d
 
 XIII. El objeto material del apoderamiento sean cables, conexiones u otros materiales que formen parte integrante de alguna o algunas instalaciones eléctricas;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2012)</small>
 
-XIV. El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola; o
+XIV.- El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2012)</small>
 
-XV. Se lleve a cabo bajo los supuestos establecidos en las Fracciones I, II o III del Artículo 44 A.
+XV.- Se lleve a cabo bajo los supuestos establecidos en las Fracciones I, II o III del Artículo 44 A; o
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2012)</small>
+
+XVI.- El objeto material del apoderamiento sean vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, asociados a un sistema de pagos y prestaciones laborales, emitidos por persona moral, utilizados para intercambiar o canjear bienes y servicios.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
@@ -997,7 +1001,9 @@ Al responsable de Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contr
 
 La Falsificación de Documentos consiste en:
 
-I. Alterar un documento público o privado, o imitar los originales, obteniendo un beneficio o provocando un daño; o
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2012)</small>
+
+I.- Alterar un documento público o privado, o cualquier dispositivo electrónico en forma de tarjeta plástica, o imitar los originales, obteniendo un beneficio o provocando un daño; o
 
 II. Ejercer el fedatario público sus funciones cuando deba abstenerse en términos de la Ley del Notariado del Estado, o dar fe de lo que no consta en autos, registros, protocolos o documentos, y que el documento expedido sea utilizado para obtener un beneficio o provocar un daño.
 
@@ -5976,3 +5982,9 @@ P.O. 31 DE OCTUBRE DE 2011.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE ENERO DE 2012.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
