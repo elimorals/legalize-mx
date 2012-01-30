@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-84282"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2012.</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el sábado 31 de diciembre de 2011.
 
@@ -32339,9 +32339,13 @@ Se Faculta al Secretario de Finanzas a través de la Subsecretaría de Ingresos 
 
 El canje de placas se realizará en el periodo comprendido del 2 de enero al 31 de mayo de 2012, de la siguiente manera:
 
-a) Del 2 de enero al 31 de marzo, los vehículos cuyo valor total consignado en la primera facturación exceda de la cantidad de $ 200,00.00 o cuyo año modelo sea 2000 o posterior.
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2012)</small>
 
-b) Del 1 de marzo al 31 de mayo, los vehículos cuyo valor total, consignado en la primera facturación no exceda de la cantidad de $ 200,00.00 o cuyo año modelo sea 1999 o anterior.
+c) (sic) Del 2 de enero al 31 de marzo, los vehículos cuyo valor total consignado en la primera facturación exceda de la cantidad de $ 200,000.00 o cuyo año modelo sea 2000 o posterior.
+
+> <small>(F. DE E., P.O. 30 DE ENERO DE 2012)</small>
+
+d) Del 1 de marzo al 31 de mayo, los vehículos cuyo valor total, consignado en la primera facturación no exceda de la cantidad de $ 200,000.00 o cuyo año modelo sea 1999 o anterior.
 
 En caso de no efectuar el canje de placas dentro del plazo señalado en el primer párrafo de este Artículo, los propietarios de los vehículos se harán acreedores a una sanción de 5 a 50 salarios mínimos.
 
