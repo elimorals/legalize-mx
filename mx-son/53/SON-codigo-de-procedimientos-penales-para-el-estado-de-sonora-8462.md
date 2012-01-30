@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2011-05-16"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE FECHA 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO, A PARTIR DEL 18 DE JUNIO DE 2016.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 16 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 179 PUBLICADO EN EL B.O. DE 4 DE JUNIO DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ENERO DE 2012.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -67,7 +67,7 @@ III.- Solicitar a la autoridad jurisdiccional las medidas de arraigo y las órde
 
 IV.- Acordar la detención o retención de los indiciados cuando así proceda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -1277,7 +1277,7 @@ En los casos del artículo anterior, se estará al procedimiento previsto en los
 
 En todo procedimiento penal, la víctima o el ofendido por algún delito tendrá derecho a:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -1293,7 +1293,7 @@ IV.- Que se le repare el daño y los perjuicios. En los casos en que sea procede
 
 V.- Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro, en cuyo caso se estará a lo dispuesto por el artículo 259 de este Código;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -4089,7 +4089,7 @@ El Secretario de Gobierno,
 
 GERARDO LOSTAUNAU
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 1 DE FEBRERO DE 1975.
 
@@ -4274,3 +4274,23 @@ DECRETO NUMERO 68, POR EL QUE SE REFORMA EL PARRAFO CUARTO DEL ARTICULO 187 DEL 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código entrará en vigor el día 18 de junio de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+El Congreso del Estado podrá establecer la entrada en vigor, de manera gradual, antes del 18 de junio de 2016, del sistema penal acusatorio previsto en este Código, en las modalidades que determine, sea regional y/o por tipo de delito.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Código, se abroga la Ley número 137 que contiene el Código de Procedimientos Penales para el Estado de Sonora, publicada en el Boletín Oficial del Estado de Sonora, el 17 de agosto de 1949 y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Código.
+
+###### ARTÍCULO CUARTO.
+
+Los juicios y procedimientos que se encuentran en trámite a la entrada en vigor de este Código, se substanciaran y resolverán de conformidad con las normas aplicables al momento de inicio.
