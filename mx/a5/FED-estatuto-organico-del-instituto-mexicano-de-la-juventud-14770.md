@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-juventud-14770"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-09-01"
-last_updated: "2011-12-02"
+last_updated: "2012-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1999-08-11"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE ENERO DE 2012.</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 1 de septiembre de 1999.
 
@@ -675,8 +675,6 @@ Los Comisarios Públicos vigilarán y evaluarán la operación del Instituto y t
 
 El Instituto contará con un Consejo Ciudadano de Seguimiento de Políticas Públicas en Materia de Juventud, que tendrá por objeto conocer el cumplimento dado a los programas dirigidos a los jóvenes tanto del Instituto como de las demás Secretarías y Entidades, opinar sobre los mismos, recabar la opinión de los ciudadanos interesados en políticas públicas en materia de juventud y presentar sus resultados y opiniones al Director General del Instituto, formulando, en su caso las propuestas correspondientes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 33.
@@ -693,7 +691,9 @@ IV.- Presentar una carta de alguna institución u organización pública o priva
 
 V.- No estar desempeñando un puesto de elección popular.
 
-Los cargos de Consejero son honoríficos y se desempeñarán por un periodo de dos años. El Consejo se renovará por mitad cada año a través del principio de insaculación y no reelección, procurando mantener la equidad de género, reponiéndola, en su caso, en el proceso de selección que realizará la Junta Directiva para el periodo de designación inmediato. Por cada Consejero propietario se designará, por parte de la Junta Directiva, un suplente.
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 2012)</small>
+
+Los cargos de Consejero son honoríficos y se desempeñarán por un periodo de dos años. El Consejo se renovará por mitad cada año a través del principio de insaculación y no reelección, procurando mantener la equidad de género, reponiéndola, en su caso, en el proceso de selección que realizará la Junta Directiva para el periodo de designación inmediato.
 
 Los integrantes de dicho Consejo serán seleccionados por la Junta Directiva, según el siguiente procedimiento:
 
@@ -701,7 +701,9 @@ Los integrantes de dicho Consejo serán seleccionados por la Junta Directiva, se
 
 La convocatoria deberá publicarse cuando menos noventa días naturales antes de que concluya el periodo de trabajo del Consejo inmediato anterior. La convocatoria estará abierta por un periodo de sesenta días naturales. Al cierre de la misma, la Junta Directiva tendrá un plazo máximo de quince días naturales para hacer las designaciones correspondientes.
 
-2o.- Al cierre de la convocatoria y recepción de las candidaturas, la Junta Directiva habrá de conocer el currículum de cada uno de los aspirantes y determinará conforme a aptitudes, reconocimientos y trayectoria, a los 20 miembros ciudadanos propietarios y 20 suplentes que integrarán el Consejo Ciudadano de Seguimiento de Políticas Públicas en Materia de Juventud, debiendo observar principios de pluralidad, diversidad social y cultural y de participación nacional a través de personas provenientes de diferentes entidades federativas. De los veinte miembros propietarios del Consejo, diez deberán ser del sexo femenino y los diez restantes del sexo masculino, misma proporción que deberá darse en el caso de los suplentes.
+> <small>(F. DE E., D.O.F. 30 DE ENERO DE 2012)</small>
+
+2o.- Al cierre de la convocatoria y recepción de las candidaturas, la Junta Directiva habrá de conocer el currículum de cada uno de los aspirantes y determinará conforme a aptitudes, reconocimientos y trayectoria, a los 20 miembros ciudadanos propietarios que integrarán el Consejo Ciudadano de Seguimiento de Políticas Públicas en Materia de Juventud, debiendo observar principios de pluralidad, diversidad social y cultural y de participación nacional a través de personas provenientes de diferentes entidades federativas. De los veinte miembros propietarios del Consejo, diez deberán ser del sexo femenino y los diez restantes del sexo masculino.
 
 3o.- Los resultados serán difundidos en tiempo y forma a través de diversos medios de comunicación. El fallo de la Junta Directiva será irrevocable e inapelable.
 
