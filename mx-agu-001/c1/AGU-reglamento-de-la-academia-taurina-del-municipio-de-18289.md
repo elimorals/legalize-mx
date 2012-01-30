@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-academia-taurina-del-municipio-de-18289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-10-30"
-last_updated: "2004-05-03"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "AGU"
 
 REGLAMENTO DE LA ACADEMIA TAURINA DEL MUNICIPIO DE AGUAS CALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA ACADEMIA TAURINA DEL MUNICIPIO DE AGUASCALlENTES, PUBLICADO EN EL P.O. 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de octubre de 2000.
 
@@ -301,3 +303,11 @@ TERCERO.- Se faculta al Director de la Academia Taurina para que haga las design
 P.O. 3 DE MAYO DE 2004.
 
 UNICO.- Las presentes reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el actual Reglamento de la Academia Taurina del Municipio de Aguascalientes publicado en el Periódico Oficial del Estado de fecha 30 de octubre de 2000.
+
+TERCERO.- En un término no mayor de 30 días hábiles posterior a la publicación del presente Reglamento en el Periódico Oficial del Estado, deberá conformarse la Junta Directiva que entrará en funciones para este periodo administrativo.
