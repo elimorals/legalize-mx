@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-66877"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2011-06-28"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN LA G.G. DE 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -910,3 +912,17 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 30 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las atribuciones de la Secretaría General de Gobierno en materia de seguridad pública, así como las correspondientes a las Secretarías de Finanzas y de la Contraloría, que se suprimen en el presente Reglamento, continuarán ejerciéndolas; hasta en tanto se expidan las disposiciones reglamentarias que permitan a la Secretaría de Seguridad Ciudadana asumirlas.
+
+CUARTO.- Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial "Gaceta del Gobierno" el 9 de febrero de 2009.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Reglamento.
+
+SEXTO.- Las Secretarías de Finanzas y de la Contraloría en el ámbito de sus respectivas competencias, dispondrán lo necesario a efecto de dar cumplimiento a lo establecido por el presente Reglamento.
