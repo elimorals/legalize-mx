@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-840
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-12"
-last_updated: "2011-11-14"
+last_updated: "2012-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN A LA C
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO NÚMERO 263, PUBLICADO EN EL P.O. 14 DE SEPTIEMBRE DE 2009, TODA MENCIÓN, O REFERENCIA HECHA A LA "SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE", SE ENTENDERÁ COMO HECHA A LA "SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN A LA COMUNIDAD DEL ESTADO DE CAMPECHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 12 de agosto de 2008.
 
@@ -271,7 +271,7 @@ X. Elaborar y someter a la consideración del Secretario los proyectos de inicia
 
 XI. Recibir y notificar el resultado de las solicitudes para obtener el certificado de seguridad pública preventiva;
 
-XII. Recibir, notificar, supervisar, verificar, y en general dar tramite a las disposiciones generales en materia de seguridad privada;
+XII. (DEROGADA POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN A LA COMUNIDAD DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 30 DE ENERO DE 2012)
 
 XIII. Conocer de los procedimientos administrativos en contra de los servidores públicos con motivo de su actuación o función policial y determinar en su caso las sanciones a imponer;
 
@@ -816,3 +816,15 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Seguridad Pública y Protección a la Comunidad de la Administración Pública del Estado, en un término no mayor de 90 días naturales contados a partir de la entrada en vigor del presente acuerdo, deberá remitir a la Consejería Jurídica del Gobernador para su revisión, los anteproyectos de los reglamentos de las Comisiones de Estímulos y Recompensas, del Servicio Profesional de Carrera Policial y de Honor y Justicia, respectivamente, de conformidad con el artículo 22 de la Ley Orgánica de la Administración Pública del Estado, en vigor.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, de igual o menor jerarquía, en lo que se opongan al contenido del presente acuerdo.
+
+P.O. 30 DE ENERO DE 2012.
+
+PRIMERO: El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Todo lo no previsto en este Reglamento quedará sujeto al acuerdo que, respecto a la naturaleza de cada caso, emita el Pleno de la Comisión por mayoría de votos de sus integrantes.
+
+TERCERO: Se deroga la fracción XII del artículo 15 del Reglamento Interior de la Secretaría de Seguridad Pública y Protección a la Comunidad de la Administración Pública del Estado, en vigor.
+
+La Dirección de Asuntos Jurídicos y Supervisión Interna de la Actuación Policial de la Secretaría de Seguridad Pública y Protección a la Comunidad deberá enviar a la Unidad de Asuntos Internos, dentro de un plazo no mayor a quince días contados a partir de la entrada en vigor del presente reglamento, los expedientes finiquitados y los que se encuentren en trámite relativos a procedimientos administrativos en contra de servidores públicos con motivo de su actuación o función policial.
+
+CUARTO: Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
