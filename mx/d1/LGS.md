@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2012-01-16"
+last_updated: "2012-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2012.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -750,11 +750,17 @@ VII.- La prevención y el control de las enfermedades bucodentales;
 
 VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-IX.- La promoción del mejoramiento de la nutrición, y
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+IX.- La promoción del mejoramiento de la nutrición;
 
-X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
+
+X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2012)</small>
+
+XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
@@ -1316,7 +1322,7 @@ IV. Las acciones y campañas de promoción de los derechos de las personas con t
 
 V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 74.
 
@@ -1328,7 +1334,7 @@ II. La organización, operación y supervisión de instituciones dedicadas al es
 
 III. La reintegración de la persona con trastornos mentales y del comportamiento a su comunidad, mediante la creación de programas extrahospitalarios y comunitarios para la atención de estos trastornos.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 74 Bis.
 
@@ -2000,7 +2006,9 @@ II.- Podrá realizarse sólo cuando el conocimiento que se pretenda producir no 
 
 III.- Podrá efectuarse sólo cuando exista una razonable seguridad de que no expone a riesgos ni daños innecesarios al sujeto en experimentación;
 
-IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
+
+IV. Se deberá contar con el consentimiento informado por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
 
@@ -2038,9 +2046,25 @@ IV.- Protocolo de investigación, y
 
 V.- Carta de aceptación de la institución donde se efectúe la investigación y del responsable de la misma.
 
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2012)</small>
+
+Los interesados podrán presentar con su solicitud, dictamen emitido por tercero autorizado para tal efecto por la Secretaría de Salud, el cual deberá contener el informe técnico correspondiente, relativo a la seguridad y validez científica del protocolo de investigación de que se trate, de conformidad con las disposiciones aplicables, en cuyo caso, la Secretaría de Salud deberá resolver lo conducente, en un plazo máximo de treinta días hábiles, contados a partir del día siguiente al de la presentación de la solicitud y del dictamen emitido por el tercero autorizado.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2012)</small>
+
+Para los efectos del párrafo anterior, el Ejecutivo a través de la Secretaría, mediante disposiciones de carácter general, establecerá los requisitos, pruebas y demás requerimientos que deberán cumplir aquellas personas interesadas en ser reconocidos como terceros autorizados.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2012)</small>
+
+###### ARTICULO 102 Bis.
+
+La Secretaría de Salud podrá habilitar como terceros autorizados para lo dispuesto en este Capítulo, a instituciones destinadas a la investigación para la salud, que cumplan con los requisitos establecidos en el artículo 391 Bis de esta Ley y las demás disposiciones que establezcan las disposiciones reglamentarias.
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 103.
 
-En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
+En el tratamiento de una persona enferma, el médico podrá utilizar recursos terapéuticos o de diagnóstico bajo investigación cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento informado por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -3669,6 +3693,18 @@ I.- Alopáticos: Toda substancia o mezcla de substancias de origen natural o sin
 II.- Homeopáticos: Toda sustancia o mezcla de sustancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio y que sea elaborado de acuerdo con los procedimientos de fabricación descritos en la Farmacopea Homeopática de los Estados Unidos Mexicanos, en las de otros países u otras fuentes de información científica nacional e internacional, y
 
 III.- Herbolarios: Los productos elaborados con material vegetal o algún derivado de éste, cuyo ingrediente principal es la parte aérea o subterránea de una planta o extractos y tinturas, así como jugos, resinas, aceites grasos y esenciales, presentados en forma farmacéutica, cuya eficacia terapéutica y seguridad ha sido confirmada científicamente en la literatura nacional o internacional.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2012)</small>
+
+###### ARTICULO 224 Bis.
+
+Medicamentos huérfanos: A los medicamentos que estén destinados a la prevención, diagnóstico o tratamiento de enfermedades raras, las cuales tienen una prevalencia de no más de 5 personas por cada 10, 000 habitantes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2012)</small>
+
+###### ARTICULO 224 Bis 1.
+
+La Secretaría de Salud implementará las medidas y acciones necesarias a efecto de impulsar y fomentar la disponibilidad de los medicamentos huérfanos, haciéndolos asequibles para la población. Asimismo, la Secretaría de Salud podrá emitir recomendaciones a los Institutos Nacionales de Salud para la investigación y el desarrollo de medicamentos con potencial en su efectividad.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -7665,3 +7701,31 @@ DECRETO POR EL QUE SE REFORMA EL ARTICULO 100 DE LA LEY GENERAL DE SALUD.
 D.O.F. 16 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ENERO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 224 BIS Y 224 BIS 1, A LA LEY GENERAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 30 DE ENERO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 27 DE LA LEY GENERAL DE SALUD.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 30 DE ENERO DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 100, FRACCIÓN IV Y 103; Y SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 102, Y UN ARTÍCULO 102 BIS A LA LEY GENERAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Salud contará con 180 días naturales, posteriores a la publicación del Decreto, para emitir las disposiciones reglamentarias necesarias para su aplicación.
+
+TERCERO.- La Secretaría de Salud, en términos de lo que establece la Ley Federal sobre Metrología y Normalización, deberá adecuar las normas oficiales mexicanas relacionadas a lo establecido por este Decreto.
+
+CUARTO.- Se exhorta a la Secretaría de Hacienda y Crédito Público para que dentro de su ámbito de atribuciones otorgue las facilidades administrativas que estime convenientes para la importación de insumos para la salud vinculados a protocolos de investigación debidamente autorizados por la Secretaría de Salud.
