@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2011-09-16"
+last_updated: "2012-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 ---
 # CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
+CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2012.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -60,6 +60,10 @@ V. Normar y regular la zonificación y los usos del suelo del territorio municip
 VI. Establecer las normas técnicas para clasificar la utilización del suelo; y,
 
 VII. Instrumentar las políticas de zonificación y densificación contenidas en el POTE.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VIII. Implementar acciones de mejora en base a la normativa vigente que ayuden a la simplificación de los trámites, desregulación administrativa y reducción de tiempos de respuesta al ciudadano, a través de las mesas de trabajo que señala el presente ordenamiento.
 
 ###### Artículo 2.
 
@@ -111,6 +115,10 @@ XXII. Código: El presente Código Reglamentario de Desarrollo Urbano para el Mu
 
 XXIII. Código del Procedimiento Administrativo: Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXIII - A. Colegio de Profesionistas: Organización constituida en el municipio integrada por personas físicas que poseen título profesional debidamente registrado, con conocimientos en alguna de las disciplinas señaladas en la Ley de Profesiones para el Estado de Guanajuato, que se adquieren para realizar una actividad con motivo de la terminación de estudios del tipo superior y de formación terminal o bivalente en el tipo medio superior, realizados en las instituciones educativas pertenecientes al sistema educativo nacional o que hayan sido acreditados mediante otro procedimiento previsto por las disposiciones jurídicas aplicables, requiriendo para su ejercicio cumplir con las disposiciones que para tal efecto señala la mencionada ley;
+
 XXIV. COS: Al coeficiente de ocupación del suelo, entendiéndose como éste, al área permisible de desplante de edificación en un lote o predio expresada en porcentaje de la superficie total del terreno; considerando toda aquella superficie cubierta;
 
 XXV. Comisión de Desarrollo Urbano: A la Comisión del H. Ayuntamiento que tiene a su cargo el estudio, dictamen y propuestas de solución de los asuntos en materia de desarrollo urbano;
@@ -127,13 +135,19 @@ XXX. Contaminación Visual: El fenómeno mediante el cual se altere nocivamente 
 
 XXXI. Coordenadas UTM: Los valores X, Y que indican latitud y longitud en metros, a partir de un meridiano central y del ecuador terrestre, referenciadas a la Red de Vértices Geodésicos del Municipio;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXXI - A. Corresponsable: Es la persona física profesionista con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, o en forma autónoma en su área de competencia, en todos los aspectos de las obras en las que otorgue su responsiva, de conformidad con el presente Código.
+
 XXXII. Demolición: Hacer caer al suelo un edificio o una construcción o parte de ésta, con los medios adecuados;
 
 XXXIII. Densidad de población: El número de habitantes por hectárea de acuerdo a las densidades que se establecen en el POTE, conforme al índice de ocupación de vivienda del Instituto Nacional de Estadística y Geografía - INEGI;
 
 XXXIV. Desarrollador: La persona física o moral que promueva los tramites necesarios para obtener la autorización de cualquier tipo de fraccionamiento o desarrollo en condominio previstos en la Ley de Fraccionamientos;
 
-XXXV. Desarrollo en Condominio: El proyecto de urbanización de un inmueble y en su caso, la lotificación, la construcción o modificación de una edificación o grupo de edificaciones en forma vertical, horizontal o mixta, a partir de veinticuatro unidades, para cualquier transmisión de derechos reales, en donde existan elementos indivisibles de uso común por condiciones constructivas o por voluntad del propietario;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXXV. Desarrollo en Condominio: El proyecto o modificación de edificios, de departamentos, de casas, de locales, de naves, de lotes de terreno, de un inmueble, en el que se consideran simultáneamente los proyectos de urbanización necesarios, construidos o proyectados en forma vertical, horizontal o mixta, a partir de 24 unidades privativas, para cualquier transmisión de derechos reales, en donde existan elementos indivisibles de uso común por condiciones constructivas o por voluntad del propietario;
 
 XXXVI. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población o del territorio municipal;
 
@@ -151,7 +165,9 @@ XLII. Dirección: A la Dirección General de Desarrollo Urbano del Municipio;
 
 XLIII. Dirección de Obra: La Dirección General de Obra Pública del Municipio;
 
-XLIV. DRO: Director Responsable de Obra, quien es la persona física profesionista, registrada ante la Dirección, legalmente autorizada para dirigir obras completas o fracciones especializadas de una construcción y que es contratado directamente por el propietario, poseedor o en su caso, por el constructor en los términos de este Código;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XLIV. DRO: Director Responsable de Obra es la persona física profesionista que es contratado directamente por el propietario, poseedor o en su caso por el constructor, que se hace responsable ante ellos y ante la autoridad, en todos los aspectos de las obras en las que otorga su responsiva relativas a la seguridad estructural, diseño urbano, diseño arquitectónico e instalaciones, según sea el caso, obligado a contratar a los corresponsables necesarios de acuerdo a lo establecido en el manual técnico de las construcciones y el presente Código.
 
 XLV. Edificación: Todas las construcciones que se realicen en el Municipio;
 
@@ -219,6 +235,10 @@ LXXVI. MIV: Manifestación de impacto vial, consistente en el estudio presentado
 
 LXXVII. Manual Técnico de las Construcciones: Anexo complementario que prevé las características y especificaciones técnicas que deberá reunir toda construcción regulada por el presente Código;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+LXXVII - A. Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas: Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas en la Zona del Patrimonio Histórico, como el documento donde se establecen los criterios y especificaciones técnicas que habrán de observarse en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, artístico e histórico.
+
 LXXVIII. Manual Técnico de Usos del Suelo: Documento que complementa la normativa para la clasificación de las actividades y sus normas de intensidad a fin de facilitar la aplicación del presente Código;
 
 LXXIX. Manuales Técnicos: Son todas las normas relativas a la construcción, publicadas por Organismos Técnicos, aplicables a las construcciones, tales como: ACI, ASTM, IMCYC, FOVI, IMSS CFE, entre otras, avaladas o publicadas por un organismo gubernamental o no gubernamental;
@@ -267,7 +287,7 @@ C. Producción Industrial de Vivienda: Aquella que se realiza por empresas priva
 
 CI. Propietario: La persona física o moral que acredita legalmente mediante Escritura Pública o título debidamente reconocido por la Ley, la propiedad y posesión de un predio, finca o edificación;
 
-CII. Proyectista: Persona física que siendo profesionista se encuentra registrado ante la Dirección, en una o varias profesiones, legalmente autorizado para ejercer el proyecto en congruencia con su profesión y/o registrado en una o varias ramas profesionales, legalmente autorizado para ejercer la rama profesional en una fracción de proyecto;
+CII. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 CIII. Proyecto de Diseño Urbano: La propuesta de distribución y estructura urbana de un fraccionamiento o desarrollo en condominio, realizada conforme a los procedimientos y requisitos establecidos en la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Ordenamiento;
 
@@ -291,7 +311,9 @@ CXII. Remodelación: Se refiere indistintamente a la readaptación, modificació
 
 CXIII. Reparación: Las acciones que tienen por objeto corregir las deficiencias estructurales o funcionales de un anuncio o de sus elementos, generados por el deterioro natural o inducido;
 
-CXIV. Restauración: Reparar un edificio del deterioro que ha sufrido para recuperarlo o renovarlo, conservando sus características estéticas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+CXIV. Restauración: Reparar un inmueble que se encuentre dentro del catálogo del INAH, del deterioro que ha sufrido para recuperarlo o renovarlo, conservando sus características estéticas;
 
 CXV. RUV.- Registro Único de Vivienda, es la inscripción con la información técnica y legal de la vivienda que se realiza ante la Comisión Nacional de Vivienda;
 
@@ -385,9 +407,11 @@ El INAH es competente en materia de monumentos y zonas de monumentos arqueológi
 
 El INBA es competente en materia de monumentos y zonas de monumentos artísticos, declarados por el Ejecutivo Federal.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 9.
 
-La Dirección y el H. Ayuntamiento promoverá la participación ciudadana para el cumplimiento del objeto del presente ordenamiento, en los términos del Reglamento del Consejo Consultivo para el Desarrollo Sustentable en Materia Urbanismo en el Municipio de León, Guanajuato.
+La Dirección y el H. Ayuntamiento promoverán la participación ciudadana para el cumplimiento del objeto del presente ordenamiento, en los términos del Reglamento del Consejo Consultivo para el Desarrollo Sustentable en Materia de Urbanismo en el Municipio de León, Guanajuato; instrumento donde se instituye al consejo como un órgano colegiado de carácter permanente de asesoría y consulta técnica, quien además de los objetivos y atribuciones originarias que le otorga dicho reglamento, estará participando a través de un grupo de trabajo especifico, en los procesos de registro de los DRO, peritos urbanos, proyectistas arquitectónicos, proyectistas estructurales y peritos topógrafos, que se encuentran normados por este Código.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LAS AUTORIDADES COMPETENTES
 
@@ -493,9 +517,11 @@ XV. Ejecutar las medidas necesarias a que deban sujetarse los usos en los predio
 
 XVI. Aplicar en el ámbito de su competencia las diferentes restricciones que marquen las Leyes y Reglamentos aplicables, así como las especificaciones técnicas y normativas que dicten la Comisión Nacional del Agua, la CFE, el SAPAL y todos los demás aplicables, para evitar el mal uso del suelo;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XVII.- Asignar la clasificación de vías colectoras y locales, de acuerdo a la sección de las mismas y al planteamiento de proyecto de los desarrollos; así como coadyuvar con el IMPLAN en las propuestas de usos del suelo, clasificación y reclasificación de las vialidades que conforman el sistema vial primario del Municipio;
+XVII. Clasificar y reclasificar las vías colectoras, locales y las vialidades que conforman el sistema vial primario del Municipio, de acuerdo a la sección de las mismas, previa opinión del IMPLAN y al planteamiento de proyecto de los desarrollos; así como coadyuvar con dicho instituto en las propuestas de usos del suelo.
+
+En el caso de la clasificación y reclasificación de las vialidades que se actualice al amparo de esta fracción, deberán integrarse al plano de zonificación del Municipio y los que de éste se deriven.
 
 XVIII. Resolver auxiliados por el IMPLAN, las compatibilidades de uso de suelo que presenten problemática de incompatibilidad aparente, a partir de estudios de compatibilidad urbanística, siempre y cuando no impliquen modificación al POTE, al Plano de Zonificación y los que de estos deriven, en tal caso, corresponderá al H. Ayuntamiento su autorización;
 
@@ -507,9 +533,13 @@ XXI. Autorizar los usos o actividades con normas particulares, en los términos 
 
 En materia de Fraccionamientos y Desarrollos en Condominio:
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-XXI. BIS (sic) Autorizar el uso de suelo relativo al establecimiento de centros de apuestas, en los términos del presente Código Reglamentario y el Manual Técnico de Usos del Suelo, previa obtención de las licencias, permisos y autorizaciones de la Secretaría de Gobernación y demás autoridades que resulten competentes;
+XXI - A. Emitir la opinión, a través de la información de uso de suelo, sobre la instalación de los espacios para apuestas, que le sea solicitada en los términos de la Ley Federal de Juegos y Sorteos, del Reglamento de la Ley Federal de Juegos y Sorteos, así como del presente Código;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXI - B. Autorizar la instalación de terrazas móviles, en zona de patrimonio histórico de conformidad con los lineamientos que establece el Anexo 7 del presente código denominado Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas;
 
 XXII. Otorgar el permiso de venta de los lotes de un fraccionamiento y de los departamentos, viviendas, locales o áreas de un desarrollo en condominio, en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley, este Código y demás normativa aplicable;
 
@@ -526,6 +556,14 @@ Para los efectos del párrafo anterior, la Dirección llevará un registro mensu
 XXVII. Verificar que las áreas de donación se entreguen en la forma y términos establecidos en la Ley de Fraccionamientos y el Reglamento de la Ley;
 
 XXVIII. Acordar en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley, y el presente Código, el destino de las áreas de donación para equipamiento urbano y áreas verdes de los desarrollos, previa anuencia de la Comisión de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXVIII - A. Otorgar, negar, suspender o revocar el registro y refrendo a los peritos urbanos y topógrafos, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXVIII - B. Dictaminar sobre la ejecución de las actividades realizadas por los peritos urbanos y topógrafos, respecto a las cuales haya sido extendida su responsiva;
 
 XXIX. Establecer las especificaciones técnicas para la construcción de guarniciones, banquetas, pavimentos en arroyos vehiculares, alumbrado público y demás servicios dentro los fraccionamientos y desarrollos en condominio; así como supervisar que su ejecución se realice conforme a las especificaciones técnicas autorizadas, verificando el avance y la calidad de las mismas;
 
@@ -555,11 +593,15 @@ c. Autorizar los desarrollos en condominio cuyo número de unidades o lotes sea 
 
 En materia de Construcciones:
 
-XXXIX. Otorgar, negar, suspender o revocar el registro y refrendo a los proyectistas y DRO de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXXIX.- Otorgar, negar, suspender o revocar el registro y refrendo a los DRO, proyectista arquitectónico, proyectista estructural, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
 
 XL. Conformar los expedientes derivados de los registros y refrendos previstos en la fracción anterior, en los términos del presente Código;
 
-XLI. Dictaminar sobre la ejecución de las actividades realizadas por los proyectistas y DRO, respecto a las cuales haya sido extendida su responsiva;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XLI.- Dictaminar sobre la ejecución de las actividades realizadas por los DRO, proyectista arquitectónico y proyectista estructural y peritos topógrafos, respecto a las cuales haya sido extendida su responsiva;
 
 XLII. Instaurar, substanciar y resolver los procedimientos administrativos que se generen con motivo de la fracción anterior, e imponer en su caso las sanciones a las que se hagan acreedores;
 
@@ -569,7 +611,13 @@ XLIII. Asesorar y apoyar técnicamente a la Dirección General de Movilidad en m
 
 XLIV. Ordenar los trabajos de mantenimiento y reparación de anuncios que fueren necesarios para garantizar su estabilidad, seguridad y buen aspecto;
 
-XLV. Fijar el monto de las fianzas que los particulares deberán otorgar, para garantizar condiciones de seguridad, estabilidad y mantenimiento de los anuncios;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+LXV.- Recibir y tramitar a través de la ventanilla única las solicitudes de dictámenes de impacto ambiental, vial, protección civil, seguridad contra incendios y/o de riesgo.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+LXV - A. Entregar los dictámenes a que se refiere la fracción anterior, para lo que las dependencias y entidades municipales correspondientes deberán designar un especialista en las materias antes señaladas que de manera permanentemente (sic) se encuentre físicamente en la Dirección para la elaboración de los dictámenes anteriormente referidos.
 
 XLVI. Elaborar y someter a la consideración del Ayuntamiento, los Planos de Zonas para la instalación de Anuncios para su aprobación, expedición y publicación correspondiente;
 
@@ -659,7 +707,9 @@ Son atribuciones del SAPAL las siguientes:
 
 I. Autorizar los proyectos de construcción e introducción de los sistemas de agua potable, alcantarillado sanitario y pluvial en las vías públicas de los fraccionamientos y desarrollos en condominio, así como los relativos a plantas de tratamiento de aguas residuales e infraestructura para saneamiento, en su caso;
 
-II. Otorgar factibilidades de servicios de su competencia, buscando con ello la consolidación y crecimiento urbano ordenado;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Otorgar factibilidades de servicios de su competencia, buscando con ello la consolidación y crecimiento urbano ordenado, considerando las condiciones hidrológicas de la zona;
 
 III. Ordenar la realización de inspecciones a fin de verificar que se cumpla con los lineamientos marcados en el presente Código, únicamente en lo que hace a la construcción e introducción de los servicios de su competencia y, en su caso, notificar a la Dirección para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
 
@@ -669,7 +719,17 @@ V. Supervisar que la ejecución de las obras de construcción e introducción de
 
 VI. Autorizar el proyecto de rasantes de vialidades para los fraccionamientos y los desarrollos en condominio; y,
 
-VII. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. Determinar para el caso de fraccionamientos y desarrollos en condominio, las obras que habrán de efectuarse para la regulación de aguas pluviales, en los términos del presente Código;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VIII. Operar y brindar el mantenimiento necesario al drenaje pluvial y al alcantarillado, que atraviese por predios particulares, siempre y cuando se haya constituido en escritura pública a su favor una servidumbre de paso; y,
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IX. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE OBRA PÚBLICA
 
@@ -765,6 +825,10 @@ Grupo de usos XXV: Uso Forestal; y,
 
 Grupo de usos XXVI: Uso Pecuario.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Grupo de usos XXVII: Servicios de Alojamiento Temporal, en zonas de reserva forestal y ecológica.
+
 ###### Artículo 20.
 
 Grupo de usos I
@@ -777,6 +841,8 @@ Habitacional densidad mínima:
 
 3.- Frente mínimo del predio: 20 metros lineales.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 21.
 
 Grupo de usos II
@@ -785,9 +851,13 @@ Habitacional densidad baja:
 
 1.- Norma de Intensidad: hasta 120 habitantes/hectárea;
 
-2.- Dimensión mínima del predio: 300 metros cuadrados; y,
+2.- Dimensión mínima del predio: 450 metros cuadrados en fraccionamientos urbanos tipo A;
 
-3.- Frente mínimo del predio: 10 metros lineales.
+3.- Frente mínimo del predio: 15 metros lineales fraccionamientos urbanos tipo A;
+
+4.- Dimensión mínima del predio: 300 metros cuadrados en fraccionamientos urbanos tipo B; y,
+
+5.- Frente mínimo del predio: 10 metros lineales fraccionamientos urbanos tipo B.
 
 ###### Artículo 22.
 
@@ -865,7 +935,9 @@ Comercio de Intensidad Baja:
 
 1.- Norma de Intensidad: Hasta 15 personas activas;
 
-2.- Dimensión máxima del predio: 240 metros cuadrados; y,
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+2.- Dimensión máxima del predio: 300 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
@@ -913,7 +985,9 @@ Servicio de Intensidad Baja:
 
 1.- Norma de Intensidad: Hasta 15 personas activas;
 
-2.- Dimensión máxima del predio: 240 metros cuadrados; y,
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+2.- Dimensión máxima del predio: 300 metros cuadrados; y,
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
@@ -1035,6 +1109,14 @@ Grupo de usos XXVI
 
 Uso Pecuario: Norma de Intensidad: Actividades rurales dedicadas a la ganadería, piscicultura y avicultura.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 45 - A.
+
+Grupo de usos XXVII
+
+Servicio de Alojamiento Temporal: Norma de Intensidad: Actividades con fines de ocio y recreación, por lo que no se permitirá el establecimiento de asentamientos humanos y/o centros de población.
+
 ###### Artículo 46.
 
 A excepción de los Usos Habitacionales de cualquier tipo y en desarrollos autorizados, para el resto de las actividades y usos el solicitante deberá presentar conjuntamente con la solicitud de información de uso de suelo, un Informe de actividades y procesos, a la Dirección.
@@ -1047,9 +1129,11 @@ Una vez que la Dirección cuente con el Informe de actividades y procesos, deter
 
 A partir de dicho Informe de actividades y procesos, la Dirección de (sic) determinará cuáles usos requieren la MIA y la MIV y los estudios de riesgo señalando las medidas de seguridad a efecto de mitigar los impactos que se pudieran generar.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 49.
 
-En el caso de los usos del suelo que requieran la MIA y/o estudios de Riesgo, los particulares deberán obtener de la Dirección, el dictamen de impacto ambiental, así como el dictamen de riesgo, previamente a solicitar la licencia de construcción; en caso de tratarse de algún inmueble ya edificado o un predio al que se le pretenda dar un uso sin realizar ningún tipo de construcción, el dictamen de impacto ambiental y el dictamen de riesgo, deberán presentarse para el otorgamiento de la licencia del uso del suelo.
+En el caso de los usos del suelo que requieran la MIA y/o estudios de Riesgo, los particulares deberán obtener de la Dirección y/o de las entidades estatales y federales correspondientes, el dictamen de impacto ambiental, así como el dictamen de riesgo, previamente a solicitar la licencia de construcción; en caso de tratarse de algún inmueble ya edificado o un predio al que se le pretenda dar un uso sin realizar ningún tipo de construcción, el dictamen de impacto ambiental y el dictamen de riesgo, deberán presentarse para el otorgamiento de la licencia del uso del suelo.
 
 ###### Artículo 50.
 
@@ -1063,29 +1147,25 @@ III. Servicios Carreteros, Actividades de Riesgo.
 
 De igual forma tratándose de cualquier solicitud que implique el nuevo desarrollo de una zona, deberán realizarse los estudios mencionados, como antecedente para el otorgamiento de la licencia de uso de suelo o de construcción.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 51.
 
-Cualquier uso comercial, de servicios o industrial que contemple dos o más locales individuales, independientemente del tamaño del predio se consideraran como usos de intensidad media o alta según corresponda por lo que deberá indicar todos los usos requeridos.
+Para la Instalación de cualquier uso comercial, de servicios o industrial que contemple dos ó más locales individuales, el predio en su conjunto habrá de reunir las normas de intensidad, dimensiones y parámetros para el servicio de carga y descarga, que estatuye el presente Código para cada grupo de uso del suelo.
 
-### CAPÍTULO III. USOS Y ACTIVIDADES CON NORMAS PARTICULARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
+### CAPÍTULO III. USOS DE SUELO ESPECIALES
 
 ###### Artículo 52.
 
-Se consideran usos y actividades con normas particulares, los siguientes:
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-I. Establecimientos de Servicio con sexo comercio;
-
-II. Estaciones de servicio de gasolina y/o diesel;
-
-III. Estaciones de Gas L.P., con almacenamiento fijo; y
-
-IV. Tenerías.
-
-Los usos y actividades señalados en las fracciones anteriores, se clasifican dentro del Grupo de Usos XVI Servicios de Intensidad Alta.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 53.
 
-Los usos y actividades con normas particulares, serán autorizados por la Dirección, a través de las licencias de construcción y de uso del suelo, según corresponda, para lo cual, además de observarse lo dispuesto por el presente Código para la expedición de dichas licencias, se estará a lo que estatuyen las NOM, las disposiciones o especificaciones técnicas que una autoridad o ente normativo en la materia determinen, así como a lo que señala el Manual Técnico de Uso del Suelo y el Manual Técnico de las Construcciones.
+Los usos especiales se encuentran regulados en el Manual Técnico de Usos del Suelo, y serán autorizados por la Dirección, a través de las licencias de construcción y de uso del suelo, según corresponda, para lo cual, además de observarse lo dispuesto por el presente Código para la expedición de dichas licencias, se estará a lo que estatuyen las NOM, las disposiciones o especificaciones técnicas que una autoridad o ente normativo en la materia determinen, así como a lo que señala el Manual Técnico de las Construcciones y el mencionado Manual Técnico de Usos del Suelo.
 
 ### CAPÍTULO IV. DE LAS NORMAS TÉCNICAS DE ZONIFICACIÓN MUNICIPAL
 
@@ -1185,9 +1265,11 @@ I. Facilitar la consulta de las normas tanto por la ciudadanía en general, como
 
 II. Establecer los usos predominantes, compatibles, condicionados e incompatibles hacia el interior de cada una de las zonas y corredores.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 57.
 
-Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla de Compatibilidades.
+Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla de Compatibilidades y en el Manual Técnico de Usos de suelo.
 
 ###### Artículo 58.
 
@@ -1283,39 +1365,41 @@ El rango de densidad se sujetará a lo dispuesto por el Título de Fraccionamien
 
 ###### Artículo 62.
 
-En terrenos con pendientes mayores del 15% los niveles deberán ser escalonados, a partir de los niveles naturales del terreno.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 63.
 
-La Dirección podrá autorizar un nivel más de lo establecido y/o COS mayores a los señalados, dependiendo del análisis de cada caso, con base en el dictamen que al efecto emita, siempre que no se afecte la imagen urbana, no se aumente la densidad para la zona y se cuente con la factibilidad de servicios.
+La Dirección podrá autorizar niveles más de lo establecido en el Manual Técnico de Usos de Suelo y/o COS mayores, mediante un dictamen de compatibilidad urbanística, que deberá cumplir el no dañar la imagen urbana de la zona, que no aumente la densidad de la misma y que SAPAL otorgue la factibilidad de servicios.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 64.
 
-Tratándose de los cajones de estacionamiento, los particulares deberán de cumplir con lo dispuesto en la Tabla de Requerimientos de Cajones de Estacionamiento.
+Tratándose de los cajones de estacionamiento, los particulares deberán cumplir con lo dispuesto en la Tabla de Requerimientos de cajones de estacionamiento.
 
-Excepcionalmente cuando el particular por causas que no le sean imputables, no pueda materialmente cumplir con los requerimientos señalados en la tabla referida en el párrafo precedente, deberá exponer tal situación por escrito ante la Dirección expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento.
+Excepcionalmente cuando por la magnitud del proyecto o bien por el impacto ambiental que pudiera generar el mismo, resulte materialmente imposible el cumplimiento de los requerimientos señalados en la tabla referida en el párrafo precedente, deberá exponer tal situación por escrito ante la Dirección expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento.
 
-Una vez recibido el escrito del particular, la Dirección procederá al análisis respectivo, verificando que efectivamente el cumplimiento no sería materialmente posible, para lo cual podrá implementar planes o programas que brinden facilidades administrativas para poder permutar dicha obligación.
+Una vez recibido el escrito del particular, la Dirección procederá al análisis respectivo, verificando que efectivamente el cumplimiento no sería materialmente posible; determinando la viabilidad del proyecto y sujetando su autorización a que garantice fehacientemente con documentación, el acceso fácil y permanente para cajones de estacionamiento en un inmueble lo más contiguo posible.
 
-Entre las facilidades administrativas que podrán ofrecerse a los particulares que se encuentren en los supuestos de este artículo serán:
+Cuando los cajones de estacionamiento según el proyecto constructivo se ubiquen donde exista vegetación o arboles, el solicitante agregara evidencia fotográfica, para que la Dirección General de Medio Ambiente evalúe el impacto ambiental que representaría la ejecución del proyecto en los términos propuestos; de lo cual posteriormente la Dirección podrán resultar las siguientes vertientes:
 
-I. Aportación de recursos económicos al Municipio, en los términos que le dictamine la Dirección; los cuales serán destinados a la implementación y ejecución de Programas relacionados con la generación de más y mejores espacios para estacionamientos en la ciudad;
+I. Si el árbol y la vegetación no son objeto de trasplante; estos deberán ser integrados al proyecto constructivo en los términos que determine la Dirección, en caso de que la naturaleza del mencionado proyecto no permitiese técnicamente su integración, la Dirección podrá optar por aplicar como segunda alternativa la facilidad administrativa señalada en el párrafo tercero del presente artículo siempre que de la misma no se desprendan impactos negativos en la zona ya sea urbanos o viales.
 
-II. Propuesta diversa de ubicación de los cajones de estacionamiento, con fácil acceso a los usuarios y preferentemente en un área contigua al inmueble de que se trate; y,
+II. Si el árbol y la vegetación son objeto de trasplante; estos deberán ser incorporados a costa del interesado, a las áreas verdes del Municipio en los lugares que le indique la Dirección General de Medio Ambiente de conformidad con el Reglamento de Parques y Jardines para el Municipio de León, Guanajuato.
 
-III. En general, colaboración en la ejecución de planes y programas que sean prioritarios y estratégicos para el Municipio en materia de desarrollo urbano.
-
-Para el caso de la fracción I de este precepto, la Tesorería Municipal deberá habilitar una cuenta transitoria que permita la materialización contable y financiera de lo que estatuye el presente Código, o bien realizar los movimientos presupuestales y contables que resulten necesarios para el mismo fin.
+III. Si el árbol y la vegetación pueden ser objeto de tala o derribo; el interesado deberá restaurar sustitutivamente el daño ambiental ocasionado, en los lugares que le indique el Municipio a través de la Dirección General de Medio Ambiente y en los términos del Reglamento de Parques y Jardines para el Municipio de León, Guanajuato.
 
 ###### Artículo 65.
 
-En los términos del artículo anterior, la Dirección deberá formular un programa continuo y permanente de acciones prioritarias y estratégicas para el Municipio en materia de desarrollo urbano; ello con el objeto de que la colaboración que presten los particulares al amparo del precepto de mérito, coadyuve en la ejecución del mencionado programa.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 66.
 
-Se podrán autorizar usos diferentes al habitacional, en las viviendas que estén dentro del régimen de condominio, siempre que los usos sean compatibles, de acuerdo al presente Código y a lo dispuesto en el Código Civil para el Estado de Guanajuato.
+Se podrán autorizar usos distintos al habitacional, en las viviendas clasificadas como H-7, siempre que los usos sean compatibles de acuerdo al presente Código.
 
 ###### Artículo 67.
 
@@ -1347,7 +1431,7 @@ I. Obtener en su caso, factibilidad de demolición expedida por la Dirección;
 
 II. Obtener factibilidad de uso del suelo; y,
 
-III. Presentar la MIV.
+III. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 ###### Artículo 71.
 
@@ -1384,6 +1468,14 @@ II. Las edificaciones de equipamiento urbano que se construyan en estas zonas de
 III. Los usos compatibles con la zona de Reserva Forestal (RF), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código; y,
 
 IV. Para el caso de usos habitacionales, los mismos deberán ser verificados de conformidad con los Decretos Gubernativos que declaren áreas naturales protegidas, así como con sus respectivos Programas de Manejo y demás normativa aplicable.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Se fomentaran actividades rurales dedicadas al manejo y aprovechamiento de las áreas naturales; y,
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VI. Estas zonas estarán dedicadas al fomento de actividades eco - turísticas como una alternativa para la promoción del desarrollo sustentable y económico para los campesinos.
 
 ###### Artículo 75.
 
@@ -1455,11 +1547,13 @@ La licencia de uso del suelo en locales comerciales, centros comerciales y bodeg
 
 ###### Artículo 87.
 
-La Dirección autorizará más de un local comercial o de servicios solamente cuando el predio pueda ser subdividido o fraccionado de acuerdo a lo establecido en este Código.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 88.
 
-La Dirección podrá autorizar más de un local comercial o de servicios en predios que no sean susceptibles de subdivisión.
+La Dirección podrá autorizar en un solo predio más de un local comercial o de servicios.
 
 ###### Artículo 89.
 
@@ -1469,9 +1563,11 @@ Las zonas industriales quedarán sujetas a normas sobre control ambiental que es
 
 Toda industria clasificada como de intensidad media y alta que colinde con usos habitacionales, deberá dejar una zona arbolada como mínimo de 3 metros en la parte posterior del predio.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 91.
 
-Los lotes en zonas industriales que se localicen colindando o frente a una zona habitacional deberán tener una franja libre de construcción de 6 metros en el lado colindante con la zona habitacional mismo que podrá utilizarse como estacionamiento y zona arbolada.
+Los lotes en zonas industriales que se localicen colindando o frente a una zona habitacional deberán dejar una franja libre de construcción de 6 metros en el lado colindante con la zona habitacional mismo que deberá utilizarse como estacionamiento y zona arbolada.
 
 ###### Artículo 92.
 
@@ -1517,9 +1613,11 @@ III. Cuando una línea divisoria de zona sea señalada entre las manzanas de la 
 
 IV. No se autorizará la ampliación de usos del suelo en los límites de zonas, cuando dichos usos no sean compatibles entre las mismas.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 100.
 
-Para las zonas en donde existan usos de suelo diferentes, se tomará en cuenta la consolidación de la manzana y se podrá autorizar por la Dirección el uso de suelo predominante o compatible.
+Para las zonas en donde existan usos de suelo diferentes a los señalados en el mapa de zonificación, se tomará en cuenta la consolidación de la manzana y el frente de ésta o incluso de la zona, según el caso, en relación con los usos existentes, se podrá autorizar por parte de la Dirección el uso de suelo predominante o compatible.
 
 ### CAPÍTULO V. DE LAS AUTORIZACIONES EN MATERIA DE GESTIÓN URBANA PARA LA ZONIFICACIÓN Y USOS DEL SUELO
 
@@ -1565,17 +1663,21 @@ Tratándose de la Información de uso de suelo, los particulares podrán tramita
 
 Para la utilización o uso de predios o inmuebles, es necesario obtener previamente la Licencia de uso del suelo, o bien la Licencia condicionada de uso del suelo en los términos de este Código.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 106.
 
-Las licencias, certificaciones y demás autorizaciones contempladas en este capítulo no constituyen constancia de apeo y deslinde respecto de los inmuebles, ni acreditan la propiedad o posesión de los mismos. La Información de uso de suelo y la licencia de alineamiento y asignación del número oficial, tendrán una vigencia igual al POTE; de tal forma, que si éste se modifica, deberá obtenerse una nueva.
+Las licencias, certificaciones y demás autorizaciones contempladas en este capítulo no constituyen constancia de apeo y deslinde respecto de los inmuebles, ni acreditan la propiedad o posesión de los mismos. La licencia de alineamiento y asignación del número oficial, tendrán una vigencia igual al POTE; de tal forma, que si éste se modifica, deberá obtenerse una nueva.
 
 ###### Artículo 107.
 
 Para cualquier otro trámite posterior respecto de las licencias ya otorgadas, se deberá presentar ante la Dirección una copia del trámite autorizado.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 108.
 
-La Dirección establecerá un procedimiento unificado y simplificado para que el ciudadano, a través de una sola ventanilla, realice todos los procedimientos para obtener las licencias e Información de uso de suelo antes mencionada.
+La Dirección establecerá un procedimiento unificado y simplificado para que el ciudadano, a través de una sola ventanilla, realice y obtenga todas las autorizaciones, licencias, permisos, así como la información de uso de suelo antes mencionada.
 
 #### SECCIÓN SEGUNDA. DE LAS DECLARATORIAS DE ASIGNACIÓN DE USO DEL SUELO
 
@@ -1599,19 +1701,25 @@ III. Copia certificada de la escritura que acredite la propiedad debidamente ins
 
 IV. Plano a escala legible en las que se identifique plenamente los inmuebles a que se refieren las escrituras;
 
-V. Plan Parcial de Desarrollo Urbano en las zonas de reserva para el crecimiento condicionado ZRC-C, cuando el IMPLAN lo determine, de conformidad con el presente Ordenamiento;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Plan Parcial de Desarrollo Urbano en las zonas de reserva para el crecimiento condicionado ZRC-C, de conformidad con el presente Ordenamiento;
 
 VI. Licencia de Factibilidad de Uso de Suelo, incluido plano, así como Anteproyecto Arquitectónico o de lotificación, tratándose de Desarrollos habitacionales; y,
 
-VII. Comprobante de pago de derechos.
+VII. (DEROGADA, P.O. 31 DE ENERO DE 2012)
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 112.
 
-El ciudadano presentará la solicitud de declaratoria de asignación de uso de suelo directamente al IMPLAN.
+El interesado presentará la solicitud de declaratoria de asignación de uso de suelo directamente al IMPLAN.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 113.
 
-El IMPLAN deberá analizar la documental e información presentada por el particular, y posteriormente someterla a la consideración del H. Ayuntamiento, para su análisis, discusión y en su caso dictaminación respectiva. Si el asunto fue acordado favorablemente por dicho cuerpo colegiado, el IMPLAN deberá notificar el contenido de la resolución respectiva al particular solicitante y a la Dirección.
+El IMPLAN deberá analizar la documental e información presentada por el interesado, y posteriormente someterla a la consideración del H. Ayuntamiento, para su análisis, discusión y en su caso dictaminación respectiva. Si el asunto fue acordado favorablemente por dicho cuerpo colegiado, el IMPLAN deberá notificar el contenido de la resolución respectiva al interesado, solicitante y a la Dirección.
 
 ###### Artículo 114.
 
@@ -1663,11 +1771,21 @@ III. Croquis de localización del predio o lote, en zona urbana; y plano de loca
 
 IV. Informe de actividades y procesos en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 120.
 
-El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será al momento mismo de la solicitud, tratándose de usos del suelo hasta de intensidad media, y tratándose de otros usos el tiempo será de hasta 5 días hábiles; dentro de dicho término, la Dirección deberá rendir la información solicitada.
+El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será al momento mismo de la solicitud, tratándose de usos del suelo hasta de intensidad media, y tratándose de otros usos el tiempo será de hasta 3 días hábiles; dentro de dicho término, la Dirección deberá rendir la información solicitada.
 
 Con la información de uso del suelo, la Dirección deberá proporcionar las guías correspondientes al uso del suelo específico.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 120.
+
+A.- La información de uso de suelo tendrá una vigencia igual al POTE, a la tabla de compatibilidades, al manual técnico de usos del suelo, así como al presente Código de tal forma, que si éstos se modifican, deberá obtenerse una nueva información de uso de suelo. Excepción hecha de las modificaciones al citado Código que no impliquen adecuación a los anexos técnicos ni alteren el contenido de las disposiciones previstas para la información de uso de suelo, donde esta continuara vigente.
+
+Tratándose de usos especiales, la información de uso de suelo tendrá una vigencia de tres meses contados a partir de la fecha de su expedición; por lo que si el interesado no realizó tramite alguno posterior a dicha información, esta deberá de solicitarse de nueva cuenta.
 
 ###### Artículo 121.
 
@@ -1711,15 +1829,11 @@ V. Proyecto arquitectónico y dos fotografías impresas donde se observen los us
 
 VI. Los dictámenes que conforme al presente ordenamiento y al Manual Técnico de Usos del Suelo, correspondan al uso solicitado.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 126.
 
-En caso de inmuebles que concluyeron un proceso de construcción, se podrá otorgar una Licencia de uso de suelo, para lo cual sólo deberá presentarse la documentación siguiente:
-
-I. Solicitud en el formato que proporcione la Dirección, debidamente completada; y,
-
-II. Certificación de terminación de obra expedida por la Dirección.
-
-El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 3 días hábiles; dentro de dicho término, la Dirección expedirá la licencia correspondiente o, en su caso, notificará al particular sobre la negativa de la misma, fundando y motivando su resolución.
+En caso de inmuebles que concluyeron un proceso de construcción, deberá obtenerse la certificación de terminación de obra, y de manera simultánea la Dirección expedirá la Licencia de Uso del Suelo, excepto tratándose de uso habitacional, donde será suficiente la certificación de terminación de obra, para poder utilizar y ocupar el inmueble.
 
 ###### Artículo 127.
 
@@ -1745,9 +1859,17 @@ El uso de suelo que ampare la licencia deberá estar a la vista del público, ex
 
 En las zonas de preservación, sólo se autorizarán los usos del suelo de acuerdo a lo previsto en este Código, el POTE y demás disposiciones legales federales, estatales y municipales en la materia.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 129.
+
+A.- Tratándose de Espacios para Apuestas deberá observarse lo dispuesto por la Ley Federal de Juegos y Sorteos, su Reglamento, además de lo previsto en el Manual Técnico de Usos del Suelo del presente Código en el apartado de usos especiales.
+
 #### SECCIÓN OCTAVA. DE LAS FUSIONES Y DIVISIONES
 
 #### SECCIÓN PRIMERA. DE LOS FRACCIONAMIENTOS RESIDENCIALES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 130.
 
@@ -1795,11 +1917,15 @@ Las Licencias condicionadas, tendrán una vigencia máxima de un año y podrán 
 
 El costo de esta Licencia será igual al que generaría la licencia de uso del suelo respectiva. El refrendo no generará costo alguno.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 136.
 
-El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 3 días hábiles; dentro de dicho término, la Dirección expedirá la licencia correspondiente o, en su caso, notificará al particular sobre la negativa de la misma, fundando y motivando su resolución.
+El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 5 días hábiles; dentro de dicho término, la Dirección expedirá la licencia correspondiente o, en su caso, notificará al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
 #### SECCIÓN SEGUNDA. DE LOS FRACCIONAMIENTOS DE HABITACION POPULAR, DE INTERÉS SOCIAL O DENSIDAD ALTA
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 137.
 
@@ -1893,9 +2019,11 @@ VI. Nomenclatura.
 
 Los desarrolladores deberán atender a las normas técnicas establecidas en este ordenamiento, la Ley de Fraccionamientos y el Reglamento de la Ley, para proyectar la distribución de lotes, viviendas, departamentos o locales y su agrupamiento en manzanas o edificios; la localización de áreas de equipamiento urbano, áreas verdes y espacios abiertos destinados para recreación; el trazo de calles, avenidas y andadores, cruceros y entronques de acuerdo a su función y nivel de servicio, así como la señalización y mobiliario urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 149.
 
-Las áreas de donación que sean entregadas en propiedad al Municipio, estarán ubicadas y distribuidas estratégicamente atendiendo a las necesidades del propio desarrollo en cuanto a equipamiento urbano y áreas verdes. Las áreas de donación que entregue el desarrollador al Municipio deberán estar urbanizadas y cuando el fraccionamiento se desarrolle en una superficie de hasta una hectárea, el área de donación será en una sola porción. Cuando la superficie en la que se lleve a cabo el fraccionamiento sea mayor a la referida, la Dirección determinará por medio de un estudio, las porciones en que el desarrollador entregará dicha área de donación.
+Las áreas de donación que sean entregadas en propiedad al Municipio, estarán ubicadas y distribuidas estratégicamente atendiendo a las necesidades del propio desarrollo en cuanto a equipamiento urbano y áreas verdes. Las áreas de donación que entregue el desarrollador al Municipio deberán estar forestadas, equipadas y urbanizadas, asimismo cuando el fraccionamiento se desarrolle en una superficie de hasta una hectárea, el área de donación será en una sola porción. Cuando la superficie en la que se lleve a cabo el fraccionamiento sea mayor a la referida, la Dirección determinará por medio de un estudio, las porciones en que el desarrollador entregará dicha área de donación.
 
 La Dirección podrá autorizar que las áreas de equipamiento urbano se ubiquen fuera del fraccionamiento, siempre y cuando en la zona en que éste se localice, se encuentre satisfecho ese requerimiento. En este caso, la superficie a recibir por parte del Municipio deberá ser equivalente al valor comercial incluyendo dotación de servicios y obras de urbanización del inmueble que, por dicho concepto, debería entregarle el desarrollador.
 
@@ -2249,27 +2377,35 @@ La aprobación que emitan las dependencias y entidades públicas con respecto a 
 
 #### SECCIÓN TERCERA. DE LOS FRACCIONAMIENTOS INDUSTRIALES
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 178.
 
-Los lotes de los fraccionamientos residenciales urbanos tipo A habitacional de densidad baja (H2), deberán tener un frente mínimo de 15 metros y una superficie no menor de 450 metros cuadrados, además de contar con las obras señaladas en el presente ordenamiento.
+Los lotes de los fraccionamientos residenciales urbanos tipo A habitacional de densidad baja (H2), deberán tener un frente no menor de 15 metros y una superficie no menor de 450 metros cuadrados, además de contar con las obras señaladas en el presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 179.
 
-Los lotes de los fraccionamientos residenciales urbanos tipo B habitacional de densidad baja (H3), deberán tener un frente mínimo de 10 metros y una superficie no menor de 300 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
+Los lotes de los fraccionamientos residenciales urbanos tipo B habitacional de densidad baja (H3), deberán tener un frente no menor de 10 metros y una superficie no menor de 300 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 180.
 
-Los lotes de los fraccionamientos residenciales urbanos tipo C habitacional de densidad media (H4, H5 y H6), deberán tener un frente mínimo de 8 metros y una superficie no menor de 140 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
+Los lotes de los fraccionamientos residenciales urbanos tipo C habitacional de densidad media (H4, H5 y H6), deberán tener un frente no menor de 8 metros y una superficie no menor de 140 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
 
 #### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
 ###### Artículo 181.
 
-Los lotes de los fraccionamientos de habitación popular, de interés social o de densidad alta (H7 y H8), deberán tener como mínimo un frente de 6 metros y una superficie de 105 metros cuadrados.
+Los lotes de los fraccionamientos de habitación popular, de interés social o de densidad alta (H7 y H8), deberán tener un frente no menor de 6 metros y una superficie no menor de 105 metros cuadrados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 182.
 
-En los fraccionamientos a que se refiere esta sección se podrán realizar dos edificaciones independientes por cada lote, constituyéndose un condominio sobre esas dos unidades siempre que el mismo tenga una superficie mínima de 135.00 metros cuadrados, y que cada edificación tenga un frente mínimo de 4.50 metros, en una superficie mínima de 67.50 metros cuadrados; cada vivienda contará con un cajón de estacionamiento y podrán tener muro medianero, siempre y cuando el régimen de condominio y su reglamento así lo estipulen, de tal manera que las modificaciones a dicho muro, queden definidas desde su constitución para cada una de las edificaciones.
+En los lotes a que se refiere esta sección se podrán realizar dos edificaciones por cada lote, constituyéndose un condominio sobre esas dos unidades siempre que el mismo tenga una superficie mínima de 135.00 metros cuadrados, y que cada unidad tenga un frente mínimo de 4.50 metros, y una superficie mínima de 67.50 metros cuadrados; cada vivienda contará con un cajón de estacionamiento como mínimo y podrán tener muro medianero, siempre y cuando el régimen de condominio y su reglamento así lo estipulen, de tal manera que las modificaciones a dicho muro, queden definidas desde su constitución para cada una de las edificaciones.
 
 En este caso, el desarrollador estará obligado a respetar las densidades que correspondan a la zona en que se ubique el fraccionamiento, así como a iniciar las obras de edificación simultáneamente a las de urbanización, y a no imponer gastos comunes de mantenimiento del lote para los adquirentes.
 
@@ -2283,15 +2419,19 @@ Cuando se pretenda realizar este tipo de fraccionamientos bajo el proceso constr
 
 ###### Artículo 184.
 
-Los lotes de los fraccionamientos para industria ligera (I1) deberán tener como mínimo un frente de 10 metros y una superficie no menor de 300 metros cuadrados.
+Los lotes de los fraccionamientos para industria ligera (I1) deberán tener un frente no menor de 10 metros y una superficie no menor de 300 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 185.
 
-Los lotes de los fraccionamientos para industria mediana (I2) deberán tener un frente mínimo de 15 metros y una superficie no menor de 800 metros cuadrados.
+Los lotes de los fraccionamientos para industria mediana (I2) deberán tener un frente no menor de 15 metros y una superficie no menor de 600 metros cuadrados.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 186.
 
-Los lotes de los fraccionamientos para industria pesada (I3) e industria de alto riesgo (I4) deberán tener como mínimo un frente de 20 metros, y una superficie no menor de 1000 metros cuadrados.
+Los lotes de los fraccionamientos para industria pesada (I3) e industria de alto riesgo (I4) deberán tener un frente no menor de 20 metros, y una superficie no menor de 1000 metros cuadrados.
 
 ###### Artículo 187.
 
@@ -2443,15 +2583,21 @@ I. Habitacional: Son aquellos en los que las unidades de propiedad exclusiva est
 
 II. Habitacional Campestre: son aquellos en los que las unidades de propiedad están destinadas a la vivienda y se ubiquen en las Zonas permitidas por el POTE;
 
-III. Comercial; Aquellos cuyas unidades de propiedad se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Comercial; Aquellos cuyas unidades de propiedad exclusiva se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
 
 IV. Servicios: Son aquellos donde las unidades de propiedad exclusivas están destinadas al giro o servicio que corresponda según su actividad;
 
-V. Turístico - Recreativo: Aquellos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turística - recreativo que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Turístico - Recreativo: Aquellos cuyas unidades de propiedad exclusiva se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turística - recreativo (sic) que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
 
 VI. Industrial: Aquellos cuyos lotes se destinarán al establecimiento de fábricas o plantas industriales y que deberán estar ubicados dentro de las áreas destinadas a ese uso, de conformidad con lo establecido por el POTE, en su caso, se sujetarán a lo dispuesto por el Plan o Programa Municipal de Desarrollo Urbano que corresponda; y,
 
-VII. Mixto de usos compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus lotes, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el POTE.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. Mixto de usos compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus unidades de propiedad exclusiva, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el POTE.
 
 ###### Artículo 196.
 
@@ -2459,7 +2605,9 @@ Por el tipo de construcción, los desarrollos en condominio se clasifican en:
 
 I. Condominio horizontal: Es aquel en el que cada condómino es propietario exclusivo de un terreno y de la edificación constituida sobre él y copropietario de las áreas de aprovechamiento común, con las edificaciones o instalaciones correspondientes;
 
-II. Condominio vertical: Es aquel en el que cada condómino es propietario exclusivo de una parte de la edificación y en común de todo el terreno y edificaciones o instalaciones de uso general, en donde existe un elemento común de propiedad indivisible; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Condominio vertical: Es aquel en el que cada condómino es propietario exclusivo de una parte definida y perfectamente identificada de la edificación y copropietario de todo el terreno en donde se constituye el condominio, así como de las edificaciones o instalaciones de uso y aprovechamiento comunes; y,
 
 III. Condominio Mixto. Es aquel formado por condominios verticales y horizontales, que pueden estar constituidos en grupos de unidades de propiedad exclusiva como: Edificios, cuerpos, torres, manzanas, secciones o zonas.
 
@@ -2593,11 +2741,15 @@ La Dirección podrá autorizar la regularización de los fraccionamientos y desa
 
 Para tal efecto, el desarrollador deberá presentar un peritaje sobre las condiciones y características de las obras y construcciones realizadas o en proceso, avalado por un perito urbano, a partir del cual la Dirección podrá autorizar el trámite que proceda a la situación que guarde el desarrollo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 214.
 
-El diseño de los fraccionamientos o desarrollos en condominio, así como su ejecución de acuerdo a la licencia de urbanización, deberán supervisarse con la responsiva de un perito urbano, quien se obliga solidariamente con los desarrolladores en el cumplimiento de todas y cada una de las especificaciones técnicas que establezcan las entidades y dependencias públicas y las que se deriven de la Ley de Fraccionamientos su reglamento y el presente ordenamiento.
+El diseño de los fraccionamientos o desarrollos en condominio, deberán autorizarse previa responsiva de un perito urbano, quien debe verificar el cumplimiento de todas y cada una de las especificaciones técnicas que establezcan las entidades y dependencias públicas y las que se deriven de la Ley de Fraccionamientos su reglamento y el presente ordenamiento.
 
-#### SECCIÓN SEGUNDA. DEL PERITO RESPONSABLE DEL DISEÑO URBANO
+#### SECCIÓN SEGUNDA. DEL PERITO URBANO EN DISEÑO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 215.
 
@@ -2827,7 +2979,9 @@ III. Original de el dictamen de impacto ambiental;
 
 IV. Original del dictamen de impacto vial; y,
 
-V. En su caso, los originales o copias legibles de las autorizaciones emitidas por la Dirección, SAPAL y la CFE.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. En su caso, los originales o copias legibles de las factibilidades de dotación de servicio emitidas por la Dirección, SAPAL y la CFE.
 
 ###### Artículo 230.
 
@@ -2863,9 +3017,13 @@ V. Cuando la afectación se derive del trazo de vías públicas, sólo se consid
 
 VI. En cualquier caso las vialidades mencionadas en la fracción anterior, éstas podrán ser tomadas hasta el 50 por ciento como áreas de donación correspondiente al equipamiento urbano siempre y cuando el porcentaje de áreas verdes esté cubierto al 100 por ciento.
 
-Tratándose de fraccionamientos de vivienda de interés social, podrán ser tomadas hasta el 100 por ciento, con la misma condición de que las áreas verdes estén cubiertas en su totalidad, excepción hecha del supuesto que se establece en el párrafo siguiente.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Cuando para la autorización de cualquier tipo de desarrollo exista un plan parcial, éste deberá ser respetado en su totalidad de acuerdo a su aprobación por parte del Ayuntamiento.
+Tratándose de fraccionamientos de vivienda de interés social, podrán ser tomadas hasta el 100 por ciento, con las mismas condicionantes establecidas en el presente artículo, siempre y cuando de dicha operación no se genere adeudo alguno a cargo del Municipio.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Lo anterior, sin perjuicio del plan parcial, aprobado por el Ayuntamiento.
 
 ###### Artículo 235.
 
@@ -2900,6 +3058,10 @@ IV. Reporte Fotográfico;
 V. Plano del predio indicando el área a intervenir; y,
 
 VI. Cubrir el costo del permiso de acuerdo a la Ley de Ingresos vigente.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. Solicitud y planos firmados por Perito Urbano en ejecución de obras de urbanización tratándose de fraccionamientos y desarrollos en condominio.
 
 ###### Artículo 238.
 
@@ -2941,6 +3103,10 @@ VII. Proyecto para la construcción e instalación del alumbrado público aproba
 
 VIII. Los proyectos de obras de cabecera.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IX. Proyecto de ejecución de obras para la regulación de aguas pluviales mediante la construcción de uno o varios vasos reguladores y/o tanques de tormenta en caso de ser necesarios, o bien cualquier otra solución técnicamente factible que sea validada por el SAPAL, según sea el área que al efecto se reserve en dicho desarrollo.
+
 ###### Artículo 242.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será de hasta 15 días hábiles, dentro de dicho término, la dirección deberá expedir la licencia de urbanización conforme a los proyectos aprobados o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
@@ -2959,11 +3125,11 @@ Para obtener la certificación de terminación de las obras de edificación, ser
 
 En el caso de los fraccionamientos que se ejecuten por urbanización progresiva, se atenderá a los plazos establecidos en el convenio a que se refiere el artículo 247 del presente código y en la licencia de urbanización respectiva.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 246.
 
 El desarrollador deberá instalar a su costa las señales dentro y fuera del desarrollo, así como las placas de nomenclatura de las calles de acuerdo al proyecto autorizado por la Dirección; de igual forma tratándose de los dispositivos de control de tránsito, el desarrollador deberá instalarlos a su cargo dentro del desarrollo habitacional de que se trate; en el caso de los dispositivos de control que resulte necesario instalar fuera del desarrollo, será obligación de los desarrolladores de manera proporcional de acuerdo al impacto que generen en la zona, según los dictámenes respectivos y de acuerdo a los mecanismos que para tal efecto diseñe la Dirección.
-
-En tratándose de fraccionamientos de interés social, el desarrollador estará obligado a instalar a su costa sólo las señales de tránsito dentro y fuera del desarrollo habitacional de que se trate, así como las placas de nomenclatura de las calles, ello con base en los dictámenes de impacto vial y a los proyectos autorizados por la Dirección.
 
 ###### Artículo 247.
 
@@ -3010,6 +3176,10 @@ Los desarrolladores podrán presentar a la Dirección propuesta para emplear inn
 ###### Artículo 252.
 
 Para obtener el permiso de venta, además de los requisitos señalados en la Ley de Fraccionamientos y el Reglamento de la Ley, el desarrollador deberá acompañar a su solicitud copia certificada de la escritura pública debidamente inscrita en el Registro Público de la Propiedad y del Comercio, en la que conste la transmisión en favor del municipio, de las áreas de donación y de las vialidades libres de gravamen, según se trate de fraccionamientos o desarrollos en condominio.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2012)</small>
+
+Una vez escrituradas las áreas de donación, la Dirección acordara el destino de las mismas, señalando en los términos y en los porcentajes de la normativa aplicable, que fracción será para área verde y cual otra para equipamiento urbano.
 
 ###### Artículo 253.
 
@@ -3079,6 +3249,10 @@ Concluidas las obras de urbanización de los fraccionamientos y desarrollos en c
 
 En el caso de fraccionamientos realizados mediante urbanización progresiva se podrá realizar la recepción de las obras de urbanización conforme se vaya concluyendo cada una de ellas, de acuerdo al convenio celebrado y a la licencia otorgada.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Será materia de la entrega recepción de los desarrollos que las áreas verdes se encuentren debidamente forestadas y equipadas, en los términos de la Ley de Fraccionamientos y demás normativa aplicable.
+
 ###### Artículo 264.
 
 En el caso de desarrollos en condominio, el mantenimiento y conservación de las obras de urbanización y de las instalaciones destinadas a los servicios públicos, así como el pago de estos servicios, estarán a cargo de los desarrolladores y en su momento de los adquirentes. Esta obligación deberá hacerse constar en los contratos de compraventa respectivos.
@@ -3101,7 +3275,9 @@ Para los efectos de la recepción de las obras de urbanización o equipamiento u
 
 La entrega recepción de las obras de urbanización, podrá efectuarse en lo individual, por cada obra correspondiente a una etapa, sección o bien a la totalidad del desarrollo, según éste se haya autorizado por las dependencias y entidades competentes.
 
-Para los efectos del párrafo que antecede, el supervisor de la Dirección o en su caso el Perito Responsable de la Ejecución de las Obras de Urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de 3 días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término 3 días hábiles y en su caso realizar la entrega recepción de las mismas.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Para los efectos del párrafo que antecede, el supervisor de la Dirección o en su caso el Perito Urbano en Ejecución de Obras de Urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de 3 días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término 3 (sic) días hábiles y en su caso realizar la entrega recepción de las mismas.
 
 Lo anterior en el entendido de que la garantía otorgada para la terminación de las obras de urbanización, se liberará hasta que el desarrollador realice la formal entrega recepción de todas las obras correspondientes a la Licencia de Urbanización respectiva, según corresponda a una sección, etapa o bien a la totalidad del desarrollo.
 
@@ -3111,9 +3287,11 @@ El monto de la garantía para responder por los desperfectos o vicios ocultos de
 
 El desarrollador deberá otorgar la garantía a que se refiere este artículo dentro de los quince días hábiles posteriores al dictamen positivo de la recepción de las obras que, en su caso, emita la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 269.
 
-Seis meses previos al vencimiento de la garantía, la Dirección conjuntamente con SAPAL y CFE, llevará a cabo la inspección para verificar el estado y buen funcionamiento de las obras de urbanización.
+Dentro de los diez meses previos al vencimiento de la garantía, la Dirección conjuntamente con SAPAL y CFE, podrá llevar a cabo la inspección para verificar el estado y buen funcionamiento de las obras de urbanización.
 
 Si de la verificación realizada, se detectan desperfectos o inconsistencias en el funcionamiento de las obras de urbanización, dicha dependencia deberá notificarlo al desarrollador, a más tardar quince días después de la inspección, ello a efecto de que proceda a subsanar las observaciones resultantes de la inspección efectuada dentro de los siguientes dos meses.
 
@@ -3129,19 +3307,25 @@ Además de las obligaciones señaladas en la Ley de Fraccionamientos y el Reglam
 
 I. Cumplir y ejecutar las indicaciones que se deriven de la supervisión de la Dirección, SAPAL y CFE;
 
-II. Notificar por escrito a la Dirección sobre la designación que haga sobre el Perito Urbano responsable del Proyecto de Diseño Urbano o bien de la ejecución de las obras de urbanización de los fraccionamientos y desarrollos en condominio; notificación que deberá efectuar en la primer gestión que realice ante la Dirección para la obtención de las autorizaciones, licencias y permisos respectivos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Notificar por escrito a la Dirección sobre la designación que haga sobre el Perito Urbano en Diseño o bien de la ejecución de las obras de urbanización de los fraccionamientos y desarrollos en condominio; notificación que deberá efectuar en la primer gestión que realice ante la Dirección para la obtención de las autorizaciones, licencias y permisos respectivos;
 
 III. Realizar los estudios ordenados por la Dirección, así como llevar a cabo las acciones resultantes de los mismos, cuando en la ejecución de las obras de urbanización de un desarrollo, se hayan detectado factores de riesgo;
 
-IV. Abstenerse de presentar para inscripción ante el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cualquier licencia, permiso o autorización relacionada con el trámite y ejecución de algún fraccionamiento o desarrollo en condominio, diverso al permiso de venta o al de relotificación;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Abstenerse de presentar para inscripción ante el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cualquier licencia, permiso o autorización relacionada con el trámite y ejecución de algún fraccionamiento o desarrollo en condominio, diverso a la autorización de traza, régimen en condominio, permiso de venta o al de relotificación
+
+Para la inscripción de la autorización de traza ante el Registro Público de la Propiedad y del Comercio, el Notario Público encargado de su protocolización en la escritura pública correspondiente deberá describir las áreas que integran el desarrollo, tales como manzanas, lotes y vialidades para efecto de que queden plenamente identificadas además se deberá estipular que la inscripción de dicho trámite no es para efectos de traslados de dominio; para lo cual el Notario Público en la Escritura Pública correspondiente, agregara la leyenda "Folio en trámite, no válido para la realización de traslado de dominio por no contar con permiso de venta".
 
 V. Garantizar el libre tránsito peatonal y vehicular en las áreas destinadas para tal fin, a partir del permiso de venta y hasta la entrega recepción del desarrollo al municipio;
 
 VI. Incluir los datos de la autorización de traza y permiso de venta en todos los actos jurídicos de traslado de dominio que deriven del desarrollo de que se trate; y,
 
-VII. Urbanizar la totalidad y en secciones completas las vialidades internas del desarrollo, así como las vías de enlace con la zona urbanizada más próxima de la ciudad, necesarias para dar acceso al mismo, de acuerdo a los requerimientos identificados en el dictamen de impacto vial, y con las especificaciones que determine la Dirección, excepción hecha de lo que estatuye el artículo 176 de este ordenamiento, cuando el proyecto contemple frentes de vivienda a la vialidad, en tal caso el desarrollador estará obligado a urbanizar la mitad de la sección de la vialidad o el carril de baja velocidad en el supuesto de bulevares.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-Además de lo señalado en el Artículo 62 fracción II de la Ley de Fraccionamientos.
+VII. Urbanizar la totalidad y en secciones completas las vialidades internas del desarrollo, así como las vías de enlace con la zona urbanizada más próxima de la ciudad, necesarias para dar acceso al mismo, de acuerdo a los requerimientos identificados en el dictamen de impacto vial, y con las especificaciones que determine la Dirección, excepción hecha de lo que estatuye el artículo 176 de este ordenamiento, cuando el proyecto contemple frentes de vivienda a la vialidad, en tal caso el desarrollador estará obligado a urbanizar la mitad de la sección de la vialidad o el carril de baja velocidad en el supuesto de bulevares.
 
 El diseño de las vialidades, deberán de realizarse sin excepción alguna con secciones completas.
 
@@ -3155,59 +3339,91 @@ X. Abstenerse de promover la venta o de recibir dinero o cualquier otra prestaci
 
 XI. Informar por escrito al comprador, del contenido de las autorizaciones otorgadas con relación al desarrollo de que se trate, incluyendo el permiso de venta respectivo; indicándole además a quien corresponderá la conservación y mantenimiento de las obras de urbanización, de las áreas de uso común y el pago de los servicios públicos;
 
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
 XII. Debe escriturar las áreas de servicio que se encuentren en el interior del desarrollo a favor del Municipio o la dependencia o entidad pública correspondiente;
+
+Constituir en escritura pública a favor de SAPAL las servidumbres de paso para el drenaje pluvial y el alcantarillado en los desarrollos que por su topografía se requiera que la infraestructura atraviese por predios particulares.
 
 XIII. Asegurar ante la Dirección los instrumentos jurídicos, administrativos y operativos que den garantía a corto, mediano y largo plazo del mantenimiento y conservación del motivo de acceso al momento de solicitar la autorización correspondiente, el cual no debe implicar impacto de inversión pública municipal;
 
 XIV. Presentará las especificaciones técnicas necesarias de las obras complementarias propuestas en las áreas verdes para su validación por parte de la Dirección; y,
 
-XV. Las demás que se establezcan en los ordenamientos legales aplicables en la materia.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XV. Realizar los estudios hidrológicos necesarios en los casos que el SAPAL lo haya dictaminado en función de las condiciones topográficas, así como de la consolidación presente y futura de la zona donde se ubique el desarrollo, construyendo para tal efecto los vasos reguladores y/o tanques tormenta que dicho organismo le dictamine; y,
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XVI. Las demás que se establezcan en los ordenamientos legales aplicables en la materia.
 
 ### CAPÍTULO XV. DEL PERITO URBANO
 
-#### SECCIÓN TERCERA. DEL PERITO RESPONSABLE DE LA EJECUCIÓN DE LAS OBRAS DE URBANIZACIÓN
+#### SECCIÓN TERCERA. DEL PERITO URBANO EN EJECUCIÓN DE OBRAS DE URBANIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 272.
 
 El Perito Urbano es el profesionista responsable, persona física que otorga su responsiva para que el diseño de los fraccionamientos y desarrollos en condominio, así como la ejecución de las obras de urbanización de dichos desarrollos habitacionales, se realice conforme a las especificaciones técnicas que establezca la Dirección, SAPAL y la CFE, la Ley de Fraccionamientos, el Reglamento de la Ley, el presente Código y demás normativa aplicable.
 
-En los términos del párrafo precedente, el Perito Urbano tiene el carácter de obligado solidario con los desarrolladores en el cumplimiento de todas y cada una de las obligaciones que a su cargo se deriven de los instrumentos señalados en supra líneas. Dicha obligación solidaria comenzará a surtir sus efectos desde el momento mismo en que el desarrollador haga la designación del Perito Urbano respectivo.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+En los términos del párrafo precedente, el Perito Urbano será responsable de las obligaciones que se deriven de los ordenamientos señalados. Dicha obligación comenzará a surtir sus efectos desde el momento mismo en que el desarrollador haga la designación del Perito Urbano respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 273.
 
-El Perito Urbano, atendiendo al objeto para el cual otorgue su responsiva dentro de los desarrollos habitacionales, se clasifica de la siguiente manera:
+El Perito Urbano, atendiendo al objeto para el cual otorga su responsiva dentro de los desarrollos habitacionales, se clasifica de la siguiente manera:
 
-I. El Perito Responsable del Diseño Urbano: Aquél que otorga su responsiva para los proyectos de diseño urbano de los fraccionamientos y desarrollos en condominio, incluyendo los planos respectivos; y,
+I. El Perito Urbano en Diseño: Es el Profesionista, responsable del Diseño Urbano y de coordinar a los especialistas que participan en el Desarrollo de Proyectos Arquitectónicos Urbanos sustentables desde la óptica de la Planeación Urbana, el Diseño Urbano y del Diseño de Paisaje, capaz de gestionar, coordinar e integrar dentro de la normatividad aplicable, equipos interdisciplinarios en las áreas de Movilidad, Medio Ambiente, Patrimonio Cultural e Histórico, Infraestructura, Equipamiento, Sociología, Economía y Tecnología; así como los necesarios para obtener de la Dirección las autorizaciones correspondientes, para que bajo su responsabilidad como perito se ejecuten los proyectos de diseño urbano de los fraccionamientos y desarrollos en condominio; y,
 
-II. Perito Responsable de la Ejecución de Obras de Urbanización: Es aquél que bajo su responsiva, se ejecutan las obras de urbanización de un fraccionamiento o desarrollo en condominio, quien además coordina a los especialistas que intervienen en ello.
+II. El Perito Urbano en Ejecución de Obras de Urbanización: Es el profesionista especialista que bajo su responsiva, se ejecutan las obras de urbanización de un fraccionamiento o desarrollo en condominio, de acuerdo a las licencias respectivas, quien además coordina a los especialistas que intervienen en ello, hasta la entrega - recepción para la municipalización del desarrollo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 274.
 
-Los cargos de Perito Responsable del Diseño Urbano y Perito Responsable de la Ejecución de las obras de Urbanización, podrán ser ejercidos por el mismo profesionista siempre y cuando cubra los requisitos establecidos en el presente Código.
+Los cargos de Perito en Diseño Urbano y Perito Urbano en Ejecución de Obras de Urbanización, podrán ser ejercidos por el mismo profesionista siempre y cuando cubra los requisitos establecidos en el presente Código.
 
-Los proyectos o trámites realizados por los peritos deberán presentarse ante la Dirección para su autorización, de tal manera que cubriendo los requisitos legales en un término no mayor de dos días hábiles deberán ser aprobados. El Perito Responsable de la Ejecución de las obras de urbanización firmará en la bitácora de obra, de tal manera que su aprobación en cuanto a la terminación hará las veces de inicio de la entrega recepción del desarrollo en los términos establecidos en este Código, sin perjuicio de las facultades y el pago de derechos de la supervisión que tiene a su cargo la Dirección.
+Los proyectos o trámites realizados por los peritos deberán presentarse ante la Dirección para su autorización, de tal manera que cubriendo los requisitos legales en un término no mayor de dos días hábiles deberán ser aprobados. Perito Urbano en Ejecución de Obras de Urbanización firmará en la bitácora de obra, de tal manera que su aprobación en cuanto a la terminación hará las veces de inicio de la entrega recepción del desarrollo en los términos establecidos en este Código, sin perjuicio de las facultades y el pago de derechos de la supervisión que tiene a su cargo la Dirección.
 
 ###### Artículo 275.
 
 El perito urbano para el ejercicio de sus atribuciones, y cualquiera que sea el objeto para el que otorgue su responsiva, deberá estar registrado ante la Dirección, en los términos del presente Código.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 276.
 
-El registro del perito urbano tendrá una vigencia de tres años, el cual podrá refrendarse por iguales periodos.
+El registro de los peritos urbanos tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
 
-Tratándose del refrendo, este deberá solicitarse por escrito con quince días hábiles de anticipación al vencimiento del registro.
+Para el refrendo bianual de los peritos urbanos, los interesados deberán presentar a la Dirección, los siguientes requisitos:
 
-No se autorizará el refrendo del registro cuando el mismo haya sido suspendido.
+I. Datos actualizados; y,
+
+II. Presentar un listado de los desarrollos habitacionales donde haya emitido su responsiva para el diseño o ejecución de obras de urbanización.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 277.
 
-El registro o su refrendo deberá solicitarse por los interesados, previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+El registro de los peritos urbanos, deberá solicitarse por los interesados a la Dirección, reuniendo los requisitos que al efecto establece el presente ordenamiento y previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 278.
 
-La Dirección resolverá sobre la procedencia del registro o refrendo de los peritos urbanos, en un término no mayor a quince días hábiles a partir de que se presenten los requisitos que para cada perito se encuentran previstos en este ordenamiento.
+El consejo como órgano colegiado de carácter permanente, de asesoría y consulta técnica, participara en el registro de los peritos urbanos.
 
-En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro o refrendo.
+En ese sentido, la Dirección comunicara al Consejo dentro del término de 2 días hábiles siguientes, las solicitudes presentadas al tenor del artículo anterior, a efecto de que a través del grupo de trabajo que al efecto éste conforme, analice y rinda su opinión técnica en un término no mayor a 5 días hábiles.
+
+En caso de que el grupo de trabajo conformado por el consejo, no emitiese su recomendación en el plazo establecido en el párrafo que antecede o lo hiciera habiendo transcurrido el mismo, se entenderá que su recomendación es en sentido factible o positivo, por lo que la Dirección resolverá sobre la procedencia del registro de los peritos urbanos, dentro de un término no mayor a 8 días hábiles.
+
+Si el grupo de trabajo conformado por el consejo, hubiese emitido su opinión técnica en los plazos establecidos, la Dirección valorara dicha opinión y resolverá sobre la procedencia del registro en el plazo establecido.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
 
 ###### Artículo 279.
 
@@ -3231,31 +3447,45 @@ La substitución del perito urbano, no exime de su responsabilidad al substituid
 
 El término de las funciones de los peritos urbanos no les exime de la responsabilidad de carácter civil, penal o administrativa que pudiera derivarse de su intervención en los fraccionamientos y desarrollos en condominio para los cuales haya otorgado su responsiva profesional.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 282.
 
-Para obtener el registro como perito responsable del Proyecto de Diseño Urbano, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín a la materia, y deberá presentar ante la Dirección, lo siguiente:
+Para obtener el registro como Perito Urbano en Diseño, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín a la materia, y deberá presentar ante la Dirección, lo siguiente:
 
 I. Solicitud por escrito debidamente completada en los formatos de la Dirección;
 
-II. Documental que avale el requisito señalado en el primer párrafo de este artículo;
+II. Acreditar su experiencia en el Diseño de fraccionamientos y espacios urbanos;
 
-III. Currículum vitae adjuntando la documentación que soporte la información otorgada;
+III. Presentar por escrito y debidamente firmado su Currículum vitae adjuntando la documentación que soporte la información otorgada;
 
-IV. Copia de la cédula profesional; y,
+IV. Copia de la cédula profesional que avale la profesión indicada en el primer párrafo del presente artículo;
 
-V. Dos fotografías tamaño infantil.
+V. Copia de la cédula de especialidad que avale tener en materia de diseño urbano;
+
+VI. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento.
+
+VII. Dos fotografías tamaño infantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 283.
 
-El Perito Responsable del Diseño Urbano, tendrá las obligaciones siguientes:
+El Perito de Diseño Urbano, tendrá las obligaciones siguientes:
 
-I. Suscribir las solicitudes y proyectos de diseño urbano así como los planos correspondientes;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-II. Conocer y sujetarse a las disposiciones contenidas en el presente ordenamiento;
+I. Cumplir con lo dispuesto en el presente Código y demás normativa aplicable al proyecto que realiza;
 
-III. Vigilar que se cumplan las condicionantes y especificaciones que establezcan las autoridades competentes, así como la normativa aplicable, en los instrumentos referidos en la fracción anterior;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Suscribir las solicitudes y proyectos de diseño urbano así como los planos y memorias correspondientes;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Vigilar que se cumplan las condicionantes y especificaciones que establezcan las autoridades competentes, así como la normativa aplicable;
 
 IV. Cumplir con las obligaciones que se deriven de los trámites y autorizaciones relacionados con la aprobación de traza;
 
@@ -3267,31 +3497,43 @@ VII. Contar con registro vigente ante la Dirección; y,
 
 VIII. Las demás que se deriven de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código en materia del diseño de los fraccionamientos y desarrollos en condominio.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
 #### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN PARA OBRAS NUEVAS
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 284.
 
-Para obtener el registro como perito responsable de la ejecución de obras de urbanización, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín, en este último supuesto deberá contar con estudios de especialización en materia de ejecución de obras de urbanización.
+Para obtener el registro como Perito Urbano en Ejecución de Obras de Urbanización, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín, y deberá presentar ante la Dirección, lo siguiente:
 
 El interesado en la obtención de este registro, deberá presentar ante la Dirección lo siguiente:
 
 I. Solicitud por escrito debidamente completada en los formatos de la Dirección;
 
-II. Documental que avale el requisito señalado en el primer párrafo de este artículo;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-III. Acreditar experiencia en la materia;
+II. Acreditar su experiencia en la ejecución de obras de urbanización;
 
-IV. Currículum vitae adjuntando la documentación que soporte la información otorgada;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-V. Copia de la cédula profesional; y,
+III. Presentar por escrito y debidamente firmado su Currículum vitae adjuntando la documentación que soporte la información otorgada;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Copia de la cédula profesional que avale la profesión indicada en el primer párrafo del presente artículo;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento; y,
 
 VI. Dos fotografías tamaño infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 285.
 
-El Perito Responsable de la Ejecución de Obras de Urbanización, tendrá las obligaciones siguientes:
+El Perito Urbano en Ejecución de Obras de Urbanización, tendrá las obligaciones siguientes:
 
 I. Suscribir las solicitudes y proyectos de obras de urbanización, así como los planos correspondientes;
 
@@ -3299,9 +3541,13 @@ II. Llevar a cabo la supervisión del desarrollo y vigilar que se cumplan las co
 
 III. Cumplir con las obligaciones que se deriven de los trámites y autorizaciones relacionados con la licencia de urbanización;
 
-IV. Conocer y sujetarse a las disposiciones contenidas en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-V. Asegurarse que las obras de urbanización y edificación del desarrollo se realicen conforme a los permisos, licencias y autorizaciones expedidas, a las normas técnicas establecidas en el presente ordenamiento, así como en apego a las especificaciones técnico constructivas que establezca la Dirección, SAPAL y CFE, y demás disposiciones legales o reglamentarias, a fin de asegurar en dichas construcciones condiciones optimas de durabilidad, calidad funcionalidad y mantenimiento;
+IV. Cumplir con lo dispuesto en el presente Código y demás normativa aplicable al proyecto que realiza;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Asegurarse que las obras de urbanización y edificación del desarrollo se realicen conforme a los permisos, licencias y autorizaciones expedidas, a las normas técnicas aplicables, así como en apego a las especificaciones técnico constructivas que establezca la Dirección, SAPAL y CFE, y demás disposiciones legales o reglamentarias, a fin de asegurar en dichas construcciones condiciones optimas de durabilidad, calidad, funcionalidad y mantenimiento;
 
 VI. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
 
@@ -3319,27 +3565,131 @@ XII. Responder por cualquier violación u omisión a las disposiciones de la Ley
 
 XIII. Contar con registro vigente ante la Dirección;
 
-XIV. Colocar en un lugar visible del desarrollo, la información relativa a las autorizaciones con que cuenta el desarrollo, así como los datos generales de la obra, el nombre y registro del perito responsable de la ejecución de obras de urbanización;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XIV. Colocar en un lugar visible del desarrollo, la información relativa a las autorizaciones con que cuenta el desarrollo, así como los datos generales de la obra, el nombre y registro del Perito Urbano en Ejecución de Obras de Urbanización;
 
 XV. Colocar en la obra, además de la bitácora, copia de las licencias, permisos y autorizaciones otorgados con motivo del desarrollo; y,
 
 XVI. Las demás que se deriven de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código en materia de ejecución de obras de urbanización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 286.
 
-El contenido o resultado de los estudios, dictámenes, proyectos, planos y demás documentos que suscriba el perito responsable de la ejecución de obras de urbanización con motivo de su desempeño, son su responsabilidad.
+El contenido o resultado de los estudios, dictámenes, proyectos, planos y demás documentos que suscriba el Perito Urbano en Ejecución de Obras de Urbanización con motivo de su desempeño, son su responsabilidad.
 
 Lo anterior, sin perjuicio de las atribuciones que legalmente correspondan a la Dirección, SAPAL y CFE, quienes asimismo podrán supervisar y verificar en cualquier momento la veracidad de la información proporcionada por el perito urbano, así como la correcta realización de los trabajos constructivos y de edificación del desarrollo de que se trate.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 287.
 
-La recepción del desarrollo de que se trate, no exime de responsabilidad al perito responsable de la ejecución de obras de urbanización, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativa que pudiera derivarse por la actividad para la cual haya otorgado su responsiva profesional.
+La recepción del desarrollo de que se trate, no exime de responsabilidad al Perito Urbano en Ejecución de Obras de Urbanización, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativa que pudiera derivarse por la actividad para la cual haya otorgado su responsiva profesional.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2012)</small>
+
+### CAPITULO XVI. DEL PERITO TOPÓGRAFO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - A.
+
+El Perito Topógrafo es el profesionista que otorga su responsiva sobre la forma, dimensiones, representaciones y probables adecuaciones de un terreno o superficie, representada en planos.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - B.
+
+El perito topógrafo deberá registrarse ante la Dirección, cumpliendo para ello con los requisitos siguientes:
+
+I. Solicitud debidamente completada;
+
+II. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio nacional;
+
+III. Cédula Profesional que lo acredite como arquitecto, ingeniero civil, ingeniero arquitecto o ingeniero topógrafo en copia y original para cotejo;
+
+IV. Acreditar su pertenencia como miembro vigente del colegio de su profesión;
+
+V. Acreditar experiencia en procedimientos para establecer la posición de un punto referente la (sic) superficie de la Tierra, tanto en geodesia como en topografía, así como en la planeación, organización, dirección y ejecución en la áreas de Geomática, Sistemas de Información Geográfica, Cartografía, Geodesia, Topografía, Fotogrametría y Ciencia afines, con el objeto de establecer el marco geográfico y geométrico de referencia en todos los proyectos en que se apliquen estas disciplinas.
+
+VI. Presentar por escrito y debidamente firmado, su currículum vitae;
+
+VII. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento;
+
+VIII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes; y,
+
+IX. Dos fotografías tamaño infantil.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - C.
+
+Los requisitos en el artículo anterior, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se (sic) encuentren registrados ante la Dirección.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - D.
+
+La Dirección resolverá sobre la solicitud del registro, en un término no mayor a quince días hábiles contados a partir de la fecha de recepción de la misma; previa substanciación del procedimiento que se establece en el presente código para el registro de los Peritos Urbanos.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - E.
+
+El registro como Perito Topógrafo, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - F.
+
+Para el refrendo bianual del Perito Topógrafo, deberá presentarse a la Dirección, los siguientes requisitos:
+
+I. Datos actualizados; y,
+
+II. Presentar un listado de las actividades para las que emitió su responsiva.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - G.
+
+La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - H.
+
+El Perito Topógrafo, tiene las obligaciones siguientes:
+
+I. Observar lo dispuesto por el presente Código y demás normativa aplicable al proyecto que realiza;
+
+II. Conducirse con veracidad en toda clase de informes que entregue al DRO y documentos que suscriba;
+
+III. Aplicar las Normas Técnicas que considere necesarias y convenientes para el proyecto que diseñe;
+
+IV. Diseñar o proyectar en función de los usuarios y el uso de suelo autorizado;
+
+V. Diseñar o proyectar tomando en cuenta los posibles impactos, para que sean mínimos y mitigables;
+
+VI. Promover en sus proyectos acciones de sustentabilidad y aprovechamiento de los recursos naturales;
+
+VII. Entregar los planos, memoria, estudios y resoluciones de dictámenes de otras dependencias;
+
+VIII. Contar con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los proyectos demandan; y,
+
+IX. Suscribir los planos, proyectos, memoria, estudios y demás documentos que elabore.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - I.
+
+El Perito Topógrafo, podrá intervenir en el apartado de construcciones, para lo cual se aplicará en lo conducente lo que establece el Título Cuarto del presente Código.
 
 ## TÍTULO CUARTO. DE LAS CONSTRUCCIONES
 
-### CAPÍTULO II. DE LA LICENCIA DE CONSTRUCCIÓN
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 288.
 
@@ -3349,9 +3699,13 @@ I. Regular el procedimiento para expedir la licencia de construcción en sus div
 
 II. Definir los procesos de control de las construcciones en el Municipio;
 
-III. Determinar el procedimiento para el registro de los Proyectistas y DRO, precisando requisitos, supuestos para la admisión y refrendo, así como tiempos de respuesta;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-IV. Definir las obligaciones, atribuciones y alcances sobre las responsabilidades de los Proyectistas y DRO;
+III. Determinar el procedimiento para el registro del DRO, proyectista arquitectónico y proyectista estructural, precisando requisitos, supuestos para la admisión y refrendo, así como tiempos de respuesta;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Definir las obligaciones, atribuciones y alcances sobre las responsabilidades de los proyectistas arquitectónicos, proyectistas estructurales, peritos topógrafos y DRO;
 
 V. Precisar las responsabilidades de los particulares o poseedores con respecto a las construcciones;
 
@@ -3359,21 +3713,25 @@ VI. Establecer las normas específicas que deberán observarse en la supervisió
 
 VII. Regular la arquitectura ecológica, así como la innovación tecnológica en arquitectura y construcción.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 289.
 
 La planeación y la ejecución de las obras de construcción que impliquen ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración y demolición, de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para la Licencia de Construcción, al Manual Técnico de las Construcciones y demás normativa aplicable.
 
-Excepción hecha de aquellas ampliaciones relativas a la techumbre en zonas habitacionales que incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y que no implique edificación alguna por encima de ellas. En tal caso si deberá obtenerse la licencia respectiva, pero no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 290.
 
-La dirección y ejecución de un proyecto de construcción o parte de él, deberá realizarse bajo la responsiva de un Proyectista o un DRO, de conformidad con lo dispuesto por el presente Código y el Manual técnico de las construcciones, con las excepciones que sobre esa responsiva se establecen en dichos instrumentos.
+La dirección y ejecución de un proyecto de construcción o parte de él, deberá realizarse bajo la responsiva de un DRO, de conformidad con lo dispuesto por el presente Código y el Manual técnico de las construcciones, instituyéndose como figura única responsable ante la Dirección y ante los propietarios o poseedores que lo contraten, con respecto a los proyectos en que tenga participación.
 
-### CAPÍTULO III. AUTORIZACIÓN DE OCUPACIÓN DE OBRAS NO TERMINADAS O EN PROCESO DE CONSTRUCCIÓN EN USOS HABITACIONALES
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 290 - A.
+
+En los proyectos de construcción que presenten los DRO sobre cualquier tipo de edificaciones, excepción hecha de casas habitación unifamiliares, se deberán de contemplar en lugares visibles, la señalización y equipo adecuado, así como los instructivos para casos de emergencia, en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre; asimismo, deberán señalarse las zonas de seguridad y las rutas de evacuación.
+
+### CAPÍTULO II. DE LA LICENCIA DE CONSTRUCCIÓN
 
 #### SECCIÓN TERCERA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AMPLIACIONES
 
@@ -3409,47 +3767,29 @@ VIII. Especiales.
 
 Las fracciones previstas en el presente artículo, constituyen en sí mismas modalidades de la Licencia de construcción, dada la particularidad que ostentan en materia de requisitos para su obtención, alcances y supuestos en que habrán de expedirse, ello de conformidad con lo establecido en este Código.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
-
 ###### Artículo 293.
 
-Se requiere Licencia de Construcción para cualquiera de las modalidades señaladas en el artículo anterior, sin planos básicos mínimos y sin necesidad de Proyectista, ni responsiva de un DRO, en los siguientes casos:
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-I. Los usos habitacionales de tipo horizontal independientemente del régimen de propiedad, que se clasifiquen como H-5, H-6, H-7, H-8, excepto en la zona de centro histórico y la construcción de Conjuntos Habitacionales, ya sea fraccionamientos o desarrollos en condominio;
-
-II. Comercios y servicios de intensidad mínima y baja, hasta 90 metros cuadrados de construcción;
-
-III. Talleres familiares, hasta 90 metros cuadrados de construcción;
-
-IV. Las autoconstrucciones; y,
-
-V. Las ampliaciones relativas a la techumbre en zonas habitacionales, siempre y cuando éstas incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y que no implique edificación alguna por encima de ellas.
-
-Independientemente de que el solicitante sea propietario o poseedor, de más de un inmueble, la facilidad administrativa prevista por la fracción I de este artículo, operará únicamente para uno de ellos, siempre y cuando la construcción no exceda de 90 metros cuadrados.
-
-Los metros cuadrados de construcción enunciadas en las fracciones II y III de este artículo, se consideraran como totales por lo que no podrán ser rebasados, aun tratándose de ampliaciones pues en el caso de estas últimas, se considerara tanto la edificación existente como el proyecto de ampliación.
-
-Estos usos deberán llenar un formato en el que se indiquen las actividades de construcción que realizarán, presentando un croquis donde se especifiquen los espacios que conformarán su construcción.
-
-Lo anterior sin perjuicio de que se puedan realizar los planos arquitectónicos a través de programas de servicio social profesional gratuito, que presten estudiantes de la rama de arquitectura o cualquier otra afín, autorizados por la institución educativa a la que pertenecen, como parte del servicio social universitario en actividades de supervisión de obra o realización de planos. De igual forma será optativo para el particular solicitar los planos básicos mínimos necesarios ante los diversos colegios de profesionistas existentes en el Municipio, quienes deberán expedirlos sin costo alguno.
-
-En los casos previstos por las fracciones de este artículo, las responsabilidades recaerán directamente sobre el propietario o poseedor, por lo que éstos deberán tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 293 - A.
 
-Tratándose de los usos habitacionales que no se encuentren comprendidos en la fracción I del artículo anterior, se requerirá licencia de construcción sea cual fuere su modalidad, y deberá presentarse la responsiva del DRO, y los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos; sin necesidad de proyectista.
+La responsiva que otorgue el DRO, abarcará la validación de la parte estructural y de proyecto que implique la construcción en cualquiera de las modalidades que señala el artículo 292 de este Código.
 
-En el entendido de que la responsiva que otorgue el DRO, abarcará la validación de la parte estructural y de proyecto que implique la construcción en cualquiera de las modalidades que señala el artículo 292 de este Código.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 294.
 
-No requieren de Licencia de Construcción las restauraciones, la conservación y/o remodelaciones de las Construcciones, siempre y cuando el inmueble a intervenir no se encuentre dentro de la zona de Patrimonio Histórico, ni se encuentre dentro del catálogo del INAH.
+No requieren de Licencia de Construcción la conservación y/o remodelaciones de las Construcciones, siempre y cuando el inmueble a intervenir no se encuentre dentro de la zona de Patrimonio Histórico, ni se encuentre dentro del catálogo del INAH.
+
+Tratándose de restauraciones sobre inmuebles catalogados, deberá obtenerse el visto bueno del INAH.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 295.
 
-Para los efectos del artículo que antecede, se consideran acciones de restauración, conservación y remodelación, las señaladas en las fracciones de este artículo siempre y cuando, no se modifique ni afecte la estructura del inmueble, no exista aumento de la superficie cubierta construida y no se cambie total o parcialmente el uso o destino del inmueble:
+Para los efectos del artículo que antecede, se consideran acciones de conservación y remodelación, las señaladas en las fracciones de este artículo siempre y cuando, no se modifique ni afecte la estructura del inmueble, no exista aumento de la superficie cubierta construida y no se cambie total o parcialmente el uso o destino del inmueble:
 
 I. Resanes y aplanados de interiores;
 
@@ -3489,9 +3829,9 @@ VI. Cubrir el costo de la Licencia de acuerdo a la Ley de Ingresos vigente, exce
 
 VII. Cumplir con la normativa en materia de usos del suelo.
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-VIII. Presentar los planos básicos mínimos que en su caso se establezcan en el presente Código, en el Manual Técnico de las Construcciones y los anexos de éste último, excepto los casos previstos por el artículo 293 del presente Código.
+VIII.- Presentar los planos básicos mínimos que en su caso se establezcan en el presente Código, en el Manual Técnico de las Construcciones y los anexos de éste último.
 
 ###### Artículo 297.
 
@@ -3529,8 +3869,6 @@ Los propietarios o poseedores estarán obligados a efectuar las reparaciones cor
 
 Tratándose de Obra Nueva para Uso Habitacional Unifamiliar, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción, se requerirán tres copias de los planos básicos mínimos de acuerdo al Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, así como por el DRO.
 
-Quedarán exceptuado de lo anterior, los supuestos previstos por el artículo 293 y 293 - A del presente Código.
-
 ###### Artículo 300.
 
 En el caso de Obra Nueva para Uso no Habitacional, Individual o de una Sola Unidad, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción, se requerirá lo siguiente:
@@ -3539,7 +3877,9 @@ I. Original y copia de la Información de Uso de Suelo;
 
 II. Original y copia de las resoluciones positivas, oficio y/o plano, de acuerdo a la normativa aplicable; y,
 
-III. Tres copias del proyecto, con los planos requeridos de acuerdo al uso autorizado según la tabla de requerimientos de Proyectistas, DRO, y Servicio Social, del Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el Proyectista registrado ante la Dirección en su caso.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III.- Tres copias del proyecto, con los planos requeridos de acuerdo al uso autorizado según la Tabla de Requerimientos de Corresponsables, DRO, y Servicio Social, del Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, así como por los corresponsables en su caso.
 
 ###### Artículo 301.
 
@@ -3549,11 +3889,13 @@ I. Original y copia de la Información de Uso de Suelo;
 
 II. Original y copia de las resoluciones positivas, oficio y/o plano, solicitadas en la Información de Uso de Suelo; y,
 
-III. Tres copias del proyecto, con los planos requeridos de acuerdo a este tipo de licencias según la tabla de requerimientos de Proyectistas, DRO y Servicio Social, Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el Proyectista registrado ante la Dirección, en su caso.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III.- Tres copias del proyecto, con los planos requeridos de acuerdo a este tipo de licencias según la tabla de requerimientos de Corresponsables, DRO y Servicio Social, Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el corresponsable registrado ante la Dirección, en su caso.
 
 #### SECCIÓN QUINTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA REESTRUCTURACIONES
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 302.
 
@@ -3565,17 +3907,19 @@ I. Copia de permisos y planos anteriores o copia del avalúo catastral o levanta
 
 II. Tres copias del proyecto de ampliación, diferenciando las áreas existentes de la ampliación, firmados por el propietario y/o poseedor, y por el DRO en su caso.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 302 - A.
 
-Tratándose de ampliaciones en zonas habitacionales de tipo horizontal, independientemente del régimen de propiedad, se seguirán las siguientes normas:
+La responsiva del DRO, de los corresponsables, y de los planos básicos mínimos que establece el anexo 1 del manual técnico de las construcciones de este Código, deberán ser proporcionados por parte de los colegios de profesionistas, de manera gratuita y sin distinción alguna a los interesados, cuando se trate de ampliaciones por techumbre en zonas habitacionales, que cumplan con los requisitos siguientes:
 
-l. Para los inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se encuentren dentro de usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, no se requerirán planos básicos mínimos, Proyectista, ni responsiva de un DRO;
+I.- Incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble;
 
-II. Para los usos habitacionales que no se encuentren comprendidos en la fracción anterior, se deberán presentar los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos, con la responsiva de un DRO; ello sin necesidad del aval de un proyectista; y,
+II.- Que no impliquen edificación alguna por encima de ellas; y,
 
-III. Para las ampliaciones relativas a la techumbre en zonas habitacionales, independientemente del grupo de uso de suelo donde se ubiquen, no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO, si éstas incrementan como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y no impliquen edificación alguna por encima de ellas.
+III.- Que no se tengan claros mayores a 4 metros entre apoyos principales.
+
+Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO y los corresponsables, así como la elaboración de los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos.
 
 ###### Artículo 303.
 
@@ -3613,11 +3957,11 @@ Para la autorización de las reconstrucciones, se requerirá cubrir los requisit
 
 #### SECCIÓN SEPTIMA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AUTOCONSTRUCCIÓN
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 306.
 
 La Reestructuración implica modificar o afectar la estructura de una construcción existente, exclusivamente; y para su otorgamiento, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción se requerirán tres copias del proyecto, indicando los elementos que se reestructuran. El proyecto en este caso deberá estar firmado por el propietario y/o poseedor, y por un profesionista o especialista en proyectos estructurales y la obra deberá contar con un DRO.
-
-Quedarán exceptuado de lo anterior, los supuestos previstos por el artículo 293 y 293 - A del presente Código.
 
 ###### Artículo 307.
 
@@ -3645,11 +3989,15 @@ Para las restauraciones de bienes inmuebles referidos en el artículo anterior, 
 
 Se podrá autorizar la Autoconstrucción siempre y cuando se actualicen la totalidad de los supuestos siguientes:
 
-I. Que el Uso de Suelo sea para vivienda unifamiliar, con una superficie no mayor a 60 metros cuadrados;
+I. Que el Uso de Suelo sea para vivienda unifamiliar, con una superficie de terreno no mayor a 60 metros cuadrados y que el área de construcción no exceda de 90 metros cuadrados;
 
-II. Que el inmueble se localice en zonas habitacionales H5, H6, H7, H8 y HR; y,
+II. Que el inmueble se localice en zonas habitacionales H5, H6, H7, H8 y HR;
 
-III. Que los fraccionamientos estén autorizados o regularizados y cuenten con Servicios Municipales de Agua Potable, drenaje y electricidad a excepción de los de urbanización progresiva, los cuales deberán contar con las obras mínimas de urbanización que estatuye la Ley de Fraccionamientos.
+III. Que los fraccionamientos estén autorizados o regularizados y cuenten con Servicios Municipales de Agua Potable, drenaje y electricidad a excepción de los de urbanización progresiva, los cuales deberán contar con las obras mínimas de urbanización que estatuye la Ley de Fraccionamientos;
+
+IV. No se tengan claros mayores a 4 metros entre apoyos principales;
+
+Los 90 metros cuadrados de construcción enunciados en la fracción I de este artículo, se consideraran como totales por lo que no podrán ser rebasados, aun tratándose de ampliaciones pues en el caso de estas últimas, se considerara tanto la edificación existente como el proyecto de ampliación.
 
 ###### Artículo 311.
 
@@ -3657,13 +4005,17 @@ Para la obtención de la Licencia de Autoconstrucción, además de los requisito
 
 Para los efectos del párrafo anterior, será necesario que la Licencia de Alineamiento y asignación del número oficial, que en su momento se adjunte, ésta sea de acuerdo a la lista de Fraccionamientos que la Dirección emita.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 312.
 
-La Licencia Construcción en la modalidad de autoconstrucción, será gratuita y ninguna persona podrá resultar beneficiada con una Licencia en más de un predio.
+La Licencia de Construcción en la modalidad de autoconstrucción, será gratuita y no podrá otorgarse más de una licencia en dicha modalidad, en el mismo predio. Y los niveles de la construcción no podrán ser más de dos.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 313.
 
-La Dirección entregará al propietario o poseedor conjuntamente con la Licencia de Autoconstrucción un Manual de Autoconstrucción de manera gratuita.
+En las autoconstrucciones que cumplan con los requisitos señalados en el artículo 310 del presente ordenamiento, la responsiva del DRO, de los corresponsables, y de los planos básicos mínimos que establece el anexo 1 del manual técnico de las construcciones de este Código, deberán ser proporcionados por parte de los colegios de profesionistas, de manera gratuita y sin distinción alguna a los interesados.
 
 #### SECCIÓN DECIMA. DE SU EXPEDICIÓN, VIGENCIA Y REFRENDO
 
@@ -3685,11 +4037,11 @@ V. Autorización correspondiente de la Autoridad Estatal o Federal en el caso de
 
 Para efectuar obras de demolición de edificaciones peligrosas o ruinosas, adjunto a la solicitud respectiva se deberá acompañar una memoria en que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el profesionista o especialista en proyecto estructural.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 315 - A.
 
-Tratándose de inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se ubiquen en usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, las obligaciones a que se refiere la fracción IV del artículo 314 y 315 del presente ordenamiento, serán asumidas directamente por el propietario y/o poseedor. Para los demás grupos de uso habitacionales, sólo se deberá presentar la responsiva del DRO, la cual abarcará la validación del proyecto de demolición, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
+Para los grupos de uso habitacionales, sólo se deberá presentar la responsiva del DRO, la cual abarcará la validación del proyecto de demolición, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
 
 #### SECCIÓN DÉCIMA PRIMERA. DISPOSICIONES COMPLEMENTARIAS
 
@@ -3717,7 +4069,7 @@ I. Tres copias de los planos necesarios que indiquen los trabajos que se realiza
 
 II. Memoria en que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el especialista respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2011)</small>
 
 ###### Artículo 318.
 
@@ -3763,6 +4115,10 @@ II. Copia de Identificación oficial del Propietario o poseedor; y,
 
 III. Cubrir el costo de la licencia de acuerdo a la Ley de Ingresos vigente.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Solicitud y planos firmados por DRO en casos de edificación; y,
+
 ###### Artículo 323.
 
 La Licencia para realización de Trabajos Preliminares y de Cimentación establecerá:
@@ -3771,29 +4127,37 @@ I. Las condicionantes necesarias para su ejecución; y,
 
 II. El plazo en que el interesado habrá de integrar el expediente para la autorización de la Licencia de Construcción en su modalidad de Obra Nueva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 324.
 
-La vigencia de la Licencia para realización de Trabajos Preliminares y de Cimentación, será de 45 días.
+La Licencia para realización de Trabajos Preliminares y de Cimentación, estará vigente por el mismo plazo que se otorgó al particular para integrar el expediente para la obtención de la licencia de construcción; pudiendo prorrogarse a criterio de la Dirección.
 
 Esta autorización en ningún caso se considerará una Licencia de Construcción, por lo que el solicitante deberá continuar con los trámites para su obtención.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 325.
 
-En caso de que el solicitante no obtenga la Licencia de Construcción durante los 45 días de vigencia de la Licencia para realización de Trabajos Preliminares y de Cimentación, podrá otorgarse, por una sola ocasión, prórroga de 45 días más, únicamente tratándose de construcciones que excedan los 500 metros cuadrados de construcción.
+En caso de que el solicitante no obtenga la Licencia de Construcción en el tiempo determinado por la Dirección, podrá otorgarse prórroga por una sola ocasión de la licencia para la realización de trabajos preliminares, tratándose de construcciones que excedan los 500 metros cuadrados de construcción.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL PROYECTISTA
+#### SECCIÓN SEGUNDA. DE LOS ESPECIALISTAS ESTRUCTURALES
 
-#### SECCIÓN TERCERA. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL DIRECTOR RESPONSABLE DE OBRA
+#### SECCIÓN TERCERA. DE LAS SOLICITUDES DE LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 ###### Artículo 326.
 
-Sin perjuicio de la licencia de construcción expedida, la Dirección analizará en un plazo máximo de 10 días hábiles, de manera interna el expediente recibido, verificando que se hayan cumplido en los planos las normas técnicas correspondientes y aplicables de acuerdo al proyecto y que la información sea verdadera. En caso de que los planos infrinjan los requisitos solicitados en las normas técnicas aplicables y las resoluciones emitidas por otras dependencias; la información carezca de veracidad; se haya actuado con negligencia, dolo o ignorancia, se avisará al propietario, poseedor y/o proyectista para que reparen los daños. Lo anterior independientemente de las sanciones aplicables a quien resulte responsable y las sanciones respectivas que resulten en consecuencia.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 327.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos que establece el presente Código para cada una de las modalidades de la Licencia de Construcción, será un plazo máximo de hasta 5 días. Dentro de dicho término, la Dirección deberá expedir la licencia correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
+
+Lo anterior en el entendido que la validación de la parte estructural y de todo el proyecto que implica la construcción en cualquiera de sus modalidades, la otorga el DRO a través de su responsiva, y esta se verifica y convalida por parte de la autoridad con el resultado de la revisión y análisis que la Dirección efectúa al amparo del artículo 332 - A de este ordenamiento.
 
 Tratándose de inmuebles comprendidos dentro de los grupos de usos a que se refiere el Anexo número 2 del presente Código identificado como Tabla de Giros del Sistema de Apertura Rápida de Empresas con actividades de intensidad mínima, baja y media, la Dirección expedirá la licencia correspondiente el mismo día en que fue solicitada, siempre y cuando se hubiesen presentado todos los requisitos, o en su caso, deberá notificar al particular dentro de ese mismo término, la negativa de la misma, fundando y motivando su resolución.
 
@@ -3807,7 +4171,9 @@ La licencia, memorias, planos y especificaciones aprobados, se entregarán al in
 
 Si en un plazo de 30 días a partir de su aprobación, la licencia no se expide por falta de pago de dichos derechos, será cancelada la solicitud correspondiente, se dará de baja el expediente, se le colocará el sello de cancelado a la solicitud de la licencia y el expediente será enviado al archivo general.
 
-Lo anterior sin perjuicio de las sanciones a que se haga acreedor el propietario, poseedor y/o proyectista por infracciones a la normativa aplicable aún cuando la solicitud haya sido cancelada.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Lo anterior sin perjuicio de las sanciones a que se haga acreedor el propietario, poseedor y/o DRO por infracciones a la normativa aplicable aún cuando la solicitud haya sido cancelada.
 
 En este supuesto, el propietario o poseedor deberá tramitar nuevamente la licencia.
 
@@ -3825,7 +4191,17 @@ Si concluido el plazo de vigencia de la Licencia de Construcción, la obra autor
 
 El refrendo deberá solicitarse dentro de los 15 días hábiles previos a la fecha de vencimiento de la Licencia; concluido dicho término, será necesario obtener nueva licencia para continuar la construcción.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 332 - A.
+
+Sin perjuicio de la licencia de construcción expedida, la Dirección analizará en un plazo máximo de 15 días hábiles, de manera interna el expediente recibido, verificando que se hayan cumplido en los planos las normas técnicas correspondientes y aplicables de acuerdo al proyecto y que la información sea verdadera.
+
+En caso de que los planos infrinjan los requisitos solicitados en las normas técnicas aplicables y las resoluciones emitidas por otras dependencias; la información carezca de veracidad; se haya actuado con negligencia, dolo o ignorancia, se comunicarán las inconsistencias encontradas por una sola ocasión al propietario, poseedor y/o DRO para su solventación y en su caso reparación de los daños.
+
+Lo anterior independientemente de las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse.
+
+#### SECCIÓN CUARTA. DE LAS LICENCIAS
 
 ###### Artículo 333.
 
@@ -3865,7 +4241,7 @@ Cuando se trate de obras o instalaciones en zonas de protección de monumentos o
 
 Las licencias, autorizaciones o permisos de otras dependencias de acuerdo a lo que señale la información de Uso de Suelo, deberán presentarse para la autorización de la Licencia de Construcción a que se refiere este ordenamiento y al momento de solicitar la Certificación de Terminación de Obra.
 
-### CAPÍTULO IV. DE LA CERTIFICACIÓN DE TERMINACIÓN DE OBRA
+### CAPÍTULO III. AUTORIZACIÓN DE OCUPACIÓN DE OBRAS NO TERMINADAS O EN PROCESO DE CONSTRUCCIÓN EN USOS HABITACIONALES
 
 ###### Artículo 342.
 
@@ -3887,7 +4263,7 @@ II. Copia de Identificación oficial del Propietario o poseedor.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos para esta autorización, será de un plazo máximo de 5 días hábiles; dentro de dicho término, la Dirección deberá expedir la autorización correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
-### CAPÍTULO V. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL PROYECTISTA Y DEL DIRECTOR RESPONSABLE DE OBRA
+### CAPÍTULO IV. DE LA CERTIFICACIÓN DE TERMINACIÓN DE OBRA
 
 ###### Artículo 345.
 
@@ -3903,9 +4279,9 @@ Los requisitos para solicitar la certificación de terminación de obra son los 
 
 I. Para uso habitacional:
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-a) Formatos de terminación de obra debidamente llenados y firmados por el propietario y/o poseedor, y el DRO en su caso; tratándose de inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se ubiquen en usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, el formato deberá suscribirse única y exclusivamente por el propietario y/o poseedor; y,
+a) Formatos de terminación de obra debidamente llenados y firmados por el propietario y/o poseedor, y el DRO;
 
 b) Pago de derechos de acuerdo a la Ley de Ingresos.
 
@@ -3923,9 +4299,11 @@ En ambas Fracciones, el inmueble deberá tener el número oficial de un tamaño 
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 3 días hábiles; dentro de dicho término, la Dirección deberá expedir la Certificación de Terminación de Obra correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 348.
 
-En el caso de conjuntos habitacionales y unidades en condominio cuando exista un avance que permita el uso de una parte de la obra realizada, el particular podrá solicitar una certificación parcial de terminación de obra siempre que las obras de urbanización correspondientes estén concluidas y cumpla con los requisitos de habitabilidad señaladas en el Manual Técnico de las Construcciones.
+En el caso de conjuntos habitacionales y unidades en condominio cuando exista un avance que permita el uso de una parte de la obra realizada, el particular podrá solicitar una certificación parcial de terminación de obra siempre que las obras de urbanización correspondientes estén concluidas y cumpla con los requisitos de habitabilidad señaladas en el Manual Técnico de las Construcciones; para el caso de usos no habitacionales, se deberá cumplir en la parte de la obra concluida con lo indicado en las autorizaciones de los dictámenes correspondientes.
 
 ###### Artículo 349.
 
@@ -3933,17 +4311,23 @@ La Dirección emitirá la certificación de terminación de obra al solicitante 
 
 De igual forma, se turnará un tanto a la Dirección General de Impuestos Inmobiliarios y Catastro, para efectos de la actualización del inmueble.
 
-### CAPÍTULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL PROYECTISTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+### CAPÍTULO V. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL DIRECTOR RESPONSABLE DE OBRA
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 350.
 
-Toda persona que pretenda figurar como Proyectista o DRO de un proyecto de construcción o parte de él, deberá registrarse ante la Dirección.
+Toda persona que pretenda figurar como DRO de un proyecto de construcción o parte de él, deberá registrarse ante la Dirección.
+
+El rango de DRO, se adquiere con el registro del profesionista ante la Dirección, habiendo cumplido previamente con los requisitos establecidos para su ingreso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 351.
 
-Podrán solicitar el registro de DRO aquellas personas que cuenten con las profesiones y ramas afines, que de acuerdo con la Ley de Profesiones para el Estado de Guanajuato, se mencionan a continuación:
+Podrán solicitar el registro de DRO aquellas personas que cuenten con las profesiones, que de acuerdo con la Ley de Profesiones para el Estado de Guanajuato, se mencionan a continuación:
 
 I. Arquitecto;
 
@@ -3951,221 +4335,113 @@ II. Ingeniero civil; y,
 
 III. Ingeniero Arquitecto.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 352.
 
-Podrán solicitar el registro de Proyectista, además de los profesionistas enunciados en el artículo anterior, aquellas personas que cuenten con las profesiones y ramas afines, que de acuerdo con la Ley de Profesiones para el Estado de Guanajuato, se mencionan a continuación:
+Para el Registro del DRO, así como para definir su participación en los proyectos, los aspirantes deberán reunir los requisitos siguientes:
 
-I. Ingeniería eléctrica;
+I. Solicitud debidamente completada;
 
-II. Ingeniería electrónica;
+II. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio del (sic) nacional;
 
-III. Ingeniería electrónica y comunicaciones;
+III. Cedula Profesional que lo acredite como arquitecto, ingeniero civil o ingeniero arquitecto en copia y original para cotejo;
 
-IV. Ingeniería electrónica y sistemas digitales;
+IV. Acreditar su pertenencia como miembro vigente del colegio de su profesión;
 
-V. Ingeniería en sistemas electrónicos;
+V. Acreditar experiencia en ejecución de obras de edificación de las que trata el presente ordenamiento;
 
-VI. Ingeniería hidráulica;
+VI. Presentar por escrito y debidamente firmado, su currículum vitae;
 
-VII. Ingeniería mecánica;
+VII. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento;
 
-VIII. Ingeniería topográfica y geomática;
+VIII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes; y,
 
-IX. Ingeniería industrial y de sistemas; y,
+IX. Dos fotografías tamaño infantil.
 
-X. Ingeniería mecánico electricista.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 353.
 
-Los DRO y Proyectistas, podrán contratar para la ejecución de fracciones del proyecto o de la obra, a los especialistas o profesionales en las ramas que de manera enunciativa más no limitativa, se señalan a continuación:
+Los requisitos señalados para el registro del DRO en una rama profesional, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se encuentren registrados ante la Dirección.
 
-I. Diseño urbano;
-
-II. Restauración del patrimonio histórico;
-
-III. Diseño de estructuras;
-
-IV. Mecánica de suelos y geotecnia;
-
-V. Instalaciones eléctricas;
-
-VI. Instalaciones hidráulicas y/o sanitarias;
-
-VII. Instalaciones de Gas L.P.;
-
-VIII. Instalaciones telefónicas,
-
-IX. Comunicación de imagen, voz, datos y telecomunicaciones;
-
-X. Instalaciones electromecánicas;
-
-XI. Instalaciones contra incendios;
-
-XII. Seguridad e higiene;
-
-XIII. Instalaciones de climatización, aire acondicionado y refrigeración;
-
-XIV. Topografía;
-
-XV. Movilidad;
-
-XVI. Protección al ambiente; y,
-
-XVII. Sustentabilidad.
-
-Los especialistas o profesionistas que hayan sido contratados por los DRO y proyectistas, tendrán responsabilidad directa únicamente con los contratantes, de tal manera que ante la Dirección, los únicos responsables de la obra o proyecto, serán los mismos DRO y proyectistas.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
-
-Para el caso de las autoconstrucciones, así como para los grupos de uso del suelo H-5, H-6, H-7, H-8, excepto zona de centro histórico, la responsabilidad recaerá directamente en el propietario o poseedor.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 354.
 
-El rango de Proyectista o DRO, se adquiere con el registro del profesionista ante la Dirección, habiendo cumplido previamente con los requisitos establecidos para su ingreso.
+La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 355.
 
-El registro de Proyectistas y del DRO, tendrá una vigencia de tres años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
+El consejo como órgano colegiado de carácter permanente, de asesoría y consulta técnica, a través del grupo de trabajo que en los términos de su reglamento conforme, participará en los siguientes procesos:
+
+I. En el registro del DRO; y,
+
+II. Validación del formato y condiciones generales que deberá contener el contrato de prestación de servicios que deba celebrarse entre el DRO, los propietarios y/o poseedores, así como con los corresponsables; ello sin perjuicio de las clausulas y demás condiciones que en lo particular, se lleguen a pactar por las partes que suscriban dicho instrumento jurídico.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 356.
 
-La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+Para los efectos de la fracción I del artículo anterior, la Dirección comunicara al Consejo dentro del término de 2 días hábiles siguientes, las solicitudes presentadas para el registro de los DRO, a efecto de que a través del grupo de trabajo que el mencionado consejo conforme, proceda al análisis respectivo y rinda su opinión técnica en un término no mayor a 8 días hábiles.
+
+En caso de que el grupo de trabajo conformado por el consejo, no emitiese su recomendación en el plazo establecido en el párrafo que antecede o lo hiciera habiendo transcurrido el mismo, se entenderá que su recomendación es en sentido factible o positivo, por lo que la Dirección resolverá sobre la procedencia del registro de los peritos urbanos, dentro de un término no mayor a 20 días hábiles.
+
+Si el grupo de trabajo conformado por el consejo, hubiese emitido su opinión técnica en los plazos establecidos, la Dirección valorara dicha opinión y resolverá sobre la procedencia del registro en el plazo establecido.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 357.
 
-La Dirección resolverá sobre la solicitud del registro o refrendo, en un término no mayor a treinta días hábiles, contados a partir de la fecha de recepción de la misma; en caso de que la contestación se emita en sentido negativo, se deberá comunicar al solicitante por escrito, los motivos y fundamentos por los cuales no se le otorgará el registro o refrendo.
+Un mismo DRO podrá obtener simultáneamente su registro como Proyectista Arquitectónico, Proyectista Estructural y/o Perito Topógrafo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 358.
 
-Un mismo profesionista podrá obtener simultáneamente el registro de Proyectista y DRO.
+El registro del DRO, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 359.
 
-Un Proyectista podrá ser el constructor, propietario y/o poseedor a la vez, siempre y cuando reúnan los requisitos de registro que prevé el presente Código y lo manifiesten por escrito ante la Dirección.
-
-### CAPÍTULO VII. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL DIRECTOR RESPONSABLE DE OBRA (DRO)
-
-###### Artículo 360.
-
-Los requisitos señalados para el registro del profesionista en una rama profesional, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se encuentren registrados ante la Dirección.
-
-###### Artículo 361.
-
-Una rama profesional o especialidad no sustituye a la profesión, por lo que sus actividades, deberán ejercerse bajo la coordinación de las profesiones enlistadas en el artículo 353.
-
-###### Artículo 362.
-
-Un propietario o poseedor, podrá asumir las responsabilidades del DRO, siempre y cuando reúna los requisitos de registro y lo manifieste por escrito ante la Dirección.
-
-###### Artículo 363.
-
-En los casos previstos en el presente Código, así como en el Manual técnico de las construcciones, donde no se requiera el DRO las responsabilidades recaerán directamente sobre el propietario o poseedor.
-
-###### Artículo 364.
-
-En todos los casos para registro de Proyectista o DRO, los solicitantes deberán presentar original para cotejo y copia de los documentos legales previstos por el presente Código, dos fotografías tamaño infantil y llenar el formato de solicitud.
-
-###### Artículo 365.
-
-Para obtener el rango de Proyectista y obtener el registro de la Dirección, se requiere cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en territorio nacional;
-
-II. Tener Título Profesional obtenido mediante la formación en instituciones educativas pertenecientes al Sistema Educativo Nacional, además de la Cédula Profesional o en su defecto la autorización provisional para el ejercicio profesional, en original para cotejo y dos copias;
-
-III. Presentar por escrito y debidamente firmado, su currículum vitae;
-
-IV. Estar domiciliado en la ciudad de León, Guanajuato por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento del Municipio; y,
-
-V. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, manuales técnicos y normas correspondientes a la especialidad para la cual solicita su registro, mediante los procedimientos que la Dirección le establezca.
-
-###### Artículo 366.
-
-Para el refrendo trianual como Proyectista éste deberá presentar, a la Dirección, los siguientes requisitos:
-
-I. Actualizar sus datos; y,
-
-II. Presentar un enlistado de los proyectos en los cuales, la Dirección haya autorizado la Licencia de Construcción.
-
-### CAPÍTULO VIII. DEL PROPIETARIO O POSEEDOR
-
-###### Artículo 367.
-
-Para el Registro del DRO, así como para definir su participación en los proyectos, los aspirantes deberán presentar los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio del nacional;
-
-II. Tener Título Profesional que sea acorde a la rama profesional de la construcción, ya sea arquitecto, ingeniero civil o cualquier profesión afín, entre otros de acuerdo a lo establecido en la Ley de profesiones para el Estado de Guanajuato y obtenido mediante la formación en instituciones educativas pertenecientes al Sistema Educativo Nacional, además de la Cédula Profesional correspondiente, en original para cotejo y dos copias;
-
-III. Acreditar su pertenencia como miembro de un colegio de profesionistas cuando éste exista en la localidad;
-
-IV. Acreditar experiencia en ejecución de obras de edificación de las que trata el presente ordenamiento;
-
-V. Presentar por escrito y debidamente firmado, su currículum vitae;
-
-VI. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento; y,
-
-VII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes.
-
-###### Artículo 368.
-
-Para el refrendo trianual de DRO, éste deberá presentar a la Dirección, los siguientes requisitos:
+Para el refrendo bianual de DRO, éste deberá presentar a la Dirección, los siguientes requisitos:
 
 I. Datos actualizados; y,
 
-II. Presentar un listado de las Obras de Construcción para las que emitió su responsiva y de las cuales la Dirección haya autorizado la Licencia de Construcción.
+II. Presentar un listado de las Obras de Construcción para las que emitió su responsiva y de las cuales la Dirección haya autorizado la Licencia de Construcción; precisando aquellas donde otorgó su responsiva e intervención de manera gratuita como parte de su servicio profesional.
 
-###### Artículo 369.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-Las construcciones en las que el Proyectista interviene de acuerdo a su disciplina se ubican en el Manual Técnico de las Construcciones.
+### CAPÍTULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL DIRECTOR RESPONSABLE DE OBRA (DRO)
 
-En el caso de usos habitacionales, no se requerirá su intervención en las autoconstrucciones, así como en las construcciones que en su diversas modalidades, pretendan efectuarse en cualquiera de los grupos de uso del suelo H-5, H-6, H-7, H-B, excepto zona de centro histórico; tratándose de los demás usos habitacionales, la responsabilidad sobre la obra o el proyecto, será únicamente del DRO.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### Artículo 370.
+###### Artículo 360.
 
-Las obras de construcción a que se refiere este ordenamiento, podrán de acuerdo a sus características, contar con la cantidad de Proyectistas que éstas requieran en su caso, y sólo podrán realizar proyectos afines a su profesión o especialidad.
+El DRO es el enlace técnico con la Dirección y debe verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte de la Licencia de Construcción, y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista en base a manuales, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
 
-###### Artículo 371.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Los Proyectista tienen las siguientes obligaciones:
-
-I. Cumplir con lo dispuesto por el presente Código y demás normativa aplicable al proyecto que realiza;
-
-II. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
-
-III. Aplicar las Normas Técnicas que el Proyectista considere necesarias y convenientes para el proyecto que diseñe, mismas que deberá citar en la memoria descriptiva y normativa que acompañará al proyecto;
-
-IV. Diseñar o proyectar en función de los usuarios y el uso de suelo autorizado;
-
-V. Diseñar o proyectar tomando en cuenta los posibles impactos que ocasione la construcción de su proyecto al interior y al exterior de la edificación una vez concluida ésta, para que sean mínimos y mitigables;
-
-VI. Promover en sus proyectos acciones de sustentabilidad y aprovechamiento de los recursos naturales, con propuestas para la eficacia y moderación del consumo de energía; teniendo como objetivo principal minimizar el impacto ambiental de las construcciones;
-
-VII. Entregar al propietario o poseedor los planos, memoria, estudios y resoluciones de dictámenes de otras dependencias, para que el propietario o poseedor obtenga la Licencia de Construcción; y,
-
-VIII. Suscribir los planos, proyectos, memoria, estudios y demás documentos que elabore.
-
-###### Artículo 372.
-
-Las funciones del Proyectista terminarán cuando se otorgue la licencia correspondiente.
-
-El término de las funciones como Proyectista, no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención profesional.
-
-###### Artículo 373.
-
-El DRO será enlace técnico con la Dirección y deberá verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte de la Licencia de Construcción y/o demolición, y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista en base a manuales, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
-
-###### Artículo 374.
+###### Artículo 361.
 
 Las construcciones en las que un DRO interviene están señaladas en el presente ordenamiento y en el Manual Técnico de las Construcciones.
 
-En el caso de usos habitacionales, no se requerirá su intervención en las autoconstrucciones, así como en las construcciones que en su diversas modalidades, pretendan efectuarse en cualquiera de los grupos de uso del suelo H-5, H-6, H-7, H-8, excepto zona de centro histórico.
+El DRO, no podrá otorgar más de 7 responsivas mensuales a efecto de garantizar el pleno cumplimiento de la normativa aplicable y la observancia de las especificaciones técnicas en la ejecución de los proyectos u obras con base en el presente Código y a los lineamientos dictaminados por la Dirección.
 
-Siendo materia de su responsiva en usos habitacionales, los que no se encuentren previstos por el párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### Artículo 375.
+###### Artículo 362.
+
+Para el caso de que los DRO, no cuenten con la experiencia, especialidad y conocimientos para la ejecución de un proyecto constructivo en su totalidad, deberá contratar los servicios de un corresponsable; en caso contrario, el DRO deberá acreditar ante la Dirección que pueda hacerlo por si mismo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 363.
 
 El DRO, tiene las siguientes obligaciones:
 
@@ -4213,19 +4489,27 @@ d) Fecha de las visitas, observaciones e instrucciones del D.R.O, Constructor, S
 
 e) Fecha de inicio y de terminación de cada etapa de la obra; y,
 
-f) Incidentes de la obra;
+f) Incidentes de la obra.
 
-Los datos anteriores se anotarán en original y las copias necesarias;
+Los datos anteriores se anotarán en original y las copias necesarias.
 
 XI. Planear y supervisar el cumplimiento de las medidas de seguridad en la obra, relativas al personal, terceras personas, sus colindancias y la vía pública;
 
 XII. Responder de cualquier violación a las disposiciones de este ordenamiento relativas a su actuación;
 
-XIII. Solicitar constancia de suspensión de obra para los casos en que la misma así lo requiera; y,
+XIII. Solicitar constancia de suspensión de obra para los casos en que la misma así lo requiera;
 
-XIV. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
+XIV. Presentar ante la Dirección, el Contrato de Prestación de Servicios profesionales que celebre con el propietario y/o poseedor, así como con los corresponsables, donde se detalle las obras a realizar en la edificación, los alcances en la ejecución de la obra, así como el número de visitas a efectuar;
 
-###### Artículo 376.
+XV. Asegurarse que los corresponsables que contraten al tenor de la fracción anterior, cuenten con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los mismos demandan;
+
+XVI. Otorgar como parte de su servicio profesional, su responsiva e intervención de manera gratuita en las autoconstrucciones y ampliaciones por techumbres que establecen los artículos 302-A primer párrafo y 310, ambos del presente Código; y,
+
+XVII. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 364.
 
 Las funciones del DRO, en aquellas obras para las que haya intervenido, terminarán cuando:
 
@@ -4239,45 +4523,183 @@ IV. La Dirección ordenará la suspensión de la obra cuando el DRO, no sea sust
 
 V. Cuando la Dirección autorice la ocupación o terminación de la obra.
 
-###### Artículo 377.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-El término de las funciones del DRO, no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+###### Artículo 365.
 
-###### Artículo 378.
+El término de las funciones del DRO, no le exime de la responsabilidad de carácter civil, penal o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 366.
 
 Para efectos del presente ordenamiento, la responsabilidad profesional y carácter administrativo de los DRO, concluirá en el plazo que determine el Código Civil para el Estado de Guanajuato, en su capítulo de contratos de obra a partir de la terminación de la obra. Dentro del mismo lapso, la Dirección podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
-### CAPÍTULO IX. ARQUITECTURA ECOLÓGICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
+### CAPÍTULO VII. DE LOS CORRESPONSABLES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 367.
+
+Las construcciones en las que el corresponsable interviene se ubican en el Manual Técnico de las Construcciones y participaran en forma total o parcial dentro de un proyecto, ello atendiendo a la especialidad o profesión con la que cuenten.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 368.
+
+Los corresponsables no deberán estar registrados ante la Dirección, hecha excepción de los siguientes:
+
+I. Proyectista Arquitectónico;
+
+II. Proyectista Estructural; y,
+
+III. Perito Topógrafo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 369.
+
+Para obtener el registro como Proyectista Arquitectónico y Proyectista Estructural, los interesados deberán reunir los requisitos siguientes:
+
+I. Solicitud debidamente completada;
+
+II. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio nacional;
+
+III. Cédula Profesional que lo acredite como arquitecto, ingeniero civil, ingeniero arquitecto, en copia y original para cotejo;
+
+IV. Acreditar su pertenencia como miembro vigente del colegio de su profesión;
+
+V. Acreditar experiencia en ejecución de obras de edificación de las que trata el presente ordenamiento;
+
+VI. Presentar por escrito y debidamente firmado, su currículum vitae;
+
+VII. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento;
+
+VIII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes; y,
+
+IX. Dos fotografías tamaño infantil.
+
+Tratándose del registro de los Peritos Topógrafos, se estará a lo dispuesto por el Capítulo XVI, del Título Tercero del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 370.
+
+Los requisitos en el artículo anterior, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se encuentren registrados ante la Dirección.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 371.
+
+La Dirección resolverá sobre la solicitud del registro, en un término no mayor a treinta días hábiles contados a partir de la fecha de recepción de la misma; previa substanciación del procedimiento que se establece en el presente código para el registro del DRO.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 372.
+
+El registró como Proyectista Arquitectónico y Proyectista Estructural, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 373.
+
+Para el refrendo bianual de Proyectista Arquitectónico y Proyectista Estructural, deberán presentar a la Dirección, los siguientes requisitos:
+
+I. Datos actualizados; y,
+
+II. Presentar un listado de las Obras de Construcción para las que emitió su responsiva y de las cuales la Dirección haya autorizado la Licencia de Construcción.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 374.
+
+La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 375.
+
+El Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, podrán ser contratados directamente por el propietario o poseedor a efecto de participar en la planeación, diseño y estudios necesarios para un proyecto u obra, siempre y cuando ello no implique la ejecución de los mismos, pues en tal caso deberá realizarse bajo la responsiva de un DRO, de conformidad con el Anexo 1 del Manual Técnico de las Construcciones del presente Código.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 376.
+
+Los corresponsables que hayan sido contratados por los DRO, tendrán responsabilidad directa únicamente con los contratantes: De tal manera que ante la Dirección, los únicos responsables de la obra o proyecto, serán los mismos DRO.
+
+Cuando de conformidad con el artículo anterior, el Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, participen en la planeación, diseño y estudios de un proyecto, los mismos serán los únicos responsables ante la Dirección.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 377.
+
+Cuando de conformidad con el presente Código, el Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, participen en un proyecto sin la intervención de un DRO, estos tendrán las obligaciones siguientes:
+
+I. Observar lo dispuesto por el presente Código y demás normativa aplicable al proyecto que realiza;
+
+II. Conducirse con veracidad en toda clase de informes que entregue al DRO y documentos que suscriba;
+
+III. Aplicar las Normas Técnicas que considere necesarias y convenientes para el proyecto que diseñe, mismas que deberá citar en la memoria descriptiva y normativa que acompañará al proyecto;
+
+IV. Diseñar o proyectar en función de los usuarios y el uso de suelo autorizado;
+
+V. Diseñar o proyectar tomando en cuenta los posibles impactos que ocasione la construcción de su proyecto al interior y al exterior de la edificación una vez concluida ésta, para que sean mínimos y mitigables;
+
+VI. Promover en sus proyectos acciones de sustentabilidad y aprovechamiento de los recursos naturales, con propuestas para la eficacia y moderación del consumo de energía; teniendo como objetivo principal minimizar el impacto ambiental de las construcciones;
+
+VII. Entregar los planos, memoria, estudios y resoluciones de dictámenes de otras dependencias, para que el propietario o poseedor obtenga la Licencia de Construcción;
+
+VIII. Contar con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los proyectos demandan;
+
+IX. Suscribir los planos, proyectos, memoria, estudios y demás documentos que elabore.
+
+X. Otorgar como parte de su servicio profesional, su responsiva e intervención de manera gratuita en las autoconstrucciones y ampliaciones por techumbres que establecen los artículos 302-A primer párrafo y 310, ambos del presente Código.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 378.
+
+Los corresponsables que sean contratados por los DRO, deberán contar con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los proyectos demandan y tendrán las obligaciones que se consignen en el contrato de prestación de servicios respectivo, así como las que se deriven del presente Código y demás normativa aplicable al proyecto en el que participen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 378 - A.
+
+Las funciones del Corresponsable terminarán cuando se otorgue la licencia correspondiente.
+
+El término de las funciones como Corresponsable, no le exime de la responsabilidad de carácter civil, penal o administrativo que pudiera derivarse de su intervención profesional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 378 - B.
+
+Las obras de construcción a que se refiere este ordenamiento, podrán contar con la cantidad de Corresponsables que éstas requieran de acuerdo a sus características, y sólo podrán realizar proyectos afines a su profesión o especialidad.
+
+### CAPÍTULO VIII. DEL PROPIETARIO O POSEEDOR
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 379.
 
-Para los casos donde el presente Código, el Manual técnico de las construcciones y demás normativa aplicable, no exija la responsiva de un DRO o de un Proyectista, el propietario o poseedor de la licencia de la construcción, tendrá las obligaciones siguientes:
+Un propietario o poseedor, podrá fungir como DRO y/o corresponsable, siempre y cuando reúna los requisitos de registro que establece el presente Código y lo manifieste por escrito ante la Dirección; en tal caso, tendrá las mismas obligaciones y responsabilidades que se establecen para dichas figuras.
 
-I. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
+En los casos previstos por este artículo, la planeación y/o ejecución de la obra será responsabilidad directa del propietario o poseedor, por lo que éstos deberán tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra.
 
-II. Observar las disposiciones de este ordenamiento y demás disposiciones aplicables;
-
-III. Tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra;
-
-IV. Las demás responsabilidades que señala el presente Código para el DRO;
-
-V. Suscribir la solicitud de licencia de construcción y/o demolición;
-
-VI. Firmar el informe de actividades de construcción que pretende realizar con relación a la licencia que solicita;
-
-VII. En caso de que se vean afectados pavimentos o elementos de la vía pública por la ejecución de una obra de construcción, la reposición de los mismos; y,
-
-VIII. Las demás que deriven del presente Código y de más normativa aplicable.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 380.
 
-Cuando de conformidad con el presente Código y el Manual Técnico de las construcciones, se requiera de la intervención del Proyectista y/o DRO, el propietario o poseedor, deberá contar con la responsiva de dichas figuras, de conformidad con los padrones de la Dirección.
+Cuando de conformidad con el presente Código y el Manual Técnico de las construcciones, se requiera de la intervención de los corresponsables y/o DRO, el propietario o poseedor, deberá contar con la responsiva de este último, de conformidad con los padrones de la Dirección.
 
 ###### Artículo 381.
 
 El propietario tendrá como obligación el realizar las obras necesarias para la urbanización a lo largo de los frentes de sus propiedades conforme al presente ordenamiento y acatando las especificaciones de la Dirección de Obra Pública.
 
-### CAPÍTULO X. INNOVACIÓN TECNOLÓGICA EN ARQUITECTURA Y CONSTRUCCIÓN
+### CAPÍTULO IX. ARQUITECTURA ECOLÓGICA
 
 ###### Artículo 382.
 
@@ -4293,17 +4715,21 @@ II. La arquitectura ecológica o bioclimática, buscará el aprovechamiento del 
 
 III. Los factores que definan esta arquitectura, deberán buscar el ahorro de energía y el uso de sistemas de alto rendimiento y bajo consumo eléctrico para la ventilación, iluminación artificial y aparatos eléctricos; y,
 
-IV. El proyectista de este tipo de construcciones, deberá proponer y fundamentar el uso de tecnologías que utilicen energías renovables y que optimicen el aprovechamiento del agua.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-### CAPÍTULO XI. DE LOS ANEXOS TÉCNICOS
+IV. El DRO y los corresponsables de este tipo de construcciones, deberán proponer y fundamentar el uso de tecnologías que utilicen energías renovables y que optimicen el aprovechamiento del agua.
+
+### CAPÍTULO X. INNOVACIÓN TECNOLÓGICA EN ARQUITECTURA Y CONSTRUCCIÓN
 
 ###### Artículo 383.
 
 La Dirección podrá autorizar innovación tecnológica en las construcciones. La innovación tecnológica podrá ser en los equipos, materiales y procesos o sistemas constructivos, o bien, para el funcionamiento del inmueble concluido tales como edificios inteligentes, hogares digitales y eficiencia energética entre otros supuestos.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 384.
 
-Las propuestas para la utilización tecnológica deberán revisarse por los proyectistas de las ramas profesionales registrados en la Dirección, de acuerdo a las características del proyecto, quienes deberán incluir en sus dictámenes las fuerzas y debilidades de dicha innovación. El criterio de la Dirección para este tipo de autorizaciones, estará en función de la sustentabilidad y el impacto ambiental.
+Las propuestas para la utilización tecnológica deberán revisarse por los DRO, y los corresponsables de las ramas profesionales, de acuerdo a las características del proyecto, quienes deberán incluir en sus dictámenes las fuerzas y debilidades de dicha innovación. El criterio de la Dirección para este tipo de autorizaciones, estará en función de la sustentabilidad y el impacto ambiental.
 
 ###### Artículo 385.
 
@@ -4313,7 +4739,7 @@ Las propuestas de innovación tecnológica de carácter experimental, podrán au
 
 En todos los casos la innovación tecnológica en la rama de la arquitectura y construcción podrá autorizarse si los impactos ambientales que se pudieran generar son mitigados y avalados por el profesionista o rama profesional en proyectos de protección al ambiente y sustentabilidad, instalaciones, o los que la Dirección determine, con el propósito de garantizar la seguridad de los trabajadores de la construcción, de los usuarios y de los habitantes.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO XI. DE LOS ANEXOS TÉCNICOS
 
 ###### Artículo 387.
 
@@ -4321,7 +4747,7 @@ Con el objeto de facilitar la aplicación del presente Código, y como materia c
 
 ## TÍTULO QUINTO. DE LOS ANUNCIOS
 
-### CAPÍTULO II. DE LA CLASIFICACIÓN DE LOS ANUNCIOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 388.
 
@@ -4331,7 +4757,9 @@ I. Salvaguardar la imagen urbana ordenada del Municipio, libre de elementos que 
 
 II. Prevenir daños a quienes transiten a pie o en vehículo por el Municipio;
 
-III. Proteger la imagen urbana en las zonas de Protección de Monumentos y obras de alto valor Arquitectónico, Histórico y Cultural;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Salvaguardar la imagen urbana en las Zonas de Protección de Monumentos y obras de alto valor Arquitectónico, Histórico y Cultural, conforme al Reglamento de la Imagen Urbana y el anexo 7 del Código;
 
 IV. Prevenir daños a vialidades, mobiliario urbano, instalaciones de servicio, inmuebles y diferentes áreas y espacios públicos;
 
@@ -4369,7 +4797,7 @@ Los volantes y folletos no requerirán de las licencias, permisos o autorizacion
 
 Las personas físicas o morales, públicas o privadas que pretendan fijar, instalar, colocar o difundir anuncios regulados por este Ordenamiento, deberán obtener, previamente la licencia, permiso o autorización respectiva, en los términos dispuestos por este Título, y demás disposiciones aplicables.
 
-### CAPÍTULO III. DE LA ESTRUCTURA DE LOS ANUNCIOS Y PLANOS DE ZONAS PARA LA INSTALACIÓN DE ANUNCIOS
+### CAPÍTULO II. DE LA CLASIFICACIÓN DE LOS ANUNCIOS
 
 ###### Artículo 393.
 
@@ -4403,6 +4831,10 @@ g) Anuncios en muro de colindancia: Los que se coloquen sobre los muros laterale
 
 h) Anuncios en objetos inflables: Aquellos cuya característica principal sea la de aparecer en objetos que contengan algún tipo de gas en su interior, ya sean que se encuentren fijados al piso o suspendidos en el aire.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+i) Anuncios tipo valla: Los que se encuentren sustentados por uno o más elementos estructurales que estén apoyados o anclados directamente al piso de un predio y cuya característica principal sea que sus soportes y su carátula no tenga contacto con edificación alguna; mismos que deberán encontrarse dentro de la propiedad.
+
 III.- Por los materiales empleados:
 
 a) Anuncios pintados: Los que se hagan mediante la aplicación de cualquier tipo de pintura sobre la superficie de edificaciones o cualquier objeto fijo idóneo para tal fin;
@@ -4410,6 +4842,10 @@ a) Anuncios pintados: Los que se hagan mediante la aplicación de cualquier tipo
 b) Anuncios de neón: Los instalados a partir de elementos de iluminación con la utilización de gas neón o argón; y,
 
 c) Anuncios con elementos naturales: Los cuales podrán ser de plantas de ornato, flores, combinados con materiales pétreos y cualquier otro recurso natural.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+d) Anuncios en pantallas tipo LED: Los que se difundan a través de pantallas elaboradas con focos tipo LED, en sus diversas modalidades Led Deporte; Móvil; para Alquiler; Teatro; y para Centros Comerciales;
 
 IV.- Por el lugar de su ubicación:
 
@@ -4433,7 +4869,7 @@ i) Muros interiores, laterales, o de colindancia; y,
 
 j) Jardines.
 
-### CAPÍTULO IV. DE LAS ESPECIFICACIONES TÉCNICAS DE LOS ANUNCIOS
+### CAPÍTULO III. DE LA ESTRUCTURA DE LOS ANUNCIOS Y PLANOS DE ZONAS PARA LA INSTALACIÓN DE ANUNCIOS
 
 ###### Artículo 394.
 
@@ -4449,7 +4885,7 @@ II. La tabla de clasificación de anuncios donde se indique claramente la relaci
 
 Los Planos de Zonas para la instalación de Anuncios deberán ser aprobados por el H. Ayuntamiento en congruencia con los instrumentos de planeación Municipal.
 
-### CAPÍTULO V. NORMAS GENERALES DEL MANTENIMIENTO Y MODIFICACIÓN DE ANUNCIOS
+### CAPÍTULO IV. DE LAS ESPECIFICACIONES TÉCNICAS DE LOS ANUNCIOS
 
 ###### Artículo 396.
 
@@ -4463,7 +4899,9 @@ III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de
 
 IV. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública o los predios colindantes; Solo se autorizarán los anuncios o sus estructuras cuando se encuentren completamente al interior del predio o construcción y respeten físicamente o en su plano virtual la vía pública o los predios colindantes;
 
-V. La distancia radial mínima entre un anuncio no denominativo respecto de otro igual deberá ser de 160 metros; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V.- La distancia radial mínima entre un anuncio no denominativo respecto de otro igual deberá ser de 160 metros; para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros, la cual se medirá de forma lineal en el sentido de la circulación; y,
 
 VI. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
 
@@ -4483,7 +4921,9 @@ V. No se permitirá anuncios que obstruyan la visibilidad a los vecinos del pred
 
 VI. Sólo se permitirá una estructura por inmueble, la cuál podrá contener dos carátulas a un mismo nivel formando un ángulo o paralelos; la altura máxima de la base o parte de sustentación del anuncio será de hasta 2.20 metros, contados desde la losa de la azotea hasta la parte inferior de la cartelera, sin que la altura del anuncio sea mayor de 25 metros, contados a partir del nivel de la banqueta a la parte superior de la carátula;
 
-VII. La distancia mínima entre un anuncio de éstos respecto de otro igual o de cualquier tipo deberá ser de 250 metros radiales, y;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. La distancia mínima entre un anuncio no denominativo respecto de otro igual deberá ser de 250 metros radiales, y;
 
 VIII. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
 
@@ -4525,7 +4965,27 @@ III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales;
 
 IV. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o funcionamiento de señalizaciones oficiales de cualquier tipo; y,
 
-V. No estarán permitidos en lugares donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. No estarán permitidos en lugares donde ocasionen contaminación con la que causen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 400 - A.
+
+Para la fijación, instalación, ubicación o modificación de los anuncios en pantallas tipo LED se deberá cumplir con lo siguiente:
+
+I. La pantalla podrá tener como dimensiones máximas 10.50 metros de longitud por 5.40 metros de altura;
+
+II. El sistema de iluminación deberá tener un reductor que disminuya su luminosidad de las 19:00 a las 06:00 horas, del día siguiente;
+
+III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, o en inmuebles considerados como monumentos arqueológicos, artísticos, históricos o de patrimonio cultural, ni dentro de una distancia menor de 100 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+
+IV. No estarán permitidos en lugares donde ocasionen contaminación con la que causen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
+
+V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones; y,
+
+VI. La distancia radial mínima entre un anuncio de estos respecto de otro igual o de un autosoportado o de azotea deberá ser de 160 metros; para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros, la cual se medirá de forma lineal en el sentido de la circulación.
 
 ###### Artículo 401.
 
@@ -4545,13 +5005,21 @@ Los espacios destinados para la publicidad en el mobiliario urbano serán determ
 
 El porcentaje de espacios publicitarios en el mobiliario urbano será determinado por la autoridad competente de acuerdo al tipo de mueble, diseño y dimensiones del mismo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 405.
 
-En el caso de puentes peatonales y/o vehiculares no se autorizarán ningún tipo de anuncios.
+En los puentes peatonales y/o vehiculares la Dirección podrá autorizar la instalación de anuncios con la anuencia de la Comisión de Desarrollo Urbano, siempre que el solicitante cuente previamente con la opinión técnica favorable de las Direcciones Generales de Obra Pública y de Tránsito Municipal.
+
+En los términos del párrafo anterior, la solicitud deberá presentarse ante la ventanilla única de la Dirección, y ésta deberá turnarla en un término de 3 días hábiles a las citadas direcciones generales para su revisión técnica, quienes deberán responder en un plazo no mayor a 3 días hábiles; una vez lo anterior, dicha solicitud deberá turnarse para anuencia de la Comisión quien determinará lo conducente en la sesión misma en que se someta a su consideración.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 406.
 
-Tratándose de anuncios que indiquen la localización de desarrollos habitacionales, comerciales o destinos específicos podrán incorporarse a la señalización vial oficial apegándose a las especificaciones que determine la Dirección.
+Tratándose de anuncios que indiquen la localización de desarrollos habitacionales, comerciales o destinos específicos podrán incorporarse a la señalización vial oficial apegándose a las especificaciones que determine la Dirección General de Tránsito Municipal.
+
+Para esos efectos el interesado deberá ingresar su solicitud a la Dirección General de Tránsito Municipal, quien deberá emitir su resolución respectiva dentro de un plazo no mayor de 15 días hábiles.
 
 ###### Artículo 407.
 
@@ -4567,11 +5035,19 @@ III. Obstaculicen o impidan la circulación y señalización vial y peatonal.
 
 Los anuncios en mobiliario urbano, sólo se podrán autorizar a las personas físicas o morales que cuenten con la contratación correspondiente, de conformidad con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO VI. DE LOS ANUNCIOS EN ZONAS PATRIMONIALES, ZONAS DE MONUMENTOS Y EN LOS INMUEBLES CON VALOR ARQUEOLÓGICO, ARTÍSTICO E HISTÓRICO
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 408 - A.
+
+Los anuncios que pretendan instalarse en postes de líneas telefónicas, postes de alumbrado y postes de la CFE, deberán guardar una distancia mínima entre un anuncio y otro del mismo tipo, de 250 metros lineales en el sentido de la circulación;
+
+### CAPÍTULO V. NORMAS GENERALES DEL MANTENIMIENTO Y MODIFICACIÓN DE ANUNCIOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 409.
 
-Para que los anuncios se mantengan en buen estado, los propietarios de éstos y los especialistas estructurales, tendrán la obligación de realizar inspecciones periódicas con el fin de revisar que sus elementos de sustentación, su estructura de soporte, los elementos de fijación o sujeción estén protegidos con esmalte para evitar su deterioro. Asimismo deberán pintar sus carátulas periódicamente, y sus fuentes de iluminación e instalación deberán estar en buenas condiciones de funcionamiento. De igual forma, deberán de repararlos o sustituir los elementos dañados por otros tantos de las mismas características, en caso de ser necesario.
+Para que los anuncios se mantengan en buen estado, los propietarios, tendrán la obligación de realizar el mantenimiento permanente con el fin de revisar y preservar sus elementos de sustentación, su estructura de soporte, y que los elementos de fijación o sujeción estén protegidos para evitar su deterioro. Asimismo deberán pintar sus carátulas periódicamente, y sus fuentes de iluminación e instalación deberán estar en buenas condiciones de funcionamiento. De acuerdo con el plan de mantenimiento preventivo acordado con los especialistas y la Dirección.
 
 ###### Artículo 410.
 
@@ -4583,61 +5059,43 @@ No se cubrirá ningún derecho por la autorización para reparación o modificac
 
 No se otorgarán nuevas licencias, permisos o autorizaciones respecto de anuncios que no estén en perfecto estado de mantenimiento aún y cuando se hayan otorgado con anterioridad.
 
-### CAPÍTULO VII. DE LOS ANUNCIOS DE CARÁCTER POLÍTICO
+### CAPÍTULO VI. DE LOS ANUNCIOS EN ZONAS PATRIMONIALES, ZONAS DE MONUMENTOS Y EN LOS INMUEBLES CON VALOR ARQUEOLÓGICO, ARTÍSTICO E HISTÓRICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 412.
 
-Los anuncios instalados en inmuebles considerados monumentos, con valor arqueológico, artístico e histórico además de lo establecido en el presente ordenamiento, deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana y en las demás disposiciones jurídicas aplicables.
+Los anuncios instalados en inmuebles considerados monumentos, con valor arqueológico, artístico e histórico además de lo establecido en el presente ordenamiento, deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana, así como el anexo 7 de este Código.
 
 ###### Artículo 413.
 
 En los inmuebles ubicados dentro de las zonas patrimoniales, y en zonas de monumentos arqueológicos, artísticos e históricos, sólo se permitirán anuncios adosados o pintados. Los interesados deberán estarse a lo dispuesto en el presente Título, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y su Reglamento, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 414.
 
-En los inmuebles referidos en el artículo anterior, los anuncios adosados serán ubicados dentro del vano de acceso del inmueble y se instalarán de conformidad con las especificaciones siguientes:
+En los inmuebles referidos en el artículo anterior, los anuncios adosados serán ubicados dentro del vano de acceso del inmueble y se instalarán de conformidad con las especificaciones establecidas en el anexo 7 del presente Código.
 
-I. En la parte superior del vano y tendrán una altura máxima de 45 centímetros;
-
-II. Cuando el cerramiento sea en forma de arco, llevarán la forma de éste y se instalaran a partir de la línea horizontal imaginaria de donde arranque el arco, la cual no podrá ser rebasada hacia abajo;
-
-III. Podrán tener iluminación indirecta o con reflectores integrados al anuncio. No se permitirá su iluminación con unidades que indiquen movimiento;
-
-IV. Tratándose de espectáculos o diversiones se podrá instalar en la fachada un anuncio sobre muros intermedios entre vanos de planta baja, siempre y cuando no exceda de 75 centímetros de altura y 50 centímetros de longitud, o con un área de hasta 3,750 centímetros cuadrados dependiendo de las características del edificio y de las disposiciones administrativas correspondientes para zona determinada; y,
-
-V. En caso de monumentos en donde por sus características arquitectónicas se tengan que ubicar fuera del vano, deberán instalarse en las superficies lisas de las fachadas, entre la pared superior del cerramiento de la puerta y el repisón de la ventana del primer piso, de tal manera que no afecten elementos arquitectónicos importantes, los cuales podrán tener sus carteleras con el largo de los vanos hasta una altura de 60 centímetros o bien podrán ser de caracteres aislados, conservando las proporciones de las fachadas, hasta 5 metros de longitud y 70 centímetros de altura.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 415.
 
 En los inmuebles a que se refiere el presente Capítulo, no se permitirá la instalación de anuncios de marcas o logotipos ajenos a la razón social del establecimiento comercial.
 
-En las zonas reguladas en esta Capítulo, sólo se permitirá la instalación de un anuncio en la cenefa del toldo que se ubique en el acceso principal, de acuerdo a la forma y dimensiones del cerramiento y del vano, siempre y cuando su diseño y lugar de ubicación sean aprobados por la Dirección.
+En las zonas reguladas en este Capítulo, sólo se permitirá la instalación de un anuncio en la cenefa del toldo que se ubique en el acceso principal, de acuerdo a la forma y dimensiones del cerramiento y del vano, siempre y cuando su diseño y lugar de ubicación sean aprobados por la Dirección y se instalarán de conformidad con las especificaciones establecidas en el anexo 7 del presente Código.
 
-Cuando los anuncios se instalen en toldos o cortinas, sólo será en el acceso principal, los que deberán estar fabricados en tela de lona o en algún material similar y en colores verde obscuro, azul marino, café o vino, en calidad mate.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 416.
 
-Para efectos de esta Capítulo, no podrán ser instalados anuncios en:
-
-I. La parte interior de los marcos de los vanos de acceso a los establecimientos que den a la calle;
-
-II. Los costados de los toldos;
-
-III. Los muros laterales de las edificaciones;
-
-IV. Los vanos de la fachada exterior de portales;
-
-V. Las azoteas;
-
-VI. Predios sin construir y en áreas libres de predios semiconstruidos; y,
-
-VII. Las cercas o bardas consideradas como monumentos históricos o artísticos.
+Para efectos de este Capítulo, no podrán ser instalados anuncios en las ubicaciones indicadas en el anexo 7, del Código Reglamentario.
 
 ###### Artículo 417.
 
 En los inmuebles considerados como monumentos arqueológicos, artísticos, históricos o de patrimonio cultural, queda prohibida la instalación de anuncios mixtos.
 
-### CAPÍTULO VIII. DE LOS ANUNCIOS PROHIBIDOS
+### CAPÍTULO VII. DE LOS ANUNCIOS DE CARÁCTER POLÍTICO
 
 ###### Artículo 418.
 
@@ -4647,7 +5105,9 @@ I. Dentro de los periodos de campaña electoral la Secretaría del Ayuntamiento 
 
 II. Corresponderá a los partidos políticos, coaliciones o candidatos registrados mantener en buen estado, la propaganda electoral, evitando afectar la imagen urbana;
 
-III. No podrá colocarse propaganda electoral en la Zona "A" descrita en el Reglamento de la Imagen Urbana;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. No podrá colocarse propaganda electoral en la Zona "A" señalada en el Reglamento de Imagen Urbana y el POTE;
 
 IV. Tratándose de mitin o cierre de campaña electorales en las plazas cívicas de los Mártires del 2 de enero y la de Los Fundadores, la propaganda sólo podrá colocarse colgada un día anterior al evento y retirarse al día siguiente del mismo;
 
@@ -4657,7 +5117,7 @@ VI. La propaganda que se ubique en los postes y registros de servicios públicos
 
 El retiro de la propaganda electoral se realizará en los términos que se establezcan en los acuerdos de coordinación que se celebren con las autoridades electorales.
 
-### CAPÍTULO IX. DE LAS LICENCIAS, PERMISOS Y AUTORIZACIONES PARA FIJAR, INSTALAR O MODIFICAR ANUNCIOS
+### CAPÍTULO VIII. DE LOS ANUNCIOS PROHIBIDOS
 
 ###### Artículo 419.
 
@@ -4669,7 +5129,7 @@ II. Que tengan caracteres, combinaciones de colores o tipología iguales a las d
 
 III. Que promuevan el consumo de tabaco y alcohol entre otros;
 
-IV. Que transmitan mensajes e imágenes en movimiento y animación por medio de focos, lámparas o diodos emisores de luz o similares;
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 V. Aquellos que por su ubicación, dimensiones o materiales empleados en su construcción o instalación, puedan poner en peligro la vida o la integridad física de las personas o la seguridad de sus bienes; produzcan cambios violentos en la intensidad de la luz y efectos hacia el interior de las habitaciones; limiten la ventilación e iluminación a las mismas; afecten o puedan alterar la adecuada prestación de los servicios públicos o la limpieza e higiene, de conformidad con las normas de desarrollo urbano o bien, que no cumplan cabalmente con lo establecido en este Capítulo;
 
@@ -4681,11 +5141,15 @@ VIII. Cuando se pretendan instalar en:
 
 a) Áreas no autorizadas para ello de acuerdo con los planos de zonas correspondientes;
 
-b) Pavimentos, banquetas, guarniciones, glorietas, puentes vehiculares y peatonales, unidades de alumbrado público, kioscos, bancas, así como depósitos de basura, casetas, registros telefónicos, postes de líneas telefónicas, postes de alumbrado, postes de la CFE, pedestales, plataformas si están sobre la banqueta, arrollo o camellones de la vía pública y buzones de correo, y en general todos aquellos elementos de utilidad u ornato de plazas, paseos, jardines, calles y avenidas. Quedarán fuera de esta prohibición los espacios publicitarios de los elementos del mobiliario urbano;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+b) Pavimentos, banquetas, guarniciones, glorietas, unidades de alumbrado público, kioscos, bancas, así como depósitos de basura, casetas, registros telefónicos, pedestales, plataformas si están sobre la banqueta, arrollo o camellones de la vía pública y buzones de correo, y en general todos aquellos elementos de utilidad u ornato de plazas, paseos, jardines, calles y avenidas. Quedarán fuera de esta prohibición los espacios publicitarios de los elementos del mobiliario urbano;
 
 c) Un radio de 200 metros, a partir del cruce de los ejes de vialidades primarias, de acceso controlado, vías federales y vías de ferrocarril en uso;
 
-d) Cerros, rocas, árboles, bordes de ríos, presas, lomas, laderas, bosques, lagos, canales o puentes;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+d) Cerros, rocas, árboles, bordes de ríos, presas, lomas, laderas, bosques, lagos o canales;
 
 e) Entradas o áreas de circulación de pórticos, pasajes y portales;
 
@@ -4705,9 +5169,9 @@ Los propietarios o poseedores de bienes muebles e inmuebles, deberán abstenerse
 
 Cualquier tipo de anuncio no podrá invadir ni prolongarse sobre las propiedades colindantes, ni en la vía pública, ni interferir con la visibilidad o funcionamiento de cualquier señalización oficial, asimismo, deberán ajustarse a las dimensiones, aspectos y ubicación que se señalen en el presente ordenamiento.
 
-### CAPÍTULO I. DE LA NOMENCLATURA
+### CAPÍTULO IX. DE LAS LICENCIAS, PERMISOS Y AUTORIZACIONES PARA FIJAR, INSTALAR O MODIFICAR ANUNCIOS
 
-#### SECCIÓN SEGUNDA. DE LOS ESPECIALISTAS ESTRUCTURALES
+#### SECCIÓN QUINTA. DE LOS PERMISOS
 
 ###### Artículo 422.
 
@@ -4765,7 +5229,9 @@ Cuando haya sido necesario retirar un anuncio, la Dirección no dará trámite p
 
 En el supuesto de que alguna empresa promotora de anuncios, a la que se haya tenido que retirar tres o más anuncios, además de la sanción a la que se haga acreedor cada anuncio individual, se le restringirá la autorización para instalar nuevos anuncios en el Municipio por un plazo mínimo de dos años.
 
-#### SECCIÓN TERCERA. DE LAS SOLICITUDES DE LICENCIAS, PERMISOS Y AUTORIZACIONES
+#### SECCIÓN SEXTA. DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 432.
 
@@ -4793,7 +5259,9 @@ I. Solicitud debidamente requisitada en los formatos que le proporcione la Direc
 
 II. Dos fotografías tamaño infantil;
 
-III. Ser Ingeniero Civil, o Ingeniero-Arquitecto con especialidad en estructuras, o profesión afín, o en su defecto persona física con conocimientos en la materia, pero indistintamente deberán contar con experiencia en la ejecución de obras de construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Ser Ingeniero Civil, Arquitecto, Ingeniero-Arquitecto, o profesión afín, con especialidad en estructuras, pero indistintamente deberán contar con experiencia en la ejecución de obras de construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios;
 
 IV. Presentar por escrito y debidamente firmado, su currículum vitae;
 
@@ -4821,9 +5289,11 @@ El especialista estructural podrá ser el mismo publicista, la persona que va a 
 
 El Especialista Estructural, tiene las siguientes obligaciones:
 
-I. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
+I. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-II. Revisar, dirigir y supervisar que la ejecución de la construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios, durante el tiempo que ampare la Licencia, Permiso o Autorización correspondiente se realice de acuerdo a lo previsto por este Código y demás especificaciones técnicas que le señale la Dirección; observando en todo momento las medidas de seguridad que deban implementarse;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Revisar, dirigir y supervisar que la ejecución de la construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios, se realicen de conformidad con las especificaciones técnicas que le señale la Dirección observando las normas aplicables.
 
 III. Llevar en la obra un libro de Bitácora foliado y encuadernado, en la cual se asentarán la Fecha de las visitas, observaciones e instrucciones del Especialista Estructural, así como los incidentes que se hubiesen generado;
 
@@ -4837,15 +5307,17 @@ VII. Responder de cualquier evento que se genere durante de la vigencia de una l
 
 VIII. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 441.
 
-En caso de daños causados por fenómenos naturales, el Especialista estructural que haya dado su responsiva respecto de un anuncio, inspeccionará el mismo, elaborando un reporte de las condiciones del anuncio, el cuál constará en la bitácora correspondiente. Así mismo, en un plazo que no excederá de tres días hábiles contados a partir de la fecha de su realización rendirá un dictamen técnico a la Dirección.
+Tratándose de daños a los anuncios que hayan sido ocasionados por casos fortuitos, el propietario o poseedor del bien inmueble donde este instalado el anuncio, deberá consultar a un especialista estructural, mismo que inspeccionará y elaborará un reporte de las condiciones del mismo, informando a la Dirección en un plazo que no excederá de cinco días hábiles para que de manera conjunta determinen las acciones de remediación.
 
 ###### Artículo 442.
 
 El retiro de los anuncios, no exime de responsabilidad al Especialista Estructural, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse por la actividad para la cual haya otorgado su responsiva.
 
-#### SECCIÓN CUARTA. DE LAS LICENCIAS
+#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES DE UNA LICENCIA, PERMISO O AUTORIZACIÓN
 
 ###### Artículo 443.
 
@@ -4881,6 +5353,10 @@ II.- Póliza global de seguro de responsabilidad civil y daños a terceros, úni
 
 III.- La demás documental e información que para caso concreto señala el presente Código.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Para el caso de que el inmueble donde pretende instalarse el anuncio, este en posesión de persona distinta al propietario, además los requisitos señalados en el presente artículo deberá acreditarse por el solicitante, la legal posesión del bien inmueble, mediante contrato original y copia para cotejo; así como instrumento donde conste ostentar facultades para solicitar licencias, permisos o autorizaciones en materia de anuncios en el inmueble del propietario.
+
 ###### Artículo 446.
 
 El otorgamiento de las licencias, permisos y autorizaciones previstos en el presente Título, causarán los derechos que anualmente fijen las tarifas establecidas en la Ley de Ingresos y las disposiciones administrativas, según sea el caso, para el Municipio para el ejercicio fiscal que corresponda.
@@ -4893,7 +5369,13 @@ Cuando los particulares no cumplan con los requisitos que exige el presente Cód
 
 Recibida la solicitud con la información y documentación completa, la Dirección, en un plazo de quince días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedirse la licencia, permiso o autorización correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución.
 
-#### SECCIÓN QUINTA. DE LOS PERMISOS
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 448 - A.
+
+Cuando se soliciten anuncios adosados o autosoportados denominativos en una plaza comercial o locales comerciales, deberán de presentar a la Dirección una propuesta de todos los anuncios adosados que sean uniformes en dimensiones, forma y material y en lo que respecta a los anuncios autosoportados denominativos, solamente se autorizará un tipo directorio.
+
+#### SECCIÓN OCTAVA. DE LA RESPONSABILIDAD SOLIDARIA
 
 ###### Artículo 449.
 
@@ -4905,9 +5387,9 @@ II. De neón;
 
 III. En mobiliario urbano;
 
-IV. Mantas;
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-V. Banderolas;
+V. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 VI. Todos aquellos que se vayan a instalar en inmuebles considerados como monumentos o colindantes a monumentos o en la zona patrimonial, monumentos con valor arqueológico, artístico o histórico; y,
 
@@ -4921,9 +5403,11 @@ I. Representación gráfica que describa la forma, dimensiones y contenido del a
 
 II. Copia de la Licencia de Construcción correspondiente para los casos previstos en el Artículo 427 de este Capítulo;
 
-III. Copia de la Licencia de Uso de Suelo, para los casos previstos en el Artículo 393 fracción II de este ordenamiento;
+III. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-IV. Original y copia simple del contrato vigente correspondiente para cotejo, tratándose de anuncios en mobiliario urbano;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. En caso de no ser propietario original y copia simple del contrato vigente correspondiente para cotejo;
 
 V. Memoria de cálculo estructural; con excepción de anuncios en muros de colindancia, ya que el especialista, deberá firmar una carta responsiva que especifique, la revisión del mantenimiento y buen estado de la estructura.
 
@@ -4949,7 +5433,7 @@ II. Colocar en lugar visible del anuncio el nombre, denominación o razón socia
 
 III. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio.
 
-#### SECCIÓN SEXTA. DE LAS AUTORIZACIONES
+#### SECCIÓN PRIMERA. DE LAS NORMAS PARA SU ASIGNACIÓN
 
 ###### Artículo 453.
 
@@ -4981,17 +5465,17 @@ Los permisos tendrán una vigencia de hasta 120 días, excepto en los casos a qu
 
 La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia del permiso.
 
-#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES DE UNA LICENCIA, PERMISO O AUTORIZACIÓN
+#### SECCIÓN SEGUNDA. DE LAS PROPUESTAS DE CAMBIO DE NOMENCLATURA Y SU PROCEDIMIENTO
 
 ###### Artículo 456.
 
-Cuando alguna autoridad, asociación civil o institución de asistencia social, pretenda instalar en la vía pública anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal, o de folklore nacional, se requerirá de la autorización de la Dirección, debiendo observar lo siguiente:
+Cuando algún particular, autoridad, asociación civil o institución de asistencia social, pretenda instalar en la vía pública anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal y folklore nacional, se requerirá de la autorización de la Dirección, debiendo observar lo siguiente:
 
-I. Anuncios en mantas hasta 1.80 metros de longitud por 90 centímetros de altura, banderolas o pendones de hasta 1.80 metros de altura por 90 centímetros de longitud, adornos colgantes, siempre y cuando no obstruyan vanos del predio o inmueble donde el anunciante desarrolle su actividad y la temporalidad de la publicidad no sea mayor de sesenta días naturales;
+I. Anuncios en mantas, banderolas o pendones de hasta 1.80 metros de altura por 90 centímetros de longitud, adornos colgantes, siempre y cuando no obstruyan vanos del predio o inmueble donde el anunciante desarrolle su actividad y la temporalidad de la publicidad no sea mayor de sesenta días naturales;
 
 II. En marquesinas, adosados e integrados cuyas dimensiones no excedan de 1.80 metros de longitud y una altura de 90 centímetros;
 
-III. Anuncios en saliente, volados o colgantes, cuando su altura no rebase los 2.50 metros y una saliente no mayor a 20 centímetros; y,
+III. Solo se permitirá la colocación de un anuncio perpendicular a la pared de la fachada, respetando las dimensiones máximas de 60 centímetros de saliente por 1.20 metros de altura, hasta 40 centímetros de espesor y la colocación del anuncio debe tener 2.50 metros libres entre el nivel inferior del anuncio y el nivel de banqueta, siempre y cuando no se invadan ni obstruyan los predios colindantes; y,
 
 IV. El logotipo del patrocinador en su caso, no podrá ocupar superficie mayor al 5 por ciento del anuncio.
 
@@ -5003,7 +5487,7 @@ La solicitud de la autorización respectiva, deberá reunir los requisitos comun
 
 La vigencia máxima de la autorización será de 60 días a partir de la fecha señalada para la instalación, prorrogable por el periodo que determine la Dirección.
 
-#### SECCIÓN OCTAVA. DE LA RESPONSABILIDAD SOLIDARIA
+#### SECCIÓN TERCERA. DE LAS PLACAS DE NOMENCLATURA
 
 ###### Artículo 459.
 
@@ -5013,7 +5497,7 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que en su caso haya cubierto el Municipio a cargo del infractor, con motivo del retiro de sus anuncios.
 
-#### SECCIÓN PRIMERA. DE LAS NORMAS PARA SU ASIGNACIÓN
+#### SECCIÓN CUARTA. DE LA DONACIÓN DE PLACAS DE NOMENCLATURA
 
 ###### Artículo 460.
 
@@ -5035,13 +5519,21 @@ II.- El pago de los gastos y multas que se determinen por la autoridad municipal
 
 II.- El retiro de anuncios, o en su caso el pago de los gastos que en su caso haya cubierto el Municipio a cargo del infractor con dicho motivo.
 
-### CAPÍTULO II. DE LA NUMERACIÓN OFICIAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2012)</small>
+
+### CAPÍTULO X. DE LOS ANEXOS TÉCNICOS
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 461 - A.
+
+Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa de anuncios, se conforma el ANEXO 7 relativo al Manual Técnico de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico, el cual forma parte integrante de este ordenamiento.
 
 ## TÍTULO SEXTO. DE LA NOMENCLATURA Y NUMERACIÓN OFICIAL
 
-### CAPÍTULO III. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO I. DE LA NOMENCLATURA
 
-#### SECCIÓN SEGUNDA. DE LAS PROPUESTAS DE CAMBIO DE NOMENCLATURA Y SU PROCEDIMIENTO
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
 ###### Artículo 462.
 
@@ -5079,7 +5571,7 @@ VIII. Que la nomenclatura no tenga palabras confusas, ofensivas, injuriosas o co
 
 Para los asentamientos irregulares, la Dirección asignará nomenclatura, siempre y cuando se encuentre en proceso de regularización.
 
-#### SECCIÓN TERCERA. DE LAS PLACAS DE NOMENCLATURA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN NORMATIVA
 
 ###### Artículo 467.
 
@@ -5195,7 +5687,7 @@ Como único caso y por la antigüedad e importancia de la nomenclatura "Hermanos
 
 Del mismo modo, la Dirección podrá determinar que permanezca nomenclatura distinta en todo lo largo de los cauces correspondientes a las vialidades, aún y cuando de conformidad a lo señalado en el artículo 465 fracción III de este ordenamiento deban de corresponderle una sola nomenclatura, esto por el arraigo con la que cuenta la misma y por su trascendencia en cuanto a tradiciones, eventos y fechas históricas.
 
-#### SECCIÓN CUARTA. DE LA DONACIÓN DE PLACAS DE NOMENCLATURA
+#### SECCIÓN TERCERA. DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 482.
 
@@ -5257,7 +5749,7 @@ Una vez que la Dirección tenga conocimiento que algún bien de uso común desti
 
 Corresponderá a los desarrolladores de fraccionamientos o desarrollos en condominio, la instalación de las placas de nomenclatura, de acuerdo a las especificaciones que la propia Dirección le señale.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 493.
 
@@ -5293,7 +5785,7 @@ IX. Causas de terminación del contrato; y,
 
 X. Las demás que acuerde el Ayuntamiento.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO II. DE LA NUMERACIÓN OFICIAL
 
 ###### Artículo 496.
 
@@ -5355,7 +5847,7 @@ III. Cuando no se refiera ni a números arábigos ni a letras; y,
 
 IV. Cuando la Dirección así lo determine, por así convenir al interés general.
 
-### CAPÍTULO II. DE LA DENUNCIA POPULAR
+### CAPÍTULO III. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 508.
 
@@ -5373,7 +5865,7 @@ V. Incumplir con la colocación del número oficial, dentro del plazo que la Dir
 
 ## TÍTULO SEPTIMO. DEL PROCEDIMIENTO ADMINISTRATIVO EN MATERÍA URBANA
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 509.
 
@@ -5399,7 +5891,7 @@ Para los efectos del artículo anterior, las autoridades competentes de este Có
 
 El Procedimiento Administrativo se instaurará, substanciará y resolverá bajo los requisitos y formalidades que al efecto estatuye el Código del Procedimiento Administrativo, por lo que éste último se constituye como norma supletoria del presente ordenamiento en materia de actos y formalidades procesales y de procedimiento.
 
-### CAPÍTULO IV. DE LA INSPECCIÓN
+### CAPÍTULO II. DE LA DENUNCIA POPULAR
 
 ###### Artículo 514.
 
@@ -5441,9 +5933,9 @@ Tratándose de bienes de propiedad de la Federación, el Estado o Municipio, se 
 
 Para los requisitos, formalidades, seguimiento y culminación en la atención de las denuncias, se estará además del presente Código, a lo que dispone el Código del Procedimiento Administrativo.
 
-### CAPÍTULO V. MEDIDAS DE SEGURIDAD
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN NORMATIVA
+#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
 
 ###### Artículo 523.
 
@@ -5453,7 +5945,13 @@ I.- Fraccionamientos y Desarrollos en Condominio;
 
 II.- Nomenclatura y numeración oficial;
 
-III.- Obligaciones de los Proyectistas y DRO del apartado de las construcciones, así como de los Especialistas Estructurales en materia de anuncios; y,
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II - A.- Terrazas Móviles
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Obligaciones del DRO, Proyectista Arquitectónico, Proyectista Estructural y Perito Topógrafo que intervengan al tenor del apartado de las construcciones, así como de los Especialistas Estructurales en materia de anuncios; y,
 
 IV.- Las demás que se deriven del presente Código, del Reglamento Interior de la Administración y demás normativa aplicable.
 
@@ -5469,7 +5967,7 @@ Corresponde a la Dirección imponer, por delegación expresa que el Presidente M
 
 La Dirección hará del conocimiento de la Dirección General de Verificación Normativa los hechos u omisiones que puedan constituir alguna infracción en las materias competencia de esta última, remitiendo la documental e información relacionada con dichos actos, para el efecto de que se inicien los procedimientos de verificación e inspección respectivos.
 
-#### SECCIÓN TERCERA. DE LAS AUTORIDADES AUXILIARES
+#### SECCIÓN TERCERA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 ###### Artículo 527.
 
@@ -5477,7 +5975,9 @@ Corresponde a la Dirección General de Verificación Normativa, vigilar el cumpl
 
 I.- Zonificación y usos de suelo;
 
-II.- Construcciones, excepción hecha de las obligaciones de los Proyectistas y DRO;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II.- Construcciones, excepción hecha de las obligaciones del DRO, Proyectista Arquitectónico, Proyectista Estructural y Perito Topógrafo;
 
 III.- Anuncios, excepción hecha de las obligaciones de los especialistas estructurales; y,
 
@@ -5495,7 +5995,7 @@ Corresponde a la Dirección General de Verificación Normativa imponer, por dele
 
 La Dirección General de Verificación Normativa hará del conocimiento de la Dirección los hechos u omisiones que puedan constituir alguna infracción en las materias competencia de esta última, remitiendo la documental e información relacionada con dichos actos, para el efecto de que se inicien los procedimientos de verificación e inspección respectivos.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE CONSTRUCCIONES
 
 ###### Artículo 531.
 
@@ -5505,15 +6005,15 @@ Sin perjuicio de la distribución de competencias señalada por el presente Cód
 
 Para los Procedimientos Administrativos señalados en el artículo anterior, se estará a la preceptuado por el presente Código y al Código del Procedimiento Administrativo.
 
-### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO IV. DE LA INSPECCIÓN
 
 ###### Artículo 533.
 
 Las dependencias y entidades municipales que ostenten el carácter de autoridades competentes o auxiliares del presente Código, podrán llevar a cabo visitas de verificación o inspección para comprobar en el ámbito de sus respectivas competencias, el cumplimiento de lo dispuesto por este ordenamiento, las cuales podrán efectuarse en el domicilio, instalaciones, equipos y bienes de los particulares, sujetándose en todo momento a las reglas previstas por el Código del Procedimiento Administrativo y demás normativa aplicable.
 
-### CAPÍTULO VII. DE LOS RECURSOS Y MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO V. MEDIDAS DE SEGURIDAD
 
-#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
+#### SECCIÓN QUINTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ANUNCIOS
 
 ###### Artículo 534.
 
@@ -5527,7 +6027,7 @@ Para los efectos del artículo anterior, se considerarán medidas de seguridad, 
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán de conformidad con el presente Código y el Código del Procedimiento Administrativo, ello sin perjuicio de las sanciones que en su caso correspondan.
 
-#### SECCIÓN TERCERA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+#### SECCIÓN SEXTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 537.
 
@@ -5585,7 +6085,9 @@ Para el caso de la clausura temporal, o suspensión temporal o definitiva, parci
 
 La diligencia de levantamiento de sellos de clausura o suspensión, cuando procedan, sólo podrá realizarse mediante orden escrita de la Dirección General de Verificación Normativa.
 
-#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE CONSTRUCCIONES
+#### SECCIÓN SÉPTIMA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 543.
 
@@ -5607,7 +6109,7 @@ VI. Las demás que se encuentren previstas en la Ley de Fraccionamientos y el C�
 
 Transcurrido el plazo señalado para el cumplimiento de las acciones o medidas ordenadas, el desarrollador dará aviso a la Dirección, según sea el caso para que ésta proceda a inspeccionar su cumplimiento.
 
-#### SECCIÓN QUINTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ANUNCIOS
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 545.
 
@@ -5671,7 +6173,7 @@ Si vencido el plazo no se cumpliera la orden, la Dirección General de Verificac
 
 Asimismo, la Dirección General de Verificación Normativa podrá clausurar cualquier construcción que se haya ejecutado o se esté ejecutando que contravenga lo establecido en el POTE, el Plano de Zonificación y los que de éstos deriven.
 
-#### SECCIÓN SEXTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
+#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
 
 ###### Artículo 551.
 
@@ -5707,17 +6209,25 @@ I. Por haber modificado las especificaciones establecidas por la Dirección; y,
 
 II. Por impedir u obstaculizar a los inspectores de la Dirección y de la Dirección General de Verificación Normativa, el cumplimiento de sus funciones.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 ###### Artículo 554.
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
-#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
-
-#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 2012)</small>
 
 #### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
+
+###### Artículo 554 - A.
+
+La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
+
+#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+
+### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
+
+#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 555.
 
@@ -5743,7 +6253,9 @@ La imposición de cualquiera de las sanciones administrativas contenidas en este
 
 Para la aplicación, determinación, imposición y caducidad de las sanciones previstas en este Código, se estará a lo dispuesto por el Código del Procedimiento Administrativo.
 
-#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+#### SECCIÓN SÉPTIMA. DE LAS SANCIONES EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 561.
 
@@ -5781,7 +6293,9 @@ Si el propietario o poseedor no efectúan voluntariamente el pago del costo de l
 
 Se podrán revocar las licencias, permisos y autorizaciones otorgadas por las siguientes causas:
 
-I. Por haber incurrido en falsedad en los datos consignados en la solicitud de la licencia respectiva;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+I. Por haber incurrido en falsedad, dolo u omisiones en los datos consignados en la solicitud de la licencia respectiva;
 
 II. Por darse un uso a una construcción, instalación o predio, o parte de él sin la licencia correspondiente o por darse un uso diferente de aquel para el cual haya sido expedida la licencia;
 
@@ -5797,9 +6311,11 @@ V. Cuando el interesado incumpla las condiciones impuestas en la licencia otorga
 
 A quien infrinja las disposiciones de la Ley de Fraccionamientos, el Reglamento de la Ley, así como del presente Código en lo que respecta a la materia de fraccionamientos y desarrollos en condominio, la Dirección aplicará una o más de las sanciones que aquélla establece, previa substanciación del procedimiento establecido en este ordenamiento y el Código del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 568.
 
-Tratándose de los peritos responsables de la ejecución de obras de urbanización, la Dirección podrá imponer las sanciones siguientes:
+Tratándose de los Peritos Urbanos y Topógrafos, la Dirección podrá imponer las sanciones siguientes:
 
 I. Apercibimiento;
 
@@ -5807,11 +6323,15 @@ II. Suspensión del registro de tres a veinticuatro meses; o,
 
 III. Cancelación del Registro.
 
-Lo anterior sin perjuicio de que el perito responsable de la ejecución de obras de urbanización subsane las irregularidades derivadas de su incumplimiento.
+Lo anterior sin perjuicio de su obligación de subsanar las irregularidades derivadas de su incumplimiento.
+
+La cancelación del Registro será por un término de diez años, en el entendido de que dichos peritos no podrán otorgar su responsiva en el mencionado plazo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 569.
 
-Con independencia de lo establecido en el artículo anterior, procederá también la cancelación del registro del perito responsable de la ejecución de obras de urbanización, en los supuestos siguientes:
+Con independencia de lo establecido en el artículo anterior, procederá también la cancelación del registro de los Peritos Urbanos y del Perito Topógrafo, en los supuestos siguientes:
 
 I. Haber obtenido el registro con información o documentación falsa;
 
@@ -5819,25 +6339,31 @@ II. Cuando habiendo sido suspendido temporalmente el registro, el perito respons
 
 III. Por estar privado de su libertad, ya sea por estar sujeto a proceso o por haberse dictado sentencia condenatoria, o cuando en ésta sea suspendido del ejercicio profesional.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 570.
 
-Para los efectos del artículo precedente, se considera reincidente al perito responsable de la ejecución de obras de urbanización aquel que en un periodo de doce meses infrinja más de dos veces, las disposiciones del presente Código y de la Ley de Fraccionamientos, el Reglamento de la Ley y demás normativa en la materia.
+Para los efectos del artículo precedente, se considera reincidente a aquel que en un periodo de doce meses infrinja más de dos veces, las disposiciones del presente Código y de la Ley de Fraccionamientos, el Reglamento de la Ley y demás normativa en la materia.
 
 ###### Artículo 571.
 
 La Dirección General de Verificación Normativa en materia de construcciones, podrá imponer a los particulares propietarios o poseedores del inmueble de que se trate, las mismas sanciones que se encuentran previstas por el presente Código, para las infracciones relacionadas con la zonificación y usos del suelo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 572.
 
-Tratándose de Proyectistas y DRO corresponderá a la Dirección la imposición de sanciones, las cuales podrán consistir en
+Tratándose de DRO, Proyectista Arquitectónico y Proyectista Estructural corresponderá a la Dirección la imposición de sanciones, las cuales podrán consistir en:
 
 I.- Suspensión temporal o definitiva del registro: y,
 
 II.- Multa por el equivalente de 10 a 500 días de salario mínimo vigente en el Estado, al momento de cometer la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 573.
 
-La Dirección, podrá determinar la suspensión del registro de un proyectista o de un DRO, en los siguientes casos:
+La Dirección, podrá determinar la suspensión del registro de un DRO, Proyectista Arquitectónico y Proyectista Estructural en los siguientes casos:
 
 I. Cuando haya obtenido su inscripción proporcionando datos falsos;
 
@@ -5849,33 +6375,53 @@ III. Por haber incurrido en violaciones a las disposiciones previstas en el pres
 
 En el caso del artículo anterior, la Dirección levantará el dictamen correspondiente y entregará aviso de la suspensión a la Dirección de Profesiones del Estado, para que se proceda en consecuencia.
 
-La suspensión de un proyectista o de un DRO, se dictará por un lapso mínimo de tres meses y máximo de tres años o en casos extremos o podrá ser definitiva la cancelación del registro sin liberar al responsable de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+La suspensión de un DRO, así como del Proyectista Arquitectónico y Proyectista Estructural se dictará por un lapso mínimo de tres meses y máximo de tres años o en casos extremos o podrá ser definitiva la cancelación del registro sin liberar al responsable de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 575.
 
-A los proyectistas que incurran en omisiones o en infracciones les será suspendido el registro hasta en tanto no se de cumplimiento a las ordenes de la Dirección, se repare el daño y hayan pagado las multas que se les hubieren impuesto.
+Al Proyectista Arquitectónico y Proyectista Estructural que incurran en omisiones o en infracciones les será suspendido el registro hasta en tanto no se de cumplimiento a las ordenes de la Dirección, se repare el daño y hayan pagado las multas que se les hubieren impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 576.
 
-En caso de suspensión del registro al proyectista, este queda imposibilitado para ingresar documentación bajo su responsiva, independientemente de que cubra los daños y pague las multas a que se haya hecho acreedor. Podrá seguir supervisando las obras en la que sea DRO.
+En caso de suspensión del registro al Proyectista Arquitectónico y Proyectista Estructural, estos quedan imposibilitados para ingresar documentación bajo su responsiva, independientemente de que cubra los daños y pague las multas a que se haya hecho acreedor; y podrá seguir supervisando las obras en la que sea DRO.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 577.
 
-Podrá habilitarse nuevamente el registro de un DRO o proyectista antes del plazo fijado para suspensión, si se han reparado todos los daños y cubierto las sanciones que le hubieran sido aplicadas a todos los que resultaran responsables.
+Podrá habilitarse nuevamente el registro de un DRO o Proyectista Arquitectónico y Proyectista Estructural antes del plazo fijado para suspensión, si se han reparado todos los daños y cubierto las sanciones que le hubieran sido aplicadas a todos los que resultaran responsables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 578.
 
-Para la imposición de la multa, además de lo preceptuado por el Código del Procedimiento Administrativo, se fijará conforme a la siguiente clasificación de las infracciones cometidas por los DRO y Proyectistas:
+Para la imposición de la multa, además de lo preceptuado por el Código del Procedimiento Administrativo, se fijará conforme a la siguiente clasificación de las infracciones cometidas por el DRO, Proyectista Arquitectónico y Proyectista Estructural:
 
-I. Leves: Que el daño es reparable y no tiene como consecuencia la suspensión de la obra. Si el daño es imputable al proyectista o al DRO, le será suspendido el registro por un período mínimo de 3 meses y las multas serán hasta de 100 días de salario mínimo vigente en el Estado, al momento de cometer la infracción;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+I. Leves: Que el daño es reparable y no tiene como consecuencia la suspensión de la obra. Si el daño es imputable al DRO, al Proyectista Arquitectónico o al Proyectista Estructural, le será suspendido el registro por un periodo mínimo de 3 meses y las multas serán hasta de 100 días de salario mínimo vigente en el Estado, al momento de cometer la infracción;
 
 II. Graves: Que el daño tiene como consecuencia la suspensión del registro del profesionista y/o clausura parcial de la obra. En caso de suspensión al profesionista el período será de 6 meses y las multas serán hasta por 300 días de salario mínimo vigente en el Estado, al momento de cometer la infracción; y,
 
 III. Muy Graves: cuando existe falsedad, dolo, ignorancia o mala fe en la información y documentación presentada para la obtención de licencias, permisos o constancias de terminación de obra y el daño tiene como consecuencia la suspensión del registro del profesionista y/o los daños afectan al control del desarrollo y/o la obra debe ser clausurada totalmente o demolida parcial o totalmente. En este supuesto en caso de suspensión al profesionista, el período se suspensión será de 1 a 3 años, y las multas serán hasta por 500 días de salario mínimo vigente en el Estado al momento de cometer la infracción.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 579.
 
-En caso de reincidencia, el monto de la sanción pecuniaria podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, para los efectos de este Código, se considera reincidente al Proyectista o DRO, que en un periodo de doce meses infrinja dos veces, a partir de una sanción, las disposiciones del presente Código, si este es el caso, se suspenderá al proyectista o al DRO un año y será sustituido en las obras en que se encuentre participando.
+En caso de reincidencia, el monto de la sanción pecuniaria podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, para los efectos de este Código, se considera reincidente al DRO, al Proyectista Arquitectónico y al Proyectista Estructural que en un periodo de doce meses infrinja dos veces, a partir de una sanción, las disposiciones del presente Código, si este es el caso, se les suspenderá un año y serán sustituidos en las obras en que se encuentren participando.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 579 - A.
+
+Será aplicable en lo conducente la presente sección, a los peritos topógrafos que intervengan en la materia de las construcciones, siempre y cuando no guarde relación con el apartado de fraccionamientos y desarrollos en condominio.
 
 ###### Artículo 580.
 
@@ -5955,9 +6501,11 @@ III. Por no respetar las restricciones para cada tipo de anuncio.
 
 Si en un lapso de 15 días naturales no se cumple con la orden de retiro, la Dirección General de Verificación Normativa, procederá al desmantelamiento y retiro del anuncio, depositándose en el lugar que indique el infractor y en caso de negativa, el lugar que determine la autoridad competente. Los gastos que se originen por el retiro y almacenamiento serán a costa del infractor.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 586.
 
-Procederá la clausura de un anuncio, cuando se violen las prohibiciones previstas en el artículo 419 de este Código.
+Procederá la clausura de un anuncio, cuando se violen las prohibiciones previstas en el artículo 419 de este Código y el anexo 7 del mismo ordenamiento en tratándose de anuncios en la zona del patrimonio histórico.
 
 ###### Artículo 587.
 
@@ -5997,23 +6545,49 @@ Podrá habilitarse nuevamente el registro de un Especialista Estructural antes d
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 593 - A.
+
+Por infracción de las disposiciones relativas a la instalación de las Terrazas Móviles, contenidas en el anexo 7 del presente Código, la Dirección podrá imponer las sanciones siguientes:
+
+I.- Multa de 100 a 500 días del salario mínimo diario que rija en el Estado;
+
+II.- Suspensión de la autorización hasta por 30 treinta días; y
+
+III.- Revocación de la autorización.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 593 - B.
+
+En la resolución donde se declare la revocación de la autorización, se ordenará el retiro de la Terraza Móvil y el mobiliario de ésta.
+
+Si en un lapso de 15 días naturales no se cumple con la orden de retiro, la Dirección procederá al desmantelamiento y retiro de la Terraza Móvil, depositándose en el lugar que indique el infractor y en caso de negativa, el lugar que determine la autoridad competente.
+
+Los gastos que se originen por el retiro y almacenamiento serán a costa del infractor.
+
+### CAPÍTULO VII. DE LOS RECURSOS Y MEDIOS DE IMPUGNACIÓN
+
 ###### Artículo 594.
 
 En contra de los actos y resoluciones de las autoridades competentes en la aplicación del presente Código, los interesados afectados podrán interponer los medios de defensa señalados por el Código del Procedimiento Administrativo.
 
 ANEXOS
 
-> <small>N. DE E. VEASE ANEXO 1: MANUAL TECNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PAGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PAGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PAGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PAGINAS 26 A LA 27.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69.</small>
 
-> <small>N. DE E. VEASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MINIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 194 A LA 201.</small>
+> <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201.</small>
 
-> <small>N. DE E. VEASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 52 A LA 53.</small>
+> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 52 A LA 53.</small>
 
-> <small>N. DE E. VEASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 203 A LA 208.</small>
+> <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70.</small>
 
-> <small>N. DE E. VEASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 54 A LA 55.</small>
+> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 54 A LA 55.</small>
 
-> <small>N. DE E. VEASE ANEXO 6: MANUAL TECNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PAGINAS 34 A LA 35.</small>
+> <small>N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75.</small>
+
+> <small>N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87.</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -6057,7 +6631,7 @@ LIC. MAYRA ANGÉLICA ENRÍQUEZ VANDERKAM
 
 SECRETARIA DEL H. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE OCTUBRE DE 2010.
 
@@ -6104,3 +6678,13 @@ P.O. 16 DE SEPTIEMBRE DE 2011.
 PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
+
+P.O. 31 DE ENERO DE 2012.
+
+PRIMERO.- Las presentes modificaciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Consultivo para el Desarrollo Sustentable en materia Urbanismo (sic) en el Municipio de León, Guanajuato, tendrá un término de 30 días hábiles posteriores a la entrada en vigor de las presentes modificaciones, para conformar el grupo de trabajo que conocerá de las recomendaciones y opiniones técnicas para el registro de los DRO, Peritos Urbanos, Proyectistas Arquitectónicos, Proyectistas Estructurales y Peritos Topógrafos.
+
+TERCERO.- La Dirección General de Desarrollo Urbano contará con un término de 3 meses contados a partir de la entrada en vigor del presente ordenamiento, para la conformación y actualización del padrón municipal de registro de los Proyectistas Arquitectónicos, Proyectistas Estructurales y Peritos Topógrafos.
+
+CUARTO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
