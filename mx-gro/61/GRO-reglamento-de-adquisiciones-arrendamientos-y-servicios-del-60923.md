@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-6092
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-02"
-last_updated: "2008-05-02"
+last_updated: "2012-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 2 de mayo de 2008.
 
@@ -770,3 +772,13 @@ PRIMERO.- El presente Reglamento entrará en vigor a los diez días siguientes d
 SEGUNDO.- La Comisión de Administración y los integrantes del Comité de Adquisiciones proveerán lo necesario para la debida aplicación del presente Reglamento en el ámbito de su respectiva competencia.
 
 TERCERO.- Se derogan las disposiciones administrativas de igual o menor jerarquía que se opongan al presente Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE ENERO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. La Comisión de Administración y los integrantes del Comité de Adquisiciones proveerán lo necesario para la debida aplicación del presente Reglamento en el ámbito de su respectiva competencia.
+
+TERCERO. Se derogan las disposiciones administrativas de igual o menor jerarquía que se opongan al presente Reglamento.
