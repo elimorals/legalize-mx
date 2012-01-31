@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2011-05-03"
+last_updated: "2012-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2002-06-20"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
+REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -238,9 +238,9 @@ Son áreas de apoyo:
 
 I. La Secretaría Ejecutiva;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-II. La Secretaría de Vinculación con la Sociedad Civil e Incidencia en Políticas Públicas;
+II. La Secretaría para la Promoción de los Derechos Humanos e Incidencia en Políticas Públicas;
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -254,39 +254,35 @@ IV. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
 V. Las Direcciones Generales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
+VI. Las Coordinaciones Generales;
 
-VI. Las Direcciones Ejecutivas;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+VII. Las Direcciones Ejecutivas;
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-VII. El Centro de Investigación Aplicada en Derechos Humanos;
+VIII. El Centro de Investigación Aplicada en Derechos Humanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
-
-VIII. La Secretaría Particular de la Presidencia;
-
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
-
-IX. Las Coordinaciones, y;
+IX. La Secretaría Particular de la Presidencia;
 
 X. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2010)</small>
+XI. Las Coordinaciones, y
 
-XI. Todas aquellas que sean necesarias para el apoyo a los órganos de la Comisión.
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE JULIO DE 2009)</small>
+XII. Todas aquellas que sean necesarias para el apoyo a los órganos de la Comisión.
 
-### CAPÍTULO III. De la presidencia de la Comisión
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE ENERO DE 2012)</small>
+
+### CAPÍTULO III. De la Presidencia de la Comisión
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -372,21 +368,21 @@ En el informe anual se incluirán los datos que se señalan en el artículo 57 d
 
 ARTÍCULO 23 BIS.- Para el cumplimiento de las tareas sustantivas y administrativas de esta Comisión, se establecerán Programas que conforme al objeto legal de la misma se dividirán en:
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-I. Programa de Conducción Institucional; integrado por la Secretaría Ejecutiva, la Consultoría General Jurídica, la Secretaría Particular de la Presidencia, la Coordinación de Asesores, la Coordinación de Interlocución Institucional y Legislativa y la Coordinación con Instituciones de Derechos Humanos;
+I. Programa de Conducción Interinstitucional; integrado por la Consultoría General Jurídica, la Coordinación General de Vinculación Estratégica, la Secretaría Particular de la Presidencia, la Coordinación de Asesores y la Coordinación de Interlocución Institucional y Legislativa;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-II. Programa de Defensa; integrado por las Visitadurías Generales, la Dirección General de Quejas y Orientación, la Dirección Ejecutiva de Seguimiento, la Coordinación de Servicios Médicos y Psicológicos y la Coordinación de Relatorías;
+II. Programa de Defensa; integrado por las Visitadurías Generales, la Secretaría Ejecutiva, la Secretaría para la Promoción de los Derechos Humanos e Incidencia en Políticas Públicas, la Dirección General de Quejas y Orientación, la Dirección Ejecutiva de Seguimiento y la Coordinación de Servicios Médicos y Psicológicos;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-III. Programa de Promoción y Difusión, integrado por la Secretaría de Vinculación con la Sociedad Civil e Incidencia en Políticas Públicas, la Dirección General de Comunicación por los Derechos Humanos, la Dirección General de Educación por los Derechos Humanos, el Centro de Investigación Aplicada en Derechos Humanos, la Coordinación de Relatorías y la Coordinación con Instituciones de Derechos Humanos;
+III. Programa de Promoción y Difusión, integrado por la Secretaría Ejecutiva, la Secretaría para la Promoción de los Derechos Humanos e Incidencia en Políticas Públicas, la Dirección General de Comunicación por los Derechos Humanos y la Dirección General de Educación por los Derechos Humanos;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-IV. Programa de Fortalecimiento Institucional, integrado por la Secretaría Ejecutiva, la Contraloría Interna, la Dirección General de Administración, la Consultoría General Jurídica, la Coordinación de Tecnologías de Información y Comunicación y la Coordinación del Servicio Profesional en Derechos Humanos.
+IV. Programa de Fortalecimiento Institucional, integrado por la Secretaría Ejecutiva, la Contraloría Interna, la Dirección General de Administración, la Consultoría General Jurídica, el Centro de Investigación Aplicada en Derechos Humanos, la Coordinación de Tecnologías de Información y Comunicación y la Coordinación del Servicio Profesional en Derechos Humanos.
 
 Al efecto la o el Presidente determinará las directrices bajo las cuales se realizarán las tareas programáticas, así como los lineamientos y políticas generales a los que habrán de sujetarse estos Programas, debiendo observar políticas transversales de eficiencia en el gasto, protección al derecho humano a un medio ambiente sano, equidad de género, igualdad sustantiva de las personas, no discriminación, respeto e integración de personas con discapacidad y en general de aquellas en situación de vulnerabilidad por discriminación.
 
@@ -420,9 +416,9 @@ Para el despacho de los asuntos que corresponden a la Comisión, ésta contará 
 
 I. La Secretaría Ejecutiva;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-II. La Secretaría de Vinculación con la Sociedad Civil e Incidencia en Políticas Públicas;
+II. La Secretaría para la Promoción de los Derechos Humanos e Incidencia en Políticas Públicas;
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -454,55 +450,51 @@ VII. (DEROGADA, G.O. 31 DE DICIEMBRE DE 2008)
 
 VIII. La Dirección General de Educación por los Derechos Humanos;
 
-> <small>(REFORMADA Y REUBICADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-IX. La Dirección Ejecutiva de Seguimiento;
+IX. La Coordinación General de Vinculación Estratégica;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
+X. La Dirección Ejecutiva de Seguimiento;
 
-X. El Centro de Investigación Aplicada en Derechos Humanos;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-(REUBICADA, G.O. 27 DE OCTUBRE DE 2006)
+XI. El Centro de Investigación Aplicada en Derechos Humanos;
 
-XI. La Secretaría Particular de la Presidencia;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-(REUBICADA, G.O. 27 DE OCTUBRE DE 2006)
-
-XII. La Coordinación de Asesores;
+XII. La Secretaría Particular de la Presidencia;
 
 XIII. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
-(REFORMADA, G.O. 30 DE MAYO DE 2007) (F. DE E., G.O. 26 DE FEBRERO DE 2008)
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XIV. La Coordinación de Interlocución Institucional y Legislativa;
+XIV. La Coordinación de Asesores;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERODE 2012)</small>
 
-XV. La Coordinación de Tecnologías de Información y Comunicación;
+XV. La Coordinación de Interlocución Institucional y Legislativa;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XVI. La Coordinación de Servicios Médicos y Psicológicos;
+XVI. La Coordinación de Tecnologías de Información y Comunicación;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+XVII. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
-XVII. La Coordinación con Instituciones de Derechos Humanos;
+XVIII. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XVIII. La Coordinación de Relatorías, y
+XIX. La Coordinación de Servicios Médicos y Psicológicos, y
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XIX. La Coordinación del Servicio Profesional en Derechos Humanos.
+XX. La Coordinación del Servicio Profesional en Derechos Humanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO, G.O. 25 DE MARZO DE 2010)</small>
-
-ARTÍCULO 26 BIS.- La Secretaría Ejecutiva es el área de apoyo de la Comisión, que bajo las directrices que instruya la o el Presidente le auxiliará en la conducción institucional, dando seguimiento y evaluando las tareas programáticas, lineamientos, políticas generales y programas transversales a los que habrán de sujetarse las actividades sustantivas y administrativas de la Comisión.
+ARTÍCULO 26 BIS.- La Secretaría Ejecutiva es el área de apoyo de la Comisión, que bajo las directrices que instruya la o el Presidente le auxiliará en la conducción y fortalecimiento intra-institucional, dando seguimiento y evaluando las tareas programáticas, lineamientos, políticas generales y programas transversales a los que habrán de sujetarse las actividades de la Comisión.
 
 Asimismo, auxiliará a la o el Presidente en la preparación, desarrollo y seguimiento de las sesiones y acuerdos del Consejo de esta Comisión.
 
@@ -516,27 +508,27 @@ II. Con el personal profesional, técnico y administrativo necesario que al efec
 
 Asimismo, se podrá auxiliar de los órganos y áreas de apoyo de la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2012)</small>
 
-ARTÍCULO 26 QUÁTER.- Para el cumplimiento de sus atribuciones, la Secretaría de Vinculación con la Sociedad Civil e Incidencia en Políticas Públicas contará con:
+ARTÍCULO 26 QUÁTER.- Para el cumplimiento de sus atribuciones, la Secretaría para la Promoción de los Derechos Humanos e Incidencia en Políticas Públicas contará con:
 
 I. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-II. Una Dirección de Vinculación Social e Incidencia en Políticas Públicas;
+II. Una Dirección de Agendas en Derechos Humanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2010)</small>
+III. Una Dirección de Promoción Territorial para el Ejercicio de los Derechos Humanos,
 
-III. Una Dirección de Promoción Territorial para el Ejercicio de los Derechos Humanos, y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+IV. Una Dirección de Relatorías, y
 
-> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA, G.O. 31 DE ENERODE 2012)</small>
 
-IV. El personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
+V. El personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -562,17 +554,11 @@ I. Una Dirección de Atención y Orientación;
 
 II. Una Dirección de Admisibilidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
+III. Una Oficina de Información Pública, y
 
-III. Una Oficina de Información Pública;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
-
-IV. Una Unidad de Recepción y Trabajo Social, y
+IV. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
 V. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
@@ -580,17 +566,29 @@ V. El personal profesional, técnico y administrativo necesario que al efecto es
 
 Para el cumplimiento de sus atribuciones, la Dirección General de Administración contará con:
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-I. Una Dirección Operativa, y;
+I. Una Dirección de Recursos Humanos y Desarrollo Organizacional;
 
 II. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
 III. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-IV. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
+IV. Una Dirección de Compras y Servicios Generales;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+V. Una Dirección de Recursos Financieros;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+VI. Una Unidad de Recepción, Seguridad y Apoyo, y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+VII. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
 
@@ -662,6 +660,14 @@ II. (DEROGADA, G.O. 3 DE MAYO DE 2011)
 
 III. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2012)</small>
+
+ARTÍCULO 31 BIS.- Para el cumplimiento de sus atribuciones, el Centro de Investigación Aplicada en Derechos Humanos, contará con:
+
+I. Una Dirección de Información e Investigación, y
+
+II. Con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
 
 ###### ARTÍCULO 32.
@@ -680,29 +686,23 @@ I. Una Dirección de Auditoría y Responsabilidades, y
 
 II. El personal profesional, técnico y administrativo necesario que al efecto establezca la o el Presidente para la adecuada realización de sus funciones.
 
-> <small>(REFORMADO, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2012)</small>
+
+ARTÍCULO 33 BIS.- La Coordinación General de Vinculación Estratégica la Secretaría Particular, las Coordinaciones de Asesores, de Interlocución Institucional y Legislativa, de Tecnologías de Información y Comunicación, contarán con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 34.
 
-El Centro de Investigación Aplicada en Derechos Humanos, la Secretaría Particular, las Coordinaciones de Asesores, de Interlocución Institucional y Legislativa, de Tecnologías de Información y Comunicación, Servicios Médicos y Psicológicos y con Instituciones de Derechos Humanos contarán con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
+Para el cumplimiento de sus atribuciones, la Coordinación de Servicios Médicos y Psicológicos contará con:
 
-> <small>(ADICIONADO, G.O. 2 DE DICIEMBRE DE 2010)</small>
+I. Una Dirección de Servicios Médicos y Psicológicos;
 
-ARTÍCULO 34 BIS.- Para el cumplimiento de sus atribuciones, la Coordinación de Relatorías contará con:
+II. Una Dirección de Atención Psicosocial, y
 
-I. Una Relatoría para la Libertad de Expresión;
+III. Con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
 
-II. Una Relatoría para la Atención a Defensoras y Defensores de Derechos Humanos;
-
-III. Una Relatoría por los Derechos de las Mujeres y la Equidad de Género;
-
-IV. Una Relatoría por los Derechos de la Infancia y de la Juventud;
-
-V. Una Relatoría por los Derechos de las Personas con Discapacidad, y
-
-VI. Con el personal profesional, técnico y administrativo necesario para el cumplimiento de sus atribuciones.
-
-Para el ejercicio de sus atribuciones, la Coordinación de Relatorías implementará mecanismos de vinculación con Organizaciones de la Sociedad Civil
+ARTÍCULO 34 BIS.- (DEROGADO, G.O. 31 DE ENERO DE 2012)
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -724,13 +724,11 @@ II. El personal profesional, técnico y administrativo necesario que al efecto e
 
 Son atribuciones de la o el Secretario Ejecutivo las siguientes:
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-I. Coordinar, dar seguimiento y evaluar las tareas programáticas, lineamientos y políticas generales a los que habrán de sujetarse las actividades sustantivas y administrativas de la Comisión bajo las directrices que instruya la o el Presidente;
+I. Coordinar, dar seguimiento y evaluar las tareas programáticas, lineamientos y políticas generales a las que habrán de sujetarse las actividades de fortalecimiento de la Comisión, bajo las directrices que instruya la o el Presidente;
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
-
-II. Coordinar, dar seguimiento y evaluar las políticas generales que en materia de Derechos Humanos proponga la o el Presidente y que deberán seguirse ante organismos públicos, sociales o privados, nacionales e internacionales;
+II. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
 
@@ -780,31 +778,49 @@ X. Brindar al Consejo el apoyo necesario para el mejor cumplimiento de sus respo
 
 XI. Auxiliar en la conducción de la sesión a la o el Presidente, en caso de que se ausente momentáneamente de la mesa del Consejo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADA, G.O. 25 DE MARZO DE 2010)</small>
+XII. Proponer y coordinar, al interior de la Comisión, el diseño y seguimiento de políticas y programas transversales que garanticen una cultura de respeto y protección al derecho humano a un medio ambiente sano, la equidad de género, la igualdad sustantiva de las personas, la no discriminación, el respeto e integración de personas con discapacidad y en general de aquellas en situación de vulnerabilidad por discriminación;
 
-XII. Proponer y coordinar el diseño y seguimiento de políticas y programas transversales que garanticen una cultura de respeto y protección al derecho humano a un medio ambiente sano, la equidad de género, la igualdad sustantiva de las personas, la no discriminación, el respeto e integración de personas con discapacidad y en general de aquellas en situación de vulnerabilidad por discriminación, y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2006)</small>
+XIII. Coordinar con el apoyo de la Dirección General de Administración, las tareas conducentes para el mejoramiento del clima laboral en la Comisión;
 
-XIII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 2011)</small>
+XIV. Coordinar las acciones de colaboración para el fortalecimiento institucional del sistema no jurisdiccional de protección de los derechos humanos;
 
-ARTÍCULO 35 BIS.- La o el Secretario de Vinculación con la Sociedad Civil e Incidencia en Políticas Públicas tendrá las atribuciones siguientes:
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+XV. Coordinar el Programa de Fortalecimiento Institucional y participar en las sesiones de los diferentes Programas de la Comisión, para atender los temas relacionados con el gobierno interno que incidan en el fortalecimiento institucional;
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
-I. Vincularse con las instancias públicas y con las organizaciones de la sociedad civil nacional e internacional, a fin de promover el análisis, la reflexión y la concientización de los derechos humanos;
+XVI. Promover y coadyuvar en las actividades de carácter cultural relacionadas con la temática de Derechos Humanos dirigida a público diverso, tanto interno como externo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 25 DE MARZO DE 2010)</small>
+XVII. Realizar las actividades tendientes a la búsqueda y procuración de fondos que permitan desarrollar proyectos específicos propuestos por los órganos y áreas de apoyo de la Comisión;
 
-II. Coadyuvar con otros actores en la promoción de los derechos humanos de las personas con discapacidad, así como en la promoción del derecho a la no discriminación en el Distrito Federal;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+XVIII. Diseñar y Coordinar las políticas y mecanismos de comunicación intra-institucional, y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+XIX. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2012)</small>
+
+ARTÍCULO 35 BIS.- La o el Secretario para la Promoción de los derechos humanos e Incidencia en Políticas Públicas tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
+
+I. Promover con las instancias públicas y con las organizaciones de la sociedad civil nacional e internacional, a fin de promover el análisis, la reflexión y la concientización de los derechos humanos;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
+
+II. Coadyuvar con otros actores en la promoción de los derechos humanos de las personas que habitan y transitan en la Ciudad de México, con especial énfasis en aquellos grupos de población altamente discriminados, como personas con discapacidad, personas adultas mayores, entre otros, así como en la promoción del derecho a la no discriminación en el Distrito Federal;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
 
@@ -838,13 +854,27 @@ IX. Incidir y promover políticas públicas en materia de derechos humanos;
 
 X. Coadyuvar con diversos actores para la promoción de políticas públicas con enfoque de derechos humanos;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XI. Dar seguimiento al Programa de Derechos Humanos en lo que le corresponde a la Comisión, y
+XI. Dar seguimiento al Programa de Derechos Humanos en lo que le corresponde a la Comisión;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
+XII. Coordinar para el logro de sus objetivos en materia de defensa, promoción, fortalecimiento de capacidades y fomento de marcos políticos y legislativos, las siguientes Relatorías:
+
+i. Relatoría para la Libertad de Expresión;
+
+ii. Relatoría para la Atención a Defensoras y Defensores de Derechos Humanos;
+
+iii. Relatoría por los Derechos de las Mujeres y la Equidad de Género;
+
+iv. Relatoría por los Derechos de la Infancia y de la Juventud;
+
+v. Relatoría por los Derechos de las Personas con Discapacidad,
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+XIII. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -872,9 +902,7 @@ III. Formular proyectos de modificaciones legislativas y reglamentarias ante div
 
 IV. Proponer y preparar los medios de control constitucional que corresponda ejercer a esta Comisión;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
-
-V. Coadyuvar en todo lo relativo a las actuaciones de la Coordinación de Relatorías;
+V. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
 
@@ -920,7 +948,9 @@ I. Atender a las personas que soliciten apoyo de la Comisión por cualquier medi
 
 II. Atender a las y los peticionarios que acudan a la Comisión, realizando una entrevista a fin de valorar si del asunto se desprende una presunta violación a los derechos humanos, a partir de lo cual se levantará acta circunstanciada de ello;
 
-III. Realizar las acciones de trabajo social mediante la recepción y atención personal de las y los peticionarios que acudan a la oficina sede de la Comisión y, en su caso, apoyar a las Unidades Desconcentradas;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
+
+III. Dar intervención a la Coordinación de Servicios Médicos y Psicológicos a fin que realice acciones de trabajo social mediante la recepción y atención personal de las y los peticionarios que acudan a la oficina sede de la Comisión y, en su caso, a las Unidades Desconcentradas;
 
 IV. Valorar que los documentos reúnan los requisitos para determinar la admisibilidad para su registro, elaborando el acuerdo correspondiente. En los casos en que la o el peticionario haya solicitado la reserva de su nombre, tomando en cuenta que los datos personales son confidenciales en términos de la Ley de Transparencia, se especificará en dicho acuerdo;
 
@@ -1004,17 +1034,23 @@ XII. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
 XIII. (DEROGADA, G.O. 2 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
+XIV. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
-XIV. Coordinar en colaboración con los órganos y áreas de apoyo correspondientes, la publicación de los mecanismos de comunicación interna de la Comisión;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 3 DE JULIO DE 2009)</small>
+XV. Coadyuvar e impulsar medidas transversales de eficiencia en el gasto que impliquen el mejor uso de los recursos materiales, humanos y tecnológicos de la Comisión;
 
-XV. Coadyuvar e impulsar medidas transversales de eficiencia en el gasto que impliquen el mejor uso de los recursos materiales, humanos y tecnológicos de la Comisión, y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+XVI. Operar el Sistema Integral de Administración, el cual registrará las operaciones presupuestarias y contables derivadas de la gestión pública, así como otros flujos económicos. Asimismo, generará estados financieros, confiables, oportunos, comprensibles, periódicos y comparables, los cuales serán expresados en términos monetarios, de conformidad con la Ley General de Contabilidad Gubernamental;
 
-XVI. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio y los ordenamientos internos aplicables.
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+XVII. Certificar todos aquellos documentos de competencia administrativa y laboral de las y los trabajadores de la Comisión, y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+XVIII. Las demás que le confiera el presente Reglamento, la o el Presidente, el Estatuto del Servicio, y los ordenamientos internos aplicables.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS AL REGLAMENTO.</small>
 
@@ -1050,9 +1086,7 @@ V. Informar a la o el Presidente sobre las denuncias que aparezcan en los medios
 
 VI. Coadyuvar en la elaboración de los instrumentos informativos que requieran los órganos y áreas de apoyo de la Comisión;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
-
-VII. Establecer y coordinar un mecanismo de comunicación intra-institucional;
+VII. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
 > <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -1098,13 +1132,11 @@ IV. Planear, organizar, dirigir, ejecutar y evaluar los programas de capacitaci�
 
 V. Participar en la realización de actividades y campañas educativas de promoción de derechos humanos;
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-VI. Vincularse con las organizaciones de la sociedad civil, así como con organismos nacionales e internacionales para realizar acciones conjuntas en apoyo a proyectos educativos en derechos humanos;
+VI. Vincularse con las organizaciones de la sociedad civil, así como con organismos nacionales e internacionales para realizar acciones conjuntas en apoyo a proyectos educativos en derechos humanos, y
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
-
-VII. Conducir y fortalecer el Centro de Consulta y Documentación de la Comisión, y
+VII. (DEROGADA, G.O. 31 DE ENERO DE 2012)
 
 VIII. (DEROGADA, G.O. 3 DE MAYO DE 2011)
 
@@ -1119,6 +1151,20 @@ XII. (DEROGADA, G.O. 3 DE MAYO DE 2011)
 > <small>(ADICIONADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
 
 XIII. Las demás que le confiera el presente Reglamento, el Estatuto del Servicio, la o el Presidente y los ordenamientos internos aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2012)</small>
+
+ARTÍCULO 38 BIS.- La Coordinación General de Vinculación Estratégica tendrá las atribuciones siguientes:
+
+I. Coordinar el Programa de Conducción Interinstitucional e impulsar las tareas de vinculación que resulten necesarias, con apoyo de la Coordinación de Asesores, la Secretaría Particular, la Coordinación de Interlocución Institucional y Legislativa y la Consultoría General Jurídica;
+
+II. Coordinar, dar seguimiento y evaluar las políticas generales que en materia de Derechos Humanos proponga la o el Presidente y que deberán seguirse ante organismos públicos, sociales o privados, nacionales e internacionales;
+
+III. Garantizar que la agenda de la Presidencia responda a la agenda estratégica de la Comisión, así como desarrollar las bases de coordinación y los mecanismos interinstitucionales necesarios a este fin;
+
+IV. Promover y dar seguimiento a los procesos de colaboración con instituciones nacionales e internacionales de derechos humanos que redunden en el posicionamiento de la agenda de la CDHDF en materia de derechos humanos, y
+
+V. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -1272,13 +1318,17 @@ XV. Elaborar los informes estadísticos, de seguimiento y de gestión, así como
 
 XVI. Salvaguardar, en el ámbito de sus atribuciones, la confidencialidad de datos personales, así como aquella información que se encuentre clasificada como reservada por esta Comisión, en términos de la Ley de Transparencia y demás normatividad en la materia;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XVII. Coordinar la realización de diagnósticos para identificar temas prioritarios en la agenda de los derechos humanos, y
+XVII. Coordinar la realización de diagnósticos para identificar temas prioritarios en la agenda de los Derechos Humanos,
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-XVIII. Las demás que le confiera el presente Reglamento, la o el Presidente, y los ordenamientos internos aplicables.
+XVIII. Conducir y fortalecer el Centro de Consulta y Documentación de la Comisión, y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2012)</small>
+
+XIX. Las demás que le confiera el presente Reglamento, la o el Presidente y los ordenamientos internos aplicables.
 
 > <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -1286,9 +1336,9 @@ XVIII. Las demás que le confiera el presente Reglamento, la o el Presidente, y 
 
 La Secretaría Particular de la Presidencia de la Comisión, tendrá las funciones que la o el Presidente establezca y contará con el personal de apoyo que sea necesario.
 
-> <small>(REFORMADO, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2012)</small>
 
-ARTÍCULO 41 BIS.- Las Coordinaciones de Asesores, de Interlocución Institucional y Legislativa, de Tecnologías de Información y Comunicación, de Servicios Médicos y Psicológicos, con Instituciones de Derechos Humanos y de Relatorías tendrán las funciones que establezca la o el Presidente.
+ARTÍCULO 41 BIS.- Las Coordinaciones de Asesores, de Interlocución Institucional y Legislativa, de Tecnologías de Información y Comunicación y de Servicios Médicos y Psicológicos, tendrán las funciones que establezca la o el Presidente.
 
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -1598,11 +1648,11 @@ La o el Secretario Ejecutivo deberá entregar a los integrantes del Consejo el p
 
 ### CAPÍTULO V. De las Visitadurías Generales
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 65.
 
-La Comisión contará con un mínimo de cuatro Visitadurías Generales y se incrementarán de conformidad con las necesidades del servicio y la disponibilidad presupuestal.
+La Comisión contará con un mínimo de cinco Visitadurías Generales y se incrementarán de conformidad con las necesidades del servicio y la disponibilidad presupuestal.
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -1610,11 +1660,11 @@ La Comisión contará con un mínimo de cuatro Visitadurías Generales y se incr
 
 La o el Visitador(a) será el o la titular de la Visitaduría General que corresponda y conocerá de procedimientos de investigación por presuntas violaciones a los derechos humanos dentro del marco de su competencia.
 
-> <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 67.
 
-Las Visitadurías Generales serán identificadas de la manera siguiente: Primera Visitaduría General, Segunda Visitaduría General, Tercera Visitaduría General, Cuarta Visitaduría General y así sucesivamente.
+Las Visitadurías Generales serán identificadas de la manera siguiente: Primera Visitaduría General, Segunda Visitaduría General, Tercera Visitaduría General, Cuarta Visitaduría General, Quinta Visitaduría General y así sucesivamente.
 
 > <small>(REFORMADO, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -1686,9 +1736,11 @@ III. Solicitar en cualquier momento a las autoridades competentes que se tomen l
 
 IV. Solicitar en casos urgentes a las autoridades federales y a las entidades federativas que, de manera inmediata se tomen las medidas precautorias, de conservación o de restitución necesarias ante las presuntas violaciones a los derechos humanos de que tenga conocimiento;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-V. Allegarse, con apoyo de la Coordinación de Servicios Médicos y Psicológicos, del certificado médico de lesiones y, si es necesario, de los análisis clínicos, tanto de laboratorio como de gabinete, cuando la parte quejosa refiera haber sido objeto de tortura, tratos crueles, inhumanos o degradantes. Asimismo, en los casos relativos a presuntas violaciones al derecho a la libertad de pensamiento y expresión, a los derechos de las mujeres, infancia, juventud, personas con discapacidad, defensoras y defensores de derechos humanos, podrán solicitar la intervención de la Coordinación de Relatorías en el marco de sus atribuciones;
+V. Allegarse, con apoyo de la Coordinación de Servicios Médicos y Psicológicos, del certificado médico de lesiones y, si es necesario, de los análisis clínicos, tanto de laboratorio como de gabinete, cuando la parte quejosa refiera haber sido objeto de tortura, tratos crueles, inhumanos o degradantes. Aunado a ello, podrán solicitar el apoyo de dicha Coordinación para la detección, atención, seguimiento, fortalecimiento y, en su caso, emisión de opiniones técnicas de casos que requieren apoyo psicosocial especializado.
+
+Asimismo, en los casos relativos a presuntas violaciones al derecho a la libertad de pensamiento y expresión, a los derechos de las mujeres, infancia, juventud, personas con discapacidad, defensoras y defensores de derechos humanos, podrán solicitar la intervención de la Secretaría para la promoción de los derechos humanos e incidencia en políticas públicas, en el marco de sus atribuciones;
 
 > <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
 
@@ -1726,9 +1778,9 @@ I. (DEROGADA, G.O. 4 DE ENERO DE 2008)
 
 II. Dos Direcciones de Área;
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2012)</small>
 
-III. El apoyo de la Coordinación de Servicios Médicos y Psicológicos y de la Coordinación de Relatorías;
+III. El apoyo de la Coordinación de Servicios Médicos y Psicológicos y de la Secretaría para la promoción de los derechos humanos e incidencia en políticas públicas;
 
 > <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2010)</small>
 
@@ -2697,3 +2749,9 @@ G.O. 3 DE MAYO DE 2011.
 Artículo Primero. Las presentes reformas, adiciones y derogaciones al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, aprobadas en sesión ordinaria de fecha diecinueve de abril de 2011, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, derogando las disposiciones que las contravengan.
 
 Artículo Segundo. Los procedimientos de investigación y de seguimiento así como los de la Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforma, adiciona y deroga, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+G.O. 31 DE ENERO DE 2012.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, aprobadas en sesión ordinaria de fecha veinticuatro de enero de 2012, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, derogando las disposiciones que las contravengan.
+
+SEGUNDO. Los procedimientos de investigación y de seguimiento, así como los de Contraloría Interna y del Servicio Profesional en Derechos Humanos, que se hayan iniciado conforme a las disposiciones del Reglamento Interno que se reforman, adicionan y derogan, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
