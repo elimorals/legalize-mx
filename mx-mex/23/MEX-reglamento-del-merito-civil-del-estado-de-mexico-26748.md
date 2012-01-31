@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-merito-civil-del-estado-de-mexico-26748"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2006-10-23"
+last_updated: "2012-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,19 @@ state: "MEX"
 ---
 # REGLAMENTO DEL MERITO CIVIL DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL MERITO CIVIL DEL ESTADO DE MEXICO
+REGLAMENTO DEL MÉRITO CIVIL DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2012.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 30 de agosto de 2002.
 
-ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCION IV DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2, 7 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE MEXICO, Y
+ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 77 FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2, 7 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MEXICO, Y
 
 C O N S I D E R A N D O...
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DEL MERITO CIVIL DEL ESTADO DE MEXICO
+REGLAMENTO DEL MÉRITO CIVIL DEL ESTADO DE MÉXICO
 
 ### CAPITULO PRIMERO. DEL OBJETO DEL REGLAMENTO
 
@@ -499,15 +499,21 @@ El otorgamiento de un reconocimiento especial no inhabilita para obtener alguna 
 
 Los reconocimientos especiales serán entregados en ceremonia pública por el Titular del Ejecutivo del Estado.
 
-### CAPITULO SEPTIMO. DE LA INHUMACION EN LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE MEXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE ENERO DE 2012)</small>
+
+### CAPITULO SEPTIMO. DE LA INHUMACION EN LA ROTONDA DE LAS PERSONAS ILUSTRES DEL ESTADO DE MEXICO
+
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 73.
 
-El Gobernador del Estado tiene la facultad exclusiva para decretar, previo estudio de las personalidades que se consideren ilustres en el Estado, la inhumación de sus restos en la Rotonda de los Hombres Ilustres del Estado de México, creada exprofeso dentro del Cementerio Municipal, de la ciudad de Toluca de Lerdo.
+El Gobernador del Estado tiene la facultad exclusiva para decretar, previo estudio de las personalidades que se consideren ilustres en el Estado, la inhumación de sus restos en la Rotonda de las Personas Ilustres del Estado de México, creada exprofeso dentro del Cementerio Municipal, de la ciudad de Toluca de Lerdo.
+
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 74.
 
-Podrán los Ayuntamientos, las organizaciones culturales, científicas, cívicas y políticas de la Entidad, elevar su solicitud al Gobierno del Estado, para que los restos de un ciudadano mexiquense sean inhumados en la Rotonda de los Hombres Ilustres del Estado de México.
+Podrán los Ayuntamientos, las organizaciones culturales, científicas, cívicas y políticas de la Entidad, elevar su solicitud al Gobierno del Estado, para que los restos de un ciudadano mexiquense sean inhumados en la Rotonda de las Personas Ilustres del Estado de México.
 
 ###### Artículo 75.
 
@@ -521,11 +527,11 @@ La ceremonia de la inhumación será solemne, y deberá observar las formalidade
 
 En todo caso, la ceremonia de inhumación será presidida por el Titular del Ejecutivo, o bien el representante que él designe. Asimismo, se convocará a los titulares o representantes de los Poderes Legislativo y Judicial de la Entidad.
 
-> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 78.
 
-La Secretaría de Educación, imprimirá un Libro que contendrá la relación biográfica de aquellos que, por haber merecido el reconocimiento del Estado, están inhumados en la Rotonda de los Hombres Ilustres del Estado de México, agregándose las solicitudes que se hubieren presentado para decretar la inhumación y los documentados en que ésta se fundamenta.
+La Secretaría de Educación, imprimirá un Libro que contendrá la relación biográfica de aquellos que, por haber merecido el reconocimiento del Estado, están inhumados en la Rotonda de las Personas Ilustres del Estado de México, agregándose las solicitudes que se hubieren presentado para decretar la inhumación y los documentados en que ésta se fundamenta.
 
 T R A N S I T O R I O S
 
@@ -568,3 +574,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- El siguiente otorgamiento de las Preseas "Estado de México", será en el año 2008.
+
+G.G. 31 DE ENERO DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Acuerdo.
